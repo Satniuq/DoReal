@@ -1,0 +1,3 @@
+- C001 ⟂ tipologias psicológicas clássicas
+- C002 → debates sobre automatismo e consciência
+- T001 → possível diálogo com psicologia política
