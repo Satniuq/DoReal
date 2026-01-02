@@ -618,3 +618,90 @@ Conflito entre ética enquanto proposição verdadeira e ética enquanto descarg
 **Origem:** F0050
 
 Tensão entre posições relativistas e a existência de verdades necessárias do real.
+
+
+## E103 — relação vs substância
+**Origem:** F0051
+
+Contraste entre ontologia relacional e ontologia substancialista.
+
+---
+
+## E104 — real vs processo formal
+**Origem:** F0051
+
+Diferença entre o real enquanto fundamento e o processo enquanto descrição parcial.
+
+## E105 — apreensão vs pensamento
+**Origem:** F0052
+
+Distinção entre contacto sensorial com objetos e reflexão sobre representações.
+
+---
+
+## E106 — existência vs externalização do real
+**Origem:** F0052
+
+Contraste entre estar inserido no real e tratá-lo como algo externo.
+
+## E107 — deteção vs reconhecimento
+**Origem:** F0053
+
+Passagem do sensorial animal ao representacional humano.
+
+---
+
+## E108 — círculos menores vs círculos maiores
+**Origem:** F0053
+
+Adequação diferencial dos modos de ser conforme a escala do contexto.
+
+## E109 — linguagem como meio vs linguagem como fim
+**Origem:** F0054
+
+Tensão entre linguagem referencial e linguagem autorreferencial.
+
+---
+
+## E110 — sistema inserido no real vs sistema fechado
+**Origem:** F0054
+
+Diferença entre sistemas com referência ontológica e sistemas puramente discursivos.
+
+## E111 — determinismo/aleatoriedade vs campo de possibilidades
+**Origem:** F0055
+
+Conflito entre dilema metafísico clássico e a noção de liberdade como possibilidades situadas.
+
+---
+
+## E112 — mecanicismo vs reflexividade
+**Origem:** F0055
+
+Distinção entre automatismos e ponto de vista reflexivo que molda representações.
+
+---
+
+## E113 — factos práticos vs metafísica abstrata
+**Origem:** F0055
+
+Evidência quotidiana (ação eficaz) como critério contra reduções abstratas mal categorizadas.
+
+## E114 — implícito vs explícito na adequação ao real
+**Origem:** F0056
+
+Diferença entre viver conforme o real e tematizá-lo reflexivamente.
+
+---
+
+## E115 — emoção vs reflexão
+**Origem:** F0056
+
+Primazia emocional como consequência energética e adaptativa.
+
+---
+
+## E116 — forma vs fundação
+**Origem:** F0056
+
+Conflito entre linguagem/conceito e realidade estruturante.

@@ -1660,3 +1660,183 @@ Separação indevida da consciência como entidade autónoma face à realidade.
 
 Capacidade de representar cadeias de objetos, relações e movimentos no tempo.
 
+## C221 — consciência como relação
+**Origem:** F0051  
+**Estado:** central
+
+A consciência definida ontologicamente como relação representacional, não como substância.
+
+---
+
+## C222 — verdade como nome do real
+**Origem:** F0051  
+**Estado:** central
+
+Identificação da verdade com aquilo que efetivamente é.
+
+---
+
+## C223 — unificação ontológica dos círculos
+**Origem:** F0051  
+**Estado:** central
+
+Integração de minicírculos (ética, consciência, valor) num único plano do real.
+
+---
+
+## C224 — eficiência energética do erro
+**Origem:** F0051  
+**Estado:** central
+
+Tendência dos modos de ser não verdadeiros a prevalecerem por menor custo energético.
+
+## C225 — inevitabilidade da racionalidade
+**Origem:** F0052  
+**Estado:** central
+
+A racionalidade como consequência necessária das condições biológicas e ambientais humanas.
+
+---
+
+## C226 — pensar como metarrepresentação
+**Origem:** F0052  
+**Estado:** central
+
+Pensar entendido como operação sobre pensamentos e não diretamente sobre objetos.
+
+---
+
+## C227 — normatividade derivada da existência
+**Origem:** F0052  
+**Estado:** central
+
+Extração do bem e do mal a partir do simples facto de existir no real.
+
+---
+
+## C228 — bem como agir a favor do real
+**Origem:** F0052  
+**Estado:** central
+
+Identificação do bem com a ação conforme a realidade e o campo das possibilidades.
+
+## C229 — real como limite construtivo
+**Origem:** F0053  
+**Estado:** central
+
+O real enquanto estrutura que limita e possibilita toda a ação e construção.
+
+---
+
+## C230 — reconhecimento vs deteção
+**Origem:** F0053  
+**Estado:** central
+
+Distinção entre mera deteção sensorial e reconhecimento representacional consciente.
+
+---
+
+## C231 — arquétipo como memória emocional do real
+**Origem:** F0053  
+**Estado:** central
+
+Arquétipos entendidos como sedimentações emocionais de experiências reais adaptativas.
+
+---
+
+## C232 — inadequação do emocional a círculos maiores
+**Origem:** F0053  
+**Estado:** central
+
+O comportamento emocional é adequado a círculos pequenos, mas falha em escalas civilizacionais.
+
+## C233 — linguagem como exteriorização de estados mentais
+**Origem:** F0054  
+**Estado:** central
+
+A fala surge como meio necessário de partilha de estados mentais num contexto social.
+
+---
+
+## C234 — exaustão intelectual do sistema
+**Origem:** F0054  
+**Estado:** central
+
+Tendência humana para levar um sistema até ao seu limite formal, retirando-lhe toda a carga referencial.
+
+---
+
+## C235 — autonomização do discurso
+**Origem:** F0054  
+**Estado:** central
+
+Processo pelo qual a linguagem passa a referir apenas a si própria, desligando-se do real.
+
+---
+
+## C236 — separação linguagem–objeto
+**Origem:** F0054  
+**Estado:** central
+
+Rutura entre discurso e realidade que inviabiliza qualquer critério de verdade ou correção.
+
+## C237 — liberdade como campo de possibilidades
+**Origem:** F0055  
+**Estado:** central
+
+Livre-arbítrio entendido como escolha dentro do campo de possibilidades próprio do ser humano.
+
+---
+
+## C238 — erro categorial no livre-arbítrio
+**Origem:** F0055  
+**Estado:** central
+
+Erro de avaliar liberdade num círculo ontológico que não é o círculo humano.
+
+---
+
+## C239 — deliberação como acesso representacional reflexivo
+**Origem:** F0055  
+**Estado:** central
+
+Deliberar é operar sobre representações da realidade com reflexividade.
+
+---
+
+## C240 — prova prática da liberdade
+**Origem:** F0055  
+**Estado:** central
+
+Exemplos quotidianos (condução, ação instrumental) como evidência funcional da agência.
+
+## C241 — orientação implícita vs explícita ao real
+**Origem:** F0056  
+**Estado:** central
+
+A adequação ao real pode operar sem reflexão explícita; a diferença é de grau, não de natureza.
+
+---
+
+## C242 — custo energético da reflexividade
+**Origem:** F0056  
+**Estado:** central
+
+Pensamento reflexivo exige mais energia, favorecendo a primazia emocional como adaptação.
+
+---
+
+## C243 — arquétipo parental como estrutura real
+**Origem:** F0056  
+**Estado:** central
+
+A função do pai não é ideal normativo, mas necessidade estrutural relacional.
+
+---
+
+## C244 — erro da absolutização do termo
+**Origem:** F0056  
+**Estado:** central
+
+Tomar linguagem, forma ou conceito como totalidade da análise é erro ontológico.
+

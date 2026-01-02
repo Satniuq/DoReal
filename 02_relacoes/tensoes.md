@@ -594,3 +594,75 @@ As emoções influenciam o agir humano, mas não fundam a verdade ética.
 **Fragmento:** F0050
 
 O emergente depende da estrutura que o permite, não a substitui.
+
+## Tensão 101 — adaptação energética vs verdade ontológica
+**Fragmento:** F0051
+
+O que é energeticamente eficiente não é necessariamente verdadeiro.
+
+---
+
+## Tensão 102 — linguagem vs mundo
+**Fragmento:** F0051
+
+O jogo da linguagem pressupõe um mundo que não se reduz ao jogo.
+
+## Tensão 103 — mediação cognitiva vs realidade direta
+**Fragmento:** F0052
+
+Todo o acesso ao real é mediado, sem que isso negue o real.
+
+---
+
+## Tensão 104 — descrição do real vs normatividade
+**Fragmento:** F0052
+
+A passagem do descritivo ao valorativo depende do campo do poder-ser.
+
+## Tensão 105 — liberdade vs limitação pelo real
+**Fragmento:** F0053
+
+A ação é livre apenas dentro dos limites impostos pela realidade.
+
+---
+
+## Tensão 106 — emocionalidade adaptativa vs racionalidade civilizacional
+**Fragmento:** F0053
+
+O que é adaptativo localmente pode ser destrutivo em larga escala.
+
+## Tensão 107 — expressão do real vs autonomização do discurso
+**Fragmento:** F0054
+
+A linguagem pode servir o real ou substituir-se a ele.
+
+---
+
+## Tensão 108 — impossibilidade normativa aparente vs erro categorial
+**Fragmento:** F0054
+
+A ausência de critérios resulta da retirada do plano ontológico, não da sua inexistência.
+
+## Tensão 109 — níveis ontológicos vs exigência de unificação
+**Fragmento:** F0055
+
+O real inclui múltiplos níveis; confundir níveis destrói o critério de liberdade.
+
+---
+
+## Tensão 110 — automatismo eficaz vs agência deliberada
+**Fragmento:** F0055
+
+Ações automáticas coexistem com deliberação, sem que uma elimine a outra.
+
+## Tensão 111 — reflexão necessária vs reflexão excessiva
+**Fragmento:** F0056
+
+Refletir pode revelar o real, mas também afastar-se dele quando se absolutiza a forma.
+
+---
+
+## Tensão 112 — adaptação local vs universalização abstrata
+**Fragmento:** F0056
+
+Modos de ser locais são verdadeiros no seu círculo, mas perdem-se quando universalizados formalmente.

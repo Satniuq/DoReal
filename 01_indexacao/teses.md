@@ -1283,3 +1283,175 @@ A ética fundamental decorre da estrutura da existência humana, não de emoçõ
 **Estado:** em teste avançado
 
 A capacidade representacional humana funda imaginação e criatividade pela manutenção de coerências do real.
+
+## T174
+**Origem:** F0051  
+**Estado:** central
+
+A consciência não é substância, mas relação.
+
+---
+
+## T175
+**Origem:** F0051  
+**Estado:** central
+
+A verdade é simplesmente o real adequadamente descrito.
+
+---
+
+## T176
+**Origem:** F0051  
+**Estado:** em teste avançado
+
+Modos de ser não verdadeiros dominam por eficiência adaptativa e energética.
+
+---
+
+## T177
+**Origem:** F0051  
+**Estado:** central
+
+O formalismo filosófico falha quando ignora o plano real onde a linguagem opera.
+
+## T178
+**Origem:** F0052  
+**Estado:** central
+
+A racionalidade humana é biologicamente inevitável.
+
+---
+
+## T179
+**Origem:** F0052  
+**Estado:** central
+
+Pensar é operar sobre representações, não sobre objetos diretamente.
+
+---
+
+## T180
+**Origem:** F0052  
+**Estado:** em teste avançado
+
+O bem pode ser derivado ontologicamente da inserção do ser humano no real.
+
+---
+
+## T181
+**Origem:** F0052  
+**Estado:** central
+
+Agir a favor do real, dentro do poder-ser, define o valor positivo das ações.
+
+## T182
+**Origem:** F0053  
+**Estado:** central
+
+Conhecer o real implica agir dentro dos seus limites estruturais.
+
+---
+
+## T183
+**Origem:** F0053  
+**Estado:** central
+
+A evolução humana valida o real como critério de florescimento.
+
+---
+
+## T184
+**Origem:** F0053  
+**Estado:** central
+
+A consciência emerge da representação manipulável e socialmente comunicável.
+
+---
+
+## T185
+**Origem:** F0053  
+**Estado:** central
+
+Modos emocionais adequados a círculos menores tornam-se disfuncionais em círculos maiores.
+
+## T186
+**Origem:** F0054  
+**Estado:** central
+
+A linguagem nasce da necessidade de expressar estados mentais num contexto social.
+
+---
+
+## T187
+**Origem:** F0054  
+**Estado:** central
+
+A intelectualização extrema de um sistema tende a autonomizar a linguagem.
+
+---
+
+## T188
+**Origem:** F0054  
+**Estado:** central
+
+A impossibilidade de juízos normativos decorre da exclusão do real, não de uma limitação ontológica.
+
+## T189
+**Origem:** F0055  
+**Estado:** central
+
+O dilema determinismo/aleatoriedade falha por omitir o plano das possibilidades humanas.
+
+---
+
+## T190
+**Origem:** F0055  
+**Estado:** central
+
+A liberdade humana existe enquanto escolha dentro do campo de possibilidades do ser consciente.
+
+---
+
+## T191
+**Origem:** F0055  
+**Estado:** em teste avançado
+
+A manipulação reflexiva de representações não se reduz a mecanicismo simples.
+
+---
+
+## T192
+**Origem:** F0055  
+**Estado:** central
+
+O bem emerge da conformidade prática com a estrutura do real em toda a ação instrumental.
+
+## T193
+**Origem:** F0056  
+**Estado:** central
+
+A orientação correta ao real não exige esforço extraordinário, apenas não contrariar a estrutura do ser.
+
+---
+
+## T194
+**Origem:** F0056  
+**Estado:** central
+
+A emoção é a estratégia adaptativa dominante devido ao custo energético da reflexão.
+
+---
+
+## T195
+**Origem:** F0056  
+**Estado:** central
+
+A verdade é relacional: depende da estrutura das relações no real, não de termos isolados.
+
+---
+
+## T196
+**Origem:** F0056  
+**Estado:** central
+
+A intelectualização desligada do real é um erro recorrente do pensamento supostamente sábio.
