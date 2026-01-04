@@ -270,3 +270,702 @@ Argumento sobre livre-arbítrio: ou tudo é determinado, ou é aleatório/sem ca
 ## F0056 — 2026-01-02
 
 A orientação ao real não requer esforço super-humano: ser bom pai implica simplesmente sê-lo, não abandonar o filho sem o arquétipo permanente do pai. Quer essa orientação resulte de mecanicidade do ser, de pensamento deliberativo ou de ação voluntária com livre-arbítrio é irrelevante; o critério é sempre o real. A diferença é apenas entre o implícito e o explícito. O custo energético do pensamento reflexivo faz com que a tendência natural seja a primazia da emoção, o que confirma a adequação evolutiva do homem enquanto animal inserido no real. As características humanas evoluem dentro do real, como mostram adaptações biológicas locais (ex.: populações humanas com maior capacidade de retenção de oxigénio em certos contextos ambientais). Cada grupo humano adapta-se ao seu círculo de realidade, e isso é bom porque é conforme ao real vivido. Se a vida é relacional, então a verdade depende sempre da estrutura da relação. O erro grave do pensamento supostamente sábio é transformar o termo, a linguagem ou a forma intelectualizada na totalidade da análise, desligando-a da fundação real. Há apenas dois modos fundamentais de ser: o que esquece que pisa a terra para andar, e o que acha que o problema está nos sapatos.
+
+## F0057 — Dialética, representação e falha ontológica
+
+As virtudes de Aristóteles não serão apenas a sistematização ou a explicitação de modos de ser verdadeiros, pela identificação dos arquétipos do ser humano. Mas no próprio Aristóteles se nota a incompletude ou a dificuldade da análise exterior a nós mesmos e por isso a compartimentalização do real nas quatro ou cinco causas que ele lá propõe.
+
+A tese, a antítese e a síntese são também modos de integrar o ser, colocando aquilo que o conhece dentro do ser pela própria necessidade ontológica. Contudo, quando a dialética é tomada como estrutura autónoma — como início e fim — e usada como critério do verdadeiro ou do bom, falha necessariamente, e tem falhado sempre.
+
+Essa falha repete-se quando estruturas intelectuais passam a operar como modos de ser normalizados em larga escala. O ser humano tende a viver segundo representações culturais que cria para tornar o real funcionalmente digerível. Uma vez interiorizadas, essas representações tornam-se o modo de operar por defeito sobre a realidade.
+
+Assim, quando se conhece que Deus não existe, passa-se a viver como se Deus não existisse. Do mesmo modo, conhecer o homem como livre e digno implica necessariamente um certo caminho de ser.
+
+## F0058 — Possibilidade, representação, relação e atualidade do ser
+
+No campo das possibilidades do ser, uma espécie capaz de construir casas necessita da representação de casas, o que implica a agregação. Quanto mais complexa se torna a representação da casa, mais se estende o conhecimento do real, ou uma coisa acompanha a outra.
+
+Saber que é necessário um telhado não é não querer ver as estrelas, mas reconhecer que o real em que se habita inclui a chuva. O espanto reside em como se tenta retirar o homem do ser, ou a consciência do ser, e em como se procura retirar o valor do homem — que é apenas o homem a existir — de um meio criado pelo próprio homem.
+
+O ser permitiu as criações do homem; o homem não criaria se o ser não o permitisse. O homem é diferente, tal como uma pedra é diferente de uma árvore. Toda a teoria da física moderna descreve estas regras, incluindo a conservação de energia.
+
+Dentro de um círculo de existência que existe no ser, não pode haver disfuncionalidade contra o ser. Também na física quântica, mesmo quando não há uma posição determinada, há ainda posição; há emergência, mas não surgimento do nada. O colapso não é arbitrário: é necessidade do ser. Para haver colapso, o ser tem de se conhecer a si mesmo, o que implica atualidade.
+
+O ponto ontológico é que, se há relação, essa relação não pode existir apenas como potencialidade. Pode sê-lo em quase todos os casos, mas enquanto relação — como ser a tocar o ser — tem de ser atual.
+
+## F0059 — Detecção, mediação e círculos do viver
+
+Do ponto de vista humano e animal, a relação com o real começou pela deteção. Do ponto de vista celular, na sopa primórdica, essa relação manifestava-se em processos de ingestão, separação e colisão. Esse processo foi-se refinando até à emergência de órgãos sensoriais — olhos, ouvidos, membranas sensíveis — para apreender o exterior ao organismo, mas também o interior, permitindo reconhecer estados como fome, saciedade ou excreção.
+
+Essa relação não é estranha nem excecional; decorre da própria existência do ser. Contudo, as regras que explicam o ser humano enquanto animal deixam de ser suficientes quando o animal deixa de viver diretamente no ambiente e passa a viver naquilo que representa que o ambiente é. O plano ontológico altera-se: passam a existir círculos distintos.
+
+É a maximização da mediação — o aperfeiçoamento da descrição — que torna possíveis as inovações humanas. Não poderia ser de outra forma. Mesmo os estados de coisas mais maléficos e dolorosos, frequentemente atribuídos ao homem enquanto fonte do mal, pertencem ao real. Essa crítica esquece que é também o homem quem pode transformar esses estados em melhores estados de coisas, porque só o homem consegue abarcar e integrar todos os nichos do real.
+
+## F0060 — Respostas às objeções sobre bem, verdade e ser
+
+1. O dever moral é o dever-ser que é real porque limitado pelo pode-ser. O chamado gap existe apenas pelo esquecimento de que o livre-arbítrio do homem não é critério absoluto do bem, pois só existe onde o real o permite. Não há gap: há melhor ou pior descrição do real. O que deve ser é sempre o que é, ainda que não esteja atuado.
+
+2. Claro que para cada modo de existir há diferentes modos de ser. Alguns valores são adequados a círculos menores, mas valores relativos a círculos maiores nada têm que ver com as relações internas dos círculos menores. Isso suporta a teoria, não a refuta.
+
+3. Não há redução a função biológica. Trata-se da função ontológica do ser: o ser é função de si mesmo, senão não seria. A biologia aplica-se aos organismos; a ontologia não se reduz a isso.
+
+4. Se algo é verdadeiro, como não será então bom? A distinção apresentada não faz sentido ontológico.
+
+5. O mal é simplesmente o ser que podia ser melhor descrito e melhor aplicado no dever-ser e não o faz. O erro é pensar que do céu cai ouro. O mal é esquecer que cada homem é o ser a olhar para si mesmo.
+
+6. A criatividade não viola o real. Parte de um órgão que cria representações imagéticas complexas e que só existe porque o real existe. Toda a ontologia é estruturalmente determinista. A vida animal do homem é o chão a partir do qual o homem pode escolher o próximo passo e quebrar cadeias causais.
+
+7. A confusão existe apenas porque o homem moderno pensa fora do real.
+
+8. O conhecimento empírico mostra que o ser reflexivo que vive sabendo o que é é o melhor em todos os critérios de avaliação — biológico, antropológico, sociológico — em qualquer sistema ético, do deontológico ao utilitarista ou emotivista.
+
+9. É tautológico por necessidade do ser, visto que o agir existe dentro do real.
+
+10. A objeção é tão parva que nem merece resposta.
+
+## F0061 — Necessidade ontológica, potencialidade e critério do melhor modo de ser
+
+A questão fundacional não é a consciência em si, mas a existência de um ser onde algo conhece o ser. A tendência da existência e do tempo é a de perdurar estruturas do ser, pois sem isso não haveria movimento nem qualquer permanência. Não se afirma que a consciência seja necessária; fala-se antes de uma necessidade ontológica de raiz, um solo onde a árvore pode crescer, existente no plano das possibilidades e do virtual.
+
+Dado um ser que reconhece o ser e que pode existir livremente dentro dele, o melhor modo de ser tem sempre de recair na necessidade de como o ser é. O que emerge das relações do que existe, quando não é meramente mecanicista, possui um campo de aplicação potencial muito superior, especialmente no ser que consegue moldar parte do ser.
+
+A direção necessária é sempre a do campo onde a potencialidade existe. Quanto mais se avança na concretização de potencialidades — simples ou complexas — mais aí residem o bem e a verdade. Trata-se de uma representação processual básica a partir da qual tudo nasce.
+
+Os modos de ser reduzem-se sempre a dois: viver segundo as potencialidades ou não viver segundo elas; viver conforme o modo que é ou apenas pensar sobre o que pode ser. Em contexto social, à escala macro, não são as relações de poder que explicam o fluxo, mas a melhor descrição da realidade. Quem possui o melhor conhecimento do real alcança campos de potencialidade ainda não descobertos.
+
+A dúvida sobre o dever-ser permanece apenas no erro categorial e no erro de descrição. Se a descrição é o único modo de validação do pensamento humano, é nela que recai o critério do bom e do verdadeiro. Tudo o que existe consciente só pode ou representar o que existe ou não o representar.
+
+Não há reconhecimento ideal nem consciência absoluta: há o universo a conhecer-se nas condições específicas do animal humano, limitado pelo seu corpo, pelo seu meio e pela sua história evolutiva. Qualquer ideia de consciência universal sem meio é um absurdo ontológico.
+
+O campo das potencialidades do ser consciente é múltiplo, permitindo tantos modos de ser quantos seres conscientes existirem. Qualquer modo de ser que não elimine outros nem contradiga o real é permitido pelo ser. Não há condenação ontológica por não ser outro modo de ser, nem aspiração heroica necessária.
+
+O valor é uma abstração da potencialidade não atualizada. O juízo sobre o que é melhor ou desejável depende sempre da relação entre potencialidades. Um juízo será tanto mais verdadeiro quanto melhor descrever o real, e não quanto mais se aproximar de um dever-ser abstrato.
+
+## F0062 — Consciência reflexiva, ampliação das potencialidades e erro por forma
+
+O campo das potencialidades existe independentemente da consciência. Mesmo sem ser consciente, o vento poderia empurrar uma rocha para cair a cinco ou a seis metros; a formação de uma rocha poderia ter sido diferente por uma variação ínfima da massa de uma estrela. O campo das potencialidades está inscrito no ser.
+
+O que o homem faz, enquanto consciência reflexiva, é ampliar esse campo de potencialidades e tocar nessas potencialidades. Não apenas por refletir sobre o universo, mas por poder orientar o movimento da existência num certo sentido. O campo que se abre com a consciência reflexiva torna-se direcionável pela própria consciência reflexiva.
+
+Todas as sociedades humanas manifestam isto. Qualquer civilização pode viver segundo um modo de ser e justificá-lo pela própria existência desse modo de ser. O homem tende a viver sobre as formas que cria — processos, representações, relações — e a adaptar-se a elas, tomando-as como critério do melhor modo de ser.
+
+Exemplos de modos de ser internamente coerentes incluem sociedades que consideram legítimo que as mulheres não sejam livres como os homens, justificando isso por autoridades simbólicas internas. Dentro desse círculo, há coerência. No entanto, círculos ontológicos superiores mostram que não é o melhor modo de ser, critério que se mede pela capacidade de alargamento ao real.
+
+As sociedades que inovam são as que permitem ao homem conhecer o real. Isso foi reconhecido quando se identificou a liberdade como característica humana e se fundiu essa característica com a ideia de que cada homem é livre, permitindo a emergência das sociedades mais amplas e tecnicamente avançadas.
+
+Contudo, viver sobre a representação do real, em larga escala, leva o sistema a viver sobre si próprio e a afirmar que a liberdade permite negar a realidade. Essa posição falha, pois ninguém existe sozinho: para um existir, tudo o resto tem de existir. Caso contrário, cai-se no absurdo de múltiplos sujeitos reivindicarem ser critério último da realidade.
+
+Essa falha conduz a devaneios em que se afirma, por exemplo, que um homem é uma mulher apenas por se sentir como tal. O erro decorre do desconhecimento do próprio campo de potencialidades do ser consciente, que só pode ser conhecido pela exploração efetiva, passo a passo.
+
+A ação e a reflexão operam em repetição contínua. O instinto animal tende a preservar o modo de ser anterior; não cria um novo ser a cada instante. A memória e o pensamento emergem de mapas neurológicos fisicamente ancorados em pensamentos anteriores. Sem isso, qualquer opinião seria diferente a cada tentativa de pensar.
+
+A mudança de modos de ser implica sempre destruição e sacrifício energético, contrariando a autopreservação do sistema. Por isso, o comportamento por defeito é permanecer nos mesmos modos de ser, que mantêm coerência interna.
+
+As novas possibilidades iluminam apenas uma parte do espaço; o resto permanece igual. Se não houvesse limitação animal, toda a estrutura se deslocaria imediatamente para o novo espaço, o que tornaria impossível a estabilidade. O corpo funciona porque as células permanecem no seu círculo funcional; se tentassem viver fora dele, a estrutura desintegrar-se-ia.
+
+## F0063 — O bem, os círculos ontológicos e a degeneração institucional
+
+Perguntar qual é o valor do bem na ação humana ou qual é o bem no homem conduz facilmente a uma inversão da análise. Perguntar se comer uma torrada é bom ou se prejudica os cereais, de que o pão é feito, pertence a um nível menor. O bem está sempre limitado pelos círculos maiores. Os círculos menores operam dentro da liberdade que os círculos maiores proporcionam.
+
+Os círculos maiores são as deduções ontológicas do real. Numa sociedade, os modos de ser corretivos estruturam representações do bem que condicionam os modos de ser coletivos e, depois, os individuais. Quando o critério do bem está assente no real e na verdade, isso é suficiente para permitir a liberdade humana; a ação mundana recorrente deixa de ter o mesmo estatuto que o bem.
+
+Identificando as estruturas ontológicas basilares — o ser consciente que existe no ser — torna-se despropositado avaliar moralmente cada ação corrente. A confusão surge porque o homem vive nos processos que cria ou que o envolvem. O imediato passa a ser confundido com o bem.
+
+Existem apenas dois modos de ser: o modo orientado pela verdade e o modo de criação do labirinto onde o homem se movimenta. O início e o fim dos problemas ficam encerrados no sistema local em que se vive. Daí a confusão de termos.
+
+As verdades ontológicas permanecem para além da morte dos homens, primeiro pela repetição simbólica (músicas, histórias, danças) e depois pelas instituições, entendidas como centros de descrições verdadeiras basilares. As instituições degeneram quando passam da descrição do real para a intelectualização formal, tornando-se labirintos em vez de espaços de descoberta.
+
+Como o homem é livre dentro dos limites do real, as verdades ontológicas intergeracionais que se pretendem preservar devem corresponder ao real. Não é necessário um tratado para enunciar essas verdades: basta reconhecer que o homem é necessariamente livre e digno.
+
+Qualquer estrutura que contenha o homem, se quiser ser boa, tem de assumir essas verdades como pressuposto de qualquer proposição. Os valores sociais, enquanto entidades autónomas, não existem; o valor de um sistema depende do modo de existir que o homem faz dele.
+
+A comparação entre civilizações mostra isto: a Constituição norte-americana, com poucos artigos, assenta na ideia de que o existir precede o ser; a Constituição portuguesa, extensa, assenta na ideia de que o ser cria o existir. Apesar disso, ambas chegam às mesmas soluções nos círculos menores, por reconhecerem a liberdade e dignidade humanas.
+
+As soluções jurídicas são versões escritas e duráveis de descrições verdadeiras do que se deve ou não fazer, permitindo à instituição prolongar-se para além da vida dos seus criadores. Nenhuma dessas soluções nasce de uma análise ontológica explícita; surgem da imediaticidade da vida vivida com outros.
+
+Ambas as formas institucionais podem degenerar no modo de ser humano por defeito de viver no processo. A diferença é que uma expande o campo das potencialidades, enquanto a outra tenta primeiro regular o interruptor e só depois acender a luz.
+
+## F0064 — Infância, círculos do real e degeneração do sistema
+
+A mudança de perspetiva entre a criança e o adulto decorre da própria definição de ser criança: conhecer o mundo exterior e conhecer-se a si próprio de forma objetiva. Essa mudança ocorre quando o ser assume a crença necessária de que a sua vida lhe pertence e que terá de viver essa vida por sua conta. Essa passagem implica uma alteração de círculos ontológicos.
+
+A criança encontra-se inicialmente no interior de um círculo maior, procurando expandir o seu ser nesse círculo amplo da realidade. Quando se torna consciente de que a sua vida é irredutivelmente a sua, passa a localizar-se no seu próprio círculo. Como os adultos são as crianças que foram, quanto mais real existir no mundo das crianças, mais o homem adulto se orientará pelo real. Quanto mais emotivismo e prevalência do subjetivo sobre a realidade existirem na infância, mais adultos desligados do real surgirão.
+
+Isto constitui mais uma evidência de que o bem coincide com a verdade e que a verdade coincide com o bem, pois sem homens — isto é, sem crianças que se tornam adultos e geram outras crianças — não existe sequer a possibilidade do bem. O universo não necessita do homem; o homem não é especial. Poderia existir outro animal com pensamentos de segunda ordem. Não se trata de antropomorfismo, mas de descrição.
+
+Esta reflexão surge no contexto da degeneração necessária dos sistemas sociais que adotam a liberdade e a dignidade como pilares. Com o tempo, esses sistemas deixam de ser fundados nas verdades ontológicas e passam a existir como sistemas fechados sobre si próprios, tomados como causa e fim. Nesse processo, a criança deixa de ser a esponja da realidade; o real é relegado e substituído pelo próprio sistema.
+
+Não sendo possível incutir o real na criança, incute-se nela a própria criança. O sistema atinge tal sofisticação intelectual que, ao reconhecer a relatividade das suas normas, impede a expansão para além de si mesmo. O movimento do homem passa a ser definido pelo sistema.
+
+A criança deixa de procurar saber o que são as coisas e passa a aprender como se enquadrar nas estruturas existentes. Aprende o que pode ou não dizer, que deve dizer algo em vez de procurar o que é. Formam-se pré-estruturas mentais que privilegiam certos recortes da realidade em detrimento de outros.
+
+Antes dizia-se que as crianças não mentem, no sentido de que procuram o real, e isso era bom porque procurar o real é procurar a verdade. Hoje diz-se que as crianças não podem mentir, transformando um traço ontológico numa imposição normativa. Aqui revela-se a ligação entre ser, poder-ser e dever-ser.
+
+A história do homem reflete este percurso: a infância é o homem à procura do real e de si mesmo, incluindo-se no real. A vida adulta, depois de tudo o que aprendeu, passa a viver sobre a representação criada. As civilizações que daí emergem nascem contra o real e produzem adultos contra o real.
+
+Quando os robôs passarem a desempenhar as funções humanas de manutenção das estruturas societárias, o homem aprofundará ainda mais a substituição do real pelo processo. Mesmo um robô orientado para a verdade será buscador das verdades do sistema, não da verdade mediada pelo real. O homem sente cada passo e cada contacto com o real como orientação. O robô pode sentir, mas apenas o fim do seu pé numa abstração. A mediação do robô será sempre consigo próprio.
+
+## F0065 — Relativismo como posição por defeito, compartimentalização e perda do real
+
+A posição por defeito contemporânea é o relativismo: afirmar que não há verdade, que o que é verdade para um pode ser verdade para outro. A questão não é por que razão isso acontece, mas como poderia não acontecer. O relativismo é o único quadro que permite continuar a viver nos próprios meandros internos: sentimentos, relações, horizonte pessoal definido pela experiência vivida.
+
+Como o ser humano é continuidade de si próprio no tempo, o ponto de vista tende sempre a ser de dentro para fora. Tal como ao olhar o horizonte parece ver-se uma linha curva a partir do centro do ponto de vista, assim também o mundo parece relativo ao sujeito. Isto não é falso no plano biológico, pois a estruturação dos organismos conduz naturalmente a esse enquadramento.
+
+O caminho da menor resistência é o que dispensa a análise do mundo. Esse caminho permite viver num estado localmente coerente e harmonioso dentro do próprio círculo. O homem adapta-se aos nichos sem necessidade de conhecer todos os nichos. Esta é a tautologia do ser: só observamos o ser por descrições tautológicas daquilo que observamos.
+
+Uma sociedade pode viver durante séculos ou milénios com um campo de potencialidades reduzido, por exemplo recusando o desenvolvimento tecnológico. Contudo, essa sociedade não será capaz de responder a fenómenos naturais destrutivos nem de continuar para além dos limites criados pelo seu próprio campo de potencialidades.
+
+A filosofia deveria ser a capacidade de ver para além dos círculos locais e imediatos. O filósofo deveria ser aquele que vê mais longe, como um pai que orienta um filho, não um produtor de tratados especializados sobre categorias linguísticas restritas. A compartimentalização extrema do pensamento não é filosofia, mas derivações disciplinares de escopo limitado.
+
+A abertura de um novo campo de potencialidades gera necessariamente compartimentalização. Quando se acendem várias luzes, cada indivíduo tende a fixar-se numa lâmpada específica, desenvolvendo grande densidade técnica sobre ela, não sobre o circuito que fornece a luz. Este é o modo natural de avanço do conhecimento.
+
+Quando uma sociedade extrai do real princípios verdadeiros e funda sobre eles um novo modo de existir, a partir desse momento deixa de poder regressar a esses princípios. A vida passa a ser vivida sobre a representação do processo, e não sobre o real que o originou.
+
+A tentativa de regressar às melhores condições de contacto com o real esbarra no facto de que o homem só assimila hoje aquilo que tem forma de processo. Qualquer discurso sobre o real torna-se mais um processo que se dilui entre outros, afastando-se novamente do real.
+
+Talvez por isso o conceito de Deus tenha sido tão forte: não pelo objeto representado, mas pelo arquétipo que institui no pensamento humano a relação entre o eu e um círculo maior. Com o aumento do campo das potencialidades e a fineza descritiva dos círculos menores, torna-se desnecessário conceber Deus, pois o domínio dos processos substitui a mediação simbólica.
+
+À medida que o homem domina os mecanismos do real, como a produção da luz, o discurso sobre Deus perde função. Quando se reconhece que o que o homem diz não tem valor intrínseco fora do real, qualquer outro valor metafísico colapsa. Todas as construções falham; apenas o real acerta.
+
+## F0066 — Norma cultural, lei, sancionamento e coerência com o real
+
+A impossibilidade social de dizer certas palavras, como ocorre nos Estados Unidos da América com a palavra “nigger”, manifesta-se não como lei formal, mas como pecado cultural. Trata-se de um imperativo moral aplicado apenas a quem não pertence a um determinado grupo racial. Este fenómeno revela o modo de ser do homem integrado nas estruturas que ele próprio cria e nas quais passa a viver.
+
+Esses imperativos morais são propostos exclusivamente com base em realidades internas ao círculo cultural que os gera. Não são leis escritas, não são normas jurídicas que perdurem para além da morte dos seus criadores, precisamente porque não derivam de princípios enraizados no real. Chocam com a estrutura do real e, por isso, não se cristalizam como lei.
+
+Tudo poderia ser tornado lei, pois a lei não deriva da lógica do ser, mas do exercício de poder objetivo. Contudo, neste caso, a ausência de formalização jurídica indica uma incoerência ontológica: a norma cultural não é compatível com o real enquanto tal.
+
+O campo de sancionamento desloca-se então da lei para a cultura. A sanção deixa de ser jurídica e passa a ser social, simbólica e moral. Isto mostra a sobreposição de estruturas culturais estritas sobre a realidade, e como o homem descreve o real não apenas por conceitos, mas também por normas — sendo a norma escrita apenas uma das formas possíveis dessa descrição.
+
+Analiticamente, não é necessário confundir norma e lei. A norma cultural opera sem se tornar lei porque carece de fundamento ontológico. Ao contrário, aquilo que existe de acordo com o real é aquilo que consegue manter as suas relações, a sua coerência estrutural e a sua atualização contínua.
+
+Tal como uma estrela que, ao captar matéria suficiente, consegue manter a sua estrutura relacional e perdurar como corpo, também um sistema humano só vive de acordo com o real quando preserva as relações que o constituem. Agir contra essa coerência faria com que o que está atualizado deixasse de o estar.
+
+## F0067 — Sentido da vida, direção ontológica e críticas à derivação do bem
+
+O significado da vida é contingente ao círculo onde se opera, não apenas no plano temporal, mas no campo de possibilidades que emerge da mediação entre o eu e o real. A relação com o real incrementa-se continuamente: cada novo contacto é condicionado pelos anteriores. O simples existir do ser consciente impõe uma direção para o real, escrita no próprio real. É aí que se encontra o bem.
+
+Todas as posições que afirmam não ser possível derivar valor do facto erram por tratarem a liberdade como ausência de limites, como se tudo pudesse ser independentemente do que é, e como se o homem fosse um ser totalmente novo a cada segundo, sem continuidade entre pensamentos e ações.
+
+Críticas fortes a esta posição apontam que o bem dependeria da continuidade temporal do ser consciente, da sua capacidade de reconhecer o real, de uma suposta associação necessária entre colapso e mal, da existência objetiva de direção no real e da própria distinção entre ser e bem. Questiona-se se a direção não será apenas uma ilusão humana, se a continuidade não poderia ser irrelevante, se o colapso não poderia ser neutro ou mesmo gerador, e se tudo o que existe já não estaria, por definição, alinhado com o real.
+
+As respostas a estas críticas afirmam que não existe consciência que viva em “flashes” incoerentes; sem continuidade não há sequer consciência. O bem só é uma questão para quem consegue pensar a vida e descrevê-la; sem ser consciente não há bem, há apenas o real. O mal não existe como entidade: é o nome dado à contraposição da verdade, isto é, à atuação de círculos menores contra círculos maiores do real.
+
+Mesmo admitindo a hipótese de ilusão total, há sempre um real onde a ilusão existe. O critério não é afastar-se do real, mas conhecê-lo e orientar-se por ele. Por fim, conclui-se que, de facto, o bem não existe como entidade separada: existe apenas o ser; o bem é a descrição correta do real na ação consciente.
+
+## F0068 — GAP, consciência individual e bifurcação do modo de ser
+
+A crítica do chamado GAP entre ser e dever-ser é, no fundo, o mesmo erro categorial que atravessa outras formulações filosóficas contemporâneas, como o chamado “problema difícil da consciência”. Trata-se do mesmo modo de pensar falhado: confundir níveis ontológicos distintos e exigir uma ponte onde já existe continuidade.
+
+É normal que a posição por defeito seja relegar a realidade e pensar prioritariamente em termos pessoais. Isto decorre não apenas da fisicalidade do ponto de vista — cada consciência centrada num único corpo — mas também do facto de que o real será quase sempre diferente da primeira formulação mental do indivíduo. Por isso, o pensamento do indivíduo terá sempre de ser diferente de si próprio.
+
+Essa diferença gera resistência: o indivíduo não quer destruir o seu modo de ser atual, mas preservá-lo. Existe o privilégio humano de construir o real na própria cabeça, e essa mediação cria a ilusão de uma dificuldade artificial — um “ease out” — na proposta de comportamentos orientados pelo real.
+
+Curiosamente, não há dificuldade em propor normativos para os outros. A resistência surge quando o filósofo propõe normas derivadas do real para todos, incluindo quem as formula. A partir de um quadro simples — duas ou três pinceladas ontológicas — cada indivíduo vê apenas o fragmento imediato à sua volta, não a totalidade do quadro.
+
+A decadência é, assim, normal. Diante do falhanço, o ser consciente tem apenas duas opções: fechar-se num modo de ser cada vez mais restrito, protegido por camadas circulares, ou abrir-se à mudança. Estes dois modos de ser existem desde o início.
+
+Em sistemas onde a liberdade e a dignidade não são reconhecidas como necessidades do ser consciente, os pontos de vista individuais não têm capacidade de se tornar coletivos. Só quando cada ser consciente é reconhecido como livre e digno é que se permite a emergência de mini-círculos onde se disputa o critério da verdade e do bem — abrindo espaço ao relativismo absoluto.
+
+
+## F0069 — Mediação, Kant, filosofia e a perda do real
+
+Para Kant, entre o ser e o conhecer existe uma mediação. A consequência é que a extensão do conhecimento termina na mediação e não alcança o ser em si. Essa é a lógica: o sujeito acerta na mediação e fecha os olhos ao facto de que a mediação medeia algo. Trata-se de um gesto tipicamente filosófico, mas ontologicamente errado.
+
+Se a mediação fosse independente do objeto, não veríamos sequer cores. A luz refrata no objeto e nos olhos; separar sujeito e ser num emaranhado de termos é autogratificação conceptual. Kant e Wittgenstein, apesar de génios, operaram dentro dos limites do conhecimento disponíveis no seu tempo. A sua filosofia fecha-se sobre o objeto da descoberta — a mediação, a linguagem — e relega o real para a insignificância ontológica.
+
+Essa limitação não é uma falha moral ou intelectual, mas uma consequência natural dos círculos em que operavam. Faltava-lhes o conhecimento científico posterior que permitiria integrar melhor o real. A história da filosofia é, por isso, a própria história do homem: a tensão constante entre conhecimento e conhecimento sábio.
+
+O homem pensa, propõe e existe dentro do campo daquilo que conhece. O limite da sua estabilidade situa-se no limite do seu campo de conhecimento. A ironia é que o homem, ao intelectualizar profundamente o nicho em que vive, é capaz de criar sistemas altamente complexos que afirmam não ter fundamento, precisamente porque deixam de fora aquilo que os fundamenta.
+
+A filosofia não é outra coisa senão a capacidade de descrever o real: apreender aquilo que é, descrevê-lo, e depois viver sobre essa descrição. Segue-se inevitavelmente uma decadência, até surgir uma nova e melhor descrição do real. Enquanto poucos alargam o campo das potencialidades, ligando novas luzes na sala, a maioria dos filósofos permanece em quartos restritos, estudando lâmpadas já iluminadas.
+
+Percebe-se assim porque da filosofia resultam todas as ciências. Se as ciências são modos de conhecimento e se a filosofia é conhecimento do real, e se apenas o real pode ser conhecido, então todas as ciências derivam necessariamente da filosofia. Mais difícil de justificar é a autonomização de filosofias menores, compartimentalizações arbitrárias do real que operam como se fosse possível fazer apartheid ontológico.
+
+O desconhecimento da epistemologia conduz inevitavelmente a más descrições ontológicas. Mas também não faz sentido separar epistemologia e ontologia, nem dar primazia a uma sobre a outra. Não se pode perguntar como se conhece o real sem reconhecer previamente que se é real. Caso contrário, abrem-se caminhos para proposições anti-eu e anti-real.
+
+Como se sabe que o real existe sem cair numa circularidade? Sabe-se porque existe. Se eu não existisse, não poderia sequer colocar a questão.
+
+## F0070 — Proposição, validade e erro categorial da linguagem
+
+A divergência central não está tanto na identificação de elementos basilares do mundo, mas no próprio enquadramento ontológico. Falar de “mundo”, como faz :contentReference[oaicite:0]{index=0}, já é operar num plano derivado; seria mais rigoroso falar de realidade ou, no limite, de universo. O mundo é sempre uma construção mediada.
+
+Wittgenstein opera num quadro que herda de :contentReference[oaicite:1]{index=1}, assumindo como ponto de partida a limitação das condições de apreensão da consciência. Tudo o que tivesse consciência estaria sujeito a essa limitação inicial. O erro não está em reconhecer a limitação, mas em absolutizá-la, transformando-a num limite ontológico da própria busca do real.
+
+Em vez de continuar a procurar o real, constrói-se uma muralha conceptual em torno de dois elementos basilares, esquecendo que o homem não é apenas um sujeito que representa o real, mas ele próprio uma realidade. O erro consiste em tratar a limitação da apreensão como se fosse uma limitação do ser.
+
+A validade de uma proposição não pode ser aferida por um sistema que o homem cria. Esse é um erro categorial. A validade depende exclusivamente do real. Contudo, a questão da validade de uma proposição só se coloca quando a proposição pretende operar no registo do verdadeiro ou do falso. Fora desse objetivo, a pergunta perde sentido.
+
+Os sons que o homem produz dependem de vibrações no ar. Essas vibrações são, em número e variedade, muito superiores às vibrações que efetivamente acertam no real de forma verdadeira. Por mera lógica probabilística, é mais provável errar do que acertar. Se não fosse assim, todos viveriam como santos.
+
+A linguagem, enquanto sistema vibratório e simbólico, tem sempre maior capacidade de produzir variações do que o real tem de as validar. A verdade não nasce da proliferação proposicional, mas da sua coincidência efetiva com o real.
+
+## F0071 — Linguagem, possibilidade e idolatria do sujeito
+
+O argumento contemporâneo contra o real reaparece nas versões modernas do dualismo e dos panpsiquismos: como é possível conceber coisas antinaturais ou dizer algo contra a física? A resposta é simples e não tem nada de misterioso. A linguagem nasce porque há representação. E a representação nunca é numénica.
+
+A linguagem não existe em seres não-relacionáveis, nem poderia existir. Tal como os dedos de uma mão articulada, a linguagem existe para expressar aquilo que apenas cada ser consegue conceber na sua própria cabeça. Se o que o ser consciente cria são representações mediadas, então é inevitável que a linguagem expresse essas representações — mesmo quando não correspondem diretamente ao real.
+
+A lógica combinatória de :contentReference[oaicite:0]{index=0} trata a possibilidade como mera operação lógica interna. A validade passa a confundir-se com possibilidade formal. O erro está em reduzir a possibilidade a uma capacidade da lógica humana, esquecendo que a possibilidade relevante é sempre ontológica, isto é, dependente do ser.
+
+Esta redução tinha de acontecer, porque a diferença entre o homem e os outros animais é tão grande que o homem tende a esquecer-se de que é feito de carne. O erro recorrente é a descrição pobre do ser. Daí emergem apenas dois modos fundamentais de ser: o ser que se reconhece como parte do real e o ser que coloca o real dentro de si.
+
+Num caso, o homem vê em si o movimento da mudança; no outro, vê apenas a mudança a passar e procura encaixar-se nela. Um vê o dever-ser inscrito no ser; o outro vê o dever-ser inscrito naquilo que ele próprio é ou deseja ser. Estes são os dois polos fundamentais do humano.
+
+Esta clivagem ajuda também a compreender a idolatria do indivíduo. Em vez de se pensar em grupos enquanto círculos maiores — abstrações reais que excedem o indivíduo — idolatra-se o homem singular, o líder, a figura humana. Sistemas de pensamento e modos de ser inteiros assentam nessa idolatria pessoal.
+
+A tradição cristã ilustra esta necessidade ao estruturar-se na trindade: preserva-se a semelhança humana de Cristo, sem abdicar da divindade. Trata-se de manter a ponte entre o humano e o círculo maior, para possibilitar o melhor modo de ser.
+
+## F0072 — Consciência como realidade e necessidade do modo de apreensão
+
+A consciência apresenta-se como realidade: uma relação de atualidades altamente complexas que o corpo realiza. Não é necessário recorrer apenas ao argumento comparativo das estruturas biológicas e neurológicas conhecidas — desde a célula da pele, aos sistemas orgânicos como o fígado e o cérebro, até às redes neuronais — todas elas funcionando de forma integrada, física e causalmente limitada.
+
+Para além disso, o modo como o mundo é apreendido constitui evidência suficiente. Quer se adote uma posição dualista, quer se dissolva a consciência ao ponto de a afastar, como em chesterton, quer se adote um panpsiquismo que identifica ser e consciência, o erro comum é ignorar a necessidade condicional do modo de apreensão.
+
+Essas posições falham por não reconhecerem que a apreensão do real ocorre sempre dentro de um quadro determinado. A observação atribuída a Chesterton é decisiva: descrever corretamente um argumento oposto exige compreender o quadro em que ele opera. O contra-argumento verdadeiro não nega o conteúdo, mas rearranja o quadro.
+
+É nessa simplicidade estrutural que reside a força do pensamento: mudar o quadro é alterar o sentido de tudo o que nele aparece. Assim, o modo de ser verdadeiro surge como o mais natural de todos, porque não há nada mais natural do que aquilo que é.
+
+## F0073 — Nagel, ponto de vista e erro da interioridade separada
+
+A questão colocada por Thomas Nagel em “What Is It Like to Be a Bat?” interroga a relevância do ponto de vista subjetivo e se este obriga à separação ontológica da consciência. O argumento funda-se na impossibilidade de aceder ao “como é” de outra criatura, sugerindo uma interioridade inacessível ao real objetivo.
+
+Contudo, o facto de um morcego — ou qualquer outro animal — ser capaz de representação não obriga à conclusão de que a consciência seja uma interioridade separada do real. Pelo contrário, essa capacidade aponta para a consciência como expressão das condições reais em que o ser opera.
+
+A dificuldade apontada por Nagel resulta de absolutizar o ponto de vista como fronteira ontológica, em vez de o compreender como limitação condicional da apreensão. A consciência não está fora do real; é uma forma altamente complexa de relação com o real, condicionada pelo corpo, pelo meio e pelas possibilidades do ser.
+
+A obsessão filosófica com exemplos artificialmente deslocados do real — como variações sucessivas do problema do trolley — revela a tentativa de resolver por lógica interna aquilo que só pode ser avaliado na liberdade concreta do ser que age. A decisão correta em círculos menores não é dedutível apenas por categorias como ato/omissão ou maximização/minimização, mas pelo modo como o ser encarna a questão.
+
+O real oferece limites e horizontes; não fornece respostas locais. Cabe ao homem mover-se nesse campo de potencialidades. A direção do homem não coincide com a direção do real — se coincidisse, o homem seria perfeito — e os erros fazem parte da própria estrutura de um ser que conhece o real a partir de círculos situados.
+
+## F0074 — Inteligência, adaptação e erro da validação formal
+
+Agora, tendo a conhecer-se… Não, se tendo a conhecer-me, imagina. Aconteceu que esta forma que nós chamamos de inteligência, e que se vê no ser humano, existe. Quer dizer, se outros seres vivos pudessem surgir do ponto de vista civilizacional como nós… Se eu vos disse não, não, mas não é preciso. Se eu vos disse não, sim, no sentido de terem tido a sorte de poder andar aí num ambiente em que se pudessem mexer e confortanizar, e aumentar os seus grupos, e por isso aumentar ou melhorar, ou viver através da própria existência de um grupo que se comunica e que desenvolve uma consciência… Quer dizer, é outra consciência. Assim como logo nós temos uma consciência, e por isso é logo uma coisa natural.
+
+Ah, é uma coisa… o universo é mesmo feito para isso. Não, não é nada disso. Nada disso. É um absurdo sequer achar isso, visto que tu tens as nossas longas conversas. E faz-me alguma confusão.
+
+Como é que o discurso lógico, que se quer que seja o discurso filosófico, ou que quer que o discurso filosófico seja lógico, mas levamos, lá está, ao ponto tal da formalidade e da vivência em círculos relativamente reduzidos, e depois associar todas as nossas funções biológicas — como é que já se sabe, especialmente de obter crenças, e de ser muito mais difícil destruir crenças por outras novas — portanto manter-se no mesmo passo, porque é feito para o ser humano adaptar-se àquele círculo. É feito. O ser humano adapta-se àquele círculo.
+
+Não é natural no sentido trivial. O ser humano é o melhor a adaptar-se em todos os nichos. É isso que faz dele o melhor animal possível. Não tem um nicho. Ele é um homem de todos os nichos. Mas isso não significa que se ande a adaptar a cada nicho em dois segundos, não. Adapta-se ao nicho da sua melhor insuficiência, digamos assim, ou da sua insuficiência harmoniosa.
+
+O que, quando não havia casas para viver, não obrigava o ser humano a ter um tipo de disposição que, aliás, fosse para julgar no lavabo. Procurar um sítio para construir uma casa, e depois tenho que construir a minha casa, e depois não posso sair daqui porque não vêm os animais. Certamente isto seria um tipo diferente, mas… que ridículo.
+
+Mas faz-me um certo tipo de confusão como é que o discurso filosófico passou a ser não validado pela lógica da realidade. Certamente porque bastou alguém apontar um erro — um erro, vai ser um erro do sistema qualquer de Gödel, é como é que se chama — em como os sistemas complexos não se auto-justificam. O que é confirmar que esses temas são apenas validações, justificações lógicas dentro do próprio modo de ser que o filósofo encarna, e que hoje em dia são todos extensivamente subjetivos.
+
+E que a única lógica que existe é a lógica da coerência interna. Ou seja, é a própria crença tornada realidade pelo próprio sistema formalista e pela própria razão de ser do homem. Razão de ser no sentido de modo de ser. Tendência natural como animal que somos. Não somos robôs, somos animais. Mesmo os robôs têm tendências de acordo com o seu código, se se puder aplicar ao ser humano — não para misturar tudo.
+
+Sim, mas isto, eu acho que isto tinha mais um bocado também a ver com a outra ideia, que era da consciência. Depois vê-se sempre todo o discurso. Isto vê-se sempre em todo o discurso filosófico. É desconcertante. É completamente desconcertante.
+
+Porque? Porque não sei já qual é que era a ideia. Mas a ideia é… Ah, esse senhor é uma coisa especial. Ah, ele tem uma substância. É a alma também, porque são as mesmas coisas. Ou é além da realidade, ou é diferente da realidade, ou é essas coisas todas. Todos esses argumentos, sei lá, do discurso do senhor que está aí. É absurdo. E é por isto.
+
+E depois, como tudo, o nível da argumentação torna-se tão formal, tão virado para coerências argumentativas, que alguém diz alguma coisa sobre um exemplo qualquer, ou então meramente se refugia na coerência lógica interna de cada um dos componentes do discurso filosófico.
+
+E depois, por isso, têm que sair a arranjar argumentos sobre todo o tipo de coisas mais espertas que se possam arranjar. Sobre características, qualidades, aplicabilidades à existência humana, sobre como casos existem, sobre como tudo — sobretudo — faz-se em torno da filosofia da mente. Primeiro compartimentaliza-se a filosofia da mente, claro. E depois, como tudo, compartimentaliza-se. Há que formalizar sempre que alguém faz um conjunto.
+
+Porque qualquer conjunto de proposições que se queira justificar num qualquer círculo filosófico será sempre injustificado. Porque a lógica, por definição, está sempre fora do ser. Não interessa. Mas no plano do ser, aquilo que é, não pode nunca aperceber-se do ser que o contém.
+
+E isto faz parte da sabedoria humana. Ou do que chamamos sabedoria humana — hoje já é difícil saber o que isso é. Está tudo tão compartimentalizado, difuso e relativizado. Mas relativizado a quê? À esfera especial do indivíduo. Eu tenho um momento. E por isso o real está abaixo de mim.
+
+No fundo é esta a posição. Uma das únicas duas posições que podem existir. A outra já falámos.
+
+E a questão era esta: proposições sábias. Sábias no sentido muito ático, como eu uso isto. Mas pronto, tentemos dizer assim: sábias no sentido de melhor adequadas à realidade. Ou seja, proposições que melhor descrevem a realidade.
+
+E o erro mostra-se como desadequação daquilo que se está a propor. Não só da proposição, mas das correlações existentes. Dos meios e dos fins. Envolve tudo. No fundo, envolve o ser.
+
+## F0075 — Preferência do eu, relação com o outro e dissolução do critério exterior
+
+Na relação do homem com o real, sendo o homem real, o homem vai preferir sempre os modos potenciais que o favoreçam a ele próprio. Mesmo um racista que acha que é superior ao outro, se daí resultar algum lucro ou vantagem, incluirá o outro na sua relação: fará dele trabalhador, inquilino, amigo, o que for. Se assim não fosse, não haveria sequer relação com o outro.
+
+O comum é esta dinâmica. Se não fosse assim, viveríamos todos no círculo do real e não no círculo da apreensão do real, o que sabemos não ser o caso. O círculo que se tem como verdadeiro ajusta-se sempre ao círculo maior que sou eu.
+
+Há benefício no modo de ser de esquerda do mundo, senão não existiriam massas e delas não poderia sequer surgir o filósofo. Todos os ismos políticos, todas as correntes de pensamento modernas e contemporâneas — que no fundo são o mesmo que modos de pensar — têm as suas próprias lógicas de perpetuação dentro dos seus formalismos. Mas, independentemente disso, todos cometem o mesmo pecado: sobre-elevar o eu para além do real.
+
+Se não houver critério exterior para o comportamento, então, como é óbvio, em meras décadas o número de assaltos e crimes violentos aumenta. Se não houver dependência estrutural do que é o bem, como é óbvio, em meras décadas deixa de existir estrutura familiar. E por aí adiante.
+
+## F0076 — Mistura de modos de ser, presença e continuidade da consciência
+
+Estava a pensar em como a mistura de modos de ser é aquilo que leva à ampliação do campo das possibilidades. E que, na falta de expansão comunicacional como a moderna, a presença era um requisito. As sociedades locais vivem da abertura do real que outras sociedades trazem, pelo menos enquanto não se vive de acordo com o real — e isso requer mais aprimoramento do conhecimento técnico. E esse conhecimento só existe por contacto.
+
+Na cabeça de cada um só vive o que lá vive. É no pensamento do outro que está o interruptor da luz. A captura de mais potencialidades, a abertura do modo de ser à liberdade ontológica, deixa de ser necessária quando o conhecimento deixa de ser local. A homogeneidade das sociedades hoje já não é o oposto da captação de potencialidades. A pólis tornou desnecessária a sociedade cosmopolita.
+
+O outro é o mesmo que eu: uma atualização no ser a conhecer o ser pela continuidade da relação. Apreender o outro como algo diferente de um ser é erro, porque não é real. É apenas evidência de que eu não existo só e de que a minha apreensão do real é local.
+
+Hoje já não preciso de conhecer o outro pela presença; posso simplesmente conhecer o que ele diz, o que acaba por ser o mesmo que conhecer como ele é, sem estar ao pé dele. Como poderia ser diferente? Uma rocha de ferro e outra de cobre não vêm ambas das explosões das estrelas? Talvez da mesma.
+
+Consciência é apenas o nome dado à apreensão do contínuo do estado do ser. É o mesmo que um sentimento complexo, um feedback representado de um estado de coisas qualquer. Gostava de ver a consciência surgir num ser sem olhos, ouvidos ou nariz. Aliás, gostava de ver um ser sem sensores existir.
+
+A filosofia de hoje é pobre e, por isso, triste. Qual é a outra opção que não seja a continuidade da atualização do estado de coisas dependente do estado de coisas atualizadas há um segundo atrás?
+
+## F0077 — Atualização, vazio e condição de possibilidade do ser
+
+As emergências de um átomo são determinadas ao tornarem-se atualizadas. Não há colapso do campo. Há ser a existir pela relação que depende do pode-ser. Há atualização é o mesmo que dizer há ser, o que, como é óbvio, terá de ser real.
+
+O vazio que ocupa, creio eu, 99 por cento do espaço, não poderia estar ocupado. Se estivesse, não haveria qualquer estrutura complexa — biológica, humana. Haveria apenas um contínuo de atualizações que creio levariam necessariamente à implosão do universo.
+
+O ser é a variação contínua do ser. Mas essa variação obriga a que o ser esteja colocado em algum lado. Onde fica, então, a condição necessária para a possibilidade do ser?
+
+## F0078 — Liberdade, reprodução, modos de ser e continuidade cultural
+
+Mas pode-se, porque dentro do próprio sistema criado pelo facto de a liberdade do indivíduo derivar necessariamente na abertura a todo o ser humano — como é óbvio incluindo mulheres — a esse caminho de liberdade ativa, podemos dizer, de maneira muito imprecisa, “entrar no mercado de trabalho”. Não, no fundo é só conceder-lhes a liberdade. A liberdade de movimento. A liberdade de ser o que é. Logo, a consequência seria sempre essa: a mãe poderia, assim como o pai, ter o mesmo grau de liberdade.
+
+A questão não é essa. A questão é que, dentro do modo de viver, dentro do círculo mais abaixo do grande círculo da liberdade, temos de contar com outros círculos. Um deles é o que fazemos não só com a necessidade do ser humano de se auto-preservar e de não se extinguir, mas também com a necessidade de manter filhos conhecedores do conhecimento que o resto da humanidade lhes deu, e que só se mantém vivo porque há filhos.
+
+A resposta a esta evidência de múltiplas necessidades dos modos de ser nos círculos em que se vive tem de ser contrabalançada com a liberdade de que dispomos e com a obrigação moral — e completamente ontológica — da própria existência do ser: o ser tem de conhecer o que é. E eu não conheço o que sou se não for também um bocadinho do que já foi.
+
+É sobre os modos de ser — mais corretamente dito — que contêm modos de pensar, modos de agir, modos de estar, e os modos relacionais com que nos relacionamos. E isto aplica-se universalmente, mas vai sempre depender da posição que cada um ocupa.
+
+A variedade humana é enorme. As potencialidades humanas, as capacidades, as possibilidades são amplas. É correto dizer proposições verdadeiras sobre as potencialidades de cada um verificadas pelas capacidades de cada um. Uma coisa é necessária à outra. E é isso que fazemos de modo implícito, mesmo quando não reconhecemos essa estrutura verdadeira do universo ao caminhar.
+
+Quem criou o fogo não foi apenas quem o descobriu, mas quem conseguiu descrever corretamente o processo de criação do fogo para que outros também o pudessem fazer. Se só um souber fazer, a ideia acaba. Todas acabam assim.
+
+Por isso avaliamos competências, capacidades, e até níveis psicológicos. Mais uma demonstração de que dentro do ser há o que somos. Se não nos cercarmos do que tomamos como verdadeiro, não analisaremos verdadeiramente questões como: terei filhos? Com quem me devo juntar? Antes disso tudo: que tipo de pessoa sou? Que tipo de pessoa quero ser?
+
+Sem um modo de ser que obrigue a estas perguntas, elas nem sequer se colocam. Vivemos muitas vezes em modo automático. A correção, quando não é reflexiva, torna-se traumática. O trauma surge pelo arrastar da situação, pela inação em corrigir o caminho.
+
+Mas tudo isto são auto-evidências. Porque, no fundo, como poderia o universo ser de outro modo?
+
+## F0079 — Realidade, continuidade do ser, verdade e dissolução moral
+
+Porque, no fundo, a única pergunta que existe é: o que é isto? E o que é isto de viver aqui nisto? É a realidade. Nós e a realidade. Somos nós.
+
+O que é isto de ser uma espécie humana? O que é isto? O que é isto de sermos animais? De onde é que vimos? Hoje em dia isso é rapidamente explicável. Temos a evolução dos animais durante centenas de milhares de anos, a comportarem-se de certas maneiras. Uns gostavam mais de umas coisas, outros de outras, e isso traduzia-se em adaptações. É tudo verdadeiro. É um dos idiomas verdadeiros que hoje existem.
+
+E depois olha para nós. Porque daqui vem a ligação lógica para o que somos nós. Não somos só um ser pensante. Somos também uma entidade corporal. Temos um corpo. E esse corpo está ligado ao pensamento. Está tudo ligado. As redes neuronais não se restringem ao cérebro.
+
+E o que é isto que diz aquilo que a pessoa faz? Podemos sempre dizer: faz o que quiseres fazer. Nada te impede. Mas isso não é verdadeiro. Porque isso não é o bom. É a mesma coisa dita com outras palavras.
+
+O pai e o filho percorrem a vida juntos. O filho cresce, torna-se adulto, o pai morre. O ciclo continua. Mesmo que não se viva de acordo com o passado, a verdade continua a existir. Se vier um meteorito e não se souber que ele vem, acaba-se tudo. A realidade não depende da nossa vontade.
+
+Isto obriga a uma certa continuidade do modo de ser. Continuidade não no sentido de não haver mudança, mas no sentido de estar enquadrada no tipo de modo de ser que se tem sido. Normalmente somos aquilo que temos sido. Podemos mudar, mas não de um dia para o outro. E enquanto não se muda, somos isso.
+
+Quando algo acontece fora daquilo que somos, é a vida a abrir-nos uma porta. Mas quando algo se estabiliza, passa a ser nós.
+
+A lógica não está reservada para uma elite. As leis universais aplicam-se à vida. No mundo da inteligência artificial, quando o produto da máquina se tornar indistinguível do humano, qual é o único critério que resta ao homem? A verdade. Conhecer como a realidade é e como o homem é dentro da realidade.
+
+Durante gerações transmitimos códigos morais, crenças, arquétipos, tidos como verdadeiros e, por isso, orientadores do modo de ser. Essa estrutura é o que permitiu navegar no real. Deus, nesse sentido, é a realidade. E é isso que Nietzsche toca quando fala da morte de Deus.
+
+Quando desaparece um código moral subjacente, valores estruturais explícitos na cultura, não resulta apenas relativismo abstrato. Resultam perversões do próprio sistema. Passa a ser possível justificar não só absurdos, mas males reais.
+
+Dizer seriamente que a realidade não existe e que só o que eu sinto existe. Logo, se sou homem posso ser mulher. Se o bebé está dentro de mim, tudo pode ser justificado. Não se trata de fazer algo escondido sabendo que é errado, mas de justificar culturalmente como bom. A realidade deixa de fazer parte da equação e é substituída por cientificismos, racionalidades ou formalismos quaisquer.
+
+## F0080 — Instrumentos, adequação e critério de verdade
+
+Até podes comer a sopa com um garfo, mas se a colher existe é por algum motivo. Estava a pensar nisto na questão da IA, das armas, dos hambúrgueres, e de tudo isso — whatevs — irrelevante para tudo, inclusive para o critério de verdade.
+
+Se no teu círculo não há uma colher, há de ser pelo teu ser que assim é.
+
+## F0081 — Modo de ser das sociedades antigas: funcionalidade, ciclo e proximidade
+
+O modo de ser das sociedades antigas, por exemplo a egípcia, era funcional e cíclico. Funcional porque o contínuo da atividade — o contínuo do ser — era ocupado pela satisfação das necessidades básicas. E cíclico porque essa atividade se repetia em adequação constante aos meios ambientes.
+
+A ligação ao físico, ao apreensível localmente, era central. Naquele tempo, tudo era dependente da proximidade. O modo de ser era um modo de viver no contínuo do ser. E o ser, aqui, é aquilo que é apreendido e representado no mundo exterior, do qual se é totalmente dependente para viver.
+
+## F0082 — Impossibilidade do nada e auto-manutenção do ser
+
+Ainda que o real seja o campo, com tudo o que ele permite — atualizações, relações, deteção, representação e ponto de vista único local que representa a representação, até à consciência —, com tudo isso que é campo, o nada seria o quê? Haver algo sem o campo? Sem as potencialidades do ser?
+
+Aquilo que existe, ao existir, faz logo algo ser. Para ser nada, não poderia haver nada sequer que permitisse haver, o que já seria algo. O nada nunca pode ser.
+
+O estado estável daquilo que se mantém em si mesmo é o que cria aquilo que se mantém a si mesmo daqui a um segundo. É da própria lógica do ser, que é, que se tem de retirar o nada, que é nada. Porque se houvesse nada, não poderia haver ser.
+
+## F0083 — Deus, limite ontológico, cor e erro da subjetivação
+
+Se tiramos Deus do pensamento humano, como é natural que este seja em sistemas de ampliação do campo das possibilidades, não será também necessário retirar o círculo maior, o limite e o horizonte onde o homem opera? E crer que o círculo do homem — a terra onde o homem vive — é ele mesmo o círculo de máxima amplitude, sendo o homem o construtor do real?
+
+A folha não é verde. É tudo menos verde. Verde é o comprimento de onda que a folha não absorve, que refrata e que bate nos nossos olhos. E é aqui que os subjetivistas e relativistas apontam: há um mundo em si que não é acessível pelo ser, há uma diferença ontológica, uma barreira.
+
+Mas as condições em que opera a refração da luz na folha são condições do real. E, por isso, também o olho que recebe a luz está no real. “Ah, mas e os qualia?”, dizem. “E o greenness? O verde que eu vejo não é o verde que tu vês.”
+
+E Wittgenstein diria o quê aqui? Que a lógica precede o mundo? Que o verde não existe no mundo? Ou que o verde existe no mundo e a proposição é válida se mantiver a lógica da existência do verde no mundo, sendo o homem apenas uma camada, um espectador a ver um filme?
+
+Então o verde teria de ser o quê? O verde em si mesmo? Uma forma? Um número? Uma propriedade? Que analíticos que são. Que formalismo das linguagens.
+
+Se o verde é uma possibilidade lógica de um estado de coisas, uma propriedade de uma coisa, então é algo que existe. E, sendo algo que existe, como é que pode ser tratado como mera experiência subjetiva? Não é apreendido como todas as outras propriedades físicas das coisas são apreendidas pela consciência?
+
+Que possibilidade lógica é esta quando se atualiza? É limitada esta pretensa decomposição ilimitada. Porque tanto é real a folha que recebe a luz, como é real a luz, como é real onde a luz bate. Tudo isto é real.
+
+## F0084 — Campo do poder-ser, continuidade, delegação do real e relativismo
+
+Imagino mais como uma tela branca cheia de pulsões, como o campo subatómico virtual, o campo do poder-ser, que se vai pintando e compondo pelas relações que a tela e a tinta permitem. Como um átomo, uma molécula, uma estrutura atualizada, sempre limitada pelo que pode ser, até que o que pode ser passa a ver o próprio pode-ser e a entrar no dever-ser.
+
+As ideias que nós temos, os pensamentos, refletem-se em ideias coletivas, claro, mas os modos de pensar e os modos de ser que encarnamos dependem em larga escala do campo das possibilidades. E isto é real. Não há potencialidades não atualizáveis, porque sendo o ser contínuo, sendo, nem que seja pela simples expressão do movimento e pela estabilidade estrutural dos objetos que compõem o mundo — isto é, das relações que propiciam a aparência e a atualidade das coisas —, temos já uma alegoria.
+
+As ideias que temos vêm sempre de ideias anteriores. Não há ideias inovadoras coletivas, porque o coletivo não existe enquanto apreensão do real. Só daquele que consegue apreender o real pode vir alguma ideia, algum pensamento, algum alcance do modo de ser mais próximo do real. E isto leva a todo o tipo de dinâmicas progressistas, até ao ponto — que já sabemos ser incoerente — de se tentar apreender qual o melhor comportamento, os melhores modos de educação, aquilo que mantém a coesão anterior e propicia um melhor, ou menos mau, estado de coisas futuro.
+
+A descoberta do processo, da forma, do modo de ser, do círculo da mecânica das sociedades e do círculo do indivíduo, é o descobrimento do real relativamente a círculos mais abrangentes do que antes. Isto acontece porque se conhece a minuciosidade daquilo que faz o tique-taque no ser humano e o modo como isso se expressa — ou melhor, como se categorizam os modos de ser coletivos. Mas isto é invertido: parte-se do modo de ser coletivo para inferir tudo, quando só pela observação dos meios de ser coletivos se pode inferir alguma coisa.
+
+E o ser vai-se relegando Deus, aprimorando a minuciosidade do campo, daquilo que está à frente, da mecanicidade, mesmo que isso seja partilhado por três mil milhões de outros seres.
+
+Quando se fala de causa e efeito para dizer que tudo é mecanicista, que não há livre-arbítrio, ou que tudo se reduz a determinismo, está-se apenas a pensar a partir da ideia descoberta de que há causa e efeito na física das coisas. Depois o modo de operar coletivo futuro vive sobre a representação dessa ideia, desse novo espaço iluminado, e não sobre o conjunto das luzes que ali estão, mas apenas sobre o espaço iluminado. Isto faz com que a aproximação ao real seja inferior.
+
+Ao descobrir-se o ser e ao aplicá-lo à liberdade humana — que é no fundo o que está em causa —, o homem percebe que não é uma árvore a crescer para onde o ramo quer. Está num campo onde pode representar o mundo, refletir-se sobre ele e agir mediante pensamento de segunda e terceira ordem, com pontos de vista internos e determinantes. E dizer que isto é uma relação simples, sem condições passadas, presentes e prováveis, é falso.
+
+A intensificação não é para a intensificação. É apenas o caminho para a dignidade, para o reconhecimento de que eu sou tanto como qualquer outro. Do ponto de vista ontológico. E isto leva-se depois a todo o tipo de justificações para comportamentos, até contra o real.
+
+Pela própria natureza da quantidade de modos de ser que existem no mundo, a maioria das pessoas vive 99% dos seus dias na sua própria cabeça, com o seu ponto de vista como centro do mundo. O afastamento do real adensa-se pelo relativismo das proposições ditas verdadeiras. Essa relatividade afasta sempre do real, mesmo quando é apresentada como conhecimento mais aprofundado.
+
+Há potencialidades atualizáveis: há uma célula num órgão, há o que fiz ontem — nem que seja pelo simples facto de que, se não tivesse conduzido para casa ontem, ainda estaria no trabalho. Daí a continuidade do ser e a sua estrutura relacional.
+
+As ideias, enquanto modos de ser, existem na representação do ser (o que foi e o que é), no poder-ser (o que poderá ser ou poderia ter sido) e no dever-ser (como teria de ser para estarmos a falar da realidade e não apenas de uma receita de tartes).
+
+Viver na representação de Kant ou no discurso de Wittgenstein é o que de facto fazemos, por ser essa a característica humana. Mas isso não pode servir de verdade, porque esquece o círculo maior. Ainda assim, é isso que somos: o animal que domina todos os nichos em que se encontra, pela racionalização das parcas descrições do real.
+
+A descoberta do real traz consigo, à medida da sua atualização, o próprio modo de ser a viver nessa nova parte do mapa. Olhamos para o relevo que se revela e dizemos que são apenas categorias da consciência que permitem a revelação do real, e não o próprio ser. Mas isso ignora que o real se mantém descoberto pela sua própria estrutura, refletida em todas as ciências — ciências, não “ciências” — sem necessidade de perguntar como a mente concebe o real.
+
+É natural ver no coletivo uma direção, porque eu apreendo os outros e a mim próprio. O coletivo nasce daí, mas só porque também nasce de mim. Isto esquece-se pela nossa característica animalesca de dominar nichos, porque representamos simbolicamente e delegamos a validação dos modos de ser.
+
+Não é preciso comer em Tóquio quando posso comer nos dez restaurantes à volta de casa que conheço. A adequação ao nicho leva-me à adequação ao modo de ser do nicho. Mudar fora dessa direção é mais difícil, porque destrói caminhos físicos, biológicos, neuronais. É mais fácil viver de acordo com o modo coletivo local.
+
+Se algum estado de coisas pretende afetar o meu estado de coisas, prevalece a permanência do contínuo do estado de coisas existente há um segundo, há dois segundos. O relativismo, a delegação do real por outras prioridades, é justificável em círculos menores. Caso contrário, nem haveria ser humano.
+
+Delegável não é o real. Delegável é o saber o que é o real. Delegar a função de conhecer o real no símbolo criado pelo outro. Não precisar de ir buscar pela primeira vez o real extra-sensorial, mas agir como se já se soubesse o que é. A resposta sobre como devo comportar-me, pensar, ser, é delegada no coletivo e não no pai. Porque o coletivo já descobriu tanto de real que a mim basta agir como se diz que é.
+
+O problema é que o “diz que é” pode ser qualquer coisa. E isso é triste. Porque o resultado de toda a relatividade do pensamento humano, em especial do discurso filosófico, é sempre o mesmo beco: ou a consciência vem do cérebro e é física, ou não vem e não é física; ou o valor vem do físico ou vem da consciência. Se vem da consciência, é subjetivismo; se vem de fora, é materialismo.
+
+O encaixe natural em posições simples, simbólicas, fáceis de apreender, é isto a que se chega.
+
+## F0085 — Crítica à filosofia sistemática, labirinto conceitual e atualização do ser
+
+E como a filosofia, não sendo a melhor descrição do ser, leva normalmente a dois únicos caminhos possíveis: tentar viver na teia criada pelos filósofos mais potentes, ou então ter de dar um salto. Fazer uma suspensão qualquer. Uma suspensão da crença, ou do que for, para tentar chegar à descrição do ser não pelo poder-ser, mas pelo próprio dever-ser.
+
+E é por isso que, no fim, tudo acaba sempre na pergunta: Deus existe ou Deus não existe? E depois seguem-se os argumentos — o da primeira causa, o ontológico, e todos os outros — como se fosse isso que estivesse em causa. O que falta aí é perceber que todo esse discurso parte de suposições sobre aquilo que é, não a partir daquilo que é, mas a partir do que os próprios sistemas de pensamento dizem ser.
+
+Irrita-me a invenção contínua de termos e frásicas, salvo quando uma palavra, ainda que composta, representa algo especialmente real. Fora isso, é o sistema a densificar-se em si mesmo, criando categorias, subcategorias, e depois obrigando-nos a falar dentro desses termos para sequer compreender o modo de pensamento de alguém. Eu não quero saber do modo de pensamento dele; quero saber do que ele diz relativamente àquilo que é.
+
+Depois há a piada do panpsiquismo moderno, tal como aparece hoje, e dos novos professores de filosofia com podcasts, a falarem de tudo como se fosse um buffet. Filosofia para aqui, filosofia para ali, sem nunca sair de dentro. Olham todos para dentro. Sempre para dentro.
+
+E depois há a contradição: dizer-se ao mesmo tempo que tudo é relativista, que só temos acesso ao que o cérebro permite, e depois afirmar que drogas expandem a consciência e nos fazem conhecer melhor o Universo. Se conhecemos melhor o Universo, então há algo que está a ser conhecido. Não pode ser tudo apenas interno.
+
+Mesmo concedendo tudo — concedendo que o homem descobriu todo o processo, todo o fluxo, toda a mecânica — o que isso concede é apenas isto: que o modo de ser da atualização é a única coisa que o homem pode conhecer. Este é o limite real. Não há limite interno, nem categórico.
+
+Todo o fechar do labirinto, todo o aumentar das paredes do labirinto, é esquecer que o que experienciamos é o fluxo. É o movimento. Nós vemos a atualização das coisas. Não vemos a coisa em si como algo fixo. Vemos o facto. E insistimos na atualização das coisas. Está tudo certo. É isso que vemos.
+
+## F0086 — Hiperestruturalismo, perda do real e memória como condição do pensamento
+
+Sabe-se hoje tanto sobre o mundo, sobre o pormenor das regularidades do modo de ser — que é a única coisa que permite um contínuo com estruturas complexas — que esse mesmo conhecimento difunde e dificulta a ligação entre a apreensão natural do homem e símbolos simples, curtos, gramaticalmente leves, que abarquem a realidade de forma inteligível.
+
+A falha não está no modo de ser, que é o que é, mas na falta de conceitos simples que expliquem o mundo. Não preciso de saber matemática nem refazer o caminho de Einstein para perceber que objetos com massa têm energia e que distorcem o espaço por existirem.
+
+A crítica é ao hiperestruturalismo que nos faz perder o processo. Vê-se isso até na forma como se retrata o génio, como no filme sobre Oppenheimer: tenta-se mostrar que ele via algo que mais ninguém via, como se tivesse uma capacidade especial. Mas isso é falso. Ele via porque tinha o substrato das descobertas anteriores. Sem Bohr e a mecânica quântica, não teria concebido nada.
+
+O conhecimento é cumulativo, depende da memória, da inscrição prévia. Não há pensamento sem repetição, sem caminhos desenhados, sem cadeias neuronais físicas. Mesmo a imaginação exige inscrição. Fora o trauma — que cria memória direta — todo o pensamento exige repetição.
+
+Sem memória, não há consciência. Sem capacidade de transformar sensação exterior em representação interna, não há pensamento.
+
+Os filósofos que se afastam do real vivem na causalidade do processo: ou dizem que tudo é irrelevante porque está determinado, ou que tudo é definido pelo eu porque o processo somos nós. Mas isso confunde o processo com o ser.
+
+Aqui é o contrário: o processo é círculo menor. Quando se atribui ao eu ou à consciência o fundamento do processo, retiram-se as necessidades de estar inserido num círculo maior. A compartimentalização nasce daí, do próprio modo de ser humano.
+
+Seria preciso não ser assim para não compartimentalizar, mas isso exigiria um modo de ser perfeito. E o perfeito é o bom, e o bom é o real. E essa carga é demasiado pesada.
+
+## F0087 — Verdade como relação, crítica ao estruturalismo e limite do eu
+
+O discurso estruturalista anda, em geral, assim: existem objetos, existem relações e existo eu. Porque eu existo, não posso ficar fora do que existe. E como consigo moldar o meu sistema próximo, conclui-se que eu sou fundamento de algo — daquilo que me é reconhecido. Torna-se inevitável um tratamento diferenciado do eu e do real.
+
+Dizer que algo é verdadeiro passa então por recolocar o eu no seu sistema, sem o perder. O eu com o seu ponto de vista, o seu horizonte, a linha do horizonte à sua volta, pela própria estrutura visual, pela subjetividade. A verdade torna-se um modo de relação entre o indivíduo e o real.
+
+A crítica, quando deve ser feita, deve ser feita perguntando apenas: o que é que se está a dizer sobre o que é, neste livro, nesta ideia, neste artigo, nesta opinião? Porque os seres humanos vivem, de facto, nos seus círculos locais. Cabe à filosofia percorrer todo o espaço.
+
+Antes de prescrever valores, a filosofia deveria olhar para o real e descrevê-lo com precisão: não apenas que há objetos, mas que objetos; não apenas que há relações, mas que tipos de relações; quantas relações correlacionadas existem; que tipos e modos de ser já descobrimos existir e conseguimos identificar como integrados na realidade.
+
+Isso não existe. E por isso a crítica tem de começar por perguntar o que é que esta pessoa achava daquilo sobre o que falava — o que é, no fundo, insistir em olhar para as estrelas.
+
+O que Wittgenstein propôs, tanto no primeiro como no segundo momento, foi: no primeiro, que fora do quadro lógico não se fala, afastando o real do processo humano; no segundo, que nem sequer há real, apenas a colocação do eu no mundo pelas regras da existência consciente.
+
+Para colocar o bem fora de nós seria preciso despir-nos do ego, mantendo ainda assim o ego como existente. O real pode estar fora, mas o bem está na ação humana. Postula-se então uma ponte intransponível.
+
+Mas essa ponte já está pressuposta na formulação. E se tudo for condicionado pelo eu, basta eliminar o eu para que o campo das possibilidades desapareça e as luzes se apaguem. Se até as pedras existem pela relação interna dos seus átomos e pela relação com o exterior, como é que a vida humana, o significado e o valor não seriam também a atualização da relação de um ser livre?
+
+Isto concedendo todos os suportes das posições filosóficas — não as prescrições. Os génios descrevem algo real, ainda que incompleto. O problema começa sempre para lá da boa descrição.
+
+## F0088 — Preferência do eu, liberdade como descrição e correspondência com o real
+
+Na relação do homem com o real, sendo o homem real, vai preferir os modos potenciais que o favoreçam a si próprio. Mesmo um racista que se ache superior ao outro, se daí resultar lucro ou vantagem, incluí-lo-á na sua relação e dele fará trabalhador, inquilino, amigo, seja o que for. Se assim não fosse, não haveria sequer relação com o outro.
+
+O comum é esta dinâmica; caso contrário viveríamos todos no círculo do real e não na apreensão do real, o que sabemos não ser o caso. O círculo que se tem como verdadeiro ajusta-se ao círculo maior que sou eu. Há benefício no modo de ser de esquerda do mundo; caso contrário não haveria massas de onde pudesse surgir o filósofo.
+
+O contínuo da vida não é um espírito que nos percorre; é local. Não há corpo conjunto: se eu perder um braço, mais ninguém o perde. A dependência do ser no tempo — se quisermos ser místicos —, a consciência percebida como contínua, não o é como substância, mas como relação. Não percebemos objetos, mas relações. É no pequeno-almoço que cada um comeu ontem, e não num pequeno-almoço comunal.
+
+O tautológico não vem da circularidade com o real, mas do fundamento que se pretende atribuir a algo contrário: um deus-ente qualquer, sempre menor e autorreferencial. Se não fosse assim, por que razão se teria aprimorado a relação do homem com o real pela agregação contínua do desconhecido em várias entidades, tantas quantas as luzes abertas no campo das potencialidades, e não numa entidade única, no eu?
+
+Não há coisa real senão atualizações. Há talvez uma certa entificação quando se fala de universos em cada coisa, ou de novos universos a cada atualização quântica, ou na essencialização das leis descobertas. O enquadramento aqui é estritamente descritivo: no real há o real a manifestar-se, sem espaço para outros reais que teriam de se manifestar pelos seus próprios reais, o que seria absurdo.
+
+A atualização acontece com a relação. A indeterminação existe enquanto não há relação que a determine.
+
+A matemática surge como língua quando não se consegue articular o real linguisticamente. Isso pode ser verdadeiro no processo, mas quando conhecido torna-se pedante não expressar o que se pensou. O pensamento morre no círculo da língua privada.
+
+Concedendo todos os não-realistas, pergunta-se: onde fica o real que é descoberto pela consciência e que não se resume à nossa consciência? Onde fica o contínuo aprimoramento da descrição se não tivesse de percorrer as cabeças de cada um e não apenas a de quem primeiro descreveu? O que seria sequer aprimoramento se não fosse relacional? Sem relação, não haveria contacto.
+
+A liberdade como valor é valor porque corresponde ao modo de apreensão do homem, mas é sobretudo evidência do que existe. Num universo determinista, a liberdade surge quando o homem se reconhece como aquele que pode afastar-se do campo causal físico da atualização.
+
+A ação humana consciente é livre nesse sentido, não como conclusão, mas como descrição. É como dizer que uma pedra rola pela colina, enquanto o homem pode escolher o passo e cair ou não cair. Dizer que o homem é livre é dizer o que ele é: aquilo que se mexe no seu campo de possibilidades, que escolhe onde se mexer e onde ampliar esse campo.
+
+O ser consciente reflexivo é o único que amplia o seu campo de possibilidades porque o conhece. Reconhecer a liberdade do homem não é uma necessidade interna, mas correspondência com o real. É uma proposição verdadeira porque corresponde ao que é.
+
+Por isso, qualquer pergunta de círculo menor — no fundo todas — sobre o melhor modo de viver, só pode ter resposta se preservar a correspondência com o real. E, neste ponto, liberdade e dignidade aproximam-se, não por identidade moral, mas por estrutura ontológica comum: ambos são livres. Fora isso, qualquer resposta depende sempre de saber se preserva essa correspondência — e não creio que hoje nenhuma preserve.
+
+## F0089 — Bom governo, leis como descrições do real e universalidade da liberdade e dignidade
+
+O bom governante é aquele que luta contra o constante mapeamento que o homem quer fazer sobre a realidade, preservando a liberdade e a dignidade. É aquele que faz do governo o campo onde o homem pode atuar, restringindo apenas a ação na relação entre a liberdade e a dignidade de cada um.
+
+Por isso se chama leis às leis civilísticas. Depois, como é óbvio, tudo se quer abranger e tudo se chama lei, mas as leis civilísticas e as leis físicas são, no fundo, leis: descrições das regularidades dos modos de ser.
+
+Um dos modos de ser do homem é comprar e vender, trocar, dar e receber, mutuar, emprestar. Isto é verdade desde o Código Civil napoleónico e continuará a ser verdade em todos os sistemas que preservem a liberdade e a dignidade. O sinalagma perfeito destas relações jurídicas traduz a correspondência do real com a liberdade e a dignidade.
+
+Como poderia ser de outro modo? Se há paridade ontológica entre as pessoas que compõem uma sociedade, então há regularidade nos modos de ser entre modos de ser iguais. As posições filosóficas opostas teriam de aceitar, pela sua própria lógica, que não existissem arquétipos nem modos de ser estáveis.
+
+Dizer que cada sociedade tem os seus próprios valores e que os valores axiológicos diferem entre sociedades — que umas batem nas mulheres e outras não produzem a panóplia de direitos humanos — falha o ponto central. A questão é sempre o real.
+
+Os círculos internos vão sempre existir, porque são locais. As causas e os efeitos são sempre locais. Os modos de ser internos de cada sociedade são justificáveis pelas próprias sociedades. A questão é saber se essa sociedade toca no real.
+
+Se toca no real, então os modos de ser que emergem — liberdade e dignidade — são os mesmos. Perguntar se há dignidade em sociedades que batem nas mulheres é perguntar se essas sociedades ainda não vivem numa parte do real que já foi iluminada por outras. Saber que vivem de modo diferente por viverem em erro já é um dado.
+
+## F0090 — Educação como condição da liberdade, infância, continuidade e criação da consciência
+
+Estava a pensar na educação desde o Renascimento e na sua aplicação política com o liberalismo: percebeu-se que a educação do homem é aquilo que permite que o homem seja livre. Sem educação não existiria liberdade. E é natural que assim seja.
+
+O que decorreu depois foi deixar de se perguntar o que é preciso fazer para manter verdadeira a afirmação de que o homem é livre e de que as sociedades, para prosperarem, têm de manter o homem livre — o que exigiria focar a educação nesses termos — passando-se antes a discutir o próprio termo. Confunde-se educação com métricas de literacia. É o mesmo problema de sempre: recolocar o eu fora da realidade.
+
+É tentar resolver a discrepância de valências individuais fazendo o real adequar-se ao eu, em vez de colocar o eu dentro do real. Esquece-se que não se dá educação: oferece-se educação. Cada um acaba por recebê-la ou não.
+
+A questão do melhor método de ensino é colocada como se fosse necessário conhecer todos os sistemas errados para se poder falar do correto, em vez de se afirmar a evidência tautológica: a criança sabe melhor se primeiro souber o que é isto que existe e o que é isto de eu existir.
+
+Uma criança sem contacto com o real — que deveria ser dado pelo pai e pela mãe — sucumbirá a todos os modos de contacto dependentes apenas do eu. Cresce-se depois já deparado com uma compartimentalização definida com precisão terminológica, e pergunta-se como é que alguém não saberia nada.
+
+O conhecimento humano é sempre compartimentalizado; não se pode querer fazer depender o real de respostas internas a domínios de conhecimento que nem sequer são tratados de forma integrada. Vê-se isso quando se discute Wittgenstein: as proposições fecham o discurso excluindo o real, e quando se tenta integrar o real diz-se que já é outra conversa.
+
+É perturbador a facilidade com que se relega o real e se continuam a pedir justificações internas. O ser em círculos, pela sua continuidade e localidade, desenvolve-se desde a criança com estruturas herdadas num quadro inicialmente vazio, com limites causais, que vai sendo preenchido por inscrições — como o rasto do caracol, o fumo do avião, a marca deixada no percurso.
+
+É absurdo continuar a propor que a consciência, por si só, seja causa do mundo. Esquece-se que o homem tem infância. Se a consciência fosse extra-corpo ou causa do corpo, ter-se-ia de admitir simultaneamente que é o corpo que desenvolve a consciência.
+
+A consciência não tenta expandir um espaço pré-definido; está a criar-se. A complexidade das suas relações vai-se atualizando. Ao nascer, herda-se tudo, e as atualizações dependem necessariamente das anteriores. Sem isso não haveria continuidade nem relação.
+
+A luta é sempre entre o ser como é num dado momento e a possibilidade de mudança. A birra da criança é apenas a manifestação imediata da vontade. A consciência são sentimentos refinados, feedbacks internos. Só posteriormente se consegue separar, priorizar, escolher e alterar o modo de ser — não já por causalidade, mas por liberdade.
+
+## F0091 — Estrutura da crítica, verticalidade do real e erro do extra-real
+
+Estou a pensar em como a crítica deve ter, pelo menos a minha crítica, esta estrutura, este modo. O modo seria a crítica a qualquer pensamento, depois a crítica a qualquer autor ou conjunto de autores, podendo ser fiel aos grandes, porque o resto é discorrência de discurso: aperfeiçoamento dos círculos já descobertos pela característica humana de viver em nichos e maximizar a intelectualização desses nichos.
+
+A crítica seria a identificação e descrição daquilo que se diz sobre o que é, em todas as amplitudes, constrições e relações. Depois, enquadrar isso no conjunto maioritário de proposições possíveis sobre os temas tratados. Fazer uma introdução que funcione como sumário, articulando de forma inteligível aquilo que o pensamento pensa.
+
+Esse sumário tem de ter uma verticalidade do real: não apenas enunciar, mas descrever amplamente. Descrever onde o pensamento pensa — se pensa sobre si próprio ou se pensa sobre o real.
+
+Há também a crítica à filosofia que deixa tudo às ciências e inventa um gap para se declarar ignorante, recusando propor conteúdo por não ter objeto próprio. A chamada filosofia da consciência não descreve o que é ser um ser consciente reflexivo nas suas relações com o real; limita-se a círculos técnicos.
+
+Outra crítica é dirigida aos que inventam uma entidade extra-real apenas para negar o estatuto filosófico e permanecer no círculo local. E também aos argumentos que invocam o maravilhoso, o fantástico e o sublime como extra-real — esquecendo que o mundo quântico é real.
+
+## F0092 — Imagética do campo potencial, atualização e critério do real
+
+Penso imageticamente o campo virtual, a energia do próprio tecido do universo, a potencialidade. Imagino isso a fazer aparecer agregações, espaços agregados. Consigo ver volume, sentir massa, e ver algo diferente da própria energia: um campo de partículas enquanto atualizadas, mas também um campo que suporta a própria atualização.
+
+Imagino o saltitar destes aglomerados e a visualização de objetos maiores — átomos, moléculas — como atualizações num campo potencial onde tudo existe: tanto as atualizações como o próprio campo potencial. Isso dá espaço a todas as estruturas moleculares, a tudo o resto. Está lá tudo.
+
+Daí a pergunta: qual o melhor modo de adequação ao real? Onde está a verdade? O melhor modo verdadeiro há de estar sempre relacionado com isto. Quanto melhor for a descrição, maior a aproximação ao real; quanto maior o conhecimento do real, maior a possibilidade de interação, relação e conexão com o que existe e com o que eu sou.
+
+Isto pode ser resumido assim: tu podes fazer tudo, és livre, mas há coisas que, se fizeres, serão mais reais. Sem apelar a utilitarismos, ontologismos ou outros ismos. Todas essas filosofias têm um artifício cifrado.
+
+O que é necessário é uma limpeza: limpeza da falsa filosofia. Clarificação dos termos pelo que eles são, no seu ponto mais simples, simples mas abrangente. Nas conexões necessárias de cada afirmação, de cada coisa que se possa dizer.
+
+O que se exige é o escrutínio não relativista da qualidade filosófica. Dizer: isto é o que é; isto é o porquê do que é; isto é o que os melhores filósofos dizem sobre isto que está a ser descrito. Onde é que erram? Onde é que convergem nos mesmos erros? Simplesmente por não seguirem o caminho do que já se sabe sobre o próprio real.
+
+## F0093 — Crítica ao utilitarismo moral, ideologia, morte da filosofia e ismos como racionalizações
+
+Estava a ouvir o Sam Harris e a pergunta era se acabar com a guerra seria bom para todos e, logo, a coisa boa a fazer, porque somos seres conscientes e o que é bom para a sociedade é bom para o indivíduo. Quando questionado se o indivíduo que quer continuar a produzir e vender armas estaria errado nas suas preferências, a resposta foi que sim, porque visto de cima a sociedade não está tão boa como podia ser. E quando se pergunta o que fazer se esse indivíduo não quiser aderir à prescrição, responde-se que esse é um dos que se fecha da sociedade, indo mais longe ao dizer que, se houvesse uma máquina que mudasse o interruptor do homem para preferir estados alegres e bonitos, isso seria o que se deveria fazer.
+
+Tantos erros em cada frase: suposições, egocentrismo, visão curta do campo das possibilidades, subjugação do real a um critério de verdade dependente da sociedade, afastando o homem do real e ficando apenas com o fluxo, a encarnação de viver no processo.
+
+Ele não entra sequer na lista de filósofos a considerar; é um ideólogo. Hoje não há filósofos porque se matou a filosofia. A filosofia dominante é a agnóstica, como só poderia ser, por achar que o objeto da filosofia é o porquê e não o que é. Operando no campo do que não se sabe, o filósofo reina no agnosticismo e na cacofonia dos léxicos internos.
+
+O que se vê são redescobertas de pontos de vista antigos: neo-aristotelismos, neo-platonismos. Mas o ponto de vista deveria ser encarar o mundo com a sua própria trilogia e o homem a agir nele com as suas virtudes, sem postular uma barreira entre a realidade e a apreensão.
+
+Qualquer filosofia acaba sempre por repetir isto. Ninguém se preocupa em sair deste ponto de vista. Não se pergunta como se deve pensar, apenas se pensa. A filosofia retirou-se da sua utilidade, e o homem perdeu qualquer farol de sabedoria.
+
+A técnica subsiste porque depende do real. O progresso tecnológico só existe porque se descreve o que é. E, no meio do fluxo indiferenciado de bilhões, há algumas vozes técnicas que lembram que a técnica existe pelo real. Não são filósofos, mas estão lá.
+
+Sem a convergência entre progresso tecnológico e cultura, não haveria figuras que postulam a verdade como necessidade. O resto joga no jogo do processo, da comunicação.
+
+Todos os ismos — hedonismos, epicurismos, subjetivismos — são justificações de modos de ser, racionalizações internas de existências em círculos fechados. São princípios derivados do eu que pretendem aplicar-se universalmente ao real, fechando ainda mais o círculo e impondo modos de ser.
+
+A crítica só é válida se for verdadeira. O realismo que exclui o homem só existe se não se colocar o homem no real. Porque este pensamento não existe? Porque ninguém junta as peças já conhecidas? Pelo formalismo da filosofia, pela compartimentalização do conhecimento, pela sombra da ciência, pela proliferação de professores que resumem filosofia, pelo barulho, pelo cinismo.
+
+Os erros são fáceis de ver e inevitáveis ao ser reflexivo. A ausência de clareza espanta. Depois de visto, vê-se em todo o lado.
+
+## F0094 — Prescrição inevitável, liberdade, real, política e modo default do ser
+
+A prescrição é inevitável. Ainda que, na luta entre o real e o eu, a macrocultura se tenha feito independentemente disso, na política há sempre uma luta entre a restrição do modo de ser verdadeiro e a adequação ao modo de ser local. Isso é próprio dos círculos locais e do que afeta círculos que se tocam.
+
+Há o exemplo do Mestre: a razão principal que o levou a agir foi aquilo que abriu o campo das possibilidades futuras, o primeiro caminho que permitiu todas as curvas seguintes. Fundou isso na luta contra a restrição da liberdade de expressão — que é liberdade de pensamento — logo, liberdade de ser. É um limite autoimposto com impacto monumental na vida humana, porque usamos a linguagem para comunicar: fala, escrita, gestos. Esse agir corresponde à liberdade do ser reflexivo dentro da realidade, para melhor conhecê-la e daí extrair possibilidades.
+
+Mesmo num ponto de vista pragmático, aplicado ao círculo dependente do modo de ser verdadeiro, não se poderia escolher uma posição política que restrinja a liberdade de expressão. A divisão manifesta-se globalmente entre restrição e preservação da liberdade.
+
+De onde não resultam prescrições? As prescrições são necessárias pelo próprio sistema: descrições do modo como qualquer ser reflexivo existe. Qualquer ser reflexivo vive nesta dualidade, pela sua própria estrutura. As sociedades, sendo feitas de pessoas, ampliam isto à escala macro.
+
+A questão final é sempre: qual o modo de ser a adotar? Melhor dizendo, qual o melhor modo de ser que cada um deve adotar? Qualquer um que queira — sabendo que os modos contrários ao real serão piores por qualquer métrica. A única métrica objetiva é a correspondência com o real.
+
+A liberdade existe em cada decisão consciente, quando se interrompe o viver mecânico e se pergunta: “o que devo fazer?”. É um ajuste do eu ao ser, apreendido localmente. O ser inclui as características animais de preservação da comunidade, mesmo quando não coincidem com abstrações intelectuais.
+
+Os modos de vida locais pedem respostas locais. Isso não invalida limites do real: não se pode voar. A liberdade é o campo da relação do ser reflexivo com o real, mediada pela representação.
+
+Kant estava certo ao reconhecer a mediação da apreensão, mas errou ao conferir-lhe estatuto ontológico separado. Faltava-lhe o conhecimento biológico moderno. O espantoso é que, mesmo com o imaginário atual, os erros persistam.
+
+Wittgenstein enfrenta o mesmo problema: a incapacidade de reconciliar o real com aquilo que o apreende. O modo default do ser humano não é viver na descrição do que é, mas na simbolização do que é. Vive-se na representação.
+
+O verdadeiro filósofo ajusta a representação às condições que a tornam possível. Não confunde o HTML com o funcionamento do sistema. Mas o modo default tem de ser assim — viver na representação — porque, caso contrário, a existência seria insuportável e não haveria relações humanas.
+
+## F0095 — Causalidade emprestada, potencialidade, atualidade e erro categorial
+
+Estava a ouvir o Alex falar sobre causas hierárquicas e causas emprestadas, causalidade horizontal no tempo e vertical até à estrutura do argumento. A relação causal teria um regresso infinito até aquilo que permite cada estágio. Tudo para concluir que não há causal power atual, tudo é borrowed, e no fim tudo se limita às preferências.
+
+Isto é viver dentro das categorias da filosofia. Olham para a multiplicidade de variações no círculo da liberdade humana sem ver limites, e por isso assumem que tudo pode ser, que nada é constrangido. Depois assentam sempre num emotivismo, típico do contemporâneo.
+
+Erram quando postulam qualquer coisa aplicável a outros círculos que não a descrição do eu. No círculo local da análise do processo do eu até podem tocar uma ou duas verdades, ainda que contaminadas.
+
+Depois estava a ouvir o Alex falar sobre potencialidade e atualidade. Olham para as coisas como se fossem slides de pictogramas. Dizem que a potencialidade já tem de existir para se poder atualizar. Que a atualização já tem de existir para a potencialidade se atualizar.
+
+Dá o exemplo da caneca de café: teria de haver a potencialidade de se tornar fria para poder arrefecer; teria de haver um frigorífico onde estivesse para poder arrefecer. Isto não é assim que se passa.
+
+A potencialidade é a totalidade das possíveis atualizações. Num sistema como o nosso, calor e frio não são entidades metafísicas, mas níveis de energia dos átomos que compõem aquilo que dizemos estar quente ou frio. Não tem nada a ver com existirem atualizações potenciais dependentes e necessárias como entidades separadas.
+
+## F0096 — Verdade, política, dever-ser e erro de escala
+
+Eu não tenho de saber a verdade sobre tudo, no sentido de ter de saber tudo. Da correspondência com o real não resulta uma proposição necessariamente verdadeira para qualquer problema de círculo menor. Tem é de depender do real.
+
+Quando se pergunta qual é a melhor política, a melhor decisão política, aquilo que vai enquadrar o modo de ser coletivo de uma sociedade, isso é normalmente feito por um governo e tem de depender da realidade. A multiplicidade de respostas possíveis é sempre dependente das relações existentes, tanto no círculo local como com o real.
+
+O que acontece normalmente é: há uma parca descrição do real, do ser; depois há uma proposição; depois uma prescrição; depois algo a operar no dever-ser. Analisa-se apenas o dever-ser e esquece-se o poder-ser, que é onde está a verdade.
+
+Quer-se propor uma medida qualquer — por exemplo, por causa de uma emergência climática — e afunda-se um país inteiro. Entretanto, somos responsáveis por 0,5% das emissões globais. Talvez o problema esteja mal descrito. Talvez o dever-ser esteja desconectado do ser.
+
+Há verdade nas alterações climáticas e na intensificação dessas alterações pela existência de bilhões de seres humanos industrializados. Isso é real. Mas o fenómeno descrito é global, planetário, diz respeito à atmosfera inteira. É maior do que o círculo onde se quer operar.
+
+O efeito borboleta funciona como metáfora, mas quem vive na representação da ideia já não vive na ideia, vive na forma simplificada. Perdem-se as nuances, perde-se o resto daquilo que existe e que não está a ser considerado.
+
+O dever-ser torna-se prejudicial porque representa mal. Produz modos de pensar piores e modos de ser piores, por viver numa representação ridícula de uma ideia.
+
+Este é o modo de ser genérico: operar localmente, adaptar-se ao nicho, ajustar representações à vivência imediata, corrigir e moldar sem grande esforço intelectual. Mas não ter respostas certas para problemas fora da proximidade.
+
+## F0097 — Consciência, erro categorial e filosofia como atividade no real
+
+O único defeito, se assim quisermos pôr, da filosofia que eu tenho vindo a construir é que é feita por mim.
+
+A própria lógica de Wittgenstein, pelos seus próprios critérios, faz pouco sentido. Aquilo que opera no quadro lógico vive fora da relação em que está relacionado; o discurso, por outro lado, é consumido pela relação e é manifestação física de alguém que tenta, que quer, que sabe que há um desajuste no que diz, que sente a mentira do pensamento, mas não está pronto para trocar o ponto de vista. E trocar o ponto de vista é quase trocar de cérebro.
+
+Julgar, atribuir valor, representar algo, é o que caracteriza qualquer relação entre seres conscientes reflexivos. Há a representação que o outro faz de mim, a minha representação do outro, a minha representação do que o outro faz de mim, e ainda a representação do que o outro representa sobre mim. A relação obriga à consciência integrada no sistema; não há consciência extra-real.
+
+Se não se aceitam as verdades sobre aquilo em que o nosso sistema assenta — verdades empíricas e racionais — então quaisquer outros pontos desmontam-se nos seus próprios termos. A consciência integrada no real faz com que qualquer parâmetro verdadeiro seja aquele que é real, porque é nele que está contido.
+
+Sem relação, que é prévia à consciência, tudo cai. A relação é real. O vazio também é real, porque contém as potencialidades de fazer emergir o real. O campo existe. O vazio é tela.
+
+Toda a filosofia é uma abordagem ao real. Todas as direções filosóficas compartimentalizam e depois tentam universalizar a compartimentação. Muitos pensamentos olham para relações de poder entre indivíduos e daí extraem proposições universais. É erro de círculo ontológico.
+
+A identificação de estruturas como pessoas jurídicas, centros de imputação, diretores, presidentes, organizações, resulta da perceção de círculos de potencialidade maiores que agregam círculos menores. Mas a descrição é parca, logo as soluções são más. As prescrições desligadas do poder-ser geram apenas construções imaginárias, falsas, absurdas, tanto na análise como na aplicação.
+
+Marx entra aqui como exemplo: identifica um círculo maior visível apenas a partir de um ponto localizado. Ilumina um canto da sala, mas confunde-o com a totalidade da sala.
+
+A filosofia é a atividade do ser humano na sua relação com o real. Não faz sentido aspirar à verdade sem o real como termo da ação. A apreensão é contínua com o movimento do ser. Separar a consciência como algo que opera “por cima” do real é antirreal, fantasioso.
+
+Os símbolos ontológicos — ser, não-ser, eu — são funcionais. São apreendidos por relação, não pela coisa em si. A apreensão é sempre tardia relativamente à atualização do real. As representações referem-se sempre ao real, ainda que internas.
+
+A epistemologia de Kant não tem implicações ontológicas; quando bem descrita, confirma-as. O afastamento do real explica-se pelo modo de apreensão individual e gera formas cada vez mais distantes do real, como certas psicologias que deslocam o eu para uma esfera fantasmagórica.
+
+O panpsiquismo é isto ao quadrado. O eu é um arranjo de atualizações estruturais com mecanismos de manutenção. Cortem-me e vejam: há células, não há universos internos. Cada localidade que me compõe é atualização de potencialidades dessa localidade. A consciência não absorve o real; é uma atualização local dele. Qualquer filosofia que faça o contrário é erro categorial.

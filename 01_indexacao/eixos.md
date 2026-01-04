@@ -705,3 +705,1166 @@ Primazia emocional como consequência energética e adaptativa.
 **Origem:** F0056
 
 Conflito entre linguagem/conceito e realidade estruturante.
+
+## E117 — virtude vivida vs virtude sistematizada
+**Origem:** F0057
+
+Tensão entre a virtude enquanto modo de ser real e a virtude enquanto esquema teórico explicativo.
+
+---
+
+## E118 — dialética como meio vs dialética como fim
+**Origem:** F0057
+
+Contraste entre a dialética enquanto instrumento de apreensão do real e a sua autonomização como estrutura auto-suficiente.
+
+---
+
+## E119 — apreensão do real vs representação funcional
+**Origem:** F0057
+
+Tensão entre o contacto com o real e a operação mediada por representações totalizantes.
+
+---
+
+## E120 — crença proposicional vs modo de ser encarnado
+**Origem:** F0057
+
+Passagem da crença enquanto conhecimento para a crença enquanto estrutura ontológica vivida.
+
+## E121 — possibilidade vs construção
+**Origem:** F0058
+
+Relação entre o campo de possibilidades do ser e a efetiva construção humana no real.
+
+---
+
+## E122 — representação vs negação do real
+**Origem:** F0058
+
+Contraste entre a representação como reconhecimento das condições reais e a leitura errada da representação como fuga ao mundo.
+
+---
+
+## E123 — diferença ontológica vs exceção ontológica
+**Origem:** F0058
+
+Tensão entre reconhecer diferenças reais entre entes e atribuir estatuto de exceção ontológica ao humano.
+
+---
+
+## E124 — emergência vs criação ex nihilo
+**Origem:** F0058
+
+Distinção entre surgimento condicionado pelo ser e aparecimento sem fundamento ontológico.
+
+---
+
+## E125 — potencialidade vs atualidade da relação
+**Origem:** F0058
+
+Contraste entre possibilidades latentes e a exigência de atualidade quando há relação efetiva no ser.
+
+## E126 — deteção vs representação
+**Origem:** F0059
+
+Contraste entre a relação direta e imediata com o real e a relação mediada por representações.
+
+---
+
+## E127 — viver no ambiente vs viver na representação
+**Origem:** F0059
+
+Tensão entre a existência animal direta e a existência humana mediada simbolicamente.
+
+---
+
+## E128 — continuidade biológica vs rutura ontológica
+**Origem:** F0059
+
+Continuidade evolutiva do organismo em tensão com a emergência de novos círculos ontológicos.
+
+---
+
+## E129 — mediação crescente vs imediatismo natural
+**Origem:** F0059
+
+Contraste entre o aumento da mediação descritiva e a resposta direta ao meio.
+
+---
+
+## E130 — mal criado vs mal transformável
+**Origem:** F0059
+
+Tensão entre atribuir ao homem a origem do mal e reconhecer nele a única capacidade de o transformar.
+
+## E131 — ser vs dever-ser
+**Origem:** F0060
+
+Tensão aparente dissolvida pela identidade ontológica entre ser, pode-ser e dever-ser.
+
+---
+
+## E132 — valores locais vs valores de círculo maior
+**Origem:** F0060
+
+Distinção entre normatividades internas a círculos menores e critérios válidos para círculos ontológicos mais amplos.
+
+---
+
+## E133 — mal como entidade vs mal como erro
+**Origem:** F0060
+
+Contraste entre conceber o mal como realidade positiva ou como falha descritiva-operativa.
+
+---
+
+## E134 — determinismo ontológico vs liberdade humana
+**Origem:** F0060
+
+Relação entre estrutura necessária do ser e capacidade humana de quebrar cadeias causais locais.
+
+---
+
+## E135 — circularidade lógica vs circularidade ontológica
+**Origem:** F0060
+
+Diferença entre tautologia como erro formal e circularidade como estrutura do real.
+
+## E136 — consciência necessária vs relação suficiente
+**Origem:** F0061
+
+Contraste entre exigir consciência reflexiva e reconhecer a suficiência ontológica da relação no ser.
+
+---
+
+## E137 — potencialidade vs atualização
+**Origem:** F0061
+
+Tensão entre o campo virtual do possível e a sua concretização no real.
+
+---
+
+## E138 — dever-ser abstrato vs descrição do real
+**Origem:** F0061
+
+Contraste entre normatividade ideal e critério descritivo.
+
+---
+
+## E139 — reconhecimento situado vs reconhecimento absoluto
+**Origem:** F0061
+
+Diferença entre conhecer limitado por meio e a ideia incoerente de conhecimento sem meio.
+
+---
+
+## E140 — pluralidade existencial vs condenação normativa
+**Origem:** F0061
+
+Tensão entre diversidade dos modos de ser e tentativas de hierarquização moral abstrata.
+
+## E141 — potencialidade inscrita vs potencialidade ampliada
+**Origem:** F0062
+
+Distinção entre o campo de possibilidades existente no ser e a sua ampliação pela consciência reflexiva.
+
+---
+
+## E142 — coerência interna vs adequação ao real
+**Origem:** F0062
+
+Contraste entre a lógica interna de um círculo e a sua validade ontológica mais ampla.
+
+---
+
+## E143 — liberdade reflexiva vs negação do real
+**Origem:** F0062
+
+Tensão entre a liberdade como exploração do real e a liberdade como rejeição da realidade.
+
+---
+
+## E144 — inovação vs inércia animal
+**Origem:** F0062
+
+Contraste entre abertura de novos campos de possibilidade e a tendência biológica para a repetição.
+
+---
+
+## E145 — exploração progressiva vs deslocação total
+**Origem:** F0062
+
+Distinção entre iluminar novos espaços mantendo os anteriores e a impossibilidade de uma migração total imediata.
+
+## E146 — bem local vs bem estrutural
+**Origem:** F0063
+
+Contraste entre avaliações morais imediatas e o bem enquanto estrutura ontológica.
+
+---
+
+## E147 — ação cotidiana vs critério do real
+**Origem:** F0063
+
+Diferença entre o valor de ações recorrentes e o valor fundacional da adequação ao real.
+
+---
+
+## E148 — descrição do real vs intelectualização formal
+**Origem:** F0063
+
+Tensão entre instituições como preservação do real e instituições como labirintos formais.
+
+---
+
+## E149 — liberdade ontológica vs regulação excessiva
+**Origem:** F0063
+
+Contraste entre sistemas que expandem potencialidades e sistemas que tentam controlá-las previamente.
+
+---
+
+## E150 — existir precede o ser vs ser cria o existir
+**Origem:** F0063
+
+Dois modos estruturais de fundamentar sistemas sociais e jurídicos.
+
+## E151 — infância aberta vs adultez fechada
+**Origem:** F0064
+
+Contraste entre abertura ontológica inicial e fechamento sistémico posterior.
+
+---
+
+## E152 — procura do real vs adaptação ao sistema
+**Origem:** F0064
+
+Tensão entre conhecer o que é e aprender a encaixar no que existe.
+
+---
+
+## E153 — descrição ontológica vs imposição normativa
+**Origem:** F0064
+
+Diferença entre descrever o ser e prescrever comportamentos.
+
+---
+
+## E154 — mediação humana vs mediação artificial
+**Origem:** F0064
+
+Contraste entre contacto humano com o real e mediação autorreferencial do robô.
+
+---
+
+## E155 — sistema como meio vs sistema como fim
+**Origem:** F0064
+
+Tensão entre sistemas como instrumentos de transmissão do real e sistemas como realidade substituta.
+
+## E156 — relativismo vs verdade ontológica
+**Origem:** F0065
+
+Contraste entre a permanência no horizonte subjetivo e a exigência de adequação ao real.
+
+---
+
+## E157 — adaptação local vs sobrevivência alargada
+**Origem:** F0065
+
+Tensão entre viver harmonicamente num nicho e responder a desafios de maior escala.
+
+---
+
+## E158 — filosofia integradora vs especialização fragmentária
+**Origem:** F0065
+
+Diferença entre pensamento orientado para o todo e pensamento confinado a subcampos técnicos.
+
+---
+
+## E159 — processo representacional vs mediação com o real
+**Origem:** F0065
+
+Contraste entre viver sobre processos e viver orientado pelo real.
+
+---
+
+## E160 — arquétipo simbólico vs domínio técnico
+**Origem:** F0065
+
+Transição da mediação simbólica para o controlo técnico como forma de relação com o real.
+
+## E161 — norma cultural vs lei formal
+**Origem:** F0066
+
+Contraste entre imperativos morais informais e normatividade jurídica durável.
+
+---
+
+## E162 — sancionamento social vs sancionamento jurídico
+**Origem:** F0066
+
+Diferença entre punição simbólica e punição institucional.
+
+---
+
+## E163 — coerência interna vs coerência ontológica
+**Origem:** F0066
+
+Tensão entre normas coerentes dentro de um círculo e a sua adequação ao real.
+
+---
+
+## E164 — poder normativo vs estrutura do real
+**Origem:** F0066
+
+Contraste entre normas impostas por poder e normas derivadas do real.
+
+---
+
+## E165 — permanência estrutural vs atualização perdida
+**Origem:** F0066
+
+Agir contra o real conduz à perda de atualização do sistema.
+
+## E166 — continuidade vs fragmentação da consciência
+**Origem:** F0067
+
+Contraste entre consciência contínua e a hipótese de existência em flashes incoerentes.
+
+---
+
+## E167 — bem ontológico vs bem moral
+**Origem:** F0067
+
+Diferença entre o bem como descrição do real e o bem como entidade moral independente.
+
+---
+
+## E168 — colapso transformador vs colapso negativo
+**Origem:** F0067
+
+Tensão entre colapso entendido como perda e colapso entendido como reorganização do real.
+
+---
+
+## E169 — direção real vs projeção humana
+**Origem:** F0067
+
+Confronto entre a direção como estrutura do real e a direção como ilusão antropocêntrica.
+
+---
+
+## E170 — ser puro vs ser valorado
+**Origem:** F0067
+
+Diferença entre o ser enquanto existência e o ser enquanto descrito e avaliado.
+
+## E171 — continuidade ontológica vs separação artificial
+**Origem:** F0068
+
+Contraste entre continuidade do ser e criação de falsos problemas filosóficos.
+
+---
+
+## E172 — preservação do eu vs exigência do real
+**Origem:** F0068
+
+Tensão entre manter o modo de ser atual e alinhar-se com o real.
+
+---
+
+## E173 — visão local vs visão do todo
+**Origem:** F0068
+
+Diferença entre perceção fragmentária e compreensão ontológica global.
+
+---
+
+## E174 — normatividade externa vs normatividade universal
+**Origem:** F0068
+
+Assimetria entre impor normas aos outros e aceitar normas fundadas no real.
+
+---
+
+## E175 — liberdade fundacional vs relativismo degenerado
+**Origem:** F0068
+
+A mesma liberdade que funda a dignidade humana permite a dissolução relativista.
+
+## E176 — mediação vs real
+**Origem:** F0069
+
+Tensão entre focar a mediação e reconhecer o objeto mediado.
+
+---
+
+## E177 — filosofia fundacional vs filosofia segmentada
+**Origem:** F0069
+
+Contraste entre filosofia como conhecimento do real e filosofias menores compartimentalizadas.
+
+---
+
+## E178 — descrição viva vs sistema autónomo
+**Origem:** F0069
+
+Diferença entre filosofia como descrição do real e filosofia como sistema autorreferencial.
+
+---
+
+## E179 — conhecimento sábio vs conhecimento técnico
+**Origem:** F0069
+
+Tensão entre compreensão do todo e especialização restrita.
+
+---
+
+## E180 — epistemologia isolada vs ontologia integrada
+**Origem:** F0069
+
+Separação artificial entre conhecer e ser.
+
+## E181 — validade ontológica vs validade formal
+**Origem:** F0070
+
+Contraste entre verdade fundada no real e coerência interna de sistemas linguísticos.
+
+---
+
+## E182 — limitação cognitiva vs limitação ontológica
+**Origem:** F0070
+
+Diferença entre limites da apreensão e limites do ser.
+
+---
+
+## E183 — realidade vs mundo representado
+**Origem:** F0070
+
+Tensão entre o real enquanto é e o mundo enquanto construído.
+
+---
+
+## E184 — proliferação linguística vs coincidência com o real
+**Origem:** F0070
+
+A linguagem expande-se mais rapidamente do que a verdade.
+
+## E185 — possibilidade lógica vs possibilidade ontológica
+**Origem:** F0071
+
+Diferença entre o que pode ser dito e o que pode ser.
+
+---
+
+## E186 — representação vs real
+**Origem:** F0071
+
+A linguagem amplia a representação para além do real.
+
+---
+
+## E187 — corporalidade vs abstração
+**Origem:** F0071
+
+Tensão entre condição material e esquecimento ontológico.
+
+---
+
+## E188 — idolatria individual vs círculo maior
+**Origem:** F0071
+
+Contraste entre culto do indivíduo e integração no real mais amplo.
+
+---
+
+## E189 — normatividade ontológica vs normatividade subjetiva
+**Origem:** F0071
+
+Diferença entre dever-ser fundado no ser e dever-ser fundado no eu.
+
+## E190 — consciência emergente vs consciência dissolvida
+**Origem:** F0072
+
+Contraste entre consciência como realidade integrada e consciência como ilusão ou identidade total com o ser.
+
+---
+
+## E191 — apreensão condicionada vs negação do quadro
+**Origem:** F0072
+
+Diferença entre reconhecer limites do conhecer e ignorar o quadro em que se conhece.
+
+---
+
+## E192 — conteúdo do argumento vs estrutura do quadro
+**Origem:** F0072
+
+O desacordo filosófico desloca-se do conteúdo para a organização do quadro conceptual.
+
+---
+
+## E193 — artificialidade teórica vs naturalidade ontológica
+**Origem:** F0072
+
+Tensão entre construções teóricas complexas e a simplicidade do que é.
+
+## E194 — ponto de vista vs separação ontológica
+**Origem:** F0073
+
+Contraste entre limitação epistemológica e divisão ontológica.
+
+---
+
+## E195 — ética encarnada vs ética hipotética
+**Origem:** F0073
+
+Diferença entre agir no real e decidir em cenários artificiais.
+
+---
+
+## E196 — lógica formal vs liberdade situada
+**Origem:** F0073
+
+Tensão entre dedução abstrata e ação humana concreta.
+
+---
+
+## E197 — consciência relacional vs consciência privada
+**Origem:** F0073
+
+A consciência como relação real versus consciência como interioridade isolada.
+
+## E202 — adaptação suficiente vs otimização máxima
+**Origem:** F0074
+
+Contraste entre viver de forma viável e procurar maximização abstrata.
+
+---
+
+## E203 — adequação ao real vs coerência interna
+**Origem:** F0074
+
+Tensão entre verdade ontológica e validação formal.
+
+---
+
+## E204 — animal encarnado vs sujeito formal
+**Origem:** F0074
+
+Diferença entre o homem enquanto organismo e o homem enquanto construtor de sistemas.
+
+---
+
+## E205 — real fundante vs real subordinado ao eu
+**Origem:** F0074
+
+Oposição entre ver-se como parte do real ou colocar o real abaixo do indivíduo.
+
+---
+
+## E206 — sabedoria integrada vs conhecimento compartimentalizado
+**Origem:** F0074
+
+Tensão entre compreensão do todo e especialização desconectada.
+
+## E207 — benefício próprio vs relação autêntica
+**Origem:** F0075
+
+A relação com o outro oscila entre instrumentalização e reconhecimento real.
+
+---
+
+## E208 — real vivido vs real apreendido
+**Origem:** F0075
+
+Diferença entre viver no real e viver na sua representação.
+
+---
+
+## E209 — critério exterior vs normatividade subjetiva
+**Origem:** F0075
+
+Tensão entre referência objetiva ao real e auto-legitimação do eu.
+
+---
+
+## E210 — ideologia coletiva vs fundamento ontológico
+**Origem:** F0075
+
+Os sistemas políticos perpetuam-se mesmo quando perdem contacto com o real.
+
+## E211 — presença vs comunicação expandida
+**Origem:** F0076
+
+Tensão entre contacto físico e mediação comunicacional.
+
+---
+
+## E212 — localidade vs não-localidade do conhecimento
+**Origem:** F0076
+
+Diferença entre conhecimento situado e conhecimento distribuído.
+
+---
+
+## E213 — alteridade ontológica vs continuidade do ser
+**Origem:** F0076
+
+O outro como ser separado ou como continuidade do mesmo real.
+
+---
+
+## E214 — consciência emergente vs consciência sensorial
+**Origem:** F0076
+
+A consciência depende da apreensão sensorial do real.
+
+---
+
+## E215 — descontinuidade hipotética vs continuidade necessária
+**Origem:** F0076
+
+Contraste entre modelos descontínuos da consciência e a atualização contínua do ser.
+
+## E216 — colapso vs atualização
+**Origem:** F0077
+
+Contraste entre leitura descontínua e leitura relacional do ser.
+
+---
+
+## E217 — vazio vs plenitude
+**Origem:** F0077
+
+O vazio como condição de possibilidade da complexidade.
+
+---
+
+## E218 — continuidade do ser vs implosão ontológica
+**Origem:** F0077
+
+A variação contínua permite estabilidade; a plenitude absoluta destruiria-a.
+
+---
+
+## E219 — ser em abstrato vs ser situado
+**Origem:** F0077
+
+Tensão entre o ser como conceito e o ser como algo que ocorre algures.
+
+## E220 — liberdade fundamental vs necessidades derivadas
+**Origem:** F0078
+
+A liberdade funda tensões com a reprodução, cultura e continuidade.
+
+---
+
+## E221 — autoconhecimento vs vida automática
+**Origem:** F0078
+
+Tensão entre reflexão existencial e inércia do modo de ser.
+
+---
+
+## E222 — potencialidade abstrata vs capacidade real
+**Origem:** F0078
+
+Diferença entre o que se pode ser e o que efetivamente se pode realizar.
+
+---
+
+## E223 — transmissão cultural vs extinção do saber
+**Origem:** F0078
+
+O conhecimento só sobrevive se for transmitido.
+
+## E224 — verdade objetiva vs vontade subjetiva
+**Origem:** F0079
+
+A realidade impõe-se independentemente do querer humano.
+
+---
+
+## E225 — continuidade existencial vs rutura arbitrária
+**Origem:** F0079
+
+Mudança possível apenas dentro de continuidade do ser.
+
+---
+
+## E226 — código moral real vs relativismo justificativo
+**Origem:** F0079
+
+Diferença entre normas enraizadas no real e justificações ad hoc.
+
+---
+
+## E227 — realidade fundante vs formalismo substitutivo
+**Origem:** F0079
+
+A substituição do real por discursos técnicos ou ideológicos.
+
+## E233 — adequação funcional vs arbitrariedade
+**Origem:** F0080
+
+Diferença entre instrumentos adequados e usos contingentes.
+
+---
+
+## E234 — critério ontológico vs debate tecnológico
+**Origem:** F0080
+
+O critério de verdade não depende das modas técnicas.
+
+---
+
+## E235 — ser determinante vs meio disponível
+**Origem:** F0080
+
+O modo de ser determina os instrumentos que surgem ou não.
+
+## E236 — funcionalidade básica vs abstração simbólica
+**Origem:** F0081
+
+Diferença entre viver orientado à necessidade e viver sobre representações complexas.
+
+---
+
+## E237 — ciclo natural vs progressão histórica
+**Origem:** F0081
+
+Contraste entre repetição adaptativa e expansão do campo das possibilidades.
+
+---
+
+## E238 — proximidade física vs mediação ampliada
+**Origem:** F0081
+
+Apreensão local em oposição à comunicação e representação à distância.
+
+## E239 — ser vs nada
+**Origem:** F0082
+
+Oposição ontológica absoluta entre existência e inexistência.
+
+---
+
+## E240 — campo de possibilidades vs vazio absoluto
+**Origem:** F0082
+
+Diferença entre vazio estruturante e nada ontológico.
+
+---
+
+## E241 — continuidade do ser vs interrupção impossível
+**Origem:** F0082
+
+A impossibilidade de um corte absoluto na existência.
+
+## E242 — limite ontológico vs auto-fundação humana
+**Origem:** F0083
+
+Oposição entre horizonte real e sujeito como centro absoluto.
+
+---
+
+## E243 — real físico vs subjetivação da experiência
+**Origem:** F0083
+
+A experiência sensorial como relação real ou como ilusão privada.
+
+---
+
+## E244 — possibilidade lógica vs atualização ontológica
+**Origem:** F0083
+
+Diferença entre possibilidade abstrata e realidade efetiva.
+
+---
+
+## E245 — descrição física vs formalismo linguístico
+**Origem:** F0083
+
+Tensão entre explicação enraizada no real e análise puramente formal.
+
+## E246 — poder-ser vs dever-ser
+**Origem:** F0084
+
+A passagem da possibilidade à normatividade.
+
+---
+
+## E247 — indivíduo apreendente vs coletivo delegante
+**Origem:** F0084
+
+A diferença entre conhecer e herdar símbolos.
+
+---
+
+## E248 — continuidade real vs relativismo simbólico
+**Origem:** F0084
+
+O real mantém-se enquanto o discurso relativiza.
+
+---
+
+## E249 — adaptação ao nicho vs transformação do nicho
+**Origem:** F0084
+
+Viver segundo o contexto ou transformá-lo.
+
+## E250 — descrição do ser vs sistema filosófico
+**Origem:** F0085
+
+Tensão entre realidade e construção teórica.
+
+---
+
+## E251 — dever-ser ontológico vs poder-ser abstrato
+**Origem:** F0085
+
+A normatividade enraizada no real contra possibilidades vazias.
+
+---
+
+## E252 — abertura ao real vs fechamento conceitual
+**Origem:** F0085
+
+O labirinto como metáfora do pensamento fechado.
+
+---
+
+## E253 — atualização visível vs essência fixa
+**Origem:** F0085
+
+O que aparece é sempre o movimento.
+
+## E254 — simplicidade vs hiperestrutura
+**Origem:** F0086
+
+Tensão entre clareza e sofisticação excessiva.
+
+---
+
+## E255 — memória vs instante
+**Origem:** F0086
+
+O pensamento exige continuidade temporal.
+
+---
+
+## E256 — génio individual vs herança coletiva
+**Origem:** F0086
+
+A criatividade depende do passado inscrito.
+
+---
+
+## E257 — processo vs ser
+**Origem:** F0086
+
+O processo é derivado, não fundamento.
+
+---
+
+## E258 — compartimentalização vs totalidade do real
+**Origem:** F0086
+
+O humano fragmenta porque não pode abarcar tudo.
+
+## E259 — eu vs real
+**Origem:** F0087
+
+Tensão entre centralidade do sujeito e exterioridade do ser.
+
+---
+
+## E260 — verdade como sistema vs verdade como relação
+**Origem:** F0087
+
+Oposição entre formalismo e ontologia relacional.
+
+---
+
+## E261 — crítica prescritiva vs crítica descritiva
+**Origem:** F0087
+
+Avaliar valores vs descrever o que é.
+
+---
+
+## E262 — bem externo vs bem na ação
+**Origem:** F0087
+
+Localização ontológica do valor.
+
+## E263 — eu vs real
+**Origem:** F0088
+
+Centralidade do indivíduo face ao campo ontológico.
+
+---
+
+## E264 — atualização vs entificação
+**Origem:** F0088
+
+Oposição entre processo real e reificação conceitual.
+
+---
+
+## E265 — liberdade descritiva vs liberdade normativa
+**Origem:** F0088
+
+Liberdade como facto, não como ideal.
+
+---
+
+## E266 — correspondência vs relativismo
+**Origem:** F0088
+
+A verdade depende do real, não do ponto de vista.
+
+## E267 — governo vs mapeamento excessivo
+**Origem:** F0089
+
+Tensão entre ordem e liberdade.
+
+---
+
+## E268 — lei descritiva vs lei normativa
+**Origem:** F0089
+
+Lei como reflexo do ser, não imposição arbitrária.
+
+---
+
+## E269 — universalidade vs relativismo cultural
+**Origem:** F0089
+
+O real como critério último.
+
+---
+
+## E270 — paridade ontológica vs hierarquização cultural
+**Origem:** F0089
+
+Igualdade estrutural contra distinções arbitrárias.
+
+## E271 — educação vs instrução técnica
+**Origem:** F0090
+
+Formação do ser vs acumulação de competências.
+
+---
+
+## E272 — infância vs sistema
+**Origem:** F0090
+
+Contato direto com o real vs mediação abstrata.
+
+---
+
+## E273 — causalidade vs liberdade
+**Origem:** F0090
+
+Da reação à escolha consciente.
+
+---
+
+## E274 — consciência criada vs consciência dada
+**Origem:** F0090
+
+A consciência como processo emergente.
+
+## E275 — crítica descritiva vs crítica avaliativa
+**Origem:** F0091
+
+Descrever antes de julgar.
+
+---
+
+## E276 — real vs auto-referência
+**Origem:** F0091
+
+Pensar o ser ou pensar o pensamento.
+
+---
+
+## E277 — ontologia vs especialização
+**Origem:** F0091
+
+Totalidade contra nichos.
+
+---
+
+## E278 — real vs extra-real
+**Origem:** F0091
+
+Erro categorial da transcendência inventada.
+
+## E279 — campo potencial vs objeto atualizado
+**Origem:** F0092
+
+O suporte do ser face às suas manifestações.
+
+---
+
+## E280 — descrição boa vs descrição pobre
+**Origem:** F0092
+
+Qualidade ontológica do discurso.
+
+---
+
+## E281 — liberdade abstrata vs liberdade real
+**Origem:** F0092
+
+Agir possível vs agir conforme o real.
+
+---
+
+## E282 — filosofia limpa vs filosofia cifrada
+**Origem:** F0092
+
+Clareza contra artifício conceitual.
+
+## E283 — bem agregado vs liberdade individual
+**Origem:** F0093
+
+O coletivo como critério contra o real.
+
+---
+
+## E284 — filosofia vs ideologia
+**Origem:** F0093
+
+Descrição do ser vs prescrição normativa.
+
+---
+
+## E285 — real vs processo
+**Origem:** F0093
+
+O ser contra o fluxo auto-referente.
+
+---
+
+## E286 — técnica vs filosofia
+**Origem:** F0093
+
+Descrição eficaz vs discurso vazio.
+
+## E287 — prescrição vs descrição
+**Origem:** F0094
+
+Normatividade como efeito inevitável do ser reflexivo.
+
+---
+
+## E288 — liberdade vs restrição política
+**Origem:** F0094
+
+Expressão como condição do campo das possibilidades.
+
+---
+
+## E289 — real vs representação
+**Origem:** F0094
+
+Simbolização necessária mas derivada.
+
+---
+
+## E290 — localidade vs verdade
+**Origem:** F0094
+
+Respostas locais dentro de limites ontológicos.
+
+## C595 — causalidade emprestada
+**Origem:** F0095  
+**Estado:** central
+
+Redução da causalidade a dependência infinita.
+
+---
+
+## C596 — causal power atual
+**Origem:** F0095  
+**Estado:** central
+
+Negado pela leitura hierárquica abstrata.
+
+---
+
+## C597 — emotivismo causal
+**Origem:** F0095  
+**Estado:** central
+
+Preferências como fundamento último.
+
+---
+
+## C598 — erro categorial da potencialidade
+**Origem:** F0095  
+**Estado:** central
+
+Reificação da possibilidade.
+
+---
+
+## C599 — potencialidade como totalidade de atualizações possíveis
+**Origem:** F0095  
+**Estado:** central
+
+Não entidade separada.
+
+---
+
+## C600 — leitura antirrealista do calor
+**Origem:** F0095  
+**Estado:** central
+
+Confusão entre níveis energéticos e categorias metafísicas.
+
+## E294 — fenómeno global vs decisão local
+**Origem:** F0096
+
+Desfasamento estrutural.
+
+---
+
+## E295 — descrição do ser vs prescrição normativa
+**Origem:** F0096
+
+Primazia invertida.
+
+---
+
+## E296 — conhecimento local vs problemas planetários
+**Origem:** F0096
+
+Limites naturais da ação humana.
+
+## E297 — compartimentação vs totalidade
+**Origem:** F0097
+
+Erro de confundir parte com o todo.
+
+---
+
+## E298 — consciência vs extra-realismo
+**Origem:** F0097
+
+Crítica ao estatuto ontológico diferenciado.
+
+---
+
+## E299 — descrição do real vs imaginação filosófica
+**Origem:** F0097
+
+Prescrições nascem da má descrição.

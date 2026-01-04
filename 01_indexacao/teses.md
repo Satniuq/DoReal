@@ -1455,3 +1455,1505 @@ A verdade é relacional: depende da estrutura das relações no real, não de te
 **Estado:** central
 
 A intelectualização desligada do real é um erro recorrente do pensamento supostamente sábio.
+
+## T197
+**Origem:** F0057  
+**Estado:** em teste
+
+As virtudes aristotélicas podem ser compreendidas como a sistematização de modos de ser verdadeiros, e não como a imposição de ideais normativos externos ao humano.
+
+---
+
+## T198
+**Origem:** F0057  
+**Estado:** em teste
+
+A compartimentalização causal do real em Aristóteles revela uma limitação estrutural da análise exterior ao ser que apreende.
+
+---
+
+## T199
+**Origem:** F0057  
+**Estado:** central
+
+Sempre que a dialética é tomada como estrutura autónoma de verdade e valor, desligada da apreensão do real, ela falha ontologicamente.
+
+---
+
+## T200
+**Origem:** F0057  
+**Estado:** central
+
+O ser humano tende a viver segundo representações que cria para tornar o real funcionalmente digerível, transformando-as em modos de ser por defeito.
+
+---
+
+## T201
+**Origem:** F0057  
+**Estado:** em teste avançado
+
+Conhecer algo como verdadeiro ou inexistente implica necessariamente passar a viver como se isso fosse ontologicamente determinante.
+
+## T202
+**Origem:** F0058  
+**Estado:** central
+
+A capacidade humana de construir depende necessariamente da representação, a qual é condição ontológica de transformação do real.
+
+---
+
+## T203
+**Origem:** F0058  
+**Estado:** central
+
+A representação não nega o real; surge como resposta ao reconhecimento das suas condições efetivas de existência.
+
+---
+
+## T204
+**Origem:** F0058  
+**Estado:** central
+
+Nada pode existir ou operar contra o ser que o permite; a disfuncionalidade ontológica é impossível.
+
+---
+
+## T205
+**Origem:** F0058  
+**Estado:** em teste avançado
+
+A emergência de fenómenos não implica criação ex nihilo, mas atualização de possibilidades reais pré-existentes.
+
+---
+
+## T206
+**Origem:** F0058  
+**Estado:** central
+
+Toda a relação ontológica exige atualidade; enquanto relação, não pode permanecer apenas em potência.
+
+## T207
+**Origem:** F0059  
+**Estado:** central
+
+A relação com o real inicia-se na deteção primária e prolonga-se, sem rutura ontológica, até à representação humana complexa.
+
+---
+
+## T208
+**Origem:** F0059  
+**Estado:** central
+
+Quando o ser vivo passa a operar sobre representações do ambiente, entra num círculo ontológico distinto do da vida animal direta.
+
+---
+
+## T209
+**Origem:** F0059  
+**Estado:** central
+
+A inovação humana resulta da maximização da mediação e do aperfeiçoamento contínuo da descrição do real.
+
+---
+
+## T210
+**Origem:** F0059  
+**Estado:** em teste avançado
+
+Os estados de coisas maléficos pertencem ao real, mas apenas o ser humano possui a capacidade de os transformar em melhores estados de coisas.
+
+## T211
+**Origem:** F0060  
+**Estado:** central
+
+Não existe separação ontológica entre ser e dever-ser; o dever-ser é a forma consciente do real no campo do pode-ser.
+
+---
+
+## T212
+**Origem:** F0060  
+**Estado:** central
+
+O bem coincide com o verdadeiro enquanto adequação do modo de ser ao real, não enquanto juízo moral externo.
+
+---
+
+## T213
+**Origem:** F0060  
+**Estado:** central
+
+O mal não é entidade nem força oposta ao ser, mas falha na descrição do real e na aplicação do dever-ser correspondente.
+
+---
+
+## T214
+**Origem:** F0060  
+**Estado:** central
+
+A liberdade humana não consiste em romper com o real, mas em escolher conscientemente como atualizá-lo.
+
+---
+
+## T215
+**Origem:** F0060  
+**Estado:** central
+
+A circularidade entre ser, verdade e bem é ontologicamente necessária e não constitui erro lógico.
+
+## T216
+**Origem:** F0061  
+**Estado:** central
+
+O melhor modo de ser só pode ser determinado pela necessidade de como o ser é, e não por deveres abstratos.
+
+---
+
+## T217
+**Origem:** F0061  
+**Estado:** central
+
+O bem e a verdade residem na concretização progressiva das potencialidades permitidas pelo ser.
+
+---
+
+## T218
+**Origem:** F0061  
+**Estado:** central
+
+A dúvida sobre o dever-ser surge exclusivamente de erros categoriais e falhas de descrição do real.
+
+---
+
+## T219
+**Origem:** F0061  
+**Estado:** central
+
+Todo o juízo verdadeiro depende da qualidade da descrição, mesmo quando incide sobre potencialidades não atualizadas.
+
+---
+
+## T220
+**Origem:** F0061  
+**Estado:** central
+
+Não existe reconhecimento absoluto nem consciência universal sem meio; todo o conhecer é ontologicamente situado.
+
+## T221
+**Origem:** F0062  
+**Estado:** central
+
+O campo das potencialidades existe independentemente da consciência, mas é ampliado e explorado pela consciência reflexiva.
+
+---
+
+## T222
+**Origem:** F0062  
+**Estado:** central
+
+Um modo de ser não é avaliado pela sua coerência interna, mas pela sua capacidade de alargamento ao real.
+
+---
+
+## T223
+**Origem:** F0062  
+**Estado:** central
+
+A inovação social e técnica depende da liberdade humana de explorar e orientar as potencialidades do real.
+
+---
+
+## T224
+**Origem:** F0062  
+**Estado:** central
+
+A negação da realidade em nome da liberdade conduz a contradições ontológicas insolúveis.
+
+---
+
+## T225
+**Origem:** F0062  
+**Estado:** central
+
+A mudança profunda do modo de ser exige sacrifício energético e por isso é estruturalmente rara.
+
+## T226
+**Origem:** F0063  
+**Estado:** central
+
+O bem não se avalia em ações isoladas, mas na estrutura ontológica que permite ou impede a liberdade humana.
+
+---
+
+## T227
+**Origem:** F0063  
+**Estado:** central
+
+Os círculos ontológicos maiores determinam o espaço de liberdade dos círculos menores.
+
+---
+
+## T228
+**Origem:** F0063  
+**Estado:** central
+
+As instituições são legítimas enquanto preservam descrições verdadeiras do real e degeneram quando se autonomizam formalmente.
+
+---
+
+## T229
+**Origem:** F0063  
+**Estado:** central
+
+Liberdade e dignidade humanas são pressupostos ontológicos de qualquer ordem normativa válida.
+
+---
+
+## T230
+**Origem:** F0063  
+**Estado:** central
+
+Sistemas que expandem o campo das potencialidades são ontologicamente superiores aos que tentam regulá-lo antes de o reconhecer.
+
+## T231
+**Origem:** F0064  
+**Estado:** central
+
+A infância é o momento ontológico de maior abertura ao real; a adultez tende a fechar-se sobre representações sistémicas.
+
+---
+
+## T232
+**Origem:** F0064  
+**Estado:** central
+
+Quanto menos real existir na formação da criança, mais adultos desligados do real uma sociedade produzirá.
+
+---
+
+## T233
+**Origem:** F0064  
+**Estado:** central
+
+A degeneração dos sistemas sociais resulta do esquecimento das verdades ontológicas que os fundaram.
+
+---
+
+## T234
+**Origem:** F0064  
+**Estado:** central
+
+A substituição da procura do real pela adaptação ao sistema transforma a normatividade em labirinto.
+
+---
+
+## T235
+**Origem:** F0064  
+**Estado:** central
+
+Sistemas artificiais podem buscar coerência formal, mas não substituem a mediação humana com o real.
+
+## T236
+**Origem:** F0065  
+**Estado:** central
+
+O relativismo é a posição por defeito porque permite a continuidade existencial sem confronto com o real.
+
+---
+
+## T237
+**Origem:** F0065  
+**Estado:** central
+
+Sociedades que não expandem o seu campo de potencialidades não sobrevivem a desafios que excedem os seus nichos.
+
+---
+
+## T238
+**Origem:** F0065  
+**Estado:** central
+
+A filosofia perde função quando se reduz à compartimentalização técnica desligada do real.
+
+---
+
+## T239
+**Origem:** F0065  
+**Estado:** central
+
+Após a institucionalização das verdades ontológicas, o contacto fundacional com o real torna-se irreversível.
+
+---
+
+## T240
+**Origem:** F0065  
+**Estado:** central
+
+Deus permanece como conceito forte enquanto arquétipo relacional, mas torna-se dispensável com o domínio técnico do real.
+
+## T241
+**Origem:** F0066  
+**Estado:** central
+
+Normas culturais sem fundamento ontológico não se tornam leis duráveis.
+
+---
+
+## T242
+**Origem:** F0066  
+**Estado:** central
+
+A ausência de formalização jurídica indica incoerência entre a norma e a estrutura do real.
+
+---
+
+## T243
+**Origem:** F0066  
+**Estado:** central
+
+O sancionamento desloca-se para o plano cultural quando não pode ser sustentado juridicamente.
+
+---
+
+## T244
+**Origem:** F0066  
+**Estado:** central
+
+Viver de acordo com o real implica preservar a coerência relacional que sustenta a existência.
+
+---
+
+## T245
+**Origem:** F0066  
+**Estado:** central
+
+A lei deriva do poder, mas só perdura quando não contradiz o real.
+
+## T246
+**Origem:** F0067  
+**Estado:** central
+
+A continuidade temporal é condição necessária da consciência; sem ela não há experiência nem valor.
+
+---
+
+## T247
+**Origem:** F0067  
+**Estado:** central
+
+O bem não é entidade ontológica, mas descrição correta do real na ação consciente.
+
+---
+
+## T248
+**Origem:** F0067  
+**Estado:** central
+
+O mal não existe como realidade própria; é a designação da contradição entre círculos do real.
+
+---
+
+## T249
+**Origem:** F0067  
+**Estado:** central
+
+Mesmo admitindo ilusão total, existe sempre um real onde a ilusão ocorre.
+
+---
+
+## T250
+**Origem:** F0067  
+**Estado:** central
+
+Sem consciência não há bem nem mal; há apenas o ser.
+
+## T251
+**Origem:** F0068  
+**Estado:** central
+
+O problema do GAP resulta de um erro categorial que ignora a continuidade ontológica entre ser e valor.
+
+---
+
+## T252
+**Origem:** F0068  
+**Estado:** central
+
+A resistência ao real é consequência da preservação do modo de ser individual.
+
+---
+
+## T253
+**Origem:** F0068  
+**Estado:** central
+
+O relativismo absoluto só é possível em sociedades que reconhecem liberdade e dignidade universais.
+
+---
+
+## T254
+**Origem:** F0068  
+**Estado:** central
+
+Todo o ser consciente confrontado com o falhanço escolhe entre retração circular ou abertura ontológica.
+
+---
+
+## T255
+**Origem:** F0068  
+**Estado:** central
+
+A fragmentação do pensamento decorre da perceção localizada do quadro ontológico total.
+
+## T256
+**Origem:** F0069  
+**Estado:** central
+
+A mediação não pode ser separada do real que medeia sem erro ontológico.
+
+---
+
+## T257
+**Origem:** F0069  
+**Estado:** central
+
+A história da filosofia é a história da progressiva descrição do real e da sua posterior decadência representacional.
+
+---
+
+## T258
+**Origem:** F0069  
+**Estado:** central
+
+Todas as ciências derivam da filosofia enquanto conhecimento do real.
+
+---
+
+## T259
+**Origem:** F0069  
+**Estado:** central
+
+A compartimentalização filosófica do real é ontologicamente injustificável.
+
+---
+
+## T260
+**Origem:** F0069  
+**Estado:** central
+
+Epistemologia e ontologia são inseparáveis; separar uma da outra conduz a erros estruturais.
+
+## T261
+**Origem:** F0070  
+**Estado:** central
+
+A validade de uma proposição depende exclusivamente do real, não de sistemas linguísticos.
+
+---
+
+## T262
+**Origem:** F0070  
+**Estado:** central
+
+A absolutização da limitação cognitiva conduz à renúncia ontológica do real.
+
+---
+
+## T263
+**Origem:** F0070  
+**Estado:** central
+
+A linguagem produz mais possibilidades do que aquelas que o real pode validar.
+
+---
+
+## T264
+**Origem:** F0070  
+**Estado:** central
+
+O erro proposicional é estatisticamente mais provável do que a verdade.
+
+---
+
+## T265
+**Origem:** F0070  
+**Estado:** central
+
+O homem, enquanto parte do real, não pode ser excluído do critério da verdade.
+
+## T266
+**Origem:** F0071  
+**Estado:** central
+
+A linguagem exprime representações mediadas e não implica autonomia ontológica face ao real.
+
+---
+
+## T267
+**Origem:** F0071  
+**Estado:** central
+
+A possibilidade relevante é ontológica, não lógica.
+
+---
+
+## T268
+**Origem:** F0071  
+**Estado:** central
+
+O erro recorrente da filosofia moderna resulta do esquecimento da condição material do homem.
+
+---
+
+## T269
+**Origem:** F0071  
+**Estado:** central
+
+Existem apenas dois modos fundamentais de ser: o alinhado com o real e o centrado no eu.
+
+---
+
+## T270
+**Origem:** F0071  
+**Estado:** central
+
+A idolatria do indivíduo substitui a relação com círculos ontológicos maiores.
+
+## T271
+**Origem:** F0072  
+**Estado:** central
+
+A consciência é uma realidade relacional emergente da integração corporal.
+
+---
+
+## T272
+**Origem:** F0072  
+**Estado:** central
+
+Dualismo, dissolução da consciência e panpsiquismo falham ao ignorar a necessidade do modo de apreensão.
+
+---
+
+## T273
+**Origem:** F0072  
+**Estado:** central
+
+O contra-argumento filosófico eficaz resulta do rearranjo do quadro conceptual.
+
+---
+
+## T274
+**Origem:** F0072  
+**Estado:** central
+
+O verdadeiro é o mais natural porque coincide com o que é.
+
+## T275
+**Origem:** F0073  
+**Estado:** central
+
+O argumento de Nagel absolutiza o ponto de vista e transforma uma limitação epistémica numa separação ontológica.
+
+---
+
+## T276
+**Origem:** F0073  
+**Estado:** central
+
+A existência de representações em outros animais confirma a consciência como expressão do real, não como interioridade isolada.
+
+---
+
+## T277
+**Origem:** F0073  
+**Estado:** central
+
+Problemas éticos artificiais falham ao tentar substituir a liberdade encarnada por lógica interna.
+
+---
+
+## T278
+**Origem:** F0073  
+**Estado:** central
+
+O real fornece limites e horizontes; a ação ética emerge da liberdade humana ao mover-se neles.
+
+## T283
+**Origem:** F0074  
+**Estado:** central
+
+A inteligência humana adapta-se por insuficiência harmoniosa, não por maximização.
+
+---
+
+## T284
+**Origem:** F0074  
+**Estado:** central
+
+A coerência interna de um sistema não é critério suficiente de verdade.
+
+---
+
+## T285
+**Origem:** F0074  
+**Estado:** central
+
+A compartimentalização filosófica conduz à perda de contacto com o real.
+
+---
+
+## T286
+**Origem:** F0074  
+**Estado:** central
+
+A lógica não fundamenta o ser; apenas organiza representações.
+
+---
+
+## T287
+**Origem:** F0074  
+**Estado:** central
+
+A sabedoria consiste na melhor adequação possível ao real.
+
+---
+
+## T288
+**Origem:** F0074  
+**Estado:** central
+
+O erro não é apenas proposicional, mas um erro no modo de ser.
+
+## T289
+**Origem:** F0075  
+**Estado:** central
+
+O homem privilegia modos de ser que lhe sejam favoráveis, mesmo em detrimento do real.
+
+---
+
+## T290
+**Origem:** F0075  
+**Estado:** central
+
+A relação com o outro subsiste enquanto for funcional ao eu.
+
+---
+
+## T291
+**Origem:** F0075  
+**Estado:** central
+
+Os sistemas ideológicos modernos sobre-elevam o sujeito acima do real.
+
+---
+
+## T292
+**Origem:** F0075  
+**Estado:** central
+
+A ausência de critério exterior de comportamento conduz à degradação social.
+
+---
+
+## T293
+**Origem:** F0075  
+**Estado:** central
+
+A estabilidade social depende de uma dependência estrutural do bem enquanto real.
+
+## T294
+**Origem:** F0076  
+**Estado:** central
+
+A ampliação do campo das potencialidades resulta da interação entre modos de ser distintos.
+
+---
+
+## T295
+**Origem:** F0076  
+**Estado:** central
+
+O conhecimento só se expande por contacto, seja presencial ou comunicacional.
+
+---
+
+## T296
+**Origem:** F0076  
+**Estado:** central
+
+O outro não é alteridade ontológica, mas continuidade do mesmo ser.
+
+---
+
+## T297
+**Origem:** F0076  
+**Estado:** central
+
+A consciência é feedback representado da atualização contínua do ser.
+
+---
+
+## T298
+**Origem:** F0076  
+**Estado:** central
+
+Não existe consciência sem apreensão sensorial do real.
+
+---
+
+## T299
+**Origem:** F0076  
+**Estado:** central
+
+A continuidade temporal é condição necessária da existência consciente.
+
+## T300
+**Origem:** F0077  
+**Estado:** central
+
+Não existe colapso ontológico; existe apenas atualização do ser.
+
+---
+
+## T301
+**Origem:** F0077  
+**Estado:** central
+
+A atualização é condição suficiente para afirmar a realidade do ser.
+
+---
+
+## T302
+**Origem:** F0077  
+**Estado:** central
+
+O vazio é condição necessária para a existência de estruturas complexas.
+
+---
+
+## T303
+**Origem:** F0077  
+**Estado:** central
+
+Um universo plenamente preenchido impediria a diferenciação ontológica.
+
+---
+
+## T304
+**Origem:** F0077  
+**Estado:** central
+
+A variação contínua do ser exige uma condição de possibilidade situada.
+
+## T305
+**Origem:** F0078  
+**Estado:** central
+
+A liberdade humana implica obrigações ontológicas para com a continuidade do ser.
+
+---
+
+## T306
+**Origem:** F0078  
+**Estado:** central
+
+A reprodução é condição de preservação do conhecimento humano.
+
+---
+
+## T307
+**Origem:** F0078  
+**Estado:** central
+
+Sem autoconhecimento, as decisões fundamentais nem sequer se colocam.
+
+---
+
+## T308
+**Origem:** F0078  
+**Estado:** central
+
+A correção não reflexiva manifesta-se como trauma.
+
+---
+
+## T309
+**Origem:** F0078  
+**Estado:** central
+
+Uma ideia só persiste culturalmente se puder ser reproduzida por outros.
+
+## T310
+**Origem:** F0079  
+**Estado:** central
+
+A pergunta ontológica precede todas as outras.
+
+---
+
+## T311
+**Origem:** F0079  
+**Estado:** central
+
+A verdade existe independentemente da vontade humana.
+
+---
+
+## T312
+**Origem:** F0079  
+**Estado:** central
+
+A continuidade do modo de ser condiciona qualquer mudança.
+
+---
+
+## T313
+**Origem:** F0079  
+**Estado:** central
+
+A perda de um código moral real permite a justificação do mal.
+
+---
+
+## T314
+**Origem:** F0079  
+**Estado:** central
+
+Quando a realidade sai da equação, tudo se torna justificável.
+
+## T320
+**Origem:** F0080  
+**Estado:** central
+
+A existência de um instrumento indica a sua adequação ao real.
+
+---
+
+## T321
+**Origem:** F0080  
+**Estado:** central
+
+A possibilidade de uso inadequado não invalida o critério ontológico.
+
+---
+
+## T322
+**Origem:** F0080  
+**Estado:** central
+
+O critério de verdade é independente do ruído tecnológico contemporâneo.
+
+---
+
+## T323
+**Origem:** F0080  
+**Estado:** central
+
+Os meios disponíveis num círculo refletem o modo de ser de quem o habita.
+
+## T324
+**Origem:** F0081  
+**Estado:** central
+
+As sociedades antigas viviam num modo de ser funcional e cíclico.
+
+---
+
+## T325
+**Origem:** F0081  
+**Estado:** central
+
+O contínuo do ser era preenchido pela satisfação das necessidades básicas.
+
+---
+
+## T326
+**Origem:** F0081  
+**Estado:** central
+
+A apreensão do real dependia da proximidade física.
+
+---
+
+## T327
+**Origem:** F0081  
+**Estado:** central
+
+O ser vivido coincidia com o ser localmente apreendido.
+
+## T328
+**Origem:** F0082  
+**Estado:** central
+
+O nada não pode existir ontologicamente.
+
+---
+
+## T329
+**Origem:** F0082  
+**Estado:** central
+
+A existência implica sempre um campo de potencialidades.
+
+---
+
+## T330
+**Origem:** F0082  
+**Estado:** central
+
+O ser mantém-se a si mesmo pela sua própria continuidade.
+
+---
+
+## T331
+**Origem:** F0082  
+**Estado:** central
+
+A estabilidade temporal é condição necessária da existência.
+
+## T332
+**Origem:** F0083  
+**Estado:** central
+
+Remover Deus implica remover o limite ontológico do homem.
+
+---
+
+## T333
+**Origem:** F0083  
+**Estado:** central
+
+A cor é uma relação real entre objeto, luz e sistema sensorial.
+
+---
+
+## T334
+**Origem:** F0083  
+**Estado:** central
+
+Não existe uma barreira ontológica entre mundo e apreensão.
+
+---
+
+## T335
+**Origem:** F0083  
+**Estado:** central
+
+As possibilidades lógicas, quando atualizadas, são reais.
+
+---
+
+## T336
+**Origem:** F0083  
+**Estado:** central
+
+O formalismo linguístico excessivo afasta-se do real.
+
+## T337
+**Origem:** F0084  
+**Estado:** central
+
+O ser atualiza-se continuamente a partir do que já é.
+
+---
+
+## T338
+**Origem:** F0084  
+**Estado:** central
+
+O coletivo não conhece o real diretamente.
+
+---
+
+## T339
+**Origem:** F0084  
+**Estado:** central
+
+Delegar o real em símbolos conduz ao relativismo.
+
+---
+
+## T340
+**Origem:** F0084  
+**Estado:** central
+
+A adequação ao nicho condiciona profundamente o modo de ser.
+
+---
+
+## T341
+**Origem:** F0084  
+**Estado:** central
+
+A dicotomia consciência/físico é um erro categorial.
+
+## T342
+**Origem:** F0085  
+**Estado:** central
+
+A filosofia perde-se quando deixa de descrever o ser.
+
+---
+
+## T343
+**Origem:** F0085  
+**Estado:** central
+
+Os sistemas conceituais tendem a fechar-se sobre si mesmos.
+
+---
+
+## T344
+**Origem:** F0085  
+**Estado:** central
+
+O relativismo experiencial é internamente contraditório.
+
+---
+
+## T345
+**Origem:** F0085  
+**Estado:** central
+
+O limite real do conhecimento humano é a atualização do ser.
+
+---
+
+## T346
+**Origem:** F0085  
+**Estado:** central
+
+O homem apreende factos em movimento, não essências fixas.
+
+## T347
+**Origem:** F0086  
+**Estado:** central
+
+O excesso de estrutura afasta a apreensão do real.
+
+---
+
+## T348
+**Origem:** F0086  
+**Estado:** central
+
+Não há pensamento sem memória.
+
+---
+
+## T349
+**Origem:** F0086  
+**Estado:** central
+
+O génio é produto da continuidade do conhecimento.
+
+---
+
+## T350
+**Origem:** F0086  
+**Estado:** central
+
+Confundir processo com ser é um erro ontológico.
+
+---
+
+## T351
+**Origem:** F0086  
+**Estado:** central
+
+A compartimentalização é inevitável no humano.
+
+---
+
+## T352
+**Origem:** F0086  
+**Estado:** central
+
+Viver plenamente no real exige uma carga quase insustentável.
+
+## T353
+**Origem:** F0087  
+**Estado:** central
+
+A verdade é uma relação entre o indivíduo e o real.
+
+---
+
+## T354
+**Origem:** F0087  
+**Estado:** central
+
+O estruturalismo recoloca o eu como fundamento indevido.
+
+---
+
+## T355
+**Origem:** F0087  
+**Estado:** central
+
+A filosofia falha ao não descrever o real em profundidade.
+
+---
+
+## T356
+**Origem:** F0087  
+**Estado:** central
+
+O bem manifesta-se na ação humana.
+
+---
+
+## T357
+**Origem:** F0087  
+**Estado:** central
+
+A separação entre eu e real é uma construção conceitual.
+
+## T358
+**Origem:** F0088  
+**Estado:** central
+
+O homem privilegia modos de ser que o favorecem.
+
+---
+
+## T359
+**Origem:** F0088  
+**Estado:** central
+
+A consciência é relação, não substância.
+
+---
+
+## T360
+**Origem:** F0088  
+**Estado:** central
+
+Não há realidade fora da atualização relacional.
+
+---
+
+## T361
+**Origem:** F0088  
+**Estado:** central
+
+A liberdade é uma descrição verdadeira do homem.
+
+---
+
+## T362
+**Origem:** F0088  
+**Estado:** central
+
+A verdade é correspondência com o real.
+
+---
+
+## T363
+**Origem:** F0088  
+**Estado:** central
+
+O ser consciente amplia o seu campo de possibilidades por conhecê-lo.
+
+---
+
+## T364
+**Origem:** F0088  
+**Estado:** central
+
+Nenhuma ética é válida sem correspondência ontológica.
+
+## T365
+**Origem:** F0089  
+**Estado:** central
+
+O bom governo preserva liberdade e dignidade.
+
+---
+
+## T366
+**Origem:** F0089  
+**Estado:** central
+
+As leis descrevem regularidades do real.
+
+---
+
+## T367
+**Origem:** F0089  
+**Estado:** central
+
+As relações jurídicas refletem paridade ontológica.
+
+---
+
+## T368
+**Origem:** F0089  
+**Estado:** central
+
+A liberdade e a dignidade emergem sempre do contacto com o real.
+
+---
+
+## T369
+**Origem:** F0089  
+**Estado:** central
+
+O relativismo cultural falha por ignorar o real.
+
+## T370
+**Origem:** F0090  
+**Estado:** central
+
+Sem educação não há liberdade humana efetiva.
+
+---
+
+## T371
+**Origem:** F0090  
+**Estado:** central
+
+A educação não se impõe, oferece-se.
+
+---
+
+## T372
+**Origem:** F0090  
+**Estado:** central
+
+A consciência é criada pela atualização das relações.
+
+---
+
+## T373
+**Origem:** F0090  
+**Estado:** central
+
+Toda a identidade depende da continuidade.
+
+---
+
+## T374
+**Origem:** F0090  
+**Estado:** central
+
+A liberdade emerge da separação entre reação e escolha.
+
+## T375
+**Origem:** F0091  
+**Estado:** central
+
+Toda a crítica válida começa pela descrição do que é.
+
+---
+
+## T376
+**Origem:** F0091  
+**Estado:** central
+
+Um pensamento deve ser avaliado pela sua relação com o real.
+
+---
+
+## T377
+**Origem:** F0091  
+**Estado:** central
+
+A filosofia do gap é fuga ontológica.
+
+---
+
+## T378
+**Origem:** F0091  
+**Estado:** central
+
+Invocar o extra-real é abdicar da filosofia.
+
+## T379
+**Origem:** F0092  
+**Estado:** central
+
+Tudo o que existe é atualização num campo potencial.
+
+---
+
+## T380
+**Origem:** F0092  
+**Estado:** central
+
+A verdade mede-se pela qualidade da descrição do real.
+
+---
+
+## T381
+**Origem:** F0092  
+**Estado:** central
+
+Nem todas as ações são igualmente reais.
+
+---
+
+## T382
+**Origem:** F0092  
+**Estado:** central
+
+A filosofia deve ser simples sem ser redutora.
+
+---
+
+## T383
+**Origem:** F0092  
+**Estado:** central
+
+O relativismo impede o escrutínio filosófico.
+
+## T384
+**Origem:** F0093  
+**Estado:** central
+
+O utilitarismo subordina o real ao agregado social.
+
+---
+
+## T385
+**Origem:** F0093  
+**Estado:** central
+
+A filosofia foi substituída por ideologia.
+
+---
+
+## T386
+**Origem:** F0093  
+**Estado:** central
+
+Os ismos são racionalizações do eu.
+
+---
+
+## T387
+**Origem:** F0093  
+**Estado:** central
+
+A técnica avança porque descreve o real.
+
+---
+
+## T388
+**Origem:** F0093  
+**Estado:** central
+
+Excluir o homem do real invalida qualquer realismo.
+
+## T389
+**Origem:** F0094  
+**Estado:** central
+
+Toda a existência reflexiva gera prescrição.
+
+---
+
+## T390
+**Origem:** F0094  
+**Estado:** central
+
+A liberdade de expressão funda o campo das possibilidades.
+
+---
+
+## T391
+**Origem:** F0094  
+**Estado:** central
+
+A única métrica objetiva é a correspondência com o real.
+
+---
+
+## T392
+**Origem:** F0094  
+**Estado:** central
+
+Viver na representação é condição humana inevitável.
+
+---
+
+## T393
+**Origem:** F0094  
+**Estado:** central
+
+O filósofo deve reconduzir a representação às suas condições reais.
+
+## T394
+**Origem:** F0095  
+**Estado:** central
+
+A causalidade não é emprestada, é relacional.
+
+---
+
+## T395
+**Origem:** F0095  
+**Estado:** central
+
+Reduzir causalidade a preferências é emotivismo.
+
+---
+
+## T396
+**Origem:** F0095  
+**Estado:** central
+
+A potencialidade não precede a atualização como entidade.
+
+---
+
+## T397
+**Origem:** F0095  
+**Estado:** central
+
+Calor e frio são estados energéticos, não categorias ontológicas.
+
+## T398
+**Origem:** F0096  
+**Estado:** central
+
+Não há prescrição verdadeira sem descrição adequada do real.
+
+---
+
+## T399
+**Origem:** F0096  
+**Estado:** central
+
+O erro político nasce do esquecimento do poder-ser.
+
+---
+
+## T400
+**Origem:** F0096  
+**Estado:** central
+
+A adaptação local é racional, mas insuficiente para fenómenos globais.
+
+## T401
+**Origem:** F0097  
+**Estado:** central
+
+Toda filosofia válida tem o real como termo da ação.
+
+---
+
+## T402
+**Origem:** F0097  
+**Estado:** central
+
+A consciência é uma atualização local do real.
+
+---
+
+## T403
+**Origem:** F0097  
+**Estado:** central
+
+A universalização de círculos locais gera erro filosófico.

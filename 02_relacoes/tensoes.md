@@ -666,3 +666,958 @@ Refletir pode revelar o real, mas também afastar-se dele quando se absolutiza a
 **Fragmento:** F0056
 
 Modos de ser locais são verdadeiros no seu círculo, mas perdem-se quando universalizados formalmente.
+
+## Tensão 113 — virtude descritiva vs virtude normativa
+**Fragmento:** F0057
+
+A virtude é simultaneamente apresentada como descrição de modos de ser e como sistema conceptual passível de autonomização normativa.
+
+---
+
+## Tensão 114 — mediação representacional vs fluxo do livre-arbítrio
+**Fragmento:** F0057
+
+A necessidade de representação para agir entra em tensão com a fluidez ontológica do agir livre orientado pelo real.
+
+---
+
+## Tensão 115 — crítica à estrutura vs inevitabilidade da estrutura
+**Fragmento:** F0057
+
+Embora a estrutura dialética seja criticada quando autonomizada, permanece a necessidade humana de estruturas para apreender o real.
+
+---
+
+## Tensão 116 — conhecimento libertador vs cristalização do modo de ser
+**Fragmento:** F0057
+
+O conhecimento que liberta pode cristalizar novos modos de ser quando interiorizado como representação definitiva.
+
+## Tensão 117 — representação como mediação vs acusação de artificialidade
+**Fragmento:** F0058
+
+A representação é condição de contacto com o real, mas é frequentemente interpretada como afastamento artificial do ser.
+
+---
+
+## Tensão 118 — diferença ontológica vs privilégio ontológico humano
+**Fragmento:** F0058
+
+Reconhecer a especificidade humana entra em tensão com a recusa de exceções ontológicas no ser.
+
+---
+
+## Tensão 119 — potencialidade dominante vs exigência de atualidade
+**Fragmento:** F0058
+
+A realidade opera maioritariamente em potência, mas a relação exige atualização imediata.
+
+---
+
+## Tensão 120 — linguagem da física vs fundamento ontológico
+**Fragmento:** F0058
+
+A descrição técnica da física pode obscurecer o fundamento ontológico unitário do ser que descreve.
+
+## Tensão 121 — continuidade evolutiva vs descontinuidade dos círculos
+**Fragmento:** F0059
+
+A evolução é contínua ao nível biológico, mas produz círculos ontológicos distintos com regras próprias.
+
+---
+
+## Tensão 122 — mediação como progresso vs mediação como afastamento
+**Fragmento:** F0059
+
+O aumento da mediação é condição da inovação, mas pode ser interpretado como afastamento do real.
+
+---
+
+## Tensão 123 — acusação antropogénica do mal vs responsabilidade transformadora
+**Fragmento:** F0059
+
+Atribuir ao homem a origem do mal ignora a sua singular capacidade de reconfigurar estados de coisas no real.
+
+---
+
+## Tensão 124 — animalidade explicativa vs humanidade normativa
+**Fragmento:** F0059
+
+As regras que explicam o humano enquanto animal tornam-se insuficientes para explicar o humano enquanto agente transformador do real.
+
+## Tensão 125 — is/ought clássico vs identidade ontológica
+**Fragmento:** F0060
+
+A objeção de Hume dissolve-se quando o dever-ser é compreendido como expressão consciente da necessidade do ser.
+
+---
+
+## Tensão 126 — relativismo cultural vs critério ontológico
+**Fragmento:** F0060
+
+A pluralidade de valores culturais entra em tensão com a existência de critérios válidos por escala ontológica.
+
+---
+
+## Tensão 127 — mal vivido vs mal ontológico
+**Fragmento:** F0060
+
+A experiência concreta do sofrimento contrasta com a negação do mal como entidade ontológica.
+
+---
+
+## Tensão 128 — liberdade sentida vs determinismo estrutural
+**Fragmento:** F0060
+
+O homem sente-se livre enquanto opera dentro de estruturas ontológicas necessárias.
+
+---
+
+## Tensão 129 — rigor filosófico vs impaciência retórica
+**Fragmento:** F0060
+
+A recusa de certas objeções pode fortalecer a posição ontológica, mas fragilizar a comunicação filosófica.
+
+## Tensão 130 — necessidade ontológica vs liberdade existencial
+**Fragmento:** F0061
+
+A liberdade humana opera dentro de uma necessidade ontológica de raiz que não pode ser ultrapassada.
+
+---
+
+## Tensão 131 — potencialidade múltipla vs critério do melhor
+**Fragmento:** F0061
+
+A multiplicidade de potencialidades exige um critério descritivo para distinguir o melhor do apenas possível.
+
+---
+
+## Tensão 132 — pluralidade dos modos de ser vs indiferença normativa
+**Fragmento:** F0061
+
+Reconhecer todos os modos legítimos de ser entra em tensão com a necessidade de avaliar descrições como melhores ou piores.
+
+---
+
+## Tensão 133 — valor como abstração vs valor vivido
+**Fragmento:** F0061
+
+O valor enquanto potencialidade abstrata contrasta com o valor enquanto orientação efetiva da ação.
+
+## Tensão 134 — coerência interna vs critério ontológico
+**Fragmento:** F0062
+
+Um modo de ser pode ser internamente coerente e ainda assim ontologicamente inadequado.
+
+---
+
+## Tensão 135 — liberdade ampliadora vs liberdade dissolvente
+**Fragmento:** F0062
+
+A mesma liberdade que permite explorar o real pode ser usada para negar os seus limites.
+
+---
+
+## Tensão 136 — inovação consciente vs estabilidade biológica
+**Fragmento:** F0062
+
+A abertura de novos campos de possibilidade entra em tensão com a necessidade de preservação estrutural.
+
+---
+
+## Tensão 137 — forma estabilizada vs realidade alargada
+**Fragmento:** F0062
+
+As formas que estabilizam a vida podem tornar-se obstáculos à integração de novas dimensões do real.
+
+## Tensão 138 — moral quotidiana vs bem ontológico
+**Fragmento:** F0063
+
+A avaliação moral imediata entra em tensão com o critério estrutural do bem fundado no real.
+
+---
+
+## Tensão 139 — instituição como preservação vs instituição como labirinto
+**Fragmento:** F0063
+
+As instituições podem transmitir verdades ontológicas ou cristalizar formas que bloqueiam o real.
+
+---
+
+## Tensão 140 — regulação prévia vs abertura de potencialidades
+**Fragmento:** F0063
+
+Controlar antes de conhecer contrasta com permitir a descoberta antes da normatização.
+
+---
+
+## Tensão 141 — valores declarados vs valores vividos
+**Fragmento:** F0063
+
+Os valores proclamados diferem frequentemente do modo real de existir de um sistema.
+
+## Tensão 142 — liberdade formativa vs conformação sistémica
+**Fragmento:** F0064
+
+A liberdade inicial da criança entra em tensão com a exigência posterior de adaptação às estruturas.
+
+---
+
+## Tensão 143 — verdade vivida vs verdade institucional
+**Fragmento:** F0064
+
+A verdade enquanto contacto com o real contrasta com a verdade enquanto norma sistémica.
+
+---
+
+## Tensão 144 — progresso técnico vs empobrecimento ontológico
+**Fragmento:** F0064
+
+O avanço técnico pode coexistir com a perda de mediação real.
+
+---
+
+## Tensão 145 — humano mediado vs máquina autorreferencial
+**Fragmento:** F0064
+
+A mediação humana com o real não é reproduzível por sistemas puramente formais.
+
+## Tensão 146 — conforto relativista vs exigência do real
+**Fragmento:** F0065
+
+O relativismo oferece estabilidade subjetiva, mas bloqueia a expansão ontológica.
+
+---
+
+## Tensão 147 — especialização produtiva vs cegueira estrutural
+**Fragmento:** F0065
+
+O avanço do conhecimento técnico fragmentado pode obscurecer a compreensão do todo.
+
+---
+
+## Tensão 148 — processo acumulativo vs regressão ao real
+**Fragmento:** F0065
+
+Cada novo processo criado para recuperar o real tende a afastar-se novamente dele.
+
+---
+
+## Tensão 149 — símbolo fundacional vs substituição técnica
+**Fragmento:** F0065
+
+A função simbólica de Deus é substituída pelo controlo técnico, sem equivalente ontológico pleno.
+
+## Tensão 150 — moralização cultural vs normatividade ontológica
+**Fragmento:** F0066
+
+Imperativos morais culturais entram em tensão com critérios ontológicos do real.
+
+---
+
+## Tensão 151 — sanção simbólica vs justiça formal
+**Fragmento:** F0066
+
+A punição social substitui a lei quando não há fundamento jurídico possível.
+
+---
+
+## Tensão 152 — poder legislativo vs verdade do real
+**Fragmento:** F0066
+
+Nem tudo o que pode ser legislado é ontologicamente sustentável.
+
+---
+
+## Tensão 153 — coerência local vs permanência estrutural
+**Fragmento:** F0066
+
+Normas locais podem ser coerentes a curto prazo e desintegradoras a longo prazo.
+
+## Tensão 154 — valor derivado vs valor inexistente
+**Fragmento:** F0067
+
+A tentativa de fundar o valor colide com a conclusão de que o bem não existe como entidade.
+
+---
+
+## Tensão 155 — ética ontológica vs neutralidade do ser
+**Fragmento:** F0067
+
+O ser enquanto tal é neutro, mas torna-se valorável na descrição consciente.
+
+---
+
+## Tensão 156 — direção necessária vs ilusão adaptativa
+**Fragmento:** F0067
+
+A direção pode ser vista como estrutura do real ou como efeito da organização humana.
+
+---
+
+## Tensão 157 — colapso moral vs colapso estrutural
+**Fragmento:** F0067
+
+A confusão entre transformação ontológica e avaliação moral gera falsas categorias de mal.
+
+## Tensão 158 — liberdade fundadora vs relativismo dissolvente
+**Fragmento:** F0068
+
+A liberdade que permite a emergência do sujeito também permite a negação do real.
+
+---
+
+## Tensão 159 — ética ontológica vs conforto existencial
+**Fragmento:** F0068
+
+Alinhar-se com o real exige abandonar equilíbrios pessoais estabelecidos.
+
+---
+
+## Tensão 160 — visão do todo vs especialização fragmentária
+**Fragmento:** F0068
+
+A compreensão ontológica global entra em tensão com a perceção local imediata.
+
+---
+
+## Tensão 161 — dignidade universal vs impossibilidade de critério
+**Fragmento:** F0068
+
+Reconhecer dignidade universal abre espaço à negação de critérios objetivos.
+
+## Tensão 162 — genialidade conceptual vs cegueira ontológica
+**Fragmento:** F0069
+
+Pensamento coerente pode coexistir com esquecimento do real.
+
+---
+
+## Tensão 163 — expansão do conhecimento vs especialização excessiva
+**Fragmento:** F0069
+
+O avanço do saber cria tanto novas luzes como novos confinamentos.
+
+---
+
+## Tensão 164 — descrição do real vs jogo conceptual
+**Fragmento:** F0069
+
+A filosofia oscila entre apreender o real e autonomizar conceitos.
+
+---
+
+## Tensão 165 — circularidade viciosa vs circularidade ontológica
+**Fragmento:** F0069
+
+A existência como prova do real não é falácia, mas necessidade ontológica.
+
+## Tensão 166 — sistema linguístico vs critério ontológico
+**Fragmento:** F0070
+
+A linguagem tende a autonomizar-se em relação ao real que deveria descrever.
+
+---
+
+## Tensão 167 — limitação assumida vs limitação imposta
+**Fragmento:** F0070
+
+Aceitar limites cognitivos não implica aceitar limites ontológicos.
+
+---
+
+## Tensão 168 — fecundidade da linguagem vs raridade da verdade
+**Fragmento:** F0070
+
+Quanto mais se pode dizer, menos do que se diz é verdadeiro.
+
+## Tensão 169 — dizer o possível vs ser o possível
+**Fragmento:** F0071
+
+A linguagem permite dizer mais do que o real permite ser.
+
+---
+
+## Tensão 170 — autonomia do sujeito vs integração ontológica
+**Fragmento:** F0071
+
+O sujeito oscila entre ver-se como centro ou como parte do real.
+
+---
+
+## Tensão 171 — sistema idolátrico vs estrutura relacional
+**Fragmento:** F0071
+
+Sistemas centrados em figuras humanas entram em conflito com abstrações ontológicas maiores.
+
+---
+
+## Tensão 172 — mediação simbólica vs mediação ontológica
+**Fragmento:** F0071
+
+A simbolização pode substituir ou reforçar a relação com o real.
+
+## Tensão 173 — consciência real vs consciência ilusória
+**Fragmento:** F0072
+
+A consciência é tratada como ilusão quando se ignora a sua base relacional e corporal.
+
+---
+
+## Tensão 174 — explicação funcional vs compreensão ontológica
+**Fragmento:** F0072
+
+A descrição funcional não esgota a realidade da consciência.
+
+---
+
+## Tensão 175 — refutação interna vs mudança de quadro
+**Fragmento:** F0072
+
+Refutar argumentos pelo conteúdo é menos eficaz do que reorganizar o quadro em que operam.
+
+## Tensão 176 — subjetividade irredutível vs consciência relacional
+**Fragmento:** F0073
+
+A dificuldade de acesso ao ponto de vista não implica isolamento ontológico.
+
+---
+
+## Tensão 177 — dilema lógico vs juízo encarnado
+**Fragmento:** F0073
+
+A ética abstrata entra em conflito com a ação situada no real.
+
+---
+
+## Tensão 178 — limite do real vs decisão humana
+**Fragmento:** F0073
+
+O real condiciona sem determinar, abrindo espaço à responsabilidade.
+
+## Tensão 182 — estabilização adaptativa vs verdade ontológica
+**Fragmento:** F0074
+
+O que estabiliza o ser nem sempre coincide com o que é verdadeiro.
+
+---
+
+## Tensão 183 — formalismo lógico vs fundamento do real
+**Fragmento:** F0074
+
+Sistemas coerentes podem ignorar aquilo que os torna possíveis.
+
+---
+
+## Tensão 184 — sujeito central vs real fundante
+**Fragmento:** F0074
+
+A centralidade do indivíduo entra em conflito com o real que o contém.
+
+---
+
+## Tensão 185 — sabedoria viva vs discurso filosófico técnico
+**Fragmento:** F0074
+
+A sabedoria perde-se quando o pensamento se torna excessivamente formal e compartimentalizado.
+
+## Tensão 186 — interesse próprio vs referência ao real
+**Fragmento:** F0075
+
+O benefício individual entra em conflito com a adequação ao real.
+
+---
+
+## Tensão 187 — ideologia emancipatória vs dissolução normativa
+**Fragmento:** F0075
+
+Movimentos que libertam o sujeito podem eliminar critérios estruturais.
+
+---
+
+## Tensão 188 — massa como condição vs massa como risco
+**Fragmento:** F0075
+
+As massas permitem emergência intelectual mas favorecem diluição de critérios.
+
+---
+
+## Tensão 189 — liberdade subjetiva vs ordem social
+**Fragmento:** F0075
+
+A liberdade sem referência ao real conduz ao colapso das estruturas sociais.
+
+## Tensão 190 — presença física vs mediação comunicacional
+**Fragmento:** F0076
+
+A presença deixa de ser necessária quando a comunicação expande o campo do real.
+
+---
+
+## Tensão 191 — alteridade percebida vs identidade ontológica
+**Fragmento:** F0076
+
+A diferença entre sujeitos não implica separação no ser.
+
+---
+
+## Tensão 192 — homogeneização social vs expansão do real
+**Fragmento:** F0076
+
+A homogeneidade pode coexistir com abertura de potencialidades.
+
+---
+
+## Tensão 193 — filosofia técnica vs filosofia do real
+**Fragmento:** F0076
+
+A pobreza da filosofia contemporânea decorre da perda de contacto com a continuidade do ser.
+
+## Tensão 194 — ser contínuo vs ser colapsado
+**Fragmento:** F0077
+
+A interpretação do real oscila entre colapso e atualização relacional.
+
+---
+
+## Tensão 195 — vazio como ausência vs vazio como condição
+**Fragmento:** F0077
+
+O vazio pode ser visto como nada ou como fundamento da complexidade.
+
+---
+
+## Tensão 196 — ser ilimitado vs ser localizado
+**Fragmento:** F0077
+
+O ser precisa de limite para poder existir como variação.
+
+## Tensão 197 — liberdade individual vs continuidade coletiva
+**Fragmento:** F0078
+
+A liberdade cria tensões com a reprodução e a preservação cultural.
+
+---
+
+## Tensão 198 — potencial humano vs limites reais
+**Fragmento:** F0078
+
+As possibilidades humanas são amplas, mas não ilimitadas.
+
+---
+
+## Tensão 199 — correção consciente vs colapso traumático
+**Fragmento:** F0078
+
+A ausência de reflexão leva a ajustes violentos do modo de ser.
+
+## Tensão 200 — realidade objetiva vs autojustificação subjetiva
+**Fragmento:** F0079
+
+A substituição da verdade pelo sentir dissolve critérios.
+
+---
+
+## Tensão 201 — continuidade cultural vs rutura moral
+**Fragmento:** F0079
+
+A quebra da transmissão de valores gera instabilidade social.
+
+---
+
+## Tensão 202 — verdade fundante vs cientificismo formal
+**Fragmento:** F0079
+
+O formalismo tenta ocupar o lugar da realidade.
+
+## Tensão 207 — uso contingente vs função verdadeira
+**Fragmento:** F0080
+
+A liberdade de uso não elimina a função ontológica.
+
+---
+
+## Tensão 208 — debate moderno vs critério permanente
+**Fragmento:** F0080
+
+A atenção excessiva ao presente obscurece critérios estruturais.
+
+---
+
+## Tensão 209 — ausência de meios vs ausência de verdade
+**Fragmento:** F0080
+
+A falta de instrumentos não nega a existência de critérios reais.
+
+## Tensão 210 — vida cíclica vs abertura de potencialidades
+**Fragmento:** F0081
+
+A repetição adaptativa limita a expansão do campo do possível.
+
+---
+
+## Tensão 211 — dependência do físico vs abstração cultural
+**Fragmento:** F0081
+
+A sobrevivência direta contrasta com modos de ser mediatos.
+
+---
+
+## Tensão 212 — ser vivido vs ser representado
+**Fragmento:** F0081
+
+Diferença entre viver no real e viver sobre representações.
+
+## Tensão 213 — vazio físico vs nada ontológico
+**Fragmento:** F0082
+
+O vazio pode existir; o nada não.
+
+---
+
+## Tensão 214 — continuidade do ser vs hipótese do não-ser
+**Fragmento:** F0082
+
+A hipótese do nada contradiz a lógica do ser.
+
+---
+
+## Tensão 215 — campo real vs negação metafísica
+**Fragmento:** F0082
+
+Negar o campo do real implica já assumir algo.
+
+## Tensão 216 — mundo-em-si vs mundo-apreendido
+**Fragmento:** F0083
+
+A separação radical entre realidade e apreensão é ilusória.
+
+---
+
+## Tensão 217 — qualia subjetivos vs propriedades reais
+**Fragmento:** F0083
+
+A experiência sensorial é real enquanto relação física.
+
+---
+
+## Tensão 218 — limite ontológico vs antropocentrismo
+**Fragmento:** F0083
+
+A ausência de horizonte conduz à auto-deificação do sujeito.
+
+## Tensão 219 — símbolo delegado vs apreensão direta do real
+**Fragmento:** F0084
+
+A delegação simbólica substitui a relação com o real.
+
+---
+
+## Tensão 220 — continuidade ontológica vs relativismo cultural
+**Fragmento:** F0084
+
+A permanência do ser entra em conflito com a fluidez discursiva.
+
+---
+
+## Tensão 221 — dignidade ontológica vs justificações comportamentais
+**Fragmento:** F0084
+
+O reconhecimento do ser pode ser usado para negar o real.
+
+## Tensão 222 — filosofia sistemática vs sabedoria ontológica
+**Fragmento:** F0085
+
+A técnica conceitual substitui a relação com o real.
+
+---
+
+## Tensão 223 — relativismo vs conhecimento ampliado
+**Fragmento:** F0085
+
+Não se pode negar o real e afirmar descoberta simultaneamente.
+
+---
+
+## Tensão 224 — labirinto conceitual vs fluxo do ser
+**Fragmento:** F0085
+
+O fechamento teórico ignora a atualização contínua.
+
+## Tensão 225 — conhecimento detalhado vs inteligibilidade
+**Fragmento:** F0086
+
+Saber mais pode tornar o real menos acessível.
+
+---
+
+## Tensão 226 — génio mítico vs génio real
+**Fragmento:** F0086
+
+A genialidade é cumulativa, não isolada.
+
+---
+
+## Tensão 227 — processo como explicação vs processo como erro
+**Fragmento:** F0086
+
+O processo explica, mas não fundamenta.
+
+---
+
+## Tensão 228 — perfeição ontológica vs limite humano
+**Fragmento:** F0086
+
+O real é pesado demais para ser habitado sem mediação.
+
+## Tensão 229 — verdade relacional vs verdade formal
+**Fragmento:** F0087
+
+A verdade como vivida contra a verdade como sistema.
+
+---
+
+## Tensão 230 — eu como fundamento vs relação como fundamento
+**Fragmento:** F0087
+
+O erro de absolutizar o sujeito.
+
+---
+
+## Tensão 231 — filosofia normativa vs filosofia ontológica
+**Fragmento:** F0087
+
+Prescrever valores antes de descrever o ser.
+
+---
+
+## Tensão 232 — ponte eu–real como pressuposto
+**Fragmento:** F0087
+
+A separação é assumida antes de ser demonstrada.
+
+## Tensão 233 — apreensão do real vs real direto
+**Fragmento:** F0088
+
+O homem nunca habita o real sem mediação.
+
+---
+
+## Tensão 234 — liberdade factual vs normatividade moral
+**Fragmento:** F0088
+
+A liberdade antecede qualquer prescrição.
+
+---
+
+## Tensão 235 — matemática como precisão vs opacidade
+**Fragmento:** F0088
+
+Expressar o real pode afastar o pensamento comum.
+
+---
+
+## Tensão 236 — atualização vs essência
+**Fragmento:** F0088
+
+Não há essência fora do processo relacional.
+
+## Tensão 237 — diversidade cultural vs verdade ontológica
+**Fragmento:** F0089
+
+Diferença não implica equivalência.
+
+---
+
+## Tensão 238 — governo regulador vs governo permissivo
+**Fragmento:** F0089
+
+Limitar apenas onde o real exige.
+
+---
+
+## Tensão 239 — lei como imposição vs lei como descrição
+**Fragmento:** F0089
+
+A lei perde legitimidade quando se afasta do ser.
+
+---
+
+## Tensão 240 — erro local vs verdade universal
+**Fragmento:** F0089
+
+O erro é histórico, não ontológico.
+
+## Tensão 241 — educação real vs educação métrica
+**Fragmento:** F0090
+
+Educar o ser vs medir competências.
+
+---
+
+## Tensão 242 — consciência corporal vs consciência abstraída
+**Fragmento:** F0090
+
+O corpo como condição da mente.
+
+---
+
+## Tensão 243 — causalidade infantil vs liberdade adulta
+**Fragmento:** F0090
+
+Da birra à escolha refletida.
+
+---
+
+## Tensão 244 — real vivido vs real excluído
+**Fragmento:** F0090
+
+O discurso que se fecha sobre si mesmo.
+
+## Tensão 245 — crítica ontológica vs crítica académica
+**Fragmento:** F0091
+
+Descrever o ser vs discutir autores.
+
+---
+
+## Tensão 246 — filosofia como descrição vs filosofia como abstinência
+**Fragmento:** F0091
+
+Conhecer o real vs declarar ignorância.
+
+---
+
+## Tensão 247 — fenómeno estranho vs extra-real
+**Fragmento:** F0091
+
+O incomum continua a ser real.
+
+## Tensão 248 — campo potencial vs objeto reificado
+**Fragmento:** F0092
+
+O erro de tomar a atualização como totalidade.
+
+---
+
+## Tensão 249 — liberdade formal vs adequação ao real
+**Fragmento:** F0092
+
+Poder fazer vs fazer de modo real.
+
+---
+
+## Tensão 250 — filosofia como limpeza vs filosofia como acumulação
+**Fragmento:** F0092
+
+Clarificar ou densificar artificialmente.
+
+## Tensão 251 — bem social vs dignidade individual
+**Fragmento:** F0093
+
+Prescrição coletiva contra liberdade ontológica.
+
+---
+
+## Tensão 252 — filosofia descritiva vs filosofia normativa
+**Fragmento:** F0093
+
+Descrever o ser vs impor valores.
+
+---
+
+## Tensão 253 — técnica verdadeira vs discurso vazio
+**Fragmento:** F0093
+
+O real impõe-se à retórica.
+
+---
+
+## Tensão 254 — clareza descoberta vs ruído cultural
+**Fragmento:** F0093
+
+O óbvio ontológico obscurecido pelo excesso discursivo.
+
+## Tensão 255 — prescrição inevitável vs liberdade individual
+**Fragmento:** F0094
+
+Normas emergem sem eliminar escolha.
+
+---
+
+## Tensão 256 — política local vs verdade ontológica
+**Fragmento:** F0094
+
+Adequação prática sem negação do real.
+
+---
+
+## Tensão 257 — mediação cognitiva vs ontologia
+**Fragmento:** F0094
+
+Erro de reificar a estrutura de apreensão.
+
+---
+
+## Tensão 258 — representação necessária vs esquecimento do real
+**Fragmento:** F0094
+
+Viver simbolicamente sem perder o fundamento.
+
+## Tensão 259 — causalidade infinita vs causalidade real
+**Fragmento:** F0095
+
+Abstração filosófica vs descrição física.
+
+---
+
+## Tensão 260 — liberdade absoluta vs limites ontológicos
+**Fragmento:** F0095
+
+Erro ao extrapolar do eu para o real.
+
+---
+
+## Tensão 261 — potencialidade como entidade vs potencialidade como campo
+**Fragmento:** F0095
+
+Confusão metafísica recorrente.
+
+## Tensão 262 — prescrição moral vs realidade material
+**Fragmento:** F0096
+
+Dever-ser abstraído do ser.
+
+---
+
+## Tensão 263 — ação política vs escala ontológica
+**Fragmento:** F0096
+
+Localidade contra planetariedade.
+
+---
+
+## Tensão 264 — representação vs fenómeno
+**Fragmento:** F0096
+
+Metáfora substitui realidade.
+
+## Tensão 265 — consciência integrada vs consciência soberana
+**Fragmento:** F0097
+
+Separação ilegítima da consciência como instância extra-real.
+
+---
+
+## Tensão 266 — descrição parcial vs prescrição universal
+**Fragmento:** F0097
+
+Universalização normativa a partir de compartimentações locais.
+
+---
+
+## Tensão 267 — real como campo vs abstração ontológica
+**Fragmento:** F0097
+
+Retirada do real do campo de atualização para entidades abstratas.
+
