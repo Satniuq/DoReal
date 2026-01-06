@@ -2957,3 +2957,1015 @@ A consciência é uma atualização local do real.
 **Estado:** central
 
 A universalização de círculos locais gera erro filosófico.
+
+## T404
+**Origem:** F0098  
+**Estado:** em teste
+
+O discurso exprime sempre um modo de ser situado e nunca a totalidade do real.
+
+---
+
+## T405
+**Origem:** F0098  
+**Estado:** em teste
+
+A ampliação do discurso depende do alcance comunicacional e não da sua adequação ontológica.
+
+---
+
+## T406
+**Origem:** F0098  
+**Estado:** em teste
+
+A preservação real consiste na continuidade do ser e não na manutenção abstrata de estados de coisas.
+
+---
+
+## T407
+**Origem:** F0098  
+**Estado:** em teste
+
+Discursos de largo alcance tendem a autonomizar-se do real e a operar sobre premissas internas falsas.
+
+---
+
+## T408
+**Origem:** F0098  
+**Estado:** em teste
+
+O discurso político é uma extensão ampliada de discursos locais e herda as suas limitações ontológicas.
+
+---
+
+## T409
+**Origem:** F0098  
+**Estado:** em teste
+
+O dever-ser só é legítimo quando deriva do conhecimento do que é e do que pode ser atualizado.
+
+---
+
+## T410
+**Origem:** F0098  
+**Estado:** em teste
+
+A lei é uma exterioridade valorativa criada para estabilizar descrições do real transmissíveis no tempo.
+
+---
+
+## T411
+**Origem:** F0098  
+**Estado:** em teste
+
+A substituição da descrição do real por sistemas internos autorreferenciais constitui erro ontológico.
+
+## T412
+**Origem:** F0099  
+**Estado:** em teste
+
+Os discursos alargados operam sobre temas simbólicos e não sobre descrições adequadas do real.
+
+---
+
+## T413
+**Origem:** F0099  
+**Estado:** em teste
+
+O dever-ser contemporâneo é maioritariamente derivado de representações coletivas e não do ser articulado.
+
+---
+
+## T414
+**Origem:** F0099  
+**Estado:** em teste
+
+A eficácia discursiva resulta da adesão simbólica e não da correspondência ontológica.
+
+---
+
+## T415
+**Origem:** F0099  
+**Estado:** em teste
+
+A centralidade do eu distorce a apreensão do real sem impedir a funcionalidade local do discurso.
+
+---
+
+## T416
+**Origem:** F0099  
+**Estado:** em teste
+
+A simplificação causal substitui a descrição do real por esquemas operacionais pobres.
+
+---
+
+## T417
+**Origem:** F0099  
+**Estado:** em teste
+
+O debate público tende a gerir representações em vez de descrever o ser.
+
+## T418
+**Origem:** F0100  
+**Estado:** em teste
+
+Não existe conhecimento local permanente devido à atualização contínua do real.
+
+---
+
+## T419
+**Origem:** F0100  
+**Estado:** em teste
+
+O pai constitui o símbolo transmissivo mais atualizado do real no círculo imediato do novo ser.
+
+---
+
+## T420
+**Origem:** F0100  
+**Estado:** em teste
+
+A institucionalização do ensino substitui a transmissão ontológica direta por mediação impessoal.
+
+---
+
+## T421
+**Origem:** F0100  
+**Estado:** em teste
+
+A complexificação social provoca a quebra da força simbólica do pai.
+
+---
+
+## T422
+**Origem:** F0100  
+**Estado:** em teste
+
+As tipologias psicológicas reduzem-se à distinção ontológica entre ser no real e ser no eu.
+
+## T423
+**Origem:** F0101  
+**Estado:** em teste
+
+As atualizações do campo físico são suporte, mas não condição suficiente da consciência.
+
+---
+
+## T424
+**Origem:** F0101  
+**Estado:** em teste
+
+O eu é a condição de possibilidade da temporalidade consciente.
+
+---
+
+## T425
+**Origem:** F0101  
+**Estado:** em teste
+
+A diferença fundamental do sapiens reside na centralidade do eu e da interioridade contínua.
+
+---
+
+## T426
+**Origem:** F0101  
+**Estado:** em teste
+
+A ciência descreve o real sem fundar dever-ser, abrindo espaço à persistência de normatividades simbólicas.
+
+---
+
+## T427
+**Origem:** F0101  
+**Estado:** em teste
+
+O dever-ser verdadeiro coincide com o pode-ser e com o ser.
+
+## T428
+**Origem:** F0102  
+**Estado:** em teste
+
+Não existem discursos ontológicos puros, apenas descrições situadas do real.
+
+---
+
+## T429
+**Origem:** F0102  
+**Estado:** em teste
+
+As condicionantes primárias do pensamento restringem o objeto descrito, não o real em si.
+
+---
+
+## T430
+**Origem:** F0102  
+**Estado:** em teste
+
+A forma do discurso preserva-se como expressão da continuidade do ser.
+
+---
+
+## T431
+**Origem:** F0102  
+**Estado:** em teste
+
+A verdade corrente pode ocultar erro ontológico.
+
+---
+
+## T432
+**Origem:** F0102  
+**Estado:** em teste
+
+Toda a proposição deriva de um centro perspetivo estruturado pelo eu.
+
+---
+
+## T433
+**Origem:** F0102  
+**Estado:** em teste
+
+A inversão entre o facto e a sua enunciação é estrutural à relação entre ser e real.
+
+## T434
+**Origem:** F0103  
+**Estado:** em teste
+
+Todo o pensamento é perspectivado e instaura uma divisão real entre eu e real.
+
+---
+
+## T435
+**Origem:** F0103  
+**Estado:** em teste
+
+Os sistemas substituem a apreensão direta do real por mediações internas.
+
+---
+
+## T436
+**Origem:** F0103  
+**Estado:** em teste
+
+A escolarização prolongada é consequência da impossibilidade de apreensão direta do real.
+
+---
+
+## T437
+**Origem:** F0103  
+**Estado:** em teste
+
+O discurso é o único meio possível de transmissão do real entre localizações distintas.
+
+---
+
+## T438
+**Origem:** F0103  
+**Estado:** em teste
+
+Nenhum subtipo de discurso detém privilégio ontológico sobre a língua comum.
+
+## T439
+**Origem:** F0104  
+**Estado:** em teste
+
+O real é um campo de potencialidades continuamente atualizáveis.
+
+---
+
+## T440
+**Origem:** F0104  
+**Estado:** em teste
+
+Toda a apreensão consciente do real é simbólica e localizada.
+
+---
+
+## T441
+**Origem:** F0104  
+**Estado:** em teste
+
+Só os arquétipos que descrevem o real são verdadeiros.
+
+---
+
+## T442
+**Origem:** F0104  
+**Estado:** em teste
+
+A normatividade válida deriva necessariamente da descrição do real.
+
+---
+
+## T443
+**Origem:** F0104  
+**Estado:** em teste
+
+As proposições verdadeiramente verdadeiras são as que incidem sobre o real.
+
+---
+
+## T444
+**Origem:** F0104  
+**Estado:** em teste
+
+Os sistemas tendem a apropriar-se do que é produzido por aqueles que tocam no real.
+
+## T445
+**Origem:** F0105  
+**Estado:** em teste
+
+O real manifesta-se como conjunto de atualizações emergentes e não como entidade fixa.
+
+---
+
+## T446
+**Origem:** F0105  
+**Estado:** em teste
+
+Toda a relação com o real ocorre a uma escala e nunca no ponto mínimo absoluto.
+
+---
+
+## T447
+**Origem:** F0105  
+**Estado:** em teste
+
+O agente político opera sobre a apreensão comum do real e não sobre o real diretamente.
+
+---
+
+## T448
+**Origem:** F0105  
+**Estado:** em teste
+
+O direito é válido quando descreve regularidades universais das relações humanas.
+
+---
+
+## T449
+**Origem:** F0105  
+**Estado:** em teste
+
+A justiça consiste na correta identificação e atualização do dever-ser.
+
+## T450
+**Origem:** F0106  
+**Estado:** em teste
+
+Toda a liberdade se exerce através de atualizações que implicam assunção de relações.
+
+---
+
+## T451
+**Origem:** F0106  
+**Estado:** em teste
+
+Nenhuma atualização pode ser anulada após existir.
+
+---
+
+## T452
+**Origem:** F0106  
+**Estado:** em teste
+
+O filósofo distingue-se por descrever o real e não por proclamar verdades.
+
+---
+
+## T453
+**Origem:** F0106  
+**Estado:** em teste
+
+O bem e o mal derivam da caracterização das relações e não de impressões externas.
+
+---
+
+## T454
+**Origem:** F0106  
+**Estado:** em teste
+
+A verdade é aquilo que é descrito no real, independentemente do ponto de vista individual.
+
+## T455
+**Origem:** F0107  
+**Estado:** em teste
+
+As condições que tornam possível a consciência são prova da sua existência.
+
+---
+
+## T456
+**Origem:** F0107  
+**Estado:** em teste
+
+A relação é um campo comum que contém os entes relacionados.
+
+---
+
+## T457
+**Origem:** F0107  
+**Estado:** em teste
+
+A representação da relação como ligação entre opostos é ontologicamente falsa.
+
+---
+
+## T458
+**Origem:** F0107  
+**Estado:** em teste
+
+Toda a inovação emerge do círculo maior e permanece contida por ele.
+
+---
+
+## T459
+**Origem:** F0107  
+**Estado:** em teste
+
+A verdade consiste na descrição do real tal como é integrado no círculo.
+
+## T460
+**Origem:** F0108  
+**Estado:** em teste
+
+A apreensão é o modo pelo qual o ser se torna significativo.
+
+---
+
+## T461
+**Origem:** F0108  
+**Estado:** em teste
+
+O símbolo traduz o real ao incorporar estruturas comuns de apreensão.
+
+---
+
+## T462
+**Origem:** F0108  
+**Estado:** em teste
+
+A crença resulta da estabilização de contínuos de ação.
+
+---
+
+## T463
+**Origem:** F0108  
+**Estado:** em teste
+
+A consciência reflexiva aplica-se apenas a parte das atualizações do ser.
+
+---
+
+## T464
+**Origem:** F0108  
+**Estado:** em teste
+
+A língua é condição de ampliação da apreensão local.
+
+---
+
+## T465
+**Origem:** F0108  
+**Estado:** em teste
+
+A verdade aproxima-se à medida que o discurso se afasta do eu.
+
+## T466
+**Origem:** F0109  
+**Estado:** em teste
+
+A unicidade da verdade é uma exigência humana, não uma propriedade do real.
+
+---
+
+## T467
+**Origem:** F0109  
+**Estado:** em teste
+
+O relativismo contemporâneo exprime a necessidade de ancorar posições no real.
+
+---
+
+## T468
+**Origem:** F0109  
+**Estado:** em teste
+
+É possível estar ancorado no real e ainda assim errar na descrição e na prescrição.
+
+---
+
+## T469
+**Origem:** F0109  
+**Estado:** em teste
+
+Confundir manifestação com relação é um erro ontológico recorrente.
+
+---
+
+## T470
+**Origem:** F0109  
+**Estado:** em teste
+
+O real não exige definição, apenas existência.
+
+## T471
+**Origem:** F0110  
+**Estado:** em teste
+
+O ser define-se pela sua capacidade de atualização a partir do podendo-ser.
+
+---
+
+## T472
+**Origem:** F0110  
+**Estado:** em teste
+
+A consciência emerge da integração simbólica do eu.
+
+---
+
+## T473
+**Origem:** F0110  
+**Estado:** em teste
+
+Os símbolos são condição de possibilidade do pensamento reflexivo.
+
+---
+
+## T474
+**Origem:** F0110  
+**Estado:** em teste
+
+A diferença humana reside na mediação simbólica e não na rutura com o real.
+
+---
+
+## T475
+**Origem:** F0110  
+**Estado:** em teste
+
+O real não necessita de explicação por ser a totalidade do existente.
+
+## T476
+**Origem:** F0111  
+**Estado:** em teste
+
+A manifestação só existe a partir da relação que a constitui.
+
+---
+
+## T477
+**Origem:** F0111  
+**Estado:** em teste
+
+A consciência é necessariamente real, pois não pode relacionar-se com o real sendo extra-real.
+
+---
+
+## T478
+**Origem:** F0111  
+**Estado:** em teste
+
+A ausência da função paterna resulta da falha na introdução do real.
+
+---
+
+## T479
+**Origem:** F0111  
+**Estado:** em teste
+
+Quando o real deixa de ser critério, o bem e o mal tornam-se internos ao sistema.
+
+---
+
+## T480
+**Origem:** F0111  
+**Estado:** em teste
+
+O modo de ser que melhor descreve a totalidade tende a tornar-se dominante.
+
+## T481
+**Origem:** F0112  
+**Estado:** em teste
+
+O real regula os modos de ser através de cadências próprias e não por prescrição.
+
+---
+
+## T482
+**Origem:** F0112  
+**Estado:** em teste
+
+As proposições verdadeiras confirmam-se pela ação no real.
+
+---
+
+## T483
+**Origem:** F0112  
+**Estado:** em teste
+
+O bem consiste em agir de acordo com o que o real permite.
+
+---
+
+## T484
+**Origem:** F0112  
+**Estado:** em teste
+
+A prescrição só é verdadeira quando condicionada pela descrição correta do ser.
+
+---
+
+## T485
+**Origem:** F0112  
+**Estado:** em teste
+
+O dever-ser decorre necessariamente do ser.
+
+## T486
+**Origem:** F0113  
+**Estado:** em teste
+
+Toda a crítica é uma forma de apreensão relacional entre eus.
+
+---
+
+## T487
+**Origem:** F0113  
+**Estado:** em teste
+
+O real é o critério comum que precede qualquer avaliação.
+
+---
+
+## T488
+**Origem:** F0113  
+**Estado:** em teste
+
+A certeza física funda-se na repetição de efeitos sob condições semelhantes.
+
+---
+
+## T489
+**Origem:** F0113  
+**Estado:** em teste
+
+A filosofia é necessária para articular poder-ser e dever-ser.
+
+---
+
+## T490
+**Origem:** F0113  
+**Estado:** em teste
+
+O dever-ser emerge inevitavelmente da representação cognitiva.
+
+## T491
+**Origem:** F0114  
+**Estado:** em teste
+
+Não existe dever-ser sem poder-ser.
+
+---
+
+## T492
+**Origem:** F0114  
+**Estado:** em teste
+
+O dever-ser humano está inscrito na descrição do ser.
+
+---
+
+## T493
+**Origem:** F0114  
+**Estado:** em teste
+
+A fragmentação da filosofia decorre da perda do real como objeto comum.
+
+---
+
+## T494
+**Origem:** F0114  
+**Estado:** em teste
+
+Reduzir ontologia a preferências implica negar a existência do ser.
+
+---
+
+## T495
+**Origem:** F0114  
+**Estado:** em teste
+
+O conceito de Deus exprime a estrutura do real nos círculos locais.
+
+## T496
+**Origem:** F0115  
+**Estado:** em teste
+
+Ser bom é adequar-se ao ser que o real permite.
+
+---
+
+## T497
+**Origem:** F0115  
+**Estado:** em teste
+
+O dever-ser é um horizonte futuro inscrito na relação.
+
+---
+
+## T498
+**Origem:** F0115  
+**Estado:** em teste
+
+O drama é uma distorção produzida pelo eu contra o real.
+
+---
+
+## T499
+**Origem:** F0115  
+**Estado:** em teste
+
+Não existe consciência fora do campo real que a funda.
+
+---
+
+## T500
+**Origem:** F0115  
+**Estado:** em teste
+
+As instituições humanas derivam da identificação dos modos reais de operar.
+
+## T501
+**Origem:** F0116  
+**Estado:** em teste
+
+O determinismo falha quando ignora a capacidade reflexiva de decisão.
+
+---
+
+## T502
+**Origem:** F0116  
+**Estado:** em teste
+
+Toda a ação humana envolve pensamento sobre a própria ação.
+
+---
+
+## T503
+**Origem:** F0116  
+**Estado:** em teste
+
+A imaginação é condição de possibilidade para a expansão do real apreensível.
+
+---
+
+## T504
+**Origem:** F0116  
+**Estado:** em teste
+
+O organismo orienta-se biologicamente a partir do eu, sem esgotar a liberdade reflexiva.
+
+## T505
+**Origem:** F0117  
+**Estado:** em teste
+
+Só sistemas dependentes do real podem ser verdadeiros.
+
+---
+
+## T506
+**Origem:** F0117  
+**Estado:** em teste
+
+O poder-ser é ontologicamente anterior ao dever-ser.
+
+---
+
+## T507
+**Origem:** F0117  
+**Estado:** em teste
+
+A racionalização tende a excluir o real da descrição.
+
+---
+
+## T508
+**Origem:** F0117  
+**Estado:** em teste
+
+A aprendizagem verdadeira consiste em viver no poder-ser.
+
+---
+
+## T509
+**Origem:** F0117  
+**Estado:** em teste
+
+A sociedade contemporânea amplifica o eu-eu em detrimento do eu-real.
+
+## T510
+**Origem:** F0118  
+**Estado:** em teste
+
+O automatismo naturalista mantém a consciência presa à representação do real.
+
+---
+
+## T511
+**Origem:** F0118  
+**Estado:** em teste
+
+O efeito psicadélico dissipa a mediação automática entre o eu e o real.
+
+---
+
+## T512
+**Origem:** F0118  
+**Estado:** em teste
+
+A alteração da ponte eu–real torna a consciência mais evidente a si própria.
+
+## T513
+**Origem:** F0119  
+**Estado:** em teste
+
+Não há aprendizagem fora do modo de apreensão.
+
+---
+
+## T514
+**Origem:** F0119  
+**Estado:** em teste
+
+A apreensão é sempre simbólica e corporal.
+
+---
+
+## T515
+**Origem:** F0119  
+**Estado:** em teste
+
+O melhor, o bom e o verdadeiro coincidem na continuidade da relação.
+
+---
+
+## T516
+**Origem:** F0119  
+**Estado:** em teste
+
+A liberdade humana só existe integrada no real.
+
+---
+
+## T517
+**Origem:** F0119  
+**Estado:** em teste
+
+A ética decorre da descrição correta das relações humanas.
+
+## T518
+**Origem:** F0120  
+**Estado:** em teste
+
+A adequação ética só pode ser determinada no interior da relação concreta.
+
+---
+
+## T519
+**Origem:** F0120  
+**Estado:** em teste
+
+Não existe mal ontológico, apenas má apreensão do real.
+
+---
+
+## T520
+**Origem:** F0120  
+**Estado:** em teste
+
+Bem descrever é condição para bem agir.
+
+---
+
+## T521
+**Origem:** F0120  
+**Estado:** em teste
+
+Aprender é necessário para adequar a ação à relação.
+
+---
+
+## T522
+**Origem:** F0120  
+**Estado:** em teste
+
+Relações dominativas são ontologicamente deficientes.
+
+## T523
+**Origem:** F0121  
+**Estado:** em teste
+
+O homem tende a permanecer no contínuo relacional já constituído.
+
+---
+
+## T524
+**Origem:** F0121  
+**Estado:** em teste
+
+A adaptação é ontologicamente mais económica do que a ruptura.
+
+---
+
+## T525
+**Origem:** F0121  
+**Estado:** em teste
+
+A matemática descreve com precisão, mas não funda a compreensão do real.
+
+---
+
+## T526
+**Origem:** F0121  
+**Estado:** em teste
+
+A melhor descrição do real não provém de sistemas, mas da relação com o real.
+
+---
+
+## T527
+**Origem:** F0121  
+**Estado:** em teste
+
+Dilemas morais artificiais não definem o modo de ser humano.
+
+## T528
+**Origem:** F0122  
+**Estado:** em teste
+
+A negação da ética decorre de um falso dilema teórico.
+
+---
+
+## T529
+**Origem:** F0122  
+**Estado:** em teste
+
+A ética emerge do domínio relacional e não de propriedades isoladas.
+
+---
+
+## T530
+**Origem:** F0122  
+**Estado:** em teste
+
+O universal ético coincide com as regularidades das relações.
+
+---
+
+## T531
+**Origem:** F0122  
+**Estado:** em teste
+
+O real é necessariamente partilhado enquanto campo de potencialidades.
+
+## T532
+**Origem:** F0123  
+**Estado:** em teste
+
+A filosofia só é válida quando integra ciência e ontologia.
+
+---
+
+## T533
+**Origem:** F0123  
+**Estado:** em teste
+
+Ignorar as partes empíricas invalida qualquer compreensão do todo.
+
+---
+
+## T534
+**Origem:** F0123  
+**Estado:** em teste
+
+Ser, pensar e dizer constituem uma unidade ontológica.
+
+---
+
+## T535
+**Origem:** F0123  
+**Estado:** em teste
+
+A tradição filosófica moderna falha por isolar a apreensão do real.
+
+---
+
+## T536
+**Origem:** F0123  
+**Estado:** em teste
+
+O bem realiza-se nas relações concretas e incorporadas.

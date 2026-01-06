@@ -4542,3 +4542,1455 @@ O vazio contém potencialidades reais.
 **Estado:** central
 
 Relação humana com o real, não sistema fechado.
+
+## C611 — discurso como expressão situada do ser
+**Origem:** F0098  
+**Estado:** central
+
+O discurso exprime o modo de ser de indivíduos situados num círculo, não a totalidade do real.
+
+---
+
+## C612 — alcance comunicacional como fator ontológico
+**Origem:** F0098  
+**Estado:** central
+
+A ampliação do discurso depende do alcance de quem o produz, projetando modos de ser para além do campo imediato.
+
+---
+
+## C613 — continuidade do ser como preservação real
+**Origem:** F0098  
+**Estado:** central
+
+A preservação não é ideal abstrato, mas a cadência normal das relações que mantêm a continuidade do ser no real.
+
+---
+
+## C614 — discurso situacionista
+**Origem:** F0098  
+**Estado:** central
+
+Tipo de discurso moldado por um sistema fechado, com premissas internas falsas e desligadas do real.
+
+---
+
+## C615 — legislador como conhecedor do ser
+**Origem:** F0098  
+**Estado:** central
+
+A legitimidade do dever-ser depende do conhecimento do que é e do que pode ser atualizado.
+
+---
+
+## C616 — lei como exterioridade valorativa
+**Origem:** F0098  
+**Estado:** central
+
+A lei surge como mediação valorativa entre o eu e o real, transmitindo descrições estabilizadas às gerações futuras.
+
+## C617 — discurso temático como representação reduzida
+**Origem:** F0099  
+**Estado:** central
+
+Os discursos alargados operam sobre temas simbólicos reduzidos, tomando representações parciais como se fossem o ser articulado.
+
+---
+
+## C618 — dever-ser derivado de representação
+**Origem:** F0099  
+**Estado:** central
+
+A normatividade é construída a partir de representações coletivas e não da descrição adequada do real.
+
+---
+
+## C619 — eficácia simbólica
+**Origem:** F0099  
+**Estado:** central
+
+A validação do discurso ocorre pela adesão simbólica e não pela correspondência ontológica.
+
+---
+
+## C620 — eu como fator de distorção do real
+**Origem:** F0099  
+**Estado:** central
+
+A centralidade do eu interfere na apreensão do real, produzindo leituras mediadas por interesse e identidade.
+
+---
+
+## C621 — materialismo causal simplificado
+**Origem:** F0099  
+**Estado:** central
+
+Redução da relação com o real a esquemas causais superficiais do tipo “se isto, então aquilo”.
+
+---
+
+## C622 — debate como gestão de representações
+**Origem:** F0099  
+**Estado:** central
+
+O debate público incide sobre a ação humana em representações coletivas e não sobre o ser descrito.
+
+## C623 — inexistência de conhecimento local permanente
+**Origem:** F0100  
+**Estado:** central
+
+Não há conhecimento que permaneça localizado, dado o carácter continuamente atualizável do real.
+
+---
+
+## C624 — símbolo do pai como transmissão atualizada do real
+**Origem:** F0100  
+**Estado:** central
+
+O pai funciona como símbolo primário por existir no círculo imediato do novo ser e transmitir o real vivido.
+
+---
+
+## C625 — professor como transmissor do discurso alargado
+**Origem:** F0100  
+**Estado:** central
+
+O professor opera como mediador impessoal do discurso alargado, não como relação ontológica individual.
+
+---
+
+## C626 — quebra do símbolo do pai
+**Origem:** F0100  
+**Estado:** central
+
+A complexificação social enfraquece a função transmissiva direta do pai enquanto símbolo.
+
+---
+
+## C627 — ser no eu
+**Origem:** F0100  
+**Estado:** central
+
+Modo de ser centrado na interioridade, na mediação simbólica e na relação identitária.
+
+---
+
+## C628 — ser no real
+**Origem:** F0100  
+**Estado:** central
+
+Modo de ser orientado pela continuidade ontológica e pela atualização do real.
+
+---
+
+## C629 — binariedade ontológica fundamental
+**Origem:** F0100  
+**Estado:** central
+
+As tipologias psicológicas multiplicadas reduzem-se à distinção entre ser no real e ser no eu.
+
+## C630 — ser no eu e ser no real
+**Origem:** F0101  
+**Estado:** central
+
+Distinção entre interioridade contínua (eu) e campo físico apreensível (real).
+
+---
+
+## C631 — eu como condição da temporalidade
+**Origem:** F0101  
+**Estado:** central
+
+O eu torna possível a derivação de passado e futuro enquanto contínuo apreensível.
+
+---
+
+## C632 — atualização interna das potencialidades
+**Origem:** F0101  
+**Estado:** central
+
+A atualização do real exige um processo interno mediado pelo eu, para além do suporte físico.
+
+---
+
+## C633 — sapiens como ser eu-centrado
+**Origem:** F0101  
+**Estado:** central
+
+O sapiens opera centrado no eu e na interioridade, não apenas na representação imediata do ambiente.
+
+---
+
+## C634 — ciência como descrição processual do real
+**Origem:** F0101  
+**Estado:** central
+
+A ciência descreve o real pelo processo físico e apreensível, sem prescrever dever-ser.
+
+---
+
+## C635 — filósofo como descritor do real
+**Origem:** F0101  
+**Estado:** central
+
+O filósofo é o ser consciente reflexivo que apreende o real e evita erros ontológicos na normatividade.
+
+---
+
+## C636 — verdade do dever-ser
+**Origem:** F0101  
+**Estado:** central
+
+O dever-ser é verdadeiro quando coincide com o pode-ser e com o ser.
+
+## C637 — inexistência de discurso ontológico puro
+**Origem:** F0102  
+**Estado:** central
+
+Não existem discursos ontológicos enquanto tais, apenas discursos que operam sobre descrições situadas do real.
+
+---
+
+## C638 — condicionantes primárias do pensamento
+**Origem:** F0102  
+**Estado:** central
+
+As estruturas básicas do pensamento funcionam como restrições à descrição do real.
+
+---
+
+## C639 — objeto da descrição
+**Origem:** F0102  
+**Estado:** central
+
+Aquilo que é descrito não é a coisa em si, mas o objeto configurado pela descrição.
+
+---
+
+## C640 — forma do discurso como continuidade do ser
+**Origem:** F0102  
+**Estado:** central
+
+O discurso preserva a sua própria forma enquanto expressão da continuidade ontológica do ser.
+
+---
+
+## C641 — verdade corrente vs verdade ontológica
+**Origem:** F0102  
+**Estado:** central
+
+Uma proposição pode ser tida como verdadeira no uso corrente e ser ontologicamente falsa.
+
+---
+
+## C642 — eu como centro de perspetiva
+**Origem:** F0102  
+**Estado:** central
+
+Toda a proposição deriva de um centro de perspetiva localizado, estruturado pelo eu.
+
+---
+
+## C643 — devir centrado
+**Origem:** F0102  
+**Estado:** central
+
+Modo de ser caracterizado pela atualização contínua a partir de um centro perspetivo local.
+
+## C644 — pensamento perspectivado
+**Origem:** F0103  
+**Estado:** central
+
+Todo o pensamento opera a partir de uma perspetiva que divide real e eu.
+
+---
+
+## C645 — divisão real/eu como estrutura ontológica
+**Origem:** F0103  
+**Estado:** central
+
+A separação entre real e eu é real enquanto efeito da reflexão sobre a reflexão.
+
+---
+
+## C646 — sistema como substituto da apreensão do real
+**Origem:** F0103  
+**Estado:** central
+
+Os sistemas funcionam como mediações internas que substituem a apreensão direta do real.
+
+---
+
+## C647 — discurso especializado
+**Origem:** F0103  
+**Estado:** central
+
+Formas discursivas fechadas que operam por lógica interna e não por descrição direta do real.
+
+---
+
+## C648 — escolarização como adaptação sistémica
+**Origem:** F0103  
+**Estado:** central
+
+Processo de aprendizagem necessário para viver dentro de sistemas que não tocam diretamente o real.
+
+---
+
+## C649 — discurso como meio único de transmissão do real
+**Origem:** F0103  
+**Estado:** central
+
+O discurso é o único meio de transmitir o real entre localizações distintas.
+
+---
+
+## C650 — confusão ontológica dos subdiscursos
+**Origem:** F0103  
+**Estado:** central
+
+Erro de tomar subtipos de discurso como vias exclusivas de acesso ao real.
+
+## C651 — campo de potencialidades
+**Origem:** F0104  
+**Estado:** central
+
+O real opera como campo de potencialidades continuamente atualizáveis.
+
+---
+
+## C652 — apreensão simbólica do real
+**Origem:** F0104  
+**Estado:** central
+
+O ser consciente reflexivo apreende o real simbolicamente a partir de uma localidade.
+
+---
+
+## C653 — arquétipo descritivo
+**Origem:** F0104  
+**Estado:** central
+
+Arquétipo que é verdadeiro por descrever o real e não por prescrever valores.
+
+---
+
+## C654 — prescrição derivada do real
+**Origem:** F0104  
+**Estado:** central
+
+A normatividade só é válida quando deriva da descrição do real.
+
+---
+
+## C655 — símbolo Deus como preenchimento do real
+**Origem:** F0104  
+**Estado:** central
+
+O símbolo Deus surge como forma de preencher o real e não como objeto de fé.
+
+---
+
+## C656 — verdade local vs verdade do real
+**Origem:** F0104  
+**Estado:** central
+
+Distinção entre verdade centrada no eu e verdade que incide sobre o real.
+
+---
+
+## C657 — apropriação sistémica do real
+**Origem:** F0104  
+**Estado:** central
+
+O sistema apropria-se do que é produzido por aqueles que tocam no real.
+
+## C658 — atualização emergente
+**Origem:** F0105  
+**Estado:** central
+
+O ente manifesta-se como conjunto de atualizações que produzem presença emergente à escala da relação.
+
+---
+
+## C659 — relação escalar com o real
+**Origem:** F0105  
+**Estado:** central
+
+A relação com o real ocorre sempre a uma escala, nunca no ponto mínimo absoluto.
+
+---
+
+## C660 — modo default do ser
+**Origem:** F0105  
+**Estado:** central
+
+Modo de ser que responde à multiplicação de vozes e à comunicação alargada.
+
+---
+
+## C661 — político como operador sistémico
+**Origem:** F0105  
+**Estado:** central
+
+O agente político vive num sistema e opera sobre a apreensão comum do real.
+
+---
+
+## C662 — arquétipos de apreensão
+**Origem:** F0105  
+**Estado:** central
+
+Redução dos modos de apreensão a ser no eu e ser no real.
+
+---
+
+## C663 — direito como descrição relacional
+**Origem:** F0105  
+**Estado:** central
+
+O direito deveria descrever regularidades universais das relações humanas.
+
+---
+
+## C664 — justiça como atualização do dever-ser
+**Origem:** F0105  
+**Estado:** central
+
+A justiça consiste na atualização do que deveria ter sido, a partir do ser e do poder-ser.
+
+---
+
+## C665 — moralidade relacional
+**Origem:** F0105  
+**Estado:** central
+
+A moralidade emerge da relação entre seres conscientes e não de sistemas externos.
+
+## C666 — atualização como assunção de papel
+**Origem:** F0106  
+**Estado:** central
+
+Toda a atualização implica a assunção imediata de um modo de ser relacional.
+
+---
+
+## C667 — liberdade como escolha de atualizações
+**Origem:** F0106  
+**Estado:** central
+
+A liberdade consiste na capacidade de moldar atualizações, não de as evitar.
+
+---
+
+## C668 — irreversibilidade da atualização
+**Origem:** F0106  
+**Estado:** central
+
+Uma vez atualizada, a relação passa a existir independentemente da intenção inicial.
+
+---
+
+## C669 — filósofo como descritor do real
+**Origem:** F0106  
+**Estado:** central
+
+O filósofo descreve o real tal como é, não produz verdades arbitrárias.
+
+---
+
+## C670 — facto como unidade relacional
+**Origem:** F0106  
+**Estado:** central
+
+O facto é a caracterização de uma relação na continuidade do ser, não a coisa isolada.
+
+---
+
+## C671 — verdade como critério externo ao eu
+**Origem:** F0106  
+**Estado:** central
+
+A verdade não depende do ponto de vista individual, mas do real descrito.
+
+## C672 — condições de possibilidade da consciência
+**Origem:** F0107  
+**Estado:** central
+
+A consciência só é possível mediante um conjunto estável de atualizações relacionais no real.
+
+---
+
+## C673 — atualidade da consciência
+**Origem:** F0107  
+**Estado:** central
+
+A atualidade da consciência deriva das condições que tornam possível a própria atualidade.
+
+---
+
+## C674 — relação como campo comum
+**Origem:** F0107  
+**Estado:** central
+
+A relação não é entre entidades separadas, mas um campo comum que as contém.
+
+---
+
+## C675 — erro representacional da relação
+**Origem:** F0107  
+**Estado:** central
+
+A relação é falsamente representada como ligação entre opostos independentes.
+
+---
+
+## C676 — bolha extra-círculo
+**Origem:** F0107  
+**Estado:** central
+
+Inovação que emerge do círculo maior e permanece contida por ele.
+
+---
+
+## C677 — integração simbólica do novo
+**Origem:** F0107  
+**Estado:** central
+
+O círculo integra novas descrições do real segundo a sua própria linguagem e lógica.
+
+---
+
+## C678 — fio tradicional da apreensão do real
+**Origem:** F0107  
+**Estado:** central
+
+Continuidade histórica na forma como o real é apreendido e descrito.
+
+## C679 — apreensão como significação
+**Origem:** F0108  
+**Estado:** central
+
+A apreensão é o processo de significação das atualizações do ser.
+
+---
+
+## C680 — símbolo como tradução do real
+**Origem:** F0108  
+**Estado:** central
+
+O símbolo traduz o real ao incorporar estruturas comuns de apreensão.
+
+---
+
+## C681 — comum como condição da apreensão
+**Origem:** F0108  
+**Estado:** central
+
+O comum refere-se às condições que estruturam a apreensão, não aos conteúdos internos.
+
+---
+
+## C682 — lógica como inteligibilidade da relação
+**Origem:** F0108  
+**Estado:** central
+
+A lógica mantém a inteligibilidade da relação entre eu e real.
+
+---
+
+## C683 — crença como estabilização da ação
+**Origem:** F0108  
+**Estado:** central
+
+A crença emerge da repetição e destruição de contínuos de ação.
+
+---
+
+## C684 — limites da consciência reflexiva
+**Origem:** F0108  
+**Estado:** central
+
+A consciência reflexiva não se aplica a todas as atualizações do ser.
+
+---
+
+## C685 — língua como ampliação da apreensão
+**Origem:** F0108  
+**Estado:** central
+
+A língua permite ampliar a representação local para fora da localidade.
+
+---
+
+## C686 — bifurcação dos modos de ser
+**Origem:** F0108  
+**Estado:** central
+
+Os seres conscientes bifurcam-se entre orientação para o eu e orientação para o real.
+
+---
+
+## C687 — verdade como distância do eu
+**Origem:** F0108  
+**Estado:** central
+
+Quanto mais distante do eu, mais próxima está a descrição verdadeira do real.
+
+## C688 — verdade única como limitação humana
+**Origem:** F0109  
+**Estado:** central
+
+A exigência de verdade única decorre da limitação do pensamento humano, não do real.
+
+---
+
+## C689 — relativismo como exigência de ancoragem
+**Origem:** F0109  
+**Estado:** central
+
+O relativismo contemporâneo exprime a exigência de ancoragem de todas as posições no real.
+
+---
+
+## C690 — erro descritivo e prescritivo
+**Origem:** F0109  
+**Estado:** central
+
+Uma posição pode estar ancorada no real e ainda assim descrevê-lo e prescrevê-lo incorretamente.
+
+---
+
+## C691 — confusão entre relação e manifestação
+**Origem:** F0109  
+**Estado:** central
+
+Erro ontológico que identifica a manifestação com a relação que a torna possível.
+
+---
+
+## C692 — real como campo de coerência
+**Origem:** F0109  
+**Estado:** central
+
+O real é o que sustém e abraça toda a forma coerente.
+
+---
+
+## C693 — ser sem predicação
+**Origem:** F0109  
+**Estado:** central
+
+Ao real não se pede predicação; pede-se apenas que seja.
+
+## C694 — ontologia crua
+**Origem:** F0110  
+**Estado:** central
+
+Descrição do ser enquanto contínuo de atualizações sem mediação teórica.
+
+---
+
+## C695 — ser como potencialidade atualizável
+**Origem:** F0110  
+**Estado:** central
+
+O ser é definido pela sua capacidade de atualização a partir do podendo-ser.
+
+---
+
+## C696 — continuidade do ser
+**Origem:** F0110  
+**Estado:** central
+
+O ser mantém-se por não deixar de ser aquilo que tem vindo a ser.
+
+---
+
+## C697 — quebra da função
+**Origem:** F0110  
+**Estado:** central
+
+Momento de atualização que rompe a regularidade anterior do ser.
+
+---
+
+## C698 — integração do eu
+**Origem:** F0110  
+**Estado:** central
+
+Processo pelo qual o eu se torna consciente de si através da simbolização.
+
+---
+
+## C699 — símbolo como mediação reflexiva
+**Origem:** F0110  
+**Estado:** central
+
+O símbolo permite ao eu interagir consigo próprio e com o real.
+
+---
+
+## C700 — biblioteca simbólica
+**Origem:** F0110  
+**Estado:** central
+
+Conjunto de símbolos acumulados pelo contínuo da ação humana.
+
+---
+
+## C701 — real como totalidade
+**Origem:** F0110  
+**Estado:** central
+
+O real não requer explicação por ser a totalidade do que é.
+
+## C702 — relação como condição da manifestação
+**Origem:** F0111  
+**Estado:** central
+
+A manifestação só é possível a partir da relação que a torna possível.
+
+---
+
+## C703 — real como horizonte necessário
+**Origem:** F0111  
+**Estado:** central
+
+O real é o horizonte inevitável de qualquer relação e consciência.
+
+---
+
+## C704 — pai como introdutor do real
+**Origem:** F0111  
+**Estado:** central
+
+A função paterna consiste em introduzir o filho no real.
+
+---
+
+## C705 — minuta de apreensão
+**Origem:** F0111  
+**Estado:** central
+
+Modelo transmissível de apreensão do real entre gerações.
+
+---
+
+## C706 — moralidade desligada do real
+**Origem:** F0111  
+**Estado:** central
+
+Normatividade que opera apenas por regras internas do círculo.
+
+---
+
+## C707 — bem e mal como processo
+**Origem:** F0111  
+**Estado:** central
+
+Deslocação do juízo do ato para o processo sistémico.
+
+---
+
+## C708 — integração do eu
+**Origem:** F0111  
+**Estado:** central
+
+Necessidade de integrar o eu quando o real deixa de ser critério.
+
+---
+
+## C709 — burocracia do discurso
+**Origem:** F0111  
+**Estado:** central
+
+Agentes que mantêm e regulam o discurso público dominante.
+
+## C710 — regulação natural
+**Origem:** F0112  
+**Estado:** central
+
+O real regula os modos de ser através de cadências próprias, sem prescrição consciente.
+
+---
+
+## C711 — proposições certas
+**Origem:** F0112  
+**Estado:** central
+
+Conjunto de proposições cuja verdade é confirmada pela ação no real.
+
+---
+
+## C712 — cadência do real
+**Origem:** F0112  
+**Estado:** central
+
+Ritmo próprio do contínuo relacional que constitui o real.
+
+---
+
+## C713 — bem como permissão do real
+**Origem:** F0112  
+**Estado:** central
+
+O bem é aquilo que o real permite enquanto continuidade do ser.
+
+---
+
+## C714 — ação e interpretação
+**Origem:** F0112  
+**Estado:** central
+
+O bem mantém-se quer pela ação direta, quer pela apreensão interpretativa da continuidade.
+
+---
+
+## C715 — prescrição condicionada pelo ser
+**Origem:** F0112  
+**Estado:** central
+
+Toda a prescrição verdadeira depende da descrição correta do ser.
+
+---
+
+## C716 — dever-ser derivado
+**Origem:** F0112  
+**Estado:** central
+
+O dever-ser não é autónomo; decorre necessariamente do ser.
+
+## C717 — crítica como apreensão relacional
+**Origem:** F0113  
+**Estado:** central
+
+A crítica é a apreensão, pelo eu, dos modos de ser manifestados por outros eus.
+
+---
+
+## C718 — posição ontológica do apreendido
+**Origem:** F0113  
+**Estado:** central
+
+Aquilo que é apreendido ocupa sempre uma posição relativamente ao real que o incorpora.
+
+---
+
+## C719 — atualização relacional múltipla
+**Origem:** F0113  
+**Estado:** central
+
+Cada atualização envolve relação interna, relação com o campo e relação com outras atualizações.
+
+---
+
+## C720 — real como critério comum
+**Origem:** F0113  
+**Estado:** central
+
+O real é o critério partilhado que torna possível qualquer avaliação.
+
+---
+
+## C721 — regularidade como condição de certeza
+**Origem:** F0113  
+**Estado:** central
+
+A repetição de efeitos sob condições semelhantes fundamenta a certeza física.
+
+---
+
+## C722 — física como descrição da repetição
+**Origem:** F0113  
+**Estado:** central
+
+A física descreve as regularidades do contínuo do ser.
+
+---
+
+## C723 — ponte filosófica poder-ser / dever-ser
+**Origem:** F0113  
+**Estado:** central
+
+A filosofia unifica poder-ser e dever-ser a partir das condições do real.
+
+---
+
+## C724 — representação como fonte do dever-ser
+**Origem:** F0113  
+**Estado:** central
+
+O dever-ser emerge da representação imposta pelas estruturas cognitivas.
+
+---
+
+## C725 — continuidade avaliada do ser
+**Origem:** F0113  
+**Estado:** central
+
+A continuidade do ser é sempre avaliada pelas estruturas biológicas e históricas que a sustentam.
+
+## C726 — prioridade do poder-ser
+**Origem:** F0114  
+**Estado:** central
+
+O poder-ser é condição necessária para qualquer dever-ser.
+
+---
+
+## C727 — dever-ser inscrito no ser
+**Origem:** F0114  
+**Estado:** central
+
+O dever-ser humano emerge da descrição do ser que inclui o poder-ser.
+
+---
+
+## C728 — dispersão filosófica
+**Origem:** F0114  
+**Estado:** central
+
+Fragmentação da filosofia em categorias independentes sem compreensão do objeto comum.
+
+---
+
+## C729 — filosofia como ontologia aplicada
+**Origem:** F0114  
+**Estado:** central
+
+A filosofia consiste na aplicação da descrição ontológica do real às relações humanas.
+
+---
+
+## C730 — erro preferencialista
+**Origem:** F0114  
+**Estado:** central
+
+Redução da complexidade ontológica a preferências subjetivas.
+
+---
+
+## C731 — Deus como estrutura do real
+**Origem:** F0114  
+**Estado:** central
+
+Deus enquanto conceito que exprime a estrutura do real nos círculos locais.
+
+---
+
+## C732 — dever-ser como projeção reflexiva
+**Origem:** F0114  
+**Estado:** central
+
+O dever-ser é a camada reflexiva que o eu projeta sobre o real apreendido.
+
+## C733 — bom homem como adequação ao ser
+**Origem:** F0115  
+**Estado:** central
+
+Ser bom é ser aquilo que se é em adequação ao real que permite ser.
+
+---
+
+## C734 — dever-ser como futuro relacional
+**Origem:** F0115  
+**Estado:** central
+
+O dever-ser não existe no presente, mas no contínuo relacional que se constrói.
+
+---
+
+## C735 — drama como distorção do real
+**Origem:** F0115  
+**Estado:** central
+
+O drama é a tentativa do eu de impor-se ao real.
+
+---
+
+## C736 — atualização em campo fundante
+**Origem:** F0115  
+**Estado:** central
+
+Todas as atualizações emergem de um campo real que as funda.
+
+---
+
+## C737 — consciência extra-real (erro)
+**Origem:** F0115  
+**Estado:** central
+
+Erro de tratar a consciência como algo separado do real.
+
+---
+
+## C738 — sui generis como fuga ontológica
+**Origem:** F0115  
+**Estado:** central
+
+Uso do conceito de sui generis para evitar descrição do real.
+
+---
+
+## C739 — modos reais de operar
+**Origem:** F0115  
+**Estado:** central
+
+Regularidades do agir humano que tornam possíveis as relações e as instituições.
+
+---
+
+## C740 — tipicidade relacional
+**Origem:** F0115  
+**Estado:** central
+
+As relações humanas são típicas ou atípicas dentro de padrões identificáveis.
+
+## C741 — crítica ao determinismo fechado
+**Origem:** F0116  
+**Estado:** central
+
+O determinismo que ignora a consciência fixa-se num contínuo anterior sem expansão.
+
+---
+
+## C742 — decisão reflexiva
+**Origem:** F0116  
+**Estado:** central
+
+A ação humana envolve decisão consciente sobre o que se faz e o que se fará.
+
+---
+
+## C743 — imaginação como expansão do contínuo
+**Origem:** F0116  
+**Estado:** central
+
+A imaginação permite expandir as condições internas para desbloquear novas possibilidades no real.
+
+---
+
+## C744 — continuidade limitada
+**Origem:** F0116  
+**Estado:** central
+
+Manter o mesmo contínuo anterior impede a descoberta de novas possibilidades do real.
+
+---
+
+## C745 — eu como centro biológico
+**Origem:** F0116  
+**Estado:** central
+
+O organismo orienta-se biologicamente a partir do eu para regular fome, prazer e intenção.
+
+---
+
+## C746 — real como plano de manifestação
+**Origem:** F0116  
+**Estado:** central
+
+O real é apreendido como espaço onde as manifestações ocorrem sempre em relação ao eu.
+
+## C747 — sistemas dependentes do real
+**Origem:** F0117  
+**Estado:** central
+
+Só os sistemas ancorados na relação com o real não são falsos.
+
+---
+
+## C748 — primazia do eu com eu
+**Origem:** F0117  
+**Estado:** central
+
+A relação eu–eu precede a relação eu–real na estrutura da consciência.
+
+---
+
+## C749 — racionalização como exclusão do real
+**Origem:** F0117  
+**Estado:** central
+
+Sistemas racionais tendem a expulsar o real e a operar apenas com princípios internos.
+
+---
+
+## C750 — pensar como representação
+**Origem:** F0117  
+**Estado:** central
+
+Pensar é operar sobre símbolos, com ou sem imagética.
+
+---
+
+## C751 — pensamento de segunda ordem
+**Origem:** F0117  
+**Estado:** central
+
+Pensar sobre o que se pensa permite a integração simbólica do real.
+
+---
+
+## C752 — ser-no-poder-ser
+**Origem:** F0117  
+**Estado:** central
+
+O poder-ser é o modo ontológico pleno da apreensão do ser.
+
+---
+
+## C753 — ser-no-dever-ser (limitação)
+**Origem:** F0117  
+**Estado:** central
+
+O dever-ser fixa o ser numa descrição limitada e empobrecedora.
+
+---
+
+## C754 — eu-real vs eu-eu
+**Origem:** F0117  
+**Estado:** central
+
+Dissociação entre o eu integrado no real e o eu fechado em si próprio.
+
+## C755 — ponte eu–real
+**Origem:** F0118  
+**Estado:** central
+
+Ligação funcional entre a consciência e o real mediada pela representação.
+
+---
+
+## C756 — automatismo pré-reflexivo
+**Origem:** F0118  
+**Estado:** central
+
+Modo de ser em que a consciência opera de forma automática sobre representações estabilizadas.
+
+---
+
+## C757 — efeito psicadélico
+**Origem:** F0118  
+**Estado:** central
+
+Dissipação da mediação automática entre o eu e o real.
+
+---
+
+## C758 — consciência evidenciada
+**Origem:** F0118  
+**Estado:** central
+
+Estado em que a consciência se torna mais patente a si própria.
+
+---
+
+## C759 — toque com o real
+**Origem:** F0118  
+**Estado:** central
+
+Experiência menos mediada do real, fora da representação habitual.
+
+## C760 — aprendizagem como função da apreensão
+**Origem:** F0119  
+**Estado:** central
+
+O modo de aprendizagem deriva diretamente do modo de apreensão.
+
+---
+
+## C761 — apreensão simbólica
+**Origem:** F0119  
+**Estado:** central
+
+Apreender é simbolizar e enquadrar o real para permitir representação.
+
+---
+
+## C762 — símbolo embodied
+**Origem:** F0119  
+**Estado:** central
+
+O símbolo é o registo corporal deixado pelo contínuo relacional.
+
+---
+
+## C763 — limitação pela apreensão
+**Origem:** F0119  
+**Estado:** central
+
+Toda a aprendizagem é limitada pelo modo como se apreende.
+
+---
+
+## C764 — melhor como continuidade relacional
+**Origem:** F0119  
+**Estado:** central
+
+O melhor é aquilo que permite a continuidade da relação enquanto relação.
+
+---
+
+## C765 — falsidade ontológica da destruição
+**Origem:** F0119  
+**Estado:** central
+
+A destruição de outro ser consciente é falsa por quebrar a relação ontologicamente equivalente.
+
+---
+
+## C766 — liberdade no interior do real
+**Origem:** F0119  
+**Estado:** central
+
+A liberdade humana existe dentro do real e não fora dele.
+
+---
+
+## C767 — encarnação do papel relacional
+**Origem:** F0119  
+**Estado:** central
+
+Ser melhor ou pior depende de como se encarna a posição numa relação.
+
+## C768 — adequação relacional
+**Origem:** F0120  
+**Estado:** central
+
+A adequação do agir decorre da análise da relação concreta em que o eu se encontra.
+
+---
+
+## C769 — descrição como explicitação da apreensão
+**Origem:** F0120  
+**Estado:** central
+
+Descrever é tornar explícito o modo de apreensão através da linguagem.
+
+---
+
+## C770 — representação como fundamento ontológico
+**Origem:** F0120  
+**Estado:** central
+
+A representação, e não a descrição, é o fundamento ontológico.
+
+---
+
+## C771 — mal como má apreensão
+**Origem:** F0120  
+**Estado:** central
+
+O mal não é ontológico, mas resulta de má descrição do real e das relações.
+
+---
+
+## C772 — bem como possibilidade realizada
+**Origem:** F0120  
+**Estado:** central
+
+O bem consiste em realizar o que se pode fazer de adequado numa relação.
+
+---
+
+## C773 — aprendizagem orientada à adequação
+**Origem:** F0120  
+**Estado:** central
+
+Aprender é condição para adequar a relação.
+
+---
+
+## C774 — relação não dominativa
+**Origem:** F0120  
+**Estado:** central
+
+Relações baseadas em dominação inviabilizam a sua melhor realização.
+
+## C775 — permanência no contínuo do real
+**Origem:** F0121  
+**Estado:** central
+
+O homem tende a permanecer no contínuo do real já constituído.
+
+---
+
+## C776 — adaptação como economia ontológica
+**Origem:** F0121  
+**Estado:** central
+
+Adaptar-se é o caminho de menor custo ontológico dentro da relação.
+
+---
+
+## C777 — colapso da função
+**Origem:** F0121  
+**Estado:** central
+
+Interferência numa relação que, sem essa interferência, se manteria estável.
+
+---
+
+## C778 — microrrealidade apreensiva
+**Origem:** F0121  
+**Estado:** central
+
+Toda a apreensão ocorre dentro de uma microrrealidade relacional.
+
+---
+
+## C779 — matemática como precisão limitada
+**Origem:** F0121  
+**Estado:** central
+
+A matemática é precisa, mas não é o modo mais adequado de apreender o real.
+
+---
+
+## C780 — língua como simbolização integradora
+**Origem:** F0121  
+**Estado:** central
+
+A língua natural integra significação imagética ausente na matemática.
+
+---
+
+## C781 — especialização biológica
+**Origem:** F0121  
+**Estado:** central
+
+A compartimentalização cognitiva conduz à especialização até ao horizonte visível.
+
+---
+
+## C782 — crítica aos dilemas artificiais
+**Origem:** F0121  
+**Estado:** central
+
+Cenários morais irreais não descrevem modos de ser humanos.
+
+## C783 — falso dilema ético
+**Origem:** F0122  
+**Estado:** central
+
+Redução da ética a construção arbitrária ou negação total.
+
+---
+
+## C784 — domínio relacional
+**Origem:** F0122  
+**Estado:** central
+
+Capacidade do eu de operar nas relações em que está ou pode estar incorporado.
+
+---
+
+## C785 — descoberta local
+**Origem:** F0122  
+**Estado:** central
+
+A exploração do desconhecido ocorre localmente, pela ação do eu.
+
+---
+
+## C786 — campo local autónomo
+**Origem:** F0122  
+**Estado:** central
+
+Cada campo de relação é autónomo enquanto localidade.
+
+---
+
+## C787 — universalidade relacional
+**Origem:** F0122  
+**Estado:** central
+
+O universal é aquilo que se repete em qualquer relação.
+
+---
+
+## C788 — real partilhado
+**Origem:** F0122  
+**Estado:** central
+
+O real é necessariamente partilhado enquanto campo de potencialidades.
+
+---
+
+## C789 — impossibilidade da atualização isolada
+**Origem:** F0122  
+**Estado:** central
+
+Uma única atualização isolada não constitui real.
+
+## C790 — unificação filosófica
+**Origem:** F0123  
+**Estado:** central
+
+Reintegração da filosofia após a fragmentação por especialização.
+
+---
+
+## C791 — erro metafísico
+**Origem:** F0123  
+**Estado:** central
+
+Pretensão de compreender o todo ignorando as partes empíricas.
+
+---
+
+## C792 — integração ciência-filosofia
+**Origem:** F0123  
+**Estado:** central
+
+A filosofia deve integrar os resultados científicos na compreensão do real.
+
+---
+
+## C793 — discurso como revelador do modo de ser
+**Origem:** F0123  
+**Estado:** central
+
+O discurso manifesta o modo de ser de quem discursa.
+
+---
+
+## C794 — tríade ser–pensar–dizer
+**Origem:** F0123  
+**Estado:** central
+
+Ser, pensar e dizer são inseparáveis na relação com o real.
+
+---
+
+## C795 — potencialidade aristotélica
+**Origem:** F0123  
+**Estado:** central
+
+O real deve ser compreendido a partir do poder-ser.
+
+---
+
+## C796 — símbolo platónico
+**Origem:** F0123  
+**Estado:** central
+
+O intermediário entre eu e real é simbólico, não o real em si.
+
+---
+
+## C797 — falha das tradições modernas
+**Origem:** F0123  
+**Estado:** central
+
+Reduções filosóficas que isolam a apreensão e perdem o real.
+
+---
+
+## C798 — ética incorporada
+**Origem:** F0123  
+**Estado:** central
+
+O bem manifesta-se nos papéis relacionais concretos.

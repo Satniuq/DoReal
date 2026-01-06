@@ -1621,3 +1621,567 @@ Universalização normativa a partir de compartimentações locais.
 
 Retirada do real do campo de atualização para entidades abstratas.
 
+## Tensão 268 — discurso situado vs totalidade do real
+**Fragmento:** F0098
+
+O discurso exprime modos de ser localizados, mas tende a ser confundido com representação da totalidade do real.
+
+---
+
+## Tensão 269 — continuidade do ser vs preservação abstrata
+**Fragmento:** F0098
+
+A cadência real das relações é substituída por ideais formais de preservação de estados de coisas.
+
+---
+
+## Tensão 270 — alcance comunicacional vs adequação ontológica
+**Fragmento:** F0098
+
+O discurso de maior alcance não coincide necessariamente com o mais ajustado ao real.
+
+---
+
+## Tensão 271 — campo ontológico imediato vs estados de coisas longínquos
+**Fragmento:** F0098
+
+O quotidiano vivido contrasta com discursos que operam sobre realidades afastadas da experiência direta.
+
+---
+
+## Tensão 272 — discurso derivado vs sistema autonomizado
+**Fragmento:** F0098
+
+O discurso enquanto efeito do real entra em tensão com sistemas discursivos fechados sobre premissas internas.
+
+---
+
+## Tensão 273 — descrição do que é vs projeção do dever-ser
+**Fragmento:** F0098
+
+A normatividade surge desligada da descrição ontológica adequada do real.
+
+---
+
+## Tensão 274 — competência ontológica vs popularidade política
+**Fragmento:** F0098
+
+A exigência de conhecimento do ser entra em conflito com critérios de seleção baseados na popularidade.
+
+---
+
+## Tensão 275 — lei como mediação vs lei como ficção estabilizada
+**Fragmento:** F0098
+
+A lei media a relação com o real, mas tende a cristalizar-se como exterioridade autónoma.
+
+---
+
+## Tensão 276 — filósofo como descritor vs legislador como prescritor
+**Fragmento:** F0098
+
+A descrição do real é substituída pela imposição normativa sem fundamento ontológico.
+
+---
+
+## Tensão 277 — sistema interno vs verdade do real
+**Fragmento:** F0098
+
+A coerência interna de um sistema discursivo entra em conflito com a correspondência ao real.
+
+## Tensão 284 — conhecimento localizado vs real continuamente atualizável
+**Fragmento:** F0100
+
+---
+
+## Tensão 285 — transmissão paterna vs mediação institucional
+**Fragmento:** F0100
+
+---
+
+## Tensão 286 — símbolo forte vs função enfraquecida
+**Fragmento:** F0100
+
+---
+
+## Tensão 287 — relação ontológica direta vs discurso alargado
+**Fragmento:** F0100
+
+---
+
+## Tensão 288 — ser no eu vs ser no real
+**Fragmento:** F0100
+
+## Tensão 289 — suporte físico vs atualização consciente
+**Fragmento:** F0101
+
+---
+
+## Tensão 290 — ser no real vs ser no eu
+**Fragmento:** F0101
+
+---
+
+## Tensão 291 — representação animal vs interioridade humana
+**Fragmento:** F0101
+
+---
+
+## Tensão 292 — ciência descritiva vs normatividade persistente
+**Fragmento:** F0101
+
+---
+
+## Tensão 293 — dever-ser simbólico vs verdade ontológica
+**Fragmento:** F0101
+
+## Tensão 294 — discurso ontológico vs descrição situada
+**Fragmento:** F0102
+
+---
+
+## Tensão 295 — coisa em si vs objeto descrito
+**Fragmento:** F0102
+
+---
+
+## Tensão 296 — verdade corrente vs adequação ontológica
+**Fragmento:** F0102
+
+---
+
+## Tensão 297 — continuidade do ser vs forma do discurso
+**Fragmento:** F0102
+
+---
+
+## Tensão 298 — facto vs enunciação do facto
+**Fragmento:** F0102
+
+## Tensão 299 — apreensão do real vs sistematização interna
+**Fragmento:** F0103
+
+---
+
+## Tensão 300 — perspetiva individual vs comunicação do real
+**Fragmento:** F0103
+
+---
+
+## Tensão 301 — discurso especializado vs descrição comum
+**Fragmento:** F0103
+
+---
+
+## Tensão 302 — lógica do sistema vs verdade ontológica
+**Fragmento:** F0103
+
+---
+
+## Tensão 303 — mediação necessária vs distorção do real
+**Fragmento:** F0103
+
+## Tensão 304 — potencialidade contínua vs fixação do ser
+**Fragmento:** F0104
+
+---
+
+## Tensão 305 — verdade local vs verdade do real
+**Fragmento:** F0104
+
+---
+
+## Tensão 306 — prescrição simbólica vs normatividade ontológica
+**Fragmento:** F0104
+
+---
+
+## Tensão 307 — relação eu-eu vs apagamento do real
+**Fragmento:** F0104
+
+---
+
+## Tensão 308 — produção do real vs apropriação sistémica
+**Fragmento:** F0104
+
+## Tensão 309 — atualização emergente vs fixação ontológica
+**Fragmento:** F0105
+
+---
+
+## Tensão 310 — escala relacional vs abstração mínima
+**Fragmento:** F0105
+
+---
+
+## Tensão 311 — sistema político vs real relacional
+**Fragmento:** F0105
+
+---
+
+## Tensão 312 — símbolo jurídico vs relação real
+**Fragmento:** F0105
+
+---
+
+## Tensão 313 — moralidade relacional vs prescrição externa
+**Fragmento:** F0105
+
+## Tensão 314 — liberdade absoluta vs compromisso relacional
+**Fragmento:** F0106
+
+---
+
+## Tensão 315 — intenção individual vs atualização efetiva
+**Fragmento:** F0106
+
+---
+
+## Tensão 316 — opinião pessoal vs descrição do real
+**Fragmento:** F0106
+
+---
+
+## Tensão 317 — facto relacional vs interpretação subjetiva
+**Fragmento:** F0106
+
+---
+
+## Tensão 318 — critério do eu vs critério do real
+**Fragmento:** F0106
+
+## Tensão 319 — condição de possibilidade vs explicação causal
+**Fragmento:** F0107
+
+---
+
+## Tensão 320 — relação integrada vs relação fragmentada
+**Fragmento:** F0107
+
+---
+
+## Tensão 321 — consciência integrada vs consciência extra-real
+**Fragmento:** F0107
+
+---
+
+## Tensão 322 — inovação emergente vs rutura do sistema
+**Fragmento:** F0107
+
+---
+
+## Tensão 323 — verdade do real vs representação simbólica
+**Fragmento:** F0107
+
+## Tensão 324 — apreensão local vs estrutura comum
+**Fragmento:** F0108
+
+---
+
+## Tensão 325 — símbolo como tradução vs símbolo como distorção
+**Fragmento:** F0108
+
+---
+
+## Tensão 326 — consciência reflexiva vs automatismo
+**Fragmento:** F0108
+
+---
+
+## Tensão 327 — círculos internos vs contacto com o real
+**Fragmento:** F0108
+
+---
+
+## Tensão 328 — adequação local vs verdade do real
+**Fragmento:** F0108
+
+## Tensão 329 — unicidade da verdade vs infinitude do real
+**Fragmento:** F0109
+
+---
+
+## Tensão 330 — relativismo discursivo vs ancoragem ontológica
+**Fragmento:** F0109
+
+---
+
+## Tensão 331 — manifestação visível vs relação constitutiva
+**Fragmento:** F0109
+
+---
+
+## Tensão 332 — predicar o real vs deixar-ser
+**Fragmento:** F0109
+
+## Tensão 333 — ser potencial vs não-ser absoluto
+**Fragmento:** F0110
+
+---
+
+## Tensão 334 — continuidade ontológica vs rutura funcional
+**Fragmento:** F0110
+
+---
+
+## Tensão 335 — simbolização reflexiva vs apreensão sensorial
+**Fragmento:** F0110
+
+---
+
+## Tensão 336 — eu integrado vs eu animal
+**Fragmento:** F0110
+
+---
+
+## Tensão 337 — totalidade do real vs exigência explicativa
+**Fragmento:** F0110
+
+## Tensão 338 — relação constitutiva vs manifestação visível
+**Fragmento:** F0111
+
+---
+
+## Tensão 339 — real como horizonte vs sistema normativo
+**Fragmento:** F0111
+
+---
+
+## Tensão 340 — função paterna vs substituição simbólica
+**Fragmento:** F0111
+
+---
+
+## Tensão 341 — juízo do ato vs juízo do processo
+**Fragmento:** F0111
+
+---
+
+## Tensão 342 — descrição do real vs gestão do discurso
+**Fragmento:** F0111
+
+## Tensão 343 — regulação natural vs normatividade artificial
+**Fragmento:** F0112
+
+---
+
+## Tensão 344 — ação direta vs mediação interpretativa
+**Fragmento:** F0112
+
+---
+
+## Tensão 345 — cadência do real vs prescrição moral
+**Fragmento:** F0112
+
+---
+
+## Tensão 346 — bem permitido vs bem imposto
+**Fragmento:** F0112
+
+---
+
+## Tensão 347 — ser fundador vs dever-ser autónomo
+**Fragmento:** F0112
+
+## Tensão 348 — crítica relacional vs relativismo subjetivo
+**Fragmento:** F0113
+
+---
+
+## Tensão 349 — localidade individual vs critério comum
+**Fragmento:** F0113
+
+---
+
+## Tensão 350 — probabilidade vs regularidade ontológica
+**Fragmento:** F0113
+
+---
+
+## Tensão 351 — descrição física vs integração filosófica
+**Fragmento:** F0113
+
+---
+
+## Tensão 352 — representação imposta vs ser contínuo
+**Fragmento:** F0113
+
+## Tensão 353 — poder-ser fundante vs dever-ser autónomo
+**Fragmento:** F0114
+
+---
+
+## Tensão 354 — ontologia integrada vs dispersão filosófica
+**Fragmento:** F0114
+
+---
+
+## Tensão 355 — estrutura do real vs relativismo preferencial
+**Fragmento:** F0114
+
+---
+
+## Tensão 356 — Deus estrutural vs Deus inexistente
+**Fragmento:** F0114
+
+---
+
+## Tensão 357 — dever-ser reflexivo vs dever-ser imposto
+**Fragmento:** F0114
+
+## Tensão 358 — adequação ontológica vs dever-ser ideal
+**Fragmento:** F0115
+
+---
+
+## Tensão 359 — eu dramático vs real fundante
+**Fragmento:** F0115
+
+---
+
+## Tensão 360 — consciência integrada vs consciência extra-real
+**Fragmento:** F0115
+
+---
+
+## Tensão 361 — descrição do real vs sistema autojustificado
+**Fragmento:** F0115
+
+---
+
+## Tensão 362 — tipicidade humana vs exceção individual
+**Fragmento:** F0115
+
+## Tensão 363 — determinismo estrito vs liberdade reflexiva
+**Fragmento:** F0116
+
+---
+
+## Tensão 364 — necessidade biológica vs decisão consciente
+**Fragmento:** F0116
+
+---
+
+## Tensão 365 — continuidade fixa vs imaginação expansiva
+**Fragmento:** F0116
+
+---
+
+## Tensão 366 — real imposto vs real desbloqueável
+**Fragmento:** F0116
+
+## Tensão 367 — sistema abstrato vs sistema ancorado no real
+**Fragmento:** F0117
+
+---
+
+## Tensão 368 — poder-ser ontológico vs dever-ser normativo
+**Fragmento:** F0117
+
+---
+
+## Tensão 369 — eu integrado vs eu autocentrado
+**Fragmento:** F0117
+
+---
+
+## Tensão 370 — aprendizagem viva vs engenharia de sistemas
+**Fragmento:** F0117
+
+## Tensão 371 — automatismo representacional vs experiência direta
+**Fragmento:** F0118
+
+---
+
+## Tensão 372 — consciência implícita vs consciência evidenciada
+**Fragmento:** F0118
+
+---
+
+## Tensão 373 — mediação simbólica vs toque com o real
+**Fragmento:** F0118
+
+## Tensão 374 — perceção bruta vs apreensão simbólica
+**Fragmento:** F0119
+
+---
+
+## Tensão 375 — aprendizagem técnica vs aprendizagem ontológica
+**Fragmento:** F0119
+
+---
+
+## Tensão 376 — critério interno vs continuidade do real
+**Fragmento:** F0119
+
+---
+
+## Tensão 377 — liberdade isolada vs liberdade integrada
+**Fragmento:** F0119
+
+## Tensão 378 — norma abstrata vs adequação relacional
+**Fragmento:** F0120
+
+---
+
+## Tensão 379 — mal ontológico vs mal descritivo
+**Fragmento:** F0120
+
+---
+
+## Tensão 380 — liberdade relacional vs funcionalismo
+**Fragmento:** F0120
+
+---
+
+## Tensão 381 — autoridade legítima vs dominação
+**Fragmento:** F0120
+
+## Tensão 382 — adaptação ontológica vs idealização abstrata
+**Fragmento:** F0121
+
+---
+
+## Tensão 383 — precisão formal vs compreensão significativa
+**Fragmento:** F0121
+
+---
+
+## Tensão 384 — especialização técnica vs visão ontológica
+**Fragmento:** F0121
+
+---
+
+## Tensão 385 — dilemas irreais vs continuidade do ser
+**Fragmento:** F0121
+
+## Tensão 386 — ética relacional vs construtivismo arbitrário
+**Fragmento:** F0122
+
+---
+
+## Tensão 387 — descoberta local vs universal partilhado
+**Fragmento:** F0122
+
+---
+
+## Tensão 388 — atualização singular vs real comum
+**Fragmento:** F0122
+
+## Tensão 389 — filosofia integrada vs filosofia compartimentalizada
+**Fragmento:** F0123
+
+---
+
+## Tensão 390 — metafísica do eu vs ontologia do real
+**Fragmento:** F0123
+
+---
+
+## Tensão 391 — símbolo vs real
+**Fragmento:** F0123
+
+---
+
+## Tensão 392 — ética abstrata vs vida incorporada
+**Fragmento:** F0123

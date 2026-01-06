@@ -1868,3 +1868,614 @@ Crítica ao estatuto ontológico diferenciado.
 **Origem:** F0097
 
 Prescrições nascem da má descrição.
+
+## E300 — discurso situado vs totalidade do real
+**Origem:** F0098
+
+Contraste entre o discurso como expressão localizada de modos de ser e a impossibilidade de representar a totalidade do real.
+
+---
+
+## E301 — continuidade do ser vs preservação abstrata
+**Origem:** F0098
+
+Diferença entre a cadência real das relações e a ideia formal de preservação de estados de coisas.
+
+---
+
+## E302 — alcance comunicacional vs campo ontológico imediato
+**Origem:** F0098
+
+Tensão entre o campo próximo da experiência quotidiana e os efeitos ampliados do discurso de largo alcance.
+
+---
+
+## E303 — discurso derivado vs sistema autonomizado
+**Origem:** F0098
+
+Contraste entre discurso enquanto efeito do real e discurso fechado sobre premissas internas falsas.
+
+---
+
+## E304 — descrição do que é vs projeção do dever-ser
+**Origem:** F0098
+
+Diferença entre conhecer o real e impor normatividade desligada da descrição ontológica.
+
+---
+
+## E305 — competência ontológica vs popularidade política
+**Origem:** F0098
+
+Tensão entre o conhecimento do ser necessário ao dever-ser e os critérios democráticos de eleição.
+
+---
+
+## E306 — mediação valorativa vs contacto com o real
+**Origem:** F0098
+
+Contraste entre a lei como exterioridade mediadora e a apreensão direta do real pelo agente.
+
+## E313 — conhecimento local vs atualização contínua do real
+**Origem:** F0100
+
+---
+
+## E314 — transmissão ontológica direta vs mediação institucional
+**Origem:** F0100
+
+---
+
+## E315 — símbolo do pai vs discurso alargado
+**Origem:** F0100
+
+---
+
+## E316 — relação individual vs compartimentalização funcional
+**Origem:** F0100
+
+---
+
+## E317 — ser no real vs ser no eu
+**Origem:** F0100
+
+## E318 — atualização externa vs atualização interna
+**Origem:** F0101
+
+---
+
+## E319 — representação imediata vs interioridade contínua
+**Origem:** F0101
+
+---
+
+## E320 — ciência descritiva vs normatividade valorativa
+**Origem:** F0101
+
+---
+
+## E321 — discurso científico vs discurso comum alargado
+**Origem:** F0101
+
+---
+
+## E322 — dever-ser simbólico vs dever-ser ontológico
+**Origem:** F0101
+
+## E323 — discurso ontológico vs discurso situado
+**Origem:** F0102
+
+---
+
+## E324 — coisa em si vs objeto da descrição
+**Origem:** F0102
+
+---
+
+## E325 — verdade corrente vs verdade ontológica
+**Origem:** F0102
+
+---
+
+## E326 — continuidade do ser vs inversão perspetiva
+**Origem:** F0102
+
+---
+
+## E327 — relação real vs encaixe discursivo
+**Origem:** F0102
+
+## E328 — real apreendido vs real sistematizado
+**Origem:** F0103
+
+---
+
+## E329 — perspetiva do eu vs comunicação do real
+**Origem:** F0103
+
+---
+
+## E330 — discurso comum vs discurso especializado
+**Origem:** F0103
+
+---
+
+## E331 — descrição do real vs lógica interna do sistema
+**Origem:** F0103
+
+---
+
+## E332 — mediação discursiva vs apreensão direta
+**Origem:** F0103
+
+## E333 — potencialidade vs imobilidade
+**Origem:** F0104
+
+---
+
+## E334 — apreensão simbólica vs descrição do real
+**Origem:** F0104
+
+---
+
+## E335 — arquétipo descritivo vs arquétipo valorativo
+**Origem:** F0104
+
+---
+
+## E336 — verdade local vs verdade ontológica
+**Origem:** F0104
+
+---
+
+## E337 — prescrição eu-centrada vs normatividade derivada do real
+**Origem:** F0104
+
+---
+
+## E338 — relação humana vs apagamento do real
+**Origem:** F0104
+
+## E339 — atualização emergente vs entidade fixa
+**Origem:** F0105
+
+---
+
+## E340 — escala relacional vs ponto mínimo
+**Origem:** F0105
+
+---
+
+## E341 — apreensão comum vs real não mediado
+**Origem:** F0105
+
+---
+
+## E342 — direito descritivo vs direito sistematizado
+**Origem:** F0105
+
+---
+
+## E343 — justiça como dever-ser vs justiça como efeito
+**Origem:** F0105
+
+## E344 — liberdade abstrata vs assunção relacional
+**Origem:** F0106
+
+---
+
+## E345 — controlo da ação vs irreversibilidade da atualização
+**Origem:** F0106
+
+---
+
+## E346 — dizer a verdade vs descrever o real
+**Origem:** F0106
+
+---
+
+## E347 — facto relacional vs coisa isolada
+**Origem:** F0106
+
+---
+
+## E348 — critério subjetivo vs critério do real
+**Origem:** F0106
+
+## C672 — condições de possibilidade da consciência
+**Origem:** F0107  
+**Estado:** central
+
+A consciência só é possível mediante um conjunto estável de atualizações relacionais no real.
+
+---
+
+## C673 — atualidade da consciência
+**Origem:** F0107  
+**Estado:** central
+
+A atualidade da consciência deriva das condições que tornam possível a própria atualidade.
+
+---
+
+## C674 — relação como campo comum
+**Origem:** F0107  
+**Estado:** central
+
+A relação não é entre entidades separadas, mas um campo comum que as contém.
+
+---
+
+## C675 — erro representacional da relação
+**Origem:** F0107  
+**Estado:** central
+
+A relação é falsamente representada como ligação entre opostos independentes.
+
+---
+
+## C676 — bolha extra-círculo
+**Origem:** F0107  
+**Estado:** central
+
+Inovação que emerge do círculo maior e permanece contida por ele.
+
+---
+
+## C677 — integração simbólica do novo
+**Origem:** F0107  
+**Estado:** central
+
+O círculo integra novas descrições do real segundo a sua própria linguagem e lógica.
+
+---
+
+## C678 — fio tradicional da apreensão do real
+**Origem:** F0107  
+**Estado:** central
+
+Continuidade histórica na forma como o real é apreendido e descrito.
+
+## E354 — apreensão local vs comum estrutural
+**Origem:** F0108
+
+---
+
+## E355 — símbolo como tradução vs símbolo como ficção
+**Origem:** F0108
+
+---
+
+## E356 — lógica relacional vs lógica formal isolada
+**Origem:** F0108
+
+---
+
+## E357 — ação automática vs consciência reflexiva
+**Origem:** F0108
+
+---
+
+## E358 — orientação ao eu vs orientação ao real
+**Origem:** F0108
+
+## E359 — verdade única humana vs infinitude do real
+**Origem:** F0109
+
+---
+
+## E360 — relativismo prescritivo vs ancoragem ontológica
+**Origem:** F0109
+
+---
+
+## E361 — relação constitutiva vs manifestação isolada
+**Origem:** F0109
+
+---
+
+## E362 — predicação do real vs ser do real
+**Origem:** F0109
+
+## E363 — ser potencial vs não-ser
+**Origem:** F0110
+
+---
+
+## E364 — continuidade do ser vs quebra da função
+**Origem:** F0110
+
+---
+
+## E365 — interioridade simbólica vs mediação sensorial
+**Origem:** F0110
+
+---
+
+## E366 — integração do eu vs animalidade exterior
+**Origem:** F0110
+
+---
+
+## E367 — real como totalidade vs explicação do real
+**Origem:** F0110
+
+## E368 — relação constitutiva vs manifestação isolada
+**Origem:** F0111
+
+---
+
+## E369 — real como critério vs sistema como critério
+**Origem:** F0111
+
+---
+
+## E370 — função paterna vs ausência do real
+**Origem:** F0111
+
+---
+
+## E371 — ato relacional vs processo sistémico
+**Origem:** F0111
+
+---
+
+## E372 — descrição do real vs burocratização do discurso
+**Origem:** F0111
+
+## E373 — regulação natural vs prescrição consciente
+**Origem:** F0112
+
+---
+
+## E374 — proposição verdadeira vs ação no real
+**Origem:** F0112
+
+---
+
+## E375 — cadência do real vs norma imposta
+**Origem:** F0112
+
+---
+
+## E376 — bem como continuidade vs bem como juízo
+**Origem:** F0112
+
+---
+
+## E377 — ser como fundamento vs dever-ser autónomo
+**Origem:** F0112
+
+## E378 — crítica relacional vs juízo subjetivo
+**Origem:** F0113
+
+---
+
+## E379 — localidade do eu vs critério do real
+**Origem:** F0113
+
+---
+
+## E380 — probabilidade caótica vs regularidade condicional
+**Origem:** F0113
+
+---
+
+## E381 — física descritiva vs filosofia integradora
+**Origem:** F0113
+
+---
+
+## E382 — representação cognitiva vs ser-em-si
+**Origem:** F0113
+
+## E383 — poder-ser vs dever-ser
+**Origem:** F0114
+
+---
+
+## E384 — ontologia unificada vs dispersão categorial
+**Origem:** F0114
+
+---
+
+## E385 — descrição do real vs argumentação filosófica
+**Origem:** F0114
+
+---
+
+## E386 — estrutura do real vs relativização do eu
+**Origem:** F0114
+
+---
+
+## E387 — dever-ser ontológico vs dever-ser preferencial
+**Origem:** F0114
+
+## E388 — ser adequado vs dever-ser abstrato
+**Origem:** F0115
+
+---
+
+## E389 — drama do eu vs ontologia do real
+**Origem:** F0115
+
+---
+
+## E390 — campo fundante vs consciência separada
+**Origem:** F0115
+
+---
+
+## E391 — descrição do real vs fuga sui generis
+**Origem:** F0115
+
+---
+
+## E392 — modos humanos vs excecionalismo individual
+**Origem:** F0115
+
+## E393 — determinismo fechado vs decisão reflexiva
+**Origem:** F0116
+
+---
+
+## E394 — continuidade anterior vs expansão imaginativa
+**Origem:** F0116
+
+---
+
+## E395 — necessidade biológica vs escolha consciente
+**Origem:** F0116
+
+---
+
+## E396 — real como imposição vs real como espaço de ação
+**Origem:** F0116
+
+## E397 — sistemas ancorados vs sistemas abstratos
+**Origem:** F0117
+
+---
+
+## E398 — poder-ser vs dever-ser
+**Origem:** F0117
+
+---
+
+## E399 — real integrado vs real excluído
+**Origem:** F0117
+
+---
+
+## E400 — eu-real vs eu-eu
+**Origem:** F0117
+
+---
+
+## E401 — aprendizagem ontológica vs engenharia sistémica
+**Origem:** F0117
+
+## E402 — mediação automática vs dissociação mediadora
+**Origem:** F0118
+
+---
+
+## E403 — representação do real vs toque com o real
+**Origem:** F0118
+
+---
+
+## E404 — consciência implícita vs consciência evidenciada
+**Origem:** F0118
+
+## E405 — apreensão vs aprendizagem
+**Origem:** F0119
+
+---
+
+## E406 — simbolização vs perceção bruta
+**Origem:** F0119
+
+---
+
+## E407 — eu isolado vs relação integrada
+**Origem:** F0119
+
+---
+
+## E408 — continuidade relacional vs destruição
+**Origem:** F0119
+
+---
+
+## E409 — liberdade interior vs exclusão do real
+**Origem:** F0119
+
+## E410 — adequação relacional vs norma abstrata
+**Origem:** F0120
+
+---
+
+## E411 — descrição humana vs fundamento ontológico
+**Origem:** F0120
+
+---
+
+## E412 — bem relacional vs mal ontologizado
+**Origem:** F0120
+
+---
+
+## E413 — aprendizagem funcional vs relativismo
+**Origem:** F0120
+
+---
+
+## E414 — relação integrada vs dominação
+**Origem:** F0120
+
+## E415 — permanência vs migração ideal
+**Origem:** F0121
+
+---
+
+## E416 — adaptação vs ruptura
+**Origem:** F0121
+
+---
+
+## E417 — precisão matemática vs adequação linguística
+**Origem:** F0121
+
+---
+
+## E418 — especialização vs compreensão relacional
+**Origem:** F0121
+
+---
+
+## E419 — dilemas artificiais vs modos típicos de ser
+**Origem:** F0121
+
+## E420 — construtivismo ético vs ética relacional
+**Origem:** F0122
+
+---
+
+## E421 — localidade da ação vs universalidade do real
+**Origem:** F0122
+
+---
+
+## E422 — descoberta individual vs partilha coletiva
+**Origem:** F0122
+
+---
+
+## E423 — atualização isolada vs campo de potencialidades
+**Origem:** F0122
+
+## E424 — unificação vs compartimentalização
+**Origem:** F0123
+
+---
+
+## E425 — metafísica abstrata vs integração empírica
+**Origem:** F0123
+
+---
+
+## E426 — discurso autorreferencial vs discurso do real
+**Origem:** F0123
+
+---
+
+## E427 — tradição filosófica vs falha cumulativa
+**Origem:** F0123
+
+---
+
+## E428 — ética abstrata vs ética relacional
+**Origem:** F0123
+
