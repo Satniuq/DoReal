@@ -690,15 +690,6 @@ Não haveria atualidade. Porque aquilo que faz com que a atualidade exista é o 
 
 ---
 
-PARTE VIII — POLÍTICA E ESCALA (EXPANSÃO)
-Capítulo 23-D — Prescrição inevitável
-
-23-D.6 Limites da prescrição eu-centrada e risco do totalitarismo
-
-As medidas prescritivas estão erradas quando são só eu-centradas. Mas aspirar ao contrário, a só real, destruiria a relação humana, que é sempre eu com eu.
-
-Os que tocam no real são poucos. Crer que todos o façam seria totalitário. O sistema tende a apropriar-se do que é produzido por esses poucos e a englobar todos os modos de ser, sobrepondo depois o dominante.
-
 PARTE I — O REAL (EXPANSÕES)
 Capítulo 3-K — Emergência
 
@@ -734,24 +725,6 @@ O real é o que permite ser. O ser é aquilo que o real permite que seja. Cada p
 A Física é, ou deveria ser, a arte de descrever o que se repete: as regularidades do contínuo do ser, os tipos de ser.
 
 ---
-PARTE III — VERDADE E CONHECIMENTO
-Capítulo 10 — Representação, subjetivação e erro
-10.6 Deus, cor e limite ontológico
-
-Se tiramos Deus do pensamento humano, como é natural que este seja em sistemas de ampliação do campo das possibilidades, não será também necessário retirar o círculo maior, o limite e o horizonte onde o homem opera? E crer que o círculo do homem — a terra onde o homem vive — é ele mesmo o círculo de máxima amplitude, sendo o homem o construtor do real?
-
-A folha não é verde. É tudo menos verde. Verde é o comprimento de onda que a folha não absorve, que refrata e que bate nos nossos olhos. E é aqui que os subjetivistas e relativistas apontam: há um mundo em si que não é acessível pelo ser, há uma diferença ontológica, uma barreira.
-
-Mas as condições em que opera a refração da luz na folha são condições do real. E, por isso, também o olho que recebe a luz está no real. “Ah, mas e os qualia?”, dizem. “E o greenness? O verde que eu vejo não é o verde que tu vês.”
-
-E Wittgenstein diria o quê aqui? Que a lógica precede o mundo? Que o verde não existe no mundo? Ou que o verde existe no mundo e a proposição é válida se mantiver a lógica da existência do verde no mundo, sendo o homem apenas uma camada, um espectador a ver um filme?
-
-Então o verde teria de ser o quê? O verde em si mesmo? Uma forma? Um número? Uma propriedade? Que analíticos que são. Que formalismo das linguagens.
-
-Se o verde é uma possibilidade lógica de um estado de coisas, uma propriedade de uma coisa, então é algo que existe. E, sendo algo que existe, como é que pode ser tratado como mera experiência subjetiva? Não é apreendido como todas as outras propriedades físicas das coisas são apreendidas pela consciência?
-
-Que possibilidade lógica é esta quando se atualiza? É limitada esta pretensa decomposição ilimitada. Porque tanto é real a folha que recebe a luz, como é real a luz, como é real onde a luz bate. Tudo isto é real.
-
 PARTE I — O REAL  
 Capítulo 3-N — Potencialidade
 
@@ -1227,6 +1200,26 @@ Capítulo 8 — Verdade
 8.1 Verdade como descrição do real
 
 “Para compreender a realidade em que está inserido, compreender o exterior e compreender o interior a um nível mínimo.”
+
+---
+PARTE III — VERDADE E CONHECIMENTO
+Capítulo 10 — Representação, subjetivação e erro
+10.6 Deus, cor e limite ontológico
+
+Se tiramos Deus do pensamento humano, como é natural que este seja em sistemas de ampliação do campo das possibilidades, não será também necessário retirar o círculo maior, o limite e o horizonte onde o homem opera? E crer que o círculo do homem — a terra onde o homem vive — é ele mesmo o círculo de máxima amplitude, sendo o homem o construtor do real?
+
+A folha não é verde. É tudo menos verde. Verde é o comprimento de onda que a folha não absorve, que refrata e que bate nos nossos olhos. E é aqui que os subjetivistas e relativistas apontam: há um mundo em si que não é acessível pelo ser, há uma diferença ontológica, uma barreira.
+
+Mas as condições em que opera a refração da luz na folha são condições do real. E, por isso, também o olho que recebe a luz está no real. “Ah, mas e os qualia?”, dizem. “E o greenness? O verde que eu vejo não é o verde que tu vês.”
+
+E Wittgenstein diria o quê aqui? Que a lógica precede o mundo? Que o verde não existe no mundo? Ou que o verde existe no mundo e a proposição é válida se mantiver a lógica da existência do verde no mundo, sendo o homem apenas uma camada, um espectador a ver um filme?
+
+Então o verde teria de ser o quê? O verde em si mesmo? Uma forma? Um número? Uma propriedade? Que analíticos que são. Que formalismo das linguagens.
+
+Se o verde é uma possibilidade lógica de um estado de coisas, uma propriedade de uma coisa, então é algo que existe. E, sendo algo que existe, como é que pode ser tratado como mera experiência subjetiva? Não é apreendido como todas as outras propriedades físicas das coisas são apreendidas pela consciência?
+
+Que possibilidade lógica é esta quando se atualiza? É limitada esta pretensa decomposição ilimitada. Porque tanto é real a folha que recebe a luz, como é real a luz, como é real onde a luz bate. Tudo isto é real.
+
 
 ---
 PARTE III — VERDADE E CONHECIMENTO
@@ -4259,6 +4252,17 @@ Capítulo 19 — Escala ontológica
 19.1 Adaptação a círculos de realidade
 
 Cada grupo humano adapta-se ao seu círculo de realidade, e isso é bom porque é conforme ao real vivido.
+
+---
+
+PARTE VIII — POLÍTICA E ESCALA (EXPANSÃO)
+Capítulo 23-D — Prescrição inevitável
+
+23-D.6 Limites da prescrição eu-centrada e risco do totalitarismo
+
+As medidas prescritivas estão erradas quando são só eu-centradas. Mas aspirar ao contrário, a só real, destruiria a relação humana, que é sempre eu com eu.
+
+Os que tocam no real são poucos. Crer que todos o façam seria totalitário. O sistema tende a apropriar-se do que é produzido por esses poucos e a englobar todos os modos de ser, sobrepondo depois o dominante.
 
 ---
 PARTE VII — ESCALA E SISTEMAS

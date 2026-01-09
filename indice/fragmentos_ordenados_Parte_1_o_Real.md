@@ -1,3 +1,16 @@
+PARTE 0 — O QUE É
+Capítulo 0 — É
+0.1 Se é, 
+
+"O real é o que é"
+"Sendo o que é, é-o sendo, com a estrutura nem que seja do mero ser"
+"Sendo-o estruturado, é-o limitado, pela atualização que é e pela potencialidade que permite ser"
+"O que pode ser - que há-de ser o que permite ser - não são externas ao real, pertencem-lhe"
+"O que é, é, portanto, real"
+"A atualização é o poder ser a ser na relação que permite que seja"
+"A consciência é, por poder ser, como qualquer coisa que possa também ser, senão não seria"
+
+---
 PARTE I — O REAL
 Capítulo 1 — O que é o real
 1.1 O real como aquilo que é
