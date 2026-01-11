@@ -880,14 +880,7 @@ Capítulo 4 — Consciência como fenómeno natural
 
 A consciência não tenta expandir um espaço pré-definido; está a criar-se. A complexidade das suas relações vai-se atualizando. Ao nascer, herda-se tudo, e as atualizações dependem necessariamente das anteriores. Sem isso não haveria continuidade nem relação.
 
----
-PARTE II — CONSCIÊNCIA
-Capítulo 4 — Erros sobre a consciência
-4.7 Consciência como substância
 
-Sim, mas isto, eu acho que isto tinha mais um bocado também a ver com a outra ideia, que era da consciência. Depois vê-se sempre todo o discurso. Isto vê-se sempre em todo o discurso filosófico. É desconcertante. É completamente desconcertante.
-
-Porque? Porque não sei já qual é que era a ideia. Mas a ideia é… Ah, esse senhor é uma coisa especial. Ah, ele tem uma substância. É a alma também, porque são as mesmas coisas. Ou é além da realidade, ou é diferente da realidade, ou é essas coisas todas. Todos esses argumentos, sei lá, do discurso do senhor que está aí. É absurdo. E é por isto.
 
 ---
 PARTE II — CONSCIÊNCIA
@@ -4135,18 +4128,7 @@ Capítulo 18-G — Masculino e feminino
 
 Os dois seres que existem — o que vive no eu e o que vive no real — correspondem ao feminino e ao masculino, uma vez que todos os seres conscientes reflexivos advêm de uma mãe e de um pai. As tipologias multiplicadas (big five, big seven, etc.) reduzem-se a duas: o ser no real e o ser no eu.
 
----
 
-PARTE XII — SÍNTESE
-Capítulo 29-D — Modos reais de ser
-
-29-D.6 Modos reais como fundamento do direito e da vida humana
-
-Os modos reais de ser já são conhecidos. Retirado o contexto possível, o homem continua a operar segundo esses modos. É isso que está no direito civil: a apreensão do modo de ser do homem, da família, da vila, da cidade, do Estado, da espécie.
-
-Se não houvesse modos de operar, nada existiria. Pela identificação desses modos, os modos individuais tornam-se irrelevantes quando confrontados com a necessidade de integrar a relação.
-
-As relações que nascem da interação jurídico-factual são típicas ou atípicas, mas sempre humanas. Porque não somos cães. Somos humanos. É só isto.
 
 PARTE VI — ANTROPOLOGIA FILOSÓFICA (EXPANSÃO)
 Capítulo 18-H — Liberdade
@@ -5941,3 +5923,15 @@ Ser sabendo que se é naquilo que pode ser. Ser sabendo com ser sabendo. Onde? N
 
 Como quebra da função. Como apreensão do contínuo do real formando-se uma atualização. Isto é ontologia crua.
 
+---
+
+PARTE XII — SÍNTESE
+Capítulo 29-D — Modos reais de ser
+
+29-D.6 Modos reais como fundamento do direito e da vida humana
+
+Os modos reais de ser já são conhecidos. Retirado o contexto possível, o homem continua a operar segundo esses modos. É isso que está no direito civil: a apreensão do modo de ser do homem, da família, da vila, da cidade, do Estado, da espécie.
+
+Se não houvesse modos de operar, nada existiria. Pela identificação desses modos, os modos individuais tornam-se irrelevantes quando confrontados com a necessidade de integrar a relação.
+
+As relações que nascem da interação jurídico-factual são típicas ou atípicas, mas sempre humanas. Porque não somos cães. Somos humanos. É só isto.

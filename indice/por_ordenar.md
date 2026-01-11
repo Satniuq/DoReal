@@ -76,3 +76,72 @@ Durante gerações transmitimos códigos morais, crenças, arquétipos, tidos co
 Quando desaparece um código moral subjacente, valores estruturais explícitos na cultura, não resulta apenas relativismo abstrato. Resultam perversões do próprio sistema. Passa a ser possível justificar não só absurdos, mas males reais.
 
 Dizer seriamente que a realidade não existe e que só o que eu sinto existe. Logo, se sou homem posso ser mulher. Se o bebé está dentro de mim, tudo pode ser justificado. Não se trata de fazer algo escondido sabendo que é errado, mas de justificar culturalmente como bom. A realidade deixa de fazer parte da equação e é substituída por cientificismos, racionalidades ou formalismos quaisquer.
+
+---
+PARTE III — VERDADE E CONHECIMENTO
+Capítulo 10 — Representação, subjetivação e erro
+10.6 Deus, cor e limite ontológico
+
+Se tiramos Deus do pensamento humano, como é natural que este seja em sistemas de ampliação do campo das possibilidades, não será também necessário retirar o círculo maior, o limite e o horizonte onde o homem opera? E crer que o círculo do homem — a terra onde o homem vive — é ele mesmo o círculo de máxima amplitude, sendo o homem o construtor do real?
+
+A folha não é verde. É tudo menos verde. Verde é o comprimento de onda que a folha não absorve, que refrata e que bate nos nossos olhos. E é aqui que os subjetivistas e relativistas apontam: há um mundo em si que não é acessível pelo ser, há uma diferença ontológica, uma barreira.
+
+Mas as condições em que opera a refração da luz na folha são condições do real. E, por isso, também o olho que recebe a luz está no real. “Ah, mas e os qualia?”, dizem. “E o greenness? O verde que eu vejo não é o verde que tu vês.”
+
+E Wittgenstein diria o quê aqui? Que a lógica precede o mundo? Que o verde não existe no mundo? Ou que o verde existe no mundo e a proposição é válida se mantiver a lógica da existência do verde no mundo, sendo o homem apenas uma camada, um espectador a ver um filme?
+
+Então o verde teria de ser o quê? O verde em si mesmo? Uma forma? Um número? Uma propriedade? Que analíticos que são. Que formalismo das linguagens.
+
+Se o verde é uma possibilidade lógica de um estado de coisas, uma propriedade de uma coisa, então é algo que existe. E, sendo algo que existe, como é que pode ser tratado como mera experiência subjetiva? Não é apreendido como todas as outras propriedades físicas das coisas são apreendidas pela consciência?
+
+Que possibilidade lógica é esta quando se atualiza? É limitada esta pretensa decomposição ilimitada. Porque tanto é real a folha que recebe a luz, como é real a luz, como é real onde a luz bate. Tudo isto é real.
+
+---
+
+PARTE VII — ESCALA, CÍRCULOS E DOMINÂNCIA (EXPANSÃO)
+Capítulo 22-E — Domínio simbólico
+
+22-E.6 Burocratas do discurso e estabilização simbólica
+
+Não havendo a relação de onde emerge outra manifestação, não sendo a manifestação a relação manifestada — o copo em cima da mesa e não a mesa e o copo. O vidro na sua estrutura que não se quebra com o toque dos lábios. A coisa como é. O real que abraça toda a forma coerente.
+
+A relação que cada ser consciente tem é sempre, antes de mais, consigo e com o real. E depois consigo e com outros. Mas a maior parte do tempo é a primeira, por natureza: os meios e as vidas dependem da relação com o real.
+
+É aqui que nasce a necessidade da consciência no real. Porque se não fosse no real, sendo extra-real e relacionando-se com o real, teria de ser real. Não há fuga.
+
+A ausência daquilo que é ser pai no pai faz com que o filho sofra essa ausência. Se o pai, enquanto introdutor do real, não introduz o filho no real, não opera na figura do pai. O pai é então substituído ou relegado.
+
+As regularidades — o real, aquilo que é comum a todos — têm de ser apresentáveis a quem o apreende. Vivendo nós, morrendo e nascendo, o modelo de apreensão, a minuta, quanto melhor for, melhor será a descrição que o filho fará do real.
+
+As manifestações em larga escala operam no quadro do processo. O que é bom, o que deve ser, o que não deve ser, quando desligado do real, passa a ser apenas ligação interna: interna, interna. Procura respostas nas regras do próprio círculo.
+
+Assim, o bem e o mal deixam de estar no ato e passam a estar no processo. Torna-se então necessário integrar o eu. O critério deixa de ser aquilo que é e passa a ser aquilo que o sistema impõe que seja.
+
+E porque o eu está em todos os eus? Porque no outro há um eu? Porque a justificação da ação deixa de ser o real e passa a ser o eu. Um eu que não se ajusta ao real, mas quer que o real se ajuste a ele.
+
+Surge então a lógica do contexto: o que eu sentia, o que eu pensava, a fúria, a exceção. Fora do plano jurídico, isto resolve-se pela culpa. Noutras ordens morais e sociais, o enquadramento é sempre interno.
+
+O eu que olha para o real não procura horizontes abstratos. Olha para as relações em que se encontra — dele com o real, dele com os outros, dele consigo — e descreve-as como são. Coloca-as no patamar correto do pensamento ontológico, isto é, lógico.
+
+Um pai que compreende o real e a relação com o filho desempenha melhor o papel que essa relação impõe, independentemente do que o eu queira naquele instante.
+
+Não é preciso ser filósofo para viver de acordo com o real. A filosofia surge quando se tenta sistematizar.
+
+Quanto mais círculos entram no círculo, mais relações se criam. Os círculos fundem-se, são absorvidos por dominâncias de atualizações, geram ramificações. Ao longo do tempo há fusões de símbolos, modos de ser, tipicidades.
+
+A vida humana em sociedade mostra isso: homogeneizações culturais, impérios, integrações. O modo de ser dominante é uma composição do modo de ser comum das pessoas.
+
+Ainda que minoritário, o modo que melhor descreve a totalidade do discurso torna-se dominante. São os burocratas do discurso: aqueles que mantêm as regras, que discursam no espaço público.
+
+PARTE IX — REAL, REGULARIDADE E SOCIEDADE (EXPANSÃO)
+Capítulo 26-G — Regularidades
+
+26-G.6 Regularidades biológicas como expressão direta do real
+
+Estava a pensar em como as feromonas numa colónia de térmitas regulam a colónia: mais ou menos reprodutoras, menos ou mais reprodutoras. E em como aí se vê o real a ser descoberto pelo ser que nele existe.
+
+Há uma lista de proposições certas que se sabe serem certas. E que, agindo nelas, no real, mais com ele se estará.
+
+No processo que é a relação, que é o contínuo do real, está a cadência natural daquilo que é real. E é assim que se vê o homem a ser.
+
+---

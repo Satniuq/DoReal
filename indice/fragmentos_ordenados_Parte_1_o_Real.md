@@ -573,3 +573,16 @@ Capítulo 10 — Regularidade
 O real é o que permite ser. O ser é aquilo que o real permite que seja. Cada pico de energia é um naquele instante porque teve as condições necessárias. A probabilidade decorre sempre de condições. Se mantidas certas condições, certos efeitos repetem-se. É por isso que existe alguma certeza na Física.
 
 A Física é, ou deveria ser, a arte de descrever o que se repete: as regularidades do contínuo do ser, os tipos de ser.
+
+---
+
+PARTE I — O REAL  
+Capítulo 11 — Potencialidade e atualidade
+
+11.1 Erro da entificação da potencialidade
+
+Depois estava a ouvir o Alex falar sobre potencialidade e atualidade. Olham para as coisas como se fossem slides de pictogramas. Dizem que a potencialidade já tem de existir para se poder atualizar. Que a atualização já tem de existir para a potencialidade se atualizar.
+
+Dá o exemplo da caneca de café: teria de haver a potencialidade de se tornar fria para poder arrefecer; teria de haver um frigorífico onde estivesse para poder arrefecer. Isto não é assim que se passa.
+
+A potencialidade é a totalidade das possíveis atualizações. Num sistema como o nosso, calor e frio não são entidades metafísicas, mas níveis de energia dos átomos que compõem aquilo que dizemos estar quente ou frio. Não tem nada a ver com existirem atualizações potenciais dependentes e necessárias como entidades separadas.
