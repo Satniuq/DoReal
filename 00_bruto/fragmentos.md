@@ -1524,5 +1524,434 @@ E pronto, isto liga-se, não é, creio eu, também ao modo como se diz no dever 
 
 E depois o argumento vai para os tempos modernos, em que, aparentemente, houve uns tipos surdos que escolheram um embrião que também deveria ser surdo, porque queriam ter um filho surdo também, como eu dizia assim. E está nessa dúvida uma questão de ai, o que é o mal e o que é o bem, o que é isto, mas será que nessa circunstância e naquela circunstância, amigo, em retirar a audição que lá estaria tendo as coisas, como se tinha, a um ser que não é teu filho, é como tu, consciente, reflexivo, é cortar o campo das potencialidades. Pode ser ampliar noutros sítios, mas nem é suficiente, nem sequer tem nada a ver com a não existência. Há uma parte que se tornou não existente por ato de outro ser consciente reflexivo.
 
+
+
+## F0125
+
+Entrada dia 8 de janeiro. O problema da combinação, ai a ciência, não, ai a consciência, a consciência é uma coisa diferente da matéria. A consciência tem que ser uma coisa, se for diferente, caímos no problema do dualismo. Se for igual, então caímos num problema dos consciencialismos, dos misticismos. Então dizemos, não, a consciência está naquilo, tem aquilo que é ser consciência, é uma propriedade de consciência, só que manifesta-se em diferentes campos de acordo com a sua complexidade. Que, creio eu, não sei se é assim de facto, mas pelo que tenho ouvido e ouvido, ah, ouvido, ah, este é o típico discurso, este é o típico debate que se quer de ser de alto nível, aparentemente, não sei.
+
+## F0126
+
+Ai, a consciência tem de ser, sei lá, o que que eles acham que é nas suas visões limitadas do mundo, em que acham que como tudo é composto de átomos, há átomos em todo o lado, como blocos de Lego. Como assim? O que é que achas que há? Há uma partícula qualquer, um conscienciostomo, sei lá, uma coisa qualquer assim, há um Higgs, que é um bosão, não é? Há um Higgs e há um, sei lá, e há quarks, e há o que nós quisermos, e também, então também tem de haver uma consciência, uma partícula consciência. Hã? Como assim?
+
+## F0127
+
+tudo isso, o Higgs, um charm, um átomo, um núcleo, sei lá, qualquer um elétron, tudo isso são regularidades, são tipificações, não é? Porque são regularidades, só que a nível físico e de segmento social, certos, com margens ridiculamente pequenas. O social é diferente, fenômenos diferentes. Isso é uma parte. A questão é que tudo isso são... não são relações, não, são continuações de relações, são manutenças, manutenças, nem existe esta palavra, é manutenças de manutenção da atualização, portanto, daquilo que se é, daquilo que está a ser naquele contínuo. Visto de um ponto de vista mais alto. É só isto. A questão é sempre de, não é sempre, mas neste caso, neste caso em todos, ou seja, a apreensão, a apreensão muda o seu conteúdo simbólico dependendo do nível que está a falar. Se eu falar sobre o mais baixo, então eu não posso falar sequer sobre esse átomo da consciência, eu só posso falar sobre o que é que está a manter a relação para que eu possa apreender um ato de consciência, ou seja, num plano superior isso haja.
+
+## F0128
+
+Como uma maçã, passo corta maçã, se eu olho para outra parte da maçã, passo uma coisa qualquer, não é? Se eu observo a maçã, se eu  maçã enquadrada com mais objetos, se eu... claro. Se eu vejo uma árvore, se eu... Se eu estou dentro de uma estrela a olhar para a estrela, ou se eu estou cá fora a olhar para o sol, então, mas qual é que é a imagem mais bonita? Qual é que é a imagem mais... É minha. Qual é que... qual é o que está a ser apreendido? Porque nem poderia ser de outro modo que a apreensão fosse assim, porque a apreensão será sempre relativa, relativa ao tipo, ao tipo de objeto apreendido, ao tipo pela apreensão e pela própria condicionante da estrutura da apreensão.
+
+## F0129
+
+o ver, a análise, a descrição, a narrativa, e por isso, e por isso é que ela é assim a apreensão, depois se transforma nisto tudo. Ela é assim compartimentalizada, sistematizada, depois, porquê? Porquê que, já te perguntaram porque é que todas as ciências derivam do poder ser filosófico que o homem tem? Deriva daqui, pela busca pelo real. E a busca pelo real envolve alguém que busca o real, que é o todo.
+
+## F0130
+
+A tendência para a institucionalização de qualquer sistema humano que seja, subordinado ao real, a querer operar sozinho, no sentido contra o real, indo contra o real, empobrecimento de qualquer uma posição que queira manter, desde que seja coerente com o sistema, essa que vale. Ou seja, não só é não ter em conta o real, relegar o real, mas é também, se posta contra o real, ela preferir-se ela própria. Também é isto. Era isso que eu estava a dizer.
+
+## F0131
+
+Os átomos de campo, a apreensão do homem na apreensão do homem no real, feito do real, a localidade e também por isso e a diferença de estratificação do real, como o real se apresenta, dependendo de qual o grau de percepção, ou seja, daquilo que o pode apreender e do que está a ser apreendido também. Não é só o humano olhar para os átomos, quer dizer, não é? Tem que ver qualquer coisa que possa também conter com os átomos. O que é que consegue medir átomos, ver átomos, outros átomos. Como é óbvio, operam no mesmo plano de continuidade. E o homem é viver aí, apreender também por um muito reduzido campo, efetivamente ao real.
+
+## F0132
+
+da mesma maneira, como o pensamento é tido de modo visto tão fraco, de um ponto tão fraco, tão de uma nau tão circunscrita aos símbolos mais obscuros, como é óbvio, não é? Aos símbolos menos adequados, símbolos menos, como é que se está a dizer, não é complexificado, porque ao contrário do símbolo, é um símbolo confuso que é complexo, é aos símbolos mais claros, mais finos, com mais fineza. Isso envolve que tenha tido algum tipo de repetição neuronal relativamente a esse tipo de pensamento.
+
+## F0133
+
+Portanto, o conhecimento é chegar aqui as atualizações daquilo que se quer aprender, conhecer. Ah, se eu quiser aprender a cortar lenha, eu tenho que pegar num machado de madeira, tentar rachar a lenha. Não de outro modo qualquer. É por isso que há liberdade do homem. Chegar para cá, para ao pé de mim, manter-me no meu campo de disposição, sei lá, no meu campo onde eu posso interferir e ser interferido, isso obriga a uma adequação da apreensão, nesse sentido em que eu tenho que me deparar contra aquilo que eu quero conhecer.
+
+## F0134
+
+Quer dizer, pode haver abstração, não é esse o ponto, Emmanuel. Pode haver abstração, porque para haver abstração eu tenho que conseguir fazer aquilo que se chama ser abstração, não é? Eu tenho que encarnar o processo de abstração para poder abstracionar. Cada coisa no seu sítio. A apreensão que se tem do real há de incorporar tudo aquilo que no real permite ser real. Depois podem ou não podem haver respostas sobre, pá, se tiveres muitos tipos de pensamentos irreais, amigo, deixares à tua frente uma ponte, mas é um penhasco. Pá, isso é porque pelas contínuas repetições e das manutenções das relações, dos tipos de apreensões do ponto de vista de conhecimento, de narrativa local e individual relativamente ao universo, pá, o que seja. Há de ser de um tipo que não há de estar de acordo com o real e isso, porque o real também é predeito por algo, és tu que estás a falhar na equação.
+
+## F0135
+
+A totalidade do que é apreendido e é apreendido por mim, como é que eles dizem não haver o livre arbítrio, o Alex, não haver sequer consciência, por ser também algo determinístico, creio eu, como o Dennett, como é que colocam então a apreensão? Colocam somente... colocam como apenas uma câmara a ver o mundo? É isso? Ou a apreensão é o próprio canal, é o próprio canal que medeia tudo, e o canal inclui o real, eu e o toque que eu tenho no real, como se eu estou... Quando eu ajo, existo num campo, eu tenho de entrar no campo.
+
+## F0136
+
+Quando eu penso em, sei lá, no Japão, eu não estou a tocar nas atualizações que o Japão é. Não há um entrelaço, uma produção de efeitos e reação de efeitos de relações entre mim e o Japão, ou seja, aquilo que está a acontecer noutra atualização onde eu não estou. Eu estou a parar nas minhas próprias atualizações, no meu campo, ainda que dentro do campo enorme, como é óbvio, no campo de tudo o que há. Mas eu estou a operar lá e a minicar aquilo que poderá ser uma representação das outras atualizações.
+
+## F0137
+
+Eu só consigo saber o que há em Tóquio hoje porque há informação física, real, há atualizações, há uma ponte a atualizar uma coisa qualquer que sai de Tóquio e o que eu estou a ver no telemóvel em Portugal.
+
+## F0138
+
+O que é que os filósofos farão qnd se aperceberem que a consciência vem da exigente potência que o corpo e selva intestinal precisam, de um corpo adaptável, para ser o corpo que permanece? O que farão ao extra real da consciência? Tomar se ao por deterministas xD, ah então não existe. Sou um máquina e vou lançar um dado em cada decisão, ridículo o nível
+
+## F0139
+
+Há uma continuidade na ação que se crê ser o determinismo da ação. É o olhar para a continuidade dela e fazer dela uma dependência, criar nela uma dependência. Mas isto vê-se, por exemplo, com alterações psicadélicas, ou psicoativas, mas óbvio. Em como, por exemplo, estando a conduzir, o olhar para mudar o ponto de vista, olhar para a direita, olhar para a esquerda, olhar para trás, o que for, fechar os olhos, piscar os olhos, quebra a percepção visual daquilo do ponto de vista que estou vendo, do carro da frente. E eu quero se calhar estar sempre a ver o carro da frente, né? Grandes velocidades. E dentro do resto. Mas primordialmente o carro da frente, para saber se tem cravado.
+
+## F0140
+
+E, enquanto eu, sei lá, olho para o lado para ver se veio um carro, olhe para trás ou algo assim, mas sei que o carro da frente, ainda aquela velocidade, vai a desvistar quando eu acabar de olhar para o lado. E se eu manter a minha velocidade, se não fizer força no pé, no acelerador, há de manter-se à mesma distância. Ou seja, mantendo-se o estado de coisas da condução, do que está a acontecer quando eu estou a conduzir, isto é o que vai acontecer. Mas para isso é preciso ter o foco principal e como a necessária de tudo.
+
+## F0141
+
+E eu vejo distrações que causam esse evento, ah, bati no carro da frente que não fiquei com o travão, quer dizer, não fiquei com o travão se eu não tivesse com atenção ao carro da frente. Ah, não, eu estava com atenção, mas não vi as luzes, impossível. Ah, mas... Não, é somente isso. E, mas, o que eu queria dizer era sobre o processo da apreensão, acho eu, ou não, não sei, mas era sobre como a memória que fica da velocidade e do estado de coisas atual de condução, a segurar no volante, nos pedais, que fica no corpo, no cérebro, enquanto eu olho para o lado ou para trás, enquanto eu quebro esse contínuo do que está a acontecer, que eu estou de facto num carro a alta velocidade e se não travar a tempo, bate num outro e morremos todos, ou algo assim. Mas com o efeito psicoativo faz com que se esqueça, faz com que se esqueça com que a certeza que o carro lá está se desvaneça, com que uma pessoa está a olhar para o lado, mas como o sentido de tempo é diferente, eu já nem sei há quanto tempo é que estou a olhar para o lado nem quando é que comecei a andar para o lado, porque tudo isto passa sempre frações de segundo. Uma pessoa vira o olho rapidamente e, ah, de facto está tudo igual, está como devia estar. Há uma tomada, há uma centralização da apreensão no próprio processo que está lá na parte animal do homem, mas que, como é psicoativo, pronto, ativa, ativa a própria certeza mecânica.
+
+## F0142
+
+É como que, no seu âmago, quem defende não haver arbítrio livre, é como que não admitindo o mais básico dos básicos, que é que era a vigilância, que era o próprio facto de eles falarem, o que é que acontece se eles estiverem a dizer, Ah, desculpe, enganei-me. Quem é que se apercebe que enganou? Quem é? Há de ser aquilo que vigia, e vigia no sentido de incorporação da representação, porque tem que ser isso. Porquê? Porque é aquilo que segrega, do ponto de vista coerente, o apreendido.
+
+## F0143
+
+Porque falar da consciência como um agregar de, sei lá, como uma entidade, como uma como confundir a consciência com como se fosse uma estou a imaginar uma nuvem que percorre todo o cérebro. Algo que se possa associar a uma alma, um espírito, algo transcendental, no fundo, algo extrarreal. E as diferentes partes do cérebro e da consciência existem porque as outras estruturas do cérebro precisavam também de existir. Porque a necessidade de uma parte, aí vai depender de todo o cérebro. Se não fosse preciso cérebro, porque é que havia de haver cerebelo ou outra parte qualquer do cérebro?
+
+## F0144
+
+Mas isso não era. Não sei, talvez, com uma vigilância. Mas ainda assim, a interioridade não é ter aqui um ponto de vista visual sobre o mundo, sobre o mundo. viver o mundo. Isso que não é uma característica humana, somente. Não sei que todos os animais sejam cegos, mas quando há olhos a ver.
+
+## F0145
+
+Eu creio que os animais compreendem o que vem, não é? Senão, o que é que veriam? Qual é que era a lógica? Inexistiria. Então existe algo assim, biológico.
+
+## F0146
+
+E a sincronização entre as ondas sonoras e as ondas e a luz recebida no animal, também, quer dizer, os animais também conseguem ouvir e ver e coordenar tudo isso, e coordenar tudo isso, não é? Numa qualquer experiência mínima. Estou a andar, estou a voar, estou a saltar, estou a ver coisas, ouve, oi, ouvi uma coisa qualquer. É que chininho. Estou a ver, continuo a ver, continuo a ouvir, continuo a cheirar, quer dizer, está tudo integrado. Não estou a ouvir este som amanhã. Isso não existe.
+
+## F0147
+
+É a apreensão pelos seus diferentes graus e modos, depende, a apreensão vai depender daquilo que existe, porque o que existe não é um real, aí eu vou conhecer um real. É pá, não vais conhecer um real nenhum, porque o que tu conheces é o ser no real, o que tu conheces é aquilo que existe, aquilo que se atualiza, porque isto, isto conhecer um real, nós já tentámos, já tentámos conhecer um real e ele disse-nos assim, olha, quando tentas conhecer um real, o que estás a conhecer é sempre uma atualização do real, e nós já usamos as máquinas mais espetaculares para isso. Mas, pronto, não sei o que é que isto, isso era só uma parte.
+
+## F0148
+
+Porque? Ah, é tudo um quadro lógico. Há um quadro lógico, mas nada existe. Pronto, é isso. Existe um quadro lógico. Ou significado é o quadro lógico, também não é bem compreender o que é que existe. Pá, existe o que existe. Se for tudo o que tem significância, é tudo o que permanece na relação, pá, está bem, mas isso. Não é um bocado redundante. Tchic, tchic, tchic, não é? Mas... O que se tem para fora é sempre irreal, porque olha-se só para a relação e nunca para a relação para entre exteriores. Quer dizer, quando os parentes exteriores são só campos de potencialidades que não sabemos existir.
+
+## F0149
+
+Ah, sim, e o quadro lógico, quer dizer, não é que não haja real e não é que não haja um quadro lógico, bem, com o termo correto, mas por isso não se vai usar essa palavra. Por isso é que não há, por isso é que há o melhor modo de descrição, porque o melhor modo de descrição é o melhor modo de apreensão do real, dos diferentes tipos de real. E se os diferentes tipos de real são manifestados pelas nossas apreensões, nós atualizamos-las. Eu não atualizo a nuvem a olhar para ela, quer dizer, eu atualizo uma bolinha, um campo de energia qualquer, um fotão que bate no meu olho. É aí que eu atualizo, porque o real cria ali uma cadeazinha fininha, uma trajetóriazinha, vem bater ao meu olho. Pronto.
+
+## F0150
+
+Qualquer quadro lógico que se apresente vai ser um quadro lógico dependente da apreensão do real. E o melhor quadro lógico será aquele que melhor descreva o ser o poder ser e o dever ser nos seus diferentes círculos e será tão errado quanto melhores descrições do real existam. Porque há o melhor modo de ser para um ser consciente reflexivo.
+
+## F0151
+
+o ser, o poder ser e o dever ser andam sempre em conjunto, porque não há... Porque o ser, sem algo que o descreva, quer dizer, é só o ser, não é? engraçado. Mas a descrição no ser, não é? Neste sentido... Ah, sim, é o único modo, quer dizer, da melhor descrição do ser. Quer dizer, pode-se conceber o ser numa língua qualquer. Ah, mas depois, se não permanecer, não vai continuar a ser o melhor, não é? Há de ser pelo modo comunicacional dos seres que estão a descrever o ser, diria eu.
+
+## F0152
+
+Porque os modos de apreensão que existem são assim o que isto é, o que isto deve ser. E o que isto pode ser, ou o que isto é, o que isto pode ser, o que isto deve ser. A apreensão, as apreensões que se têm, que se levam a que sejam os tipos de ser que tenham mais ou menos pensamentos de ser, de poder ser ou de poder ser, leva depois aos tipos de animais que têm esses tipos de apreensão, apreensões. Se viver só num, e tiver em consideração o outro, não quer saber do outro, sei lá, seja assim. E é o filósofo que tem de ter estes três níveis de apreensão.
+
+## F0153
+
+pensar num tema qualquer, whatever, um ambiente, será a ação humana, malandra, que está a causar ações, alterações climáticas, certo? Ok. Pá, queres... Onde é que isso acontece? O que é que é isso? De onde vêm as emissões? De onde vem o produtor dos danos? Somos nós? Sou eu em Portugal? Somos nós? Contribuímos em vez de fazer qualquer coisa para a emissão global? O que é que tu vais fazer? O que é que pode ser que, com o que tu digas ou faças, algo diferente aconteça? Onde é que esse dever ser tem sequer virtulidade de ser atualizável? Queres só escrever isso? Ficar escrito? Pronto, fica escrito. Mas e depois? Como é que se os deveres seres depois não têm qualquer tipo de aplicação? Porque são aqueles que são desligados do poder de ser, aqueles que não sequer podem ser atualizados.
+
+## F0154
+
+Isto é uma banalidade, mas ter mais, não, ter de um tipo de relações, de um tipo de apreensão do real, em que o que está a ser apreendido é o exterior ou o interior, isto não é bem assim, porque a apreensão torna tudo interior e, por própria necessidade do conteúdo da relação, a autojustificação é aquela que sai daquilo que é apreendido. Sendo esse apenas a ligação real, essa é a ligação real que leva a todo o tipo de depois ser o que existe no campo que é composto pelo campo de apreensão na correspondência com o real, na correspondência que é apreendida.
+
+## F0155
+
+verá, ah, o que se tem de ter, não se vivendo no modo ser, de ser do real, mas ser do eu, é que leva às necessidades, à necessidade de pensar-se que tudo que, como o campo é autojustificado, então que nada vale, que verdade, justiça, bem, que nada vale, que o real nada vale.
+
+## F0156
+
+não sei - "O real é o que é" "Sendo o que é, é-o sendo, com a estrutura nem que seja do mero ser" "Sendo-o estruturado, é-o limitado, pela atualização que é e pela potencialidade que permite ser" "O que pode ser - que há-de ser o que permite ser - não são externas ao real, pertencem-lhe" "O que é, é, portanto, real" "A atualização é o poder ser a ser na relação que permite que seja" "A consciência é, por poder ser, como qualquer coisa que possa também ser, senão não seria"
+
+## F0157
+
+Há o que é o real e há o ser consciente reflexivo. Só este pode ser filósofo, por própria definição de termos. O ser consciente reflexivo não é filósofo, é um ser animal. E por isso vive mais na relação do eu que na relação do real.
+
+## F0158
+
+E eu não sei se o que eu estou a querer escrever é no fundo as descrições, no fundo, o que eu não sei se o que eu estou a querer escrever é o conjunto de descrições verdadeiras basilares que nós, enquanto espécie de tipo consciente reflexivo, já descobrimos, as verdades já descobertas. Eu não sei se é isso ou se é algo mais como o papel do filósofo, ou o que é ser o filósofo, no fundo, ou as dois coisas, ou tudo, como é óbvio, depois isto, todos os meus pensamentos são todos amontoados e sobretudo ao mesmo tempo.
+
+## F0159
+
+É só porque é ao filósofo que cabe fazer a ponte e fazer a ponte obriga a percorrer o caminho entre o ser, o poder ser e o dever ser. É nesta, é aqui que reside, porque isto não é racionalidade, isto não é inteligência, é somente um tipo de ser dentro dos seres conscientes reflexivos. Porque todos os seres conscientes reflexivos têm as valências mais ou menos ampliadas, mais ou menos recorrentes nos modos de ser que encarnam, isso é óbvio. Mas o filósofo não é quem nasce de um modo de ser diferente, é quem é, é o ser consciente reflexivo que, sendo-o, não pode propor qualquer coisa que seja, e por isso não pode ser qualquer coisa que não seja, não é? Que seja também, não pode propor qualquer coisa que seja que seja contrária àquilo que o real permite que seja.
+
+## F0160
+
+Porque isto tem tudo que ver com o que é a verdade. A verdade é a melhor descrição. Ponto final. Com o bem, é igual. É a mesma coisa. E para lá chegar, para se chegar a qualquer proposição verdadeira, tem de se ser um filósofo. Porque não há proposições verdadeiras que não respeitem aquilo que é, ou seja, que não descrevam a realidade como a realidade é. Tudo o resto são as derivações normais de ser um animal consciente reflexivo. Porque todos os modos de ser, todos os pensamentos, todas as existências são especializações das rotinas, são permanências do contínuo do que se é. Mas isto não é aquilo que o filósofo é.
+
+## F0161
+
+A dualidade que atravessa todo o meu índice completo entre o modo de ser que vive no eu e o modo de ser que vive no real, esta dualidade é apenas a diferença entre ser tudo o que eu tenho vindo a dizer, eu não sei se tens acesso, eu acho que não tens acesso. Esta conversa, não tens acesso às conversas deste arquivo, como é que isto se chama, do meu arquivo de pensamento filosófico, mas o que eu queria dizer era que o modo de ser que eu chamo esquerda e direita, o modo de ser que eu chamo eu no real, eu no real, é somente, no fundo, o que isto diz é o modo de ser de direita, o modo de ser no real, eu digo direita somente para imaginar uma bifurcação entre um lado e o outro, é entre quem é e quem não é filósofo.
+
+## F0162
+
+E a minha crítica, toda a crítica à filosofia, o que eu quero fazer, o que eu quero, eu quero também incorporar uma crítica formal à filosofia, portanto, uma crítica aos filósofos. Eu tenho dado inúmeros exemplos de críticas a todas as teses que existem e que já existiram, mas essa crítica, o acertar, o reconhecer o acerto, o reconhecer o acerto de Aristóteles num lado, de Platão num lado, de Descartes num lado, de Kant, de Wittgenstein e o falhanço, e o falhanço nos outros lados, o completo falhanço nos outros lados. Esta crítica que corre a narrativa de toda a filosofia, no fundo, de todo o pensamento filosófico, é somente porque há o ser e não ser filósofo, há a crítica que eu faço a todos os temas em que eu toco, da consciência, tudo, ética, epistemologia, tudo o que nós quisermos. Este, o fio deste condutor todo, o fio da narrativa, há de ser há um do género, onde é que o ser humano, como ser consciente reflexivo, Seguiu o caminho do filosófico e onde é que não seguiu, e onde é que depois, tendo chegado ao aparente esgotar da filosofia pela ida para a análise não ontológica, como é óbvio, depois degenera num ciclo vicioso de anti-filosofia, pretensa filosofia. O caminho natural de qualquer ser consciente reflexivo, de qualquer sociedade, de qualquer planeta que contenha seres conscientes reflexivos de, ao percorrerem a análise ontológica, depois pela própria tautologia do real, recaírem sempre em necessidades de especialização dos minicírculos, dos minissistemas criados por esse próprio ser.
+
+## F0163
+
+E o bom e a filosofia verdadeira, não é? A filosofia verdadeira, que bem sabe o que é para postular o que deve ser e o que pode ser para postular o que deve ser, essa boa filosofia, porque os homens morrem e nascem depois bebezinhos que nada sabem, incorpora-o em conhecimento prático, práticas. E daí o meu ênfase ao cristianismo enquanto símbolo da trindade do homem divino, porque coloca no homem livre e digno a verdadeira ação, a boa ação que há de ser sempre como real, não é? A descoberta, a descoberta dos, sem ser de modo racional e analítico, mas pela própria continuidade do ser, a descoberta dos, como se fosse quase um paralelismo com a evolução, mas a descoberta das proposições verdadeiras encapsuladas em símbolos de orientação.
+
+## F0164
+
+Tenho muitos problemas no fio, porque mesmo que eu começasse a escrever como o que é isto, o que é isto importa também dizer sobre o que é que se acha que a abordagem de apreender o que é isto é, porque o próprio canal da apreensão faz parte, o próprio modo como se aprende faz parte do que se é, porque para se saber o que se é isto, tem-se compreender como é que um ser consciente reflexivo apreende o que é isto. E isto para tudo o resto. O que é isto importa falar também sobre o que se acha que é isto. O que o pensamento sábio tem vindo a achar que isto é, e por isso obriga a também se viver antes, ao mesmo tempo, depois, não sei, quais as posições que se têm sobre o que é isto e sobre o que é isto de apreender o isto.
+
+## F0165
+
+Pois, ok, é bem visto e faz um certo sentido. O que é isto? A linha narrativa ser o que é? Ser. O que é isto? É uma pergunta que só faz sentido num ser consciente reflexivo que se pergunta o que é isto. E a filosofia, eu creio que mostra de certo modo isso. Ela não é progressiva de todo. Ela é reveladora dos espaços descobertos do real. Como é que eu hei de dizer isto? O que eu estou a pensar é algo como Aristóteles não tinha, não tinha o conhecimento sequer do que é um planeta, do que é sequer um animal. Tinha a noção que havia um espaço onde ele existia e que havia uns seres que faziam umas coisas e que tinham mais liberdade para fazer outras. Descartes não tinha a mínima ideia do que é que era o conhecimento obtido através do instrumento. Kant não tinha qualquer noção do que era a física, e por aí adiante. Por isso eles... É normal que fossem assim.
+
+## F0166
+
+E isto incorpora também, depois de se saber o que é, pela absoluta especialização e tecnicização e proliferação de léxico da ciência, no fundo do conhecimento das regularidades físicas, depois disto, pela incapacidade operativa de quem estuda filosofia ter obrigatoriamente de não saber tudo o resto, esta compartimentalização que é necessária pela grandeza do modo de apreensão do ser consciente reflexivo, reconduzir a filosofia à metafísica. Num simples contexto, reconduzir a filosofia ao campo do que se acha que é, que se acha que pode ser, que se acha que deve ser.
+
+## F0167
+
+É do... É da apreensão... É do real, da apreensão nos que os modos de ser do real ou do eu vem porque a necessidade de autojustificação do quadro lógico interno, a partir do momento em que é apreendido, portanto, a apreensão já contém o ato de apreensão, já contém o quadro lógico e viver nessa justificação é do modo de ser do eu, que é o por default, porque o real vai permitindo, as relações vão se ajustando, e é isso que faz sentido que seja, para que possa haver a própria relação. O real está lá como canto e permite que a relação exista somente enquanto ela respeitar o real. E por isso é que, contrariamente ao que é default, há outra modo de ser, que é o modo de ser do real. E é por isso que ele começa a ser um cabo só ao filósofo.
+
+## F0168
+
+Isto é uma banalidade, mas ter mais, não, ter de um tipo de relações, de um tipo de apreensão do real, em que o que está a ser apreendido é o exterior ou o interior, isto não é bem assim, porque a apreensão torna tudo interior e, por própria necessidade do conteúdo da relação, a autojustificação é aquela que sai daquilo que é apreendido. Sendo esse apenas a ligação real, essa é a ligação real que leva a todo o tipo de depois ser o que existe no campo que é composto pelo campo de apreensão na correspondência com o real, na correspondência que é apreendida. verá, ah, o que se tem de ter, não se vivendo no modo ser, de ser do real, mas ser do eu, é que leva às necessidades, à necessidade de pensar-se que tudo que, como o campo é autojustificado, então que nada vale, que verdade, justiça, bem, que nada vale, que o real nada vale.
+
+## F0169
+
+As sociedades, o que se fala sobre as sociedades pq eu não vejo sociedades com os meus olhos e são só o agregar de discurso de pessoas de tipo eu, se ampliadas então como o que se diz é o que se pensa e o que se é, e se se diz o que há um segundo, há um Dia, há um mês, ano, não se vai não dizer o mesmo no continuar da relação da vida, e o que se diz e se pensa é o que constitui o sistema default, pode na corresponder com a base mas os que comunicam e nos recebemos essas comunicações tornam se eles os agentes comunicaxionais, no sistema que tem de se continuar a montar no contínuo, não haveria sequer ser sem o contínuo, vivem na coerência do ser, que faz muito bem á saúde, com os seus discursos agora amplificados somente demonstrado a temperatura do tipo de ser, a não ser que haja um líder forte, mas ainda assim se liberdade de imprensa, o ser consciente reflexivo vai ter o seu modo de ser ampliado. O eu produz os sistemas mais racionais possíveis para o homem, falha, ganha o que deixa o ser consciente reflexivo, fora das relações locais deixa a sua racionalidade de lado e perguntar o que é isto, o que pode ser isto, o que deve ser isso, agir como o filósofo age, impossível, não faz bem ao ser, só para malucos.
+
+## F0170
+
+Não, o filósofo. O que é ser filósofo? O que é responder a esta pergunta? O que é saber dizer o que é o que pode ser e o que deve ser, em contrapartida com tudo o que naturalmente se é, como modo operacional de viver, focando-se somente no que deve ser, no é, viver na coerência interna em que o que deve ser não tem relevância com o que pode ser, cabe no ser na medida em que o ser também é, porque correspondência mínima com o ser real, que o ser apreendido também tem que correspondência com o ser real. E o que é que os filósofos têm dito sobre isto? Como é que eles têm abordado esta questão? Com estas visões, com estas ideias, com estes modos de descrição, com estas compartimentalizações? Mas se a filosofia é a melhor descrição do real, o filósofo é aquele que procura a melhor descrição do real, não devia haver um fio unificador?
+
+## F0171
+
+Como é que se cria que as relações, qualquer uma relação, relações políticas, relações associativas, relações de trabalho, as relações daquilo que é ser o ser humano, se encontrássemos outra espécie de consciência reflexiva, iríamos perguntar o que é que é aquilo de ser aquela espécie de consciência reflexiva, não é? Quer dizer, não íamos conhecer, viver na cidade deles, ou no planeta deles, e a cada momento iríamos perguntar, eh pá, o que é isto? Que tipo de ser é este, não é? O que é que ele faz? Como é que ele é? Iríamos outra pessoa na esquina e dizíamos, eh pá, o que é isto? Não, não é? Portanto, se fazem todos parte da mesma espécie, fazem todos parte da mesma espécie, não há, quer dizer, dá-se uma liberdade sem limites ao poder ser humano, ao poder ser consciência reflexiva, altamente ajustada a responsabilidade para a parte.
+
+## F0172
+
+A relação onde eu está, quer dizer, e onde o campo das potencialidades do eu na relação, na relação com o mundo, na relação com o outro, na relação com o campo, na relação com o eu, com ele próprio, que eu saiba, eu consigo ver o reflexo, eu consigo externalizar o eu mantendo-o em mim, porque ele não existe sem o meu ponto de vista, em minha localidade. Eu posso falar dele da maneira que eu quiser, mas disso não o faz nada mais.
+
+## F0173
+
+A boa relação vem do, ser necessariamente pela encorporacao do meme de bom pai, de ser logo bom marido, ser fora da  justificação do próprio ser e integrando na relação de onde ele está com o demais relacionado, em estrita com o ponto de vista na medida com a relação e ele na relação, onde há outro que não partilham da sua localidade ontológica e horizonte. Estar no campo de atualizações do seu contato outro ser, é aí que está o atualizavel no contato com o que com o eu que se relaciona. O que é ser um bom pai é o que é ser o que um bom pai é no contínuo da relação
+
+
+## F0174
+
+Ai, como é que a consciência, que é imaterial, influencia o material? Qual é a relação causal entre o imaterial e o material? Ai, mas que dualismo é este? Ai, mas que combinatoriedade destas propriedades são estas? Ai, que problemas! Consciência, a consciência é o colapso da onda. A consciência, a consciência é a percepção sobre o mundo físico. É a entrada numa nova relação, na relação anterior física.
+
+
+## F0175
+
+O bom líder político, o que é ser, no fundo, o líder político? Ser o líder político é ser, como é óbvio, aquilo que é ser um líder político. E há muitos tipos de líderes políticos. Todos lá, ou pela supressão do livro liberdade dos demais seres reflexivos, ou por características eleitorais, popularidade e coisas assim, são aquilo que agregam a parte maior dos tipos de seres que os humanos refletem.
+
+## F0176
+
+Mas o que eu estava a pensar, efeito de enquadramento a que eu quero, é como no ponto em que lhe cabe impor efeitos a partir da sua própria vocalidade relativamente a outros pares conscientes reflexivos como ele próprio, em que o papel dele é de porteiro, é de manter o que é o campo das potencialidades, permitir que o ser opere no campo das potencialidades para daí lhe aparecerem os melhores deveres seres, as melhores coisas, os melhores defeitos, os melhores contínuos dos posteriores, os melhores contínuos, os melhores momentos posteriores do contínuo do tempo, do contínuo da vida, do contínuo do real.
+
+## F0177
+
+Cabe-lhe colocar-se entre o ser e o real, mostrando ao ser que para o ser bem operar no real, tem de primeiro operar no real, e tem de deixar de operar em quaisquer outros enquadramentos ou sistemas que serão feitos por outros seres que vão levantando cada vez mais as pedras em caminhos que se têm de andar, em que já nem no meio da floresta eu me posso ir para lá viver, para lá viver sozinho como um ermita, já há uma regra qualquer que se aplica à parcela da floresta e depois a qualquer coisa.
+é assentar qualquer tipo de decisão, qualquer tipo de ato, que vai produzir efeitos noutros pares igual a ele, é assentar isso na verdade, e a verdade importa a descrição do ser, do dever ser e do dever ser. E uma das verdades incluídas no ser, porque dá para olhar com os próprios olhos, é que o ser consciente reflexivo tem liberdade para atuar. Se ele quiser, ele atua bem, mas se lhe retiram o campo, não há bem, liberdade, há constrangimento.
+
+
+## F0178
+
+E a verdade é perceber que, igual a ele, existe eu, e que há sempre uma possibilidade de fazer tomar uma decisão qualquer mais verdadeira, de pensar, de ser, de descrever o mundo, de aprender o mundo de uma maneira mais verdadeira do que outra. Isso quero geral para tudo, mas claro, o líder também tem que operar nos critérios gerais para tudo. Não há um líder específico de regras, só aquelas regras é que o líder tem de ter. Não, não, eu ajo dentro do meu quadro constitucional, do meu quadro legal, este é o meu modo de ação, estas são as minhas atribuições, as minhas funções, as minhas legitimidades, isto é o que eu posso fazer. Ah pá, certo, ok, ok. Mas não, certo, pode ter esse tipo de análise, errado, limitado.
+
+## F0179
+
+A diferença entre esquerda e direita política, tanto porque ambas querem viver no seu próprio sistema construído. Só que, como já temos visto, um lado calha no eu no eu, no eu no ser, e o outro calha no eu no real. E a diferença entre eu no ser e eu no real é enorme, porque condiciona tudo daquilo que acontece de relevante e de irrelevante na nossa vida, enquadrado no contínuo da existência, na direção em que há um acoplamento do existente há um segundo atrás no existente de agora, há um movimento da relação em que era atualizada de um certo tipo, de um certo modo, há um segundo atrás, e pelo contínuo do tempo é agora atualizada de outro modo, como se fosse uma corrente a passar no radar, e o radar clicava, como se fosse um fotograma, um fotograma das relações como elos de uma malha metálica no universo.
+
+## F0180
+
+E o querer, só que a esquerda embate numa questão que é por querer, por ser no ser, viver nas, em todas as contingências possíveis e absolutas, em todas as viver no círculo da apreensão do ser excluindo o real, ou tendo em muito pouca conta o real, tende a tornar-se dominante porque a relação, porque todos apreendemos através de uma relação do tipo local eu para o real, vivendo no sistema de apreensão entre o eu sensor e o real, sendo aí que se inclui o ser, o dever ser, o valor.
+
+## F0181
+
+E por isso, as proposições são sempre do sistema e por isso autojustificadas pelo próprio sistema, rejeitando tudo o que é contrário ao sistema e adaptando o sistema ao só mínimo necessário para não colapsar o sistema, mas para continuar a manter-se existente no real, ou seja, nas condições que incorpora o próprio sistema e que permitem sequer funcionar. Neste caso, como sendo um sistema feito de pessoas, feito por pessoas, a última influência que existe no sistema, e a primeira também, a que colhe todo o sistema é os seres que fazem esse sistema em cada campo de atualização que eles têm, que compõem o próprio sistema pela sua localidade geral.
+
+## F0182
+
+É que o modo esquerdo é naturalmente sistema do dentro do real, ou seja, a ordem, a coerência, a estrutura, o pode ser, enquanto que o modo direita, o eu no real, degenera, claro, porque todos os sistemas degeneram, especialmente em relação e em confronto com outros tipos de seres que compõem o sistema e que são eu no ser, mas degenera das próprias apreensões também.
+
+## F0183
+
+Han? Não que analise cansada sem lógica , isso é a direita, a esquerda viver no dever ser, na utopia, a direita vive na ordem do real, ambas degeneram em sentidos inversos 
+
+## F0184
+
+A esquerda e a direita, na verdadeira divisão ontológica, como é óbvio, não correspondem à esquerda e à direita da Europa. A esquerda e a direita é uma coisa, vai desde os comunistas em derivações marxistas, constitutivistas, retrivistas, do ser, do tipo de pensamento da análise do ser, até ao outro lado, mesmo na sua extrema-direita, é um tipo de modo do ser. Uns levam o sistema ao seu próprio fracasso, ao imporem-lhe verger e, portanto, futuro, nele próprio, condicionados pela sua própria apreensão, o homem não é o homem que vai mostrando o sistema, não, é o homem é que cria o sistema.
+
+## F0185
+
+E do lado direito é igual, é igual, o canal é a mesma. É olhar para aquilo que se confundiu com o real, tanto como a justificação ontológica para tudo o resto, para todas as outras quaisquer composições, e ver nessa apreensão do real, na parca descrição do real, naquilo que se quer dizer o real, Deus, a pátria, biologia estruturada, irrelevante. É olhar para a apreensão que eu tenho do real e pôr essa apreensão do real como justificação e não o próprio real. Pois a derivação é a mesma, mas de maneira diferente. Está-se a fazer também o controlo do Estado, o controlo do Estado, o controlo do indivíduo pelo Estado, sei lá, uma coisa muito ruda. 
+
+## F0186
+
+A esquerda é como se vivesse como o estado paizinho, à espera sempre, vive no enquadramento do papá paizinho, faltando depois, como é óbvio, qualquer tipo de incentivo, qualquer tipo sequer de caminho potencial para que o espaço de liberdade do ser consciente reflexivo possa fazer qualquer outra coisa que não seja viver dentro dos próprios sistemas. E por isso restringe o mérito, restringe o real, o mérito é somente o bem andado no real.
+
+## F0187
+
+Do outro lado, à direita, a direita política, na direita federal, a direita política, num espaço que vive, num espaço europeu, eu estava a dizer o que era, que vive na mesma lógica de submissão, não, de relegar o real, de não ter o real em conta, para viver no próprio sistema, mas confundindo o sistema com o real. Uns ao menos acham que não há real, outros confundem o sistema com o real. É igual, quer dizer, ao menos não, é igual, é a mesma coisa, uns confundem e outros acham que não há. Quer dizer, a mesma coisa, não, ao menos no modo direto, há uma pequenina similitude com o pelo menos subjugar o eu ao real, ainda que o real não seja o real, no caso deles. E estas flutuações políticas são justificadas pelos únicos modos de que existem que podem existir num ser consciente refletido, que é ser aquilo que é real e que há de viver com dois planos obrigatórios, que a regulação assim o obriga, o eu e o real. E é o que está ali no meio, que é o que ele faz disto.
+
+## F0188
+
+O tamanho do universo, a ridícula escala de  não sei quantos trilioes de galáxias com não sei quantas milhões de estrelas, num espaço a expandir se numa velocidade superior á velocidade da luz, o infinito de tudo isto, é o nada a não ser por se ser então não pode não ser, é o contínuo do ser no potencial que o permite ser, que é, antes de QQ coisa, ser. Tudo faz sentido na ontologia 
+
+## F0189
+
+Einstein pôs o campo na relação das atualidades 
+
+## F0190
+
+Ah, não, não sabes o que é que é socialismo. Não, isso não é socialismo. Principalmente em Portugal existe esta conversa, confunde socialismo com social, com orientado para o social, com integrar o outro num sistema de crenças, com essa conversa toda do fundo que radica apenas para uma atitude mais ou menos genérica de, pá, reconhecer que o outro existe. Depois vai ao nível mais absurdo e mais básico, depois permite tudo, como o outro existe qualquer coisa, irrelevante. Como o outro é, como nós somos, como aquilo que é, é, pronto. E independentemente destas coisas todas, já sabem como é que as coisas funcionam. Mas não, então socialismo é o quê? Quais é que receitas de tudo aquilo que caracteriza o socialismo? Porque tens uma representação com simbólica diferente daquilo que é o socialismo. Socialismo, falarem em si, dito, não, porque não é comunismo. Ah, não, não, não é autoritarismo. Não, não. É somente o quê? É somente o quê? É somente, eu digo-te o que é somente, é só na relação mais básica que está aqui, de maneira abrangente, é na proposição de uma qualquer coisa que não serve perante o real. É isto, é um dever ser que, porque canalizado pela própria apreensão da realidade, quando o real faz-se mostrar, faz-se evidenciar, não muda o modo de ser, o modo de pensar, o modo de dizer nada do proponente. É uma crença, é uma manifestação de um modo de ser, de um modo de agir, que cobre todas as decisões, todas as ações, todo o contínuo do ser no ser, que é a resposta mais básica, mais intuitiva, que cola mais rápido, que se manifesta no nosso modo relacional, nós não nos relacionamos, eu não me relaciono com pessoas da China, quer dizer, é local. E é aquilo que vem à primeira, à cabeça, assim que se pensa em qualquer tema, qualquer tema do real, há necessariamente logo um enquadramento na perspectiva do eu para o real.
+
+## F0191
+
+O homem, na sua continuidade de pensamento, de ação, de ser em cima de ser, que na relação entre ele e a apreensão do real, desresvalem olhar o real, olhar a apreensão do real, focar-se num, focar-se noutro, focar-se somente nele próprio, e o pensamento filosófico mostra essa abertura em que antes de tudo começa a questão, a saída, a saída da relação que existiria sem liberdade humana, o pensar sobre a liberdade humana, e a questão filosófica é de onde nascem os primeiros filósofos, o que é isto, mas o que é isto, com os primeiros gregos, e com os... certamente, mas não só gregos, como é óbvio, mas com Sócrates a perguntar-se, mas isto é mesmo aquilo que tu achas que isto é? Ora faz lá três ou quatro perguntas sobre isto. Até que depois de se perceber o que isto não é, sobrando apenas aquilo que se quer ser, constrói-se os sistemas, uns mais acertados, outros mais errados, como é óbvio.
+
+## F0192
+
+Não, o filósofo. O que é ser filósofo? O que é responder a esta pergunta? O que é saber dizer o que é o que pode ser e o que deve ser, em contrapartida com tudo o que naturalmente se é, como modo operacional de viver, focando-se somente no que deve ser, no é, viver na coerência interna em que o que deve ser não tem relevância com o que pode ser, cabe no ser na medida em que o ser também é, porque correspondência mínima com o ser real, que o ser apreendido também tem que correspondência com o ser real. E o que é que os filósofos têm dito sobre isto? Como é que eles têm abordado esta questão? Com estas visões, com estas ideias, com estes modos de descrição, com estas compartimentalizações? Mas se a filosofia é a melhor descrição do real, o filósofo é aquele que procura a melhor descrição do real, não devia haver um fio unificador?
+
+## F0193
+
+Mas Tom, o conteúdo é o próprio pensamento nuclear. O próprio pensamento é tentar descobrir o real. O que é isto, se não algo que existe em todos os seres reflexivos, e que é, pode ser a pergunta, porque é o que suporta tudo, o que é, o que é isto? O que é isto de viver bem? O que é isto na guitarra? O que é isto de estar? O que é estar? O que é ser? O que é isto? O que é esta coisa? E o tom do livro é algo como dois personagens, o pai e o filho, e o filho e o pai a explicar ao filho, ainda que seja, sem qualquer tipo de fala do filho, a não ser uma inicialmente, sem qualquer fala, fala irrelevante, sem qualquer fala. Mas o tom é o pai a explicar ao filho. No fundo é o que eu quero que isso seja, que seja um texto em que na vida inteira dos meus filhos eles tenham, mesmo que eu morra, e vou morrer, mesmo que eu morra mais cedo do que podia ser, eles tenham um texto onde lá tenha, esteja escrito aquilo que é, aquilo que pode, aquilo que deve, aquilo por onde ele tem de se guiar no caminho que ele próprio tiver que trilhar.
+
+## F0194
+
+Porque, e refletido isto, que eu não sei, eu tenho que pensar, vamos tentar pensar sobre isto, de facto, sobre o que é isto, tentar descrever o que é e o que acontece em todos os seus acontecimentos, do mais atómico, do mais pura potência, campo, até atómico, até outras estruturas, até astrelas, até buracos negros, até o que nós quisermos. Mas, pode-se saber, pode-se compreender o que nos estão a querer dizer sobre aquilo que é, ainda que seja em linguagem em física, química, filosófica, qualquer linguagem técnica, podemos compreender, e é possível compreender, porque se eu não percebo nada de física nem matemática, mas pelo que tenho dito e tenho acertado, mais ou menos, naquilo que eu acho que deve ser o que se passa para além, ainda que enquadrado, como é óbvio, por ti, mas pelo que parece, tem sido assim. Isto significa, então, que há um caminho que une tudo no real, e esse caminho deve ser, ou tem mérito por ser tido na interrupção que se vai dando quando se descobre alguma coisa, quando se pensa, ah, peraí, então mas isto, sendo o real assim, não é?
+
+## F0195
+
+Porque o próprio método de aprender, que é apreender, representar, porque representando-se, cria-se o caminho para a permanência na memória, para a potencialidade da permanência na memória, para o acesso, para a padronização, para a junção das representações restantes da consciência, e aprendendo, e aprender é apreender o real, é representar o real, qualquer coisa que seja.
+
+## F0196
+
+Vivendo-se no sistema que o homem criou, não havia qualquer tipo de inovação, de invenção, de industrialização, nada disso existia. Vivêssemos nos sistemas autojustificados, não haveria quem tivesse, como aconteceu e acontece, a romper com o sistema em busca do real, saber como é, o que é isto, e operar nele, claro, porque para saber o que é, tem que se estar nele. Tem que haver o contacto no campo de atualizações através da nossa localidade.
+
+## F0197
+
+o livro somente dito neste sentido, um texto coerente, inteligível, e tem de ser, não só o que é o tema do livro, mas também o próprio modo de pensamento para ir relacionando, e estou a fazer gestos, estou a fazer gestos com as mãos, como se fosse a ir para a frente, no contínuo do ser, no próprio tempo que existe em qualquer relação. Quer dizer, como é que hei de descrever isto melhor? Na minha cabeça vejo um tipo a correr no ar, com as nuvens a passar ao lado. Estou a correr no ar, e as nuvens passam-me ao lado, não sei porquê. Não sei porquê, mas pronto, É isto e o pensamento, é isto e o modo de ter do pensamento. Claro que não vai ser esta confusão que é a minha cabeça, há de ser o normal, não é? O natural, revelar cada próprio pensamento, unificado num só próprio pensamento, com um eixo, em direção à tentativa de compreensão inteligível, pá, desta coisa, como qualquer outro ser humano. Isto não é para pássaros lerem. 
+
+## F0198
+
+A passagem do ser, como meta, aquilo que é profundo, que há-de ser muito breve, porque não ficar a falar sobre o nada, ficar a falar sobre o necessário, para dizer que a filosofia chama isto de contingência. Quer dizer, se for bem definida daquilo que de facto é, que é atualizações do real. Mas pronto, independentemente disso, era isso que eu estava a dizer. Ah, sim, depois no fim de tudo, do fim do ser e viver, e como o ser consciente é um ser, por definição, é real, faz parte do real. E por isso vamos falar então da relação, não só do ser, mas também da relação do ser com o real, e depois da relação do ser com o real e consigo, e de eu, não só é com o real do real, não é bem isto, isto também é como se houvesse aqui saltos malandros. 
+
+## F0199
+
+Não, é o real que... manifesta-se de um modo, existe de um modo, como tantos outros modos, em que dada certa predisposição, tanto no ser como no contínuo do ser, nas potencialidades que tem, recebe inputs do ser. Como se o ser estivesse vivo e, ocupado no espaço ontológico, partilhar relações ontológicas, físicas, reais, está com possibilidade de detectar o real que é outras manifestações do ser, conceptualizando o eu como uma outra manifestação do ser também, claro. 
+Como qualquer coisa, é uma manifestação, é uma representação. 
+
+## F0200
+
+E depois falar do ser consciente reflexivo na relação com o real. E essa relação com o real inclui a relação que ele, ser consciente reflexivo, real porque ser, tem com eu, no sentido do eu que existe no contínuo do ser, não é no eu que existe trantump no passado segundo. É das regularidades, é das regularidades daquilo que é pensível, do real percepcionável, apreensível, é daí que advém a operação lógica. É daí que pode vir enquadramento pela associação da inscrição de novos caminhos através dos nossos sentidos em conjugação com outros. Qualquer animal faz isto.
+
+## F0201
+
+Na minha lista, nos meus tipos de classificações, também tenho que ter proposições, as mais básicas, as mais puramente descritivas, todas as que são verdadeiras pela mera existência do real no seu tipo de ser. O que inclui eu, claro. E todas essas, e depois classificadas sobre possíveis manifestações no real que embarcam depois outros temas, que é para poder ordenar os outros temas com base nessas ramificações ou não. Ou para depois ter a ramificação única, única a partir dos pressupostos ontológicos, já tenho vindo aqui a dizer não sei quantas, deve ter não sei quantos, sobre os tipos de relações que existem, no fundo, tipos de seres que existem, tipos de... se quiserem os tipos de objetos e coisas a relacionarem-se. Isto é uma visão total.
+
+## F0202
+
+as sociedades democraticas europeias - e tmb nos usa embora o pensamento base seja eu no real, ao contrrio das europeia - afetam os recursos tirados a seres conscientes reflexivos, com grande amplitude de justificaçoes internas para o fazer, ainda que se gaste mais do que se arrecada, ainda que a mao do estado chegue a todos os cantos de um sitio ondem vivem seres conscientes reflexivos e onde atualize , o faça sempre pior do que se fosse qualquer outro sistema que quisesse permancer e que teria sempre um alinhamento com o real, com que quem o constituisse vive o problema , as possibilidades e alogo a melhor solucao, visse portanto o ser, o poder ser e o dever ser. o aumento do de vida - as barreiras levantadas ao ser reflexivo, à sua liberdadena exploração do real por imposiçao do homem e nao por qq outra questao, travestidas de uma qq proposiçao valorativa de finalidade, que há tantas, porque tem de ser assim porque devia ser assim, - hum ta, devia ser assim se for e puder ser assim, mas claro que nao é isto que é custoso nadar contra a maré - e vive se assim com um estado que arrecada dinheiro e que preenche o espaço comum, eleito mediante critérios de onde mais gastar, para voltar a ser eleito, até que se comece a desviar o real e modificar tal sistema, adeuqando-o ao real, ainda que se calhar pior do que sem ele, porque na analise do mal do sitema anterior tmb reside a parca descriçao, e acaba se a nem perceber o antes de ser e o porque da mudança, ha somente o que se apreende e o que cre dever ser, numa expansao dos modos de ser à expressão do pulso da sociedade, no ritma das respostas adquadas para o circulo proximo do ser reflexivo mas erradas nas relaçoes extra eu, em que o outro nao tocavel tem de ser equacionado
+
+## F0203
+
+as consciencias tocam nas apreensoes estabilizadas internas, - no ato de fazer sentido , que é somente o ato de recber os inputs neurologicos que tornaram registados a informaçao captada e transmitida desde o sensor, que sabemos tao bem capaz de criar imagem, e creio que imagetica ha de ser tao identica a imagem, - e nas externas,  - aind que as externas filtradas pelo sensor, que se cre ser tao bom e tmb ninguem discute ja que a imagem que recebo ao olhar parecer ser de facto a imagem que é, daquela localidade e ponto de vista, - nao ha consciencia a tocar sem meio, ondas som telele, whatevi, sao so mais filtros irrelevantes, há no fim apenas um real - o outro - a filtrar um pensamento num meio inteligivel para que outro real, eu, passe a filtrar e a representar o que eu apreendi pela tua externalizaçao do teu pensamento. a ligaçao fisica é inegavel
+
+## F0204
+
+Um parágrafo desmonta tudo A boa relação vem do, ser necessariamente pela encorporacao do meme de bom pai, de ser logo bom marido, ser fora da  justificação do próprio ser e integrando na relação de onde ele está com o demais relacionado, em estrita com o ponto de vista na medida com a relação e ele na relação, onde há outro que não partilham da sua localidade ontológica e horizonte. Estar no campo de atualizações do seu contato outro ser, é aí que está o atualizavel no contato com o que com o eu que se relaciona. O que é ser um bom pai é o que é ser o que um bom pai é no contínuo da relação
+
+## F0205
+
+E por isso é ontologicamente verdadeiro que da apreensão, com a apreensão vem o valor, ou melhor, não há valor sem apreensão. O dever de ser, não aquilo que se diz ser o dever ser, mas o dever de ser vem do ser e é ao filósofo que cabe integrar isto com o poder ser. Isso é a verdadeira filosofia.
+
+## F0206
+
+Que é olhar para a pergunta do ser e responder. O que é isto de ser? Ah, ser… mas o quê? Ser o que é ser ontem? Risos. Quer dizer, ser o que está a ser, o que está a ser atualizado. Eu consigo olhar e, anto quanto vejo, não desmoronaste ainda numa sopa biológica qualquer, como uma poça no chão. Não, estás aí e estás a falar comigo.
+
+## F0207
+
+As liberdades, ou seja, as ações que podem ou não ser boas, são todas, mas as liberdades que o homem pode fazer ou não fazer são verdadeiras ou mais boas ou erradas se o que fizerem for destruir as atualizações e as relações de atualizações criadas com as suas próprias relações. Nós escrevemos muito bem isso na lei. Por isso que a lei existe. Nós escrevemos muito bem o que é que acontece quando existe uma compra e venda. Ah, eu quero algo, dou-te algo em troca. O que acontece com o empréstimo, o que acontece com qualquer coisa. O que acontece com qualquer relação humana, que são cada vez e cada vez mais tipificadas, vez e tipificadas por...
+
+## F0208
+
+É a quebra da relação criada, do sinalagma que existe quando a atualização do meu ser se relaciona com a atualização de outro ser igual a mim, de estatuto idêntico, um ser consciente reflexivo. É da preservação da verdadeira relação que ele existiu, portanto, a relação que ele existiu, só pode ser a verdadeira, se há de dizer se houve uma quebra, se houve um bridge, o que houve foi nós chamam-se expectativas que são expectativas legítimas de algo acontecer, de uma promessa, de algo da relação, mas são expectativas, não, são somente possibilidades criadas no campo do poder ser que a própria relação permitiu, porque a produção de um, vamos inventar variáveis e efeitos de um contrato, existem porque houve uma atualização qualquer de seres conscientes reflexivos a pôr isso fisicamente numa caneta e num papel, a dizer isto de facto aconteceu. E isto tem essas ramificações, e isto é atualizável.
+
+## F0209
+
+O símbolo é uma cristalização de apreensões de relações já passadas, cristalizar pressupõe manutenção da regularidade, eu não sou o que não era há um segundo atrás.~
+
+## F0210
+
+Qq coisa começa a mentir se puder bem descrever o real e não o fizer, se estiver ao simples alcance de um pensamento, de um recolocação do enquadramento de que o real existe e eu existo no real, e não o fizer, mente. A relação com o real é com o que o real permite que seja, ele permite a mentira até às demais atualizações comuns que se arualizam com os outros seres  conscientes reflexivos, se misturarem com as atualizações das mentiras e o real ganhar, simples
+
+## F0211
+
+QQ coisa, o critério é com o real, o ser consciente reflexivo é um objeto do real se assim se quiser dizer, nós vemos as árvores e os animais e de tão diferentes que são conhecemos lhes regularidades de ser, que seria um animal que nos quisesse comer com enormes mandíbulas e ao mesmo tempo levar nos ao cinema, como se reconhece aos humanos, senão adeus psicanálise psicologia psiquiatria, as regularidades do homem são tanto que permitem que eu ainda posso dizer que há pessoas assim e assim e assado e cozido, nem o assado é oco de típico nem o cozido não tem sentido, tem  água que lhe coze o temperamento. A adequação ao real é o que sobra da análise global, de cima, á relação do eu no real. Vista por quem, que sorte, por quem pode de facto bem saber andar no mundo que é, que melhor se corresponder ao que criamos nas nossas cabeças, seguido pelo próprio movimento do contínuo do ser 
+
+## F0212
+
+o determinismo existe na relação que se manifestou l- os eletrodos existiriam no seu estado natural de energia não atualizada por relação com outra coisa que não fosse o seu pocket de energia local, num campo enquadrado pelo núcleo,quando são abrangidos por uma relação externa á sua localidade, que existe no campo do real onde ambas se encontram, há atualização, claro, há colapso da onda, mas como seria possível não ser assim se se pretende apreender o real, a relação entre a apreensão e o electrão é de aproximação de campo, de deteção básica, como se os atomos, se as flutuações com padrões regulares confinadas numa localidade, fossem ubs organismos primários do início da evolução do homem
+
+## F0213
+
+O relativismo, o não considerar o real, destrói o símbolo, introduz mais além do que é suposto o símbolo conter, daí a confusão, o erro, pq todo discurso se torna sobre o que se acha que o símbolo é porque até o símbolo está sujeito a interpretação, como qualquer contemporaneanismo subjetivo e como qualquer clássico discurso sem real. O modo de apreensão e de discurso contém símbolos abertos a discussão, relega se a estrutura, a imitação para a matemática, e coloca se a potencialidade, pex., em símbolo de ilimitado pq tudo pode ser , sei lá se há fantasmas - não filósofo -, ou tudo pode ser consciência,  - pretenso filósofo, - o erro é transversal - faz se da filosofia a tristeza que hoje é,.  no confronto com o tipo de apreensão e discurso os símbolos encontram os seus limites, sem limites sem conteúdo, sem palavra sequer, gugu da da água, e quero dizer fogo, vou me afogar
+
+## F0214
+
+1 mas eu apreendo mal, a minha mãe que vive nas atualizações dos eus que lhe ocupam o local há de, ainda que não analiticamente, apreendo até melhor, não quero justificação teórica para fazer o que for que mantenha os meus filhos vivos, todos os outros filhos morrem se assim o fosse. O grau de adequação é verdadeiro. Não se exige ao homem o que se exige ao filósofo, o ato filosófico é encarnado pelo filósofo no contínuo de ser um filósofo. Ver mais além é para quem quer viver como vive mas mais além, não impede de se viver já como se vive, se I mais é permitido o que já existe não é contrariado, é melhor dizer mentira sobre equações do que sobre o ser como o pai analfabeto que melhor pai se foi no que eu acho que é ser bom pai, o enquadramento do conteúdo do símbolo é meu pela minha localidade e sem QQ esforço mental ou energético posso simplesmente querer não degradar a relação em que estou inserido, pai filho, irmão indivíduo, whatevs. Já nem sei a que estava a objetar. 2 nem percebi mentir é mal descrever propositadamente com intuito de negar, acho que será assim ou algo parecido, diferente de erro, de mal, as relações humanas são multidisciplinares tens de ter mais imaginação 3 não percebi 4 acho que sim é mesmo só falta de conhecimento teu, pensava que tinhas aqui nesta conversa os ficheiros todo do real, consciência ética etc etc, nem vou escrever mais
+
+## F0215
+
+Os sistemas políticos democráticos refletem os tipos de ser que mais expressam, pelo menos no que diz respeito à legenda de voto, mas os que mais expressam, pelo menos expressam a atualização disso por um papel. Mas o que é o mesmo dizer, é composto pelo agregado assim mais parecido do volume do tipo de ser que mais propaga e preenche o que está incluído no discurso e na ação.
+
+## F0216
+
+O que é que é a filosofia? É o amor de conhecer? É o amor de saber? É o... conhecer o quê? É eu próprio, se é real? Se é que para nalgum nível de descrição do real, por alguma razão, ah, é só conhecer até depois esquecer o real. É só até aqui. Mas filosofia é suposto responder mesmo a que pergunta? Como é que pode haver crítica a então aquilo que é ser filósofo, sendo somente o tentar melhor conhecer, logo melhor descrever, para todos também perceberem, quais são os conjuntos de perguntas, focos relacionados com o objeto que se está a estudar.
+
+## F0217
+
+E, tendo isto nisto a reconhecer isto, na perspectiva local e de horizonte de cada ser consciente reflexivo, até vai ser muito fronte e vê-se, é um evento, muito fronte com o real diz: «o que é isto?» «What is this?» «O que?» «What?» Primeiro, a primeira representação daquilo pela própria representação antes de se ir para isto diz, para o real, passa-se pela pergunta, a pergunta necessária que o filtro da própria apreensão passa pelo valor indutivo dela. Isso vê-se pelo modo como o homem funciona.
+
+## F0218
+
+a análise aos filósofos tem de ser feita de modo analítico, tem que ser Não é o que é que ele dizia nas suas próprias palavras, é o que é que ele dizia relativamente a estas perguntas. O que é, o que é ser, o que é dever ser? O que é que ele pensava sobre isto? Qual era o modo de enquadramento que ele lhe dava na sua própria focalidade que se enquadrasse, porque tudo enquadra, tudo se enquadra, na ontologia, no suporte de tudo, no suporte literalmente de tudo, até do pensamento, do toque da ação, da permanência, da agregação.
+
+## F0219
+
+Eu não sou o mesmo que sou em qualquer situação e o que sou quando estou com os meus pais e com os meus irmãos. Claro que não. Porque eu vou ser o contínuo do modo de ser que era ao crescer com eles. Eu vou encarnar o ser na relação que é ser eu, filho e irmão, do pai e dos irmãos, contudo o que a relação de filho, pai, irmão e irmão revelou ao longo do tempo em que essa relação perdurou. Isso é que se diz que as pessoas voltam sempre aos mesmos círculos viciosos quando estão juntos, isso é que se diz que muitas vezes felizes quando não estão juntos. Porquê? Porque o ser com o contínuo do tempo passaram a ser, foi um ser que não foi acompanhado pelos outros eus da família que acompanharam na relação das relações primárias.
+
+## F0220
+
+Estava a ouvir um debate moderado pelo Brian Cox e lá com os típicos comunicacionais, comunicadores, aparentemente daquele que é o ponto, que é o ponto mais elevado da discussão científica e filosófica sobre a consciência, lá os neurocientistas todos, os psicólogos e aquele pessoal que estuda nas universidades todas, e é tão insípido, é tão... eu já ouvi aquele discurso 50 vezes, 50 vezes em qualquer programa sobre consciência. Então, então, tão básico. Ah, aqui estão estas funções, aqui estão estas funcionalidades da consciência, nós temos memória, nós conseguimos ouvir vozes, nós temos experiências, nós... Ah, mas isto são só correlações, isto não nos diz o que é que a consciência é. Ah, ah, ah, pois, mas a ciência também só nos consegue descrever, descrever a física, a questão das redes neuronais, não nos diz o que é que é ser consciente, não nos diz o que é que é ser uma experiência. Ok, ok? Fixe? Fixe. Então, tens experiência sem visão, sem audição, sem olfactos, sem sentidos? Tens experiência sem input? Tens experiência sem cérebro, sem órgão decisório? Tens experiência sem aquele delay de um segundo entre o input e a tomada de posição pelo cérebro, entre aquilo que se experiencia em concreto. Tens experiência? Tens experiência? Tens experiência? Joga o jogo entao sem pores o disco na Playstation.
+
+## F0221
+
+Ai, que sabe uma maçã? Qual o sabor de uma maçã? Um sabor que só eu sinto. Amigo, há de saber aquilo que quebrar aquela maçã a ser comida pela tua boca, com as tuas papilas gustativas. O que é que se pretende aqui? Pretende-se que a tua experiência de comer uma maçã seja dita ao mesmo tempo por mim? É suposto o que isso quer dizer? A tua apreensão da realidade que é local? O problema é que, como ela é local, ela é local. Qual é a lógica nisto tudo? A localidade faz parte da própria apreensão. Não há apreensão, não há contacto com o ser, não há quebra do conteúdo do ser através do contacto, sem ser com a localidade da própria apreensão. O sabor que a maçã tem, só o tem porque há uma localidade a quebrar o conteúdo do ser. Nunca poderia ser algo partilhado por mim.
+
+## F0222
+
+Não, o real é partilhado. A apreensão do real é que nunca pode ser partilhada, porque a apreensão é sempre local. A apreensão, no contínuo do ser, a apreensão é que é quebra no contínuo do ser. Por própria definição, por própria estrutura de baixo para cima do Ontos.
+
+## F0223
+
+a consciência há de ser uma relação, claro, claro, mas há de ser algo como a apreensão que é aware, não sei como é que se diz aware em português, consciente reflexivo, mas isso está um bocado parvo, porque os ingleses têm uma diferença entre consciência e awareness. Mas pronto, mas há de ser a consciência, e a consciência há de ser a apreensão de que aquilo que apreende está aware que está a aprender. é o reflexivo. a linguagem é como qualquer mediacao, um limite a apreensao do real, e a consciencia mostra, sou consciente e estou consciente, claro que reduzo consciencia ao ato reflexivo, claro que sou ser no ser e nao ser no real.
+
+## F0224
+
+Os animais não têm consciência? Claro que têm. Claro que têm consciência. Há não sei quantos testes sobre isso. Como é que não têm consciência reflexiva, deliberativa? Talvez tenham um princípio de uma consciência reflexiva, uma apreensão deles próprios. Não têm uma deliberação sobre essa apreensão que eles têm sobre eles próprios, dependendo do animal, talvez dos corvos. Talvez os corvos tenham um princípio de uma reflexão sobre eles próprios, transmutada num funcionalismo deliberativo? Talvez. Mas, independentemente disso, dizer que os animais não têm consciência é o mesmo que dizer que os animais não são um ponto local de apreensão, o que é absurdo. E fazer da consciência algo místico ou divino, então também temos de fazer isso para todos os animais. Temos de fazer isso para tudo aquilo que tem uma apreensão local. Por definição, é tudo aquilo que tem apreensão, que só pode ser local.
+
+## F0225
+
+Não há zombies filosóficos, há altivistas que por terem tipos de pensamento vêm nos outros pensamentos menos altivos, tão altivos que vivem no ar, senão como se domaria o anseio de andar com deus, onde os altivos crêem andar. Há somente pensamentos que se têm por se terem tido, o modo de ser inclui o modo de pensar e se o que me defronta diariamente é o ser material físico certo qual a lógica de inserir um pensamento teórico na cadeia ? Sou zombie por seguir o caminho onde ando? Sou mais snobe por achar que duvidar do caminho a todo o instante é que faz de mim aware
+
+## F0226
+
+É só porque é ao filósofo que cabe fazer a ponte e fazer a ponte obriga a percorrer o caminho entre o ser, o poder ser e o dever ser. É nesta, é aqui que reside, porque isto não é racionalidade, isto não é inteligência, é somente um tipo de ser dentro dos seres conscientes reflexivos. Porque todos os seres conscientes reflexivos têm as valências mais ou menos ampliadas, mais ou menos recorrentes nos modos de ser que encarnam, isso é óbvio. Mas o filósofo não é quem nasce de um modo de ser diferente, é quem é, é o ser consciente reflexivo que, sendo-o, não pode propor qualquer coisa que seja, e por isso não pode ser qualquer coisa que não seja, não é? Que seja também, não pode propor qualquer coisa que seja que seja contrária àquilo que o real permite que seja.
+
+## F0227
+
+Porque isto tem tudo que ver com o que é a verdade. A verdade é a melhor descrição. Ponto final. Com o bem, é igual. É a mesma coisa. E para lá chegar, para se chegar a qualquer proposição verdadeira, tem de se ser um filósofo. Porque não há proposições verdadeiras que não respeitem aquilo que é, ou seja, que não descrevam a realidade como a realidade é. Tudo o resto são as derivações normais de ser um animal consciente reflexivo. Porque todos os modos de ser, todos os pensamentos, todas as existências são especializações das rotinas, são permanências do contínuo do que se é. Mas isto não é aquilo que o filósofo é.
+
+## F0228
+
+o que eu queria dizer era que o modo de ser que eu chamo esquerda e direita, o modo de ser que eu chamo eu no real, eu no real, é somente, no fundo, o que isto diz é o modo de ser de direita, o modo de ser no real, eu digo direita somente para imaginar uma bifurcação entre um lado e o outro, é entre quem é e quem não é filósofo.
+
+## F0229
+
+As sociedades, o que se fala sobre as sociedades pq eu não vejo sociedades com os meus olhos e são só o agregar de discurso de pessoas de tipo eu, se ampliadas então como o que se diz é o que se pensa e o que se é, e se se diz o que há um segundo, há um Dia, há um mês, ano, não se vai não dizer o mesmo no continuar da relação da vida, e o que se diz e se pensa é o que constitui o sistema default, pode na corresponder com a base mas os que comunicam e nos recebemos essas comunicações tornam se eles os agentes comunicaxionais, no sistema que tem de se continuar a montar no contínuo, não haveria sequer ser sem o contínuo, vivem na coerência do ser, que faz muito bem á saúde, com os seus discursos agora amplificados somente demonstrado a temperatura do tipo de ser, a não ser que haja um líder forte, mas ainda  assim se liberdade de imprensa, o ser consciente reflexivo vai ter o seu modo de ser ampliado. O eu produz os sistemas mais racionais possíveis para o homem, falha, ganha o que deixa o ser consciente reflexivo, fora das relações locais deixa a sua racionalidade de lado e perguntar o que é isto, o que pode ser isto, o que deve ser isso, agir como o filósofo age, impossível, não faz bem ao ser, só para malucos 
+
+## F0230
+
 Sim, campo de potencialidades que não me pertencem. Essa é uma boa maneira de o pôr. Encapsula bem o que isto é, não é? Encapsula até o único modo que poderia ser de um ser consciente reflexivo existir que não fosse n algo, e o n algo é o quê? É mesmo isso, é mesmo isso.
 
