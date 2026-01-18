@@ -1,18 +1,33 @@
-from collections import Counter
+import json
+from pathlib import Path
+import re
 
-def contar_chars(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return Counter(f.read())
+def contar_palavras(texto):
+    return len(re.findall(r"\b\w+\b", texto))
 
-a = contar_chars("fragmentos_ordenados_por_indice.md")
-b = contar_chars("fragmentos_ordenados.md")
+# caminhos
+original_path = r"..\00_bruto\fragmentos.md"
+extraido_path = r"..\01_extraido\fragmentos_extraidos.json"
 
-diff1 = a - b
-diff2 = b - a
+# ler ficheiro original
+texto_original = Path(original_path).read_text(encoding="utf-8")
+palavras_original = contar_palavras(texto_original)
 
-if not diff1 and not diff2:
-    print("OK — nenhum carácter perdido ou criado.")
+# ler ficheiro extraído
+with open(extraido_path, "r", encoding="utf-8") as f:
+    fragmentos = json.load(f)
+
+texto_reconstruido = ""
+for frag in fragmentos.values():
+    texto_reconstruido += frag["header"] + "\n\n" + frag["text"] + "\n\n"
+
+palavras_extraido = contar_palavras(texto_reconstruido)
+
+print("Palavras no original :", palavras_original)
+print("Palavras no extraído :", palavras_extraido)
+
+if palavras_original == palavras_extraido:
+    print("✔ VERIFICAÇÃO OK — nenhuma palavra perdida")
 else:
-    print("ERRO — diferenças encontradas.")
-    print("Removidos:", diff1)
-    print("Adicionados:", diff2)
+    print("✘ ATENÇÃO — diferença detectada")
+    print("Diferença:", palavras_original - palavras_extraido)
