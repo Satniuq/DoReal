@@ -1,19 +1,30 @@
 REGRA INVIOLÁVEL — PROCEDIMENTO DE ANÁLISE DE FRAGMENTOS
 
 Este documento fixa o procedimento único, obrigatório e não-negociável
-para divisão, classificação e leitura filosófica de fragmentos.
+para a divisão, classificação e leitura filosófica de fragmentos.
 
-Nada fora disto é aceite no sistema.
+Nada fora deste procedimento é aceite no sistema.
 
-0. ÂMBITO DA ANÁLISE (INVIOLÁVEIS)
+0. ÂMBITO DA ANÁLISE (INVIOLÁVEL)
+0.1 Natureza da análise
 
 A análise é sempre a análise da relação do eu no real,
-isto é, do pensamento que eu, em sentido ontológico, tenho com o real.
+isto é, do pensamento enquanto relação entre:
+
+o ser,
+
+o eu,
+
+e o reflexo do eu no real,
+
+tal como essa relação se manifesta ontologicamente.
 
 A análise visa a descoberta da melhor descrição possível do real
 e do ser consciente reflexivo no real.
 
-O objeto primário de análise não é o fragmento,
+0.2 Objeto primário da análise
+
+O objeto primário da análise não é o fragmento textual,
 mas a operação ontológica realizada no pensamento,
 mesmo quando o fragmento é multi-temático.
 
@@ -25,15 +36,28 @@ um registo do acontecimento do pensamento,
 
 nunca a unidade ontológica fundamental.
 
-0.1 — CLASSIFICAÇÃO (REGRA ESTRUTURAL)
+0.3 Definição de proposição ontológica
 
-A secção “Classificação” é sempre lida como:
+Proposição ontológica é toda a proposição que:
+
+afirma ou nega algo acerca
+da estrutura, dos limites ou das relações do real;
+
+vale pela sua correspondência ontológica,
+e não pela sua função discursiva, retórica ou argumentativa.
+
+1. CLASSIFICAÇÃO (REGRA ESTRUTURAL)
+1.1 O que é classificado
+
+A secção Classificação é sempre lida como:
 
 lista explícita das operações ontológicas efetivamente realizadas
 no interior do fragmento
 
-A classificação NÃO incide sobre o fragmento enquanto bloco textual,
+A classificação não incide sobre o fragmento enquanto bloco textual,
 mas sobre operações ontológicas identificáveis no pensamento.
+
+1.2 Natureza das operações ontológicas
 
 Uma operação ontológica pode corresponder a:
 
@@ -41,11 +65,12 @@ uma proposição que faz sentido por si mesma, ou
 
 uma proposição que só faz sentido integrada no contexto do fragmento.
 
-Ambos os casos são legítimos:
+Ambos os casos são legítimos.
 
-o critério não é a autonomia sintáctica,
-
+O critério não é a autonomia sintáctica,
 mas a autonomia ontológica da operação.
+
+1.3 Regras negativas (invioláveis)
 
 Nunca se força:
 
@@ -56,7 +81,7 @@ nem uma operação por frase.
 Nunca se deixa um fragmento com apenas uma operação,
 se o próprio pensamento realizar mais do que uma.
 
-1. PRINCÍPIOS GERAIS (INVIOLÁVEIS)
+2. PRINCÍPIOS GERAIS (INVIOLÁVEIS)
 
 O texto entra e sai exatamente igual
 
@@ -74,85 +99,136 @@ A classificação não pode fazer perder informação
 
 Se uma etiqueta empobrece o fragmento, está errada
 
-2. FORMATO CANÓNICO (ÚNICO PERMITIDO)
+3. FORMATO CANÓNICO (ÚNICO PERMITIDO)
 
-Todo o fragmento deve ter exatamente esta forma, ainda que adaptada para json ou outralinguagem apropriada
-num só bloco, para facilidade de cópia pelo Autor.
+Todo o fragmento deve ter exatamente esta forma,
+podendo ser adaptado a JSON ou outra linguagem estruturada,
+sempre num único bloco, para facilitar a cópia pelo Autor.
 
 {
   "id": "FXXXX",
   "texto": "[TEXTO INTEGRAL DA PROPOSIÇÃO, SEM QUALQUER ALTERAÇÃO]",
+
+  "proposicoes_ontologicas_no_fragmento": [
+    "[CITAÇÃO LITERAL da proposição ontológica 1 tal como aparece no fragmento]",
+    "[CITAÇÃO LITERAL da proposição ontológica 2 tal como aparece no fragmento]"
+  ],
+
   "classificacao": {
-    "camada_1": [
+    "camada_0_tema_de_incidencia": [
+      "[Tema principal]",
+      "[Tema secundário, se aplicável]"
+    ],
+    "camada_1_operacoes_ontologicas": [
       "[Operação ontológica 1]",
       "[Operação ontológica 2]",
       "[Operação ontológica 3]"
     ],
-    "camada_2_campo_ontologico": [
+    "camada_2_campos_ontologicos": [
       "[Campo ontológico 1]",
       "[Campo ontológico 2]"
     ],
     "camada_3_termos_filosoficos_de_contacto": [
-      "[Campo ontológico 1]",
-      "[Campo ontológico 2]"
+      "[Termo ou autor — apenas se houver contacto real]"
     ]
   },
+
   "resposta_filosofica_ponto_forte": {
     "porque_toca_o_real": "[Porque toca o real]",
     "erro_estrutural_evitado": "[Que erro estrutural evita]",
-    "eixo_ser_poder_ser_dever_ser": "[Como se inscreve no eixo ser / poder-ser / dever-ser]",
-    "leitura_nos_termos_do_autor": "[Leitura feita exclusivamente nos termos do autor]"
+    "eixo_ser_poder_ser_dever_ser": "[Inscrição no eixo ser / poder-ser / dever-ser]",
+    "leitura_nos_termos_do_autor": "[Leitura exclusiva nos termos do autor]"
   },
+
   "extracao_ontologica": {
     "formulacoes_explicitas": [
-      "[Formulação explícita da operação 1]",
-      "[Formulação explícita da operação 2]",
-      "[Formulação explícita da operação 3]"
+      "[Formulação explícita da operação 1 — explicitação mínima]",
+      "[Formulação explícita da operação 2 — explicitação mínima]"
     ],
     "articulacao_opcional": "[Articulação entre operações, se necessária]"
-  },
+  }
+}
 
-  "termos_filosoficos_de_contacto": [
-    "[Termo / autor — apenas se houver contacto real]",
-    "[Nunca obrigatórios]"
-  ]
-},
+3.1 Regras da extração ontológica
 
-## 2.1 regras
+A extração ontológica:
 
-regras_da_extracao:
-    "Não introduz novos conceitos",
-    "Não adiciona conteúdo externo",
-    "Não corrige o autor",
-    "Não simplifica",
-    "Não normaliza o discurso",
-    "Apenas torna explícito o que já está implicitamente operante no texto"
+não introduz novos conceitos
+
+não adiciona conteúdo externo
+
+não corrige o autor
+
+não simplifica
+
+não normaliza o discurso
+
+apenas torna explícito o que já está implicitamente operante no texto
 
 
-3. LISTA DE CLASSIFICAÇÃO
+3. LISTA DE CLASSIFICAÇÃO — VERSÃO CONSOLIDADA
 
-(Pode ser mexida se tiver de ser — quando mexida, avisar sempre o Autor)
+CAMADA 0 - TEMA DE INCIDÊNCIA (NÃO-OTOLÓGICA)
 
-Lista de Classificação — Operações Ontológicas do Pensamento
+Ontologia fundamental
+Epistemologia
+Consciência
+Antropologia
+Ética
+Política
+Direito
+Cultura
+Religião
+Educação
+Linguagem
+Ciência
+Técnica
+Economia
+História
+
 CAMADA 1 — OPERAÇÕES ONTOLÓGICAS DO PENSAMENTO
 
 (Etiqueta principal — obrigatória)
 
+A. Fundação ontológica
+
 Núcleo ontológico
+
+Afirmação ontológica primária
 
 Proposição ontológica básica
 
 Pressuposto ontológico implícito
 
+Identificação de condição ontológica
+
+Fixação de limite ontológico
+
+Exclusão ontológica
+
+Rejeição de exterioridade ontológica
+
+B. Clarificação e limpeza
+
 Clarificação
 
 Limpeza conceptual
 
+Desambiguação conceptual
+
 Distinção ontológica
+
+Dissolução de dicotomia falsa
 
 Correção de falso problema
 
-Desambiguação conceptual
+Redução de entidade ilegítima
+
+Redução de mistificação
+
+Dessubstancialização
+
+C. Descrição do real
 
 Descrição
 
@@ -164,21 +240,47 @@ Descrição de continuidade / atualização
 
 Descrição de regularidade
 
+Continuidade funcional
+
+Naturalização ontológica
+
+Ancoragem corporal
+
+D. Relação e estrutura
+
 Relação
 
 Relação estrutural
+
+Recondução relacional
 
 Integração local
 
 Ramificação ontológica
 
-Exemplificação
+Reinscrição estrutural
 
-Exemplificação
+Reinscrição do eu no real
 
-Exemplo ontologicamente relevante
+Reinscrição da consciência na relação
 
-Crítica
+E. Escala e campo
+
+Deslocamento de escala ontológica
+
+Diferenciação entre níveis de operação
+
+Deslocamento do ponto de vista
+
+Ampliação reflexiva do campo ontológico
+
+Identificação de mediação necessária
+
+Distinção apreensão / pensamento
+
+Limitação da reflexividade
+
+F. Crítica e erro
 
 Crítica
 
@@ -186,105 +288,115 @@ Crítica a discurso existente
 
 Identificação de erro categorial
 
-Meta
+Identificação do erro como falha de descrição
 
-Meta-metodologia
+Fixação do erro como erro categorial
 
-Abertura
+Dissolução da coerência interna como critério
 
-Abertura ontológica legítima
+Exclusão de critérios não-reais
 
-Operações transversais
+G. Verdade e critério
 
-Deslocamento de escala ontológica
+Identificação da verdade como critério ontológico
 
-Reinscrição do eu no real
+Recondução da verdade à descrição
 
-CAMADA 2 — CAMPO ONTOLÓGICO
+Fixação do critério exterior ao eu
 
-(Secundária, opcional, não redutora — lista fechada)
+Diferenciação entre verdade local e verdade do real
 
-Estrutura do real
+Limitação estrutural do conhecimento
 
-Real enquanto totalidade
+Validação ontológica da ciência
 
-Fundamento ontológico
+H. Ética, valor e ação
 
-Campo do ser
+Derivação do valor a partir do ser
 
-Campo do poder-ser
+Recondução da ética à ontologia
 
-Campo do dever-ser
+Identificação do bem como adequação ao real
 
-Continuidade do real
+Recondução do mal à inadequação
 
-Limites ontológicos
+Subordinação do dever-ser ao poder-ser
 
-Impossibilidade ontológica
+Recondução da ação ética à relação
 
-Relação e campo
+I. Antropologia ontológica
 
-Relação como entidade real
+Identificação do humano como animal real
 
-Campo relacional
+Recondução da consciência ao corpo
 
-Escala ontológica
+Inscrição biológica dos modos de ser
 
-Círculos de relação
+Identificação da emoção como primazia adaptativa
 
-Continuidade relacional
+Recondução da liberdade ao campo de possibilidades reais
 
-Ruptura relacional
+Identificação de dois modos fundamentais de ser
 
-Atualização e temporalidade
+J. Sistemas, cultura e transmissão
+
+Identificação da substituição do real por sistemas
+
+Identificação da transmissibilidade como condição ontológica
+
+Recondução da cultura à continuidade simbólica
+
+Identificação da crítica como apreensão relacional
+
+Recondução da filosofia à ontologia aplicada
+
+CAMADA 2 — CAMPOS ONTOLÓGICOS
+
+(Lista fechada, consolidada)
+
+A. Estrutura do real
+
+Ser
+
+Não-ser
+
+Continuidade
+
+Potencialidade
 
 Atualização
 
-Atualidade
+Impossibilidade ontológica
 
-Irreversibilidade
+Limites ontológicos
 
-Regularidade
+B. Consciência e relação
 
-Emergência
-
-Temporalidade do ser
-
-Consciência e apreensão
-
-Consciência como fenómeno natural
+Consciência reflexiva
 
 Apreensão
 
-Presença
+Representação
 
 Mediação
 
 Ponto de vista
 
-Quadro de apreensão
+Relação eu–real
 
-Representação, linguagem e símbolo
+Continuidade da consciência
 
-Representação
-
-Linguagem como sistema físico
-
-Símbolo
-
-Proposição
-
-Validade
-
-Critério
-
-Verdade e conhecimento
+C. Verdade e conhecimento
 
 Verdade como descrição
 
-Conhecimento como adequação
+Adequação
 
-Erro como falha descritiva
+Critério
+
+Validade
+
+Conhecimento
 
 Limites do conhecimento
 
@@ -292,43 +404,63 @@ Erro ontológico
 
 Erro categorial
 
-Substituição do real
-
-Interioridade ilusória
-
-Processo como erro
-
-Ideologia
-
-Ética e ação
+D. Ética e ação
 
 Ética derivada do ser
 
-Adequação prática
+Bem
 
-Campo de potencialidades
+Mal (como desadequação)
+
+Dever-ser
+
+Poder-ser
 
 Liberdade situada
 
 Responsabilidade ontológica
 
-Antropologia filosófica
+E. Antropologia
 
-Modos de ser humanos
-
-Continuidade da consciência
+Ser humano
 
 Corpo e biologia
+
+Emoção
+
+Imaginação
+
+Memória
+
+Modo de ser
+
+Padrão
+
+F. Escala e sistemas
+
+Escala ontológica
+
+Círculos ontológicos
+
+Sistema
+
+Sistema simbólico
+
+Comunicação
+
+Estabilização sistémica
+
+Degeneração
+
+G. Cultura, política e direito
+
+Cultura
 
 Transmissão do real
 
 Educação ontológica
 
-Política, direito e escala
-
-Modos de ser políticos
-
-Estado
+Política
 
 Direito como descrição
 
@@ -336,47 +468,35 @@ Justiça
 
 Erro de escala
 
-Técnica, sistemas e futuro
-
-Sistemas
-
-Técnica
-
-Mediação técnica
-
-Instrumentos
-
-Futuro e amplificação
-
 CAMADA 3 — TERMOS FILOSÓFICOS DE CONTACTO
 
-(Instrumental, não obrigatória, uso forte)
+(Instrumental, depurada)
 
-Ontologia
+A. Ontologia
 
-Parménides — exclusão do nada
+Parménides — exclusão do nada (acerto estrutural)
 
 Aristóteles — ato / potência (uso crítico)
 
-Espinosa — imanência sem exterior
+Aristóteles — teleologia (recusa)
 
-Heidegger — ser, presença, esquecimento
+Espinosa — imanência (contacto estrutural)
+
+Heidegger — ser e presença (uso crítico)
 
 Whitehead — processo (uso crítico)
 
-Epistemologia e linguagem
+B. Epistemologia e linguagem
 
-Kant - acerto e critica
+Kant — mediação da apreensão (uso crítico)
 
-Wittgenstein - acerto e critica
+Wittgenstein — jogos de linguagem (crítico)
 
-Frege — proposição - acerto e critica
+Frege — proposição (instrumental)
 
-Quine — - acerto e critica
+Tarski — verdade formal (limite)
 
-Tarski — - acerto e critica
-
-Consciência
+C. Consciência
 
 Merleau-Ponty — corpo e perceção
 
@@ -384,31 +504,35 @@ Gibson — perceção direta
 
 Dennett — crítica aos qualia
 
-Chalmers
+Chalmers — problema difícil (erro de mistificação)
 
-Ética e política
+D. Ética e política
 
 Aristóteles — ética como adequação
 
-Kant — dever-ser desligado do ser (crítico)
+Kant — dever-ser desligado do ser (erro)
 
-Marx — abstração e escala (estrutural)
+Marx — abstração e escala (contacto estrutural)
 
 Arendt — ação e responsabilidade
 
-Crítica contemporânea
+E. Tipos de erro filosófico
 
-Estruturalismo
+Dualismo — erro de exterioridade
 
-Pós-modernismo
+Panpsiquismo — erro categorial
 
-Utilitarismo
+Relativismo — erro adaptativo
 
-Emotivismo
+Cientificismo — erro de critério
+
+Formalismo lógico — erro de validação
+
+Emotivismo — erro de estatuto
 
 4. REGRAS DE USO (FECHO DO SISTEMA)
 
-Todo o fragmento tem 2 a 4 operações ontológicas (Camada 1)
+Todo o fragmento pode ter 1 a 4 operações ontológicas (Camada 1)
 
 Essas operações:
 

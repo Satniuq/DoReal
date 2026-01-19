@@ -1955,3 +1955,23 @@ As sociedades, o que se fala sobre as sociedades pq eu não vejo sociedades com 
 
 Sim, campo de potencialidades que não me pertencem. Essa é uma boa maneira de o pôr. Encapsula bem o que isto é, não é? Encapsula até o único modo que poderia ser de um ser consciente reflexivo existir que não fosse n algo, e o n algo é o quê? É mesmo isso, é mesmo isso.
 
+## F0231
+
+A luz não viaja pq é o próprio percorrer do espaço tempo?
+
+A luz interfere com as demais atualizações, ou as atualizações interferem se através dos fotões?
+
+O campo fraco é a não necessidade do campo de suporte do evento logo na acomodação às novas interações de outros campos?
+
+É a descrição então das relações observadas nos campos locais são interferidos? E o forte a descrição da manutenção do campo?
+
+Antes de QQ coisa o tempo nasce do forte pq a manutenção pressupõe contínuo das relações internas que permitem a atualização?
+
+O campo fraco é  a manifestação de haver relações no real, o contínuo existe tmb no forte, mas o fraco, direciona o contínuo 
+
+O forte mantém o ser pq é real e o ser se é é real, o fraco é o poder ser. O dever ser será outra coisa onde tens de incluir o campo reflexivo 
+
+
+## F0232
+Aí é que te  enganas. O dever ser nasce do ser e do poder ser, necessariamente, e sem grandes longas simplesmente pelo facto do dever ser necessitar de consciência reflexiva com por definição campo de liberdade e , se for contra ambos, será revelado por quem tem relações de dever ser como, antes de QQ coisa, desajustado, e desajustado em relação ao quê? Ser e poder ser, ambos em luta com a má representação da apreensão do ser no real
+
