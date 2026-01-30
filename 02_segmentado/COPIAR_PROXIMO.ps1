@@ -1,0 +1,1 @@
+python "C:\Users\vanes\DoReal_Casa_Local\DoReal\02_segmentado\copiar_fragmentos.py"

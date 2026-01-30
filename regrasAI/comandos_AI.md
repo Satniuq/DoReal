@@ -81,6 +81,14 @@ nem uma operação por frase.
 Nunca se deixa um fragmento com apenas uma operação,
 se o próprio pensamento realizar mais do que uma.
 
+Várias proposições do mesmo fragmento podem:
+
+cair no mesmo tema,
+
+ter graus diferentes de integração,
+
+ligar-se a proposições de outros textos.
+
 2. PRINCÍPIOS GERAIS (INVIOLÁVEIS)
 
 O texto entra e sai exatamente igual
@@ -91,11 +99,11 @@ Nunca se resumem frases
 
 Nunca se usam “(…)”
 
-Nunca se reescreve semanticamente o fragmento
+Nunca se reescreve semanticamente o fragmento ou a proposição
 
 A análise serve o real, não o texto
 
-A classificação não pode fazer perder informação
+A classificação não pode fazer perder informação, com a proposição ontológica vem o resto do contexto que lhe pertence no fragmento
 
 Se uma etiqueta empobrece o fragmento, está errada
 
@@ -106,48 +114,35 @@ podendo ser adaptado a JSON ou outra linguagem estruturada,
 sempre num único bloco, para facilitar a cópia pelo Autor.
 
 {
-  "id": "FXXXX",
-  "texto": "[TEXTO INTEGRAL DA PROPOSIÇÃO, SEM QUALQUER ALTERAÇÃO]",
-
-  "proposicoes_ontologicas_no_fragmento": [
-    "[CITAÇÃO LITERAL da proposição ontológica 1 tal como aparece no fragmento]",
-    "[CITAÇÃO LITERAL da proposição ontológica 2 tal como aparece no fragmento]"
-  ],
+  "id_proposicao": "P0001",
+  "id_fragmento_origem": "F0001",
+  "texto_literal": "[CITAÇÃO LITERAL DA PROPOSIÇÃO]",
 
   "classificacao": {
     "camada_0_tema_de_incidencia": [
-      "[Tema principal]",
-      "[Tema secundário, se aplicável]"
+      "[Tema]"
     ],
-    "camada_1_operacoes_ontologicas": [
-      "[Operação ontológica 1]",
-      "[Operação ontológica 2]",
-      "[Operação ontológica 3]"
+    "camada_1_operacao_ontologica": [
+      "[Uma única operação principal]"
     ],
     "camada_2_campos_ontologicos": [
-      "[Campo ontológico 1]",
-      "[Campo ontológico 2]"
+      "[Campos relevantes]"
     ],
-    "camada_3_termos_filosoficos_de_contacto": [
-      "[Termo ou autor — apenas se houver contacto real]"
-    ]
+    "camada_3_termos_filosoficos_de_contacto": []
   },
 
-  "resposta_filosofica_ponto_forte": {
-    "porque_toca_o_real": "[Porque toca o real]",
-    "erro_estrutural_evitado": "[Que erro estrutural evita]",
-    "eixo_ser_poder_ser_dever_ser": "[Inscrição no eixo ser / poder-ser / dever-ser]",
-    "leitura_nos_termos_do_autor": "[Leitura exclusiva nos termos do autor]"
+  "grau_de_integracao_ontologica": {
+    "nivel": 2,
+    "descricao": "[Descrição curta e factual]"
   },
 
   "extracao_ontologica": {
-    "formulacoes_explicitas": [
-      "[Formulação explícita da operação 1 — explicitação mínima]",
-      "[Formulação explícita da operação 2 — explicitação mínima]"
-    ],
-    "articulacao_opcional": "[Articulação entre operações, se necessária]"
+    "explicitação_minima": "[Tornar explícito o que a proposição já faz]",
+    "dependencia_contextual": "[Se depende do fragmento, indicar como]"
   }
 }
+
+
 
 3.1 Regras da extração ontológica
 
@@ -165,10 +160,96 @@ não normaliza o discurso
 
 apenas torna explícito o que já está implicitamente operante no texto
 
+REGRA — USO DA CAMADA 0 (TEMA DE INCIDÊNCIA)
+
+A Camada 0 identifica exclusivamente o domínio humano-discursivo de incidência da proposição.
+
+Não identifica:
+
+critérios de verdade
+
+estruturas ontológicas
+
+mecanismos reais
+
+categorias formais
+
+condições de validade
+
+Proibições explícitas (invioláveis)
+
+Nunca podem constar na Camada 0:
+
+Verdade
+
+Sistema / Sistemas
+
+Real / Realidade
+
+Ser
+
+Valor
+
+Erro
+
+Critério
+
+Objeto
+
+Relação
+
+Estas categorias pertencem sempre a:
+
+Camada 1 (operação ontológica do pensamento), ou
+
+Camada 2 (campo ontológico)
+
+Critério positivo de decisão
+
+Pergunta correta para atribuir Camada 0:
+
+“Este conteúdo incide primariamente sobre que domínio humano de prática, discurso ou vida?”
+
+Exemplos corretos:
+
+Incide sobre conhecimento → Epistemologia
+
+Incide sobre avaliação e ação → Ética
+
+Incide sobre modos de ser humanos → Antropologia
+
+Incide sobre discurso e mediação → Linguagem
+
+Incide sobre organização simbólica → Cultura
+
+Incide sobre poder e decisão coletiva → Política
+
+Se a resposta for:
+
+“verdade”,
+
+“real”,
+
+“sistema”,
+
+“critério”,
+
+então a Camada 0 está errada.
+
+Regra de segurança
+
+Se houver dúvida entre:
+
+um conceito estrutural e
+
+um domínio humano,
+
+o conceito estrutural nunca vai para a Camada 0.
+
 
 3. LISTA DE CLASSIFICAÇÃO — VERSÃO CONSOLIDADA
 
-CAMADA 0 - TEMA DE INCIDÊNCIA (NÃO-OTOLÓGICA)
+CAMADA 0 - TEMA DE INCIDÊNCIA (NÃO-OnTOLÓGICA)
 
 Ontologia fundamental
 Epistemologia
@@ -185,6 +266,7 @@ Ciência
 Técnica
 Economia
 História
+Filosofia
 
 CAMADA 1 — OPERAÇÕES ONTOLÓGICAS DO PENSAMENTO
 
@@ -529,6 +611,31 @@ Cientificismo — erro de critério
 Formalismo lógico — erro de validação
 
 Emotivismo — erro de estatuto
+
+3.1  "grau_de_integracao_ontologica"
+
+Os níveis são poucos (5 ou 6 no máximo):
+
+Nível 1 — Relação estrutural básica
+
+(atomo, forças, continuidade física)
+
+Nível 2 — Integração biológica
+
+(corpo, sentidos, ação animal, adaptação)
+
+Nível 3 — Integração reflexiva
+
+(consciência, erro, reconhecimento)
+
+Nível 4 — Integração simbólica
+
+(linguagem, imaginação, valor, ética)
+
+Nível 5 — Integração narrativa/histórica
+
+(cultura, ciência, instituições, religião)
+
 
 4. REGRAS DE USO (FECHO DO SISTEMA)
 
