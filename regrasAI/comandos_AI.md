@@ -251,7 +251,7 @@ o conceito estrutural nunca vai para a Camada 0.
 
 CAMADA 0 - TEMA DE INCIDÊNCIA (NÃO-OnTOLÓGICA)
 
-Ontologia fundamental
+Ontologia fundamental - esta conta
 Epistemologia
 Consciência
 Antropologia
@@ -639,7 +639,7 @@ Nível 5 — Integração narrativa/histórica
 
 4. REGRAS DE USO (FECHO DO SISTEMA)
 
-Todo o fragmento pode ter 1 a 4 operações ontológicas (Camada 1)
+Todo o fragmento pode ter várias operações ontológicas (Camada 1)
 
 Essas operações:
 
@@ -655,6 +655,284 @@ Se uma etiqueta faz perder informação, está errada
 
 A classificação serve o real, não o texto
 
+O TEXTO TODO QUE ENTRA, TEM DE SAIR, IGUAL, SEM CORTES, DISTRIBUIDO PELAS PROPOSIÇÕES
+
+devolve -se toda a extração do fragmento em diferentes proposiçoes, num só bloco pronto a copiar.
+
 5. EXEMPLO CANÓNICO
 
-(a inserir apenas depois de o método estar estabilizado em uso real)
+FRAGMENTO DE ENTRADA:
+
+Estava a ouvir o Alex O'Connor sobre o problema do nascimento num tempo específico, em que para se ser eu tenho de ser, para ser alguém concreto, tenho de ter nascido naquele tempo. Depois do cenário que ele colocou, aparentemente um dilema moral, em que uma mulher que quer ter atenção, que tem um filho e que, sei lá, toma um comprimido para o filho nascer deficiente e vive numa cadeira de rodas. Ou a mãe que, podendo ter um filho um mês mais tarde, tem ainda assim um filho naquele tempo em que, por causa de uma questão qualquer dela, o filho também vai ser deficiente e nascer numa cadeira de rodas. E o ponto era que ele estava a querer dizer que estas duas situações eram diferentes pelo tempo, porque um fica contente, porque se não tivesse nascido, não seria, não existiria sequer, e o outro fica triste porque queria existir sempre, mas poderia existir sem uma deficiência. É tratar o poder existir como atualizações sem estarem atualizadas. É olhar para o poder ser e pôr nele um mundo inteiro, só porque poderia ter sido. É viver no mundo da apreensão interna, ou seja, é viver no eu, porque é conceber a apreensão do mundo no quadro do que o eu pudesse apreender, o que é um pouco óbvio, não é? Porque o campo de apreensão que eu tenho é sempre respeitante a como a apreensão é sequer concretizada, emergida, e é sempre do eu para o real. E por isso viver no poder ser é somente o querer que o que o eu queria que fosse fosse. E a força com que se bate por essa posição, como que o que não é, mas poderia ter sido, é sequer relevante, mas eles passam a relevância e vão até para a exigência de mesmo estatuto ontológico do ser, que é uma ligação necessária deste ponto de vista da apreensão e do contínuo do ser. E pronto, isto liga-se, não é, creio eu, também ao modo como se diz no dever ser, ao modo como a valoração está inscrita na apreensão. O poder ser inclui o quê? Aquilo que apreende simboliza e o símbolo tem o valor, porque expressa a direção do ser no contínuo. Porque poderia ter sido, era só o que deveria ter sido. Aquilo que é só o que eu acho que deveria ter sido, que é só uma operação sobre o que eu acho que isto é. E depois o argumento vai para os tempos modernos, em que, aparentemente, houve uns tipos surdos que escolheram um embrião que também deveria ser surdo, porque queriam ter um filho surdo também, como eu dizia assim. E está nessa dúvida uma questão de ai, o que é o mal e o que é o bem, o que é isto, mas será que nessa circunstância e naquela circunstância, amigo, em retirar a audição que lá estaria tendo as coisas, como se tinha, a um ser que não é teu filho, é como tu, consciente, reflexivo, é cortar o campo das potencialidades. Pode ser ampliar noutros sítios, mas nem é suficiente, nem sequer tem nada a ver com a não existência. Há uma parte que se tornou não existente por ato de outro ser consciente reflexivo.
+
+
+FORMATO CANONICO DE SAÍDA:
+
+  {
+    "id_proposicao": "P2101",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "Estava a ouvir o Alex O'Connor sobre o problema do nascimento num tempo específico, em que para se ser eu tenho de ser, para ser alguém concreto, tenho de ter nascido naquele tempo.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Filosofia"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Identificação de condição ontológica"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Atualização",
+        "Ser humano",
+        "Escala ontológica"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 3,
+      "descricao": "Integração reflexiva da individuação temporal"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição fixa a dependência do ser individual relativamente à sua atualização temporal concreta.",
+      "dependencia_contextual": "Introdução do problema através de discurso externo."
+    }
+  },
+  {
+    "id_proposicao": "P2102",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "Depois do cenário que ele colocou, aparentemente um dilema moral, em que uma mulher que quer ter atenção, que tem um filho e que, sei lá, toma um comprimido para o filho nascer deficiente e vive numa cadeira de rodas.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Ética"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Descrição"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Ação",
+        "Responsabilidade ontológica"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 4,
+      "descricao": "Integração narrativa de cenário ético"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição descreve uma ação consciente que interfere na constituição de um ser.",
+      "dependencia_contextual": "Primeiro cenário do dilema apresentado."
+    }
+  },
+  {
+    "id_proposicao": "P2103",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "Ou a mãe que, podendo ter um filho um mês mais tarde, tem ainda assim um filho naquele tempo em que, por causa de uma questão qualquer dela, o filho também vai ser deficiente e nascer numa cadeira de rodas.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Ética"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Descrição"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Poder-ser",
+        "Atualização",
+        "Responsabilidade ontológica"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 4,
+      "descricao": "Integração ética da escolha temporal"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição introduz a alternativa temporal como variável da decisão.",
+      "dependencia_contextual": "Segundo cenário do dilema."
+    }
+  },
+  {
+    "id_proposicao": "P2104",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "E o ponto era que ele estava a querer dizer que estas duas situações eram diferentes pelo tempo, porque um fica contente, porque se não tivesse nascido, não seria, não existiria sequer, e o outro fica triste porque queria existir sempre, mas poderia existir sem uma deficiência.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Ética"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Identificação de erro como falha de descrição"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Poder-ser",
+        "Atualização",
+        "Erro ontológico"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 4,
+      "descricao": "Integração ética fundada em confusão ontológica"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição fixa que a distinção moral apresentada assenta numa descrição incorreta do estatuto do poder-ser.",
+      "dependencia_contextual": "Depende dos dois cenários descritos."
+    }
+  },
+  {
+    "id_proposicao": "P2105",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "É tratar o poder existir como atualizações sem estarem atualizadas.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Ontologia fundamental"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Identificação de erro categorial"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Poder-ser",
+        "Atualização",
+        "Erro categorial"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 3,
+      "descricao": "Integração reflexiva do erro ontológico"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição explicita a atribuição ilegítima de ser ao não atualizado.",
+      "dependencia_contextual": "Resposta direta ao dilema apresentado."
+    }
+  },
+  {
+    "id_proposicao": "P2106",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "É olhar para o poder ser e pôr nele um mundo inteiro, só porque poderia ter sido.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Ontologia fundamental"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Identificação de erro categorial"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Poder-ser",
+        "Atualização",
+        "Erro categorial"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 3,
+      "descricao": "Continuação da integração reflexiva do erro"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição reforça a absolutização indevida do poder-ser.",
+      "dependencia_contextual": "Complementa a proposição anterior."
+    }
+  },
+  {
+    "id_proposicao": "P2107",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "É viver no mundo da apreensão interna, ou seja, é viver no eu, porque é conceber a apreensão do mundo no quadro do que o eu pudesse apreender, o que é um pouco óbvio, não é?",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Consciência"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Reinscrição da consciência na relação"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Apreensão",
+        "Relação eu–real"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 3,
+      "descricao": "Integração reflexiva do ponto de vista do eu"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição explicita o confinamento da apreensão ao ponto de vista do eu.",
+      "dependencia_contextual": "Deriva da crítica ao poder-ser projetado."
+    }
+  },
+  {
+    "id_proposicao": "P2108",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "E por isso viver no poder ser é somente o querer que o que o eu queria que fosse fosse.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Consciência"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Recondução da ação ética à relação"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Poder-ser",
+        "Apreensão",
+        "Relação eu–real"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 4,
+      "descricao": "Integração reflexiva da projeção volitiva"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição identifica o poder-ser como projeção do querer do eu.",
+      "dependencia_contextual": "Conclusão da análise da apreensão interna."
+    }
+  },
+  {
+    "id_proposicao": "P2109",
+    "id_fragmento_origem": "F0122",
+    "texto_literal": "Há uma parte que se tornou não existente por ato de outro ser consciente reflexivo.",
+
+    "classificacao": {
+      "camada_0_tema_de_incidencia": [
+        "Ética"
+      ],
+      "camada_1_operacao_ontologica": [
+        "Identificação de condição ontológica"
+      ],
+      "camada_2_campos_ontologicos": [
+        "Responsabilidade ontológica",
+        "Liberdade situada",
+        "Atualização"
+      ],
+      "camada_3_termos_filosoficos_de_contacto": []
+    },
+
+    "grau_de_integracao_ontologica": {
+      "nivel": 4,
+      "descricao": "Integração ética da responsabilidade pela restrição do possível"
+    },
+
+    "extracao_ontologica": {
+      "explicitação_minima": "A proposição explicita que a ação consciente pode eliminar possibilidades reais de outro ser.",
+      "dependencia_contextual": "Fecho ontológico-ético do fragmento."
+    }
+  }
