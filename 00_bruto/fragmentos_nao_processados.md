@@ -120,3 +120,6 @@ Há um grau de projeção diferente, há prioridades diferentes do campo da rela
 Esquecemo-nos que o que eu sou, claro, é também o real, mas aí, consumido pela própria estrutura interna de responsabilidade, ela consegue manifestar-se no real, consegue atualizar-se a consciência pela quantidade de representações que tem pelos caminhos neurológicos dos neurónios pelo corpo inteiro que têm sobre a instância em que se está a operar no real, a apreensão é isto também, integra isto. Então, quando há essa quase possibilidade mesmo real de viver na apreensão do real, então já se vive no mundo do eu, no eu-eu e não no mundo do eu-real.
 
 Começando a caminhada sobre a pergunta que é isto de viver bem e operar somente numa teoria qualquer, num quadro lógico qualquer, não fazê-lo operar no real. A norma é eu-eu, mas nesse eu-eu é igual, mas existe mais. As tuas regras de verificabilidade estão limitadas. Existe mais. Estão falsas. Há uma...
+
+Os ritos de passagem sao a existencia do comum da apreensao estabilizada do real, ao ponto de a partir de certo ponto ja nao ser possivel haver outro tipo de apreensao, é este o facto-valor das pessoas com quem vives, é isto que achamos do real, pode claro estar melhour ou pior quanto melhor ou pior for a descriçao - apreensao representaçao e açao - do real.
+
