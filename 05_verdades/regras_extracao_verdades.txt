@@ -1,96 +1,149 @@
-Sistema de Extração de Verdades Ontologicamente Necessárias
+# Sistema de Extração de Verdades Ontologicamente Necessárias
 
-Versão 2.0 — com Fundacionais e Derivadas
+## Versão 2.1 — Fundacionais, Derivadas e Extração Seletiva
 
-1. Tipologia Ontológica Obrigatória
+---
+
+## 0. Âmbito do Sistema
+
+O presente sistema destina-se à análise de fragmentos textuais (trechos), os quais:
+
+- podem conter nenhuma, uma ou várias verdades ontologicamente necessárias;
+- podem conter discurso retórico, exemplos, metáforas, opiniões, redundâncias ou ruído;
+- não são presumidos verdadeiros por defeito.
+
+### REGRA Z1 — Regra da Extração Seletiva
+
+Apenas devem ser extraídas proposições que satisfaçam integralmente os critérios de:
+
+- necessidade ontológica;
+- estabilidade por negação;
+- admissibilidade segundo as regras F, D, R e T.
+
+Se um fragmento não contiver nenhuma verdade ontologicamente necessária, nenhuma entrada deve ser gerada.
+
+Extração vazia é um resultado válido.
+
+---
+
+## 1. Tipologia Ontológica Obrigatória
 
 Toda a verdade extraída tem de ser classificada como exatamente uma das seguintes:
 
-A. Verdade Fundacional
+### A. Verdade Fundacional
 
 Uma proposição que:
 
-não deriva logicamente de nenhuma outra verdade ontologicamente necessária;
+- não deriva logicamente de nenhuma outra verdade ontologicamente necessária;
+- é condição de possibilidade do próprio sistema de extração;
+- quando negada, provoca colapso operatório, contradição performativa ou autodestruição lógica.
 
-é condição de possibilidade do próprio sistema de extração;
-
-falha por negação autodestrutiva ou colapso operatório.
-
-B. Verdade Derivada Necessária
+### B. Verdade Derivada Necessária
 
 Uma proposição que:
 
-é logicamente forçada por uma ou mais verdades fundacionais;
+- é logicamente forçada por uma ou mais verdades fundacionais;
+- não introduz novos compromissos ontológicos;
+- herda a sua necessidade das fundações das quais deriva.
 
-não introduz novos compromissos ontológicos;
+Não existem outros tipos admissíveis.
 
-herda a necessidade das suas fundações.
+---
 
-2. Regras de Classificação Fundacional vs Derivada
-REGRA F1 — Regra da Não-Derivabilidade
+## 2. Regras de Classificação Fundacional vs Derivada
+
+### REGRA F1 — Regra da Não-Derivabilidade
 
 Uma proposição é fundacional se não puder ser deduzida de nenhuma outra proposição necessária já aceite.
 
 Teste:
-
 Esta proposição permanece necessária mesmo que todas as outras sejam removidas?
 
+- Se sim → Fundacional
+- Se não → candidata a Derivada
+
+---
+
+### REGRA F2 — Regra da Condição de Possibilidade
+
+Uma proposição é fundacional se for condição de possibilidade de pelo menos um dos seguintes:
+
+- erro;
+- correção;
+- descrição;
+- negação;
+- extração ontológica;
+- operação racional mínima.
+
 Se sim → Fundacional
-Se não → candidata a derivada
 
-REGRA F2 — Regra da Condição de Possibilidade
+---
 
-Uma proposição é fundacional se for condição de possibilidade:
+### REGRA F3 — Regra da Insubstituibilidade Fundacional
 
-do erro,
+Uma verdade fundacional não pode ser totalmente reconstruída pela soma das suas verdades derivadas.
 
-da correção,
+Se uma proposição puder ser eliminada sem perda ontológica total, não é fundacional.
 
-da descrição,
+---
 
-da negação,
-
-ou da própria extração ontológica.
-
-Se sim → Fundacional
-
-REGRA D1 — Regra da Dedução Forçada
+### REGRA D1 — Regra da Dedução Forçada
 
 Uma proposição é derivada necessária se:
 
-puder ser logicamente inferida a partir de uma ou mais fundacionais;
+- puder ser logicamente inferida a partir de uma ou mais fundacionais;
+- a sua negação entrar em contradição com essas fundacionais.
 
-a sua negação entrar em contradição com essas fundacionais.
+---
 
-REGRA D2 — Regra da Herança Ontológica
+### REGRA D2 — Regra da Herança Ontológica
 
 Uma proposição derivada:
 
-não pode introduzir novos tipos de entidades;
+- não pode introduzir novos tipos de entidades;
+- não pode alterar o domínio ontológico das fundacionais;
+- apenas explicita consequências necessárias já implicadas.
 
-não pode alterar o domínio ontológico das fundacionais;
+Se introduzir algo novo → rejeitar.
 
-apenas explicita consequências necessárias.
+---
 
-Se introduzir algo novo → rejeitar
+## 3. Regras de Extração
 
-3. Regras de Extração (mantidas + afinadas)
+Mantêm-se as regras R1–R12 da versão anterior, com os seguintes reforços:
 
-As regras R1–R12 da versão anterior mantêm-se, com um acréscimo:
-
-REGRA 13 — Regra da Rastreabilidade Ontológica
+### REGRA R13 — Regra da Rastreabilidade Ontológica
 
 Toda a verdade derivada tem de indicar explicitamente:
 
-pelo menos uma fundacional da qual deriva;
+- pelo menos uma verdade fundacional da qual deriva;
+- idealmente, todas as fundacionais relevantes.
 
-idealmente, todas as fundacionais relevantes.
+Sem rastreabilidade → rejeitar.
 
-Sem rastreabilidade → rejeitar
+---
 
-4. Classificação Temática Obrigatória
+### REGRA R14 — Regra da Forma Proposicional
 
-Cada verdade deve ser atribuída a um único tema dominante, escolhido de:
+O conteúdo do campo "verdade" deve ser:
+
+- uma proposição assertiva completa;
+- semanticamente fechada;
+- ontologicamente explícita.
+
+Não são admissíveis como "verdade":
+
+- perguntas;
+- exemplos;
+- metáforas;
+- comentários retóricos;
+- reformulações vagas.
+
+---
+
+## 4. Classificação Temática Obrigatória
+
+Cada verdade extraída deve ser atribuída a um único tema dominante, escolhido de:
 
 "camada_0_dominios": [
   "Antropologia",
@@ -111,41 +164,52 @@ Cada verdade deve ser atribuída a um único tema dominante, escolhido de:
   "Ética"
 ]
 
-REGRA T1 — Primazia Ontológica
+---
+
+### REGRA T1 — Primazia Ontológica
 
 O tema escolhido deve corresponder ao nível ontológico mais baixo envolvido.
 
-Exemplo:
+Exemplos:
 
-Se envolve linguagem e real → Ontologia fundamental
+- envolve linguagem e real → Ontologia fundamental
+- envolve verdade/erro → Epistemologia
+- envolve ação adequada ao real → Ética
 
-Se envolve ação adequada ao real → Ética
+---
 
-Se envolve verdade/erro → Epistemologia
-
-5. Formato de Saída Obrigatório (Schema)
+## 5. Formato de Saída Obrigatório (Schema)
 
 Formato único e invariável:
 
 {
   "ID": "PXXXX",
-  "Frag.ID: "FXXXX",
+  "Frag.ID": "FXXXX",
   "verdade": "Texto da proposição ontologicamente necessária",
   "tipo": "fundacional | derivada",
   "deriva_de": ["PXXXX", "PYYYY"] | [],
   "tema": "Ontologia fundamental | Epistemologia | Ética | ..."
 }
 
-Regras do Schema
+---
 
-ID é único e imutável.
+## 6. Regras do Schema
 
-Frag.ID é o ID do fragmento
+- ID é único e imutável.
+- Frag.ID é o ID do fragmento analisado.
+- tipo = fundacional → deriva_de tem de ser [].
+- tipo = derivada → deriva_de não pode estar vazio.
+- Apenas IDs fundacionais podem aparecer em deriva_de.
+- tema é obrigatório e singular.
 
-tipo = fundacional → deriva_de tem de ser [].
+---
 
-tipo = derivada → deriva_de não pode estar vazio.
+## 7. Resultado Válido
 
-Apenas IDs fundacionais podem aparecer em deriva_de.
+Um resultado de extração pode ser:
 
-tema é obrigatório e singular.
+- uma lista de verdades fundacionais;
+- uma lista mista (fundacionais + derivadas);
+- uma lista vazia, se o fragmento não contiver verdades ontologicamente necessárias.
+
+A lista vazia não constitui erro.

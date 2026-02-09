@@ -1,0 +1,1037 @@
+[
+{
+"ID": "P1001",
+"Frag.ID": "P0010",
+"verdade": "A realidade é composta por objetos e pelas relações entre eles.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "REAL"
+},
+{
+"ID": "P1002",
+"Frag.ID": "P0015",
+"verdade": "O real estrutura-se por composição ontológica de entidades, propriedades e relações.",
+"tipo": "derivada",
+"deriva_de": ["P1001"],
+"tema": "Ontologia fundamental",
+"sub_tema": "COMPOSIÇÃO ONTOLÓGICA"
+},
+{
+"ID": "P1003",
+"Frag.ID": "P0100",
+"verdade": "O ser faz parte do real e não constitui um domínio separado.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "SER"
+},
+{
+"ID": "P1004",
+"Frag.ID": "P0112",
+"verdade": "A ontologia ocupa-se apenas do que existe efetivamente no real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ABERTURA DO REAL"
+},
+{
+"ID": "P1005",
+"Frag.ID": "P0113",
+"verdade": "A realidade é ontologicamente exaustiva.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "TOTALIDADE"
+},
+{
+"ID": "P1006",
+"Frag.ID": "P0149",
+"verdade": "O erro não possui estatuto ontológico; ontologicamente existe apenas o real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P1007",
+"Frag.ID": "P0159",
+"verdade": "Dualismos sem correspondência no real constituem erro categorial.",
+"tipo": "derivada",
+"deriva_de": ["P1001", "P1005"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ERRO CATEGORIAL"
+},
+{
+"ID": "P1008",
+"Frag.ID": "P0247",
+"verdade": "Todo o processo real exige estrutura, continuidade e possibilidade de correção.",
+"tipo": "derivada",
+"deriva_de": ["P1001", "P1005"],
+"tema": "Ontologia fundamental",
+"sub_tema": "CONTINUIDADE"
+},
+{
+"ID": "P1009",
+"Frag.ID": "P0256",
+"verdade": "A realidade impõe condições independentes da vontade do ser reflexivo.",
+"tipo": "derivada",
+"deriva_de": ["P1001"],
+"tema": "Ontologia fundamental",
+"sub_tema": "PARIDADE ONTOLÓGICA"
+}
+]
+[
+{
+"ID": "P2001",
+"Frag.ID": "P0281",
+"verdade": "As relações são entidades reais enquanto relações.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "RELAÇÃO"
+},
+{
+"ID": "P2002",
+"Frag.ID": "P0300",
+"verdade": "O objeto existe independentemente da sua descrição.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "DESCRIÇÃO"
+},
+{
+"ID": "P2003",
+"Frag.ID": "P0443",
+"verdade": "As relações decorrem necessariamente da existência do ser.",
+"tipo": "derivada",
+"deriva_de": ["P2001"],
+"tema": "Ontologia fundamental",
+"sub_tema": "SER"
+},
+{
+"ID": "P2004",
+"Frag.ID": "P0462",
+"verdade": "A permanência de estruturas do ser é condição de possibilidade do movimento e da continuidade no real.",
+"tipo": "derivada",
+"deriva_de": ["P2001"],
+"tema": "Ontologia fundamental",
+"sub_tema": "CONTINUIDADE"
+},
+{
+"ID": "P2005",
+"Frag.ID": "P0475",
+"verdade": "A potencialidade existe independentemente da consciência.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "POTENCIALIDADE"
+},
+{
+"ID": "P2006",
+"Frag.ID": "P0477",
+"verdade": "A potencialidade está inscrita no ser.",
+"tipo": "derivada",
+"deriva_de": ["P2005"],
+"tema": "Ontologia fundamental",
+"sub_tema": "PODER-SER"
+}
+]
+[
+{
+"ID": "P3001",
+"Frag.ID": "P0644",
+"verdade": "O ser existe por relações que dependem do poder-ser.",
+"tipo": "derivada",
+"deriva_de": ["P2001", "P2005"],
+"tema": "Ontologia fundamental",
+"sub_tema": "PODER-SER"
+},
+{
+"ID": "P3002",
+"Frag.ID": "P0645",
+"verdade": "Toda a atualização é ser real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ATUALIZAÇÃO"
+},
+{
+"ID": "P3003",
+"Frag.ID": "P0648",
+"verdade": "O ser consiste em variação contínua.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "CONTINUIDADE"
+},
+{
+"ID": "P3004",
+"Frag.ID": "P0649",
+"verdade": "Toda a variação do ser implica localização no real.",
+"tipo": "derivada",
+"deriva_de": ["P3003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "LOCALIDADE"
+},
+{
+"ID": "P3005",
+"Frag.ID": "P0683",
+"verdade": "A existência de algo implica necessariamente a atualização de ser.",
+"tipo": "derivada",
+"deriva_de": ["P3002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ATUALIDADE"
+},
+{
+"ID": "P3006",
+"Frag.ID": "P0684",
+"verdade": "O nada é ontologicamente impossível.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "IMPOSSIBILIDADE ONTOLÓGICA"
+},
+{
+"ID": "P3007",
+"Frag.ID": "P0688",
+"verdade": "A existência do ser exclui necessariamente a possibilidade do nada.",
+"tipo": "derivada",
+"deriva_de": ["P3006"],
+"tema": "Ontologia fundamental",
+"sub_tema": "NÃO-SER"
+},
+{
+"ID": "P3008",
+"Frag.ID": "P0735",
+"verdade": "Não existe realidade sem atualização.",
+"tipo": "derivada",
+"deriva_de": ["P3002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ATUALIDADE"
+},
+{
+"ID": "P3009",
+"Frag.ID": "P0768",
+"verdade": "Tanto o campo potencial como as suas atualizações existem no real.",
+"tipo": "derivada",
+"deriva_de": ["P2005", "P3002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "POTENCIALIDADE"
+},
+{
+"ID": "P3010",
+"Frag.ID": "P0810",
+"verdade": "A preservação é a continuidade do ser no real.",
+"tipo": "derivada",
+"deriva_de": ["P3003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "CONTINUIDADE"
+}
+]
+[
+{
+"ID": "P4001",
+"Frag.ID": "P0835",
+"verdade": "Qualquer objeto de discurso está necessariamente integrado no real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "TOTALIDADE"
+},
+{
+"ID": "P4002",
+"Frag.ID": "P0842",
+"verdade": "A reflexividade é real e possui localidade própria no real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Consciência",
+"sub_tema": "SER REFLEXIVO"
+},
+{
+"ID": "P4003",
+"Frag.ID": "P0858",
+"verdade": "Os entes físicos são compostos por conjuntos de atualizações.",
+"tipo": "derivada",
+"deriva_de": ["P3002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ATUALIZAÇÃO"
+},
+{
+"ID": "P4004",
+"Frag.ID": "P0860",
+"verdade": "Todo o ente que se relaciona inclui relação consigo mesmo enquanto relação.",
+"tipo": "derivada",
+"deriva_de": ["P2001"],
+"tema": "Ontologia fundamental",
+"sub_tema": "RELAÇÃO EU–EU"
+},
+{
+"ID": "P4005",
+"Frag.ID": "P0870",
+"verdade": "A atualização coincide necessariamente com o ser atualizado.",
+"tipo": "derivada",
+"deriva_de": ["P3002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ATUALIDADE"
+},
+{
+"ID": "P4006",
+"Frag.ID": "P0898",
+"verdade": "O real é ontologicamente exaustivo e não requer determinação externa.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ABERTURA DO REAL"
+},
+{
+"ID": "P4007",
+"Frag.ID": "P0907",
+"verdade": "O real não depende de explicação para existir.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "AXIOMA"
+},
+{
+"ID": "P4008",
+"Frag.ID": "P0932",
+"verdade": "Todo o objeto de apreensão possui posição relativa no real.",
+"tipo": "derivada",
+"deriva_de": ["P4001"],
+"tema": "Epistemologia",
+"sub_tema": "LOCALIDADE"
+},
+{
+"ID": "P4009",
+"Frag.ID": "P0936",
+"verdade": "O real é condição de possibilidade do ser.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ABERTURA DO REAL"
+},
+{
+"ID": "P4010",
+"Frag.ID": "P0940",
+"verdade": "A continuidade do ser decorre das estruturas que o constituem.",
+"tipo": "derivada",
+"deriva_de": ["P3003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "CONTINUIDADE"
+},
+{
+"ID": "P4011",
+"Frag.ID": "P0945",
+"verdade": "O real é composto exclusivamente por atualizações.",
+"tipo": "derivada",
+"deriva_de": ["P3002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ATUALIZAÇÃO"
+},
+{
+"ID": "P4012",
+"Frag.ID": "P0954",
+"verdade": "O ser é idêntico a si mesmo enquanto é.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "IDENTIDADE"
+}
+]
+[
+{
+"ID": "P5001",
+"Frag.ID": "P0955",
+"verdade": "O dever-ser deriva necessariamente do poder-ser.",
+"tipo": "derivada",
+"deriva_de": ["P2005", "P3001"],
+"tema": "Ética",
+"sub_tema": "DEVER-SER"
+},
+{
+"ID": "P5002",
+"Frag.ID": "P0962",
+"verdade": "Não há atualização sem real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ATUALIZAÇÃO"
+},
+{
+"ID": "P5003",
+"Frag.ID": "P0990",
+"verdade": "O processo ontológico consiste na atualização do poder-ser no contínuo do real.",
+"tipo": "derivada",
+"deriva_de": ["P2005", "P3002", "P3003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "PROCESSO"
+},
+{
+"ID": "P5004",
+"Frag.ID": "P1015",
+"verdade": "Todo o ser ocorre de forma localizada, com horizonte, no contínuo do real.",
+"tipo": "derivada",
+"deriva_de": ["P3003", "P3004"],
+"tema": "Ontologia fundamental",
+"sub_tema": "HORIZONTE"
+},
+{
+"ID": "P5005",
+"Frag.ID": "P1028",
+"verdade": "A permanência do ser decorre da necessidade de continuidade no real.",
+"tipo": "derivada",
+"deriva_de": ["P3003", "P3010"],
+"tema": "Ontologia fundamental",
+"sub_tema": "PERMANÊNCIA"
+},
+{
+"ID": "P5006",
+"Frag.ID": "P1045",
+"verdade": "O real é necessariamente partilhado.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "PARIDADE ONTOLÓGICA"
+},
+{
+"ID": "P5007",
+"Frag.ID": "P1046",
+"verdade": "O real não se reduz a uma única atualização.",
+"tipo": "derivada",
+"deriva_de": ["P3002", "P5006"],
+"tema": "Ontologia fundamental",
+"sub_tema": "TOTALIDADE"
+},
+{
+"ID": "P5008",
+"Frag.ID": "P1191",
+"verdade": "Aquilo que existe, existe.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "AXIOMA"
+},
+{
+"ID": "P5009",
+"Frag.ID": "P1207",
+"verdade": "O real é idêntico a si mesmo enquanto é.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "IDENTIDADE"
+}
+]
+[
+{
+"ID": "P6001",
+"Frag.ID": "P1233",
+"verdade": "O ser é aquilo que é.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "IDENTIDADE"
+},
+{
+"ID": "P6002",
+"Frag.ID": "P1295",
+"verdade": "O ser existe no contínuo do poder-ser que o permite ser.",
+"tipo": "derivada",
+"deriva_de": ["P2005", "P3003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "PODER-SER"
+},
+{
+"ID": "P6003",
+"Frag.ID": "P1321",
+"verdade": "O real é ontologicamente unificado.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "TOTALIDADE"
+},
+{
+"ID": "P6004",
+"Frag.ID": "P1438",
+"verdade": "Toda a atualização exige um campo prévio de potencialidade.",
+"tipo": "derivada",
+"deriva_de": ["P2005", "P3002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "POTENCIALIDADE"
+},
+{
+"ID": "P6005",
+"Frag.ID": "P0152",
+"verdade": "Toda a mudança ocorre no interior do real e não fora dele.",
+"tipo": "derivada",
+"deriva_de": ["P1001", "P3003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "CONTINUIDADE"
+},
+{
+"ID": "P6006",
+"Frag.ID": "P0319",
+"verdade": "A memória é a continuidade do ser após um evento.",
+"tipo": "derivada",
+"deriva_de": ["P3003"],
+"tema": "Consciência",
+"sub_tema": "MEMÓRIA"
+},
+{
+"ID": "P6007",
+"Frag.ID": "P0363",
+"verdade": "O erro ontológico surge quando círculos do real são tratados como substâncias separadas.",
+"tipo": "derivada",
+"deriva_de": ["P1001", "P6003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P6008",
+"Frag.ID": "P0380",
+"verdade": "Todo o ser existe dentro das condições que possibilitam a sua existência.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ABERTURA DO REAL"
+},
+{
+"ID": "P6009",
+"Frag.ID": "P0431",
+"verdade": "Toda a criação depende ontologicamente do ser que a possibilita.",
+"tipo": "derivada",
+"deriva_de": ["P6008"],
+"tema": "Ontologia fundamental",
+"sub_tema": "PODER-SER"
+},
+{
+"ID": "P6010",
+"Frag.ID": "P0437",
+"verdade": "A reflexividade ontológica implica atualidade.",
+"tipo": "derivada",
+"deriva_de": ["P3002", "P4002"],
+"tema": "Consciência",
+"sub_tema": "CONSCIÊNCIA REFLEXIVA"
+},
+{
+"ID": "P6011",
+"Frag.ID": "P0454",
+"verdade": "O ser é função de si mesmo.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "FUNÇÃO"
+},
+{
+"ID": "P6012",
+"Frag.ID": "P0463",
+"verdade": "Existe um campo ontológico de possibilidades independente da consciência.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "POTENCIALIDADE"
+},
+{
+"ID": "P6013",
+"Frag.ID": "P0492",
+"verdade": "As escalas ontológicas mais amplas resultam de deduções ontológicas do real.",
+"tipo": "derivada",
+"deriva_de": ["P6003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "ESCALA ONTOLÓGICA"
+},
+{
+"ID": "P6014",
+"Frag.ID": "P0507",
+"verdade": "O real não depende do ser humano para existir.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "PARIDADE ONTOLÓGICA"
+}
+]
+[
+{
+"ID": "P7001",
+"Frag.ID": "P0526",
+"verdade": "A validade ontológica pertence exclusivamente ao real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "VALIDADE"
+},
+{
+"ID": "P7002",
+"Frag.ID": "P0545",
+"verdade": "Qualquer ilusão existe necessariamente no interior do real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "TOTALIDADE"
+},
+{
+"ID": "P7003",
+"Frag.ID": "P0561",
+"verdade": "A mediação não é independente do objeto que media.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "MEDIAÇÃO"
+},
+{
+"ID": "P7004",
+"Frag.ID": "P0569",
+"verdade": "O conhecimento do real pressupõe a existência real de quem conhece.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "APREENSÃO"
+},
+{
+"ID": "P7005",
+"Frag.ID": "P0577",
+"verdade": "A validade de uma proposição depende da sua coincidência com o real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "VALIDADE"
+},
+{
+"ID": "P7006",
+"Frag.ID": "P0580",
+"verdade": "A verdade consiste na adequação efetiva da proposição ao real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "VERDADE COMO DESCRIÇÃO"
+},
+{
+"ID": "P7007",
+"Frag.ID": "P0612",
+"verdade": "O real impõe limites e horizontes a toda a apreensão.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "LIMITES ONTOLÓGICOS"
+},
+{
+"ID": "P7008",
+"Frag.ID": "P0679",
+"verdade": "Todo o modo de ser ocorre no contínuo do real.",
+"tipo": "derivada",
+"deriva_de": ["P3003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "CONTINUIDADE"
+},
+{
+"ID": "P7009",
+"Frag.ID": "P0680",
+"verdade": "A apreensão e representação dependem ontologicamente do real exterior.",
+"tipo": "derivada",
+"deriva_de": ["P7003", "P7004"],
+"tema": "Epistemologia",
+"sub_tema": "REPRESENTAÇÃO"
+},
+{
+"ID": "P7010",
+"Frag.ID": "P0692",
+"verdade": "Toda a possibilidade lógica corresponde a um modo real de ser.",
+"tipo": "derivada",
+"deriva_de": ["P2005"],
+"tema": "Ontologia fundamental",
+"sub_tema": "POTENCIALIDADE"
+},
+{
+"ID": "P7011",
+"Frag.ID": "P0794",
+"verdade": "Qualidades sensíveis como calor e frio não são entidades, mas descrições de níveis energéticos.",
+"tipo": "derivada",
+"deriva_de": ["P7006"],
+"tema": "Epistemologia",
+"sub_tema": "DESCRIÇÃO"
+},
+{
+"ID": "P7012",
+"Frag.ID": "P0980",
+"verdade": "A relação do organismo com o real é necessariamente relacional e situada.",
+"tipo": "derivada",
+"deriva_de": ["P2001", "P3004"],
+"tema": "Consciência",
+"sub_tema": "RELAÇÃO EU–REAL"
+}
+]
+[
+{
+"ID": "P8001",
+"Frag.ID": "P1119",
+"verdade": "A apreensão humana é constituída pelo próprio real que apreende.",
+"tipo": "derivada",
+"deriva_de": ["P7004", "P7009"],
+"tema": "Epistemologia",
+"sub_tema": "APREENSÃO"
+},
+{
+"ID": "P8002",
+"Frag.ID": "P1161",
+"verdade": "Tudo o que existe está integrado no campo total do real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "TOTALIDADE"
+},
+{
+"ID": "P8003",
+"Frag.ID": "P1177",
+"verdade": "As partes de um sistema existem em dependência ontológica da estrutura total do sistema.",
+"tipo": "derivada",
+"deriva_de": ["P8002"],
+"tema": "Ontologia fundamental",
+"sub_tema": "COMPOSIÇÃO ONTOLÓGICA"
+},
+{
+"ID": "P8004",
+"Frag.ID": "P1178",
+"verdade": "A necessidade ontológica de uma parte depende da totalidade a que pertence.",
+"tipo": "derivada",
+"deriva_de": ["P8003"],
+"tema": "Ontologia fundamental",
+"sub_tema": "NECESSIDADE"
+},
+{
+"ID": "P8005",
+"Frag.ID": "P1406",
+"verdade": "Toda a apreensão ocorre necessariamente a partir de uma localidade.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "LOCALIDADE"
+},
+{
+"ID": "P8006",
+"Frag.ID": "P0025",
+"verdade": "As normas emergem ontologicamente das estruturas reais e não de imposição externa.",
+"tipo": "derivada",
+"deriva_de": ["P1001", "P8003"],
+"tema": "Ética",
+"sub_tema": "NORMATIVIDADE"
+},
+{
+"ID": "P8007",
+"Frag.ID": "P0040",
+"verdade": "O valor está incluído no real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ética",
+"sub_tema": "VALOR"
+},
+{
+"ID": "P8008",
+"Frag.ID": "P0052",
+"verdade": "Cada ente existe na sua própria identidade no interior do real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "IDENTIDADE"
+},
+{
+"ID": "P8009",
+"Frag.ID": "P0058",
+"verdade": "O real estrutura-se por composição ontológica de baixo para cima.",
+"tipo": "derivada",
+"deriva_de": ["P1001"],
+"tema": "Ontologia fundamental",
+"sub_tema": "COMPOSIÇÃO ONTOLÓGICA"
+},
+{
+"ID": "P8010",
+"Frag.ID": "P0230",
+"verdade": "A existência do ser humano depende ontologicamente das condições reais que a permitem.",
+"tipo": "derivada",
+"deriva_de": ["P6008"],
+"tema": "Antropologia",
+"sub_tema": "SER HUMANO"
+},
+{
+"ID": "P8011",
+"Frag.ID": "P0269",
+"verdade": "Negar a existência do real constitui erro ontológico.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P8012",
+"Frag.ID": "P0315",
+"verdade": "O ser humano existe ontologicamente enquanto ser.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Antropologia",
+"sub_tema": "SER HUMANO"
+}
+]
+[
+{
+"ID": "P9001",
+"Frag.ID": "P0332",
+"verdade": "Tudo o que existiu existe ontologicamente enquanto parte do real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "PERMANÊNCIA"
+},
+{
+"ID": "P9002",
+"Frag.ID": "P0349",
+"verdade": "Tratar a consciência como substância separada do real constitui erro ontológico.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Consciência",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P9003",
+"Frag.ID": "P0447",
+"verdade": "Mesmo os estados maléficos pertencem ao real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "TOTALIDADE"
+},
+{
+"ID": "P9004",
+"Frag.ID": "P0541",
+"verdade": "A existência do ser consciente implica direcionalidade ontológica no real.",
+"tipo": "derivada",
+"deriva_de": ["P4002", "P3003"],
+"tema": "Consciência",
+"sub_tema": "DIREÇÃO ONTOLÓGICA"
+},
+{
+"ID": "P9005",
+"Frag.ID": "P0559",
+"verdade": "O conhecimento é limitado pela mediação.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "LIMITES DO CONHECIMENTO"
+},
+{
+"ID": "P9006",
+"Frag.ID": "P0583",
+"verdade": "A representação não coincide com o ser em si.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "REPRESENTAÇÃO"
+},
+{
+"ID": "P9007",
+"Frag.ID": "P0606",
+"verdade": "A capacidade de representação não implica interioridade ontológica separada.",
+"tipo": "derivada",
+"deriva_de": ["P7003", "P9002"],
+"tema": "Consciência",
+"sub_tema": "NATURALIZAÇÃO ONTOLÓGICA"
+},
+{
+"ID": "P9008",
+"Frag.ID": "P0691",
+"verdade": "As condições físicas da perceção pertencem ao real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "APREENSÃO"
+},
+{
+"ID": "P9009",
+"Frag.ID": "P0930",
+"verdade": "A apreensão do outro ocorre pelas manifestações reais do seu modo de ser.",
+"tipo": "derivada",
+"deriva_de": ["P2001", "P8005"],
+"tema": "Consciência",
+"sub_tema": "RELAÇÃO EU–EU"
+},
+{
+"ID": "P9010",
+"Frag.ID": "P1331",
+"verdade": "O ser consciente é real e integra o real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Consciência",
+"sub_tema": "SER CONSCIENTE REFLEXIVO"
+},
+{
+"ID": "P9011",
+"Frag.ID": "P1408",
+"verdade": "O real é partilhado, mas a apreensão do real é sempre local.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "PONTO DE VISTA"
+},
+{
+"ID": "P9012",
+"Frag.ID": "P1445",
+"verdade": "O ser reflexivo é real enquanto ser.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Consciência",
+"sub_tema": "SER REFLEXIVO"
+},
+{
+"ID": "P9013",
+"Frag.ID": "P0161",
+"verdade": "O melhor modo de ser depende da adequação ao real que inclui as pessoas.",
+"tipo": "derivada",
+"deriva_de": ["P8007", "P1001"],
+"tema": "Ética",
+"sub_tema": "ÉTICA DERIVADA DO SER"
+}
+]
+[
+{
+"ID": "P10001",
+"Frag.ID": "P0170",
+"verdade": "A avaliação de modos melhores ou piores é um problema ontológico do ser.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "MODO DE SER"
+},
+{
+"ID": "P10002",
+"Frag.ID": "P0218",
+"verdade": "A relação entre ser, poder-ser e dever-ser varia conforme o plano ontológico.",
+"tipo": "derivada",
+"deriva_de": ["P2005", "P5001"],
+"tema": "Ética",
+"sub_tema": "ÉTICA DERIVADA DO SER"
+},
+{
+"ID": "P10003",
+"Frag.ID": "P0235",
+"verdade": "O ser reflexivo tem obrigação ontológica de conhecer o que é.",
+"tipo": "derivada",
+"deriva_de": ["P4002"],
+"tema": "Consciência",
+"sub_tema": "RESPONSABILIDADE ONTOLÓGICA"
+},
+{
+"ID": "P10004",
+"Frag.ID": "P0340",
+"verdade": "Reduzir o real ao processo conhecido constitui erro ontológico.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P10005",
+"Frag.ID": "P0362",
+"verdade": "O acesso ao real implica necessariamente distinções de adequação e erro.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "ADEQUAÇÃO"
+},
+{
+"ID": "P10006",
+"Frag.ID": "P0377",
+"verdade": "Agir contra o real constitui um modo mau de ser.",
+"tipo": "derivada",
+"deriva_de": ["P8007", "P1001"],
+"tema": "Ética",
+"sub_tema": "BEM"
+},
+{
+"ID": "P10007",
+"Frag.ID": "P0407",
+"verdade": "As distinções de bom e mau emergem da estrutura factual do real.",
+"tipo": "derivada",
+"deriva_de": ["P8007"],
+"tema": "Ética",
+"sub_tema": "VALOR"
+},
+{
+"ID": "P10008",
+"Frag.ID": "P0416",
+"verdade": "Absolutizar a linguagem ou a forma intelectualizada constitui erro ontológico.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P10009",
+"Frag.ID": "P0494",
+"verdade": "Reconhecida a estrutura ontológica basal, a avaliação moral atomizada perde fundamento.",
+"tipo": "derivada",
+"deriva_de": ["P8007", "P9010"],
+"tema": "Ética",
+"sub_tema": "AVALIAÇÃO"
+},
+{
+"ID": "P10010",
+"Frag.ID": "P0511",
+"verdade": "Existe uma ligação ontológica necessária entre ser, poder-ser e dever-ser.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "DEVER-SER"
+},
+{
+"ID": "P10011",
+"Frag.ID": "P0567",
+"verdade": "A filosofia consiste na descrição do real.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Filosofia",
+"sub_tema": "DESCRIÇÃO"
+},
+{
+"ID": "P10012",
+"Frag.ID": "P0574",
+"verdade": "Transformar limitações da apreensão em limites do ser constitui erro ontológico.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P10013",
+"Frag.ID": "P0575",
+"verdade": "A limitação da apreensão não é limitação do ser.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Epistemologia",
+"sub_tema": "LIMITES DO CONHECIMENTO"
+},
+{
+"ID": "P10014",
+"Frag.ID": "P0588",
+"verdade": "Descrições pobres do ser constituem erro ontológico.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "ERRO ONTOLÓGICO"
+},
+{
+"ID": "P10015",
+"Frag.ID": "P0639",
+"verdade": "Apreender o outro como não-ser constitui erro ontológico.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Consciência",
+"sub_tema": "ERRO CATEGORIAL"
+},
+{
+"ID": "P10016",
+"Frag.ID": "P0667",
+"verdade": "A realidade não depende da vontade do sujeito.",
+"tipo": "fundacional",
+"deriva_de": [],
+"tema": "Ontologia fundamental",
+"sub_tema": "PARIDADE ONTOLÓGICA"
+}
+]
