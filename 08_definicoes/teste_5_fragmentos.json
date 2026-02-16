@@ -1,0 +1,223 @@
+[
+  {
+    "id_proposicao": "P1471",
+    "texto_literal": "2 + 2 igual a 4 funciona como sua própria justificação, mas ainda se pode ir a elementos mais básicos, mais profundos, aos elementos axiomáticos de um sistema, e depois diz-se que ah, não, não há, because a derivação é infinita. Claro, claro. Claro que sim, como é óbvio. Because a domização de 2 + 2 ser 4 não é aquilo que compõe o 2 e o 2 e o 4 que faz com que seja verdade, mas é o facto de o 2 e o 2 serem 4, essa relação que existe, continuar a permanecer no contínuo da existência dentro do sistema que diz que 2 + 2 é 4, existe, é real, representa a realidade.",
+    "localizacao_vertical": {
+      "nivel": "0-I",
+      "campo_principal": "D_VERDADE",
+      "campos_secundarios": [
+        "D_REAL",
+        "D_CONTINUIDADE",
+        "D_RELACAO",
+        "D_SISTEMA_SIMBOLICO",
+        "D_ADEQUACAO",
+        "D_CRITERIO"
+      ]
+    },
+    "operacao_ontologica": "Recondução relacional",
+    "dependencias": [
+      "D_REAL",
+      "D_CONTINUIDADE",
+      "D_RELACAO",
+      "D_ESTRUTURA",
+      "D_DETERMINACAO",
+      "D_ADEQUACAO",
+      "D_CRITERIO"
+    ],
+    "gera": [
+      "D_VERDADE",
+      "D_CRITERIO",
+      "D_SISTEMA_SIMBOLICO"
+    ],
+    "degeneracao_possivel": [
+      "D_AUTORREFERENCIALIDADE",
+      "D_FECHAMENTO_SIMBOLICO",
+      "D_ERRO_ONTOLOGICO",
+      "D_ERRO_CATEGORIAL"
+    ],
+    "reintegracao": [
+      "Reafirmação da dependência da D_VERDADE do D_SISTEMA_SIMBOLICO na D_ADEQUACAO e D_CRITERIO, fundamentados na D_ESTRUTURA e D_CONTINUIDADE do D_REAL."
+    ],
+    "grau_de_integracao": {
+      "nivel": 5,
+      "descricao": "A proposição descreve uma integração máxima, explicitando como a verdade de um sistema simbólico (como o matemático) se fundamenta na estabilidade e continuidade das relações no campo do real, prevenindo a autonomia ilusória do sistema."
+    }
+  },
+  {
+    "id_proposicao": "P0010",
+    "texto_literal": "Os objetos, todos os objetos e as relações que compõem a realidade.",
+    "localizacao_vertical": {
+      "nivel": "0-I",
+      "campo_principal": "D_REAL",
+      "campos_secundarios": [
+        "D_SER",
+        "D_RELACAO",
+        "D_ESTRUTURA"
+      ]
+    },
+    "operacao_ontologica": "Afirmação estrutural",
+    "dependencias": [
+      "D_DISTINCAO",
+      "D_DETERMINACAO",
+      "D_ESTRUTURA",
+      "D_RELACIONALIDADE_MINIMA"
+    ],
+    "gera": [
+      "D_CONTINUIDADE",
+      "D_ATUALIZACAO",
+      "D_CAMPO",
+      "D_ESCALA_ONTOLOGICA",
+      "D_APREENSAO",
+      "D_ADEQUACAO"
+    ],
+    "degeneracao_possivel": [
+      "D_ERRO_CATEGORIAL: Reificação de 'objetos' como substâncias isoladas, negando a sua inerente relacionalidade.",
+      "D_ERRO_ONTOLOGICO: A negação de que o real é intrinsecamente composto por objetos e relações, levando a uma concepção fragmentada ou externalizada do real.",
+      "Cristalização sistémica: Tratar a 'realidade' como uma entidade estática e fechada, em vez de um campo relacional dinâmico e contínuo."
+    ],
+    "reintegracao": [
+      "Reforçar a D_RELACIONALIDADE_MINIMA como condição constitutiva de todo D_SER no D_REAL.",
+      "Reafirmar que D_SER é D_DETERMINACAO_RELACIONAL, não uma entidade separada.",
+      "Esclarecer que D_REAL é o D_CAMPO relacional contínuo que não admite exterioridade ontológica."
+    ],
+    "grau_de_integracao": {
+      "nivel": 4,
+      "descricao": "Integração elevada: A proposição articula a composição fundamental do D_REAL (Nível 1) através dos seus constituintes essenciais, D_SER e D_RELACAO (também Nível 1), sublinhando uma dependência estrutural que se estende aos fundamentos do Nível 0."
+    }
+  },
+  {
+    "id_proposicao": "P0015_ONT_CONST",
+    "texto_literal": "Sim, construindo de baixo para cima, ao nível das entidades e das propriedades e das relações.",
+    "localizacao_vertical": {
+      "nivel": "0-I",
+      "campo_principal": "D_ESTRUTURA",
+      "campos_secundarios": [
+        "D_DETERMINACAO",
+        "D_RELACAO",
+        "D_SER",
+        "D_REAL",
+        "D_DISTINCAO",
+        "D_RELACIONALIDADE_MINIMA"
+      ]
+    },
+    "operacao_ontologica": "Afirmação estrutural",
+    "dependencias": [
+      "D_DISTINCAO",
+      "D_DETERMINACAO",
+      "D_ESTRUTURA",
+      "D_RELACIONALIDADE_MINIMA",
+      "D_REAL"
+    ],
+    "gera": [
+      "D_ADEQUACAO",
+      "D_CRITERIO",
+      "D_VERDADE",
+      "D_DEVER_SER"
+    ],
+    "degeneracao_possivel": [
+      "D_ERRO_CATEGORIAL",
+      "D_AUTORREFERENCIALIDADE",
+      "D_MAL",
+      "D_SISTEMA_SIMBOLICO (fechamento por falta de fundamento no real)",
+      "D_ERRO_ONTOLOGICO (por falta de fundamento)"
+    ],
+    "reintegracao": [
+      "Re-fundamentação nos constituintes mínimos (D_DISTINCAO, D_DETERMINACAO, D_RELACAO)",
+      "D_CORRECAO (através de D_ADEQUACAO)",
+      "Aplicação rigorosa de D_CRITERIO"
+    ],
+    "grau_de_integracao": {
+      "nivel": 5,
+      "descricao": "A proposição é uma metarregra fundamental para a construção ontológica, buscando a máxima integração ao real desde a base. Se aplicada, garante elevada integração e evita a degeneração de níveis superiores."
+    }
+  },
+  {
+    "id_proposicao": "P0100_OntologicalExtraction_v1",
+    "texto_literal": "Porque o ser faz parte do real.",
+    "localizacao_vertical": {
+      "nivel": "1",
+      "campo_principal": "D_SER",
+      "campos_secundarios": [
+        "D_REAL",
+        "D_RELACIONALIDADE_MINIMA",
+        "D_DETERMINACAO"
+      ]
+    },
+    "operacao_ontologica": "Afirmação estrutural",
+    "dependencias": [
+      "D_REAL",
+      "D_DETERMINACAO",
+      "D_RELACIONALIDADE_MINIMA"
+    ],
+    "gera": [
+      "D_RELACAO",
+      "D_ATUALIZACAO",
+      "D_POTENCIALIDADE",
+      "D_TOTALIDADE",
+      "D_CONTINUIDADE"
+    ],
+    "degeneracao_possivel": [
+      "Tratar Ser como uma substância ou entidade separada do Real",
+      "Postular uma exterioridade ontológica ao Real que permitiria a existência de Ser fora dele",
+      "D_ERRO_ONTOLOGICO (se o Ser fosse entendido como algo para além do Real)",
+      "D_ERRO_CATEGORIAL (confundir o modo 'ser' com uma categoria ontologicamente independente do 'real')"
+    ],
+    "reintegracao": [
+      "Reafirmar a definição de D_SER como 'o real enquanto determinado em atualização'",
+      "Enfatizar a imanência de D_SER no D_REAL, como uma de suas manifestações ou determinações",
+      "Reconduzir qualquer conceptualização de Ser à sua condição de parte integrante e relacional do campo contínuo do Real"
+    ],
+    "grau_de_integracao": {
+      "nivel": 1,
+      "descricao": "Proposição fundamental que estabelece a relação de imanência e pertença do Ser ao Real, sendo crucial para a coerência de todos os níveis subsequentes."
+    }
+  },
+  {
+    "id_proposicao": "P0111_001",
+    "texto_literal": "O universo não tem consciência porque isso seria aplicar materialismo ao não material, tem sim uma componente não material, manifestada em diferentes modos de sofisticação, limitada, como tudo o resto, pela realidade.",
+    "localizacao_vertical": {
+      "nivel": "1",
+      "campo_principal": "D_SER",
+      "campos_secundarios": [
+        "D_LIMITE",
+        "D_REAL",
+        "D_DISTINCAO",
+        "D_DETERMINACAO",
+        "D_IMPOSSIBILIDADE_ONTOLOGICA",
+        "D_CONSCIENCIA_REFLEXIVA",
+        "D_ERRO_CATEGORIAL",
+        "D_ESCALA_ONTOLOGICA"
+      ]
+    },
+    "operacao_ontologica": "FIXAÇÃO DE CONDIÇÃO/LIMITE; IDENTIFICAÇÃO DE ADEQUAÇÃO/ERRO CATEGORIAL",
+    "dependencias": [
+      "D_REAL",
+      "D_LIMITE",
+      "D_SER",
+      "D_DISTINCAO",
+      "D_DETERMINACAO",
+      "D_CONSCIENCIA_REFLEXIVA",
+      "D_IMPOSSIBILIDADE_ONTOLOGICA"
+    ],
+    "gera": [
+      "D_ADEQUACAO",
+      "D_CRITERIO",
+      "D_VERDADE"
+    ],
+    "degeneracao_possivel": [
+      "D_ERRO_CATEGORIAL",
+      "D_ERRO_DE_ESCALA",
+      "D_AUTORREFERENCIALIDADE",
+      "D_SISTEMA_SIMBOLICO"
+    ],
+    "reintegracao": [
+      "D_ADEQUACAO",
+      "D_CRITERIO",
+      "D_CORRECAO"
+    ],
+    "grau_de_integracao": {
+      "nivel": 4,
+      "descricao": "Alta integração. A proposição estabelece limites ontológicos e identifica uma falha categorial, promovendo uma descrição mais adequada do real, embora a definição de 'não material' possa exigir maior explicitação para um nível 5."
+    }
+  }
+]

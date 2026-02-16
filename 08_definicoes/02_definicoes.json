@@ -1,0 +1,543 @@
+[
+  {
+    "id": "D_DISTINCAO",
+    "nivel": 0,
+    "campo": "Distinção",
+    "definicao": "Distinção é a condição mínima pela qual algo é diferente de outro algo ou de si em outro estado.",
+    "depende_de": [],
+    "exclui": ["Indistinção absoluta"],
+    "nota": "Sem distinção não há determinação, nem estrutura, nem discurso."
+  },
+  {
+    "id": "D_DETERMINACAO",
+    "nivel": 0,
+    "campo": "Determinação",
+    "definicao": "Determinação é a estabilização de uma distinção como 'isto e não aquilo'.",
+    "depende_de": ["Distinção"],
+    "exclui": ["Indeterminação total"],
+    "nota": "Determinar é fixar relacionalmente, não substancializar."
+  },
+  {
+    "id": "D_ESTRUTURA",
+    "nivel": 0,
+    "campo": "Estrutura",
+    "definicao": "Estrutura é a organização mínima de determinações segundo uma ordem relacional.",
+    "depende_de": ["Determinação"],
+    "exclui": ["Agregação sem forma"],
+    "nota": "Estrutura implica relação interna."
+  },
+  {
+    "id": "D_RELACIONALIDADE_MINIMA",
+    "nivel": 0,
+    "campo": "Relacionalidade mínima",
+    "definicao": "Relacionalidade mínima é a implicação interna necessária entre elementos estruturados.",
+    "depende_de": ["Estrutura"],
+    "exclui": ["Isolamento absoluto"],
+    "nota": "Não é ponte externa; é constituição."
+  },
+
+  {
+    "id": "D_REAL",
+    "nivel": 1,
+    "campo": "Real",
+    "definicao": "Real é o campo relacional contínuo no qual todas as determinações se atualizam sem admitir exterioridade.",
+    "depende_de": ["Relacionalidade mínima"],
+    "exclui": ["Nada absoluto", "Exterioridade ontológica"],
+    "nota": "O real não é objeto contido noutro domínio."
+  },
+  {
+    "id": "D_SER",
+    "nivel": 1,
+    "campo": "Ser",
+    "definicao": "Ser é o real enquanto determinado em atualização.",
+    "depende_de": ["Real", "Determinação"],
+    "exclui": ["Substância isolada"],
+    "nota": "Ser é determinação relacional, não entidade separada."
+  },
+  {
+    "id": "D_RELACAO",
+    "nivel": 1,
+    "campo": "Relação",
+    "definicao": "Relação é a determinação constitutiva pela qual o ser se diferencia no real.",
+    "depende_de": ["Ser", "Estrutura"],
+    "exclui": ["Ligação externa entre substâncias"],
+    "nota": "Relação é constituição, não conexão externa."
+  },
+  {
+    "id": "D_ATUALIZACAO",
+    "nivel": 1,
+    "campo": "Atualização",
+    "definicao": "Atualização é a determinação efetiva do poder-ser na continuidade do real.",
+    "depende_de": ["Ser", "Relação"],
+    "exclui": ["Possibilidade não inscrita no real"],
+    "nota": "Atualizar é existir concretamente."
+  },
+  {
+    "id": "D_CONTINUIDADE",
+    "nivel": 1,
+    "campo": "Continuidade",
+    "definicao": "Continuidade é a permanência estrutural do real através das suas atualizações.",
+    "depende_de": ["Atualização", "Estrutura"],
+    "exclui": ["Rutura absoluta"],
+    "nota": "Continuidade não implica imutabilidade."
+  },
+  {
+    "id": "D_POTENCIALIDADE",
+    "nivel": 1,
+    "campo": "Potencialidade",
+    "definicao": "Potencialidade é o campo real de possibilidades compatíveis com a estrutura do real.",
+    "depende_de": ["Real", "Estrutura"],
+    "exclui": ["Possibilidade lógica sem inscrição ontológica"],
+    "nota": "Não é entidade paralela ao real."
+  },
+  {
+    "id": "D_PODER_SER",
+    "nivel": 1,
+    "campo": "Poder-ser",
+    "definicao": "Poder-ser é a possibilidade real condicionada por limites estruturais.",
+    "depende_de": ["Potencialidade", "Limite"],
+    "exclui": ["Possibilidade absoluta"],
+    "nota": "O poder-ser é sempre situado."
+  },
+  {
+    "id": "D_LIMITE",
+    "nivel": 1,
+    "campo": "Limite",
+    "definicao": "Limite é a condição estrutural que torna certas atualizações possíveis e outras impossíveis.",
+    "depende_de": ["Estrutura", "Relação"],
+    "exclui": ["Arbitrariedade absoluta"],
+    "nota": "Limite orienta o poder-ser."
+  },
+  {
+    "id": "D_CAMPO",
+    "nivel": 1,
+    "campo": "Campo",
+    "definicao": "Campo é o âmbito relacional onde determinações e atualizações operam.",
+    "depende_de": ["Real", "Relação"],
+    "exclui": ["Espaço vazio independente do ser"],
+    "nota": "Campo não é recipiente físico."
+  },
+  {
+    "id": "D_IMPOSSIBILIDADE_ONTOLOGICA",
+    "nivel": 1,
+    "campo": "Impossibilidade ontológica",
+    "definicao": "Impossibilidade ontológica é aquilo cuja atualização violaria a estrutura do real.",
+    "depende_de": ["Limite", "Estrutura"],
+    "exclui": ["Possibilidade absoluta"],
+    "nota": "Fundamenta a exclusão do nada."
+  },
+  {
+    "id": "D_NAO_SER",
+    "nivel": 1,
+    "campo": "Não-ser",
+    "definicao": "Não-ser é a negação determinada de um estado possível no real.",
+    "depende_de": ["Distinção"],
+    "exclui": ["Nada absoluto"],
+    "nota": "O nada é impossibilidade ontológica."
+  },
+  {
+    "id": "D_TOTALIDADE",
+    "nivel": 1,
+    "campo": "Totalidade",
+    "definicao": "Totalidade é o real considerado sem exterioridade admissível.",
+    "depende_de": ["Campo", "Continuidade"],
+    "exclui": ["Meta-real"],
+    "nota": "Totalidade é unidade estrutural."
+  },
+  {
+    "id": "D_TEMPO",
+    "nivel": 2,
+    "campo": "Tempo",
+    "definicao": "Tempo é a forma da atualização contínua do real enquanto sucessão estruturalmente ordenada.",
+    "depende_de": ["Atualização", "Continuidade"],
+    "exclui": ["Dimensão externa ao real"],
+    "nota": "Tempo não é recipiente; é o próprio acontecer relacional."
+  },
+  {
+    "id": "D_REGULARIDADE",
+    "nivel": 2,
+    "campo": "Regularidade",
+    "definicao": "Regularidade é a repetição condicionada de atualizações sob os mesmos limites estruturais.",
+    "depende_de": ["Continuidade", "Limite"],
+    "exclui": ["Repetição arbitrária"],
+    "nota": "A ciência descreve regularidades, não cria o real."
+  },
+  {
+    "id": "D_ESCALA_ONTOLOGICA",
+    "nivel": 2,
+    "campo": "Escala ontológica",
+    "definicao": "Escala ontológica é a diferenciação entre níveis ou círculos de operação no campo do real.",
+    "depende_de": ["Campo", "Regularidade"],
+    "exclui": ["Homogeneidade absoluta entre níveis"],
+    "nota": "Erro de escala surge quando se aplica forma de um círculo a outro."
+  },
+  {
+    "id": "D_LOCALIDADE",
+    "nivel": 2,
+    "campo": "Localidade",
+    "definicao": "Localidade é a determinação situada de um ente no campo relacional do real.",
+    "depende_de": ["Campo", "Relação"],
+    "exclui": ["Ponto absoluto fora do real"],
+    "nota": "Toda apreensão é localizada."
+  },
+  {
+    "id": "D_CONTINUO",
+    "nivel": 2,
+    "campo": "Contínuo",
+    "definicao": "Contínuo é a persistência estrutural do real sem rutura absoluta entre estados.",
+    "depende_de": ["Continuidade"],
+    "exclui": ["Fragmentação ontológica total"],
+    "nota": "Continuidade não elimina diferenciação."
+  },
+  {
+    "id": "D_CIRCULO",
+    "nivel": 2,
+    "campo": "Círculo",
+    "definicao": "Círculo é unidade dinâmica de operação delimitada por escala e regularidade próprias.",
+    "depende_de": ["Escala ontológica", "Regularidade"],
+    "exclui": ["Isolamento absoluto"],
+    "nota": "Pequenos e grandes círculos interagem no mesmo real."
+  },
+  {
+    "id": "D_MOVIMENTO",
+    "nivel": 2,
+    "campo": "Movimento",
+    "definicao": "Movimento é a sequência localizada de atualizações no contínuo do real.",
+    "depende_de": ["Atualização", "Tempo"],
+    "exclui": ["Mudança fora do real"],
+    "nota": "Movimento é atualização encadeada."
+  },
+  {
+    "id": "D_ESTABILIDADE",
+    "nivel": 2,
+    "campo": "Estabilidade",
+    "definicao": "Estabilidade é a manutenção de regularidade sob limites estruturais ao longo do tempo.",
+    "depende_de": ["Regularidade", "Limite"],
+    "exclui": ["Permanência absoluta"],
+    "nota": "Estável não é imutável."
+  },
+  {
+    "id": "D_NECESSIDADE",
+    "nivel": 2,
+    "campo": "Necessidade",
+    "definicao": "Necessidade é aquilo que não pode deixar de ser sem colapso estrutural.",
+    "depende_de": ["Limite", "Impossibilidade ontológica"],
+    "exclui": ["Obrigação moral"],
+    "nota": "Necessidade é ontológica, não normativa."
+  },
+  {
+    "id": "D_CONTINGENCIA",
+    "nivel": 2,
+    "campo": "Contingência",
+    "definicao": "Contingência é o possível real que poderia não atualizar-se sem violar a estrutura do real.",
+    "depende_de": ["Poder-ser", "Limite"],
+    "exclui": ["Arbitrariedade absoluta"],
+    "nota": "Contingente não é irreal."
+  },
+  {
+    "id": "D_SER_HUMANO",
+    "nivel": 3,
+    "campo": "Ser humano",
+    "definicao": "Ser humano é o ente biológico reflexivo localizado no campo do real.",
+    "depende_de": ["Ser", "Localidade", "Continuidade"],
+    "exclui": ["Sujeito fora do real"],
+    "nota": "O humano é modo do real."
+  },
+  {
+    "id": "D_APREENSAO",
+    "nivel": 3,
+    "campo": "Apreensão",
+    "definicao": "Apreensão é a integração de uma afetação real por um ente localizado.",
+    "depende_de": ["Ser humano", "Campo", "Atualização"],
+    "exclui": ["Conhecimento extra-real"],
+    "nota": "Sem apreensão não há adaptação."
+  },
+  {
+    "id": "D_REPRESENTACAO",
+    "nivel": 3,
+    "campo": "Representação",
+    "definicao": "Representação é a tradução interna da apreensão sob forma simbólica ou imagética.",
+    "depende_de": ["Apreensão", "Continuidade"],
+    "exclui": ["Coincidência total com o real"],
+    "nota": "Mapa, não território."
+  },
+  {
+    "id": "D_MEDIACAO",
+    "nivel": 3,
+    "campo": "Mediação",
+    "definicao": "Mediação é a interposição simbólica entre apreensão e representação estabilizada.",
+    "depende_de": ["Representação", "Linguagem"],
+    "exclui": ["Contacto direto absoluto com o real"],
+    "nota": "Toda representação complexa implica mediação."
+  },
+  {
+    "id": "D_PONTO_DE_VISTA",
+    "nivel": 3,
+    "campo": "Ponto de vista",
+    "definicao": "Ponto de vista é a limitação situada da apreensão no campo do real.",
+    "depende_de": ["Localidade", "Apreensão"],
+    "exclui": ["Perspetiva total"],
+    "nota": "Toda descrição parte de um ponto de vista."
+  },
+  {
+    "id": "D_LINGUAGEM",
+    "nivel": 3,
+    "campo": "Linguagem",
+    "definicao": "Linguagem é o sistema estruturado de símbolos que permite estabilizar e transmitir representações.",
+    "depende_de": ["Símbolo", "Representação"],
+    "exclui": ["Identidade com o real"],
+    "nota": "Linguagem mapeia; não esgota."
+  },
+  {
+    "id": "D_SIMBOLO",
+    "nivel": 3,
+    "campo": "Símbolo",
+    "definicao": "Símbolo é a unidade de distinção representacional que traduz aspectos do real.",
+    "depende_de": ["Distinção", "Representação"],
+    "exclui": ["Objeto real em si"],
+    "nota": "Símbolo não é o que representa."
+  },
+  {
+    "id": "D_IMAGINACAO",
+    "nivel": 3,
+    "campo": "Imaginação",
+    "definicao": "Imaginação é a projeção representacional de possibilidades não atualizadas.",
+    "depende_de": ["Memória", "Poder-ser"],
+    "exclui": ["Criação extra-real"],
+    "nota": "Imaginar opera dentro do poder-ser."
+  },
+  {
+    "id": "D_MEMORIA",
+    "nivel": 3,
+    "campo": "Memória",
+    "definicao": "Memória é a inscrição que permite continuidade da consciência no tempo.",
+    "depende_de": ["Continuidade", "Ser humano"],
+    "exclui": ["Identidade fixa"],
+    "nota": "Sem memória não há reflexividade estável."
+  },
+  {
+    "id": "D_AUTORREFERENCIALIDADE",
+    "nivel": 3,
+    "campo": "Autorreferencialidade",
+    "definicao": "Autorreferencialidade é o fecho da representação sobre si mesma como critério.",
+    "depende_de": ["Representação", "Ponto de vista"],
+    "exclui": ["Abertura plena ao real"],
+    "nota": "Pode degenerar em interioridade fechada."
+  },
+  {
+    "id": "D_RELACAO_EU_REAL",
+    "nivel": 3,
+    "campo": "Relação eu–real",
+    "definicao": "Relação eu–real é a estrutura pela qual o ente reflexivo se reconhece como modo localizado no real.",
+    "depende_de": ["Apreensão", "Localidade"],
+    "exclui": ["Separação ontológica sujeito–mundo"],
+    "nota": "O eu não é exterior ao campo."
+  },
+  {
+    "id": "D_CONSCIENCIA_REFLEXIVA",
+    "nivel": 3,
+    "campo": "Consciência reflexiva",
+    "definicao": "Consciência reflexiva é a apreensão da própria apreensão sob um ponto de vista localizado.",
+    "depende_de": ["Apreensão", "Representação", "Localidade"],
+    "exclui": ["Observador fora do real"],
+    "nota": "É operação relacional, não substância."
+  },
+  {
+    "id": "D_ADEQUACAO",
+    "nivel": 4,
+    "campo": "Adequação",
+    "definicao": "Adequação é a coincidência operativa entre representação e real sob limite estrutural.",
+    "depende_de": ["Real", "Representação", "Limite"],
+    "exclui": ["Coerência interna como critério suficiente"],
+    "nota": "Adequação é critério ontológico, não consenso."
+  },
+  {
+    "id": "D_CRITERIO",
+    "nivel": 4,
+    "campo": "Critério",
+    "definicao": "Critério é a regra de decisão fundada na resistência estrutural do real.",
+    "depende_de": ["Adequação", "Limite"],
+    "exclui": ["Validação puramente formal"],
+    "nota": "Critério não nasce do consenso."
+  },
+  {
+    "id": "D_VERDADE",
+    "nivel": 4,
+    "campo": "Verdade",
+    "definicao": "Verdade é a melhor descrição possível do real segundo o critério de adequação.",
+    "depende_de": ["Adequação", "Critério"],
+    "exclui": ["Consenso como fundamento"],
+    "nota": "Verdade é grau, não absoluto discursivo."
+  },
+  {
+    "id": "D_ERRO_ONTOLOGICO",
+    "nivel": 4,
+    "campo": "Erro ontológico",
+    "definicao": "Erro ontológico é a desadequação estrutural entre representação e real.",
+    "depende_de": ["Adequação", "Representação"],
+    "exclui": ["Acidente externo ao processo"],
+    "nota": "Erro é interno ao modo reflexivo."
+  },
+  {
+    "id": "D_ERRO_CATEGORIAL",
+    "nivel": 4,
+    "campo": "Erro categorial",
+    "definicao": "Erro categorial é a confusão entre níveis ontológicos distintos.",
+    "depende_de": ["Distinção", "Erro ontológico"],
+    "exclui": ["Mera imprecisão linguística"],
+    "nota": "Exemplo: tratar poder-ser como atual."
+  },
+  {
+    "id": "D_ERRO_DE_ESCALA",
+    "nivel": 4,
+    "campo": "Erro de escala",
+    "definicao": "Erro de escala é a aplicação ilegítima de um critério válido num círculo a outro círculo.",
+    "depende_de": ["Escala ontológica", "Erro ontológico"],
+    "exclui": ["Erro factual simples"],
+    "nota": "É erro estrutural."
+  },
+  {
+    "id": "D_VALIDADE",
+    "nivel": 4,
+    "campo": "Validade",
+    "definicao": "Validade é a pretensão formal de correção sob um critério explícito.",
+    "depende_de": ["Critério", "Linguagem"],
+    "exclui": ["Verdade garantida"],
+    "nota": "Validade não implica adequação plena."
+  },
+  {
+    "id": "D_CORRECAO",
+    "nivel": 4,
+    "campo": "Correção",
+    "definicao": "Correção é o movimento de ajuste da representação ao real após identificação de erro.",
+    "depende_de": ["Erro ontológico", "Critério"],
+    "exclui": ["Persistência autorreferencial"],
+    "nota": "Correção reabre o circuito ao real."
+  },
+  {
+    "id": "D_LIBERDADE_SITUADA",
+    "nivel": 5,
+    "campo": "Liberdade situada",
+    "definicao": "Liberdade situada é a capacidade real de escolha dentro do campo de poder-ser delimitado.",
+    "depende_de": ["Poder-ser", "Localidade"],
+    "exclui": ["Liberdade absoluta"],
+    "nota": "Liberdade opera sob limite estrutural."
+  },
+  {
+    "id": "D_CAMPO_DE_POTENCIALIDADES",
+    "nivel": 5,
+    "campo": "Campo de potencialidades",
+    "definicao": "Campo de potencialidades é o horizonte real de futuros possíveis próprios e alheios.",
+    "depende_de": ["Poder-ser", "Continuidade"],
+    "exclui": ["Fantasia ilimitada"],
+    "nota": "Campo ético é campo ontológico."
+  },
+  {
+    "id": "D_RESPONSABILIDADE_ONTOLOGICA",
+    "nivel": 5,
+    "campo": "Responsabilidade ontológica",
+    "definicao": "Responsabilidade ontológica é a imputação real de efeitos das atualizações no campo de potencialidades.",
+    "depende_de": ["Liberdade situada", "Campo de potencialidades"],
+    "exclui": ["Irresponsabilidade estrutural"],
+    "nota": "Agir altera o real."
+  },
+  {
+    "id": "D_DANO_REAL",
+    "nivel": 5,
+    "campo": "Dano real",
+    "definicao": "Dano real é a redução efetiva de potencialidades legítimas no campo do real.",
+    "depende_de": ["Atualização", "Campo de potencialidades"],
+    "exclui": ["Desaprovação subjetiva"],
+    "nota": "Dano é ontológico."
+  },
+  {
+    "id": "D_BEM",
+    "nivel": 5,
+    "campo": "Bem",
+    "definicao": "Bem é a adequação prática da ação ao real preservando ou expandindo o campo de potencialidades legítimas.",
+    "depende_de": ["Adequação", "Responsabilidade ontológica"],
+    "exclui": ["Norma externa ao ser"],
+    "nota": "Bem deriva do ser."
+  },
+  {
+    "id": "D_MAL",
+    "nivel": 5,
+    "campo": "Mal",
+    "definicao": "Mal é a atualização que reduz ou destrói potencialidades reais sem fundamento estrutural.",
+    "depende_de": ["Dano real", "Erro ontológico"],
+    "exclui": ["Categoria metafísica independente"],
+    "nota": "Mal é desadequação prática."
+  },
+  {
+    "id": "D_DIRECAO_ONTOLOGICA",
+    "nivel": 5,
+    "campo": "Direção ontológica",
+    "definicao": "Direção ontológica é a orientação do ser no tempo segundo adequação estrutural.",
+    "depende_de": ["Tempo", "Bem"],
+    "exclui": ["Teleologia externa"],
+    "nota": "Direção emerge da estrutura do real."
+  },
+  {
+    "id": "D_DEVER_SER",
+    "nivel": 5,
+    "campo": "Dever-ser",
+    "definicao": "Dever-ser é a projeção normativa legítima quando fundada no poder-ser real.",
+    "depende_de": ["Direção ontológica", "Poder-ser"],
+    "exclui": ["Moralismo desligado do ser"],
+    "nota": "Dever-ser deriva; não funda."
+  },
+  {
+    "id": "D_SISTEMA",
+    "nivel": 6,
+    "campo": "Sistema",
+    "definicao": "Sistema é estabilização de regularidades sob forma estruturada de repetição funcional.",
+    "depende_de": ["Regularidade", "Linguagem"],
+    "exclui": ["Totalidade do real"],
+    "nota": "Sistema é parte do campo; não o substitui."
+  },
+  {
+    "id": "D_SISTEMA_SIMBOLICO",
+    "nivel": 6,
+    "campo": "Sistema simbólico",
+    "definicao": "Sistema simbólico é sistema cuja matéria é representação estabilizada.",
+    "depende_de": ["Sistema", "Símbolo"],
+    "exclui": ["Coincidência com o real"],
+    "nota": "Pode fechar-se sobre si."
+  },
+  {
+    "id": "D_CULTURA",
+    "nivel": 6,
+    "campo": "Cultura",
+    "definicao": "Cultura é continuidade simbólica transindividual no tempo.",
+    "depende_de": ["Sistema simbólico", "Continuidade"],
+    "exclui": ["Espontaneidade isolada"],
+    "nota": "Cultura transmite modos de ser."
+  },
+  {
+    "id": "D_INSTITUICAO",
+    "nivel": 6,
+    "campo": "Instituição",
+    "definicao": "Instituição é sistema estabilizado de práticas repetidas sob norma reconhecida.",
+    "depende_de": ["Sistema", "Cultura"],
+    "exclui": ["Hábito individual isolado"],
+    "nota": "Instituição cristaliza relação."
+  },
+  {
+    "id": "D_DIREITO_COMO_DESCRICAO",
+    "nivel": 6,
+    "campo": "Direito como descrição",
+    "definicao": "Direito como descrição é cristalização normativa fundada na descrição adequada das relações humanas.",
+    "depende_de": ["Instituição", "Critério"],
+    "exclui": ["Lei arbitrária"],
+    "nota": "Degenera quando se autonomiza do real."
+  },
+  {
+    "id": "D_TECNOLOGIA",
+    "nivel": 6,
+    "campo": "Tecnologia",
+    "definicao": "Tecnologia é instrumentalização do real para amplificar atualizações sob limite estrutural.",
+    "depende_de": ["Sistema", "Atualização"],
+    "exclui": ["Poder ilimitado"],
+    "nota": "Técnica não altera a estrutura do real."
+  }
+]
