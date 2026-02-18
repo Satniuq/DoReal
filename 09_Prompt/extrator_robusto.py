@@ -9,6 +9,7 @@ import re
 import os
 import numpy as np
 from dotenv import load_dotenv
+import hashlib
 
 # ==========================================
 # 0) CONFIGURAÇÃO
@@ -21,7 +22,7 @@ if not API_KEY:
 
 client = genai.Client(api_key=API_KEY)
 
-MODELO_RACIOCINIO = "models/gemini-2.5-pro"
+MODELO_RACIOCINIO = "models/gemini-2.5-flash"
 MODELO_EMBEDDING = "models/gemini-embedding-001"
 
 FICHEIRO_MANUSCRITO = "data/06_01Texto_No_Indice_TXT.txt"
@@ -147,6 +148,20 @@ def expandir_ids(ids_candidatos, grafo):
         permitidos |= novos
     return sorted(permitidos)
 
+def extrair_texto_literal(fr: str):
+    """
+    Extrai (id, texto_literal) a partir de uma linha do tipo:
+    [n] ID: PXXXX | texto...
+    """
+    for linha in fr.splitlines():
+        m = re.match(r"\[\d+\]\s+ID:\s*(P\d+)\s*\|\s*(.+)", linha)
+        if m:
+            return m.group(1), m.group(2)
+    return None, None
+
+
+def sha256(s: str) -> str:
+    return hashlib.sha256(s.encode("utf-8")).hexdigest()
 
 # ==========================================
 # 5) VALIDAÇÃO
@@ -191,9 +206,20 @@ def validar_ficha(ficha, grafo, operacoes_validas, ids_permitidos):
     ficha["operacao_ontologica"] = partes
 
     if cp in grafo:
-        faltam = set(grafo[cp].get("depende_de", [])) - set(ficha.get("dependencias", []))
+        deps_obrig = set(grafo[cp].get("depende_de", []))
+        deps_decl = set(ficha.get("dependencias", []))
+
+        # Explicitação forçada
+        faltam = deps_obrig - deps_decl
         if faltam:
-            erros.append(f"Faltam dependências para {cp}: {list(faltam)}")
+            ficha.setdefault("dependencias", [])
+            ficha["dependencias"] = sorted(
+                set(ficha.get("dependencias", [])) | faltam
+            )
+
+            # Revalidação defensiva
+            if deps_obrig - set(ficha.get("dependencias", [])):
+                erros.append(f"Faltam dependências para {cp}: {list(faltam)}")
 
     return erros
 
@@ -218,6 +244,8 @@ REGRAS:
 1. Responde APENAS JSON puro.
 2. campo_principal TEM de ser um dos IDs permitidos.
 3. O nível TEM de coincidir exatamente.
+4. Se o campo_principal tiver dependências ontológicas, estas devem constar explicitamente no campo "dependencias".
+
 
 IDs PERMITIDOS:
 {contexto}
@@ -231,7 +259,7 @@ FRAGMENTO:
 ESQUEMA:
 {{
   "id_proposicao": "PXXXX",
-  "texto_literal": "...",
+  "texto_literal": "(preenchido automaticamente pelo sistema)",
   "localizacao_vertical": {{ "nivel": N, "campo_principal": "ID", "campos_secundarios": [] }},
   "operacao_ontologica": "OP1; OP2",
   "dependencias": [],
@@ -281,6 +309,10 @@ def processar():
     print(" COMPILADOR ONTOLÓGICO v3.2")
     print("=" * 60)
 
+    # 1) Inicialização de Contadores de Consumo
+    total_input_tokens = 0
+    total_output_tokens = 0
+
     ids_ignorados = carregar_ids_ignorados()
     if ids_ignorados:
         print(f"⏭️  A ignorar {len(ids_ignorados)} proposições já tratadas.")
@@ -288,25 +320,51 @@ def processar():
     grafo, operacoes, vetores = carregar_ecossistema()
     os.makedirs(os.path.dirname(FICHEIRO_SAIDA), exist_ok=True)
 
+    # 2) Carregamento de Fragmentos
     fragmentos = []
+    txt_map = {}
+    if not os.path.exists(FICHEIRO_MANUSCRITO):
+        print(f"❌ Erro: Ficheiro {FICHEIRO_MANUSCRITO} não encontrado.")
+        return
+
     with open(FICHEIRO_MANUSCRITO, "r", encoding="utf-8") as f:
-        for fr in f.read().split("----------"):
-            fr = fr.strip()
-            m = re.search(r"ID:\s*(P\d+)", fr)
-            if not m:
-                continue
-            if m.group(1) in ids_ignorados:
-                continue
-            fragmentos.append(fr)
+        conteudo = f.read()
+
+    for bloco in conteudo.split("----------"):
+        bloco = bloco.strip()
+        if not bloco:
+            continue
+
+        pid, texto = extrair_texto_literal(bloco)
+        if not pid:
+            continue
+
+        # fonte canónica: 1 ID → 1 texto
+        if pid not in txt_map:
+            txt_map[pid] = texto
+
+        if pid in ids_ignorados:
+            continue
+
+        fragmentos.append(bloco)
 
     if LIMITE_FRAGMENTOS_TESTE:
+        print(f"🧪 Modo Teste Ativo: limitado a {LIMITE_FRAGMENTOS_TESTE} fragmentos.")
         fragmentos = fragmentos[:LIMITE_FRAGMENTOS_TESTE]
 
-    resultados = []
+    resultados_map = {}
     if os.path.exists(FICHEIRO_SAIDA):
-        with open(FICHEIRO_SAIDA, "r", encoding="utf-8") as f:
-            resultados = json.load(f)
+        try:
+            with open(FICHEIRO_SAIDA, "r", encoding="utf-8") as f:
+                dados = json.load(f)
+            if isinstance(dados, list):
+                for d in dados:
+                    if isinstance(d, dict) and isinstance(d.get("id_proposicao"), str):
+                        resultados_map[d["id_proposicao"]] = d
+        except:
+            resultados_map = {}
 
+    # 3) Loop de Processamento
     for i, frag in enumerate(fragmentos, 1):
         p_id = re.search(r"ID:\s*(P\d+)", frag).group(1)
         print(f"\n▶ [{i}/{len(fragmentos)}] {p_id}")
@@ -319,38 +377,89 @@ def processar():
 
         while tentativas < 3:
             try:
+                # Chamada à API
                 response = client.models.generate_content(
                     model=MODELO_RACIOCINIO,
                     contents=prompt
                 )
 
-                ficha = json.loads(limpar_json(response.text))
-                ficha["id_proposicao"] = p_id
+                # Registo imediato de metadados (custo)
+                meta = response.usage_metadata
+                total_input_tokens += meta.prompt_token_count
+                total_output_tokens += meta.candidates_token_count
+                
+                print(f"   [Tokens] In: {meta.prompt_token_count} | Out: {meta.candidates_token_count}")
 
+                # Tratamento da Resposta
+                texto_limpo = limpar_json(response.text)
+                ficha = json.loads(texto_limpo)
+
+                # --- FIXAÇÃO CANÓNICA ---
+                ficha["id_proposicao"] = p_id
+                ficha["texto_literal"] = txt_map[p_id]   # ← OBRIGATÓRIO
+
+                # --- VALIDAÇÃO RÍGIDA ---
                 erros = validar_ficha(ficha, grafo, operacoes, set(ids_p))
                 if not erros:
-                    resultados.append(ficha)
-                    print("  ✅ Validado")
+
+                    # --- VINCULAÇÃO TEXTUAL (AQUI) ---
+                    ficha["_vinculacao_textual"] = {
+                        "hash_texto": sha256(ficha["texto_literal"]),
+                        "hash_atributos": sha256(
+                            json.dumps(
+                                {
+                                    k: v
+                                    for k, v in ficha.items()
+                                    if k not in ("texto_literal", "_vinculacao_textual")
+                                },
+                                ensure_ascii=False,
+                                sort_keys=True,
+                                separators=(",", ":")
+                            )
+                        ),
+                        "metodo": "sha256(texto)+sha256(atributos)",
+                        "versao_extractor": "3.2-canonic"
+                    }
+
+                    resultados_map[p_id] = ficha
+                    print("   ✅ Validado e Guardado")
                     break
 
+                
+                # Se houver erros, o prompt é reconstruído para a próxima tentativa
+                print(f"   ⚠️ Erros de validação (Tentativa {tentativas+1}): {erros}")
                 prompt = construir_prompt(frag, ids_p, grafo, operacoes, erros)
                 tentativas += 1
 
             except Exception as e:
-                print(f"  ❌ Erro técnico em {p_id}: {e}")
+                print(f"   ❌ Erro técnico em {p_id}: {e}")
                 registar_falha(p_id, frag, e)
                 break
 
             time.sleep(PAUSA_ENTRE_CHAMADAS)
 
+        # Gravação incremental (segurança contra quebras de energia/net)
         with open(FICHEIRO_SAIDA, "w", encoding="utf-8") as f_out:
-            json.dump(resultados, f_out, ensure_ascii=False, indent=2)
+            json.dump(list(resultados_map.values()), f_out, ensure_ascii=False, indent=2)
 
+    # 4) Resumo Final de Custos e Execução
+    print("\n" + "=" * 60)
+    print(" 📊 RESUMO DE CONSUMO E CUSTOS")
+    print("-" * 60)
+    print(f"Total Tokens Entrada: {total_input_tokens:,}")
+    print(f"Total Tokens Saída:   {total_output_tokens:,}")
+    
+    # Estimativa de custos (Baseada em Gemini 2.5 Pro - Fev 2026)
+    # Preços aprox: $1.25/1M In | $10.00/1M Out (convertido para EUR)
+    custo_est_eur = ((total_input_tokens / 1_000_000) * 1.15) + ((total_output_tokens / 1_000_000 * 9.30))
+    
+    print(f"Custo Estimado da Sessão: €{custo_est_eur:.2f}")
+    
     if os.path.exists(FICHEIRO_FALHADOS):
-        print("\n⚠️  Atenção: existem fragmentos falhados.")
-        print(f"   → Ver: {FICHEIRO_FALHADOS}")
+        print(f"⚠️ Atenção: Verifica os erros em {FICHEIRO_FALHADOS}")
 
-    print(f"\nConcluído → {FICHEIRO_SAIDA}")
+    print(f"Concluído com sucesso → {FICHEIRO_SAIDA}")
+    print("=" * 60)
 
 
 if __name__ == "__main__":
