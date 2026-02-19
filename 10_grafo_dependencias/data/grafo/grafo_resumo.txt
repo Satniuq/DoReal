@@ -1,0 +1,41 @@
+GRAFO DE DEPENDÊNCIAS — RESUMO
+
+Nós: 2302
+Arestas: 16233
+Tipos: {'def': 60, 'prop': 1861, '??': 381}
+
+Toposort: CICLOS DETETADOS
+Nós em ciclo (Kahn): 27
+SCCs (componentes fortemente ligadas) >1: 0
+
+Top 30 nós por grau total (in+out):
+  D_REAL [def] grau=1127 (in=1126, out=1) :: D_REAL:Real
+  Reintegração ontológica [] grau=787 (in=787, out=0) :: Reintegração ontológica
+  D_REPRESENTACAO [def] grau=695 (in=693, out=2) :: D_REPRESENTACAO:Representação
+  Crítica de fechamento simbólico [] grau=650 (in=650, out=0) :: Crítica de fechamento simbólico
+  D_ADEQUACAO [def] grau=643 (in=640, out=3) :: D_ADEQUACAO:Adequação
+  Submissão ao real [] grau=612 (in=612, out=0) :: Submissão ao real
+  D_LOCALIDADE [def] grau=594 (in=592, out=2) :: D_LOCALIDADE:Localidade
+  D_APREENSAO [def] grau=560 (in=557, out=3) :: D_APREENSAO:Apreensão
+  D_ESTRUTURA [def] grau=555 (in=554, out=1) :: D_ESTRUTURA:Estrutura
+  Substituição do real por sistema [] grau=511 (in=511, out=0) :: Substituição do real por sistema
+  D_SER_HUMANO [def] grau=436 (in=433, out=3) :: D_SER_HUMANO:Ser humano
+  D_ATUALIZACAO [def] grau=397 (in=395, out=2) :: D_ATUALIZACAO:Atualização
+  D_CRITERIO [def] grau=392 (in=390, out=2) :: D_CRITERIO:Critério
+  D_CONTINUIDADE [def] grau=386 (in=384, out=2) :: D_CONTINUIDADE:Continuidade
+  Identificação de substituição do real por sistema [] grau=377 (in=377, out=0) :: Identificação de substituição do real por sistema
+  D_ERRO_ONTOLOGICO [def] grau=375 (in=373, out=2) :: D_ERRO_ONTOLOGICO:Erro ontológico
+  D_SER [def] grau=366 (in=364, out=2) :: D_SER:Ser
+  D_CAMPO [def] grau=357 (in=355, out=2) :: D_CAMPO:Campo
+  D_LIMITE [def] grau=349 (in=347, out=2) :: D_LIMITE:Limite
+  D_DETERMINACAO [def] grau=274 (in=273, out=1) :: D_DETERMINACAO:Determinação
+  D_RELACAO [def] grau=261 (in=259, out=2) :: D_RELACAO:Relação
+  D_VERDADE [def] grau=227 (in=225, out=2) :: D_VERDADE:Verdade
+  D_RELACAO_EU_REAL [def] grau=225 (in=223, out=2) :: D_RELACAO_EU_REAL:Relação eu–real
+  D_PONTO_DE_VISTA [def] grau=216 (in=214, out=2) :: D_PONTO_DE_VISTA:Ponto de vista
+  D_PODER_SER [def] grau=209 (in=207, out=2) :: D_PODER_SER:Poder-ser
+  D_CONSCIENCIA_REFLEXIVA [def] grau=196 (in=193, out=3) :: D_CONSCIENCIA_REFLEXIVA:Consciência reflexiva
+  D_LINGUAGEM [def] grau=177 (in=175, out=2) :: D_LINGUAGEM:Linguagem
+  D_CAMPO_DE_POTENCIALIDADES [def] grau=170 (in=168, out=2) :: D_CAMPO_DE_POTENCIALIDADES:Campo de potencialidades
+  D_SISTEMA [def] grau=166 (in=164, out=2) :: D_SISTEMA:Sistema
+  D_RESPONSABILIDADE_ONTOLOGICA [def] grau=162 (in=160, out=2) :: D_RESPONSABILIDADE_ONTOLOGICA:Responsabilidade ontológica
