@@ -13,43 +13,49 @@
   },
 
   "descricao": {
-    "texto": "Percurso que explicita como o erro estrutural, quando persistente e não corrigido, pode conduzir à produção de dano real, à constituição do mal como direção ontológica e, finalmente, à degeneração de práticas, sistemas ou instituições por afastamento continuado do real.",
+    "texto": "Percurso que explicita como o erro estrutural, quando persistente e não corrigido, se inscreve nas práticas através da liberdade situada, pode produzir dano real, configurar o mal como direção ontológica de afastamento do real e conduzir à degeneração estrutural de práticas, sistemas ou instituições.",
     "alcance": "critico_ontologico",
     "criterio_ultimo": "D_REAL"
   },
 
-  "inicio": "D_LIBERDADE_SITUADA",
-  "termino": "D_DANO_REAL",
+  "inicio": "D_REPRESENTACAO",
+  "termino": "D_CAMPO_DE_POTENCIALIDADES",
 
   "sequencia": [
+    "D_REPRESENTACAO",
+    "D_ERRO_ONTOLOGICO",
     "D_LIBERDADE_SITUADA",
     "D_RESPONSABILIDADE_ONTOLOGICA",
     "D_DIRECAO_ONTOLOGICA",
     "D_MAL",
-    "D_DANO_REAL"
+    "D_DANO_REAL",
+    "D_CAMPO_DE_POTENCIALIDADES"
   ],
 
   "pressupostos_estruturais": [
-    "Toda a liberdade é situada e limitada pelo campo de potencialidades reais",
-    "Erro não corrigido tem efeitos ontológicos",
+    "A mediação representacional é estruturalmente falível",
+    "Erro não corrigido pode transitar da esfera epistemológica para a prática",
+    "Toda a liberdade situada implica responsabilidade ontológica",
     "O mal não é substância, mas direção ontológica de afastamento do real",
     "A persistência do erro pode produzir dano real acumulado",
-    "A degeneração emerge quando o dano é normalizado ou justificado"
+    "A degeneração emerge quando o dano é normalizado, justificado ou institucionalizado",
+    "A redução do campo de potencialidades é o efeito estrutural último da degeneração"
   ],
 
   "operacoes_ativas": [
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_RECONDUCAO_RELACIONAL",
     "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA",
     "OP_IDENTIFICACAO_DANO_REAL",
-    "OP_IDENTIFICACAO_DEGENERACAO",
     "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA"
-    ],
+  ],
 
   "resultado_critico": {
-    "descricao": "Capacidade de identificar a passagem do erro à produção de dano real e à degeneração estrutural, distinguindo falhas pontuais de processos persistentes de afastamento do real.",
+    "descricao": "Capacidade de identificar a passagem do erro não corrigido à produção de dano real e à degeneração estrutural, distinguindo falhas pontuais de processos persistentes de afastamento do real.",
     "implica": [
       "reconhecimento do erro como ontologicamente relevante",
       "distinção entre mal evitável e dano inevitável",
-      "identificação de processos degenerativos"
+      "identificação de processos degenerativos em práticas e sistemas"
     ]
   },
 
@@ -64,7 +70,7 @@
     },
     {
       "tipo": "tecnocratico",
-      "descricao": "Justificação do dano com base em eficiência sistémica."
+      "descricao": "Justificação do dano com base exclusiva em eficiência sistémica."
     }
   ],
 

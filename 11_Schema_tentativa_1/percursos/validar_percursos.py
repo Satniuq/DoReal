@@ -6,10 +6,8 @@ import json
 # CONTEXTO DO PROJETO
 # =====================================================
 
-# Diretório raiz do projeto (11_Schema_tentativa_1)
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
-# Garante que o Python encontra os módulos do projeto
 if BASE_DIR not in sys.path:
     sys.path.insert(0, BASE_DIR)
 
@@ -22,22 +20,7 @@ from carregar_conceitos import carregar_conceitos
 PASTA_PERCURSOS = os.path.join(BASE_DIR, "percursos")
 PASTA_OPERACOES = os.path.join(BASE_DIR, "operacoes")
 
-# Operações epistemológicas (só válidas em percursos epistemológicos)
-OPERACOES_EPISTEMOLOGICAS = {
-    "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
-    "OP_IDENTIFICACAO_ERRO_CATEGORIAL",
-    "OP_IDENTIFICACAO_ERRO_ESCALA",
-    "OP_FIXACAO_CRITERIO",
-    "OP_IDENTIFICACAO_ADEQUACAO",
-}
-
-# Operações corretivas (esperadas apenas em blocos próprios)
-OPERACOES_CORRETIVAS = {
-    "OP_REINTEGRACAO_ONTOLOGICA",
-    "OP_SUBMISSAO_REAL",
-}
-
-# Conceitos que NÃO existem no sistema
+# Conceitos explicitamente proibidos (legado de segurança)
 CONCEITOS_INVALIDOS = {
     "D_ERRO",
     "D_INADEQUACAO",
@@ -49,8 +32,8 @@ CONCEITOS_INVALIDOS = {
 # CARREGAMENTOS
 # =====================================================
 
-def carregar_operacoes(base_dir):
-    caminho = os.path.join(base_dir, "operacoes.json")
+def carregar_operacoes():
+    caminho = os.path.join(PASTA_OPERACOES, "operacoes.json")
     with open(caminho, encoding="utf-8") as f:
         return json.load(f)
 
@@ -59,8 +42,7 @@ def carregar_percursos():
     percursos = {}
     for fname in os.listdir(PASTA_PERCURSOS):
         if fname.endswith(".json"):
-            caminho = os.path.join(PASTA_PERCURSOS, fname)
-            with open(caminho, encoding="utf-8") as f:
+            with open(os.path.join(PASTA_PERCURSOS, fname), encoding="utf-8") as f:
                 percursos[fname] = json.load(f)
     return percursos
 
@@ -77,8 +59,15 @@ def validar_percurso(pid, p, conceitos, operacoes):
     inicio = p.get("inicio")
     termino = p.get("termino")
     tipo = p.get("tipo", "")
+    estatuto = p.get("estatuto_do_percurso", {})
 
-    # ---- Sequência
+    transversal = estatuto.get("transversal", False)
+    natureza = estatuto.get("natureza", "")
+
+    # -------------------------------------------------
+    # Sequência estrutural
+    # -------------------------------------------------
+
     if not sequencia:
         erros.append("sequência vazia")
 
@@ -88,27 +77,58 @@ def validar_percurso(pid, p, conceitos, operacoes):
     if sequencia and sequencia[-1] != termino:
         erros.append(f"termino ({termino}) não coincide com o último da sequência")
 
-    # ---- Conceitos
+    # -------------------------------------------------
+    # Conceitos
+    # -------------------------------------------------
+
     for c in sequencia:
         if c in CONCEITOS_INVALIDOS:
             erros.append(f"conceito inválido usado: {c}")
         elif c not in conceitos:
             erros.append(f"conceito inexistente: {c}")
 
-    # ---- Operações ativas
+    # -------------------------------------------------
+    # Operações ativas
+    # -------------------------------------------------
+
     for op in p.get("operacoes_ativas", []):
         if op not in operacoes:
             erros.append(f"operação inexistente: {op}")
+            continue
 
-        if op in OPERACOES_EPISTEMOLOGICAS and "epistemologico" not in tipo:
-            erros.append(
-                f"operação epistemológica usada em percurso não epistemológico: {op}"
+        tipo_op = operacoes[op].get("tipo", "")
+
+        # Operações epistemológicas
+        if tipo_op == "epistemologica":
+
+            # Caso legítimo: percurso epistemológico
+            if "epistemologico" in tipo:
+                continue
+
+            # Caso legítimo: percurso transversal (vida filosófica, ética crítica, etc.)
+            if transversal:
+                continue
+
+            # Caso intermédio: ontológico com incursão epistemológica
+            avisos.append(
+                f"operação epistemológica usada em percurso não epistemológico nem transversal: {op}"
             )
 
-    # ---- Operações de correção
+    # -------------------------------------------------
+    # Operações de correção
+    # -------------------------------------------------
+
     for op in p.get("operacoes_de_correcao", []):
-        if op not in OPERACOES_CORRETIVAS:
-            avisos.append(f"operação de correção inesperada: {op}")
+        if op not in operacoes:
+            erros.append(f"operação de correção inexistente: {op}")
+            continue
+
+        criterio = operacoes[op].get("criterio_ultimo")
+
+        if criterio != "D_REAL":
+            erros.append(
+                f"operação de correção sem critério último no real: {op}"
+            )
 
     return erros, avisos
 
@@ -119,7 +139,7 @@ def validar_percurso(pid, p, conceitos, operacoes):
 
 if __name__ == "__main__":
     conceitos = carregar_conceitos(os.path.join(BASE_DIR, "conceitos"))
-    operacoes = carregar_operacoes(PASTA_OPERACOES)
+    operacoes = carregar_operacoes()
     percursos = carregar_percursos()
 
     print("\n=== VALIDAÇÃO DOS PERCURSOS ===\n")
