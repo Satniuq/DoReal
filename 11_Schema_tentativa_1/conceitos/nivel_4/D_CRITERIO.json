@@ -1,0 +1,51 @@
+{
+  "id": "D_CRITERIO",
+  "nome": "Critério",
+  "nivel": 4,
+  "dominio": "epistemologico",
+
+  "definicao": {
+    "texto": "Critério é o princípio de decisão pelo qual representações, descrições ou ações são avaliadas segundo a resistência estrutural do real a que se referem.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "principio_epistemico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_ADEQUACAO", "D_REAL", "D_LIMITE"],
+    "pressupoe": [],
+    "implica": ["D_VALIDADE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_FIXACAO_CRITERIO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_VALIDADE"],
+    "pode_gerar_erro": ["criterio_autonomizado"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "resistencia_do_real",
+    "condicoes_de_erro": ["criterio_interno"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["criterialismo"],
+    "leituras_a_evitar": ["criterio_como_convensao"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

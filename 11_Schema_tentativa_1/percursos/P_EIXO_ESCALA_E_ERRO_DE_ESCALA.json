@@ -1,0 +1,85 @@
+{
+  "id": "P_EIXO_ESCALA_E_ERRO_DE_ESCALA",
+
+  "nome": "Eixo da Escala Ontológica e do Erro de Escala",
+
+  "tipo": "axial_epistemologico_critico",
+
+  "estatuto_do_percurso": {
+    "natureza": "epistemologico_estrutural",
+    "funcao": "identificar_aplicacoes_ilegítimas_de_criterios_ontologicos",
+    "dependente_de_localizacao": true,
+    "criterio_ultimo": "D_REAL"
+  },
+
+  "descricao": {
+    "texto": "Percurso que explicita como a diferenciação por escalas ontológicas condiciona a validade de descrições, critérios e juízos, mostrando como o erro de escala surge quando um critério válido numa escala é aplicado ilegítima ou redutivamente noutra.",
+    "alcance": "epistemologico_critico",
+    "criterio_ultimo": "D_REAL"
+  },
+
+  "inicio": "D_ESCALA_ONTOLOGICA",
+  "termino": "D_ERRO_DE_ESCALA",
+
+  "sequencia": [
+    "D_ESCALA_ONTOLOGICA",
+    "D_LOCALIDADE",
+    "D_PONTO_DE_VISTA",
+    "D_REPRESENTACAO",
+    "D_CRITERIO",
+    "D_ERRO_DE_ESCALA"
+  ],
+
+  "pressupostos_estruturais": [
+    "O real é diferenciado internamente por escalas ontológicas",
+    "Nenhuma descrição é válida fora da sua escala de aplicação",
+    "Todo o ponto de vista opera numa escala situada",
+    "Critérios não são universalizáveis por abstração",
+    "Erro de escala é estrutural, não meramente psicológico"
+  ],
+
+  "operacoes_ativas": [
+    "OP_IDENTIFICACAO_ESCALA",
+    "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+    "OP_FIXACAO_CRITERIO",
+    "OP_IDENTIFICACAO_ERRO_ESCALA",
+    "OP_SUBMISSAO_REAL"
+  ],
+
+  "resultado_epistemologico": {
+    "descricao": "Capacidade de distinguir entre erros descritivos e erros de escala, identificando quando um critério, conceito ou modelo é aplicado fora da sua extensão ontológica legítima.",
+    "habilita": [
+      "crítica do reducionismo ontológico",
+      "crítica do universalismo abstrato",
+      "crítica da tecnocracia fora de escala",
+      "crítica do moralismo descontextualizado"
+    ]
+  },
+
+  "riscos_de_desvio": [
+    {
+      "tipo": "reducionista",
+      "descricao": "Aplicação de critérios de uma escala inferior como explicação totalizante do real."
+    },
+    {
+      "tipo": "abstracionista",
+      "descricao": "Elevação de critérios locais a validade universal."
+    },
+    {
+      "tipo": "tecnocratico",
+      "descricao": "Imposição de métricas operativas fora da escala ontológica adequada."
+    }
+  ],
+
+  "operacoes_de_correcao": [
+    "OP_IDENTIFICACAO_ESCALA",
+    "OP_SUBMISSAO_REAL",
+    "OP_REINTEGRACAO_ONTOLOGICA"
+  ],
+
+  "observacoes": [
+    "Este percurso não questiona a existência de critérios, mas a sua extensão ontológica.",
+    "Erro de escala não é falha de informação, mas de localização ontológica.",
+    "Este eixo articula-se diretamente com o eixo epistemológico e prepara a crítica sistémica."
+  ]
+}

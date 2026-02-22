@@ -1,0 +1,56 @@
+{
+  "id": "D_REAL",
+  "nome": "Real",
+  "nivel": 1,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Campo relacional contínuo de poder-ser sem exterioridade.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "campo_ontologico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_RELACAO", "D_PODER_SER", "D_LIMITE"],
+    "pressupoe": [],
+    "implica": ["D_SER", "D_CAMPO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_EXCLUSAO_EXTERIORIDADE"
+    ],
+    "descricao": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_SER", "D_CAMPO"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "resistencia_ontologica",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["dualismo", "transcendencia"],
+    "leituras_a_evitar": ["real como mundo externo"],
+    "operacoes_de_reintegracao": []
+  }
+}

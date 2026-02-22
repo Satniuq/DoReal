@@ -1,0 +1,56 @@
+{
+  "id": "D_DANO_REAL",
+  "nome": "Dano real",
+  "nivel": 5,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Dano real é o efeito de uma atualização no real que produz a redução, destruição ou bloqueio estrutural de potencialidades reais no campo em que ocorre, introduzindo uma perda efetiva que poderia não ter existido.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "efeito_ontologico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_ATUALIZACAO",
+      "D_REAL",
+      "D_CAMPO_DE_POTENCIALIDADES",
+      "D_POTENCIALIDADE"
+    ],
+    "pressupoe": [],
+    "implica": ["D_MAL"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_DANO_REAL"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_MAL"],
+    "pode_gerar_erro": ["negação_do_dano"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "desadequado",
+    "criterio_de_validacao": "perda_de_potencialidades",
+    "condicoes_de_erro": ["invisibilizacao"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["psicologizacao"],
+    "leituras_a_evitar": ["dano_como_opiniao"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

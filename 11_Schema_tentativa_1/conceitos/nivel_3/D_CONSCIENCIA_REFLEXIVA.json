@@ -1,0 +1,51 @@
+{
+  "id": "D_CONSCIENCIA_REFLEXIVA",
+  "nome": "Consciência reflexiva",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Consciência reflexiva é a capacidade relacional, localizada e limitada, de um ser apreender a sua própria apreensão enquanto apreensão, operando sobre representações no interior do real, sem se constituir como instância autónoma ou exterior a esse processo.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "capacidade_reflexiva_localizada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_APREENSAO", "D_REPRESENTACAO", "D_LOCALIDADE"],
+    "pressupoe": [],
+    "implica": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_REINSCRICAO_CONSCIENCIA_REAL"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_LIMITACAO_REFLEXIVIDADE"],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_AUTORREFERENCIALIDADE"],
+    "pode_gerar_erro": ["reflexividade_autonomizada"],
+    "pode_ser_afetado_por": ["D_PONTO_DE_VISTA"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "inscricao_no_processo_real",
+    "condicoes_de_erro": ["substancializacao_da_consciencia"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["consciencia_como_instancia"],
+    "leituras_a_evitar": ["consciencia_transcendental"],
+    "operacoes_de_reintegracao": ["OP_REINSCRICAO_CONSCIENCIA_REAL"]
+  }
+}

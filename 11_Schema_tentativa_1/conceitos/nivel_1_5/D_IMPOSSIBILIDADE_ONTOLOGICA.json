@@ -1,0 +1,53 @@
+{
+  "id": "D_IMPOSSIBILIDADE_ONTOLOGICA",
+  "nome": "Impossibilidade ontológica",
+  "nivel": 1.5,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Não-admissibilidade estrutural no poder-ser.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "exclusao_estrutural",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_LIMITE", "D_PODER_SER"],
+    "pressupoe": [],
+    "implica": ["D_NECESSIDADE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+    ],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_NECESSIDADE"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "nao_admissibilidade_estrutural",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["confusao_com_impossibilidade_logica"],
+    "leituras_a_evitar": ["impossibilidade como ignorancia"],
+    "operacoes_de_reintegracao": []
+  }
+}

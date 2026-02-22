@@ -1,0 +1,54 @@
+{
+  "id": "D_LIMITE",
+  "nome": "Limite",
+  "nivel": 0,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Diferenciação estrutural entre o admissível e o não-admissível.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "condicao_minima",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_ESTRUTURA"],
+    "pressupoe": [],
+    "implica": ["D_DETERMINACAO", "D_IMPOSSIBILIDADE_ONTOLOGICA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_FIXACAO_LIMITE_ONTOLOGICO",
+      "OP_EXCLUSAO_EXTERIORIDADE"
+    ],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_DETERMINACAO", "D_IMPOSSIBILIDADE_ONTOLOGICA"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "nao_admissibilidade",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["negação_do_limite"],
+    "leituras_a_evitar": ["limite como restrição externa"],
+    "operacoes_de_reintegracao": []
+  }
+}

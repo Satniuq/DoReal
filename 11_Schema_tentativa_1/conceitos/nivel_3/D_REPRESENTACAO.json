@@ -1,0 +1,51 @@
+{
+  "id": "D_REPRESENTACAO",
+  "nome": "Representação",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Representação é a estabilização mediada de uma apreensão na continuidade do ser humano, sob forma simbólica ou imagética, pela qual a atualização apreendida passa a poder ser retomada, comparada e operada sem coincidir com o real que a originou.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "estabilizacao_mediada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_APREENSAO", "D_CONTINUIDADE", "D_SER_HUMANO", "D_LOCALIDADE"],
+    "pressupoe": [],
+    "implica": ["D_SIMBOLO", "D_AUTORREFERENCIALIDADE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_MEDIACAO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_LIMITACAO_REFLEXIVIDADE"],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_SIMBOLO", "D_AUTORREFERENCIALIDADE"],
+    "pode_gerar_erro": ["fechamento_representacional"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "dependencia_da_apreensao",
+    "condicoes_de_erro": ["substituicao_do_real"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["autonomia_da_representacao"],
+    "leituras_a_evitar": ["representacao_como_real"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

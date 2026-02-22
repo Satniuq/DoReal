@@ -1,0 +1,83 @@
+{
+  "id": "P_EIXO_CAMPO_E_LOCALIZACAO",
+
+  "nome": "Eixo Campo e Localização",
+
+  "tipo": "axial_ontologico_derivado",
+
+  "estatuto_do_percurso": {
+    "natureza": "ontologico_derivado",
+    "funcao": "explicitar_a_emergencia_do_campo_e_da_localizacao",
+    "dependente_da_transicao_antropologica": true,
+    "criterio_ultimo": "D_REAL"
+  },
+
+  "descricao": {
+    "texto": "Percurso que explicita a emergência do campo e da localização como determinações ontológicas derivadas do real, resultantes da atualização situada do ser humano, sem recurso a espacialidade física, simbolização ou mediação representacional.",
+    "alcance": "ontologico_derivado",
+    "criterio_ultimo": "D_REAL"
+  },
+
+  "inicio": "D_SER_HUMANO",
+  "termino": "D_LOCALIDADE",
+
+  "sequencia": [
+    "D_SER_HUMANO",
+    "D_ATUALIZACAO",
+    "D_RELACAO",
+    "D_CAMPO",
+    "D_LOCALIDADE"
+  ],
+
+  "pressupostos_estruturais": [
+    "A emergência do campo é efeito de atualizações que organizam outras atualizações",
+    "A localização não é espacialidade física, mas determinação ontológica situada",
+    "Não existe campo sem relação, nem localização sem campo",
+    "Campo e localização não introduzem exterioridade ao real",
+    "A espacialização é uma interpretação ilegítima neste nível ontológico"
+  ],
+
+  "operacoes_ativas": [
+    "OP_RECONDUCAO_RELACIONAL",
+    "OP_IDENTIFICACAO_CAMPO",
+    "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+    "OP_SUBMISSAO_REAL"
+  ],
+
+  "resultado_ontologico": {
+    "descricao": "Compreensão do campo como estrutura relacional organizada de atualizações e da localização como determinação ontológica situada, ambas emergentes do real sem rutura ontológica, simbolização ou mediação representacional.",
+    "habilita": [
+      "constituição de pontos de vista",
+      "emergência de diferenciações situadas",
+      "passagem coerente para mediação simbólica",
+      "fundamentação ontológica da relação eu–real"
+    ]
+  },
+
+  "riscos_de_desvio": [
+    {
+      "tipo": "fisicalista",
+      "descricao": "Redução do campo a espaço físico e da localização a coordenada geométrica."
+    },
+    {
+      "tipo": "fenomenologico",
+      "descricao": "Confusão entre localização ontológica e experiência subjetiva do aqui."
+    },
+    {
+      "tipo": "metafisico",
+      "descricao": "Reificação do campo como instância exterior ao real."
+    }
+  ],
+
+  "operacoes_de_correcao": [
+    "OP_RECONDUCAO_RELACIONAL",
+    "OP_SUBMISSAO_REAL"
+  ],
+
+  "observacoes": [
+    "Este percurso permanece pré-simbólico e pré-linguístico.",
+    "Campo e localização não são ainda mundo, espaço ou horizonte de sentido.",
+    "A sua função é ontológica, não experiencial.",
+    "A mediação simbólica só se torna possível após este eixo."
+  ]
+}

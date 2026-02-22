@@ -1,0 +1,57 @@
+{
+  "id": "D_RESPONSABILIDADE_ONTOLOGICA",
+  "nome": "Responsabilidade ontológica",
+  "nivel": 5,
+  "dominio": "etico-ontologico",
+
+  "definicao": {
+    "texto": "Responsabilidade ontológica é a condição pela qual um ser humano, enquanto agente livre e situado, permanece vinculado aos efeitos reais das atualizações que orienta no campo de potencialidades, precisamente porque poderia ter atualizado o real de outro modo.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "vinculo_ontologico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_LIBERDADE_SITUADA",
+      "D_ATUALIZACAO",
+      "D_CAMPO_DE_POTENCIALIDADES",
+      "D_REAL"
+    ],
+    "pressupoe": [],
+    "implica": ["D_DANO_REAL", "D_BEM", "D_MAL"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_DANO_REAL", "D_BEM", "D_MAL"],
+    "pode_gerar_erro": ["negação_de_responsabilidade"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "vinculo_aos_efeitos_reais",
+    "condicoes_de_erro": ["externalizacao_dos_efeitos"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["culpabilização_moral"],
+    "leituras_a_evitar": ["responsabilidade_sem_liberdade"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

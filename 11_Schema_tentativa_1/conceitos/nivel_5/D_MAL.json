@@ -1,0 +1,58 @@
+{
+  "id": "D_MAL",
+  "nome": "Mal",
+  "nivel": 5,
+  "dominio": "etico-ontologico",
+
+  "definicao": {
+    "texto": "Mal é o modo de atualização pelo qual um ser humano, podendo agir de outro modo, orienta a sua ação em afastamento do real, produzindo dano real através da redução ou destruição injustificada de potencialidades nos círculos em que atua.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "modo_de_atualizacao",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_RESPONSABILIDADE_ONTOLOGICA",
+      "D_DIRECAO_ONTOLOGICA",
+      "D_DANO_REAL",
+      "D_CAMPO_DE_POTENCIALIDADES",
+      "D_ATUALIZACAO",
+      "D_REAL"
+    ],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_DANO_REAL"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "desadequado",
+    "criterio_de_validacao": "producao_de_dano_real",
+    "condicoes_de_erro": ["negacao_do_dano"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["moralizacao_do_mal"],
+    "leituras_a_evitar": ["mal_como_intencao"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

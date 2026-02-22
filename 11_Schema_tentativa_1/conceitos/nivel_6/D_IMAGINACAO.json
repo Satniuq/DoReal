@@ -1,0 +1,59 @@
+{
+  "id": "D_IMAGINACAO",
+  "nome": "Imaginação",
+  "nivel": 6,
+  "dominio": "ontologico-cognitivo",
+
+  "definicao": {
+    "texto": "Imaginação é a capacidade representacional, situada e dependente da memória, pela qual um ser humano projeta combinações possíveis de atualizações não ocorridas, a partir de apreensões passadas do real, antecipando cenários de ação sem os validar ontologicamente nem os atualizar no real.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "capacidade_projetiva",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_APREENSAO",
+      "D_REPRESENTACAO",
+      "D_MEMORIA",
+      "D_PODER_SER",
+      "D_REAL",
+      "D_LOCALIDADE"
+    ],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "descricao": ["OP_DISTINCAO_APREENSAO_REPRESENTACAO"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["reificacao_do_possivel"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "neutro",
+    "criterio_de_validacao": "nao_atualizacao",
+    "condicoes_de_erro": ["confusao_com_poder_ser"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["fantasmizacao"],
+    "leituras_a_evitar": ["imaginacao_como_real"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

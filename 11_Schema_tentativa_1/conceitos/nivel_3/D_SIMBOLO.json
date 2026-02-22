@@ -1,0 +1,51 @@
+{
+  "id": "D_SIMBOLO",
+  "nome": "Símbolo",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Símbolo é a unidade mínima da representação pela qual uma distinção apreendida é estabilizada sob forma representacional, referindo aspetos do real sem com eles coincidir.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "unidade_representacional_mediada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_DISTINCAO", "D_REPRESENTACAO"],
+    "pressupoe": [],
+    "implica": ["D_LINGUAGEM"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_MEDIACAO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_IDENTIFICACAO_PROJECAO_EU"],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_LINGUAGEM"],
+    "pode_gerar_erro": ["reificacao_simbolica"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "referencialidade_ao_real",
+    "condicoes_de_erro": ["confusao_simbolo_real"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["fetichizacao_do_simbolo"],
+    "leituras_a_evitar": ["simbolo_como_entidade_ontologica"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

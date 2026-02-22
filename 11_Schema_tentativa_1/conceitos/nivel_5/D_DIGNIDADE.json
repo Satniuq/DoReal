@@ -1,0 +1,58 @@
+{
+  "id": "D_DIGNIDADE",
+  "nome": "Dignidade",
+  "nivel": 5,
+  "dominio": "etico-ontologico",
+
+  "definicao": {
+    "texto": "Dignidade é o estatuto ontológico pelo qual um ser humano, enquanto ente reflexivo, livre e situado no real, constitui um centro irredutível de atualização responsável no campo de potencialidades, não podendo ser reduzido a meio, apropriado por sistemas ou instrumentalizado sem dano real.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "estatuto_irredutivel",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_LIBERDADE_SITUADA",
+      "D_RESPONSABILIDADE_ONTOLOGICA",
+      "D_CAMPO_DE_POTENCIALIDADES",
+      "D_REAL",
+      "D_LOCALIDADE"
+    ],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_AFIRMACAO_ESTRUTURAL"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["retorica_da_dignidade"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "irredutibilidade_ontologica",
+    "condicoes_de_erro": ["instrumentalizacao"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["abstratizacao"],
+    "leituras_a_evitar": ["dignidade_como_valor_moral"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

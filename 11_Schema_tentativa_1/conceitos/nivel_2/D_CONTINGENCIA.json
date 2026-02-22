@@ -1,0 +1,51 @@
+{
+  "id": "D_CONTINGENCIA",
+  "nome": "Contingência",
+  "nivel": 2,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Atualização que poderia não ocorrer sem colapso estrutural.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "modalidade_de_atualizacao",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_PODER_SER", "D_LIMITE", "D_ATUALIZACAO"],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "nao_necessidade_estrutural",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["confusao_com_aleatoriedade"],
+    "leituras_a_evitar": ["contingência como ausência de estrutura"],
+    "operacoes_de_reintegracao": []
+  }
+}

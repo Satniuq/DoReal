@@ -1,0 +1,55 @@
+{
+  "id": "D_TOTALIDADE",
+  "nome": "Totalidade",
+  "nivel": 1,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "O real considerado sem exterioridade admissível.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "consideracao_ontologica",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_REAL"],
+    "pressupoe": ["D_CONTINUIDADE"],
+    "implica": ["D_CAMPO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_EXCLUSAO_EXTERIORIDADE"
+    ],
+    "descricao": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["totalizacao_epistemica"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "em_risco",
+    "criterio_de_validacao": "impossibilidade_exterioridade",
+    "condicoes_de_erro": ["pretensao_de_ponto_de_vista_total"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["totalitarismo_conceitual"],
+    "leituras_a_evitar": ["totalidade como saber total"],
+    "operacoes_de_reintegracao": ["OP_DIFERENCIACAO_NIVEIS"]
+  }
+}

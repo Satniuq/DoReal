@@ -1,0 +1,79 @@
+{
+  "id": "D_VERDADE",
+  "nome": "Verdade",
+  "nivel": 4,
+  "dominio": "epistemologico",
+
+  "definicao": {
+    "texto": "Verdade é a melhor descrição possível do real segundo o critério de adequação.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "criterio_epistemico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_REAL"],
+    "pressupoe": ["D_ADEQUACAO", "D_CRITERIO"],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [],
+    "descricao": [
+      "OP_FIXACAO_CRITERIO",
+      "OP_IDENTIFICACAO_ADEQUACAO",
+      "OP_SUBMISSAO_REAL",
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "diferenciacao": [],
+    "critica": [
+      "OP_LIMITACAO_REFLEXIVIDADE",
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+    ],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": [
+      "D_REPRESENTACAO",
+      "D_PONTO_DE_VISTA",
+      "D_SISTEMA"
+    ]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "adequacao_ao_real",
+    "condicoes_de_erro": [
+      "erro_descritivo",
+      "erro_categorial",
+      "erro_de_escala"
+    ]
+  },
+
+  "notas_de_protecao": {
+  "riscos_de_desvio": [
+    "relativizacao_da_verdade",
+    "identificacao_da_verdade_com_coerencia_sistemica",
+    "substituicao_do_real_por_consenso"
+  ],
+  "leituras_a_evitar": [
+    "verdade_como_construcao_social",
+    "verdade_como_propriedade_do_discurso",
+    "verdade_como_estado_mental"
+  ],
+  "operacoes_de_reintegracao": [
+    "OP_SUBMISSAO_REAL",
+    "OP_FIXACAO_CRITERIO",
+    "OP_RECONDUCAO_RELACIONAL"
+  ]
+  }
+}

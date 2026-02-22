@@ -1,0 +1,55 @@
+{
+  "id": "D_ADEQUACAO",
+  "nome": "Adequação",
+  "nivel": 4,
+  "dominio": "epistemologico",
+
+  "definicao": {
+    "texto": "Adequação é a correspondência operativa entre representação e real, na medida em que a representação permite operar no real de acordo com os seus limites estruturais.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "relacao_epistemica_operativa",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_REPRESENTACAO", "D_REAL", "D_LIMITE"],
+    "pressupoe": [],
+    "implica": ["D_CRITERIO", "D_VERDADE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_ADEQUACAO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_VERDADE"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "operabilidade_no_real",
+    "condicoes_de_erro": [
+      "criterio_desalinhado_do_real",
+      "representacao_parcial_tomada_como_total",
+      "aplicacao_fora_da_escala"
+    ]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["adequacao_como_semelhanca_formal"],
+    "leituras_a_evitar": ["espelhamento_do_real"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

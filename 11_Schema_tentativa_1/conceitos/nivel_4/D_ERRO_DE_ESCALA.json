@@ -1,0 +1,58 @@
+{
+  "id": "D_ERRO_DE_ESCALA",
+  "nome": "Erro de escala",
+  "nivel": 4,
+  "dominio": "epistemologico",
+
+  "definicao": {
+    "texto": "Erro de escala é a desadequação estrutural que ocorre quando um critério, modo de resposta ou forma de valoração adequada a um determinado círculo do real é aplicado a círculos de diferente extensão ontológica, ignorando os limites, regularidades e exigências próprias da sua escala.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "aplicacao_ilegítima_de_criterio",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": false
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_ERRO_ONTOLOGICO",
+      "D_ESCALA_ONTOLOGICA",
+      "D_CIRCULO",
+      "D_CRITERIO",
+      "D_ADEQUACAO",
+      "D_REAL"
+    ],
+    "pressupoe": ["D_LIMITE"],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_ERRO_ESCALA"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": ["OP_IDENTIFICACAO_ESCALA"],
+    "critica": [],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "desadequado",
+    "criterio_de_validacao": "adequacao_de_escala",
+    "condicoes_de_erro": ["absolutizacao_do_local"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["moralizacao_indevida"],
+    "leituras_a_evitar": ["um_criterio_para_tudo"],
+    "operacoes_de_reintegracao": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  }
+}

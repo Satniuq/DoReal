@@ -1,0 +1,51 @@
+{
+  "id": "D_PONTO_DE_VISTA",
+  "nome": "Ponto de vista",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Ponto de vista é a limitação estrutural e situada da apreensão, decorrente da localidade do ser no campo do real, que condiciona o modo de acesso sem alterar o real apreendido.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "limitacao_estrutural_situada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_APREENSAO", "D_LOCALIDADE", "D_REAL", "D_CAMPO"],
+    "pressupoe": [],
+    "implica": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_PONTO_DE_VISTA"],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": ["OP_LIMITACAO_REFLEXIVIDADE"],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_AUTORREFERENCIALIDADE"],
+    "pode_gerar_erro": ["absolutizacao_do_ponto_de_vista"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "situacao_real",
+    "condicoes_de_erro": ["pretensao_de_totalidade"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["exteriorizacao_do_sujeito"],
+    "leituras_a_evitar": ["ponto_de_vista_como_relativismo"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

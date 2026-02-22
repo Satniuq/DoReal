@@ -1,0 +1,4025 @@
+{
+  "D_DETERMINACAO": {
+    "id": "D_DETERMINACAO",
+    "nome": "Determinação",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Estabilização relacional de distinções sob limite.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_minima",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_LIMITE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_NAO_SER"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_NAO_SER"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "estabilidade_relacional",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "reificacao"
+      ],
+      "leituras_a_evitar": [
+        "determinação como substância"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_DISTINCAO": {
+    "id": "D_DISTINCAO",
+    "nome": "Distinção",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Condição mínima pela qual algo é diferenciado de algo outro.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_minima",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [],
+      "pressupoe": [],
+      "implica": [
+        "D_RELACIONALIDADE_MINIMA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL",
+        "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_RELACIONALIDADE_MINIMA"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "impossibilidade_logica_de_negacao",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "negação da diferença"
+      ],
+      "leituras_a_evitar": [
+        "distinção como ato subjetivo"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_ESTRUTURA": {
+    "id": "D_ESTRUTURA",
+    "nome": "Estrutura",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Articulação mínima de distinções sob relação.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_minima",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_RELACIONALIDADE_MINIMA"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_LIMITE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_LIMITE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "coerencia_estrutural",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_sistema"
+      ],
+      "leituras_a_evitar": [
+        "estrutura como forma imposta"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_LIMITE": {
+    "id": "D_LIMITE",
+    "nome": "Limite",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Diferenciação estrutural entre o admissível e o não-admissível.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_minima",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ESTRUTURA"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_DETERMINACAO",
+        "D_IMPOSSIBILIDADE_ONTOLOGICA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_FIXACAO_LIMITE_ONTOLOGICO",
+        "OP_EXCLUSAO_EXTERIORIDADE"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_DETERMINACAO",
+        "D_IMPOSSIBILIDADE_ONTOLOGICA"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "nao_admissibilidade",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "negação_do_limite"
+      ],
+      "leituras_a_evitar": [
+        "limite como restrição externa"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_NAO_SER": {
+    "id": "D_NAO_SER",
+    "nome": "Não-ser",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Exclusão implicada por toda determinação.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "implicacao_ontologica",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_DETERMINACAO"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "implicacao_necessaria",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "hipostasiacao_do_nao_ser"
+      ],
+      "leituras_a_evitar": [
+        "não-ser como entidade"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_POTENCIALIDADE": {
+    "id": "D_POTENCIALIDADE",
+    "nome": "Potencialidade",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Conjunto de atualizações admissíveis para uma determinação.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "conjunto_admissivel",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_PODER_SER",
+        "D_LIMITE",
+        "D_DETERMINACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_ATUALIZACAO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_ATUALIZACAO"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "admissibilidade_limitada",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_virtual"
+      ],
+      "leituras_a_evitar": [
+        "potencialidade como irreal"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_RELACIONALIDADE_MINIMA": {
+    "id": "D_RELACIONALIDADE_MINIMA",
+    "nome": "Relacionalidade mínima",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Impossibilidade de haver distinção isolada sem relação.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_minima",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_DISTINCAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_ESTRUTURA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL",
+        "OP_RECONDUCAO_RELACIONAL"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_ESTRUTURA"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "impossibilidade_logica_de_negacao",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "isolamento ontologico"
+      ],
+      "leituras_a_evitar": [
+        "relação como adição posterior"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_ATUALIZACAO": {
+    "id": "D_ATUALIZACAO",
+    "nome": "Atualização",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Efetivação relacional de uma potencialidade.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "processo_real",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER",
+        "D_RELACAO",
+        "D_POTENCIALIDADE"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "ocorrencia_no_real",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "redução_a_evento_isolado"
+      ],
+      "leituras_a_evitar": [
+        "atualização como instante sem relação"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_LOCALIDADE": {
+    "id": "D_LOCALIDADE",
+    "nome": "Localidade",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Condição ontológica pela qual um ser se encontra determinado e atualizado de forma situada no campo relacional do real, implicando acesso parcial, ponto de vista limitado e impossibilidade estrutural de exterioridade ou totalização do real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_de_situacao",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_CAMPO",
+        "D_REAL",
+        "D_RELACAO",
+        "D_DETERMINACAO",
+        "D_ATUALIZACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_PONTO_DE_VISTA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CAMPO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_PONTO_DE_VISTA"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "situacao_estrutural",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "pretensao_de_exterioridade"
+      ],
+      "leituras_a_evitar": [
+        "localidade como limitação subjetiva"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_PODER_SER": {
+    "id": "D_PODER_SER",
+    "nome": "Poder-ser",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Dimensão estrutural do real que torna admissíveis atualizações.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "dimensao_estrutural",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ESTRUTURA",
+        "D_LIMITE",
+        "D_RELACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_REAL",
+        "D_POTENCIALIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_POTENCIALIDADE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "admissibilidade_estrutural",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_possibilidade_logica"
+      ],
+      "leituras_a_evitar": [
+        "poder-ser como faculdade subjetiva"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_REAL": {
+    "id": "D_REAL",
+    "nome": "Real",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Campo relacional contínuo de poder-ser sem exterioridade.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "campo_ontologico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_RELACAO",
+        "D_PODER_SER",
+        "D_LIMITE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_SER",
+        "D_CAMPO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL",
+        "OP_EXCLUSAO_EXTERIORIDADE"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_SER",
+        "D_CAMPO"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "resistencia_ontologica",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "dualismo",
+        "transcendencia"
+      ],
+      "leituras_a_evitar": [
+        "real como mundo externo"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_RELACAO": {
+    "id": "D_RELACAO",
+    "nome": "Relação",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Condição estrutural pela qual determinações coexistem no real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "estrutura_relacional",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ESTRUTURA",
+        "D_DETERMINACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_PODER_SER"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL",
+        "OP_RECONDUCAO_RELACIONAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_PODER_SER"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "coexistencia_estrutural",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "substancializacao_da_relacao"
+      ],
+      "leituras_a_evitar": [
+        "relação como ligação externa"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_SER": {
+    "id": "D_SER",
+    "nome": "Ser",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Determinação localizada do real portadora de poder-ser.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "determinacao_real",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REAL",
+        "D_DETERMINACAO",
+        "D_RELACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_ATUALIZACAO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_ATUALIZACAO"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "localizacao_no_real",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "substancializacao_do_ser"
+      ],
+      "leituras_a_evitar": [
+        "ser como entidade isolada"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_TOTALIDADE": {
+    "id": "D_TOTALIDADE",
+    "nome": "Totalidade",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "O real considerado sem exterioridade admissível.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "consideracao_ontologica",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REAL"
+      ],
+      "pressupoe": [
+        "D_CONTINUIDADE"
+      ],
+      "implica": [
+        "D_CAMPO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_EXCLUSAO_EXTERIORIDADE"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "totalizacao_epistemica"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "em_risco",
+      "criterio_de_validacao": "impossibilidade_exterioridade",
+      "condicoes_de_erro": [
+        "pretensao_de_ponto_de_vista_total"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "totalitarismo_conceitual"
+      ],
+      "leituras_a_evitar": [
+        "totalidade como saber total"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ]
+    }
+  },
+  "D_CONTINUIDADE": {
+    "id": "D_CONTINUIDADE",
+    "nome": "Continuidade",
+    "nivel": 1.5,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Permanência relacional que permite que o ser permaneça sendo.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_dinamica",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_RELACAO",
+        "D_ATUALIZACAO",
+        "D_LIMITE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_REGULARIDADE",
+        "D_CONTINUO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CONTINUIDADE"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_REGULARIDADE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "permanencia_relacional",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "redução_a_sucessao_de_instantes"
+      ],
+      "leituras_a_evitar": [
+        "continuidade como identidade estática"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_IMPOSSIBILIDADE_ONTOLOGICA": {
+    "id": "D_IMPOSSIBILIDADE_ONTOLOGICA",
+    "nome": "Impossibilidade ontológica",
+    "nivel": 1.5,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Não-admissibilidade estrutural no poder-ser.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "exclusao_estrutural",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_LIMITE",
+        "D_PODER_SER"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_NECESSIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_NECESSIDADE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "nao_admissibilidade_estrutural",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_impossibilidade_logica"
+      ],
+      "leituras_a_evitar": [
+        "impossibilidade como ignorancia"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_REGULARIDADE": {
+    "id": "D_REGULARIDADE",
+    "nome": "Regularidade",
+    "nivel": 1.5,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Recorrência estrutural de atualizações sob os mesmos limites.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "padrao_dinamico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_CONTINUIDADE",
+        "D_LIMITE",
+        "D_ATUALIZACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_ESTABILIDADE",
+        "D_CAMPO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_REGULARIDADE"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_ESTABILIDADE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "recorrencia_sob_limite",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_lei_formal"
+      ],
+      "leituras_a_evitar": [
+        "regularidade como norma"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_CAMPO": {
+    "id": "D_CAMPO",
+    "nome": "Campo",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Configuração relacional estruturada localizável.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "configuracao_relacional",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REAL",
+        "D_RELACAO",
+        "D_ESCALA_ONTOLOGICA"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_LOCALIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CAMPO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_ESCALA_ONTOLOGICA",
+        "D_LOCALIDADE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "localizacao_estrutural_no_real",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "reificacao_do_campo"
+      ],
+      "leituras_a_evitar": [
+        "campo como entidade substancial"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_CIRCULO": {
+    "id": "D_CIRCULO",
+    "nome": "Círculo",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Configuração relacional localizada do real, caracterizada por uma escala de operação e um conjunto de regularidades próprias, no interior da qual determinadas atualizações, critérios e modos de resposta são funcionalmente adequados, sem pretensão de validade fora da sua extensão ontológica.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "configuracao_funcional_localizada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REAL",
+        "D_CAMPO",
+        "D_ESCALA_ONTOLOGICA",
+        "D_REGULARIDADE",
+        "D_LIMITE"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CAMPO",
+        "OP_IDENTIFICACAO_ESCALA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "erro_de_escala"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "validade_local",
+      "condicoes_de_erro": [
+        "extrapolacao_indevida"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "universalizacao_funcional"
+      ],
+      "leituras_a_evitar": [
+        "círculo como totalidade"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ]
+    }
+  },
+  "D_CONTINGENCIA": {
+    "id": "D_CONTINGENCIA",
+    "nome": "Contingência",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Atualização que poderia não ocorrer sem colapso estrutural.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "modalidade_de_atualizacao",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_PODER_SER",
+        "D_LIMITE",
+        "D_ATUALIZACAO"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "nao_necessidade_estrutural",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_aleatoriedade"
+      ],
+      "leituras_a_evitar": [
+        "contingência como ausência de estrutura"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_CONTINUO": {
+    "id": "D_CONTINUO",
+    "nome": "Contínuo",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Forma manifestada da continuidade como sucessão sem rutura.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "forma_dinamica",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_CONTINUIDADE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_MOVIMENTO",
+        "D_TEMPO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CONTINUIDADE"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_MOVIMENTO",
+        "D_TEMPO"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "sucessao_sem_rutura",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "redução_a_serie_discreta"
+      ],
+      "leituras_a_evitar": [
+        "contínuo como identidade imóvel"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_ESCALA_ONTOLOGICA": {
+    "id": "D_ESCALA_ONTOLOGICA",
+    "nome": "Escala ontológica",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Diferença de extensão estrutural entre níveis de determinação.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "diferenciacao_estrutural",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REGULARIDADE",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_CIRCULO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_ESCALA"
+      ],
+      "descricao": [],
+      "diferenciacao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_CIRCULO"
+      ],
+      "pode_gerar_erro": [
+        "erro_de_escala"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "adequacao_de_extensao_ontologica",
+      "condicoes_de_erro": [
+        "aplicacao_transescalar"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "homogeneizacao_do_real"
+      ],
+      "leituras_a_evitar": [
+        "escala como grau quantitativo"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ]
+    }
+  },
+  "D_ESTABILIDADE": {
+    "id": "D_ESTABILIDADE",
+    "nome": "Estabilidade",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Manutenção de regularidade sob limites estruturais ao longo da continuidade temporal.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "condicao_dinamica",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REGULARIDADE",
+        "D_LIMITE",
+        "D_CONTINUIDADE",
+        "D_ATUALIZACAO",
+        "D_ESTRUTURA"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_REGULARIDADE"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "manutencao_sob_limite",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_imobilidade"
+      ],
+      "leituras_a_evitar": [
+        "estabilidade como ausência de mudança"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_MOVIMENTO": {
+    "id": "D_MOVIMENTO",
+    "nome": "Movimento",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Manifestação relacional da continuidade como sucessão localizada de atualizações no real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "manifestacao_dinamica",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ATUALIZACAO",
+        "D_CONTINUIDADE",
+        "D_CONTINUO",
+        "D_REAL",
+        "D_LOCALIDADE"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "ocorrencia_dinamica_localizada",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "redução_a_trajetoria_geométrica"
+      ],
+      "leituras_a_evitar": [
+        "movimento como deslocamento abstrato"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_NECESSIDADE": {
+    "id": "D_NECESSIDADE",
+    "nome": "Necessidade",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Aquilo que decorre inevitavelmente da estrutura.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "decorrencia_estrutural",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_LIMITE",
+        "D_IMPOSSIBILIDADE_ONTOLOGICA"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "inevitabilidade_estrutural",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "confusao_com_determinismo_total"
+      ],
+      "leituras_a_evitar": [
+        "necessidade como fatalismo"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_TEMPO": {
+    "id": "D_TEMPO",
+    "nome": "Tempo",
+    "nivel": 2,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Forma da atualização contínua do real enquanto ordenação relacional das suas atualizações.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "ordenacao_dinamica",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ATUALIZACAO",
+        "D_CONTINUIDADE",
+        "D_REAL",
+        "D_RELACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_ESTABILIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_ESTABILIDADE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "ordenacao_relacional",
+      "condicoes_de_erro": []
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "subjetivacao_do_tempo"
+      ],
+      "leituras_a_evitar": [
+        "tempo como representação mental"
+      ],
+      "operacoes_de_reintegracao": []
+    }
+  },
+  "D_APREENSAO": {
+    "id": "D_APREENSAO",
+    "nome": "Apreensão",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Apreensão é a atualização localizada pela qual um ser humano integra uma afetação real no campo do real, anterior a qualquer representação, operando sempre sob limites estruturais e dependente da sua localidade.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "atualizacao_afetiva_localizada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_CAMPO",
+        "D_ATUALIZACAO",
+        "D_LOCALIDADE",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_REPRESENTACAO",
+        "D_PONTO_DE_VISTA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_REPRESENTACAO",
+        "D_PONTO_DE_VISTA"
+      ],
+      "pode_gerar_erro": [
+        "confusao_com_representacao"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "afetação_real_localizada",
+      "condicoes_de_erro": [
+        "representacionalizacao_precoce"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "reduzir_apreensao_a_imagem"
+      ],
+      "leituras_a_evitar": [
+        "apreensao_como_conhecimento"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+      ]
+    }
+  },
+  "D_AUTORREFERENCIALIDADE": {
+    "id": "D_AUTORREFERENCIALIDADE",
+    "nome": "Autorreferencialidade",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Autorreferencialidade é o processo pelo qual a representação se fecha sobre si mesma, tomando a sua coerência interna como critério suficiente, substituindo a relação com o real por validação sistémica e limitando a reflexividade ao próprio ponto de vista.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "processo_de_fechamento_representacional",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": false
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REPRESENTACAO",
+        "D_PONTO_DE_VISTA"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_PROJECAO_EU"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "substituicao_do_real"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "desadequado",
+      "criterio_de_validacao": "resistencia_do_real",
+      "condicoes_de_erro": [
+        "validacao_interna"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "fechamento_do_sentido"
+      ],
+      "leituras_a_evitar": [
+        "coerencia_como_verdade"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL",
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    }
+  },
+  "D_CONSCIENCIA_REFLEXIVA": {
+    "id": "D_CONSCIENCIA_REFLEXIVA",
+    "nome": "Consciência reflexiva",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Consciência reflexiva é a capacidade relacional, localizada e limitada, de um ser apreender a sua própria apreensão enquanto apreensão, operando sobre representações no interior do real, sem se constituir como instância autónoma ou exterior a esse processo.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "capacidade_reflexiva_localizada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_APREENSAO",
+        "D_REPRESENTACAO",
+        "D_LOCALIDADE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_REINSCRICAO_CONSCIENCIA_REAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_LIMITACAO_REFLEXIVIDADE"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_AUTORREFERENCIALIDADE"
+      ],
+      "pode_gerar_erro": [
+        "reflexividade_autonomizada"
+      ],
+      "pode_ser_afetado_por": [
+        "D_PONTO_DE_VISTA"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "inscricao_no_processo_real",
+      "condicoes_de_erro": [
+        "substancializacao_da_consciencia"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "consciencia_como_instancia"
+      ],
+      "leituras_a_evitar": [
+        "consciencia_transcendental"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_REINSCRICAO_CONSCIENCIA_REAL"
+      ]
+    }
+  },
+  "D_LIBERDADE_SITUADA": {
+    "id": "D_LIBERDADE_SITUADA",
+    "nome": "Liberdade situada",
+    "nivel": 3.5,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Liberdade situada é a capacidade ontológica de um ser humano, enquanto ente reflexivo e localizado, orientar as suas atualizações no interior do campo de poder-ser que o real lhe torna admissível, sem suspender os limites estruturais nem se colocar fora das consequências das suas ações.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "capacidade_orientadora_situada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_LOCALIDADE",
+        "D_PODER_SER",
+        "D_LIMITE",
+        "D_ATUALIZACAO",
+        "D_CAMPO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_RESPONSABILIDADE_ONTOLOGICA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_LIMITACAO_REFLEXIVIDADE"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_RESPONSABILIDADE_ONTOLOGICA"
+      ],
+      "pode_gerar_erro": [
+        "ilusao_de_liberdade_absoluta"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "orientacao_no_poder_ser_real",
+      "condicoes_de_erro": [
+        "autonomizacao_da_vontade"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "liberdade_sem_limite"
+      ],
+      "leituras_a_evitar": [
+        "livre_arbitrio_transcendente"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_LINGUAGEM": {
+    "id": "D_LINGUAGEM",
+    "nome": "Linguagem",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Linguagem é o sistema estruturado de símbolos que, no interior do campo do real, permite estabilizar, articular e partilhar representações entre seres localizados, sem com o real coincidir nem o substituir.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "sistema_simbolico_mediador",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SIMBOLO",
+        "D_REPRESENTACAO",
+        "D_ESTRUTURA"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_MEDIACAO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_MEDIACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_MEDIACAO"
+      ],
+      "pode_gerar_erro": [
+        "fechamento_simbolico"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "funcao_mediadora",
+      "condicoes_de_erro": [
+        "autonomizacao_discursiva"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "linguagem_como_real"
+      ],
+      "leituras_a_evitar": [
+        "substituicao_do_real_pelo_discurso"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_MEDIACAO": {
+    "id": "D_MEDIACAO",
+    "nome": "Mediação",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Mediação é o processo simbólico pelo qual a apreensão é transformada em representação operável, recorrendo a símbolos e linguagem, permitindo a estabilização, comunicação e manipulação do conteúdo apreendido sem romper a sua dependência do real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "processo_mediador_simbolico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_APREENSAO",
+        "D_REPRESENTACAO",
+        "D_SIMBOLO",
+        "D_LINGUAGEM"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_CONSCIENCIA_REFLEXIVA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_MEDIACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_CONSCIENCIA_REFLEXIVA"
+      ],
+      "pode_gerar_erro": [
+        "autonomia_mediacao"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "dependencia_da_apreensao",
+      "condicoes_de_erro": [
+        "mediacao_sem_real"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "mediacao_como_fim"
+      ],
+      "leituras_a_evitar": [
+        "mediação_autossuficiente"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_MEMORIA": {
+    "id": "D_MEMORIA",
+    "nome": "Memória",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Memória é a inscrição durável das atualizações apreendidas que permite a continuidade do ser humano no tempo, sustentando a estabilidade da sua relação com o real sem se reduzir à consciência ou à representação simbólica.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "inscricao_duravel_de_atualizacoes",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_CONTINUIDADE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_IMAGINACAO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CONTINUIDADE"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_DESSUBSTANCIALIZACAO"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_IMAGINACAO"
+      ],
+      "pode_gerar_erro": [
+        "fixacao_passado"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "continuidade_real",
+      "condicoes_de_erro": [
+        "confusao_memoria_consciencia"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "memoria_como_identidade"
+      ],
+      "leituras_a_evitar": [
+        "memoria_como_instancia_autonoma"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_RECONDUCAO_RELACIONAL",
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_PONTO_DE_VISTA": {
+    "id": "D_PONTO_DE_VISTA",
+    "nome": "Ponto de vista",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Ponto de vista é a limitação estrutural e situada da apreensão, decorrente da localidade do ser no campo do real, que condiciona o modo de acesso sem alterar o real apreendido.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "limitacao_estrutural_situada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_APREENSAO",
+        "D_LOCALIDADE",
+        "D_REAL",
+        "D_CAMPO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_PONTO_DE_VISTA"
+      ],
+      "descricao": [],
+      "diferenciacao": [],
+      "critica": [
+        "OP_LIMITACAO_REFLEXIVIDADE"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_AUTORREFERENCIALIDADE"
+      ],
+      "pode_gerar_erro": [
+        "absolutizacao_do_ponto_de_vista"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "situacao_real",
+      "condicoes_de_erro": [
+        "pretensao_de_totalidade"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "exteriorizacao_do_sujeito"
+      ],
+      "leituras_a_evitar": [
+        "ponto_de_vista_como_relativismo"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_RELACAO_EU_REAL": {
+    "id": "D_RELACAO_EU_REAL",
+    "nome": "Relação eu–real",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Relação eu–real é a estrutura relacional e dinâmica pela qual um ser humano, enquanto ente reflexivo e localizado, se apreende a si próprio como atualização do real, mantendo ou degradando a sua abertura ao real através das mediações representacionais que opera.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "relacao_reflexiva_localizada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_LOCALIDADE",
+        "D_APREENSAO",
+        "D_REAL",
+        "D_RELACAO",
+        "D_CONSCIENCIA_REFLEXIVA",
+        "D_MEDIACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_LIBERDADE_SITUADA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_RECONDUCAO_RELACIONAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_DESSUBSTANCIALIZACAO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_LIBERDADE_SITUADA"
+      ],
+      "pode_gerar_erro": [
+        "fechamento_autorreferencial"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "abertura_ao_real",
+      "condicoes_de_erro": [
+        "substituicao_do_real_pelo_eu"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "identidade_como_fundamento"
+      ],
+      "leituras_a_evitar": [
+        "eu_como_principio"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_REPRESENTACAO": {
+    "id": "D_REPRESENTACAO",
+    "nome": "Representação",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Representação é a estabilização mediada de uma apreensão na continuidade do ser humano, sob forma simbólica ou imagética, pela qual a atualização apreendida passa a poder ser retomada, comparada e operada sem coincidir com o real que a originou.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "estabilizacao_mediada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_APREENSAO",
+        "D_CONTINUIDADE",
+        "D_SER_HUMANO",
+        "D_LOCALIDADE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_SIMBOLO",
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_MEDIACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_LIMITACAO_REFLEXIVIDADE"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_SIMBOLO",
+        "D_AUTORREFERENCIALIDADE"
+      ],
+      "pode_gerar_erro": [
+        "fechamento_representacional"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "dependencia_da_apreensao",
+      "condicoes_de_erro": [
+        "substituicao_do_real"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "autonomia_da_representacao"
+      ],
+      "leituras_a_evitar": [
+        "representacao_como_real"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_SER_HUMANO": {
+    "id": "D_SER_HUMANO",
+    "nome": "Ser humano",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Ser humano é um ser biológico localizado no real, cuja continuidade material permite a emergência de reflexividade representacional situada, operando sempre sob limites estruturais e sem exterioridade ontológica ao campo do real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "ente_biologico_reflexivo_localizado",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER",
+        "D_REAL",
+        "D_LOCALIDADE",
+        "D_CONTINUIDADE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_APREENSAO",
+        "D_MEMORIA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL",
+        "OP_REINSCRICAO_CONSCIENCIA_REAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ],
+      "critica": [
+        "OP_DESSUBSTANCIALIZACAO"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_APREENSAO",
+        "D_MEMORIA"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "inscricao_biologica_no_real",
+      "condicoes_de_erro": [
+        "projecao_do_eu_como_fundamento",
+        "confusao_entre_ponto_de_vista_e_real",
+        "substituicao_da_relacao_pelo_sistema"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "substancializacao_do_eu"
+      ],
+      "leituras_a_evitar": [
+        "ser_humano_como_instancia_transcendente"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_REINSCRICAO_CONSCIENCIA_REAL"
+      ]
+    }
+  },
+  "D_SIMBOLO": {
+    "id": "D_SIMBOLO",
+    "nome": "Símbolo",
+    "nivel": 3,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Símbolo é a unidade mínima da representação pela qual uma distinção apreendida é estabilizada sob forma representacional, referindo aspetos do real sem com eles coincidir.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "unidade_representacional_mediada",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_DISTINCAO",
+        "D_REPRESENTACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_LINGUAGEM"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_MEDIACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_IDENTIFICACAO_PROJECAO_EU"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_LINGUAGEM"
+      ],
+      "pode_gerar_erro": [
+        "reificacao_simbolica"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "referencialidade_ao_real",
+      "condicoes_de_erro": [
+        "confusao_simbolo_real"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "fetichizacao_do_simbolo"
+      ],
+      "leituras_a_evitar": [
+        "simbolo_como_entidade_ontologica"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_ADEQUACAO": {
+    "id": "D_ADEQUACAO",
+    "nome": "Adequação",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Adequação é a correspondência operativa entre representação e real, na medida em que a representação permite operar no real de acordo com os seus limites estruturais.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "relacao_epistemica_operativa",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REPRESENTACAO",
+        "D_REAL",
+        "D_LIMITE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_CRITERIO",
+        "D_VERDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_ADEQUACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_VERDADE"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "operabilidade_no_real",
+      "condicoes_de_erro": [
+        "criterio_desalinhado_do_real",
+        "representacao_parcial_tomada_como_total",
+        "aplicacao_fora_da_escala"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "adequacao_como_semelhanca_formal"
+      ],
+      "leituras_a_evitar": [
+        "espelhamento_do_real"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_CORRECAO": {
+    "id": "D_CORRECAO",
+    "nome": "Correção",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Correção é o movimento de ajuste da representação ao real em resposta à desadequação identificada ou imposta pelo real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "processo_corretivo",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": false
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ERRO_ONTOLOGICO",
+        "D_LINGUAGEM",
+        "D_REPRESENTACAO"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "reajuste_ao_real",
+      "condicoes_de_erro": [
+        "correcao_apenas_formal"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "cosmetica_discursiva"
+      ],
+      "leituras_a_evitar": [
+        "correcao_sem_real"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_CRITERIO": {
+    "id": "D_CRITERIO",
+    "nome": "Critério",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Critério é o princípio de decisão pelo qual representações, descrições ou ações são avaliadas segundo a resistência estrutural do real a que se referem.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "principio_epistemico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ADEQUACAO",
+        "D_REAL",
+        "D_LIMITE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_VALIDADE"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_FIXACAO_CRITERIO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_VALIDADE"
+      ],
+      "pode_gerar_erro": [
+        "criterio_autonomizado"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "resistencia_do_real",
+      "condicoes_de_erro": [
+        "criterio_interno"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "criterialismo"
+      ],
+      "leituras_a_evitar": [
+        "criterio_como_convensao"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_ERRO_CATEGORIAL": {
+    "id": "D_ERRO_CATEGORIAL",
+    "nome": "Erro categorial",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Erro categorial é a desadequação estrutural que ocorre quando distinções, relações ou mediações pertencentes a um nível ontológico são tratadas como pertencendo a outro, levando à substituição do real por representações, processos ou sistemas que excedem o seu estatuto ontológico.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "confusao_de_niveis",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": false
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_DISTINCAO",
+        "D_ESTRUTURA",
+        "D_ESCALA_ONTOLOGICA",
+        "D_REPRESENTACAO",
+        "D_ERRO_ONTOLOGICO",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_ERRO_CATEGORIAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_DIFERENCIACAO_NIVEIS"
+      ],
+      "critica": [],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "desadequado",
+      "criterio_de_validacao": "coerencia_ontologica",
+      "condicoes_de_erro": [
+        "colapso_de_niveis"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "naturalizacao_do_abuso"
+      ],
+      "leituras_a_evitar": [
+        "tudo_e_o_mesmo"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    }
+  },
+  "D_ERRO_DE_ESCALA": {
+    "id": "D_ERRO_DE_ESCALA",
+    "nome": "Erro de escala",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Erro de escala é a desadequação estrutural que ocorre quando um critério, modo de resposta ou forma de valoração adequada a um determinado círculo do real é aplicado a círculos de diferente extensão ontológica, ignorando os limites, regularidades e exigências próprias da sua escala.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "aplicacao_ilegítima_de_criterio",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": false
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ERRO_ONTOLOGICO",
+        "D_ESCALA_ONTOLOGICA",
+        "D_CIRCULO",
+        "D_CRITERIO",
+        "D_ADEQUACAO",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_ERRO_ESCALA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_IDENTIFICACAO_ESCALA"
+      ],
+      "critica": [],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "desadequado",
+      "criterio_de_validacao": "adequacao_de_escala",
+      "condicoes_de_erro": [
+        "absolutizacao_do_local"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "moralizacao_indevida"
+      ],
+      "leituras_a_evitar": [
+        "um_criterio_para_tudo"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    }
+  },
+  "D_ERRO_ONTOLOGICO": {
+    "id": "D_ERRO_ONTOLOGICO",
+    "nome": "Erro ontológico",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Erro na desadequação estrutural entre representação e real, na qual a representação falha em operar segundo os limites do real, podendo cristalizar-se em sistema autorreferencial.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "falha_epistemica_estrutural",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": false
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ADEQUACAO",
+        "D_REAL",
+        "D_REPRESENTACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_ERRO_CATEGORIAL",
+        "D_ERRO_DE_ESCALA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_ERRO_DESCRITIVO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_ERRO_CATEGORIAL",
+        "D_ERRO_DE_ESCALA"
+      ],
+      "pode_gerar_erro": [
+        "cristalizacao_sistemica"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "desadequado",
+      "criterio_de_validacao": "resistencia_do_real",
+      "condicoes_de_erro": [
+        "substituicao_do_real"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "normalizacao_do_erro"
+      ],
+      "leituras_a_evitar": [
+        "erro_como_opiniao"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL",
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    }
+  },
+  "D_VALIDADE": {
+    "id": "D_VALIDADE",
+    "nome": "Validade",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Validade é a pretensão formal de correção de uma representação, fundada num critério explícito, cuja legitimidade depende da sua possível submissão ao real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "pretensao_formal",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": false
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ADEQUACAO",
+        "D_LINGUAGEM",
+        "D_CRITERIO"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_FIXACAO_CRITERIO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "validade_sem_real"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "neutro",
+      "criterio_de_validacao": "submissao_ao_real",
+      "condicoes_de_erro": [
+        "autolegitimacao"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "formalismo"
+      ],
+      "leituras_a_evitar": [
+        "validade_como_verdade"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_VERDADE": {
+    "id": "D_VERDADE",
+    "nome": "Verdade",
+    "nivel": 4,
+    "dominio": "epistemologico",
+    "definicao": {
+      "texto": "Verdade é a melhor descrição possível do real segundo o critério de adequação.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "criterio_epistemico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REAL"
+      ],
+      "pressupoe": [
+        "D_ADEQUACAO",
+        "D_CRITERIO"
+      ],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [],
+      "descricao": [
+        "OP_FIXACAO_CRITERIO",
+        "OP_IDENTIFICACAO_ADEQUACAO",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_LIMITACAO_REFLEXIVIDADE",
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+      ],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": [
+        "D_REPRESENTACAO",
+        "D_PONTO_DE_VISTA",
+        "D_SISTEMA"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "adequacao_ao_real",
+      "condicoes_de_erro": [
+        "erro_descritivo",
+        "erro_categorial",
+        "erro_de_escala"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "relativizacao_da_verdade",
+        "identificacao_da_verdade_com_coerencia_sistemica",
+        "substituicao_do_real_por_consenso"
+      ],
+      "leituras_a_evitar": [
+        "verdade_como_construcao_social",
+        "verdade_como_propriedade_do_discurso",
+        "verdade_como_estado_mental"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL",
+        "OP_FIXACAO_CRITERIO",
+        "OP_RECONDUCAO_RELACIONAL"
+      ]
+    }
+  },
+  "D_BEM": {
+    "id": "D_BEM",
+    "nome": "Bem",
+    "nivel": 5,
+    "dominio": "etico-ontologico",
+    "definicao": {
+      "texto": "Bem é o modo de atualização responsável pelo qual um ser humano livre e situado orienta a sua ação em direção ao real, segundo adequação estrutural, preservando ou expandindo o campo de potencialidades reais nos círculos em que atua.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "modo_de_atualizacao",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_RESPONSABILIDADE_ONTOLOGICA",
+        "D_DIRECAO_ONTOLOGICA",
+        "D_CAMPO_DE_POTENCIALIDADES",
+        "D_LIBERDADE_SITUADA",
+        "D_REAL"
+      ],
+      "pressupoe": [
+        "D_ADEQUACAO"
+      ],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "moralizacao"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "expansao_de_potencialidades",
+      "condicoes_de_erro": [
+        "justificacao_discursiva"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "bem_abstrato"
+      ],
+      "leituras_a_evitar": [
+        "bem_como_norma"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_CAMPO_DE_POTENCIALIDADES": {
+    "id": "D_CAMPO_DE_POTENCIALIDADES",
+    "nome": "Campo de potencialidades",
+    "nivel": 5,
+    "dominio": "ontologico-ético",
+    "definicao": {
+      "texto": "Campo de potencialidades é a configuração relacional, contínua e estruturada de atualizações futuras admissíveis no real, inscrita no poder-ser e delimitada por limites ontológicos, que constitui o horizonte efetivo de possibilidades próprias e alheias independentemente da sua representação consciente.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "campo_ontologico_dinamico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REAL",
+        "D_PODER_SER",
+        "D_POTENCIALIDADE",
+        "D_CONTINUIDADE",
+        "D_CAMPO",
+        "D_LIMITE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_RESPONSABILIDADE_ONTOLOGICA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_IDENTIFICACAO_CAMPO"
+      ],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_RESPONSABILIDADE_ONTOLOGICA"
+      ],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "admissibilidade_ontologica",
+      "condicoes_de_erro": [
+        "redução_arbitraria_de_potencialidades",
+        "bloqueio_sistemico_do_poder_ser"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "redução_a_planeamento"
+      ],
+      "leituras_a_evitar": [
+        "campo_como_ficcao"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_DANO_REAL": {
+    "id": "D_DANO_REAL",
+    "nome": "Dano real",
+    "nivel": 5,
+    "dominio": "ontologico",
+    "definicao": {
+      "texto": "Dano real é o efeito de uma atualização no real que produz a redução, destruição ou bloqueio estrutural de potencialidades reais no campo em que ocorre, introduzindo uma perda efetiva que poderia não ter existido.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "efeito_ontologico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_ATUALIZACAO",
+        "D_REAL",
+        "D_CAMPO_DE_POTENCIALIDADES",
+        "D_POTENCIALIDADE"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_MAL"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_DANO_REAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_MAL"
+      ],
+      "pode_gerar_erro": [
+        "negação_do_dano"
+      ],
+      "pode_ser_afetado_por": []
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "desadequado",
+      "criterio_de_validacao": "perda_de_potencialidades",
+      "condicoes_de_erro": [
+        "invisibilizacao"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "psicologizacao"
+      ],
+      "leituras_a_evitar": [
+        "dano_como_opiniao"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_DEVER_SER": {
+    "id": "D_DEVER_SER",
+    "nome": "Dever-ser",
+    "nivel": 5,
+    "dominio": "etico-ontologico",
+    "definicao": {
+      "texto": "Dever-ser é a orientação normativa derivada pela qual um ser humano reflexivo, no exercício da sua liberdade situada, projeta no tempo modos de atualização do real que permanecem estruturalmente possíveis, adequados e responsáveis face ao poder-ser efetivo.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "derivacao_normativa",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_LIBERDADE_SITUADA",
+        "D_PODER_SER",
+        "D_DIRECAO_ONTOLOGICA",
+        "D_ADEQUACAO",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DERIVACAO_DEVER_SER",
+        "OP_SUBORDINACAO_DEVER_SER"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "normativizacao_autonoma"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "neutro",
+      "criterio_de_validacao": "subordinacao_ao_ser",
+      "condicoes_de_erro": [
+        "moralismo"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "idealizacao"
+      ],
+      "leituras_a_evitar": [
+        "dever_ser_absoluto"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_DIGNIDADE": {
+    "id": "D_DIGNIDADE",
+    "nome": "Dignidade",
+    "nivel": 5,
+    "dominio": "etico-ontologico",
+    "definicao": {
+      "texto": "Dignidade é o estatuto ontológico pelo qual um ser humano, enquanto ente reflexivo, livre e situado no real, constitui um centro irredutível de atualização responsável no campo de potencialidades, não podendo ser reduzido a meio, apropriado por sistemas ou instrumentalizado sem dano real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "estatuto_irredutivel",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_LIBERDADE_SITUADA",
+        "D_RESPONSABILIDADE_ONTOLOGICA",
+        "D_CAMPO_DE_POTENCIALIDADES",
+        "D_REAL",
+        "D_LOCALIDADE"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_AFIRMACAO_ESTRUTURAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "retorica_da_dignidade"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "irredutibilidade_ontologica",
+      "condicoes_de_erro": [
+        "instrumentalizacao"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "abstratizacao"
+      ],
+      "leituras_a_evitar": [
+        "dignidade_como_valor_moral"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_DIRECAO_ONTOLOGICA": {
+    "id": "D_DIRECAO_ONTOLOGICA",
+    "nome": "Direção ontológica",
+    "nivel": 5,
+    "dominio": "etico-ontologico",
+    "definicao": {
+      "texto": "Direção ontológica é o vetor de orientação, no tempo, das atualizações de um ser humano livre e situado, determinado pela sua maior ou menor adequação estrutural ao real, distinguindo aproximação e afastamento do real e permitindo identificar processos de degeneração por fechamento autorreferencial.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "vetor_temporal",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_LIBERDADE_SITUADA",
+        "D_RESPONSABILIDADE_ONTOLOGICA",
+        "D_ATUALIZACAO",
+        "D_TEMPO",
+        "D_REAL"
+      ],
+      "pressupoe": [
+        "D_ADEQUACAO"
+      ],
+      "implica": [
+        "D_BEM",
+        "D_MAL"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "descricao": [
+        "OP_IDENTIFICACAO_CONTINUIDADE"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_IDENTIFICACAO_DEGENERACAO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_BEM",
+        "D_MAL"
+      ],
+      "pode_gerar_erro": [
+        "neutralizacao_da_direcao"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "adequacao_temporal",
+      "condicoes_de_erro": [
+        "fechamento_reflexivo"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "teleologia_moral"
+      ],
+      "leituras_a_evitar": [
+        "progresso_necessario"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_MAL": {
+    "id": "D_MAL",
+    "nome": "Mal",
+    "nivel": 5,
+    "dominio": "etico-ontologico",
+    "definicao": {
+      "texto": "Mal é o modo de atualização pelo qual um ser humano, podendo agir de outro modo, orienta a sua ação em afastamento do real, produzindo dano real através da redução ou destruição injustificada de potencialidades nos círculos em que atua.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "modo_de_atualizacao",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_RESPONSABILIDADE_ONTOLOGICA",
+        "D_DIRECAO_ONTOLOGICA",
+        "D_DANO_REAL",
+        "D_CAMPO_DE_POTENCIALIDADES",
+        "D_ATUALIZACAO",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_DANO_REAL"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "desadequado",
+      "criterio_de_validacao": "producao_de_dano_real",
+      "condicoes_de_erro": [
+        "negacao_do_dano"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "moralizacao_do_mal"
+      ],
+      "leituras_a_evitar": [
+        "mal_como_intencao"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_RESPONSABILIDADE_ONTOLOGICA": {
+    "id": "D_RESPONSABILIDADE_ONTOLOGICA",
+    "nome": "Responsabilidade ontológica",
+    "nivel": 5,
+    "dominio": "etico-ontologico",
+    "definicao": {
+      "texto": "Responsabilidade ontológica é a condição pela qual um ser humano, enquanto agente livre e situado, permanece vinculado aos efeitos reais das atualizações que orienta no campo de potencialidades, precisamente porque poderia ter atualizado o real de outro modo.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "vinculo_ontologico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_LIBERDADE_SITUADA",
+        "D_ATUALIZACAO",
+        "D_CAMPO_DE_POTENCIALIDADES",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_DANO_REAL",
+        "D_BEM",
+        "D_MAL"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [
+        "D_DANO_REAL",
+        "D_BEM",
+        "D_MAL"
+      ],
+      "pode_gerar_erro": [
+        "negação_de_responsabilidade"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "vinculo_aos_efeitos_reais",
+      "condicoes_de_erro": [
+        "externalizacao_dos_efeitos"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "culpabilização_moral"
+      ],
+      "leituras_a_evitar": [
+        "responsabilidade_sem_liberdade"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_CULTURA": {
+    "id": "D_CULTURA",
+    "nome": "Cultura",
+    "nivel": 6,
+    "dominio": "ontologico-social",
+    "definicao": {
+      "texto": "Cultura é a continuidade simbólica transindividual, no tempo, de modos de apreender, representar e agir próprios de seres humanos em relação, estabilizada em sistemas simbólicos transmissíveis, que constitui o horizonte pré-reflexivo de significação, coordenação e sancionamento de comportamentos, moldando o modo de ser coletivo sem se reduzir à lei, podendo tanto preservar a adequação ao real como degenerar em sobreposição autorreferencial desligada da sua base ontológica.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "horizonte_simbolico",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SISTEMA_SIMBOLICO",
+        "D_CONTINUIDADE",
+        "D_SIMBOLO",
+        "D_REPRESENTACAO",
+        "D_SER_HUMANO",
+        "D_LINGUAGEM",
+        "D_TEMPO",
+        "D_REAL"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_IDENTIFICACAO_DEGENERACAO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "tradicao_autonomizada"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "neutro",
+      "criterio_de_validacao": "continuidade_adequativa",
+      "condicoes_de_erro": [
+        "normatividade_implicita"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "culturalismo"
+      ],
+      "leituras_a_evitar": [
+        "cultura_como_fundamento"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_DIREITO_COMO_DESCRICAO": {
+    "id": "D_DIREITO_COMO_DESCRICAO",
+    "nome": "Direito como descrição",
+    "nivel": 6,
+    "dominio": "ontologico-juridico",
+    "definicao": {
+      "texto": "Direito como descrição é a forma institucional de cristalização normativa que emerge da descrição adequada e verdadeira das regularidades dos modos de ser humanos em relação, fundada no poder-ser real, e destinada a permitir coordenação estável, previsível e responsável das ações no tempo, subordinando o dever-ser à estrutura do real e degenerando quando se autonomiza como sistema simbólico autorreferencial desligado da descrição que o legitima.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "instituicao_descritiva",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_INSTITUICAO",
+        "D_REAL",
+        "D_PODER_SER",
+        "D_RELACAO",
+        "D_SER_HUMANO",
+        "D_CONTINUIDADE"
+      ],
+      "pressupoe": [
+        "D_ADEQUACAO",
+        "D_CRITERIO",
+        "D_VERDADE",
+        "D_DEVER_SER"
+      ],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_FIXACAO_CRITERIO"
+      ],
+      "descricao": [
+        "OP_RECONDUCAO_RELACIONAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "positivismo_autonomo"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "descricao_verdadeira_do_real",
+      "condicoes_de_erro": [
+        "norma_sem_descricao"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "juridicismo"
+      ],
+      "leituras_a_evitar": [
+        "direito_como_valor"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_IMAGINACAO": {
+    "id": "D_IMAGINACAO",
+    "nome": "Imaginação",
+    "nivel": 6,
+    "dominio": "ontologico-cognitivo",
+    "definicao": {
+      "texto": "Imaginação é a capacidade representacional, situada e dependente da memória, pela qual um ser humano projeta combinações possíveis de atualizações não ocorridas, a partir de apreensões passadas do real, antecipando cenários de ação sem os validar ontologicamente nem os atualizar no real.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": false,
+      "tipo": "capacidade_projetiva",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_APREENSAO",
+        "D_REPRESENTACAO",
+        "D_MEMORIA",
+        "D_PODER_SER",
+        "D_REAL",
+        "D_LOCALIDADE"
+      ],
+      "pressupoe": [],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "descricao": [
+        "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "reificacao_do_possivel"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "neutro",
+      "criterio_de_validacao": "nao_atualizacao",
+      "condicoes_de_erro": [
+        "confusao_com_poder_ser"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "fantasmizacao"
+      ],
+      "leituras_a_evitar": [
+        "imaginacao_como_real"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_INSTITUICAO": {
+    "id": "D_INSTITUICAO",
+    "nome": "Instituição",
+    "nivel": 6,
+    "dominio": "ontologico-social",
+    "definicao": {
+      "texto": "Instituição é um sistema estabilizado no tempo de práticas e normas reconhecidas, emergente da necessidade de coordenação entre seres humanos no real, que preserva regularidades de ação para além dos indivíduos que a compõem, podendo operar como mediação funcional do real ou degenerar em estrutura autorreferencial de imposição simbólica quando se autonomiza da sua função descritiva e adequativa.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "sistema_social_estabilizado",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SISTEMA",
+        "D_REGULARIDADE",
+        "D_CONTINUIDADE",
+        "D_TEMPO",
+        "D_REPRESENTACAO",
+        "D_LINGUAGEM",
+        "D_REAL",
+        "D_SER_HUMANO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_DIREITO_COMO_DESCRICAO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [
+        "OP_IDENTIFICACAO_MEDIACAO"
+      ],
+      "critica": [
+        "OP_IDENTIFICACAO_DEGENERACAO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_DIREITO_COMO_DESCRICAO"
+      ],
+      "pode_gerar_erro": [
+        "imposicao_simbolica"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "neutro",
+      "criterio_de_validacao": "adequacao_pratica",
+      "condicoes_de_erro": [
+        "autonomizacao_normativa"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "institucionalismo"
+      ],
+      "leituras_a_evitar": [
+        "instituicao_como_fim"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_SISTEMA": {
+    "id": "D_SISTEMA",
+    "nome": "Sistema",
+    "nivel": 6,
+    "dominio": "ontologico-sistemico",
+    "definicao": {
+      "texto": "Sistema é a cristalização de regularidades do real sob forma simbólica e normativa, organizada para a repetição e autopreservação funcional, que tende a substituir a relação direta com o real por critérios internos de coerência, podendo degenerar em fechamento autorreferencial quando se autonomiza face ao campo de potencialidades que o originou.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "cristalizacao_funcional",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_REGULARIDADE",
+        "D_LINGUAGEM",
+        "D_ESTRUTURA",
+        "D_CONTINUIDADE",
+        "D_REAL",
+        "D_LIMITE",
+        "D_CAMPO_DE_POTENCIALIDADES"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_SISTEMA_SIMBOLICO",
+        "D_INSTITUICAO"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_IDENTIFICACAO_DEGENERACAO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_SISTEMA_SIMBOLICO",
+        "D_INSTITUICAO"
+      ],
+      "pode_gerar_erro": [
+        "autonomizacao_funcional"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "neutro",
+      "criterio_de_validacao": "funcao_mediadora_no_real",
+      "condicoes_de_erro": [
+        "coerencia_sem_real"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "sistematismo"
+      ],
+      "leituras_a_evitar": [
+        "sistema_como_totalidade"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_SISTEMA_SIMBOLICO": {
+    "id": "D_SISTEMA_SIMBOLICO",
+    "nome": "Sistema simbólico",
+    "nivel": 6,
+    "dominio": "ontologico-sistemico",
+    "definicao": {
+      "texto": "Sistema simbólico é um sistema cuja matéria é representação estabilizada sob forma simbólica e linguística, organizado para a repetição e autopreservação discursiva, que tende a operar por critérios internos de coerência formal, substituindo progressivamente a relação com o real e degenerando em fechamento autorreferencial quando perde a sua função mediadora.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "sistema_representacional",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SISTEMA",
+        "D_SIMBOLO",
+        "D_REPRESENTACAO",
+        "D_LINGUAGEM",
+        "D_ESTRUTURA",
+        "D_REAL",
+        "D_MEDIACAO"
+      ],
+      "pressupoe": [],
+      "implica": [
+        "D_CULTURA"
+      ]
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "diferenciacao": [],
+      "critica": [
+        "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+      ],
+      "corretiva": [
+        "OP_REINTEGRACAO_ONTOLOGICA"
+      ]
+    },
+    "dinamica": {
+      "gera": [
+        "D_CULTURA"
+      ],
+      "pode_gerar_erro": [
+        "fechamento_discursivo"
+      ],
+      "pode_ser_afetado_por": [
+        "D_AUTORREFERENCIALIDADE"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "neutro",
+      "criterio_de_validacao": "funcao_mediadora",
+      "condicoes_de_erro": [
+        "coerencia_formal_autonoma"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "ideologizacao"
+      ],
+      "leituras_a_evitar": [
+        "simbolo_como_real"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  },
+  "D_TECNOLOGIA": {
+    "id": "D_TECNOLOGIA",
+    "nome": "Tecnologia",
+    "nivel": 6,
+    "dominio": "ontologico-operativo",
+    "definicao": {
+      "texto": "Tecnologia é o conjunto de mediações operativas, criadas por seres humanos, pelas quais o real é instrumentalizado de forma adequada para amplificar, orientar ou tornar acessíveis determinadas atualizações possíveis, sempre sob submissão aos limites estruturais do real, sem criar novo poder-ser ontológico nem substituir os critérios de verdade, bem ou responsabilidade que lhe são exteriores.",
+      "linguagem": "estrutural",
+      "nao_metaforica": true
+    },
+    "estatuto_ontologico": {
+      "afirmacao_ontologica": true,
+      "tipo": "mediacao_operativa",
+      "criterio_ultimo": "D_REAL",
+      "exterioridade_excluida": true
+    },
+    "dependencias": {
+      "depende_de": [
+        "D_SER_HUMANO",
+        "D_ATUALIZACAO",
+        "D_REAL",
+        "D_LIMITE",
+        "D_SISTEMA"
+      ],
+      "pressupoe": [
+        "D_ADEQUACAO"
+      ],
+      "implica": []
+    },
+    "operacoes_ontologicas": {
+      "fundacao": [
+        "OP_IDENTIFICACAO_MEDIACAO"
+      ],
+      "descricao": [
+        "OP_DESCRICAO_ATUALIZACAO"
+      ],
+      "diferenciacao": [],
+      "critica": [],
+      "corretiva": []
+    },
+    "dinamica": {
+      "gera": [],
+      "pode_gerar_erro": [
+        "tecnicismo"
+      ],
+      "pode_ser_afetado_por": [
+        "D_SISTEMA_SIMBOLICO"
+      ]
+    },
+    "epistemologia": {
+      "estado_epistemico_padrao": "adequado",
+      "criterio_de_validacao": "adequacao_operativa",
+      "condicoes_de_erro": [
+        "instrumentalizacao_sem_limite"
+      ]
+    },
+    "notas_de_protecao": {
+      "riscos_de_desvio": [
+        "fetichismo_tecnico"
+      ],
+      "leituras_a_evitar": [
+        "tecnologia_como_fim"
+      ],
+      "operacoes_de_reintegracao": [
+        "OP_SUBMISSAO_REAL"
+      ]
+    }
+  }
+}

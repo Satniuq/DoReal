@@ -13,3 +13,5 @@ São necessidades do relacionamento de atualizações locais, se onde dantes se 
 Pelo contínuo do próprio real, que só é porque algo tem de poder ser e algo só pode poder ser em movimento, pois que senao, eram nada e nada não pode ser se ser é 
 A manutenção da relação pela própria nessecidade de ser da relação , é isso que faz com que a relação exista e possa existir, segundo seguinte do ser é o a seguir ao ser de que se depende, mesmo um electrão bo seu campo atualiza se na relação 
 O grau há de ser relativo às relaçoes que se estão a relacionar no real onde se podem relacionar 
+
+A filosofia é um termo, como todos os termos, tao ocupado pelos especialistas da forma do tema, os licenciados em filosofia, cough cough, que permitiu nao religiao pudesse pretender-se ser filosófica, quando é por definicao, a relegacao do real ao nada pela validacao e verdadeiracao do sistema filosofico. 

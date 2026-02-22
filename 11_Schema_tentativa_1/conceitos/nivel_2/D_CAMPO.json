@@ -1,0 +1,51 @@
+{
+  "id": "D_CAMPO",
+  "nome": "Campo",
+  "nivel": 2,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Configuração relacional estruturada localizável.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "configuracao_relacional",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_REAL", "D_RELACAO", "D_ESCALA_ONTOLOGICA"],
+    "pressupoe": [],
+    "implica": ["D_ESCALA_ONTOLOGICA", "D_LOCALIDADE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_CAMPO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": ["OP_DIFERENCIACAO_NIVEIS"],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_ESCALA_ONTOLOGICA", "D_LOCALIDADE"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "localizacao_estrutural_no_real",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["reificacao_do_campo"],
+    "leituras_a_evitar": ["campo como entidade substancial"],
+    "operacoes_de_reintegracao": []
+  }
+}

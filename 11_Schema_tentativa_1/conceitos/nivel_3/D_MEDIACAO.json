@@ -1,0 +1,51 @@
+{
+  "id": "D_MEDIACAO",
+  "nome": "Mediação",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Mediação é o processo simbólico pelo qual a apreensão é transformada em representação operável, recorrendo a símbolos e linguagem, permitindo a estabilização, comunicação e manipulação do conteúdo apreendido sem romper a sua dependência do real.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "processo_mediador_simbolico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_APREENSAO", "D_REPRESENTACAO", "D_SIMBOLO", "D_LINGUAGEM"],
+    "pressupoe": [],
+    "implica": ["D_CONSCIENCIA_REFLEXIVA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_MEDIACAO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_CRITICA_FECHAMENTO_SIMBOLICO"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": ["D_CONSCIENCIA_REFLEXIVA"],
+    "pode_gerar_erro": ["autonomia_mediacao"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "dependencia_da_apreensao",
+    "condicoes_de_erro": ["mediacao_sem_real"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["mediacao_como_fim"],
+    "leituras_a_evitar": ["mediação_autossuficiente"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

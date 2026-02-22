@@ -1,0 +1,53 @@
+{
+  "id": "D_POTENCIALIDADE",
+  "nome": "Potencialidade",
+  "nivel": 0,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Conjunto de atualizações admissíveis para uma determinação.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "conjunto_admissivel",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_PODER_SER", "D_LIMITE", "D_DETERMINACAO"],
+    "pressupoe": [],
+    "implica": ["D_ATUALIZACAO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_ATUALIZACAO"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "admissibilidade_limitada",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["confusao_com_virtual"],
+    "leituras_a_evitar": ["potencialidade como irreal"],
+    "operacoes_de_reintegracao": []
+  }
+}

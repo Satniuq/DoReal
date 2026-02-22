@@ -1,0 +1,59 @@
+{
+  "id": "D_SISTEMA",
+  "nome": "Sistema",
+  "nivel": 6,
+  "dominio": "ontologico-sistemico",
+
+  "definicao": {
+    "texto": "Sistema é a cristalização de regularidades do real sob forma simbólica e normativa, organizada para a repetição e autopreservação funcional, que tende a substituir a relação direta com o real por critérios internos de coerência, podendo degenerar em fechamento autorreferencial quando se autonomiza face ao campo de potencialidades que o originou.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "cristalizacao_funcional",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_REGULARIDADE",
+      "D_LINGUAGEM",
+      "D_ESTRUTURA",
+      "D_CONTINUIDADE",
+      "D_REAL",
+      "D_LIMITE",
+      "D_CAMPO_DE_POTENCIALIDADES"
+    ],
+    "pressupoe": [],
+    "implica": ["D_SISTEMA_SIMBOLICO", "D_INSTITUICAO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_IDENTIFICACAO_DEGENERACAO"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": ["D_SISTEMA_SIMBOLICO", "D_INSTITUICAO"],
+    "pode_gerar_erro": ["autonomizacao_funcional"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "neutro",
+    "criterio_de_validacao": "funcao_mediadora_no_real",
+    "condicoes_de_erro": ["coerencia_sem_real"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["sistematismo"],
+    "leituras_a_evitar": ["sistema_como_totalidade"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

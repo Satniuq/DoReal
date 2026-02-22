@@ -1,0 +1,58 @@
+{
+  "id": "D_DEVER_SER",
+  "nome": "Dever-ser",
+  "nivel": 5,
+  "dominio": "etico-ontologico",
+
+  "definicao": {
+    "texto": "Dever-ser é a orientação normativa derivada pela qual um ser humano reflexivo, no exercício da sua liberdade situada, projeta no tempo modos de atualização do real que permanecem estruturalmente possíveis, adequados e responsáveis face ao poder-ser efetivo.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "derivacao_normativa",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_LIBERDADE_SITUADA",
+      "D_PODER_SER",
+      "D_DIRECAO_ONTOLOGICA",
+      "D_ADEQUACAO",
+      "D_REAL"
+    ],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_DERIVACAO_DEVER_SER", "OP_SUBORDINACAO_DEVER_SER"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["normativizacao_autonoma"],
+    "pode_ser_afetado_por": ["D_SISTEMA"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "neutro",
+    "criterio_de_validacao": "subordinacao_ao_ser",
+    "condicoes_de_erro": ["moralismo"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["idealizacao"],
+    "leituras_a_evitar": ["dever_ser_absoluto"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

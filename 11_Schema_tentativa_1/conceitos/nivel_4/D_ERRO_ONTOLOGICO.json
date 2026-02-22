@@ -1,0 +1,51 @@
+{
+  "id": "D_ERRO_ONTOLOGICO",
+  "nome": "Erro ontológico",
+  "nivel": 4,
+  "dominio": "epistemologico",
+
+  "definicao": {
+    "texto": "Erro na desadequação estrutural entre representação e real, na qual a representação falha em operar segundo os limites do real, podendo cristalizar-se em sistema autorreferencial.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "falha_epistemica_estrutural",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": false
+  },
+
+  "dependencias": {
+    "depende_de": ["D_ADEQUACAO", "D_REAL", "D_REPRESENTACAO"],
+    "pressupoe": ["D_LIMITE"],
+    "implica": ["D_ERRO_CATEGORIAL", "D_ERRO_DE_ESCALA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_ERRO_DESCRITIVO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": ["D_ERRO_CATEGORIAL", "D_ERRO_DE_ESCALA"],
+    "pode_gerar_erro": ["cristalizacao_sistemica"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "desadequado",
+    "criterio_de_validacao": "resistencia_do_real",
+    "condicoes_de_erro": ["substituicao_do_real"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["normalizacao_do_erro"],
+    "leituras_a_evitar": ["erro_como_opiniao"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL", "OP_REINTEGRACAO_ONTOLOGICA"]
+  }
+}

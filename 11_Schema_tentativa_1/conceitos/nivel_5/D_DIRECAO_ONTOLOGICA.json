@@ -1,0 +1,58 @@
+{
+  "id": "D_DIRECAO_ONTOLOGICA",
+  "nome": "Direção ontológica",
+  "nivel": 5,
+  "dominio": "etico-ontologico",
+
+  "definicao": {
+    "texto": "Direção ontológica é o vetor de orientação, no tempo, das atualizações de um ser humano livre e situado, determinado pela sua maior ou menor adequação estrutural ao real, distinguindo aproximação e afastamento do real e permitindo identificar processos de degeneração por fechamento autorreferencial.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "vetor_temporal",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_LIBERDADE_SITUADA",
+      "D_RESPONSABILIDADE_ONTOLOGICA",
+      "D_ATUALIZACAO",
+      "D_TEMPO",
+      "D_REAL"
+    ],
+    "pressupoe": ["D_ADEQUACAO"],
+    "implica": ["D_BEM", "D_MAL"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "descricao": ["OP_IDENTIFICACAO_CONTINUIDADE"],
+    "diferenciacao": [],
+    "critica": ["OP_IDENTIFICACAO_DEGENERACAO"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": ["D_BEM", "D_MAL"],
+    "pode_gerar_erro": ["neutralizacao_da_direcao"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "adequacao_temporal",
+    "condicoes_de_erro": ["fechamento_reflexivo"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["teleologia_moral"],
+    "leituras_a_evitar": ["progresso_necessario"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "D_LOCALIDADE",
+  "nome": "Localidade",
+  "nivel": 0,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Condição ontológica pela qual um ser se encontra determinado e atualizado de forma situada no campo relacional do real, implicando acesso parcial, ponto de vista limitado e impossibilidade estrutural de exterioridade ou totalização do real.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "condicao_de_situacao",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_CAMPO",
+      "D_REAL",
+      "D_RELACAO",
+      "D_DETERMINACAO",
+      "D_ATUALIZACAO"
+    ],
+    "pressupoe": [],
+    "implica": ["D_PONTO_DE_VISTA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_CAMPO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": ["OP_DIFERENCIACAO_NIVEIS"],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_PONTO_DE_VISTA"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "situacao_estrutural",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["pretensao_de_exterioridade"],
+    "leituras_a_evitar": ["localidade como limitação subjetiva"],
+    "operacoes_de_reintegracao": []
+  }
+}

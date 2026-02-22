@@ -1,0 +1,55 @@
+{
+  "id": "D_REGULARIDADE",
+  "nome": "Regularidade",
+  "nivel": 1.5,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Recorrência estrutural de atualizações sob os mesmos limites.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "padrao_dinamico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_CONTINUIDADE", "D_LIMITE", "D_ATUALIZACAO"],
+    "pressupoe": [],
+    "implica": ["D_ESTABILIDADE", "D_CAMPO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_IDENTIFICACAO_REGULARIDADE"
+    ],
+    "descricao": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_ESTABILIDADE"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "recorrencia_sob_limite",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["confusao_com_lei_formal"],
+    "leituras_a_evitar": ["regularidade como norma"],
+    "operacoes_de_reintegracao": []
+  }
+}

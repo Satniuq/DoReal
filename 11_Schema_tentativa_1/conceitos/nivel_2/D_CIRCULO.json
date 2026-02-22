@@ -1,0 +1,57 @@
+{
+  "id": "D_CIRCULO",
+  "nome": "Círculo",
+  "nivel": 2,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Configuração relacional localizada do real, caracterizada por uma escala de operação e um conjunto de regularidades próprias, no interior da qual determinadas atualizações, critérios e modos de resposta são funcionalmente adequados, sem pretensão de validade fora da sua extensão ontológica.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "configuracao_funcional_localizada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_REAL",
+      "D_CAMPO",
+      "D_ESCALA_ONTOLOGICA",
+      "D_REGULARIDADE",
+      "D_LIMITE"
+    ],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_CAMPO", "OP_IDENTIFICACAO_ESCALA"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": ["OP_DIFERENCIACAO_NIVEIS"],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["erro_de_escala"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "validade_local",
+    "condicoes_de_erro": ["extrapolacao_indevida"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["universalizacao_funcional"],
+    "leituras_a_evitar": ["círculo como totalidade"],
+    "operacoes_de_reintegracao": ["OP_DIFERENCIACAO_NIVEIS"]
+  }
+}

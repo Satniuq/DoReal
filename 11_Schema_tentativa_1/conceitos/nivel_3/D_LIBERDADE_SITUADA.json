@@ -1,0 +1,58 @@
+{
+  "id": "D_LIBERDADE_SITUADA",
+  "nome": "Liberdade situada",
+  "nivel": 3.5,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Liberdade situada é a capacidade ontológica de um ser humano, enquanto ente reflexivo e localizado, orientar as suas atualizações no interior do campo de poder-ser que o real lhe torna admissível, sem suspender os limites estruturais nem se colocar fora das consequências das suas ações.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "capacidade_orientadora_situada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_LOCALIDADE",
+      "D_PODER_SER",
+      "D_LIMITE",
+      "D_ATUALIZACAO",
+      "D_CAMPO"
+    ],
+    "pressupoe": [],
+    "implica": ["D_RESPONSABILIDADE_ONTOLOGICA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_AFIRMACAO_ESTRUTURAL"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": ["OP_LIMITACAO_REFLEXIVIDADE"],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_RESPONSABILIDADE_ONTOLOGICA"],
+    "pode_gerar_erro": ["ilusao_de_liberdade_absoluta"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "orientacao_no_poder_ser_real",
+    "condicoes_de_erro": ["autonomizacao_da_vontade"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["liberdade_sem_limite"],
+    "leituras_a_evitar": ["livre_arbitrio_transcendente"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

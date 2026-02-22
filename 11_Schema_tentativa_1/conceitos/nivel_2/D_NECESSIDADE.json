@@ -1,0 +1,51 @@
+{
+  "id": "D_NECESSIDADE",
+  "nome": "Necessidade",
+  "nivel": 2,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Aquilo que decorre inevitavelmente da estrutura.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "decorrencia_estrutural",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_LIMITE", "D_IMPOSSIBILIDADE_ONTOLOGICA"],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "inevitabilidade_estrutural",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["confusao_com_determinismo_total"],
+    "leituras_a_evitar": ["necessidade como fatalismo"],
+    "operacoes_de_reintegracao": []
+  }
+}

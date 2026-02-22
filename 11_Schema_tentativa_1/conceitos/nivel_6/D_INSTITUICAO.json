@@ -1,0 +1,60 @@
+{
+  "id": "D_INSTITUICAO",
+  "nome": "Instituição",
+  "nivel": 6,
+  "dominio": "ontologico-social",
+
+  "definicao": {
+    "texto": "Instituição é um sistema estabilizado no tempo de práticas e normas reconhecidas, emergente da necessidade de coordenação entre seres humanos no real, que preserva regularidades de ação para além dos indivíduos que a compõem, podendo operar como mediação funcional do real ou degenerar em estrutura autorreferencial de imposição simbólica quando se autonomiza da sua função descritiva e adequativa.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "sistema_social_estabilizado",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SISTEMA",
+      "D_REGULARIDADE",
+      "D_CONTINUIDADE",
+      "D_TEMPO",
+      "D_REPRESENTACAO",
+      "D_LINGUAGEM",
+      "D_REAL",
+      "D_SER_HUMANO"
+    ],
+    "pressupoe": [],
+    "implica": ["D_DIREITO_COMO_DESCRICAO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": ["OP_IDENTIFICACAO_MEDIACAO"],
+    "critica": ["OP_IDENTIFICACAO_DEGENERACAO"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": ["D_DIREITO_COMO_DESCRICAO"],
+    "pode_gerar_erro": ["imposicao_simbolica"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "neutro",
+    "criterio_de_validacao": "adequacao_pratica",
+    "condicoes_de_erro": ["autonomizacao_normativa"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["institucionalismo"],
+    "leituras_a_evitar": ["instituicao_como_fim"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

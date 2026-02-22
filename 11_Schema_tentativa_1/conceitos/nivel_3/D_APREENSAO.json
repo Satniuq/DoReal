@@ -1,0 +1,51 @@
+{
+  "id": "D_APREENSAO",
+  "nome": "Apreensão",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Apreensão é a atualização localizada pela qual um ser humano integra uma afetação real no campo do real, anterior a qualquer representação, operando sempre sob limites estruturais e dependente da sua localidade.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "atualizacao_afetiva_localizada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_SER_HUMANO", "D_CAMPO", "D_ATUALIZACAO", "D_LOCALIDADE", "D_REAL"],
+    "pressupoe": ["D_LIMITE"],
+    "implica": ["D_REPRESENTACAO", "D_PONTO_DE_VISTA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_DISTINCAO_APREENSAO_REPRESENTACAO"],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_REPRESENTACAO", "D_PONTO_DE_VISTA"],
+    "pode_gerar_erro": ["confusao_com_representacao"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "afetação_real_localizada",
+    "condicoes_de_erro": ["representacionalizacao_precoce"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["reduzir_apreensao_a_imagem"],
+    "leituras_a_evitar": ["apreensao_como_conhecimento"],
+    "operacoes_de_reintegracao": ["OP_DISTINCAO_APREENSAO_REPRESENTACAO"]
+  }
+}

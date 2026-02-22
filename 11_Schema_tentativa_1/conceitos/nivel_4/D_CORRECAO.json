@@ -1,0 +1,51 @@
+{
+  "id": "D_CORRECAO",
+  "nome": "Correção",
+  "nivel": 4,
+  "dominio": "epistemologico",
+
+  "definicao": {
+    "texto": "Correção é o movimento de ajuste da representação ao real em resposta à desadequação identificada ou imposta pelo real.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "processo_corretivo",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": false
+  },
+
+  "dependencias": {
+    "depende_de": ["D_ERRO_ONTOLOGICO", "D_LINGUAGEM", "D_REPRESENTACAO"],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_REINTEGRACAO_ONTOLOGICA"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "reajuste_ao_real",
+    "condicoes_de_erro": ["correcao_apenas_formal"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["cosmetica_discursiva"],
+    "leituras_a_evitar": ["correcao_sem_real"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

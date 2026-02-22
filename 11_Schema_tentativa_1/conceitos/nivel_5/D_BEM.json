@@ -1,0 +1,57 @@
+{
+  "id": "D_BEM",
+  "nome": "Bem",
+  "nivel": 5,
+  "dominio": "etico-ontologico",
+
+  "definicao": {
+    "texto": "Bem é o modo de atualização responsável pelo qual um ser humano livre e situado orienta a sua ação em direção ao real, segundo adequação estrutural, preservando ou expandindo o campo de potencialidades reais nos círculos em que atua.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "modo_de_atualizacao",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_RESPONSABILIDADE_ONTOLOGICA",
+      "D_DIRECAO_ONTOLOGICA",
+      "D_CAMPO_DE_POTENCIALIDADES",
+      "D_LIBERDADE_SITUADA",
+      "D_REAL"
+    ],
+    "pressupoe": ["D_ADEQUACAO"],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["moralizacao"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "expansao_de_potencialidades",
+    "condicoes_de_erro": ["justificacao_discursiva"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["bem_abstrato"],
+    "leituras_a_evitar": ["bem_como_norma"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "D_CULTURA",
+  "nome": "Cultura",
+  "nivel": 6,
+  "dominio": "ontologico-social",
+
+  "definicao": {
+    "texto": "Cultura é a continuidade simbólica transindividual, no tempo, de modos de apreender, representar e agir próprios de seres humanos em relação, estabilizada em sistemas simbólicos transmissíveis, que constitui o horizonte pré-reflexivo de significação, coordenação e sancionamento de comportamentos, moldando o modo de ser coletivo sem se reduzir à lei, podendo tanto preservar a adequação ao real como degenerar em sobreposição autorreferencial desligada da sua base ontológica.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "horizonte_simbolico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SISTEMA_SIMBOLICO",
+      "D_CONTINUIDADE",
+      "D_SIMBOLO",
+      "D_REPRESENTACAO",
+      "D_SER_HUMANO",
+      "D_LINGUAGEM",
+      "D_TEMPO",
+      "D_REAL"
+    ],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_IDENTIFICACAO_DEGENERACAO"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["tradicao_autonomizada"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "neutro",
+    "criterio_de_validacao": "continuidade_adequativa",
+    "condicoes_de_erro": ["normatividade_implicita"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["culturalismo"],
+    "leituras_a_evitar": ["cultura_como_fundamento"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

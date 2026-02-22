@@ -1,0 +1,58 @@
+{
+  "id": "D_ERRO_CATEGORIAL",
+  "nome": "Erro categorial",
+  "nivel": 4,
+  "dominio": "epistemologico",
+
+  "definicao": {
+    "texto": "Erro categorial é a desadequação estrutural que ocorre quando distinções, relações ou mediações pertencentes a um nível ontológico são tratadas como pertencendo a outro, levando à substituição do real por representações, processos ou sistemas que excedem o seu estatuto ontológico.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": false,
+    "tipo": "confusao_de_niveis",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": false
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_DISTINCAO",
+      "D_ESTRUTURA",
+      "D_ESCALA_ONTOLOGICA",
+      "D_REPRESENTACAO",
+      "D_ERRO_ONTOLOGICO",
+      "D_REAL"
+    ],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_ERRO_CATEGORIAL"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": ["OP_DIFERENCIACAO_NIVEIS"],
+    "critica": [],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "desadequado",
+    "criterio_de_validacao": "coerencia_ontologica",
+    "condicoes_de_erro": ["colapso_de_niveis"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["naturalizacao_do_abuso"],
+    "leituras_a_evitar": ["tudo_e_o_mesmo"],
+    "operacoes_de_reintegracao": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  }
+}

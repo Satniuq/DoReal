@@ -1,0 +1,59 @@
+{
+  "id": "D_RELACAO_EU_REAL",
+  "nome": "Relação eu–real",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Relação eu–real é a estrutura relacional e dinâmica pela qual um ser humano, enquanto ente reflexivo e localizado, se apreende a si próprio como atualização do real, mantendo ou degradando a sua abertura ao real através das mediações representacionais que opera.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "relacao_reflexiva_localizada",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_LOCALIDADE",
+      "D_APREENSAO",
+      "D_REAL",
+      "D_RELACAO",
+      "D_CONSCIENCIA_REFLEXIVA",
+      "D_MEDIACAO"
+    ],
+    "pressupoe": [],
+    "implica": ["D_LIBERDADE_SITUADA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_RECONDUCAO_RELACIONAL"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_DESSUBSTANCIALIZACAO"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": ["D_LIBERDADE_SITUADA"],
+    "pode_gerar_erro": ["fechamento_autorreferencial"],
+    "pode_ser_afetado_por": ["D_AUTORREFERENCIALIDADE"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "abertura_ao_real",
+    "condicoes_de_erro": ["substituicao_do_real_pelo_eu"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["identidade_como_fundamento"],
+    "leituras_a_evitar": ["eu_como_principio"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

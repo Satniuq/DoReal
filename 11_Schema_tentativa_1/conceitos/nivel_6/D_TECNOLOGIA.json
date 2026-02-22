@@ -1,0 +1,57 @@
+{
+  "id": "D_TECNOLOGIA",
+  "nome": "Tecnologia",
+  "nivel": 6,
+  "dominio": "ontologico-operativo",
+
+  "definicao": {
+    "texto": "Tecnologia é o conjunto de mediações operativas, criadas por seres humanos, pelas quais o real é instrumentalizado de forma adequada para amplificar, orientar ou tornar acessíveis determinadas atualizações possíveis, sempre sob submissão aos limites estruturais do real, sem criar novo poder-ser ontológico nem substituir os critérios de verdade, bem ou responsabilidade que lhe são exteriores.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "mediacao_operativa",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_ATUALIZACAO",
+      "D_REAL",
+      "D_LIMITE",
+      "D_SISTEMA"
+    ],
+    "pressupoe": ["D_ADEQUACAO"],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_MEDIACAO"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["tecnicismo"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "adequacao_operativa",
+    "condicoes_de_erro": ["instrumentalizacao_sem_limite"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["fetichismo_tecnico"],
+    "leituras_a_evitar": ["tecnologia_como_fim"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "D_RELACAO",
+  "nome": "Relação",
+  "nivel": 1,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Condição estrutural pela qual determinações coexistem no real.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "estrutura_relacional",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_ESTRUTURA", "D_DETERMINACAO"],
+    "pressupoe": [],
+    "implica": ["D_PODER_SER"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_RECONDUCAO_RELACIONAL"
+    ],
+    "descricao": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_PODER_SER"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "coexistencia_estrutural",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["substancializacao_da_relacao"],
+    "leituras_a_evitar": ["relação como ligação externa"],
+    "operacoes_de_reintegracao": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "D_ESTRUTURA",
+  "nome": "Estrutura",
+  "nivel": 0,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Articulação mínima de distinções sob relação.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "condicao_minima",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_RELACIONALIDADE_MINIMA"],
+    "pressupoe": [],
+    "implica": ["D_LIMITE"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+    ],
+    "descricao": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_LIMITE"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "coerencia_estrutural",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["confusao_com_sistema"],
+    "leituras_a_evitar": ["estrutura como forma imposta"],
+    "operacoes_de_reintegracao": []
+  }
+}

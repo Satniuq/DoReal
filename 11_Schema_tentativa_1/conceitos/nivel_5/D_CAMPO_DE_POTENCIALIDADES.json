@@ -1,0 +1,61 @@
+{
+  "id": "D_CAMPO_DE_POTENCIALIDADES",
+  "nome": "Campo de potencialidades",
+  "nivel": 5,
+  "dominio": "ontologico-ético",
+
+  "definicao": {
+    "texto": "Campo de potencialidades é a configuração relacional, contínua e estruturada de atualizações futuras admissíveis no real, inscrita no poder-ser e delimitada por limites ontológicos, que constitui o horizonte efetivo de possibilidades próprias e alheias independentemente da sua representação consciente.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "campo_ontologico_dinamico",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_REAL",
+      "D_PODER_SER",
+      "D_POTENCIALIDADE",
+      "D_CONTINUIDADE",
+      "D_CAMPO",
+      "D_LIMITE"
+    ],
+    "pressupoe": [],
+    "implica": ["D_RESPONSABILIDADE_ONTOLOGICA"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_FIXACAO_CONDICAO_ONTOLOGICA"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": ["OP_IDENTIFICACAO_CAMPO"],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_RESPONSABILIDADE_ONTOLOGICA"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": ["D_SISTEMA"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "admissibilidade_ontologica",
+    "condicoes_de_erro": [
+      "redução_arbitraria_de_potencialidades",
+      "bloqueio_sistemico_do_poder_ser"
+    ]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["redução_a_planeamento"],
+    "leituras_a_evitar": ["campo_como_ficcao"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

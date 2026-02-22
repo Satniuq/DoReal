@@ -1,0 +1,51 @@
+{
+  "id": "D_AUTORREFERENCIALIDADE",
+  "nome": "Autorreferencialidade",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Autorreferencialidade é o processo pelo qual a representação se fecha sobre si mesma, tomando a sua coerência interna como critério suficiente, substituindo a relação com o real por validação sistémica e limitando a reflexividade ao próprio ponto de vista.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "processo_de_fechamento_representacional",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": false
+  },
+
+  "dependencias": {
+    "depende_de": ["D_REPRESENTACAO", "D_PONTO_DE_VISTA"],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_PROJECAO_EU"],
+    "descricao": ["OP_DESCRICAO_ESTRUTURAL"],
+    "diferenciacao": [],
+    "critica": ["OP_CRITICA_FECHAMENTO_SIMBOLICO"],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["substituicao_do_real"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "desadequado",
+    "criterio_de_validacao": "resistencia_do_real",
+    "condicoes_de_erro": ["validacao_interna"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["fechamento_do_sentido"],
+    "leituras_a_evitar": ["coerencia_como_verdade"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL", "OP_REINTEGRACAO_ONTOLOGICA"]
+  }
+}

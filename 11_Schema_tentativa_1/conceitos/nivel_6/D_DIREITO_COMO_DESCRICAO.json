@@ -1,0 +1,69 @@
+{
+  "id": "D_DIREITO_COMO_DESCRICAO",
+  "nome": "Direito como descrição",
+  "nivel": 6,
+  "dominio": "ontologico-juridico",
+
+  "definicao": {
+    "texto": "Direito como descrição é a forma institucional de cristalização normativa que emerge da descrição adequada e verdadeira das regularidades dos modos de ser humanos em relação, fundada no poder-ser real, e destinada a permitir coordenação estável, previsível e responsável das ações no tempo, subordinando o dever-ser à estrutura do real e degenerando quando se autonomiza como sistema simbólico autorreferencial desligado da descrição que o legitima.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "instituicao_descritiva",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": [
+      "D_INSTITUICAO",
+      "D_REAL",
+      "D_PODER_SER",
+      "D_RELACAO",
+      "D_SER_HUMANO",
+      "D_CONTINUIDADE"
+    ],
+    "pressupoe": [
+      "D_ADEQUACAO",
+      "D_CRITERIO",
+      "D_VERDADE",
+      "D_DEVER_SER"
+    ],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CRITERIO"
+    ],
+    "descricao": ["OP_RECONDUCAO_RELACIONAL"],
+    "diferenciacao": [],
+    "critica": [
+      "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+    ],
+    "corretiva": ["OP_REINTEGRACAO_ONTOLOGICA"]
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": ["positivismo_autonomo"],
+    "pode_ser_afetado_por": ["D_SISTEMA_SIMBOLICO"]
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "descricao_verdadeira_do_real",
+    "condicoes_de_erro": ["norma_sem_descricao"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["juridicismo"],
+    "leituras_a_evitar": ["direito_como_valor"],
+    "operacoes_de_reintegracao": ["OP_SUBMISSAO_REAL"]
+  }
+}

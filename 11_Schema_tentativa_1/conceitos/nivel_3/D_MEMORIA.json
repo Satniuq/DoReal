@@ -1,0 +1,54 @@
+{
+  "id": "D_MEMORIA",
+  "nome": "Memória",
+  "nivel": 3,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Memória é a inscrição durável das atualizações apreendidas que permite a continuidade do ser humano no tempo, sustentando a estabilidade da sua relação com o real sem se reduzir à consciência ou à representação simbólica.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "inscricao_duravel_de_atualizacoes",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_SER_HUMANO", "D_CONTINUIDADE"],
+    "pressupoe": [],
+    "implica": ["D_IMAGINACAO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_CONTINUIDADE"],
+    "descricao": ["OP_DESCRICAO_ATUALIZACAO"],
+    "diferenciacao": [],
+    "critica": ["OP_DESSUBSTANCIALIZACAO"],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_IMAGINACAO"],
+    "pode_gerar_erro": ["fixacao_passado"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "continuidade_real",
+    "condicoes_de_erro": ["confusao_memoria_consciencia"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["memoria_como_identidade"],
+    "leituras_a_evitar": ["memoria_como_instancia_autonoma"],
+    "operacoes_de_reintegracao": [
+      "OP_RECONDUCAO_RELACIONAL",
+      "OP_SUBMISSAO_REAL"
+    ]
+  }
+}

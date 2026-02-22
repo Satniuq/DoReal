@@ -1,0 +1,53 @@
+{
+  "id": "D_NAO_SER",
+  "nome": "Não-ser",
+  "nivel": 0,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Exclusão implicada por toda determinação.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "implicacao_ontologica",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_DETERMINACAO"],
+    "pressupoe": [],
+    "implica": []
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+    ],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": [],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "implicacao_necessaria",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["hipostasiacao_do_nao_ser"],
+    "leituras_a_evitar": ["não-ser como entidade"],
+    "operacoes_de_reintegracao": []
+  }
+}

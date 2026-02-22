@@ -1,0 +1,53 @@
+{
+  "id": "D_DETERMINACAO",
+  "nome": "Determinação",
+  "nivel": 0,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Estabilização relacional de distinções sob limite.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "condicao_minima",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_LIMITE"],
+    "pressupoe": ["D_RELACAO"],
+    "implica": ["D_NAO_SER"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "descricao": [],
+    "diferenciacao": [],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_NAO_SER"],
+    "pode_gerar_erro": [],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "estabilidade_relacional",
+    "condicoes_de_erro": []
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["reificacao"],
+    "leituras_a_evitar": ["determinação como substância"],
+    "operacoes_de_reintegracao": []
+  }
+}

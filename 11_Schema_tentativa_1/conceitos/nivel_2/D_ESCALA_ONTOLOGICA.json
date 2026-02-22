@@ -1,0 +1,51 @@
+{
+  "id": "D_ESCALA_ONTOLOGICA",
+  "nome": "Escala ontológica",
+  "nivel": 2,
+  "dominio": "ontologico",
+
+  "definicao": {
+    "texto": "Diferença de extensão estrutural entre níveis de determinação.",
+    "linguagem": "estrutural",
+    "nao_metaforica": true
+  },
+
+  "estatuto_ontologico": {
+    "afirmacao_ontologica": true,
+    "tipo": "diferenciacao_estrutural",
+    "criterio_ultimo": "D_REAL",
+    "exterioridade_excluida": true
+  },
+
+  "dependencias": {
+    "depende_de": ["D_REGULARIDADE", "D_REAL"],
+    "pressupoe": [],
+    "implica": ["D_CIRCULO"]
+  },
+
+  "operacoes_ontologicas": {
+    "fundacao": ["OP_IDENTIFICACAO_ESCALA"],
+    "descricao": [],
+    "diferenciacao": ["OP_DIFERENCIACAO_NIVEIS"],
+    "critica": [],
+    "corretiva": []
+  },
+
+  "dinamica": {
+    "gera": ["D_CIRCULO"],
+    "pode_gerar_erro": ["erro_de_escala"],
+    "pode_ser_afetado_por": []
+  },
+
+  "epistemologia": {
+    "estado_epistemico_padrao": "adequado",
+    "criterio_de_validacao": "adequacao_de_extensao_ontologica",
+    "condicoes_de_erro": ["aplicacao_transescalar"]
+  },
+
+  "notas_de_protecao": {
+    "riscos_de_desvio": ["homogeneizacao_do_real"],
+    "leituras_a_evitar": ["escala como grau quantitativo"],
+    "operacoes_de_reintegracao": ["OP_DIFERENCIACAO_NIVEIS"]
+  }
+}
