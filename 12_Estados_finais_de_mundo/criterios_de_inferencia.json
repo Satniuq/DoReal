@@ -1,0 +1,98 @@
+{
+  "metadados": {
+    "descricao": "Criterios interpretativos para inferencia de estados finais de mundo a partir do comportamento ontologico de percursos.",
+    "nota_metodologica": "Os criterios aqui descritos nao constituem regras necessarias nem suficientes. Funcionam como padroes de leitura convergente, orientando a interpretacao ontologica dos percursos sem introduzir normatividade externa."
+  },
+
+  "criterios": [
+
+    {
+      "estado_final": "MUNDO_CONSTITUIDO",
+      "descricao": "Inferido quando o percurso produz constituicao ontologica robusta e relacao efetiva com o real.",
+      "padroes_necessarios": {
+        "intensificacoes_legitimas": ">= 1",
+        "ausencias_fundacionais_persistentes": false,
+        "relacao_com_o_real": "efetiva"
+      },
+      "padroes_excludentes": {
+        "dano_real_estrutural": true,
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "A existencia de erro nao exclui este estado, desde que haja correcao.",
+        "Este estado nao implica estabilidade definitiva."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_FRAGIL",
+      "descricao": "Inferido quando ha constituicao parcial com instabilidade estrutural.",
+      "padroes_necessarios": {
+        "intensificacoes_legitimas": ">= 1",
+        "ausencias_fundacionais_persistentes": "parciais",
+        "relacao_com_o_real": "intermitente",
+        "impossibilidade_ontologica": true
+      },
+      "padroes_excludentes": {
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "Estado liminar e reversivel.",
+        "Pode evoluir para constituicao ou colapso."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_ESTERIL",
+      "descricao": "Inferido quando nao ha sequer possibilidade estrutural de constituicao ontologica.",
+      "padroes_necessarios": {
+        "impossibilidade_ontologica": true
+      },
+      "padroes_excludentes": {
+        "dano_real_estrutural": true
+      },
+      "observacoes": [
+        "Nao ha erro propriamente dito, pois nao ha mundo suficiente para errar.",
+        "A critica e ontologica, nao moral ou epistemologica."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_DEGENERADO",
+      "descricao": "Inferido quando um mundo constituido entra em afastamento estrutural do real.",
+      "padroes_necessarios": {
+        "intensificacoes_legitimas": ">= 1",
+        "dano_real_estrutural": true,
+        "erro_nao_corrigido": true,
+        "relacao_com_o_real": "substituida"
+      },
+      "padroes_excludentes": {
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "Diferente de esterilidade: aqui ha mundo e efeitos reais.",
+        "A degeneracao e um processo, nao um estado instantaneo."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_AUTOCORRETIVO",
+      "descricao": "Inferido quando o percurso sustenta abertura estrutural ao real e capacidade reiterada de correcao.",
+      "padroes_necessarios": {
+        "intensificacoes_recorrentes": ">= 2",
+        "erro_assumido": true,
+        "capacidade_de_correcao": "ativa",
+        "relacao_com_o_real": "aberta"
+      },
+      "padroes_excludentes": {
+        "fechamento_sistemico": true,
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "Nao e um ideal normativo, mas uma dinamica rara.",
+        "Pode coexistir com instabilidade e conflito."
+      ]
+    }
+
+  ]
+}

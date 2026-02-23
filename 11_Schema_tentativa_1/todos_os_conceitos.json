@@ -19,7 +19,9 @@
       "depende_de": [
         "D_LIMITE"
       ],
-      "pressupoe": [],
+      "pressupoe": [
+        "D_RELACAO"
+      ],
       "implica": [
         "D_NAO_SER"
       ]
@@ -1024,6 +1026,7 @@
       ],
       "pressupoe": [],
       "implica": [
+        "D_ESCALA_ONTOLOGICA",
         "D_LOCALIDADE"
       ]
     },
@@ -1555,7 +1558,9 @@
         "D_LOCALIDADE",
         "D_REAL"
       ],
-      "pressupoe": [],
+      "pressupoe": [
+        "D_LIMITE"
+      ],
       "implica": [
         "D_REPRESENTACAO",
         "D_PONTO_DE_VISTA"
@@ -2264,7 +2269,9 @@
         "D_LOCALIDADE",
         "D_CONTINUIDADE"
       ],
-      "pressupoe": [],
+      "pressupoe": [
+        "D_LIMITE"
+      ],
       "implica": [
         "D_APREENSAO",
         "D_MEMORIA"
@@ -2679,7 +2686,9 @@
         "D_ADEQUACAO",
         "D_REAL"
       ],
-      "pressupoe": [],
+      "pressupoe": [
+        "D_LIMITE"
+      ],
       "implica": []
     },
     "operacoes_ontologicas": {
@@ -2743,7 +2752,9 @@
         "D_REAL",
         "D_REPRESENTACAO"
       ],
-      "pressupoe": [],
+      "pressupoe": [
+        "D_LIMITE"
+      ],
       "implica": [
         "D_ERRO_CATEGORIAL",
         "D_ERRO_DE_ESCALA"
