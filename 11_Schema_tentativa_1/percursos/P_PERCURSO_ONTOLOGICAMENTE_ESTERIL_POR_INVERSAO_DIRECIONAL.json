@@ -1,0 +1,53 @@
+{
+  "id": "P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL",
+
+  "nome": "Percurso Ontologicamente Estéril por Inversão Direcional",
+
+  "tipo": "percursivo_etico_fundacional",
+
+  "estatuto_do_percurso": {
+    "natureza": "etico_fundacional",
+    "funcao": "fundar_a_etica_como_origem_do_real",
+    "nao_derivado": true,
+    "criterio_ultimo": "D_DEVER_SER"
+  },
+
+  "descricao": {
+    "texto": "Percurso que tenta fundar o real e a ação humana a partir do dever-ser enquanto princípio normativo originário.",
+    "alcance": "etico_fundacional",
+    "criterio_ultimo": "D_DEVER_SER"
+  },
+
+  "inicio": "D_DEVER_SER",
+  "termino": "D_REAL",
+
+  "sequencia": [
+    "D_DEVER_SER",
+    "D_BEM",
+    "D_RESPONSABILIDADE_ONTOLOGICA",
+    "D_LIBERDADE_SITUADA",
+    "D_ATUALIZACAO",
+    "D_REAL"
+  ],
+
+  "pressupostos_estruturais": [
+    "O dever-ser precede o ser",
+    "A normatividade funda a realidade",
+    "A responsabilidade é anterior ao poder-ser",
+    "O real deve conformar-se ao bem"
+  ],
+
+  "operacoes_ativas": [
+    "OP_DERIVACAO_DEVER_SER",
+    "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA",
+    "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO"
+  ],
+
+  "operacoes_de_correcao": [
+    "OP_REINTEGRACAO_ONTOLOGICA"
+  ],
+
+  "observacoes": [
+    "Este percurso assume a primazia normativa sobre a estrutura ontológica do real."
+  ]
+}
