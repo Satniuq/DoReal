@@ -1,3 +1,410 @@
+TENTAR MOSTRAR O QUE ANDO A FAZER E ONDE ESTOU
+
+0. TREE
+
+C:\Users\vanes\DoReal_Casa_Local\DoReal>tree /f
+Folder PATH listing for volume Windows
+Volume serial number is CCEC-2F66
+C:.
+│   .gitignore
+│   anotacoes.csv
+│   escrita_certas_partes.txt
+│   guia.txt
+│   README.md
+│   setup_doreal.py
+│   taxnonomia.yml
+│
+├───00_bruto
+│       fragmentos.md
+│       fragmentos_nao_processados.md
+│
+├───01_extraido
+│       proposicoes_unicas_nao_processadas.txt
+│       proposicoes_unicas_processadas.txt
+│
+├───02_segmentado
+│       fragmentos_extraidos.json
+│       fragmentos_segmentados.json
+│
+├───04_classificado
+│       01_01eixos.py
+│       01_02influencias_eixos.py
+│       02_01Indice_Blocos_SubBlocos.py
+│       02_01_INDICE_DA_OBRA.txt
+│       02_02Blocos_SubBlocos_Por_ID.py
+│       02_02_Blocos_E_SubBlocos_ID.txt
+│       02_031_blocos_so_sintese.py
+│       02_031_MANUSCRITO_SINTESE.txt
+│       02_03Blocos_SubBlocos_Com_Texto.py
+│       02_03_MANUSCRITO_REVISAO_FINAL.txt
+│       03_01transversalidade_das_classificacoes.py
+│       04_00IndiceSequencial.txt
+│       04_01Bloco1_Sequencial.py
+│       04_01Bloco1_Sequencial.txt
+│       04_02Bloco2_Sequencial.py
+│       04_02Bloco2_Sequencial.txt
+│       04_03Bloco3_Sequencial.py
+│       04_03Bloco3_Sequencial.txt
+│       04_04Bloco4_Sequencial.py
+│       04_04Bloco4_Sequencial.txt
+│       04_05TextoClassificado_Sequencial.py
+│       04_05TextoClassificado_Sequencial.txt
+│       05_01indice_temas_e_estagios.py
+│       05_01indice_temas_e_estagios.txt
+│       06_00_So_Texto_Em_Temas_e_Estagios.py
+│       06_00_So_Texto_Em_Temas_e_Estagios.txt
+│       06_01Texto_No_Indice_TXT.py
+│       06_01Texto_No_Indice_TXT.txt
+│       06_02Texto_No_Indice_MD.md
+│       06_02Texto_No_Indice_MD.py
+│       Classificados_Final.json
+│       MAPA_TRANSVERSAL_CONCEITOS.txt
+│       Taxonomia_Final.json
+│
+├───05_filософos
+│       aristoteles.md
+│       heidegger.md
+│       kant.md
+│
+├───05_verdades
+│       00_00_verdades_necessárias.txt
+│       01_01_Extrai_verdades.py
+│       01_01_Extrai_verdades.txt
+│       02_01_comando_AI_extrair_verdades.txt
+│       02_01_verdades_extraidas.json
+│       @echo off.txt
+│       copiar_fragmentos.py
+│       COPIAR_PROXIMO.ps1
+│       estado.txt
+│       regras_extracao_verdades.txt
+│       verdades.md
+│
+├───06_historico
+│       decisoes.md
+│       extracoes.md
+│
+├───06_relacoes
+│       ligacoes_provisorias.md
+│       tensoes.md
+│
+├───07_indexacao
+│       conceitos.md
+│       eixos.md
+│       problemas.md
+│       teses.md
+│
+├───08_definicoes
+│       00_pensamentos_sobre_definicoes.txt
+│       01_01_Indice compacto.txt
+│       01_def_Ser.txt
+│       01_Indice_Dependencias.txt
+│       02_01_processar_ontologia.py
+│       02_01_processar_ontologia_teste.py
+│       02_01_prompt.txt
+│       02_definicoes.json
+│       02_extracao.txt
+│       03_extracao_2.txt
+│       06_01Texto_No_Indice_TXT.txt
+│       1_def_Real
+│       Estrutura.txt
+│       indice_e_matriz.txt
+│       script_debug.py
+│       teste_5_fragmentos.json
+│
+├───09_Prompt
+│   │   .env
+│   │   extrator_robusto.py
+│   │   gerar_vetores.py
+│   │   requirements.txt
+│   │
+│   ├───config
+│   │       definicoes.json
+│   │       operacoes.json
+│   │       vetores_definicoes.json
+│   │
+│   └───data
+│           06_01Texto_No_Indice_TXT.txt
+│           extracao_ontologica_final.json
+│           falhados.json
+│           verificar_json.py
+│           verificar_TXT.py
+│
+├───10_grafo_dependencias
+│   │   auditar_definicoes.py
+│   │   A_FAZER.MD
+│   │   A_FAZER_EXPLICACAO.MD
+│   │   construir_grafo_dependencias.py
+│   │   definicoes_aplicativas.md
+│   │   definicoes_correcao.md
+│   │   definicoes_indice.md
+│   │   eixo_axial_do_sistema.md
+│   │   hierarquia_do_real.txt
+│   │   subgrafo_epistemologia.py
+│   │   subgrafo_etica.py
+│   │   subgrafo_fundamento.py
+│   │
+│   └───data
+│       ├───auditoria_definicoes
+│       │       D_ADEQUACAO.txt
+│       │       D_APREENSAO.txt
+│       │       D_ATUALIZACAO.txt
+│       │       D_AUTORREFERENCIALIDADE.txt
+│       │       D_BEM.txt
+│       │       D_CAMPO.txt
+│       │       D_CAMPO_DE_POTENCIALIDADES.txt
+│       │       D_CIRCULO.txt
+│       │       D_CONSCIENCIA_REFLEXIVA.txt
+│       │       D_CONTINGENCIA.txt
+│       │       D_CONTINUIDADE.txt
+│       │       D_CONTINUO.txt
+│       │       D_CORRECAO.txt
+│       │       D_CRITERIO.txt
+│       │       D_CULTURA.txt
+│       │       D_DANO_REAL.txt
+│       │       D_DETERMINACAO.txt
+│       │       D_DEVER_SER.txt
+│       │       D_DIRECAO_ONTOLOGICA.txt
+│       │       D_DIREITO_COMO_DESCRICAO.txt
+│       │       D_DISTINCAO.txt
+│       │       D_ERRO_CATEGORIAL.txt
+│       │       D_ERRO_DE_ESCALA.txt
+│       │       D_ERRO_ONTOLOGICO.txt
+│       │       D_ESCALA_ONTOLOGICA.txt
+│       │       D_ESTABILIDADE.txt
+│       │       D_ESTRUTURA.txt
+│       │       D_IMAGINACAO.txt
+│       │       D_IMPOSSIBILIDADE_ONTOLOGICA.txt
+│       │       D_INSTITUICAO.txt
+│       │       D_LIBERDADE_SITUADA.txt
+│       │       D_LIMITE.txt
+│       │       D_LINGUAGEM.txt
+│       │       D_LOCALIDADE.txt
+│       │       D_MAL.txt
+│       │       D_MEDIACAO.txt
+│       │       D_MEMORIA.txt
+│       │       D_MOVIMENTO.txt
+│       │       D_NAO_SER.txt
+│       │       D_NECESSIDADE.txt
+│       │       D_PODER_SER.txt
+│       │       D_PONTO_DE_VISTA.txt
+│       │       D_POTENCIALIDADE.txt
+│       │       D_REAL.txt
+│       │       D_REGULARIDADE.txt
+│       │       D_RELACAO.txt
+│       │       D_RELACAO_EU_REAL.txt
+│       │       D_RELACIONALIDADE_MINIMA.txt
+│       │       D_REPRESENTACAO.txt
+│       │       D_RESPONSABILIDADE_ONTOLOGICA.txt
+│       │       D_SER.txt
+│       │       D_SER_HUMANO.txt
+│       │       D_SIMBOLO.txt
+│       │       D_SISTEMA.txt
+│       │       D_SISTEMA_SIMBOLICO.txt
+│       │       D_TECNOLOGIA.txt
+│       │       D_TEMPO.txt
+│       │       D_TOTALIDADE.txt
+│       │       D_VALIDADE.txt
+│       │       D_VERDADE.txt
+│       │
+│       ├───grafo
+│       │       grafo_dependencias.dot
+│       │       grafo_dependencias.graphml
+│       │       grafo_resumo.txt
+│       │
+│       └───subgrafos
+│               subgrafo_epistemologia.dot
+│               subgrafo_epistemologia.graphml
+│               subgrafo_epistemologia_resumo.txt
+│               subgrafo_etica.dot
+│               subgrafo_etica.graphml
+│               subgrafo_etica_resumo.txt
+│               subgrafo_fundamento.dot
+│               subgrafo_fundamento.graphml
+│               subgrafo_fundamento_resumo.txt
+│
+├───11_Schema_tentativa_1
+│   │   carregar_conceitos.py
+│   │   centralidade_conceitos.py
+│   │   detetor_circularidade.py
+│   │   detetor_dependencias_implicitas.py
+│   │   detetor_dependencias_semanticas.py
+│   │   detetor_inconsistencias.py
+│   │   exportar_conceitos.py
+│   │   exposicao_estrutural_do_real.txt
+│   │   extrair_dependencias.py
+│   │   identidade_do_projeto.py
+│   │   identidade_do_projeto_2.py
+│   │   identidade_do_projeto_3.py
+│   │   identidade_do_projeto_4.py
+│   │   identidade_do_projeto_5.py
+│   │   identidade_projeto_1_a_5.md
+│   │   INDICE_Tentativa_apos_percursos.md
+│   │   todos_os_conceitos.json
+│   │   validar_atributos_conceitos.py
+│   │   validar_dependencias.py
+│   │   validar_forma_conceitos.py
+│   │   validar_operacoes_conceitos.py
+│   │   validar_operacoes_nao_usadas.py
+│   │   validar_operacoes_por_eixo.py
+│   │
+│   ├───conceitos
+│   │   ├───nivel_0
+│   │   │       D_DETERMINACAO.json
+│   │   │       D_DISTINCAO.json
+│   │   │       D_ESTRUTURA.json
+│   │   │       D_LIMITE.json
+│   │   │       D_NAO_SER.json
+│   │   │       D_POTENCIALIDADE.json
+│   │   │       D_RELACIONALIDADE_MINIMA.json
+│   │   │
+│   │   ├───nivel_1
+│   │   │       D_ATUALIZACAO.json
+│   │   │       D_LOCALIDADE.json
+│   │   │       D_PODER_SER.json
+│   │   │       D_REAL.json
+│   │   │       D_RELACAO.json
+│   │   │       D_SER.json
+│   │   │       D_TOTALIDADE.json
+│   │   │
+│   │   ├───nivel_1_5
+│   │   │       D_CONTINUIDADE.json
+│   │   │       D_IMPOSSIBILIDADE_ONTOLOGICA.json
+│   │   │       D_REGULARIDADE.json
+│   │   │
+│   │   ├───nivel_2
+│   │   │       D_CAMPO.json
+│   │   │       D_CIRCULO.json
+│   │   │       D_CONTINGENCIA.json
+│   │   │       D_CONTINUO.json
+│   │   │       D_ESCALA_ONTOLOGICA.json
+│   │   │       D_ESTABILIDADE.json
+│   │   │       D_MOVIMENTO.json
+│   │   │       D_NECESSIDADE.json
+│   │   │       D_TEMPO.json
+│   │   │
+│   │   ├───nivel_3
+│   │   │       D_APREENSAO.json
+│   │   │       D_AUTORREFERENCIALIDADE.json
+│   │   │       D_CONSCIENCIA_REFLEXIVA.json
+│   │   │       D_LIBERDADE_SITUADA.json
+│   │   │       D_LINGUAGEM.json
+│   │   │       D_MEDIACAO.json
+│   │   │       D_MEMORIA.json
+│   │   │       D_PONTO_DE_VISTA.json
+│   │   │       D_RELACAO_EU_REAL.json
+│   │   │       D_REPRESENTACAO.json
+│   │   │       D_SER_HUMANO.json
+│   │   │       D_SIMBOLO.json
+│   │   │
+│   │   ├───nivel_4
+│   │   │       D_ADEQUACAO.json
+│   │   │       D_CORRECAO.json
+│   │   │       D_CRITERIO.json
+│   │   │       D_ERRO_CATEGORIAL.json
+│   │   │       D_ERRO_DE_ESCALA.json
+│   │   │       D_ERRO_ONTOLOGICO.json
+│   │   │       D_VALIDADE.json
+│   │   │       D_VERDADE.json
+│   │   │
+│   │   ├───nivel_5
+│   │   │       D_BEM.json
+│   │   │       D_CAMPO_DE_POTENCIALIDADES.json
+│   │   │       D_DANO_REAL.json
+│   │   │       D_DEVER_SER.json
+│   │   │       D_DIGNIDADE.json
+│   │   │       D_DIRECAO_ONTOLOGICA.json
+│   │   │       D_MAL.json
+│   │   │       D_RESPONSABILIDADE_ONTOLOGICA.json
+│   │   │       
+│   │   └───nivel_6
+│   │           D_CULTURA.json
+│   │           D_DIREITO_COMO_DESCRICAO.json
+│   │           D_IMAGINACAO.json
+│   │           D_INSTITUICAO.json
+│   │           D_SISTEMA.json
+│   │           D_SISTEMA_SIMBOLICO.json
+│   │           D_TECNOLOGIA.json
+│   │
+│   ├───operacoes
+│   │       operacoes.json
+│   │
+│   ├───percursos
+│   │       conteudo_completo.txt
+│   │       extrair_percursos_e_python.py
+│   │       P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA.json
+│   │       P_EIXO_CAMPO_E_LOCALIZACAO.json
+│   │       P_EIXO_EPISTEMOLOGICO.json
+│   │       P_EIXO_ESCALA_E_ERRO_DE_ESCALA.json
+│   │       P_EIXO_ETICO_NARRATIVO.json
+│   │       P_EIXO_ONTOLOGICO_NUCLEAR.json
+│   │       P_EIXO_SIMBOLICO_MEDIACIONAL.json
+│   │       P_ESTRUTURA_OPERACIONAL_DO_REAL.json
+│   │       P_PERCURSO_DA_DEGENERACAO_ETICA.json
+│   │       P_PERCURSO_DA_VIDA_BOA.json
+│   │       P_PERCURSO_DA_VIDA_BOA_FILOSOFICA.json
+│   │       P_PERCURSO_DO_ERRO_E_CORRECAO.json
+│   │       P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO.json
+│   │       P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA.json
+│   │       P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL.json
+│   │       P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA.json
+│   │       validar_percursos.py
+│   │       ver_percurso.py
+│   │
+│   ├───schema_base.json
+│   └───__pycache__
+│           carregar_conceitos.cpython-313.pyc
+│           extrair_dependencias.cpython-313.pyc
+│           identidade_do_projeto.cpython-313.pyc
+│           identidade_do_projeto_2.cpython-313.pyc
+│
+├───12_Estados_finais_de_mundo
+│       criterios_de_inferencia.json
+│       estados_finais.json
+│       MUNDO_AUTOCORRETIVO.json
+│       MUNDO_CONSTITUIDO.json
+│       MUNDO_DEGENERADO.json
+│       MUNDO_ESTERIL.json
+│       MUNDO_FRAGIL.json
+│
+├───data
+├───Estrutura
+│       estrutura_inicial.md
+│       
+├───indice
+│       fragmentos_ordenados_3.md
+│       fragmentos_ordenados_Parte_10_Hitória_do_pensamento_E_Filosofia
+│       fragmentos_ordenados_Parte_11_Sintese_final
+│       fragmentos_ordenados_Parte_1_o_Real.md
+│       fragmentos_ordenados_Parte_2_Consciência
+│       fragmentos_ordenados_Parte_3_Verdade e Conhecimento
+│       fragmentos_ordenados_Parte_4_Erro
+│       fragmentos_ordenados_Parte_5_Ética
+│       fragmentos_ordenados_Parte_6_Antropologia_Filosofica
+│       fragmentos_ordenados_Parte_7_Escalas_e_sistemas
+│       fragmentos_ordenados_Parte_8_Politica_e_Direito
+│       fragmentos_ordenados_Parte_9_Cultura_e_Transmissão
+│       fragmentos_ordenados_por_indice_2.md
+│       indice_1.md
+│       por_ordenar.md
+│
+├───output
+│       fragmentos.csv
+│
+├───regrasAI
+│       comandos_AI.md
+│       fragmentos_classificados.md
+│       lista_classificacao.md
+│
+└───scripts
+        extract_fragments.py
+        segmentar_fragmentos.py
+        verificar_integridade.py
+        verificar_integridade_segmentacao.py
+
+
+C:\Users\vanes\DoReal_Casa_Local\DoReal>
+
+
 1. OPERACOES.JSON
 
 {
@@ -2463,32 +2870,72 @@ P_PERCURSO_DA_VIDA_BOA_FILOSOFICA.json
 import os
 import sys
 import json
+from typing import Dict, List, Set, Tuple, Any
 
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-if BASE_DIR not in sys.path:
-    sys.path.insert(0, BASE_DIR)
+# ==========================================================
+# CONTEXTO DO PROJECTO
+# ==========================================================
 
-from carregar_conceitos import carregar_conceitos
+PROJECT_ROOT = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "..")
+)
+
+SCHEMA_DIR = os.path.join(PROJECT_ROOT, "11_Schema_tentativa_1")
+ESTADOS_DIR = os.path.join(PROJECT_ROOT, "12_Estados_finais_de_mundo")
+
+if SCHEMA_DIR not in sys.path:
+    sys.path.insert(0, SCHEMA_DIR)
+
+from carregar_conceitos import carregar_conceitos  # noqa
 
 
-def carregar_percurso(pid):
-    pasta = os.path.join(BASE_DIR, "percursos")
-    for f in os.listdir(pasta):
+# ==========================================================
+# CONFIG
+# ==========================================================
+
+PASTA_PERCURSOS = os.path.join(SCHEMA_DIR, "percursos")
+PASTA_CONCEITOS = os.path.join(SCHEMA_DIR, "conceitos")
+PASTA_ESTADOS = ESTADOS_DIR
+FICHEIRO_CRITERIOS = os.path.join(PASTA_ESTADOS, "criterios_de_inferencia.json")
+
+
+# ==========================================================
+# UTILIDADES
+# ==========================================================
+
+def carregar_json(path: str) -> dict:
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def carregar_percurso(pid: str) -> dict:
+    for f in os.listdir(PASTA_PERCURSOS):
         if f.endswith(".json"):
-            with open(os.path.join(pasta, f), encoding="utf-8") as fh:
-                p = json.load(fh)
-                if p.get("id") == pid:
-                    return p
+            p = carregar_json(os.path.join(PASTA_PERCURSOS, f))
+            if p.get("id") == pid:
+                return p
     raise ValueError(f"Percurso não encontrado: {pid}")
 
 
-def analisar_dependencias(conceito, ativos):
+def carregar_criterios() -> dict:
+    if not os.path.isfile(FICHEIRO_CRITERIOS):
+        raise FileNotFoundError(
+            f"Ficheiro de critérios não encontrado:\n{FICHEIRO_CRITERIOS}"
+        )
+    return carregar_json(FICHEIRO_CRITERIOS)
+
+
+# ==========================================================
+# MÉTRICAS BÁSICAS
+# ==========================================================
+
+def analisar_dependencias(conceito: dict, ativos: Set[str]) -> Tuple[Set[str], Set[str]]:
     deps = set(conceito.get("dependencias", {}).get("depende_de", []))
     faltam = deps - ativos
     return deps, faltam
 
 
-def estado_ontologico(deps, faltam, ja_vivido):
+def estado_ontologico(deps: Set[str], faltam: Set[str], ja_vivido: bool) -> str:
     if not deps:
         return "origem não fundacional"
     if not faltam:
@@ -2498,7 +2945,93 @@ def estado_ontologico(deps, faltam, ja_vivido):
     return "emergência situada com ausência"
 
 
-def narrar_passo(cid, conceito, ativos, volta, historico):
+def is_fundacional(conceito: dict) -> bool:
+    est = conceito.get("estatuto_ontologico", {})
+    if est.get("afirmacao_ontologica") is not True:
+        return False
+    return conceito.get("nivel", 99) <= 2
+
+
+# ==========================================================
+# DETECTORES ESTRUTURAIS
+# ==========================================================
+
+def classificar_ausencias_fundacionais(
+    ausencias: Set[str],
+    conceitos: Dict[str, dict]
+) -> Any:
+    fundacionais = {
+        cid for cid in ausencias
+        if cid in conceitos and is_fundacional(conceitos[cid])
+    }
+    if not fundacionais:
+        return False
+    return True if len(fundacionais) >= 3 else "parciais"
+
+
+def inferir_impossibilidade_ontologica(metricas: Dict[str, Any]) -> bool:
+    return (
+        metricas["ausencias_fundacionais_persistentes"] is True
+        and metricas["intensificacoes_legitimas"] == 0
+    )
+
+
+def inferir_relacao_com_o_real(percurso: dict, metricas: Dict[str, Any]) -> str:
+    if metricas.get("impossibilidade_ontologica") is True:
+        return "invocada"
+
+    seq = percurso.get("sequencia", [])
+    if seq and seq[-1] == "D_REAL":
+        return "efetiva"
+    if "D_REAL" in seq:
+        return "intermitente"
+    return "substituida"
+
+
+# ==========================================================
+# MOTOR DE CRITÉRIOS
+# ==========================================================
+
+def parse_condicao(cond, valor) -> bool:
+    if isinstance(cond, bool):
+        return valor is cond
+    if isinstance(cond, int):
+        return valor == cond
+    if isinstance(cond, str):
+        cond = cond.strip()
+        if cond.startswith(">="):
+            return isinstance(valor, int) and valor >= int(cond[2:])
+        if cond.startswith("=="):
+            return isinstance(valor, int) and valor == int(cond[2:])
+        return valor == cond
+    return False
+
+
+def avaliar_estado(cfg: dict, metricas: Dict[str, Any]) -> Tuple[bool, List[str]]:
+    just = []
+
+    for k, cond in cfg.get("padroes_necessarios", {}).items():
+        val = metricas.get(k)
+        ok = parse_condicao(cond, val)
+        just.append(f"[NEC] {k}: {val} ⟶ {cond} => {'OK' if ok else 'NOK'}")
+        if not ok:
+            return False, just
+
+    for k, cond in cfg.get("padroes_excludentes", {}).items():
+        val = metricas.get(k)
+        bate = parse_condicao(cond, val)
+        just.append(f"[EXC] {k}: {val} ⟶ {cond} => {'BATE' if bate else 'NÃO BATE'}")
+        if bate:
+            return False, just
+
+    return True, just
+
+
+# ==========================================================
+# EXECUÇÃO DO PERCURSO
+# ==========================================================
+
+def narrar_passo(cid: str, conceito: dict, ativos: Set[str], volta: int, historico: Set[str]) -> dict:
     deps, faltam = analisar_dependencias(conceito, ativos)
     ja_vivido = cid in historico
     estado = estado_ontologico(deps, faltam, ja_vivido)
@@ -2509,32 +3042,101 @@ def narrar_passo(cid, conceito, ativos, volta, historico):
     if faltam:
         print(f"  Ausências ontológicas assumidas: {', '.join(sorted(faltam))}")
 
-    print(f"  Tipo ontológico: {conceito.get('tipo_ontologico')}")
-    print(f"  Afirmação ontológica: {conceito.get('estatuto_ontologico', {}).get('afirmacao_ontologica')}")
+    afirm = conceito.get("estatuto_ontologico", {}).get("afirmacao_ontologica")
+    print(f"  Afirmação ontológica: {afirm}")
 
     if estado == "intensificação legítima":
         print("  O campo aprofunda-se sem rutura.")
     else:
         print("  Nada é imposto. O real permanece critério silencioso.")
 
+    return {
+        "cid": cid,
+        "faltam": faltam,
+        "estado": estado,
+        "afirmacao": afirm
+    }
 
-def ver_percurso_espiral(pid, voltas=2):
-    conceitos = carregar_conceitos(os.path.join(BASE_DIR, "conceitos"))
+
+def ver_percurso_espiral(pid: str, voltas: int = 2, mostrar_justificacao: bool = True) -> None:
+    conceitos = carregar_conceitos(PASTA_CONCEITOS)
     percurso = carregar_percurso(pid)
+    criterios = carregar_criterios()
 
     print("\n" + "=" * 70)
-    print(f"PERCURSO EM ESPIRAL: {percurso['nome']}")
+    print(f"PERCURSO EM ESPIRAL: {percurso.get('nome', pid)}")
     print("=" * 70)
 
-    ativos = set()
-    historico = set()
+    ativos: Set[str] = set()
+    historico: Set[str] = set()
+    ausencias_por_volta: List[Set[str]] = []
+    intensificacoes_por_volta: List[int] = []
 
     for volta in range(1, voltas + 1):
+        ausencias = set()
+        intensificacoes = 0
+
         for cid in percurso["sequencia"]:
             conceito = conceitos[cid]
-            narrar_passo(cid, conceito, ativos, volta, historico)
+            info = narrar_passo(cid, conceito, ativos, volta, historico)
+
+            if info["estado"] == "intensificação legítima":
+                intensificacoes += 1
+
+            ausencias |= info["faltam"]
             ativos.add(cid)
             historico.add(cid)
+
+        ausencias_por_volta.append(ausencias)
+        intensificacoes_por_volta.append(intensificacoes)
+
+    # ======================================================
+    # MÉTRICAS GLOBAIS
+    # ======================================================
+
+    ausencias_globais = set().union(*ausencias_por_volta)
+
+    metricas: Dict[str, Any] = {
+        "intensificacoes_legitimas": sum(intensificacoes_por_volta),
+        "ausencias_fundacionais_persistentes": classificar_ausencias_fundacionais(
+            ausencias_globais, conceitos
+        )
+    }
+
+    metricas["impossibilidade_ontologica"] = inferir_impossibilidade_ontologica(metricas)
+    metricas["relacao_com_o_real"] = inferir_relacao_com_o_real(percurso, metricas)
+
+    # ======================================================
+    # RELATÓRIO
+    # ======================================================
+
+    print("\n" + "-" * 70)
+    print("RELATÓRIO FINAL — MÉTRICAS")
+    print("-" * 70)
+    for k, v in metricas.items():
+        print(f"• {k}: {v}")
+    if metricas.get("impossibilidade_ontologica") is True:
+            print("• Diagnóstico ontológico: impossibilidade estrutural do poder-ser.")
+
+    print("\n" + "-" * 70)
+    print("INFERÊNCIA — ESTADO FINAL DE MUNDO")
+    print("-" * 70)
+
+    aplicaveis = []
+    for cfg in criterios.get("criterios", []):
+        ok, just = avaliar_estado(cfg, metricas)
+        if ok:
+            aplicaveis.append((cfg["estado_final"], just))
+
+    if not aplicaveis:
+        print("⚠️  Nenhum estado inferido.")
+    else:
+        estado, just = aplicaveis[0]
+        print(f"✅ Estado inferido: {estado}")
+        if mostrar_justificacao:
+            print("\nJustificação:")
+            for j in just:
+                print(" ", j)
 
     print("\n" + "-" * 70)
     print("O percurso não fecha.")
@@ -2543,361 +3145,116 @@ def ver_percurso_espiral(pid, voltas=2):
     print("-" * 70)
 
 
+# ==========================================================
+# EXECUÇÃO
+# ==========================================================
+
 if __name__ == "__main__":
     ver_percurso_espiral(
-        pid="P_PERCURSO_DA_VIDA_BOA_FILOSOFICA",
-        voltas=2
+        pid="P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL",
+        voltas=2,
+        mostrar_justificacao=True
     )
 
-3.2 saida ver_percurso.py
+---
+
+SAÍDA ver_percurso.py
 
 C:\Users\vanes\DoReal_Casa_Local\DoReal\11_Schema_tentativa_1\percursos>python ver_percurso.py
 
 ======================================================================
-PERCURSO EM ESPIRAL: Percurso da Vida Boa Filosófica
+PERCURSO EM ESPIRAL: Percurso Ontologicamente Estéril por Inversão Direcional
 ======================================================================
+
+→ D_DEVER_SER
+  [volta 1 — emergência situada com ausência]
+  Ausências ontológicas assumidas: D_ADEQUACAO, D_DIRECAO_ONTOLOGICA, D_LIBERDADE_SITUADA, D_PODER_SER, D_REAL, D_SER_HUMANO
+  Afirmação ontológica: False
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_BEM
+  [volta 1 — emergência situada com ausência]
+  Ausências ontológicas assumidas: D_CAMPO_DE_POTENCIALIDADES, D_DIRECAO_ONTOLOGICA, D_LIBERDADE_SITUADA, D_REAL, D_RESPONSABILIDADE_ONTOLOGICA
+  Afirmação ontológica: True
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_RESPONSABILIDADE_ONTOLOGICA
+  [volta 1 — emergência situada com ausência]
+  Ausências ontológicas assumidas: D_ATUALIZACAO, D_CAMPO_DE_POTENCIALIDADES, D_LIBERDADE_SITUADA, D_REAL, D_SER_HUMANO
+  Afirmação ontológica: True
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_LIBERDADE_SITUADA
+  [volta 1 — emergência situada com ausência]
+  Ausências ontológicas assumidas: D_ATUALIZACAO, D_CAMPO, D_LIMITE, D_LOCALIDADE, D_PODER_SER, D_SER_HUMANO
+  Afirmação ontológica: True
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_ATUALIZACAO
+  [volta 1 — emergência situada com ausência]
+  Ausências ontológicas assumidas: D_POTENCIALIDADE, D_RELACAO, D_SER
+  Afirmação ontológica: True
+  Nada é imposto. O real permanece critério silencioso.
 
 → D_REAL
   [volta 1 — emergência situada com ausência]
   Ausências ontológicas assumidas: D_LIMITE, D_PODER_SER, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_CAMPO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_ESCALA_ONTOLOGICA, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_LOCALIDADE
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_ATUALIZACAO, D_DETERMINACAO, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_SER_HUMANO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_CONTINUIDADE, D_SER
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_APREENSAO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_ATUALIZACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_REPRESENTACAO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_CONTINUIDADE
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_MEDIACAO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LINGUAGEM, D_SIMBOLO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_RELACAO_EU_REAL
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_CONSCIENCIA_REFLEXIVA, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_PONTO_DE_VISTA
-  [volta 1 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  O campo aprofunda-se sem rutura.
-
-→ D_ADEQUACAO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LIMITE
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_CRITERIO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LIMITE
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_VERDADE
-  [volta 1 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  O campo aprofunda-se sem rutura.
-
-→ D_ERRO_ONTOLOGICO
-  [volta 1 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  O campo aprofunda-se sem rutura.
-
-→ D_ERRO_CATEGORIAL
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_DISTINCAO, D_ESCALA_ONTOLOGICA, D_ESTRUTURA
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_ERRO_DE_ESCALA
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_CIRCULO, D_ESCALA_ONTOLOGICA
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_CORRECAO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LINGUAGEM
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_PODER_SER
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_ESTRUTURA, D_LIMITE, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_CAMPO_DE_POTENCIALIDADES
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_CONTINUIDADE, D_LIMITE, D_POTENCIALIDADE
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_ATUALIZACAO
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_POTENCIALIDADE, D_RELACAO, D_SER
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_RESPONSABILIDADE_ONTOLOGICA
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_DIRECAO_ONTOLOGICA
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA, D_TEMPO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_BEM
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_MAL
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_DANO_REAL
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_DANO_REAL
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_POTENCIALIDADE
-  Tipo ontológico: None
   Afirmação ontológica: True
   Nada é imposto. O real permanece critério silencioso.
 
 → D_DEVER_SER
-  [volta 1 — emergência situada com ausência]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA
-  Tipo ontológico: None
+  [volta 2 — reinscrição com ausência assumida]
+  Ausências ontológicas assumidas: D_ADEQUACAO, D_DIRECAO_ONTOLOGICA, D_PODER_SER, D_SER_HUMANO
   Afirmação ontológica: False
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_BEM
+  [volta 2 — reinscrição com ausência assumida]
+  Ausências ontológicas assumidas: D_CAMPO_DE_POTENCIALIDADES, D_DIRECAO_ONTOLOGICA
+  Afirmação ontológica: True
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_RESPONSABILIDADE_ONTOLOGICA
+  [volta 2 — reinscrição com ausência assumida]
+  Ausências ontológicas assumidas: D_CAMPO_DE_POTENCIALIDADES, D_SER_HUMANO
+  Afirmação ontológica: True
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_LIBERDADE_SITUADA
+  [volta 2 — reinscrição com ausência assumida]
+  Ausências ontológicas assumidas: D_CAMPO, D_LIMITE, D_LOCALIDADE, D_PODER_SER, D_SER_HUMANO  
+  Afirmação ontológica: True
+  Nada é imposto. O real permanece critério silencioso.
+
+→ D_ATUALIZACAO
+  [volta 2 — reinscrição com ausência assumida]
+  Ausências ontológicas assumidas: D_POTENCIALIDADE, D_RELACAO, D_SER
+  Afirmação ontológica: True
   Nada é imposto. O real permanece critério silencioso.
 
 → D_REAL
   [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LIMITE, D_RELACAO
-  Tipo ontológico: None
+  Ausências ontológicas assumidas: D_LIMITE, D_PODER_SER, D_RELACAO
   Afirmação ontológica: True
   Nada é imposto. O real permanece critério silencioso.
 
-→ D_CAMPO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_ESCALA_ONTOLOGICA, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
+----------------------------------------------------------------------
+RELATÓRIO FINAL — MÉTRICAS
+----------------------------------------------------------------------
+• intensificacoes_legitimas: 0
+• ausencias_fundacionais_persistentes: True
+• impossibilidade_ontologica: True
+• relacao_com_o_real: invocada
+• Diagnóstico ontológico: impossibilidade estrutural do poder-ser.
 
-→ D_LOCALIDADE
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_DETERMINACAO, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
+----------------------------------------------------------------------
+INFERÊNCIA — ESTADO FINAL DE MUNDO
+----------------------------------------------------------------------
+✅ Estado inferido: MUNDO_ESTERIL
 
-→ D_SER_HUMANO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_CONTINUIDADE, D_SER
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_APREENSAO
-  [volta 2 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  O campo aprofunda-se sem rutura.
-
-→ D_REPRESENTACAO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_CONTINUIDADE
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_MEDIACAO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LINGUAGEM, D_SIMBOLO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_RELACAO_EU_REAL
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_CONSCIENCIA_REFLEXIVA, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_PONTO_DE_VISTA
-  [volta 2 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  O campo aprofunda-se sem rutura.
-
-→ D_ADEQUACAO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LIMITE
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_CRITERIO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LIMITE
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_VERDADE
-  [volta 2 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  O campo aprofunda-se sem rutura.
-
-→ D_ERRO_ONTOLOGICO
-  [volta 2 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  O campo aprofunda-se sem rutura.
-
-→ D_ERRO_CATEGORIAL
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_DISTINCAO, D_ESCALA_ONTOLOGICA, D_ESTRUTURA
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_ERRO_DE_ESCALA
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_CIRCULO, D_ESCALA_ONTOLOGICA
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_CORRECAO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LINGUAGEM
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_PODER_SER
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_ESTRUTURA, D_LIMITE, D_RELACAO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_CAMPO_DE_POTENCIALIDADES
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_CONTINUIDADE, D_LIMITE, D_POTENCIALIDADE
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_ATUALIZACAO
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_POTENCIALIDADE, D_RELACAO, D_SER
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_RESPONSABILIDADE_ONTOLOGICA
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_DIRECAO_ONTOLOGICA
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA, D_TEMPO
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_BEM
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_MAL
-  [volta 2 — intensificação legítima]
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  O campo aprofunda-se sem rutura.
-
-→ D_DANO_REAL
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_POTENCIALIDADE
-  Tipo ontológico: None
-  Afirmação ontológica: True
-  Nada é imposto. O real permanece critério silencioso.
-
-→ D_DEVER_SER
-  [volta 2 — reinscrição com ausência assumida]
-  Ausências ontológicas assumidas: D_LIBERDADE_SITUADA
-  Tipo ontológico: None
-  Afirmação ontológica: False
-  Nada é imposto. O real permanece critério silencioso.
+Justificação:
+  [NEC] impossibilidade_ontologica: True ⟶ True => OK
+  [EXC] dano_real_estrutural: None ⟶ True => NÃO BATE
 
 ----------------------------------------------------------------------
 O percurso não fecha.
@@ -2906,6 +3263,109 @@ O que permanece aberto é a prática situada.
 ----------------------------------------------------------------------
 
 C:\Users\vanes\DoReal_Casa_Local\DoReal\11_Schema_tentativa_1\percursos>
+
+---
+
+4. CRITERIOS_DE_INFERENCIA.json
+
+{
+  "metadados": {
+    "descricao": "Criterios interpretativos para inferencia de estados finais de mundo a partir do comportamento ontologico de percursos.",
+    "nota_metodologica": "Os criterios aqui descritos nao constituem regras necessarias nem suficientes. Funcionam como padroes de leitura convergente, orientando a interpretacao ontologica dos percursos sem introduzir normatividade externa."
+  },
+
+  "criterios": [
+
+    {
+      "estado_final": "MUNDO_CONSTITUIDO",
+      "descricao": "Inferido quando o percurso produz constituicao ontologica robusta e relacao efetiva com o real.",
+      "padroes_necessarios": {
+        "intensificacoes_legitimas": ">= 1",
+        "ausencias_fundacionais_persistentes": false,
+        "relacao_com_o_real": "efetiva"
+      },
+      "padroes_excludentes": {
+        "dano_real_estrutural": true,
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "A existencia de erro nao exclui este estado, desde que haja correcao.",
+        "Este estado nao implica estabilidade definitiva."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_FRAGIL",
+      "descricao": "Inferido quando ha constituicao parcial com instabilidade estrutural.",
+      "padroes_necessarios": {
+        "intensificacoes_legitimas": ">= 1",
+        "ausencias_fundacionais_persistentes": "parciais",
+        "relacao_com_o_real": "intermitente",
+        "impossibilidade_ontologica": true
+      },
+      "padroes_excludentes": {
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "Estado liminar e reversivel.",
+        "Pode evoluir para constituicao ou colapso."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_ESTERIL",
+      "descricao": "Inferido quando nao ha sequer possibilidade estrutural de constituicao ontologica.",
+      "padroes_necessarios": {
+        "impossibilidade_ontologica": true
+      },
+      "padroes_excludentes": {
+        "dano_real_estrutural": true
+      },
+      "observacoes": [
+        "Nao ha erro propriamente dito, pois nao ha mundo suficiente para errar.",
+        "A critica e ontologica, nao moral ou epistemologica."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_DEGENERADO",
+      "descricao": "Inferido quando um mundo constituido entra em afastamento estrutural do real.",
+      "padroes_necessarios": {
+        "intensificacoes_legitimas": ">= 1",
+        "dano_real_estrutural": true,
+        "erro_nao_corrigido": true,
+        "relacao_com_o_real": "substituida"
+      },
+      "padroes_excludentes": {
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "Diferente de esterilidade: aqui ha mundo e efeitos reais.",
+        "A degeneracao e um processo, nao um estado instantaneo."
+      ]
+    },
+
+    {
+      "estado_final": "MUNDO_AUTOCORRETIVO",
+      "descricao": "Inferido quando o percurso sustenta abertura estrutural ao real e capacidade reiterada de correcao.",
+      "padroes_necessarios": {
+        "intensificacoes_recorrentes": ">= 2",
+        "erro_assumido": true,
+        "capacidade_de_correcao": "ativa",
+        "relacao_com_o_real": "aberta"
+      },
+      "padroes_excludentes": {
+        "fechamento_sistemico": true,
+        "impossibilidade_ontologica": true
+      },
+      "observacoes": [
+        "Nao e um ideal normativo, mas uma dinamica rara.",
+        "Pode coexistir com instabilidade e conflito."
+      ]
+    }
+
+  ]
+}
 
 ---
 

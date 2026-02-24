@@ -1,0 +1,135 @@
+{
+  "meta_indice": {
+    "descricao": "Mapa funcional das operações ontológicas e dos regimes de inscrição no real",
+    "criterio_ultimo": "D_REAL",
+
+    "regimes": {
+
+      "REGIME_INSCRICAO_REAL": {
+        "descricao": "Operações que fixam estrutura, limites e impossibilidades ontológicas",
+        "estatuto": "fundacional",
+        "funcao": "fundacao_ontologica",
+        "operacoes": [
+          "OP_AFIRMACAO_ESTRUTURAL",
+          "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+          "OP_FIXACAO_LIMITE_ONTOLOGICO",
+          "OP_EXCLUSAO_EXTERIORIDADE",
+          "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+        ],
+        "erros": {
+          "por_deslocamento": [
+            "dogmatizacao",
+            "moralizacao_indevida"
+          ]
+        }
+      },
+
+      "REGIME_DESCRICAO_ESTRUTURAL": {
+        "descricao": "Operações de descrição do real sem substituição representacional",
+        "estatuto": "ontologico",
+        "funcao": "descricao_do_real",
+        "operacoes": [
+          "OP_DESCRICAO_ESTRUTURAL",
+          "OP_DESCRICAO_ATUALIZACAO",
+          "OP_IDENTIFICACAO_DEPENDENCIA",
+          "OP_IDENTIFICACAO_CONTINUIDADE",
+          "OP_IDENTIFICACAO_REGULARIDADE",
+          "OP_RECONDUCAO_RELACIONAL"
+        ],
+        "erros": {
+          "por_deslocamento": [
+            "naturalizacao_ingenua",
+            "sistematizacao_fechada"
+          ]
+        }
+      },
+
+      "REGIME_DIFERENCIACAO_ONTOLOGICA": {
+        "descricao": "Operações que impedem colapsos de escala e categoria",
+        "estatuto": "ontologico",
+        "funcao": "legibilidade_ontologica",
+        "operacoes": [
+          "OP_DIFERENCIACAO_NIVEIS",
+          "OP_IDENTIFICACAO_ESCALA",
+          "OP_IDENTIFICACAO_CAMPO",
+          "OP_IDENTIFICACAO_MEDIACAO"
+        ],
+        "erros": {
+          "por_ausencia": [
+            "totalizacao",
+            "confusao_categorial"
+          ]
+        }
+      },
+
+      "REGIME_CRITICA_REFLEXIVIDADE": {
+        "descricao": "Operações que limitam e reinscrevem o eu e a consciência no real",
+        "estatuto": "critico",
+        "funcao": "higiene_ontologica",
+        "operacoes": [
+          "OP_DESSUBSTANCIALIZACAO",
+          "OP_REINSCRICAO_CONSCIENCIA_REAL",
+          "OP_LIMITACAO_REFLEXIVIDADE",
+          "OP_DISTINCAO_APREENSAO_REPRESENTACAO",
+          "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+          "OP_IDENTIFICACAO_PROJECAO_EU"
+        ],
+        "erros": {
+          "por_excesso": [
+            "ceticismo",
+            "perspectivismo"
+          ]
+        }
+      },
+
+      "REGIME_CRITICA_SISTEMICA": {
+        "descricao": "Operações de diagnóstico de degeneração e fechamento simbólico",
+        "estatuto": "critico",
+        "funcao": "diagnostico_patologico",
+        "operacoes": [
+          "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
+          "OP_IDENTIFICACAO_DEGENERACAO",
+          "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+          "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+        ]
+      },
+
+      "REGIME_EPISTEMOLOGICO": {
+        "descricao": "Operações que fixam o critério de verdade no real",
+        "estatuto": "derivado",
+        "funcao": "verdade_como_descricao",
+        "operacoes": [
+          "OP_IDENTIFICACAO_ADEQUACAO",
+          "OP_FIXACAO_CRITERIO",
+          "OP_SUBMISSAO_REAL",
+          "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+          "OP_IDENTIFICACAO_ERRO_CATEGORIAL",
+          "OP_IDENTIFICACAO_ERRO_ESCALA"
+        ]
+      },
+
+      "REGIME_ETICO_ONTOLOGICO": {
+        "descricao": "Operações que derivam normatividade sem autonomização",
+        "estatuto": "derivado",
+        "funcao": "reintegracao_normativa",
+        "operacoes": [
+          "OP_DERIVACAO_DEVER_SER",
+          "OP_SUBORDINACAO_DEVER_SER",
+          "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA",
+          "OP_IDENTIFICACAO_DANO_REAL",
+          "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO"
+        ]
+      },
+
+      "REGIME_CORRETIVO": {
+        "descricao": "Operações de retorno ao real após desvio",
+        "estatuto": "corretivo",
+        "funcao": "restauracao_adequacao",
+        "operacoes": [
+          "OP_REINTEGRACAO_ONTOLOGICA"
+        ]
+      }
+
+    }
+  }
+}
