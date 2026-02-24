@@ -1,0 +1,1322 @@
+{
+  "D_REAL": {
+    "id": "D_REAL",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "fundamento_nao_exteriorizavel",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [],
+    "implica": [
+      "D_DISTINCAO",
+      "D_RELACAO",
+      "D_PODER_SER"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_EXCLUSAO_EXTERIORIDADE"
+    ],
+
+    "regimes": [
+      "REGIME_INSCRICAO_REAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional"
+    ],
+
+    "riscos_estruturais": [
+      "reificacao",
+      "exteriorizacao"
+    ]
+  },
+
+  "D_DISTINCAO": {
+    "id": "D_DISTINCAO",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_minima",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [],
+    "implica": [
+      "D_RELACAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_AFIRMACAO_ESTRUTURAL"
+    ],
+
+    "regimes": [
+      "REGIME_INSCRICAO_REAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional"
+    ],
+
+    "riscos_estruturais": [
+      "indiferenciacao",
+      "dualismo_absoluto"
+    ]
+  },
+
+  "D_RELACAO": {
+    "id": "D_RELACAO",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_estrutural",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_DISTINCAO"
+    ],
+
+    "implica": [
+      "D_ESTRUTURA",
+      "D_CONTINUIDADE"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_RECONDUCAO_RELACIONAL",
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional",
+      "percurso_dinamico"
+    ],
+
+    "riscos_estruturais": [
+      "substancializacao",
+      "externalizacao_da_relacao"
+    ]
+  },
+
+  "D_LIMITE": {
+    "id": "D_LIMITE",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_estrutural",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ESTRUTURA"
+    ],
+
+    "implica": [
+      "D_DETERMINACAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_FIXACAO_LIMITE_ONTOLOGICO"
+    ],
+
+    "regimes": [
+      "REGIME_INSCRICAO_REAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional"
+    ],
+
+    "riscos_estruturais": [
+      "infinitizacao",
+      "negacao_do_nao_ser"
+    ]
+  },
+
+  "D_DETERMINACAO": {
+    "id": "D_DETERMINACAO",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_minima",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_LIMITE"
+    ],
+
+    "implica": [
+      "D_NAO_SER"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional",
+      "percurso_ontologico"
+    ],
+
+    "riscos_estruturais": [
+      "reificacao"
+    ]
+  },
+
+  "D_ESTRUTURA": {
+    "id": "D_ESTRUTURA",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_estrutural",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_RELACAO"
+    ],
+
+    "implica": [
+      "D_LIMITE",
+      "D_CONTINUIDADE"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_RECONDUCAO_RELACIONAL"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional",
+      "percurso_ontologico",
+      "percurso_dinamico"
+    ],
+
+    "riscos_estruturais": [
+      "substancializacao_da_estrutura",
+      "formalismo_vazio",
+      "reificacao_das_relacoes"
+    ]
+  },
+
+  "D_CONTINUIDADE": {
+    "id": "D_CONTINUIDADE",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_estrutural",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ESTRUTURA"
+    ],
+
+    "implica": [
+      "D_ATUALIZACAO",
+      "D_REGULARIDADE"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_CONTINUIDADE",
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional",
+      "percurso_dinamico",
+      "percurso_ontologico"
+    ],
+
+    "riscos_estruturais": [
+      "ruptura_absoluta",
+      "eventualismo",
+      "sucessao_fenomenologica"
+    ]
+  },
+
+  "D_ATUALIZACAO": {
+    "id": "D_ATUALIZACAO",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_estrutural",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_CONTINUIDADE"
+    ],
+
+    "implica": [
+      "D_PODER_SER",
+      "D_MOVIMENTO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_RECONDUCAO_RELACIONAL"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_dinamico",
+      "percurso_ontologico",
+      "percurso_antropologico"
+    ],
+
+    "riscos_estruturais": [
+      "eventualismo",
+      "criacionismo_discreto",
+      "ruptura_ontologica"
+    ]
+  },
+
+  "D_PODER_SER": {
+    "id": "D_PODER_SER",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_transversal",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_DETERMINACAO",
+      "D_CONTINUIDADE"
+    ],
+
+    "implica": [
+      "D_ATUALIZACAO",
+      "D_CAMPO_DE_POTENCIALIDADES"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "regimes": [
+      "REGIME_INSCRICAO_REAL",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_fundacional",
+      "percurso_dinamico",
+      "percurso_etico"
+    ],
+
+    "riscos_estruturais": [
+      "possibilismo_abstrato",
+      "teleologismo",
+      "necessitarismo"
+    ]
+  },
+
+  "D_REGULARIDADE": {
+    "id": "D_REGULARIDADE",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_derivada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_CONTINUIDADE",
+      "D_ATUALIZACAO"
+    ],
+
+    "implica": [
+      "D_SISTEMA",
+      "D_CRISTALIZACAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_REGULARIDADE",
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_dinamico",
+      "percurso_sistemico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "lei_absoluta",
+      "determinismo",
+      "sistematizacao_fechada"
+    ]
+  },
+
+  "D_MOVIMENTO": {
+    "id": "D_MOVIMENTO",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_dinamica",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ATUALIZACAO"
+    ],
+
+    "implica": [
+      "D_TEMPO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_CONTINUIDADE"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_dinamico"
+    ],
+
+    "riscos_estruturais": [
+      "cinematismo",
+      "fluxismo",
+      "confusao_com_sucessao"
+    ]
+  },
+
+  "D_TEMPO": {
+    "id": "D_TEMPO",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_derivada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_MOVIMENTO",
+      "D_CONTINUIDADE"
+    ],
+
+    "implica": [],
+
+    "operacoes_fundamentais": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "regimes": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_dinamico"
+    ],
+
+    "riscos_estruturais": [
+      "reificacao_do_tempo",
+      "temporalismo_absoluto",
+      "transcendentalizacao"
+    ]
+  },
+
+  "D_CAMPO": {
+    "id": "D_CAMPO",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_relacional_derivada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ATUALIZACAO",
+      "D_CONTINUIDADE"
+    ],
+
+    "implica": [
+      "D_LOCALIDADE"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_CAMPO",
+      "OP_RECONDUCAO_RELACIONAL"
+    ],
+
+    "regimes": [
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_ontologico",
+      "percurso_campo_localizacao",
+      "percurso_antropologico"
+    ],
+
+    "riscos_estruturais": [
+      "espacializacao",
+      "reificacao_do_campo",
+      "exteriorizacao"
+    ]
+  },
+
+  "D_LOCALIDADE": {
+    "id": "D_LOCALIDADE",
+    "nivel": 0,
+    "dominio": "ontologico",
+    "estatuto": "condicao_situada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_CAMPO"
+    ],
+
+    "implica": [
+      "D_PONTO_DE_VISTA"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+      "OP_IDENTIFICACAO_ESCALA"
+    ],
+
+    "regimes": [
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_campo_localizacao",
+      "percurso_antropologico",
+      "percurso_epistemologico"
+    ],
+
+    "riscos_estruturais": [
+      "subjetivizacao",
+      "aqui_agora_fenomenologico",
+      "confusao_com_espaco"
+    ]
+  },
+
+  "D_SER_HUMANO": {
+    "id": "D_SER_HUMANO",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "estatuto": "determinacao_especifica",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_REAL",
+      "D_LOCALIDADE"
+    ],
+
+    "implica": [
+      "D_APREENSAO",
+      "D_LIBERDADE_SITUADA"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_RECONDUCAO_RELACIONAL",
+      "OP_IDENTIFICACAO_DEPENDENCIA"
+    ],
+
+    "regimes": [
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_antropologico",
+      "percurso_epistemologico",
+      "percurso_etico"
+    ],
+
+    "riscos_estruturais": [
+      "antropocentrismo",
+      "excepcionalismo_ontologico",
+      "naturalismo_redutor"
+    ]
+  },
+
+  "D_APREENSAO": {
+    "id": "D_APREENSAO",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "estatuto": "condicao_relacional_situada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_CAMPO",
+      "D_LOCALIDADE"
+    ],
+
+    "implica": [
+      "D_CONSCIENCIA_REFLEXIVA",
+      "D_REPRESENTACAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+    ],
+
+    "regimes": [
+      "REGIME_CRITICA_REFLEXIVIDADE"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_antropologico",
+      "percurso_epistemologico",
+      "percurso_mediacional"
+    ],
+
+    "riscos_estruturais": [
+      "imediatismo",
+      "intelectualizacao_precoce",
+      "confusao_com_representacao"
+    ]
+  },
+
+  "D_CONSCIENCIA_REFLEXIVA": {
+    "id": "D_CONSCIENCIA_REFLEXIVA",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "estatuto": "emergencia_reflexiva",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_APREENSAO",
+      "D_CONTINUIDADE"
+    ],
+
+    "implica": [
+      "D_PONTO_DE_VISTA",
+      "D_REPRESENTACAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_REINSCRICAO_CONSCIENCIA_REAL",
+      "OP_LIMITACAO_REFLEXIVIDADE"
+    ],
+
+    "regimes": [
+      "REGIME_CRITICA_REFLEXIVIDADE"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_antropologico",
+      "percurso_epistemologico"
+    ],
+
+    "riscos_estruturais": [
+      "substancializacao_do_eu",
+      "idealismo",
+      "solipsismo"
+    ]
+  },
+
+  "D_REPRESENTACAO": {
+    "id": "D_REPRESENTACAO",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "estatuto": "mediacao_derivada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_APREENSAO",
+      "D_CONSCIENCIA_REFLEXIVA"
+    ],
+
+    "implica": [
+      "D_MEDIACAO",
+      "D_ERRO_ONTOLOGICO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+    ],
+
+    "regimes": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_EPISTEMOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_mediacional",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "substituicao_do_real",
+      "idealismo_representacional",
+      "autorreferencialidade"
+    ]
+  },
+
+  "D_MEDIACAO": {
+    "id": "D_MEDIACAO",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "estatuto": "funcao_mediadora",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_REPRESENTACAO"
+    ],
+
+    "implica": [
+      "D_SISTEMA_SIMBOLICO",
+      "D_LINGUAGEM"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_RECONDUCAO_RELACIONAL"
+    ],
+
+    "regimes": [
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_mediacional",
+      "percurso_sistemico"
+    ],
+
+    "riscos_estruturais": [
+      "autonomia_do_simbolico",
+      "linguisticismo",
+      "culturalismo"
+    ]
+  },
+
+  "D_RELACAO_EU_REAL": {
+    "id": "D_RELACAO_EU_REAL",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "estatuto": "relacao_reflexiva_situada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_APREENSAO",
+      "D_MEDIACAO"
+    ],
+
+    "implica": [
+      "D_PONTO_DE_VISTA",
+      "D_ADEQUACAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_RECONDUCAO_RELACIONAL",
+      "OP_IDENTIFICACAO_PONTO_DE_VISTA"
+    ],
+
+    "regimes": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_EPISTEMOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_etico",
+      "percurso_transversal"
+    ],
+
+    "riscos_estruturais": [
+      "fechamento_eu_eu",
+      "subjetivismo",
+      "relativismo"
+    ]
+  },
+
+  "D_PONTO_DE_VISTA": {
+    "id": "D_PONTO_DE_VISTA",
+    "nivel": 1,
+    "dominio": "ontologico",
+    "estatuto": "determinacao_situada",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_LOCALIDADE",
+      "D_CONSCIENCIA_REFLEXIVA"
+    ],
+
+    "implica": [
+      "D_REPRESENTACAO",
+      "D_CRITERIO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+      "OP_LIMITACAO_REFLEXIVIDADE"
+    ],
+
+    "regimes": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_critico",
+      "percurso_transversal"
+    ],
+
+    "riscos_estruturais": [
+      "absolutizacao_da_perspetiva",
+      "relativismo",
+      "solipsismo"
+    ]
+  },
+
+  "D_ADEQUACAO": {
+    "id": "D_ADEQUACAO",
+    "nivel": 1,
+    "dominio": "epistemologico",
+    "estatuto": "relacao_criterial",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_REPRESENTACAO",
+      "D_REAL"
+    ],
+
+    "implica": [
+      "D_VERDADE",
+      "D_ERRO_ONTOLOGICO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_ADEQUACAO",
+      "OP_SUBMISSAO_REAL"
+    ],
+
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_transversal"
+    ],
+
+    "riscos_estruturais": [
+      "coerentismo",
+      "correspondencialismo_ingenuo",
+      "consensualismo"
+    ]
+  },
+
+  "D_CRITERIO": {
+    "id": "D_CRITERIO",
+    "nivel": 1,
+    "dominio": "epistemologico",
+    "estatuto": "fixacao_criterial",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ADEQUACAO"
+    ],
+
+    "implica": [
+      "D_VERDADE",
+      "D_CORRECAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_FIXACAO_CRITERIO",
+      "OP_SUBMISSAO_REAL"
+    ],
+
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "criterio_interno",
+      "normativizacao_precoce",
+      "autoridade_externa"
+    ]
+  },
+
+  "D_VERDADE": {
+    "id": "D_VERDADE",
+    "nivel": 1,
+    "dominio": "epistemologico",
+    "estatuto": "resultado_relacional",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ADEQUACAO",
+      "D_CRITERIO"
+    ],
+
+    "implica": [
+      "D_CORRECAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_ADEQUACAO",
+      "OP_FIXACAO_CRITERIO"
+    ],
+
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_transversal"
+    ],
+
+    "riscos_estruturais": [
+      "dogmatismo",
+      "posse_da_verdade",
+      "absolutismo"
+    ]
+  },
+
+  "D_ERRO_ONTOLOGICO": {
+    "id": "D_ERRO_ONTOLOGICO",
+    "nivel": 1,
+    "dominio": "epistemologico",
+    "estatuto": "falha_estrutural",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_REPRESENTACAO",
+      "D_ADEQUACAO"
+    ],
+
+    "implica": [
+      "D_CORRECAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+      "OP_SUBMISSAO_REAL"
+    ],
+
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "psicologizacao_do_erro",
+      "relativizacao",
+      "normalizacao"
+    ]
+  },
+
+  "D_ERRO_CATEGORIAL": {
+    "id": "D_ERRO_CATEGORIAL",
+    "nivel": 1,
+    "dominio": "epistemologico",
+    "estatuto": "confusao_ontologica",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ESCALA_ONTOLOGICA",
+      "D_REPRESENTACAO"
+    ],
+
+    "implica": [
+      "D_CORRECAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_ERRO_CATEGORIAL"
+    ],
+
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "reducionismo",
+      "totalizacao",
+      "mistificacao"
+    ]
+  },
+
+  "D_ERRO_DE_ESCALA": {
+    "id": "D_ERRO_DE_ESCALA",
+    "nivel": 1,
+    "dominio": "epistemologico",
+    "estatuto": "aplicacao_ilegítima",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ESCALA_ONTOLOGICA",
+      "D_CRITERIO"
+    ],
+
+    "implica": [
+      "D_CORRECAO"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_ERRO_ESCALA"
+    ],
+
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "universalizacao_abstrata",
+      "tecnocracia",
+      "moralismo_fora_de_escala"
+    ]
+  },
+
+  "D_CORRECAO": {
+    "id": "D_CORRECAO",
+    "nivel": 1,
+    "dominio": "epistemologico",
+    "estatuto": "retorno_ao_real",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ERRO_ONTOLOGICO"
+    ],
+
+    "implica": [],
+
+    "operacoes_fundamentais": [
+      "OP_SUBMISSAO_REAL",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_CORRETIVO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_epistemologico",
+      "percurso_transversal",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "ajuste_interno",
+      "humilhacao_epistemica",
+      "correcao_sem_retorno"
+    ]
+  },
+
+  "D_LIBERDADE_SITUADA": {
+    "id": "D_LIBERDADE_SITUADA",
+    "nivel": 2,
+    "dominio": "etico-ontologico",
+    "estatuto": "capacidade_orientadora",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_SER_HUMANO",
+      "D_LOCALIDADE",
+      "D_PODER_SER"
+    ],
+
+    "implica": [
+      "D_RESPONSABILIDADE_ONTOLOGICA",
+      "D_DIRECAO_ONTOLOGICA"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_LIMITACAO_REFLEXIVIDADE",
+      "OP_REINSCRICAO_CONSCIENCIA_REAL"
+    ],
+
+    "regimes": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_ETICO_ONTOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_etico",
+      "percurso_transversal"
+    ],
+
+    "riscos_estruturais": [
+      "ilusao_de_liberdade_absoluta",
+      "determinismo_retroativo"
+    ]
+  },
+
+  "D_RESPONSABILIDADE_ONTOLOGICA": {
+    "id": "D_RESPONSABILIDADE_ONTOLOGICA",
+    "nivel": 2,
+    "dominio": "etico-ontologico",
+    "estatuto": "vinculo_ao_real",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_LIBERDADE_SITUADA",
+      "D_ATUALIZACAO"
+    ],
+
+    "implica": [
+      "D_DANO_REAL",
+      "D_BEM",
+      "D_MAL"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA"
+    ],
+
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_etico",
+      "percurso_transversal"
+    ],
+
+    "riscos_estruturais": [
+      "culpabilizacao_moral",
+      "externalizacao_dos_efeitos"
+    ]
+  },
+
+  "D_DIRECAO_ONTOLOGICA": {
+    "id": "D_DIRECAO_ONTOLOGICA",
+    "nivel": 2,
+    "dominio": "etico-ontologico",
+    "estatuto": "vetor_temporal",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ATUALIZACAO",
+      "D_LIBERDADE_SITUADA",
+      "D_TEMPO"
+    ],
+
+    "implica": [
+      "D_BEM",
+      "D_MAL"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_DEGENERACAO",
+      "OP_DESCRICAO_ATUALIZACAO"
+    ],
+
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO",
+      "REGIME_CRITICA_SISTEMICA"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_etico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "neutralizacao_da_direcao",
+      "teleologia_moral"
+    ]
+  },
+
+  "D_DANO_REAL": {
+    "id": "D_DANO_REAL",
+    "nivel": 2,
+    "dominio": "etico-ontologico",
+    "estatuto": "efeito_real",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_ATUALIZACAO",
+      "D_CAMPO_DE_POTENCIALIDADES"
+    ],
+
+    "implica": [
+      "D_MAL"
+    ],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_DANO_REAL"
+    ],
+
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_etico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "negacao_do_dano",
+      "psicologizacao"
+    ]
+  },
+
+  "D_BEM": {
+    "id": "D_BEM",
+    "nivel": 2,
+    "dominio": "etico-ontologico",
+    "estatuto": "modo_de_atualizacao",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_DIRECAO_ONTOLOGICA",
+      "D_RESPONSABILIDADE_ONTOLOGICA"
+    ],
+
+    "implica": [],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO"
+    ],
+
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_etico"
+    ],
+
+    "riscos_estruturais": [
+      "moralizacao",
+      "bem_abstrato"
+    ]
+  },
+
+  "D_MAL": {
+    "id": "D_MAL",
+    "nivel": 2,
+    "dominio": "etico-ontologico",
+    "estatuto": "modo_de_atualizacao",
+    "afirmacao_ontologica": true,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_DANO_REAL",
+      "D_DIRECAO_ONTOLOGICA"
+    ],
+
+    "implica": [],
+
+    "operacoes_fundamentais": [
+      "OP_IDENTIFICACAO_DANO_REAL"
+    ],
+
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_etico",
+      "percurso_critico"
+    ],
+
+    "riscos_estruturais": [
+      "moralizacao_do_mal",
+      "intencionalismo"
+    ]
+  },
+  
+  "D_DEVER_SER": {
+    "id": "D_DEVER_SER",
+    "nivel": 2,
+    "dominio": "etico-ontologico",
+    "estatuto": "derivacao_normativa",
+    "afirmacao_ontologica": false,
+    "criterio_ultimo": "D_REAL",
+
+    "depende_de": [
+      "D_LIBERDADE_SITUADA",
+      "D_PODER_SER",
+      "D_ADEQUACAO"
+    ],
+
+    "implica": [],
+
+    "operacoes_fundamentais": [
+      "OP_DERIVACAO_DEVER_SER",
+      "OP_SUBORDINACAO_DEVER_SER"
+    ],
+
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO"
+    ],
+
+    "pode_entrar_em": [
+      "percurso_etico",
+      "percurso_normativo"
+    ],
+
+    "riscos_estruturais": [
+      "moralismo",
+      "normatividade_autonoma"
+    ]
+  }
+}
