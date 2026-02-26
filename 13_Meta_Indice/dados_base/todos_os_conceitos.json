@@ -416,7 +416,7 @@
       "depende_de": [
         "D_SER",
         "D_RELACAO",
-        "D_POTENCIALIDADE"
+        "D_PODER_SER"
       ],
       "pressupoe": [],
       "implica": []
@@ -1386,9 +1386,7 @@
       "depende_de": [
         "D_ATUALIZACAO",
         "D_CONTINUIDADE",
-        "D_CONTINUO",
-        "D_REAL",
-        "D_LOCALIDADE"
+        "D_REAL"
       ],
       "pressupoe": [],
       "implica": []
@@ -2681,7 +2679,6 @@
       "depende_de": [
         "D_ERRO_ONTOLOGICO",
         "D_ESCALA_ONTOLOGICA",
-        "D_CIRCULO",
         "D_CRITERIO",
         "D_ADEQUACAO",
         "D_REAL"
@@ -3034,7 +3031,6 @@
       "depende_de": [
         "D_REAL",
         "D_PODER_SER",
-        "D_POTENCIALIDADE",
         "D_CONTINUIDADE",
         "D_CAMPO",
         "D_LIMITE"
@@ -3106,8 +3102,7 @@
       "depende_de": [
         "D_ATUALIZACAO",
         "D_REAL",
-        "D_CAMPO_DE_POTENCIALIDADES",
-        "D_POTENCIALIDADE"
+        "D_CAMPO_DE_POTENCIALIDADES"
       ],
       "pressupoe": [],
       "implica": [
@@ -3175,7 +3170,6 @@
         "D_LIBERDADE_SITUADA",
         "D_PODER_SER",
         "D_DIRECAO_ONTOLOGICA",
-        "D_ADEQUACAO",
         "D_REAL"
       ],
       "pressupoe": [],
@@ -3391,7 +3385,6 @@
       "depende_de": [
         "D_RESPONSABILIDADE_ONTOLOGICA",
         "D_DIRECAO_ONTOLOGICA",
-        "D_DANO_REAL",
         "D_CAMPO_DE_POTENCIALIDADES",
         "D_ATUALIZACAO",
         "D_REAL"
@@ -3829,12 +3822,10 @@
     "dependencias": {
       "depende_de": [
         "D_REGULARIDADE",
-        "D_LINGUAGEM",
         "D_ESTRUTURA",
         "D_CONTINUIDADE",
         "D_REAL",
-        "D_LIMITE",
-        "D_CAMPO_DE_POTENCIALIDADES"
+        "D_LIMITE"
       ],
       "pressupoe": [],
       "implica": [

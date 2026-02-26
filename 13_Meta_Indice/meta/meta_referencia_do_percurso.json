@@ -1,12 +1,149 @@
 {
+  "P_EIXO_ONTOLOGICO_NUCLEAR": {
+    "tipo_instancia": "axial_fundacional",
+    "pressupoe_percursos": [],
+    "observacao": "Percurso fundacional absoluto. Não pressupõe nenhum outro."
+  },
+
+  "P_ESTRUTURA_OPERACIONAL_DO_REAL": {
+    "tipo_instancia": "axial_fundacional_dinamico",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR"
+    ]
+  },
+
+  "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA": {
+    "tipo_instancia": "axial_transicional",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+    ]
+  },
+
+  "P_EIXO_CAMPO_E_LOCALIZACAO": {
+    "tipo_instancia": "axial_ontologico_derivado",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA"
+    ]
+  },
+
+  "P_EIXO_SIMBOLICO_MEDIACIONAL": {
+    "tipo_instancia": "axial_mediacional",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO"
+    ]
+  },
+
   "P_EIXO_EPISTEMOLOGICO": {
-    "regimes_ativados": [
-      "REGIME_EPISTEMOLOGICO",
-      "REGIME_CRITICA_REFLEXIVIDADE"
-    ],
-    "regimes_proibidos": [
-      "REGIME_INSCRICAO_REAL"
-    ],
-    "tipo_instancia": "axial"
+    "tipo_instancia": "axial_epistemologico",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL"
+    ]
+  },
+
+  "P_EIXO_ESCALA_E_ERRO_DE_ESCALA": {
+    "tipo_instancia": "axial_epistemologico_critico",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_EPISTEMOLOGICO"
+    ]
+  },
+
+  "P_EIXO_ETICO_NARRATIVO": {
+    "tipo_instancia": "axial_etico_ontologico",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO"
+    ]
+  },
+
+  "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA": {
+    "tipo_instancia": "axial_critico_corretivo",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "P_EIXO_EPISTEMOLOGICO"
+    ]
+  },
+
+  "P_PERCURSO_DO_ERRO_E_CORRECAO": {
+    "tipo_instancia": "percursivo_critico_epistemologico",
+    "pressupoe_percursos": [
+      "P_EIXO_EPISTEMOLOGICO"
+    ]
+  },
+
+  "P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO": {
+    "tipo_instancia": "percursivo_critico_transversal",
+    "pressupoe_percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_EIXO_ETICO_NARRATIVO"
+    ]
+  },
+
+  "P_PERCURSO_DA_DEGENERACAO_ETICA": {
+    "tipo_instancia": "percursivo_critico_etico",
+    "pressupoe_percursos": [
+      "P_EIXO_ETICO_NARRATIVO"
+    ]
+  },
+
+  "P_PERCURSO_DA_VIDA_BOA": {
+    "tipo_instancia": "percursivo_transversal_ontologico_etico",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_ETICO_NARRATIVO"
+    ]
+  },
+
+  "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA": {
+    "tipo_instancia": "percursivo_transversal_filosofico",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_EIXO_ETICO_NARRATIVO"
+    ]
+  },
+
+  "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL": {
+    "tipo_instancia": "percursivo_ciclico_pratico",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_EIXO_ETICO_NARRATIVO"
+    ]
+  },
+
+  "P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL": {
+    "tipo_instancia": "percursivo_critico_limite",
+    "pressupoe_percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_EIXO_ETICO_NARRATIVO"
+    ]
   }
 }
