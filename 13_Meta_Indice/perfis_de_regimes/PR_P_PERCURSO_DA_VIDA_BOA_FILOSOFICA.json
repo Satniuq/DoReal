@@ -1,52 +1,30 @@
 {
   "id": "PR_P_PERCURSO_DA_VIDA_BOA_FILOSOFICA",
-
   "percurso_ref": "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA",
-
   "criterio_ultimo": "D_REAL",
-
   "regimes": {
-
     "ativados": [
-      "REGIME_INSCRICAO_REAL",
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_REFLEXIVIDADE",
       "REGIME_DESCRICAO_ESTRUTURAL",
-      "REGIME_DIFERENCIACAO_ONTOLOGICA",
       "REGIME_EPISTEMOLOGICO",
-      "REGIME_ETICO_ONTOLOGICO"
+      "REGIME_ETICO_ONTOLOGICO",
+      "REGIME_INSCRICAO_REAL"
     ],
-
-    "pressupostos": [
-      "REGIME_CRITICA_REFLEXIVIDADE"
-    ],
-
+    "pressupostos": [],
     "excluidos": [],
-
-    "inaplicaveis": [],
-
-    "retorno": [
-      "REGIME_CORRETIVO"
-    ]
+    "inaplicaveis": []
   },
-
   "justificacoes": {
-
     "REGIME_INSCRICAO_REAL": "O percurso assume explicitamente o real como critério último de orientação da vida filosófica.",
-
     "REGIME_DESCRICAO_ESTRUTURAL": "A vida boa filosófica exige descrição contínua das estruturas reais em que a vida se atualiza.",
-
     "REGIME_DIFERENCIACAO_ONTOLOGICA": "O percurso atravessa múltiplas escalas ontológicas (real, humano, simbólico, ético) sem as colapsar.",
-
     "REGIME_EPISTEMOLOGICO": "A verdade, o erro e a correção são momentos constitutivos do viver bem filosófico.",
-
     "REGIME_ETICO_ONTOLOGICO": "Responsabilidade, bem, mal e dever-ser derivam aqui explicitamente do ser e do poder-ser.",
-
     "REGIME_CRITICA_REFLEXIVIDADE": "A reflexividade é pressuposta como localizada e limitada, não como instância fundadora.",
-
     "REGIME_CRITICA_SISTEMICA": "A crítica sistémica surge apenas como possibilidade corretiva quando há substituição do real por coerência interna.",
-
     "REGIME_CORRETIVO": "O retorno ao real é constitutivo do percurso e pode ser reiterado sempre que ocorra desvio."
   },
-
   "observacoes": [
     "Este percurso é explicitamente transversal e integra múltiplos regimes sem os hierarquizar indevidamente.",
     "Nenhum regime opera aqui como fundacional.",

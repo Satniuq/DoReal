@@ -1,51 +1,32 @@
 {
   "id": "PR_P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
-
   "percurso_ref": "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
-
   "criterio_ultimo": "D_REAL",
-
   "regimes": {
-
     "ativados": [
+      "REGIME_CORRETIVO",
       "REGIME_CRITICA_SISTEMICA",
       "REGIME_DESCRICAO_ESTRUTURAL"
     ],
-
     "pressupostos": [
-      "REGIME_INSCRICAO_REAL",
-      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_INSCRICAO_REAL"
     ],
-
     "excluidos": [
       "REGIME_EPISTEMOLOGICO",
       "REGIME_ETICO_ONTOLOGICO"
     ],
-
-    "inaplicaveis": [],
-
-    "retorno": [
-      "REGIME_CORRETIVO"
-    ]
+    "inaplicaveis": []
   },
-
   "justificacoes": {
-
     "REGIME_CRITICA_SISTEMICA": "O percurso identifica processos de cristalização, autonomização e fechamento simbólico que substituem a mediação do real por coerência interna sistémica.",
-
     "REGIME_DESCRICAO_ESTRUTURAL": "A análise da degeneração sistémica é feita por descrição das suas etapas e dependências reais, não por julgamento normativo ou ideológico.",
-
     "REGIME_INSCRICAO_REAL": "O real é pressuposto como critério último que nenhum sistema pode substituir legitimamente.",
-
     "REGIME_DIFERENCIACAO_ONTOLOGICA": "A distinção entre real, sistema simbólico, instituição, cultura e técnica exige diferenciação rigorosa de níveis ontológicos.",
-
     "REGIME_EPISTEMOLOGICO": "Este percurso não tematiza verdade, erro ou critério cognitivo, mas a substituição ontológica do real por sistemas fechados.",
-
     "REGIME_ETICO_ONTOLOGICO": "A crítica aqui não opera em termos de bem, mal ou responsabilidade individual, mas em termos de degeneração estrutural.",
-
     "REGIME_CORRETIVO": "A reintegração ontológica permite reconduzir sistemas degenerados ao real sem os destruir, enquanto houver campo de potencialidades."
   },
-
   "observacoes": [
     "Este percurso é crítico e corretivo, não fundacional nem normativo.",
     "A crítica sistémica não é antissistémica: visa a restauração da mediação com o real.",

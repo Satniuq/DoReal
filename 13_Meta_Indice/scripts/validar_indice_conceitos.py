@@ -5,7 +5,7 @@
 import json
 import os
 
-BASE_DIR = r"C:\Users\vanes\DoReal_Casa_Local\DoReal\13_Meta_Indice"
+BASE_DIR = r"C:\Users\JoseVitorinoQuintas\DoReal\13_Meta_Indice"
 
 PATH_CONCEITOS = os.path.join(BASE_DIR, "dados_base", "todos_os_conceitos.json")
 PATH_INDICE = os.path.join(BASE_DIR, "dados_base", "indice_conceitos.json")
@@ -119,15 +119,15 @@ def validar():
         if is_axioma:
             ok("axioma — dependências não exigidas")
         else:
-            depende_de = set(dep.get("depende_de", [])) - AXIOMAS_TODOS
-            pressupoe = set(dep.get("pressupoe", [])) - AXIOMAS_TODOS
+            depende_de = sorted(dep.get("depende_de", []))
+            pressupoe = sorted(dep.get("pressupoe", []))
 
-            if idx["dependencias"]["depende_de"] != sorted(depende_de):
-                err("depende_de divergente (axiomas ignorados)")
+            if idx["dependencias"]["depende_de"] != depende_de:
+                err("depende_de divergente")
                 erros.append((cid, "depende_de divergente"))
 
-            if idx["dependencias"]["pressupoe"] != sorted(pressupoe):
-                err("pressupoe divergente (axiomas ignorados)")
+            if idx["dependencias"]["pressupoe"] != pressupoe:
+                err("pressupoe divergente")
                 erros.append((cid, "pressupoe divergente"))
 
         # ----------------- relacoes -----------------

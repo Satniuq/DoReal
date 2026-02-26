@@ -1,7 +1,668 @@
 {
+  "D_DETERMINACAO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_DISTINCAO": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_ESTRUTURA": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_LIMITE": {
+    "operacoes": [
+      "OP_EXCLUSAO_EXTERIORIDADE",
+      "OP_FIXACAO_LIMITE_ONTOLOGICO"
+    ],
+    "regimes_ativados": [
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_NAO_SER": {
+    "operacoes": [
+      "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_POTENCIALIDADE": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_RELACIONALIDADE_MINIMA": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_RECONDUCAO_RELACIONAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_ATUALIZACAO": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_LOCALIDADE": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_IDENTIFICACAO_CAMPO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_PODER_SER": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_REAL": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_EXCLUSAO_EXTERIORIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_RELACAO": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_RECONDUCAO_RELACIONAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_SER": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_DESCRICAO_ATUALIZACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_TOTALIDADE": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_EXCLUSAO_EXTERIORIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_CONTINUIDADE": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_CONTINUIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_IMPOSSIBILIDADE_ONTOLOGICA": {
+    "operacoes": [
+      "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_REGULARIDADE": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_REGULARIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_CAMPO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_IDENTIFICACAO_CAMPO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_CIRCULO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_IDENTIFICACAO_CAMPO",
+      "OP_IDENTIFICACAO_ESCALA"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_CONTINGENCIA": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_CONTINUO": {
+    "operacoes": [
+      "OP_IDENTIFICACAO_CONTINUIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_ESCALA_ONTOLOGICA": {
+    "operacoes": [
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_IDENTIFICACAO_ESCALA"
+    ],
+    "regimes_ativados": [
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_ESTABILIDADE": {
+    "operacoes": [
+      "OP_IDENTIFICACAO_REGULARIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_MOVIMENTO": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_NECESSIDADE": {
+    "operacoes": [
+      "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_TEMPO": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_APREENSAO": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_AUTORREFERENCIALIDADE": {
+    "operacoes": [
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_PROJECAO_EU",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_CONSCIENCIA_REFLEXIVA": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_LIMITACAO_REFLEXIVIDADE",
+      "OP_REINSCRICAO_CONSCIENCIA_REAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_LIBERDADE_SITUADA": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_LIMITACAO_REFLEXIVIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_LINGUAGEM": {
+    "operacoes": [
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_MEDIACAO": {
+    "operacoes": [
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_MEMORIA": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_DESSUBSTANCIALIZACAO",
+      "OP_IDENTIFICACAO_CONTINUIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_PONTO_DE_VISTA": {
+    "operacoes": [
+      "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+      "OP_LIMITACAO_REFLEXIVIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE"
+    ]
+  },
+  "D_RELACAO_EU_REAL": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DESSUBSTANCIALIZACAO",
+      "OP_RECONDUCAO_RELACIONAL",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_REPRESENTACAO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_LIMITACAO_REFLEXIVIDADE"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_SER_HUMANO": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DESSUBSTANCIALIZACAO",
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_REINSCRICAO_CONSCIENCIA_REAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_SIMBOLO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_IDENTIFICACAO_PROJECAO_EU"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
   "D_ADEQUACAO": {
-    "epistemologico": "OP_IDENTIFICACAO_ADEQUACAO",
-    "etico": "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO",
-    "patologico": "OP_IDENTIFICACAO_ERRO_DESCRITIVO"
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_ADEQUACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_CORRECAO": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_CRITERIO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CRITERIO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_ERRO_CATEGORIAL": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_IDENTIFICACAO_ERRO_CATEGORIAL",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_ERRO_DE_ESCALA": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_ERRO_ESCALA",
+      "OP_IDENTIFICACAO_ESCALA",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_ERRO_ONTOLOGICO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_VALIDADE": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CRITERIO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_VERDADE": {
+    "operacoes": [
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CRITERIO",
+      "OP_IDENTIFICACAO_ADEQUACAO",
+      "OP_LIMITACAO_REFLEXIVIDADE",
+      "OP_SUBMISSAO_REAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_BEM": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_ETICO_ONTOLOGICO"
+    ]
+  },
+  "D_CAMPO_DE_POTENCIALIDADES": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+      "OP_IDENTIFICACAO_CAMPO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_DANO_REAL": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_DANO_REAL"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_ETICO_ONTOLOGICO"
+    ]
+  },
+  "D_DEVER_SER": {
+    "operacoes": [
+      "OP_DERIVACAO_DEVER_SER",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_SUBORDINACAO_DEVER_SER"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_ETICO_ONTOLOGICO"
+    ]
+  },
+  "D_DIGNIDADE": {
+    "operacoes": [
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ]
+  },
+  "D_DIRECAO_ONTOLOGICA": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_CONTINUIDADE",
+      "OP_IDENTIFICACAO_DEGENERACAO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_MAL": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_DANO_REAL",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_ETICO_ONTOLOGICO"
+    ]
+  },
+  "D_RESPONSABILIDADE_ONTOLOGICA": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_ETICO_ONTOLOGICO"
+    ]
+  },
+  "D_CULTURA": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
+      "OP_IDENTIFICACAO_DEGENERACAO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_DIREITO_COMO_DESCRICAO": {
+    "operacoes": [
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_FIXACAO_CRITERIO",
+      "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+      "OP_RECONDUCAO_RELACIONAL",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_EPISTEMOLOGICO"
+    ]
+  },
+  "D_IMAGINACAO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_INSTITUICAO": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
+      "OP_IDENTIFICACAO_DEGENERACAO",
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
+  },
+  "D_SISTEMA": {
+    "operacoes": [
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
+      "OP_IDENTIFICACAO_DEGENERACAO",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_SISTEMA_SIMBOLICO": {
+    "operacoes": [
+      "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "OP_DESCRICAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
+      "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+      "OP_REINTEGRACAO_ONTOLOGICA"
+    ],
+    "regimes_ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ]
+  },
+  "D_TECNOLOGIA": {
+    "operacoes": [
+      "OP_DESCRICAO_ATUALIZACAO",
+      "OP_IDENTIFICACAO_MEDIACAO"
+    ],
+    "regimes_ativados": [
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+    ]
   }
 }

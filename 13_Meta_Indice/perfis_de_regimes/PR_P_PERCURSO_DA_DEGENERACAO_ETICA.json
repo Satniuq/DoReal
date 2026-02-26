@@ -1,52 +1,32 @@
 {
   "id": "PR_P_PERCURSO_DA_DEGENERACAO_ETICA",
-
   "percurso_ref": "P_PERCURSO_DA_DEGENERACAO_ETICA",
-
   "criterio_ultimo": "D_REAL",
-
   "regimes": {
-
     "ativados": [
+      "REGIME_CORRETIVO",
       "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_EPISTEMOLOGICO",
       "REGIME_ETICO_ONTOLOGICO"
     ],
-
     "pressupostos": [
-      "REGIME_INSCRICAO_REAL",
-      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_INSCRICAO_REAL"
     ],
-
-    "excluidos": [
-      "REGIME_EPISTEMOLOGICO"
-    ],
-
+    "excluidos": [],
     "condicionais": [
       "REGIME_CRITICA_SISTEMICA"
-    ],
-
-    "retorno": [
-      "REGIME_CORRETIVO"
     ]
   },
-
   "justificacoes": {
-
     "REGIME_DESCRICAO_ESTRUTURAL": "O percurso descreve a sequência real de atualizações, efeitos e reduções do campo de potencialidades sem recorrer a normatividade ou avaliação externa.",
-
     "REGIME_ETICO_ONTOLOGICO": "O dano real, o mal e a responsabilidade são tratados como efeitos ontológicos de direções de atualização, não como juízos morais.",
-
     "REGIME_INSCRICAO_REAL": "A liberdade, o poder-ser e o dano operam sempre no real e segundo os seus limites ontológicos.",
-
     "REGIME_DIFERENCIACAO_ONTOLOGICA": "É essencial distinguir erro cognitivo, falha ética e degeneração estrutural para evitar colapsos categoriais.",
-
     "REGIME_EPISTEMOLOGICO": "Não há aqui critério de verdade, adequação representacional ou erro cognitivo, apenas efeitos reais de atualização.",
-
     "REGIME_CRITICA_SISTEMICA": "Ativa-se apenas quando a degeneração ética se estabiliza, normaliza ou institucionaliza.",
-
     "REGIME_CORRETIVO": "A correção é possível enquanto subsistir campo de potencialidades, exigindo reintegração ontológica."
   },
-
   "observacoes": [
     "Este percurso não julga intenções nem estados internos.",
     "A degeneração ética é identificada exclusivamente pelos seus efeitos reais.",

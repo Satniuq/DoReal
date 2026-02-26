@@ -1,52 +1,32 @@
 {
   "id": "PR_P_EIXO_ESCALA_E_ERRO_DE_ESCALA",
-
   "percurso_ref": "P_EIXO_ESCALA_E_ERRO_DE_ESCALA",
-
   "criterio_ultimo": "D_REAL",
-
   "regimes": {
-
     "ativados": [
-      "REGIME_EPISTEMOLOGICO",
-      "REGIME_DIFERENCIACAO_ONTOLOGICA"
+      "REGIME_CRITICA_REFLEXIVIDADE",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_EPISTEMOLOGICO"
     ],
-
     "pressupostos": [
-      "REGIME_INSCRICAO_REAL",
-      "REGIME_DESCRICAO_ESTRUTURAL"
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
     ],
-
     "excluidos": [
-      "REGIME_ETICO_ONTOLOGICO",
       "REGIME_CRITICA_SISTEMICA",
-      "REGIME_CRITICA_REFLEXIVIDADE"
-    ],
-
-    "retorno": [
-      "REGIME_CORRETIVO"
+      "REGIME_ETICO_ONTOLOGICO"
     ]
   },
-
   "justificacoes": {
-
     "REGIME_EPISTEMOLOGICO": "O percurso opera explicitamente com representação, critério e identificação de erro, exigindo fixação da verdade e do erro como adequação ou desadequação ao real.",
-
     "REGIME_DIFERENCIACAO_ONTOLOGICA": "A distinção por escalas ontológicas é condição estrutural para evitar colapsos categoriais e universalizações ilegítimas.",
-
     "REGIME_INSCRICAO_REAL": "A validade de qualquer escala, critério ou erro permanece dependente da estrutura do real.",
-
     "REGIME_DESCRICAO_ESTRUTURAL": "O eixo descreve limites de aplicação de critérios sem os substituir por normatividade ou sistema fechado.",
-
     "REGIME_ETICO_ONTOLOGICO": "Não há aqui derivação de bem, mal ou dever-ser, apenas diagnóstico epistemológico.",
-
     "REGIME_CRITICA_SISTEMICA": "O eixo prepara a crítica sistémica, mas não analisa ainda instituições, sistemas ou culturas.",
-
     "REGIME_CRITICA_REFLEXIVIDADE": "O foco não é a ilusão do eu ou da consciência, mas a aplicação ilegítima de critérios por escala.",
-
     "REGIME_CORRETIVO": "A correção ocorre pela submissão do critério à escala ontológica adequada do real."
   },
-
   "observacoes": [
     "Este eixo não produz novos critérios, apenas limita a sua extensão ontológica.",
     "Erro de escala é estrutural, não psicológico nem moral.",

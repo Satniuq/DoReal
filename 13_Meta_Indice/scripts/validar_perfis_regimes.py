@@ -1,5 +1,6 @@
 import os
 import json
+from collections import defaultdict
 
 # =====================================================
 # CONTEXTO DO PROJETO
@@ -13,121 +14,156 @@ PASTA_PERFIS = os.path.join(BASE_DIR, "perfis_de_regimes")
 
 META_INDICE_FILE = os.path.join(PASTA_META, "meta_indice.json")
 
+# =====================================================
+# HELPERS
+# =====================================================
+
+def load_json(path: str):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+def list_json_files(folder: str):
+    return [fn for fn in os.listdir(folder) if fn.lower().endswith(".json")]
+
+def norm_list(x):
+    if not isinstance(x, list):
+        return []
+    return x
 
 # =====================================================
 # CARREGAMENTOS
 # =====================================================
 
-def carregar_meta_indice():
-    with open(META_INDICE_FILE, encoding="utf-8") as f:
-        return json.load(f)["meta_indice"]["regimes"]
+def carregar_meta_indice_regimes():
+    meta = load_json(META_INDICE_FILE)["meta_indice"]["regimes"]
 
+    op_to_regime = {}
+    colisoes = defaultdict(set)
 
-def carregar_ids_percursos():
-    ids = set()
-    for fname in os.listdir(PASTA_PERCURSOS):
-        if fname.endswith(".json"):
-            with open(os.path.join(PASTA_PERCURSOS, fname), encoding="utf-8") as f:
-                p = json.load(f)
-                if "id" in p:
-                    ids.add(p["id"])
-    return ids
+    for regime, bloco in meta.items():
+        for op in bloco.get("operacoes", []) or []:
+            if op in op_to_regime and op_to_regime[op] != regime:
+                colisoes[op].add(op_to_regime[op])
+                colisoes[op].add(regime)
+            op_to_regime[op] = regime
 
+    if colisoes:
+        raise ValueError("Operações duplicadas em regimes no meta_indice.")
+
+    return meta, op_to_regime
+
+def carregar_percursos_por_id():
+    percursos = {}
+    for fname in list_json_files(PASTA_PERCURSOS):
+        p = load_json(os.path.join(PASTA_PERCURSOS, fname))
+        percursos[p["id"]] = p
+    return percursos
 
 def carregar_perfis():
     perfis = {}
-    for fname in os.listdir(PASTA_PERFIS):
-        if fname.endswith(".json"):
-            with open(os.path.join(PASTA_PERFIS, fname), encoding="utf-8") as f:
-                perfis[fname] = json.load(f)
+    for fname in list_json_files(PASTA_PERFIS):
+        perfis[fname] = load_json(os.path.join(PASTA_PERFIS, fname))
     return perfis
 
+# =====================================================
+# INFERÊNCIA
+# =====================================================
+
+def inferir_regimes(percurso, op_to_regime):
+    ops = set(norm_list(percurso.get("operacoes_ativas")))
+    ops |= set(norm_list(percurso.get("operacoes_de_correcao")))
+    return sorted(set(op_to_regime[o] for o in ops if o in op_to_regime)), sorted(ops)
 
 # =====================================================
 # VALIDAÇÃO
 # =====================================================
 
-def validar_perfil(perfil, percursos_ids, regimes_meta):
+def validar_perfil(perfil, percursos, meta_regimes, op_to_regime):
     erros = []
     avisos = []
 
     pid = perfil.get("id")
     percurso_ref = perfil.get("percurso_ref")
-    criterio = perfil.get("criterio_ultimo")
+
+    if percurso_ref not in percursos:
+        erros.append(f"percurso_ref inexistente: {percurso_ref}")
+        return erros, avisos
+
+    percurso = percursos[percurso_ref]
+    regimes_inferidos, ops_total = inferir_regimes(percurso, op_to_regime)
+    regimes_inferidos_set = set(regimes_inferidos)
 
     regimes = perfil.get("regimes", {})
-    ativados = set(regimes.get("ativados", []))
-    pressupostos = set(regimes.get("pressupostos", []))
-    excluidos = set(regimes.get("excluidos", []))
-    retorno = set(regimes.get("retorno", []))
+    ativados = set(norm_list(regimes.get("ativados")))
+    pressupostos = set(norm_list(regimes.get("pressupostos")))
+    excluidos = set(norm_list(regimes.get("excluidos")))
+    inaplicaveis = set(norm_list(regimes.get("inaplicaveis")))
 
-    # ----------------------------------------------
-    # Percurso existente
-    # ----------------------------------------------
+    # ----------------------------------------
+    # REGRA FORTE: ativados == inferidos
+    # ----------------------------------------
 
-    if percurso_ref not in percursos_ids:
-        erros.append(f"percurso_ref inexistente: {percurso_ref}")
+    if ativados != regimes_inferidos_set:
+        faltam = sorted(regimes_inferidos_set - ativados)
+        sobram = sorted(ativados - regimes_inferidos_set)
+        erros.append(
+            "regimes.ativados divergente do inferido por operações"
+            + (f" | faltam: {faltam}" if faltam else "")
+            + (f" | sobram: {sobram}" if sobram else "")
+        )
 
-    # ----------------------------------------------
-    # Critério último
-    # ----------------------------------------------
+    # ----------------------------------------
+    # Conflitos estruturais
+    # ----------------------------------------
 
-    if criterio != "D_REAL":
-        erros.append(f"critério último inválido: {criterio}")
-
-    # ----------------------------------------------
-    # Regimes existentes
-    # ----------------------------------------------
-
-    todos = ativados | pressupostos | excluidos | retorno
-
-    for r in todos:
-        if r not in regimes_meta:
-            erros.append(f"regime inexistente no meta-índice: {r}")
-
-    # ----------------------------------------------
-    # Contradições estruturais
-    # ----------------------------------------------
-
-    intersecoes = [
-        ("ativados", "excluidos", ativados & excluidos),
-        ("ativados", "pressupostos", ativados & pressupostos),
-        ("pressupostos", "excluidos", pressupostos & excluidos),
+    conflitos = [
+        ("ativados", ativados, "pressupostos", pressupostos),
+        ("ativados", ativados, "excluidos", excluidos),
+        ("ativados", ativados, "inaplicaveis", inaplicaveis),
+        ("pressupostos", pressupostos, "excluidos", excluidos),
+        ("pressupostos", pressupostos, "inaplicaveis", inaplicaveis),
+        ("excluidos", excluidos, "inaplicaveis", inaplicaveis),
     ]
 
-    for a, b, inter in intersecoes:
-        for r in inter:
-            erros.append(f"regime {r} em conflito: {a} e {b}")
+    for a_name, a_set, b_name, b_set in conflitos:
+        inter = a_set & b_set
+        for r in sorted(inter):
+            erros.append(f"regime {r} em conflito: {a_name} e {b_name}")
 
-    # ----------------------------------------------
-    # Regime corretivo
-    # ----------------------------------------------
+    # ----------------------------------------
+    # Regra correta do corretivo
+    # ----------------------------------------
 
-    if "REGIME_CORRETIVO" in ativados:
-        erros.append("REGIME_CORRETIVO não pode estar em 'ativados'")
+    if "OP_REINTEGRACAO_ONTOLOGICA" in ops_total:
+        if "REGIME_CORRETIVO" not in regimes_inferidos_set:
+            erros.append("OP_REINTEGRACAO_ONTOLOGICA presente mas REGIME_CORRETIVO não inferido (meta_indice inconsistente)")
 
-    if retorno and retorno != {"REGIME_CORRETIVO"}:
-        avisos.append("retorno contém regimes além do REGIME_CORRETIVO")
+    # ----------------------------------------
+    # Debug útil
+    # ----------------------------------------
+
+    if erros:
+        avisos.append(f"percurso_ref={percurso_ref}")
+        avisos.append(f"ops_total={ops_total}")
+        avisos.append(f"regimes_inferidos={regimes_inferidos}")
 
     return erros, avisos
-
 
 # =====================================================
 # EXECUÇÃO
 # =====================================================
 
 if __name__ == "__main__":
-    print("\n=== VALIDAÇÃO DOS PERFIS DE REGIMES ===\n")
+    print("\n=== VALIDAÇÃO DOS PERFIS DE REGIMES (v3 — estável) ===\n")
 
-    regimes_meta = carregar_meta_indice()
-    percursos_ids = carregar_ids_percursos()
+    meta_regimes, op_to_regime = carregar_meta_indice_regimes()
+    percursos = carregar_percursos_por_id()
     perfis = carregar_perfis()
 
     total_erros = 0
-    total_avisos = 0
 
-    for fname, perfil in perfis.items():
-        erros, avisos = validar_perfil(perfil, percursos_ids, regimes_meta)
+    for fname, perfil in sorted(perfis.items()):
+        erros, avisos = validar_perfil(perfil, percursos, meta_regimes, op_to_regime)
 
         if erros or avisos:
             print(f"🔎 {perfil.get('id', fname)}")
@@ -138,15 +174,11 @@ if __name__ == "__main__":
 
         for a in avisos:
             print(f"   ⚠️ {a}")
-            total_avisos += 1
 
         if erros or avisos:
             print()
 
     if total_erros == 0:
-        print("✅ Todos os perfis de regimes estão estruturalmente válidos.")
+        print("✅ Perfis semanticamente consistentes.")
     else:
         print(f"❗ {total_erros} erro(s) detetado(s).")
-
-    if total_avisos:
-        print(f"⚠️ {total_avisos} aviso(s).")

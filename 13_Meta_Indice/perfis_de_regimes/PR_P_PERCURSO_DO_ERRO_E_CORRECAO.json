@@ -1,51 +1,31 @@
 {
   "id": "PR_P_PERCURSO_DO_ERRO_E_CORRECAO",
-
   "percurso_ref": "P_PERCURSO_DO_ERRO_E_CORRECAO",
-
   "criterio_ultimo": "D_REAL",
-
   "regimes": {
-
     "ativados": [
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_REFLEXIVIDADE",
       "REGIME_DESCRICAO_ESTRUTURAL",
-      "REGIME_DIFERENCIACAO_ONTOLOGICA",
       "REGIME_EPISTEMOLOGICO"
     ],
-
     "pressupostos": [
-      "REGIME_INSCRICAO_REAL",
-      "REGIME_CRITICA_REFLEXIVIDADE"
+      "REGIME_INSCRICAO_REAL"
     ],
-
     "excluidos": [
       "REGIME_ETICO_ONTOLOGICO"
     ],
-
-    "inaplicaveis": [],
-
-    "retorno": [
-      "REGIME_CORRETIVO"
-    ]
+    "inaplicaveis": []
   },
-
   "justificacoes": {
-
     "REGIME_DESCRICAO_ESTRUTURAL": "O percurso descreve a emergência do erro como fenómeno estrutural da mediação situada, sem o reduzir a falha psicológica ou desvio subjetivo.",
-
     "REGIME_DIFERENCIACAO_ONTOLOGICA": "A distinção entre erro ontológico, categorial e de escala exige diferenciação rigorosa de níveis e escalas ontológicas.",
-
     "REGIME_EPISTEMOLOGICO": "A verdade, o critério, o erro e a correção são aqui tematizados explicitamente enquanto relações entre representação e real.",
-
     "REGIME_INSCRICAO_REAL": "O real é pressuposto como critério último que oferece resistência às representações e impõe a correção.",
-
     "REGIME_CRITICA_REFLEXIVIDADE": "O ponto de vista e a mediação são tratados como limitações estruturais, não como fundamentos do conhecer.",
-
     "REGIME_ETICO_ONTOLOGICO": "Não há ainda responsabilidade prática, bem, mal ou dever-ser neste percurso, mas apenas análise do erro cognitivo.",
-
     "REGIME_CORRETIVO": "A correção consiste no retorno efetivo da representação ao real através da sua submissão à resistência ontológica."
   },
-
   "observacoes": [
     "Este percurso é epistemológico e crítico, não ético nem normativo.",
     "O erro é tratado como fenómeno ontologicamente informativo.",
