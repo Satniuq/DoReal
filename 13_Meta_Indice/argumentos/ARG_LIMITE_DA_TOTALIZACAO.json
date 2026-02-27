@@ -1,0 +1,66 @@
+{
+  "ARG_LIMITE_DA_TOTALIZACAO": {
+
+    "id": "ARG_LIMITE_DA_TOTALIZACAO",
+
+    "natureza": "meta_critico_ontologico",
+
+    "criterio_ultimo": "D_REAL",
+
+    "fundamenta": {
+      "regimes": ["REGIME_DIFERENCIACAO_ONTOLOGICA", "REGIME_CRITICA_SISTEMICA"],
+      "percursos": ["P_EIXO_SIMBOLICO_MEDIACIONAL"]
+    },
+
+    "pressupostos_ontologicos": [
+      "D_REAL",
+      "D_LOCALIDADE",
+      "D_RELACAO",
+      "D_REPRESENTACAO"
+    ],
+
+    "operacoes_chave": [
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_IDENTIFICACAO_CAMPO",
+      "OP_IDENTIFICACAO_MEDIACAO"
+    ],
+
+    "estrutura_logica": {
+
+      "premissas": [
+        "Toda representação é localizada.",
+        "Localização implica acesso parcial ao campo relacional.",
+        "O real excede qualquer determinação localizada.",
+        "Sistemas são estabilizações simbólicas de regularidades."
+      ],
+
+      "deducoes_necessarias": [
+        "Nenhuma representação pode esgotar o real.",
+        "Totalização absoluta é estruturalmente impossível.",
+        "Sistemas fechados são reduções de escala."
+      ],
+
+      "conclusao": "A pretensão de totalização é estruturalmente ilegítima enquanto tentativa de esgotar o real a partir de posição localizada."
+    },
+
+    "reducao_ao_absurdo": {
+      "hipotese": "É possível totalizar completamente o real.",
+      "consequencias": [
+        "Uma representação deixaria de ser localizada.",
+        "Desapareceria a distinção entre representação e real.",
+        "Eliminar-se-ia a possibilidade de erro."
+      ],
+      "resultado": "Contradição com a localidade estrutural e com a inevitabilidade da adequação/desadequação."
+    },
+
+    "tipo_de_necessidade": "estrutural_limitativa",
+
+    "nivel_de_operacao": "meta_critico",
+
+    "observacoes": [
+      "Não nega conhecimento amplo, nega exaustividade absoluta.",
+      "Protege contra absolutização do próprio sistema.",
+      "Reforça a necessidade permanente de diferenciação ontológica."
+    ]
+  }
+}

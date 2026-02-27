@@ -1,0 +1,76 @@
+{
+  "ARG_VERDADE_ESTRUTURAL": {
+
+    "id": "ARG_VERDADE_ESTRUTURAL",
+
+    "natureza": "meta_dedutivo",
+
+    "criterio_ultimo": "D_REAL",
+
+    "fundamenta": {
+      "regimes": ["REGIME_EPISTEMOLOGICO"],
+      "percursos": ["P_EIXO_EPISTEMOLOGICO"],
+      "modulos": ["M_ARGUMENTO_ESTRUTURAL_DA_VERDADE"]
+    },
+
+    "pressupostos_ontologicos": [
+      "D_REAL",
+      "D_LOCALIDADE",
+      "D_APREENSAO",
+      "D_REPRESENTACAO",
+      "D_ADEQUACAO"
+    ],
+
+    "operacoes_chave": [
+      "OP_DISTINCAO_APREENSAO_REPRESENTACAO",
+      "OP_IDENTIFICACAO_ADEQUACAO",
+      "OP_FIXACAO_CRITERIO",
+      "OP_SUBMISSAO_REAL"
+    ],
+
+    "estrutura_logica": {
+
+      "premissas": [
+        "Toda representação é mediação situada de uma apreensão do real.",
+        "Representação não coincide com o real que a origina.",
+        "O real possui estrutura independente da representação.",
+        "Onde há distinção entre representação e real, há possibilidade de desadequação.",
+        "Desadequação implica falha operativa sob resistência do real.",
+        "Se falha operativa é possível, distinção entre adequação e desadequação é estruturalmente necessária.",
+        "Critérios puramente internos à representação são insuficientes para garantir adequação estrutural."
+      ],
+
+      "deducoes_necessarias": [
+        "O critério último de adequação deve estar no real.",
+        "Adequação é correspondência operativa situada sob limites estruturais.",
+        "Onde há adequação sustentada pelo real, há estabilidade relacional."
+      ],
+
+      "conclusao": "Verdade, entendida como condição de possibilidade da distinção adequação/desadequação sob resistência do real, é estruturalmente inevitável sempre que há representação situada."
+    },
+
+    "reducao_ao_absurdo": {
+      "hipotese": "Não existe distinção estrutural entre adequação e desadequação.",
+      "consequencias": [
+        "Não existe falha operativa sob resistência do real.",
+        "Não existe erro.",
+        "Não existe correção.",
+        "Não existe distinção entre funcionar e falhar no real.",
+        "Qualquer negação pretende validade sem critério."
+      ],
+      "resultado": "Contradição performativa: a própria negação pressupõe distinção entre adequação e falha."
+    },
+
+    "tipo_de_necessidade": "estrutural",
+
+    "nivel_de_operacao": "meta_fundacional",
+
+    "observacoes": [
+      "Não identifica verdade com o real.",
+      "Não implica acesso total ou absoluto.",
+      "Adequação é sempre situada e escalar.",
+      "Critérios internos podem existir, mas não são últimos.",
+      "É condição de possibilidade da crítica e da correção."
+    ]
+  }
+}
