@@ -1,0 +1,93 @@
+{
+  "id": "ARG_RESPONSABILIDADE_EXIGE_LOCALIDADE_E_PONTO_DE_VISTA",
+  "capitulo": "CAP_23_RESPONSABILIDADE",
+  "parte": "PARTE_VI",
+  "nivel": 5,
+  "conceito_alvo": "D_RESPONSABILIDADE_ONTOLOGICA",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_CORRETIVO"
+    ],
+    "percursos": [
+      "P_EIXO_ETICO_NARRATIVO",
+      "P_PERCURSO_DA_VIDA_BOA",
+      "P_PERCURSO_DA_DEGENERACAO_ETICA"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_RESPONSABILIDADE_ONTOLOGICA",
+    "D_LOCALIDADE",
+    "D_PONTO_DE_VISTA",
+    "D_APREENSAO",
+    "D_MEMORIA",
+    "D_REPRESENTACAO",
+    "D_DANO_REAL",
+    "D_LIBERDADE_SITUADA",
+    "D_REAL"
+  ],
+  "outputs_instalados": [
+    "D_RESPONSABILIDADE_ONTOLOGICA"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA",
+    "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+    "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+    "OP_IDENTIFICACAO_DEPENDENCIA",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_DIFERENCIACAO_NIVEIS",
+    "OP_SUBMISSAO_REAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Responsabilidade implica imputação e resposta: para dizer que algo “é devido” a alguém, tem de haver um foco operativo que delimite agência e consequências.",
+      "Um foco operativo não existe fora de situação: sem D_LOCALIDADE não há delimitação efetiva de onde a ação ocorre, que recursos estão presentes, que limites atuam, e como se distribuem efeitos no campo.",
+      "Sem D_PONTO_DE_VISTA não há seleção operativa do relevante (o que conta como dano, risco, alternativa, consequência); haveria apenas descrição indiferenciada, sem capacidade de decisão situada.",
+      "A resposta ao dano exige comparação temporal (retenção e avaliação): isso pressupõe estruturas internas de D_MEMORIA e D_REPRESENTACAO que tornam o dano reconhecível e o ajuste possível.",
+      "Logo, D_RESPONSABILIDADE_ONTOLOGICA não pode ser um predicado abstrato desligado destas condições: ela depende estruturalmente de localidade e ponto de vista."
+    ],
+    "deducoes_necessarias": [
+      "Se removemos D_LOCALIDADE, perdemos o suporte ontológico de imputação: não há ‘onde’ nem ‘como’ delimitável para atribuir efeitos e orientar correção; a responsabilidade colapsa em generalidade não imputável.",
+      "Se removemos D_PONTO_DE_VISTA, perdemos a forma operativa da decisão: não há critério situado para distinguir dano real de ruído, nem para orientar vetores de ação; a responsabilidade colapsa em exterioridade descritiva.",
+      "Portanto, responsabilidade exige (i) localização da agência e (ii) perspetiva operativa (seleção do relevante), sob submissão ao real, para que o dano seja reconhecido e a correção seja possível."
+    ],
+    "conclusao": "D_RESPONSABILIDADE_ONTOLOGICA exige D_LOCALIDADE e D_PONTO_DE_VISTA: sem situação e sem perspetiva operativa não há imputação, nem resposta ao dano, nem correção possível."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe responsabilidade ontológica plena sem localidade e sem ponto de vista (responsabilidade ‘pura’, não situada).",
+    "consequencias": [
+      "A imputação deixa de ter suporte: não há qualquer delimitação ontológica de agência (quem) e de inscrição (onde) — responsabilidade torna-se indeterminável.",
+      "A resposta ao dano torna-se impossível: sem ponto de vista não há seleção do relevante, logo não há orientação nem critério aplicado; haveria apenas descrição externa.",
+      "A correção perde condição: sem situação/perspetiva não há como reinscrever no real por ajuste localizado; responsabilidade ficaria sem mecanismo operativo."
+    ],
+    "resultado": "Contradição: uma responsabilidade sem localidade e sem ponto de vista elimina as próprias condições que tornam a responsabilidade determinável e operável (imputação, orientação e correção)."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_RESPONSABILIDADE_ONTOLOGICA_COMO_RESPOSTA_A_DANO_REAL",
+      "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO",
+      "ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE",
+      "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO"
+    ],
+    "back_links": [
+      "CAP_23_RESPONSABILIDADE"
+    ],
+    "forward_links": []
+  },
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+  "observacoes": "Este argumento fixa a condição ontológica mínima da responsabilidade: ela não é um absoluto ‘moral’ fora do mundo, mas uma estrutura operativa situada (localidade) e seletiva (ponto de vista), capaz de reconhecer dano real e orientar correção.",
+  "_ficheiro_origem": "50_ARG_RESPONSABILIDADE_EXIGE_LOCALIDADE_E_PONTO_DE_VISTA.json"
+}

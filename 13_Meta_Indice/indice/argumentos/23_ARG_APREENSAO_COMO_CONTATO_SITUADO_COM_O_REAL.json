@@ -1,0 +1,98 @@
+{
+  "id": "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+
+  "capitulo": "CAP_11_LOCALIDADE",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_APREENSAO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_CRITICA_REFLEXIVIDADE", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA", "P_EIXO_CAMPO_E_LOCALIZACAO"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_SER_HUMANO",
+    "D_CAMPO",
+    "D_ATUALIZACAO",
+    "D_LOCALIDADE",
+    "D_PONTO_DE_VISTA",
+    "D_LIMITE"
+  ],
+
+  "outputs_instalados": [
+    "D_APREENSAO"
+  ],
+
+  "operacoes_chave": [
+    "OP_DESCRICAO_ATUALIZACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_LOCALIDADE implica que o ser humano está inscrito no campo real e é afetado por configurações do campo a partir do seu ponto de inscrição: esta afetação não é passiva no sentido de inerte — é atualização localizada.",
+      "Esta atualização localizada pela qual o ser humano integra uma afetação real do campo — anterior a qualquer representação, operando sempre sob limites estruturais e dependente da sua localidade — é precisamente D_APREENSAO.",
+      "D_APREENSAO é contacto: não cópia, não espelho, não representação — é a efetivação real de uma relação entre o ser localizado e o campo, que produz um efeito no ser sem ainda fixar esse efeito em forma simbólica.",
+      "D_APREENSAO é sempre parcial: decorre do ponto de vista e dos limites da localidade — não é apreensão da totalidade do real, mas apreensão de uma configuração do campo a partir de um ponto situado.",
+      "D_APREENSAO precede D_REPRESENTACAO: a representação é estabilização posterior de uma apreensão — não há representação sem apreensão prévia, mas pode haver apreensão sem representação imediata."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_APREENSAO é estruturalmente necessária para todo ser localizado que se relacione efetivamente com o campo: sem apreensão, não há contacto real — há apenas posição no campo sem efetivação relacional.",
+      "Logo, D_APREENSAO não é representação: é anterior à fixação simbólica — é o momento de contacto real que tornará possível a representação posterior."
+    ],
+    "conclusao": "D_APREENSAO é a atualização localizada pela qual o ser humano integra uma afetação real do campo do real, anterior a qualquer representação, operando sempre sob limites estruturais e dependente da sua localidade. Apreensão é contacto situado — não cópia, não representação, não conhecimento."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_SER_HUMANO localizado no campo real sem D_APREENSAO (o ser humano está inscrito no campo mas não é afetado por nenhuma configuração do campo).",
+    "consequencias": [
+      "Um ser inscrito no campo mas não afetado por nenhuma configuração do campo não tem relações efetivas com o campo: está nele mas não é por ele constrangido.",
+      "Sem relações efetivas com o campo, D_LOCALIDADE é vazia: a inscrição não produz nenhum efeito.",
+      "Sem efeito da inscrição, não há D_PONTO_DE_VISTA funcional: o acesso ao real não é condicionado por nada.",
+      "A hipótese elimina os efeitos relacionais de D_LOCALIDADE e D_PONTO_DE_VISTA que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_SER_HUMANO localizado no campo real implica necessariamente D_APREENSAO como efetivação relacional do contacto com o campo."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_APREENSAO não é representação: não é fixação simbólica, não é conhecimento articulado — é contacto pré-representacional com o real.",
+    "D_APREENSAO não é consciência: pode ocorrer sem reflexividade — a apreensão é mais ampla do que o que é conscientemente registado.",
+    "D_APREENSAO não é passiva: é atualização — o ser humano é afetado e essa afetação é real, produz efeito no campo do ser.",
+    "D_APREENSAO não garante adequação: o contacto é real mas pode ser parcial e sujeito a erro posterior na representação."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO",
+      "ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE"
+    ],
+    "prepara_argumentos": [
+      "ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO",
+      "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+    ],
+    "back_links": ["CAP_11_LOCALIDADE"],
+    "forward_links": ["CAP_12_SER_HUMANO", "CAP_13_REPRESENTACAO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_11: localidade, ponto de vista e apreensão como tríade — a localidade é a condição, o ponto de vista é o seu efeito epistémico, a apreensão é a sua efetivação relacional.",
+    "A distinção apreensão/representação é um dos bloqueios mais importantes da PARTE IV: evita que a representação seja confundida com o real e que o contacto seja confundido com o conhecimento articulado.",
+    "D_APREENSAO é pressuposto de toda a cadeia mediacional (representação → símbolo → linguagem → mediação) a instalar nos CAP_13 e CAP_14."
+  ]
+}

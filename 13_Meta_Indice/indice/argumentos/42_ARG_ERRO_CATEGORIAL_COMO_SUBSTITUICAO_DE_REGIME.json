@@ -1,0 +1,80 @@
+{
+  "id": "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+  "capitulo": "CAP_20_ERRO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_ERRO_CATEGORIAL",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_CORRETIVO"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO",
+      "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_ESCALA_ONTOLOGICA",
+    "D_LIMITE",
+    "D_REPRESENTACAO"
+  ],
+  "outputs_instalados": [
+    "D_ERRO_CATEGORIAL"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_ERRO_CATEGORIAL",
+    "OP_DIFERENCIACAO_NIVEIS",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "O real comporta níveis/regimes que não colapsam (D_ESCALA_ONTOLOGICA): categorias válidas num nível não se aplicam como se fossem do outro.",
+      "Um sistema pode falhar não por detalhe factual, mas por usar o regime errado (p.ex., tratar relação como substância; tratar mediação como coisa).",
+      "Essa substituição de regime produz operações inadequadas e resistência do real."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ERRO_CATEGORIAL é substituição de regime: confusão ontológica de categoria/nível que altera o tipo de operação possível.",
+      "Logo, o teste decisivo é submissão ao real: o real recusa a operação porque a categoria aplicada não corresponde ao tipo de estrutura em causa."
+    ],
+    "conclusao": "D_ERRO_CATEGORIAL é erro por substituição de regime/categoria: colapso ontológico que aplica ao real uma grelha de outro nível, produzindo desadequação estrutural."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "As categorias são indiferentes; qualquer grelha pode descrever qualquer nível desde que seja coerente.",
+    "consequencias": [
+      "Se qualquer grelha descreve qualquer nível, a distinção de níveis (escala) perde função e tudo colapsa numa só ontologia.",
+      "Isso contradiz a necessidade de não colapso de níveis (D_ESCALA_ONTOLOGICA) e elimina a possibilidade de identificar erro categorial.",
+      "Além disso, as operações falham: coerência não impede resistência do real quando o regime é inadequado."
+    ],
+    "resultado": "Contradição ontológica: negar a diferença de regimes elimina as condições que tornam alguns erros estruturalmente detectáveis."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+      "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+    ],
+    "prepara_argumentos": [
+      "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE",
+      "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA"
+    ],
+    "back_links": [
+      "CAP_20_ERRO"
+    ],
+    "forward_links": [
+      "CAP_21_CORRECAO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_ERRO_ONTOLOGICO_COMO_DESADEQUACAO_ESTRUTURAL: isola a forma categorial do erro (substituição de regime) como passo autónomo.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

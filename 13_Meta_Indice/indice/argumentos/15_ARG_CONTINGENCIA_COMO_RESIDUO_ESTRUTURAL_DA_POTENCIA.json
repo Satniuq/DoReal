@@ -1,0 +1,97 @@
+{
+  "id": "ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA",
+
+  "capitulo": "CAP_07_REGULARIDADE_NECESSIDADE",
+  "parte": "PARTE_II",
+  "nivel": 1,
+
+  "conceito_alvo": "D_CONTINGENCIA",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR", "P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_PODER_SER",
+    "D_POTENCIALIDADE",
+    "D_LIMITE",
+    "D_ATUALIZACAO",
+    "D_NECESSIDADE"
+  ],
+
+  "outputs_instalados": [
+    "D_CONTINGENCIA"
+  ],
+
+  "operacoes_chave": [
+    "OP_DESCRICAO_ATUALIZACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_DEPENDENCIA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_POTENCIALIDADE é o campo articulado de atualizações admissíveis para uma determinação: este campo contém tipicamente mais do que uma atualização admissível — de outro modo seria campo singular e a atualização seria necessária.",
+      "D_NECESSIDADE cobre apenas o que decorre inevitavelmente dos limites estruturais: o que é necessário é o que o limite não pode deixar de produzir. Mas D_PODER_SER é a margem de variação compatível — onde há margem, há mais do que uma atualização admissível.",
+      "Quando o campo de potencialidade contém mais do que uma atualização admissível, nenhuma delas é necessária relativamente à estrutura: qualquer uma delas poderia não ocorrer sem colapso estrutural. Esta não-necessidade local, dentro do campo de admissibilidades, é precisamente D_CONTINGENCIA.",
+      "D_CONTINGENCIA não é ausência de estrutura nem caos: é a abertura real que o campo de potencialidades mantém depois de excluir o impossível (pelo limite) e o necessário (pelo constrangimento estrutural máximo)."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CONTINGENCIA é estruturalmente inevitável sempre que D_POTENCIALIDADE contém mais do que uma atualização admissível: a abertura do campo de potência é, ela própria, a fonte da contingência.",
+      "Logo, D_CONTINGENCIA não é arbitrariedade: é resíduo estrutural da potência — o que sobra depois de excluído o impossível e o necessário, dentro do campo de admissibilidades."
+    ],
+    "conclusao": "D_CONTINGENCIA é a atualização que poderia não ocorrer sem colapso estrutural: resíduo real da abertura do campo de potencialidades depois de subtraído o impossível e o necessário. Contingência é abertura sob estrutura, não caos."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_POTENCIALIDADE com mais do que uma atualização admissível, mas não há D_CONTINGENCIA (toda atualização admissível é necessária).",
+    "consequencias": [
+      "Se toda atualização admissível é necessária, então o campo de potencialidades contém apenas atualizações necessárias: cada uma é a única compatível com a estrutura.",
+      "Mas se há mais do que uma atualização admissível, e cada uma é necessária, então a estrutura exige simultaneamente todas elas: isso implica que atualizações mutuamente incompatíveis são todas necessárias ao mesmo tempo.",
+      "A co-necessidade de atualizações incompatíveis viola D_LIMITE (que diferencia o admissível do não-admissível): se tudo é necessário, o limite perde função.",
+      "A hipótese colapsa D_LIMITE e D_POTENCIALIDADE que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_POTENCIALIDADE com mais do que uma atualização admissível implica necessariamente D_CONTINGENCIA como não-necessidade relativa de cada atualização."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_CONTINGENCIA não é caos: a contingência ocorre dentro do campo de admissibilidades — não é qualquer atualização, mas uma atualização possível sob a estrutura.",
+    "D_CONTINGENCIA não é aleatoriedade estatística: é estrutura ontológica de abertura, não distribuição probabilística.",
+    "D_CONTINGENCIA não contradiz D_REGULARIDADE: o contingente pode ser regular (recorrente) sem ser necessário — recorre porque as condições recorrem, não porque seja inevitável.",
+    "D_CONTINGENCIA não é subjetiva: não depende de ignorância do observador, é propriedade real do campo de potencialidades."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS",
+      "ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE",
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL"
+    ],
+    "back_links": ["CAP_07_REGULARIDADE_NECESSIDADE"],
+    "forward_links": ["CAP_08_CAMPO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_07 e a PARTE II: regularidade, necessidade e contingência são três modalidades complementares do real que decorrem da mesma estrutura de limite e potência.",
+    "Tríade modal: impossibilidade (excluída pelo limite), necessidade (imposta pelo constrangimento estrutural máximo), contingência (aberta pelo campo de potencialidades).",
+    "Esta tríade é pressuposta pela epistemologia (PARTE V): o erro é possível porque a contingência existe; a correção é possível porque a necessidade estrutural constrange; o critério é necessário porque nem tudo é necessário.",
+    "Prepara a PARTE III: o campo ontológico (CAP_08) pressupõe regularidade, necessidade e contingência como propriedades da organização do real."
+  ]
+}

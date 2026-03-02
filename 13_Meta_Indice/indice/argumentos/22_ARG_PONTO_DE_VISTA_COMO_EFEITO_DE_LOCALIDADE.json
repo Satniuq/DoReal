@@ -1,0 +1,93 @@
+{
+  "id": "ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE",
+
+  "capitulo": "CAP_11_LOCALIDADE",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_PONTO_DE_VISTA",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_CRITICA_REFLEXIVIDADE", "REGIME_DIFERENCIACAO_ONTOLOGICA"],
+    "percursos": ["P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA", "P_EIXO_CAMPO_E_LOCALIZACAO"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_LOCALIDADE",
+    "D_CAMPO",
+    "D_APREENSAO",
+    "D_LIMITE"
+  ],
+
+  "outputs_instalados": [
+    "D_PONTO_DE_VISTA"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+    "OP_LIMITACAO_REFLEXIVIDADE",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_LOCALIDADE implica acesso parcial ao real: um ser inscrito num ponto determinado do campo apreende a partir desse ponto — não tem acesso simultâneo a todas as configurações do campo.",
+      "Este acesso parcial não é neutro: o ponto de inscrição determina quais relações são imediatas, quais são mediadas e quais são inacessíveis a partir dali — o ponto de inscrição condiciona o modo de acesso ao real.",
+      "A condição estrutural e situada da apreensão que decorre da localidade — o facto de toda apreensão ocorrer a partir de um ponto determinado, condicionando o modo de acesso sem alterar o real apreendido — é precisamente D_PONTO_DE_VISTA.",
+      "D_PONTO_DE_VISTA não funda o real: emerge da localidade. O real não é constituído pelo ponto de vista — é o campo no qual o ponto de vista está inscrito e a partir do qual apreende."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_PONTO_DE_VISTA é estruturalmente inevitável para todo ser localizado: onde há D_LOCALIDADE, há condicionamento do acesso — há ponto de vista.",
+      "Logo, D_PONTO_DE_VISTA não é arbitrário nem subjetivo no sentido de independente do real: é efeito estrutural da localidade, constrangido pelo campo real a partir do qual se apreende."
+    ],
+    "conclusao": "D_PONTO_DE_VISTA é a limitação estrutural e situada da apreensão decorrente da localidade: efeito real da inscrição no campo, não fundamento do real nem relativismo arbitrário. O ponto de vista emerge da localidade — não a precede."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_LOCALIDADE mas não há D_PONTO_DE_VISTA (o ser localizado apreende o real sem qualquer condicionamento pela sua posição — acesso total e neutro).",
+    "consequencias": [
+      "Acesso total e neutro a partir de um ponto localizado implica que a posição no campo não condiciona o acesso: o ponto de inscrição seria irrelevante para o modo de apreensão.",
+      "Mas se a posição é irrelevante, a localidade não tem efeito epistémico: D_LOCALIDADE seria ontologicamente vazia — mera localização sem consequência.",
+      "Além disso, acesso total ao real a partir de um ponto é acesso ao que está fora do alcance relacional imediato desse ponto: implica relações com configurações que a estrutura do campo não torna acessíveis a partir dali.",
+      "A hipótese elimina os efeitos estruturais de D_LOCALIDADE que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_LOCALIDADE implica necessariamente D_PONTO_DE_VISTA como condicionamento real do acesso — sem ponto de vista, a localidade é ontologicamente inoperante."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_PONTO_DE_VISTA não é relativismo: a parcialidade do acesso não implica que qualquer descrição seja equivalente — o real constrange a partir de qualquer ponto situado.",
+    "D_PONTO_DE_VISTA não funda o real: o real é independente do ponto de vista — o ponto de vista condiciona o acesso, não o objeto.",
+    "D_PONTO_DE_VISTA não é opinião: é condição estrutural da apreensão, não posição voluntária.",
+    "D_PONTO_DE_VISTA não elimina a possibilidade de adequação: que o acesso seja parcial não impede que seja adequado dentro dos seus limites."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO"
+    ],
+    "prepara_argumentos": [
+      "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL"
+    ],
+    "back_links": ["CAP_11_LOCALIDADE"],
+    "forward_links": ["CAP_11_LOCALIDADE", "CAP_12_SER_HUMANO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Bloqueia simultaneamente dois desvios simétricos: o idealismo (ponto de vista funda o real) e o relativismo ingénuo (qualquer ponto de vista é equivalente).",
+    "D_PONTO_DE_VISTA prepara D_AUTORREFERENCIALIDADE (CAP_15): quando o ponto de vista se fecha sobre si mesmo, torna-se autorreferencial — risco de substituição do real pela coerência interna.",
+    "A distinção ponto-de-vista / real é pressuposta de toda a epistemologia (PARTE V): o critério de adequação pressupõe que há real independente do ponto de vista que o apreende."
+  ]
+}

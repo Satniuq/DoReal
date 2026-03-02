@@ -1,0 +1,77 @@
+{
+  "id": "ARG_ADEQUACAO_EXIGE_CRITERIO",
+  "capitulo": "CAP_17_ADEQUACAO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_CRITERIO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_ADEQUACAO",
+    "D_REPRESENTACAO",
+    "D_LIMITE",
+    "D_AUTORREFERENCIALIDADE"
+  ],
+  "outputs_instalados": [
+    "D_CRITERIO"
+  ],
+  "operacoes_chave": [
+    "OP_FIXACAO_CRITERIO",
+    "OP_IDENTIFICACAO_ADEQUACAO",
+    "OP_SUBMISSAO_REAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "D_ADEQUACAO é relação entre D_REPRESENTACAO e D_REAL que se manifesta no êxito/falha de operações sob D_LIMITE.",
+      "Sem regra de teste/decisão, a atribuição de 'adequado/inadequado' colapsa em impressão, coerência interna, consenso ou autoridade (formas de D_AUTORREFERENCIALIDADE).",
+      "Um critério é uma fixação operativa que determina como testar, quando rejeitar e como comparar representações face ao real."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ADEQUACAO exige D_CRITERIO: sem critério não há distinção estável entre maior/menor adequação.",
+      "Logo, a exigência de critério é anti-fechamento: impede que a adequação seja definida por auto-validação do sistema simbólico."
+    ],
+    "conclusao": "D_ADEQUACAO exige D_CRITERIO: a adequação só é determinável como estatuto operativo se houver regras de teste limitadas e submetidas ao real."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "É possível falar de adequação sem critério: basta 'sentir' que a representação corresponde ao real.",
+    "consequencias": [
+      "Sem critério, duas representações incompatíveis podem ser ambas 'sentidas' como adequadas; não há base para decisão.",
+      "A decisão passa a depender de estados mentais, consenso ou autoridade, substituindo o real por validação interna.",
+      "Isso elimina D_REAL como critério último, e a própria noção de adequação perde função discriminativa."
+    ],
+    "resultado": "Contradição funcional: negar o critério destrói a possibilidade de identificar adequação enquanto relação entre representação e real."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+      "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO"
+    ],
+    "prepara_argumentos": [
+      "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE"
+    ],
+    "back_links": [
+      "CAP_17_ADEQUACAO"
+    ],
+    "forward_links": [
+      "CAP_18_CRITERIO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_ADEQUACAO_COMO_CORRESPONDENCIA_OPERATIVA_COM_O_REAL: instala D_CRITERIO como necessidade estrutural para a adequação não colapsar em fechamento.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

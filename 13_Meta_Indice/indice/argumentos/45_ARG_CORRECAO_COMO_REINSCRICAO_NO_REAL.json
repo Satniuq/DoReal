@@ -1,0 +1,78 @@
+{
+  "id": "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL",
+  "capitulo": "CAP_21_CORRECAO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_CORRECAO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_CORRETIVO",
+      "REGIME_EPISTEMOLOGICO"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_ERRO_ONTOLOGICO",
+    "D_REPRESENTACAO",
+    "D_LIMITE",
+    "D_CRITERIO"
+  ],
+  "outputs_instalados": [
+    "D_CORRECAO"
+  ],
+  "operacoes_chave": [
+    "OP_REINTEGRACAO_ONTOLOGICA",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_FIXACAO_CRITERIO"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Se o erro é desadequação detectada por resistência do real, a correção é o movimento inverso: re-submeter a representação ao real.",
+      "Sem reinscrição no real, 'correção' pode ser apenas ajuste interno do sistema (remendo coerente) que preserva fechamento.",
+      "Reinscrever é recuperar o real como constrangimento: reintroduzir limite e consequência como critérios de revisão."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CORRECAO é necessariamente um acto de submissão ao real: o real deve poder negar e orientar a revisão.",
+      "Logo, a correção é anti-autorreferencial: rompe com auto-validação e reinstala D_REAL como critério último."
+    ],
+    "conclusao": "D_CORRECAO é reinscrição no real: retorno do sistema representacional ao constrangimento de D_REAL como critério último, reabrindo a possibilidade de adequação."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Correção pode ser apenas ajuste interno (maior coerência) sem relação com o real.",
+    "consequencias": [
+      "Um sistema pode tornar-se mais coerente e continuar hipostasiado: a coerência pode sofisticar o erro.",
+      "Sem real como instância de negação, não há distinção entre correção e optimização interna.",
+      "Logo, a hipótese preserva fechamento e impede efetiva superação do erro."
+    ],
+    "resultado": "Contradição corretiva: correção sem real elimina a diferença entre corrigir e reforçar o erro."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+      "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE"
+    ],
+    "prepara_argumentos": [
+      "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA"
+    ],
+    "back_links": [
+      "CAP_21_CORRECAO"
+    ],
+    "forward_links": [
+      "CAP_21_CORRECAO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_CORRECAO_COMO_RETORNO_AO_REAL: reforça 'reinscrição' como ruptura do fechamento (mais forte do que revisão superficial).",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA",
+
+  "capitulo": "CAP_02_ESTRUTURA_LIMITE",
+  "parte": "PARTE_I",
+  "nivel": 0,
+
+  "conceito_alvo": "D_LIMITE",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "fundacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_DISTINCAO",
+    "D_RELACIONALIDADE_MINIMA",
+    "D_ESTRUTURA"
+  ],
+
+  "outputs_instalados": [
+    "D_LIMITE"
+  ],
+
+  "operacoes_chave": [
+    "OP_FIXACAO_LIMITE_ONTOLOGICO",
+    "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_RECONDUCAO_RELACIONAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_ESTRUTURA implica ordenação relacional mínima no real: há padrões de co-implicação e compatibilidade que tornam possível a determinabilidade.",
+      "Determinabilidade ontológica mínima exige que algo possa ser identificado como 'este' e não 'outro' (distinção operativa estável).",
+      "Uma distinção operativa estável exige condições de separação/contorno: sem qualquer contorno, as determinações dissolvem-se na continuidade indiferenciada.",
+      "Condições de separação/contorno são limites: o limite é a forma estrutural pela qual uma determinação é mantida como tal (sem se confundir com todas as outras)."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_LIMITE é condição necessária (infalível) de qualquer existência determinada: sem limite não há manutenção de determinação, apenas colapso em indistinção.",
+      "Logo, D_LIMITE não é uma fronteira geométrica ou espacial; é uma condição ontológica de contorno/recorte na estrutura do real."
+    ],
+    "conclusao": "D_LIMITE é estruturalmente inevitável sempre que há D_ESTRUTURA e D_DISTINCAO: existir de modo determinado implica limite ontológico."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existem determinações reais (distinções/estrutura) sem qualquer D_LIMITE (não há contorno/recorte ontológico).",
+    "consequencias": [
+      "Sem limite, nenhuma determinação se mantém distinta: qualquer 'este' dissolve-se num contínuo indistinto.",
+      "Se nenhuma determinação se mantém, então D_DISTINCAO e D_ESTRUTURA tornam-se instáveis e vazias (não há conteúdo operável).",
+      "A hipótese destrói a própria possibilidade de afirmar 'há algo determinado no real'."
+    ],
+    "resultado": "Contradição estrutural: negar D_LIMITE mantendo determinação/distinção elimina a condição de existência determinada."
+  },
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE"
+    ],
+    "prepara_argumentos": [
+      "ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE",
+      "ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE"
+    ],
+    "back_links": ["CAP_01_DISTINCAO"],
+    "forward_links": ["CAP_03_DETERMINACAO_NAO_SER", "CAP_04_RELACAO_REAL_SER"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Este limite é ontológico e estrutural: não pressupõe espaço físico nem mediação representacional.",
+    "Bloqueia o desvio 'continuidade sem recorte' (monismo homogéneo) e o desvio 'ser infinito indeterminado'.",
+    "Prepara a leitura do não-ser como implicação negativa do limite, evitando hipóstase do não-ser."
+  ]
+}

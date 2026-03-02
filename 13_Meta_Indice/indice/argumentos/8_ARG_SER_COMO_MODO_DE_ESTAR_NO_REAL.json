@@ -1,0 +1,99 @@
+{
+  "id": "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL",
+
+  "capitulo": "CAP_04_RELACAO_REAL_SER",
+  "parte": "PARTE_I",
+  "nivel": 0,
+
+  "conceito_alvo": "D_SER",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "fundacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_DETERMINACAO",
+    "D_RELACAO",
+    "D_LIMITE",
+    "D_CONTINUIDADE"
+  ],
+
+  "outputs_instalados": [
+    "D_SER",
+    "D_RELACAO"
+  ],
+
+  "operacoes_chave": [
+    "OP_AFIRMACAO_ESTRUTURAL",
+    "OP_RECONDUCAO_RELACIONAL",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_DEPENDENCIA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_REAL é o campo relacional contínuo sem exterioridade: toda determinação ocorre neste campo e não pode existir fora dele.",
+      "No interior do campo real, há determinações: fixações relacionais sob limite que tornam algo 'este modo' e não outro.",
+      "Uma determinação que ocorre no campo real não é o campo em si, mas um modo localizado de o campo se articular: é uma inscrição determinada no real.",
+      "Essa inscrição determinada — este modo localizado de articulação do campo real, portador de poder-ser (abertura para atualizações futuras compatíveis) — é precisamente o que se entende por ser.",
+      "D_RELACAO, já instalada, é a condição estrutural pela qual determinações coexistem no real: sem relação, nenhuma determinação tem lugar no campo."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_SER não é uma substância separada do real nem uma entidade flutuante: é determinação localizada do real portadora de poder-ser.",
+      "Logo, D_SER pressupõe D_REAL como campo: não há ser sem o campo relacional contínuo que o sustenta.",
+      "Logo, D_RELACAO é condição estrutural do ser: um ser sem relação seria uma determinação sem campo — impossibilidade estrutural."
+    ],
+    "conclusao": "D_SER é determinação localizada do real portadora de poder-ser: modo de inscrição no campo relacional contínuo, não substância autónoma. D_RELACAO é a condição de coexistência que torna possível o ser como localização no campo."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "D_SER existe sem D_REAL como campo (ser autónomo, substância separada, entidade sem inscrição relacional).",
+    "consequencias": [
+      "Um ser sem inscrição relacional é uma determinação sem relações: não tem limite que o recorte enquanto 'este'.",
+      "Sem limite, não há determinação; sem determinação, não há 'este ser'.",
+      "Um ser autónomo do campo seria exterior ao real, mas D_REAL não admite exterioridade.",
+      "A hipótese elimina as condições de possibilidade do próprio ser que pressupõe."
+    ],
+    "resultado": "Contradição estrutural: ser como substância autónoma elimina as condições (relação, limite, campo) que tornam possível ser algo determinado."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_SER não é substância: é inscrição determinada num campo relacional.",
+    "D_SER não é consciência nem sujeito: é conceito ontológico geral (aplicável a qualquer determinação no campo real).",
+    "D_RELACAO não é ligação externa entre entidades pré-existentes: é condição estrutural da coexistência no campo.",
+    "Ser não tem exterioridade ao real: descrevê-lo como 'estar no real' não implica dualismo — o ser é do real, não perante o real."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+      "ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE",
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA"
+    ],
+    "prepara_argumentos": [
+      "ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA"
+    ],
+    "back_links": ["CAP_04_RELACAO_REAL_SER"],
+    "forward_links": ["CAP_05_PODER_SER"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha a PARTE I: D_SER como inscrição no campo real (não substância) é o resultado cumulativo de todos os argumentos da PARTE I.",
+    "D_SER será retomado na PARTE IV (ser humano como nó reflexivo localizado): aqui instala-se o conceito geral; lá instala-se a especificidade do nó reflexivo.",
+    "A noção de 'portador de poder-ser' antecipa a PARTE II sem a antecipar demasiado: poder-ser será argumentado no CAP_05."
+  ]
+}

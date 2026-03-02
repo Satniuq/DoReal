@@ -1,0 +1,79 @@
+{
+  "id": "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+  "capitulo": "CAP_18_CRITERIO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_CRITERIO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_LIMITE",
+    "D_REPRESENTACAO",
+    "D_ADEQUACAO",
+    "D_AUTORREFERENCIALIDADE"
+  ],
+  "outputs_instalados": [
+    "D_CRITERIO"
+  ],
+  "operacoes_chave": [
+    "OP_FIXACAO_CRITERIO",
+    "OP_FIXACAO_LIMITE_ONTOLOGICO",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "D_LIMITE implica condições determinadas de existência e de operação: não há aplicação ilimitada de uma grelha ao real.",
+      "Um critério é uma regra operativa de teste/decisão para avaliar adequação de representações face ao real.",
+      "Para não ser arbitrário, o critério tem de ser limitado pelo real: deriva de constrangimentos (resistência, invariantes, consequências) e explicita condições de aplicação e falha."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CRITERIO é fixação operativa sob limite: define fronteiras, condições e casos de falha.",
+      "Logo, um critério sem limite tende a expandir-se e a substituir o real por validação interna (fechamento)."
+    ],
+    "conclusao": "D_CRITERIO é a fixação operativa, sob D_LIMITE, das condições de teste da adequação: uma regra limitada e revisável ancorada no constrangimento do real."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Um critério pode ser ilimitado (aplicável a tudo) sem perder ligação ao real.",
+    "consequencias": [
+      "Se o critério é aplicável a tudo, deixa de distinguir casos e perde poder discriminativo.",
+      "Para manter-se 'válido' em toda a parte, o critério passa a ajustar-se internamente e a reinterpretar resistências como exceções, isto é, torna-se auto-validante.",
+      "Assim, em vez de estar submetido ao real, submete o real ao critério."
+    ],
+    "resultado": "Contradição estrutural: um critério ilimitado destrói a sua função e transforma-se em fechamento."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ADEQUACAO_EXIGE_CRITERIO",
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA"
+    ],
+    "prepara_argumentos": [
+      "ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO",
+      "ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO"
+    ],
+    "back_links": [
+      "CAP_18_CRITERIO"
+    ],
+    "forward_links": [
+      "CAP_19_VERDADE"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_CRITERIO_COMO_PRINCIPIO_DE_SUBMISSAO_AO_REAL: explicita critério como fixação sob limite (condições de aplicação/falha), não apenas como princípio geral.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

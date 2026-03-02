@@ -1,0 +1,80 @@
+{
+  "id": "ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO",
+  "capitulo": "CAP_18_CRITERIO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_VALIDADE",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CRITERIO",
+    "D_LIMITE",
+    "D_ESCALA_ONTOLOGICA",
+    "D_REPRESENTACAO"
+  ],
+  "outputs_instalados": [
+    "D_VALIDADE"
+  ],
+  "operacoes_chave": [
+    "OP_FIXACAO_CRITERIO",
+    "OP_IDENTIFICACAO_ESCALA",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_SUBMISSAO_REAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Um critério define como testar adequação; mas a sua utilidade depende de poder ser aplicado de modo relativamente consistente.",
+      "Há múltiplas escalas/níveis no real (D_ESCALA_ONTOLOGICA): um critério pode ser adequado numa escala e falhar noutra.",
+      "Quando a aplicação do critério varia sem razão estrutural (ou por uso fora de escala), perde-se a função discriminativa: o critério torna-se arbitrário."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_VALIDADE (neste sentido) é estabilidade de aplicação de um critério na escala/campo adequados.",
+      "Logo, a validade depende de explicitação de escala e de submissão ao real para distinguir instabilidade estrutural de variação gratuita."
+    ],
+    "conclusao": "D_VALIDADE é a estabilidade de aplicação de D_CRITERIO na escala/campo adequados: condição para que o critério discrimine adequação de forma não arbitrária."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "A validade de um critério é apenas pretensão formal; a estabilidade de aplicação é irrelevante.",
+    "consequencias": [
+      "Se a estabilidade é irrelevante, um critério pode produzir decisões contraditórias sem perda de validade.",
+      "Nesse caso, o critério deixa de discriminar adequação e passa a ser mero ritual formal.",
+      "Com isso, o real deixa de ser critério último, e a própria função do critério colapsa."
+    ],
+    "resultado": "Contradição funcional: separar validade de estabilidade destrói a operabilidade do critério e reinstala arbitrariedade."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+      "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+    ],
+    "prepara_argumentos": [
+      "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS",
+      "ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO"
+    ],
+    "back_links": [
+      "CAP_18_CRITERIO"
+    ],
+    "forward_links": [
+      "CAP_19_VERDADE",
+      "CAP_20_ERRO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_VALIDADE_COMO_PRETENSAO_FORMAL_DE_ADEQUACAO: devolve a validade ao seu papel operativo (estabilidade de aplicação), articulando com escala.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

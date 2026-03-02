@@ -1,0 +1,71 @@
+{
+  "id": "ARG_DISTINCAO_MINIMA",
+
+  "capitulo": "CAP_01_DISTINCAO",
+  "parte": "PARTE_I",
+  "nivel": 0,
+
+  "conceito_alvo": "D_DISTINCAO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "fundacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": ["D_REAL"],
+
+  "outputs_instalados": ["D_DISTINCAO"],
+
+  "operacoes_chave": [
+    "OP_AFIRMACAO_ESTRUTURAL",
+    "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "A afirmação de D_REAL implica que há algo (um dado ontológico) e não um vazio absoluto sem qualquer determinabilidade.",
+      "Se há algo, então há determinabilidade mínima: é possível distinguir entre (i) o que é afirmado como real e (ii) o que não é esse mesmo real (nem que seja apenas como diferença interna mínima).",
+      "Determinabilidade mínima é impossível sem distinção: onde não há qualquer distinção, não há sequer o sentido operacional de 'algo' (tudo colapsa em indistinção absoluta)."
+    ],
+    "deducoes_necessarias": [
+      "Logo, sempre que D_REAL é afirmado, D_DISTINCAO é uma condição estrutural mínima (não opcional, não derivada de um acto subjetivo).",
+      "Logo, a distinção não é um acrescento conceptual à realidade; é condição de possibilidade da própria inteligibilidade ontológica do real afirmado."
+    ],
+    "conclusao": "D_DISTINCAO é uma condição ontológica mínima e inevitável (infalível por impossibilidade lógica de negação) sempre que se afirma D_REAL."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "D_REAL pode ser afirmado sem D_DISTINCAO (não existe distinção mínima no real).",
+    "consequencias": [
+      "Sem distinção não há determinabilidade mínima.",
+      "Sem determinabilidade mínima, a própria afirmação de 'há real' perde conteúdo: não há nada que possa ser identificado como 'algo'.",
+      "A hipótese destrói as condições do que pretende sustentar (afirmar D_REAL)."
+    ],
+    "resultado": "Contradição performativa/estrutural: negar D_DISTINCAO enquanto se afirma D_REAL elimina as condições mínimas de sentido da própria afirmação."
+  },
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [],
+    "prepara_argumentos": ["ARG_RELACIONALIDADE_MINIMA"],
+    "back_links": [],
+    "forward_links": ["CAP_02_ESTRUTURA_LIMITE"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Este argumento fixa D_DISTINCAO como condição mínima (nível 0) e não como pluralidade atomista.",
+    "Evita a leitura a excluir: 'distinção como ato subjetivo'.",
+    "D_DISTINCAO implica D_RELACIONALIDADE_MINIMA (a ser instalado no argumento seguinte), mas aqui o foco é apenas a inevitabilidade da distinção mínima."
+  ]
+}

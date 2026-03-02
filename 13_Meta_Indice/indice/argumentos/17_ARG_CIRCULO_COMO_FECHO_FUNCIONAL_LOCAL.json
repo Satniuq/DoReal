@@ -1,0 +1,96 @@
+{
+  "id": "ARG_CIRCULO_COMO_FECHO_FUNCIONAL_LOCAL",
+
+  "capitulo": "CAP_08_CAMPO",
+  "parte": "PARTE_III",
+  "nivel": 2,
+
+  "conceito_alvo": "D_CIRCULO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DESCRICAO_ESTRUTURAL", "REGIME_DIFERENCIACAO_ONTOLOGICA"],
+    "percursos": ["P_ESTRUTURA_OPERACIONAL_DO_REAL", "P_EIXO_CAMPO_E_LOCALIZACAO"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CAMPO",
+    "D_ESCALA_ONTOLOGICA",
+    "D_REGULARIDADE",
+    "D_LIMITE"
+  ],
+
+  "outputs_instalados": [
+    "D_CIRCULO"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_CAMPO",
+    "OP_IDENTIFICACAO_ESCALA",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_DIFERENCIACAO_NIVEIS"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_CAMPO é configuração relacional estruturada localizável com escala própria: dentro de um campo, determinadas atualizações, critérios e modos de resposta são funcionalmente adequados.",
+      "D_ESCALA_ONTOLOGICA implica que cada campo opera numa extensão estrutural determinada: o que é adequado numa escala pode ser inadequado noutra — as regularidades de um campo têm validade local, não universal.",
+      "Quando um campo se organiza com regularidades suficientemente estáveis, com limites que definem o que lhe é interno e o que lhe é externo funcionalmente, e com modos de resposta próprios à sua escala, constitui-se como unidade funcional localizada: esta unidade funcional localizada — configuração relacional com escala de operação, regularidades próprias e fecho funcional sem pretensão de totalidade — é precisamente D_CIRCULO.",
+      "O fecho do círculo não é impermeabilidade absoluta: é a condição de que as operações, critérios e respostas do campo sejam adequadas à sua extensão ontológica, sem extrapolação indevida para outras escalas."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CIRCULO emerge necessariamente de D_CAMPO com D_ESCALA_ONTOLOGICA suficientemente determinada: todo campo com escala própria tende a constituir-se como círculo funcional.",
+      "Logo, D_CIRCULO não é totalidade: é fecho funcional local — o que opera adequadamente no círculo pode ser erro quando extrapolado para fora da sua escala."
+    ],
+    "conclusao": "D_CIRCULO é a configuração relacional localizada com escala de operação e regularidades próprias, cujo fecho funcional é local e sem pretensão de validade universal. Círculo é organização adequada à sua escala — não totalização."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_CAMPO com D_ESCALA_ONTOLOGICA, mas os critérios e modos de resposta do campo são válidos para qualquer escala (sem fecho funcional local).",
+    "consequencias": [
+      "Critérios sem localização de escala pretendem validade universal: aplicam-se indiscriminadamente a toda configuração do real.",
+      "Mas D_ESCALA_ONTOLOGICA implica diferença de extensão estrutural entre níveis: o que é adequado num nível pode ser inadequado noutro.",
+      "Aplicar critérios de um nível a outro sem discriminação é precisamente o erro de escala — D_ERRO_DE_ESCALA.",
+      "A hipótese elimina a função de D_ESCALA_ONTOLOGICA que pressupunha e produz sistematicamente erro."
+    ],
+    "resultado": "Contradição estrutural: D_CAMPO com D_ESCALA_ONTOLOGICA implica necessariamente D_CIRCULO como fecho funcional local — sem círculo, a escala perde função diferenciadora."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_CIRCULO não é totalidade: o fecho é funcional e local, não absoluto — o círculo está inscrito no campo real mais amplo.",
+    "D_CIRCULO não é clausura: a sua localização não implica que seja impermeável a outros campos ou escalas.",
+    "D_CIRCULO não é arbitrário: os seus limites decorrem da estrutura real — não são convencionais ou subjetivos.",
+    "Não confundir D_CIRCULO com sistema fechado (que substitui o real): o círculo é configuração funcional adequada à sua escala, não sistema autorreferencial."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL",
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL",
+      "ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE"
+    ],
+    "prepara_argumentos": [
+      "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+    ],
+    "back_links": ["CAP_08_CAMPO"],
+    "forward_links": ["CAP_09_ESCALA"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_08: campo e círculo como duas faces da organização do real — o campo é a configuração geral, o círculo é o fecho funcional localizado com escala.",
+    "D_CIRCULO é pressuposto do erro de escala (PARTE V): o erro de escala é precisamente a violação do fecho do círculo — aplicar critérios de um círculo fora da sua extensão ontológica.",
+    "Prepara CAP_09: a escala ontológica será argumentada como condição de não-colapso de níveis, fundada na distinção de círculos funcionais."
+  ]
+}

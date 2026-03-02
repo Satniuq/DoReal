@@ -1,0 +1,96 @@
+{
+  "id": "ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE",
+
+  "capitulo": "CAP_07_REGULARIDADE_NECESSIDADE",
+  "parte": "PARTE_II",
+  "nivel": 1,
+
+  "conceito_alvo": "D_NECESSIDADE",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR", "P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_LIMITE",
+    "D_IMPOSSIBILIDADE_ONTOLOGICA",
+    "D_REGULARIDADE",
+    "D_ESTRUTURA",
+    "D_PODER_SER"
+  ],
+
+  "outputs_instalados": [
+    "D_NECESSIDADE"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA",
+    "OP_FIXACAO_LIMITE_ONTOLOGICO",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_LIMITE diferencia o admissível do não-admissível: onde o limite é estruturalmente determinado, certas atualizações são excluídas — D_IMPOSSIBILIDADE_ONTOLOGICA.",
+      "D_IMPOSSIBILIDADE_ONTOLOGICA não é apenas exclusão: implica que o que não é excluído pelo limite é o que a estrutura admite, e portanto, dado os limites e as condições estruturais, certas atualizações são as únicas compatíveis.",
+      "Quando a estrutura e os limites de uma determinação admitem apenas um conjunto de atualizações como compatíveis, e excluem todos os outros, esse conjunto restringe-se ao inevitável: o que a estrutura não pode deixar de produzir dadas as suas condições.",
+      "O que a estrutura não pode deixar de produzir — o que decorre inevitavelmente da estrutura e do limite — é precisamente D_NECESSIDADE: não fatalismo exterior, mas constrangimento interno da estrutura sobre as suas próprias atualizações."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_NECESSIDADE é estruturalmente inevitável sempre que há D_LIMITE com força de D_IMPOSSIBILIDADE_ONTOLOGICA: onde os limites excluem certos estados, o que resta é necessário relativo a essa estrutura.",
+      "Logo, D_NECESSIDADE não é determinismo absoluto do real como todo: é necessidade local e estrutural, relativa à configuração de limites de uma determinação no campo."
+    ],
+    "conclusao": "D_NECESSIDADE é o que decorre inevitavelmente da estrutura e do limite de uma determinação: constrangimento interno real, não fatalismo absoluto nem imposição exterior. A necessidade é sempre local e relativa à configuração estrutural que a produz."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_LIMITE com força de D_IMPOSSIBILIDADE_ONTOLOGICA, mas nada decorre inevitavelmente da estrutura (não há D_NECESSIDADE).",
+    "consequencias": [
+      "Se os limites excluem certos estados mas nada é inevitável, então os limites não constrangem as atualizações efetivas: o campo de admissibilidades seria completamente aberto dentro dos limites.",
+      "Mas D_IMPOSSIBILIDADE_ONTOLOGICA implica que certas atualizações são estruturalmente excluídas — e se os limites são suficientemente determinados, o campo de admissibilidades pode ser um conjunto singular.",
+      "Negar D_NECESSIDADE neste caso implica que o mesmo conjunto de limites e condições estruturais seja compatível com qualquer atualização: colapso da função do limite como diferenciação real.",
+      "A hipótese elimina a eficácia ontológica de D_LIMITE que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_LIMITE com força de D_IMPOSSIBILIDADE_ONTOLOGICA implica necessariamente D_NECESSIDADE como decorrência inevitável da estrutura."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_NECESSIDADE não é fatalismo: não implica que tudo o que acontece era inevitável — é necessidade local relativa à configuração estrutural de uma determinação.",
+    "D_NECESSIDADE não é necessidade lógica formal: é constrangimento ontológico real, não tautologia.",
+    "D_NECESSIDADE não exclui D_CONTINGENCIA: são modalidades complementares — o que é necessário numa determinação pode ser contingente noutra escala ou configuração.",
+    "D_NECESSIDADE não é determinismo total do real: o real como campo contínuo comporta tanto necessidade (onde os limites constrangem) como contingência (onde o campo de admissibilidades tem abertura)."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA",
+      "ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE",
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA"
+    ],
+    "back_links": ["CAP_07_REGULARIDADE_NECESSIDADE"],
+    "forward_links": ["CAP_07_REGULARIDADE_NECESSIDADE"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "D_NECESSIDADE como decorrência local do limite é pressuposto epistemológico fundamental: a necessidade estrutural é o que torna possível o critério e a validade (a ser instalados na PARTE V).",
+    "Bloqueia dois desvios simétricos: 'necessidade como fatalismo total' (tudo é necessário) e 'necessidade como ausência' (nada é necessário, tudo é contingente).",
+    "A articulação necessidade/contingência será fechada no argumento seguinte: são faces complementares da mesma estrutura de poder-ser sob limite."
+  ]
+}

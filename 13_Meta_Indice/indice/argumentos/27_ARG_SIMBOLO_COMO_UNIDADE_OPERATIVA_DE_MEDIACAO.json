@@ -1,0 +1,95 @@
+{
+  "id": "ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO",
+
+  "capitulo": "CAP_13_REPRESENTACAO",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_SIMBOLO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DIFERENCIACAO_ONTOLOGICA", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_SIMBOLICO_MEDIACIONAL", "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_DISTINCAO",
+    "D_REPRESENTACAO",
+    "D_APREENSAO",
+    "D_SER_HUMANO"
+  ],
+
+  "outputs_instalados": [
+    "D_SIMBOLO"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_MEDIACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_PROJECAO_EU"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_REPRESENTACAO é estabilização mediada de uma apreensão sob forma operável: mas a representação não é monolítica — articula-se em unidades discretas que permitem a sua manipulação, combinação e transmissão.",
+      "D_DISTINCAO é condição mínima de determinabilidade: a representação herda esta condição — para que uma apreensão seja estabilizada como representação operável, tem de ser distinguida de outras apreensões e fixada como unidade identificável.",
+      "A unidade mínima da representação pela qual uma distinção apreendida é estabilizada sob forma representacional — referindo aspetos do real sem com eles coincidir — é precisamente D_SIMBOLO.",
+      "D_SIMBOLO é unidade operativa: pode ser manipulado, combinado com outros símbolos, transmitido a outros seres localizados — é a forma em que a representação se torna operável e partilhável.",
+      "D_SIMBOLO refere o real sem coincidir com ele: a referência é real (o símbolo é sobre algo do campo real) mas a coincidência é impossível (o símbolo não é o que refere — é a sua estabilização operativa)."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_SIMBOLO é estruturalmente necessário sempre que há D_REPRESENTACAO articulada em unidades operáveis: a representação sem unidades discretas não é operável — não pode ser manipulada, combinada ou transmitida.",
+      "Logo, D_SIMBOLO não é entidade ontológica: é unidade representacional mediada — tem estatuto de mediação, não de determinação real autónoma."
+    ],
+    "conclusao": "D_SIMBOLO é a unidade mínima da representação pela qual uma distinção apreendida é estabilizada sob forma representacional, referindo aspetos do real sem com eles coincidir. Unidade operativa de mediação — não entidade ontológica, não o real."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_REPRESENTACAO articulada sem D_SIMBOLO (a representação é estabilização sem unidades discretas — fluxo indiferenciado sem articulação em unidades operáveis).",
+    "consequencias": [
+      "Uma representação sem unidades discretas não pode ser manipulada: não há elementos distinguíveis para combinar, operar ou transmitir.",
+      "Sem elementos distinguíveis, a reflexividade representacional não tem sobre o que operar: o ser humano não pode comparar, inferir ou comunicar.",
+      "Sem comunicação possível, a representação fica confinada ao ser singular sem possibilidade de partilha: a linguagem torna-se impossível.",
+      "A hipótese elimina as condições da operabilidade representacional que D_REPRESENTACAO pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_REPRESENTACAO articulada e operável implica necessariamente D_SIMBOLO como unidade mínima de articulação."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_SIMBOLO não é entidade ontológica: não tem existência autónoma no campo real — é unidade representacional, mediação.",
+    "D_SIMBOLO não é o real que refere: a referência é real, mas o símbolo não coincide com o referido — confundir símbolo com real é reificação simbólica.",
+    "D_SIMBOLO não é arbitrário no sentido de sem ancoragem: embora a relação símbolo-referido seja convencional, a apreensão que o origina tem ancoragem real.",
+    "D_SIMBOLO pode fetichizar-se: quando o símbolo é tratado como mais real do que o que refere, produz-se fechamento simbólico — risco a desenvolver no CAP_14 e CAP_15."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO",
+      "ARG_DISTINCAO_MINIMA"
+    ],
+    "prepara_argumentos": [
+      "ARG_LINGUAGEM_COMO_SISTEMA_DE_SIMBOLOS_ESTABILIZADOS"
+    ],
+    "back_links": ["CAP_13_REPRESENTACAO"],
+    "forward_links": ["CAP_14_LINGUAGEM_MEDIACAO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_13: representação e símbolo como faces da mesma operação — a representação é a estabilização, o símbolo é a sua unidade mínima.",
+    "D_SIMBOLO gera D_LINGUAGEM (segundo o ficheiro de conceitos): a linguagem é o sistema estruturado de símbolos — a ser argumentada no CAP_14.",
+    "O risco de fetichização do símbolo (símbolo tomado como real) é a versão mínima do fechamento simbólico que será desenvolvida como D_AUTORREFERENCIALIDADE no CAP_15."
+  ]
+}

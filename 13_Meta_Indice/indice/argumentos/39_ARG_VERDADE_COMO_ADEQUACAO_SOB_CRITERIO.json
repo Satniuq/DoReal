@@ -1,0 +1,80 @@
+{
+  "id": "ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO",
+  "capitulo": "CAP_19_VERDADE",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_VERDADE",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_CRITICA_REFLEXIVIDADE"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_ADEQUACAO",
+    "D_CRITERIO",
+    "D_VALIDADE",
+    "D_REPRESENTACAO",
+    "D_LIMITE"
+  ],
+  "outputs_instalados": [
+    "D_VERDADE"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_ADEQUACAO",
+    "OP_FIXACAO_CRITERIO",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "D_ADEQUACAO identifica correspondência operativa situada entre representação e real.",
+      "D_CRITERIO fixa como testar a adequação; D_VALIDADE (estabilidade de aplicação) torna o teste consistente na escala adequada.",
+      "Sem critério e sem estabilidade, 'verdade' colapsa em impressão, coerência interna, consenso ou autoridade."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_VERDADE pode ser definido como adequação sob critério: estatuto de uma representação que passa um teste limitado e aplicável de correspondência ao real.",
+      "Logo, verdade mantém estrutura anti-reificação: é estatuto epistémico (de uma mediação), não propriedade ontológica do real em si."
+    ],
+    "conclusao": "D_VERDADE é D_ADEQUACAO sob D_CRITERIO válido: estatuto de uma representação cuja correspondência operativa com o real é estabelecida por um critério limitado e estável."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "D_VERDADE pode ser definida sem critério: basta coerência interna do sistema simbólico.",
+    "consequencias": [
+      "Coerência interna permite múltiplos sistemas incompatíveis igualmente 'verdadeiros' sem referência ao real.",
+      "Nessa hipótese, resistências do real tornam-se irrelevantes ou reinterpretações internas, abrindo fechamento.",
+      "Isto contraria D_REAL como critério último e D_ADEQUACAO como relação operativa com constrangimento."
+    ],
+    "resultado": "Contradição estrutural: verdade sem critério dissolve-se em auto-validação e perde relação necessária com o real."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+      "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+      "ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO"
+    ],
+    "prepara_argumentos": [
+      "ARG_VERDADE_EXIGE_SUBMISSAO_REAL",
+      "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO"
+    ],
+    "back_links": [
+      "CAP_19_VERDADE"
+    ],
+    "forward_links": [
+      "CAP_20_ERRO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_VERDADE_COMO_MELHOR_DESCRICAO_DO_REAL: fixa a definição formal de verdade como adequação regulada por critério (ponte Adequação→Critério→Verdade).",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

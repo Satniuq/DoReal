@@ -1,0 +1,82 @@
+{
+  "id": "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE",
+  "capitulo": "CAP_20_ERRO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_ERRO_ONTOLOGICO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_CORRETIVO"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO",
+      "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_REPRESENTACAO",
+    "D_LIMITE",
+    "D_AUTORREFERENCIALIDADE",
+    "D_CRITERIO"
+  ],
+  "outputs_instalados": [
+    "D_ERRO_ONTOLOGICO"
+  ],
+  "operacoes_chave": [
+    "OP_DESSUBSTANCIALIZACAO",
+    "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "O fechamento ocorre quando um sistema de representações passa a validar-se por regras internas e reinterpreta resistências como meras 'anomalias'.",
+      "Uma forma extrema é a hipóstase: tratar a mediação (modelo/linguagem/teoria) como se fosse o próprio real (reificação do sistema).",
+      "Quando a hipóstase se instala, o critério deixa de ser o real: a submissão ao real é substituída por submissão ao sistema."
+    ],
+    "deducoes_necessarias": [
+      "Logo, erro ontológico (como hipóstase) é substituição do real por um objecto simbólico: o sistema torna-se 'ser' e o real perde estatuto de critério.",
+      "Logo, a hipóstase tende a invisibilidade: quanto mais totalizante o sistema, menos reconhece refutação (absorve tudo internamente)."
+    ],
+    "conclusao": "D_ERRO_ONTOLOGICO, enquanto hipóstase, é a reificação de um sistema de mediação que substitui D_REAL como critério último, neutralizando a submissão ao real e produzindo fechamento."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "É possível tomar o sistema de representação como real sem perda: se funciona, então é o real.",
+    "consequencias": [
+      "Funcionamento interno não garante submissão ao real; pode ser optimização autorreferencial.",
+      "Se o sistema é 'o real', então não há espaço para erro: toda resistência teria de ser reclassificada como parte do sistema.",
+      "Isso elimina a própria diferença entre adequação e erro, contrariando a estrutura corretiva do percurso."
+    ],
+    "resultado": "Contradição corretiva: hipóstase elimina a possibilidade de erro e correção ao substituir o real por validação interna."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_VERDADE_EXIGE_SUBMISSAO_REAL",
+      "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+      "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+      "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+    ],
+    "prepara_argumentos": [
+      "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+    ],
+    "back_links": [
+      "CAP_20_ERRO"
+    ],
+    "forward_links": [
+      "CAP_21_CORRECAO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_ERRO_ONTOLOGICO_COMO_DESADEQUACAO_ESTRUTURAL: explicita a variante 'hipóstase' (reificação do sistema) como núcleo do erro ontológico forte.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

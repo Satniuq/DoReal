@@ -1,0 +1,99 @@
+{
+  "id": "ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA",
+
+  "capitulo": "CAP_12_SER_HUMANO",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_MEMORIA",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_CRITICA_REFLEXIVIDADE", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_SER_HUMANO",
+    "D_CONTINUIDADE",
+    "D_APREENSAO",
+    "D_TEMPO",
+    "D_ATUALIZACAO"
+  ],
+
+  "outputs_instalados": [
+    "D_MEMORIA"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_CONTINUIDADE",
+    "OP_DESCRICAO_ATUALIZACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_DESSUBSTANCIALIZACAO"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_SER_HUMANO é ente biológico cuja continuidade material permite a emergência de reflexividade representacional: esta continuidade material não é apenas condição de existência presente — sustenta também a inscrição de atualizações passadas.",
+      "D_APREENSAO é atualização localizada que integra afetações reais do campo: estas atualizações não desaparecem sem resíduo — a continuidade material do ser humano permite que algumas delas se inscrevam de modo durável.",
+      "A inscrição durável das atualizações apreendidas — que permite a continuidade do ser humano no tempo, sustentando a estabilidade da sua relação com o real sem se reduzir à consciência ou à representação simbólica — é precisamente D_MEMORIA.",
+      "D_MEMORIA não é contentor de imagens: é inscrição real na continuidade material do ser — as atualizações passadas deixam traços que condicionam atualizações futuras.",
+      "D_MEMORIA precede D_REPRESENTACAO no sentido de que há inscrição sem fixação simbólica consciente: mas a memória também sustenta e é sustentada pela representação na continuidade do ser humano."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_MEMORIA é estruturalmente necessária para todo ser cuja continuidade material permite inscrição de atualizações: onde há D_SER_HUMANO e D_CONTINUIDADE com capacidade de inscrição, há memória como estabilização temporal interna.",
+      "Logo, D_MEMORIA não é faculdade autónoma: é efeito da continuidade material sobre as atualizações apreendidas — emerge da estrutura real do ser humano, não de uma instância separada."
+    ],
+    "conclusao": "D_MEMORIA é a inscrição durável das atualizações apreendidas que permite a continuidade do ser humano no tempo: estabilização temporal interna, não repositório de imagens nem instância autónoma. A memória é efeito real da continuidade material sobre as atualizações do ser."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_SER_HUMANO com D_CONTINUIDADE material e D_APREENSAO, mas sem D_MEMORIA (as atualizações apreendidas não deixam qualquer inscrição durável — o ser humano existe em cada momento sem continuidade de atualizações passadas).",
+    "consequencias": [
+      "Sem inscrição durável de atualizações passadas, cada apreensão é completamente independente das anteriores: o ser humano não tem continuidade temporal efetiva.",
+      "Sem continuidade temporal efetiva, D_CONTINUIDADE do ser humano é vazia: a continuidade material não produz nenhuma integração temporal.",
+      "Sem integração temporal, a reflexividade representacional não tem sobre o que operar: não há material acumulado para representar, comparar ou operar.",
+      "A hipótese elimina as condições da reflexividade representacional que D_SER_HUMANO pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_SER_HUMANO com D_CONTINUIDADE material e D_APREENSAO implica necessariamente D_MEMORIA como inscrição durável das atualizações."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_MEMORIA não é identidade: a inscrição de atualizações não define o ser humano como substância fixa — a memória é dinâmica e é reconstituída nas atualizações presentes.",
+    "D_MEMORIA não é consciência: pode haver inscrição sem acesso consciente — a memória é mais ampla do que o recordado conscientemente.",
+    "D_MEMORIA não é instância autónoma: é efeito da continuidade material, não entidade separada.",
+    "D_MEMORIA pode gerar erro: a fixação excessiva em atualizações passadas pode bloquear a abertura ao real presente — risco de fixação do passado como critério único."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO",
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+      "ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE",
+      "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+    ],
+    "back_links": ["CAP_12_SER_HUMANO"],
+    "forward_links": ["CAP_13_REPRESENTACAO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_12: ser humano e memória como faces da mesma continuidade material — o ser humano é o ente cujas atualizações se inscrevem e a memória é o traço dessa inscrição.",
+    "D_MEMORIA gera D_IMAGINACAO (segundo o ficheiro de conceitos): a inscrição de atualizações passadas permite a projeção de configurações não presentes — a imaginação será relevante no CAP_15.",
+    "Bloqueia 'memória como identidade' (risco de fixação) e 'memória como instância autónoma' (risco de substancialização)."
+  ]
+}

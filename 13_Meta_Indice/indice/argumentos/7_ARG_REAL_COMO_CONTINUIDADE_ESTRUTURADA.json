@@ -1,0 +1,102 @@
+{
+  "id": "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+
+  "capitulo": "CAP_04_RELACAO_REAL_SER",
+  "parte": "PARTE_I",
+  "nivel": 0,
+
+  "conceito_alvo": "D_REAL",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "fundacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_DISTINCAO",
+    "D_RELACIONALIDADE_MINIMA",
+    "D_ESTRUTURA",
+    "D_LIMITE",
+    "D_DETERMINACAO",
+    "D_NAO_SER"
+  ],
+
+  "outputs_instalados": [
+    "D_REAL",
+    "D_CONTINUIDADE"
+  ],
+
+  "operacoes_chave": [
+    "OP_AFIRMACAO_ESTRUTURAL",
+    "OP_EXCLUSAO_EXTERIORIDADE",
+    "OP_RECONDUCAO_RELACIONAL",
+    "OP_IDENTIFICACAO_CONTINUIDADE"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "Os argumentos anteriores estabeleceram: distinção mínima, relacionalidade mínima, estrutura, limite, determinação e não-ser como condições estruturais co-implicadas.",
+      "Estas condições não flutuam sem suporte: exigem um campo em que co-ocorrem e se sustentam mutuamente. Esse campo não pode ter exterioridade (algo exterior ao campo seria ainda uma determinação do campo, reintegrando-se nele).",
+      "Um campo sem exterioridade admissível, que sustenta distinções, relações, estrutura e limites em co-implicação contínua, é precisamente o que se entende por real: não um objeto, não uma substância, mas o campo relacional contínuo de poder-ser.",
+      "Este campo é contínuo no sentido de que as determinações nele não existem como átomos isolados: cada determinação implica relações, e as relações implicam estrutura, e a estrutura implica limites — há permanência relacional sem descontinuidade absoluta entre determinações.",
+      "Este campo é estruturado porque não é homogéneo: comporta distinções, limites, e portanto diferenciação interna real — nem bloco indistinto nem atomismo de elementos desconexos."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_REAL é o campo relacional contínuo e estruturado que torna possível e sustenta todas as condições anteriores: não é mais uma determinação entre outras, mas o campo de todas as determinações.",
+      "Logo, D_CONTINUIDADE é uma propriedade estrutural do real: a permanência relacional que permite que determinações permaneçam sendo o que são e se transformem sem salto mágico."
+    ],
+    "conclusao": "D_REAL é o campo relacional contínuo e estruturado, sem exterioridade admissível, que sustenta todas as condições ontológicas mínimas co-implicadas. D_CONTINUIDADE é a permanência relacional que constitui o real como campo e não como coleção de instantes ou átomos."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "As condições estruturais (distinção, relação, estrutura, limite, determinação) existem sem qualquer campo contínuo que as sustente — são átomos desconexos ou flutuam sem suporte.",
+    "consequencias": [
+      "Átomos ontológicos desconexos não têm relações: sem relação, não há relacionalidade mínima.",
+      "Sem relacionalidade mínima, não há estrutura.",
+      "Sem estrutura, não há limites, sem limites não há determinação.",
+      "A hipótese elimina as próprias condições que pressupõe."
+    ],
+    "resultado": "Contradição estrutural: condições ontológicas mínimas exigem o campo relacional contínuo como seu suporte."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_REAL não é o mundo exterior ao sujeito: é o campo sem exterioridade (inclui o ser que descreve).",
+    "D_CONTINUIDADE não é homogeneidade: o real contínuo comporta diferenciação interna real.",
+    "D_REAL não é uma substância ou entidade: é campo relacional (modo de ser das determinações em co-implicação).",
+    "D_CONTINUIDADE não é identidade estática: é permanência relacional compatível com transformação."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_DISTINCAO_MINIMA",
+      "ARG_RELACIONALIDADE_MINIMA",
+      "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE",
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA",
+      "ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE",
+      "ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE"
+    ],
+    "prepara_argumentos": [
+      "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL"
+    ],
+    "back_links": ["CAP_03_DETERMINACAO_NAO_SER"],
+    "forward_links": ["CAP_04_RELACAO_REAL_SER", "CAP_05_PODER_SER"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Este argumento é o momento de síntese da PARTE I: instala D_REAL e D_CONTINUIDADE como resultado acumulado dos argumentos anteriores.",
+    "Não é um salto: é a nomeação do campo que os argumentos 1-6 já pressupunham implicitamente.",
+    "Prepara a PARTE II: D_CONTINUIDADE é a condição para que haja potencialidade real (não virtual abstrata) e atualização (não salto mágico)."
+  ]
+}

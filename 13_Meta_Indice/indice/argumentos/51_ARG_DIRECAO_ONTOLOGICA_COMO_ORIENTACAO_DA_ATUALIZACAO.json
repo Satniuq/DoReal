@@ -1,0 +1,91 @@
+{
+  "id": "ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO",
+  "capitulo": "CAP_24_DIRECAO",
+  "parte": "PARTE_VI",
+  "nivel": 5,
+  "conceito_alvo": "D_DIRECAO_ONTOLOGICA",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_CORRETIVO",
+      "REGIME_CRITICA_SISTEMICA"
+    ],
+    "percursos": [
+      "P_EIXO_ETICO_NARRATIVO",
+      "P_PERCURSO_DA_VIDA_BOA"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_ATUALIZACAO",
+    "D_TEMPO",
+    "D_CAMPO_DE_POTENCIALIDADES",
+    "D_DANO_REAL",
+    "D_CRITERIO",
+    "D_LIBERDADE_SITUADA",
+    "D_REAL"
+  ],
+  "outputs_instalados": [
+    "D_DIRECAO_ONTOLOGICA"
+  ],
+  "operacoes_chave": [
+    "OP_DESCRICAO_ATUALIZACAO",
+    "OP_FIXACAO_CRITERIO",
+    "OP_IDENTIFICACAO_DEPENDENCIA",
+    "OP_RECONDUCAO_RELACIONAL",
+    "OP_SUBMISSAO_REAL",
+    "OP_DIFERENCIACAO_NIVEIS",
+    "OP_IDENTIFICACAO_ESCALA"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "D_ATUALIZACAO é transição no contínuo sob estrutura: o real move-se por mudanças compatíveis, e essas mudanças têm consequências no D_TEMPO.",
+      "Se existe D_CAMPO_DE_POTENCIALIDADES, então há trajetos alternativos de atualização (não univocidade necessária), e a agência situada pode operar seleção dentro do campo.",
+      "D_DANO_REAL introduz uma assimetria mínima: há trajetos que degradam condições reais e estreitam o poder-ser (veto negativo ancorado no real).",
+      "Uma orientação prática só é inteligível se (i) houver alternativas reais (campo), (ii) houver assimetria avaliativa mínima (dano), e (iii) houver possibilidade de comparar trajetos no tempo (consequências)."
+    ],
+    "deducoes_necessarias": [
+      "Segue-se que, dado um conjunto de alternativas reais de atualização, a seleção de um trajeto não é um mero facto: ela é uma orientação no campo, distinguível por consequências no tempo.",
+      "Como o dano real fornece um critério negativo mínimo, a orientação não é arbitrária: ela é constrangida pelo real (submissão ao real) e pela manutenção de condições (evitar degradação).",
+      "Logo, existe D_DIRECAO_ONTOLOGICA: a estrutura pela qual a atualização pode (e deve, enquanto orientação) ser conduzida no campo, sob critérios ancorados no real, especialmente o veto do dano."
+    ],
+    "conclusao": "Há D_DIRECAO_ONTOLOGICA: orientação situada da atualização no campo de potencialidades, sob comparação temporal de consequências e sob submissão ao real (com o dano real como assimetria mínima)."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe campo de potencialidades e existe dano real, mas não existe direção ontológica (não há orientação possível/necessária da atualização; há apenas sucessão de estados).",
+    "consequencias": [
+      "O campo de potencialidades torna-se ontologicamente mudo: haver alternativas reais não teria qualquer papel na estrutura da escolha; a seleção seria indiferente.",
+      "O dano real perde função normativa mínima: se não há orientação, então o veto negativo não opera como constrangimento; dano seria apenas um ‘resultado’ sem implicação estrutural.",
+      "A liberdade situada colapsa em arbitrariedade descritiva: haveria escolha sem direção (ou seja, sem critério e sem comparação de consequências), o que dissolve o sentido de orientação prática."
+    ],
+    "resultado": "Contradição: se há alternativas reais e há assimetria mínima (dano real), então a ausência de direção elimina a inteligibilidade da própria seleção situada e torna inúteis o critério e a submissão ao real. Logo, direção ontológica é necessária."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO",
+      "ARG_CAMPO_DE_POTENCIALIDADES_COMO_ESTRUTURA_DE_ESCOLHAS",
+      "ARG_DANO_REAL_COMO_CRITERIO_NEGATIVO_DA_POTENCIA",
+      "ARG_LIBERDADE_SITUADA_COMO_ORIENTACAO_NO_PODER_SER"
+    ],
+    "prepara_argumentos": [
+      "ARG_DIRECAO_COMO_FIXACAO_DE_VETORES_DE_ACAO",
+      "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+    ],
+    "back_links": [
+      "CAP_24_DIRECAO"
+    ],
+    "forward_links": []
+  },
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+  "observacoes": "Este argumento faz a ponte entre (i) alternativas reais (campo de potencialidades) e (ii) normatividade mínima (dano real), instalando ‘direção’ como orientação temporalmente informada e constrangida pelo real (condição para bem/mal e para crítica sistémica).",
+  "_ficheiro_origem": "51_ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO.json"
+}

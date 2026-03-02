@@ -1,0 +1,99 @@
+{
+  "id": "ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL",
+  "capitulo": "CAP_27_SISTEMA",
+  "parte": "PARTE_VII",
+  "nivel": 6,
+  "conceito_alvo": "D_SISTEMA",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_CORRETIVO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ],
+    "percursos": [
+      "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+  "D_SISTEMA",
+  "D_REAL",
+  "D_VALIDADE",
+  "D_CRITERIO",
+  "D_AUTORREFERENCIALIDADE",
+  "D_ERRO_ONTOLOGICO",
+  "D_ERRO_CATEGORIAL",
+  "D_CORRECAO"
+],
+  "outputs_instalados": [
+    "D_SISTEMA"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+    "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+    "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+    "OP_FIXACAO_CRITERIO",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_RECONDUCAO_RELACIONAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Um sistema é uma rede de mediações estabilizadas que opera por critérios internos e produz validade (estabilidade de aplicação).",
+      "A validade interna pode manter-se mesmo quando a adequação ao real falha: isto acontece sempre que o sistema consegue reproduzir as suas próprias condições de aplicação (autonomia funcional).",
+      "D_AUTORREFERENCIALIDADE é risco estrutural: a rede tende a usar os seus próprios outputs como inputs de validação (ciclo), reduzindo a dependência de negação externa.",
+      "O eixo epistemológico fixou que verdade exige submissão ao real: sem OP_SUBMISSAO_REAL, o sistema pode estabilizar erro sem o reconhecer.",
+      "O eixo do erro fixou que há erros que se estabilizam precisamente por substituição: erro ontológico (hipóstase: tomar representação por real) e erro categorial (trocar regime e tratar o que é operacional como ontológico, ou vice-versa)."
+    ],
+    "deducoes_necessarias": [
+      "Se um sistema opera por critérios internos e procura maximizar validade/consistência internas, então há uma tendência estrutural para substituir ‘o real’ por ‘o que o sistema reconhece como válido’.",
+      "Essa substituição toma a forma de: (i) tomar métricas/modelos/procedimentos como realidade (hipóstase) e (ii) interpretar negações do real como ‘anomalias’ a corrigir no mundo, não no modelo (fechamento).",
+      "Logo, existe uma tendência estrutural de D_SISTEMA para OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA: o sistema tende a operar como se o seu quadro fosse o real, exigindo intervenção corretiva (reinscrição)."
+    ],
+    "conclusao": "Sistemas tendem a substituir o real: ao privilegiar validade e coerência internas, podem hipostasiar representações e tratar o ‘válido no sistema’ como ‘real’, estabilizando erro e exigindo correção por submissão ao real."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Um sistema pode ser plenamente autónomo e auto-validante sem qualquer tendência a substituir o real; a validade interna basta para garantir adequação.",
+    "consequencias": [
+      "A exigência de submissão ao real (condição da verdade) seria redundante: coerência/validade internas bastariam para verdade.",
+      "Erros ontológicos e categoriais deixariam de ter fundamento: não haveria hipóstase nem substituição de regime como modos estruturais de erro.",
+      "A correção perderia sentido: se a validade interna garante adequação, o real não pode negar, e a reinscrição torna-se desnecessária."
+    ],
+    "resultado": "Contradição com os argumentos prévios sobre verdade, erro e correção: a possibilidade de erro estabilizado mostra que validade interna não garante adequação; logo, há tendência estrutural do sistema a substituir o real."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_SISTEMA_COMO_CRISTALIZACAO_SISTEMICA_DE_MEDIACOES",
+      "ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO",
+      "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+      "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE",
+      "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+      "ARG_VERDADE_EXIGE_SUBMISSAO_REAL",
+      "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+      "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO",
+      "ARG_INSTITUICAO_COMO_FIXACAO_DE_CRITERIOS_COLETIVOS"
+    ],
+    "back_links": [
+      "CAP_27_SISTEMA"
+    ],
+    "forward_links": []
+  },
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+  "observacoes": "Este argumento instala a tese crítica central: sistemas privilegiam validade interna e por isso tendem a hipostasiar o seu quadro como realidade. A função narrativa é preparar cultura/instituição/direito/tecnologia como formas específicas dessa cristalização e dos seus riscos.",
+  "_ficheiro_origem": "59_ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL.json"
+}

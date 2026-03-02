@@ -1,0 +1,97 @@
+{
+  "id": "ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO",
+
+  "capitulo": "CAP_06_ATUALIZACAO_CONTINUIDADE",
+  "parte": "PARTE_II",
+  "nivel": 1,
+
+  "conceito_alvo": "D_ATUALIZACAO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR", "P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_SER",
+    "D_PODER_SER",
+    "D_POTENCIALIDADE",
+    "D_CONTINUIDADE",
+    "D_RELACAO",
+    "D_LIMITE"
+  ],
+
+  "outputs_instalados": [
+    "D_ATUALIZACAO"
+  ],
+
+  "operacoes_chave": [
+    "OP_DESCRICAO_ATUALIZACAO",
+    "OP_IDENTIFICACAO_CONTINUIDADE",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_POTENCIALIDADE é o campo articulado de atualizações admissíveis para uma determinação sob limite: este campo é real e não estático — tem uma dimensão prospetiva.",
+      "D_CONTINUIDADE é a permanência relacional do campo real: não implica imobilidade, mas sustenta a passagem de um estado a outro sem rutura absoluta.",
+      "No campo contínuo, a efetivação de uma das atualizações admissíveis — a passagem de uma determinação a um estado compatível com a sua estrutura — não é salto mágico nem criação ex nihilo: é transição suportada pelo contínuo.",
+      "Essa passagem real, suportada pelo contínuo, de uma potencialidade à sua efetivação é precisamente a atualização: D_ATUALIZACAO é a efetivação relacional de uma potencialidade no campo real contínuo."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ATUALIZACAO é estruturalmente necessária sempre que há D_POTENCIALIDADE num campo contínuo: o campo de admissibilidades exige que algumas atualizações se efetivem — de outro modo, o poder-ser seria dimensão vazia.",
+      "Logo, D_ATUALIZACAO é sempre transição no contínuo: não há atualização sem suporte relacional contínuo que a torne inteligível como passagem e não como aparecimento do nada."
+    ],
+    "conclusao": "D_ATUALIZACAO é a efetivação relacional de uma potencialidade no campo real contínuo: transição estruturalmente suportada, não salto mágico nem criação ex nihilo."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_POTENCIALIDADE e D_CONTINUIDADE, mas as atualizações ocorrem como saltos sem suporte relacional (criação ex nihilo ou desaparecimento absoluto).",
+    "consequencias": [
+      "Um salto sem suporte relacional é uma transição que rompe D_CONTINUIDADE: implica uma descontinuidade absoluta no campo.",
+      "Uma descontinuidade absoluta implica que o estado anterior e o estado posterior não têm relação estrutural: sem relação, D_DETERMINACAO não se preserva nem se transforma — colapsa.",
+      "Se D_DETERMINACAO colapsa na transição, D_POTENCIALIDADE perde o seu suporte: não há campo de admissibilidades sem determinação que o sustente.",
+      "A hipótese dissolve as condições que a atualização como salto pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_ATUALIZACAO sem suporte contínuo elimina D_CONTINUIDADE e, com ela, as condições de possibilidade da própria atualização."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_ATUALIZACAO não é evento isolado: é transição relacional suportada pelo campo contínuo.",
+    "D_ATUALIZACAO não é criação ex nihilo: é efetivação de uma potencialidade que já era admissível na estrutura.",
+    "D_ATUALIZACAO não é idêntica a D_MOVIMENTO: o movimento é manifestação relacional da continuidade; a atualização é a efetivação da potencialidade — o movimento pressupõe atualizações, mas não se reduz a elas.",
+    "D_ATUALIZACAO não é acto subjetivo: é processo ontológico real, independente de qualquer agente."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+      "ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA",
+      "ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS"
+    ],
+    "prepara_argumentos": [
+      "ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO"
+    ],
+    "back_links": ["CAP_05_PODER_SER"],
+    "forward_links": ["CAP_06_ATUALIZACAO_CONTINUIDADE"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Este argumento bloqueia simultaneamente dois desvios simétricos: o determinismo absoluto (toda atualização é necessária) e o indeterminismo radical (toda atualização é salto arbitrário).",
+    "A atualização como transição no contínuo é a condição de inteligibilidade do movimento, do tempo e da regularidade — conceitos a instalar nos argumentos seguintes.",
+    "A dimensão 'relacional' é essencial: a atualização não é de um sujeito, é do campo relacional — o ser atualiza-se no campo, não por si mesmo isolado."
+  ]
+}

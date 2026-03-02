@@ -12,7 +12,7 @@
     ]
   },
 
-  "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA": {
+  "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA": {
     "tipo_instancia": "axial_transicional",
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
@@ -25,7 +25,7 @@
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
       "P_ESTRUTURA_OPERACIONAL_DO_REAL",
-      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA"
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
     ]
   },
 
@@ -34,7 +34,7 @@
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
       "P_ESTRUTURA_OPERACIONAL_DO_REAL",
-      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
       "P_EIXO_CAMPO_E_LOCALIZACAO"
     ]
   },
@@ -44,7 +44,7 @@
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
       "P_ESTRUTURA_OPERACIONAL_DO_REAL",
-      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
       "P_EIXO_CAMPO_E_LOCALIZACAO",
       "P_EIXO_SIMBOLICO_MEDIACIONAL"
     ]
@@ -65,8 +65,9 @@
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
       "P_ESTRUTURA_OPERACIONAL_DO_REAL",
-      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
-      "P_EIXO_CAMPO_E_LOCALIZACAO"
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL"
     ]
   },
 
@@ -107,8 +108,10 @@
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
       "P_ESTRUTURA_OPERACIONAL_DO_REAL",
-      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
       "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "P_EIXO_EPISTEMOLOGICO",
       "P_EIXO_ETICO_NARRATIVO"
     ]
   },
@@ -118,7 +121,7 @@
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
       "P_ESTRUTURA_OPERACIONAL_DO_REAL",
-      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
       "P_EIXO_CAMPO_E_LOCALIZACAO",
       "P_EIXO_SIMBOLICO_MEDIACIONAL",
       "P_EIXO_EPISTEMOLOGICO",
@@ -131,12 +134,26 @@
     "pressupoe_percursos": [
       "P_EIXO_ONTOLOGICO_NUCLEAR",
       "P_ESTRUTURA_OPERACIONAL_DO_REAL",
-      "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA",
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
       "P_EIXO_CAMPO_E_LOCALIZACAO",
       "P_EIXO_SIMBOLICO_MEDIACIONAL",
       "P_EIXO_EPISTEMOLOGICO",
       "P_EIXO_ETICO_NARRATIVO"
     ]
+  },
+
+  "P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA": {
+    "tipo_instancia": "percursivo_integral",
+    "pressupoe_percursos": [
+      "P_EIXO_ONTOLOGICO_NUCLEAR",
+      "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+      "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+      "P_EIXO_CAMPO_E_LOCALIZACAO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_EIXO_ETICO_NARRATIVO"
+    ],
+    "observacao": "Percurso transversal integral que encadeia os eixos ontológico, mediacional, epistemológico e ético até à vida boa, sem impor normatividade autónoma. (Entrada adicionada para completar o catálogo, dado existir no repositório.)"
   },
 
   "P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL": {

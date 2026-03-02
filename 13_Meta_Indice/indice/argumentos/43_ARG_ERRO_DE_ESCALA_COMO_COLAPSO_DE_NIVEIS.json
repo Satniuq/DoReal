@@ -1,0 +1,81 @@
+{
+  "id": "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS",
+  "capitulo": "CAP_20_ERRO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_ERRO_DE_ESCALA",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_CORRETIVO"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO",
+      "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_ESCALA_ONTOLOGICA",
+    "D_VALIDADE",
+    "D_CRITERIO",
+    "D_LIMITE"
+  ],
+  "outputs_instalados": [
+    "D_ERRO_DE_ESCALA"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_ERRO_ESCALA",
+    "OP_IDENTIFICACAO_ESCALA",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Critérios e descrições são definidos para uma escala/campo determinados.",
+      "Aplicar um critério fora da sua escala destrói a estabilidade de aplicação (D_VALIDADE) e produz falsos positivos/negativos.",
+      "Este desajuste manifesta-se como colapso de níveis: projectar validade local como global, ou impor grelha global ao local, contrariando limites estruturais."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ERRO_DE_ESCALA é desadequação por aplicação fora de escala: o erro nasce do desajuste entre a extensão do critério e a estrutura do fenómeno.",
+      "Logo, a detecção exige explicitar escala e submeter a aplicação ao real (resistência, falha, efeitos inesperados)."
+    ],
+    "conclusao": "D_ERRO_DE_ESCALA é erro por colapso de níveis: aplicação de grelha/critério fora da escala ontológica adequada, gerando instabilidade e desadequação operativa."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Escala é irrelevante: um critério válido num caso é válido em qualquer caso.",
+    "consequencias": [
+      "Se o critério é válido em qualquer caso, deixa de haver fronteiras e o critério torna-se ilimitado, recaindo no problema de fechamento/auto-validação.",
+      "Além disso, a aplicação universal produz falhas e resistências que o critério não consegue explicar sem remendos ad hoc.",
+      "Assim, a hipótese confunde extensão do critério com estrutura do real, colapsando níveis."
+    ],
+    "resultado": "Contradição estrutural: negar escala transforma critérios em totalizações e destrói validade como estabilidade de aplicação."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO",
+      "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS",
+      "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO"
+    ],
+    "prepara_argumentos": [
+      "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA"
+    ],
+    "back_links": [
+      "CAP_20_ERRO"
+    ],
+    "forward_links": [
+      "CAP_21_CORRECAO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_ERRO_ONTOLOGICO_COMO_DESADEQUACAO_ESTRUTURAL: isola a forma de erro por aplicação fora de escala (colapso de níveis).",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

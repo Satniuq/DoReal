@@ -1,0 +1,80 @@
+{
+  "id": "ARG_VERDADE_EXIGE_SUBMISSAO_REAL",
+  "capitulo": "CAP_19_VERDADE",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_VERDADE",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_CRITICA_REFLEXIVIDADE"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_VERDADE",
+    "D_CRITERIO",
+    "D_LIMITE",
+    "D_AUTORREFERENCIALIDADE",
+    "D_REPRESENTACAO"
+  ],
+  "outputs_instalados": [
+    "D_VERDADE"
+  ],
+  "operacoes_chave": [
+    "OP_SUBMISSAO_REAL",
+    "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_FIXACAO_CRITERIO"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Critérios e testes podem ser reconfigurados para validar internamente qualquer sistema se não houver constrangimento externo efectivo (fechamento).",
+      "O único constrangimento último não produzido pelo sistema é D_REAL (limite, resistência, consequência).",
+      "Se a verdade for definida apenas por coerência interna/consenso/autoridade, torna-se independente do real."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_VERDADE exige OP_SUBMISSAO_REAL: o real deve poder negar e obrigar à revisão.",
+      "Logo, a submissão ao real é condição anti-fechamento: impede que critérios se tornem auto-validantes."
+    ],
+    "conclusao": "D_VERDADE exige submissão ao real: sem o real como critério último capaz de negar e constranger, 'verdade' degenera em fechamento (coerência interna/consenso/autoridade)."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "A submissão ao real não é necessária para verdade; basta uma prática discursiva estável.",
+    "consequencias": [
+      "Uma prática discursiva estável pode estabilizar erros e hipóstases: estabilidade não garante adequação.",
+      "Sem real como instância de negação, a prática não tem como distinguir correção de optimização interna.",
+      "Logo, elimina-se a possibilidade de refutação e instala-se autorreferencialidade."
+    ],
+    "resultado": "Contradição corretiva: verdade sem submissão ao real elimina as condições de erro e correção, dissolvendo a própria diferença entre verdadeiro e falso."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO",
+      "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO"
+    ],
+    "prepara_argumentos": [
+      "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE",
+      "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO"
+    ],
+    "back_links": [
+      "CAP_19_VERDADE"
+    ],
+    "forward_links": [
+      "CAP_20_ERRO",
+      "CAP_21_CORRECAO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_VERDADE_COMO_MELHOR_DESCRICAO_DO_REAL: explicita a condição anti-fechamento (submissão ao real) como necessária à verdade.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

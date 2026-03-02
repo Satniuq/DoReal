@@ -1,0 +1,98 @@
+{
+  "id": "ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO",
+
+  "capitulo": "CAP_10_ESTABILIDADE_TEMPO",
+  "parte": "PARTE_III",
+  "nivel": 2,
+
+  "conceito_alvo": "D_ESTABILIDADE",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DESCRICAO_ESTRUTURAL", "REGIME_DIFERENCIACAO_ONTOLOGICA"],
+    "percursos": ["P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_REGULARIDADE",
+    "D_LIMITE",
+    "D_CONTINUIDADE",
+    "D_ATUALIZACAO",
+    "D_ESTRUTURA",
+    "D_CAMPO"
+  ],
+
+  "outputs_instalados": [
+    "D_ESTABILIDADE"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_REGULARIDADE",
+    "OP_IDENTIFICACAO_CONTINUIDADE",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_REGULARIDADE é a recorrência estrutural de atualizações sob os mesmos limites: onde os limites se mantêm, as mesmas atualizações tendem a recorrer.",
+      "D_CONTINUIDADE sustenta esta recorrência ao longo do tempo: a permanência relacional do campo é a condição de que a regularidade não seja efémera.",
+      "A manutenção de D_REGULARIDADE ao longo de D_CONTINUIDADE — o facto de os mesmos limites produzirem as mesmas recorrências de modo persistente ao longo do campo temporal — é precisamente D_ESTABILIDADE: não imobilidade, mas repetição compatível que se sustenta.",
+      "D_ESTABILIDADE é sempre relativa a um campo com escala: o que é estável numa escala pode ser instável noutra — a estabilidade é sempre estabilidade-neste-campo-sob-estes-limites."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ESTABILIDADE é estruturalmente necessária sempre que D_REGULARIDADE se mantém ao longo de D_CONTINUIDADE: a estabilidade emerge da regularidade sustentada pelo contínuo.",
+      "Logo, D_ESTABILIDADE não é imobilidade: é repetição compatível — o mesmo padrão de atualizações que recorre enquanto os limites se conservam, dentro do campo, sem exigir que nada mude."
+    ],
+    "conclusao": "D_ESTABILIDADE é a manutenção de regularidade sob limites estruturais ao longo da continuidade temporal: repetição compatível no campo, não imobilidade. A estabilidade é sempre relativa à escala e aos limites do campo em que ocorre."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_REGULARIDADE sustentada por D_CONTINUIDADE, mas não há qualquer D_ESTABILIDADE (as regularidades não persistem ao longo do contínuo).",
+    "consequencias": [
+      "Se as regularidades não persistem, os mesmos limites não produzem as mesmas atualizações em momentos distintos: o limite perde função constrangedora ao longo do tempo.",
+      "Um limite que não constrange de modo persistente não é um limite estrutural: é efémero e sem efeito ontológico estável.",
+      "Sem limites estruturais persistentes, D_DETERMINACAO não se mantém ao longo do tempo: cada determinação colapsaria continuamente.",
+      "A hipótese elimina a persistência de D_LIMITE e D_DETERMINACAO que D_REGULARIDADE pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_REGULARIDADE sustentada por D_CONTINUIDADE implica necessariamente D_ESTABILIDADE como manutenção persistente das regularidades sob os mesmos limites."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_ESTABILIDADE não é imobilidade: é repetição compatível — admite mudança dentro do padrão estável.",
+    "D_ESTABILIDADE não é eternidade: os limites podem mudar, e com eles a regularidade e a estabilidade — a estabilidade é sempre condicional.",
+    "D_ESTABILIDADE não é identidade absoluta: o que recorre não é idêntico mas compatível — há variação dentro da recorrência.",
+    "Não confundir D_ESTABILIDADE com equilíbrio estático: a estabilidade dinâmica implica atualizações que recorrem, não ausência de atualizações."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL",
+      "ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO",
+      "ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL",
+      "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+    ],
+    "prepara_argumentos": [
+      "ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE"
+    ],
+    "back_links": ["CAP_09_ESCALA"],
+    "forward_links": ["CAP_10_ESTABILIDADE_MOVIMENTO_TEMPO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "D_ESTABILIDADE já tinha sido instalada parcialmente no ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL como aspeto temporal da regularidade: aqui é argumentada de forma autónoma e mais desenvolvida no contexto da PARTE III (campo, escala).",
+    "A estabilidade como repetição compatível no campo é pressuposto de D_PONTO_DE_VISTA (PARTE IV): um ser localizado só pode ter ponto de vista sobre um campo que seja suficientemente estável para ser apreendido.",
+    "Bloqueia 'estabilidade como imobilidade' e 'estabilidade como eterno': a estabilidade é dinâmica e condicional."
+  ]
+}

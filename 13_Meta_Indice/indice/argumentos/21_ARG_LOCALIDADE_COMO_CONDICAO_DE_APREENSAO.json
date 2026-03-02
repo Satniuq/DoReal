@@ -1,0 +1,101 @@
+{
+  "id": "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO",
+
+  "capitulo": "CAP_11_LOCALIDADE",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_LOCALIDADE",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_CRITICA_REFLEXIVIDADE", "REGIME_DIFERENCIACAO_ONTOLOGICA", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA", "P_EIXO_CAMPO_E_LOCALIZACAO"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CAMPO",
+    "D_RELACAO",
+    "D_DETERMINACAO",
+    "D_ATUALIZACAO",
+    "D_ESCALA_ONTOLOGICA"
+  ],
+
+  "outputs_instalados": [
+    "D_LOCALIDADE"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_CAMPO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_DIFERENCIACAO_NIVEIS",
+    "OP_EXCLUSAO_EXTERIORIDADE"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_REAL é o campo relacional contínuo sem exterioridade: toda determinação ocorre no campo e não pode existir fora dele.",
+      "D_SER é determinação localizada do real portadora de poder-ser: ser algo determinado implica ser em algum ponto — numa configuração relacional particular, num campo com escala própria, num momento da ordenação temporal.",
+      "Esta inscrição determinada e situada no campo relacional — o facto de toda determinação ser em algum ponto do real e não em qualquer ponto indiferenciadamente — é precisamente D_LOCALIDADE: condição ontológica pela qual um ser se encontra determinado e atualizado de forma situada no campo do real.",
+      "D_LOCALIDADE implica acesso parcial ao real: um ser localizado apreende o real a partir do seu ponto de inscrição — não tem acesso à totalidade, pois a totalidade não é apreensível de nenhum ponto situado.",
+      "D_LOCALIDADE implica impossibilidade estrutural de exterioridade: o ser localizado não pode sair do campo para o observar de fora — está sempre dentro, sempre inscrito."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_LOCALIDADE é estruturalmente inevitável para toda determinação no campo real: não há ser sem localização, assim como não há determinação sem inscrição.",
+      "Logo, sem D_LOCALIDADE não há apreensão efetiva do real: a apreensão é sempre apreensão a partir de um ponto situado — sem localidade, não há contacto real com o campo."
+    ],
+    "conclusao": "D_LOCALIDADE é a condição ontológica pela qual toda determinação é situada no campo relacional do real, implicando acesso parcial, impossibilidade de exterioridade e ponto de vista limitado. Sem localidade não há apreensão — e sem apreensão não há relação efetiva com o real."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_SER determinado no campo real sem D_LOCALIDADE (ser sem localização, acesso total ao real de um ponto exterior ou neutro).",
+    "consequencias": [
+      "Um ser sem localização não está inscrito em nenhum ponto do campo: não tem relações determinadas com configurações particulares do real.",
+      "Sem relações determinadas, não há D_DETERMINACAO efetiva: o ser seria indeterminado.",
+      "Um ser indeterminado no campo real não é ser no sentido instalado — é abstração sem conteúdo ontológico operativo.",
+      "Além disso, um ser exterior ao campo violaria D_REAL como campo sem exterioridade admissível.",
+      "A hipótese dissolve D_SER e D_REAL que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_SER determinado no campo real implica necessariamente D_LOCALIDADE — não há ser sem inscrição situada."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_LOCALIDADE não é limitação subjetiva: é condição ontológica real de toda determinação no campo — não depende de um sujeito que a experiencie.",
+    "D_LOCALIDADE não implica isolamento: o ser localizado tem relações — mas relações a partir do seu ponto, não de todos os pontos simultaneamente.",
+    "D_LOCALIDADE não é relativismo: que o acesso seja parcial não significa que seja arbitrário — o real constrange a apreensão a partir de qualquer ponto situado.",
+    "D_LOCALIDADE não é apenas espacial: é ontológica — inclui localização temporal, escalar, relacional."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL",
+      "ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL",
+      "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS",
+      "ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE"
+    ],
+    "prepara_argumentos": [
+      "ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE",
+      "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL"
+    ],
+    "back_links": ["CAP_10_ESTABILIDADE_MOVIMENTO_TEMPO"],
+    "forward_links": ["CAP_11_LOCALIDADE", "CAP_12_SER_HUMANO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Abre a PARTE IV: a localidade é a charneira entre a ontologia geral (PARTES I-III) e a ontologia do ser localizado — em particular o ser humano (PARTE IV).",
+    "D_LOCALIDADE aplica-se a toda determinação, não apenas ao ser humano: mas a PARTE IV desenvolve as suas implicações específicas para o ser reflexivo.",
+    "Bloqueia a pretensão de ponto de vista neutro ou total — que será desenvolvida como erro no ARG seguinte e na PARTE V."
+  ]
+}

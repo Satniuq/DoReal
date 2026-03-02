@@ -1,0 +1,92 @@
+{
+  "id": "ARG_DANO_REAL_COMO_CRITERIO_NEGATIVO_DA_POTENCIA",
+  "capitulo": "CAP_22_CAMPO_POTENCIALIDADES",
+  "parte": "PARTE_VI",
+  "nivel": 5,
+  "conceito_alvo": "D_DANO_REAL",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_ETICO_ONTOLOGICO",
+      "REGIME_INSCRICAO_REAL",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_CORRETIVO"
+    ],
+    "percursos": [
+      "P_EIXO_ETICO_NARRATIVO",
+      "P_PERCURSO_DA_VIDA_BOA",
+      "P_PERCURSO_DA_DEGENERACAO_ETICA",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_CAMPO_DE_POTENCIALIDADES",
+    "D_POTENCIALIDADE",
+    "D_PODER_SER",
+    "D_ATUALIZACAO",
+    "D_LIMITE",
+    "D_ADEQUACAO",
+    "D_CORRECAO",
+    "D_REAL"
+  ],
+  "outputs_instalados": [
+    "D_DANO_REAL"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_DANO_REAL",
+    "OP_FIXACAO_CRITERIO",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_RECONDUCAO_RELACIONAL",
+    "OP_DIFERENCIACAO_NIVEIS"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Se existe D_CAMPO_DE_POTENCIALIDADES, então há trajetos alternativos de D_ATUALIZACAO, com consequências diferentes no tempo.",
+      "Nem toda a atualização preserva o campo: algumas atualizações degradam relações, condições e capacidades, reduzindo efetivamente o D_PODER_SER (estreitamento do campo).",
+      "Uma degradação relevante é distinguível no real: tem inscrição objetiva (não apenas desconforto interno), e manifesta-se como perda de condições de continuidade, de agência, de estabilidade ou de possibilidade de correção.",
+      "Para orientar a ação sem fechar em autorreferencialidade, é necessário um critério mínimo ancorado no real (submissão ao real), capaz de operar como veto."
+    ],
+    "deducoes_necessarias": [
+      "Existe um tipo de diferença prática mínima entre trajetos: (i) trajetos que preservam/abrem potencialidades e (ii) trajetos que as fecham por degradação de condições.",
+      "A classe (ii) exige um conceito operativo: D_DANO_REAL = degradação com inscrição no real que reduz potencialidades e condições de atualização, afetando a continuidade e/ou a agência localizada.",
+      "Como critério mínimo, D_DANO_REAL funciona negativamente: não determina por si só o bem, mas identifica o que não pode ser legitimado sem colapso da orientação (veto estrutural)."
+    ],
+    "conclusao": "D_DANO_REAL é um critério negativo mínimo, ancorado na inscrição no real, que identifica atualizações degradantes por estreitamento do campo de potencialidades e redução das condições do poder-ser."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Não existe D_DANO_REAL como critério negativo mínimo ancorado no real; toda a avaliação é puramente interna (preferência, coerência simbólica ou norma auto-validada).",
+    "consequencias": [
+      "A distinção entre trajetos que preservam e trajetos que degradam perde força normativa: qualquer trajetória pode ser racionalizada por coerência interna.",
+      "A própria ideia de orientação prática colapsa: sem veto mínimo, a direção torna-se arbitrária e indistinguível de mera auto-justificação.",
+      "A correção perde fundamento: se o real não pode negar pela via do dano, a reinscrição e o ajuste deixam de ter instância de referência."
+    ],
+    "resultado": "Contradição com o eixo corretivo e com a necessidade de submissão ao real: negar D_DANO_REAL elimina a base mínima para diferenciar trajetos por consequências reais e dissolve o sentido de orientação e correção."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_CAMPO_DE_POTENCIALIDADES_COMO_ESTRUTURA_DE_ESCOLHAS",
+      "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL",
+      "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA"
+    ],
+    "prepara_argumentos": [
+      "ARG_RESPONSABILIDADE_ONTOLOGICA_COMO_RESPOSTA_A_DANO_REAL",
+      "ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO"
+    ],
+    "back_links": [
+      "CAP_22_CAMPO_POTENCIALIDADES"
+    ],
+    "forward_links": []
+  },
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+  "observacoes": "Este argumento instala o ‘veto mínimo’ do eixo ético: sem D_DANO_REAL, a orientação colapsa em autorreferência; com D_DANO_REAL, a normatividade ganha ancoragem negativa no real (inscrição e perda de condições).",
+  "_ficheiro_origem": "48_ARG_DANO_REAL_COMO_CRITERIO_NEGATIVO_DA_POTENCIA.json"
+}

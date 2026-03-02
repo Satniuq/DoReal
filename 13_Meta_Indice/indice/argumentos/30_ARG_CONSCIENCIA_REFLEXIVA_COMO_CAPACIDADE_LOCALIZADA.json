@@ -1,0 +1,99 @@
+{
+  "id": "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+
+  "capitulo": "CAP_15_CONSCIENCIA",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_CONSCIENCIA_REFLEXIVA",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_CRITICA_REFLEXIVIDADE", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA", "P_EIXO_SIMBOLICO_MEDIACIONAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_SER_HUMANO",
+    "D_APREENSAO",
+    "D_REPRESENTACAO",
+    "D_MEDIACAO",
+    "D_LOCALIDADE"
+  ],
+
+  "outputs_instalados": [
+    "D_CONSCIENCIA_REFLEXIVA"
+  ],
+
+  "operacoes_chave": [
+    "OP_REINSCRICAO_CONSCIENCIA_REAL",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_LIMITACAO_REFLEXIVIDADE",
+    "OP_DESSUBSTANCIALIZACAO"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_MEDIACAO permite ao ser humano transformar apreensões em representações operáveis: este processo cria as condições para que o ser humano opere sobre as suas próprias representações — tome as suas representações como objeto de nova operação representacional.",
+      "Quando o ser humano apreende a sua própria apreensão enquanto apreensão — quando a representação se dobra sobre si mesma para se tornar objeto de nova representação — emerge uma capacidade específica: a reflexividade representacional.",
+      "Esta capacidade — relacional, localizada e limitada, de um ser apreender a sua própria apreensão enquanto apreensão, operando sobre representações no interior do real, sem se constituir como instância autónoma ou exterior a esse processo — é precisamente D_CONSCIENCIA_REFLEXIVA.",
+      "D_CONSCIENCIA_REFLEXIVA é localizada: opera a partir do ponto de inscrição do ser humano no campo — não tem acesso total ao real nem a si mesma como totalidade.",
+      "D_CONSCIENCIA_REFLEXIVA é limitada: está constrangida pelos limites da apreensão que a sustenta, pelos limites dos recursos simbólicos disponíveis e pelos limites da localidade do ser."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CONSCIENCIA_REFLEXIVA é estruturalmente possível — e no ser humano, estruturalmente efetiva — sempre que há D_MEDIACAO suficientemente desenvolvida: a reflexividade emerge do processo mediacional, não o precede.",
+      "Logo, D_CONSCIENCIA_REFLEXIVA não é instância autónoma: é capacidade relacional localizada — emerge do real, opera no real, está constrangida pelo real."
+    ],
+    "conclusao": "D_CONSCIENCIA_REFLEXIVA é a capacidade relacional, localizada e limitada, de um ser apreender a sua própria apreensão enquanto apreensão, operando sobre representações no interior do real, sem se constituir como instância autónoma ou exterior. Capacidade emergente da mediação — não fundamento do real."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "D_CONSCIENCIA_REFLEXIVA é instância autónoma e exterior ao real — constitui o real, precede a apreensão, funda as representações.",
+    "consequencias": [
+      "Uma consciência exterior ao real violaria D_REAL como campo sem exterioridade admissível.",
+      "Uma consciência que constitui o real inverteria a ordem de dependência ontológica: D_REAL dependeria de D_CONSCIENCIA_REFLEXIVA, mas o ficheiro de conceitos indica o contrário — D_CONSCIENCIA_REFLEXIVA depende de D_APREENSAO, D_REPRESENTACAO e D_LOCALIDADE.",
+      "Uma consciência que precede a apreensão não teria material para operar: sem apreensão prévia, não há representações sobre as quais ser reflexivo.",
+      "A hipótese viola D_REAL e inverte todas as dependências ontológicas estabelecidas."
+    ],
+    "resultado": "Contradição estrutural: D_CONSCIENCIA_REFLEXIVA como instância autónoma viola D_REAL e a ordem de dependência ontológica — a consciência é emergente, não fundante."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_CONSCIENCIA_REFLEXIVA não é instância transcendental: é capacidade emergente da mediação no ser humano localizado.",
+    "D_CONSCIENCIA_REFLEXIVA não é transparente a si mesma: a reflexividade é limitada — a consciência não acede à totalidade das suas próprias operações.",
+    "D_CONSCIENCIA_REFLEXIVA não garante adequação: pode operar sobre representações desadequadas — a reflexividade não é critério de verdade.",
+    "D_CONSCIENCIA_REFLEXIVA gera D_AUTORREFERENCIALIDADE (segundo o ficheiro de conceitos): o risco de a reflexividade se fechar sobre si mesma é interno à própria capacidade reflexiva."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_MEDIACAO_COMO_TRANSFORMACAO_DA_APREENSAO_EM_REPRESENTACAO_OPERAVEL",
+      "ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO",
+      "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+    ],
+    "prepara_argumentos": [
+      "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+      "ARG_RELACAO_EU_REAL_COMO_ESTRUTURA_REFLEXIVA_SITUADA"
+    ],
+    "back_links": ["CAP_14_LINGUAGEM_MEDIACAO"],
+    "forward_links": ["CAP_15_CONSCIENCIA"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Abre o CAP_15: a consciência reflexiva é o ponto de chegada da cadeia apreensão → representação → símbolo → linguagem → mediação → consciência reflexiva.",
+    "Bloqueia o idealismo transcendental (consciência como fundamento do real) e o eliminativismo (consciência como ilusão sem estatuto ontológico): a consciência é real, emergente e localizada.",
+    "O risco de autorreferencialidade decorre diretamente desta capacidade: a consciência que se dobra sobre si mesma sem retornar ao real é o fechamento que a PARTE V (epistemologia) terá de tratar."
+  ]
+}

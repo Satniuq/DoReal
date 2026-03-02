@@ -1,0 +1,98 @@
+{
+  "id": "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+
+  "capitulo": "CAP_15_CONSCIENCIA",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_AUTORREFERENCIALIDADE",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_CRITICA_REFLEXIVIDADE", "REGIME_DESCRICAO_ESTRUTURAL", "REGIME_CRITICA_SISTEMICA"],
+    "percursos": ["P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA", "P_EIXO_SIMBOLICO_MEDIACIONAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CONSCIENCIA_REFLEXIVA",
+    "D_REPRESENTACAO",
+    "D_PONTO_DE_VISTA",
+    "D_MEDIACAO"
+  ],
+
+  "outputs_instalados": [
+    "D_AUTORREFERENCIALIDADE"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_PROJECAO_EU",
+    "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_REINTEGRACAO_ONTOLOGICA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_CONSCIENCIA_REFLEXIVA opera sobre representações: pode tomar as suas próprias representações como objeto de nova representação, criando cadeias de operação sobre operações.",
+      "D_PONTO_DE_VISTA condiciona o acesso: o ser humano localizado apreende o real a partir do seu ponto de inscrição — e também apreende as suas próprias representações a partir desse mesmo ponto.",
+      "Quando a reflexividade opera reiteradamente sobre as suas próprias representações sem retornar ao contacto com o real — quando a coerência interna das representações é tomada como critério suficiente, substituindo a submissão ao real — a representação fecha-se sobre si mesma.",
+      "Este processo pelo qual a representação se fecha sobre si mesma, tomando a sua coerência interna como critério suficiente, substituindo a relação com o real por validação sistémica e limitando a reflexividade ao próprio ponto de vista, é precisamente D_AUTORREFERENCIALIDADE.",
+      "D_AUTORREFERENCIALIDADE não é inevitável: é risco estrutural interno à reflexividade — emerge quando a dependência do real é perdida, mas pode ser corrigida por submissão ao real."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_AUTORREFERENCIALIDADE é um risco estrutural de D_CONSCIENCIA_REFLEXIVA: toda reflexividade carrega internamente a possibilidade de fechar-se sobre si mesma.",
+      "Logo, D_AUTORREFERENCIALIDADE não é patologia externa: emerge da própria estrutura da reflexividade representacional — é o seu risco interno, não uma anomalia acidental."
+    ],
+    "conclusao": "D_AUTORREFERENCIALIDADE é o processo pelo qual a representação se fecha sobre si mesma, tomando a coerência interna como critério suficiente e substituindo o real por validação sistémica: risco estrutural interno à reflexividade, corrigível por submissão ao real, não patologia externa."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_CONSCIENCIA_REFLEXIVA mas não há risco de D_AUTORREFERENCIALIDADE (a reflexividade está estruturalmente garantida contra o fechamento sobre si mesma).",
+    "consequencias": [
+      "Se a reflexividade está estruturalmente garantida contra o fechamento, significa que a operação sobre representações tem necessariamente um mecanismo que impede a coerência interna de substituir o real.",
+      "Mas nenhum mecanismo interno à representação garante o contacto com o real: o contacto real é da apreensão, que precede a representação — e a representação pode operar sem retornar à apreensão.",
+      "Sem risco de fechamento, D_AUTORREFERENCIALIDADE seria impossível — mas o ficheiro de conceitos indica que D_CONSCIENCIA_REFLEXIVA gera D_AUTORREFERENCIALIDADE como risco.",
+      "A hipótese contradiz a estrutura de dependências do sistema de conceitos."
+    ],
+    "resultado": "Contradição estrutural: D_CONSCIENCIA_REFLEXIVA que opera sobre representações sem mecanismo externo de retorno ao real implica necessariamente o risco de D_AUTORREFERENCIALIDADE como fechamento interno."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_AUTORREFERENCIALIDADE não é inevitable: é risco, não destino — a submissão ao real é a operação corretiva disponível.",
+    "D_AUTORREFERENCIALIDADE não é consciência em geral: é o modo degenerado da consciência reflexiva quando perde a dependência do real.",
+    "D_AUTORREFERENCIALIDADE não é apenas individual: pode cristalizar-se em sistemas simbólicos coletivos que substituem o real — risco a desenvolver na PARTE VII.",
+    "A identificação de D_AUTORREFERENCIALIDADE não é auto-refutante: o próprio argumento que a identifica está submetido ao real — usa D_REAL como critério último, não a coerência interna do sistema."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+      "ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE",
+      "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+    ],
+    "prepara_argumentos": [
+      "ARG_RELACAO_EU_REAL_COMO_ESTRUTURA_REFLEXIVA_SITUADA",
+      "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+    ],
+    "back_links": ["CAP_15_CONSCIENCIA"],
+    "forward_links": ["CAP_15_CONSCIENCIA", "CAP_16_LIBERDADE_SITUADA"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "D_AUTORREFERENCIALIDADE é o conceito-charneira entre a PARTE IV e a epistemologia (PARTE V): o erro ontológico é frequentemente autorreferencial — a representação que substitui o real.",
+    "Segundo o índice sequencial, o CAP_15 inclui: 'Autorreferencialidade é já risco de fechamento; reintegração aparece como possibilidade corretiva mais tarde' — este argumento cumpre essa função narrativa.",
+    "A reintegração ontológica (OP_REINTEGRACAO_ONTOLOGICA) é referenciada como operação disponível mas não ainda plenamente desenvolvida: será instalada na PARTE V com o argumento da correção."
+  ]
+}

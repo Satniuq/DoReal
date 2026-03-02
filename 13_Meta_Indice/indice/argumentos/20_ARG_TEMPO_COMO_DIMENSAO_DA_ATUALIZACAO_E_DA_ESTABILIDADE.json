@@ -1,0 +1,100 @@
+{
+  "id": "ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE",
+
+  "capitulo": "CAP_10_ESTABILIDADE_TEMPO",
+  "parte": "PARTE_III",
+  "nivel": 2,
+
+  "conceito_alvo": "D_TEMPO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DESCRICAO_ESTRUTURAL", "REGIME_INSCRICAO_REAL"],
+    "percursos": ["P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_ATUALIZACAO",
+    "D_CONTINUIDADE",
+    "D_RELACAO",
+    "D_ESTABILIDADE",
+    "D_CONTINUO",
+    "D_MOVIMENTO"
+  ],
+
+  "outputs_instalados": [
+    "D_TEMPO"
+  ],
+
+  "operacoes_chave": [
+    "OP_DESCRICAO_ATUALIZACAO",
+    "OP_IDENTIFICACAO_CONTINUIDADE",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_ATUALIZACAO é efetivação relacional de uma potencialidade no campo real contínuo: toda atualização implica uma passagem — de um estado a outro, de uma potencialidade à sua efetivação.",
+      "Esta passagem não é instantânea no sentido de sem ordenação: há um antes e um depois estruturais — a potencialidade precede a atualização, e a atualização precede o estado seguinte.",
+      "D_CONTINUIDADE sustenta esta ordenação como sucessão sem rutura: as atualizações não ocorrem numa ordem arbitrária, mas numa ordenação relacional que decorre da estrutura do campo.",
+      "A forma da atualização contínua do real enquanto ordenação relacional das suas atualizações — o antes e o depois estruturais que tornam inteligível a passagem e a persistência — é precisamente D_TEMPO: não representação mental, não contentor vazio, mas dimensão ontológica da ordenação das atualizações no campo real.",
+      "D_ESTABILIDADE pressupõe D_TEMPO: o que persiste persiste ao longo do tempo — a estabilidade é manutenção de regularidade no interior desta ordenação."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_TEMPO é estruturalmente inevitável sempre que há D_ATUALIZACAO e D_CONTINUIDADE: onde há passagem ordenada de estados, há tempo como forma desta ordenação.",
+      "Logo, D_TEMPO não é representação subjetiva: é dimensão ontológica real — a ordenação das atualizações é propriedade do campo, não do observador."
+    ],
+    "conclusao": "D_TEMPO é a forma da atualização contínua do real enquanto ordenação relacional das suas atualizações: dimensão ontológica da passagem e da persistência, não contentor vazio nem representação mental."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existem D_ATUALIZACAO e D_CONTINUIDADE, mas não há D_TEMPO (as atualizações ocorrem sem qualquer ordenação relacional de antes/depois).",
+    "consequencias": [
+      "Atualizações sem ordenação de antes/depois são atualizações sem relação de sucessão: ocorrem simultaneamente ou de modo completamente arbitrário.",
+      "Mas D_CONTINUIDADE implica sucessão sem rutura — a ausência de ordenação contradiz a própria definição de contínuo como sucessão.",
+      "Sem ordenação, D_ESTABILIDADE perde sentido: não há 'ao longo do tempo' — a persistência torna-se impossível de descrever.",
+      "Sem D_TEMPO, D_MOVIMENTO colapsa: o movimento é sucessão localizada de atualizações, e a sucessão exige ordenação.",
+      "A hipótese elimina D_CONTINUIDADE e D_MOVIMENTO que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_ATUALIZACAO e D_CONTINUIDADE implicam necessariamente D_TEMPO como ordenação relacional das atualizações — sem tempo, nem continuidade nem movimento são inteligíveis."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_TEMPO não é representação mental ou subjetiva: é dimensão ontológica real da ordenação das atualizações no campo.",
+    "D_TEMPO não é contentor vazio que preexiste às atualizações: é a forma da sua ordenação — emerge com as atualizações, não as precede como receptáculo.",
+    "D_TEMPO não é absoluto: é relacional — a ordenação é sempre relativa ao campo e à sua continuidade estrutural.",
+    "D_TEMPO não é sucessão de instantes discretos: é ordenação no contínuo — sem rutura absoluta entre antes e depois."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO",
+      "ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO",
+      "ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO"
+    ],
+    "prepara_argumentos": [
+      "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO"
+    ],
+    "back_links": ["CAP_10_ESTABILIDADE_MOVIMENTO_TEMPO"],
+    "forward_links": ["CAP_11_LOCALIDADE"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha a PARTE III: tempo, estabilidade e movimento como dimensões complementares da organização dinâmica do real em campos com escala.",
+    "D_TEMPO será pressuposto de D_MEMORIA (PARTE IV): a memória é inscrição durável de atualizações — exige a dimensão temporal.",
+    "Bloqueia 'tempo como representação subjetiva' (kantismo ingénuo) e 'tempo como contentor absoluto' (newtonismo ingénuo): o tempo é relacional e emerge das atualizações do campo.",
+    "Com este argumento fecha-se a PARTE III. A PARTE IV começa com D_LOCALIDADE como condição de apreensão — o que pressupõe campo, escala, estabilidade e tempo já instalados."
+  ]
+}

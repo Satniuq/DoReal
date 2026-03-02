@@ -1,0 +1,98 @@
+{
+  "id": "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS",
+
+  "capitulo": "CAP_09_ESCALA",
+  "parte": "PARTE_III",
+  "nivel": 2,
+
+  "conceito_alvo": "D_ESCALA_ONTOLOGICA",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DIFERENCIACAO_ONTOLOGICA", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_ESTRUTURA_OPERACIONAL_DO_REAL", "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CAMPO",
+    "D_CIRCULO",
+    "D_REGULARIDADE",
+    "D_LIMITE",
+    "D_DETERMINACAO"
+  ],
+
+  "outputs_instalados": [
+    "D_ESCALA_ONTOLOGICA"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_ESCALA",
+    "OP_DIFERENCIACAO_NIVEIS",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_CAMPO e D_CIRCULO implicam que o real comporta configurações relacionais com extensões estruturais distintas: não há um único nível de organização, mas múltiplos círculos com regularidades e limites próprios.",
+      "Estas extensões estruturais distintas não são apenas quantitativas: implicam diferenças qualitativas de organização — o que constitui uma determinação, um critério adequado ou uma relação relevante difere segundo a extensão do campo em que se opera.",
+      "A diferença de extensão estrutural entre níveis de determinação — entre escalas de organização do real — é precisamente D_ESCALA_ONTOLOGICA: não grau quantitativo, mas diferença qualitativa de nível de organização.",
+      "D_ESCALA_ONTOLOGICA é condição de não-colapso de níveis: sem ela, processos de escalas distintas são tratados como equivalentes, produzindo erros de categoria e de escala — confusão de níveis ontologicamente distintos."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ESCALA_ONTOLOGICA é estruturalmente necessária sempre que há múltiplos campos com extensões distintas: a diferenciação de níveis é efeito real da organização diferenciada do campo.",
+      "Logo, reconhecer D_ESCALA_ONTOLOGICA é condição de adequação operativa: operar sem ela é operar com risco sistemático de erro de escala."
+    ],
+    "conclusao": "D_ESCALA_ONTOLOGICA é a diferença de extensão estrutural entre níveis de determinação no real: condição real de não-colapso de níveis ontologicamente distintos, não classificação subjetiva imposta ao real."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existem múltiplos campos com extensões estruturais distintas, mas não há D_ESCALA_ONTOLOGICA (todos os níveis são ontologicamente equivalentes e intercambiáveis).",
+    "consequencias": [
+      "Se todos os níveis são equivalentes, os critérios de um campo aplicam-se sem restrição a todos os outros campos.",
+      "Mas regularidades de campos com extensões distintas diferem: aplicar os critérios de uma escala fora dela produz desalinhamento operativo com o real.",
+      "Este desalinhamento é D_ERRO_DE_ESCALA: a hipótese torna o erro de escala estruturalmente invisível e inevitável.",
+      "Além disso, sem diferença de escala, D_CIRCULO perde sentido — não há fecho funcional local se todos os níveis são equivalentes.",
+      "A hipótese dissolve a diferenciação interna do real que D_CAMPO e D_CIRCULO pressupunham."
+    ],
+    "resultado": "Contradição estrutural: múltiplos campos com extensões distintas implicam necessariamente D_ESCALA_ONTOLOGICA como diferença real de nível — sem ela, o erro de escala torna-se estruturalmente inevitável e indetetável."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_ESCALA_ONTOLOGICA não é hierarquia de valor: diferença de extensão estrutural não implica que uma escala seja superior a outra — é diferença qualitativa, não axiológica.",
+    "D_ESCALA_ONTOLOGICA não é distinção subjetiva: é diferença real de organização do campo, independente de qualquer observador.",
+    "D_ESCALA_ONTOLOGICA não implica que os níveis sejam estanques: os campos interagem e influenciam-se — mas a influência atravessa a diferença de escala, não a elimina.",
+    "Não confundir com complexidade crescente: escala é diferença de extensão estrutural, não de grau de elaboração."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL",
+      "ARG_CIRCULO_COMO_FECHO_FUNCIONAL_LOCAL",
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO",
+      "ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE"
+    ],
+    "back_links": ["CAP_08_CAMPO"],
+    "forward_links": ["CAP_09_ESCALA", "CAP_10_ESTABILIDADE_MOVIMENTO_TEMPO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "D_ESCALA_ONTOLOGICA é pressuposto fundamental do erro de escala (CAP_20, PARTE V): o erro de escala é a violação da diferença de extensão estrutural — aplicação de grelha fora da sua escala.",
+    "Fecha o CAP_09: a escala como condição de não-colapso é o contributo essencial desta parte para a epistemologia posterior.",
+    "Prepara CAP_10: estabilidade e tempo são fenómenos que ocorrem dentro de escalas — a sua descrição pressupõe que a escala esteja instalada."
+  ]
+}

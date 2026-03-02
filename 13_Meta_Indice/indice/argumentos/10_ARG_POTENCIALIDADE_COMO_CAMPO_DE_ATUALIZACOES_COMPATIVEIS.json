@@ -1,0 +1,97 @@
+{
+  "id": "ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS",
+
+  "capitulo": "CAP_05_PODER_SER",
+  "parte": "PARTE_II",
+  "nivel": 1,
+
+  "conceito_alvo": "D_POTENCIALIDADE",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR", "P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_PODER_SER",
+    "D_LIMITE",
+    "D_DETERMINACAO",
+    "D_RELACAO",
+    "D_CONTINUIDADE"
+  ],
+
+  "outputs_instalados": [
+    "D_POTENCIALIDADE"
+  ],
+
+  "operacoes_chave": [
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_DEPENDENCIA",
+    "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_PODER_SER é a margem interna de variação admissível de uma estrutura sob limite: o conjunto de atualizações que essa estrutura torna ontologicamente possíveis.",
+      "Este conjunto não é amorfo: as atualizações admissíveis são determinadas pela estrutura relacional e pelo limite — umas são compatíveis com a determinação atual, outras não.",
+      "A articulação estruturada desse conjunto de atualizações admissíveis — com as suas compatibilidades e incompatibilidades internas — não é idêntica ao poder-ser genérico: é a forma desenvolvida do poder-ser enquanto campo de possibilidades concretas sob limite.",
+      "Esse campo articulado de atualizações compatíveis, determinado pela estrutura e pelo limite de uma determinação, é precisamente a potencialidade: não virtualidade abstrata, mas conjunto real de caminhos admissíveis."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_POTENCIALIDADE é necessária sempre que há D_PODER_SER: o poder-ser de qualquer determinação estrutura-se como campo de atualizações compatíveis — esse campo é a potencialidade.",
+      "Logo, D_POTENCIALIDADE não é abstrata nem irreal: é real como a estrutura que a determina, e é delimitada pelo limite que a constrange."
+    ],
+    "conclusao": "D_POTENCIALIDADE é o campo articulado de atualizações admissíveis para uma determinação sob limite: forma desenvolvida e estruturada do poder-ser, real e constrangida — nem irreal nem ilimitada."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_PODER_SER sem D_POTENCIALIDADE (a margem de variação admissível é completamente indeterminada, sem articulação interna de compatibilidades).",
+    "consequencias": [
+      "Se o poder-ser é completamente indeterminado, qualquer atualização seria admissível: colapso do limite como diferenciação do admissível e não-admissível.",
+      "Sem limite funcional, D_DETERMINACAO perde conteúdo: não há 'este modo' estável.",
+      "Poder-ser indeterminado seria compatível com tudo — o que equivale a não ser determinado por qualquer estrutura.",
+      "A hipótese dissolve a estrutura que o poder-ser pressupõe."
+    ],
+    "resultado": "Contradição estrutural: D_PODER_SER sem articulação de compatibilidades elimina a função do limite e da estrutura."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_POTENCIALIDADE não é virtualidade no sentido bergsoniano (paralelo ao real): é dimensão interna do real, não domínio separado.",
+    "D_POTENCIALIDADE não é infinita: é delimitada pelo limite ontológico da determinação.",
+    "D_POTENCIALIDADE não é mero conjunto lógico de possíveis: é articulação real de compatibilidades estruturais.",
+    "Não confundir com D_IMPOSSIBILIDADE_ONTOLOGICA: a potencialidade é o conjunto do admissível; a impossibilidade ontológica é o que o limite exclui."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA",
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA",
+      "ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE"
+    ],
+    "prepara_argumentos": [
+      "ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO",
+      "ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO"
+    ],
+    "back_links": ["CAP_05_PODER_SER"],
+    "forward_links": ["CAP_06_ATUALIZACAO_CONTINUIDADE"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_05: poder-ser e potencialidade como faces complementares — poder-ser é a dimensão estrutural, potencialidade é o campo articulado de admissibilidades.",
+    "Prepara CAP_06: a atualização será a efetivação de uma das atualizações admissíveis no campo de potencialidade.",
+    "Bloqueia 'potencialidade como irreal' e 'potencialidade como ilimitada': o campo é real e constrangido."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE",
+
+  "capitulo": "CAP_03_DETERMINACAO_NAO_SER",
+  "parte": "PARTE_I",
+  "nivel": 0,
+
+  "conceito_alvo": "D_DETERMINACAO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "fundacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_DISTINCAO",
+    "D_RELACIONALIDADE_MINIMA",
+    "D_ESTRUTURA",
+    "D_LIMITE"
+  ],
+
+  "outputs_instalados": [
+    "D_DETERMINACAO"
+  ],
+
+  "operacoes_chave": [
+    "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_DEPENDENCIA",
+    "OP_RECONDUCAO_RELACIONAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_ESTRUTURA e D_LIMITE tornam possível que haja determinações estáveis: a estrutura oferece padrões de co-implicação e o limite garante contorno/recorte ontológico.",
+      "Uma distinção mínima (D_DISTINCAO) só se torna ontologicamente operativa quando é estabilizada como 'este modo' e não apenas como não-identidade abstrata.",
+      "Estabilizar uma distinção como 'este modo' implica fixá-la numa rede de relações compatíveis (relacionalidade mínima + estrutura) sob um contorno (limite).",
+      "Essa fixação relacional sob limite é precisamente determinação: determinação é o tornar-se-este (e não outro) de modo estável na estrutura do real."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_DETERMINACAO é necessária sempre que há estrutura e limite: sem determinação, não há 'algo' ontologicamente fixado, apenas diferença vaga.",
+      "Logo, D_DETERMINACAO não é uma imposição representacional: é efeito estrutural no real, decorrente de relações e limites."
+    ],
+    "conclusao": "D_DETERMINACAO é estruturalmente inevitável: onde há D_ESTRUTURA e D_LIMITE, há fixação relacional que torna as distinções ontologicamente determinadas."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_ESTRUTURA e D_LIMITE (e distinção), mas não existe D_DETERMINACAO (não há fixação como 'este').",
+    "consequencias": [
+      "Sem determinação, as distinções não se estabilizam como modos do real: ficam sem conteúdo ontológico operativo.",
+      "Sem conteúdo operativo, estrutura e limite ficam sem função (não estabilizam nada), tornando-se vazios.",
+      "A hipótese nega a própria inteligibilidade de 'algo determinado' que estrutura e limite visam tornar possível."
+    ],
+    "resultado": "Contradição estrutural: negar D_DETERMINACAO mantendo D_ESTRUTURA e D_LIMITE elimina a função ontológica de estrutura/limite."
+  },
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE",
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA"
+    ],
+    "prepara_argumentos": [
+      "ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE",
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA"
+    ],
+    "back_links": ["CAP_02_ESTRUTURA_LIMITE"],
+    "forward_links": ["CAP_03_DETERMINACAO_NAO_SER", "CAP_04_RELACAO_REAL_SER"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Determinação aqui é ontológica (fixação no real), não categorial/linguística.",
+    "Prepara o não-ser como implicação negativa da determinação (o que é excluído pelo limite) sem hipóstase.",
+    "Bloqueia o desvio 'ser indeterminado absoluto' e o desvio 'determinação como acto do sujeito'."
+  ]
+}

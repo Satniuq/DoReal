@@ -1,0 +1,97 @@
+{
+  "id": "ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO",
+
+  "capitulo": "CAP_06_ATUALIZACAO_CONTINUIDADE",
+  "parte": "PARTE_II",
+  "nivel": 1,
+
+  "conceito_alvo": "D_CONTINUO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR", "P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CONTINUIDADE",
+    "D_ATUALIZACAO",
+    "D_RELACAO",
+    "D_LIMITE"
+  ],
+
+  "outputs_instalados": [
+    "D_CONTINUO",
+    "D_MOVIMENTO"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_CONTINUIDADE",
+    "OP_DESCRICAO_ATUALIZACAO",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_CONTINUIDADE é a permanência relacional que sustenta a passagem de estado a estado sem rutura absoluta: é a condição ontológica de que haja passagem e não apenas justaposição de instantes.",
+      "D_ATUALIZACAO é efetivação relacional de uma potencialidade no campo real: cada atualização pressupõe o campo contínuo como suporte.",
+      "A forma manifesta desta passagem contínua — a sucessão sem rutura de atualizações no campo real — é o contínuo enquanto modo de ser do tempo e do movimento: D_CONTINUO é D_CONTINUIDADE enquanto forma operativa de sucessão.",
+      "D_MOVIMENTO é a manifestação relacional localizada desta sucessão contínua de atualizações: o movimento não é deslocamento abstrato, mas a efetivação localizada de atualizações sucessivas suportadas pelo contínuo.",
+      "Sem D_CONTINUO, as atualizações seriam instantes desconexos: não haveria passagem, logo não haveria movimento — haveria apenas estados justapostos sem relação de sucessão."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CONTINUO é condição estrutural do movimento: sem sucessão sem rutura, o movimento colapsa em série discreta de estados sem ligação real.",
+      "Logo, D_MOVIMENTO é necessariamente manifestação do contínuo: não há movimento sem campo contínuo que lhe dê suporte relacional."
+    ],
+    "conclusao": "D_CONTINUO é a forma operativa de D_CONTINUIDADE enquanto sucessão sem rutura; D_MOVIMENTO é a manifestação relacional localizada desta sucessão. O contínuo é condição estrutural do movimento — não há movimento sem contínuo como suporte ontológico."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_MOVIMENTO sem D_CONTINUO (o movimento é série discreta de estados desconexos sem suporte de sucessão contínua).",
+    "consequencias": [
+      "Estados desconexos sem relação de sucessão não constituem movimento: são fotogramas sem filme.",
+      "Para que haja movimento é necessário que o estado A e o estado B estejam relacionados como antes e depois no mesmo campo relacional: essa relação de antes-depois é precisamente a sucessão contínua.",
+      "Sem successão contínua, não há 'antes' nem 'depois' estruturais: o movimento perde a sua forma ontológica.",
+      "A hipótese elimina as condições que tornam o movimento inteligível como mudança e não como substituição arbitrária de estados."
+    ],
+    "resultado": "Contradição estrutural: D_MOVIMENTO sem D_CONTINUO elimina a relação de sucessão que constitui o movimento como tal."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_CONTINUO não é identidade estática: é sucessão sem rutura, o que implica mudança suportada — não imobilidade.",
+    "D_CONTINUO não é homogeneidade: o campo contínuo comporta diferenciações, limites e determinações distintas.",
+    "D_MOVIMENTO não é deslocamento geométrico: é manifestação ontológica da sucessão de atualizações no campo real.",
+    "D_CONTINUO não é representação do tempo: é condição ontológica anterior a qualquer representação temporal."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+      "ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO"
+    ],
+    "prepara_argumentos": [
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL",
+      "ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE"
+    ],
+    "back_links": ["CAP_06_ATUALIZACAO_CONTINUIDADE"],
+    "forward_links": ["CAP_07_REGULARIDADE_NECESSIDADE", "CAP_10_ESTABILIDADE_MOVIMENTO_TEMPO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_06: atualização e contínuo como faces complementares da dinâmica do real — a atualização é o evento, o contínuo é o suporte formal da sua sucessão.",
+    "D_CONTINUO e D_MOVIMENTO serão retomados no CAP_10 com maior desenvolvimento (estabilidade, tempo): aqui instalam-se as condições mínimas.",
+    "Bloqueia a leitura atomista do movimento (série de instantes desconexos) e a leitura imobilista do contínuo (contínuo como ausência de mudança)."
+  ]
+}

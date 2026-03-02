@@ -1,0 +1,83 @@
+{
+  "id": "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+  "capitulo": "CAP_20_ERRO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_ERRO_ONTOLOGICO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DIFERENCIACAO_ONTOLOGICA",
+      "REGIME_CORRETIVO"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO",
+      "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_REPRESENTACAO",
+    "D_ADEQUACAO",
+    "D_LIMITE",
+    "D_CRITERIO"
+  ],
+  "outputs_instalados": [
+    "D_ERRO_ONTOLOGICO"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+    "OP_IDENTIFICACAO_ADEQUACAO",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Há adequação quando a representação permite operar no real sob constrangimento; há erro quando esse alinhamento falha.",
+      "Falhas operativas (resistência inesperada, impossibilidade, dano, bloqueio) manifestam D_LIMITE e revelam desadequação.",
+      "O erro mínimo é detectável por submissão ao real: o real recusa a operação orientada pela representação."
+    ],
+    "deducoes_necessarias": [
+      "Logo, o núcleo do erro é desalinhamento operativo: desadequação identificável em operações sob limite.",
+      "Logo, este núcleo prepara distinções internas (categorial, escala, hipóstase) sem as pressupor."
+    ],
+    "conclusao": "D_ERRO_ONTOLOGICO, no seu núcleo mínimo, é desalinhamento operativo entre representação e real: manifesta-se quando operações orientadas pela representação falham sob D_LIMITE."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Pode haver erro sem qualquer falha operativa: erro é apenas discordância de enunciados.",
+    "consequencias": [
+      "Discordância pode existir entre enunciados igualmente operáveis no real (diferenças de escala ou descrição), sem erro.",
+      "Sem referência a falha sob limite, não há critério para distinguir erro de pluralidade descritiva.",
+      "Assim, a noção de erro perde ligação com correção e com o real."
+    ],
+    "resultado": "Contradição operacional: erro sem falha elimina o papel do real como critério e torna impossível justificar correção."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_VERDADE_EXIGE_SUBMISSAO_REAL",
+      "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA"
+    ],
+    "prepara_argumentos": [
+      "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+      "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS",
+      "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE",
+      "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+    ],
+    "back_links": [
+      "CAP_20_ERRO"
+    ],
+    "forward_links": [
+      "CAP_21_CORRECAO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_ERRO_ONTOLOGICO_COMO_DESADEQUACAO_ESTRUTURAL: fixa o núcleo mínimo do erro antes das formas específicas (categorial/escala/hipóstase).",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

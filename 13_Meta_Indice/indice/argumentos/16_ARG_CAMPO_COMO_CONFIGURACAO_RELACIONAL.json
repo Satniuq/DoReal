@@ -1,0 +1,98 @@
+{
+  "id": "ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL",
+
+  "capitulo": "CAP_08_CAMPO",
+  "parte": "PARTE_III",
+  "nivel": 2,
+
+  "conceito_alvo": "D_CAMPO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DESCRICAO_ESTRUTURAL", "REGIME_DIFERENCIACAO_ONTOLOGICA"],
+    "percursos": ["P_ESTRUTURA_OPERACIONAL_DO_REAL", "P_EIXO_CAMPO_E_LOCALIZACAO"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_RELACAO",
+    "D_REGULARIDADE",
+    "D_ESTABILIDADE",
+    "D_LIMITE",
+    "D_DETERMINACAO",
+    "D_ESCALA_ONTOLOGICA"
+  ],
+
+  "outputs_instalados": [
+    "D_CAMPO"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_CAMPO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_DIFERENCIACAO_NIVEIS"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_REAL é o campo relacional contínuo sem exterioridade: mas este campo não é homogéneo — comporta regularidades, limites e determinações que se organizam de modo diferenciado.",
+      "D_REGULARIDADE e D_ESTABILIDADE implicam que certas determinações e relações recorrem de modo estável sob os mesmos limites: este padrão de recorrência estável não distribui pelo campo de modo uniforme — concentra-se em configurações localizadas.",
+      "Uma configuração relacional estruturada e localizável — um conjunto de determinações, relações e limites que coexistem de modo estável e recorrente numa extensão do campo real — é precisamente D_CAMPO: campo como organização relacional operativa, não substância.",
+      "D_CAMPO pressupõe D_ESCALA_ONTOLOGICA: campos distintos operam em extensões estruturais distintas — não há campo sem escala própria que o delimite como configuração e não como totalidade."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CAMPO é estruturalmente inevitável num real contínuo com regularidades: onde há recorrências estáveis localizadas, há campos como configurações relacionais operativas.",
+      "Logo, D_CAMPO não é entidade substancial: é configuração — modo de organização relacional do real em extensões estruturalmente delimitadas."
+    ],
+    "conclusao": "D_CAMPO é a configuração relacional estruturada localizável que emerge da regularidade e estabilidade do real numa extensão delimitada por escala: organização operativa, não substância nem totalidade."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_REGULARIDADE e D_ESTABILIDADE num campo contínuo, mas não há qualquer D_CAMPO (as regularidades distribuem-se uniformemente sem localização ou organização diferenciada).",
+    "consequencias": [
+      "Regularidades distribuídas de modo completamente uniforme e sem organização diferenciada implicam que todos os pontos do campo são equivalentes: não há extensões com propriedades distintas.",
+      "Mas D_ESCALA_ONTOLOGICA implica diferença de extensão estrutural entre níveis de determinação — sem campos, não há escalas distintas.",
+      "Sem escalas distintas, D_CIRCULO (configuração localizada com regularidades próprias) torna-se impossível.",
+      "A hipótese elimina a diferenciação interna do real que D_REGULARIDADE e D_ESTABILIDADE pressupunham."
+    ],
+    "resultado": "Contradição estrutural: D_REGULARIDADE e D_ESTABILIDADE num campo contínuo com escala implicam necessariamente D_CAMPO como configuração relacional diferenciada e localizável."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_CAMPO não é entidade substancial: é configuração relacional — modo de organização, não coisa.",
+    "D_CAMPO não é totalidade: cada campo é localizável numa extensão estrutural determinada, não é o real como todo.",
+    "D_CAMPO não é território físico: é organização ontológica — pode haver campos simbólicos, sociais, biológicos, sem que 'campo' seja metáfora espacial.",
+    "D_CAMPO não é fechado: a sua localização não implica impermeabilidade — campos intersectam-se e dependem uns dos outros."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL",
+      "ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE",
+      "ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA"
+    ],
+    "prepara_argumentos": [
+      "ARG_CIRCULO_COMO_FECHO_FUNCIONAL_LOCAL"
+    ],
+    "back_links": ["CAP_07_REGULARIDADE_NECESSIDADE"],
+    "forward_links": ["CAP_08_CAMPO", "CAP_09_ESCALA"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Abre a PARTE III: o campo é o conceito-charneira entre a dinâmica geral do real (PARTE II) e a organização diferenciada do real em configurações localizadas (PARTE III).",
+    "D_CAMPO será pressuposto de D_LOCALIDADE (PARTE IV): ser localizado é ser num campo.",
+    "Bloqueia a leitura 'campo como substância' e a leitura 'campo como totalidade': o campo é sempre parcial e relacional."
+  ]
+}

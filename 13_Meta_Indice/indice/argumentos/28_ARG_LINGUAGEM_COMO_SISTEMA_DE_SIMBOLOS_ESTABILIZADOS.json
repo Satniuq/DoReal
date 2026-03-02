@@ -1,0 +1,97 @@
+{
+  "id": "ARG_LINGUAGEM_COMO_SISTEMA_DE_SIMBOLOS_ESTABILIZADOS",
+
+  "capitulo": "CAP_14_LINGUAGEM_MEDIACAO",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_LINGUAGEM",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DIFERENCIACAO_ONTOLOGICA", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_SIMBOLICO_MEDIACIONAL", "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_SIMBOLO",
+    "D_REPRESENTACAO",
+    "D_ESTRUTURA",
+    "D_SER_HUMANO",
+    "D_REGULARIDADE"
+  ],
+
+  "outputs_instalados": [
+    "D_LINGUAGEM"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_MEDIACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_CRITICA_FECHAMENTO_SIMBOLICO"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_SIMBOLO é unidade mínima da representação: referencia aspetos do real sem coincidir com ele e permite operação, combinação e transmissão.",
+      "Para que os símbolos sejam transmissíveis entre seres localizados distintos — partilháveis para além do ser que os gerou — é necessário que as relações entre símbolos sejam estabilizadas de modo regular e reconhecível: sem estrutura estável de relações entre símbolos, a transmissão colapsa em ruído.",
+      "O sistema estruturado de símbolos que, no interior do campo do real, permite estabilizar, articular e partilhar representações entre seres localizados — sem com o real coincidir nem o substituir — é precisamente D_LINGUAGEM.",
+      "D_LINGUAGEM herda de D_ESTRUTURA a sua condição: é articulação mínima de distinções (simbólicas) sob relação — mas a um nível representacional e não ontológico fundacional.",
+      "D_LINGUAGEM tem o mesmo risco estrutural que D_SIMBOLO amplificado: pode fechar-se sobre a sua coerência interna, perdendo a função mediadora — risco de fechamento simbólico que já opera a este nível."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_LINGUAGEM é estruturalmente necessária para todo ser humano que partilhe representações com outros seres localizados: a transmissão de representações exige sistema estabilizado de símbolos com relações regulares.",
+      "Logo, D_LINGUAGEM não substitui o real: é sistema mediador — a sua função é permitir partilha de representações, não constituir o real que representa."
+    ],
+    "conclusao": "D_LINGUAGEM é o sistema estruturado de símbolos que permite estabilizar, articular e partilhar representações entre seres localizados no campo do real, sem coincidir com o real nem o substituir. Sistema mediador — não fundamento do real, não o real."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existem D_SIMBOLO e seres humanos localizados distintos, mas não há D_LINGUAGEM (os símbolos não se organizam em sistema estável de relações transmissíveis).",
+    "consequencias": [
+      "Símbolos sem sistema estável de relações não são transmissíveis de modo regular: cada símbolo é interpretável de qualquer modo por cada ser localizado.",
+      "Sem transmissibilidade regular, não há partilha de representações: cada ser localizado fica confinado ao seu próprio campo representacional.",
+      "Sem partilha de representações, a coordenação entre seres localizados torna-se impossível: a ação conjunta no campo real perde a sua base simbólica.",
+      "A hipótese elimina as condições de operabilidade partilhada dos símbolos que D_SIMBOLO pressupunha ao incluir transmissão como função."
+    ],
+    "resultado": "Contradição estrutural: D_SIMBOLO com função de transmissão entre seres localizados distintos implica necessariamente D_LINGUAGEM como sistema estável de relações entre símbolos."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_LINGUAGEM não é o real: é sistema de mediação — a linguagem sobre o real não é o real que descreve.",
+    "D_LINGUAGEM não precede o real: emerge da apreensão e da representação — é sempre segunda em relação ao contacto real.",
+    "D_LINGUAGEM pode fechar-se: o fechamento simbólico (linguagem tomada como real, coerência interna como critério suficiente) é o risco estrutural mais relevante da mediação simbólica — a ser desenvolvido no CAP_15.",
+    "D_LINGUAGEM não é convencional no sentido de arbitrária: a estrutura das relações entre símbolos é constrangida pelas regularidades das apreensões que representa."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO",
+      "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE",
+      "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_MEDIACAO_COMO_TRANSFORMACAO_DA_APREENSAO_EM_REPRESENTACAO_OPERAVEL"
+    ],
+    "back_links": ["CAP_13_REPRESENTACAO"],
+    "forward_links": ["CAP_14_LINGUAGEM_MEDIACAO", "CAP_15_CONSCIENCIA"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Abre o CAP_14: a linguagem é a forma sistémica do símbolo — o passo do símbolo isolado para o sistema partilhável.",
+    "O risco de fechamento simbólico é aqui introduzido como possibilidade: será desenvolvido como D_AUTORREFERENCIALIDADE no CAP_15.",
+    "D_LINGUAGEM gera D_MEDIACAO (segundo o ficheiro de conceitos): a mediação é o processo pelo qual a apreensão se transforma em representação operável através dos recursos da linguagem."
+  ]
+}

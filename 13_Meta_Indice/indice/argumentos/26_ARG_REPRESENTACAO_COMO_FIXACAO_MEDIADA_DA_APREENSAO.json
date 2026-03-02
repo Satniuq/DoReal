@@ -1,0 +1,98 @@
+{
+  "id": "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO",
+
+  "capitulo": "CAP_13_REPRESENTACAO",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_REPRESENTACAO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DIFERENCIACAO_ONTOLOGICA", "REGIME_CRITICA_REFLEXIVIDADE", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_SIMBOLICO_MEDIACIONAL", "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_APREENSAO",
+    "D_CONTINUIDADE",
+    "D_SER_HUMANO",
+    "D_LOCALIDADE",
+    "D_MEMORIA"
+  ],
+
+  "outputs_instalados": [
+    "D_REPRESENTACAO"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_MEDIACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_LIMITACAO_REFLEXIVIDADE",
+    "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_APREENSAO é contacto situado com o real, anterior a qualquer fixação simbólica: integra afetações reais mas não as estabiliza ainda em forma operável.",
+      "D_CONTINUIDADE do ser humano e D_MEMORIA permitem que as atualizações apreendidas não desapareçam — podem ser retomadas, comparadas e operadas.",
+      "Para que uma apreensão possa ser retomada, comparada e operada sem coincidir com o real que a originou, é necessária uma fixação: a estabilização da apreensão sob forma simbólica ou imagética que a torna disponível para operação posterior.",
+      "Esta estabilização mediada de uma apreensão na continuidade do ser humano — sob forma simbólica ou imagética, pela qual a atualização apreendida passa a poder ser retomada, comparada e operada sem coincidir com o real que a originou — é precisamente D_REPRESENTACAO.",
+      "D_REPRESENTACAO não é o real: é estabilização mediada da apreensão — mantém dependência do real (é sobre o real) sem coincidir com ele (não é o real)."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_REPRESENTACAO é estruturalmente necessária para todo ser que apreende e tem continuidade suficiente para reter apreensões: a capacidade de retomar apreensões exige fixação — exige representação.",
+      "Logo, D_REPRESENTACAO não é o real: é sempre mediação — e como tal está sempre sujeita à distância entre a estabilização e o que estabiliza."
+    ],
+    "conclusao": "D_REPRESENTACAO é a estabilização mediada de uma apreensão na continuidade do ser humano sob forma simbólica ou imagética: operação possível sem coincidir com o real. A representação depende da apreensão, não a substitui — e não é o real que representa."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_APREENSAO e D_CONTINUIDADE no ser humano, mas não há D_REPRESENTACAO (as apreensões não são estabilizadas — são integradas mas nunca fixadas em forma operável).",
+    "consequencias": [
+      "Sem fixação, as apreensões não podem ser retomadas: cada apreensão é efémera, sem resíduo operável na continuidade.",
+      "Sem retomada, a reflexividade representacional não tem material para operar: D_SER_HUMANO como nodo reflexivo fica sem função.",
+      "Sem representação, não há símbolos, não há linguagem, não há mediação: toda a cadeia mediacional colapsa.",
+      "A hipótese elimina as condições da reflexividade que D_SER_HUMANO pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_APREENSAO e D_CONTINUIDADE no ser humano implicam necessariamente D_REPRESENTACAO como estabilização operável das apreensões."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_REPRESENTACAO não é o real: é sempre mediação — a distância entre representação e real é estrutural, não acidental.",
+    "D_REPRESENTACAO não substitui a apreensão: depende dela — sem apreensão prévia não há representação possível.",
+    "D_REPRESENTACAO pode fechar-se sobre si mesma: o risco de autorreferencialidade (CAP_15) reside precisamente na possibilidade de a representação tomar a sua coerência interna como critério, perdendo a dependência do real.",
+    "D_REPRESENTACAO não é imagem mental: é estabilização sob forma simbólica ou imagética — inclui conceitos, palavras, esquemas, imagens — todas as formas de fixação operável."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+      "ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA",
+      "ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO"
+    ],
+    "prepara_argumentos": [
+      "ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO"
+    ],
+    "back_links": ["CAP_12_SER_HUMANO"],
+    "forward_links": ["CAP_13_REPRESENTACAO", "CAP_14_LINGUAGEM_MEDIACAO"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Abre o CAP_13: a representação é o ponto de entrada no mundo mediacional — a partir daqui o percurso segue pela cadeia símbolo → linguagem → mediação.",
+    "A distinção apreensão / representação é estruturalmente importante: a representação é sempre segunda — depende do contacto real da apreensão.",
+    "D_REPRESENTACAO gera D_SIMBOLO e D_AUTORREFERENCIALIDADE (conforme o ficheiro de conceitos): o símbolo é a unidade mínima da representação, e a autorreferencialidade é o seu risco de fechamento — ambos serão argumentados nos ARGs seguintes."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+  "capitulo": "CAP_17_ADEQUACAO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_ADEQUACAO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_DESCRICAO_ESTRUTURAL"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_REPRESENTACAO",
+    "D_APREENSAO",
+    "D_LOCALIDADE",
+    "D_LIMITE",
+    "D_SER_HUMANO"
+  ],
+  "outputs_instalados": [
+    "D_ADEQUACAO"
+  ],
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_ADEQUACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_SUBMISSAO_REAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Entre D_REPRESENTACAO e D_REAL há mediação: a representação fixa D_APREENSAO sem se confundir com o real.",
+      "D_APREENSAO é situada: ocorre sob D_LOCALIDADE e D_PONTO_DE_VISTA, logo não há acesso não-local ao real.",
+      "D_LIMITE implica constrangimento: certas representações orientam operações compatíveis com o real; outras chocam com resistência/efeitos de limite.",
+      "Chama-se adequação a correspondência operativa situada: a representação é adequada quando permite operar no real (no contexto em causa) sem violar os seus limites estruturais."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ADEQUACAO não é identidade nem espelho: é relação entre mediação e real sob localidade.",
+      "Logo, a avaliação de adequação remete para o real (resistência/consequência) e não apenas para coerência interna."
+    ],
+    "conclusao": "D_ADEQUACAO é a relação de correspondência operativa situada entre D_REPRESENTACAO e D_REAL, determinada pelo constrangimento de D_LIMITE nas operações."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "D_ADEQUACAO pode ser definida sem referência à localidade (como correspondência absoluta e descontextualizada).",
+    "consequencias": [
+      "Sem localidade, a adequação teria de valer de forma indiferente a contexto e escala; mas D_APREENSAO é sempre situada e as operações ocorrem em condições locais.",
+      "A hipótese exige um ponto de vista 'de fora' do real para comparar representação e real; isso reintroduz exterioridade, contrariando D_REAL como campo sem exterioridade.",
+      "O resultado é um critério impossível: a 'correspondência absoluta' não pode ser operacionalizada sem recair em coerência interna ou autoridade."
+    ],
+    "resultado": "Contradição estrutural: uma adequação deslocalizada elimina as condições (apreensão situada e teste operativo) que tornam D_ADEQUACAO determinável."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO",
+      "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+      "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO"
+    ],
+    "prepara_argumentos": [
+      "ARG_ADEQUACAO_EXIGE_CRITERIO"
+    ],
+    "back_links": [
+      "CAP_16_MEDIACAO",
+      "CAP_17_ADEQUACAO"
+    ],
+    "forward_links": [
+      "CAP_17_ADEQUACAO",
+      "CAP_18_CRITERIO"
+    ]
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_ADEQUACAO_COMO_CORRESPONDENCIA_OPERATIVA_COM_O_REAL: explicita a dimensão situada (localidade/ponto de vista) como condição interna de D_ADEQUACAO.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

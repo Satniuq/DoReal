@@ -1,0 +1,99 @@
+{
+  "id": "ARG_MEDIACAO_COMO_TRANSFORMACAO_DA_APREENSAO_EM_REPRESENTACAO_OPERAVEL",
+
+  "capitulo": "CAP_14_LINGUAGEM_MEDIACAO",
+  "parte": "PARTE_IV",
+  "nivel": 3,
+
+  "conceito_alvo": "D_MEDIACAO",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_DIFERENCIACAO_ONTOLOGICA", "REGIME_DESCRICAO_ESTRUTURAL", "REGIME_CRITICA_SISTEMICA"],
+    "percursos": ["P_EIXO_SIMBOLICO_MEDIACIONAL", "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_APREENSAO",
+    "D_REPRESENTACAO",
+    "D_SIMBOLO",
+    "D_LINGUAGEM",
+    "D_SER_HUMANO"
+  ],
+
+  "outputs_instalados": [
+    "D_MEDIACAO"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_MEDIACAO",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+    "OP_REINTEGRACAO_ONTOLOGICA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_APREENSAO é contacto situado com o real, pré-representacional: integra afetações reais mas não as torna imediatamente operáveis para reflexão, comparação ou partilha.",
+      "D_REPRESENTACAO é a estabilização mediada da apreensão sob forma simbólica ou imagética: torna a apreensão retomável e operável. Mas esta estabilização não acontece espontaneamente — exige um processo.",
+      "O processo simbólico pelo qual a apreensão é transformada em representação operável — recorrendo a símbolos e linguagem, permitindo a estabilização, comunicação e manipulação do conteúdo apreendido sem romper a sua dependência do real — é precisamente D_MEDIACAO.",
+      "D_MEDIACAO é processo: não estado, não resultado estático — é a operação contínua pela qual o ser humano transforma o contacto real em forma operável e comunicável.",
+      "D_MEDIACAO tem um risco estrutural interno: ao transformar a apreensão em representação operável, introduz uma distância entre o contacto e a sua forma operável. Esta distância pode ampliar-se até o sistema de representações perder a sua dependência do real — fechamento simbólico."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_MEDIACAO é estruturalmente necessária para todo ser humano que opera representações: sem mediação, as apreensões não se tornam representações operáveis — o nodo reflexivo não tem como exercer a sua reflexividade.",
+      "Logo, D_MEDIACAO não é autossuficiente: a sua legitimidade depende de manter a dependência da apreensão — mediação que rompe com a apreensão torna-se fechamento autorreferencial."
+    ],
+    "conclusao": "D_MEDIACAO é o processo simbólico pelo qual a apreensão é transformada em representação operável, recorrendo a símbolos e linguagem, sem romper a dependência do real. Processo necessário ao ser reflexivo — mas com risco estrutural de fechamento quando a dependência da apreensão é perdida."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_SER_HUMANO com D_APREENSAO e D_LINGUAGEM, mas sem D_MEDIACAO (a apreensão torna-se representação operável sem qualquer processo de transformação — diretamente, sem mediação simbólica).",
+    "consequencias": [
+      "Apreensão que se torna representação sem transformação simbólica implicaria que o contacto com o real coincide já com a sua forma operável: a distância entre apreensão e representação seria nula.",
+      "Mas D_REPRESENTACAO é estabilização mediada — não coincide com a apreensão: a sua operabilidade decorre precisamente da estabilização, que exige processo.",
+      "Sem processo de transformação, D_LINGUAGEM e D_SIMBOLO seriam desnecessários: a representação surgiria imediatamente sem recursos simbólicos.",
+      "A hipótese elimina a função de D_SIMBOLO e D_LINGUAGEM que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_SER_HUMANO com D_APREENSAO e D_LINGUAGEM implica necessariamente D_MEDIACAO como processo de transformação simbólica da apreensão em representação operável."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_MEDIACAO não é autossuficiente: depende da apreensão — mediação sem ancoragem real é fechamento simbólico.",
+    "D_MEDIACAO não é o real: é processo sobre representações do real — a mediação é sempre segunda em relação ao contacto.",
+    "D_MEDIACAO não é neutra: ao transformar a apreensão, introduz distância e possibilidade de erro — o que é mediado pode não corresponder ao que foi apreendido.",
+    "D_MEDIACAO gera D_CONSCIENCIA_REFLEXIVA (segundo o ficheiro de conceitos): é pela mediação que o ser humano se pode apreender a si mesmo como sujeito de representações — com o risco de autorreferencialidade que isso implica."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_LINGUAGEM_COMO_SISTEMA_DE_SIMBOLOS_ESTABILIZADOS",
+      "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO",
+      "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+      "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO"
+    ],
+    "back_links": ["CAP_14_LINGUAGEM_MEDIACAO"],
+    "forward_links": ["CAP_15_CONSCIENCIA"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_14: linguagem e mediação como faces do mesmo processo — a linguagem é o sistema de recursos simbólicos, a mediação é o processo que os mobiliza para transformar apreensão em representação operável.",
+    "A introdução do risco de fechamento simbólico aqui é canónica: o CAP_14 inclui 'crítica ao fechamento simbólico como risco sistémico' segundo o índice sequencial — este argumento cumpre essa função.",
+    "Prepara o CAP_15: a consciência reflexiva emerge da mediação, e a autorreferencialidade é o seu risco de fechamento — o fio narrativo está estabelecido."
+  ]
+}

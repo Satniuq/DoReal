@@ -1,0 +1,102 @@
+{
+  "id": "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO",
+  "capitulo": "CAP_28_CULTURA",
+  "parte": "PARTE_VII",
+  "nivel": 6,
+  "conceito_alvo": "D_SISTEMA_SIMBOLICO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_CRITICA_SISTEMICA",
+      "REGIME_EPISTEMOLOGICO",
+      "REGIME_CORRETIVO",
+      "REGIME_DESCRICAO_ESTRUTURAL",
+      "REGIME_INSCRICAO_REAL"
+    ],
+    "percursos": [
+      "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+  "D_SISTEMA_SIMBOLICO",
+  "D_CULTURA",
+  "D_AUTORREFERENCIALIDADE",
+  "D_CRITERIO",
+  "D_VALIDADE",
+  "D_VERDADE",
+  "D_ERRO_CATEGORIAL",
+  "D_ERRO_DE_ESCALA",
+  "D_ERRO_ONTOLOGICO",
+  "D_CORRECAO",
+  "D_REAL"
+],
+  "outputs_instalados": [
+    "D_SISTEMA_SIMBOLICO"
+  ],
+  "operacoes_chave": [
+    "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+    "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+    "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+    "OP_FIXACAO_CRITERIO",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_RECONDUCAO_RELACIONAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Um sistema simbólico (e.g., cultura) estabiliza critérios implícitos por validade e repetição: define o que ‘conta’ como relevante e aceitável.",
+      "D_AUTORREFERENCIALIDADE é risco estrutural: um quadro simbólico pode validar-se por coerência interna, tradição, autoridade ou repetição, reduzindo dependência do real como instância de negação.",
+      "D_VERDADE exige OP_SUBMISSAO_REAL: sem submissão ao real, adequação degrada-se em coerência interna, e o sistema perde sensibilidade ao erro.",
+      "O eixo do erro mostrou modos estruturais de estabilização do desalinhamento: erro categorial (troca de regime), erro de escala (colapso de níveis) e erro ontológico (hipóstase).",
+      "Fechamento simbólico significa: o sistema passa a tratar os seus critérios e validações como suficientes, substituindo o real como instância de correção."
+    ],
+    "deducoes_necessarias": [
+      "Se um sistema simbólico fecha, então a distinção entre ‘válido no sistema’ e ‘adequado ao real’ enfraquece: a validade interna tende a ser tomada como critério último.",
+      "Isto aumenta estruturalmente o risco de erro: (i) erros podem persistir porque não são negados externamente, (ii) erros podem ser reinterpretados como desvios do mundo ao quadro, e (iii) pode ocorrer substituição do real por sistema (hipóstase).",
+      "Logo, há uma relação necessária: fechamento simbólico ⇒ aumento do risco de erro (categorial, de escala e ontológico) e diminuição da capacidade de correção."
+    ],
+    "conclusao": "Fechamento simbólico aumenta estruturalmente o risco de erro: ao substituir a submissão ao real por validade interna, o sistema estabiliza desalinhamentos (erro categorial/escala/ontológico) e bloqueia a correção."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Um sistema simbólico pode fechar-se completamente (auto-validar-se) sem aumentar o risco de erro e sem bloquear correção.",
+    "consequencias": [
+      "A validade interna bastaria para verdade: OP_SUBMISSAO_REAL seria redundante, contrariando o eixo epistemológico.",
+      "Erros estabilizados não poderiam existir: mas o projecto já mostrou que são possíveis precisamente por hipóstase, troca de regime e colapso de escala.",
+      "A correção seria supérflua: sem aumento de risco, não haveria necessidade de reinscrição no real nem de ajuste de critério."
+    ],
+    "resultado": "Contradição com os argumentos de verdade/erro/correção: se a submissão ao real é condição de verdade e se há erro estabilizado, então fechamento simbólico tem necessariamente de aumentar risco de erro e bloquear correção."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+      "ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL",
+      "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+      "ARG_VERDADE_EXIGE_SUBMISSAO_REAL",
+      "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+      "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS",
+      "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE",
+      "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+    ],
+    "prepara_argumentos": [
+      "ARG_INSTITUICAO_COMO_FIXACAO_DE_CRITERIOS_COLETIVOS",
+      "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+    ],
+    "back_links": [
+      "CAP_28_CULTURA"
+    ],
+    "forward_links": []
+  },
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+  "observacoes": "Este argumento torna explícito o ganho e o perigo da cultura: ela estabiliza, mas pode fechar. O efeito de fechamento é formal: troca o real por validade interna, aumentando risco de erro e exigindo dispositivos de correção (instituições/direito).",
+  "_ficheiro_origem": "61_ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO.json"
+}

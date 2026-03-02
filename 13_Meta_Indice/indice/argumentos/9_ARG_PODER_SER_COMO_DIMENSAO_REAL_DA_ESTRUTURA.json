@@ -1,0 +1,98 @@
+{
+  "id": "ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA",
+
+  "capitulo": "CAP_05_PODER_SER",
+  "parte": "PARTE_II",
+  "nivel": 1,
+
+  "conceito_alvo": "D_PODER_SER",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR", "P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_SER",
+    "D_ESTRUTURA",
+    "D_LIMITE",
+    "D_RELACAO",
+    "D_DETERMINACAO",
+    "D_CONTINUIDADE"
+  ],
+
+  "outputs_instalados": [
+    "D_PODER_SER"
+  ],
+
+  "operacoes_chave": [
+    "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_DEPENDENCIA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_SER é determinação localizada do real portadora de abertura para atualizações: ser algo determinado no campo contínuo não é ser algo fixo e fechado, pois a continuidade relacional do campo mantém-se como margem interna da determinação.",
+      "D_ESTRUTURA e D_LIMITE estabelecem o que é admissível e o que não é admissível: esta diferenciação não colapsa tudo num único estado final — dentro do admissível há margem de variação compatível.",
+      "Essa margem interna de variação compatível — o que a estrutura torna possível sem violar o limite — não é possibilidade lógica abstrata (conjunto de mundos possíveis) nem faculdade de um sujeito: é uma dimensão real da própria estrutura.",
+      "Dimensão real da estrutura que torna admissíveis atualizações — efetivações reais de estados compatíveis — é precisamente o poder-ser: o poder-ser de uma determinação é o conjunto de atualizações que a sua estrutura relacional sob limite torna ontologicamente admissíveis."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_PODER_SER é inevitável sempre que há D_ESTRUTURA e D_LIMITE num campo contínuo: a estrutura sob limite não produz apenas um estado, mas um conjunto de estados admissíveis — o poder-ser.",
+      "Logo, D_PODER_SER não é acrescento subjetivo ao real: é a dimensão prospetiva da estrutura ontológica, inerente ao campo relacional."
+    ],
+    "conclusao": "D_PODER_SER é a dimensão estrutural do real que torna admissíveis atualizações: margem interna real da estrutura, não possível lógico abstrato nem faculdade subjetiva."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_ESTRUTURA e D_LIMITE sem qualquer D_PODER_SER (a estrutura fixa um único estado final sem margem de variação admissível).",
+    "consequencias": [
+      "Se a estrutura fixa um único estado sem qualquer margem de variação, não há atualizações possíveis: o ser estaria completamente fixo e sem abertura.",
+      "Um ser completamente fixo e sem abertura é compatível com D_CONTINUIDADE? A continuidade implica permanência relacional que sustenta a transformação — sem abertura, não há transformação, e a continuidade torna-se imobilidade absoluta.",
+      "Imobilidade absoluta é incompatível com D_ATUALIZACAO (efetivação relacional), que é implicada por D_POTENCIALIDADE e D_SER.",
+      "A hipótese colapsa o real numa estrutura completamente fechada: contradição com o campo relacional contínuo de poder-ser que é D_REAL."
+    ],
+    "resultado": "Contradição estrutural: D_ESTRUTURA e D_LIMITE num campo contínuo implicam necessariamente D_PODER_SER como margem interna de variação admissível."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_PODER_SER não é possibilidade lógica: não é conjunto de mundos possíveis, mas conjunto de atualizações ontologicamente admissíveis nesta estrutura sob este limite.",
+    "D_PODER_SER não é faculdade subjetiva ou vontade: é dimensão da estrutura real, independente de qualquer sujeito.",
+    "D_PODER_SER não é infinito: é limitado pela estrutura e pelo limite — o poder-ser é sempre poder-ser-isto-e-não-aquilo.",
+    "D_PODER_SER não é irreal ou virtual no sentido de não ocorrido: é real como margem estrutural mesmo antes de qualquer atualização."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+      "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL",
+      "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE",
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA"
+    ],
+    "prepara_argumentos": [
+      "ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS"
+    ],
+    "back_links": ["CAP_04_RELACAO_REAL_SER"],
+    "forward_links": ["CAP_05_PODER_SER", "CAP_06_ATUALIZACAO_CONTINUIDADE"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Abre a PARTE II: o poder-ser é a charneira entre a ontologia estática da PARTE I (estrutura, limite, determinação) e a ontologia dinâmica da PARTE II (potencialidade, atualização, continuidade).",
+    "Bloqueia a leitura 'determinismo absoluto' (estrutura fixa um único estado) e a leitura 'indeterminismo absoluto' (tudo é possível).",
+    "Prepara ARG_POTENCIALIDADE: potencialidade será o campo articulado de poder-ser — a estrutura interna do conjunto de atualizações admissíveis."
+  ]
+}

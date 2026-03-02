@@ -1,0 +1,84 @@
+{
+  "id": "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE",
+
+  "capitulo": "CAP_02_ESTRUTURA_LIMITE",
+  "parte": "PARTE_I",
+  "nivel": 0,
+
+  "conceito_alvo": "D_ESTRUTURA",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "fundacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_DISTINCAO",
+    "D_RELACIONALIDADE_MINIMA"
+  ],
+
+  "outputs_instalados": [
+    "D_ESTRUTURA"
+  ],
+
+  "operacoes_chave": [
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_DEPENDENCIA",
+    "OP_RECONDUCAO_RELACIONAL",
+    "OP_FIXACAO_CONDICAO_ONTOLOGICA"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_DISTINCAO e D_RELACIONALIDADE_MINIMA implicam que o real não é indistinção absoluta: há diferenças mínimas e um 'entre' mínimo (não-identidade).",
+      "Se há relacionalidade mínima, então há co-implicações mínimas entre termos (mesmo que apenas como restrições de não-identidade e de compatibilidade).",
+      "Co-implicações mínimas são já um padrão: onde há padrões de co-implicação, há estrutura (ordenação relacional mínima).",
+      "Sem qualquer padrão (isto é, sem estrutura), não existe determinabilidade estável: qualquer tentativa de identificar algo no real colapsa por ausência de condições de consistência."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_ESTRUTURA é condição necessária (infalível) para que o real seja determinável de forma mínima e não colapse em pura indistinção.",
+      "Logo, D_ESTRUTURA não é um esquema representacional: é a própria ordenação relacional mínima que torna possível haver algo determinável no real."
+    ],
+    "conclusao": "D_ESTRUTURA é estruturalmente inevitável sempre que se afirmam D_REAL, D_DISTINCAO e D_RELACIONALIDADE_MINIMA: sem estrutura não há determinabilidade ontológica mínima."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_REAL com D_DISTINCAO e D_RELACIONALIDADE_MINIMA, mas sem D_ESTRUTURA (não há qualquer padrão/ordenação relacional mínima).",
+    "consequencias": [
+      "Sem estrutura, a relacionalidade mínima não pode manter-se como padrão: torna-se arbitrária e indistinguível de indistinção.",
+      "Sem padrões, não há condições de consistência para sustentar distinções mínimas como diferenças reais (as distinções tornam-se vazias).",
+      "A hipótese destrói as condições de determinabilidade que pressupõe ao afirmar um real distinto de um vazio absoluto."
+    ],
+    "resultado": "Contradição estrutural: negar D_ESTRUTURA mantendo D_DISTINCAO e D_RELACIONALIDADE_MINIMA elimina a determinabilidade mínima do real."
+  },
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_DISTINCAO_MINIMA",
+      "ARG_RELACIONALIDADE_MINIMA"
+    ],
+    "prepara_argumentos": [
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA"
+    ],
+    "back_links": ["CAP_01_DISTINCAO"],
+    "forward_links": ["CAP_02_ESTRUTURA_LIMITE", "CAP_03_DETERMINACAO_NAO_SER"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Estrutura aqui é mínima: não é ainda 'campo' nem 'sistema', mas a ordenação relacional que impede o colapso em indiferença.",
+    "Este argumento bloqueia o desvio 'monismo indiferenciado' e também o desvio 'atomismo sem padrão'."
+  ]
+}

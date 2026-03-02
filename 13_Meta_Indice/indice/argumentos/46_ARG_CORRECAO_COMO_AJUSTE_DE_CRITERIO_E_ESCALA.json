@@ -1,0 +1,78 @@
+{
+  "id": "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+  "capitulo": "CAP_21_CORRECAO",
+  "parte": "PARTE_V",
+  "nivel": 4,
+  "conceito_alvo": "D_CORRECAO",
+  "criterio_ultimo": "D_REAL",
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "epistemologico",
+  "fundamenta": {
+    "regimes": [
+      "REGIME_CORRETIVO",
+      "REGIME_EPISTEMOLOGICO"
+    ],
+    "percursos": [
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO"
+    ],
+    "modulos": []
+  },
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CORRECAO",
+    "D_CRITERIO",
+    "D_ESCALA_ONTOLOGICA",
+    "D_LIMITE",
+    "D_VALIDADE"
+  ],
+  "outputs_instalados": [
+    "D_CORRECAO"
+  ],
+  "operacoes_chave": [
+    "OP_FIXACAO_CRITERIO",
+    "OP_IDENTIFICACAO_ESCALA",
+    "OP_SUBMISSAO_REAL",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+  "estrutura_logica": {
+    "premissas": [
+      "Muitos erros persistem porque a correção actua apenas ao nível local (muda enunciados) sem tocar no critério ou na escala de aplicação.",
+      "Erro categorial e erro de escala são erros de grelha: corrigem-se reconfigurando regimes, critérios e extensão ontológica.",
+      "A correção robusta exige explicitar o critério, explicitar a escala, e re-submeter ambos ao real para recuperar validade (estabilidade de aplicação)."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_CORRECAO inclui ajuste de D_CRITERIO (condições de teste) e de D_ESCALA_ONTOLOGICA (extensão), não apenas alteração local de proposições.",
+      "Logo, a correção é também trabalho meta-epistémico: reconfigura a arquitectura de validação para evitar recaída."
+    ],
+    "conclusao": "D_CORRECAO robusta é ajuste de critério e escala: reinscreve o sistema no real reconfigurando as regras de teste e a sua extensão ontológica, para eliminar erros estruturais e impedir reiteração."
+  },
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Para corrigir basta substituir proposições erradas por proposições certas; critério e escala não importam.",
+    "consequencias": [
+      "Se o erro é de categoria ou de escala, trocar proposições mantém a grelha que gerou o erro; a recaída é estrutural.",
+      "Sem ajustar critério/escala, a aplicação continua instável (perde validade) e o sistema tende a reabsorver resistências.",
+      "Logo, a hipótese confunde correção com remendo e não explica superação de erros estruturais."
+    ],
+    "resultado": "Contradição corretiva: sem ajuste de critério/escala, correção não consegue eliminar erros estruturais que derivam da própria arquitectura de validação."
+  },
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL",
+      "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+      "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS",
+      "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+      "ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO"
+    ],
+    "prepara_argumentos": [],
+    "back_links": [
+      "CAP_21_CORRECAO"
+    ],
+    "forward_links": []
+  },
+  "proposicoes_fonte": [],
+  "observacoes": "Separar de ARG_CORRECAO_COMO_RETORNO_AO_REAL: formaliza a correção como operação sobre a arquitectura (critério + escala) necessária para eliminar erro estrutural.",
+  "_ficheiro_origem": "AUTONOMIZADO_DE_ARGUMENTOS_UNIFICADOS"
+}

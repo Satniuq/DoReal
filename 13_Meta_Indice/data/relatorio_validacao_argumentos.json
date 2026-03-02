@@ -1,0 +1,458 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "files_checked": [
+    "10_ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS.json",
+    "11_ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO.json",
+    "12_ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO.json",
+    "13_ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL.json",
+    "14_ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE.json",
+    "15_ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA.json",
+    "16_ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL.json",
+    "17_ARG_CIRCULO_COMO_FECHO_FUNCIONAL_LOCAL.json",
+    "18_ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS.json",
+    "19_ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO.json",
+    "1_ARG_DISTINCAO_MINIMA.json",
+    "20_ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE.json",
+    "21_ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO.json",
+    "22_ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE.json",
+    "23_ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL.json",
+    "24_ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO.json",
+    "25_ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA.json",
+    "26_ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO.json",
+    "27_ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO.json",
+    "28_ARG_LINGUAGEM_COMO_SISTEMA_DE_SIMBOLOS_ESTABILIZADOS.json",
+    "29_ARG_MEDIACAO_COMO_TRANSFORMACAO_DA_APREENSAO_EM_REPRESENTACAO_OPERAVEL.json",
+    "2_ARG_RELACIONALIDADE_MINIMA.json",
+    "30_ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA.json",
+    "31_ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO.json",
+    "32_ARG_RELACAO_EU_REAL_COMO_ESTRUTURA_REFLEXIVA_SITUADA.json",
+    "33_ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO.json",
+    "34_ARG_LIBERDADE_SITUADA_COMO_ORIENTACAO_NO_PODER_SER.json",
+    "35_ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA.json",
+    "36_ARG_ADEQUACAO_EXIGE_CRITERIO.json",
+    "37_ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO.json",
+    "38_ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE.json",
+    "39_ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO.json",
+    "3_ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE.json",
+    "40_ARG_VERDADE_EXIGE_SUBMISSAO_REAL.json",
+    "41_ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO.json",
+    "42_ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME.json",
+    "43_ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS.json",
+    "44_ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE.json",
+    "45_ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL.json",
+    "46_ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA.json",
+    "49_ARG_RESPONSABILIDADE_ONTOLOGICA_COMO_RESPOSTA_A_DANO_REAL.json",
+    "4_ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA.json",
+    "50_ARG_RESPONSABILIDADE_EXIGE_LOCALIDADE_E_PONTO_DE_VISTA.json",
+    "51_ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO.json",
+    "52_ARG_DIRECAO_COMO_FIXACAO_DE_VETORES_DE_ACAO.json",
+    "53_ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL.json",
+    "54_ARG_MAL_COMO_DEGENERACAO_E_DANO.json",
+    "55_ARG_DEVER_SER_COMO_SUBORDINACAO_AO_REAL.json",
+    "56_ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE.json",
+    "57_ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO.json",
+    "58_ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO.json",
+    "59_ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL.json",
+    "5_ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE.json",
+    "60_ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO.json",
+    "61_ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO.json",
+    "62_ARG_INSTITUICAO_COMO_FIXACAO_DE_CRITERIOS_COLETIVOS.json",
+    "63_ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL.json",
+    "64_ARG_TECNOLOGIA_COMO_MEDIACAO_DE_SEGUNDA_ORDEM.json",
+    "65_ARG_TECNOLOGIA_COMO_AMPLIFICACAO_E_RISCO_DE_SUBSTITUICAO.json",
+    "6_ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE.json",
+    "7_ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA.json",
+    "8_ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL.json",
+    "9_ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA.json"
+  ],
+  "per_file": {
+    "10_ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS"
+    },
+    "11_ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO"
+    },
+    "12_ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO"
+    },
+    "13_ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL"
+    },
+    "14_ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE"
+    },
+    "15_ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA"
+    },
+    "16_ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL"
+    },
+    "17_ARG_CIRCULO_COMO_FECHO_FUNCIONAL_LOCAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CIRCULO_COMO_FECHO_FUNCIONAL_LOCAL"
+    },
+    "18_ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+    },
+    "19_ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO"
+    },
+    "1_ARG_DISTINCAO_MINIMA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DISTINCAO_MINIMA"
+    },
+    "20_ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE"
+    },
+    "21_ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO"
+    },
+    "22_ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE"
+    },
+    "23_ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL"
+    },
+    "24_ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO"
+    },
+    "25_ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA"
+    },
+    "26_ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+    },
+    "27_ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO"
+    },
+    "28_ARG_LINGUAGEM_COMO_SISTEMA_DE_SIMBOLOS_ESTABILIZADOS.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_LINGUAGEM_COMO_SISTEMA_DE_SIMBOLOS_ESTABILIZADOS"
+    },
+    "29_ARG_MEDIACAO_COMO_TRANSFORMACAO_DA_APREENSAO_EM_REPRESENTACAO_OPERAVEL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_MEDIACAO_COMO_TRANSFORMACAO_DA_APREENSAO_EM_REPRESENTACAO_OPERAVEL"
+    },
+    "2_ARG_RELACIONALIDADE_MINIMA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_RELACIONALIDADE_MINIMA"
+    },
+    "30_ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+    },
+    "31_ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO"
+    },
+    "32_ARG_RELACAO_EU_REAL_COMO_ESTRUTURA_REFLEXIVA_SITUADA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_RELACAO_EU_REAL_COMO_ESTRUTURA_REFLEXIVA_SITUADA"
+    },
+    "33_ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+    },
+    "34_ARG_LIBERDADE_SITUADA_COMO_ORIENTACAO_NO_PODER_SER.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_LIBERDADE_SITUADA_COMO_ORIENTACAO_NO_PODER_SER"
+    },
+    "35_ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA"
+    },
+    "36_ARG_ADEQUACAO_EXIGE_CRITERIO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ADEQUACAO_EXIGE_CRITERIO"
+    },
+    "37_ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO"
+    },
+    "38_ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE"
+    },
+    "39_ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO"
+    },
+    "3_ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE"
+    },
+    "40_ARG_VERDADE_EXIGE_SUBMISSAO_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_VERDADE_EXIGE_SUBMISSAO_REAL"
+    },
+    "41_ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO"
+    },
+    "42_ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+    },
+    "43_ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+    },
+    "44_ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE"
+    },
+    "45_ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+    },
+    "46_ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA"
+    },
+    "49_ARG_RESPONSABILIDADE_ONTOLOGICA_COMO_RESPOSTA_A_DANO_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_RESPONSABILIDADE_ONTOLOGICA_COMO_RESPOSTA_A_DANO_REAL"
+    },
+    "4_ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA"
+    },
+    "50_ARG_RESPONSABILIDADE_EXIGE_LOCALIDADE_E_PONTO_DE_VISTA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_RESPONSABILIDADE_EXIGE_LOCALIDADE_E_PONTO_DE_VISTA"
+    },
+    "51_ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO"
+    },
+    "52_ARG_DIRECAO_COMO_FIXACAO_DE_VETORES_DE_ACAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DIRECAO_COMO_FIXACAO_DE_VETORES_DE_ACAO"
+    },
+    "53_ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+    },
+    "54_ARG_MAL_COMO_DEGENERACAO_E_DANO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_MAL_COMO_DEGENERACAO_E_DANO"
+    },
+    "55_ARG_DEVER_SER_COMO_SUBORDINACAO_AO_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DEVER_SER_COMO_SUBORDINACAO_AO_REAL"
+    },
+    "56_ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE"
+    },
+    "57_ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO"
+    },
+    "58_ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO"
+    },
+    "59_ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL"
+    },
+    "5_ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE"
+    },
+    "60_ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+    },
+    "61_ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+    },
+    "62_ARG_INSTITUICAO_COMO_FIXACAO_DE_CRITERIOS_COLETIVOS.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_INSTITUICAO_COMO_FIXACAO_DE_CRITERIOS_COLETIVOS"
+    },
+    "63_ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+    },
+    "64_ARG_TECNOLOGIA_COMO_MEDIACAO_DE_SEGUNDA_ORDEM.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_TECNOLOGIA_COMO_MEDIACAO_DE_SEGUNDA_ORDEM"
+    },
+    "65_ARG_TECNOLOGIA_COMO_AMPLIFICACAO_E_RISCO_DE_SUBSTITUICAO.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_TECNOLOGIA_COMO_AMPLIFICACAO_E_RISCO_DE_SUBSTITUICAO"
+    },
+    "6_ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE"
+    },
+    "7_ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA"
+    },
+    "8_ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL"
+    },
+    "9_ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA.json": {
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "arg_id": "ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA"
+    }
+  },
+  "paths": {
+    "argumentos_dir": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\13_Meta_Indice\\indice\\argumentos",
+    "conceitos": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\13_Meta_Indice\\dados_base\\todos_os_conceitos.json",
+    "operacoes": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\13_Meta_Indice\\dados_base\\operacoes.json",
+    "meta_indice": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\13_Meta_Indice\\meta\\meta_indice.json",
+    "meta_ref": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\13_Meta_Indice\\meta\\meta_referencia_do_percurso.json",
+    "indice_sequencial": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\13_Meta_Indice\\indice\\indice_sequencial.json"
+  }
+}

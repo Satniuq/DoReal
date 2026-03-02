@@ -1,0 +1,98 @@
+{
+  "id": "ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE",
+
+  "capitulo": "CAP_03_DETERMINACAO_NAO_SER",
+  "parte": "PARTE_I",
+  "nivel": 0,
+
+  "conceito_alvo": "D_NAO_SER",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "fundacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_DISTINCAO",
+    "D_RELACIONALIDADE_MINIMA",
+    "D_ESTRUTURA",
+    "D_LIMITE",
+    "D_DETERMINACAO"
+  ],
+
+  "outputs_instalados": [
+    "D_NAO_SER"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA",
+    "OP_FIXACAO_LIMITE_ONTOLOGICO",
+    "OP_DESCRICAO_ESTRUTURAL"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_DETERMINACAO estabelece que algo é 'este' modo e não outro: toda determinação fixa uma identidade relacional sob limite.",
+      "D_LIMITE é a diferenciação estrutural entre o admissível e o não-admissível: para que algo seja determinado como 'este', há necessariamente o que não é admissível como 'este'.",
+      "O que é excluído pelo limite — o não-admissível local — não é uma entidade separada nem um domínio oposto ao real: é a própria função negativa do limite, imanente à estrutura.",
+      "Essa função negativa do limite, enquanto exclusão real e estrutural, é precisamente o não-ser: não-ser não é nada absoluto, mas a impossibilidade local de certa determinação neste campo relacional."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_NAO_SER é uma implicação estrutural inevitável de D_DETERMINACAO e D_LIMITE: onde há determinação, há não-ser como exclusão operativa.",
+      "Logo, D_NAO_SER não tem existência autónoma: é função do limite, não entidade, não domínio, não hipóstase."
+    ],
+    "conclusao": "D_NAO_SER é a exclusão estrutural implicada por toda determinação sob limite — função imanente do real, não entidade separada nem negação absoluta."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existe D_DETERMINACAO e D_LIMITE sem qualquer D_NAO_SER (nenhuma exclusão é produzida pelo limite).",
+    "consequencias": [
+      "Se o limite não exclui nada, deixa de ser limite: um limite que não diferencia o admissível do não-admissível não é um limite funcional.",
+      "Se não há exclusão, toda determinação é compatível com toda outra: colapso da diferenciação.",
+      "Sem diferenciação, D_DETERMINACAO perde conteúdo: não há 'este' e não-outro.",
+      "A hipótese destrói as condições de possibilidade de D_DETERMINACAO e D_LIMITE que pressupõe."
+    ],
+    "resultado": "Contradição estrutural: afirmar D_DETERMINACAO e D_LIMITE sem D_NAO_SER elimina a função ontológica de ambos."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_NAO_SER não é uma entidade: não tem existência positiva separada do real.",
+    "D_NAO_SER não é nada absoluto (vazio total): é exclusão local e relacional, dependente de uma determinação específica.",
+    "D_NAO_SER não é negação lógica formal: é impossibilidade ontológica situada num campo relacional."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_DISTINCAO_MINIMA",
+      "ARG_RELACIONALIDADE_MINIMA",
+      "ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE",
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA",
+      "ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE"
+    ],
+    "prepara_argumentos": [
+      "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+      "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL"
+    ],
+    "back_links": ["CAP_03_DETERMINACAO_NAO_SER"],
+    "forward_links": ["CAP_04_RELACAO_REAL_SER"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Fecha o CAP_03: determinação e não-ser são faces do mesmo gesto estrutural do limite.",
+    "Bloqueia a hipóstase do não-ser (não-ser como entidade, como nada absoluto, como domínio oposto).",
+    "Prepara CAP_04: o real como continuidade estruturada pressupõe que não-ser seja imanente, não externo."
+  ]
+}

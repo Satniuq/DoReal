@@ -1,0 +1,99 @@
+{
+  "id": "ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL",
+
+  "capitulo": "CAP_07_REGULARIDADE_NECESSIDADE",
+  "parte": "PARTE_II",
+  "nivel": 1,
+
+  "conceito_alvo": "D_REGULARIDADE",
+  "criterio_ultimo": "D_REAL",
+
+  "natureza": "meta_dedutivo",
+  "tipo_de_necessidade": "estrutural",
+  "nivel_de_operacao": "operacional",
+
+  "fundamenta": {
+    "regimes": ["REGIME_INSCRICAO_REAL", "REGIME_DESCRICAO_ESTRUTURAL"],
+    "percursos": ["P_EIXO_ONTOLOGICO_NUCLEAR", "P_ESTRUTURA_OPERACIONAL_DO_REAL"],
+    "modulos": []
+  },
+
+  "pressupostos_ontologicos": [
+    "D_REAL",
+    "D_CONTINUIDADE",
+    "D_LIMITE",
+    "D_ATUALIZACAO",
+    "D_CONTINUO",
+    "D_ESTRUTURA"
+  ],
+
+  "outputs_instalados": [
+    "D_REGULARIDADE",
+    "D_ESTABILIDADE"
+  ],
+
+  "operacoes_chave": [
+    "OP_IDENTIFICACAO_REGULARIDADE",
+    "OP_DESCRICAO_ESTRUTURAL",
+    "OP_IDENTIFICACAO_CONTINUIDADE"
+  ],
+
+  "estrutura_logica": {
+    "premissas": [
+      "D_LIMITE diferencia o admissível do não-admissível de modo estrutural: os limites de uma determinação não são arbitrários, mas decorrem da sua estrutura relacional.",
+      "D_ATUALIZACAO é transição no contínuo dentro do campo de admissibilidades: atualizações que respeitam os mesmos limites tendem a produzir os mesmos resultados estruturais.",
+      "No campo contínuo, onde os limites se mantêm, a recorrência das mesmas condições estruturais produz a recorrência das mesmas atualizações admissíveis: esta recorrência estrutural de atualizações sob os mesmos limites é D_REGULARIDADE.",
+      "D_REGULARIDADE não é hábito (padrão subjetivo observado) nem lei formal (regra imposta de fora): é propriedade real do campo — a recorrência emerge da estrutura, não da sua descrição.",
+      "D_ESTABILIDADE é a manutenção desta regularidade ao longo da continuidade: enquanto os limites se conservam, a regularidade sustenta-se como padrão dinâmico do campo."
+    ],
+    "deducoes_necessarias": [
+      "Logo, D_REGULARIDADE é estruturalmente inevitável num campo contínuo com limites: onde os limites se mantêm, as atualizações recorrem — a regularidade emerge da estrutura como efeito necessário.",
+      "Logo, D_ESTABILIDADE é o aspeto temporal da regularidade: a sua manutenção ao longo do contínuo enquanto os limites estruturais se conservam."
+    ],
+    "conclusao": "D_REGULARIDADE é a recorrência estrutural de atualizações sob os mesmos limites — propriedade real do campo, não hábito nem lei imposta. D_ESTABILIDADE é a manutenção desta regularidade ao longo da continuidade temporal."
+  },
+
+  "reducao_ao_absurdo": {
+    "ativa": true,
+    "hipotese": "Existem D_LIMITE e D_ATUALIZACAO num campo contínuo, mas não há qualquer D_REGULARIDADE (as atualizações não recorrem mesmo sob os mesmos limites estruturais).",
+    "consequencias": [
+      "Se os limites se mantêm mas as atualizações não recorrem, então os limites não determinam as atualizações admissíveis: o limite deixa de ser diferenciação do admissível e do não-admissível.",
+      "Sem função diferenciadora do limite, D_DETERMINACAO perde a sua base: não há 'este modo estável' sem recorrência que o sustente.",
+      "Sem determinação estável, o campo relacional perde estrutura: o real colapsa em fluxo completamente errático.",
+      "A hipótese dissolve as condições (limite, estrutura) que pressupunha."
+    ],
+    "resultado": "Contradição estrutural: D_LIMITE e D_ATUALIZACAO num campo contínuo implicam necessariamente D_REGULARIDADE como recorrência estrutural."
+  },
+
+  "protecoes_anti_desvio": [
+    "D_REGULARIDADE não é lei formal: não é norma imposta de fora, é padrão emergente da estrutura real.",
+    "D_REGULARIDADE não é hábito epistémico: não depende de um observador que a registre — é propriedade do campo independente de qualquer descrição.",
+    "D_ESTABILIDADE não é imobilidade: é manutenção da regularidade sob limites, compatível com movimento e transformação dentro do campo de admissibilidades.",
+    "D_REGULARIDADE não é absoluta: está condicionada à manutenção dos limites — quando os limites mudam, a regularidade pode mudar."
+  ],
+
+  "ligacoes_narrativas": {
+    "depende_de_argumentos": [
+      "ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA",
+      "ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO",
+      "ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO"
+    ],
+    "prepara_argumentos": [
+      "ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE",
+      "ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA"
+    ],
+    "back_links": ["CAP_06_ATUALIZACAO_CONTINUIDADE"],
+    "forward_links": ["CAP_07_REGULARIDADE_NECESSIDADE"]
+  },
+
+  "proposicoes_fonte": {
+    "premissas": [],
+    "deducoes": []
+  },
+
+  "observacoes": [
+    "Abre o CAP_07: regularidade como ponto de articulação entre a dinâmica do real (atualização, contínuo) e as modalidades do real (necessidade, contingência).",
+    "D_REGULARIDADE e D_ESTABILIDADE são pressupostos da D_ESCALA_ONTOLOGICA (a ser instalada na PARTE III): sem regularidades estáveis não há escalas de organização distintas.",
+    "Bloqueia dois desvios: 'regularidade como lei formal exterior' e 'regularidade como mero hábito subjetivo'."
+  ]
+}
