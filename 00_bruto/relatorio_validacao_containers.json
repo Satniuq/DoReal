@@ -1,0 +1,23 @@
+{
+  "estado_final": "ok",
+  "resumo": {
+    "ficheiro_md": "fragmentos.md",
+    "ficheiro_json": "containers_segmentacao.json",
+    "n_headers_md": 239,
+    "n_containers_json": 296,
+    "n_paragrafos_md": 924,
+    "n_paragrafos_json": 924,
+    "cobertura_total_ok": true,
+    "ordem_total_ok": true,
+    "ids_ok": true,
+    "containers_vazios_ok": true
+  },
+  "erros": [],
+  "avisos": [
+    {
+      "tipo": "diferenca_numero_headers",
+      "headers_md": 239,
+      "containers_com_header_formal": 296
+    }
+  ]
+}

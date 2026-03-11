@@ -1,0 +1,469 @@
+depois do resegmentador acabar, avançar com o 
+
+Extrator de acordo la com os ficheiros da 
+pasta extrator e com a coerencia do output do 
+fragmentos_resegmentados e com
+esta nota:
+
+O que o extrator da cadência já pode usar daqui
+
+Do teu output atual, eu usaria logo estes campos:
+
+texto_fragmento
+
+paragrafos_agregados
+
+frases_aproximadas
+
+n_chars_fragmento
+
+funcao_textual_dominante
+
+segmentacao.tipo_unidade
+
+segmentacao.criterio_de_unidade
+
+relacoes_locais
+
+tema_dominante_provisorio
+
+conceitos_relevantes_provisorios
+
+Mas com esta regra:
+
+tema e conceitos são auxiliares
+
+texto_fragmento continua a ser a fonte principal
+
+
+O QUE TOU A FAZER:
+
+Orientação para o Extrator da Cadência
+1. Ponto de situação
+
+A fase de segmentação semântica já atingiu um nível suficiente de estabilidade para deixar de ser o problema central.
+
+Neste momento, a base operacional relevante é esta:
+
+01_segmentar_fragmentos/containers_segmentacao.json
+contém os containers já estabilizados, com parágrafos identificados e rastreáveis;
+
+01_segmentar_fragmentos/fragmentos_resegmentados.json
+contém os fragmentos semanticamente resegmentados, já com:
+
+preservação de ordem,
+
+preservação de cobertura,
+
+agrupamento supra-parágrafo quando necessário,
+
+campos auxiliares de anotação leve;
+
+extrator/extracao_ontologica_final.json
+contém uma camada anterior, densa e relevante, mas não deve comandar a cadência; deve servir apenas como material de contraste, apoio ou reconciliação;
+
+01_cadencia_dos_capitulos.md
+contém a arquitetura macro desejada da progressão;
+
+02_grelha_de_leitura_filosofos.md
+contém um enquadramento de leitura transversal útil para identificar tipos de pensamento e modos de erro;
+
+03_mapa_dos_erros_estruturais.md
+contém a tipologia crítica a partir da qual se pode reconhecer desvio, quebra, fechamento, deslocação ou insuficiência estrutural.
+
+Conclusão: o próximo passo já não é segmentar melhor. O próximo passo é extrair função de cadência a partir dos fragmentos já estabilizados.
+
+2. O que é o extrator da cadência
+
+O extrator da cadência não é um extrator ontológico no sentido forte.
+
+Ele não serve para:
+
+classificar definitivamente o fragmento na ontologia;
+
+escolher já o capítulo final do livro;
+
+impor uma leitura filosófica total;
+
+reconciliar desde já tudo com o índice.
+
+O extrator da cadência serve para algo mais intermédio e mais disciplinado:
+
+identificar o papel estrutural de cada fragmento no movimento do texto.
+
+Ou seja, a pergunta central deixa de ser:
+
+“o que é isto ontologicamente?”
+
+e passa a ser:
+
+“o que faz este fragmento dentro da progressão argumentativa e narrativa?”
+
+3. Objeto do extrator da cadência
+
+A unidade de trabalho do extrator da cadência deve ser o fragmento resegmentado.
+
+O input principal é, portanto:
+
+fragmentos_resegmentados.json
+
+e não:
+
+os parágrafos isolados,
+
+nem os containers brutos,
+
+nem o extracao_ontologica_final.json como fonte principal.
+
+O fragmento resegmentado já é a unidade mínima semanticamente aceitável para se começar a extrair cadência.
+
+4. Critério fundamental
+
+O extrator da cadência deve sempre respeitar esta ordem de prioridade:
+
+prioridade 1
+
+texto_fragmento
+
+prioridade 2
+
+estrutura local do fragmento:
+
+paragrafos_agregados
+
+frases_aproximadas
+
+n_chars_fragmento
+
+relacoes_locais
+
+posição relativa dentro do container
+
+prioridade 3
+
+anotação leve já existente:
+
+funcao_textual_dominante
+
+segmentacao.tipo_unidade
+
+segmentacao.criterio_de_unidade
+
+tema_dominante_provisorio
+
+conceitos_relevantes_provisorios
+
+prioridade 4
+
+materiais externos de apoio:
+
+01_cadencia_dos_capitulos.md
+
+02_grelha_de_leitura_filosofos.md
+
+03_mapa_dos_erros_estruturais.md
+
+extracao_ontologica_final.json
+
+Regra prática:
+o texto do fragmento manda; os outros campos apenas ajudam.
+
+5. O que a cadência deve extrair
+
+O extrator da cadência deve procurar reconhecer, em cada fragmento, pelo menos estas dimensões:
+
+a) função de progressão
+
+Que papel desempenha este fragmento no avanço do texto?
+
+Exemplos:
+
+abertura de problema
+
+formulação inicial
+
+distinção conceptual
+
+aprofundamento
+
+objeção
+
+resposta
+
+transição
+
+consequência
+
+síntese provisória
+
+aplicação
+
+crítica de erro
+
+reposicionamento narrativo
+
+b) direção do movimento
+
+O fragmento:
+
+introduz?
+
+prolonga?
+
+fecha?
+
+muda de escala?
+
+muda de objeto?
+
+regressa a algo anterior?
+
+prepara o fragmento seguinte?
+
+c) densidade de elaboração
+
+O fragmento é:
+
+nuclear,
+
+auxiliar,
+
+transitório,
+
+exploratório,
+
+estabilizador,
+
+dispersivo mas aproveitável,
+
+ou simplesmente nota de apoio?
+
+d) tipo de contribuição para o livro
+
+O fragmento contribui sobretudo para:
+
+ontologia,
+
+antropologia,
+
+mediação simbólica,
+
+epistemologia,
+
+ética,
+
+crítica de erro,
+
+aplicação cultural/política/religiosa,
+
+ou metaestrutura do próprio livro?
+
+Isto ainda não é o capítulo final, mas já é uma orientação de encaixe.
+
+e) relação com a linha do livro
+
+O fragmento parece:
+
+pertencer claramente a uma zona,
+
+funcionar como ponte entre zonas,
+
+ou estar ainda demasiado solto para encaixe seguro?
+
+6. O que o extrator da cadência não deve fazer
+
+Para não repetir erros metodológicos anteriores, o extrator da cadência não deve:
+
+transformar logo cada fragmento em proposição ontológica fechada;
+
+forçar o texto a encaixar artificialmente num capítulo;
+
+confundir anotação de cadência com interpretação filosófica total;
+
+substituir o fragmento por resumo abstrato demais;
+
+deixar que o vocabulário auxiliar mande mais do que o texto;
+
+usar a camada antiga (extracao_ontologica_final.json) como verdade superior.
+
+A cadência é uma camada intermédia entre:
+
+o bruto resegmentado,
+
+e a arquitetura final do livro.
+
+Não é ainda a fase de síntese final.
+
+7. O que já existe e deve ser aproveitado
+01_cadencia_dos_capitulos.md
+
+Deve funcionar como mapa macro da progressão desejada.
+
+Serve para perguntar:
+
+este fragmento parece aproximar-se de que zona do percurso?
+
+qual a sua utilidade para a progressão?
+
+02_grelha_de_leitura_filosofos.md
+
+Deve funcionar como grelha de reconhecimento de tipos de pensamento.
+
+Serve sobretudo quando o fragmento:
+
+fala de filosofia,
+
+critica posições,
+
+descreve modos de pensar,
+
+ou identifica degenerações conceptuais.
+
+03_mapa_dos_erros_estruturais.md
+
+Deve funcionar como apoio para reconhecer:
+
+erro categorial,
+
+erro de escala,
+
+fechamento simbólico,
+
+substituição do real por sistema,
+
+deslocação do critério,
+
+absolutização do sujeito,
+
+etc.
+
+Mas sempre como apoio, e não como martelo único.
+
+extrator/labels_tipos_fragmento.json
+
+Pode ser reaproveitado parcialmente, se estiver bem desenhado, para normalizar a função do fragmento.
+
+extrator/labels_erros.json
+
+Pode ser útil, mas só na parte em que a cadência detecta que um fragmento está a operar criticamente sobre erro.
+
+extrator/labels_zonas_indice.json
+
+Pode ser muito útil, se for lido como uma camada de orientação para zonas do percurso e não como etiquetagem rígida.
+
+8. Saída ideal do extrator da cadência
+
+A saída ideal do extrator da cadência não deve ainda ser excessivamente pesada.
+
+O objetivo é produzir uma camada como:
+
+clara,
+
+estável,
+
+comparável,
+
+e utilizável para reordenação e composição posterior.
+
+Uma boa saída deveria incluir, por fragmento:
+
+identificador do fragmento;
+
+função de cadência principal;
+
+função secundária, se existir;
+
+direção do movimento;
+
+nível de centralidade;
+
+zona provável do percurso;
+
+se é ponte ou não;
+
+se prepara fragmento seguinte;
+
+se fecha algo anterior;
+
+se contém crítica de erro;
+
+se é material forte para núcleo de capítulo ou apenas apoio;
+
+grau de confiança.
+
+E, idealmente, um pequeno campo textual do género:
+
+justificacao_curta_cadencia
+
+com 1 frase curta, disciplinada, sem floreado.
+
+9. Regra metodológica central para amanhã
+
+A regra mais importante para o trabalho de amanhã é esta:
+
+não tentar resolver o livro todo no extrator da cadência.
+
+O extrator da cadência só tem de fazer uma coisa bem:
+
+transformar fragmentos semanticamente estáveis em unidades estruturalmente legíveis para a construção do livro.
+
+Se fizeres isso bem, depois torna-se possível:
+
+ordenar,
+
+agrupar,
+
+comparar,
+
+reconhecer repetições,
+
+identificar lacunas,
+
+e começar a compor capítulos com base real.
+
+10. Perguntas que devem guiar o desenho do extrator
+
+Ao desenhar o schema e o prompt do extrator da cadência, as perguntas certas são:
+
+Que papel estrutural desempenha este fragmento?
+
+Este fragmento introduz, prolonga, desloca, fecha ou critica?
+
+Ele pertence a uma zona do percurso ou funciona como ponte?
+
+É um fragmento central, auxiliar ou transitório?
+
+O fragmento é útil para a cadência do livro mesmo que ainda não esteja ontologicamente fechado?
+
+Que tipo de encaixe futuro este fragmento pede?
+
+11. Formulação de trabalho
+
+A formulação mais útil para manter o foco é esta:
+
+O segmentador já produziu unidades semanticamente íntegras.
+O extrator da cadência deve agora reconhecer a função estrutural dessas unidades no movimento do livro.
+
+Ou ainda mais resumidamente:
+
+segmentação dá unidade; cadência dá lugar e função.
+
+12. Resultado esperado desta fase
+
+No fim desta fase, deves ter uma camada que permita:
+
+ver o percurso real dos fragmentos;
+
+reconhecer que tipo de material tens em excesso;
+
+ver onde faltam pontes;
+
+ver que fragmentos são núcleo;
+
+ver que fragmentos são apenas variações, ecos ou aplicações;
+
+e começar a compor o livro por blocos com lógica sequencial.
+
+Só depois disso faz sentido pensar em integração mais dura com o índice final.
+
+Se quiseres, amanhã o passo mais útil é começarmos logo pelo schema do output do extrator da cadência e pelo prompt certo, em vez de começar logo a escrever o script às cegas.

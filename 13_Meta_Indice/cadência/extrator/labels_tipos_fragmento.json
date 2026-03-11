@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "criterio_ultimo": "D_REAL",
+  "descricao": "Tipologia funcional de fragmentos derivada das operações, regimes e estruturas formais presentes no projeto, com extensão operacional mínima para ingestão de material bruto.",
+  "origem_derivacao": [
+    "operacoes.json",
+    "argumentos_unificados.json",
+    "indice_argumentos.json",
+    "meta_indice.json",
+    "indice_sequencial.json"
+  ],
+  "tipos_fragmento": [
+    {
+      "id": "afirmacao_estrutural",
+      "familia": "inscricao_no_real",
+      "operacao_base": "OP_AFIRMACAO_ESTRUTURAL",
+      "descricao": "Afirma uma determinação como pertencente à estrutura do real."
+    },
+    {
+      "id": "fixacao_condicao_ontologica",
+      "familia": "inscricao_no_real",
+      "operacao_base": "OP_FIXACAO_CONDICAO_ONTOLOGICA",
+      "descricao": "Fixa uma condição ontológica necessária para a possibilidade do ser."
+    },
+    {
+      "id": "fixacao_limite_ontologico",
+      "familia": "inscricao_no_real",
+      "operacao_base": "OP_FIXACAO_LIMITE_ONTOLOGICO",
+      "descricao": "Fixa limites ontológicos intransponíveis no real."
+    },
+    {
+      "id": "exclusao_exterioridade",
+      "familia": "inscricao_no_real",
+      "operacao_base": "OP_EXCLUSAO_EXTERIORIDADE",
+      "descricao": "Exclui a possibilidade de exterioridade ao real."
+    },
+    {
+      "id": "identificacao_impossibilidade_ontologica",
+      "familia": "inscricao_no_real",
+      "operacao_base": "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA",
+      "descricao": "Identifica impossibilidades estruturais no poder-ser do real."
+    },
+    {
+      "id": "reconducao_relacional",
+      "familia": "descricao_estrutural",
+      "operacao_base": "OP_RECONDUCAO_RELACIONAL",
+      "descricao": "Reconduz determinações isoladas à sua inscrição relacional."
+    },
+    {
+      "id": "descricao_estrutural",
+      "familia": "descricao_estrutural",
+      "operacao_base": "OP_DESCRICAO_ESTRUTURAL",
+      "descricao": "Descreve estruturas do real sem as substituir por sistemas."
+    },
+    {
+      "id": "descricao_atualizacao",
+      "familia": "descricao_estrutural",
+      "operacao_base": "OP_DESCRICAO_ATUALIZACAO",
+      "descricao": "Descreve atualizações efetivas no real."
+    },
+    {
+      "id": "identificacao_dependencia",
+      "familia": "descricao_estrutural",
+      "operacao_base": "OP_IDENTIFICACAO_DEPENDENCIA",
+      "descricao": "Identifica dependências ontológicas entre determinações."
+    },
+    {
+      "id": "identificacao_continuidade",
+      "familia": "descricao_estrutural",
+      "operacao_base": "OP_IDENTIFICACAO_CONTINUIDADE",
+      "descricao": "Identifica permanência relacional e continuidade no real."
+    },
+    {
+      "id": "regularidade_estrutural",
+      "familia": "descricao_estrutural",
+      "operacao_base": "OP_IDENTIFICACAO_REGULARIDADE",
+      "descricao": "Identifica padrões de recorrência estrutural."
+    },
+    {
+      "id": "diferenciacao_niveis",
+      "familia": "diferenciacao_ontologica",
+      "operacao_base": "OP_DIFERENCIACAO_NIVEIS",
+      "descricao": "Distingue níveis ontológicos sem colapso indevido."
+    },
+    {
+      "id": "identificacao_escala",
+      "familia": "diferenciacao_ontologica",
+      "operacao_base": "OP_IDENTIFICACAO_ESCALA",
+      "descricao": "Identifica a escala ontológica adequada."
+    },
+    {
+      "id": "identificacao_campo",
+      "familia": "diferenciacao_ontologica",
+      "operacao_base": "OP_IDENTIFICACAO_CAMPO",
+      "descricao": "Localiza uma determinação num campo relacional."
+    },
+    {
+      "id": "identificacao_mediacao",
+      "familia": "diferenciacao_ontologica",
+      "operacao_base": "OP_IDENTIFICACAO_MEDIACAO",
+      "descricao": "Identifica mediações sem lhes atribuir estatuto ontológico indevido."
+    },
+    {
+      "id": "dessubstancializacao",
+      "familia": "critica_reflexividade",
+      "operacao_base": "OP_DESSUBSTANCIALIZACAO",
+      "descricao": "Remove substancialização ilegítima do eu ou da consciência."
+    },
+    {
+      "id": "reinscricao_consciencia_real",
+      "familia": "critica_reflexividade",
+      "operacao_base": "OP_REINSCRICAO_CONSCIENCIA_REAL",
+      "descricao": "Reinscreve a consciência como processo localizado no real."
+    },
+    {
+      "id": "limitacao_reflexividade",
+      "familia": "critica_reflexividade",
+      "operacao_base": "OP_LIMITACAO_REFLEXIVIDADE",
+      "descricao": "Limita a reflexividade à sua localidade ontológica."
+    },
+    {
+      "id": "distincao_apreensao_representacao",
+      "familia": "critica_reflexividade",
+      "operacao_base": "OP_DISTINCAO_APREENSAO_REPRESENTACAO",
+      "descricao": "Distingue apreensão do real e representação mediada."
+    },
+    {
+      "id": "identificacao_ponto_de_vista",
+      "familia": "critica_reflexividade",
+      "operacao_base": "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+      "descricao": "Identifica o ponto de vista como limitação estrutural."
+    },
+    {
+      "id": "identificacao_projecao_eu",
+      "familia": "critica_reflexividade",
+      "operacao_base": "OP_IDENTIFICACAO_PROJECAO_EU",
+      "descricao": "Identifica projeções do eu como substituições ilegítimas do real."
+    },
+    {
+      "id": "identificacao_adequacao",
+      "familia": "epistemologica",
+      "operacao_base": "OP_IDENTIFICACAO_ADEQUACAO",
+      "descricao": "Identifica adequação entre representação e real."
+    },
+    {
+      "id": "fixacao_criterio",
+      "familia": "epistemologica",
+      "operacao_base": "OP_FIXACAO_CRITERIO",
+      "descricao": "Fixa o critério de avaliação no real."
+    },
+    {
+      "id": "submissao_ao_real",
+      "familia": "epistemologica",
+      "operacao_base": "OP_SUBMISSAO_REAL",
+      "descricao": "Submete representações e sistemas à resistência do real."
+    },
+    {
+      "id": "identificacao_erro_descritivo",
+      "familia": "epistemologica",
+      "operacao_base": "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+      "descricao": "Identifica falhas descritivas na correspondência com o real."
+    },
+    {
+      "id": "identificacao_erro_categorial",
+      "familia": "epistemologica",
+      "operacao_base": "OP_IDENTIFICACAO_ERRO_CATEGORIAL",
+      "descricao": "Identifica confusão entre níveis ontológicos distintos."
+    },
+    {
+      "id": "identificacao_erro_escala",
+      "familia": "epistemologica",
+      "operacao_base": "OP_IDENTIFICACAO_ERRO_ESCALA",
+      "descricao": "Identifica aplicação ilegítima de critérios fora da sua escala."
+    },
+    {
+      "id": "derivacao_dever_ser",
+      "familia": "etico_ontologica",
+      "operacao_base": "OP_DERIVACAO_DEVER_SER",
+      "descricao": "Deriva o dever-ser a partir do ser e do poder-ser."
+    },
+    {
+      "id": "subordinacao_dever_ser",
+      "familia": "etico_ontologica",
+      "operacao_base": "OP_SUBORDINACAO_DEVER_SER",
+      "descricao": "Subordina o dever-ser aos limites ontológicos do real."
+    },
+    {
+      "id": "identificacao_responsabilidade_ontologica",
+      "familia": "etico_ontologica",
+      "operacao_base": "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA",
+      "descricao": "Identifica responsabilidade como vínculo ontológico aos efeitos reais."
+    },
+    {
+      "id": "identificacao_dano_real",
+      "familia": "etico_ontologica",
+      "operacao_base": "OP_IDENTIFICACAO_DANO_REAL",
+      "descricao": "Identifica dano como redução real de potencialidades."
+    },
+    {
+      "id": "identificacao_bem_como_adequacao",
+      "familia": "etico_ontologica",
+      "operacao_base": "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO",
+      "descricao": "Identifica o bem como adequação estrutural ao real."
+    },
+    {
+      "id": "identificacao_cristalizacao_sistemica",
+      "familia": "critica_sistemica",
+      "operacao_base": "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
+      "descricao": "Identifica cristalização de regularidades em sistemas fechados."
+    },
+    {
+      "id": "identificacao_degeneracao",
+      "familia": "critica_sistemica",
+      "operacao_base": "OP_IDENTIFICACAO_DEGENERACAO",
+      "descricao": "Identifica processos de degeneração autorreferencial."
+    },
+    {
+      "id": "identificacao_substituicao_real_sistema",
+      "familia": "critica_sistemica",
+      "operacao_base": "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+      "descricao": "Identifica substituição do real por coerência sistémica interna."
+    },
+    {
+      "id": "critica_fechamento_simbolico",
+      "familia": "critica_sistemica",
+      "operacao_base": "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "descricao": "Critica o fechamento simbólico que rompe a mediação com o real."
+    },
+    {
+      "id": "reintegracao_ontologica",
+      "familia": "corretiva",
+      "operacao_base": "OP_REINTEGRACAO_ONTOLOGICA",
+      "descricao": "Reintegra sistemas, representações ou práticas no real."
+    },
+    {
+      "id": "proposicao_fonte",
+      "familia": "apoio_textual",
+      "operacao_base": null,
+      "descricao": "Formulação-fonte a partir da qual um argumento ou operação é construído."
+    },
+    {
+      "id": "observacao_metodologica",
+      "familia": "apoio_metodologico",
+      "operacao_base": null,
+      "descricao": "Fragmento sobre método, arquitetura, ordem de exposição ou disciplina de leitura."
+    },
+    {
+      "id": "transicao_narrativa",
+      "familia": "apoio_narrativo",
+      "operacao_base": null,
+      "descricao": "Fragmento cuja função principal é ligar capítulos, argumentos ou partes."
+    },
+    {
+      "id": "fragmento_intuitivo",
+      "familia": "pre_formal",
+      "operacao_base": null,
+      "descricao": "Formulação ainda não estabilizada, mas com valor potencial para o sistema."
+    }
+  ]
+}

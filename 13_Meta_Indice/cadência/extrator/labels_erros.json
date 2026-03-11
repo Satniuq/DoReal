@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "criterio_ultimo": "D_REAL",
+  "descricao": "Mapa dos erros estruturais derivado dos regimes, operações e percursos críticos do projeto. Inclui erros explicitamente nomeados e erros operacionais inferíveis com forte base nos ficheiros-fonte.",
+  "origem_derivacao": [
+    "operacoes.json",
+    "meta_indice.json",
+    "meta_referencia_do_percurso.json",
+    "argumentos_unificados.json"
+  ],
+  "erros": [
+    {
+      "id": "erro_descritivo",
+      "tipo": "epistemologico",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+      "descricao": "Falha descritiva na correspondência operativa com o real.",
+      "sinais_tipicos": [
+        "descrição desalinhada com o real",
+        "representação inadequada",
+        "falha de ajustamento"
+      ]
+    },
+    {
+      "id": "erro_categorial",
+      "tipo": "epistemologico",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_ERRO_CATEGORIAL",
+      "descricao": "Confusão ilegítima entre níveis ontológicos distintos.",
+      "sinais_tipicos": [
+        "colapso entre biológico e simbólico",
+        "epistemologia tratada como ontologia",
+        "psicológico tratado como ontológico"
+      ]
+    },
+    {
+      "id": "erro_de_escala",
+      "tipo": "epistemologico",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_ERRO_ESCALA",
+      "descricao": "Aplicação ilegítima de critérios fora da sua escala ontológica própria.",
+      "sinais_tipicos": [
+        "explicar o todo por uma parte",
+        "transferência indevida de critérios",
+        "redução de níveis"
+      ]
+    },
+    {
+      "id": "substituicao_do_real_por_sistema",
+      "tipo": "critica_sistemica",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+      "descricao": "O sistema conceptual ou simbólico passa a substituir o real como critério.",
+      "sinais_tipicos": [
+        "coerência interna elevada e fechamento",
+        "reinterpretação do real segundo o sistema",
+        "imunização à correção"
+      ]
+    },
+    {
+      "id": "fechamento_simbolico",
+      "tipo": "critica_sistemica",
+      "operacao_corretiva_primaria": "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+      "descricao": "O sistema simbólico opera fechado sobre si, rompendo a mediação com o real.",
+      "sinais_tipicos": [
+        "discurso que responde apenas a si",
+        "autorreferencialidade simbólica",
+        "desligamento da exterioridade real"
+      ]
+    },
+    {
+      "id": "cristalizacao_sistemica",
+      "tipo": "critica_sistemica",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
+      "descricao": "Regularidades ou mediações tornam-se estruturas rígidas e autorreprodutivas.",
+      "sinais_tipicos": [
+        "rigidificação",
+        "formalização fechada",
+        "perda de plasticidade ontológica"
+      ]
+    },
+    {
+      "id": "degeneracao",
+      "tipo": "critica_sistemica",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_DEGENERACAO",
+      "descricao": "Processo de deriva autorreferencial que produz manutenção estrutural do erro.",
+      "sinais_tipicos": [
+        "persistência no erro",
+        "reprodução cultural do desvio",
+        "bloqueio corretivo"
+      ]
+    },
+    {
+      "id": "projecao_do_eu",
+      "tipo": "critica_reflexividade",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_PROJECAO_EU",
+      "descricao": "Substituição ilegítima do real por projeções do eu.",
+      "sinais_tipicos": [
+        "o eu como medida do real",
+        "interioridade inflacionada",
+        "personalização do critério"
+      ]
+    },
+    {
+      "id": "substancializacao_do_eu_ou_consciencia",
+      "tipo": "critica_reflexividade",
+      "operacao_corretiva_primaria": "OP_DESSUBSTANCIALIZACAO",
+      "descricao": "Tratamento do eu ou da consciência como substância autónoma indevida.",
+      "sinais_tipicos": [
+        "consciência como instância separada",
+        "eu substancializado",
+        "centro absoluto do sistema"
+      ]
+    },
+    {
+      "id": "confusao_entre_apreensao_e_representacao",
+      "tipo": "critica_reflexividade",
+      "operacao_corretiva_primaria": "OP_DISTINCAO_APREENSAO_REPRESENTACAO",
+      "descricao": "Apreensão do real e representação mediada são confundidas.",
+      "sinais_tipicos": [
+        "tomar a representação pelo real",
+        "apagar o nível mediacional",
+        "imediatismo representacional"
+      ]
+    },
+    {
+      "id": "deslocalizacao_do_ponto_de_vista",
+      "tipo": "critica_reflexividade",
+      "operacao_corretiva_primaria": "OP_IDENTIFICACAO_PONTO_DE_VISTA",
+      "descricao": "Esquecimento da localidade estrutural do ponto de vista.",
+      "sinais_tipicos": [
+        "pretensão a perspetiva absoluta",
+        "olhar sem localização",
+        "apagamento da finitude"
+      ]
+    },
+    {
+      "id": "subjetivacao_do_criterio",
+      "tipo": "epistemologico",
+      "operacao_corretiva_primaria": "OP_FIXACAO_CRITERIO",
+      "descricao": "O critério de validade é deslocado do real para o sujeito, a coerência interna ou o consenso.",
+      "sinais_tipicos": [
+        "certeza subjetiva como fundamento",
+        "consenso como critério último",
+        "coerência interna como verdade"
+      ]
+    },
+    {
+      "id": "nao_submissao_ao_real",
+      "tipo": "epistemologico",
+      "operacao_corretiva_primaria": "OP_SUBMISSAO_REAL",
+      "descricao": "Representações ou sistemas deixam de se submeter à resistência do real.",
+      "sinais_tipicos": [
+        "blindagem contra correção",
+        "recusa de reinscrição ontológica",
+        "persistência voluntária no desvio"
+      ]
+    },
+    {
+      "id": "dogmatizacao",
+      "tipo": "deslocamento",
+      "operacao_corretiva_primaria": "OP_SUBMISSAO_REAL",
+      "descricao": "Erro por reificação indevida de formulações, normas ou sistemas como se fossem absolutos.",
+      "origem_meta": "REGIME_INSCRICAO_REAL.erros.por_deslocamento"
+    },
+    {
+      "id": "moralizacao_indevida",
+      "tipo": "deslocamento",
+      "operacao_corretiva_primaria": "OP_DERIVACAO_DEVER_SER",
+      "descricao": "Introdução indevida de normatividade autónoma sem derivação ontológica suficiente.",
+      "origem_meta": "REGIME_INSCRICAO_REAL.erros.por_deslocamento"
+    },
+    {
+      "id": "hipostase",
+      "tipo": "operacional_derivado",
+      "operacao_corretiva_primaria": "OP_RECONDUCAO_RELACIONAL",
+      "descricao": "Abstrações, funções ou categorias são tratadas como entidades ontológicas autónomas.",
+      "sinais_tipicos": [
+        "conceito tratado como coisa",
+        "reificação de abstração",
+        "não-ser ou símbolo tornados entidade"
+      ]
+    },
+    {
+      "id": "atomismo_ontologico",
+      "tipo": "operacional_derivado",
+      "operacao_corretiva_primaria": "OP_RECONDUCAO_RELACIONAL",
+      "descricao": "Tratamento do real como soma de unidades isoladas sem continuidade relacional suficiente.",
+      "sinais_tipicos": [
+        "coisas isoladas como ponto de partida",
+        "negação da continuidade estruturada",
+        "desligamento relacional"
+      ]
+    },
+    {
+      "id": "substancialismo_isolacionista",
+      "tipo": "operacional_derivado",
+      "operacao_corretiva_primaria": "OP_RECONDUCAO_RELACIONAL",
+      "descricao": "Fixação do ser como substância isolada em vez de modo de estar no real.",
+      "sinais_tipicos": [
+        "ser separado do real",
+        "identidade desligada da relação",
+        "substrato rígido como fundamento"
+      ]
+    },
+    {
+      "id": "inversao_direcional",
+      "tipo": "operacional_derivado",
+      "operacao_corretiva_primaria": "OP_REINTEGRACAO_ONTOLOGICA",
+      "descricao": "O percurso é invertido: parte-se de sistemas, critérios ou deveres e não do real.",
+      "sinais_tipicos": [
+        "dever-ser autonomizado",
+        "critério antes de ontologia",
+        "sistema antes do real"
+      ],
+      "origem_meta": "P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL"
+    }
+  ],
+  "familias": [
+    {
+      "id": "epistemologicos",
+      "membros": [
+        "erro_descritivo",
+        "erro_categorial",
+        "erro_de_escala",
+        "subjetivacao_do_criterio",
+        "nao_submissao_ao_real"
+      ]
+    },
+    {
+      "id": "critica_reflexividade",
+      "membros": [
+        "projecao_do_eu",
+        "substancializacao_do_eu_ou_consciencia",
+        "confusao_entre_apreensao_e_representacao",
+        "deslocalizacao_do_ponto_de_vista"
+      ]
+    },
+    {
+      "id": "critica_sistemica",
+      "membros": [
+        "substituicao_do_real_por_sistema",
+        "fechamento_simbolico",
+        "cristalizacao_sistemica",
+        "degeneracao"
+      ]
+    },
+    {
+      "id": "deslocamentos_e_derivados",
+      "membros": [
+        "dogmatizacao",
+        "moralizacao_indevida",
+        "hipostase",
+        "atomismo_ontologico",
+        "substancialismo_isolacionista",
+        "inversao_direcional"
+      ]
+    }
+  ]
+}
