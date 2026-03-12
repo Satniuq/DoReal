@@ -1,0 +1,114 @@
+Agora, muito em concreto, faz só isto:
+
+1. Pára de gerar ficheiros novos
+
+Neste momento não precisas de mais scripts.
+
+2. Abre apenas um ficheiro
+
+Abre:
+
+falsos_negativos_zona.csv
+
+Ignora os outros por agora.
+
+3. Trabalha só nas primeiras 20 linhas
+
+Não tentes rever tudo.
+
+Nas primeiras 20 linhas, preenche apenas estas 3 colunas:
+
+zona_sugerida_manual
+
+decisao_editorial_manual
+
+notas_revisor
+
+4. Como preencher
+zona_sugerida_manual
+
+Escolhe uma destas zonas:
+
+ontologia
+
+estrutura_operacional_do_real
+
+campo_e_localizacao
+
+transicao_antropologica
+
+mediacao_simbolica
+
+epistemologia
+
+escala_e_erro_de_escala
+
+etica_e_narrativa
+
+critica_sistemica_e_reintegracao
+
+percurso_do_erro_e_correcao
+
+percurso_da_degeneracao
+
+vida_boa
+
+metaestrutura_do_livro
+
+decisao_editorial_manual
+
+Usa só um destes valores:
+
+reclassificar
+
+manter_indefinida
+
+retrabalhar
+
+notas_revisor
+
+Uma frase curta. Exemplo:
+
+“fixa condição ontológica”
+
+“é crítica do erro cognitivo”
+
+“faz ponte para a antropologia”
+
+“ainda demasiado solto”
+
+5. Regra prática para decidir a zona
+
+Usa esta grelha mínima:
+
+ontologia
+se fala do ser, real, fundamento, possibilidade, atualização, estrutura do que é
+
+epistemologia
+se fala de conhecimento, verdade, apreensão, descrição, erro cognitivo
+
+transicao_antropologica
+se passa do real em geral para o ser reflexivo, humano, ação, sujeito
+
+mediacao_simbolica
+se fala de linguagem, representação, símbolo, discurso
+
+percurso_do_erro_e_correcao
+se o foco está em erro, desvio, correção, degeneração cognitiva
+
+etica_e_narrativa
+se fala de ação, adequação prática, viver, orientação da conduta
+
+vida_boa
+se já está claramente no plano do viver bem
+
+Se nenhuma te parecer segura:
+
+põe manter_indefinida
+
+6. Quando acabares essas 20 linhas
+
+Guarda o ficheiro e manda-mo.
+
+É só isso.
+Não abras já os outros CSV. Não faças mais filtros. Não faças mais scripts. O trabalho agora é revisão manual curta e focada.
