@@ -2198,11 +2198,13 @@
       "modo": "duas_fases"
     },
     "F0214": {
-      "status": "falha",
+      "status": "ok",
       "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
-      "ts": "2026-03-11 02:38:13",
+      "ts": "2026-03-11 22:34:36",
       "tentativas": 3,
-      "last_error": "'ID1'"
+      "last_error": null,
+      "n_fragmentos_gerados": 1,
+      "modo": "duas_fases"
     },
     "F0215": {
       "status": "ok",
@@ -2664,5 +2666,5 @@
       "modo": "duas_fases"
     }
   },
-  "ultima_execucao": "2026-03-11 03:05:31"
+  "ultima_execucao": "2026-03-11 22:34:36"
 }

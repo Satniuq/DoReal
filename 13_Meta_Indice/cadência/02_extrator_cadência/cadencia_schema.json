@@ -1,0 +1,290 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Schema de Extração de Cadência",
+  "description": "Camada intermédia que identifica a função estrutural de cada fragmento no movimento do livro, mantendo compatibilidade leve com o schema estrutural do projeto.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "fragment_id",
+      "origem_id",
+      "ordem_no_ficheiro",
+      "cadencia"
+    ],
+    "properties": {
+      "fragment_id": {
+        "type": "string",
+        "description": "Identificador único do fragmento resegmentado."
+      },
+      "origem_id": {
+        "type": "string",
+        "description": "Identificador do container ou fragmento-base de origem."
+      },
+      "ordem_no_ficheiro": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Posição sequencial do fragmento no conjunto total."
+      },
+      "cadencia": {
+        "type": "object",
+        "required": [
+          "funcao_cadencia_principal",
+          "funcao_cadencia_secundaria",
+          "direcao_movimento",
+          "grau_de_abertura_argumentativa",
+          "centralidade",
+          "estatuto_no_percurso",
+          "zona_provavel_percurso",
+          "ponte_entre_zonas",
+          "prepara_fragmento_seguinte",
+          "fecha_algo_anterior",
+          "incide_sobre_erro",
+          "familia_erro_provavel",
+          "erro_dominante_provavel",
+          "dominio_contributivo_principal",
+          "tipo_fragmento_provavel",
+          "aproveitamento_editorial",
+          "necessita_revisao_humana",
+          "confianca_cadencia",
+          "justificacao_curta_cadencia"
+        ],
+        "properties": {
+          "funcao_cadencia_principal": {
+            "type": "string",
+            "enum": [
+              "abertura_de_problema",
+              "formulacao_inicial",
+              "distincao_conceptual",
+              "desenvolvimento",
+              "aprofundamento",
+              "objecao",
+              "resposta",
+              "transicao",
+              "consequencia",
+              "sintese_provisoria",
+              "aplicacao",
+              "critica_de_erro",
+              "reposicionamento_narrativo",
+              "nota_de_apoio"
+            ]
+          },
+          "funcao_cadencia_secundaria": {
+            "type": ["string", "null"],
+            "enum": [
+              "abertura_de_problema",
+              "formulacao_inicial",
+              "distincao_conceptual",
+              "desenvolvimento",
+              "aprofundamento",
+              "objecao",
+              "resposta",
+              "transicao",
+              "consequencia",
+              "sintese_provisoria",
+              "aplicacao",
+              "critica_de_erro",
+              "reposicionamento_narrativo",
+              "nota_de_apoio",
+              null
+            ]
+          },
+          "direcao_movimento": {
+            "type": "string",
+            "enum": [
+              "introduz",
+              "prolonga",
+              "desloca",
+              "fecha",
+              "retoma",
+              "articula",
+              "prepara"
+            ]
+          },
+          "grau_de_abertura_argumentativa": {
+            "type": "string",
+            "enum": [
+              "introducao",
+              "desenvolvimento",
+              "conclusao_local",
+              "abertura_para_seguinte"
+            ]
+          },
+          "centralidade": {
+            "type": "string",
+            "enum": [
+              "nuclear",
+              "auxiliar",
+              "transitorio",
+              "exploratorio",
+              "estabilizador",
+              "dispersivo_aproveitavel",
+              "nota_de_apoio"
+            ]
+          },
+          "estatuto_no_percurso": {
+            "type": "string",
+            "enum": [
+              "pertence_a_zona",
+              "ponte_entre_zonas",
+              "solto_ainda_sem_encaixe"
+            ]
+          },
+          "zona_provavel_percurso": {
+            "type": "string",
+            "enum": [
+              "ontologia",
+              "estrutura_operacional_do_real",
+              "campo_e_localizacao",
+              "transicao_antropologica",
+              "mediacao_simbolica",
+              "epistemologia",
+              "escala_e_erro_de_escala",
+              "etica_e_narrativa",
+              "critica_sistemica_e_reintegracao",
+              "percurso_do_erro_e_correcao",
+              "percurso_da_degeneracao",
+              "vida_boa",
+              "metaestrutura_do_livro",
+              "indefinida"
+            ]
+          },
+          "ponte_entre_zonas": {
+            "type": "boolean"
+          },
+          "prepara_fragmento_seguinte": {
+            "type": "boolean"
+          },
+          "fecha_algo_anterior": {
+            "type": "boolean"
+          },
+          "incide_sobre_erro": {
+            "type": "boolean"
+          },
+          "familia_erro_provavel": {
+            "type": ["string", "null"],
+            "enum": [
+              "epistemologicos",
+              "critica_reflexividade",
+              "critica_sistemica",
+              "deslocamentos_e_derivados",
+              "nao_aplicavel",
+              null
+            ]
+          },
+          "erro_dominante_provavel": {
+            "type": ["string", "null"],
+            "enum": [
+              "erro_descritivo",
+              "erro_categorial",
+              "erro_de_escala",
+              "substituicao_do_real_por_sistema",
+              "fechamento_simbolico",
+              "cristalizacao_sistemica",
+              "degeneracao",
+              "projecao_do_eu",
+              "substancializacao_do_eu_ou_consciencia",
+              "confusao_entre_apreensao_e_representacao",
+              "deslocalizacao_do_ponto_de_vista",
+              "subjetivacao_do_criterio",
+              "nao_submissao_ao_real",
+              "dogmatizacao",
+              "moralizacao_indevida",
+              "hipostase",
+              "atomismo_ontologico",
+              "substancialismo_isolacionista",
+              "inversao_direcional",
+              null
+            ]
+          },
+          "dominio_contributivo_principal": {
+            "type": "string",
+            "enum": [
+              "ontologia",
+              "antropologia",
+              "mediacao_simbolica",
+              "epistemologia",
+              "etica",
+              "critica_de_erro",
+              "aplicacao",
+              "metaestrutura"
+            ]
+          },
+          "tipo_fragmento_provavel": {
+            "type": ["string", "null"],
+            "enum": [
+              "afirmacao_estrutural",
+              "fixacao_condicao_ontologica",
+              "fixacao_limite_ontologico",
+              "exclusao_exterioridade",
+              "identificacao_impossibilidade_ontologica",
+              "reconducao_relacional",
+              "descricao_estrutural",
+              "descricao_atualizacao",
+              "identificacao_dependencia",
+              "identificacao_continuidade",
+              "regularidade_estrutural",
+              "diferenciacao_niveis",
+              "identificacao_escala",
+              "identificacao_campo",
+              "identificacao_mediacao",
+              "dessubstancializacao",
+              "reinscricao_consciencia_real",
+              "limitacao_reflexividade",
+              "distincao_apreensao_representacao",
+              "identificacao_ponto_de_vista",
+              "identificacao_projecao_eu",
+              "identificacao_adequacao",
+              "fixacao_criterio",
+              "submissao_ao_real",
+              "identificacao_erro_descritivo",
+              "identificacao_erro_categorial",
+              "identificacao_erro_escala",
+              "derivacao_dever_ser",
+              "subordinacao_dever_ser",
+              "identificacao_responsabilidade_ontologica",
+              "identificacao_dano_real",
+              "identificacao_bem_como_adequacao",
+              "identificacao_cristalizacao_sistemica",
+              "identificacao_degeneracao",
+              "identificacao_substituicao_real_sistema",
+              "critica_fechamento_simbolico",
+              "reintegracao_ontologica",
+              "proposicao_fonte",
+              "observacao_metodologica",
+              "transicao_narrativa",
+              "fragmento_intuitivo",
+              null
+            ]
+          },
+          "aproveitamento_editorial": {
+            "type": "string",
+            "enum": [
+              "nucleo_de_capitulo",
+              "apoio_argumentativo",
+              "ponte_de_transicao",
+              "nota_lateral_aproveitavel",
+              "material_a_retrabalhar"
+            ]
+          },
+          "necessita_revisao_humana": {
+            "type": "boolean"
+          },
+          "confianca_cadencia": {
+            "type": "string",
+            "enum": [
+              "alta",
+              "media",
+              "baixa"
+            ]
+          },
+          "justificacao_curta_cadencia": {
+            "type": "string",
+            "minLength": 10
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "additionalProperties": false
+  }
+}
