@@ -1,0 +1,721 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "tratamento_filosofico_fragmento.schema.json",
+  "title": "Tratamento Filosófico do Fragmento",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "fragment_id",
+    "origem_id",
+    "ordem_no_ficheiro",
+    "tratamento_filosofico_fragmento"
+  ],
+  "properties": {
+    "fragment_id": {
+      "type": "string"
+    },
+    "origem_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ordem_no_ficheiro": {
+      "type": "integer"
+    },
+    "tratamento_filosofico_fragmento": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "explicacao_textual_do_que_o_fragmento_tenta_fazer",
+        "trabalho_no_sistema",
+        "trabalho_no_sistema_secundario",
+        "descricao_funcional_curta",
+        "problema_filosofico_central",
+        "problemas_filosoficos_associados",
+        "tipo_de_problema",
+        "posicao_no_indice",
+        "estrutura_analitica",
+        "potencial_argumentativo",
+        "relacoes_no_sistema",
+        "destino_editorial",
+        "avaliacao_global"
+      ],
+      "properties": {
+        "explicacao_textual_do_que_o_fragmento_tenta_fazer": {
+          "type": "string",
+          "description": "Explicação em linguagem corrente do gesto filosófico do fragmento: o que tenta mostrar, corrigir, preparar ou abrir."
+        },
+        "trabalho_no_sistema": {
+          "type": "string",
+          "enum": [
+            "abre_problema_ontologico",
+            "fixa_condicao_ontologica",
+            "fixa_limite_ontologico",
+            "exclui_impossibilidade_ontologica",
+            "inscreve_elemento_no_real",
+            "descreve_estrutura_do_real",
+            "descreve_dinamica_ontologica",
+            "identifica_dependencia_estrutural",
+            "reconduz_relacionalmente",
+            "estabiliza_definicao_estrutural",
+            "distingue_niveis_ontologicos",
+            "distingue_escala_de_analise",
+            "identifica_campo_de_validade",
+            "clarifica_mediacao",
+            "desfaz_confusao_categorial",
+            "reinscreve_consciencia_no_real",
+            "limita_ponto_de_vista",
+            "distingue_apreensao_de_representacao",
+            "dessubstancializa_o_eu",
+            "identifica_projecao_reflexiva",
+            "fixa_criterio_de_verdade",
+            "mostra_condicao_da_verdade",
+            "identifica_erro_descritivo",
+            "corrige_erro_epistemologico",
+            "submete_representacao_ao_real",
+            "identifica_cristalizacao_sistemica",
+            "diagnostica_fechamento_simbolico",
+            "identifica_substituicao_do_real",
+            "diagnostica_degeneracao_autorreferencial",
+            "prepara_reintegracao_ontologica",
+            "deriva_dever_ser_do_ser",
+            "subordina_normatividade_ao_real",
+            "identifica_responsabilidade_ontologica",
+            "identifica_dano_real",
+            "deriva_criterio_do_bem",
+            "faz_transicao_de_percurso",
+            "prepara_argumento_seguinte",
+            "fecha_bloco_anterior",
+            "rearticula_material_disperso",
+            "abre_aplicacao_setorial"
+          ]
+        },
+        "trabalho_no_sistema_secundario": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "abre_problema_ontologico",
+            "fixa_condicao_ontologica",
+            "fixa_limite_ontologico",
+            "exclui_impossibilidade_ontologica",
+            "inscreve_elemento_no_real",
+            "descreve_estrutura_do_real",
+            "descreve_dinamica_ontologica",
+            "identifica_dependencia_estrutural",
+            "reconduz_relacionalmente",
+            "estabiliza_definicao_estrutural",
+            "distingue_niveis_ontologicos",
+            "distingue_escala_de_analise",
+            "identifica_campo_de_validade",
+            "clarifica_mediacao",
+            "desfaz_confusao_categorial",
+            "reinscreve_consciencia_no_real",
+            "limita_ponto_de_vista",
+            "distingue_apreensao_de_representacao",
+            "dessubstancializa_o_eu",
+            "identifica_projecao_reflexiva",
+            "fixa_criterio_de_verdade",
+            "mostra_condicao_da_verdade",
+            "identifica_erro_descritivo",
+            "corrige_erro_epistemologico",
+            "submete_representacao_ao_real",
+            "identifica_cristalizacao_sistemica",
+            "diagnostica_fechamento_simbolico",
+            "identifica_substituicao_do_real",
+            "diagnostica_degeneracao_autorreferencial",
+            "prepara_reintegracao_ontologica",
+            "deriva_dever_ser_do_ser",
+            "subordina_normatividade_ao_real",
+            "identifica_responsabilidade_ontologica",
+            "identifica_dano_real",
+            "deriva_criterio_do_bem",
+            "faz_transicao_de_percurso",
+            "prepara_argumento_seguinte",
+            "fecha_bloco_anterior",
+            "rearticula_material_disperso",
+            "abre_aplicacao_setorial",
+            null
+          ]
+        },
+        "descricao_funcional_curta": {
+          "type": "string"
+        },
+        "problema_filosofico_central": {
+          "type": "string",
+          "enum": [
+            "estatuto_do_real",
+            "condicoes_de_possibilidade_do_ser",
+            "continuidade_do_real",
+            "potencialidade_e_atualizacao",
+            "limite_ontologico",
+            "relacao_e_dependencia",
+            "estrutura_do_movimento",
+            "regularidade_e_estabilidade",
+            "origem_da_consciencia",
+            "consciencia_como_processo_no_real",
+            "estatuto_do_eu",
+            "localidade_do_ponto_de_vista",
+            "apreensao_vs_representacao",
+            "autorreferencialidade",
+            "projecao_do_eu_no_real",
+            "possibilidade_da_verdade",
+            "criterio_de_verdade",
+            "adequacao_entre_representacao_e_real",
+            "origem_do_erro",
+            "erro_descritivo",
+            "erro_categorial",
+            "erro_de_escala",
+            "condicoes_da_correcao",
+            "mediacao_simbolica",
+            "cristalizacao_sistemica",
+            "fechamento_simbolico",
+            "substituicao_do_real_pelo_sistema",
+            "validade_interna_vs_adequacao",
+            "instituicao_de_criterios",
+            "degradacao_autorreferencial_dos_sistemas",
+            "tecnologia_como_mediacao_de_segunda_ordem",
+            "fundamento_do_dever_ser",
+            "subordinacao_da_normatividade_ao_real",
+            "origem_do_bem",
+            "responsabilidade_ontologica",
+            "dano_real_e_reducao_de_potencialidades",
+            "verdade_e_valor",
+            "criterio_para_viver_bem",
+            "ser_humano_como_ente_reflexivo",
+            "cultura_como_estabilizacao_simbolica",
+            "lei_e_fundamento_ontologico",
+            "sociedade_e_erro_estabilizado",
+            "escala_das_respostas_coletivas",
+            "instituicoes_como_mediacoes_do_real",
+            "ordem_do_percurso_filosofico",
+            "condicoes_de_inteligibilidade_do_sistema",
+            "relacao_entre_partes_do_sistema",
+            "passagem_da_ontologia_para_a_epistemologia",
+            "passagem_da_ontologia_para_a_etica",
+            "passagem_da_descricao_para_a_correcao"
+          ]
+        },
+        "problemas_filosoficos_associados": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "estatuto_do_real",
+              "condicoes_de_possibilidade_do_ser",
+              "continuidade_do_real",
+              "potencialidade_e_atualizacao",
+              "limite_ontologico",
+              "relacao_e_dependencia",
+              "estrutura_do_movimento",
+              "regularidade_e_estabilidade",
+              "origem_da_consciencia",
+              "consciencia_como_processo_no_real",
+              "estatuto_do_eu",
+              "localidade_do_ponto_de_vista",
+              "apreensao_vs_representacao",
+              "autorreferencialidade",
+              "projecao_do_eu_no_real",
+              "possibilidade_da_verdade",
+              "criterio_de_verdade",
+              "adequacao_entre_representacao_e_real",
+              "origem_do_erro",
+              "erro_descritivo",
+              "erro_categorial",
+              "erro_de_escala",
+              "condicoes_da_correcao",
+              "mediacao_simbolica",
+              "cristalizacao_sistemica",
+              "fechamento_simbolico",
+              "substituicao_do_real_pelo_sistema",
+              "validade_interna_vs_adequacao",
+              "instituicao_de_criterios",
+              "degradacao_autorreferencial_dos_sistemas",
+              "tecnologia_como_mediacao_de_segunda_ordem",
+              "fundamento_do_dever_ser",
+              "subordinacao_da_normatividade_ao_real",
+              "origem_do_bem",
+              "responsabilidade_ontologica",
+              "dano_real_e_reducao_de_potencialidades",
+              "verdade_e_valor",
+              "criterio_para_viver_bem",
+              "ser_humano_como_ente_reflexivo",
+              "cultura_como_estabilizacao_simbolica",
+              "lei_e_fundamento_ontologico",
+              "sociedade_e_erro_estabilizado",
+              "escala_das_respostas_coletivas",
+              "instituicoes_como_mediacoes_do_real",
+              "ordem_do_percurso_filosofico",
+              "condicoes_de_inteligibilidade_do_sistema",
+              "relacao_entre_partes_do_sistema",
+              "passagem_da_ontologia_para_a_epistemologia",
+              "passagem_da_ontologia_para_a_etica",
+              "passagem_da_descricao_para_a_correcao"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "tipo_de_problema": {
+          "type": "string",
+          "enum": [
+            "ontologico",
+            "epistemologico",
+            "etico",
+            "antropologico",
+            "mediacional",
+            "metaestrutural",
+            "misto"
+          ]
+        },
+        "posicao_no_indice": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "parte_id",
+            "capitulo_id",
+            "capitulo_titulo",
+            "subcapitulo_ou_zona_interna",
+            "argumento_canonico_relacionado",
+            "argumentos_canonicos_associados",
+            "grau_de_pertenca_ao_indice",
+            "modo_de_pertenca",
+            "justificacao_de_posicao_no_indice"
+          ],
+          "properties": {
+            "parte_id": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "capitulo_id": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "capitulo_titulo": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "subcapitulo_ou_zona_interna": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "argumento_canonico_relacionado": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "argumentos_canonicos_associados": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "grau_de_pertenca_ao_indice": {
+              "type": "string",
+              "enum": [
+                "nuclear",
+                "forte",
+                "provavel",
+                "fraca",
+                "indefinida"
+              ]
+            },
+            "modo_de_pertenca": {
+              "type": "string",
+              "enum": [
+                "nucleo_de_capitulo",
+                "apoio_argumentativo",
+                "ponte_de_transicao",
+                "preparacao_de_argumento",
+                "aplicacao_local",
+                "nota_lateral",
+                "material_a_retrabalhar",
+                "arquivo_sem_encaixe"
+              ]
+            },
+            "justificacao_de_posicao_no_indice": {
+              "type": "string"
+            }
+          }
+        },
+        "estrutura_analitica": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "objeto_em_analise",
+            "plano_ontologico",
+            "plano_epistemologico",
+            "plano_etico",
+            "plano_antropologico",
+            "plano_mediacional",
+            "distincao_central",
+            "dependencia_principal",
+            "criterio_implicado",
+            "erro_visado",
+            "consequencia_principal",
+            "pressuposto_ontologico_principal",
+            "pressupostos_secundarios"
+          ],
+          "properties": {
+            "objeto_em_analise": {
+              "type": "string"
+            },
+            "plano_ontologico": {
+              "type": "string"
+            },
+            "plano_epistemologico": {
+              "type": "string"
+            },
+            "plano_etico": {
+              "type": "string"
+            },
+            "plano_antropologico": {
+              "type": "string"
+            },
+            "plano_mediacional": {
+              "type": "string"
+            },
+            "distincao_central": {
+              "type": "string"
+            },
+            "dependencia_principal": {
+              "type": "string"
+            },
+            "criterio_implicado": {
+              "type": "string"
+            },
+            "erro_visado": {
+              "type": "string"
+            },
+            "consequencia_principal": {
+              "type": "string"
+            },
+            "pressuposto_ontologico_principal": {
+              "type": "string"
+            },
+            "pressupostos_secundarios": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            }
+          }
+        },
+        "potencial_argumentativo": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "estado_argumentativo",
+            "premissas_implicitas",
+            "premissa_central_reconstruida",
+            "conclusao_visada",
+            "forma_de_inferencia",
+            "forca_logica_estimada",
+            "argumento_reconstruivel",
+            "necessita_reconstrucao_forte",
+            "observacoes_argumentativas"
+          ],
+          "properties": {
+            "estado_argumentativo": {
+              "type": "string",
+              "enum": [
+                "intuicao_bruta",
+                "exploracao_pre_conceptual",
+                "formulacao_pre_argumentativa",
+                "distincao_util_sem_argumento",
+                "argumento_em_esboco",
+                "argumento_quase_formalizavel",
+                "argumento_formalizavel",
+                "aplicacao_de_argumento",
+                "sintese_pos_argumentativa"
+              ]
+            },
+            "premissas_implicitas": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "premissa_central_reconstruida": {
+              "type": "string"
+            },
+            "conclusao_visada": {
+              "type": "string"
+            },
+            "forma_de_inferencia": {
+              "type": "string",
+              "enum": [
+                "dedutiva",
+                "abductiva",
+                "reconducao_estrutural",
+                "exclusao_por_impossibilidade",
+                "critica_por_contradicao",
+                "derivacao_normativa",
+                "distincao_analitica",
+                "descricao_estrutural",
+                "mista",
+                "nao_determinada"
+              ]
+            },
+            "forca_logica_estimada": {
+              "type": "string",
+              "enum": [
+                "alta",
+                "media",
+                "baixa",
+                "muito_baixa"
+              ]
+            },
+            "argumento_reconstruivel": {
+              "type": "boolean"
+            },
+            "necessita_reconstrucao_forte": {
+              "type": "boolean"
+            },
+            "observacoes_argumentativas": {
+              "type": "string"
+            }
+          }
+        },
+        "relacoes_no_sistema": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "depende_de_conceitos",
+            "mobiliza_operacoes",
+            "regimes_envolvidos",
+            "percursos_envolvidos",
+            "abre_para",
+            "corrige",
+            "prepara",
+            "pressupoe",
+            "entra_em_tensao_com"
+          ],
+          "properties": {
+            "depende_de_conceitos": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "mobiliza_operacoes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "regimes_envolvidos": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "percursos_envolvidos": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "abre_para": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "corrige": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "prepara": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "pressupoe": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            },
+            "entra_em_tensao_com": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true
+            }
+          }
+        },
+        "destino_editorial": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "destino_editorial_fino",
+            "papel_editorial_primario",
+            "papel_editorial_secundario",
+            "prioridade_de_revisao",
+            "prioridade_de_aproveitamento",
+            "requer_reescrita",
+            "requer_densificacao",
+            "requer_formalizacao_logica",
+            "observacoes_editoriais"
+          ],
+          "properties": {
+            "destino_editorial_fino": {
+              "type": "string",
+              "enum": [
+                "nucleo_de_capitulo",
+                "apoio_argumentativo",
+                "ponte_de_transicao",
+                "nota_lateral_aproveitavel",
+                "aplicacao_setorial",
+                "material_a_retrabalhar",
+                "arquivo_de_intuicoes"
+              ]
+            },
+            "papel_editorial_primario": {
+              "type": "string",
+              "enum": [
+                "nucleo_de_capitulo",
+                "apoio_argumentativo",
+                "ponte_de_transicao",
+                "nota_lateral_aproveitavel",
+                "aplicacao_setorial",
+                "material_a_retrabalhar",
+                "arquivo_de_intuicoes"
+              ]
+            },
+            "papel_editorial_secundario": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "nucleo_de_capitulo",
+                "apoio_argumentativo",
+                "ponte_de_transicao",
+                "nota_lateral_aproveitavel",
+                "aplicacao_setorial",
+                "material_a_retrabalhar",
+                "arquivo_de_intuicoes",
+                null
+              ]
+            },
+            "prioridade_de_revisao": {
+              "type": "string",
+              "enum": [
+                "imediata",
+                "alta",
+                "media",
+                "baixa"
+              ]
+            },
+            "prioridade_de_aproveitamento": {
+              "type": "string",
+              "enum": [
+                "alta",
+                "media",
+                "baixa"
+              ]
+            },
+            "requer_reescrita": {
+              "type": "boolean"
+            },
+            "requer_densificacao": {
+              "type": "boolean"
+            },
+            "requer_formalizacao_logica": {
+              "type": "boolean"
+            },
+            "observacoes_editoriais": {
+              "type": "string"
+            }
+          }
+        },
+        "avaliacao_global": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "densidade_filosofica",
+            "clareza_atual",
+            "grau_de_estabilizacao",
+            "risco_de_ma_interpretacao",
+            "confianca_tratamento_filosofico",
+            "necessita_revisao_humana_filosofica"
+          ],
+          "properties": {
+            "densidade_filosofica": {
+              "type": "string",
+              "enum": [
+                "alta",
+                "media",
+                "baixa"
+              ]
+            },
+            "clareza_atual": {
+              "type": "string",
+              "enum": [
+                "claro",
+                "razoavelmente_claro",
+                "instavel",
+                "muito_instavel"
+              ]
+            },
+            "grau_de_estabilizacao": {
+              "type": "string",
+              "enum": [
+                "estavel",
+                "semi_estavel",
+                "provisorio",
+                "muito_provisorio"
+              ]
+            },
+            "risco_de_ma_interpretacao": {
+              "type": "string",
+              "enum": [
+                "alto",
+                "medio",
+                "baixo"
+              ]
+            },
+            "confianca_tratamento_filosofico": {
+              "type": "string",
+              "enum": [
+                "alta",
+                "media",
+                "baixa"
+              ]
+            },
+            "necessita_revisao_humana_filosofica": {
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    }
+  }
+}
