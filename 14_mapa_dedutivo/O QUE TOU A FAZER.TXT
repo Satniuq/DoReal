@@ -1,0 +1,541 @@
+README — Construção do mapa dedutivo integral
+1. Objetivo central do trabalho
+
+O objetivo deste ciclo não é apenas organizar fragmentos, nem apenas classificá-los filosoficamente.
+
+O objetivo é este:
+
+construir o mapa dedutivo completo do sistema, desde a fundação ontológica mínima até ao fecho ético, com todas as mediações necessárias, todas as justificações relevantes e todas as reformulações exigidas pelos fragmentos.
+
+Isto implica três coisas ao mesmo tempo:
+
+identificar a linha dedutiva de fundo do sistema;
+
+testar essa linha contra a massa real dos fragmentos;
+
+reconstruir o mapa para que ele fique:
+
+mais completo,
+
+mais explícito,
+
+mais academicamente tratável,
+
+e mais fiel ao que o material realmente sustenta.
+
+2. Onde este trabalho se insere no projeto
+
+Este trabalho encaixa-se no projeto como a passagem entre:
+
+o material bruto e resegmentado;
+
+o tratamento filosófico dos fragmentos;
+
+e a arquitetura final do índice e dos argumentos.
+
+Em termos práticos, o projeto tem vindo a construir várias camadas:
+
+camada 1 — base do material
+
+fragmentos_resegmentados.json
+
+Aqui tens a matéria fragmentária já separada em unidades trabalháveis.
+
+camada 2 — leitura funcional do material
+
+cadencia_extraida.json
+
+tratamento_filosofico_fragmentos.json
+
+Aqui o sistema tenta perceber:
+
+o que cada fragmento faz;
+
+que problema filosófico trata;
+
+que posição provável tem no sistema;
+
+que potencial argumentativo possui.
+
+camada 3 — arquitetura do sistema
+
+meta_indice.json
+
+indice_sequencial.json
+
+indice_argumentos.json
+
+argumentos_unificados.json
+
+mapa_dedutivo_arquitetura_fragmentos.json
+
+Aqui está a tentativa de descrever:
+
+a ordem do sistema;
+
+os argumentos canónicos;
+
+o mapa dedutivo global;
+
+e a organização do percurso filosófico.
+
+camada 4 — confronto entre material e arquitetura
+
+É aqui que estás agora.
+
+O teu trabalho atual consiste em usar os fragmentos não apenas como repositório de ideias, mas como instrumento crítico de revisão do mapa.
+
+Ou seja:
+
+o mapa já existe como hipótese estrutural;
+
+os fragmentos passam agora a funcionar como teste, reforço, correção e expansão do mapa.
+
+camada 5 — reconstrução final do mapa
+
+Depois deste confronto, o objetivo é produzir:
+
+uma versão reconstruída do mapa dedutivo;
+
+e, a partir dela, a arquitetura final do índice e da linha argumentativa contínua.
+
+3. O que estás a fazer agora
+
+Neste momento, estás a correr um script que faz isto:
+
+analisa fragmento a fragmento o impacto de cada fragmento sobre o mapa dedutivo.
+
+Ou seja, o fragmento já não está a ser lido apenas para saber:
+
+o que diz;
+
+ou o que faz no sistema em abstrato.
+
+Está a ser lido para responder a esta pergunta:
+
+este fragmento muda, reforça, densifica, corrige ou medeia algum passo do mapa?
+
+Mais concretamente, o script atual tenta decidir, para cada fragmento:
+
+qual a sua tese relevante para o mapa;
+
+que zona filosófica dominante toca;
+
+se toca ou não alguma proposição do mapa;
+
+se:
+
+repete,
+
+explicita,
+
+corrige,
+
+medeia,
+
+cria passo novo,
+
+ou não tem impacto relevante;
+
+que tipo de utilidade tem:
+
+estrutural,
+
+justificativa,
+
+mediacional,
+
+redacional,
+
+temática,
+
+ou nenhuma;
+
+que ação editorial recomenda sobre o mapa:
+
+manter,
+
+densificar,
+
+reformular,
+
+dividir,
+
+criar intermédio,
+
+deslocar,
+
+ou sem ação.
+
+Portanto, o que estás agora a fazer é:
+
+mapear as pressões de revisão que os fragmentos exercem sobre o mapa dedutivo atual.
+
+4. Que ficheiros este passo está a produzir
+
+O script atual produz, ou produzirá, sobretudo estes ficheiros:
+
+impacto_fragmentos_no_mapa.json
+
+É a análise por fragmento.
+
+Serve para ver, fragmento a fragmento:
+
+se toca o mapa;
+
+onde toca;
+
+como toca;
+
+e que revisão sugere.
+
+agregado_impacto_por_proposicao.json
+
+É a análise por passo do mapa.
+
+Serve para ver, proposição a proposição:
+
+quantos fragmentos a tocam;
+
+quantos repetem;
+
+quantos densificam;
+
+quantos corrigem;
+
+quantos medeiam;
+
+quantos sugerem passo novo.
+
+Este ficheiro será um dos mais importantes a seguir.
+
+impacto_fragmentos_no_mapa_relatorio_validacao.json
+
+Dá uma visão macro:
+
+distribuição dos efeitos;
+
+distribuição das ações;
+
+zonas mais tocadas;
+
+passos mais tocados.
+
+estado_impacto_fragmentos_no_mapa.json
+
+Controla o estado do processamento.
+
+falhas_impacto_fragmentos_no_mapa.json
+
+Regista falhas.
+
+impacto_fragmentos_no_mapa_logs_execucao.json
+
+Guarda logs de execução.
+
+5. Porque é que este passo é necessário
+
+Este passo é necessário porque o mapa dedutivo atual, embora já muito forte, ainda é uma tentativa estruturada, não o mapa integral fechado.
+
+As fragilidades identificadas até agora são sobretudo destas ordens:
+
+passos cuja formulação ainda é intuitiva;
+
+transições não suficientemente explicitadas;
+
+zonas onde pode faltar mediação;
+
+passos possivelmente demasiado largos;
+
+pontos onde o tratamento académico ainda não está densificado;
+
+risco de o mapa estar mais limpo do que a matéria efetivamente sustenta.
+
+Por isso, antes de fixar um mapa final, tens de passar por esta prova:
+
+ver se os fragmentos confirmam, densificam, corrigem ou obrigam a alterar a arquitetura dedutiva.
+
+Sem esta etapa, correrias o risco de:
+
+construir um mapa elegante, mas artificial;
+
+ou, pelo contrário, afogar-te nos fragmentos sem conseguir subir à estrutura.
+
+Este passo serve precisamente para fazer a ponte entre ambos.
+
+6. O que ainda não estás a fazer neste momento
+
+É importante ter isto claro.
+
+Neste momento ainda não estás a:
+
+reconstruir diretamente o mapa final;
+
+reescrever automaticamente os passos;
+
+gerar a linha dedutiva corrida final;
+
+produzir já o índice definitivo do livro.
+
+O que estás a fazer agora é anterior a isso.
+
+Estás a produzir:
+
+o diagnóstico estruturado das alterações que o mapa pode ou deve sofrer.
+
+7. O que vais ter de fazer a seguir
+
+Depois de esta corrida terminar, o passo seguinte não é ainda “escrever o mapa final”.
+
+O passo seguinte é:
+
+ETAPA SEGUINTE — revisão estrutural do mapa
+
+Tens de pegar sobretudo em:
+
+impacto_fragmentos_no_mapa.json
+
+agregado_impacto_por_proposicao.json
+
+e produzir um novo ficheiro intermédio, algo do género:
+
+revisao_estrutural_do_mapa.json
+
+Esse ficheiro deve funcionar por proposição do mapa, não por fragmento.
+
+8. O que esse ficheiro de revisão estrutural deve conter
+
+Para cada passo do mapa, deves conseguir responder a isto:
+
+qual é a proposição;
+
+qual era o seu estado anterior;
+
+que fragmentos a tocam;
+
+que tipo de pressão sofre;
+
+se está estável ou instável;
+
+se precisa apenas de densificação;
+
+se precisa de reformulação;
+
+se precisa de ser dividida;
+
+se lhe falta mediação antes;
+
+se lhe falta mediação depois;
+
+se há indícios de novo passo intermédio;
+
+qual a nova formulação provisória.
+
+Ou seja, esse ficheiro deve converter a massa de saídas por fragmento numa lógica de revisão do mapa.
+
+9. Depois disso, sim: reconstrução do mapa completo
+
+Só depois da revisão estrutural é que deves passar à reconstrução do mapa completo.
+
+Essa reconstrução deve ocorrer em duas camadas.
+
+A. Reconstrução estrutural
+
+Aqui decides:
+
+que passos ficam;
+
+que passos são reformulados;
+
+que passos são divididos;
+
+que mediações novas entram;
+
+que passos intermédios são criados;
+
+se a ordem dedutiva precisa de ajuste;
+
+se algum passo deve ser deslocado.
+
+O resultado desta fase poderá ser algo como:
+
+mapa_dedutivo_reconstruido_v2.json
+
+B. Reconstrução redacional
+
+Depois de a estrutura estar estabilizada, fazes:
+
+a nova formulação de cada passo;
+
+a sua justificação contínua;
+
+a sua formulação filosófico-académica;
+
+o seu lugar na linha dedutiva integral;
+
+e a versão corrida do mapa, do início ao fim.
+
+10. O que significa, no teu caso, “ter o mapa completo”
+
+Ter o mapa completo não significa apenas ter uma lista de passos.
+
+Significa ter:
+
+1. completude estrutural
+
+Não faltar nenhum elo necessário.
+
+2. ordem dedutiva estável
+
+Os passos têm de estar na sequência certa.
+
+3. mediações explícitas
+
+As passagens difíceis não podem ficar só intuídas.
+
+4. justificações suficientes
+
+Cada passo importante tem de ter a sua razão de ser.
+
+5. relação viva com os fragmentos
+
+O mapa não deve ser arbitrário; deve estar sustentado, corrigido ou densificado pelo material.
+
+6. tratabilidade filosófico-académica
+
+O mapa tem de poder ser convertido em argumentação filosófica forte, não apenas em intuições.
+
+11. Como este trabalho se encaixa na finalidade final do projeto
+
+O mapa dedutivo integral não é um fim isolado.
+
+Ele serve para:
+
+estabilizar a arquitetura do índice;
+
+perceber que capítulos são mesmo necessários;
+
+perceber que subcapítulos e argumentos canónicos têm de existir;
+
+ordenar o percurso ontologia → antropologia → epistemologia → ética;
+
+e tornar possível escrever o livro ou sistema de modo não disperso.
+
+Ou seja:
+
+o mapa completo é a espinha dorsal do projeto inteiro.
+
+Sem ele:
+
+os fragmentos ficam soltos;
+
+o índice fica hipotético;
+
+os argumentos ficam locais;
+
+a escrita corre o risco de se perder em intuições.
+
+Com ele:
+
+o sistema passa a ter ordem própria;
+
+cada fragmento ganha lugar;
+
+cada argumento ganha função;
+
+e a escrita pode tornar-se contínua.
+
+12. Resumo operacional: onde estás e o que vem a seguir
+Onde estás agora
+
+Estás a fazer:
+
+avaliação do impacto dos fragmentos sobre o mapa
+
+O que isso produz
+
+Produz:
+
+diagnóstico por fragmento;
+
+diagnóstico agregado por proposição;
+
+pressão de revisão sobre o mapa.
+
+O que vem a seguir
+
+Vem:
+
+revisão estrutural do mapa
+
+passo a passo, proposição a proposição
+
+O que vem depois
+
+Depois:
+
+reconstrução do mapa completo
+
+nova versão estrutural
+
+e nova versão corrida / argumentativa.
+
+13. Fórmula curta do processo inteiro
+
+O processo em que estás agora pode ser resumido assim:
+
+fase 1 — material
+
+fragmentos resegmentados
+
+fase 2 — leitura funcional
+
+cadência + tratamento filosófico
+
+fase 3 — hipótese estrutural
+
+mapa dedutivo atual
+
+fase 4 — confronto crítico
+
+impacto dos fragmentos no mapa
+
+fase 5 — revisão estrutural
+
+diagnóstico por proposição
+
+fase 6 — reconstrução
+
+mapa dedutivo completo revisto
+
+fase 7 — escrita filosófica
+
+linha dedutiva integral + índice final + capítulos
+
+14. O critério de sucesso desta etapa atual
+
+Esta etapa terá corrido bem se, no fim, conseguires dizer com rigor:
+
+que passos do mapa já estão sólidos;
+
+quais precisam de densificação;
+
+quais precisam de reformulação;
+
+onde faltam mediações;
+
+onde os fragmentos obrigam a criar ou dividir passos;
+
+e onde afinal o mapa estava a projetar mais do que a matéria sustentava.
+
+Se conseguires isso, então estás pronto para a etapa seguinte: a revisão estrutural do mapa.
+
+15. Próximo deliverable ideal
+
+Quando esta corrida acabar, o próximo ficheiro ideal a construir é:
+
+revisao_estrutural_do_mapa.json
+
+porque será ele que transformará os outputs atuais numa base direta para gerar:
+
+o mapa dedutivo completo revisto.
