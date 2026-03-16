@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T12:22:05+00:00",
+    "versao_script": "organizar_fragmentos_por_funcao_v1",
+    "ficheiro_tratamento_origem": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\13_Meta_Indice\\cadência\\04_extrator_q_faz_no_sistema\\tratamento_filosofico_fragmentos.json",
+    "corredores_processados": [
+      {
+        "entrada": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P25_P30.json",
+        "saida": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P25_P30_organizado.json"
+      },
+      {
+        "entrada": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P33_P37.json",
+        "saida": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P33_P37_organizado.json"
+      },
+      {
+        "entrada": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P42_P48.json",
+        "saida": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P42_P48_organizado.json"
+      },
+      {
+        "entrada": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P50.json",
+        "saida": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P50_organizado.json"
+      }
+    ],
+    "observacao": "Pré-organização heurística de fragmentos por função reconstrutiva. Serve para preparar as fichas v2; não substitui revisão filosófica humana."
+  },
+  "resumo_por_corredor": [
+    {
+      "corredor": "corredor_P25_P30.json",
+      "saida": "corredor_P25_P30_organizado.json",
+      "total_proposicoes": 6,
+      "total_fragmentos_processados": 372,
+      "total_fragmentos_sem_tratamento": 1,
+      "distribuicao_categorias_primarias": {
+        "justificativo": 326,
+        "ilustrativo": 35,
+        "mediacional": 11
+      },
+      "por_proposicao": [
+        {
+          "proposicao_id": "P25",
+          "numero": 25,
+          "total_fragmentos_relacionados": 64,
+          "justificativos": 53,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 10,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P26",
+          "numero": 26,
+          "total_fragmentos_relacionados": 44,
+          "justificativos": 39,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 4,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P27",
+          "numero": 27,
+          "total_fragmentos_relacionados": 45,
+          "justificativos": 38,
+          "mediacionais": 2,
+          "bloqueio": 0,
+          "ilustrativos": 5,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P28",
+          "numero": 28,
+          "total_fragmentos_relacionados": 146,
+          "justificativos": 132,
+          "mediacionais": 5,
+          "bloqueio": 0,
+          "ilustrativos": 9,
+          "fragmentos_sem_tratamento": 1
+        },
+        {
+          "proposicao_id": "P29",
+          "numero": 29,
+          "total_fragmentos_relacionados": 43,
+          "justificativos": 39,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 3,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P30",
+          "numero": 30,
+          "total_fragmentos_relacionados": 30,
+          "justificativos": 25,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 4,
+          "fragmentos_sem_tratamento": 0
+        }
+      ]
+    },
+    {
+      "corredor": "corredor_P33_P37.json",
+      "saida": "corredor_P33_P37_organizado.json",
+      "total_proposicoes": 5,
+      "total_fragmentos_processados": 424,
+      "total_fragmentos_sem_tratamento": 0,
+      "distribuicao_categorias_primarias": {
+        "justificativo": 411,
+        "mediacional": 2,
+        "ilustrativo": 11
+      },
+      "por_proposicao": [
+        {
+          "proposicao_id": "P33",
+          "numero": 33,
+          "total_fragmentos_relacionados": 207,
+          "justificativos": 199,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 7,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P34",
+          "numero": 34,
+          "total_fragmentos_relacionados": 69,
+          "justificativos": 67,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 1,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P35",
+          "numero": 35,
+          "total_fragmentos_relacionados": 0,
+          "justificativos": 0,
+          "mediacionais": 0,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P36",
+          "numero": 36,
+          "total_fragmentos_relacionados": 123,
+          "justificativos": 120,
+          "mediacionais": 0,
+          "bloqueio": 0,
+          "ilustrativos": 3,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P37",
+          "numero": 37,
+          "total_fragmentos_relacionados": 25,
+          "justificativos": 25,
+          "mediacionais": 0,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        }
+      ]
+    },
+    {
+      "corredor": "corredor_P42_P48.json",
+      "saida": "corredor_P42_P48_organizado.json",
+      "total_proposicoes": 7,
+      "total_fragmentos_processados": 216,
+      "total_fragmentos_sem_tratamento": 0,
+      "distribuicao_categorias_primarias": {
+        "mediacional": 8,
+        "justificativo": 204,
+        "ilustrativo": 4
+      },
+      "por_proposicao": [
+        {
+          "proposicao_id": "P42",
+          "numero": 42,
+          "total_fragmentos_relacionados": 10,
+          "justificativos": 8,
+          "mediacionais": 2,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P43",
+          "numero": 43,
+          "total_fragmentos_relacionados": 12,
+          "justificativos": 12,
+          "mediacionais": 0,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P44",
+          "numero": 44,
+          "total_fragmentos_relacionados": 39,
+          "justificativos": 38,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P45",
+          "numero": 45,
+          "total_fragmentos_relacionados": 9,
+          "justificativos": 9,
+          "mediacionais": 0,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P46",
+          "numero": 46,
+          "total_fragmentos_relacionados": 52,
+          "justificativos": 50,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 1,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P47",
+          "numero": 47,
+          "total_fragmentos_relacionados": 73,
+          "justificativos": 67,
+          "mediacionais": 3,
+          "bloqueio": 0,
+          "ilustrativos": 3,
+          "fragmentos_sem_tratamento": 0
+        },
+        {
+          "proposicao_id": "P48",
+          "numero": 48,
+          "total_fragmentos_relacionados": 21,
+          "justificativos": 20,
+          "mediacionais": 1,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        }
+      ]
+    },
+    {
+      "corredor": "corredor_P50.json",
+      "saida": "corredor_P50_organizado.json",
+      "total_proposicoes": 1,
+      "total_fragmentos_processados": 13,
+      "total_fragmentos_sem_tratamento": 0,
+      "distribuicao_categorias_primarias": {
+        "justificativo": 13
+      },
+      "por_proposicao": [
+        {
+          "proposicao_id": "P50",
+          "numero": 50,
+          "total_fragmentos_relacionados": 13,
+          "justificativos": 13,
+          "mediacionais": 0,
+          "bloqueio": 0,
+          "ilustrativos": 0,
+          "fragmentos_sem_tratamento": 0
+        }
+      ]
+    }
+  ]
+}

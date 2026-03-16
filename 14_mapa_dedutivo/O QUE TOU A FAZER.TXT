@@ -1,541 +1,493 @@
-README — Construção do mapa dedutivo integral
-1. Objetivo central do trabalho
+README — Preparação da montagem do script reconstrutor dedutivo inevitável
+1. Objetivo desta fase
 
-O objetivo deste ciclo não é apenas organizar fragmentos, nem apenas classificá-los filosoficamente.
+O objetivo desta fase já não é voltar a extrair fragmentos, nem voltar a classificar material, nem repetir o diagnóstico estrutural.
 
-O objetivo é este:
+O objetivo agora é este:
 
-construir o mapa dedutivo completo do sistema, desde a fundação ontológica mínima até ao fecho ético, com todas as mediações necessárias, todas as justificações relevantes e todas as reformulações exigidas pelos fragmentos.
+montar o script que reconstrói a linha dedutiva inevitável do sistema a partir de tudo o que já foi produzido.
 
-Isto implica três coisas ao mesmo tempo:
+Isto significa passar de uma lógica predominantemente:
 
-identificar a linha dedutiva de fundo do sistema;
+extrativa,
 
-testar essa linha contra a massa real dos fragmentos;
+classificatória,
 
-reconstruir o mapa para que ele fique:
+diagnóstica,
 
-mais completo,
+para uma lógica:
 
-mais explícito,
+reconstrutiva,
 
-mais academicamente tratável,
-
-e mais fiel ao que o material realmente sustenta.
-
-2. Onde este trabalho se insere no projeto
-
-Este trabalho encaixa-se no projeto como a passagem entre:
-
-o material bruto e resegmentado;
-
-o tratamento filosófico dos fragmentos;
-
-e a arquitetura final do índice e dos argumentos.
-
-Em termos práticos, o projeto tem vindo a construir várias camadas:
-
-camada 1 — base do material
-
-fragmentos_resegmentados.json
-
-Aqui tens a matéria fragmentária já separada em unidades trabalháveis.
-
-camada 2 — leitura funcional do material
-
-cadencia_extraida.json
-
-tratamento_filosofico_fragmentos.json
-
-Aqui o sistema tenta perceber:
-
-o que cada fragmento faz;
-
-que problema filosófico trata;
-
-que posição provável tem no sistema;
-
-que potencial argumentativo possui.
-
-camada 3 — arquitetura do sistema
-
-meta_indice.json
-
-indice_sequencial.json
-
-indice_argumentos.json
-
-argumentos_unificados.json
-
-mapa_dedutivo_arquitetura_fragmentos.json
-
-Aqui está a tentativa de descrever:
-
-a ordem do sistema;
-
-os argumentos canónicos;
-
-o mapa dedutivo global;
-
-e a organização do percurso filosófico.
-
-camada 4 — confronto entre material e arquitetura
-
-É aqui que estás agora.
-
-O teu trabalho atual consiste em usar os fragmentos não apenas como repositório de ideias, mas como instrumento crítico de revisão do mapa.
-
-Ou seja:
-
-o mapa já existe como hipótese estrutural;
-
-os fragmentos passam agora a funcionar como teste, reforço, correção e expansão do mapa.
-
-camada 5 — reconstrução final do mapa
-
-Depois deste confronto, o objetivo é produzir:
-
-uma versão reconstruída do mapa dedutivo;
-
-e, a partir dela, a arquitetura final do índice e da linha argumentativa contínua.
-
-3. O que estás a fazer agora
-
-Neste momento, estás a correr um script que faz isto:
-
-analisa fragmento a fragmento o impacto de cada fragmento sobre o mapa dedutivo.
-
-Ou seja, o fragmento já não está a ser lido apenas para saber:
-
-o que diz;
-
-ou o que faz no sistema em abstrato.
-
-Está a ser lido para responder a esta pergunta:
-
-este fragmento muda, reforça, densifica, corrige ou medeia algum passo do mapa?
-
-Mais concretamente, o script atual tenta decidir, para cada fragmento:
-
-qual a sua tese relevante para o mapa;
-
-que zona filosófica dominante toca;
-
-se toca ou não alguma proposição do mapa;
-
-se:
-
-repete,
-
-explicita,
-
-corrige,
-
-medeia,
-
-cria passo novo,
-
-ou não tem impacto relevante;
-
-que tipo de utilidade tem:
-
-estrutural,
+sequencial,
 
 justificativa,
 
-mediacional,
-
-redacional,
-
-temática,
-
-ou nenhuma;
-
-que ação editorial recomenda sobre o mapa:
-
-manter,
-
-densificar,
-
-reformular,
-
-dividir,
-
-criar intermédio,
-
-deslocar,
-
-ou sem ação.
-
-Portanto, o que estás agora a fazer é:
-
-mapear as pressões de revisão que os fragmentos exercem sobre o mapa dedutivo atual.
-
-4. Que ficheiros este passo está a produzir
-
-O script atual produz, ou produzirá, sobretudo estes ficheiros:
-
-impacto_fragmentos_no_mapa.json
-
-É a análise por fragmento.
-
-Serve para ver, fragmento a fragmento:
-
-se toca o mapa;
-
-onde toca;
-
-como toca;
-
-e que revisão sugere.
-
-agregado_impacto_por_proposicao.json
-
-É a análise por passo do mapa.
-
-Serve para ver, proposição a proposição:
-
-quantos fragmentos a tocam;
-
-quantos repetem;
-
-quantos densificam;
-
-quantos corrigem;
-
-quantos medeiam;
-
-quantos sugerem passo novo.
-
-Este ficheiro será um dos mais importantes a seguir.
-
-impacto_fragmentos_no_mapa_relatorio_validacao.json
-
-Dá uma visão macro:
-
-distribuição dos efeitos;
-
-distribuição das ações;
-
-zonas mais tocadas;
-
-passos mais tocados.
-
-estado_impacto_fragmentos_no_mapa.json
-
-Controla o estado do processamento.
-
-falhas_impacto_fragmentos_no_mapa.json
-
-Regista falhas.
-
-impacto_fragmentos_no_mapa_logs_execucao.json
-
-Guarda logs de execução.
-
-5. Porque é que este passo é necessário
-
-Este passo é necessário porque o mapa dedutivo atual, embora já muito forte, ainda é uma tentativa estruturada, não o mapa integral fechado.
-
-As fragilidades identificadas até agora são sobretudo destas ordens:
-
-passos cuja formulação ainda é intuitiva;
-
-transições não suficientemente explicitadas;
-
-zonas onde pode faltar mediação;
-
-passos possivelmente demasiado largos;
-
-pontos onde o tratamento académico ainda não está densificado;
-
-risco de o mapa estar mais limpo do que a matéria efetivamente sustenta.
-
-Por isso, antes de fixar um mapa final, tens de passar por esta prova:
-
-ver se os fragmentos confirmam, densificam, corrigem ou obrigam a alterar a arquitetura dedutiva.
-
-Sem esta etapa, correrias o risco de:
-
-construir um mapa elegante, mas artificial;
-
-ou, pelo contrário, afogar-te nos fragmentos sem conseguir subir à estrutura.
-
-Este passo serve precisamente para fazer a ponte entre ambos.
-
-6. O que ainda não estás a fazer neste momento
-
-É importante ter isto claro.
-
-Neste momento ainda não estás a:
-
-reconstruir diretamente o mapa final;
-
-reescrever automaticamente os passos;
-
-gerar a linha dedutiva corrida final;
-
-produzir já o índice definitivo do livro.
-
-O que estás a fazer agora é anterior a isso.
-
-Estás a produzir:
-
-o diagnóstico estruturado das alterações que o mapa pode ou deve sofrer.
-
-7. O que vais ter de fazer a seguir
-
-Depois de esta corrida terminar, o passo seguinte não é ainda “escrever o mapa final”.
-
-O passo seguinte é:
-
-ETAPA SEGUINTE — revisão estrutural do mapa
-
-Tens de pegar sobretudo em:
-
-impacto_fragmentos_no_mapa.json
-
-agregado_impacto_por_proposicao.json
-
-e produzir um novo ficheiro intermédio, algo do género:
-
-revisao_estrutural_do_mapa.json
-
-Esse ficheiro deve funcionar por proposição do mapa, não por fragmento.
-
-8. O que esse ficheiro de revisão estrutural deve conter
-
-Para cada passo do mapa, deves conseguir responder a isto:
-
-qual é a proposição;
-
-qual era o seu estado anterior;
-
-que fragmentos a tocam;
-
-que tipo de pressão sofre;
-
-se está estável ou instável;
-
-se precisa apenas de densificação;
-
-se precisa de reformulação;
-
-se precisa de ser dividida;
-
-se lhe falta mediação antes;
-
-se lhe falta mediação depois;
-
-se há indícios de novo passo intermédio;
-
-qual a nova formulação provisória.
-
-Ou seja, esse ficheiro deve converter a massa de saídas por fragmento numa lógica de revisão do mapa.
-
-9. Depois disso, sim: reconstrução do mapa completo
-
-Só depois da revisão estrutural é que deves passar à reconstrução do mapa completo.
-
-Essa reconstrução deve ocorrer em duas camadas.
-
-A. Reconstrução estrutural
-
-Aqui decides:
-
-que passos ficam;
-
-que passos são reformulados;
-
-que passos são divididos;
-
-que mediações novas entram;
-
-que passos intermédios são criados;
-
-se a ordem dedutiva precisa de ajuste;
-
-se algum passo deve ser deslocado.
-
-O resultado desta fase poderá ser algo como:
-
-mapa_dedutivo_reconstruido_v2.json
-
-B. Reconstrução redacional
-
-Depois de a estrutura estar estabilizada, fazes:
-
-a nova formulação de cada passo;
-
-a sua justificação contínua;
-
-a sua formulação filosófico-académica;
-
-o seu lugar na linha dedutiva integral;
-
-e a versão corrida do mapa, do início ao fim.
-
-10. O que significa, no teu caso, “ter o mapa completo”
-
-Ter o mapa completo não significa apenas ter uma lista de passos.
-
-Significa ter:
-
-1. completude estrutural
-
-Não faltar nenhum elo necessário.
-
-2. ordem dedutiva estável
-
-Os passos têm de estar na sequência certa.
-
-3. mediações explícitas
-
-As passagens difíceis não podem ficar só intuídas.
-
-4. justificações suficientes
-
-Cada passo importante tem de ter a sua razão de ser.
-
-5. relação viva com os fragmentos
-
-O mapa não deve ser arbitrário; deve estar sustentado, corrigido ou densificado pelo material.
-
-6. tratabilidade filosófico-académica
-
-O mapa tem de poder ser convertido em argumentação filosófica forte, não apenas em intuições.
-
-11. Como este trabalho se encaixa na finalidade final do projeto
-
-O mapa dedutivo integral não é um fim isolado.
-
-Ele serve para:
-
-estabilizar a arquitetura do índice;
-
-perceber que capítulos são mesmo necessários;
-
-perceber que subcapítulos e argumentos canónicos têm de existir;
-
-ordenar o percurso ontologia → antropologia → epistemologia → ética;
-
-e tornar possível escrever o livro ou sistema de modo não disperso.
+compressiva.
 
 Ou seja:
 
-o mapa completo é a espinha dorsal do projeto inteiro.
+até aqui o projeto respondeu sobretudo à pergunta
+“que material tenho, como se distribui e onde pressiona o mapa?”
 
-Sem ele:
+a partir daqui tem de responder à pergunta
+“qual é a sequência dedutiva final mínima, necessária e justificável que este material obriga a reconhecer?”
 
-os fragmentos ficam soltos;
+Essa passagem é legítima porque o projeto já demonstrou duas coisas decisivas:
 
-o índice fica hipotético;
+a arquitetura global do mapa resiste ao confronto com os fragmentos;
 
-os argumentos ficam locais;
+o impacto dominante dos fragmentos sobre o mapa foi de explicitação e densificação, e não de destruição arquitetónica.
 
-a escrita corre o risco de se perder em intuições.
+A revisão estrutural mostra:
 
-Com ele:
+32 proposições estável mas a densificar,
 
-o sistema passa a ter ordem própria;
+14 proposições globalmente estável,
 
-cada fragmento ganha lugar;
+7 proposições a reformular.
 
-cada argumento ganha função;
+O relatório agregado do impacto mostra:
 
-e a escrita pode tornar-se contínua.
+538 resultados,
 
-12. Resumo operacional: onde estás e o que vem a seguir
-Onde estás agora
+451 com efeito principal explicita,
 
-Estás a fazer:
+448 com ação recomendada densificar.
 
-avaliação do impacto dos fragmentos sobre o mapa
+Isto quer dizer que o próximo script não deve procurar mais material.
+Deve selecionar, ordenar, comprimir, justificar e fechar.
 
-O que isso produz
+2. Onde esta fase se insere no projeto
 
-Produz:
+Esta fase vem depois de um conjunto já muito rico de camadas construídas.
 
-diagnóstico por fragmento;
+2.1. Camada de base ontológica e metaestrutural
 
-diagnóstico agregado por proposição;
+O projeto já possui:
 
-pressão de revisão sobre o mapa.
+conceitos ontológicos formalizados;
 
-O que vem a seguir
+operações estruturais;
 
-Vem:
+regimes de inscrição no real;
 
-revisão estrutural do mapa
+percursos metaestruturais.
 
-passo a passo, proposição a proposição
+Isto é importante porque o reconstrutor inevitável não vai trabalhar no vazio: ele tem já um vocabulário-base, um sistema de operações e uma hierarquia de percursos.
 
-O que vem depois
+2.2. Camada de índice e argumentos
 
-Depois:
+O projeto já possui:
 
-reconstrução do mapa completo
+índice sequencial;
 
-nova versão estrutural
+índice por percurso;
 
-e nova versão corrida / argumentativa.
+índice de argumentos;
 
-13. Fórmula curta do processo inteiro
+argumentos unificados.
 
-O processo em que estás agora pode ser resumido assim:
+Isto significa que já existe uma arquitetura canónica bastante avançada do sistema, incluindo dependências entre argumentos, capítulos, percursos e conceitos.
 
-fase 1 — material
+2.3. Camada fragmentária tratada
 
-fragmentos resegmentados
+O projeto já possui:
 
-fase 2 — leitura funcional
+fragmentos resegmentados;
 
-cadência + tratamento filosófico
+schema de cadência;
 
-fase 3 — hipótese estrutural
+cadência extraída;
 
-mapa dedutivo atual
+tratamento filosófico dos fragmentos.
 
-fase 4 — confronto crítico
+Isto significa que já não estás perante texto bruto. Estás perante material já lido quanto à sua função, posição provável, potencial argumentativo, papel editorial e relações com o sistema.
 
-impacto dos fragmentos no mapa
+2.4. Camada de mapa dedutivo e revisão estrutural
 
-fase 5 — revisão estrutural
+O projeto já possui:
 
-diagnóstico por proposição
+mapa dedutivo base;
 
-fase 6 — reconstrução
+impacto dos fragmentos sobre o mapa;
 
-mapa dedutivo completo revisto
+relatório agregado do impacto;
 
-fase 7 — escrita filosófica
+revisão estrutural por proposição.
 
-linha dedutiva integral + índice final + capítulos
+Isto é decisivo porque mostra que já tens:
 
-14. O critério de sucesso desta etapa atual
+uma primeira linha dedutiva formalizada;
 
-Esta etapa terá corrido bem se, no fim, conseguires dizer com rigor:
+o teste dessa linha contra o corpus;
 
-que passos do mapa já estão sólidos;
+um diagnóstico por proposição pronto para reconstrução.
 
-quais precisam de densificação;
+2.5. Camada de fecho dos corredores críticos
 
-quais precisam de reformulação;
+Além disso, já existem ficheiros de fecho manual por corredor, nomeadamente:
 
-onde faltam mediações;
+P25–P30;
 
-onde os fragmentos obrigam a criar ou dividir passos;
+P33–P37;
 
-e onde afinal o mapa estava a projetar mais do que a matéria sustentava.
+P42–P48;
 
-Se conseguires isso, então estás pronto para a etapa seguinte: a revisão estrutural do mapa.
+P50.
 
-15. Próximo deliverable ideal
+Isto é importante porque nestas zonas o problema já não é inventar a tese, mas fechar localmente a justificação, explicitar mediações e estabilizar a formulação canónica.
 
-Quando esta corrida acabar, o próximo ficheiro ideal a construir é:
+3. O que este novo script tem de fazer
+
+O novo script não deve ser pensado como mais um extrator.
+
+Deve ser pensado como um orquestrador de reconstrução dedutiva inevitável.
+
+A sua função é converter todo o trabalho anterior numa linha final em que, para cada passo relevante, fique decidido:
+
+o que é irrenunciável;
+
+o que é redundante;
+
+o que é apenas densificação expositiva;
+
+que dependências são realmente necessárias;
+
+que justificação mínima basta;
+
+que objeções têm de ser bloqueadas;
+
+como o passo prepara o seguinte;
+
+qual é a fonte decisória prioritária desse fecho.
+
+Em termos simples:
+
+o script deve transformar um conjunto vasto de:
+
+conceitos,
+
+percursos,
+
+argumentos,
+
+fragmentos,
+
+impactos,
+
+revisões,
+
+fichas,
+
+num mapa dedutivo final comprimido, justificado e editorialmente legível.
+
+4. O que este script não deve fazer
+
+Não deve:
+
+voltar a segmentar fragmentos;
+
+voltar a extrair cadência;
+
+voltar a classificar filosoficamente o corpus;
+
+voltar a medir impacto fragmentário bruto;
+
+gerar um mapa final apenas por estatística de coocorrência;
+
+assumir que mais fragmentos tocados = maior centralidade dedutiva;
+
+confundir apoio temático com necessidade estrutural;
+
+reabrir de raiz decisões já estabilizadas na revisão estrutural ou nos fechos manuais de corredor.
+
+Isto é essencial porque os ficheiros existentes já mostraram que:
+
+muitos fragmentos são úteis sobretudo para explicitar e densificar;
+
+nem toda a pressão fragmentária corresponde à criação de novos passos;
+
+o problema dominante não é falta de material, mas compressão excessiva da arquitetura correta.
+
+5. Princípio metodológico do reconstrutor inevitável
+
+O princípio central do script deve ser este:
+
+a linha final não se obtém por acumulação, mas por seleção estrutural governada por necessidade.
+
+Isto implica cinco operações fundamentais.
+
+5.1. Seleção estrutural
+
+De tudo o que existe para cada passo, o script deve isolar:
+
+o núcleo que se mantém;
+
+a justificação mínima indispensável;
+
+as mediações sem as quais o passo colapsa;
+
+as objeções cuja exclusão é necessária.
+
+5.2. Compressão dedutiva
+
+O script deve testar:
+
+se dois passos são realmente distintos;
+
+se um passo é apenas uma explicitação redacional;
+
+se uma mediação tem de subir a passo autónomo;
+
+se um passo aparentemente autónomo é apenas ponte editorial.
+
+5.3. Ordenação por dependência real
+
+O script deve respeitar:
+
+dependências argumentativas existentes;
+
+dependências entre percursos;
+
+relações depende_de e prepara do mapa e dos argumentos.
+
+Mas deve também testar se essas dependências são:
+
+fortes;
+
+mediacionais;
+
+meramente editoriais;
+
+redundantes.
+
+5.4. Priorização de decisão local
+
+Sempre que existir conflito ou sobreposição entre heurística geral e decisão local já preparada, o script deve seguir esta hierarquia:
+
+fecho manual de corredor;
+
+revisão estrutural por proposição;
+
+mapa dedutivo base;
+
+argumentos unificados e índice por percurso;
+
+apoio fragmentário.
+
+Isto garante que o reconstrutor não desfaz o trabalho já estabilizado localmente.
+
+5.5. Fecho justificativo
+
+Para cada passo final, o script deve produzir:
+
+tese mínima;
+
+justificação interna;
+
+objeções bloqueadas;
+
+ponte de entrada;
+
+ponte de saída;
+
+fragmentos finais de apoio;
+
+estatuto editorial do material;
+
+fonte de decisão prioritária.
+
+6. Fontes que o script deve usar
+6.1. Fontes estruturais obrigatórias
+
+Estas são indispensáveis:
+
+02_mapa_dedutivo_arquitetura_fragmentos.json
 
 revisao_estrutural_do_mapa.json
 
-porque será ele que transformará os outputs atuais numa base direta para gerar:
+indice_por_percurso.json
 
-o mapa dedutivo completo revisto.
+argumentos_unificados.json
+
+6.2. Fontes metaestruturais de apoio
+
+Estas devem servir como gramática do sistema:
+
+todos_os_conceitos.json
+
+operacoes.json
+
+meta_referencia_do_percurso.json
+
+meta_indice.json
+
+6.3. Fontes fragmentárias de apoio
+
+Estas não devem comandar a arquitetura, mas devem sustentar densificação e bloqueio de objeções:
+
+tratamento_filosofico_fragmentos.json
+
+impacto_fragmentos_no_mapa.json
+
+impacto_fragmentos_no_mapa_relatorio_validacao.json
+
+6.4. Fontes de fecho fino
+
+Quando existirem e estiverem estabilizadas, os ficheiros de fecho manual por corredor devem ser tratados como fontes de decisão local prioritária:
+
+fecho_manual_corredor_P25_P30.json
+
+fecho_manual_corredor_P33_P37.json
+
+fecho_manual_corredor_P42_P48.json
+
+fecho_manual_corredor_P50.json
+
+7. Diagnóstico que justifica este script
+
+A montagem deste script justifica-se porque o projeto já atingiu um ponto em que os extratores anteriores fizeram quase tudo o que podiam fazer.
+
+O que eles já garantiram:
+
+matéria fragmentária tratada;
+
+localização provável no sistema;
+
+potencial argumentativo;
+
+impacto sobre o mapa;
+
+revisão estrutural;
+
+fechos locais prioritários em corredores críticos.
+
+O que ainda falta:
+
+reconstrução da necessidade dedutiva sequencial final.
+
+A própria revisão estrutural mostra isso:
+
+a maioria das proposições está estável;
+
+o problema dominante é densificação e explicitação de mediações;
+
+a pressão concentra-se sobretudo nos corredores P25–P30, P33–P37, P42–P48 e no fecho P50.
+
+Logo, o defeito atual do sistema não é insuficiência analítica.
+É ausência de compressão sintético-dedutiva final.
+
+8. Resultado esperado do script
+
+O script deve gerar um ficheiro novo, algo como:
+
+mapa_dedutivo_reconstrucao_inevitavel_v1.json
+
+Esse ficheiro deve conter, para cada passo final:
+
+id
+
+numero_final
+
+proposicao_final
+
+funcao_no_sistema
+
+depende_de
+
+prepara
+
+tese_minima
+
+justificacao_minima_suficiente
+
+objecoes_bloqueadas
+
+fragmentos_de_apoio_final
+
+estatuto_no_mapa
+
+classificacao_funcional
+
+nucleo
+
+mediacao_necessaria
+
+apoio_expositivo
+
+grau_de_inevitabilidade
+
+fonte_decisao_prioritaria
+
+observacoes_editoriais
+
+Além disso, o script deve produzir um relatório auxiliar, algo como:
+
+relatorio_reconstrucao_inevitavel.json
+
+com:
+
+passos fundidos;
+
+passos eliminados;
+
+passos reordenados;
+
+passos mantidos;
+
+mediações promovidas a passo;
+
+passos reduzidos a apoio expositivo;
+
+zonas ainda frágeis;
+
+conflitos de decisão resolvidos pela hierarquia de fontes.
+
+9. Critério de sucesso desta montagem
+
+A montagem deste script terá sido bem preparada quando ficar claro que ele vai responder a estas perguntas:
+
+quais são os passos realmente irrenunciáveis do sistema?
+
+que passos são apenas densificações de outros?
+
+que sequência é realmente necessária?
+
+onde é que a dedução exige mediação intermédia?
+
+que objeções têm de ser bloqueadas em cada corredor?
+
+como se passa do real à ética sem saltos nem moralização externa?
+
+em que sentido a dignidade decorre do estatuto do ser reflexivo no real e não de convenção?
+
+Se o script conseguir fazer isso, então ele deixará de ser mais um extrator e passará a ser o primeiro reconstrutor dedutivo final do projeto.
+
+10. Resumo final
+
+Neste momento, o projeto já tem:
+
+conceitos, operações, regimes e percursos metaestruturais;
+
+índice sequencial, índice por percurso e argumentos unificados;
+
+fragmentos resegmentados, cadência extraída e tratamento filosófico;
+
+mapa base, impacto dos fragmentos, revisão estrutural por proposição e fechos manuais de corredores críticos.
+
+Isto significa que já não falta análise de corpus.
+
+O que falta é um script de reconstrução inevitável que:
+
+use o mapa e a revisão como base;
+
+use os argumentos e percursos como estrutura de dependência;
+
+use os fechos manuais como decisão local prioritária;
+
+use os fragmentos como apoio justificativo e mediacional;
+
+e produza a linha dedutiva final comprimida, necessária e editável.
+
+É isso que a próxima fase deve montar.

@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T12:34:56+00:00",
+    "versao_script": "montar_fichas_v2_v1",
+    "observacao": "As fichas v2 são um instrumento de trabalho. Não substituem a decisão filosófica humana sobre formulação final e ordem dedutiva."
+  },
+  "ficheiros_gerados": [
+    {
+      "corredor": "corredor_P25_P30_organizado",
+      "ficheiro": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\fichas_v2_corredor_P25_P30.json",
+      "total_fichas": 6
+    },
+    {
+      "corredor": "corredor_P33_P37_organizado",
+      "ficheiro": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\fichas_v2_corredor_P33_P37.json",
+      "total_fichas": 5
+    },
+    {
+      "corredor": "corredor_P42_P48_organizado",
+      "ficheiro": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\fichas_v2_corredor_P42_P48.json",
+      "total_fichas": 7
+    },
+    {
+      "corredor": "corredor_P50_organizado",
+      "ficheiro": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\fichas_v2_corredor_P50.json",
+      "total_fichas": 1
+    }
+  ],
+  "resumo_por_corredor": {
+    "corredor_P25_P30_organizado": {
+      "total_fichas": 6,
+      "distribuicao_necessidade_principal": {
+        "reformular": 5,
+        "explicitar_mediacoes": 1
+      },
+      "distribuicao_acao_recomendada": {
+        "reformular": 5,
+        "densificar": 1
+      },
+      "top_proposicoes_por_carga_fragmentaria": [
+        {
+          "proposicao_id": "P28",
+          "numero": 28,
+          "total_fragmentos_relacionados": 146,
+          "necessidade_principal": "reformular",
+          "acao_recomendada": "reformular"
+        },
+        {
+          "proposicao_id": "P25",
+          "numero": 25,
+          "total_fragmentos_relacionados": 64,
+          "necessidade_principal": "reformular",
+          "acao_recomendada": "reformular"
+        },
+        {
+          "proposicao_id": "P27",
+          "numero": 27,
+          "total_fragmentos_relacionados": 45,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P26",
+          "numero": 26,
+          "total_fragmentos_relacionados": 44,
+          "necessidade_principal": "reformular",
+          "acao_recomendada": "reformular"
+        },
+        {
+          "proposicao_id": "P29",
+          "numero": 29,
+          "total_fragmentos_relacionados": 43,
+          "necessidade_principal": "reformular",
+          "acao_recomendada": "reformular"
+        },
+        {
+          "proposicao_id": "P30",
+          "numero": 30,
+          "total_fragmentos_relacionados": 30,
+          "necessidade_principal": "reformular",
+          "acao_recomendada": "reformular"
+        }
+      ]
+    },
+    "corredor_P33_P37_organizado": {
+      "total_fichas": 5,
+      "distribuicao_necessidade_principal": {
+        "explicitar_mediacoes": 3,
+        "verificar_manual": 1,
+        "densificar": 1
+      },
+      "distribuicao_acao_recomendada": {
+        "densificar": 4,
+        "manter_provisoriamente": 1
+      },
+      "top_proposicoes_por_carga_fragmentaria": [
+        {
+          "proposicao_id": "P33",
+          "numero": 33,
+          "total_fragmentos_relacionados": 207,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P36",
+          "numero": 36,
+          "total_fragmentos_relacionados": 123,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P34",
+          "numero": 34,
+          "total_fragmentos_relacionados": 69,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P37",
+          "numero": 37,
+          "total_fragmentos_relacionados": 25,
+          "necessidade_principal": "densificar",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P35",
+          "numero": 35,
+          "total_fragmentos_relacionados": 0,
+          "necessidade_principal": "verificar_manual",
+          "acao_recomendada": "manter_provisoriamente"
+        }
+      ]
+    },
+    "corredor_P42_P48_organizado": {
+      "total_fichas": 7,
+      "distribuicao_necessidade_principal": {
+        "explicitar_mediacoes": 4,
+        "densificar": 1,
+        "reformular": 2
+      },
+      "distribuicao_acao_recomendada": {
+        "densificar": 5,
+        "reformular": 2
+      },
+      "top_proposicoes_por_carga_fragmentaria": [
+        {
+          "proposicao_id": "P47",
+          "numero": 47,
+          "total_fragmentos_relacionados": 73,
+          "necessidade_principal": "reformular",
+          "acao_recomendada": "reformular"
+        },
+        {
+          "proposicao_id": "P46",
+          "numero": 46,
+          "total_fragmentos_relacionados": 52,
+          "necessidade_principal": "reformular",
+          "acao_recomendada": "reformular"
+        },
+        {
+          "proposicao_id": "P44",
+          "numero": 44,
+          "total_fragmentos_relacionados": 39,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P48",
+          "numero": 48,
+          "total_fragmentos_relacionados": 21,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P43",
+          "numero": 43,
+          "total_fragmentos_relacionados": 12,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P42",
+          "numero": 42,
+          "total_fragmentos_relacionados": 10,
+          "necessidade_principal": "explicitar_mediacoes",
+          "acao_recomendada": "densificar"
+        },
+        {
+          "proposicao_id": "P45",
+          "numero": 45,
+          "total_fragmentos_relacionados": 9,
+          "necessidade_principal": "densificar",
+          "acao_recomendada": "densificar"
+        }
+      ]
+    },
+    "corredor_P50_organizado": {
+      "total_fichas": 1,
+      "distribuicao_necessidade_principal": {
+        "densificar": 1
+      },
+      "distribuicao_acao_recomendada": {
+        "densificar": 1
+      },
+      "top_proposicoes_por_carga_fragmentaria": [
+        {
+          "proposicao_id": "P50",
+          "numero": 50,
+          "total_fragmentos_relacionados": 13,
+          "necessidade_principal": "densificar",
+          "acao_recomendada": "densificar"
+        }
+      ]
+    }
+  }
+}

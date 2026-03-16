@@ -1,0 +1,768 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T18:48:55+00:00",
+    "corredor": "P25_P30",
+    "objetivo": "Dossiê de fecho canónico por corredor, com inevitabilidades, subpassos e pontos a arbitrar."
+  },
+  "resumo": {
+    "total_passos": 6,
+    "fechados": 0,
+    "quase_fechados": 1,
+    "abertos": 5,
+    "passos_com_subpasso": [
+      "P25",
+      "P28"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30"
+  ],
+  "proposicoes_canonicas": [
+    {
+      "id": "P25",
+      "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado."
+    },
+    {
+      "id": "P26",
+      "texto": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização."
+    },
+    {
+      "id": "P27",
+      "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável."
+    },
+    {
+      "id": "P28",
+      "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano."
+    },
+    {
+      "id": "P29",
+      "texto": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real."
+    },
+    {
+      "id": "P30",
+      "texto": "A reflexividade humana produz representações do real no interior da sua inserção ontológica."
+    }
+  ],
+  "problemas_ainda_abertos": [
+    {
+      "id": "P25",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva.",
+      "objecao_letal_a_bloquear": "representacionalismo originário"
+    },
+    {
+      "id": "P26",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "representação como dado originário"
+    },
+    {
+      "id": "P27",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "linguisticismo ontológico"
+    },
+    {
+      "id": "P28",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Explicitar a passagem entre representação linguística e consciência como processo real, localizado e mediado, evitando exterioridade da consciência.",
+      "objecao_letal_a_bloquear": "dualismo extramundano"
+    },
+    {
+      "id": "P29",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "livre-arbítrio absoluto"
+    },
+    {
+      "id": "P30",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "representação sem base ontológica"
+    }
+  ],
+  "passos": [
+    {
+      "id": "P25",
+      "numero_final": 25,
+      "bloco_id": "BLOCO_IV",
+      "bloco_titulo": "Emergência do ser localizado e reflexivo",
+      "depende_de": [
+        "P24"
+      ],
+      "prepara": [
+        "P26"
+      ],
+      "proposicao_canonica_curta": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+      "proposicao_canonica_tecnica": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+      "tese_minima_canonica": "O ser humano apreende.",
+      "justificacao_minima_canonica": "Enquanto ente localizado, o humano entra em contacto situado com o real; essa relação originária é apreensão.",
+      "porque_este_passo_e_necessario": "O ser humano apreende.",
+      "porque_o_anterior_nao_basta": "P24 não basta porque ainda não introduz explicitamente este ganho: A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P26 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "representacionalismo originário",
+      "tipo_de_necessidade": "mediacional",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "reformular",
+      "score_canonico_de_fecho": 3.033,
+      "breakdown_score_canonico": {
+        "dependencias": 0.8,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.1,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.43344000000000005,
+        "fragilidade": -1.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": true,
+      "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva.",
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "O bem pode ser formulado como orientação da ação segundo a descrição adequada do real e do campo de possibilidades em que o agente já está inscrito.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "O bem pode ser formulado como orientação da ação segundo a descrição adequada do real e do campo de possibilidades em que o agente já está inscrito.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O ser humano apreende.",
+          "score": 1.6
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A25_SEG_002",
+        "F0241_A24_SEG_003",
+        "F0241_A05_SEG_003",
+        "F0205_SEG_001",
+        "F0113_A01_SEG_001",
+        "F0097_A02_SEG_001",
+        "F0086_SEG_002",
+        "F0073_SEG_001",
+        "F0220_SEG_001",
+        "F0241_A01_SEG_002",
+        "F0223_SEG_001",
+        "F0200_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "representacionalismo originário",
+        "real como exterior ao sujeito",
+        "bem desligado da descrição do real",
+        "dualismo extramundano da consciência",
+        "consciência como limite absoluto do real",
+        "confusão entre limitação epistémica e limitação ontológica",
+        "representacionalismo que esquece a inscrição do humano no real",
+        "ponto de vista neutro ou exterior ao real",
+        "tratamento da consciência sem condição de enquadramento",
+        "correção reduzida a negação de conteúdo",
+        "dualismo extramundano",
+        "consciência como instância soberana"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+        "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Definir melhor apreensão e distingui-la de interpretação e representação."
+      ]
+    },
+    {
+      "id": "P26",
+      "numero_final": 26,
+      "bloco_id": "BLOCO_IV",
+      "bloco_titulo": "Emergência do ser localizado e reflexivo",
+      "depende_de": [
+        "P25"
+      ],
+      "prepara": [
+        "P27"
+      ],
+      "proposicao_canonica_curta": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização.",
+      "proposicao_canonica_tecnica": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização.",
+      "tese_minima_canonica": "A apreensão transforma-se em representação operável.",
+      "justificacao_minima_canonica": "Para orientar-se, o ser reflexivo transforma o apreendido em forma manipulável, estabilizável e comparável: representação operável.",
+      "porque_este_passo_e_necessario": "A apreensão transforma-se em representação operável.",
+      "porque_o_anterior_nao_basta": "P25 não basta porque ainda não introduz explicitamente este ganho: A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P27 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "representação como dado originário",
+      "tipo_de_necessidade": "mediacional",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "reformular",
+      "score_canonico_de_fecho": 2.957,
+      "breakdown_score_canonico": {
+        "dependencias": 0.8,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.1,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.35664,
+        "fragilidade": -1.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A verdade da forma não decorre da sua coerência interna, mas da fidelidade com que uma simbolização limitada preserva a relação com o real apreendido.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A verdade da forma não decorre da sua coerência interna, mas da fidelidade com que uma simbolização limitada preserva a relação com o real apreendido.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "A apreensão transforma-se em representação operável.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A25_SEG_002",
+        "F0108_A02_SEG_001",
+        "F0107_SEG_001",
+        "F0086_SEG_002",
+        "F0071_SEG_001",
+        "F0220_SEG_001",
+        "F0241_A13_SEG_001",
+        "F0241_A05_SEG_004",
+        "F0209_SEG_001",
+        "F0203_SEG_001",
+        "F0200_SEG_001",
+        "F0195_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "representação como dado originário",
+        "coerentismo fechado",
+        "linguisticismo",
+        "verdade como mera inteligibilidade interna",
+        "representação como produto puramente linguístico",
+        "autorreferencialidade discursiva suficiente para verdade",
+        "representacionalismo desligado do objeto",
+        "representação como afastamento originário do real",
+        "consciência como instância exterior ao ser",
+        "fundacionalismo subjetivo",
+        "representação como camada meramente secundária",
+        "redução do humano ao animal não mediado"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Esta mediação é central: explicar por que representação não é o dado originário."
+      ]
+    },
+    {
+      "id": "P27",
+      "numero_final": 27,
+      "bloco_id": "BLOCO_IV",
+      "bloco_titulo": "Emergência do ser localizado e reflexivo",
+      "depende_de": [
+        "P26"
+      ],
+      "prepara": [
+        "P28"
+      ],
+      "proposicao_canonica_curta": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+      "proposicao_canonica_tecnica": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+      "tese_minima_canonica": "A mediação estabiliza-se em linguagem.",
+      "justificacao_minima_canonica": "A representação operável tende a estabilizar-se simbolicamente, permitindo repetição, partilha e trabalho reflexivo: linguagem.",
+      "porque_este_passo_e_necessario": "A mediação estabiliza-se em linguagem.",
+      "porque_o_anterior_nao_basta": "P26 não basta porque ainda não introduz explicitamente este ganho: A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P28 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "linguisticismo ontológico",
+      "tipo_de_necessidade": "mediacional",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 4.298,
+      "breakdown_score_canonico": {
+        "dependencias": 0.8,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.29824,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "A mediação estabiliza-se em linguagem.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0108_A02_SEG_001",
+        "F0071_SEG_001",
+        "F0054_SEG_001",
+        "F0241_A14_SEG_003",
+        "F0241_A14_SEG_001",
+        "F0241_A05_SEG_004",
+        "F0223_SEG_001",
+        "F0213_SEG_001",
+        "F0209_SEG_001",
+        "F0203_SEG_001",
+        "F0137_SEG_001",
+        "F0129_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "linguisticismo ontológico",
+        "individualismo autodidata suficiente",
+        "mediação simbólica reduzida a informação abstrata",
+        "coerentismo fechado",
+        "autonomia do sistema linguístico",
+        "erro reduzido a incoerência formal",
+        "representação como camada meramente secundária",
+        "redução do humano ao animal não mediado",
+        "moralização simplista do humano como fonte isolada do mal",
+        "valor metafísico autónomo",
+        "fechamento simbólico",
+        "autonomizacao da linguagem"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.13).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.30).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Densificar a transição da mediação para linguagem, evitando linguisticismo."
+      ]
+    },
+    {
+      "id": "P28",
+      "numero_final": 28,
+      "bloco_id": "BLOCO_IV",
+      "bloco_titulo": "Emergência do ser localizado e reflexivo",
+      "depende_de": [
+        "P24",
+        "P25",
+        "P26",
+        "P27"
+      ],
+      "prepara": [
+        "P29"
+      ],
+      "proposicao_canonica_curta": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+      "proposicao_canonica_tecnica": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+      "tese_minima_canonica": "A consciência é processo no real, não instância exterior ao real.",
+      "justificacao_minima_canonica": "Se o humano é localizado, apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real situado e mediado.",
+      "porque_este_passo_e_necessario": "A consciência é processo no real, não instância exterior ao real.",
+      "porque_o_anterior_nao_basta": "Os passos P24, P25, P26, P27 não bastam em conjunto porque ainda não fecham esta passagem específica: A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P29 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "dualismo extramundano",
+      "tipo_de_necessidade": "mediacional",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "reformular",
+      "score_canonico_de_fecho": 5.009,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.1,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.80856,
+        "fragilidade": -1.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": true,
+      "subpasso_sugerido": "Explicitar a passagem entre representação linguística e consciência como processo real, localizado e mediado, evitando exterioridade da consciência.",
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "A consciência é processo no real, não instância exterior ao real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A25_SEG_002",
+        "F0241_A24_SEG_003",
+        "F0241_A23_SEG_001",
+        "F0241_A19_SEG_003",
+        "F0241_A11_SEG_001",
+        "F0241_A10_SEG_002",
+        "F0241_A05_SEG_003",
+        "F0167_SEG_001",
+        "F0115_A01_SEG_003",
+        "F0113_A01_SEG_001",
+        "F0111_A01_SEG_002",
+        "F0107_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "dualismo extramundano",
+        "consciência como instância soberana",
+        "consciência como acidente absoluto",
+        "consciência como exterior ao real",
+        "consciência como instância exterior ao real",
+        "psicologismo do pensamento",
+        "representacionalismo sem referente",
+        "fechamento da consciência em si mesma",
+        "excepcionalismo ontológico da consciência",
+        "negação do real a partir da opacidade da consciência",
+        "consciência como instância desencarnada",
+        "persistência de crenças explicada apenas por decisão racional"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+        "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Fechar o argumento contínuo contra a exterioridade da consciência."
+      ]
+    },
+    {
+      "id": "P29",
+      "numero_final": 29,
+      "bloco_id": "BLOCO_IV",
+      "bloco_titulo": "Emergência do ser localizado e reflexivo",
+      "depende_de": [
+        "P13",
+        "P14",
+        "P15",
+        "P24",
+        "P25",
+        "P26",
+        "P27",
+        "P28"
+      ],
+      "prepara": [
+        "P30"
+      ],
+      "proposicao_canonica_curta": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real.",
+      "proposicao_canonica_tecnica": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real.",
+      "tese_minima_canonica": "A liberdade é situada no poder-ser.",
+      "justificacao_minima_canonica": "Se a ação humana se move em campos de potencialidade reais e sob mediação reflexiva, então a liberdade é capacidade situada de orientação no poder-ser.",
+      "porque_este_passo_e_necessario": "A liberdade é situada no poder-ser.",
+      "porque_o_anterior_nao_basta": "Os passos P13, P14, P15, P24, P25, P26, P27, P28 não bastam em conjunto porque ainda não fecham esta passagem específica: A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P30 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "livre-arbítrio absoluto",
+      "tipo_de_necessidade": "mediacional",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "reformular",
+      "score_canonico_de_fecho": 4.466,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.1,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.26568,
+        "fragilidade": -1.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "A liberdade é situada no poder-ser.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A10_SEG_002",
+        "F0241_A06_SEG_001",
+        "F0094_A01_SEG_004",
+        "F0067_SEG_001",
+        "F0062_A01_SEG_001",
+        "F0055_SEG_001",
+        "F0241_A24_SEG_001",
+        "F0230_SEG_001",
+        "F0198_SEG_001",
+        "F0177_SEG_001",
+        "F0121_A01_SEG_001",
+        "F0106_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "livre-arbítrio absoluto",
+        "determinismo anulador",
+        "consciência como instância exterior ao real",
+        "psicologismo do pensamento",
+        "liberdade abstrata sem inscrição no real",
+        "verdade idealista desligada de campo e círculo",
+        "aplicação indiferenciada do mesmo critério a escalas distintas",
+        "reducionismo físico de escala",
+        "mecanicismo que dissolve a consciência",
+        "representação como camada meramente secundária",
+        "redução do humano ao animal não mediado",
+        "moralização simplista do humano como fonte isolada do mal"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.31).",
+        "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Distinguir liberdade situada de livre-arbítrio absoluto e de puro determinismo."
+      ]
+    },
+    {
+      "id": "P30",
+      "numero_final": 30,
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "depende_de": [
+        "P26",
+        "P27",
+        "P28",
+        "P29"
+      ],
+      "prepara": [
+        "P31"
+      ],
+      "proposicao_canonica_curta": "A reflexividade humana produz representações do real no interior da sua inserção ontológica.",
+      "proposicao_canonica_tecnica": "A reflexividade humana produz representações do real no interior da sua inserção ontológica.",
+      "tese_minima_canonica": "O ser reflexivo representa o real.",
+      "justificacao_minima_canonica": "A reflexividade humana produz representações do real no interior da sua inserção ontológica e prática.",
+      "porque_este_passo_e_necessario": "O ser reflexivo representa o real.",
+      "porque_o_anterior_nao_basta": "Os passos P26, P27, P28, P29 não bastam em conjunto porque ainda não fecham esta passagem específica: A reflexividade humana produz representações do real no interior da sua inserção ontológica.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P31 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "representação sem base ontológica",
+      "tipo_de_necessidade": "mediacional",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "reformular",
+      "score_canonico_de_fecho": 4.389,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.1,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.18944,
+        "fragilidade": -1.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A reflexividade humana produz representações do real no interior da sua inserção ontológica.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A reflexividade humana produz representações do real no interior da sua inserção ontológica.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O ser reflexivo representa o real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A19_SEG_003",
+        "F0241_A10_SEG_002",
+        "F0097_A02_SEG_001",
+        "F0241_A25_SEG_001",
+        "F0241_A14_SEG_001",
+        "F0195_SEG_001",
+        "F0147_SEG_001",
+        "F0129_SEG_001",
+        "F0119_A01_SEG_002",
+        "F0108_A01_SEG_001",
+        "F0107_SEG_003",
+        "F0094_A02_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "representação sem base ontológica",
+        "individualismo autodidata suficiente",
+        "mediação simbólica reduzida a informação abstrata",
+        "coerentismo fechado",
+        "reificacao da coisa em si como objeto cognoscivel direto",
+        "fechamento conceptual desligado do real",
+        "neutralidade espontanea do sujeito",
+        "representacao humana como acesso nao situado ao real",
+        "consciência como substância contínua",
+        "espírito comum transindividual",
+        "ponto de vista deslocalizado",
+        "representação como dado originário"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+        "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Clarificar o estatuto do representar como função derivada da apreensão."
+      ]
+    }
+  ]
+}

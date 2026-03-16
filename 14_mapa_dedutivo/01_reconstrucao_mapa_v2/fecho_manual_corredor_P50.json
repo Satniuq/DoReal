@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T12:50:02Z",
+    "versao_script": "1.0.0",
+    "ficheiro_origem": "fichas_v2_corredor_P50.json",
+    "corredor": "P50",
+    "titulo": "Corredor D — Dignidade",
+    "descricao": "Ficheiro de fecho manual preparado a partir de fichas_v2_corredor_P50.json.",
+    "objetivo": "Separar o núcleo de decisão filosófica final do material já preparado nas fichas v2."
+  },
+  "resumo": {
+    "total_fichas": 1,
+    "total_fragmentos_selecionados": 13,
+    "distribuicao_necessidade_principal": {
+      "densificar": 1
+    },
+    "distribuicao_acao_recomendada": {
+      "densificar": 1
+    },
+    "top_proposicoes_por_carga_fragmentaria": [
+      {
+        "proposicao_id": "P50",
+        "numero": 50,
+        "total_fragmentos_relacionados": 13,
+        "necessidade_principal": "densificar",
+        "acao_recomendada": "densificar"
+      }
+    ]
+  },
+  "instrucoes_de_preenchimento": [
+    "Preencher 'formulacao_v2_final' com a formulação canónica já estabilizada da proposição.",
+    "Usar 'justificacao_expandida_final' para listar, em frases curtas, o encadeamento justificativo final.",
+    "Preencher 'ponte_entrada' e 'ponte_saida' como transições dedutivas explícitas entre passos.",
+    "Em 'objecoes_bloqueadas_final', listar apenas as objeções efetivamente tratadas no fecho final.",
+    "Em 'fragmentos_selecionados_finais', escolher apenas os fragmentos que entram na redação ou na sustentação estrutural final.",
+    "Usar 'nota_editorial_final' para decidir se a proposição entra como núcleo, mediação ou apoio expositivo."
+  ],
+  "fichas": [
+    {
+      "proposicao_id": "P50",
+      "numero": 50,
+      "corredor": "P50",
+      "bloco_id": "BLOCO_VII",
+      "bloco_titulo": "Fecho ético",
+      "proposicao_atual": "A dignidade é o limite normativo forte relativo ao ser reflexivo no real.",
+      "descricao_curta": "Aqui o sistema fecha a ética não na convenção, mas no estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+      "depende_de": [
+        "P24",
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P47",
+        "P48",
+        "P49"
+      ],
+      "prepara": [
+        "P51"
+      ],
+      "estado_estrutural_atual": "{'estabilidade': 'estavel_mas_a_densificar', 'necessidade_principal': 'densificar', 'acao_estrutural_recomendada': 'densificar', 'diagnostico_textual': \"A proposição P50 foi tocada por 13 fragmento(s). A pressão dominante vem da zona fecho_etico. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes.\"}",
+      "funcao_no_percurso": "No Fecho ético, esta proposição fixa que a dignidade é o limite normativo forte relativo ao ser reflexivo no real.; Recebe apoio imediato de P24, P25, P26, P27, P28, P29, P47, P48, P49; e prepara P51.",
+      "nucleo_que_se_mantem": "Mantém-se o núcleo segundo o qual a dignidade é o limite normativo forte relativo ao ser reflexivo no real.. A justificação mínima já presente é: Se o ser reflexivo é vulnerável, situado, capaz de verdade, erro, correção e orientação prática, então o seu estatuto funda um limite normativo forte: dignidade.. O diagnóstico estrutural atual é 'estavel_mas_a_densificar'.",
+      "defice_principal": "O défice principal é de densidade justificativa. Falta ainda: Esta é uma das peças menos fechadas: mostrar por que a dignidade decorre do estatuto ontológico-reflexivo e não é mera convenção.",
+      "justificacao_atual": "Se o ser reflexivo é vulnerável, situado, capaz de verdade, erro, correção e orientação prática, então o seu estatuto funda um limite normativo forte: dignidade.",
+      "mediacoes_em_falta": [
+        "pode exigir subdivisão em vulnerabilidade, reflexividade e limite normativo",
+        "Densificar a justificação interna e tornar explícitos os seus pressupostos imediatos.",
+        "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+      ],
+      "objecoes_a_bloquear": [
+        "dignidade como puro convencionalismo",
+        "coerentismo institucional",
+        "positivismo normativo desligado do real",
+        "autonomia normativa absoluta",
+        "convencionalismo axiológico",
+        "valor social como entidade autónoma",
+        "antropocentrismo",
+        "antropomorfismo",
+        "uso da dignidade como licença subjetiva",
+        "justificação prática contra o real",
+        "moralismo desligado do real",
+        "resposta ética fundada apenas em coerência interna",
+        "governo como imposicao arbitraria",
+        "instrumentalizacao da dignidade",
+        "convencionalismo jurídico forte",
+        "autonomia completa da normatividade",
+        "arbitrariedade das formas jurídicas básicas",
+        "relativismo axiológico forte",
+        "convencionalismo cultural",
+        "autonomia normativa social",
+        "coerência interna como critério suficiente"
+      ],
+      "decisao_editorial_v2": "{'acao_recomendada': 'densificar', 'necessidade_principal': 'densificar', 'estado_provisorio': 'estavel_mas_a_densificar'}",
+      "formulacao_v2_provisoria": "A validade institucional e prescritiva depende da sua submissão à verdade do real e não da mera conformidade com a instituição; no caso do humano, isso inclui não violar a sua liberdade e dignidade.",
+      "ponte_com_passo_anterior_base": "Mostrar como P24, P25, P26, P27, P28, P29, P47, P48, P49 desemboca(m) em 'A dignidade é o limite normativo forte relativo ao ser reflexivo no real.' sem salto categorial nem compressão excessiva.",
+      "ponte_com_passo_seguinte_base": "Mostrar como 'A dignidade é o limite normativo forte relativo ao ser reflexivo no real.' abre legitimamente a passagem para P51, explicitando o elo intermédio quando necessário.",
+      "observacoes_de_trabalho": "['Densificar a justificação e transformar apoio fragmentário disperso em argumento corrido.', 'A ação recomendada dominante é densificar, não dividir o mapa nem criar novos passos sem necessidade.', 'Há muito apoio justificativo, mas pouca mediação primária identificada; convém fabricar a ponte dedutiva na escrita v2.']",
+      "resumo_fragmentario": {
+        "total_fragmentos_relacionados": 13,
+        "distribuicao_categorias_primarias": {
+          "justificativo": 13,
+          "mediacional": 0,
+          "bloqueio": 0,
+          "ilustrativo": 0
+        },
+        "distribuicao_justificativos": {
+          "alta": 0,
+          "media": 13,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 9
+        },
+        "distribuicao_mediacionais": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        },
+        "distribuicao_bloqueio": {
+          "alta": 0,
+          "media": 5,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 3
+        },
+        "distribuicao_ilustrativos": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        }
+      },
+      "materiais_de_referencia": {
+        "teses_principais": [
+          "Certas crenças religiosas condensam simbolicamente uma intuição ética sobre dignidade humana e orientação prática pela verdade.",
+          "A normatividade institucional só é legítima se não violar a realidade e as regras verdadeiras básicas relativas ao humano livre e digno.",
+          "Estruturas e valores só são bons ou válidos quando pressupõem liberdade e dignidade humanas como condições reais, não como construções autónomas.",
+          "O bem depende da existencia de entes reflexivos capazes de o suportar, sem que isso torne o homem necessario ao universo ou ontologicamente privilegiado.",
+          "A dignidade e a justificação prática só valem se subordinadas ao real e ao reconhecimento de igualdade ontológica, não como autojustificação de condutas.",
+          "Qualquer resposta prática válida sobre o melhor modo de viver depende de preservar correspondência com o real.",
+          "O governo é bom quando se subordina ao real e limita a intervenção à preservação da liberdade e da dignidade.",
+          "A normatividade jurídica básica pode ser lida como descrição operativa de regularidades reais entre pessoas ontologicamente pares, e não como convenção arbitrária.",
+          "A normatividade válida depende da relação com o real, não da autojustificação interna de cada sociedade; por isso liberdade e dignidade não são meros produtos culturais locais.",
+          "O eu opera a partir de um ponto de vista local que só se torna prático e eticamente adequado quando se subordina ao real e reconhece outros iguais.",
+          "O bom deve ser definido dentro do campo típico de comportamento do ser consciente reflexivo, não por casos exteriores a esse campo.",
+          "O dever-ser legítimo deve derivar do conhecimento do que é e do que pode ser, sendo depois mediado por práticas e símbolos orientadores.",
+          "A normatividade legítima deve derivar da dignidade e liberdade ontológicas do ser humano reflexivo, não de engenharia de resultados desligada do ser."
+        ],
+        "justificacoes_novas": [
+          "Nao fornece justificação dedutiva nova; apenas sugere força psicológica e simbólica de uma imagem ética exemplar.",
+          "Fornece uma razão crítica contra a autonomização institucional: coerência com a instituição não basta para verdade nem para legitimidade normativa.",
+          "Se o humano é realmente livre e digno dentro dos limites do real, então estruturas só são boas quando se subordinam a esse dado e não a valores autonomizados.",
+          "Se o bem so e possivel com seres reflexivos, a sua ancoragem no real nao implica centralidade cosmica do humano; implica apenas uma condicao estrutural do aparecimento do bem.",
+          "Mostra que a dignidade não legitima qualquer comportamento; pelo contrário, bloqueia a autonomização justificativa contra o real.",
+          "Mostra que a pergunta prática só é respondível sob critério de correspondência com o real; sem isso, a resposta perde validade.",
+          "Mostra, em chave prática, que a boa governação consiste mais em conter a imposição de esquemas humanos sobre o real do que em expandir intervenção arbitrária.",
+          "Fornece um caso setorial em que a normatividade aparece como descrição de modos de ser estáveis entre agentes ontologicamente pares.",
+          "Mostra que a mera coerência interna de um círculo social não basta para validar valores; a validade depende do contacto com o real.",
+          "Fornece uma razão operacional para a localidade não derivar em fechamento do eu: a orientação correta exige reconhecimento do real e de outros existentes.",
+          "Sugere que a definição do bom deve ser ancorada em cenários típicos do agir reflexivo, evitando extrapolações a partir de casos marginais ou impróprios.",
+          "Mostra que a normatividade não é arbitrária: deve apoiar-se no conhecimento do real e das possibilidades reais de ação.",
+          "Sugere que, se todos partilham reflexividade, então partilham dignidade e um campo mínimo de expressão da liberdade, o que deslegitima igualizações artificiais de resultado como fundamento normativo."
+        ],
+        "propostas_de_nova_formulacao": [
+          "A validade institucional e prescritiva depende da sua submissão à verdade do real e não da mera conformidade com a instituição; no caso do humano, isso inclui não violar a sua liberdade e dignidade.",
+          "As estruturas institucionais só são normativamente boas se reconhecerem, como pressupostos reais, a liberdade situada e a dignidade do ser humano; fora disso, o valor social degenera em autonomia fictícia.",
+          "O bem, embora dependa da existencia de entes reflexivos capazes de orientacao, nao pressupoe qualquer privilegio cosmico do humano.",
+          "A dignidade, enquanto reconhecimento da igualdade ontológica entre seres reflexivos, não autonomiza a normatividade; antes bloqueia justificações práticas que se voltem contra o real.",
+          "As respostas sobre o melhor modo de viver só são válidas se permanecerem subordinadas à correspondência com o real; por isso, a normatividade prática não é autónoma.",
+          "A normatividade jurídica básica pode ser lida como descrição operativa de regularidades reais das relações entre pessoas ontologicamente pares, sob liberdade e dignidade.",
+          "A validade normativa de práticas e valores sociais não decorre da sua autojustificação interna, mas da sua submissão ao real; por isso liberdade e dignidade valem para além dos círculos locais.",
+          "O ponto de vista local do eu é inevitável, mas a sua validade prática depende de ser redirecionado para o real e para a existência de outros igualmente reais.",
+          "A definição do bem deve ser extraída do campo típico de atualização do ser reflexivo, e não de cenários marginais que não pertencem ao seu regime próprio de comportamento.",
+          "O dever-ser legítimo deriva do conhecimento do que é e do que pode ser no real, tornando-se operável por práticas e símbolos de orientação."
+        ],
+        "observacoes_finais": [
+          "Fragmento util como material ilustrativo ou redacional, nao como operador dedutivo do mapa.",
+          "Útil para reforçar P33 e P46 e para preparar P50, mas o salto para dignidade e prescrição ainda precisa de mediação dedutiva.",
+          "Útil para reforçar o fecho metaético e a passagem às instituições, mas o exemplo constitucional é instável e não deve entrar como passo dedutivo.",
+          "Util para blindar o fecho etico contra leitura antropocentrica, mas nao altera a arquitetura dedutiva.",
+          "Útil para reforçar P46-P47 e dar apoio redacional a P50, mas não altera a arquitetura.",
+          "Útil para densificar P46-P47 e sugerir apoio a P50, mas a ligação liberdade-dignidade está demasiado condensada para alterar a arquitetura.",
+          "Fragmento útil como aplicação político-institucional, mas não altera a arquitetura dedutiva atual.",
+          "Útil como apoio justificativo e aplicação setorial; não altera a arquitetura dedutiva.",
+          "Fragmento forte como reforço justificativo do fecho metaético; útil, mas a passagem de 'tocar no real' para liberdade e dignidade ainda requer formalização.",
+          "Útil para densificar a justificação da localidade e da responsabilidade; a passagem sobre Deus é instável e não deve entrar no mapa sem retrabalho.",
+          "Útil para densificar a justificação de P44; impacto estrutural limitado.",
+          "Útil para densificar a justificação de P47-P48 e a passagem prática para P43; o exemplo cristão é ilustrativo, não estrutural.",
+          "Útil para densificar a justificação de P46-P47-P50, mas a formulação atual é instável e politicamente exemplificada em excesso."
+        ]
+      },
+      "fragmentos_selecionados": {
+        "justificativos": [
+          {
+            "fragment_id": "F0063_A01_SEG_003",
+            "origem_id": "F0063_A01",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina estruturas e valores sociais à liberdade e dignidade humanas.",
+            "resumo_local_no_corredor": "Subordina a bondade das estruturas ao reconhecimento real da liberdade e dignidade humanas e nega autonomia ontológica aos valores sociais.",
+            "justificacao_local_no_corredor": "Liberdade e dignidade humanas aparecem como núcleo mínimo que funda a avaliação das estruturas.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0089_SEG_002",
+            "origem_id": "F0089",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "reconducao_estrutural",
+            "descricao_funcional_curta": "Aplica a noção de regularidade do real ao domínio jurídico-civil.",
+            "resumo_local_no_corredor": "Sustenta que leis civilísticas, como leis físicas, descrevem regularidades reais dos modos de ser; aplica isso ao intercâmbio jurídico entre pessoas sob paridade ontológica, liberdade e dignidade.",
+            "justificacao_local_no_corredor": "Liberdade e dignidade aparecem como condições de preservação dos sistemas jurídicos adequados, mas sem dedução formal suficiente para fundar o passo.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0089_SEG_003",
+            "origem_id": "F0089",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina valores sociais ao real como critério.",
+            "resumo_local_no_corredor": "Combate o relativismo axiológico social: o critério não são valores locais, mas a submissão ao real; liberdade e dignidade são apresentadas como emergências universais quando uma sociedade toca no real.",
+            "justificacao_local_no_corredor": "Afirma a dignidade como emergente do toque no real e não como convenção local.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0241_A06_SEG_001",
+            "origem_id": "F0241_A06",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina igualdade e dever-ser à dignidade e liberdade ontológicas.",
+            "resumo_local_no_corredor": "Critica um dever-ser autonomizado e reconduz dignidade e liberdade à condição reflexiva do humano, sugerindo igualdade de campo/oportunidade e não de resultados.",
+            "justificacao_local_no_corredor": "O fragmento liga diretamente dignidade ao estatuto ontológico reflexivo comum dos humanos.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0084_A01_SEG_003",
+            "origem_id": "F0084_A01",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "formulacao_pre_argumentativa",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina a dignidade ao real e critica justificações contra o real.",
+            "resumo_local_no_corredor": "Subordina uma intensificação a dignidade fundada em igualdade ontológica e critica a sua deriva para justificações comportamentais contra o real.",
+            "justificacao_local_no_corredor": "Nomeia explicitamente a dignidade e liga-a ao reconhecimento de igualdade ontológica.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0088_A02_SEG_003",
+            "origem_id": "F0088_A02",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "formulacao_pre_argumentativa",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina respostas éticas à correspondência com o real.",
+            "resumo_local_no_corredor": "Subordina respostas sobre o melhor modo de viver à correspondência com o real e aproxima liberdade e dignidade por base ontológica comum, sem dedução completa.",
+            "justificacao_local_no_corredor": "Aproxima dignidade e liberdade por estrutura ontológica comum, o que pode densificar a justificação da dignidade sem ainda a demonstrar.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0121_A02_SEG_002",
+            "origem_id": "F0121_A02",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "formulacao_pre_argumentativa",
+            "forma_de_inferencia": "distincao_analitica",
+            "descricao_funcional_curta": "Delimita o campo relevante para definir o bom.",
+            "resumo_local_no_corredor": "Delimita o campo de definição do bom ao agir típico do ser consciente reflexivo; exclui cenários atípicos como base definicional.",
+            "justificacao_local_no_corredor": "Ao referir o ser consciente reflexivo como campo próprio da definição do bom, toca indiretamente o fecho normativo centrado nesse tipo de ser.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0024_SEG_001",
+            "origem_id": "F0024",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "baixa",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina a prescrição verdadeira à realidade contra a instituição.",
+            "resumo_local_no_corredor": "Subordina a prescrição e a validade institucional à verdade e à realidade, com apelo breve à liberdade e dignidade humanas.",
+            "justificacao_local_no_corredor": "Invoca liberdade e dignidade do homem como limite para a prescrição, embora sem dedução suficiente.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          }
+        ],
+        "mediacionais": [],
+        "de_bloqueio": [
+          {
+            "fragment_id": "F0063_A01_SEG_003",
+            "origem_id": "F0063_A01",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina estruturas e valores sociais à liberdade e dignidade humanas.",
+            "resumo_local_no_corredor": "Subordina a bondade das estruturas ao reconhecimento real da liberdade e dignidade humanas e nega autonomia ontológica aos valores sociais.",
+            "justificacao_local_no_corredor": "Liberdade e dignidade humanas aparecem como núcleo mínimo que funda a avaliação das estruturas.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0089_SEG_003",
+            "origem_id": "F0089",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina valores sociais ao real como critério.",
+            "resumo_local_no_corredor": "Combate o relativismo axiológico social: o critério não são valores locais, mas a submissão ao real; liberdade e dignidade são apresentadas como emergências universais quando uma sociedade toca no real.",
+            "justificacao_local_no_corredor": "Afirma a dignidade como emergente do toque no real e não como convenção local.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0241_A06_SEG_001",
+            "origem_id": "F0241_A06",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina igualdade e dever-ser à dignidade e liberdade ontológicas.",
+            "resumo_local_no_corredor": "Critica um dever-ser autonomizado e reconduz dignidade e liberdade à condição reflexiva do humano, sugerindo igualdade de campo/oportunidade e não de resultados.",
+            "justificacao_local_no_corredor": "O fragmento liga diretamente dignidade ao estatuto ontológico reflexivo comum dos humanos.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0084_A01_SEG_003",
+            "origem_id": "F0084_A01",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "media",
+            "estado_argumentativo": "formulacao_pre_argumentativa",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina a dignidade ao real e critica justificações contra o real.",
+            "resumo_local_no_corredor": "Subordina uma intensificação a dignidade fundada em igualdade ontológica e critica a sua deriva para justificações comportamentais contra o real.",
+            "justificacao_local_no_corredor": "Nomeia explicitamente a dignidade e liga-a ao reconhecimento de igualdade ontológica.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          },
+          {
+            "fragment_id": "F0024_SEG_001",
+            "origem_id": "F0024",
+            "prioridade_de_aproveitamento": "media",
+            "forca_logica_estimada": "baixa",
+            "estado_argumentativo": "argumento_em_esboco",
+            "forma_de_inferencia": "derivacao_normativa",
+            "descricao_funcional_curta": "Subordina a prescrição verdadeira à realidade contra a instituição.",
+            "resumo_local_no_corredor": "Subordina a prescrição e a validade institucional à verdade e à realidade, com apelo breve à liberdade e dignidade humanas.",
+            "justificacao_local_no_corredor": "Invoca liberdade e dignidade do homem como limite para a prescrição, embora sem dedução suficiente.",
+            "requer_reescrita": true,
+            "requer_densificacao": true,
+            "necessita_reconstrucao_forte": true
+          }
+        ],
+        "ilustrativos": []
+      },
+      "campos_para_fecho_manual": {
+        "formulacao_v2_final": "",
+        "justificacao_expandida_final": [],
+        "ponte_entrada": "",
+        "ponte_saida": "",
+        "objecoes_bloqueadas_final": [],
+        "fragmentos_selecionados_finais": {
+          "justificativos": [],
+          "mediacionais": [],
+          "de_bloqueio": [],
+          "ilustrativos": []
+        },
+        "nota_editorial_final": ""
+      }
+    }
+  ]
+}

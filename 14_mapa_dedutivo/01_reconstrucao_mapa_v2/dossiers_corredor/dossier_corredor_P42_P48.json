@@ -1,0 +1,894 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T18:48:55+00:00",
+    "corredor": "P42_P48",
+    "objetivo": "Dossiê de fecho canónico por corredor, com inevitabilidades, subpassos e pontos a arbitrar."
+  },
+  "resumo": {
+    "total_passos": 7,
+    "fechados": 0,
+    "quase_fechados": 5,
+    "abertos": 2,
+    "passos_com_subpasso": [
+      "P42",
+      "P47"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P42",
+    "P43",
+    "P47",
+    "P44",
+    "P48",
+    "P45",
+    "P46"
+  ],
+  "proposicoes_canonicas": [
+    {
+      "id": "P42",
+      "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real."
+    },
+    {
+      "id": "P43",
+      "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados."
+    },
+    {
+      "id": "P47",
+      "texto": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real."
+    },
+    {
+      "id": "P44",
+      "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano."
+    },
+    {
+      "id": "P48",
+      "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis."
+    },
+    {
+      "id": "P45",
+      "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação."
+    },
+    {
+      "id": "P46",
+      "texto": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada."
+    }
+  ],
+  "problemas_ainda_abertos": [
+    {
+      "id": "P42",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+      "objecao_letal_a_bloquear": "teleologia externa"
+    },
+    {
+      "id": "P43",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "direção meramente abstrata"
+    },
+    {
+      "id": "P47",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Mostrar que o dever-ser deriva da estrutura direcional do poder-ser real e não de convenção ou pura decisão voluntarista.",
+      "objecao_letal_a_bloquear": "falácia naturalista simplista"
+    },
+    {
+      "id": "P44",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "funcionalismo raso"
+    },
+    {
+      "id": "P48",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "dever impossível"
+    },
+    {
+      "id": "P45",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "mal como entidade autónoma"
+    },
+    {
+      "id": "P46",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "autonomia normativa absoluta"
+    }
+  ],
+  "passos": [
+    {
+      "id": "P42",
+      "numero_final": 42,
+      "bloco_id": "BLOCO_VI",
+      "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+      "depende_de": [
+        "P40",
+        "P41"
+      ],
+      "prepara": [
+        "P43"
+      ],
+      "proposicao_canonica_curta": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+      "proposicao_canonica_tecnica": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+      "tese_minima_canonica": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+      "justificacao_minima_canonica": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+      "porque_este_passo_e_necessario": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+      "porque_o_anterior_nao_basta": "Os passos P40, P41 não bastam em conjunto porque ainda não fecham esta passagem específica: A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P43 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "teleologia externa",
+      "tipo_de_necessidade": "etica",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 4.985,
+      "breakdown_score_canonico": {
+        "dependencias": 1.6,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.18472000000000002,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": true,
+      "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A12_SEG_001",
+        "F0115_A01_SEG_001",
+        "F0106_SEG_002",
+        "F0067_SEG_001",
+        "F0067_SEG_002",
+        "F0202_SEG_001",
+        "F0122_SEG_001",
+        "F0112_SEG_001",
+        "F0061_SEG_001",
+        "F0176_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "teleologia externa",
+        "arbitrariedade prática",
+        "consciência como fundamento absoluto",
+        "bem desligado da estrutura do ser",
+        "verdade reduzida a operação da consciência isolada",
+        "impossibilidade de derivar valor do facto",
+        "liberdade como ausência de limites",
+        "sujeito descontínuo sem continuidade prática",
+        "direção ontológica como projeção humana",
+        "continuidade irrelevante para o bem",
+        "colapso neutro ou gerador",
+        "indistinção entre ser e bem"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.10).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar direção sem escorregar para teleologia externa rígida."
+      ]
+    },
+    {
+      "id": "P43",
+      "numero_final": 43,
+      "bloco_id": "BLOCO_VI",
+      "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+      "depende_de": [
+        "P32",
+        "P33",
+        "P34",
+        "P35",
+        "P36",
+        "P37",
+        "P42"
+      ],
+      "prepara": [
+        "P44"
+      ],
+      "proposicao_canonica_curta": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+      "proposicao_canonica_tecnica": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+      "tese_minima_canonica": "A direção exige fixação operativa de vetores de ação.",
+      "justificacao_minima_canonica": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+      "porque_este_passo_e_necessario": "A direção exige fixação operativa de vetores de ação.",
+      "porque_o_anterior_nao_basta": "Os passos P32, P33, P34, P35, P36, P37, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P44 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "direção meramente abstrata",
+      "tipo_de_necessidade": "etica",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "nucleo",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 6.767,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 3.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.16744,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "A direção exige fixação operativa de vetores de ação.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0106_SEG_002",
+        "F0055_SEG_001",
+        "F0163_SEG_001",
+        "F0098_A03_SEG_001",
+        "F0098_A02_SEG_002",
+        "F0073_SEG_002",
+        "F0120_SEG_001",
+        "F0078_A01_SEG_003",
+        "F0063_A02_SEG_001",
+        "F0037_SEG_001",
+        "F0094_A01_SEG_002",
+        "F0079_A02_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "direção meramente abstrata",
+        "liberdade abstrata sem inscrição no real",
+        "verdade idealista desligada de campo e círculo",
+        "livre-arbítrio absoluto",
+        "determinismo anulador",
+        "reducionismo físico de escala",
+        "mecanicismo que dissolve a consciência",
+        "dever-ser como pura construção teórica explícita",
+        "formalismo moral abstrato",
+        "dedutivismo prático desligado da situação",
+        "coerência interna tomada como suficiente para correção",
+        "correção como mera coerentização"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Ligar melhor direção, critério, correção e campo."
+      ]
+    },
+    {
+      "id": "P47",
+      "numero_final": 44,
+      "bloco_id": "BLOCO_VII",
+      "bloco_titulo": "Fecho ético",
+      "depende_de": [
+        "P34",
+        "P37",
+        "P40",
+        "P42"
+      ],
+      "prepara": [
+        "P48"
+      ],
+      "proposicao_canonica_curta": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+      "proposicao_canonica_tecnica": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+      "tese_minima_canonica": "O dever-ser deriva da subordinação operativa ao real.",
+      "justificacao_minima_canonica": "O dever-ser exprime a exigência prática que decorre da submissão da ação ao real, via verdade, correção, dano e direção.",
+      "porque_este_passo_e_necessario": "O dever-ser deriva da subordinação operativa ao real.",
+      "porque_o_anterior_nao_basta": "Os passos P34, P37, P40, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P48 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "falácia naturalista simplista",
+      "tipo_de_necessidade": "etica",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "reformular",
+      "score_canonico_de_fecho": 4.789,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.1,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.58904,
+        "fragilidade": -1.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": true,
+      "subpasso_sugerido": "Mostrar que o dever-ser deriva da estrutura direcional do poder-ser real e não de convenção ou pura decisão voluntarista.",
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O dever-ser deriva da subordinação operativa ao real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A22_SEG_002",
+        "F0241_A12_SEG_001",
+        "F0241_A08_SEG_001",
+        "F0241_A06_SEG_001",
+        "F0232_SEG_001",
+        "F0205_SEG_001",
+        "F0153_SEG_001",
+        "F0117_A01_SEG_003",
+        "F0115_A01_SEG_001",
+        "F0114_A01_SEG_001",
+        "F0112_SEG_002",
+        "F0111_A01_SEG_004"
+      ],
+      "objecoes_bloqueadas": [
+        "falácia naturalista simplista",
+        "autonomia normativa absoluta",
+        "dever impossível",
+        "moralismo extrínseco",
+        "correção prática desligada da descrição do real",
+        "valoracao arbitraria",
+        "moralismo desligado do real",
+        "indiferentismo normativo",
+        "correção apenas exterior",
+        "deslocação da responsabilidade para o exterior",
+        "relativismo normativo",
+        "consensualismo como fundamento suficiente da lei"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+        "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Mostrar formalmente que não há salto ilegítimo do ser ao dever-ser, mas derivação operativa."
+      ]
+    },
+    {
+      "id": "P44",
+      "numero_final": 45,
+      "bloco_id": "BLOCO_VI",
+      "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+      "depende_de": [
+        "P34",
+        "P40",
+        "P42",
+        "P43"
+      ],
+      "prepara": [
+        "P45"
+      ],
+      "proposicao_canonica_curta": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+      "proposicao_canonica_tecnica": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+      "tese_minima_canonica": "O bem é adequação da atualização ao real.",
+      "justificacao_minima_canonica": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+      "porque_este_passo_e_necessario": "O bem é adequação da atualização ao real.",
+      "porque_o_anterior_nao_basta": "Os passos P34, P40, P42, P43 não bastam em conjunto porque ainda não fecham esta passagem específica: O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P45 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "funcionalismo raso",
+      "tipo_de_necessidade": "etica",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 5.932,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.33192,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O bem é adequação da atualização ao real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A12_SEG_001",
+        "F0241_A10_SEG_001",
+        "F0241_A08_SEG_001",
+        "F0160_SEG_001",
+        "F0119_A01_SEG_003",
+        "F0112_SEG_002",
+        "F0106_SEG_002",
+        "F0094_A01_SEG_003",
+        "F0067_SEG_003",
+        "F0067_SEG_001",
+        "F0061_SEG_003",
+        "F0060_A01_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "funcionalismo raso",
+        "moralismo sem ontologia",
+        "indiferentismo normativo",
+        "correção apenas exterior",
+        "deslocação da responsabilidade para o exterior",
+        "autonomia normativa absoluta",
+        "falácia naturalista simplista",
+        "subjetivismo valorativo",
+        "indiferentismo axiológico total",
+        "moralismo extrínseco",
+        "real como exterior ao sujeito",
+        "representacionalismo originário"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Fechar formulação canónica evitando banalização funcionalista."
+      ]
+    },
+    {
+      "id": "P48",
+      "numero_final": 46,
+      "bloco_id": "BLOCO_VII",
+      "bloco_titulo": "Fecho ético",
+      "depende_de": [
+        "P13",
+        "P14",
+        "P15",
+        "P47"
+      ],
+      "prepara": [
+        "P49"
+      ],
+      "proposicao_canonica_curta": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+      "proposicao_canonica_tecnica": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+      "tese_minima_canonica": "O dever-ser é subordinado ao poder-ser real.",
+      "justificacao_minima_canonica": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+      "porque_este_passo_e_necessario": "O dever-ser é subordinado ao poder-ser real.",
+      "porque_o_anterior_nao_basta": "Os passos P13, P14, P15, P47 não bastam em conjunto porque ainda não fecham esta passagem específica: A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P49 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "dever impossível",
+      "tipo_de_necessidade": "etica",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 5.845,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.24512,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O dever-ser é subordinado ao poder-ser real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0232_SEG_001",
+        "F0205_SEG_001",
+        "F0153_SEG_001",
+        "F0117_A01_SEG_003",
+        "F0115_A01_SEG_001",
+        "F0114_A01_SEG_001",
+        "F0101_SEG_003",
+        "F0096_SEG_001",
+        "F0060_A01_SEG_001",
+        "F0017_SEG_001",
+        "F0226_SEG_001",
+        "F0177_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "dever impossível",
+        "autonomia normativa absoluta",
+        "subjetivismo valorativo",
+        "falácia naturalista simplista",
+        "indiferentismo axiológico total",
+        "moralismo extrínseco",
+        "livre-arbítrio absoluto",
+        "casuística local como fundamento do bem",
+        "inversão analítica entre nível prático e nível ontológico",
+        "autonomização da ação mundana recorrente como critério do bem",
+        "formalismo moral abstrato",
+        "dedutivismo prático desligado da situação"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.16).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.21).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar melhor a relação entre normatividade e possibilidade real."
+      ]
+    },
+    {
+      "id": "P45",
+      "numero_final": 47,
+      "bloco_id": "BLOCO_VI",
+      "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+      "depende_de": [
+        "P40",
+        "P44"
+      ],
+      "prepara": [
+        "P46"
+      ],
+      "proposicao_canonica_curta": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+      "proposicao_canonica_tecnica": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+      "tese_minima_canonica": "O mal é degeneração, dano ou desadequação operativa.",
+      "justificacao_minima_canonica": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+      "porque_este_passo_e_necessario": "O mal é degeneração, dano ou desadequação operativa.",
+      "porque_o_anterior_nao_basta": "Os passos P40, P44 não bastam em conjunto porque ainda não fecham esta passagem específica: O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P46 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "mal como entidade autónoma",
+      "tipo_de_necessidade": "etica",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "nucleo",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 6.078,
+      "breakdown_score_canonico": {
+        "dependencias": 1.6,
+        "prepara": 0.7,
+        "classificacao": 3.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.0784,
+        "fragilidade": -0.1,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O mal é degeneração, dano ou desadequação operativa.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0119_A01_SEG_003",
+        "F0067_SEG_003",
+        "F0067_SEG_002",
+        "F0060_A01_SEG_004",
+        "F0040_SEG_001",
+        "F0124_SEG_002",
+        "F0120_SEG_002",
+        "F0063_A02_SEG_002",
+        "F0241_A18_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "mal como entidade autónoma",
+        "coerentismo fechado",
+        "relativismo",
+        "convencionalismo total",
+        "autonomia normativa absoluta",
+        "separação forte entre verdade e bem",
+        "indiferentismo axiológico total",
+        "moralismo extrínseco",
+        "direção ontológica como projeção humana",
+        "continuidade irrelevante para o bem",
+        "colapso neutro ou gerador",
+        "indistinção entre ser e bem"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.31).",
+        "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Refinar diferença entre erro, dano e mal."
+      ]
+    },
+    {
+      "id": "P46",
+      "numero_final": 49,
+      "bloco_id": "BLOCO_VII",
+      "bloco_titulo": "Fecho ético",
+      "depende_de": [
+        "P40",
+        "P41",
+        "P42",
+        "P43",
+        "P44",
+        "P45"
+      ],
+      "prepara": [
+        "P47"
+      ],
+      "proposicao_canonica_curta": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+      "proposicao_canonica_tecnica": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+      "tese_minima_canonica": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+      "justificacao_minima_canonica": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+      "porque_este_passo_e_necessario": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+      "porque_o_anterior_nao_basta": "Os passos P40, P41, P42, P43, P44, P45 não bastam em conjunto porque ainda não fecham esta passagem específica: A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P47 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+      "tipo_de_necessidade": "etica",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "reformular",
+      "score_canonico_de_fecho": 4.522,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.1,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.32192,
+        "fragilidade": -1.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A06_SEG_001",
+        "F0232_SEG_001",
+        "F0112_SEG_002",
+        "F0111_A01_SEG_004",
+        "F0105_A02_SEG_001",
+        "F0094_A01_SEG_003",
+        "F0089_SEG_003",
+        "F0068_SEG_001",
+        "F0061_SEG_003",
+        "F0060_A01_SEG_001",
+        "F0024_SEG_001",
+        "F0017_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "autonomia normativa absoluta",
+        "dever impossível",
+        "moralismo extrínseco",
+        "correção prática desligada da descrição do real",
+        "valoracao arbitraria",
+        "moralismo desligado do real",
+        "falácia naturalista simplista",
+        "subjetivismo valorativo",
+        "coerentismo institucional",
+        "positivismo normativo desligado do real",
+        "coerentismo fechado",
+        "convencionalismo total"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.12).",
+        "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Blindar esta derivação contra a objeção da autonomia normativa."
+      ]
+    }
+  ]
+}

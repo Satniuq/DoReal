@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T18:27:32+00:00",
+    "script": "reconstrutor_dedutivo_inevitavel.py",
+    "versao": "3.0.0",
+    "objetivo": "Relatório auxiliar da reconstrução dedutiva inevitável, com redundâncias, promoções mediacionais e conflitos de decisão."
+  },
+  "fontes": {
+    "mapa": "02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "revisao": "revisao_estrutural_do_mapa.json",
+    "indice_por_percurso": "indice_por_percurso.json",
+    "argumentos": "argumentos_unificados.json",
+    "conceitos": "todos_os_conceitos.json",
+    "operacoes": "operacoes.json",
+    "meta_percurso": "meta_referencia_do_percurso.json",
+    "meta_indice": "meta_indice.json",
+    "tratamento_fragmentos": "tratamento_filosofico_fragmentos.json",
+    "impacto_fragmentos": "impacto_fragmentos_no_mapa.json",
+    "impacto_relatorio": "impacto_fragmentos_no_mapa_relatorio_validacao.json",
+    "fecho_p25_p30": "fecho_manual_corredor_P25_P30.json",
+    "fecho_p33_p37": "fecho_manual_corredor_P33_P37.json",
+    "fecho_p42_p48": "fecho_manual_corredor_P42_P48.json",
+    "fecho_p50": "fecho_manual_corredor_P50.json"
+  },
+  "resumo_global": {
+    "total_passos": 51,
+    "classificacao_funcional": {
+      "apoio_expositivo": 9,
+      "mediacao_necessaria": 29,
+      "nucleo": 13
+    },
+    "estatuto_no_mapa": {
+      "densificar": 39,
+      "manter_provisoriamente": 5,
+      "reformular": 7
+    },
+    "grau_de_inevitabilidade": {
+      "medio": 19,
+      "baixo": 10,
+      "alto": 19,
+      "muito_alto": 3
+    },
+    "fragmentos_sem_tratamento_filosofico_usados": [
+      "F0003_SEG_001",
+      "F0002_SEG_001",
+      "F0001_SEG_001"
+    ],
+    "argumentos_referidos_mas_ausentes": [
+      "ARG_ADEQUACAO_COMO_CORRESPONDENCIA_OPERATIVA_COM_O_REAL",
+      "ARG_CORRECAO_COMO_RETORNO_AO_REAL",
+      "ARG_CRITERIO_COMO_PRINCIPIO_DE_SUBMISSAO_AO_REAL",
+      "ARG_ERRO_ONTOLOGICO_COMO_DESADEQUACAO_ESTRUTURAL",
+      "ARG_POTENCIALIDADE",
+      "ARG_VALIDADE_COMO_PRETENSAO_FORMAL_DE_ADEQUACAO",
+      "ARG_VERDADE_COMO_MELHOR_DESCRICAO_DO_REAL"
+    ],
+    "resumo_impacto_original": {
+      "timestamp": "2026-03-15 23:22:47 UTC",
+      "versao_extrator": "extrator_impacto_fragmentos_no_mapa_v2_gpt54",
+      "modelo_principal": "gpt-5.4",
+      "modelo_arbitragem": "gpt-5.4",
+      "total_resultados": 538,
+      "falhados": [],
+      "distribuicao_efeito_principal_no_mapa": {
+        "explicita": 451,
+        "sem_impacto_relevante": 74,
+        "medeia": 13
+      },
+      "distribuicao_acao_recomendada": {
+        "densificar": 448,
+        "sem_acao": 74,
+        "manter": 13,
+        "reformular": 3
+      },
+      "distribuicao_zona_filosofica_dominante": {
+        "localidade_e_consciencia": 178,
+        "epistemologia": 147,
+        "etica_ontologica": 66,
+        "mista": 54,
+        "metaestrutural": 32,
+        "dinamica_do_real": 24,
+        "fecho_etico": 17,
+        "fundacao_ontologica": 15,
+        "organizacao_do_real": 5
+      },
+      "distribuicao_tipo_de_utilidade_principal": {
+        "justificativa": 381,
+        "redacional": 84,
+        "tematica": 60,
+        "mediacional": 12,
+        "nenhuma": 1
+      },
+      "passos_mais_tocados": [
+        {
+          "proposicao_id": "P33",
+          "n": 207
+        },
+        {
+          "proposicao_id": "P28",
+          "n": 146
+        },
+        {
+          "proposicao_id": "P36",
+          "n": 123
+        },
+        {
+          "proposicao_id": "P47",
+          "n": 73
+        },
+        {
+          "proposicao_id": "P34",
+          "n": 69
+        },
+        {
+          "proposicao_id": "P25",
+          "n": 64
+        },
+        {
+          "proposicao_id": "P24",
+          "n": 54
+        },
+        {
+          "proposicao_id": "P46",
+          "n": 52
+        },
+        {
+          "proposicao_id": "P23",
+          "n": 45
+        },
+        {
+          "proposicao_id": "P27",
+          "n": 45
+        },
+        {
+          "proposicao_id": "P26",
+          "n": 44
+        },
+        {
+          "proposicao_id": "P29",
+          "n": 43
+        },
+        {
+          "proposicao_id": "P44",
+          "n": 39
+        },
+        {
+          "proposicao_id": "P22",
+          "n": 35
+        },
+        {
+          "proposicao_id": "P30",
+          "n": 30
+        }
+      ]
+    }
+  },
+  "passos_mantidos": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15",
+    "P16",
+    "P17",
+    "P18",
+    "P19",
+    "P20",
+    "P21",
+    "P22",
+    "P23",
+    "P24",
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30",
+    "P31",
+    "P32",
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37",
+    "P38",
+    "P39",
+    "P40",
+    "P41",
+    "P42",
+    "P43",
+    "P47",
+    "P44",
+    "P48",
+    "P45",
+    "P49",
+    "P46",
+    "P50",
+    "P51"
+  ],
+  "passos_reduzidos_a_apoio_expositivo": [
+    "P01",
+    "P04",
+    "P06",
+    "P07",
+    "P09",
+    "P16",
+    "P19",
+    "P39",
+    "P41"
+  ],
+  "passos_reordenados": [
+    "P44",
+    "P45",
+    "P46",
+    "P47",
+    "P48",
+    "P49"
+  ],
+  "passos_fundiveis_sugeridos": [],
+  "proximidades_nao_fundidas": [],
+  "passos_rebaixaveis_para_apoio": [],
+  "mediacoes_promoviveis_a_passo": [
+    {
+      "proposicao_id": "P33",
+      "score_promocao": 14.26,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "O fecho manual aponta para explicitação ou subdivisão."
+      ]
+    },
+    {
+      "proposicao_id": "P28",
+      "score_promocao": 10.107,
+      "razoes": [
+        "Há mediações em falta explicitadas na base dedutiva.",
+        "O fecho manual mantém défice mediacional local.",
+        "Há 4 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P36",
+      "score_promocao": 8.98,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "O fecho manual aponta para explicitação ou subdivisão."
+      ]
+    },
+    {
+      "proposicao_id": "P47",
+      "score_promocao": 7.363,
+      "razoes": [
+        "Há mediações em falta explicitadas na base dedutiva.",
+        "O fecho manual mantém défice mediacional local.",
+        "Há 6 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P34",
+      "score_promocao": 5.829,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "O fecho manual aponta para explicitação ou subdivisão.",
+        "Há 3 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P25",
+      "score_promocao": 5.418,
+      "razoes": [
+        "Há mediações em falta explicitadas na base dedutiva.",
+        "O fecho manual mantém défice mediacional local.",
+        "Há 1 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P26",
+      "score_promocao": 4.458,
+      "razoes": [
+        "Há mediações em falta explicitadas na base dedutiva.",
+        "O fecho manual mantém défice mediacional local.",
+        "Há 1 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P44",
+      "score_promocao": 4.149,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "O fecho manual aponta para explicitação ou subdivisão.",
+        "Há 3 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P46",
+      "score_promocao": 4.024,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "Há 3 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P27",
+      "score_promocao": 3.728,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "O fecho manual aponta para explicitação ou subdivisão.",
+        "Há 1 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P23",
+      "score_promocao": 3.656,
+      "razoes": [
+        "Há mediações em falta explicitadas na base dedutiva.",
+        "Há 2 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P29",
+      "score_promocao": 3.321,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "Há 2 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P48",
+      "score_promocao": 3.064,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "O fecho manual aponta para explicitação ou subdivisão.",
+        "Há 3 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P22",
+      "score_promocao": 2.88,
+      "razoes": [
+        "Há mediações em falta explicitadas na base dedutiva."
+      ]
+    },
+    {
+      "proposicao_id": "P24",
+      "score_promocao": 2.828,
+      "razoes": [
+        "Há 1 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P30",
+      "score_promocao": 2.368,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "Há 1 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P42",
+      "score_promocao": 2.309,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local.",
+        "O fecho manual aponta para explicitação ou subdivisão.",
+        "Há 3 fragmento(s) com utilidade mediacional dominante."
+      ]
+    },
+    {
+      "proposicao_id": "P37",
+      "score_promocao": 2.26,
+      "razoes": [
+        "O fecho manual mantém défice mediacional local."
+      ]
+    }
+  ],
+  "zonas_ainda_frageis": [
+    {
+      "proposicao_id": "P35",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.307,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "manter_provisoriamente",
+      "fonte_decisao_prioritaria": "fecho_manual"
+    },
+    {
+      "proposicao_id": "P02",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.437,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "manter_provisoriamente",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P08",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.437,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "manter_provisoriamente",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P39",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.445,
+      "classificacao_funcional": "apoio_expositivo",
+      "estatuto_no_mapa": "densificar",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P41",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.445,
+      "classificacao_funcional": "apoio_expositivo",
+      "estatuto_no_mapa": "densificar",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P03",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.447,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "manter_provisoriamente",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P32",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.448,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P31",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.463,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P40",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.463,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P05",
+      "grau_de_inevitabilidade": "baixo",
+      "score_de_inevitabilidade": 0.474,
+      "classificacao_funcional": "nucleo",
+      "estatuto_no_mapa": "manter_provisoriamente",
+      "fonte_decisao_prioritaria": "revisao_estrutural"
+    },
+    {
+      "proposicao_id": "P33",
+      "grau_de_inevitabilidade": "medio",
+      "score_de_inevitabilidade": 0.533,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "fonte_decisao_prioritaria": "fecho_manual"
+    },
+    {
+      "proposicao_id": "P36",
+      "grau_de_inevitabilidade": "medio",
+      "score_de_inevitabilidade": 0.533,
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "fonte_decisao_prioritaria": "fecho_manual"
+    }
+  ],
+  "conflitos_de_decisao_resolvidos": [],
+  "notas_metodologicas": [
+    "As formulações provisórias dos fechos manuais só são adotadas quando passam um teste de compatibilidade semântica com o passo original.",
+    "A ordem final é topológica e conservadora: respeita dependências, mas evita reordenações agressivas sem necessidade lógica forte.",
+    "A identificação de fusões é apenas sugestiva; o script sinaliza proximidades e travões arquitetónicos antes de propor fusão.",
+    "Os fragmentos comandam densificação, bloqueio de objeções e promoção mediacional, não a arquitetura principal."
+  ]
+}

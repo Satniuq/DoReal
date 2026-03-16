@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T18:48:55+00:00",
+    "corredor": "P33_P37",
+    "objetivo": "Dossiê de fecho canónico por corredor, com inevitabilidades, subpassos e pontos a arbitrar."
+  },
+  "resumo": {
+    "total_passos": 5,
+    "fechados": 0,
+    "quase_fechados": 2,
+    "abertos": 3,
+    "passos_com_subpasso": [
+      "P33",
+      "P36"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37"
+  ],
+  "proposicoes_canonicas": [
+    {
+      "id": "P33",
+      "texto": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico."
+    },
+    {
+      "id": "P34",
+      "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real."
+    },
+    {
+      "id": "P35",
+      "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade."
+    },
+    {
+      "id": "P36",
+      "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares."
+    },
+    {
+      "id": "P37",
+      "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno."
+    }
+  ],
+  "problemas_ainda_abertos": [
+    {
+      "id": "P33",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Mostrar que um critério puramente interno só mede coerência sistémica, não adequação ao real; por isso o critério deve submeter-se ao real.",
+      "objecao_letal_a_bloquear": "coerentismo fechado"
+    },
+    {
+      "id": "P34",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "verdade como coerência pura"
+    },
+    {
+      "id": "P35",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "justificacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "infalibilismo vazio"
+    },
+    {
+      "id": "P36",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Separar erro, ilusão, insuficiência epistémica e dano prático, fixando o erro como desadequação ao real sob critério válido.",
+      "objecao_letal_a_bloquear": "erro reduzido a incoerência formal"
+    },
+    {
+      "id": "P37",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "correção como mera coerentização"
+    }
+  ],
+  "passos": [
+    {
+      "id": "P33",
+      "numero_final": 33,
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "depende_de": [
+        "P32"
+      ],
+      "prepara": [
+        "P34"
+      ],
+      "proposicao_canonica_curta": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+      "proposicao_canonica_tecnica": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+      "tese_minima_canonica": "O critério tem de estar submetido ao real.",
+      "justificacao_minima_canonica": "Um critério puramente interno não distingue entre coerência de sistema e adequação ao real; por isso tem de submeter-se ao real.",
+      "porque_este_passo_e_necessario": "O critério tem de estar submetido ao real.",
+      "porque_o_anterior_nao_basta": "P32 não basta porque ainda não introduz explicitamente este ganho: Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P34 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "coerentismo fechado",
+      "tipo_de_necessidade": "epistemica",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 5.141,
+      "breakdown_score_canonico": {
+        "dependencias": 0.8,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 1.1408,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": true,
+      "subpasso_sugerido": "Mostrar que um critério puramente interno só mede coerência sistémica, não adequação ao real; por isso o critério deve submeter-se ao real.",
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "Nem todo o critério funcional numa intervenção local é válido como critério geral; a admissibilidade depende da escala e da submissão ao real.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "Nem todo o critério funcional numa intervenção local é válido como critério geral; a admissibilidade depende da escala e da submissão ao real.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O critério tem de estar submetido ao real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A25_SEG_003",
+        "F0241_A18_SEG_003",
+        "F0241_A18_SEG_002",
+        "F0241_A15_SEG_002",
+        "F0241_A11_SEG_001",
+        "F0241_A10_SEG_001",
+        "F0241_A08_SEG_001",
+        "F0241_A02_SEG_002",
+        "F0185_SEG_001",
+        "F0181_SEG_001",
+        "F0167_SEG_001",
+        "F0160_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "coerentismo fechado",
+        "convencionalismo total",
+        "pragmatismo local elevado a critério geral",
+        "confusão entre utilidade imediata e verdade",
+        "indiferença à escala na fixação de critérios",
+        "autonomia normativa absoluta",
+        "valoracao arbitraria",
+        "moralismo desligado do real",
+        "relativismo normativo",
+        "consensualismo como fundamento suficiente da lei",
+        "resposta social guiada por instinto ou emoção como equivalente epistémico",
+        "verdade como mera forma discursiva"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Blindar a crítica do coerentismo fechado e do autorreferencialismo."
+      ]
+    },
+    {
+      "id": "P34",
+      "numero_final": 34,
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "depende_de": [
+        "P31",
+        "P32",
+        "P33"
+      ],
+      "prepara": [
+        "P35"
+      ],
+      "proposicao_canonica_curta": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+      "proposicao_canonica_tecnica": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+      "tese_minima_canonica": "Verdade é adequação sob critério e submissão ao real.",
+      "justificacao_minima_canonica": "Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.",
+      "porque_este_passo_e_necessario": "Verdade é adequação sob critério e submissão ao real.",
+      "porque_o_anterior_nao_basta": "Os passos P31, P32, P33 não bastam em conjunto porque ainda não fecham esta passagem específica: A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "verdade como coerência pura",
+      "tipo_de_necessidade": "epistemica",
+      "estado_de_fecho": "quase_fechado",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 6.066,
+      "breakdown_score_canonico": {
+        "dependencias": 2.4,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.46632,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "Verdade é adequação sob critério e submissão ao real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A25_SEG_003",
+        "F0241_A02_SEG_002",
+        "F0160_SEG_001",
+        "F0119_A01_SEG_003",
+        "F0108_A02_SEG_002",
+        "F0106_SEG_003",
+        "F0106_SEG_002",
+        "F0104_A01_SEG_005",
+        "F0084_A02_SEG_002",
+        "F0070_SEG_002",
+        "F0061_SEG_002",
+        "F0054_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "verdade como coerência pura",
+        "verdade como consenso",
+        "erro sem implicação corretiva",
+        "verdade como mera forma discursiva",
+        "critério reduzido à persuasão intelectual",
+        "coerência aparente basta para verdade",
+        "representacionalismo sem referente",
+        "fechamento da consciência em si mesma",
+        "pragmatismo desligado do real",
+        "coerência modelar sem referência ao real",
+        "coerentismo fechado",
+        "formalismo da verdade"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Integrar adequação, critério e submissão ao real numa formulação unificada."
+      ]
+    },
+    {
+      "id": "P35",
+      "numero_final": 35,
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "depende_de": [
+        "P34"
+      ],
+      "prepara": [
+        "P36"
+      ],
+      "proposicao_canonica_curta": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+      "proposicao_canonica_tecnica": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+      "tese_minima_canonica": "Se há verdade, há erro.",
+      "justificacao_minima_canonica": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+      "porque_este_passo_e_necessario": "Se há verdade, há erro.",
+      "porque_o_anterior_nao_basta": "P34 não basta porque ainda não introduz explicitamente este ganho: A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P36 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "infalibilismo vazio",
+      "tipo_de_necessidade": "epistemica",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "manter_provisoriamente",
+      "score_canonico_de_fecho": 3.4,
+      "breakdown_score_canonico": {
+        "dependencias": 0.8,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 0.9,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.0,
+        "fragilidade": 0.0,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "justificacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+          "score": 4.6
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+          "score": 4.0
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "Se há verdade, há erro.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [],
+      "objecoes_bloqueadas": [
+        "infalibilismo vazio"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+        "Défice principal do fecho manual: O défice principal é de validação manual do passo. Falta ainda: Está forte; apenas refino estilístico."
+      ]
+    },
+    {
+      "id": "P36",
+      "numero_final": 36,
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "depende_de": [
+        "P35"
+      ],
+      "prepara": [
+        "P37"
+      ],
+      "proposicao_canonica_curta": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+      "proposicao_canonica_tecnica": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+      "tese_minima_canonica": "O erro não é só incoerência; é desalinhar-se com o real.",
+      "justificacao_minima_canonica": "O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.",
+      "porque_este_passo_e_necessario": "O erro não é só incoerência; é desalinhar-se com o real.",
+      "porque_o_anterior_nao_basta": "P35 não basta porque ainda não introduz explicitamente este ganho: O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P37 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "erro reduzido a incoerência formal",
+      "tipo_de_necessidade": "epistemica",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 4.718,
+      "breakdown_score_canonico": {
+        "dependencias": 0.8,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.7184,
+        "fragilidade": -0.3,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": true,
+      "subpasso_sugerido": "Separar erro, ilusão, insuficiência epistémica e dano prático, fixando o erro como desadequação ao real sob critério válido.",
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "O erro não é só incoerência; é desalinhar-se com o real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A25_SEG_003",
+        "F0241_A19_SEG_003",
+        "F0241_A18_SEG_003",
+        "F0241_A18_SEG_002",
+        "F0241_A10_SEG_001",
+        "F0241_A02_SEG_002",
+        "F0185_SEG_001",
+        "F0181_SEG_001",
+        "F0167_SEG_001",
+        "F0108_A02_SEG_002",
+        "F0102_A01_SEG_002",
+        "F0101_SEG_003"
+      ],
+      "objecoes_bloqueadas": [
+        "erro reduzido a incoerência formal",
+        "autonomia normativa absoluta",
+        "moralismo extrínseco",
+        "correção prática desligada da descrição do real",
+        "verdade como coerência pura",
+        "erro sem implicação corretiva",
+        "coerentismo fechado",
+        "resposta social guiada por instinto ou emoção como equivalente epistémico",
+        "verdade como mera forma discursiva",
+        "critério reduzido à persuasão intelectual",
+        "coerência aparente basta para verdade",
+        "erro como entidade ontologica propria"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+        "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Consolidar tipologia do erro e sua derivação."
+      ]
+    },
+    {
+      "id": "P37",
+      "numero_final": 37,
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "depende_de": [
+        "P36"
+      ],
+      "prepara": [
+        "P38"
+      ],
+      "proposicao_canonica_curta": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+      "proposicao_canonica_tecnica": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+      "tese_minima_canonica": "A correção é reinscrição no real.",
+      "justificacao_minima_canonica": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+      "porque_este_passo_e_necessario": "A correção é reinscrição no real.",
+      "porque_o_anterior_nao_basta": "P36 não basta porque ainda não introduz explicitamente este ganho: Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+      "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P38 perde mediação e aparece como salto dedutivo.",
+      "objecao_letal_a_bloquear": "correção como mera coerentização",
+      "tipo_de_necessidade": "epistemica",
+      "estado_de_fecho": "aberto",
+      "classificacao_funcional": "mediacao_necessaria",
+      "estatuto_no_mapa": "densificar",
+      "score_canonico_de_fecho": 4.381,
+      "breakdown_score_canonico": {
+        "dependencias": 0.8,
+        "prepara": 0.7,
+        "classificacao": 2.0,
+        "estatuto": 1.8,
+        "impacto_fragmentario": 0.0,
+        "densificacao": 0.0,
+        "promocao_mediacional": 0.1808,
+        "fragilidade": -0.1,
+        "contaminacao_textual": -1.0
+      },
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "precisa_de_subpasso": false,
+      "subpasso_sugerido": null,
+      "texto_meta_editorial_detectado": true,
+      "requer_arbitragem_humana": true,
+      "fonte_decisao_prioritaria": "fecho_manual",
+      "fonte_formulacao_canonica": "v3_proposicao_final",
+      "score_formulacao_canonica": 4.6,
+      "candidatas_de_formulacao": [
+        {
+          "fonte": "v3_proposicao_final",
+          "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+          "score": 4.6
+        },
+        {
+          "fonte": "revisao_nova_formulacao_provisoria",
+          "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+          "score": 4.2
+        },
+        {
+          "fonte": "base_formulacao_academica",
+          "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+          "score": 4.0
+        },
+        {
+          "fonte": "fecho_formulacao_v2_provisoria",
+          "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+          "score": 2.8
+        },
+        {
+          "fonte": "base_proposicao",
+          "texto": "A correção é reinscrição no real.",
+          "score": 2.0
+        }
+      ],
+      "fragmentos_de_apoio_final": [
+        "F0241_A15_SEG_002",
+        "F0241_A10_SEG_001",
+        "F0185_SEG_001",
+        "F0117_A01_SEG_003",
+        "F0241_A26_SEG_004",
+        "F0241_A13_SEG_002",
+        "F0210_SEG_001",
+        "F0142_SEG_001",
+        "F0130_SEG_001",
+        "F0072_SEG_002",
+        "F0065_A01_SEG_004",
+        "F0064_A02_SEG_001"
+      ],
+      "objecoes_bloqueadas": [
+        "correção como mera coerentização",
+        "verdade como coerência pura",
+        "erro sem implicação corretiva",
+        "coerentismo fechado",
+        "convencionalismo total",
+        "erro reduzido a incoerência formal",
+        "consciência como instância soberana",
+        "representação sem base ontológica",
+        "autorreferencialismo fechado",
+        "verdade reduzida a processamento interno",
+        "neutralidade epistemica da mediação tecnica",
+        "correção como mera reformulação interna"
+      ],
+      "observacoes_editoriais": [
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+        "Formulação manual rejeitada por baixa compatibilidade semântica (0.20).",
+        "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Fechar a diferença entre correção interna e correção real."
+      ]
+    }
+  ]
+}

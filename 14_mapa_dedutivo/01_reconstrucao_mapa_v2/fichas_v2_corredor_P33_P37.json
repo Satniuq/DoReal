@@ -1,0 +1,2671 @@
+{
+  "meta": {
+    "gerado_em_utc": "2026-03-16T12:34:56+00:00",
+    "versao_script": "montar_fichas_v2_v1",
+    "ficheiro_origem": "C:\\Users\\JoseVitorinoQuintas\\DoReal\\14_mapa_dedutivo\\01_reconstrucao_mapa_v2\\corredor_P33_P37_organizado.json",
+    "corredor": "corredor_P33_P37_organizado",
+    "titulo": "Corredor B — Critério, verdade, erro, correção e submissão ao real",
+    "descricao": "Fecha o corredor epistemológico central: critério, verdade, erro, correção e submissão do juízo ao real.",
+    "objetivo": "Converter o corredor organizado em fichas v2 de trabalho por proposição, já reduzidas e orientadas para reconstrução dedutiva controlada."
+  },
+  "resumo": {
+    "total_fichas": 5,
+    "distribuicao_necessidade_principal": {
+      "explicitar_mediacoes": 3,
+      "verificar_manual": 1,
+      "densificar": 1
+    },
+    "distribuicao_acao_recomendada": {
+      "densificar": 4,
+      "manter_provisoriamente": 1
+    },
+    "top_proposicoes_por_carga_fragmentaria": [
+      {
+        "proposicao_id": "P33",
+        "numero": 33,
+        "total_fragmentos_relacionados": 207,
+        "necessidade_principal": "explicitar_mediacoes",
+        "acao_recomendada": "densificar"
+      },
+      {
+        "proposicao_id": "P36",
+        "numero": 36,
+        "total_fragmentos_relacionados": 123,
+        "necessidade_principal": "explicitar_mediacoes",
+        "acao_recomendada": "densificar"
+      },
+      {
+        "proposicao_id": "P34",
+        "numero": 34,
+        "total_fragmentos_relacionados": 69,
+        "necessidade_principal": "explicitar_mediacoes",
+        "acao_recomendada": "densificar"
+      },
+      {
+        "proposicao_id": "P37",
+        "numero": 37,
+        "total_fragmentos_relacionados": 25,
+        "necessidade_principal": "densificar",
+        "acao_recomendada": "densificar"
+      },
+      {
+        "proposicao_id": "P35",
+        "numero": 35,
+        "total_fragmentos_relacionados": 0,
+        "necessidade_principal": "verificar_manual",
+        "acao_recomendada": "manter_provisoriamente"
+      }
+    ]
+  },
+  "fichas": [
+    {
+      "proposicao_id": "P33",
+      "numero": 33,
+      "corredor": "corredor_P33_P37_organizado",
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "proposicao_atual": "O critério tem de estar submetido ao real.",
+      "descricao_curta": "Caso contrário degrada-se em coerência interna ou fechamento sistémico.",
+      "depende_de": [
+        "P32"
+      ],
+      "prepara": [
+        "P34"
+      ],
+      "funcao_no_percurso": "No Epistemologia derivada da ontologia, esta proposição fixa que o critério tem de estar submetido ao real.; Recebe apoio imediato de P32; e prepara P34.",
+      "estado_estrutural_atual": {
+        "estabilidade": "estavel_mas_a_densificar",
+        "necessidade_principal": "explicitar_mediacoes",
+        "acao_estrutural_recomendada": "densificar",
+        "diagnostico_textual": "A proposição P33 foi tocada por 207 fragmento(s). A pressão dominante vem da zona epistemologia. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+      },
+      "nucleo_que_se_mantem": "Mantém-se o núcleo segundo o qual o critério tem de estar submetido ao real.. A justificação mínima já presente é: Um critério puramente interno não distingue entre coerência de sistema e adequação ao real; por isso tem de submeter-se ao real.. O diagnóstico estrutural atual é 'estavel_mas_a_densificar'.",
+      "defice_principal": "O défice principal é de mediação dedutiva explícita. Falta ainda: Blindar a crítica do coerentismo fechado e do autorreferencialismo.",
+      "justificacao_atual": "Um critério puramente interno não distingue entre coerência de sistema e adequação ao real; por isso tem de submeter-se ao real.",
+      "mediacoes_em_falta": [
+        "Explicitar a ponte dedutiva entre P32 e P33.",
+        "Explicitar a passagem de P33 para P34.",
+        "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+      ],
+      "objecoes_a_bloquear": [
+        "coerentismo fechado",
+        "convencionalismo total",
+        "pragmatismo local elevado a critério geral",
+        "confusão entre utilidade imediata e verdade",
+        "indiferença à escala na fixação de critérios",
+        "autonomia normativa absoluta",
+        "valoracao arbitraria",
+        "moralismo desligado do real",
+        "relativismo normativo",
+        "consensualismo como fundamento suficiente da lei",
+        "resposta social guiada por instinto ou emoção como equivalente epistémico",
+        "verdade como mera forma discursiva",
+        "critério reduzido à persuasão intelectual",
+        "coerência aparente basta para verdade",
+        "pragmatismo desligado do real",
+        "coerência modelar sem referência ao real",
+        "coerentismo institucional",
+        "positivismo normativo desligado do real",
+        "formalismo da verdade",
+        "autojustificação conceptual desligada do real",
+        "linguisticismo"
+      ],
+      "fragmentos_justificativos": [
+        {
+          "fragment_id": "F0049_SEG_001",
+          "origem_id": "F0049",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Naturaliza a consciência e critica o erro autorreferencial."
+        },
+        {
+          "fragment_id": "F0054_SEG_001",
+          "origem_id": "F0054",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da autonomização da linguagem face ao real."
+        },
+        {
+          "fragment_id": "F0061_SEG_002",
+          "origem_id": "F0061",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Subordina o bom e o verdadeiro à descrição do real."
+        },
+        {
+          "fragment_id": "F0067_SEG_003",
+          "origem_id": "F0067",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Reconduz bem e mal ao real e à ação consciente adequada."
+        },
+        {
+          "fragment_id": "F0070_SEG_002",
+          "origem_id": "F0070",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Submete a validade proposicional ao real e exclui a sua aferição sistémica."
+        },
+        {
+          "fragment_id": "F0071_SEG_001",
+          "origem_id": "F0071",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Reconduz a linguagem à representação mediada."
+        },
+        {
+          "fragment_id": "F0097_A02_SEG_001",
+          "origem_id": "F0097_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Reinscreve consciência e apreensão no real."
+        },
+        {
+          "fragment_id": "F0104_A01_SEG_005",
+          "origem_id": "F0104_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Subordina a verdade local ao real integral."
+        },
+        {
+          "fragment_id": "F0106_SEG_003",
+          "origem_id": "F0106",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Fixa o critério de verdade no real e não no sujeito."
+        },
+        {
+          "fragment_id": "F0108_A02_SEG_001",
+          "origem_id": "F0108_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "descricao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Define o discurso como mediação interlocal e assinala o seu risco de fechamento interno."
+        },
+        {
+          "fragment_id": "F0108_A02_SEG_002",
+          "origem_id": "F0108_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Distingue adequação local e verdade sobre o real."
+        },
+        {
+          "fragment_id": "F0113_A01_SEG_001",
+          "origem_id": "F0113_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Fixa o real como critério da crítica."
+        }
+      ],
+      "fragmentos_mediacionais": [
+        {
+          "fragment_id": "F0008_SEG_001",
+          "origem_id": "F0008",
+          "resumo_local_no_corredor": "Sustenta, ainda de modo instavel, que juizos valorativos uteis dependem da verdade do problema descrito e da solucao proposta, porque o valor esta incluido no real.",
+          "justificacao_local_no_corredor": "O fragmento afirma que a avaliacao valorativa exige afericao previa da verdade e reinscreve o valor no real.",
+          "categoria_primaria": "mediacional",
+          "categorias_secundarias": [
+            "justificativo",
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "derivacao_normativa",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Ensaia subordinar o juízo valorativo à verdade do descrito."
+        }
+      ],
+      "fragmentos_de_bloqueio": [
+        {
+          "fragment_id": "F0049_SEG_001",
+          "origem_id": "F0049",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Naturaliza a consciência e critica o erro autorreferencial."
+        },
+        {
+          "fragment_id": "F0054_SEG_001",
+          "origem_id": "F0054",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da autonomização da linguagem face ao real."
+        },
+        {
+          "fragment_id": "F0070_SEG_002",
+          "origem_id": "F0070",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Submete a validade proposicional ao real e exclui a sua aferição sistémica."
+        },
+        {
+          "fragment_id": "F0097_A02_SEG_001",
+          "origem_id": "F0097_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Reinscreve consciência e apreensão no real."
+        },
+        {
+          "fragment_id": "F0108_A02_SEG_001",
+          "origem_id": "F0108_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "descricao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Define o discurso como mediação interlocal e assinala o seu risco de fechamento interno."
+        },
+        {
+          "fragment_id": "F0241_A18_SEG_003",
+          "origem_id": "F0241_A18",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Recusa equivalência entre critérios e fixa a adequação ao real como medida."
+        },
+        {
+          "fragment_id": "F0012_SEG_001",
+          "origem_id": "F0012",
+          "resumo_local_no_corredor": "Critica sistemas de pensamento que substituem a melhor descrição do real por respostas instintivas, emocionais ou por um deve-ser autonomizado.",
+          "justificacao_local_no_corredor": "O fragmento insiste que a solução deve vir da melhor descrição possível da realidade e critica sistemas que se desligam dela.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica a substituição da descrição do real por pensamento instintivo e deve-ser."
+        },
+        {
+          "fragment_id": "F0014_SEG_001",
+          "origem_id": "F0014",
+          "resumo_local_no_corredor": "Diagnostica um erro em que a forma discursiva imita verdade e bem sem submissão ao real, produzindo falsidade coletiva e subjetivação do critério.",
+          "justificacao_local_no_corredor": "O fragmento opõe explicitamente forma aparente e conteúdo falso e critica a primazia do que se acha sobre o que o real é.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da aparência de verdade que substitui o real."
+        }
+      ],
+      "fragmentos_ilustrativos": [
+        {
+          "fragment_id": "F0074_A01_SEG_002",
+          "origem_id": "F0074_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "justificativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "exploracao_pre_conceptual",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Explora a ligação entre adaptação humana, estabilização de crenças e fechamento de círculos formais."
+        },
+        {
+          "fragment_id": "F0148_SEG_001",
+          "origem_id": "F0148",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "justificativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "exploracao_pre_conceptual",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Abre uma dúvida sobre a confusão entre quadro lógico, significado, relação e existência real."
+        },
+        {
+          "fragment_id": "F0216_SEG_001",
+          "origem_id": "F0216",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "justificativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "exploracao_pre_conceptual",
+          "forma_de_inferencia": "nao_determinada",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Abre um problema metaestrutural sobre a função da filosofia como conhecimento e descrição orientados ao real."
+        },
+        {
+          "fragment_id": "F0169_SEG_001",
+          "origem_id": "F0169",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "justificativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "muito_baixa",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "nao_determinada",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Explora a sociedade como agregado discursivo e comunicacional."
+        },
+        {
+          "fragment_id": "F0192_SEG_001",
+          "origem_id": "F0192",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "justificativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "muito_baixa",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "nao_determinada",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Abre uma interrogação sobre o filósofo e sobre a unidade possível da filosofia em relação ao real."
+        },
+        {
+          "fragment_id": "F0241_A08_SEG_002",
+          "origem_id": "F0241_A08",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "justificativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "muito_baixa",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "descricao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Intuição crítica sobre regras e permissões que se consolidam e restringem a liberdade."
+        }
+      ],
+      "decisao_editorial_v2": {
+        "acao_recomendada": "densificar",
+        "necessidade_principal": "explicitar_mediacoes",
+        "estado_provisorio": "estavel_mas_a_densificar"
+      },
+      "formulacao_v2_provisoria": "Nem todo o critério funcional numa intervenção local é válido como critério geral; a admissibilidade depende da escala e da submissão ao real.",
+      "ponte_com_passo_anterior": "Mostrar como P32 desemboca(m) em 'O critério tem de estar submetido ao real.' sem salto categorial nem compressão excessiva.",
+      "ponte_com_passo_seguinte": "Mostrar como 'O critério tem de estar submetido ao real.' abre legitimamente a passagem para P34, explicitando o elo intermédio quando necessário.",
+      "observacoes_de_trabalho": [
+        "Abrir explicitamente as mediações internas entre a tese atual e o passo seguinte.",
+        "A ação recomendada dominante é densificar, não dividir o mapa nem criar novos passos sem necessidade."
+      ],
+      "resumo_fragmentario": {
+        "total_fragmentos_relacionados": 207,
+        "distribuicao_categorias_primarias": {
+          "justificativo": 199,
+          "mediacional": 1,
+          "bloqueio": 0,
+          "ilustrativo": 7
+        },
+        "distribuicao_justificativos": {
+          "alta": 15,
+          "media": 184,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 164
+        },
+        "distribuicao_mediacionais": {
+          "alta": 0,
+          "media": 1,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 1
+        },
+        "distribuicao_bloqueio": {
+          "alta": 6,
+          "media": 156,
+          "baixa": 1,
+          "muito_provisorio_ou_instavel": 142
+        },
+        "distribuicao_ilustrativos": {
+          "alta": 0,
+          "media": 6,
+          "baixa": 1,
+          "muito_provisorio_ou_instavel": 7
+        }
+      },
+      "materiais_de_referencia": {
+        "teses_principais": [
+          "Critérios emocionalmente úteis em contextos locais não servem por isso mesmo como critérios gerais de verdade ou orientação em larga escala.",
+          "A validez de uma proposicao valorativa depende da sua submissao ao real e da verdade do que descreve e propõe.",
+          "O dever-ser, incluindo a lei, deve ser subordinado à verdade do real e à descrição adequada do campo sobre que incide.",
+          "A resposta adequada exige descrição do real submetida ao próprio real; quando sistemas simbólicos dominantes a substituem, produzem erro e desorientação prática.",
+          "Sistemas historicamente implantados podem manter-se por cristalizacao, crenca coletiva e aparencia de verdade sem provar adequacao ao real ou ao problema que dizem resolver.",
+          "A forma aparentemente verdadeira não garante verdade; sem submissão ao real, o discurso produz erro e fechamento subjetivo ou coletivo.",
+          "A busca do que funciona, se ancorada no real, pode ser lida como busca de verdade.",
+          "Ordens sociais são melhores quando preservam liberdade e dignidade subordinadas à busca do real e da verdade, e degradam-se quando se fecham em sistemas autorreferenciais.",
+          "A normatividade institucional só é legítima se não violar a realidade e as regras verdadeiras básicas relativas ao humano livre e digno.",
+          "A verdade não se funda em formalização autojustificativa, mas na conformação ao real; por isso o modo de ser humano não admite justificação alternativa desligada do real.",
+          "A forma só é verdadeira se permanecer fiel ao real apreendido, e não à coerência de um sistema ou jogo de linguagem.",
+          "A falha da mediação intergeracional encarnada empobrece o acesso humano ao mundo e produz orfandade simbólica; a tese final sobre verdade permanece demasiado instável para mexer estruturalmente no regime epistemológico do mapa.",
+          "A epistemologia só tem critério robusto se estiver ontologicamente ancorada no real verificável.",
+          "Quando a forma sistémica se autonomiza, substitui o real e degrada a verdade em validação interna; é preciso reinscrever sistema e mediação na verdade do real.",
+          "Mediações simbólicas podem ser capturadas pelo formalismo e deixar de revelar o real, favorecendo desresponsabilização.",
+          "O discurso público formal tende ao fechamento simbólico e à substituição da verdade pela gestão sistémica de rótulos e crenças.",
+          "A consciência e os modos de ser devem ser reinscritos em processos corporais, neuronais, habituais e práticos, e certas crenças persistem mais por inscrição e atratividade cultural do que por adequação ao real.",
+          "Sem orientação subordinada à verdade sobre o real, a dissolução dos modos coletivos de ser gera relativismo e degradação prática.",
+          "Sem submissão ao real, o critério degrada-se em validação interna e pode legitimar quase qualquer posição.",
+          "A representação perceptiva é anterior à descrição e deve manter submissão ao real; quando o discurso se fecha sobre si, perde enraizamento."
+        ],
+        "justificacoes_novas": [
+          "Mostra que um procedimento pode ser útil para gerir comportamentos localmente e ainda assim ser inadequado como critério geral de verdade ou orientação.",
+          "Fornece a ideia de que nao se avalia a bondade de uma proposicao valorativa sem antes testar a verdade do diagnostico e a adequacao da solucao.",
+          "Mostra que uma norma só é admissível se descrever corretamente o problema real, o campo de incidência, o alcance e o efeito pretendido.",
+          "Mostra operacionalmente porque critério, correção e normatividade falham quando deixam de partir da melhor descrição possível da realidade.",
+          "Nao fornece justificacao nova suficientemente formada para um passo do mapa.",
+          "Mostra que a forma discursiva pode simular verdade e bem e, sem controlo pelo real, disseminar erro socialmente eficaz.",
+          "Se um modelo funciona porque acerta no real, o seu funcionamento não é só utilidade; é sinal de adequação ao real.",
+          "Não fornece justificação dedutiva nova robusta; apenas sugere, por exemplos históricos, que sistemas mais abertos à verdade produzem melhores resultados.",
+          "Fornece uma razão crítica contra a autonomização institucional: coerência com a instituição não basta para verdade nem para legitimidade normativa.",
+          "Mostra que um discurso pode parecer formalmente justificado e ainda assim não procurar a verdade, porque substitui submissão ao real por autojustificação conceptual.",
+          "Mostra que coerência sistemática e jogo linguístico podem conter acertos parciais e ainda assim falhar como critério suficiente porque a verdade exige alcance do real sob mediação limitada.",
+          "Sugere que o acesso humano ao mundo não depende só de conteúdos, mas de transmissão incorporada de modos de ser que tornam inteligíveis as construções herdadas.",
+          "Sugere que a submissão ao real não é só exigência teórica, mas condição de sucesso operativo e coletivo.",
+          "Mostra por exemplo social e normativo que ordens e sistemas só mantêm sentido se permanecerem implicitamente orientados à verdade do real; quando se autonomizam, produzem erro.",
+          "Não fornece justificação dedutiva nova; apenas ilustra como uma mediação social pode deixar de servir o real.",
+          "Fornece uma justificação aplicada para a tese de que critérios desligados do real se transformam em coerência formal, gestão institucional e imposição de crenças.",
+          "Sugere que crenças e modos de ser persistem porque deixam inscrição multiescalar no organismo e na reflexividade, não por pura deliberação consciente.",
+          "Fornece uma justificação pragmático-ontológica: quando mediações e artefactos tornam indistintas as aparências, só a submissão à verdade sobre o real preserva orientação e continuidade.",
+          "Mostra pragmaticamente que a perda do real como referência dissolve limites de justificação e permite tratar posições como verdadeiras e boas por mera validação interna.",
+          "Se orientar-se eficazmente no real é condição de sobrevivência e florescimento, então a representação não pode ser derivada de um circuito simbólico fechado; descrição e discurso dependem de contacto representacional prévio com objetos reais."
+        ],
+        "propostas_de_nova_formulacao": [
+          "Nem todo o critério funcional numa intervenção local é válido como critério geral; a admissibilidade depende da escala e da submissão ao real.",
+          "A bondade de uma proposicao valorativa depende da verdade do problema que descreve e da adequacao real da solucao que propõe, porque o valor nao e exterior ao real.",
+          "A normatividade, incluindo a lei, só é admissível enquanto derivação operativa de uma descrição verdadeira ou maximamente adequada do real e da escala em que intervém.",
+          "Quando o critério e a resposta prática deixam de partir da melhor descrição possível da realidade, o pensamento fecha-se em sistema, produz erro e gera um dever-ser desligado do real.",
+          "O critério de verdade não pode ser substituído pela mera forma persuasiva ou intelectual do discurso; sem submissão ao real, a aparência de verdade amplifica o erro.",
+          "O que funciona de modo estável no real não vale apenas como instrumento; vale como indício de adequação, e por isso entra no regime da verdade.",
+          "A validade institucional e prescritiva depende da sua submissão à verdade do real e não da mera conformidade com a instituição; no caso do humano, isso inclui não violar a sua liberdade e dignidade.",
+          "Um critério desligado da busca efectiva de conformação ao real degrada-se em formalismo autojustificativo e deixa de servir a verdade.",
+          "A verdade da forma não decorre da sua coerência interna, mas da fidelidade com que uma simbolização limitada preserva a relação com o real apreendido.",
+          "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê."
+        ],
+        "observacoes_finais": [
+          "Útil para densificar P22 e secundariamente P33, mas o texto é oral, incompleto e não altera a arquitetura.",
+          "Impacto real mas apenas justificativo e mediacional; o texto esta oral e instavel e deve ser retrabalhado antes de entrar no mapa.",
+          "Útil para densificar P47 e, secundariamente, P33 e P22; não altera a arquitetura.",
+          "Útil para reforçar a justificação de passos já existentes, sobretudo P33 e P47; não cria arquitetura nova.",
+          "Fragmento util apenas como reservatorio de exemplo aplicado, nao como alteracao do mapa dedutivo.",
+          "Útil para reforçar P33-P36; o trecho sobre verdade e bem e sobre o indivíduo está instável e não deve ser promovido a arquitetura sem retrabalho.",
+          "Aproveitar só o núcleo real-funcionamento-verdade; não integrar a parte sobre cérebro e superioridade do pensamento sem retrabalho forte.",
+          "Afinidade temática clara com verdade, fechamento sistémico e normatividade ancorada no real, mas sem ganho estrutural estável para o mapa.",
+          "Útil para reforçar P33 e P46 e para preparar P50, mas o salto para dignidade e prescrição ainda precisa de mediação dedutiva.",
+          "Útil sobretudo para densificar a justificação de P33-P34 e, de forma lateral, a transição para P47; não altera a arquitetura.",
+          "Útil para densificar a justificação epistemológica, sem alterar a arquitetura do mapa.",
+          "Útil sobretudo para densificar a exposição da mediação simbólica; a parte epistemológica final é instável e não deve ser integrada sem retrabalho.",
+          "Útil como reforço de P33-P34, mas os exemplos civilizacionais são mais retóricos do que dedutivos.",
+          "Útil para reforçar a justificação da submissão ao real e da crítica do fechamento sistémico, mas o texto está heterogéneo e ensaístico.",
+          "Útil como material de crítica sistémica ou exemplo redacional, mas sem impacto dedutivo claro no mapa atual.",
+          "Útil como apoio justificativo e ilustrativo da crítica ao fechamento simbólico; não altera a arquitetura do mapa.",
+          "Útil sobretudo para densificar a exposição de P28; o resto do fragmento é heterogéneo e não deve mexer na arquitetura do mapa.",
+          "Útil para densificar P33-P36 com aplicação crítica e ponte fraca para a degeneração prática; não altera a arquitetura.",
+          "Aproveitar o núcleo crítico sobre critério e real; excluir ou retrabalhar fortemente o fecho teológico antes de integrar.",
+          "Útil para reforçar P26 e a ponte até P33, mas o texto está misturado e polemicamente instável."
+        ]
+      }
+    },
+    {
+      "proposicao_id": "P34",
+      "numero": 34,
+      "corredor": "corredor_P33_P37_organizado",
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "proposicao_atual": "Verdade é adequação sob critério e submissão ao real.",
+      "descricao_curta": "",
+      "depende_de": [
+        "P31",
+        "P32",
+        "P33"
+      ],
+      "prepara": [
+        "P35"
+      ],
+      "funcao_no_percurso": "No Epistemologia derivada da ontologia, esta proposição fixa que verdade é adequação sob critério e submissão ao real.; Recebe apoio imediato de P31, P32, P33; e prepara P35.",
+      "estado_estrutural_atual": {
+        "estabilidade": "estavel_mas_a_densificar",
+        "necessidade_principal": "explicitar_mediacoes",
+        "acao_estrutural_recomendada": "densificar",
+        "diagnostico_textual": "A proposição P34 foi tocada por 69 fragmento(s). A pressão dominante vem da zona epistemologia. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+      },
+      "nucleo_que_se_mantem": "Mantém-se o núcleo segundo o qual verdade é adequação sob critério e submissão ao real.. A justificação mínima já presente é: Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.. O diagnóstico estrutural atual é 'estavel_mas_a_densificar'.",
+      "defice_principal": "O défice principal é de mediação dedutiva explícita. Falta ainda: Integrar adequação, critério e submissão ao real numa formulação unificada.",
+      "justificacao_atual": "Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.",
+      "mediacoes_em_falta": [
+        "Explicitar a ponte dedutiva entre P31, P32, P33 e P34.",
+        "Explicitar a passagem de P34 para P35.",
+        "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+      ],
+      "objecoes_a_bloquear": [
+        "verdade como coerência pura",
+        "verdade como consenso",
+        "erro sem implicação corretiva",
+        "verdade como mera forma discursiva",
+        "critério reduzido à persuasão intelectual",
+        "coerência aparente basta para verdade",
+        "representacionalismo sem referente",
+        "fechamento da consciência em si mesma",
+        "pragmatismo desligado do real",
+        "coerência modelar sem referência ao real",
+        "coerentismo fechado",
+        "formalismo da verdade",
+        "autojustificação conceptual desligada do real",
+        "linguisticismo",
+        "verdade como mera inteligibilidade interna",
+        "separacao forte entre epistemologia e ontologia",
+        "criterio desligado do real",
+        "relativismo",
+        "convencionalismo total",
+        "verdade como funcionalidade local",
+        "verdade como eficácia discursiva"
+      ],
+      "fragmentos_justificativos": [
+        {
+          "fragment_id": "F0049_SEG_001",
+          "origem_id": "F0049",
+          "resumo_local_no_corredor": "Reinscreve a consciência no real e critica o erro autorreferencial que troca adequação ao real por coerência interna.",
+          "justificacao_local_no_corredor": "Define proposições verdadeiras como as que melhor descrevem o real e identifica sabedoria com adequação à realidade.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Naturaliza a consciência e critica o erro autorreferencial."
+        },
+        {
+          "fragment_id": "F0054_SEG_001",
+          "origem_id": "F0054",
+          "resumo_local_no_corredor": "Critica a autonomização da linguagem e do discurso quando deixam de referir o real; daí resulta fechamento interno do sistema e perda das condições de correção, erro e avaliação.",
+          "justificacao_local_no_corredor": "Mostra negativamente que sem referência ao real não há base para verdade, correção ou erro.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da autonomização da linguagem face ao real."
+        },
+        {
+          "fragment_id": "F0061_SEG_002",
+          "origem_id": "F0061",
+          "resumo_local_no_corredor": "Subordina o bom, o verdadeiro e o dever-ser à descrição adequada do real; reinscreve a consciência humana como localizada e finita; toca erro categorial e representação.",
+          "justificacao_local_no_corredor": "Liga explicitamente verdade e critério à descrição adequada da realidade.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Subordina o bom e o verdadeiro à descrição do real."
+        },
+        {
+          "fragment_id": "F0070_SEG_002",
+          "origem_id": "F0070",
+          "resumo_local_no_corredor": "Fixa que validade e verdade proposicionais dependem do real, não de um sistema humano, e denuncia como erro categorial a aferição interna da validade.",
+          "justificacao_local_no_corredor": "A fórmula final diz que a verdade nasce da coincidência efetiva com o real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Submete a validade proposicional ao real e exclui a sua aferição sistémica."
+        },
+        {
+          "fragment_id": "F0104_A01_SEG_005",
+          "origem_id": "F0104_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Subordina a verdade local ao real integral."
+        },
+        {
+          "fragment_id": "F0106_SEG_003",
+          "origem_id": "F0106",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Fixa o critério de verdade no real e não no sujeito."
+        },
+        {
+          "fragment_id": "F0108_A02_SEG_002",
+          "origem_id": "F0108_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Distingue adequação local e verdade sobre o real."
+        },
+        {
+          "fragment_id": "F0113_A01_SEG_002",
+          "origem_id": "F0113_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "descricao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Liga condições reais, repetição e regularidade descritiva."
+        },
+        {
+          "fragment_id": "F0119_A01_SEG_003",
+          "origem_id": "F0119_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "derivacao_normativa",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Deriva o bom da preservação relacional e aplica-o ao caso de matar."
+        },
+        {
+          "fragment_id": "F0160_SEG_001",
+          "origem_id": "F0160",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Define verdade como descrição do real e aproxima o bem desse critério."
+        },
+        {
+          "fragment_id": "F0014_SEG_001",
+          "origem_id": "F0014",
+          "resumo_local_no_corredor": "Diagnostica um erro em que a forma discursiva imita verdade e bem sem submissão ao real, produzindo falsidade coletiva e subjetivação do critério.",
+          "justificacao_local_no_corredor": "Ajuda a excluir a redução da verdade à forma intelectual ou à mera aparência de correção discursiva.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da aparência de verdade que substitui o real."
+        },
+        {
+          "fragment_id": "F0025_SEG_001",
+          "origem_id": "F0025",
+          "resumo_local_no_corredor": "Critica o formalismo da verdade e a autojustificação interna, reafirmando que verdade e modo de ser devem conformar-se ao real; toca lateralmente a passagem para a ética.",
+          "justificacao_local_no_corredor": "A crítica ao 'formalista da verdade' reforça a tese de verdade como adequação ao real, não coerência interna.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica o formalismo e reconduz o modo de ser ao real."
+        }
+      ],
+      "fragmentos_mediacionais": [
+        {
+          "fragment_id": "F0061_SEG_001",
+          "origem_id": "F0061",
+          "resumo_local_no_corredor": "Desloca o foco fundacional da consciência para uma necessidade ontológica anterior e ensaia ligar potencialidade, direção, bem e verdade.",
+          "justificacao_local_no_corredor": "Aproxima a verdade da concretização adequada de potencialidades, mas sem explicitar critério e submissão ao real.",
+          "categoria_primaria": "mediacional",
+          "categorias_secundarias": [
+            "justificativo",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "derivacao_normativa",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Passa da necessidade ontológica para um esboço de critério do bem."
+        }
+      ],
+      "fragmentos_de_bloqueio": [
+        {
+          "fragment_id": "F0049_SEG_001",
+          "origem_id": "F0049",
+          "resumo_local_no_corredor": "Reinscreve a consciência no real e critica o erro autorreferencial que troca adequação ao real por coerência interna.",
+          "justificacao_local_no_corredor": "Define proposições verdadeiras como as que melhor descrevem o real e identifica sabedoria com adequação à realidade.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Naturaliza a consciência e critica o erro autorreferencial."
+        },
+        {
+          "fragment_id": "F0054_SEG_001",
+          "origem_id": "F0054",
+          "resumo_local_no_corredor": "Critica a autonomização da linguagem e do discurso quando deixam de referir o real; daí resulta fechamento interno do sistema e perda das condições de correção, erro e avaliação.",
+          "justificacao_local_no_corredor": "Mostra negativamente que sem referência ao real não há base para verdade, correção ou erro.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da autonomização da linguagem face ao real."
+        },
+        {
+          "fragment_id": "F0070_SEG_002",
+          "origem_id": "F0070",
+          "resumo_local_no_corredor": "Fixa que validade e verdade proposicionais dependem do real, não de um sistema humano, e denuncia como erro categorial a aferição interna da validade.",
+          "justificacao_local_no_corredor": "A fórmula final diz que a verdade nasce da coincidência efetiva com o real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Submete a validade proposicional ao real e exclui a sua aferição sistémica."
+        },
+        {
+          "fragment_id": "F0119_A01_SEG_003",
+          "origem_id": "F0119_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "derivacao_normativa",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Deriva o bom da preservação relacional e aplica-o ao caso de matar."
+        },
+        {
+          "fragment_id": "F0014_SEG_001",
+          "origem_id": "F0014",
+          "resumo_local_no_corredor": "Diagnostica um erro em que a forma discursiva imita verdade e bem sem submissão ao real, produzindo falsidade coletiva e subjetivação do critério.",
+          "justificacao_local_no_corredor": "Ajuda a excluir a redução da verdade à forma intelectual ou à mera aparência de correção discursiva.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da aparência de verdade que substitui o real."
+        },
+        {
+          "fragment_id": "F0025_SEG_001",
+          "origem_id": "F0025",
+          "resumo_local_no_corredor": "Critica o formalismo da verdade e a autojustificação interna, reafirmando que verdade e modo de ser devem conformar-se ao real; toca lateralmente a passagem para a ética.",
+          "justificacao_local_no_corredor": "A crítica ao 'formalista da verdade' reforça a tese de verdade como adequação ao real, não coerência interna.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica o formalismo e reconduz o modo de ser ao real."
+        },
+        {
+          "fragment_id": "F0026_SEG_001",
+          "origem_id": "F0026",
+          "resumo_local_no_corredor": "Reafirma que verdade e erro dependem da submissão da forma ao real, com mediação limitada pela apreensão e simbolização.",
+          "justificacao_local_no_corredor": "Liga a forma verdadeira à fidelidade ao real e a forma falsa ao seu falhanço.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Recentramento da verdade na relação ao real sob limite de apreensão."
+        },
+        {
+          "fragment_id": "F0029_SEG_001",
+          "origem_id": "F0029",
+          "resumo_local_no_corredor": "Defende que a verificação das proposições depende da submissão ao real e critica a separação entre epistemologia e ontologia; os exemplos coletivos funcionam como ilustração aplicada.",
+          "justificacao_local_no_corredor": "A tese de que só um sistema ancorado no real permite verificação reforça a formulação da verdade como adequação submetida ao real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica a separação entre epistemologia e ontologia pela exigência de verificação no real."
+        }
+      ],
+      "fragmentos_ilustrativos": [
+        {
+          "fragment_id": "F0170_SEG_001",
+          "origem_id": "F0170",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "justificativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "exploracao_pre_conceptual",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Abertura exploratória sobre a figura do filósofo como agente de descrição unificadora do real."
+        }
+      ],
+      "decisao_editorial_v2": {
+        "acao_recomendada": "densificar",
+        "necessidade_principal": "explicitar_mediacoes",
+        "estado_provisorio": "estavel_mas_a_densificar"
+      },
+      "formulacao_v2_provisoria": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+      "ponte_com_passo_anterior": "Mostrar como P31, P32, P33 desemboca(m) em 'Verdade é adequação sob critério e submissão ao real.' sem salto categorial nem compressão excessiva.",
+      "ponte_com_passo_seguinte": "Mostrar como 'Verdade é adequação sob critério e submissão ao real.' abre legitimamente a passagem para P35, explicitando o elo intermédio quando necessário.",
+      "observacoes_de_trabalho": [
+        "Abrir explicitamente as mediações internas entre a tese atual e o passo seguinte.",
+        "A ação recomendada dominante é densificar, não dividir o mapa nem criar novos passos sem necessidade."
+      ],
+      "resumo_fragmentario": {
+        "total_fragmentos_relacionados": 69,
+        "distribuicao_categorias_primarias": {
+          "justificativo": 67,
+          "mediacional": 1,
+          "bloqueio": 0,
+          "ilustrativo": 1
+        },
+        "distribuicao_justificativos": {
+          "alta": 10,
+          "media": 57,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 51
+        },
+        "distribuicao_mediacionais": {
+          "alta": 0,
+          "media": 1,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 1
+        },
+        "distribuicao_bloqueio": {
+          "alta": 4,
+          "media": 39,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 36
+        },
+        "distribuicao_ilustrativos": {
+          "alta": 0,
+          "media": 1,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 1
+        }
+      },
+      "materiais_de_referencia": {
+        "teses_principais": [
+          "A verdade mede-se pela qualidade descritiva da representação relativamente à realidade, e o erro pede mudança.",
+          "A forma aparentemente verdadeira não garante verdade; sem submissão ao real, o discurso produz erro e fechamento subjetivo ou coletivo.",
+          "A consciência e os dados sensoriais pressupõem referência ao real, o que torna inteligível a verdade como relação com a realidade.",
+          "A busca do que funciona, se ancorada no real, pode ser lida como busca de verdade.",
+          "A verdade não se funda em formalização autojustificativa, mas na conformação ao real; por isso o modo de ser humano não admite justificação alternativa desligada do real.",
+          "A forma só é verdadeira se permanecer fiel ao real apreendido, e não à coerência de um sistema ou jogo de linguagem.",
+          "A epistemologia só tem critério robusto se estiver ontologicamente ancorada no real verificável.",
+          "Sem orientação subordinada à verdade sobre o real, a dissolução dos modos coletivos de ser gera relativismo e degradação prática.",
+          "Posições internamente coerentes ou culturalmente funcionais podem não ser verdadeiras se não estiverem submetidas ao real.",
+          "A consciência é processo natural no real, não substância separada; o erro filosófico surge quando o discurso se fecha sobre si e abandona a adequação ao real.",
+          "Proposições éticas não são mera expressão emocional; podem ter verdade porque certas exigências éticas decorrem de condições reais da existência humana.",
+          "Sem referência ao real, linguagem e sistema de crenças fecham-se sobre si e perdem as condições de validade, correção e juízo prático.",
+          "A verdade e a orientação correta dependem da submissão ao real, não da coerência interna da linguagem ou da reflexão.",
+          "O melhor modo de ser deve orientar-se pela concretização de potencialidades reais segundo a necessidade ontológica do ser, e não pela consciência tomada isoladamente.",
+          "O critério do bom e do verdadeiro depende da descrição adequada do real, porque a consciência humana só valida representando ou não representando o que existe, sem qualquer consciência absoluta exterior ao meio.",
+          "Construções simbólicas ou metafísicas não têm valor intrínseco fora do real; quando perdem função mediadora, colapsam perante a primazia do real.",
+          "A filosofia vale enquanto descrição do real submetida à sua renovação quando a descrição decai.",
+          "A validade de proposições que pretendem ser verdadeiras ou falsas depende da sua coincidência com o real, não da coerência de um sistema linguístico criado pelo homem.",
+          "Um discurso validado apenas pela coerência interna do seu sistema cai em fechamento subjetivo e perde critério de verdade por desligamento da realidade.",
+          "A coerência lógica interna, quando desligada do ser, não justifica proposições filosóficas nem funda verdade."
+        ],
+        "justificacoes_novas": [
+          "Fornece apoio informal à tese de que quanto melhor a descrição da realidade, mais verdadeira é a representação.",
+          "Mostra que a forma discursiva pode simular verdade e bem e, sem controlo pelo real, disseminar erro socialmente eficaz.",
+          "Fornece só uma justificação embrionária: se há orientação consciente para a verdade e referência sensorial, há dependência de um real referido.",
+          "Se um modelo funciona porque acerta no real, o seu funcionamento não é só utilidade; é sinal de adequação ao real.",
+          "Mostra que um discurso pode parecer formalmente justificado e ainda assim não procurar a verdade, porque substitui submissão ao real por autojustificação conceptual.",
+          "Mostra que coerência sistemática e jogo linguístico podem conter acertos parciais e ainda assim falhar como critério suficiente porque a verdade exige alcance do real sob mediação limitada.",
+          "Sugere que a submissão ao real não é só exigência teórica, mas condição de sucesso operativo e coletivo.",
+          "Fornece uma justificação pragmático-ontológica: quando mediações e artefactos tornam indistintas as aparências, só a submissão à verdade sobre o real preserva orientação e continuidade.",
+          "Mostra que um discurso pode funcionar num círculo, ter força literária ou gerar sistema formal sem por isso produzir verdade, se nasceu de um enquadramento desadequado ao real.",
+          "Se a consciência depende do meio, continua funções perceptivas naturais e não exige mistificação, então não deve ser tratada como instância separada; daí segue também que critérios desligados do real degradam-se em coerência interna.",
+          "Se a ética exprime condições reais de possibilidade e viabilidade dos modos de ser humanos, então não pode ser reduzida a mera descarga emocional sem perda de referência ao real.",
+          "A perda de referência ao real dissolve as condições de distinção entre correto, errado e melhor, porque o critério deixa de ter plano ontológico de submissão.",
+          "Se a vida e a verdade são relacionais, então o valor de pensamento, linguagem e ação depende da sua conformidade ao real vivido e não da sua auto-suficiência formal.",
+          "Sugere que a normatividade e a verdade devem recair sobre o modo como o ser pode realizar potencialidades compatíveis com a sua estrutura.",
+          "Se o pensamento humano só se valida por descrição do real, então critério, verdade e dever-ser não podem fundar-se em instâncias ideais autónomas.",
+          "Sugere que representações ou valores metafísicos só se mantêm enquanto mediações funcionais da relação com o real; sem isso, restam construções sem acerto.",
+          "Se se vive sobre descrições do real, então a sua estagnação produz decadência e exige substituição por descrições melhores, o que reforça a correção como reinscrição no real.",
+          "Se a proposição pretende verdade ou falsidade, o seu valor não pode ser decidido pelo sistema simbólico que a produz, mas pela submissão ao real que a valida ou invalida.",
+          "Mostra que um sistema pode parecer validado internamente e ainda assim falhar por não estar submetido ao real.",
+          "Se a justificação fica apenas na coerência interna dos componentes do discurso, o discurso fecha-se sobre si e perde submissão ao real; por isso não basta para verdade nem critério."
+        ],
+        "propostas_de_nova_formulacao": [
+          "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+          "O critério de verdade não pode ser substituído pela mera forma persuasiva ou intelectual do discurso; sem submissão ao real, a aparência de verdade amplifica o erro.",
+          "A consciência só é inteligível como processo referido ao real; por isso, a verdade não pode reduzir-se a coerência interna sem referente.",
+          "O que funciona de modo estável no real não vale apenas como instrumento; vale como indício de adequação, e por isso entra no regime da verdade.",
+          "Um critério desligado da busca efectiva de conformação ao real degrada-se em formalismo autojustificativo e deixa de servir a verdade.",
+          "A verdade da forma não decorre da sua coerência interna, mas da fidelidade com que uma simbolização limitada preserva a relação com o real apreendido.",
+          "O critério de verdade não pode autonomizar-se da ontologia: verificar uma proposição é submetê-la ao real de que depende.",
+          "A submissão ao real distingue a verdade não só da incoerência, mas também da mera coerência interna, eficácia discursiva ou adequação local de um sistema simbólico.",
+          "A consciência deve ser pensada como processo natural, emergente e situado no real, não como substância separada; quando o discurso a autonomiza, cai em fechamento autorreferencial e perde a submissão ao real.",
+          "A normatividade ética não se reduz a expressão emocional, porque certas proposições éticas exprimem condições reais de viabilidade dos modos de ser humanos e, por isso, permanecem submetidas à verdade e ao real."
+        ],
+        "observacoes_finais": [
+          "Útil como apoio redigível ao eixo verdade-erro-correção, mas em estado oral e instável.",
+          "Útil para reforçar P33-P36; o trecho sobre verdade e bem e sobre o indivíduo está instável e não deve ser promovido a arquitetura sem retrabalho.",
+          "Impacto sobretudo redacional e de ponte; nao altera a arquitetura do mapa.",
+          "Aproveitar só o núcleo real-funcionamento-verdade; não integrar a parte sobre cérebro e superioridade do pensamento sem retrabalho forte.",
+          "Útil sobretudo para densificar a justificação de P33-P34 e, de forma lateral, a transição para P47; não altera a arquitetura.",
+          "Útil para densificar a justificação epistemológica, sem alterar a arquitetura do mapa.",
+          "Útil como reforço de P33-P34, mas os exemplos civilizacionais são mais retóricos do que dedutivos.",
+          "Útil para densificar P33-P36 com aplicação crítica e ponte fraca para a degeneração prática; não altera a arquitetura.",
+          "Útil como apoio crítico em P33-P36; formulação ainda polémica e pouco estabilizada.",
+          "Fragmento forte para justificar P28 e fazer ponte para P33-P36, mas mistura linhas e pede depuração redacional antes de integração.",
+          "Útil para reforçar P46-P47 e, em menor grau, P33-P34; o trecho sobre representação é auxiliar e não deve inflacionar o impacto estrutural.",
+          "Útil sobretudo para reforçar P33-P36 e para fazer ponte entre mediação linguística e crítica epistemológica do fechamento.",
+          "Útil como apoio argumentativo ao eixo P33-P36, mas é misto e aforístico; não altera a arquitetura.",
+          "Útil como mediação e justificação, mas demasiado ensaístico para alterar a arquitetura do mapa.",
+          "Fragmento útil para densificar P33-P34 e apoiar P47, mas condensado e com saltos entre descrição, verdade e dever-ser.",
+          "Útil sobretudo para densificar a justificação de P33; o ataque ao conceito de Deus é temático e não deve ser sobreintegrado na arquitetura.",
+          "Útil para densificar P37 e, secundariamente, P33-P34; não altera a arquitetura.",
+          "Impacto forte na justificação epistemológica, mas sem alteração da arquitetura do mapa.",
+          "Impacto real mas local: reforca sobretudo P33-P34; a ligacao a consciencia fica demasiado instavel para mexer na arquitetura.",
+          "Útil como reforço anti-coerentista de P33-P36, mas a formulação oral e hiperbólica não justifica alteração estrutural do mapa."
+        ]
+      }
+    },
+    {
+      "proposicao_id": "P35",
+      "numero": 35,
+      "corredor": "corredor_P33_P37_organizado",
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "proposicao_atual": "Se há verdade, há erro.",
+      "descricao_curta": "Sem distinção entre adequação e desadequação não há sequer crítica.",
+      "depende_de": [
+        "P34"
+      ],
+      "prepara": [
+        "P36"
+      ],
+      "funcao_no_percurso": "No Epistemologia derivada da ontologia, esta proposição fixa que se há verdade, há erro.; Recebe apoio imediato de P34; e prepara P36.",
+      "estado_estrutural_atual": {
+        "estabilidade": "nao_testado_pelos_fragmentos",
+        "necessidade_principal": "verificar_manual",
+        "acao_estrutural_recomendada": "manter_provisoriamente",
+        "diagnostico_textual": "A proposição P35 foi tocada por 0 fragmento(s). O estado estrutural estimado é 'nao_testado_pelos_fragmentos'."
+      },
+      "nucleo_que_se_mantem": "Mantém-se o núcleo segundo o qual se há verdade, há erro.. A justificação mínima já presente é: Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.. O diagnóstico estrutural atual é 'nao_testado_pelos_fragmentos'.",
+      "defice_principal": "O défice principal é de validação manual do passo. Falta ainda: Está forte; apenas refino estilístico.",
+      "justificacao_atual": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+      "mediacoes_em_falta": [],
+      "objecoes_a_bloquear": [
+        "infalibilismo vazio"
+      ],
+      "fragmentos_justificativos": [],
+      "fragmentos_mediacionais": [],
+      "fragmentos_de_bloqueio": [],
+      "fragmentos_ilustrativos": [],
+      "decisao_editorial_v2": {
+        "acao_recomendada": "manter_provisoriamente",
+        "necessidade_principal": "verificar_manual",
+        "estado_provisorio": "nao_testado_pelos_fragmentos"
+      },
+      "formulacao_v2_provisoria": null,
+      "ponte_com_passo_anterior": "Mostrar como P34 desemboca(m) em 'Se há verdade, há erro.' sem salto categorial nem compressão excessiva.",
+      "ponte_com_passo_seguinte": "Mostrar como 'Se há verdade, há erro.' abre legitimamente a passagem para P36, explicitando o elo intermédio quando necessário.",
+      "observacoes_de_trabalho": [
+        "Confirmar manualmente se a falta de fragmentos é contingente ou se o passo tem mesmo apoio indireto apenas arquitetónico."
+      ],
+      "resumo_fragmentario": {
+        "total_fragmentos_relacionados": 0,
+        "distribuicao_categorias_primarias": {
+          "justificativo": 0,
+          "mediacional": 0,
+          "bloqueio": 0,
+          "ilustrativo": 0
+        },
+        "distribuicao_justificativos": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        },
+        "distribuicao_mediacionais": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        },
+        "distribuicao_bloqueio": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        },
+        "distribuicao_ilustrativos": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        }
+      },
+      "materiais_de_referencia": {
+        "teses_principais": [],
+        "justificacoes_novas": [],
+        "propostas_de_nova_formulacao": [],
+        "observacoes_finais": []
+      }
+    },
+    {
+      "proposicao_id": "P36",
+      "numero": 36,
+      "corredor": "corredor_P33_P37_organizado",
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "proposicao_atual": "O erro não é só incoerência; é desalinhar-se com o real.",
+      "descricao_curta": "",
+      "depende_de": [
+        "P35"
+      ],
+      "prepara": [
+        "P37"
+      ],
+      "funcao_no_percurso": "No Epistemologia derivada da ontologia, esta proposição fixa que o erro não é só incoerência; é desalinhar-se com o real.; Recebe apoio imediato de P35; e prepara P37.",
+      "estado_estrutural_atual": {
+        "estabilidade": "estavel_mas_a_densificar",
+        "necessidade_principal": "explicitar_mediacoes",
+        "acao_estrutural_recomendada": "densificar",
+        "diagnostico_textual": "A proposição P36 foi tocada por 123 fragmento(s). A pressão dominante vem da zona epistemologia. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+      },
+      "nucleo_que_se_mantem": "Mantém-se o núcleo segundo o qual o erro não é só incoerência; é desalinhar-se com o real.. A justificação mínima já presente é: O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.. O diagnóstico estrutural atual é 'estavel_mas_a_densificar'.",
+      "defice_principal": "O défice principal é de mediação dedutiva explícita. Falta ainda: Consolidar tipologia do erro e sua derivação.",
+      "justificacao_atual": "O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.",
+      "mediacoes_em_falta": [
+        "Explicitar a ponte dedutiva entre P35 e P36.",
+        "Explicitar a passagem de P36 para P37.",
+        "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+      ],
+      "objecoes_a_bloquear": [
+        "erro reduzido a incoerência formal",
+        "autonomia normativa absoluta",
+        "moralismo extrínseco",
+        "correção prática desligada da descrição do real",
+        "verdade como coerência pura",
+        "erro sem implicação corretiva",
+        "coerentismo fechado",
+        "resposta social guiada por instinto ou emoção como equivalente epistémico",
+        "verdade como mera forma discursiva",
+        "critério reduzido à persuasão intelectual",
+        "coerência aparente basta para verdade",
+        "erro como entidade ontologica propria",
+        "hipostase do negativo",
+        "erro como dominio separado do real",
+        "formalismo da verdade",
+        "autojustificação conceptual desligada do real",
+        "linguisticismo",
+        "verdade como mera inteligibilidade interna",
+        "convencionalismo total",
+        "correção como mera coerentização"
+      ],
+      "fragmentos_justificativos": [
+        {
+          "fragment_id": "F0049_SEG_001",
+          "origem_id": "F0049",
+          "resumo_local_no_corredor": "Reinscreve a consciência no real e critica o erro autorreferencial que troca adequação ao real por coerência interna.",
+          "justificacao_local_no_corredor": "O fragmento diz explicitamente que o erro não é entidade, mas modo desadequado de ser e pensar.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Naturaliza a consciência e critica o erro autorreferencial."
+        },
+        {
+          "fragment_id": "F0054_SEG_001",
+          "origem_id": "F0054",
+          "resumo_local_no_corredor": "Critica a autonomização da linguagem e do discurso quando deixam de referir o real; daí resulta fechamento interno do sistema e perda das condições de correção, erro e avaliação.",
+          "justificacao_local_no_corredor": "Bloqueia a redução do erro a mera incoerência interna ao mostrar o caso de um sistema discursivo fechado.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da autonomização da linguagem face ao real."
+        },
+        {
+          "fragment_id": "F0070_SEG_002",
+          "origem_id": "F0070",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Submete a validade proposicional ao real e exclui a sua aferição sistémica."
+        },
+        {
+          "fragment_id": "F0097_A02_SEG_002",
+          "origem_id": "F0097_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Reinscreve consciência e eu no real e denuncia desvio categorial."
+        },
+        {
+          "fragment_id": "F0108_A02_SEG_002",
+          "origem_id": "F0108_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Distingue adequação local e verdade sobre o real."
+        },
+        {
+          "fragment_id": "F0241_A18_SEG_003",
+          "origem_id": "F0241_A18",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Recusa equivalência entre critérios e fixa a adequação ao real como medida."
+        },
+        {
+          "fragment_id": "F0012_SEG_001",
+          "origem_id": "F0012",
+          "resumo_local_no_corredor": "Critica sistemas de pensamento que substituem a melhor descrição do real por respostas instintivas, emocionais ou por um deve-ser autonomizado.",
+          "justificacao_local_no_corredor": "Descreve formas de pensamento dominantes como respostas inadequadas por substituírem o real por esquemas instintivos ou ideológicos.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica a substituição da descrição do real por pensamento instintivo e deve-ser."
+        },
+        {
+          "fragment_id": "F0014_SEG_001",
+          "origem_id": "F0014",
+          "resumo_local_no_corredor": "Diagnostica um erro em que a forma discursiva imita verdade e bem sem submissão ao real, produzindo falsidade coletiva e subjetivação do critério.",
+          "justificacao_local_no_corredor": "Define o erro como falsidade com aparência de verdade e como substituição do real por validação subjetiva ou coletiva.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da aparência de verdade que substitui o real."
+        },
+        {
+          "fragment_id": "F0024_SEG_002",
+          "origem_id": "F0024",
+          "resumo_local_no_corredor": "Reinscreve o erro no plano epistemologico, negando-lhe estatuto ontologico proprio, e sugere que a mudanca ocorre no interior do real sem o alterar enquanto real.",
+          "justificacao_local_no_corredor": "O fragmento define o erro como modo nao verdadeiro perante a realidade, reconduzindo-o a desadequacao ao real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Nega estatuto ontológico ao erro e reinscreve a mudança no real."
+        },
+        {
+          "fragment_id": "F0025_SEG_001",
+          "origem_id": "F0025",
+          "resumo_local_no_corredor": "Critica o formalismo da verdade e a autojustificação interna, reafirmando que verdade e modo de ser devem conformar-se ao real; toca lateralmente a passagem para a ética.",
+          "justificacao_local_no_corredor": "O formalismo denunciado aparece como forma de erro por substituição do real por autojustificação conceptual.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica o formalismo e reconduz o modo de ser ao real."
+        },
+        {
+          "fragment_id": "F0026_SEG_001",
+          "origem_id": "F0026",
+          "resumo_local_no_corredor": "Reafirma que verdade e erro dependem da submissão da forma ao real, com mediação limitada pela apreensão e simbolização.",
+          "justificacao_local_no_corredor": "O risco da forma falsa é situado na mediação simbólica que não mantém relação adequada com o real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Recentramento da verdade na relação ao real sob limite de apreensão."
+        },
+        {
+          "fragment_id": "F0030_SEG_001",
+          "origem_id": "F0030",
+          "resumo_local_no_corredor": "Diagnostica a autonomização do sistema e da forma face ao real, sugerindo que ordens jurídicas, morais e sociais pressupõem busca implícita da verdade, mas podem fechar-se sobre si.",
+          "justificacao_local_no_corredor": "Descreve erro como preferência pela forma e pelo sistema contra a estrutura real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da substituição do real pela forma sistémica."
+        }
+      ],
+      "fragmentos_mediacionais": [],
+      "fragmentos_de_bloqueio": [
+        {
+          "fragment_id": "F0049_SEG_001",
+          "origem_id": "F0049",
+          "resumo_local_no_corredor": "Reinscreve a consciência no real e critica o erro autorreferencial que troca adequação ao real por coerência interna.",
+          "justificacao_local_no_corredor": "O fragmento diz explicitamente que o erro não é entidade, mas modo desadequado de ser e pensar.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Naturaliza a consciência e critica o erro autorreferencial."
+        },
+        {
+          "fragment_id": "F0054_SEG_001",
+          "origem_id": "F0054",
+          "resumo_local_no_corredor": "Critica a autonomização da linguagem e do discurso quando deixam de referir o real; daí resulta fechamento interno do sistema e perda das condições de correção, erro e avaliação.",
+          "justificacao_local_no_corredor": "Bloqueia a redução do erro a mera incoerência interna ao mostrar o caso de um sistema discursivo fechado.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da autonomização da linguagem face ao real."
+        },
+        {
+          "fragment_id": "F0070_SEG_002",
+          "origem_id": "F0070",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Submete a validade proposicional ao real e exclui a sua aferição sistémica."
+        },
+        {
+          "fragment_id": "F0097_A02_SEG_002",
+          "origem_id": "F0097_A02",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Reinscreve consciência e eu no real e denuncia desvio categorial."
+        },
+        {
+          "fragment_id": "F0241_A18_SEG_003",
+          "origem_id": "F0241_A18",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "alta",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Recusa equivalência entre critérios e fixa a adequação ao real como medida."
+        },
+        {
+          "fragment_id": "F0012_SEG_001",
+          "origem_id": "F0012",
+          "resumo_local_no_corredor": "Critica sistemas de pensamento que substituem a melhor descrição do real por respostas instintivas, emocionais ou por um deve-ser autonomizado.",
+          "justificacao_local_no_corredor": "Descreve formas de pensamento dominantes como respostas inadequadas por substituírem o real por esquemas instintivos ou ideológicos.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica a substituição da descrição do real por pensamento instintivo e deve-ser."
+        },
+        {
+          "fragment_id": "F0014_SEG_001",
+          "origem_id": "F0014",
+          "resumo_local_no_corredor": "Diagnostica um erro em que a forma discursiva imita verdade e bem sem submissão ao real, produzindo falsidade coletiva e subjetivação do critério.",
+          "justificacao_local_no_corredor": "Define o erro como falsidade com aparência de verdade e como substituição do real por validação subjetiva ou coletiva.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da aparência de verdade que substitui o real."
+        },
+        {
+          "fragment_id": "F0024_SEG_002",
+          "origem_id": "F0024",
+          "resumo_local_no_corredor": "Reinscreve o erro no plano epistemologico, negando-lhe estatuto ontologico proprio, e sugere que a mudanca ocorre no interior do real sem o alterar enquanto real.",
+          "justificacao_local_no_corredor": "O fragmento define o erro como modo nao verdadeiro perante a realidade, reconduzindo-o a desadequacao ao real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Nega estatuto ontológico ao erro e reinscreve a mudança no real."
+        }
+      ],
+      "fragmentos_ilustrativos": [
+        {
+          "fragment_id": "F0074_A01_SEG_002",
+          "origem_id": "F0074_A01",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "justificativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "exploracao_pre_conceptual",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Explora a ligação entre adaptação humana, estabilização de crenças e fechamento de círculos formais."
+        },
+        {
+          "fragment_id": "F0148_SEG_001",
+          "origem_id": "F0148",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "justificativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "exploracao_pre_conceptual",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Abre uma dúvida sobre a confusão entre quadro lógico, significado, relação e existência real."
+        },
+        {
+          "fragment_id": "F0214_SEG_001",
+          "origem_id": "F0214",
+          "resumo_local_no_corredor": null,
+          "justificacao_local_no_corredor": null,
+          "categoria_primaria": "ilustrativo",
+          "categorias_secundarias": [
+            "justificativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "baixa",
+          "estado_argumentativo": "exploracao_pre_conceptual",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Exploração intuitiva sobre diferença entre apreensão situada, elaboração teórica e descrição falsa, com incidência prática nas relações humanas."
+        }
+      ],
+      "decisao_editorial_v2": {
+        "acao_recomendada": "densificar",
+        "necessidade_principal": "explicitar_mediacoes",
+        "estado_provisorio": "estavel_mas_a_densificar"
+      },
+      "formulacao_v2_provisoria": "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+      "ponte_com_passo_anterior": "Mostrar como P35 desemboca(m) em 'O erro não é só incoerência; é desalinhar-se com o real.' sem salto categorial nem compressão excessiva.",
+      "ponte_com_passo_seguinte": "Mostrar como 'O erro não é só incoerência; é desalinhar-se com o real.' abre legitimamente a passagem para P37, explicitando o elo intermédio quando necessário.",
+      "observacoes_de_trabalho": [
+        "Abrir explicitamente as mediações internas entre a tese atual e o passo seguinte.",
+        "A ação recomendada dominante é densificar, não dividir o mapa nem criar novos passos sem necessidade.",
+        "Há muito apoio justificativo, mas pouca mediação primária identificada; convém fabricar a ponte dedutiva na escrita v2."
+      ],
+      "resumo_fragmentario": {
+        "total_fragmentos_relacionados": 123,
+        "distribuicao_categorias_primarias": {
+          "justificativo": 120,
+          "mediacional": 0,
+          "bloqueio": 0,
+          "ilustrativo": 3
+        },
+        "distribuicao_justificativos": {
+          "alta": 6,
+          "media": 114,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 98
+        },
+        "distribuicao_mediacionais": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        },
+        "distribuicao_bloqueio": {
+          "alta": 5,
+          "media": 112,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 96
+        },
+        "distribuicao_ilustrativos": {
+          "alta": 0,
+          "media": 3,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 3
+        }
+      },
+      "materiais_de_referencia": {
+        "teses_principais": [
+          "A normatividade prática não é autónoma; decorre das exigências reais e úteis dos sistemas concretos, e a ação falha quando o problema é mal descrito.",
+          "O problema surge quando um tipo de resposta menos exigente se normaliza e passa a dominar o sistema por requerer menos esforço.",
+          "A verdade mede-se pela qualidade descritiva da representação relativamente à realidade, e o erro pede mudança.",
+          "A resposta adequada exige descrição do real submetida ao próprio real; quando sistemas simbólicos dominantes a substituem, produzem erro e desorientação prática.",
+          "A forma aparentemente verdadeira não garante verdade; sem submissão ao real, o discurso produz erro e fechamento subjetivo ou coletivo.",
+          "Ontologicamente so ha o real; o erro nao e ente autonomo, mas modo desadequado e gradual de relacao com a realidade.",
+          "A verdade não se funda em formalização autojustificativa, mas na conformação ao real; por isso o modo de ser humano não admite justificação alternativa desligada do real.",
+          "A forma só é verdadeira se permanecer fiel ao real apreendido, e não à coerência de um sistema ou jogo de linguagem.",
+          "Quando a forma sistémica se autonomiza, substitui o real e degrada a verdade em validação interna; é preciso reinscrever sistema e mediação na verdade do real.",
+          "O discurso público formal tende ao fechamento simbólico e à substituição da verdade pela gestão sistémica de rótulos e crenças.",
+          "Critérios, proposições e modos de ação só valem na escala e no círculo ontológico compatíveis; a sua transposição indevida gera erro categorial.",
+          "Um modo de ser só é aplicável e válido no nível ou círculo para o qual é adequado; fora dessa escala há erro de aplicação.",
+          "Sem orientação subordinada à verdade sobre o real, a dissolução dos modos coletivos de ser gera relativismo e degradação prática.",
+          "Sem submissão ao real, o critério degrada-se em validação interna e pode legitimar quase qualquer posição.",
+          "Uma forma ou polo degenera quando se autonomiza de uma relação estrutural de que depende; mesmo essa relação continua a pertencer ao real.",
+          "Posições internamente coerentes ou culturalmente funcionais podem não ser verdadeiras se não estiverem submetidas ao real.",
+          "Reduzir o real ao processo conhecido é erro ontológico autorreferencial que substitui o real por coerência interna preservadora.",
+          "A consciência é processo natural no real, não substância separada; o erro filosófico surge quando o discurso se fecha sobre si e abandona a adequação ao real.",
+          "Sem referência ao real, linguagem e sistema de crenças fecham-se sobre si e perdem as condições de validade, correção e juízo prático.",
+          "A verdade e a orientação correta dependem da submissão ao real, não da coerência interna da linguagem ou da reflexão."
+        ],
+        "justificacoes_novas": [
+          "Mostra que a necessidade prática pode ser lida como imposição real das relações e objetos do sistema, não como mandato moral separado; e que a falha prática decorre de descrição inadequada do problema.",
+          "Oferece apenas uma razão heurística de dominância por menor esforço; não fixa um passo dedutivo novo.",
+          "Fornece apoio informal à tese de que quanto melhor a descrição da realidade, mais verdadeira é a representação.",
+          "Mostra operacionalmente porque critério, correção e normatividade falham quando deixam de partir da melhor descrição possível da realidade.",
+          "Mostra que a forma discursiva pode simular verdade e bem e, sem controlo pelo real, disseminar erro socialmente eficaz.",
+          "Se ontologicamente so ha o real, o erro nao pode ser um segundo regime de ser; so pode ser desadequacao de um modo de ser ao real.",
+          "Mostra que um discurso pode parecer formalmente justificado e ainda assim não procurar a verdade, porque substitui submissão ao real por autojustificação conceptual.",
+          "Mostra que coerência sistemática e jogo linguístico podem conter acertos parciais e ainda assim falhar como critério suficiente porque a verdade exige alcance do real sob mediação limitada.",
+          "Mostra por exemplo social e normativo que ordens e sistemas só mantêm sentido se permanecerem implicitamente orientados à verdade do real; quando se autonomizam, produzem erro.",
+          "Fornece uma justificação aplicada para a tese de que critérios desligados do real se transformam em coerência formal, gestão institucional e imposição de crenças.",
+          "Fornece a ideia de que critérios afetivos ou proximais podem ser verdadeiros num círculo e falsos ou inadequados noutro, o que torna visível a dependência escalar da adequação.",
+          "Mostra, ainda de forma instável, que a adequação de um modo de ser não é universal, mas dependente do nível funcional em que opera.",
+          "Fornece uma justificação pragmático-ontológica: quando mediações e artefactos tornam indistintas as aparências, só a submissão à verdade sobre o real preserva orientação e continuidade.",
+          "Mostra pragmaticamente que a perda do real como referência dissolve limites de justificação e permite tratar posições como verdadeiras e boas por mera validação interna.",
+          "Nao fornece justificação dedutiva nova estável; apenas sugere que a autonomização sistémica degenera por cortar dependências reais.",
+          "Mostra que um discurso pode funcionar num círculo, ter força literária ou gerar sistema formal sem por isso produzir verdade, se nasceu de um enquadramento desadequado ao real.",
+          "Fornece um caso genealógico-psicológico de como a autorreferencialidade e a justificação interna produzem fechamento e perda de submissão ao real.",
+          "Se a consciência depende do meio, continua funções perceptivas naturais e não exige mistificação, então não deve ser tratada como instância separada; daí segue também que critérios desligados do real degradam-se em coerência interna.",
+          "A perda de referência ao real dissolve as condições de distinção entre correto, errado e melhor, porque o critério deixa de ter plano ontológico de submissão.",
+          "Se a vida e a verdade são relacionais, então o valor de pensamento, linguagem e ação depende da sua conformidade ao real vivido e não da sua auto-suficiência formal."
+        ],
+        "propostas_de_nova_formulacao": [
+          "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+          "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+          "Quando o critério e a resposta prática deixam de partir da melhor descrição possível da realidade, o pensamento fecha-se em sistema, produz erro e gera um dever-ser desligado do real.",
+          "O critério de verdade não pode ser substituído pela mera forma persuasiva ou intelectual do discurso; sem submissão ao real, a aparência de verdade amplifica o erro.",
+          "O erro nao constitui um ente ou dominio ontologico proprio; e um modo de representacao ou posicionamento que se desadequada gradualmente ao real.",
+          "Um critério desligado da busca efectiva de conformação ao real degrada-se em formalismo autojustificativo e deixa de servir a verdade.",
+          "A verdade da forma não decorre da sua coerência interna, mas da fidelidade com que uma simbolização limitada preserva a relação com o real apreendido.",
+          "Um critério desligado do real fecha-se em sistema e toma a forma validada internamente por verdade.",
+          "A adequação de descrições e ações varia com o círculo, a escala e o tipo de relação; a transposição de critérios válidos num plano para outro constitui erro categorial.",
+          "Sem submissão ao real, o critério degrada-se em validação interna — cultural, formal ou pseudocientífica — e pode legitimar como verdadeiro e bom o que apenas se autojustifica."
+        ],
+        "observacoes_finais": [
+          "Útil para reforçar P46-P47 e, secundariamente, P36, mas o texto está oral e instável; aproveitar só após reescrita rigorosa.",
+          "Há afinidade com crítica sistémica e estabilização do erro, mas o texto é demasiado oral e indefinido para mexer no mapa.",
+          "Útil como apoio redigível ao eixo verdade-erro-correção, mas em estado oral e instável.",
+          "Útil para reforçar a justificação de passos já existentes, sobretudo P33 e P47; não cria arquitetura nova.",
+          "Útil para reforçar P33-P36; o trecho sobre verdade e bem e sobre o indivíduo está instável e não deve ser promovido a arquitetura sem retrabalho.",
+          "Impacto real mas localizado: util para densificar a justificacao do erro como desadequacao, sem alterar a arquitetura do mapa.",
+          "Útil sobretudo para densificar a justificação de P33-P34 e, de forma lateral, a transição para P47; não altera a arquitetura.",
+          "Útil para densificar a justificação epistemológica, sem alterar a arquitetura do mapa.",
+          "Útil para reforçar a justificação da submissão ao real e da crítica do fechamento sistémico, mas o texto está heterogéneo e ensaístico.",
+          "Útil como apoio justificativo e ilustrativo da crítica ao fechamento simbólico; não altera a arquitetura do mapa.",
+          "Útil para densificar P20-P22 e P36, mas a formulação política e a dicotomia final procura/resguardo tornam o fragmento instável.",
+          "Útil como apoio ao erro de escala e à adequação por campo, mas a formulação de verdade está filosoficamente instável e não deve entrar sem retrabalho.",
+          "Útil para densificar P33-P36 com aplicação crítica e ponte fraca para a degeneração prática; não altera a arquitetura.",
+          "Aproveitar o núcleo crítico sobre critério e real; excluir ou retrabalhar fortemente o fecho teológico antes de integrar.",
+          "Afinidade parcial com crítica do erro e submissão ao real, mas sem impacto dedutivo claro no mapa.",
+          "Útil como apoio crítico em P33-P36; formulação ainda polémica e pouco estabilizada.",
+          "Útil para densificar a crítica do fechamento autorreferencial, mas o texto permanece ensaístico e não cria novo passo dedutivo.",
+          "Fragmento forte para justificar P28 e fazer ponte para P33-P36, mas mistura linhas e pede depuração redacional antes de integração.",
+          "Útil sobretudo para reforçar P33-P36 e para fazer ponte entre mediação linguística e crítica epistemológica do fechamento.",
+          "Útil como apoio argumentativo ao eixo P33-P36, mas é misto e aforístico; não altera a arquitetura."
+        ]
+      }
+    },
+    {
+      "proposicao_id": "P37",
+      "numero": 37,
+      "corredor": "corredor_P33_P37_organizado",
+      "bloco_id": "BLOCO_V",
+      "bloco_titulo": "Epistemologia derivada da ontologia",
+      "proposicao_atual": "A correção é reinscrição no real.",
+      "descricao_curta": "",
+      "depende_de": [
+        "P36"
+      ],
+      "prepara": [
+        "P38"
+      ],
+      "funcao_no_percurso": "No Epistemologia derivada da ontologia, esta proposição fixa que a correção é reinscrição no real.; Recebe apoio imediato de P36; e prepara P38.",
+      "estado_estrutural_atual": {
+        "estabilidade": "estavel_mas_a_densificar",
+        "necessidade_principal": "densificar",
+        "acao_estrutural_recomendada": "densificar",
+        "diagnostico_textual": "A proposição P37 foi tocada por 25 fragmento(s). A pressão dominante vem da zona epistemologia. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+      },
+      "nucleo_que_se_mantem": "Mantém-se o núcleo segundo o qual a correção é reinscrição no real.. A justificação mínima já presente é: Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.. O diagnóstico estrutural atual é 'estavel_mas_a_densificar'.",
+      "defice_principal": "O défice principal é de densidade justificativa. Falta ainda: Fechar a diferença entre correção interna e correção real.",
+      "justificacao_atual": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+      "mediacoes_em_falta": [
+        "Densificar a justificação interna e tornar explícitos os seus pressupostos imediatos.",
+        "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+      ],
+      "objecoes_a_bloquear": [
+        "correção como mera coerentização",
+        "verdade como coerência pura",
+        "erro sem implicação corretiva",
+        "coerentismo fechado",
+        "convencionalismo total",
+        "erro reduzido a incoerência formal",
+        "consciência como instância soberana",
+        "representação sem base ontológica",
+        "autorreferencialismo fechado",
+        "verdade reduzida a processamento interno",
+        "neutralidade epistemica da mediação tecnica",
+        "correção como mera reformulação interna",
+        "retorno ao real por simples discurso sobre o real",
+        "estagnação filosófica autossuficiente",
+        "filosofia desligada do real",
+        "ponto de vista neutro ou exterior ao real",
+        "tratamento da consciência sem condição de enquadramento",
+        "correção reduzida a negação de conteúdo",
+        "direção meramente abstrata",
+        "indiferentismo prático perante o próprio percurso"
+      ],
+      "fragmentos_justificativos": [
+        {
+          "fragment_id": "F0030_SEG_001",
+          "origem_id": "F0030",
+          "resumo_local_no_corredor": "Diagnostica a autonomização do sistema e da forma face ao real, sugerindo que ordens jurídicas, morais e sociais pressupõem busca implícita da verdade, mas podem fechar-se sobre si.",
+          "justificacao_local_no_corredor": "A imagem de apontar de novo ao real funciona como motivo corretivo de reinscrição.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da substituição do real pela forma sistémica."
+        },
+        {
+          "fragment_id": "F0032_SEG_001",
+          "origem_id": "F0032",
+          "resumo_local_no_corredor": "Diagnostica o discurso público como regime formal que preserva sistema, rótulos e imposição de crenças em vez de submeter-se ao real.",
+          "justificacao_local_no_corredor": "A alternativa proposta é reorientar o espaço comunicacional para crenças realistas, isto é, reinscrever a mediação no real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico do predomínio formal e rotulador no discurso público."
+        },
+        {
+          "fragment_id": "F0064_A01_SEG_004",
+          "origem_id": "F0064_A01",
+          "resumo_local_no_corredor": "Diagnostica a passagem de uma inclusão no real para uma vida assente na representação, com extensão civilizacional contra o real.",
+          "justificacao_local_no_corredor": "A imagem da infância como inclusão no real sugere por contraste a direção corretiva da reinscrição, mas sem a desenvolver.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico do desvio da vida sobre o real para a vida sobre representação."
+        },
+        {
+          "fragment_id": "F0065_A01_SEG_004",
+          "origem_id": "F0065_A01",
+          "resumo_local_no_corredor": "Diagnostica a autonomização processual da representação social, que passa a substituir o contacto com o real e reabsorve até os discursos de regresso ao real.",
+          "justificacao_local_no_corredor": "Sugere por que a correção é difícil: o próprio discurso de retorno ao real é reabsorvido como mais um processo.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da substituição do real pela representação processual."
+        },
+        {
+          "fragment_id": "F0069_SEG_003",
+          "origem_id": "F0069",
+          "resumo_local_no_corredor": "Define a filosofia como descrição do real, liga descrição e vida, e sugere decadência de descrições estagnadas com necessidade de renovação.",
+          "justificacao_local_no_corredor": "A passagem da decadência de uma descrição para o surgimento de outra melhor reforça a necessidade de correção por retorno ao real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Define a filosofia como descrição do real e critica a estagnação filosófica."
+        },
+        {
+          "fragment_id": "F0072_SEG_002",
+          "origem_id": "F0072",
+          "resumo_local_no_corredor": "Sustenta que toda a apreensão do real ocorre num quadro determinado e que a crítica correta atua por rearranjo do quadro, não só por negação de conteúdos.",
+          "justificacao_local_no_corredor": "Ao dizer que o contra-argumento verdadeiro rearranja o quadro, o fragmento sugere correção por reinscrição estrutural e não mera oposição verbal.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Fixa o quadro condicionado da apreensão e critica posições que o ignoram."
+        },
+        {
+          "fragment_id": "F0078_A01_SEG_003",
+          "origem_id": "F0078_A01",
+          "resumo_local_no_corredor": "Liga verdade prática sobre capacidades e potencialidades à auto-orientação reflexiva e à correção de vida, com nota sobre transmissão partilhável do saber.",
+          "justificacao_local_no_corredor": "O fragmento diz que a correção tardia e não reflexiva se torna traumática, reforçando a necessidade prática de corrigir o caminho em função do real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "derivacao_normativa",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Liga verdade sobre capacidades à auto-orientação reflexiva."
+        },
+        {
+          "fragment_id": "F0104_A02_SEG_002",
+          "origem_id": "F0104_A02",
+          "resumo_local_no_corredor": "Diagnostica que o sistema apropria o pouco que toca o real e o universaliza sob forma dominante, produzindo englobamento totalizante.",
+          "justificacao_local_no_corredor": "Implica negativamente a necessidade de retorno ao real contra a captura sistémica.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da apropriação sistémica do que toca o real."
+        },
+        {
+          "fragment_id": "F0117_A01_SEG_003",
+          "origem_id": "F0117_A01",
+          "resumo_local_no_corredor": "Contrasta ser, poder-ser e dever-ser para afirmar a primazia ontológica do poder-ser e criticar a sua postergação por sistemas e descrições normativas.",
+          "justificacao_local_no_corredor": "A crítica aos sistemas sugere que correção não é seguir trajetórias sistémicas, mas regressar ao poder-ser real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Subordina o dever-ser ao poder-ser e critica a redução sistémica do humano."
+        },
+        {
+          "fragment_id": "F0130_SEG_001",
+          "origem_id": "F0130",
+          "resumo_local_no_corredor": "Diagnostica a deriva de sistemas institucionalizados que passam a preferir a sua coerência interna ao real e a operar contra ele.",
+          "justificacao_local_no_corredor": "Ao diagnosticar a preferência do sistema por si mesmo, reforça negativamente a necessidade de reinscrição no real como correção.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "descricao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da autoprivilegiação sistémica contra o real."
+        },
+        {
+          "fragment_id": "F0142_SEG_001",
+          "origem_id": "F0142",
+          "resumo_local_no_corredor": "Sustenta que o reconhecimento do próprio erro pressupõe vigilância reflexiva sobre representações e segregação coerente do apreendido.",
+          "justificacao_local_no_corredor": "Ao pressupor aperceção do erro, sugere a possibilidade de correção, mas sem desenvolver ainda a reinscrição no real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "abductiva",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Afirma vigilância reflexiva a partir da autoperceção do erro."
+        },
+        {
+          "fragment_id": "F0185_SEG_001",
+          "origem_id": "F0185",
+          "resumo_local_no_corredor": "Critica a substituição do real pela apreensão ou descrição parcial do real quando esta passa a funcionar como justificação ontológica.",
+          "justificacao_local_no_corredor": "Implica negativamente que a correção exige voltar do substituto justificativo ao real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Critica a elevação da apreensão subjetiva a fundamento do real."
+        }
+      ],
+      "fragmentos_mediacionais": [],
+      "fragmentos_de_bloqueio": [
+        {
+          "fragment_id": "F0030_SEG_001",
+          "origem_id": "F0030",
+          "resumo_local_no_corredor": "Diagnostica a autonomização do sistema e da forma face ao real, sugerindo que ordens jurídicas, morais e sociais pressupõem busca implícita da verdade, mas podem fechar-se sobre si.",
+          "justificacao_local_no_corredor": "A imagem de apontar de novo ao real funciona como motivo corretivo de reinscrição.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da substituição do real pela forma sistémica."
+        },
+        {
+          "fragment_id": "F0032_SEG_001",
+          "origem_id": "F0032",
+          "resumo_local_no_corredor": "Diagnostica o discurso público como regime formal que preserva sistema, rótulos e imposição de crenças em vez de submeter-se ao real.",
+          "justificacao_local_no_corredor": "A alternativa proposta é reorientar o espaço comunicacional para crenças realistas, isto é, reinscrever a mediação no real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico do predomínio formal e rotulador no discurso público."
+        },
+        {
+          "fragment_id": "F0064_A01_SEG_004",
+          "origem_id": "F0064_A01",
+          "resumo_local_no_corredor": "Diagnostica a passagem de uma inclusão no real para uma vida assente na representação, com extensão civilizacional contra o real.",
+          "justificacao_local_no_corredor": "A imagem da infância como inclusão no real sugere por contraste a direção corretiva da reinscrição, mas sem a desenvolver.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico do desvio da vida sobre o real para a vida sobre representação."
+        },
+        {
+          "fragment_id": "F0065_A01_SEG_004",
+          "origem_id": "F0065_A01",
+          "resumo_local_no_corredor": "Diagnostica a autonomização processual da representação social, que passa a substituir o contacto com o real e reabsorve até os discursos de regresso ao real.",
+          "justificacao_local_no_corredor": "Sugere por que a correção é difícil: o próprio discurso de retorno ao real é reabsorvido como mais um processo.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da substituição do real pela representação processual."
+        },
+        {
+          "fragment_id": "F0069_SEG_003",
+          "origem_id": "F0069",
+          "resumo_local_no_corredor": "Define a filosofia como descrição do real, liga descrição e vida, e sugere decadência de descrições estagnadas com necessidade de renovação.",
+          "justificacao_local_no_corredor": "A passagem da decadência de uma descrição para o surgimento de outra melhor reforça a necessidade de correção por retorno ao real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "mediacional",
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "mista",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Define a filosofia como descrição do real e critica a estagnação filosófica."
+        },
+        {
+          "fragment_id": "F0072_SEG_002",
+          "origem_id": "F0072",
+          "resumo_local_no_corredor": "Sustenta que toda a apreensão do real ocorre num quadro determinado e que a crítica correta atua por rearranjo do quadro, não só por negação de conteúdos.",
+          "justificacao_local_no_corredor": "Ao dizer que o contra-argumento verdadeiro rearranja o quadro, o fragmento sugere correção por reinscrição estrutural e não mera oposição verbal.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "bloqueio",
+            "ilustrativo"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "distincao_analitica",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Fixa o quadro condicionado da apreensão e critica posições que o ignoram."
+        },
+        {
+          "fragment_id": "F0078_A01_SEG_003",
+          "origem_id": "F0078_A01",
+          "resumo_local_no_corredor": "Liga verdade prática sobre capacidades e potencialidades à auto-orientação reflexiva e à correção de vida, com nota sobre transmissão partilhável do saber.",
+          "justificacao_local_no_corredor": "O fragmento diz que a correção tardia e não reflexiva se torna traumática, reforçando a necessidade prática de corrigir o caminho em função do real.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio",
+            "mediacional"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "argumento_em_esboco",
+          "forma_de_inferencia": "derivacao_normativa",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Liga verdade sobre capacidades à auto-orientação reflexiva."
+        },
+        {
+          "fragment_id": "F0104_A02_SEG_002",
+          "origem_id": "F0104_A02",
+          "resumo_local_no_corredor": "Diagnostica que o sistema apropria o pouco que toca o real e o universaliza sob forma dominante, produzindo englobamento totalizante.",
+          "justificacao_local_no_corredor": "Implica negativamente a necessidade de retorno ao real contra a captura sistémica.",
+          "categoria_primaria": "justificativo",
+          "categorias_secundarias": [
+            "ilustrativo",
+            "bloqueio"
+          ],
+          "prioridade_de_aproveitamento": "media",
+          "forca_logica_estimada": "media",
+          "estado_argumentativo": "formulacao_pre_argumentativa",
+          "forma_de_inferencia": "reconducao_estrutural",
+          "requer_reescrita": true,
+          "requer_densificacao": true,
+          "necessita_reconstrucao_forte": true,
+          "descricao_funcional_curta": "Diagnóstico da apropriação sistémica do que toca o real."
+        }
+      ],
+      "fragmentos_ilustrativos": [],
+      "decisao_editorial_v2": {
+        "acao_recomendada": "densificar",
+        "necessidade_principal": "densificar",
+        "estado_provisorio": "estavel_mas_a_densificar"
+      },
+      "formulacao_v2_provisoria": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+      "ponte_com_passo_anterior": "Mostrar como P36 desemboca(m) em 'A correção é reinscrição no real.' sem salto categorial nem compressão excessiva.",
+      "ponte_com_passo_seguinte": "Mostrar como 'A correção é reinscrição no real.' abre legitimamente a passagem para P38, explicitando o elo intermédio quando necessário.",
+      "observacoes_de_trabalho": [
+        "Densificar a justificação e transformar apoio fragmentário disperso em argumento corrido.",
+        "A ação recomendada dominante é densificar, não dividir o mapa nem criar novos passos sem necessidade.",
+        "Há muito apoio justificativo, mas pouca mediação primária identificada; convém fabricar a ponte dedutiva na escrita v2."
+      ],
+      "resumo_fragmentario": {
+        "total_fragmentos_relacionados": 25,
+        "distribuicao_categorias_primarias": {
+          "justificativo": 25,
+          "mediacional": 0,
+          "bloqueio": 0,
+          "ilustrativo": 0
+        },
+        "distribuicao_justificativos": {
+          "alta": 0,
+          "media": 25,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 22
+        },
+        "distribuicao_mediacionais": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        },
+        "distribuicao_bloqueio": {
+          "alta": 0,
+          "media": 23,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 20
+        },
+        "distribuicao_ilustrativos": {
+          "alta": 0,
+          "media": 0,
+          "baixa": 0,
+          "muito_provisorio_ou_instavel": 0
+        }
+      },
+      "materiais_de_referencia": {
+        "teses_principais": [
+          "A verdade mede-se pela qualidade descritiva da representação relativamente à realidade, e o erro pede mudança.",
+          "Quando a forma sistémica se autonomiza, substitui o real e degrada a verdade em validação interna; é preciso reinscrever sistema e mediação na verdade do real.",
+          "O discurso público formal tende ao fechamento simbólico e à substituição da verdade pela gestão sistémica de rótulos e crenças.",
+          "O pensar, a avaliação e a correção de percurso dependem estruturalmente do modo de ser humano e da sua inscrição em processos transmissíveis.",
+          "Quando a representação se autonomiza face ao real, produz fechamento civilizacional e sujeitos contra o real.",
+          "A mediação fechada sobre o sistema tende a produzir verdades internas ao processo e a substituir a submissão ao real.",
+          "Sistemas sociais baseados em princípios antes extraídos do real tendem a viver depois da representação processual desses princípios, bloqueando o retorno efetivo ao real originário.",
+          "A filosofia vale enquanto descrição do real submetida à sua renovação quando a descrição decai.",
+          "A apreensão é sempre condicionada por um quadro determinado, o que obriga a pensar consciência, ponto de vista e correção a partir dessa estrutura de enquadramento.",
+          "A orientação prática adequada exige verdades partilháveis sobre capacidades e potencialidades reais, bem como correção reflexiva do próprio caminho.",
+          "O sistema tende a substituir o real ao apropriar-se do que dele provém e impor um dominante sobre os modos de ser.",
+          "A manutenção do mesmo contínuo interno bloqueia o acesso ao real; a imaginação serve para expandir condições de desbloqueio.",
+          "O dever-ser só é legítimo se permanecer subordinado ao poder-ser real; quando o substitui, empobrece a apreensão e bloqueia a atualização.",
+          "Um sistema humano institucionalizado tende a autonomizar-se e a substituir a submissão ao real pela autovalidação sistémica.",
+          "A autoperceção do erro exige uma instância reflexiva de vigilância incorporada no processo representacional.",
+          "É erro tomar a apreensão do real como fundamento justificativo em vez de submeter a justificação ao próprio real.",
+          "Mentira é falha evitável de submissão descritiva ao real por parte de um ser reflexivo situado no real.",
+          "A formação inicial da relação ao real condiciona a possibilidade futura de correção, adequação prática e orientação para viver bem.",
+          "Quando o sistema se autonomiza e faz da sua coerência interna o critério dominante, deixa de ser mediação revisável do real e reenquadra o humano, produzindo fechamento sistémico.",
+          "Erro é desvio da apreensão relativamente ao real, e correção é retorno orientado pelo real; critérios apenas interiores falham."
+        ],
+        "justificacoes_novas": [
+          "Fornece apoio informal à tese de que quanto melhor a descrição da realidade, mais verdadeira é a representação.",
+          "Mostra por exemplo social e normativo que ordens e sistemas só mantêm sentido se permanecerem implicitamente orientados à verdade do real; quando se autonomizam, produzem erro.",
+          "Fornece uma justificação aplicada para a tese de que critérios desligados do real se transformam em coerência formal, gestão institucional e imposição de crenças.",
+          "Fornece uma intuição de que pensar e corrigir não são operações soltas, mas expressões de um modo de ser estruturado e resistente à mudança.",
+          "Mostra a consequência antropológica e coletiva da autonomização representacional: a produção de formas de vida contra o real.",
+          "Ajuda a justificar que um critério desligado do real degenera em validação interna do sistema, mesmo quando pretende procurar a verdade.",
+          "Fornece a razão prática e sistémica pela qual critérios, discursos e modos de vida podem desligar-se do real mantendo aparência de verdade derivada.",
+          "Se se vive sobre descrições do real, então a sua estagnação produz decadência e exige substituição por descrições melhores, o que reforça a correção como reinscrição no real.",
+          "Mostra que o erro em teorias da consciência pode estar no enquadramento da apreensão, não apenas no conteúdo afirmado.",
+          "Sugere que sem um modo reflexivo de relação com a verdade sobre capacidades e possibilidades reais não se colocam sequer as perguntas decisivas da vida, e a correção acaba por surgir de forma traumática.",
+          "Explica por que um regime desligado do real não fica neutro: tende a capturar produções parciais, generalizá-las e substituir a pluralidade real por coerência dominante.",
+          "Fornece uma justificação fraca: sem expansão das condições internas, o sujeito apenas repete o quadro anterior e não testa realmente a sua relação com o real.",
+          "Mostra que um dever-ser desligado do poder-ser não orienta atualização real; apenas fixa descrição limitada, desejo e trajetória sistémica.",
+          "Mostra que a degeneração do critério não é só omissão do real, mas preferência ativa da coerência sistémica contra o real.",
+          "Se alguém pode dizer 'enganei-me', então há uma operação reflexiva que monitoriza a representação e distingue coerentemente o apreendido.",
+          "Mostra que o critério falha quando uma representação parcial do real passa a legitimar-se a si mesma como se fosse o próprio real.",
+          "Mostra que a não submissão ao real pode assumir a forma ativa de omissão ou recusa de correção, e não apenas de erro teórico abstrato.",
+          "Sugere que a correção futura depende de uma formação inicial não desligada do real; quando o eu e mediações pobres dominam cedo, a autojustificação cristaliza e a correção torna-se mais custosa.",
+          "Mostra concretamente que um sistema pode deixar de funcionar como mediação e passar a impor-se como critério autónomo, o que exemplifica a desadequação ao real.",
+          "Mostra que o erro surge quando apreensão, valor ou direção se justificam por critério interior sem suficiente inclusão do real; a correção ocorre quando o real volta a funcionar como pressuposto e medida."
+        ],
+        "propostas_de_nova_formulacao": [
+          "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+          "Um critério desligado do real fecha-se em sistema e toma a forma validada internamente por verdade.",
+          "A reflexividade humana, incluindo pensamento, avaliação e correção, exprime um modo de ser situado e não uma instância separada do real.",
+          "O fechamento da representação sobre si pode tornar-se forma de vida e organização coletiva contra o real.",
+          "A desligação do real não ocorre apenas por erro teórico, mas também por autonomização processual das representações e critérios que passaram a organizar a vida social.",
+          "A correção não é só ajuste interno: quando uma descrição do real decai, a filosofia exige a sua substituição por descrição melhor submetida ao real.",
+          "A apreensão do real é sempre situada num quadro determinado, pelo que a correção filosófica incide também sobre o enquadramento e não só sobre os conteúdos representados.",
+          "Quando o sistema se apropria do que toca o real e o universaliza sob forma dominante, a validade degrada-se em fechamento que substitui o real.",
+          "A correção exige por vezes romper a repetição do mesmo quadro interno, expandindo as condições de acesso ao real.",
+          "O dever-ser só é legítimo enquanto orientação interna do poder-ser real; quando se autonomiza, reduz a apreensão, empobrece a atualização e favorece fechamento sistémico."
+        ],
+        "observacoes_finais": [
+          "Útil como apoio redigível ao eixo verdade-erro-correção, mas em estado oral e instável.",
+          "Útil para reforçar a justificação da submissão ao real e da crítica do fechamento sistémico, mas o texto está heterogéneo e ensaístico.",
+          "Útil como apoio justificativo e ilustrativo da crítica ao fechamento simbólico; não altera a arquitetura do mapa.",
+          "Útil sobretudo para densificação redacional da zona antropológica; impacto dedutivo limitado e instável.",
+          "Útil como apoio crítico-redacional para explicitar degeneração autorreferencial; não altera a arquitetura do mapa.",
+          "Útil como apoio à crítica do fechamento sistémico e da verdade interna ao processo, mas ainda em formulação ensaística e instável.",
+          "Útil para densificar a crítica do fechamento sistémico e a dificuldade da correção, sem exigir novo passo dedutivo.",
+          "Útil para densificar P37 e, secundariamente, P33-P34; não altera a arquitetura.",
+          "Impacto real mas não arquitetónico; útil para densificar P25 e a ponte para P37.",
+          "Útil para reforçar a justificação prática da direção e da correção, mas ainda demasiado misto para alterar a arquitetura do mapa.",
+          "Impacto real mas local: reforça a justificação da crítica ao fechamento sistémico sem alterar a arquitetura.",
+          "Útil sobretudo como densificação expositiva da correção e da crítica ao fechamento interno; não cria passo novo.",
+          "Útil para densificar P47-P48 e a crítica ao fechamento sistémico, sem criar passo novo.",
+          "Útil para densificar a crítica do fechamento sistémico, sem alterar a arquitetura do mapa.",
+          "Útil para densificar P28 com apoio a P36; não altera a arquitetura.",
+          "Bom para densificar P33 e a passagem para P36; o fecho político sugerido no fragmento não está suficientemente demonstrado para entrar no mapa.",
+          "Útil para densificar P33-P37, mas a formulação está instável e não justifica passo novo ético.",
+          "Útil sobretudo como aplicação redacional e ponte temática; não altera a arquitetura dedutiva.",
+          "Útil como ilustração e reforço justificativo da crítica ao fechamento sistémico, mas demasiado oral e instável para mexer na arquitetura do mapa.",
+          "Útil para densificar P33-P37 e para preparar a passagem a P44, mas a formulação do fragmento é instável e não deve ser tomada como passo novo."
+        ]
+      }
+    }
+  ]
+}
