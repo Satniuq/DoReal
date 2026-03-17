@@ -1,0 +1,201 @@
+{
+  "stage": "subpasso_mediacional",
+  "target_id": "P26_SP01",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:15:51+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P25_P30",
+    "passo_pai_id": "P26",
+    "subpasso_id": "P26_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "entra_subpasso": false,
+    "justificacao_da_decisao": "Os materiais convergem em que a lacuna de P26 é resolúvel por reformulação do próprio passo, e não por mediação intermédia autónoma. A formulação canónica final já explicita o elemento antes em falta — que a representação não é dado originário, mas transformação mediada da apreensão em forma operável — e a justificação mínima suficiente fecha a passagem de P25 para P27 sem salto residual. Além disso, todos os registos relevantes indicam explicitamente \"precisa_de_subpasso\": false e \"subpasso_sugerido\": null. Introduzir P26_SP01 redundaria na repetição da mediação já incorporada no passo pai.",
+    "formulacao_subpasso": null,
+    "posicao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P26",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não entra subpasso, porque a mediação necessária já foi absorvida na reformulação canónica de P26."
+    },
+    "funcao_dedutiva": null,
+    "justificacao_minima_suficiente": null,
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "representação como dado originário",
+    "bloqueio_curto": "A representação não é originária: ela resulta da transformação mediada do que foi apreendido em forma operável.",
+    "fragmentos_selecionados_finais": [
+      "F0241_A25_SEG_002",
+      "F0108_A02_SEG_001",
+      "F0107_SEG_001",
+      "F0220_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "representação como dado originário",
+      "representação como produto puramente linguístico",
+      "linguisticismo",
+      "coerentismo fechado",
+      "verdade como mera inteligibilidade interna",
+      "autorreferencialidade discursiva suficiente para verdade",
+      "representacionalismo desligado do objeto",
+      "representação como afastamento originário do real",
+      "representação como camada meramente secundária",
+      "redução do humano ao animal não mediado"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "nota_editorial_final": "Subpasso rejeitado: fecho local obtido por reformulação suficiente do próprio P26.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P25_P30",
+    "passo_pai_id": "P26",
+    "subpasso_id": "P26_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a lacuna de P26 é resolúvel por reformulação do próprio passo, e não por mediação intermédia autónoma. A formulação canónica final já explicita o elemento antes em falta — que a representação não é dado originário, mas transformação mediada da apreensão em forma operável — e a justificação mínima suficiente fecha a passagem de P25 para P27 sem salto residual. Além disso, todos os registos relevantes indicam explicitamente \"precisa_de_subpasso\": false e \"subpasso_sugerido\": null. Introduzir P26_SP01 redundaria na repetição da mediação já incorporada no passo pai.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": null,
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P26",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não entra subpasso, porque a mediação necessária já foi absorvida na reformulação canónica de P26."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "representação como dado originário",
+    "bloqueio_curto_da_objecao": "A representação não é originária: ela resulta da transformação mediada do que foi apreendido em forma operável.",
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_002",
+      "F0108_A02_SEG_001",
+      "F0107_SEG_001",
+      "F0220_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "representação como dado originário",
+      "representação como produto puramente linguístico",
+      "linguisticismo",
+      "coerentismo fechado",
+      "verdade como mera inteligibilidade interna",
+      "autorreferencialidade discursiva suficiente para verdade",
+      "representacionalismo desligado do objeto",
+      "representação como afastamento originário do real",
+      "representação como camada meramente secundária",
+      "redução do humano ao animal não mediado"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso rejeitado: fecho local obtido por reformulação suficiente do próprio P26."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_024bc5098924db790069b99a4c7164819aa45434a8fd6730e7",
+      "object": "response",
+      "created_at": 1773771340,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771350,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_024bc5098924db790069b99a4cfa58819aa406f452209c96a8",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_subpasso\",\n  \"corredor\": \"P25_P30\",\n  \"passo_pai_id\": \"P26\",\n  \"subpasso_id\": \"P26_SP01\",\n  \"numero_ordinal_no_passo\": 1,\n  \"necessidade_detectada\": false,\n  \"decisao_subpasso\": \"rejeitado\",\n  \"entra_subpasso\": false,\n  \"justificacao_da_decisao\": \"Os materiais convergem em que a lacuna de P26 é resolúvel por reformulação do próprio passo, e não por mediação intermédia autónoma. A formulação canónica final já explicita o elemento antes em falta — que a representação não é dado originário, mas transformação mediada da apreensão em forma operável — e a justificação mínima suficiente fecha a passagem de P25 para P27 sem salto residual. Além disso, todos os registos relevantes indicam explicitamente \\\"precisa_de_subpasso\\\": false e \\\"subpasso_sugerido\\\": null. Introduzir P26_SP01 redundaria na repetição da mediação já incorporada no passo pai.\",\n  \"formulacao_subpasso\": null,\n  \"posicao_na_cadeia\": {\n    \"modo_de_insercao\": \"intra_passo\",\n    \"ancorado_no_passo_id\": \"P26\",\n    \"entra_apos_passo_id\": null,\n    \"entra_antes_de_passo_id\": null,\n    \"justificacao_de_insercao\": \"Não entra subpasso, porque a mediação necessária já foi absorvida na reformulação canónica de P26.\"\n  },\n  \"funcao_dedutiva\": null,\n  \"justificacao_minima_suficiente\": null,\n  \"ponte_entrada\": null,\n  \"ponte_saida\": null,\n  \"objecao_letal_a_bloquear\": \"representação como dado originário\",\n  \"bloqueio_curto\": \"A representação não é originária: ela resulta da transformação mediada do que foi apreendido em forma operável.\",\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A25_SEG_002\",\n    \"F0108_A02_SEG_001\",\n    \"F0107_SEG_001\",\n    \"F0220_SEG_001\"\n  ],\n  \"objecoes_bloqueadas_final\": [\n    \"representação como dado originário\",\n    \"representação como produto puramente linguístico\",\n    \"linguisticismo\",\n    \"coerentismo fechado\",\n    \"verdade como mera inteligibilidade interna\",\n    \"autorreferencialidade discursiva suficiente para verdade\",\n    \"representacionalismo desligado do objeto\",\n    \"representação como afastamento originário do real\",\n    \"representação como camada meramente secundária\",\n    \"redução do humano ao animal não mediado\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON\",\n    \"../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json\",\n    \"../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estatuto_final_no_mapa\": \"nao_inserido\",\n  \"nota_editorial_final\": \"Subpasso rejeitado: fecho local obtido por reformulação suficiente do próprio P26.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 8632,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 822,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9454
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "subpasso_mediacional__P26_SP01.raw.txt"
+}

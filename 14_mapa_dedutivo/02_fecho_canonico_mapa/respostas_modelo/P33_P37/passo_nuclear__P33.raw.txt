@@ -1,0 +1,58 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P33_P37",
+  "passo_id": "P33",
+  "numero_final": 33,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P32"
+  ],
+  "prepara": [
+    "P34"
+  ],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+  "justificacao_expandida_final": "Se o critério for puramente interno ao sistema que julga, ele só pode medir a consistência desse mesmo sistema, o acordo convencional dos seus termos ou o seu fechamento autorreferencial. Nessa condição, já não distingue entre coerência interna e adequação ao real. Por isso, para valer como critério de verdade ou validade, tem de estar submetido ao real e não apenas à sua própria articulação interna.",
+  "ponte_entrada": "A partir de P32, uma vez afirmada a prioridade do real, segue-se que o critério não pode ficar autónomo face a ele.",
+  "ponte_saida": "Estabelecido que o critério só vale se submetido ao real, P34 pode explicitar a consequência positiva dessa submissão para a determinação do conhecimento válido.",
+  "porque_o_anterior_nao_basta": "P32 ainda não explicita que, sem submissão ao real, o critério se reduz a coerência interna, convenção ou fechamento sistémico.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P32 para P34 perde a mediação epistemológica que mostra por que razão um critério interno é insuficiente e por que razão o critério tem de responder ao real.",
+  "objecao_letal": "coerentismo fechado",
+  "bloqueio_curto": "A coerência interna pode mostrar compatibilidade entre enunciados, mas não basta para mostrar adequação ao real; por isso não pode funcionar como critério último.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "coerentismo fechado",
+    "convencionalismo total",
+    "confusão entre utilidade imediata e verdade",
+    "autonomia normativa absoluta",
+    "verdade como mera forma discursiva",
+    "consensualismo como fundamento suficiente da lei",
+    "relativismo normativo"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0241_A18_SEG_003",
+    "F0241_A15_SEG_002",
+    "F0241_A11_SEG_001",
+    "F0185_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/RELATORIO_FECHO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da mediação; subpasso já não necessário.",
+  "pendencias": []
+}

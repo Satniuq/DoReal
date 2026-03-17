@@ -1,0 +1,45 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P33_P37",
+  "passo_id": "P35",
+  "numero_final": 35,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P34"
+  ],
+  "prepara": [
+    "P36"
+  ],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "justificacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+  "justificacao_expandida_final": "Se há verdade, há possibilidade de acerto; mas a inteligibilidade do acerto exige contraste com a possibilidade de falha. Sem possibilidade de erro, a verdade deixaria de ser distinguível criticamente e reduzir-se-ia a uma positividade infalibilista vazia. Por isso, verdade e erro são co-originários no plano epistemológico.",
+  "ponte_entrada": "A partir de P34, onde já se abriu o espaço da verdade, é preciso explicitar que esse espaço só é inteligível se incluir também a possibilidade de erro.",
+  "ponte_saida": "Uma vez estabelecido que verdade e erro são co-originários, P36 pode avançar mostrando a consequência seguinte dessa estrutura epistemológica já diferenciada.",
+  "porque_o_anterior_nao_basta": "P34 não basta porque ainda não introduz explicitamente este ganho: a verdade só se torna inteligível como verdade pela sua distinção do erro.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P36 perde a mediação crítica entre verdade e erro e aparece como salto dedutivo.",
+  "objecao_letal": "infalibilismo vazio",
+  "bloqueio_curto": "Uma verdade sem possibilidade de erro não é criticamente distinguível de mera auto-posição; sem contraste com a falha, a própria noção de verdade perde inteligibilidade.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "infalibilismo vazio"
+  ],
+  "fragmentos_selecionados_finais": [],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Passo fechado por densificação local da justificação, sem necessidade de subpasso.",
+  "pendencias": []
+}

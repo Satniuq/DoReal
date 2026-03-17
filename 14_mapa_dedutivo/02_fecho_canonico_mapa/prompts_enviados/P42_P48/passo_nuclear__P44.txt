@@ -1,0 +1,636 @@
+Fecha canonicamente um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o corredor e o passo abaixo indicados.
+Não faças análise global.
+Não reabras o projeto inteiro.
+Não proposes novas fases.
+Não inventes fragmentos, objeções, dependências ou fontes que não estejam suportados pelos materiais fornecidos.
+Escolhe a solução local mínima suficiente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P42_P48
+PASSO_ID=P44
+NUMERO_FINAL=45
+BLOCO_ID=BLOCO_VI
+BLOCO_TITULO=Passagem da epistemologia à ética ontológica
+DEPENDE_DE_JSON=[
+  "P34",
+  "P40",
+  "P42",
+  "P43"
+]
+PREPARA_JSON=[
+  "P45"
+]
+ESTADO_INICIAL_DO_PASSO=quase_fechado
+TIPOS_DE_FRAGILIDADE_JSON=[
+  "formulacao",
+  "mediacao"
+]
+PASSO_ANTERIOR_ID=P47
+PASSO_SEGUINTE_ID=P48
+
+MATERIAIS
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P44",
+  "numero_final": 45,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+    "P34",
+    "P40",
+    "P42",
+    "P43"
+  ],
+  "prepara": [
+    "P45"
+  ],
+  "proposicao_canonica_curta": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+  "proposicao_canonica_tecnica": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+  "tese_minima_canonica": "O bem é adequação da atualização ao real.",
+  "justificacao_minima_canonica": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+  "porque_este_passo_e_necessario": "O bem é adequação da atualização ao real.",
+  "porque_o_anterior_nao_basta": "Os passos P34, P40, P42, P43 não bastam em conjunto porque ainda não fecham esta passagem específica: O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P45 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "funcionalismo raso",
+  "tipo_de_necessidade": "etica",
+  "estado_de_fecho": "quase_fechado",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 5.932,
+  "breakdown_score_canonico": {
+    "dependencias": 2.4,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.33192,
+    "fragilidade": -0.3,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "O bem é adequação da atualização ao real.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A12_SEG_001",
+    "F0241_A10_SEG_001",
+    "F0241_A08_SEG_001",
+    "F0160_SEG_001",
+    "F0119_A01_SEG_003",
+    "F0112_SEG_002",
+    "F0106_SEG_002",
+    "F0094_A01_SEG_003",
+    "F0067_SEG_003",
+    "F0067_SEG_001",
+    "F0061_SEG_003",
+    "F0060_A01_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "funcionalismo raso",
+    "moralismo sem ontologia",
+    "indiferentismo normativo",
+    "correção apenas exterior",
+    "deslocação da responsabilidade para o exterior",
+    "autonomia normativa absoluta",
+    "falácia naturalista simplista",
+    "subjetivismo valorativo",
+    "indiferentismo axiológico total",
+    "moralismo extrínseco",
+    "real como exterior ao sujeito",
+    "representacionalismo originário"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Fechar formulação canónica evitando banalização funcionalista."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P44",
+  "numero_original": 44,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "numero_final": 45,
+  "proposicao_final": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+  "proposicao_original": "O bem é adequação da atualização ao real.",
+  "descricao_curta": "Quando a atualização se orienta adequadamente no campo sob critério, verdade, direção e não-dano, instala-se o bem.",
+  "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que o bem é adequação da atualização ao real.; Recebe apoio imediato de P34, P40, P42, P43; e prepara P45.",
+  "depende_de": [
+    "P34",
+    "P40",
+    "P42",
+    "P43"
+  ],
+  "prepara": [
+    "P45"
+  ],
+  "tese_minima": "O bem é adequação da atualização ao real.",
+  "justificacao_minima_suficiente": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+  "objecoes_bloqueadas": [
+    "funcionalismo raso",
+    "moralismo sem ontologia",
+    "indiferentismo normativo",
+    "correção apenas exterior",
+    "deslocação da responsabilidade para o exterior",
+    "autonomia normativa absoluta",
+    "falácia naturalista simplista",
+    "subjetivismo valorativo",
+    "indiferentismo axiológico total",
+    "moralismo extrínseco",
+    "real como exterior ao sujeito",
+    "representacionalismo originário"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A12_SEG_001",
+    "F0241_A10_SEG_001",
+    "F0241_A08_SEG_001",
+    "F0160_SEG_001",
+    "F0119_A01_SEG_003",
+    "F0112_SEG_002",
+    "F0106_SEG_002",
+    "F0094_A01_SEG_003",
+    "F0067_SEG_003",
+    "F0067_SEG_001",
+    "F0061_SEG_003",
+    "F0060_A01_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "O bem é adequação da atualização ao real.",
+  "mediacao_necessaria": [
+    "Explicitar a ponte dedutiva entre P34, P40, P42, P43 e P44.",
+    "Explicitar a passagem de P44 para P45.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "medio",
+  "score_de_inevitabilidade": 0.643,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.68,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 4.149,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Fechar formulação canónica evitando banalização funcionalista."
+  ],
+  "estado_de_fecho_canonico": "quase_fechado",
+  "score_canonico_de_fecho": 5.932,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "Os passos P34, P40, P42, P43 não bastam em conjunto porque ainda não fecham esta passagem específica: O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P45 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "funcionalismo raso",
+  "tipo_de_necessidade": "etica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 7,
+    "fechados": 0,
+    "abertos": 2,
+    "quase_fechados": 5,
+    "subpassos": [
+      "P42",
+      "P47"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {
+      "id": "P44",
+      "score_canonico_de_fecho": 5.932,
+      "subpasso_sugerido": null
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 7,
+    "fechados": 0,
+    "quase_fechados": 5,
+    "abertos": 2,
+    "passos_com_subpasso": [
+      "P42",
+      "P47"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P42",
+    "P43",
+    "P47",
+    "P44",
+    "P48",
+    "P45",
+    "P46"
+  ],
+  "proposicao_canonica": {
+    "id": "P44",
+    "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano."
+  },
+  "problema_ainda_aberto": {
+    "id": "P44",
+    "estado_de_fecho": "quase_fechado",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "funcionalismo raso"
+  },
+  "passo": {
+    "id": "P44",
+    "numero_final": 45,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P34",
+      "P40",
+      "P42",
+      "P43"
+    ],
+    "prepara": [
+      "P45"
+    ],
+    "proposicao_canonica_curta": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "proposicao_canonica_tecnica": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "tese_minima_canonica": "O bem é adequação da atualização ao real.",
+    "justificacao_minima_canonica": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+    "porque_este_passo_e_necessario": "O bem é adequação da atualização ao real.",
+    "porque_o_anterior_nao_basta": "Os passos P34, P40, P42, P43 não bastam em conjunto porque ainda não fecham esta passagem específica: O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P45 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "funcionalismo raso",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 5.932,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.33192,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O bem é adequação da atualização ao real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0241_A10_SEG_001",
+      "F0241_A08_SEG_001",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0112_SEG_002",
+      "F0106_SEG_002",
+      "F0094_A01_SEG_003",
+      "F0067_SEG_003",
+      "F0067_SEG_001",
+      "F0061_SEG_003",
+      "F0060_A01_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "funcionalismo raso",
+      "moralismo sem ontologia",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "autonomia normativa absoluta",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "real como exterior ao sujeito",
+      "representacionalismo originário"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Fechar formulação canónica evitando banalização funcionalista."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.resumo_global.top_proposicoes_por_pressao[12]",
+        "match": {
+          "proposicao_id": "P44",
+          "numero": 44,
+          "proposicao": "O bem é adequação da atualização ao real.",
+          "total_fragmentos_que_tocam": 39,
+          "estabilidade": "estavel_mas_a_densificar",
+          "acao_estrutural_recomendada": "densificar"
+        }
+      },
+      {
+        "path": "$.macro_relatorio_original.passos_mais_tocados[12]",
+        "match": {
+          "proposicao_id": "P44",
+          "n": 39
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.blocos[5].proposicoes[6]",
+        "match": {
+          "id": "P44",
+          "numero": 44,
+          "proposicao": "O bem é adequação da atualização ao real.",
+          "descricao_curta": "Quando a atualização se orienta adequadamente no campo sob critério, verdade, direção e não-dano, instala-se o bem.",
+          "depende_de": [
+            "P34",
+            "P40",
+            "P42",
+            "P43"
+          ],
+          "prepara": [
+            "P45"
+          ],
+          "justificacao": {
+            "tese_minima": "O bem é adequação da atualização ao real.",
+            "justificacao_interna_do_passo": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "sintese_do_bem"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+            "o_que_falta_provar_ou_explicitar": "Fechar formulação canónica evitando banalização funcionalista.",
+            "objecoes_tipicas_a_bloquear": [
+              "funcionalismo raso",
+              "moralismo sem ontologia"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$[8].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P44",
+          "numero": 44,
+          "proposicao_resumida": "O bem é adequação da atualização ao real.",
+          "grau_de_relevancia": "baixo",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "Ao falar de ação modificadora ou preservadora orientada por um melhor estado de coisas, o fragmento sugere adequação prática ao real, mas sem formulação estável."
+        }
+      },
+      {
+        "path": "$[15].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P44",
+          "numero": 44,
+          "proposicao_resumida": "O bem é adequação da atualização ao real.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "O texto associa modos de ser verdadeiros ao valor e modos afastados da verdade ao erro e ao mau."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Com base apenas nos materiais fornecidos, decide o fecho canónico do passo P44 no corredor P42_P48.
+
+Tens de produzir:
+1. formulação final estável do passo;
+2. justificação suficiente para ele não ficar em salto;
+3. ponte de entrada a partir do passo anterior;
+4. ponte de saída para o passo seguinte;
+5. razão pela qual o anterior não basta;
+6. razão pela qual este passo não pode ser suprimido;
+7. objeção letal mais forte a bloquear;
+8. bloqueio curto dessa objeção;
+9. decisão sobre necessidade de subpasso;
+10. lista final de objeções já bloqueadas;
+11. lista final de fragmentos efetivamente selecionados;
+12. nota final curta e operacional;
+13. pendências reais, se ainda existirem.
+
+REGRAS DE DECISÃO
+
+- Mantém a formulação atual apenas se ela já fechar o passo sem salto relevante.
+- Reformula quando a formulação existente é insuficiente, ambígua ou demasiado larga.
+- Densifica quando o núcleo do passo está certo mas a justificação ainda é curta.
+- Introduz subpasso apenas se o passo não fechar com simples reformulação e justificação.
+- Reabre apenas se houver insuficiência que não possa ser resolvida localmente com segurança.
+- A formulação final deve ser curta, afirmativa e dedutivamente precisa.
+- A justificação deve dizer o mínimo suficiente para o passo ficar inevitável na cadeia.
+- A ponte de entrada deve ligar explicitamente o passo ao anterior.
+- A ponte de saída deve ligar explicitamente o passo ao seguinte.
+- A objeção letal deve ser a mais destrutiva para este passo, não uma objeção lateral.
+- O bloqueio curto deve responder diretamente à objeção letal sem deriva.
+- Usa apenas ids de fragmentos efetivamente presentes nos materiais.
+- Se não houver pendências, devolve um array vazio.
+- Se precisa_de_subpasso=false, subpassos_aprovados_ids tem de ser [].
+- Se o passo ficar fechado, pendencias deve ser [] ou conter apenas notas não impeditivas.
+- Não escrevas introduções, comentários externos, markdown nem texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P42_P48",
+  "passo_id": "P44",
+  "numero_final": 45,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+  "P34",
+  "P40",
+  "P42",
+  "P43"
+],
+  "prepara": [
+  "P45"
+],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+  "formulacao",
+  "mediacao"
+],
+  "decisao_editorial": "manter|densificar|reformular|introduzir_subpasso|reabrir",
+  "formulacao_v2_final": "string",
+  "justificacao_expandida_final": "string",
+  "ponte_entrada": "string",
+  "ponte_saida": "string",
+  "porque_o_anterior_nao_basta": "string",
+  "porque_nao_pode_ser_suprimido": "string",
+  "objecao_letal": "string",
+  "bloqueio_curto": "string",
+  "precisa_de_subpasso": true,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": ["string"],
+  "fragmentos_selecionados_finais": ["F..."],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estado_final_do_passo": "aberto|quase_fechado|fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "formulacao_v2_final": uma só formulação final, sem variantes.
+- "justificacao_expandida_final": texto suficientemente completo para fechar o passo localmente.
+- "objecoes_bloqueadas_final": inclui a objeção letal e outras objeções diretamente neutralizadas pela formulação e justificação finais.
+- "fragmentos_selecionados_finais": apenas ids realmente usados para sustentar a decisão.
+- "fontes_utilizadas": lista apenas os ficheiros efetivamente utilizados.
+- "nota_editorial_final": nota operacional curta sobre o estado do passo.
+- "pendencias": só inclui insuficiências reais que impeçam ou enfraqueçam o fecho.
+- Se "decisao_editorial"="introduzir_subpasso", então "precisa_de_subpasso" tem de ser true.
+- Se "decisao_editorial"="reabrir", então "reabrir_em_arbitragem_de_corredor" tem de ser true.
+- Se "estado_final_do_passo"="fechado", o conjunto do JSON deve mostrar fecho local claro e não deixar lacunas explícitas.

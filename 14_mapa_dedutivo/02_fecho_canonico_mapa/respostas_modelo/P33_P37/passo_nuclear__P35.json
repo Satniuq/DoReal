@@ -1,0 +1,180 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P35",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:13:56+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P35",
+    "numero_final": 35,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P34"
+    ],
+    "prepara": [
+      "P36"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "justificacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+    "justificacao_expandida_final": "Se há verdade, há possibilidade de acerto; mas a inteligibilidade do acerto exige contraste com a possibilidade de falha. Sem possibilidade de erro, a verdade deixaria de ser distinguível criticamente e reduzir-se-ia a uma positividade infalibilista vazia. Por isso, verdade e erro são co-originários no plano epistemológico.",
+    "ponte_entrada": "A partir de P34, onde já se abriu o espaço da verdade, é preciso explicitar que esse espaço só é inteligível se incluir também a possibilidade de erro.",
+    "ponte_saida": "Uma vez estabelecido que verdade e erro são co-originários, P36 pode avançar mostrando a consequência seguinte dessa estrutura epistemológica já diferenciada.",
+    "porque_o_anterior_nao_basta": "P34 não basta porque ainda não introduz explicitamente este ganho: a verdade só se torna inteligível como verdade pela sua distinção do erro.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P36 perde a mediação crítica entre verdade e erro e aparece como salto dedutivo.",
+    "objecao_letal": "infalibilismo vazio",
+    "bloqueio_curto": "Uma verdade sem possibilidade de erro não é criticamente distinguível de mera auto-posição; sem contraste com a falha, a própria noção de verdade perde inteligibilidade.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "infalibilismo vazio"
+    ],
+    "fragmentos_selecionados_finais": [],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Passo fechado por densificação local da justificação, sem necessidade de subpasso.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P35",
+    "numero_final": 35,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P34"
+    ],
+    "prepara": [
+      "P36"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "justificacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+    "justificacao_minima_suficiente": "Se há verdade, há possibilidade de acerto; mas a inteligibilidade do acerto exige contraste com a possibilidade de falha. Sem possibilidade de erro, a verdade deixaria de ser distinguível criticamente e reduzir-se-ia a uma positividade infalibilista vazia. Por isso, verdade e erro são co-originários no plano epistemológico.",
+    "ponte_entrada": "A partir de P34, onde já se abriu o espaço da verdade, é preciso explicitar que esse espaço só é inteligível se incluir também a possibilidade de erro.",
+    "ponte_saida": "Uma vez estabelecido que verdade e erro são co-originários, P36 pode avançar mostrando a consequência seguinte dessa estrutura epistemológica já diferenciada.",
+    "porque_o_anterior_nao_basta": "P34 não basta porque ainda não introduz explicitamente este ganho: a verdade só se torna inteligível como verdade pela sua distinção do erro.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P36 perde a mediação crítica entre verdade e erro e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "infalibilismo vazio",
+    "bloqueio_curto_da_objecao": "Uma verdade sem possibilidade de erro não é criticamente distinguível de mera auto-posição; sem contraste com a falha, a própria noção de verdade perde inteligibilidade.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [],
+    "objecoes_bloqueadas_final": [
+      "infalibilismo vazio"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P35 no corredor P33_P37. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: infalibilismo vazio. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Passo fechado por densificação local da justificação, sem necessidade de subpasso."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0de5913abd5d76c60069b999da93b0819a8a1531a3a4ec9d0e",
+      "object": "response",
+      "created_at": 1773771226,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771235,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0de5913abd5d76c60069b999db43e8819aa65548263ef7ac44",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P33_P37\",\n  \"passo_id\": \"P35\",\n  \"numero_final\": 35,\n  \"bloco_id\": \"BLOCO_V\",\n  \"bloco_titulo\": \"Epistemologia derivada da ontologia\",\n  \"depende_de\": [\n    \"P34\"\n  ],\n  \"prepara\": [\n    \"P36\"\n  ],\n  \"estado_inicial_do_passo\": \"aberto\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"justificacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.\",\n  \"justificacao_expandida_final\": \"Se há verdade, há possibilidade de acerto; mas a inteligibilidade do acerto exige contraste com a possibilidade de falha. Sem possibilidade de erro, a verdade deixaria de ser distinguível criticamente e reduzir-se-ia a uma positividade infalibilista vazia. Por isso, verdade e erro são co-originários no plano epistemológico.\",\n  \"ponte_entrada\": \"A partir de P34, onde já se abriu o espaço da verdade, é preciso explicitar que esse espaço só é inteligível se incluir também a possibilidade de erro.\",\n  \"ponte_saida\": \"Uma vez estabelecido que verdade e erro são co-originários, P36 pode avançar mostrando a consequência seguinte dessa estrutura epistemológica já diferenciada.\",\n  \"porque_o_anterior_nao_basta\": \"P34 não basta porque ainda não introduz explicitamente este ganho: a verdade só se torna inteligível como verdade pela sua distinção do erro.\",\n  \"porque_nao_pode_ser_suprimido\": \"Se este passo for suprimido, a passagem para P36 perde a mediação crítica entre verdade e erro e aparece como salto dedutivo.\",\n  \"objecao_letal\": \"infalibilismo vazio\",\n  \"bloqueio_curto\": \"Uma verdade sem possibilidade de erro não é criticamente distinguível de mera auto-posição; sem contraste com a falha, a própria noção de verdade perde inteligibilidade.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"infalibilismo vazio\"\n  ],\n  \"fragmentos_selecionados_finais\": [],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Passo fechado por densificação local da justificação, sem necessidade de subpasso.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 6013,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 695,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 6708
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P35.raw.txt"
+}

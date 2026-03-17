@@ -1,0 +1,53 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P33_P37",
+  "passo_pai_id": "P36",
+  "subpasso_id": "P36_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Embora os materiais intermédios assinalem fragilidade mediacional e sugiram promoção a subpasso, a decisão canónica final do próprio passo fixa que o fecho foi obtido por densificação interna suficiente. Em P36, a passagem de P35 para a definição do erro como desadequação ao real, bem como a tipologia mínima descritiva, categorial e escalar, já está explicitada na justificação mínima suficiente, na ponte de entrada e no bloqueio da objeção letal. O subpasso sugerido sobre separar erro, ilusão, insuficiência epistémica e dano prático excede o estritamente necessário para fechar canonicamente este passo e introduziria mediação decorativa ou redundante face ao fecho local já alcançado.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P36",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não há inserção: a mediação necessária foi absorvida no próprio P36 por densificação textual suficiente."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "P36 já fecha canonicamente ao explicitar que, se o critério epistémico deriva da estrutura do real, então o erro se define primariamente como desadequação ao real e não apenas como incoerência formal.",
+  "ponte_entrada": "De P35 recebe-se que o critério epistémico depende da estrutura do real; segue-se então que o erro deve ser entendido em primeiro lugar como desadequação a essa estrutura, e não apenas como incoerência formal.",
+  "ponte_saida": "Uma vez definido o erro como desadequação ao real em formas descritivas, categoriais e escalares, torna-se possível em P37 explicitar a exigência corretiva correspondente e a orientação prática dessa correção.",
+  "objecao_letal_a_bloquear": "erro reduzido a incoerência formal",
+  "bloqueio_curto": "Se o critério de acerto é a adequação ao real, pode haver erro mesmo com coerência interna; logo, incoerência não esgota o erro.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A25_SEG_003",
+    "F0241_A18_SEG_003",
+    "F0241_A18_SEG_002",
+    "F0241_A10_SEG_001",
+    "F0185_SEG_001",
+    "F0181_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "erro reduzido a incoerência formal",
+    "verdade como coerência pura",
+    "coerentismo fechado",
+    "coerência aparente basta para verdade",
+    "verdade como mera forma discursiva",
+    "critério reduzido à persuasão intelectual",
+    "correção prática desligada da descrição do real",
+    "erro como entidade ontologica propria"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../impacto_fragmentos_no_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fecho local suficiente por densificação interna de P36.",
+  "pendencias": []
+}

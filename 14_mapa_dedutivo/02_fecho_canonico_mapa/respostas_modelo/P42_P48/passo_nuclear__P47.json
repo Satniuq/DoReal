@@ -1,0 +1,222 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P47",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:18:57+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P47",
+    "numero_final": 44,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P34",
+      "P37",
+      "P40",
+      "P42"
+    ],
+    "prepara": [
+      "P48"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_v2_final": "O dever-ser exprime a exigência prática derivada da subordinação do agir à verdade, à correção, à direção e ao dano real.",
+    "justificacao_expandida_final": "Este passo não introduz uma normatividade autónoma nem infere um dever diretamente de um facto isolado. Fecha antes a mediação segundo a qual, se a ação está subordinada ao real, então a sua orientação prática fica vinculada ao que é verdadeiro, ao que é correto no seu exercício, à direção inscrita no poder-ser real e aos danos efetivos que a ação pode causar. Nessa medida, o dever-ser não vem de convenção externa nem de decisão voluntarista, mas da exigência prática de agir em conformidade com as condições reais que tornam a ação verdadeira, possível, dirigida e não destrutiva.",
+    "ponte_entrada": "Retomando o que já foi estabelecido sobre verdade, correção, direção e dano real, segue-se que a ação não pode manter-se indiferente a essas determinações sem se desordenar perante o real.",
+    "ponte_saida": "Uma vez mostrado que o dever-ser é essa exigência prática imanente à subordinação do agir ao real, fica preparada a passagem para P48, onde essa exigência pode ser explicitada no passo seguinte sem salto dedutivo.",
+    "porque_o_anterior_nao_basta": "Os passos P34, P37, P40 e P42 fornecem os elementos reais relevantes, mas ainda não formulam a passagem própria pela qual esses elementos se tornam exigência prática unitária; sem esta mediação, permanece a aparência de salto entre descrição do real e dever-ser.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, P48 deixa de receber a mediação que converte verdade, correção, direção e dano real em exigência prática, e a cadeia passa a parecer uma imposição normativa exterior ou um salto inferencial.",
+    "objecao_letal": "falácia naturalista simplista",
+    "bloqueio_curto": "Não se deduz um dever de um facto bruto; explicita-se que, uma vez a ação subordinada operativamente ao real, a normatividade surge como exigência interna das condições reais de verdade, direção, correção e dano.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "falácia naturalista simplista",
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "relativismo normativo",
+      "consensualismo como fundamento suficiente da lei"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A22_SEG_002",
+      "F0241_A12_SEG_001",
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por reformulação mínima com explicitação da derivação operativa do dever-ser.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P47",
+    "numero_final": 44,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P34",
+      "P37",
+      "P40",
+      "P42"
+    ],
+    "prepara": [
+      "P48"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_canonica_final": "O dever-ser exprime a exigência prática derivada da subordinação do agir à verdade, à correção, à direção e ao dano real.",
+    "justificacao_minima_suficiente": "Este passo não introduz uma normatividade autónoma nem infere um dever diretamente de um facto isolado. Fecha antes a mediação segundo a qual, se a ação está subordinada ao real, então a sua orientação prática fica vinculada ao que é verdadeiro, ao que é correto no seu exercício, à direção inscrita no poder-ser real e aos danos efetivos que a ação pode causar. Nessa medida, o dever-ser não vem de convenção externa nem de decisão voluntarista, mas da exigência prática de agir em conformidade com as condições reais que tornam a ação verdadeira, possível, dirigida e não destrutiva.",
+    "ponte_entrada": "Retomando o que já foi estabelecido sobre verdade, correção, direção e dano real, segue-se que a ação não pode manter-se indiferente a essas determinações sem se desordenar perante o real.",
+    "ponte_saida": "Uma vez mostrado que o dever-ser é essa exigência prática imanente à subordinação do agir ao real, fica preparada a passagem para P48, onde essa exigência pode ser explicitada no passo seguinte sem salto dedutivo.",
+    "porque_o_anterior_nao_basta": "Os passos P34, P37, P40 e P42 fornecem os elementos reais relevantes, mas ainda não formulam a passagem própria pela qual esses elementos se tornam exigência prática unitária; sem esta mediação, permanece a aparência de salto entre descrição do real e dever-ser.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, P48 deixa de receber a mediação que converte verdade, correção, direção e dano real em exigência prática, e a cadeia passa a parecer uma imposição normativa exterior ou um salto inferencial.",
+    "objecao_letal_a_bloquear": "falácia naturalista simplista",
+    "bloqueio_curto_da_objecao": "Não se deduz um dever de um facto bruto; explicita-se que, uma vez a ação subordinada operativamente ao real, a normatividade surge como exigência interna das condições reais de verdade, direção, correção e dano.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A22_SEG_002",
+      "F0241_A12_SEG_001",
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "falácia naturalista simplista",
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "relativismo normativo",
+      "consensualismo como fundamento suficiente da lei"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P47 no corredor P42_P48. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: falácia naturalista simplista. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por reformulação mínima com explicitação da derivação operativa do dever-ser."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0650bd85c9aa63220069b99af701f4819b85e6ba3b7cdf0f3d",
+      "object": "response",
+      "created_at": 1773771511,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771525,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0650bd85c9aa63220069b99af80df0819baea34bbe305ad15d",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P42_P48\",\n  \"passo_id\": \"P47\",\n  \"numero_final\": 44,\n  \"bloco_id\": \"BLOCO_VII\",\n  \"bloco_titulo\": \"Fecho ético\",\n  \"depende_de\": [\n    \"P34\",\n    \"P37\",\n    \"P40\",\n    \"P42\"\n  ],\n  \"prepara\": [\n    \"P48\"\n  ],\n  \"estado_inicial_do_passo\": \"aberto\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"reformular\",\n  \"formulacao_v2_final\": \"O dever-ser exprime a exigência prática derivada da subordinação do agir à verdade, à correção, à direção e ao dano real.\",\n  \"justificacao_expandida_final\": \"Este passo não introduz uma normatividade autónoma nem infere um dever diretamente de um facto isolado. Fecha antes a mediação segundo a qual, se a ação está subordinada ao real, então a sua orientação prática fica vinculada ao que é verdadeiro, ao que é correto no seu exercício, à direção inscrita no poder-ser real e aos danos efetivos que a ação pode causar. Nessa medida, o dever-ser não vem de convenção externa nem de decisão voluntarista, mas da exigência prática de agir em conformidade com as condições reais que tornam a ação verdadeira, possível, dirigida e não destrutiva.\",\n  \"ponte_entrada\": \"Retomando o que já foi estabelecido sobre verdade, correção, direção e dano real, segue-se que a ação não pode manter-se indiferente a essas determinações sem se desordenar perante o real.\",\n  \"ponte_saida\": \"Uma vez mostrado que o dever-ser é essa exigência prática imanente à subordinação do agir ao real, fica preparada a passagem para P48, onde essa exigência pode ser explicitada no passo seguinte sem salto dedutivo.\",\n  \"porque_o_anterior_nao_basta\": \"Os passos P34, P37, P40 e P42 fornecem os elementos reais relevantes, mas ainda não formulam a passagem própria pela qual esses elementos se tornam exigência prática unitária; sem esta mediação, permanece a aparência de salto entre descrição do real e dever-ser.\",\n  \"porque_nao_pode_ser_suprimido\": \"Se este passo for suprimido, P48 deixa de receber a mediação que converte verdade, correção, direção e dano real em exigência prática, e a cadeia passa a parecer uma imposição normativa exterior ou um salto inferencial.\",\n  \"objecao_letal\": \"falácia naturalista simplista\",\n  \"bloqueio_curto\": \"Não se deduz um dever de um facto bruto; explicita-se que, uma vez a ação subordinada operativamente ao real, a normatividade surge como exigência interna das condições reais de verdade, direção, correção e dano.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"falácia naturalista simplista\",\n    \"autonomia normativa absoluta\",\n    \"dever impossível\",\n    \"moralismo extrínseco\",\n    \"correção prática desligada da descrição do real\",\n    \"valoracao arbitraria\",\n    \"moralismo desligado do real\",\n    \"indiferentismo normativo\",\n    \"correção apenas exterior\",\n    \"deslocação da responsabilidade para o exterior\",\n    \"relativismo normativo\",\n    \"consensualismo como fundamento suficiente da lei\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A22_SEG_002\",\n    \"F0241_A12_SEG_001\",\n    \"F0232_SEG_001\",\n    \"F0205_SEG_001\",\n    \"F0112_SEG_002\",\n    \"F0111_A01_SEG_004\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por reformulação mínima com explicitação da derivação operativa do dever-ser.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 7040,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1026,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8066
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P47.raw.txt"
+}

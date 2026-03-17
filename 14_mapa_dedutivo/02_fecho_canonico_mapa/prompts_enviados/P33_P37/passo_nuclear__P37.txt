@@ -1,0 +1,956 @@
+Fecha canonicamente um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o corredor e o passo abaixo indicados.
+Não faças análise global.
+Não reabras o projeto inteiro.
+Não proposes novas fases.
+Não inventes fragmentos, objeções, dependências ou fontes que não estejam suportados pelos materiais fornecidos.
+Escolhe a solução local mínima suficiente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P33_P37
+PASSO_ID=P37
+NUMERO_FINAL=37
+BLOCO_ID=BLOCO_V
+BLOCO_TITULO=Epistemologia derivada da ontologia
+DEPENDE_DE_JSON=[
+  "P36"
+]
+PREPARA_JSON=[
+  "P38"
+]
+ESTADO_INICIAL_DO_PASSO=aberto
+TIPOS_DE_FRAGILIDADE_JSON=[
+  "formulacao",
+  "mediacao"
+]
+PASSO_ANTERIOR_ID=P36
+PASSO_SEGUINTE_ID=P38
+
+MATERIAIS
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P37",
+  "numero_final": 37,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P36"
+  ],
+  "prepara": [
+    "P38"
+  ],
+  "proposicao_canonica_curta": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+  "proposicao_canonica_tecnica": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+  "tese_minima_canonica": "A correção é reinscrição no real.",
+  "justificacao_minima_canonica": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+  "porque_este_passo_e_necessario": "A correção é reinscrição no real.",
+  "porque_o_anterior_nao_basta": "P36 não basta porque ainda não introduz explicitamente este ganho: Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P38 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "correção como mera coerentização",
+  "tipo_de_necessidade": "epistemica",
+  "estado_de_fecho": "aberto",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 4.381,
+  "breakdown_score_canonico": {
+    "dependencias": 0.8,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.1808,
+    "fragilidade": -0.1,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "A correção é reinscrição no real.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A15_SEG_002",
+    "F0241_A10_SEG_001",
+    "F0185_SEG_001",
+    "F0117_A01_SEG_003",
+    "F0241_A26_SEG_004",
+    "F0241_A13_SEG_002",
+    "F0210_SEG_001",
+    "F0142_SEG_001",
+    "F0130_SEG_001",
+    "F0072_SEG_002",
+    "F0065_A01_SEG_004",
+    "F0064_A02_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "correção como mera coerentização",
+    "verdade como coerência pura",
+    "erro sem implicação corretiva",
+    "coerentismo fechado",
+    "convencionalismo total",
+    "erro reduzido a incoerência formal",
+    "consciência como instância soberana",
+    "representação sem base ontológica",
+    "autorreferencialismo fechado",
+    "verdade reduzida a processamento interno",
+    "neutralidade epistemica da mediação tecnica",
+    "correção como mera reformulação interna"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.20).",
+    "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Fechar a diferença entre correção interna e correção real."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P37",
+  "numero_original": 37,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "numero_final": 37,
+  "proposicao_final": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+  "proposicao_original": "A correção é reinscrição no real.",
+  "descricao_curta": null,
+  "funcao_no_sistema": "No Epistemologia derivada da ontologia, esta proposição fixa que a correção é reinscrição no real.; Recebe apoio imediato de P36; e prepara P38.",
+  "depende_de": [
+    "P36"
+  ],
+  "prepara": [
+    "P38"
+  ],
+  "tese_minima": "A correção é reinscrição no real.",
+  "justificacao_minima_suficiente": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+  "objecoes_bloqueadas": [
+    "correção como mera coerentização",
+    "verdade como coerência pura",
+    "erro sem implicação corretiva",
+    "coerentismo fechado",
+    "convencionalismo total",
+    "erro reduzido a incoerência formal",
+    "consciência como instância soberana",
+    "representação sem base ontológica",
+    "autorreferencialismo fechado",
+    "verdade reduzida a processamento interno",
+    "neutralidade epistemica da mediação tecnica",
+    "correção como mera reformulação interna"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A15_SEG_002",
+    "F0241_A10_SEG_001",
+    "F0185_SEG_001",
+    "F0117_A01_SEG_003",
+    "F0241_A26_SEG_004",
+    "F0241_A13_SEG_002",
+    "F0210_SEG_001",
+    "F0142_SEG_001",
+    "F0130_SEG_001",
+    "F0072_SEG_002",
+    "F0065_A01_SEG_004",
+    "F0064_A02_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "A correção é reinscrição no real.",
+  "mediacao_necessaria": [
+    "Densificar a justificação interna e tornar explícitos os seus pressupostos imediatos.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "medio",
+  "score_de_inevitabilidade": 0.533,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.8,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 2.26,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.20).",
+    "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Fechar a diferença entre correção interna e correção real."
+  ],
+  "estado_de_fecho_canonico": "aberto",
+  "score_canonico_de_fecho": 4.381,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "P36 não basta porque ainda não introduz explicitamente este ganho: Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P38 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "correção como mera coerentização",
+  "tipo_de_necessidade": "epistemica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 5,
+    "fechados": 0,
+    "abertos": 3,
+    "quase_fechados": 2,
+    "subpassos": [
+      "P33",
+      "P36"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {
+      "id": "P37",
+      "score_canonico_de_fecho": 4.381,
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null
+    },
+    "fragilidade_mediacional": {
+      "id": "P37",
+      "score_canonico_de_fecho": 4.381,
+      "subpasso_sugerido": null
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 5,
+    "fechados": 0,
+    "quase_fechados": 2,
+    "abertos": 3,
+    "passos_com_subpasso": [
+      "P33",
+      "P36"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37"
+  ],
+  "proposicao_canonica": {
+    "id": "P37",
+    "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno."
+  },
+  "problema_ainda_aberto": {
+    "id": "P37",
+    "estado_de_fecho": "aberto",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "correção como mera coerentização"
+  },
+  "passo": {
+    "id": "P37",
+    "numero_final": 37,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P36"
+    ],
+    "prepara": [
+      "P38"
+    ],
+    "proposicao_canonica_curta": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+    "proposicao_canonica_tecnica": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+    "tese_minima_canonica": "A correção é reinscrição no real.",
+    "justificacao_minima_canonica": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+    "porque_este_passo_e_necessario": "A correção é reinscrição no real.",
+    "porque_o_anterior_nao_basta": "P36 não basta porque ainda não introduz explicitamente este ganho: Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P38 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "correção como mera coerentização",
+    "tipo_de_necessidade": "epistemica",
+    "estado_de_fecho": "aberto",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 4.381,
+    "breakdown_score_canonico": {
+      "dependencias": 0.8,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.1808,
+      "fragilidade": -0.1,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "A correção é reinscrição no real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A15_SEG_002",
+      "F0241_A10_SEG_001",
+      "F0185_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0241_A26_SEG_004",
+      "F0241_A13_SEG_002",
+      "F0210_SEG_001",
+      "F0142_SEG_001",
+      "F0130_SEG_001",
+      "F0072_SEG_002",
+      "F0065_A01_SEG_004",
+      "F0064_A02_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "correção como mera coerentização",
+      "verdade como coerência pura",
+      "erro sem implicação corretiva",
+      "coerentismo fechado",
+      "convencionalismo total",
+      "erro reduzido a incoerência formal",
+      "consciência como instância soberana",
+      "representação sem base ontológica",
+      "autorreferencialismo fechado",
+      "verdade reduzida a processamento interno",
+      "neutralidade epistemica da mediação tecnica",
+      "correção como mera reformulação interna"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.20).",
+      "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Fechar a diferença entre correção interna e correção real."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.revisao_por_proposicao[36]",
+        "match": {
+          "proposicao_id": "P37",
+          "numero": 37,
+          "bloco_id": "BLOCO_V",
+          "bloco_titulo": "Epistemologia derivada da ontologia",
+          "proposicao": "A correção é reinscrição no real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P36"
+          ],
+          "prepara": [
+            "P38"
+          ],
+          "estado_anterior_no_mapa": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null
+          },
+          "base_dedutiva_existente": {
+            "tese_minima": "A correção é reinscrição no real.",
+            "justificacao_interna_do_passo": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+            "tipo_de_necessidade": "necessidade_epistemico_pratica",
+            "estatuto_inferencial": "reinscricao_corretiva",
+            "formulacao_filosofico_academica": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+            "o_que_falta_provar_ou_explicitar": "Fechar a diferença entre correção interna e correção real.",
+            "objecoes_tipicas_a_bloquear": [
+              "correção como mera coerentização"
+            ],
+            "mediacoes_em_falta_no_mapa": []
+          },
+          "pressao_dos_fragmentos": {
+            "total_fragmentos_que_tocam": 25,
+            "total_origens_que_tocam": 25,
+            "zona_filosofica_dominante": "epistemologia",
+            "efeito_principal_dominante": "explicita",
+            "acao_recomendada_dominante": "densificar",
+            "tipo_de_utilidade_dominante": "justificativa",
+            "prioridade_editorial_dominante": "media",
+            "distribuicao_efeitos": {
+              "explicita": 25
+            },
+            "distribuicao_acoes": {
+              "densificar": 24,
+              "manter": 1
+            },
+            "distribuicao_tipos_relacao": {
+              "apoia_justificacao": 9,
+              "toca_indiretamente": 9,
+              "bloqueia_objecao": 4,
+              "toca_diretamente": 1,
+              "faz_ponte_entre": 2
+            },
+            "distribuicao_graus_relevancia": {
+              "medio": 9,
+              "baixo": 14,
+              "alto": 2
+            },
+            "distribuicao_tipos_utilidade": {
+              "justificativa": 21,
+              "redacional": 3,
+              "tematica": 1
+            },
+            "distribuicao_prioridades": {
+              "media": 20,
+              "alta": 4,
+              "baixa": 1
+            }
+          },
+          "materiais_de_reconstrucao": {
+            "fragmentos_relacionados": [
+              "F0010_SEG_001",
+              "F0030_SEG_001",
+              "F0032_SEG_001",
+              "F0038_SEG_001",
+              "F0064_A01_SEG_004",
+              "F0064_A02_SEG_001",
+              "F0065_A01_SEG_004",
+              "F0069_SEG_003",
+              "F0072_SEG_002",
+              "F0078_A01_SEG_003",
+              "F0104_A02_SEG_002",
+              "F0116_SEG_003",
+              "F0117_A01_SEG_003",
+              "F0130_SEG_001",
+              "F0142_SEG_001",
+              "F0185_SEG_001",
+              "F0210_SEG_001",
+              "F0241_A07_SEG_001",
+              "F0241_A09_SEG_001",
+              "F0241_A10_SEG_001",
+              "F0241_A13_SEG_002",
+              "F0241_A15_SEG_002",
+              "F0241_A16_SEG_003",
+              "F0241_A20_SEG_002",
+              "F0241_A26_SEG_004"
+            ],
+            "origens_relacionadas": [
+              "F0010",
+              "F0030",
+              "F0032",
+              "F0038",
+              "F0064_A01",
+              "F0064_A02",
+              "F0065_A01",
+              "F0069",
+              "F0072",
+              "F0078_A01",
+              "F0104_A02",
+              "F0116",
+              "F0117_A01",
+              "F0130",
+              "F0142",
+              "F0185",
+              "F0210",
+              "F0241_A07",
+              "F0241_A09",
+              "F0241_A10",
+              "F0241_A13",
+              "F0241_A15",
+              "F0241_A16",
+              "F0241_A20",
+              "F0241_A26"
+            ],
+            "resumos_de_fragmento": [
+              "Ensaia que verdade é melhor descrição da realidade e que a evidência do erro deve forçar revisão da representação.",
+              "Diagnostica a autonomização do sistema e da forma face ao real, sugerindo que ordens jurídicas, morais e sociais pressupõem busca implícita da verdade, mas podem fechar-se sobre si.",
+              "Diagnostica o discurso público como regime formal que preserva sistema, rótulos e imposição de crenças em vez de submeter-se ao real.",
+              "Fragmento exploratório sobre dependência de pensar, agir e corrigir face ao modo de ser, com notas sobre transmissibilidade cultural e correção traumática.",
+              "Diagnostica a passagem de uma inclusão no real para uma vida assente na representação, com extensão civilizacional contra o real.",
+              "Diagnostica que a robotização das funções societárias pode aprofundar a substituição do real pelo processo sistémico, opondo verdade mediada pelo real a verdade interna ao sistema.",
+              "Diagnostica a autonomização processual da representação social, que passa a substituir o contacto com o real e reabsorve até os discursos de regresso ao real.",
+              "Define a filosofia como descrição do real, liga descrição e vida, e sugere decadência de descrições estagnadas com necessidade de renovação.",
+              "Sustenta que toda a apreensão do real ocorre num quadro determinado e que a crítica correta atua por rearranjo do quadro, não só por negação de conteúdos.",
+              "Liga verdade prática sobre capacidades e potencialidades à auto-orientação reflexiva e à correção de vida, com nota sobre transmissão partilhável do saber.",
+              "Diagnostica que o sistema apropria o pouco que toca o real e o universaliza sob forma dominante, produzindo englobamento totalizante.",
+              "Sugere que o acesso ao real pode exigir expansão das condições internas e ruptura com a repetição do mesmo quadro anterior, mas em formulação ensaística e pouco estabilizada.",
+              "Contrasta ser, poder-ser e dever-ser para afirmar a primazia ontológica do poder-ser e criticar a sua postergação por sistemas e descrições normativas.",
+              "Diagnostica a deriva de sistemas institucionalizados que passam a preferir a sua coerência interna ao real e a operar contra ele.",
+              "Sustenta que o reconhecimento do próprio erro pressupõe vigilância reflexiva sobre representações e segregação coerente do apreendido.",
+              "Critica a substituição do real pela apreensão ou descrição parcial do real quando esta passa a funcionar como justificação ontológica.",
+              "Liga a mentira à recusa evitável de descrever melhor o real quando a reinscrição no real está ao alcance do sujeito.",
+              "Liga formação infantil da relação ao real com apreensão, representação, correção por adequação ao real e dificuldade posterior de corrigir cristalizações do eu.",
+              "Diagnostica a deriva em que o sistema institucional deixa de servir a ação humana e passa a impor a sua coerência, substituindo a boa descrição do real por fechamento sistémico.",
+              "Define o erro como desvio por não inclusão do real e a correção como reorientação pelo real; aproxima verdade e bem dessa submissão ao real."
+            ],
+            "teses_principais_dos_fragmentos": [
+              "A verdade mede-se pela qualidade descritiva da representação relativamente à realidade, e o erro pede mudança.",
+              "Quando a forma sistémica se autonomiza, substitui o real e degrada a verdade em validação interna; é preciso reinscrever sistema e mediação na verdade do real.",
+              "O discurso público formal tende ao fechamento simbólico e à substituição da verdade pela gestão sistémica de rótulos e crenças.",
+              "O pensar, a avaliação e a correção de percurso dependem estruturalmente do modo de ser humano e da sua inscrição em processos transmissíveis.",
+              "Quando a representação se autonomiza face ao real, produz fechamento civilizacional e sujeitos contra o real.",
+              "A mediação fechada sobre o sistema tende a produzir verdades internas ao processo e a substituir a submissão ao real.",
+              "Sistemas sociais baseados em princípios antes extraídos do real tendem a viver depois da representação processual desses princípios, bloqueando o retorno efetivo ao real originário.",
+              "A filosofia vale enquanto descrição do real submetida à sua renovação quando a descrição decai.",
+              "A apreensão é sempre condicionada por um quadro determinado, o que obriga a pensar consciência, ponto de vista e correção a partir dessa estrutura de enquadramento.",
+              "A orientação prática adequada exige verdades partilháveis sobre capacidades e potencialidades reais, bem como correção reflexiva do próprio caminho.",
+              "O sistema tende a substituir o real ao apropriar-se do que dele provém e impor um dominante sobre os modos de ser.",
+              "A manutenção do mesmo contínuo interno bloqueia o acesso ao real; a imaginação serve para expandir condições de desbloqueio.",
+              "O dever-ser só é legítimo se permanecer subordinado ao poder-ser real; quando o substitui, empobrece a apreensão e bloqueia a atualização.",
+              "Um sistema humano institucionalizado tende a autonomizar-se e a substituir a submissão ao real pela autovalidação sistémica.",
+              "A autoperceção do erro exige uma instância reflexiva de vigilância incorporada no processo representacional.",
+              "É erro tomar a apreensão do real como fundamento justificativo em vez de submeter a justificação ao próprio real.",
+              "Mentira é falha evitável de submissão descritiva ao real por parte de um ser reflexivo situado no real.",
+              "A formação inicial da relação ao real condiciona a possibilidade futura de correção, adequação prática e orientação para viver bem.",
+              "Quando o sistema se autonomiza e faz da sua coerência interna o critério dominante, deixa de ser mediação revisável do real e reenquadra o humano, produzindo fechamento sistémico.",
+              "Erro é desvio da apreensão relativamente ao real, e correção é retorno orientado pelo real; critérios apenas interiores falham."
+            ],
+            "justificacoes_da_associacao": [
+              "A ideia de que perante o erro se deve mudar aponta para correção por reajuste ao real.",
+              "A imagem de apontar de novo ao real funciona como motivo corretivo de reinscrição.",
+              "A alternativa proposta é reorientar o espaço comunicacional para crenças realistas, isto é, reinscrever a mediação no real.",
+              "A nota sobre correção traumática sugere que a correção ocorre por resistência do real, embora de forma ainda solta e não técnica.",
+              "A imagem da infância como inclusão no real sugere por contraste a direção corretiva da reinscrição, mas sem a desenvolver.",
+              "Por contraste, sugere que sair da mediação autorreferente exige retorno à mediação pelo real.",
+              "Sugere por que a correção é difícil: o próprio discurso de retorno ao real é reabsorvido como mais um processo.",
+              "A passagem da decadência de uma descrição para o surgimento de outra melhor reforça a necessidade de correção por retorno ao real.",
+              "Ao dizer que o contra-argumento verdadeiro rearranja o quadro, o fragmento sugere correção por reinscrição estrutural e não mera oposição verbal.",
+              "O fragmento diz que a correção tardia e não reflexiva se torna traumática, reforçando a necessidade prática de corrigir o caminho em função do real.",
+              "Implica negativamente a necessidade de retorno ao real contra a captura sistémica.",
+              "O fragmento sugere que sair do quadro anterior é condição de correção ou reencontro com o real, mas sem formular a estrutura da reinscrição.",
+              "A crítica aos sistemas sugere que correção não é seguir trajetórias sistémicas, mas regressar ao poder-ser real.",
+              "Ao diagnosticar a preferência do sistema por si mesmo, reforça negativamente a necessidade de reinscrição no real como correção.",
+              "Ao pressupor aperceção do erro, sugere a possibilidade de correção, mas sem desenvolver ainda a reinscrição no real.",
+              "Implica negativamente que a correção exige voltar do substituto justificativo ao real.",
+              "A ideia de recolocação do enquadramento indica correção como retorno explícito ao real.",
+              "Diz explicitamente que as correções corretas são adequação de representações, apreensões e ações ao real.",
+              "Ao criticar o ciclo vicioso sistémico, sugere por contraste que corrigir exige sair da coerência interna e voltar ao real.",
+              "Descreve a correção como apontar para o caminho real, verdadeiro e bom."
+            ],
+            "o_que_os_fragmentos_acrescentam": [
+              "Acrescenta formulação intuitiva de verdade como descrição do real e liga erro a revisão da representação.",
+              "Acrescenta um diagnóstico mais concreto do fechamento sistémico como substituição do real por forma validada internamente.",
+              "Acrescenta um caso de diagnóstico social do fechamento simbólico e da autonomização formal do critério.",
+              "Acrescenta formulações antropológicas para expor a dependência entre modo de ser, pensamento, avaliação e correção.",
+              "Acrescenta um diagnóstico compacto da substituição do real por representação no plano existencial e civilizacional.",
+              "Fornece um caso crítico de fechamento mediacional em contexto tecnológico e societário.",
+              "Acrescenta um diagnóstico concreto de como a representação processual se autonomiza e substitui o real em contexto social.",
+              "Acrescenta uma formulação dinâmica da vida filosófica como sucessão de descrições do real sujeitas a decadência e renovação.",
+              "Acrescenta a noção operacional de quadro determinado da apreensão como condição estrutural da leitura correta de posições e contra-posições.",
+              "Acrescenta motivação prática para a necessidade de autoavaliação reflexiva, verdade partilhável e correção antecipada do percurso de vida.",
+              "Acrescenta um diagnóstico compacto da dinâmica de apropriação, universalização e imposição do dominante pelo sistema.",
+              "Acrescenta linguagem para descrever o bloqueio interno que impede correção e acesso ao real.",
+              "Dá uma formulação contrastiva forte para a subordinação do dever-ser ao poder-ser e para a crítica da sua captura sistémica.",
+              "Acrescenta um diagnóstico mais concreto da forma como o desligamento do real ocorre em sistemas institucionalizados.",
+              "Acrescenta um exemplo mínimo de autoperceção do erro para justificar a necessidade de vigilância reflexiva.",
+              "Acrescenta um caso nítido de desvio do critério: a elevação da apreensão parcial, ou de nomes ideológicos, a fundamento ontológico.",
+              "Acrescenta um caso forte de erro evitável: não descrever o real como se pode quando se sabe que se existe no real.",
+              "Fornece um caso de aplicação desenvolvimental da cadeia apreensão-representação-correção, com foco na infância e na cristalização posterior.",
+              "Um exemplo aplicado de fechamento sistémico em contexto político-institucional.",
+              "Acrescenta uma formulação contínua do erro como desvio sem rutura e da correção como retorno orientado pelo real."
+            ],
+            "justificacoes_novas_que_fornecem": [
+              "Fornece apoio informal à tese de que quanto melhor a descrição da realidade, mais verdadeira é a representação.",
+              "Mostra por exemplo social e normativo que ordens e sistemas só mantêm sentido se permanecerem implicitamente orientados à verdade do real; quando se autonomizam, produzem erro.",
+              "Fornece uma justificação aplicada para a tese de que critérios desligados do real se transformam em coerência formal, gestão institucional e imposição de crenças.",
+              "Fornece uma intuição de que pensar e corrigir não são operações soltas, mas expressões de um modo de ser estruturado e resistente à mudança.",
+              "Mostra a consequência antropológica e coletiva da autonomização representacional: a produção de formas de vida contra o real.",
+              "Ajuda a justificar que um critério desligado do real degenera em validação interna do sistema, mesmo quando pretende procurar a verdade.",
+              "Fornece a razão prática e sistémica pela qual critérios, discursos e modos de vida podem desligar-se do real mantendo aparência de verdade derivada.",
+              "Se se vive sobre descrições do real, então a sua estagnação produz decadência e exige substituição por descrições melhores, o que reforça a correção como reinscrição no real.",
+              "Mostra que o erro em teorias da consciência pode estar no enquadramento da apreensão, não apenas no conteúdo afirmado.",
+              "Sugere que sem um modo reflexivo de relação com a verdade sobre capacidades e possibilidades reais não se colocam sequer as perguntas decisivas da vida, e a correção acaba por surgir de forma traumática.",
+              "Explica por que um regime desligado do real não fica neutro: tende a capturar produções parciais, generalizá-las e substituir a pluralidade real por coerência dominante.",
+              "Fornece uma justificação fraca: sem expansão das condições internas, o sujeito apenas repete o quadro anterior e não testa realmente a sua relação com o real.",
+              "Mostra que um dever-ser desligado do poder-ser não orienta atualização real; apenas fixa descrição limitada, desejo e trajetória sistémica.",
+              "Mostra que a degeneração do critério não é só omissão do real, mas preferência ativa da coerência sistémica contra o real.",
+              "Se alguém pode dizer 'enganei-me', então há uma operação reflexiva que monitoriza a representação e distingue coerentemente o apreendido.",
+              "Mostra que o critério falha quando uma representação parcial do real passa a legitimar-se a si mesma como se fosse o próprio real.",
+              "Mostra que a não submissão ao real pode assumir a forma ativa de omissão ou recusa de correção, e não apenas de erro teórico abstrato.",
+              "Sugere que a correção futura depende de uma formação inicial não desligada do real; quando o eu e mediações pobres dominam cedo, a autojustificação cristaliza e a correção torna-se mais custosa.",
+              "Mostra concretamente que um sistema pode deixar de funcionar como mediação e passar a impor-se como critério autónomo, o que exemplifica a desadequação ao real.",
+              "Mostra que o erro surge quando apreensão, valor ou direção se justificam por critério interior sem suficiente inclusão do real; a correção ocorre quando o real volta a funcionar como pressuposto e medida."
+            ],
+            "objecoes_que_ajudam_a_bloquear": [
+              "verdade como coerência pura",
+              "erro sem implicação corretiva",
+              "coerentismo fechado",
+              "convencionalismo total",
+              "correção como mera coerentização",
+              "erro reduzido a incoerência formal",
+              "consciência como instância soberana",
+              "representação sem base ontológica",
+              "autorreferencialismo fechado",
+              "verdade reduzida a processamento interno",
+              "neutralidade epistemica da mediação tecnica",
+              "correção como mera reformulação interna",
+              "retorno ao real por simples discurso sobre o real",
+              "estagnação filosófica autossuficiente",
+              "filosofia desligada do real",
+              "ponto de vista neutro ou exterior ao real",
+              "tratamento da consciência sem condição de enquadramento",
+              "correção reduzida a negação de conteúdo",
+              "direção meramente abstrata",
+              "indiferentismo prático perante o próprio percurso"
+            ],
+            "mediacoes_que_fornecem": [
+              "Ajuda a ligar verdade descritiva, reconhecimento do erro e exigência de mudança, entre P34 e P37.",
+              "Fornece mediação fraca entre crítica do erro e crítica sistémica, sem exigir passo estrutural novo.",
+              "Liga a crítica epistemológica da submissão ao real ao plano mediacional e sistémico do discurso público.",
+              "Fornece apenas mediação expositiva fraca entre antropologia, transmissão simbólica e correção; nao fornece mediacao estrutural clara.",
+              "Faz mediação fraca entre a estrutura da representação e a crítica da degeneração sistémica, sem exigir novo passo dedutivo.",
+              "Não fornece mediação estrutural nova; apenas exemplifica a passagem de submissão ao real para fechamento sistémico.",
+              "Liga a submissão epistemológica ao real ao problema sistémico da substituição do real por circuitos processuais autorreprodutivos.",
+              "Faz ponte fraca entre verdade como descrição adequada do real e correção como necessidade de renovar descrições decadentes.",
+              "Liga localidade da apreensão à ideia de correção como mudança de enquadramento estrutural.",
+              "Faz ponte fraca entre verdade prática sobre o que cada um pode ser e a necessidade de orientação e correção reflexiva da ação.",
+              "Liga a crítica epistemológica da submissão ao real ao diagnóstico sistémico da substituição do real por validação dominante.",
+              "Fornece mediação fraca entre crítica do fechamento interno e necessidade de correção orientada ao real.",
+              "Ajuda a ligar a ontologia do poder-ser e da atualização ao fecho ético sobre dever-ser subordinado e crítica da degeneração sistémica.",
+              "Não fornece mediação estrutural nova; reforça criticamente a passagem de critério submetido ao real para diagnóstico do erro sistémico.",
+              "Não fornece mediação estrutural nova; reforça apenas a passagem entre consciência reflexiva e reconhecimento do erro.",
+              "Liga a submissão do critério ao real com a tipologia do erro como substituição do real por representação legitimadora.",
+              "Liga submissão ao real, erro e correção por meio da ideia de recolocação do sujeito no enquadramento do real.",
+              "Fornece mediação expositiva entre antropologia da apreensão e fecho ético, mas nao fornece mediacao estrutural indispensavel.",
+              "Fornece mediação fraca entre crítica epistemológica do fechamento e crítica sistémica aplicada a instituições.",
+              "Faz mediação entre a submissão epistemológica ao real e a orientação prática do verdadeiro e do bom, sem exigir novo passo autónomo."
+            ],
+            "conceitos_ou_distincoes_novas": [
+              "forma da estrutura vs estrutura real",
+              "discurso público formal",
+              "gestão de rótulos",
+              "ocupação do espaço comunicacional",
+              "modo de ser como base de modos de pensar e agir",
+              "correção não reflexiva versus correção traumática",
+              "transmissibilidade como condição de permanência cultural",
+              "contraste entre inclusão no real e vida sobre representação",
+              "extensão civilizacional do fechamento representacional",
+              "verdades do sistema vs verdade mediada pelo real",
+              "mediação autorreferente",
+              "representação do processo",
+              "princípios extraídos do real vs vida vivida sobre a sua representação",
+              "reabsorção processual do discurso sobre o real",
+              "decadência da descrição",
+              "renovação descritiva",
+              "quadro determinado da apreensão",
+              "rearranjo do quadro",
+              "verdade prática sobre capacidades",
+              "correção reflexiva versus correção traumática"
+            ],
+            "propostas_de_nova_formulacao": [
+              "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+              "Um critério desligado do real fecha-se em sistema e toma a forma validada internamente por verdade.",
+              "A reflexividade humana, incluindo pensamento, avaliação e correção, exprime um modo de ser situado e não uma instância separada do real.",
+              "O fechamento da representação sobre si pode tornar-se forma de vida e organização coletiva contra o real.",
+              "A desligação do real não ocorre apenas por erro teórico, mas também por autonomização processual das representações e critérios que passaram a organizar a vida social.",
+              "A correção não é só ajuste interno: quando uma descrição do real decai, a filosofia exige a sua substituição por descrição melhor submetida ao real.",
+              "A apreensão do real é sempre situada num quadro determinado, pelo que a correção filosófica incide também sobre o enquadramento e não só sobre os conteúdos representados.",
+              "Quando o sistema se apropria do que toca o real e o universaliza sob forma dominante, a validade degrada-se em fechamento que substitui o real.",
+              "A correção exige por vezes romper a repetição do mesmo quadro interno, expandindo as condições de acesso ao real.",
+              "O dever-ser só é legítimo enquanto orientação interna do poder-ser real; quando se autonomiza, reduz a apreensão, empobrece a atualização e favorece fechamento sistémico."
+            ],
+            "propostas_de_novo_passo": [],
+            "entre_que_passos_deveria_entrar": [],
+            "observacoes_finais": [
+              "Útil como apoio redigível ao eixo verdade-erro-correção, mas em estado oral e instável.",
+              "Útil para reforçar a justificação da submissão ao real e da crítica do fechamento sistémico, mas o texto está heterogéneo e ensaístico.",
+              "Útil como apoio justificativo e ilustrativo da crítica ao fechamento simbólico; não altera a arquitetura do mapa.",
+              "Útil sobretudo para densificação redacional da zona antropológica; impacto dedutivo limitado e instável.",
+              "Útil como apoio crítico-redacional para explicitar degeneração autorreferencial; não altera a arquitetura do mapa.",
+              "Útil como apoio à crítica do fechamento sistémico e da verdade interna ao processo, mas ainda em formulação ensaística e instável.",
+              "Útil para densificar a crítica do fechamento sistémico e a dificuldade da correção, sem exigir novo passo dedutivo.",
+              "Útil para densificar P37 e, secundariamente, P33-P34; não altera a arquitetura.",
+              "Impacto real mas não arquitetónico; útil para densificar P25 e a ponte para P37.",
+              "Útil para reforçar a justificação prática da direção e da correção, mas ainda demasiado misto para alterar a arquitetura do mapa.",
+              "Impacto real mas local: reforça a justificação da crítica ao fechamento sistémico sem alterar a arquitetura.",
+              "Útil sobretudo como densificação expositiva da correção e da crítica ao fechamento interno; não cria passo novo.",
+              "Útil para densificar P47-P48 e a crítica ao fechamento sistémico, sem criar passo novo.",
+              "Útil para densificar a crítica do fechamento sistémico, sem alterar a arquitetura do mapa.",
+              "Útil para densificar P28 com apoio a P36; não altera a arquitetura.",
+              "Bom para densificar P33 e a passagem para P36; o fecho político sugerido no fragmento não está suficientemente demonstrado para entrar no mapa.",
+              "Útil para densificar P33-P37, mas a formulação está instável e não justifica passo novo ético.",
+              "Útil sobretudo como aplicação redacional e ponte temática; não altera a arquitetura dedutiva.",
+              "Útil como ilustração e reforço justificativo da crítica ao fechamento sistémico, mas demasiado oral e instável para mexer na arquitetura do mapa.",
+              "Útil para densificar P33-P37 e para preparar a passagem a P44, mas a formulação do fragmento é instável e não deve ser tomada como passo novo."
+            ]
+          },
+          "diagnostico_estrutural": {
+            "estabilidade": "estavel_mas_a_densificar",
+            "necessidade_principal": "densificar",
+            "acao_estrutural_recomendada": "densificar",
+            "indicios_de_reescrita": 0,
+            "indicios_de_divisao": 0,
+            "indicios_de_passo_intermedio": 0,
+            "necessita_revisao_humana_em": 18,
+            "diagnostico_textual": "A proposição P37 foi tocada por 25 fragmento(s). A pressão dominante vem da zona epistemologia. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+          },
+          "nova_formulacao_provisoria": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão."
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.blocos[4].proposicoes[7]",
+        "match": {
+          "id": "P37",
+          "numero": 37,
+          "proposicao": "A correção é reinscrição no real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P36"
+          ],
+          "prepara": [
+            "P38"
+          ],
+          "justificacao": {
+            "tese_minima": "A correção é reinscrição no real.",
+            "justificacao_interna_do_passo": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+            "tipo_de_necessidade": "necessidade_epistemico_pratica",
+            "estatuto_inferencial": "reinscricao_corretiva"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+            "o_que_falta_provar_ou_explicitar": "Fechar a diferença entre correção interna e correção real.",
+            "objecoes_tipicas_a_bloquear": [
+              "correção como mera coerentização"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$[9].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P37",
+          "numero": 37,
+          "proposicao_resumida": "A correção é reinscrição no real.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "A ideia de que perante o erro se deve mudar aponta para correção por reajuste ao real."
+        }
+      },
+      {
+        "path": "$[34].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P37",
+          "numero": 37,
+          "proposicao_resumida": "A correção é reinscrição no real.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "A imagem de apontar de novo ao real funciona como motivo corretivo de reinscrição."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Com base apenas nos materiais fornecidos, decide o fecho canónico do passo P37 no corredor P33_P37.
+
+Tens de produzir:
+1. formulação final estável do passo;
+2. justificação suficiente para ele não ficar em salto;
+3. ponte de entrada a partir do passo anterior;
+4. ponte de saída para o passo seguinte;
+5. razão pela qual o anterior não basta;
+6. razão pela qual este passo não pode ser suprimido;
+7. objeção letal mais forte a bloquear;
+8. bloqueio curto dessa objeção;
+9. decisão sobre necessidade de subpasso;
+10. lista final de objeções já bloqueadas;
+11. lista final de fragmentos efetivamente selecionados;
+12. nota final curta e operacional;
+13. pendências reais, se ainda existirem.
+
+REGRAS DE DECISÃO
+
+- Mantém a formulação atual apenas se ela já fechar o passo sem salto relevante.
+- Reformula quando a formulação existente é insuficiente, ambígua ou demasiado larga.
+- Densifica quando o núcleo do passo está certo mas a justificação ainda é curta.
+- Introduz subpasso apenas se o passo não fechar com simples reformulação e justificação.
+- Reabre apenas se houver insuficiência que não possa ser resolvida localmente com segurança.
+- A formulação final deve ser curta, afirmativa e dedutivamente precisa.
+- A justificação deve dizer o mínimo suficiente para o passo ficar inevitável na cadeia.
+- A ponte de entrada deve ligar explicitamente o passo ao anterior.
+- A ponte de saída deve ligar explicitamente o passo ao seguinte.
+- A objeção letal deve ser a mais destrutiva para este passo, não uma objeção lateral.
+- O bloqueio curto deve responder diretamente à objeção letal sem deriva.
+- Usa apenas ids de fragmentos efetivamente presentes nos materiais.
+- Se não houver pendências, devolve um array vazio.
+- Se precisa_de_subpasso=false, subpassos_aprovados_ids tem de ser [].
+- Se o passo ficar fechado, pendencias deve ser [] ou conter apenas notas não impeditivas.
+- Não escrevas introduções, comentários externos, markdown nem texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P33_P37",
+  "passo_id": "P37",
+  "numero_final": 37,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+  "P36"
+],
+  "prepara": [
+  "P38"
+],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+  "formulacao",
+  "mediacao"
+],
+  "decisao_editorial": "manter|densificar|reformular|introduzir_subpasso|reabrir",
+  "formulacao_v2_final": "string",
+  "justificacao_expandida_final": "string",
+  "ponte_entrada": "string",
+  "ponte_saida": "string",
+  "porque_o_anterior_nao_basta": "string",
+  "porque_nao_pode_ser_suprimido": "string",
+  "objecao_letal": "string",
+  "bloqueio_curto": "string",
+  "precisa_de_subpasso": true,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": ["string"],
+  "fragmentos_selecionados_finais": ["F..."],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estado_final_do_passo": "aberto|quase_fechado|fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "formulacao_v2_final": uma só formulação final, sem variantes.
+- "justificacao_expandida_final": texto suficientemente completo para fechar o passo localmente.
+- "objecoes_bloqueadas_final": inclui a objeção letal e outras objeções diretamente neutralizadas pela formulação e justificação finais.
+- "fragmentos_selecionados_finais": apenas ids realmente usados para sustentar a decisão.
+- "fontes_utilizadas": lista apenas os ficheiros efetivamente utilizados.
+- "nota_editorial_final": nota operacional curta sobre o estado do passo.
+- "pendencias": só inclui insuficiências reais que impeçam ou enfraqueçam o fecho.
+- Se "decisao_editorial"="introduzir_subpasso", então "precisa_de_subpasso" tem de ser true.
+- Se "decisao_editorial"="reabrir", então "reabrir_em_arbitragem_de_corredor" tem de ser true.
+- Se "estado_final_do_passo"="fechado", o conjunto do JSON deve mostrar fecho local claro e não deixar lacunas explícitas.

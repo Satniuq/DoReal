@@ -1,0 +1,48 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P29",
+  "subpasso_id": "P29_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Não se deteta aqui uma lacuna que exija mediação autónoma. Os materiais convergem em que a fragilidade de P29 foi resolvida por reformulação canónica do próprio passo: a formulação final já explicita a distinção necessária entre liberdade situada, livre-arbítrio absoluto e determinismo anulador, e a justificação mínima suficiente já faz a transição entre ação em campos reais de potencialidade, mediação reflexiva e orientação situada. Como a mediação indispensável foi absorvida no fecho do passo pai, um subpasso intermédio seria redundante e decorativo.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P29",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não entra, porque o passo P29 já fecha canonicamente sem mediação adicional."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "livre-arbítrio absoluto",
+  "bloqueio_curto": "Se a ação só ocorre em campos reais de possibilidade e sob mediação reflexiva, então a liberdade não pode ser poder absoluto sem condição, mas apenas orientação situada entre possibilidades efetivas.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A10_SEG_002",
+    "F0241_A06_SEG_001",
+    "F0094_A01_SEG_004",
+    "F0230_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "livre-arbítrio absoluto",
+    "determinismo anulador",
+    "liberdade abstrata sem inscrição no real",
+    "consciência como instância exterior ao real"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado por redundância local.",
+  "pendencias": []
+}

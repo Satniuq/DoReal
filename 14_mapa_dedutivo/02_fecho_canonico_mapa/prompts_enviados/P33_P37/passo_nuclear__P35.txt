@@ -1,0 +1,556 @@
+Fecha canonicamente um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o corredor e o passo abaixo indicados.
+Não faças análise global.
+Não reabras o projeto inteiro.
+Não proposes novas fases.
+Não inventes fragmentos, objeções, dependências ou fontes que não estejam suportados pelos materiais fornecidos.
+Escolhe a solução local mínima suficiente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P33_P37
+PASSO_ID=P35
+NUMERO_FINAL=35
+BLOCO_ID=BLOCO_V
+BLOCO_TITULO=Epistemologia derivada da ontologia
+DEPENDE_DE_JSON=[
+  "P34"
+]
+PREPARA_JSON=[
+  "P36"
+]
+ESTADO_INICIAL_DO_PASSO=aberto
+TIPOS_DE_FRAGILIDADE_JSON=[
+  "formulacao",
+  "justificacao"
+]
+PASSO_ANTERIOR_ID=P34
+PASSO_SEGUINTE_ID=P36
+
+MATERIAIS
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P35",
+  "numero_final": 35,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P34"
+  ],
+  "prepara": [
+    "P36"
+  ],
+  "proposicao_canonica_curta": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+  "proposicao_canonica_tecnica": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+  "tese_minima_canonica": "Se há verdade, há erro.",
+  "justificacao_minima_canonica": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+  "porque_este_passo_e_necessario": "Se há verdade, há erro.",
+  "porque_o_anterior_nao_basta": "P34 não basta porque ainda não introduz explicitamente este ganho: A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P36 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "infalibilismo vazio",
+  "tipo_de_necessidade": "epistemica",
+  "estado_de_fecho": "aberto",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "manter_provisoriamente",
+  "score_canonico_de_fecho": 3.4,
+  "breakdown_score_canonico": {
+    "dependencias": 0.8,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 0.9,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.0,
+    "fragilidade": 0.0,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "justificacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+      "score": 4.6
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+      "score": 4.0
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "Se há verdade, há erro.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [],
+  "objecoes_bloqueadas": [
+    "infalibilismo vazio"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+    "Défice principal do fecho manual: O défice principal é de validação manual do passo. Falta ainda: Está forte; apenas refino estilístico."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P35",
+  "numero_original": 35,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "numero_final": 35,
+  "proposicao_final": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+  "proposicao_original": "Se há verdade, há erro.",
+  "descricao_curta": "Sem distinção entre adequação e desadequação não há sequer crítica.",
+  "funcao_no_sistema": "No Epistemologia derivada da ontologia, esta proposição fixa que se há verdade, há erro.; Recebe apoio imediato de P34; e prepara P36.",
+  "depende_de": [
+    "P34"
+  ],
+  "prepara": [
+    "P36"
+  ],
+  "tese_minima": "Se há verdade, há erro.",
+  "justificacao_minima_suficiente": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+  "objecoes_bloqueadas": [
+    "infalibilismo vazio"
+  ],
+  "fragmentos_de_apoio_final": [],
+  "estatuto_no_mapa": "manter_provisoriamente",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "Se há verdade, há erro.",
+  "mediacao_necessaria": [],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "baixo",
+  "score_de_inevitabilidade": 0.307,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.68,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": false,
+  "score_promocao_mediacional": 0.0,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+    "Défice principal do fecho manual: O défice principal é de validação manual do passo. Falta ainda: Está forte; apenas refino estilístico."
+  ],
+  "estado_de_fecho_canonico": "aberto",
+  "score_canonico_de_fecho": 3.4,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "justificacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "P34 não basta porque ainda não introduz explicitamente este ganho: A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P36 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "infalibilismo vazio",
+  "tipo_de_necessidade": "epistemica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 5,
+    "fechados": 0,
+    "abertos": 3,
+    "quase_fechados": 2,
+    "subpassos": [
+      "P33",
+      "P36"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {
+      "id": "P35",
+      "score_canonico_de_fecho": 3.4,
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "justificacao"
+      ],
+      "subpasso_sugerido": null
+    },
+    "fragilidade_mediacional": {}
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 5,
+    "fechados": 0,
+    "quase_fechados": 2,
+    "abertos": 3,
+    "passos_com_subpasso": [
+      "P33",
+      "P36"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37"
+  ],
+  "proposicao_canonica": {
+    "id": "P35",
+    "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade."
+  },
+  "problema_ainda_aberto": {
+    "id": "P35",
+    "estado_de_fecho": "aberto",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "justificacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "infalibilismo vazio"
+  },
+  "passo": {
+    "id": "P35",
+    "numero_final": 35,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P34"
+    ],
+    "prepara": [
+      "P36"
+    ],
+    "proposicao_canonica_curta": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+    "proposicao_canonica_tecnica": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+    "tese_minima_canonica": "Se há verdade, há erro.",
+    "justificacao_minima_canonica": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+    "porque_este_passo_e_necessario": "Se há verdade, há erro.",
+    "porque_o_anterior_nao_basta": "P34 não basta porque ainda não introduz explicitamente este ganho: A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P36 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "infalibilismo vazio",
+    "tipo_de_necessidade": "epistemica",
+    "estado_de_fecho": "aberto",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "manter_provisoriamente",
+    "score_canonico_de_fecho": 3.4,
+    "breakdown_score_canonico": {
+      "dependencias": 0.8,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 0.9,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.0,
+      "fragilidade": 0.0,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "justificacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+        "score": 4.6
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+        "score": 4.0
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "Se há verdade, há erro.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [],
+    "objecoes_bloqueadas": [
+      "infalibilismo vazio"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+      "Défice principal do fecho manual: O défice principal é de validação manual do passo. Falta ainda: Está forte; apenas refino estilístico."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.revisao_por_proposicao[34]",
+        "match": {
+          "proposicao_id": "P35",
+          "numero": 35,
+          "bloco_id": "BLOCO_V",
+          "bloco_titulo": "Epistemologia derivada da ontologia",
+          "proposicao": "Se há verdade, há erro.",
+          "descricao_curta": "Sem distinção entre adequação e desadequação não há sequer crítica.",
+          "depende_de": [
+            "P34"
+          ],
+          "prepara": [
+            "P36"
+          ],
+          "estado_anterior_no_mapa": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null
+          },
+          "base_dedutiva_existente": {
+            "tese_minima": "Se há verdade, há erro.",
+            "justificacao_interna_do_passo": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+            "tipo_de_necessidade": "co_originariedade_epistemica",
+            "estatuto_inferencial": "contraste_necessario",
+            "formulacao_filosofico_academica": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+            "o_que_falta_provar_ou_explicitar": "Está forte; apenas refino estilístico.",
+            "objecoes_tipicas_a_bloquear": [
+              "infalibilismo vazio"
+            ],
+            "mediacoes_em_falta_no_mapa": []
+          },
+          "pressao_dos_fragmentos": {
+            "total_fragmentos_que_tocam": 0,
+            "total_origens_que_tocam": 0,
+            "zona_filosofica_dominante": null,
+            "efeito_principal_dominante": null,
+            "acao_recomendada_dominante": null,
+            "tipo_de_utilidade_dominante": null,
+            "prioridade_editorial_dominante": null,
+            "distribuicao_efeitos": {},
+            "distribuicao_acoes": {},
+            "distribuicao_tipos_relacao": {},
+            "distribuicao_graus_relevancia": {},
+            "distribuicao_tipos_utilidade": {},
+            "distribuicao_prioridades": {}
+          },
+          "materiais_de_reconstrucao": {
+            "fragmentos_relacionados": [],
+            "origens_relacionadas": [],
+            "resumos_de_fragmento": [],
+            "teses_principais_dos_fragmentos": [],
+            "justificacoes_da_associacao": [],
+            "o_que_os_fragmentos_acrescentam": [],
+            "justificacoes_novas_que_fornecem": [],
+            "objecoes_que_ajudam_a_bloquear": [],
+            "mediacoes_que_fornecem": [],
+            "conceitos_ou_distincoes_novas": [],
+            "propostas_de_nova_formulacao": [],
+            "propostas_de_novo_passo": [],
+            "entre_que_passos_deveria_entrar": [],
+            "observacoes_finais": []
+          },
+          "diagnostico_estrutural": {
+            "estabilidade": "nao_testado_pelos_fragmentos",
+            "necessidade_principal": "verificar_manual",
+            "acao_estrutural_recomendada": "manter_provisoriamente",
+            "indicios_de_reescrita": 0,
+            "indicios_de_divisao": 0,
+            "indicios_de_passo_intermedio": 0,
+            "necessita_revisao_humana_em": 0,
+            "diagnostico_textual": "A proposição P35 foi tocada por 0 fragmento(s). O estado estrutural estimado é 'nao_testado_pelos_fragmentos'."
+          },
+          "nova_formulacao_provisoria": null
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.blocos[4].proposicoes[5]",
+        "match": {
+          "id": "P35",
+          "numero": 35,
+          "proposicao": "Se há verdade, há erro.",
+          "descricao_curta": "Sem distinção entre adequação e desadequação não há sequer crítica.",
+          "depende_de": [
+            "P34"
+          ],
+          "prepara": [
+            "P36"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há verdade, há erro.",
+            "justificacao_interna_do_passo": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+            "tipo_de_necessidade": "co_originariedade_epistemica",
+            "estatuto_inferencial": "contraste_necessario"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+            "o_que_falta_provar_ou_explicitar": "Está forte; apenas refino estilístico.",
+            "objecoes_tipicas_a_bloquear": [
+              "infalibilismo vazio"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Com base apenas nos materiais fornecidos, decide o fecho canónico do passo P35 no corredor P33_P37.
+
+Tens de produzir:
+1. formulação final estável do passo;
+2. justificação suficiente para ele não ficar em salto;
+3. ponte de entrada a partir do passo anterior;
+4. ponte de saída para o passo seguinte;
+5. razão pela qual o anterior não basta;
+6. razão pela qual este passo não pode ser suprimido;
+7. objeção letal mais forte a bloquear;
+8. bloqueio curto dessa objeção;
+9. decisão sobre necessidade de subpasso;
+10. lista final de objeções já bloqueadas;
+11. lista final de fragmentos efetivamente selecionados;
+12. nota final curta e operacional;
+13. pendências reais, se ainda existirem.
+
+REGRAS DE DECISÃO
+
+- Mantém a formulação atual apenas se ela já fechar o passo sem salto relevante.
+- Reformula quando a formulação existente é insuficiente, ambígua ou demasiado larga.
+- Densifica quando o núcleo do passo está certo mas a justificação ainda é curta.
+- Introduz subpasso apenas se o passo não fechar com simples reformulação e justificação.
+- Reabre apenas se houver insuficiência que não possa ser resolvida localmente com segurança.
+- A formulação final deve ser curta, afirmativa e dedutivamente precisa.
+- A justificação deve dizer o mínimo suficiente para o passo ficar inevitável na cadeia.
+- A ponte de entrada deve ligar explicitamente o passo ao anterior.
+- A ponte de saída deve ligar explicitamente o passo ao seguinte.
+- A objeção letal deve ser a mais destrutiva para este passo, não uma objeção lateral.
+- O bloqueio curto deve responder diretamente à objeção letal sem deriva.
+- Usa apenas ids de fragmentos efetivamente presentes nos materiais.
+- Se não houver pendências, devolve um array vazio.
+- Se precisa_de_subpasso=false, subpassos_aprovados_ids tem de ser [].
+- Se o passo ficar fechado, pendencias deve ser [] ou conter apenas notas não impeditivas.
+- Não escrevas introduções, comentários externos, markdown nem texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P33_P37",
+  "passo_id": "P35",
+  "numero_final": 35,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+  "P34"
+],
+  "prepara": [
+  "P36"
+],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+  "formulacao",
+  "justificacao"
+],
+  "decisao_editorial": "manter|densificar|reformular|introduzir_subpasso|reabrir",
+  "formulacao_v2_final": "string",
+  "justificacao_expandida_final": "string",
+  "ponte_entrada": "string",
+  "ponte_saida": "string",
+  "porque_o_anterior_nao_basta": "string",
+  "porque_nao_pode_ser_suprimido": "string",
+  "objecao_letal": "string",
+  "bloqueio_curto": "string",
+  "precisa_de_subpasso": true,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": ["string"],
+  "fragmentos_selecionados_finais": ["F..."],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estado_final_do_passo": "aberto|quase_fechado|fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "formulacao_v2_final": uma só formulação final, sem variantes.
+- "justificacao_expandida_final": texto suficientemente completo para fechar o passo localmente.
+- "objecoes_bloqueadas_final": inclui a objeção letal e outras objeções diretamente neutralizadas pela formulação e justificação finais.
+- "fragmentos_selecionados_finais": apenas ids realmente usados para sustentar a decisão.
+- "fontes_utilizadas": lista apenas os ficheiros efetivamente utilizados.
+- "nota_editorial_final": nota operacional curta sobre o estado do passo.
+- "pendencias": só inclui insuficiências reais que impeçam ou enfraqueçam o fecho.
+- Se "decisao_editorial"="introduzir_subpasso", então "precisa_de_subpasso" tem de ser true.
+- Se "decisao_editorial"="reabrir", então "reabrir_em_arbitragem_de_corredor" tem de ser true.
+- Se "estado_final_do_passo"="fechado", o conjunto do JSON deve mostrar fecho local claro e não deixar lacunas explícitas.

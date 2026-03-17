@@ -1,0 +1,204 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P33",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:13:20+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P33",
+    "numero_final": 33,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P32"
+    ],
+    "prepara": [
+      "P34"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+    "justificacao_expandida_final": "Se o critério for puramente interno ao sistema que julga, ele só pode medir a consistência desse mesmo sistema, o acordo convencional dos seus termos ou o seu fechamento autorreferencial. Nessa condição, já não distingue entre coerência interna e adequação ao real. Por isso, para valer como critério de verdade ou validade, tem de estar submetido ao real e não apenas à sua própria articulação interna.",
+    "ponte_entrada": "A partir de P32, uma vez afirmada a prioridade do real, segue-se que o critério não pode ficar autónomo face a ele.",
+    "ponte_saida": "Estabelecido que o critério só vale se submetido ao real, P34 pode explicitar a consequência positiva dessa submissão para a determinação do conhecimento válido.",
+    "porque_o_anterior_nao_basta": "P32 ainda não explicita que, sem submissão ao real, o critério se reduz a coerência interna, convenção ou fechamento sistémico.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P32 para P34 perde a mediação epistemológica que mostra por que razão um critério interno é insuficiente e por que razão o critério tem de responder ao real.",
+    "objecao_letal": "coerentismo fechado",
+    "bloqueio_curto": "A coerência interna pode mostrar compatibilidade entre enunciados, mas não basta para mostrar adequação ao real; por isso não pode funcionar como critério último.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "coerentismo fechado",
+      "convencionalismo total",
+      "confusão entre utilidade imediata e verdade",
+      "autonomia normativa absoluta",
+      "verdade como mera forma discursiva",
+      "consensualismo como fundamento suficiente da lei",
+      "relativismo normativo"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A18_SEG_003",
+      "F0241_A15_SEG_002",
+      "F0241_A11_SEG_001",
+      "F0185_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/RELATORIO_FECHO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../impacto_fragmentos_no_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação; subpasso já não necessário.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P33",
+    "numero_final": 33,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P32"
+    ],
+    "prepara": [
+      "P34"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+    "justificacao_minima_suficiente": "Se o critério for puramente interno ao sistema que julga, ele só pode medir a consistência desse mesmo sistema, o acordo convencional dos seus termos ou o seu fechamento autorreferencial. Nessa condição, já não distingue entre coerência interna e adequação ao real. Por isso, para valer como critério de verdade ou validade, tem de estar submetido ao real e não apenas à sua própria articulação interna.",
+    "ponte_entrada": "A partir de P32, uma vez afirmada a prioridade do real, segue-se que o critério não pode ficar autónomo face a ele.",
+    "ponte_saida": "Estabelecido que o critério só vale se submetido ao real, P34 pode explicitar a consequência positiva dessa submissão para a determinação do conhecimento válido.",
+    "porque_o_anterior_nao_basta": "P32 ainda não explicita que, sem submissão ao real, o critério se reduz a coerência interna, convenção ou fechamento sistémico.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P32 para P34 perde a mediação epistemológica que mostra por que razão um critério interno é insuficiente e por que razão o critério tem de responder ao real.",
+    "objecao_letal_a_bloquear": "coerentismo fechado",
+    "bloqueio_curto_da_objecao": "A coerência interna pode mostrar compatibilidade entre enunciados, mas não basta para mostrar adequação ao real; por isso não pode funcionar como critério último.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A18_SEG_003",
+      "F0241_A15_SEG_002",
+      "F0241_A11_SEG_001",
+      "F0185_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "coerentismo fechado",
+      "convencionalismo total",
+      "confusão entre utilidade imediata e verdade",
+      "autonomia normativa absoluta",
+      "verdade como mera forma discursiva",
+      "consensualismo como fundamento suficiente da lei",
+      "relativismo normativo"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P33 no corredor P33_P37. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: coerentismo fechado. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação; subpasso já não necessário."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0b87df40b6f2e8390069b999a7ad4c81958abdeaff05d3f6c2",
+      "object": "response",
+      "created_at": 1773771175,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771187,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0b87df40b6f2e8390069b999a86c248195bcb905cd9930ce86",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P33_P37\",\n  \"passo_id\": \"P33\",\n  \"numero_final\": 33,\n  \"bloco_id\": \"BLOCO_V\",\n  \"bloco_titulo\": \"Epistemologia derivada da ontologia\",\n  \"depende_de\": [\n    \"P32\"\n  ],\n  \"prepara\": [\n    \"P34\"\n  ],\n  \"estado_inicial_do_passo\": \"quase_fechado\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.\",\n  \"justificacao_expandida_final\": \"Se o critério for puramente interno ao sistema que julga, ele só pode medir a consistência desse mesmo sistema, o acordo convencional dos seus termos ou o seu fechamento autorreferencial. Nessa condição, já não distingue entre coerência interna e adequação ao real. Por isso, para valer como critério de verdade ou validade, tem de estar submetido ao real e não apenas à sua própria articulação interna.\",\n  \"ponte_entrada\": \"A partir de P32, uma vez afirmada a prioridade do real, segue-se que o critério não pode ficar autónomo face a ele.\",\n  \"ponte_saida\": \"Estabelecido que o critério só vale se submetido ao real, P34 pode explicitar a consequência positiva dessa submissão para a determinação do conhecimento válido.\",\n  \"porque_o_anterior_nao_basta\": \"P32 ainda não explicita que, sem submissão ao real, o critério se reduz a coerência interna, convenção ou fechamento sistémico.\",\n  \"porque_nao_pode_ser_suprimido\": \"Sem este passo, a passagem de P32 para P34 perde a mediação epistemológica que mostra por que razão um critério interno é insuficiente e por que razão o critério tem de responder ao real.\",\n  \"objecao_letal\": \"coerentismo fechado\",\n  \"bloqueio_curto\": \"A coerência interna pode mostrar compatibilidade entre enunciados, mas não basta para mostrar adequação ao real; por isso não pode funcionar como critério último.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"coerentismo fechado\",\n    \"convencionalismo total\",\n    \"confusão entre utilidade imediata e verdade\",\n    \"autonomia normativa absoluta\",\n    \"verdade como mera forma discursiva\",\n    \"consensualismo como fundamento suficiente da lei\",\n    \"relativismo normativo\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A18_SEG_003\",\n    \"F0241_A15_SEG_002\",\n    \"F0241_A11_SEG_001\",\n    \"F0185_SEG_001\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/RELATORIO_FECHO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\",\n    \"../impacto_fragmentos_no_mapa.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação da mediação; subpasso já não necessário.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 6864,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 851,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7715
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P33.raw.txt"
+}

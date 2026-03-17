@@ -1,0 +1,279 @@
+{
+  "stage": "arbitragem_corredor",
+  "target_id": "P42_P48",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:20:56+00:00",
+  "raw_json": {
+    "tipo_registo": "arbitragem_corredor",
+    "corredor": "P42_P48",
+    "sequencia_minima_do_corredor": [
+      "P42",
+      "P43",
+      "P47",
+      "P44",
+      "P48",
+      "P45",
+      "P46"
+    ],
+    "decisoes_por_passo_referenciadas": [
+      "P42",
+      "P43",
+      "P47",
+      "P44",
+      "P48",
+      "P45",
+      "P46"
+    ],
+    "decisoes_por_subpasso_referenciadas": [
+      "P42_SP01",
+      "P43_SP01",
+      "P47_SP01",
+      "P44_SP01",
+      "P48_SP01",
+      "P45_SP01",
+      "P46_SP01"
+    ],
+    "passos_fechados": [
+      "P42",
+      "P43",
+      "P47",
+      "P44",
+      "P48",
+      "P45",
+      "P46"
+    ],
+    "passos_quase_fechados": [],
+    "passos_a_reabrir": [],
+    "subpassos_aprovados": [],
+    "formulacoes_fixadas": [
+      {
+        "passo_id": "P42",
+        "formulacao_canonica_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real."
+      },
+      {
+        "passo_id": "P43",
+        "formulacao_canonica_final": "A orientação prática exige tradução operativa em critérios e vetores de ação situados."
+      },
+      {
+        "passo_id": "P47",
+        "formulacao_canonica_final": "O dever-ser exprime a exigência prática derivada da subordinação do agir à verdade, à correção, à direção e ao dano real."
+      },
+      {
+        "passo_id": "P44",
+        "formulacao_canonica_final": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano."
+      },
+      {
+        "passo_id": "P48",
+        "formulacao_canonica_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis."
+      },
+      {
+        "passo_id": "P45",
+        "formulacao_canonica_final": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação."
+      },
+      {
+        "passo_id": "P46",
+        "formulacao_canonica_final": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada."
+      }
+    ],
+    "sequencia_minima_ficou_fechada": true,
+    "estado_final_do_corredor": "fechado",
+    "criterio_de_fecho_aplicado": "O corredor foi considerado fechado porque todos os passos da sequência mínima estão localmente marcados como fechados nas decisões editoriais finais; as pontes sucessivas P42→P43, P43→P44, P47→P48, P44→P45 e P45→P46 ficaram explicitadas sem salto impeditivo no interior do corredor; as objeções letais relevantes de cada passo foram bloqueadas nas formulações e justificações finais; e os subpassos antes sugeridos foram legitimamente rejeitados por absorção intra-passo da mediação necessária, sem restar lacuna dedutiva local impeditiva.",
+    "justificacao_da_arbitragem": "Na sequência mínima P42, P43, P47, P44, P48, P45, P46, todos os passos indispensáveis receberam fecho final estável. P42 fecha a passagem da não-indiferença da ação e da assimetria do dano para uma direção imanente sem teleologia externa. P43 traduz essa direção em critérios e vetores situados, bloqueando a abstração. P47 fecha a derivação operativa do dever-ser a partir da subordinação do agir ao real, neutralizando a objeção de falácia naturalista simplista sem exigir subpasso autónomo. P44 fixa o bem como adequação ao real sob critério, direção, verdade e não-dano. P48 subordina a exigência prática às possibilidades reais, bloqueando o dever impossível. P45 determina o mal como desadequação, degeneração ou dano, sem o reificar. P46 conclui que a normatividade não constitui ordem separada, mas deriva da estrutura do real e da ação situada. As rejeições de subpassos são coerentes com as decisões por passo, porque a mediação necessária foi absorvida por densificação ou reformulação suficiente. Não resta, neste corredor, salto dedutivo impeditivo entre passos consecutivos tal como foram fixados localmente.",
+    "pendencias_remanescentes": [],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "observacoes_editoriais": [
+      "Não reabrir nenhum passo do corredor.",
+      "Não inserir subpassos no mapa para este corredor.",
+      "Fixar as formulações finais tal como constam nas decisões por passo."
+    ]
+  },
+  "normalized_json": {
+    "tipo_registo": "arbitragem_corredor",
+    "corredor": "P42_P48",
+    "sequencia_minima_do_corredor": [
+      "P42",
+      "P43",
+      "P47",
+      "P44",
+      "P48",
+      "P45",
+      "P46"
+    ],
+    "decisoes_por_passo_referenciadas": [
+      "P42",
+      "P43",
+      "P47",
+      "P44",
+      "P48",
+      "P45",
+      "P46"
+    ],
+    "decisoes_por_subpasso_referenciadas": [
+      "P42_SP01",
+      "P43_SP01",
+      "P47_SP01",
+      "P44_SP01",
+      "P48_SP01",
+      "P45_SP01",
+      "P46_SP01"
+    ],
+    "passos_fechados": [
+      "P42",
+      "P43",
+      "P47",
+      "P44",
+      "P48",
+      "P45",
+      "P46"
+    ],
+    "passos_quase_fechados": [],
+    "passos_a_reabrir": [],
+    "subpassos_aprovados": [],
+    "formulacoes_fixadas": [
+      {
+        "passo_id": "P42",
+        "formulacao_canonica_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real."
+      },
+      {
+        "passo_id": "P43",
+        "formulacao_canonica_final": "A orientação prática exige tradução operativa em critérios e vetores de ação situados."
+      },
+      {
+        "passo_id": "P47",
+        "formulacao_canonica_final": "O dever-ser exprime a exigência prática derivada da subordinação do agir à verdade, à correção, à direção e ao dano real."
+      },
+      {
+        "passo_id": "P44",
+        "formulacao_canonica_final": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano."
+      },
+      {
+        "passo_id": "P48",
+        "formulacao_canonica_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis."
+      },
+      {
+        "passo_id": "P45",
+        "formulacao_canonica_final": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação."
+      },
+      {
+        "passo_id": "P46",
+        "formulacao_canonica_final": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada."
+      }
+    ],
+    "sequencia_minima_ficou_fechada": true,
+    "estado_final_do_corredor": "fechado",
+    "criterio_de_fecho_aplicado": "O corredor foi considerado fechado porque todos os passos da sequência mínima estão localmente marcados como fechados nas decisões editoriais finais; as pontes sucessivas P42→P43, P43→P44, P47→P48, P44→P45 e P45→P46 ficaram explicitadas sem salto impeditivo no interior do corredor; as objeções letais relevantes de cada passo foram bloqueadas nas formulações e justificações finais; e os subpassos antes sugeridos foram legitimamente rejeitados por absorção intra-passo da mediação necessária, sem restar lacuna dedutiva local impeditiva.",
+    "justificacao_da_arbitragem": "Na sequência mínima P42, P43, P47, P44, P48, P45, P46, todos os passos indispensáveis receberam fecho final estável. P42 fecha a passagem da não-indiferença da ação e da assimetria do dano para uma direção imanente sem teleologia externa. P43 traduz essa direção em critérios e vetores situados, bloqueando a abstração. P47 fecha a derivação operativa do dever-ser a partir da subordinação do agir ao real, neutralizando a objeção de falácia naturalista simplista sem exigir subpasso autónomo. P44 fixa o bem como adequação ao real sob critério, direção, verdade e não-dano. P48 subordina a exigência prática às possibilidades reais, bloqueando o dever impossível. P45 determina o mal como desadequação, degeneração ou dano, sem o reificar. P46 conclui que a normatividade não constitui ordem separada, mas deriva da estrutura do real e da ação situada. As rejeições de subpassos são coerentes com as decisões por passo, porque a mediação necessária foi absorvida por densificação ou reformulação suficiente. Não resta, neste corredor, salto dedutivo impeditivo entre passos consecutivos tal como foram fixados localmente.",
+    "pendencias_remanescentes": [],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "observacoes_editoriais": [
+      "Não reabrir nenhum passo do corredor.",
+      "Não inserir subpassos no mapa para este corredor.",
+      "Fixar as formulações finais tal como constam nas decisões por passo."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0aa3227878cc29910069b99b75f00c81999f8bb16d0f3c95e7",
+      "object": "response",
+      "created_at": 1773771637,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771655,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0aa3227878cc29910069b99b76f6848199b8084573145a66c8",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"arbitragem_corredor\",\n  \"corredor\": \"P42_P48\",\n  \"sequencia_minima_do_corredor\": [\n    \"P42\",\n    \"P43\",\n    \"P47\",\n    \"P44\",\n    \"P48\",\n    \"P45\",\n    \"P46\"\n  ],\n  \"decisoes_por_passo_referenciadas\": [\n    \"P42\",\n    \"P43\",\n    \"P47\",\n    \"P44\",\n    \"P48\",\n    \"P45\",\n    \"P46\"\n  ],\n  \"decisoes_por_subpasso_referenciadas\": [\n    \"P42_SP01\",\n    \"P43_SP01\",\n    \"P47_SP01\",\n    \"P44_SP01\",\n    \"P48_SP01\",\n    \"P45_SP01\",\n    \"P46_SP01\"\n  ],\n  \"passos_fechados\": [\n    \"P42\",\n    \"P43\",\n    \"P47\",\n    \"P44\",\n    \"P48\",\n    \"P45\",\n    \"P46\"\n  ],\n  \"passos_quase_fechados\": [],\n  \"passos_a_reabrir\": [],\n  \"subpassos_aprovados\": [],\n  \"formulacoes_fixadas\": [\n    {\n      \"passo_id\": \"P42\",\n      \"formulacao_canonica_final\": \"A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.\"\n    },\n    {\n      \"passo_id\": \"P43\",\n      \"formulacao_canonica_final\": \"A orientação prática exige tradução operativa em critérios e vetores de ação situados.\"\n    },\n    {\n      \"passo_id\": \"P47\",\n      \"formulacao_canonica_final\": \"O dever-ser exprime a exigência prática derivada da subordinação do agir à verdade, à correção, à direção e ao dano real.\"\n    },\n    {\n      \"passo_id\": \"P44\",\n      \"formulacao_canonica_final\": \"O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.\"\n    },\n    {\n      \"passo_id\": \"P48\",\n      \"formulacao_canonica_final\": \"A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.\"\n    },\n    {\n      \"passo_id\": \"P45\",\n      \"formulacao_canonica_final\": \"O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.\"\n    },\n    {\n      \"passo_id\": \"P46\",\n      \"formulacao_canonica_final\": \"A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.\"\n    }\n  ],\n  \"sequencia_minima_ficou_fechada\": true,\n  \"estado_final_do_corredor\": \"fechado\",\n  \"criterio_de_fecho_aplicado\": \"O corredor foi considerado fechado porque todos os passos da sequência mínima estão localmente marcados como fechados nas decisões editoriais finais; as pontes sucessivas P42→P43, P43→P44, P47→P48, P44→P45 e P45→P46 ficaram explicitadas sem salto impeditivo no interior do corredor; as objeções letais relevantes de cada passo foram bloqueadas nas formulações e justificações finais; e os subpassos antes sugeridos foram legitimamente rejeitados por absorção intra-passo da mediação necessária, sem restar lacuna dedutiva local impeditiva.\",\n  \"justificacao_da_arbitragem\": \"Na sequência mínima P42, P43, P47, P44, P48, P45, P46, todos os passos indispensáveis receberam fecho final estável. P42 fecha a passagem da não-indiferença da ação e da assimetria do dano para uma direção imanente sem teleologia externa. P43 traduz essa direção em critérios e vetores situados, bloqueando a abstração. P47 fecha a derivação operativa do dever-ser a partir da subordinação do agir ao real, neutralizando a objeção de falácia naturalista simplista sem exigir subpasso autónomo. P44 fixa o bem como adequação ao real sob critério, direção, verdade e não-dano. P48 subordina a exigência prática às possibilidades reais, bloqueando o dever impossível. P45 determina o mal como desadequação, degeneração ou dano, sem o reificar. P46 conclui que a normatividade não constitui ordem separada, mas deriva da estrutura do real e da ação situada. As rejeições de subpassos são coerentes com as decisões por passo, porque a mediação necessária foi absorvida por densificação ou reformulação suficiente. Não resta, neste corredor, salto dedutivo impeditivo entre passos consecutivos tal como foram fixados localmente.\",\n  \"pendencias_remanescentes\": [],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json\",\n    \"../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json\",\n    \"../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json\",\n    \"../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json\",\n    \"../../13_Meta_Indice/indice/indice_por_percurso.json\",\n    \"../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json\"\n  ],\n  \"observacoes_editoriais\": [\n    \"Não reabrir nenhum passo do corredor.\",\n    \"Não inserir subpassos no mapa para este corredor.\",\n    \"Fixar as formulações finais tal como constam nas decisões por passo.\"\n  ]\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 33998,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1386,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 35384
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "arbitragem_corredor__P42_P48.raw.txt"
+}

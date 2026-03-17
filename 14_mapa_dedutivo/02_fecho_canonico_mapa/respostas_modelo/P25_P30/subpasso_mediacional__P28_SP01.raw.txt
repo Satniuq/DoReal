@@ -1,0 +1,49 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P28",
+  "subpasso_id": "P28_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Apesar de os materiais pré-canónicos e de inevitabilidade assinalarem inicialmente uma fragilidade mediacional e sugerirem explicitar a passagem entre representação linguística e consciência como processo real, a decisão canónica final já fecha essa mediação no próprio P28. A formulação final, a justificação mínima suficiente, a ponte de entrada e o bloqueio curto tornam explícito que, se a representação e a simbolização pertencem ao modo humano de estar no real, então a consciência que nelas opera não pode ser exterior ao real. Assim, a lacuna é resolvida por densificação interna do passo, sem necessidade de um subpasso autónomo. Introduzir P28_SP01 apenas repetiria o conteúdo inferencial já incorporado no passo pai.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P28",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não entra, porque a mediação necessária já foi absorvida pela reformulação canónica do próprio P28."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "A justificação canónica de P28 já explicita suficientemente a inferência: se o humano é localizado e se apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real, localizado e mediado, não como instância exterior.",
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "dualismo extramundano",
+  "bloqueio_curto": "Se a consciência opera por apreensão, representação e simbolização no real, ela não pode ser uma instância exterior ao real; tem de ser processo seu, localizado e mediado.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003",
+    "F0241_A23_SEG_001",
+    "F0167_SEG_001",
+    "F0113_A01_SEG_001",
+    "F0107_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "dualismo extramundano",
+    "consciência como instância soberana",
+    "consciência como exterior ao real",
+    "consciência como instância desencarnada"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fecho obtido por densificação interna de P28.",
+  "pendencias": []
+}

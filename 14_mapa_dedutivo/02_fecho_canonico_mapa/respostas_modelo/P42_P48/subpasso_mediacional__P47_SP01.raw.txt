@@ -1,0 +1,57 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P47",
+  "subpasso_id": "P47_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Embora os materiais pré-canónicos sinalizem fragilidade mediacional e sugiram um subpasso, a decisão canónica já fecha o passo por reformulação suficiente. A formulação final de P47 incorpora explicitamente a mediação exigida: o dever-ser não é inferido de um facto bruto, mas apresentado como exigência prática interna à subordinação do agir ao real, via verdade, correção, direção e dano real. Assim, a objeção letal da falácia naturalista simplista fica bloqueada no próprio passo, sem necessidade de uma unidade intermédia autónoma. Introduzir um subpasso aqui apenas duplicaria a mediação já absorvida na formulação e justificação finais de P47.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P47",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não se justifica inserção, porque a mediação necessária foi incorporada canonicamente no próprio P47."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "A reformulação final de P47 já explicita a passagem de subordinação operativa ao real para exigência prática, removendo o salto inferencial sem precisar de subpasso autónomo.",
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "falácia naturalista simplista",
+  "bloqueio_curto": "Não se deduz um dever de um facto bruto; a normatividade é explicitada como exigência interna das condições reais do agir.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A22_SEG_002",
+    "F0241_A12_SEG_001",
+    "F0232_SEG_001",
+    "F0205_SEG_001",
+    "F0112_SEG_002",
+    "F0111_A01_SEG_004"
+  ],
+  "objecoes_bloqueadas_final": [
+    "falácia naturalista simplista",
+    "autonomia normativa absoluta",
+    "dever impossível",
+    "moralismo extrínseco",
+    "correção prática desligada da descrição do real",
+    "valoracao arbitraria",
+    "moralismo desligado do real",
+    "indiferentismo normativo",
+    "correção apenas exterior",
+    "deslocação da responsabilidade para o exterior",
+    "relativismo normativo",
+    "consensualismo como fundamento suficiente da lei"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../impacto_fragmentos_no_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado por redundância mediacional local.",
+  "pendencias": []
+}

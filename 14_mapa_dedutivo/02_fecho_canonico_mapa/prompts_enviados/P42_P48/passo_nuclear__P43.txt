@@ -1,0 +1,901 @@
+Fecha canonicamente um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o corredor e o passo abaixo indicados.
+Não faças análise global.
+Não reabras o projeto inteiro.
+Não proposes novas fases.
+Não inventes fragmentos, objeções, dependências ou fontes que não estejam suportados pelos materiais fornecidos.
+Escolhe a solução local mínima suficiente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P42_P48
+PASSO_ID=P43
+NUMERO_FINAL=43
+BLOCO_ID=BLOCO_VI
+BLOCO_TITULO=Passagem da epistemologia à ética ontológica
+DEPENDE_DE_JSON=[
+  "P32",
+  "P33",
+  "P34",
+  "P35",
+  "P36",
+  "P37",
+  "P42"
+]
+PREPARA_JSON=[
+  "P44"
+]
+ESTADO_INICIAL_DO_PASSO=quase_fechado
+TIPOS_DE_FRAGILIDADE_JSON=[
+  "formulacao",
+  "mediacao"
+]
+PASSO_ANTERIOR_ID=P42
+PASSO_SEGUINTE_ID=P47
+
+MATERIAIS
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P43",
+  "numero_final": 43,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+    "P32",
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37",
+    "P42"
+  ],
+  "prepara": [
+    "P44"
+  ],
+  "proposicao_canonica_curta": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+  "proposicao_canonica_tecnica": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+  "tese_minima_canonica": "A direção exige fixação operativa de vetores de ação.",
+  "justificacao_minima_canonica": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+  "porque_este_passo_e_necessario": "A direção exige fixação operativa de vetores de ação.",
+  "porque_o_anterior_nao_basta": "Os passos P32, P33, P34, P35, P36, P37, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P44 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "direção meramente abstrata",
+  "tipo_de_necessidade": "etica",
+  "estado_de_fecho": "quase_fechado",
+  "classificacao_funcional": "nucleo",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 6.767,
+  "breakdown_score_canonico": {
+    "dependencias": 2.4,
+    "prepara": 0.7,
+    "classificacao": 3.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.16744,
+    "fragilidade": -0.3,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "A direção exige fixação operativa de vetores de ação.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0106_SEG_002",
+    "F0055_SEG_001",
+    "F0163_SEG_001",
+    "F0098_A03_SEG_001",
+    "F0098_A02_SEG_002",
+    "F0073_SEG_002",
+    "F0120_SEG_001",
+    "F0078_A01_SEG_003",
+    "F0063_A02_SEG_001",
+    "F0037_SEG_001",
+    "F0094_A01_SEG_002",
+    "F0079_A02_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "direção meramente abstrata",
+    "liberdade abstrata sem inscrição no real",
+    "verdade idealista desligada de campo e círculo",
+    "livre-arbítrio absoluto",
+    "determinismo anulador",
+    "reducionismo físico de escala",
+    "mecanicismo que dissolve a consciência",
+    "dever-ser como pura construção teórica explícita",
+    "formalismo moral abstrato",
+    "dedutivismo prático desligado da situação",
+    "coerência interna tomada como suficiente para correção",
+    "correção como mera coerentização"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Ligar melhor direção, critério, correção e campo."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P43",
+  "numero_original": 43,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "numero_final": 43,
+  "proposicao_final": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+  "proposicao_original": "A direção exige fixação operativa de vetores de ação.",
+  "descricao_curta": null,
+  "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que a direção exige fixação operativa de vetores de ação.; Recebe apoio imediato de P42, P32, P33, P34, P35, P36, P37; e prepara P44.",
+  "depende_de": [
+    "P32",
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37",
+    "P42"
+  ],
+  "prepara": [
+    "P44"
+  ],
+  "tese_minima": "A direção exige fixação operativa de vetores de ação.",
+  "justificacao_minima_suficiente": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+  "objecoes_bloqueadas": [
+    "direção meramente abstrata",
+    "liberdade abstrata sem inscrição no real",
+    "verdade idealista desligada de campo e círculo",
+    "livre-arbítrio absoluto",
+    "determinismo anulador",
+    "reducionismo físico de escala",
+    "mecanicismo que dissolve a consciência",
+    "dever-ser como pura construção teórica explícita",
+    "formalismo moral abstrato",
+    "dedutivismo prático desligado da situação",
+    "coerência interna tomada como suficiente para correção",
+    "correção como mera coerentização"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0106_SEG_002",
+    "F0055_SEG_001",
+    "F0163_SEG_001",
+    "F0098_A03_SEG_001",
+    "F0098_A02_SEG_002",
+    "F0073_SEG_002",
+    "F0120_SEG_001",
+    "F0078_A01_SEG_003",
+    "F0063_A02_SEG_001",
+    "F0037_SEG_001",
+    "F0094_A01_SEG_002",
+    "F0079_A02_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "nucleo",
+  "nucleo": "A direção exige fixação operativa de vetores de ação.",
+  "mediacao_necessaria": [
+    "Explicitar a ponte dedutiva entre P42, P32, P33, P34, P35, P36, P37 e P43.",
+    "Explicitar a passagem de P43 para P44.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "alto",
+  "score_de_inevitabilidade": 0.68,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.818,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": false,
+  "score_promocao_mediacional": 2.093,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Ligar melhor direção, critério, correção e campo."
+  ],
+  "estado_de_fecho_canonico": "quase_fechado",
+  "score_canonico_de_fecho": 6.767,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "Os passos P32, P33, P34, P35, P36, P37, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P44 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "direção meramente abstrata",
+  "tipo_de_necessidade": "etica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 7,
+    "fechados": 0,
+    "abertos": 2,
+    "quase_fechados": 5,
+    "subpassos": [
+      "P42",
+      "P47"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {}
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 7,
+    "fechados": 0,
+    "quase_fechados": 5,
+    "abertos": 2,
+    "passos_com_subpasso": [
+      "P42",
+      "P47"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P42",
+    "P43",
+    "P47",
+    "P44",
+    "P48",
+    "P45",
+    "P46"
+  ],
+  "proposicao_canonica": {
+    "id": "P43",
+    "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados."
+  },
+  "problema_ainda_aberto": {
+    "id": "P43",
+    "estado_de_fecho": "quase_fechado",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "direção meramente abstrata"
+  },
+  "passo": {
+    "id": "P43",
+    "numero_final": 43,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P32",
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37",
+      "P42"
+    ],
+    "prepara": [
+      "P44"
+    ],
+    "proposicao_canonica_curta": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "proposicao_canonica_tecnica": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "tese_minima_canonica": "A direção exige fixação operativa de vetores de ação.",
+    "justificacao_minima_canonica": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+    "porque_este_passo_e_necessario": "A direção exige fixação operativa de vetores de ação.",
+    "porque_o_anterior_nao_basta": "Os passos P32, P33, P34, P35, P36, P37, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P44 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "direção meramente abstrata",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "nucleo",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 6.767,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 3.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.16744,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "A direção exige fixação operativa de vetores de ação.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0106_SEG_002",
+      "F0055_SEG_001",
+      "F0163_SEG_001",
+      "F0098_A03_SEG_001",
+      "F0098_A02_SEG_002",
+      "F0073_SEG_002",
+      "F0120_SEG_001",
+      "F0078_A01_SEG_003",
+      "F0063_A02_SEG_001",
+      "F0037_SEG_001",
+      "F0094_A01_SEG_002",
+      "F0079_A02_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "direção meramente abstrata",
+      "liberdade abstrata sem inscrição no real",
+      "verdade idealista desligada de campo e círculo",
+      "livre-arbítrio absoluto",
+      "determinismo anulador",
+      "reducionismo físico de escala",
+      "mecanicismo que dissolve a consciência",
+      "dever-ser como pura construção teórica explícita",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "coerência interna tomada como suficiente para correção",
+      "correção como mera coerentização"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Ligar melhor direção, critério, correção e campo."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.revisao_por_proposicao[42]",
+        "match": {
+          "proposicao_id": "P43",
+          "numero": 43,
+          "bloco_id": "BLOCO_VI",
+          "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+          "proposicao": "A direção exige fixação operativa de vetores de ação.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P42",
+            "P32",
+            "P33",
+            "P34",
+            "P35",
+            "P36",
+            "P37"
+          ],
+          "prepara": [
+            "P44"
+          ],
+          "estado_anterior_no_mapa": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null
+          },
+          "base_dedutiva_existente": {
+            "tese_minima": "A direção exige fixação operativa de vetores de ação.",
+            "justificacao_interna_do_passo": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "traducao_operativa",
+            "formulacao_filosofico_academica": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+            "o_que_falta_provar_ou_explicitar": "Ligar melhor direção, critério, correção e campo.",
+            "objecoes_tipicas_a_bloquear": [
+              "direção meramente abstrata"
+            ],
+            "mediacoes_em_falta_no_mapa": []
+          },
+          "pressao_dos_fragmentos": {
+            "total_fragmentos_que_tocam": 12,
+            "total_origens_que_tocam": 12,
+            "zona_filosofica_dominante": "etica_ontologica",
+            "efeito_principal_dominante": "explicita",
+            "acao_recomendada_dominante": "densificar",
+            "tipo_de_utilidade_dominante": "justificativa",
+            "prioridade_editorial_dominante": "media",
+            "distribuicao_efeitos": {
+              "explicita": 11,
+              "medeia": 1
+            },
+            "distribuicao_acoes": {
+              "densificar": 12
+            },
+            "distribuicao_tipos_relacao": {
+              "apoia_justificacao": 7,
+              "toca_indiretamente": 4,
+              "faz_ponte_entre": 1
+            },
+            "distribuicao_graus_relevancia": {
+              "baixo": 3,
+              "medio": 8,
+              "alto": 1
+            },
+            "distribuicao_tipos_utilidade": {
+              "redacional": 4,
+              "justificativa": 7,
+              "mediacional": 1
+            },
+            "distribuicao_prioridades": {
+              "media": 10,
+              "alta": 2
+            }
+          },
+          "materiais_de_reconstrucao": {
+            "fragmentos_relacionados": [
+              "F0037_SEG_001",
+              "F0055_SEG_001",
+              "F0063_A02_SEG_001",
+              "F0073_SEG_002",
+              "F0078_A01_SEG_003",
+              "F0079_A02_SEG_001",
+              "F0094_A01_SEG_002",
+              "F0098_A02_SEG_002",
+              "F0098_A03_SEG_001",
+              "F0106_SEG_002",
+              "F0120_SEG_001",
+              "F0163_SEG_001"
+            ],
+            "origens_relacionadas": [
+              "F0037",
+              "F0055",
+              "F0063_A02",
+              "F0073",
+              "F0078_A01",
+              "F0079_A02",
+              "F0094_A01",
+              "F0098_A02",
+              "F0098_A03",
+              "F0106",
+              "F0120",
+              "F0163"
+            ],
+            "resumos_de_fragmento": [
+              "Reinscreve a verdade em círculos e sistemas situados e tenta articular liberdade humana com necessidades de continuidade, transmissão e existência.",
+              "Defende a liberdade situada contra o falso dilema determinismo/aleatoriedade, reinscrevendo deliberação, representação reflexiva e erro categorial de escala.",
+              "Caracteriza o direito como estabilização escrita e durável de orientações práticas verdadeiras, nascidas da vida comum e não de análise ontológica explícita.",
+              "Critica a dedução moral por lógica interna abstrata e reinscreve a decisão correta na liberdade situada, sob limites reais, campo de potencialidades e possibilidade estrutural de erro.",
+              "Liga verdade prática sobre capacidades e potencialidades à auto-orientação reflexiva e à correção de vida, com nota sobre transmissão partilhável do saber.",
+              "Associa estruturas simbólico-morais transmitidas à orientação prática no real e sugere que a figura de Deus condensava essa função orientadora.",
+              "Aplica a ontologia da liberdade situada e da mediação linguística ao caso político da liberdade de expressão, tratando-a como condição de abertura de possibilidades do ser reflexivo.",
+              "Aplica ao direito a tese de que o dever-ser legislativo deve depender do conhecimento do que é e do que pode ser atualizado, criticando a substituição desse critério por popularidade.",
+              "Subordina o dever-ser social e jurídico ao conhecimento verdadeiro do que é e trata lei/mediação como instâncias valorativas intermédias entre eu e real.",
+              "Liga descrição adequada do real à orientação prática: compreender relações reais permite discernir melhor modo de ser, agir, bom e mau.",
+              "Situa a adequação prática no interior de relações concretas, locais e dinâmicas, dependente do posicionamento do eu.",
+              "Defende que a filosofia verdadeira conhece o ser e o poder-ser e, por isso, pode orientar o dever-ser, incorporando essa orientação em práticas e símbolos."
+            ],
+            "teses_principais_dos_fragmentos": [
+              "A verdade e a normatividade devem ser pensadas de modo situado, articulando liberdade com círculos ontológicos de continuidade e transmissão.",
+              "A liberdade humana é situada num campo real de possibilidades próprio do ser humano e a sua negação por redução ao nível físico imediato assenta em erro categorial.",
+              "As soluções jurídicas são cristalizações institucionais escritas de descrições práticas verdadeiras sobre o que deve ou não ser feito, oriundas da convivência vivida.",
+              "A correção prática não se deduz suficientemente de categorias abstratas; depende da orientação situada do agente num campo real de potencialidades sob limites reais.",
+              "A orientação prática adequada exige verdades partilháveis sobre capacidades e potencialidades reais, bem como correção reflexiva do próprio caminho.",
+              "Estruturas simbólico-morais herdadas funcionam como mediações orientadoras para navegar no real.",
+              "Restringir a liberdade de expressão fecha possibilidades reais do ser reflexivo; por isso tal restrição é praticamente e ontologicamente inadequada.",
+              "O propor normativo legítimo exige conhecimento ontológico do real e do poder-ser, sobretudo no discurso jurídico.",
+              "O dever-ser só é defensável como mediação valorativa derivada do que é, não como ordem autónoma.",
+              "O discernimento ético deriva da compreensão descritiva das relações reais em que se está inscrito, não de impressão externa.",
+              "A adequação do agir não é abstrata; depende da relação concreta, da posição local do eu e da dinâmica relacional em curso.",
+              "O dever-ser legítimo deve derivar do conhecimento do que é e do que pode ser, sendo depois mediado por práticas e símbolos orientadores."
+            ],
+            "justificacoes_da_associacao": [
+              "Sugere contrabalançar liberdade com autopreservação, transmissão e continuidade, mas sem formalização suficiente.",
+              "O fecho sobre o bem prático sugere orientação operativa adequada ao real, mas sem desenvolvimento suficiente para alterar o passo.",
+              "O fragmento mostra uma forma institucional escrita e durável de fixação operativa do que se deve ou não fazer.",
+              "O fragmento nega que a decisão correta resulte de categorias abstratas isoladas e reforça que a orientação prática exige encarnação situada da questão.",
+              "As perguntas sobre quem se é, quem se quer ser e com quem se deve juntar apontam para orientação prática por critérios situados.",
+              "Os códigos morais aparecem como orientação do modo de ser, mas sem dedução operacional suficiente.",
+              "O fragmento extrai uma orientação prática concreta: não escolher posições políticas que restrinjam a liberdade de expressão.",
+              "A figura do legislador competente supõe fixação normativa orientada por conhecimento do real, mas o passo não é desenvolvido no fragmento.",
+              "A referência a princípios comuns e enquadramento social aponta para fixações operativas coletivas, sem as deduzir plenamente.",
+              "Passa da compreensão das relações reais para a orientação concreta do agir e preservação relacional.",
+              "Sugere que o modo de agir adequado varia com a relação e com a posição ocupada pelo eu, dando base contextual à orientação prática.",
+              "O fragmento insiste na incorporação do conhecimento verdadeiro em práticas e em símbolos de orientação para a ação."
+            ],
+            "o_que_os_fragmentos_acrescentam": [
+              "Exemplo de aplicação situada da passagem de liberdade abstrata para articulação com círculos reais de existência e continuidade.",
+              "Acrescenta uma defesa mais concreta da liberdade situada por via da deliberação representacional e do erro categorial de escala.",
+              "Acrescenta um exemplo de como orientações práticas se estabilizam institucionalmente por escrita e duração.",
+              "Acrescenta uma formulação crítica contra o artificialismo moral e contra a dedução da correção prática por categorias internas desligadas da situação real.",
+              "Acrescenta motivação prática para a necessidade de autoavaliação reflexiva, verdade partilhável e correção antecipada do percurso de vida.",
+              "Dá formulação histórica e cultural à função orientadora da mediação simbólica.",
+              "Fornece um exemplo aplicado de como a abertura ou restrição de possibilidades humanas pode orientar juízos políticos concretos.",
+              "Fornece um caso aplicado forte para mostrar que a derivação do dever-ser exige competência sobre o ser e o poder-ser.",
+              "Dá formulação intermédia para ligar conhecimento verdadeiro, mediação social e derivação do dever-ser.",
+              "Acrescenta uma passagem curta entre descrição do real e orientação ética, via identificação das relações em que se está inscrito.",
+              "Acrescenta uma formulação concreta da adequação prática como relacional, local e dependente de posição.",
+              "Acrescenta uma formulação aplicada da derivação do dever-ser a partir do ser e do poder-ser, com passagem para prática e simbolização."
+            ],
+            "justificacoes_novas_que_fornecem": [
+              "Mostra que uma liberdade formal, para ser adequada, tem de ser pensada dentro de círculos ontológicos concretos e de necessidades reais concorrentes.",
+              "Mostra que a alternativa determinismo/aleatoriedade falha por omitir a diferença entre atualidade física e campo de possibilidades deliberativas de um ente reflexivo localizado.",
+              "Fornece apoio para a passagem entre direção prática e sua cristalização institucional pública.",
+              "Mostra que a decisão correta em círculos menores depende da liberdade situada do agente num campo real de potencialidades, e por isso não pode ser esgotada por esquemas abstratos de ato/omissão ou maximização/minimização.",
+              "Sugere que sem um modo reflexivo de relação com a verdade sobre capacidades e possibilidades reais não se colocam sequer as perguntas decisivas da vida, e a correção acaba por surgir de forma traumática.",
+              "Sugere que a orientação prática no real depende de estruturas simbólicas tidas como verdadeiras e socialmente transmitidas.",
+              "Sugere que a liberdade de expressão protege a abertura prática do pensamento e do ser reflexivo, logo funciona como condição de preservação de possibilidades reais.",
+              "A normatividade jurídica só é defensável se quem a formula conhecer a estrutura do real e o campo de atualizações admissíveis.",
+              "A normatividade social e jurídica surge como resposta mediadora e valorativa fundada em conhecimento acumulado do real, não como fonte normativa autónoma.",
+              "Se o agir ocorre em relações reais caracterizadas, então o discernimento do melhor agir depende de compreender essas relações e a continuidade em que se dão.",
+              "Mostra que a adequação do agir não pode ser fixada fora das relações efetivas em que o eu está inscrito.",
+              "Mostra que a normatividade não é arbitrária: deve apoiar-se no conhecimento do real e das possibilidades reais de ação."
+            ],
+            "objecoes_que_ajudam_a_bloquear": [
+              "liberdade abstrata sem inscrição no real",
+              "verdade idealista desligada de campo e círculo",
+              "livre-arbítrio absoluto",
+              "determinismo anulador",
+              "reducionismo físico de escala",
+              "mecanicismo que dissolve a consciência",
+              "direção meramente abstrata",
+              "dever-ser como pura construção teórica explícita",
+              "formalismo moral abstrato",
+              "dedutivismo prático desligado da situação",
+              "coerência interna tomada como suficiente para correção",
+              "correção como mera coerentização",
+              "indiferentismo prático perante o próprio percurso",
+              "ação humana sem mediação simbólica",
+              "linguagem ou crença como ornamento sem função orientadora",
+              "indiferentismo normativo",
+              "política pragmática desligada da ontologia",
+              "falácia naturalista simplista",
+              "dever impossível",
+              "normatividade desligada do real"
+            ],
+            "mediacoes_que_fornecem": [
+              "Fornece mediação fraca entre liberdade situada e orientação prática em contextos concretos, sem criar elo dedutivo indispensável.",
+              "Liga escala/círculo do real à formulação de liberdade situada, mostrando como a consciência pode ser real sem operar no nível físico fundamental.",
+              "Fornece mediação fraca entre orientação prática vivida e formalização institucional jurídica.",
+              "Faz mediação fraca entre liberdade situada, erro e direção prática, mas nao fornece mediacao estrutural indispensavel nova.",
+              "Faz ponte fraca entre verdade prática sobre o que cada um pode ser e a necessidade de orientação e correção reflexiva da ação.",
+              "Ajuda a ligar mediação simbólica e orientação prática, mas nao fornece mediacao estrutural indispensavel.",
+              "Liga liberdade situada e mediação linguística a uma escolha política concreta, mas nao fornece mediacao estrutural indispensavel no mapa.",
+              "Nao fornece mediacao estrutural nova; fornece apenas um exemplo aplicado de passagem do ser e poder-ser ao dever-ser.",
+              "Ajuda a ligar a mediação social e jurídica à derivação ontológica do dever-ser, sobretudo entre P43 e P47.",
+              "Liga submissão descritiva ao real com direção prática e com a noção de bem como preservação adequada da relação.",
+              "Não fornece mediação estrutural nova; apenas aproxima adequação prática de localidade e relação.",
+              "Liga a derivação ontológica do dever-ser à sua incorporação prática e simbólica na orientação da ação."
+            ],
+            "conceitos_ou_distincoes_novas": [
+              "verdades ontologicamente necessárias em círculos",
+              "articulação entre liberdade e continuidade geracional",
+              "distinção entre possibilidade e atualidade na ação deliberada",
+              "círculo de possibilidades próprio do ser humano",
+              "solução jurídica como descrição escrita e durável",
+              "origem prática vivida versus análise ontológica explícita",
+              "distinção entre limites reais e respostas locais",
+              "distinção entre direção do real e direção do homem",
+              "verdade prática sobre capacidades",
+              "correção reflexiva versus correção traumática",
+              "partilha transmissível do saber prático",
+              "estrutura simbólico-moral herdada como orientação prática",
+              "competência ontológica",
+              "legislador filósofo",
+              "popularidade vs competência ontológica",
+              "distincao entre o que é e o dever-ser no plano social",
+              "lei como mediação valorativa",
+              "sociedade como estabilização de modos de ser típicos",
+              "facto nao coisa",
+              "preservacao da relacao"
+            ],
+            "propostas_de_nova_formulacao": [
+              "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+              "A direção prática não é dedutível de categorias abstratas isoladas, mas exige fixação operativa situada no campo real de potencialidades e sob limites reais.",
+              "O dever-ser prático e jurídico só é legítimo enquanto derivação operativa do que é e do que pode realmente ser atualizado.",
+              "O dever-ser social e jurídico vale apenas como mediação operativa derivada do conhecimento verdadeiro do real e subordinada ao que é.",
+              "O discernimento do bom e do melhor agir decorre da compreensão das relações reais e da continuidade em que a ação se inscreve.",
+              "A adequação prática do agir depende da relação concreta em que o agente está inscrito, da sua posição local e da dinâmica própria desse campo relacional.",
+              "O dever-ser legítimo deriva do conhecimento do que é e do que pode ser no real, tornando-se operável por práticas e símbolos de orientação."
+            ],
+            "propostas_de_novo_passo": [],
+            "entre_que_passos_deveria_entrar": [
+              "P43",
+              "P47"
+            ],
+            "observacoes_finais": [
+              "Útil sobretudo como material expositivo e aplicativo; impacto estrutural limitado e formulação instável.",
+              "Útil sobretudo para robustecer P29 e bloquear objeções reducionistas; o apontamento final sobre o bem é ainda lateral.",
+              "Útil sobretudo para exposição e aplicação ao direito; não altera a arquitetura do mapa.",
+              "Útil para reforçar a justificação dos passos ético-práticos; não altera a arquitetura do mapa.",
+              "Útil para reforçar a justificação prática da direção e da correção, mas ainda demasiado misto para alterar a arquitetura do mapa.",
+              "Útil para exposição da função orientadora da mediação; a fórmula 'Deus é a realidade' é demasiado ambígua para impacto estrutural forte.",
+              "Útil sobretudo como explicitação aplicada; não altera a arquitetura dedutiva.",
+              "Útil como densificação aplicada da derivação ontológica da normatividade, mas não altera a arquitetura do mapa.",
+              "Útil para reforçar a justificação da derivação normativa, mas a formulação do fragmento é instável e não deve ser tomada literalmente sem retrabalho.",
+              "Útil sobretudo para densificar a ponte entre verdade submetida ao real e ética como adequação da ação.",
+              "Útil para densificar a justificação contextual da adequação prática, sem alterar a arquitetura do mapa.",
+              "Útil para densificar a justificação de P47-P48 e a passagem prática para P43; o exemplo cristão é ilustrativo, não estrutural."
+            ]
+          },
+          "diagnostico_estrutural": {
+            "estabilidade": "estavel_mas_a_densificar",
+            "necessidade_principal": "explicitar_mediacoes",
+            "acao_estrutural_recomendada": "densificar",
+            "indicios_de_reescrita": 0,
+            "indicios_de_divisao": 0,
+            "indicios_de_passo_intermedio": 0,
+            "necessita_revisao_humana_em": 7,
+            "diagnostico_textual": "A proposição P43 foi tocada por 12 fragmento(s). A pressão dominante vem da zona etica_ontologica. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+          },
+          "nova_formulacao_provisoria": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado."
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.blocos[5].proposicoes[5]",
+        "match": {
+          "id": "P43",
+          "numero": 43,
+          "proposicao": "A direção exige fixação operativa de vetores de ação.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P42",
+            "P32",
+            "P33",
+            "P34",
+            "P35",
+            "P36",
+            "P37"
+          ],
+          "prepara": [
+            "P44"
+          ],
+          "justificacao": {
+            "tese_minima": "A direção exige fixação operativa de vetores de ação.",
+            "justificacao_interna_do_passo": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "traducao_operativa"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+            "o_que_falta_provar_ou_explicitar": "Ligar melhor direção, critério, correção e campo.",
+            "objecoes_tipicas_a_bloquear": [
+              "direção meramente abstrata"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$[40].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P43",
+          "numero": 43,
+          "proposicao_resumida": "A direção exige fixação operativa de vetores de ação.",
+          "grau_de_relevancia": "baixo",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "Sugere contrabalançar liberdade com autopreservação, transmissão e continuidade, mas sem formalização suficiente."
+        }
+      },
+      {
+        "path": "$[58].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[3]",
+        "match": {
+          "proposicao_id": "P43",
+          "numero": 43,
+          "proposicao_resumida": "A direção exige fixação operativa de vetores de ação.",
+          "grau_de_relevancia": "baixo",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "O fecho sobre o bem prático sugere orientação operativa adequada ao real, mas sem desenvolvimento suficiente para alterar o passo."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Com base apenas nos materiais fornecidos, decide o fecho canónico do passo P43 no corredor P42_P48.
+
+Tens de produzir:
+1. formulação final estável do passo;
+2. justificação suficiente para ele não ficar em salto;
+3. ponte de entrada a partir do passo anterior;
+4. ponte de saída para o passo seguinte;
+5. razão pela qual o anterior não basta;
+6. razão pela qual este passo não pode ser suprimido;
+7. objeção letal mais forte a bloquear;
+8. bloqueio curto dessa objeção;
+9. decisão sobre necessidade de subpasso;
+10. lista final de objeções já bloqueadas;
+11. lista final de fragmentos efetivamente selecionados;
+12. nota final curta e operacional;
+13. pendências reais, se ainda existirem.
+
+REGRAS DE DECISÃO
+
+- Mantém a formulação atual apenas se ela já fechar o passo sem salto relevante.
+- Reformula quando a formulação existente é insuficiente, ambígua ou demasiado larga.
+- Densifica quando o núcleo do passo está certo mas a justificação ainda é curta.
+- Introduz subpasso apenas se o passo não fechar com simples reformulação e justificação.
+- Reabre apenas se houver insuficiência que não possa ser resolvida localmente com segurança.
+- A formulação final deve ser curta, afirmativa e dedutivamente precisa.
+- A justificação deve dizer o mínimo suficiente para o passo ficar inevitável na cadeia.
+- A ponte de entrada deve ligar explicitamente o passo ao anterior.
+- A ponte de saída deve ligar explicitamente o passo ao seguinte.
+- A objeção letal deve ser a mais destrutiva para este passo, não uma objeção lateral.
+- O bloqueio curto deve responder diretamente à objeção letal sem deriva.
+- Usa apenas ids de fragmentos efetivamente presentes nos materiais.
+- Se não houver pendências, devolve um array vazio.
+- Se precisa_de_subpasso=false, subpassos_aprovados_ids tem de ser [].
+- Se o passo ficar fechado, pendencias deve ser [] ou conter apenas notas não impeditivas.
+- Não escrevas introduções, comentários externos, markdown nem texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P42_P48",
+  "passo_id": "P43",
+  "numero_final": 43,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+  "P32",
+  "P33",
+  "P34",
+  "P35",
+  "P36",
+  "P37",
+  "P42"
+],
+  "prepara": [
+  "P44"
+],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+  "formulacao",
+  "mediacao"
+],
+  "decisao_editorial": "manter|densificar|reformular|introduzir_subpasso|reabrir",
+  "formulacao_v2_final": "string",
+  "justificacao_expandida_final": "string",
+  "ponte_entrada": "string",
+  "ponte_saida": "string",
+  "porque_o_anterior_nao_basta": "string",
+  "porque_nao_pode_ser_suprimido": "string",
+  "objecao_letal": "string",
+  "bloqueio_curto": "string",
+  "precisa_de_subpasso": true,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": ["string"],
+  "fragmentos_selecionados_finais": ["F..."],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estado_final_do_passo": "aberto|quase_fechado|fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "formulacao_v2_final": uma só formulação final, sem variantes.
+- "justificacao_expandida_final": texto suficientemente completo para fechar o passo localmente.
+- "objecoes_bloqueadas_final": inclui a objeção letal e outras objeções diretamente neutralizadas pela formulação e justificação finais.
+- "fragmentos_selecionados_finais": apenas ids realmente usados para sustentar a decisão.
+- "fontes_utilizadas": lista apenas os ficheiros efetivamente utilizados.
+- "nota_editorial_final": nota operacional curta sobre o estado do passo.
+- "pendencias": só inclui insuficiências reais que impeçam ou enfraqueçam o fecho.
+- Se "decisao_editorial"="introduzir_subpasso", então "precisa_de_subpasso" tem de ser true.
+- Se "decisao_editorial"="reabrir", então "reabrir_em_arbitragem_de_corredor" tem de ser true.
+- Se "estado_final_do_passo"="fechado", o conjunto do JSON deve mostrar fecho local claro e não deixar lacunas explícitas.

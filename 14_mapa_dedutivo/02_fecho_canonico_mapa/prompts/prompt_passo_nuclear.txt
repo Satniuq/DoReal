@@ -1,0 +1,126 @@
+Fecha canonicamente um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o corredor e o passo abaixo indicados.
+Não faças análise global.
+Não reabras o projeto inteiro.
+Não proposes novas fases.
+Não inventes fragmentos, objeções, dependências ou fontes que não estejam suportados pelos materiais fornecidos.
+Escolhe a solução local mínima suficiente.
+
+PLACEHOLDERS
+
+CORREDOR_ID={{CORREDOR_ID}}
+PASSO_ID={{PASSO_ID}}
+NUMERO_FINAL={{NUMERO_FINAL}}
+BLOCO_ID={{BLOCO_ID}}
+BLOCO_TITULO={{BLOCO_TITULO}}
+DEPENDE_DE_JSON={{DEPENDE_DE_JSON}}
+PREPARA_JSON={{PREPARA_JSON}}
+ESTADO_INICIAL_DO_PASSO={{ESTADO_INICIAL_DO_PASSO}}
+TIPOS_DE_FRAGILIDADE_JSON={{TIPOS_DE_FRAGILIDADE_JSON}}
+PASSO_ANTERIOR_ID={{PASSO_ANTERIOR_ID}}
+PASSO_SEGUINTE_ID={{PASSO_SEGUINTE_ID}}
+
+MATERIAIS
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{{MATRIZ_INEVITABILIDADES_RECORTE_JSON}}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{{MAPA_PRECANONICO_RECORTE_JSON}}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{{RELATORIO_FECHO_RECORTE_JSON}}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{{DOSSIER_CORREDOR_RECORTE_JSON}}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{{INPUTS_SECUNDARIOS_RELEVANTES_JSON}}
+
+TAREFA
+
+Com base apenas nos materiais fornecidos, decide o fecho canónico do passo {{PASSO_ID}} no corredor {{CORREDOR_ID}}.
+
+Tens de produzir:
+1. formulação final estável do passo;
+2. justificação suficiente para ele não ficar em salto;
+3. ponte de entrada a partir do passo anterior;
+4. ponte de saída para o passo seguinte;
+5. razão pela qual o anterior não basta;
+6. razão pela qual este passo não pode ser suprimido;
+7. objeção letal mais forte a bloquear;
+8. bloqueio curto dessa objeção;
+9. decisão sobre necessidade de subpasso;
+10. lista final de objeções já bloqueadas;
+11. lista final de fragmentos efetivamente selecionados;
+12. nota final curta e operacional;
+13. pendências reais, se ainda existirem.
+
+REGRAS DE DECISÃO
+
+- Mantém a formulação atual apenas se ela já fechar o passo sem salto relevante.
+- Reformula quando a formulação existente é insuficiente, ambígua ou demasiado larga.
+- Densifica quando o núcleo do passo está certo mas a justificação ainda é curta.
+- Introduz subpasso apenas se o passo não fechar com simples reformulação e justificação.
+- Reabre apenas se houver insuficiência que não possa ser resolvida localmente com segurança.
+- A formulação final deve ser curta, afirmativa e dedutivamente precisa.
+- A justificação deve dizer o mínimo suficiente para o passo ficar inevitável na cadeia.
+- A ponte de entrada deve ligar explicitamente o passo ao anterior.
+- A ponte de saída deve ligar explicitamente o passo ao seguinte.
+- A objeção letal deve ser a mais destrutiva para este passo, não uma objeção lateral.
+- O bloqueio curto deve responder diretamente à objeção letal sem deriva.
+- Usa apenas ids de fragmentos efetivamente presentes nos materiais.
+- Se não houver pendências, devolve um array vazio.
+- Se precisa_de_subpasso=false, subpassos_aprovados_ids tem de ser [].
+- Se o passo ficar fechado, pendencias deve ser [] ou conter apenas notas não impeditivas.
+- Não escrevas introduções, comentários externos, markdown nem texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "{{CORREDOR_ID}}",
+  "passo_id": "{{PASSO_ID}}",
+  "numero_final": {{NUMERO_FINAL}},
+  "bloco_id": "{{BLOCO_ID}}",
+  "bloco_titulo": "{{BLOCO_TITULO}}",
+  "depende_de": {{DEPENDE_DE_JSON}},
+  "prepara": {{PREPARA_JSON}},
+  "estado_inicial_do_passo": "{{ESTADO_INICIAL_DO_PASSO}}",
+  "tipos_de_fragilidade_iniciais": {{TIPOS_DE_FRAGILIDADE_JSON}},
+  "decisao_editorial": "manter|densificar|reformular|introduzir_subpasso|reabrir",
+  "formulacao_v2_final": "string",
+  "justificacao_expandida_final": "string",
+  "ponte_entrada": "string",
+  "ponte_saida": "string",
+  "porque_o_anterior_nao_basta": "string",
+  "porque_nao_pode_ser_suprimido": "string",
+  "objecao_letal": "string",
+  "bloqueio_curto": "string",
+  "precisa_de_subpasso": true,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": ["string"],
+  "fragmentos_selecionados_finais": ["F..."],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estado_final_do_passo": "aberto|quase_fechado|fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "formulacao_v2_final": uma só formulação final, sem variantes.
+- "justificacao_expandida_final": texto suficientemente completo para fechar o passo localmente.
+- "objecoes_bloqueadas_final": inclui a objeção letal e outras objeções diretamente neutralizadas pela formulação e justificação finais.
+- "fragmentos_selecionados_finais": apenas ids realmente usados para sustentar a decisão.
+- "fontes_utilizadas": lista apenas os ficheiros efetivamente utilizados.
+- "nota_editorial_final": nota operacional curta sobre o estado do passo.
+- "pendencias": só inclui insuficiências reais que impeçam ou enfraqueçam o fecho.
+- Se "decisao_editorial"="introduzir_subpasso", então "precisa_de_subpasso" tem de ser true.
+- Se "decisao_editorial"="reabrir", então "reabrir_em_arbitragem_de_corredor" tem de ser true.
+- Se "estado_final_do_passo"="fechado", o conjunto do JSON deve mostrar fecho local claro e não deixar lacunas explícitas.

@@ -1,0 +1,47 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P33_P37",
+  "passo_pai_id": "P37",
+  "subpasso_id": "P37_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Não há base suficiente para introduzir um subpasso mediacional autónomo em P37. Os materiais convergem em que a lacuna identificada era de densificação justificativa dentro do próprio passo — explicitar a diferença entre correção interna e correção real — e não de mediação estrutural em falta. Tanto a decisão canónica como a matriz e o dossier assinalam explicitamente 'precisa_de_subpasso': false e registam que o fecho local foi obtido por reformulação e justificação interna suficientes. A objeção letal ('correção como mera coerentização') fica bloqueada no próprio P37 sem exigir passo intermédio adicional.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P37",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária foi absorvida pela formulação final e pela justificação de P37."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "A distinção necessária entre reajuste interno e correção real já foi explicitada no próprio P37: se o erro é desvio por não inclusão suficiente do real, corrigir não pode ser mera coerentização interna, mas reinscrição de representação e ação na medida do real.",
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "correção como mera coerentização",
+  "bloqueio_curto": "Coerência interna por si só não basta, porque um sistema pode reorganizar-se e continuar desligado do real; a correção só ocorre quando representação e ação voltam a ser medidas pelo real.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A10_SEG_001",
+    "F0241_A26_SEG_004",
+    "F0142_SEG_001",
+    "F0064_A02_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "correção como mera coerentização",
+    "verdade como coerência pura",
+    "coerentismo fechado",
+    "correção como mera reformulação interna"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fecho obtido por densificação interna de P37.",
+  "pendencias": []
+}

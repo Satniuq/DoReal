@@ -1,0 +1,57 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P42_P48",
+  "passo_id": "P42",
+  "numero_final": 42,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+    "P40",
+    "P41"
+  ],
+  "prepara": [
+    "P43"
+  ],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+  "justificacao_expandida_final": "Se, como resulta de P40 e P41, a ação não é indiferente ao real e o dano introduz uma assimetria efetiva, então nem todas as atualizações valem do mesmo modo. Dessa não-indiferença e dessa assimetria não se segue um fim imposto de fora, mas torna-se inteligível uma direção imanente: preservar as continuidades reais de que a ação depende, corrigir desvios que estreitam ou desalinham essas continuidades, e evitar formas de degeneração que empobrecem o campo real de potencialidades. Por isso, a orientação prática pode e deve ser pensada a partir desses vetores inscritos no real, e não a partir de uma normatividade autónoma ou de uma consciência isolada.",
+  "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+  "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+  "porque_o_anterior_nao_basta": "Os passos P40 e P41 mostram a não-indiferença da ação e a assimetria do dano, mas ainda não explicitam que dessas teses decorre uma direção prática imanente inscrita no real.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de teses epistemológicas e ontológicas sobre ação e dano para a determinação ética posterior fica sem mediação e surge como salto dedutivo.",
+  "objecao_letal": "teleologia externa",
+  "bloqueio_curto": "A direção aqui afirmada não impõe um fim externo ao ser; explicita apenas vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "teleologia externa",
+    "arbitrariedade prática",
+    "consciência como fundamento absoluto",
+    "bem desligado da estrutura do ser",
+    "impossibilidade de derivar valor do facto",
+    "direção ontológica como projeção humana",
+    "dever-ser como entidade separada"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0241_A12_SEG_001",
+    "F0067_SEG_001",
+    "F0112_SEG_001",
+    "F0122_SEG_001",
+    "F0176_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação mediacional sem necessidade de subpasso autónomo.",
+  "pendencias": []
+}

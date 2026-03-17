@@ -1,0 +1,179 @@
+{
+  "stage": "subpasso_mediacional",
+  "target_id": "P46_SP01",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:20:38+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P46",
+    "subpasso_id": "P46_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "entra_subpasso": false,
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade mediacional de P46 foi resolvida por reformulação do próprio passo e pela densificação mínima da sua justificação, sem exigir mediação intermédia autónoma. A passagem de P45 para P46 já fica canonicamente fechada com a formulação final 'A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada' e com o respetivo bloqueio curto da objeção da autonomia normativa absoluta. Não há subpasso sugerido nos materiais, 'precisa_de_subpasso' surge explicitamente como false em todas as fontes principais, e a objeção letal é bloqueada no interior do próprio passo. Introduzir um subpasso aqui seria redundante e repetiria o conteúdo do passo pai em vez de acrescentar uma mediação indispensável.",
+    "formulacao_subpasso": null,
+    "posicao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P46",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já foi absorvida pela reformulação canónica de P46."
+    },
+    "funcao_dedutiva": null,
+    "justificacao_minima_suficiente": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+    "ponte_entrada": "Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.",
+    "ponte_saida": "Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.",
+    "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+    "bloqueio_curto": "Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.",
+    "fragmentos_selecionados_finais": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "autonomia normativa absoluta"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "nota_editorial_final": "Subpasso rejeitado: fecho local obtido no próprio P46.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P46",
+    "subpasso_id": "P46_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade mediacional de P46 foi resolvida por reformulação do próprio passo e pela densificação mínima da sua justificação, sem exigir mediação intermédia autónoma. A passagem de P45 para P46 já fica canonicamente fechada com a formulação final 'A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada' e com o respetivo bloqueio curto da objeção da autonomia normativa absoluta. Não há subpasso sugerido nos materiais, 'precisa_de_subpasso' surge explicitamente como false em todas as fontes principais, e a objeção letal é bloqueada no interior do próprio passo. Introduzir um subpasso aqui seria redundante e repetiria o conteúdo do passo pai em vez de acrescentar uma mediação indispensável.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P46",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já foi absorvida pela reformulação canónica de P46."
+    },
+    "ponte_entrada": "Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.",
+    "ponte_saida": "Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.",
+    "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+    "bloqueio_curto_da_objecao": "Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.",
+    "fragmentos_de_apoio_final": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "autonomia normativa absoluta"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso rejeitado: fecho local obtido no próprio P46."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0d8145efbd99d4e80069b99b6c638481908c4cea901aa605c2",
+      "object": "response",
+      "created_at": 1773771628,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771637,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0d8145efbd99d4e80069b99b6ce5988190805cc1248b18129b",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_subpasso\",\n  \"corredor\": \"P42_P48\",\n  \"passo_pai_id\": \"P46\",\n  \"subpasso_id\": \"P46_SP01\",\n  \"numero_ordinal_no_passo\": 1,\n  \"necessidade_detectada\": false,\n  \"decisao_subpasso\": \"rejeitado\",\n  \"entra_subpasso\": false,\n  \"justificacao_da_decisao\": \"Os materiais convergem em que a fragilidade mediacional de P46 foi resolvida por reformulação do próprio passo e pela densificação mínima da sua justificação, sem exigir mediação intermédia autónoma. A passagem de P45 para P46 já fica canonicamente fechada com a formulação final 'A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada' e com o respetivo bloqueio curto da objeção da autonomia normativa absoluta. Não há subpasso sugerido nos materiais, 'precisa_de_subpasso' surge explicitamente como false em todas as fontes principais, e a objeção letal é bloqueada no interior do próprio passo. Introduzir um subpasso aqui seria redundante e repetiria o conteúdo do passo pai em vez de acrescentar uma mediação indispensável.\",\n  \"formulacao_subpasso\": null,\n  \"posicao_na_cadeia\": {\n    \"modo_de_insercao\": \"intra_passo\",\n    \"ancorado_no_passo_id\": \"P46\",\n    \"entra_apos_passo_id\": null,\n    \"entra_antes_de_passo_id\": null,\n    \"justificacao_de_insercao\": \"Não se justifica inserção: a mediação necessária já foi absorvida pela reformulação canónica de P46.\"\n  },\n  \"funcao_dedutiva\": null,\n  \"justificacao_minima_suficiente\": \"Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.\",\n  \"ponte_entrada\": \"Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.\",\n  \"ponte_saida\": \"Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.\",\n  \"objecao_letal_a_bloquear\": \"autonomia normativa absoluta\",\n  \"bloqueio_curto\": \"Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.\",\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A06_SEG_001\",\n    \"F0232_SEG_001\",\n    \"F0112_SEG_002\",\n    \"F0111_A01_SEG_004\"\n  ],\n  \"objecoes_bloqueadas_final\": [\n    \"autonomia normativa absoluta\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estatuto_final_no_mapa\": \"nao_inserido\",\n  \"nota_editorial_final\": \"Subpasso rejeitado: fecho local obtido no próprio P46.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 8827,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 818,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9645
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "subpasso_mediacional__P46_SP01.raw.txt"
+}

@@ -1,0 +1,38 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P44",
+  "subpasso_id": "P44_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Os materiais convergem em que a fragilidade mediacional de P44 foi resolvida por densificação interna da formulação e da justificação do próprio passo, sem exigir mediação autónoma adicional. A ponte de entrada já explicita a passagem de P34, P40, P42 e P43 para a nomeação ética do bem, e a ponte de saída já prepara P45 sem salto residual que imponha subpasso canónico. Além disso, a decisão canónica final assinala explicitamente \"precisa_de_subpasso\": false e fixa o passo como \"fechado\". Introduzir um subpasso aqui seria redundante e tenderia a repetir o passo pai em vez de fechar uma lacuna indispensável.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P44",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não entra subpasso, porque a mediação necessária já foi absorvida no próprio P44 por densificação canónica suficiente."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "A inferência fecha no próprio P44: as condições já estabelecidas de critério, direção, verdade e reorientação no real são sintetizadas como qualificação ética da ação, isto é, como bem enquanto adequação da atualização ao real. Essa síntese já bloqueia o funcionalismo raso e já fornece a mediação necessária para P45.",
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "funcionalismo raso",
+  "bloqueio_curto": "O bem não é mera eficácia, mas atualização adequada ao real sob critério, direção, verdade e não-dano.",
+  "fragmentos_selecionados_finais": [],
+  "objecoes_bloqueadas_final": [
+    "funcionalismo raso"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Sem subpasso: fechar por densificação interna de P44.",
+  "pendencias": []
+}

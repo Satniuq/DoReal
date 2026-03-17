@@ -1,0 +1,1076 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P42_P48
+PASSO_PAI_ID=P48
+SUBPASSO_ID_SUGERIDO=P48_SP01
+NUMERO_ORDINAL_SUGERIDO=1
+PASSO_ANTERIOR_ID=P44
+PASSO_SEGUINTE_ID=P45
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{
+  "raw": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P48",
+    "numero_final": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "justificacao_expandida_final": "Se o dever-ser deriva do ser e do poder-ser reais, então só pode orientar ação onde exista possibilidade efetiva de atualização. Uma exigência prática sem poder-ser correspondente não regula o agir real, mas apenas formula verbalmente um impossível. Por isso, a normatividade prática fica subordinada ao campo das possibilidades reais e não pode incidir sobre o que o real não permite.",
+    "ponte_entrada": "Do passo anterior resulta a subordinação do dever-ser ao ser e ao poder-ser reais; daqui segue-se que a exigência prática só vale enquanto recai sobre aquilo que pode realmente ser atualizado.",
+    "ponte_saida": "Uma vez fixado que a exigência prática só incide sobre possibilidades reais, fica preparada a passagem seguinte, em que a normatividade poderá ser especificada apenas dentro desse campo efetivo de atualização.",
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15 e P47 ainda não explicitam esta consequência prática imediata: que um dever sem possibilidade real de atualização perde sentido normativo e não pode obrigar.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, desaparece a mediação que converte a subordinação ontológica do dever-ser ao poder-ser numa regra prática explícita, e a passagem para P49 fica em salto dedutivo.",
+    "objecao_letal": "dever impossível",
+    "bloqueio_curto": "Não há dever prático onde não há possibilidade real de atualização, porque o impossível não orienta ação efetiva.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "dever-ser desligado do poder-ser",
+      "normatividade desligada do real",
+      "livre-arbítrio absoluto"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0060_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0153_SEG_001",
+      "F0205_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação entre normatividade e possibilidade real, sem necessidade de subpasso.",
+    "pendencias": []
+  },
+  "canonical": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P48",
+    "numero_final": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "justificacao_minima_suficiente": "Se o dever-ser deriva do ser e do poder-ser reais, então só pode orientar ação onde exista possibilidade efetiva de atualização. Uma exigência prática sem poder-ser correspondente não regula o agir real, mas apenas formula verbalmente um impossível. Por isso, a normatividade prática fica subordinada ao campo das possibilidades reais e não pode incidir sobre o que o real não permite.",
+    "ponte_entrada": "Do passo anterior resulta a subordinação do dever-ser ao ser e ao poder-ser reais; daqui segue-se que a exigência prática só vale enquanto recai sobre aquilo que pode realmente ser atualizado.",
+    "ponte_saida": "Uma vez fixado que a exigência prática só incide sobre possibilidades reais, fica preparada a passagem seguinte, em que a normatividade poderá ser especificada apenas dentro desse campo efetivo de atualização.",
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15 e P47 ainda não explicitam esta consequência prática imediata: que um dever sem possibilidade real de atualização perde sentido normativo e não pode obrigar.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, desaparece a mediação que converte a subordinação ontológica do dever-ser ao poder-ser numa regra prática explícita, e a passagem para P49 fica em salto dedutivo.",
+    "objecao_letal_a_bloquear": "dever impossível",
+    "bloqueio_curto_da_objecao": "Não há dever prático onde não há possibilidade real de atualização, porque o impossível não orienta ação efetiva.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0060_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0153_SEG_001",
+      "F0205_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "dever-ser desligado do poder-ser",
+      "normatividade desligada do real",
+      "livre-arbítrio absoluto"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P48 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: dever impossível. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação entre normatividade e possibilidade real, sem necessidade de subpasso."
+    ]
+  }
+}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P48",
+  "numero_final": 46,
+  "bloco_id": "BLOCO_VII",
+  "bloco_titulo": "Fecho ético",
+  "depende_de": [
+    "P13",
+    "P14",
+    "P15",
+    "P47"
+  ],
+  "prepara": [
+    "P49"
+  ],
+  "proposicao_canonica_curta": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+  "proposicao_canonica_tecnica": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+  "tese_minima_canonica": "O dever-ser é subordinado ao poder-ser real.",
+  "justificacao_minima_canonica": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+  "porque_este_passo_e_necessario": "O dever-ser é subordinado ao poder-ser real.",
+  "porque_o_anterior_nao_basta": "Os passos P13, P14, P15, P47 não bastam em conjunto porque ainda não fecham esta passagem específica: A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P49 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "dever impossível",
+  "tipo_de_necessidade": "etica",
+  "estado_de_fecho": "quase_fechado",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 5.845,
+  "breakdown_score_canonico": {
+    "dependencias": 2.4,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.24512,
+    "fragilidade": -0.3,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "O dever-ser é subordinado ao poder-ser real.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0232_SEG_001",
+    "F0205_SEG_001",
+    "F0153_SEG_001",
+    "F0117_A01_SEG_003",
+    "F0115_A01_SEG_001",
+    "F0114_A01_SEG_001",
+    "F0101_SEG_003",
+    "F0096_SEG_001",
+    "F0060_A01_SEG_001",
+    "F0017_SEG_001",
+    "F0226_SEG_001",
+    "F0177_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "dever impossível",
+    "autonomia normativa absoluta",
+    "subjetivismo valorativo",
+    "falácia naturalista simplista",
+    "indiferentismo axiológico total",
+    "moralismo extrínseco",
+    "livre-arbítrio absoluto",
+    "casuística local como fundamento do bem",
+    "inversão analítica entre nível prático e nível ontológico",
+    "autonomização da ação mundana recorrente como critério do bem",
+    "formalismo moral abstrato",
+    "dedutivismo prático desligado da situação"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.16).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.21).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar melhor a relação entre normatividade e possibilidade real."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P48",
+  "numero_original": 48,
+  "bloco_id": "BLOCO_VII",
+  "bloco_titulo": "Fecho ético",
+  "numero_final": 46,
+  "proposicao_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+  "proposicao_original": "O dever-ser é subordinado ao poder-ser real.",
+  "descricao_curta": "Não manda o impossível; orienta o possível real.",
+  "funcao_no_sistema": "No Fecho ético, esta proposição fixa que o dever-ser é subordinado ao poder-ser real.; Recebe apoio imediato de P13, P14, P15, P47; e prepara P49.",
+  "depende_de": [
+    "P13",
+    "P14",
+    "P15",
+    "P47"
+  ],
+  "prepara": [
+    "P49"
+  ],
+  "tese_minima": "O dever-ser é subordinado ao poder-ser real.",
+  "justificacao_minima_suficiente": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+  "objecoes_bloqueadas": [
+    "dever impossível",
+    "autonomia normativa absoluta",
+    "subjetivismo valorativo",
+    "falácia naturalista simplista",
+    "indiferentismo axiológico total",
+    "moralismo extrínseco",
+    "livre-arbítrio absoluto",
+    "casuística local como fundamento do bem",
+    "inversão analítica entre nível prático e nível ontológico",
+    "autonomização da ação mundana recorrente como critério do bem",
+    "formalismo moral abstrato",
+    "dedutivismo prático desligado da situação"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0232_SEG_001",
+    "F0205_SEG_001",
+    "F0153_SEG_001",
+    "F0117_A01_SEG_003",
+    "F0115_A01_SEG_001",
+    "F0114_A01_SEG_001",
+    "F0101_SEG_003",
+    "F0096_SEG_001",
+    "F0060_A01_SEG_001",
+    "F0017_SEG_001",
+    "F0226_SEG_001",
+    "F0177_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "O dever-ser é subordinado ao poder-ser real.",
+  "mediacao_necessaria": [
+    "Explicitar a ponte dedutiva entre P13, P14, P15, P47 e P48.",
+    "Explicitar a passagem de P48 para P49.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "medio",
+  "score_de_inevitabilidade": 0.643,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.5,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 3.064,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.16).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.21).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar melhor a relação entre normatividade e possibilidade real."
+  ],
+  "estado_de_fecho_canonico": "quase_fechado",
+  "score_canonico_de_fecho": 5.845,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "Os passos P13, P14, P15, P47 não bastam em conjunto porque ainda não fecham esta passagem específica: A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P49 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "dever impossível",
+  "tipo_de_necessidade": "etica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 7,
+    "fechados": 0,
+    "abertos": 2,
+    "quase_fechados": 5,
+    "subpassos": [
+      "P42",
+      "P47"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {
+      "id": "P48",
+      "score_canonico_de_fecho": 5.845,
+      "subpasso_sugerido": null
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 7,
+    "fechados": 0,
+    "quase_fechados": 5,
+    "abertos": 2,
+    "passos_com_subpasso": [
+      "P42",
+      "P47"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P42",
+    "P43",
+    "P47",
+    "P44",
+    "P48",
+    "P45",
+    "P46"
+  ],
+  "proposicao_canonica": {
+    "id": "P48",
+    "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis."
+  },
+  "problema_ainda_aberto": {
+    "id": "P48",
+    "estado_de_fecho": "quase_fechado",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "dever impossível"
+  },
+  "passo": {
+    "id": "P48",
+    "numero_final": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "proposicao_canonica_curta": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "proposicao_canonica_tecnica": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "tese_minima_canonica": "O dever-ser é subordinado ao poder-ser real.",
+    "justificacao_minima_canonica": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+    "porque_este_passo_e_necessario": "O dever-ser é subordinado ao poder-ser real.",
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15, P47 não bastam em conjunto porque ainda não fecham esta passagem específica: A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P49 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "dever impossível",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 5.845,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.24512,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O dever-ser é subordinado ao poder-ser real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0153_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0115_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0101_SEG_003",
+      "F0096_SEG_001",
+      "F0060_A01_SEG_001",
+      "F0017_SEG_001",
+      "F0226_SEG_001",
+      "F0177_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "subjetivismo valorativo",
+      "falácia naturalista simplista",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "livre-arbítrio absoluto",
+      "casuística local como fundamento do bem",
+      "inversão analítica entre nível prático e nível ontológico",
+      "autonomização da ação mundana recorrente como critério do bem",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.16).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.21).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar melhor a relação entre normatividade e possibilidade real."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.revisao_por_proposicao[47]",
+        "match": {
+          "proposicao_id": "P48",
+          "numero": 48,
+          "bloco_id": "BLOCO_VII",
+          "bloco_titulo": "Fecho ético",
+          "proposicao": "O dever-ser é subordinado ao poder-ser real.",
+          "descricao_curta": "Não manda o impossível; orienta o possível real.",
+          "depende_de": [
+            "P13",
+            "P14",
+            "P15",
+            "P47"
+          ],
+          "prepara": [
+            "P49"
+          ],
+          "estado_anterior_no_mapa": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null
+          },
+          "base_dedutiva_existente": {
+            "tese_minima": "O dever-ser é subordinado ao poder-ser real.",
+            "justificacao_interna_do_passo": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "normatividade_possivel",
+            "formulacao_filosofico_academica": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar melhor a relação entre normatividade e possibilidade real.",
+            "objecoes_tipicas_a_bloquear": [
+              "dever impossível"
+            ],
+            "mediacoes_em_falta_no_mapa": []
+          },
+          "pressao_dos_fragmentos": {
+            "total_fragmentos_que_tocam": 21,
+            "total_origens_que_tocam": 21,
+            "zona_filosofica_dominante": "etica_ontologica",
+            "efeito_principal_dominante": "explicita",
+            "acao_recomendada_dominante": "densificar",
+            "tipo_de_utilidade_dominante": "justificativa",
+            "prioridade_editorial_dominante": "media",
+            "distribuicao_efeitos": {
+              "explicita": 18,
+              "medeia": 3
+            },
+            "distribuicao_acoes": {
+              "densificar": 21
+            },
+            "distribuicao_tipos_relacao": {
+              "apoia_justificacao": 12,
+              "toca_diretamente": 6,
+              "toca_indiretamente": 2,
+              "faz_ponte_entre": 1
+            },
+            "distribuicao_graus_relevancia": {
+              "medio": 9,
+              "alto": 11,
+              "baixo": 1
+            },
+            "distribuicao_tipos_utilidade": {
+              "justificativa": 17,
+              "redacional": 1,
+              "mediacional": 3
+            },
+            "distribuicao_prioridades": {
+              "media": 11,
+              "alta": 10
+            }
+          },
+          "materiais_de_reconstrucao": {
+            "fragmentos_relacionados": [
+              "F0004_SEG_001",
+              "F0017_SEG_001",
+              "F0020_SEG_001",
+              "F0060_A01_SEG_001",
+              "F0063_A01_SEG_001",
+              "F0073_SEG_002",
+              "F0096_SEG_001",
+              "F0098_A02_SEG_002",
+              "F0101_SEG_003",
+              "F0113_A01_SEG_003",
+              "F0114_A01_SEG_001",
+              "F0115_A01_SEG_001",
+              "F0117_A01_SEG_003",
+              "F0120_SEG_002",
+              "F0153_SEG_001",
+              "F0159_SEG_001",
+              "F0163_SEG_001",
+              "F0177_SEG_001",
+              "F0205_SEG_001",
+              "F0226_SEG_001",
+              "F0232_SEG_001"
+            ],
+            "origens_relacionadas": [
+              "F0004",
+              "F0017",
+              "F0020",
+              "F0060_A01",
+              "F0063_A01",
+              "F0073",
+              "F0096",
+              "F0098_A02",
+              "F0101",
+              "F0113_A01",
+              "F0114_A01",
+              "F0115_A01",
+              "F0117_A01",
+              "F0120",
+              "F0153",
+              "F0159",
+              "F0163",
+              "F0177",
+              "F0205",
+              "F0226",
+              "F0232"
+            ],
+            "resumos_de_fragmento": [
+              "Ensaia subordinar o valor moral e o comportamento devido a condições reais de verdade, possibilidade e preservação/homeostasia, mas de modo ainda hesitante.",
+              "Sustenta em esboço que proposições valorativas só são objetivas quando indexadas à descrição do real via pode-ser, e depois aplica isso de modo instável a uma crítica da robotização e do rendimento universal.",
+              "Ensaia que há modos de vida melhores quando a liberdade de ação pode atualizar mais potencialidades humanas sem sair do plano da verdade. O resto é tipologia humana instável e conflito entre preservação e orientação à realidade.",
+              "Subordina o dever-ser ao pode-ser real, rejeita o livre-arbítrio como critério absoluto do bem e nega um gap forte entre ser e dever-ser.",
+              "Subordina o bem e a liberdade a círculos ontológicos maiores e ao critério do real e da verdade; introduz uma distinção de escala entre juízos práticos locais e fundamento ontológico do bem.",
+              "Critica a dedução moral por lógica interna abstrata e reinscreve a decisão correta na liberdade situada, sob limites reais, campo de potencialidades e possibilidade estrutural de erro.",
+              "Subordina verdade e decisão prática ao real, insiste na dependência de círculo e relações locais, e critica a autonomização do dever-ser por esquecimento do poder-ser.",
+              "Aplica ao direito a tese de que o dever-ser legislativo deve depender do conhecimento do que é e do que pode ser atualizado, criticando a substituição desse critério por popularidade.",
+              "Subordina a verdade prática e o dever-ser ao ser e ao pode-ser, ligando erro valorativo a erro ontológico e de escala.",
+              "Enuncia a necessidade de uma ponte filosófica entre poder-ser e dever-ser a partir da incorporação reflexiva do real.",
+              "Afirma que o dever-ser pressupõe poder-ser e deve ser inscrito na descrição do ser reflexivo localizado, não como ordem separada.",
+              "Subordina o dever-ser ao ser atual e ao contínuo relacional futuro, recusando tratá-lo como entidade autónoma.",
+              "Contrasta ser, poder-ser e dever-ser para afirmar a primazia ontológica do poder-ser e criticar a sua postergação por sistemas e descrições normativas.",
+              "Liga decisão prática à qualidade da descrição e da apreensão, recusa o mal como entidade ontológica e reconduz o mal prático a falha de apreensão do real e do possível.",
+              "Testa num caso climático que o dever-ser só tem força se for localizável, imputável e atualizável por agentes reais em escala eficaz.",
+              "Define o filósofo como agente de ponte entre ser, poder-ser e dever-ser, subordinando o que pode propor ao que o real permite.",
+              "Defende que a filosofia verdadeira conhece o ser e o poder-ser e, por isso, pode orientar o dever-ser, incorporando essa orientação em práticas e símbolos.",
+              "Afirma que decisão e ação devem assentar na verdade e no real, critica enquadramentos/sistemas autonomizados e sugere que sem campo não há liberdade efetiva nem bem.",
+              "Afirma que o valor depende da apreensão e que o dever-ser deve vir do ser integrado com o poder-ser.",
+              "Define o filósofo como agente de passagem entre ser, poder-ser e dever-ser, sem superioridade ontológica própria, e subordina o que pode propor ao que o real permite."
+            ],
+            "teses_principais_dos_fragmentos": [
+              "Certos comportamentos ganham necessidade moral por dependerem de condições reais de verdade, possibilidade e preservação, não de normatividade autónoma.",
+              "O valor só é objetivamente defensável quando subordinado ao pode-ser real e não a um deve-ser autónomo.",
+              "Um modo de vida é melhor quando permite maior atualização verdadeira das potencialidades humanas com menos limitações internas ao plano da verdade.",
+              "O dever-ser só é real enquanto subordinado ao poder-ser permitido pelo real; por isso a normatividade não é autónoma.",
+              "O critério do bem não se funda em ações locais isoladas, mas em níveis ontológicos maiores assentes no real e na verdade, dentro dos quais a liberdade opera.",
+              "A correção prática não se deduz suficientemente de categorias abstratas; depende da orientação situada do agente num campo real de potencialidades sob limites reais.",
+              "A verdade prática e política não produz uma resposta única para todo o problema local; exige dependência do real, do círculo e do poder-ser, contra a análise autónoma do dever-ser.",
+              "O propor normativo legítimo exige conhecimento ontológico do real e do poder-ser, sobretudo no discurso jurídico.",
+              "O dever-ser só é verdadeiro quando coincide com o pode-ser e com o ser, sob respeito pelas dependências ontológicas e pelos círculos de descrição.",
+              "A passagem do poder-ser ao dever-ser exige mediação filosófica fundada na condição reflexiva do ser consciente.",
+              "O dever-ser deriva do ser e do poder-ser do ente reflexivo situado; não constitui vertente autónoma.",
+              "O dever-ser não existe autonomamente; existe como orientação futura no contínuo relacional da vida, pressuposta pelo ser e pelo poder-ser do agente.",
+              "O dever-ser só é legítimo se permanecer subordinado ao poder-ser real; quando o substitui, empobrece a apreensão e bloqueia a atualização.",
+              "O bem e o mal práticos dependem da apreensão e descrição adequadas do real e do possível; o mal não é entidade ontológica.",
+              "O dever-ser perde validade operativa quando é desligado do poder-ser real, da escala causal e da possibilidade de atualização por agentes situados.",
+              "A passagem do ser e do poder-ser ao dever-ser exige mediação filosófica e não pode contrariar as permissões e limites do real.",
+              "O dever-ser legítimo deve derivar do conhecimento do que é e do que pode ser, sendo depois mediado por práticas e símbolos orientadores.",
+              "O agir e o dever-ser só se legitimam por submissão ao real e dependem de um campo efetivo de liberdade situada.",
+              "O dever-ser não é autónomo: deriva do ser e deve articular-se com a apreensão e o poder-ser.",
+              "A passagem do ser e do poder-ser ao dever-ser exige mediação reflexiva subordinada aos limites do real."
+            ],
+            "justificacoes_da_associacao": [
+              "Afirma que o comportamento valioso permanece dentro dos limites do que é e do que pode ser.",
+              "A fórmula central do fragmento é que o valor fica contido nas limitações do pode-ser.",
+              "A ideia de maximizar potencialidades humanas sob limites verdadeiros toca indiretamente a subordinação normativa ao campo do possível real.",
+              "A fórmula central do fragmento coincide quase literalmente com a subordinação do dever-ser ao pode-ser real.",
+              "A ideia de que os círculos menores operam dentro da liberdade proporcionada pelos maiores aproxima-se da tese de que a normatividade opera dentro do possível real.",
+              "Afirma que o real oferece limites e horizontes e que o homem se move num campo de potencialidades, o que subordina a decisão ao possível real.",
+              "A formulação final do fragmento opõe diretamente dever-ser analisado isoladamente ao poder-ser como lugar da verdade.",
+              "A menção ao que pode ser atualizado explicita que a normatividade incide sobre possibilidades reais e não sobre abstrações.",
+              "A fórmula 'coincide com o pode-ser' reforça a subordinação da normatividade às possibilidades reais.",
+              "A fórmula 'ponte entre o poder-ser e o dever-ser' incide diretamente na subordinação do dever-ser ao poder-ser.",
+              "A formulação central é precisamente que o dever-ser exige previamente um poder-ser.",
+              "Liga o dever-ser ao que se pode ser, não a um ideal separado do campo real de possibilidades.",
+              "A oposição central do texto é entre poder-ser real e dever-ser desligado dele.",
+              "Sustenta que para fazer o bem é preciso saber o que é possível fazer, reforçando a subordinação do dever ao possível real.",
+              "A fórmula final do fragmento liga diretamente dever-ser e poder-ser, recusando deveres impossíveis de atualizar.",
+              "O texto encadeia ser, poder-ser e dever-ser numa mesma travessia, sugerindo a subordinação do dever-ser ao possível real.",
+              "A referência ao que pode ser como base do dever-ser toca a subordinação normativa ao campo do possível real.",
+              "A ideia de que sem campo não há liberdade nem bem reforça a dependência normativa de possibilidades reais.",
+              "O texto exige integrar o dever de ser com o poder-ser, sem desenvolver ainda a passagem.",
+              "A ponte indicada percorre ser, poder-ser e dever-ser, ordenando o dever-ser pelas possibilidades reais."
+            ],
+            "o_que_os_fragmentos_acrescentam": [
+              "Acrescenta um motivo material para a derivação ética: certos comportamentos são necessários porque sustentam preservação e continuidade reais em escalas sociais pequenas.",
+              "Uma formulação intermédia útil: o valor objetivo depende de permanecer dentro das limitações do pode-ser descrito no real.",
+              "Fornece linguagem intuitiva para ligar vida boa, liberdade situada, potencialidade e verdade.",
+              "Dá formulação curta para a limitação do dever pelo poder-ser e para a recusa do livre-arbítrio como fonte autónoma do bem.",
+              "Acrescenta uma regra de ordenação: o bem local só é pensável dentro de círculos ontológicos maiores e não como critério originário.",
+              "Acrescenta uma formulação crítica contra o artificialismo moral e contra a dedução da correção prática por categorias internas desligadas da situação real.",
+              "Acrescenta a ideia de que dependência do real não implica unicidade de resposta fora de círculo, e que a normatividade falha quando ignora relações locais e poder-ser.",
+              "Fornece um caso aplicado forte para mostrar que a derivação do dever-ser exige competência sobre o ser e o poder-ser.",
+              "Fornece uma fórmula curta para ligar verdade, erro, dependência ontológica e derivação do dever-ser.",
+              "Acrescenta a ideia de que a derivação ética não é salto direto, mas ponte filosófica mediada pela reflexividade.",
+              "Reforça que a derivação do dever-ser depende ontologicamente do poder-ser e da condição reflexiva localizada.",
+              "Acrescenta uma formulação breve para negar o dever-ser como entidade separada e reinscrevê-lo no processo relacional da vida.",
+              "Dá uma formulação contrastiva forte para a subordinação do dever-ser ao poder-ser e para a crítica da sua captura sistémica.",
+              "Acrescenta uma formulação curta da dependência da ação correta face à apreensão, descrição e reconhecimento do possível.",
+              "Acrescenta um teste prático de aplicabilidade que mostra como normatividade abstrata falha quando não há agente, escala e atualização possíveis.",
+              "Acrescenta uma formulação de transição para a passagem da ontologia à ética e uma delimitação do papel do filósofo nessa passagem.",
+              "Acrescenta uma formulação aplicada da derivação do dever-ser a partir do ser e do poder-ser, com passagem para prática e simbolização.",
+              "Acrescenta uma formulação prática da subordinação da ação, da verdade e do dever-ser ao real, com nota sobre constrangimento por perda de campo.",
+              "Acrescenta uma formulação curta da derivação ontológica do dever-ser e da dependência do valor em relação à apreensão.",
+              "Acrescenta uma formulação de transição para a passagem ontologia-etica e reforça a subordinação da proposta normativa ao real."
+            ],
+            "justificacoes_novas_que_fornecem": [
+              "A normatividade prática pode ser ancorada em exigências reais de preservação, homeostasia e continuação, articuladas com verdade e possibilidade.",
+              "Fornece a ponte justificativa segundo a qual a objetividade axiológica não exige autonomia normativa; exige indexação descritiva ao poder-ser real.",
+              "Sugere que a superioridade prática de um modo de vida se mede pela maior abertura de atualização humana compatível com a verdade.",
+              "Se o dever só é real onde o real o permite, então o dever-ser não paira fora do ser nem manda o impossível; deriva de possibilidades reais.",
+              "Fornece a razão de escala pela qual o bem deve ser reconduzido ao real e à verdade antes de ser aplicado a ações particulares.",
+              "Mostra que a decisão correta em círculos menores depende da liberdade situada do agente num campo real de potencialidades, e por isso não pode ser esgotada por esquemas abstratos de ato/omissão ou maximização/minimização.",
+              "Fornece uma razão para subordinar critério e dever-ser ao real: decisões válidas variam dentro de um campo de respostas compatíveis com relações reais e escala local.",
+              "A normatividade jurídica só é defensável se quem a formula conhecer a estrutura do real e o campo de atualizações admissíveis.",
+              "Se o dever-ser pretende verdade, não pode contrariar o ser, o pode-ser nem as dependências ontológicas do real.",
+              "Fornece uma justificação fraca mas útil: o dever-ser depende do modo como o real é incorporado por um ser consciente reflexivo, logo a transição deve ser explicitada.",
+              "Se o dever-ser só opera a partir do que o ser reflexivo pode ser e atualizar, então ele pertence à descrição do ser e não a uma normatividade autónoma.",
+              "A normatividade só faz sentido como orientação futura inscrita numa relação real contínua; por isso não pode ser autónoma face ao ser e ao poder-ser.",
+              "Mostra que um dever-ser desligado do poder-ser não orienta atualização real; apenas fixa descrição limitada, desejo e trajetória sistémica.",
+              "Fornece a ideia de que a falha ética nasce de desadequação descritiva e prática, não da existência de um mal ontológico.",
+              "Fornece uma justificação pragmático-ontológica: um dever-ser sem via real de atualização por agentes localizados não orienta ação e degrada-se em mera inscrição verbal.",
+              "Fornece a ideia de que a formulação filosófica do dever-ser está internamente limitada pelo que o real permite ser.",
+              "Mostra que a normatividade não é arbitrária: deve apoiar-se no conhecimento do real e das possibilidades reais de ação.",
+              "Sugere que uma decisão que produz efeitos sobre outros só é legítima se assentar na verdade do real; e que a liberdade prática exige campo efetivo de atuação.",
+              "Fornece apoio verbal para que a normatividade não seja tomada como autónoma, mas como derivada do ser e restringida pelo poder-ser.",
+              "A autoridade filosófica não vem de um tipo de ser superior, mas da tarefa de percorrer reflexivamente a passagem entre ser, poder-ser e dever-ser sob limite real."
+            ],
+            "objecoes_que_ajudam_a_bloquear": [
+              "autonomia normativa absoluta",
+              "dever impossível",
+              "subjetivismo valorativo",
+              "falácia naturalista simplista",
+              "indiferentismo axiológico total",
+              "moralismo extrínseco",
+              "livre-arbítrio absoluto",
+              "casuística local como fundamento do bem",
+              "inversão analítica entre nível prático e nível ontológico",
+              "autonomização da ação mundana recorrente como critério do bem",
+              "formalismo moral abstrato",
+              "dedutivismo prático desligado da situação",
+              "coerência interna tomada como suficiente para correção",
+              "universalismo indiferenciado de descrição",
+              "dever-ser desligado do poder-ser",
+              "coerentização prática sem ancoragem no real",
+              "normatividade desligada do real",
+              "moralização indevida",
+              "erro de escala em proposições valorativas",
+              "coerentismo normativo desligado do real"
+            ],
+            "mediacoes_que_fornecem": [
+              "Ajuda a ligar verdade e possibilidade real à necessidade prática de certos comportamentos, fazendo ponte entre regime epistemológico e fecho ético.",
+              "Liga a descrição ontológica do poder-ser à derivação de proposições valorativas sem fornecer mediação estrutural nova indispensável.",
+              "Nao fornece mediacao estrutural nova; apenas aproxima retoricamente verdade, liberdade e vida boa.",
+              "Faz mediação curta entre ontologia do poder-ser e derivação do dever-ser, sem exigir novo passo estrutural.",
+              "Medeia a passagem entre estrutura ontológica do real e formulação ética do bem, via distinção entre círculos maiores fundantes e círculos menores operativos.",
+              "Faz mediação fraca entre liberdade situada, erro e direção prática, mas nao fornece mediacao estrutural indispensavel nova.",
+              "Liga o regime epistemológico da submissão ao real à derivação ética do dever-ser, introduzindo o caso da decisão política e da escala local.",
+              "Nao fornece mediacao estrutural nova; fornece apenas um exemplo aplicado de passagem do ser e poder-ser ao dever-ser.",
+              "Faz a ponte entre o regime epistemológico da verdade/erro e o fecho ético da derivação do dever-ser.",
+              "Liga a ontologia do poder-ser ao início do fecho ético por via da reflexividade humana; não cria elo novo indispensável, mas torna a passagem mais legível.",
+              "Faz a ponte entre liberdade/poder-ser do ser reflexivo situado e a derivação do dever-ser.",
+              "Faz ponte fraca entre a descrição do ser atual e a orientação normativa futura, sem exigir passo novo.",
+              "Ajuda a ligar a ontologia do poder-ser e da atualização ao fecho ético sobre dever-ser subordinado e crítica da degeneração sistémica.",
+              "Fornece mediação fraca entre regime epistemológico de adequação/descrição e regime ético da ação correta.",
+              "Liga dano real e responsabilidade situada à tese de que o dever-ser só vale sob poder-ser atualizável.",
+              "Liga a descrição do ser e do poder-ser à formulação do dever-ser por uma função reflexiva e filosófica de ponte, sem criar novo elo dedutivo indispensável.",
+              "Liga a derivação ontológica do dever-ser à sua incorporação prática e simbólica na orientação da ação.",
+              "Faz ponte fraca entre submissão epistemológica ao real e derivação ética do dever-ser pela liberdade situada.",
+              "Fornece mediação fraca entre a estrutura da apreensão e a derivação ética do dever-ser via integração com o poder-ser.",
+              "Liga os passos sobre ser e poder-ser aos passos sobre dever-ser, mostrando que a derivação normativa é uma travessia reflexiva e não uma ruptura."
+            ],
+            "conceitos_ou_distincoes_novas": [
+              "necessidade de preservação/homeostasia",
+              "pequena escala social como contexto de necessidade prática",
+              "distinção entre pode-ser e deve-ser",
+              "indexação das proposições valorativas às posições descritivas",
+              "distinção entre círculos maiores e círculos menores",
+              "inversão da análise ética",
+              "diferença entre ação mundana recorrente e bem",
+              "distinção entre limites reais e respostas locais",
+              "distinção entre direção do real e direção do homem",
+              "dependencia_do_real_sem_saber_total",
+              "multiplicidade_de_respostas_compativeis_em_circulo_local",
+              "critica_da_analise_do_dever_ser_sem_poder_ser",
+              "competência ontológica",
+              "legislador filósofo",
+              "popularidade vs competência ontológica",
+              "verdade do dever-ser",
+              "coincidência entre dever-ser, pode-ser e ser",
+              "círculos de descrição",
+              "ponte filosófica entre poder-ser e dever-ser",
+              "incorporação reflexiva do real"
+            ],
+            "propostas_de_nova_formulacao": [
+              "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+              "As proposições valorativas só reclamam objetividade quando permanecem indexadas às possibilidades reais inscritas na descrição do que é; por isso, o dever-ser válido deriva do poder-ser real e não de uma normatividade autónoma.",
+              "O melhor modo de viver é aquele em que a liberdade situada pode atualizar mais potencialidades humanas sem romper a submissão da ação à verdade e ao real.",
+              "O dever-ser só tem realidade normativa enquanto subordinado ao poder-ser real: não exprime um além do ser, mas a exigência operativa do que pode e deve atualizar-se adequadamente no real.",
+              "O bem não se determina a partir de casos locais isolados, mas pela adequação da ação a círculos ontológicos maiores assentes no real e na verdade, dentro dos quais a liberdade humana se exerce.",
+              "A direção prática não é dedutível de categorias abstratas isoladas, mas exige fixação operativa situada no campo real de potencialidades e sob limites reais.",
+              "O dever-ser só é legítimo quando derivado de descrição suficiente do real e subordinado ao poder-ser efetivo do campo e da escala em causa.",
+              "O dever-ser prático e jurídico só é legítimo enquanto derivação operativa do que é e do que pode realmente ser atualizado.",
+              "O dever-ser só é verdadeiro quando permanece subordinado ao ser e ao poder-ser reais, respeitando dependências ontológicas e a escala adequada de descrição.",
+              "A passagem do poder-ser ao dever-ser exige mediação filosófica: o dever-ser só é inteligível a partir do modo como o real é assumido por um ser reflexivo situado."
+            ],
+            "propostas_de_novo_passo": [],
+            "entre_que_passos_deveria_entrar": [
+              "P48",
+              "P49",
+              "P46",
+              "P47"
+            ],
+            "observacoes_finais": [
+              "Útil para reforçar a justificação de P46-P48, mas ainda instável e redacionalmente cru.",
+              "A primeira metade é útil para P46-P48; a aplicação a robotização/UBI é dispersiva e não deve entrar no mapa sem retrabalho forte.",
+              "Aproveitável como formulação ética intuitiva; não sustenta, na forma atual, novo passo dedutivo.",
+              "Fragmento útil para densificar sobretudo P47-P48; não altera a arquitetura do mapa.",
+              "Impacto real mas não arquitetónico; serve sobretudo para densificar a justificação e a escala de P44-P48.",
+              "Útil para reforçar a justificação dos passos ético-práticos; não altera a arquitetura do mapa.",
+              "Impacto real, mas sobretudo justificativo: reforça P22, P33, P47 e P48 sem alterar a arquitetura.",
+              "Útil como densificação aplicada da derivação ontológica da normatividade, mas não altera a arquitetura do mapa.",
+              "Impacto real sobretudo em P47-P48; útil como reforço e ponte, mas a formulação está condensada e instável.",
+              "Útil como ponte justificativa da transição ética; não altera a arquitetura do mapa.",
+              "Fragmento útil para robustecer P47-P48; não altera a arquitetura do mapa.",
+              "Útil para densificar P47-P48, mas a formulação atual é elíptica e pode soar circular sem reescrita.",
+              "Útil para densificar P47-P48 e a crítica ao fechamento sistémico, sem criar passo novo.",
+              "Útil para densificar P44-P48, mas com instabilidade categorial entre descrição, apreensão, representação e ontologia.",
+              "Impacto real mas local: densifica sobretudo P47-P49 com um caso aplicado; não altera a arquitetura.",
+              "Útil como ponte redacional forte entre fecho epistemológico-prático e derivação do dever-ser; não altera a arquitetura.",
+              "Útil para densificar a justificação de P47-P48 e a passagem prática para P43; o exemplo cristão é ilustrativo, não estrutural.",
+              "Útil para reforçar a passagem P33→P47→P48/P29, mas demasiado instável para alterar a arquitetura.",
+              "Útil para densificar P47-P48, mas ainda demasiado assertivo e instável para alterar a arquitetura.",
+              "Fragmento útil como ponte justificativa da derivação do dever-ser, sem exigir alteração da arquitetura."
+            ]
+          },
+          "diagnostico_estrutural": {
+            "estabilidade": "estavel_mas_a_densificar",
+            "necessidade_principal": "explicitar_mediacoes",
+            "acao_estrutural_recomendada": "densificar",
+            "indicios_de_reescrita": 0,
+            "indicios_de_divisao": 0,
+            "indicios_de_passo_intermedio": 0,
+            "necessita_revisao_humana_em": 11,
+            "diagnostico_textual": "A proposição P48 foi tocada por 21 fragmento(s). A pressão dominante vem da zona etica_ontologica. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+          },
+          "nova_formulacao_provisoria": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida."
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.blocos[6].proposicoes[2]",
+        "match": {
+          "id": "P48",
+          "numero": 48,
+          "proposicao": "O dever-ser é subordinado ao poder-ser real.",
+          "descricao_curta": "Não manda o impossível; orienta o possível real.",
+          "depende_de": [
+            "P13",
+            "P14",
+            "P15",
+            "P47"
+          ],
+          "prepara": [
+            "P49"
+          ],
+          "justificacao": {
+            "tese_minima": "O dever-ser é subordinado ao poder-ser real.",
+            "justificacao_interna_do_passo": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "normatividade_possivel"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar melhor a relação entre normatividade e possibilidade real.",
+            "objecoes_tipicas_a_bloquear": [
+              "dever impossível"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$[3].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P48",
+          "numero": 48,
+          "proposicao_resumida": "O dever-ser é subordinado ao poder-ser real.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "Afirma que o comportamento valioso permanece dentro dos limites do que é e do que pode ser."
+        }
+      },
+      {
+        "path": "$[16].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P48",
+          "numero": 48,
+          "proposicao_resumida": "O dever-ser é subordinado ao poder-ser real.",
+          "grau_de_relevancia": "alto",
+          "tipo_de_relacao": "toca_diretamente",
+          "justificacao_da_associacao": "A fórmula central do fragmento é que o valor fica contido nas limitações do pode-ser."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Decide, para o passo P48 no corredor P42_P48:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P48",
+  "subpasso_id": "P48_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "P48",
+    "entra_apos_passo_id": "P44 ou null",
+    "entra_antes_de_passo_id": "P45 ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

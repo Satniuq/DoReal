@@ -1,0 +1,215 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P43",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:18:31+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P43",
+    "numero_final": 43,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P32",
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37",
+      "P42"
+    ],
+    "prepara": [
+      "P44"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "justificacao_expandida_final": "Se a direção prática permanece apenas como orientação geral, ela ainda não pode guiar correção efetiva da ação. Para se tornar operável, tem de ser traduzida em critérios de discernimento e em vetores de ação ajustados ao campo real de relações, possibilidades e limites em que o agente está situado. Só essa fixação operativa impede que a direção permaneça abstrata e torna possível a passagem para determinações normativas ulteriores.",
+    "ponte_entrada": "De P42 recebe-se que a orientação prática deve permanecer inscrita no real e não pode valer como pura abstração; por isso, o passo seguinte é exigir que essa orientação se traduza operativamente em critérios e vetores de ação situados.",
+    "ponte_saida": "Uma vez estabelecido que a orientação só vale praticamente quando se fixa em critérios e vetores situados, torna-se possível passar em P44 à explicitação de como essa orientação pode servir de base a determinações práticas mais definidas sem salto dedutivo.",
+    "porque_o_anterior_nao_basta": "P42 e os passos anteriores ainda asseguram apenas a reinscrição da direção prática no real e a crítica da abstração, mas não mostram ainda a forma operativa pela qual essa direção se torna critério de correção e vetor de ação em situação.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a cadeia passaria da direção prática inscrita no real para determinações posteriores sem explicitar a mediação decisiva entre orientação geral e operabilidade situada, produzindo um salto dedutivo.",
+    "objecao_letal": "direção meramente abstrata",
+    "bloqueio_curto": "Uma direção que não se traduza em critérios e vetores situados não orienta efetivamente a ação; permanece apenas abstrata e, por isso, insuficiente como direção prática.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "direção meramente abstrata",
+      "liberdade abstrata sem inscrição no real",
+      "dever-ser como pura construção teórica explícita",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "coerência interna tomada como suficiente para correção",
+      "correção como mera coerentização"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0073_SEG_002",
+      "F0106_SEG_002",
+      "F0120_SEG_001",
+      "F0098_A03_SEG_001",
+      "F0163_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação mediacional sem alterar o núcleo do passo.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P43",
+    "numero_final": 43,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P32",
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37",
+      "P42"
+    ],
+    "prepara": [
+      "P44"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "justificacao_minima_suficiente": "Se a direção prática permanece apenas como orientação geral, ela ainda não pode guiar correção efetiva da ação. Para se tornar operável, tem de ser traduzida em critérios de discernimento e em vetores de ação ajustados ao campo real de relações, possibilidades e limites em que o agente está situado. Só essa fixação operativa impede que a direção permaneça abstrata e torna possível a passagem para determinações normativas ulteriores.",
+    "ponte_entrada": "De P42 recebe-se que a orientação prática deve permanecer inscrita no real e não pode valer como pura abstração; por isso, o passo seguinte é exigir que essa orientação se traduza operativamente em critérios e vetores de ação situados.",
+    "ponte_saida": "Uma vez estabelecido que a orientação só vale praticamente quando se fixa em critérios e vetores situados, torna-se possível passar em P44 à explicitação de como essa orientação pode servir de base a determinações práticas mais definidas sem salto dedutivo.",
+    "porque_o_anterior_nao_basta": "P42 e os passos anteriores ainda asseguram apenas a reinscrição da direção prática no real e a crítica da abstração, mas não mostram ainda a forma operativa pela qual essa direção se torna critério de correção e vetor de ação em situação.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a cadeia passaria da direção prática inscrita no real para determinações posteriores sem explicitar a mediação decisiva entre orientação geral e operabilidade situada, produzindo um salto dedutivo.",
+    "objecao_letal_a_bloquear": "direção meramente abstrata",
+    "bloqueio_curto_da_objecao": "Uma direção que não se traduza em critérios e vetores situados não orienta efetivamente a ação; permanece apenas abstrata e, por isso, insuficiente como direção prática.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0073_SEG_002",
+      "F0106_SEG_002",
+      "F0120_SEG_001",
+      "F0098_A03_SEG_001",
+      "F0163_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "direção meramente abstrata",
+      "liberdade abstrata sem inscrição no real",
+      "dever-ser como pura construção teórica explícita",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "coerência interna tomada como suficiente para correção",
+      "correção como mera coerentização"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P43 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: direção meramente abstrata. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação mediacional sem alterar o núcleo do passo."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_073ff1cc297df2090069b99adf033c819a911585d7276a863f",
+      "object": "response",
+      "created_at": 1773771487,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771500,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_073ff1cc297df2090069b99ae05650819a8d4ad1fa19cc11f3",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P42_P48\",\n  \"passo_id\": \"P43\",\n  \"numero_final\": 43,\n  \"bloco_id\": \"BLOCO_VI\",\n  \"bloco_titulo\": \"Passagem da epistemologia à ética ontológica\",\n  \"depende_de\": [\n    \"P32\",\n    \"P33\",\n    \"P34\",\n    \"P35\",\n    \"P36\",\n    \"P37\",\n    \"P42\"\n  ],\n  \"prepara\": [\n    \"P44\"\n  ],\n  \"estado_inicial_do_passo\": \"quase_fechado\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"A orientação prática exige tradução operativa em critérios e vetores de ação situados.\",\n  \"justificacao_expandida_final\": \"Se a direção prática permanece apenas como orientação geral, ela ainda não pode guiar correção efetiva da ação. Para se tornar operável, tem de ser traduzida em critérios de discernimento e em vetores de ação ajustados ao campo real de relações, possibilidades e limites em que o agente está situado. Só essa fixação operativa impede que a direção permaneça abstrata e torna possível a passagem para determinações normativas ulteriores.\",\n  \"ponte_entrada\": \"De P42 recebe-se que a orientação prática deve permanecer inscrita no real e não pode valer como pura abstração; por isso, o passo seguinte é exigir que essa orientação se traduza operativamente em critérios e vetores de ação situados.\",\n  \"ponte_saida\": \"Uma vez estabelecido que a orientação só vale praticamente quando se fixa em critérios e vetores situados, torna-se possível passar em P44 à explicitação de como essa orientação pode servir de base a determinações práticas mais definidas sem salto dedutivo.\",\n  \"porque_o_anterior_nao_basta\": \"P42 e os passos anteriores ainda asseguram apenas a reinscrição da direção prática no real e a crítica da abstração, mas não mostram ainda a forma operativa pela qual essa direção se torna critério de correção e vetor de ação em situação.\",\n  \"porque_nao_pode_ser_suprimido\": \"Sem este passo, a cadeia passaria da direção prática inscrita no real para determinações posteriores sem explicitar a mediação decisiva entre orientação geral e operabilidade situada, produzindo um salto dedutivo.\",\n  \"objecao_letal\": \"direção meramente abstrata\",\n  \"bloqueio_curto\": \"Uma direção que não se traduza em critérios e vetores situados não orienta efetivamente a ação; permanece apenas abstrata e, por isso, insuficiente como direção prática.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"direção meramente abstrata\",\n    \"liberdade abstrata sem inscrição no real\",\n    \"dever-ser como pura construção teórica explícita\",\n    \"formalismo moral abstrato\",\n    \"dedutivismo prático desligado da situação\",\n    \"coerência interna tomada como suficiente para correção\",\n    \"correção como mera coerentização\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0073_SEG_002\",\n    \"F0106_SEG_002\",\n    \"F0120_SEG_001\",\n    \"F0098_A03_SEG_001\",\n    \"F0163_SEG_001\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação mediacional sem alterar o núcleo do passo.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 11179,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 918,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12097
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P43.raw.txt"
+}

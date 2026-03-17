@@ -1,0 +1,188 @@
+{
+  "manifesto_id": "FECHO_CANONICO_MAPA_DEDUTIVO",
+  "versao": "1.0.0",
+  "usar_caminhos_relativos": true,
+  "raiz_manifesto": ".",
+  "execucao_local": {
+    "orquestrador": "orquestrador_fecho_canonico_api.py",
+    "consolidador": "consolidador_fecho_canonico.py",
+    "modo_execucao": "local_auditavel",
+    "corredor_inicial_default": "P33_P37",
+    "ordem_de_fecho_corredores": [
+      {
+        "corredor": "P33_P37",
+        "ordem": 1,
+        "dossier": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json"
+      },
+      {
+        "corredor": "P25_P30",
+        "ordem": 2,
+        "dossier": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json"
+      },
+      {
+        "corredor": "P42_P48",
+        "ordem": 3,
+        "dossier": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json"
+      },
+      {
+        "corredor": "P50",
+        "ordem": 4,
+        "dossier": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P50.json"
+      }
+    ],
+    "diretorios": {
+      "dados": "dados",
+      "prompts": "prompts",
+      "schemas": "schemas",
+      "outputs": "outputs",
+      "logs": "logs",
+      "prompts_enviados": "prompts_enviados",
+      "respostas_modelo": "respostas_modelo"
+    },
+    "resolucao_de_inputs": {
+      "preferir_inputs_nucleares_locais": true,
+      "permitir_inputs_secundarios_externos_relativos": true
+    }
+  },
+  "inputs_nucleares": {
+    "matriz_inevitabilidades_v4": {
+      "path": "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "obrigatorio": true,
+      "tipo": "matriz_de_inevitabilidades"
+    },
+    "mapa_dedutivo_precanonico_v4": {
+      "path": "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "obrigatorio": true,
+      "tipo": "mapa_precanonico"
+    },
+    "relatorio_fecho_canonico_v4": {
+      "path": "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "obrigatorio": true,
+      "tipo": "relatorio_de_fecho"
+    },
+    "dossier_corredor_P33_P37": {
+      "path": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "obrigatorio": true,
+      "tipo": "dossier_de_corredor",
+      "corredor": "P33_P37",
+      "ordem_fecho": 1
+    },
+    "dossier_corredor_P25_P30": {
+      "path": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "obrigatorio": true,
+      "tipo": "dossier_de_corredor",
+      "corredor": "P25_P30",
+      "ordem_fecho": 2
+    },
+    "dossier_corredor_P42_P48": {
+      "path": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "obrigatorio": true,
+      "tipo": "dossier_de_corredor",
+      "corredor": "P42_P48",
+      "ordem_fecho": 3
+    },
+    "dossier_corredor_P50": {
+      "path": "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P50.json",
+      "obrigatorio": true,
+      "tipo": "dossier_de_corredor",
+      "corredor": "P50",
+      "ordem_fecho": 4
+    }
+  },
+  "inputs_secundarios": {
+    "revisao_estrutural_do_mapa": {
+      "path": "../revisao_estrutural_do_mapa.json",
+      "obrigatorio": false,
+      "tipo": "apoio_estrutural"
+    },
+    "mapa_dedutivo_arquitetura_fragmentos": {
+      "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "obrigatorio": false,
+      "tipo": "apoio_arquitetural"
+    },
+    "argumentos_unificados": {
+      "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "obrigatorio": false,
+      "tipo": "apoio_argumentativo"
+    },
+    "indice_por_percurso": {
+      "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "obrigatorio": false,
+      "tipo": "apoio_de_percurso"
+    },
+    "impacto_fragmentos_no_mapa": {
+      "path": "../impacto_fragmentos_no_mapa.json",
+      "obrigatorio": false,
+      "tipo": "apoio_fragmentario"
+    },
+    "tratamento_filosofico_fragmentos": {
+      "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+      "obrigatorio": false,
+      "tipo": "apoio_filosofico_fragmentario"
+    }
+  },
+  "prompts": {
+    "prompt_passo_nuclear": {
+      "path": "prompts/prompt_passo_nuclear.txt",
+      "obrigatorio": true,
+      "funcao": "fecho_por_passo"
+    },
+    "prompt_subpasso_mediacional": {
+      "path": "prompts/prompt_subpasso_mediacional.txt",
+      "obrigatorio": true,
+      "funcao": "fecho_por_subpasso"
+    },
+    "prompt_arbitragem_corredor": {
+      "path": "prompts/prompt_arbitragem_corredor.txt",
+      "obrigatorio": true,
+      "funcao": "fecho_por_corredor"
+    },
+    "prompt_argumento_complementar": {
+      "path": "prompts/prompt_argumento_complementar.txt",
+      "obrigatorio": true,
+      "funcao": "reforco_argumentativo_local"
+    }
+  },
+  "schemas": {
+    "schema_decisao_passo": {
+      "path": "schemas/schema_decisao_passo.json",
+      "obrigatorio": true,
+      "valida": "decisao_por_passo"
+    },
+    "schema_decisao_subpasso": {
+      "path": "schemas/schema_decisao_subpasso.json",
+      "obrigatorio": true,
+      "valida": "decisao_por_subpasso"
+    },
+    "schema_arbitragem_corredor": {
+      "path": "schemas/schema_arbitragem_corredor.json",
+      "obrigatorio": true,
+      "valida": "decisao_por_corredor"
+    },
+    "schema_decisoes_canonicas_intermedias": {
+      "path": "schemas/schema_decisoes_canonicas_intermedias.json",
+      "obrigatorio": true,
+      "valida": "agregado_de_decisoes_intermedias"
+    }
+  },
+  "outputs_intermedios": {
+    "decisoes_canonicas_intermedias": {
+      "path": "outputs/decisoes_canonicas_intermedias.json",
+      "obrigatorio": true,
+      "gerado_por": "orquestrador_fecho_canonico_api.py",
+      "schema": "schemas/schema_decisoes_canonicas_intermedias.json"
+    }
+  },
+  "outputs_finais": {
+    "mapa_dedutivo_canonico_final": {
+      "path": "outputs/mapa_dedutivo_canonico_final.json",
+      "obrigatorio": true,
+      "gerado_por": "consolidador_fecho_canonico.py"
+    },
+    "relatorio_final_de_inevitabilidades": {
+      "path": "outputs/relatorio_final_de_inevitabilidades.json",
+      "obrigatorio": true,
+      "gerado_por": "consolidador_fecho_canonico.py"
+    }
+  }
+}

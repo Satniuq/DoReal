@@ -1,0 +1,54 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P50",
+  "passo_pai_id": "P50",
+  "subpasso_id": "P50_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Embora os materiais preliminares assinalem fragilidade mediacional e sugiram um subpasso, a formulação canónica final de P50 já densifica internamente a passagem decisiva: da subordinação da normatividade ao real e da caracterização do ser reflexivo, vulnerável e situado, para a conclusão de que o seu estatuto impõe um limite normativo forte chamado dignidade. Essa mediação ficou incorporada no próprio passo por justificação suficiente, bloqueando a objeção de convencionalismo sem exigir uma unidade inferencial autónoma adicional. Um subpasso aqui repetiria a derivação já explicitada no passo pai, em vez de resolver um salto ainda aberto.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P50",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária foi absorvida pela densificação do próprio P50 e o passo fecha canonicamente sem subdivisão."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "dignidade como puro convencionalismo",
+  "bloqueio_curto": "A dignidade não entra como convenção externa, mas como expressão normativa do estatuto real do ser reflexivo, vulnerável, situado e capaz de orientação.",
+  "fragmentos_selecionados_finais": [
+    "F0024_SEG_001",
+    "F0063_A01_SEG_003",
+    "F0088_A02_SEG_003",
+    "F0089_SEG_002",
+    "F0121_A02_SEG_002",
+    "F0241_A06_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "dignidade como puro convencionalismo",
+    "coerentismo institucional",
+    "positivismo normativo desligado do real",
+    "autonomia normativa absoluta",
+    "convencionalismo axiológico",
+    "valor social como entidade autónoma",
+    "uso da dignidade como licença subjetiva",
+    "justificação prática contra o real",
+    "moralismo desligado do real",
+    "resposta ética fundada apenas em coerência interna"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fecho obtido por densificação interna de P50.",
+  "pendencias": []
+}

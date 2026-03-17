@@ -1,0 +1,91 @@
+{
+  "tipo_registo": "arbitragem_corredor",
+  "corredor": "P25_P30",
+  "sequencia_minima_do_corredor": [
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30"
+  ],
+  "decisoes_por_passo_referenciadas": [
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30"
+  ],
+  "decisoes_por_subpasso_referenciadas": [
+    "P25_SP01",
+    "P26_SP01",
+    "P27_SP01",
+    "P28_SP01",
+    "P29_SP01",
+    "P30_SP01"
+  ],
+  "passos_fechados": [
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30"
+  ],
+  "passos_quase_fechados": [],
+  "passos_a_reabrir": [],
+  "subpassos_aprovados": [],
+  "formulacoes_fixadas": [
+    {
+      "passo_id": "P25",
+      "formulacao_canonica_final": "A apreensão é a relação situada e originária de contacto com o real por parte de um ente localizado."
+    },
+    {
+      "passo_id": "P26",
+      "formulacao_canonica_final": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização."
+    },
+    {
+      "passo_id": "P27",
+      "formulacao_canonica_final": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável."
+    },
+    {
+      "passo_id": "P28",
+      "formulacao_canonica_final": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano."
+    },
+    {
+      "passo_id": "P29",
+      "formulacao_canonica_final": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real."
+    },
+    {
+      "passo_id": "P30",
+      "formulacao_canonica_final": "A reflexividade humana produz representações do real no interior da sua inserção ontológica e prática."
+    }
+  ],
+  "sequencia_minima_ficou_fechada": true,
+  "estado_final_do_corredor": "fechado",
+  "criterio_de_fecho_aplicado": "O corredor foi considerado fechado porque todos os passos indispensáveis da sequência mínima P25-P30 estão localmente fechados; as pontes de entrada e saída são coerentes na progressão apreensão -> representação operável -> estabilização linguística -> reinscrição da consciência no real -> liberdade situada -> produção reflexiva de representações; as objeções letais de cada passo estão explicitamente bloqueadas; os subpassos antes sugeridos foram legitimamente absorvidos no fecho intrapasso e, por isso, não permanecem como exigências autónomas; não resta salto dedutivo impeditivo entre passos consecutivos no corredor.",
+  "justificacao_da_arbitragem": "No corredor P25_P30, as decisões finais por passo resolvem as fragilidades de formulação e mediação identificadas no recorte pré-canónico. P25 fixa a apreensão como contacto situado e originário, bloqueando o representacionalismo originário. P26 mostra que a representação deriva da apreensão como transformação mediada, bloqueando a tese de representação originária. P27 explicita a linguagem como regime simbólico de estabilização da representação operável sem reduzir o real à linguagem. P28 reinscreve a consciência como processo real, localizado e mediado, eliminando a exterioridade extramundana. P29 formula a liberdade como orientação situada no campo do poder-ser real, distinguindo-a de livre-arbítrio absoluto e de determinismo anulador. P30 fixa o representar como função reflexiva derivada da inserção ontológica e prática. Os subpassos sugeridos em P25 e P28, bem como os restantes rejeitados, foram adequadamente absorvidos na densificação ou reformulação dos passos pai, sem deixar lacuna residual. Assim, a sequência mínima do corredor ficou realmente fechada.",
+  "pendencias_remanescentes": [],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON",
+    "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+    "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+    "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+    "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json",
+    "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+  ],
+  "observacoes_editoriais": [
+    "Nenhum passo necessita reabertura local.",
+    "Nenhum subpasso autónomo é indispensável neste corredor.",
+    "As formulações finais dos seis passos podem ficar fixadas."
+  ]
+}

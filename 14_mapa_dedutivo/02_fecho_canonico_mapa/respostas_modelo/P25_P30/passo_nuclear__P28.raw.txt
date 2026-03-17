@@ -1,0 +1,65 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P25_P30",
+  "passo_id": "P28",
+  "numero_final": 28,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P24",
+    "P25",
+    "P26",
+    "P27"
+  ],
+  "prepara": [
+    "P29"
+  ],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+  "justificacao_expandida_final": "Se o humano é localizado e se apreende, representa e simboliza no real, então também a consciência não pode ser posta fora desse mesmo campo. Ela tem de ser entendida como processo situado e mediado no interior do real, inclusive nas mediações representativas e linguísticas, e não como instância soberana ou exterior a partir da qual o real seria apenas julgado de fora.",
+  "ponte_entrada": "Do passo anterior recebe-se que a representação e a simbolização pertencem ao modo humano de estar no real; por isso, a consciência que nelas opera tem de ser reinscrita como processo real, localizado e mediado.",
+  "ponte_saida": "Uma vez reinscrita a consciência no real como processo localizado e mediado, fica preparada a passagem para P29, sem salto para o nível seguinte da reflexividade humana.",
+  "porque_o_anterior_nao_basta": "Os passos P24, P25, P26 e P27 mostram localização, apreensão, representação e simbolização no real, mas ainda não explicitam a conclusão decisiva de que a própria consciência deve ser pensada nesses mesmos termos, bloqueando a sua exteriorização.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a transição para P29 perde a mediação que reinscreve a consciência no real e a sequência fica exposta ao salto dedutivo e ao retorno de um dualismo extramundano.",
+  "objecao_letal": "dualismo extramundano",
+  "bloqueio_curto": "Se a consciência opera por apreensão, representação e simbolização no real, ela não pode ser uma instância exterior ao real; tem de ser processo seu, localizado e mediado.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "dualismo extramundano",
+    "consciência como instância soberana",
+    "consciência como acidente absoluto",
+    "consciência como exterior ao real",
+    "consciência como instância exterior ao real",
+    "psicologismo do pensamento",
+    "representacionalismo sem referente",
+    "fechamento da consciência em si mesma",
+    "excepcionalismo ontológico da consciência",
+    "negação do real a partir da opacidade da consciência",
+    "consciência como instância desencarnada"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003",
+    "F0241_A23_SEG_001",
+    "F0167_SEG_001",
+    "F0113_A01_SEG_001",
+    "F0107_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da mediação entre representação/simbolização e reinscrição ontológica da consciência.",
+  "pendencias": []
+}

@@ -1,0 +1,232 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P34",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:13:46+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P34",
+    "numero_final": 34,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P31",
+      "P32",
+      "P33"
+    ],
+    "prepara": [
+      "P35"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+    "justificacao_expandida_final": "Se o conhecimento é representação de um real que não depende dela, então a verdade não pode reduzir-se à coerência interna da representação nem ao seu mero êxito discursivo. Há verdade quando a representação se ajusta ao real a que se refere, mas esse ajustamento só vale como verdade sob critério operativo; e tal critério, para não se fechar na consciência nem converter-se em mera persuasão, tem de estar ele mesmo submetido ao próprio real. Por isso, verdade é adequação da representação ao real sob critério operativo submetido ao real.",
+    "ponte_entrada": "Do passo anterior resulta que a representação cognitiva permanece referida ao real e corrigível por ele; por isso, o regime de verdade correspondente tem de ser definido como adequação ao real sob critério que também responda ao real.",
+    "ponte_saida": "Uma vez fixado que a verdade depende dessa adequação sob critério submetido ao real, pode-se passar ao passo seguinte explicitando as consequências normativas e corretivas desse regime de verdade.",
+    "porque_o_anterior_nao_basta": "Os passos P31, P32 e P33 ainda não explicitam de forma unificada que a verdade exige simultaneamente adequação, critério operativo e submissão desse critério ao real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde a definição mediadora do regime de verdade e surge como salto dedutivo.",
+    "objecao_letal": "verdade como coerência pura",
+    "bloqueio_curto": "Coerência interna pode ordenar representações, mas não basta para verdade se o critério não estiver submetido ao real a que a representação deve adequar-se.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "verdade como coerência pura",
+      "verdade como consenso",
+      "erro sem implicação corretiva",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "coerência aparente basta para verdade",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "pragmatismo desligado do real",
+      "coerência modelar sem referência ao real",
+      "coerentismo fechado",
+      "formalismo da verdade"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A25_SEG_003",
+      "F0241_A02_SEG_002",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0108_A02_SEG_002",
+      "F0106_SEG_003",
+      "F0106_SEG_002",
+      "F0104_A01_SEG_005",
+      "F0084_A02_SEG_002",
+      "F0070_SEG_002",
+      "F0061_SEG_002",
+      "F0054_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação sem alterar o núcleo canónico.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P34",
+    "numero_final": 34,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P31",
+      "P32",
+      "P33"
+    ],
+    "prepara": [
+      "P35"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+    "justificacao_minima_suficiente": "Se o conhecimento é representação de um real que não depende dela, então a verdade não pode reduzir-se à coerência interna da representação nem ao seu mero êxito discursivo. Há verdade quando a representação se ajusta ao real a que se refere, mas esse ajustamento só vale como verdade sob critério operativo; e tal critério, para não se fechar na consciência nem converter-se em mera persuasão, tem de estar ele mesmo submetido ao próprio real. Por isso, verdade é adequação da representação ao real sob critério operativo submetido ao real.",
+    "ponte_entrada": "Do passo anterior resulta que a representação cognitiva permanece referida ao real e corrigível por ele; por isso, o regime de verdade correspondente tem de ser definido como adequação ao real sob critério que também responda ao real.",
+    "ponte_saida": "Uma vez fixado que a verdade depende dessa adequação sob critério submetido ao real, pode-se passar ao passo seguinte explicitando as consequências normativas e corretivas desse regime de verdade.",
+    "porque_o_anterior_nao_basta": "Os passos P31, P32 e P33 ainda não explicitam de forma unificada que a verdade exige simultaneamente adequação, critério operativo e submissão desse critério ao real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde a definição mediadora do regime de verdade e surge como salto dedutivo.",
+    "objecao_letal_a_bloquear": "verdade como coerência pura",
+    "bloqueio_curto_da_objecao": "Coerência interna pode ordenar representações, mas não basta para verdade se o critério não estiver submetido ao real a que a representação deve adequar-se.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_003",
+      "F0241_A02_SEG_002",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0108_A02_SEG_002",
+      "F0106_SEG_003",
+      "F0106_SEG_002",
+      "F0104_A01_SEG_005",
+      "F0084_A02_SEG_002",
+      "F0070_SEG_002",
+      "F0061_SEG_002",
+      "F0054_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "verdade como coerência pura",
+      "verdade como consenso",
+      "erro sem implicação corretiva",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "coerência aparente basta para verdade",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "pragmatismo desligado do real",
+      "coerência modelar sem referência ao real",
+      "coerentismo fechado",
+      "formalismo da verdade"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P34 no corredor P33_P37. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: verdade como coerência pura. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação sem alterar o núcleo canónico."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0a1a2230a360bc010069b999c031d48198961bafd624a0a295",
+      "object": "response",
+      "created_at": 1773771200,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771216,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0a1a2230a360bc010069b999c19abc8198a7f42faa2ba6c94d",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P33_P37\",\n  \"passo_id\": \"P34\",\n  \"numero_final\": 34,\n  \"bloco_id\": \"BLOCO_V\",\n  \"bloco_titulo\": \"Epistemologia derivada da ontologia\",\n  \"depende_de\": [\n    \"P31\",\n    \"P32\",\n    \"P33\"\n  ],\n  \"prepara\": [\n    \"P35\"\n  ],\n  \"estado_inicial_do_passo\": \"quase_fechado\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.\",\n  \"justificacao_expandida_final\": \"Se o conhecimento é representação de um real que não depende dela, então a verdade não pode reduzir-se à coerência interna da representação nem ao seu mero êxito discursivo. Há verdade quando a representação se ajusta ao real a que se refere, mas esse ajustamento só vale como verdade sob critério operativo; e tal critério, para não se fechar na consciência nem converter-se em mera persuasão, tem de estar ele mesmo submetido ao próprio real. Por isso, verdade é adequação da representação ao real sob critério operativo submetido ao real.\",\n  \"ponte_entrada\": \"Do passo anterior resulta que a representação cognitiva permanece referida ao real e corrigível por ele; por isso, o regime de verdade correspondente tem de ser definido como adequação ao real sob critério que também responda ao real.\",\n  \"ponte_saida\": \"Uma vez fixado que a verdade depende dessa adequação sob critério submetido ao real, pode-se passar ao passo seguinte explicitando as consequências normativas e corretivas desse regime de verdade.\",\n  \"porque_o_anterior_nao_basta\": \"Os passos P31, P32 e P33 ainda não explicitam de forma unificada que a verdade exige simultaneamente adequação, critério operativo e submissão desse critério ao real.\",\n  \"porque_nao_pode_ser_suprimido\": \"Se este passo for suprimido, a passagem para P35 perde a definição mediadora do regime de verdade e surge como salto dedutivo.\",\n  \"objecao_letal\": \"verdade como coerência pura\",\n  \"bloqueio_curto\": \"Coerência interna pode ordenar representações, mas não basta para verdade se o critério não estiver submetido ao real a que a representação deve adequar-se.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"verdade como coerência pura\",\n    \"verdade como consenso\",\n    \"erro sem implicação corretiva\",\n    \"verdade como mera forma discursiva\",\n    \"critério reduzido à persuasão intelectual\",\n    \"coerência aparente basta para verdade\",\n    \"representacionalismo sem referente\",\n    \"fechamento da consciência em si mesma\",\n    \"pragmatismo desligado do real\",\n    \"coerência modelar sem referência ao real\",\n    \"coerentismo fechado\",\n    \"formalismo da verdade\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A25_SEG_003\",\n    \"F0241_A02_SEG_002\",\n    \"F0160_SEG_001\",\n    \"F0119_A01_SEG_003\",\n    \"F0108_A02_SEG_002\",\n    \"F0106_SEG_003\",\n    \"F0106_SEG_002\",\n    \"F0104_A01_SEG_005\",\n    \"F0084_A02_SEG_002\",\n    \"F0070_SEG_002\",\n    \"F0061_SEG_002\",\n    \"F0054_SEG_001\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação da mediação sem alterar o núcleo canónico.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 6696,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1004,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7700
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P34.raw.txt"
+}

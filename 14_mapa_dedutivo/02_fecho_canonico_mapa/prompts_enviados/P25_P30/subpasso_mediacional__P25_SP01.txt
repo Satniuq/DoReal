@@ -1,0 +1,746 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P25_P30
+PASSO_PAI_ID=P25
+SUBPASSO_ID_SUGERIDO=P25_SP01
+NUMERO_ORDINAL_SUGERIDO=1
+PASSO_ANTERIOR_ID=P24
+PASSO_SEGUINTE_ID=P26
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{
+  "raw": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P25",
+    "numero_final": 25,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24"
+    ],
+    "prepara": [
+      "P26"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A apreensão é a relação situada e originária de contacto com o real por parte de um ente localizado.",
+    "justificacao_expandida_final": "Dado P24, o humano não comparece como instância exterior ao real, mas como ente nele situado e localizado. Nessa condição, o seu acesso inicial ao real não precisa de ser construído por representação ou interpretação prévias: há já um contacto situado com o que é real. A esse contacto originário chama-se apreensão. Assim, dizer que o ser humano apreende é dizer que, por ser um ente localizado, entra originariamente em relação com o real antes de qualquer tematização reflexiva.",
+    "ponte_entrada": "A partir de P24, uma vez reconhecido o humano como ente localizado no real, torna-se necessário explicitar a forma mínima dessa inserção cognoscitiva: ele apreende o real em contacto situado.",
+    "ponte_saida": "Se a apreensão é já contacto situado e originário com o real, então P26 pode avançar a partir desse contacto para a explicitação seguinte sem depender de um salto representacional.",
+    "porque_o_anterior_nao_basta": "P24 não basta porque ainda não explicita que a relação do ente localizado com o real se dá como apreensão, isto é, como contacto situado e originário.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P24 para P26 perde a mediação que transforma a mera localização do humano no real numa relação efetiva de contacto com ele, produzindo um salto dedutivo.",
+    "objecao_letal": "representacionalismo originário",
+    "bloqueio_curto": "A apreensão não é uma imagem ou mediação representacional primeira, mas o próprio contacto situado e originário de um ente localizado com o real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "representacionalismo originário",
+      "real como exterior ao sujeito",
+      "dualismo extramundano da consciência",
+      "consciência como limite absoluto do real",
+      "representacionalismo que esquece a inscrição do humano no real",
+      "ponto de vista neutro ou exterior ao real",
+      "tratamento da consciência sem condição de enquadramento",
+      "dualismo extramundano",
+      "consciência como instância soberana"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0205_SEG_001",
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da formulação e explicitação do carácter pré-representacional da apreensão.",
+    "pendencias": []
+  },
+  "canonical": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P25",
+    "numero_final": 25,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24"
+    ],
+    "prepara": [
+      "P26"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A apreensão é a relação situada e originária de contacto com o real por parte de um ente localizado.",
+    "justificacao_minima_suficiente": "Dado P24, o humano não comparece como instância exterior ao real, mas como ente nele situado e localizado. Nessa condição, o seu acesso inicial ao real não precisa de ser construído por representação ou interpretação prévias: há já um contacto situado com o que é real. A esse contacto originário chama-se apreensão. Assim, dizer que o ser humano apreende é dizer que, por ser um ente localizado, entra originariamente em relação com o real antes de qualquer tematização reflexiva.",
+    "ponte_entrada": "A partir de P24, uma vez reconhecido o humano como ente localizado no real, torna-se necessário explicitar a forma mínima dessa inserção cognoscitiva: ele apreende o real em contacto situado.",
+    "ponte_saida": "Se a apreensão é já contacto situado e originário com o real, então P26 pode avançar a partir desse contacto para a explicitação seguinte sem depender de um salto representacional.",
+    "porque_o_anterior_nao_basta": "P24 não basta porque ainda não explicita que a relação do ente localizado com o real se dá como apreensão, isto é, como contacto situado e originário.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P24 para P26 perde a mediação que transforma a mera localização do humano no real numa relação efetiva de contacto com ele, produzindo um salto dedutivo.",
+    "objecao_letal_a_bloquear": "representacionalismo originário",
+    "bloqueio_curto_da_objecao": "A apreensão não é uma imagem ou mediação representacional primeira, mas o próprio contacto situado e originário de um ente localizado com o real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0205_SEG_001",
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003"
+    ],
+    "objecoes_bloqueadas_final": [
+      "representacionalismo originário",
+      "real como exterior ao sujeito",
+      "dualismo extramundano da consciência",
+      "consciência como limite absoluto do real",
+      "representacionalismo que esquece a inscrição do humano no real",
+      "ponto de vista neutro ou exterior ao real",
+      "tratamento da consciência sem condição de enquadramento",
+      "dualismo extramundano",
+      "consciência como instância soberana"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P25 no corredor P25_P30. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: representacionalismo originário. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da formulação e explicitação do carácter pré-representacional da apreensão."
+    ]
+  }
+}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P25",
+  "numero_final": 25,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P24"
+  ],
+  "prepara": [
+    "P26"
+  ],
+  "proposicao_canonica_curta": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+  "proposicao_canonica_tecnica": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+  "tese_minima_canonica": "O ser humano apreende.",
+  "justificacao_minima_canonica": "Enquanto ente localizado, o humano entra em contacto situado com o real; essa relação originária é apreensão.",
+  "porque_este_passo_e_necessario": "O ser humano apreende.",
+  "porque_o_anterior_nao_basta": "P24 não basta porque ainda não introduz explicitamente este ganho: A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P26 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "representacionalismo originário",
+  "tipo_de_necessidade": "mediacional",
+  "estado_de_fecho": "aberto",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "reformular",
+  "score_canonico_de_fecho": 3.033,
+  "breakdown_score_canonico": {
+    "dependencias": 0.8,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.1,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.43344000000000005,
+    "fragilidade": -1.0,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "O bem pode ser formulado como orientação da ação segundo a descrição adequada do real e do campo de possibilidades em que o agente já está inscrito.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "O bem pode ser formulado como orientação da ação segundo a descrição adequada do real e do campo de possibilidades em que o agente já está inscrito.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "O ser humano apreende.",
+      "score": 1.6
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003",
+    "F0241_A05_SEG_003",
+    "F0205_SEG_001",
+    "F0113_A01_SEG_001",
+    "F0097_A02_SEG_001",
+    "F0086_SEG_002",
+    "F0073_SEG_001",
+    "F0220_SEG_001",
+    "F0241_A01_SEG_002",
+    "F0223_SEG_001",
+    "F0200_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "representacionalismo originário",
+    "real como exterior ao sujeito",
+    "bem desligado da descrição do real",
+    "dualismo extramundano da consciência",
+    "consciência como limite absoluto do real",
+    "confusão entre limitação epistémica e limitação ontológica",
+    "representacionalismo que esquece a inscrição do humano no real",
+    "ponto de vista neutro ou exterior ao real",
+    "tratamento da consciência sem condição de enquadramento",
+    "correção reduzida a negação de conteúdo",
+    "dualismo extramundano",
+    "consciência como instância soberana"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+    "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Definir melhor apreensão e distingui-la de interpretação e representação."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P25",
+  "numero_original": 25,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "numero_final": 25,
+  "proposicao_final": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+  "proposicao_original": "O ser humano apreende.",
+  "descricao_curta": "Apreensão é relação situada com o real.",
+  "funcao_no_sistema": "No Emergência do ser localizado e reflexivo, esta proposição fixa que o ser humano apreende.; Recebe apoio imediato de P24; e prepara P26.",
+  "depende_de": [
+    "P24"
+  ],
+  "prepara": [
+    "P26"
+  ],
+  "tese_minima": "O ser humano apreende.",
+  "justificacao_minima_suficiente": "Enquanto ente localizado, o humano entra em contacto situado com o real; essa relação originária é apreensão.",
+  "objecoes_bloqueadas": [
+    "representacionalismo originário",
+    "real como exterior ao sujeito",
+    "bem desligado da descrição do real",
+    "dualismo extramundano da consciência",
+    "consciência como limite absoluto do real",
+    "confusão entre limitação epistémica e limitação ontológica",
+    "representacionalismo que esquece a inscrição do humano no real",
+    "ponto de vista neutro ou exterior ao real",
+    "tratamento da consciência sem condição de enquadramento",
+    "correção reduzida a negação de conteúdo",
+    "dualismo extramundano",
+    "consciência como instância soberana"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003",
+    "F0241_A05_SEG_003",
+    "F0205_SEG_001",
+    "F0113_A01_SEG_001",
+    "F0097_A02_SEG_001",
+    "F0086_SEG_002",
+    "F0073_SEG_001",
+    "F0220_SEG_001",
+    "F0241_A01_SEG_002",
+    "F0223_SEG_001",
+    "F0200_SEG_001"
+  ],
+  "estatuto_no_mapa": "reformular",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "O ser humano apreende.",
+  "mediacao_necessaria": [
+    "explicitar natureza pré-representacional da apreensão",
+    "Reformular a proposição sem perder o núcleo que o material já sustenta.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "alto",
+  "score_de_inevitabilidade": 0.733,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.778,
+  "apoio_argumentativo": {
+    "argumentos_ids": [
+      "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+      "ARG_MAL_COMO_DEGENERACAO_E_DANO"
+    ],
+    "percursos_ids": [
+      "P_EIXO_ETICO_NARRATIVO",
+      "P_PERCURSO_DA_DEGENERACAO_ETICA",
+      "P_PERCURSO_DA_VIDA_BOA",
+      "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA",
+      "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL",
+      "P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO",
+      "P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA",
+      "P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL"
+    ],
+    "n_argumentos": 2,
+    "n_percursos": 8
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 5.418,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+    "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Definir melhor apreensão e distingui-la de interpretação e representação."
+  ],
+  "estado_de_fecho_canonico": "aberto",
+  "score_canonico_de_fecho": 3.033,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "P24 não basta porque ainda não introduz explicitamente este ganho: A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P26 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "representacionalismo originário",
+  "tipo_de_necessidade": "mediacional"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 6,
+    "fechados": 0,
+    "abertos": 5,
+    "quase_fechados": 1,
+    "subpassos": [
+      "P25",
+      "P28"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {
+      "id": "P25",
+      "score_canonico_de_fecho": 3.033,
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva."
+    },
+    "fragilidade_mediacional": {
+      "id": "P25",
+      "score_canonico_de_fecho": 3.033,
+      "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva."
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 6,
+    "fechados": 0,
+    "quase_fechados": 1,
+    "abertos": 5,
+    "passos_com_subpasso": [
+      "P25",
+      "P28"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30"
+  ],
+  "proposicao_canonica": {
+    "id": "P25",
+    "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado."
+  },
+  "problema_ainda_aberto": {
+    "id": "P25",
+    "estado_de_fecho": "aberto",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva.",
+    "objecao_letal_a_bloquear": "representacionalismo originário"
+  },
+  "passo": {
+    "id": "P25",
+    "numero_final": 25,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24"
+    ],
+    "prepara": [
+      "P26"
+    ],
+    "proposicao_canonica_curta": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+    "proposicao_canonica_tecnica": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+    "tese_minima_canonica": "O ser humano apreende.",
+    "justificacao_minima_canonica": "Enquanto ente localizado, o humano entra em contacto situado com o real; essa relação originária é apreensão.",
+    "porque_este_passo_e_necessario": "O ser humano apreende.",
+    "porque_o_anterior_nao_basta": "P24 não basta porque ainda não introduz explicitamente este ganho: A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P26 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "representacionalismo originário",
+    "tipo_de_necessidade": "mediacional",
+    "estado_de_fecho": "aberto",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "reformular",
+    "score_canonico_de_fecho": 3.033,
+    "breakdown_score_canonico": {
+      "dependencias": 0.8,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.1,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.43344000000000005,
+      "fragilidade": -1.0,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Distinguir apreensão de interpretação e de representação, mostrando que a apreensão é contacto situado anterior à tematização reflexiva.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "O bem pode ser formulado como orientação da ação segundo a descrição adequada do real e do campo de possibilidades em que o agente já está inscrito.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "O bem pode ser formulado como orientação da ação segundo a descrição adequada do real e do campo de possibilidades em que o agente já está inscrito.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O ser humano apreende.",
+        "score": 1.6
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003",
+      "F0241_A05_SEG_003",
+      "F0205_SEG_001",
+      "F0113_A01_SEG_001",
+      "F0097_A02_SEG_001",
+      "F0086_SEG_002",
+      "F0073_SEG_001",
+      "F0220_SEG_001",
+      "F0241_A01_SEG_002",
+      "F0223_SEG_001",
+      "F0200_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "representacionalismo originário",
+      "real como exterior ao sujeito",
+      "bem desligado da descrição do real",
+      "dualismo extramundano da consciência",
+      "consciência como limite absoluto do real",
+      "confusão entre limitação epistémica e limitação ontológica",
+      "representacionalismo que esquece a inscrição do humano no real",
+      "ponto de vista neutro ou exterior ao real",
+      "tratamento da consciência sem condição de enquadramento",
+      "correção reduzida a negação de conteúdo",
+      "dualismo extramundano",
+      "consciência como instância soberana"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+      "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Definir melhor apreensão e distingui-la de interpretação e representação."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$.resumo_global.top_proposicoes_por_pressao[5]",
+        "match": {
+          "proposicao_id": "P25",
+          "numero": 25,
+          "proposicao": "O ser humano apreende.",
+          "total_fragmentos_que_tocam": 64,
+          "estabilidade": "estavel_mas_a_densificar",
+          "acao_estrutural_recomendada": "reformular"
+        }
+      },
+      {
+        "path": "$.macro_relatorio_original.passos_mais_tocados[5]",
+        "match": {
+          "proposicao_id": "P25",
+          "n": 64
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$.blocos[3].proposicoes[2]",
+        "match": {
+          "id": "P25",
+          "numero": 25,
+          "proposicao": "O ser humano apreende.",
+          "descricao_curta": "Apreensão é relação situada com o real.",
+          "depende_de": [
+            "P24"
+          ],
+          "prepara": [
+            "P26"
+          ],
+          "justificacao": {
+            "tese_minima": "O ser humano apreende.",
+            "justificacao_interna_do_passo": "Enquanto ente localizado, o humano entra em contacto situado com o real; essa relação originária é apreensão.",
+            "tipo_de_necessidade": "necessidade_fenomenologica_minima",
+            "estatuto_inferencial": "contacto_situado"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+            "o_que_falta_provar_ou_explicitar": "Definir melhor apreensão e distingui-la de interpretação e representação.",
+            "objecoes_tipicas_a_bloquear": [
+              "representacionalismo originário"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar natureza pré-representacional da apreensão"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$[55].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P25",
+          "numero": 25,
+          "proposicao_resumida": "O ser humano apreende.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "introduz_distincao_nova",
+          "justificacao_da_associacao": "Distingue explicitamente apreensão de pensamento, refinando o passo sem o alterar."
+        }
+      },
+      {
+        "path": "$[65].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P25",
+          "numero": 25,
+          "proposicao_resumida": "O ser humano apreende.",
+          "grau_de_relevancia": "alto",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "O fragmento fornece base descritiva para pensar a apreensão como relação sensível com o real, anterior à representação."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Decide, para o passo P25 no corredor P25_P30:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P25",
+  "subpasso_id": "P25_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "P25",
+    "entra_apos_passo_id": "P24 ou null",
+    "entra_antes_de_passo_id": "P26 ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

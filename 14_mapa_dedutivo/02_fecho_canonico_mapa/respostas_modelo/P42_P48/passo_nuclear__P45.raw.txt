@@ -1,0 +1,57 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P42_P48",
+  "passo_id": "P45",
+  "numero_final": 47,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+    "P40",
+    "P44"
+  ],
+  "prepara": [
+    "P46"
+  ],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+  "justificacao_expandida_final": "Se, como em P44, o bem é a adequação prática ao real sob critério verdadeiro, então o seu contrário não requer uma entidade própria nem uma positividade autónoma. No plano ético, o mal aparece quando a ação falha na apreensão, descrição ou aplicação do real e do possível, produzindo desadequação operativa; e, quando essa falha se estabiliza ou se exerce sobre outros seres e relações reais, ela manifesta-se como degeneração ou dano. Assim, erro, dano e degeneração não introduzem substância distinta: nomeiam modos pelos quais a ação se desvia da adequação prática ao real. Por isso, o mal é negatividade prática no regime da ação, não entidade autónoma.",
+  "ponte_entrada": "Vindo de P44, uma vez estabelecido que o bem se mede pela adequação prática ao real, falta explicitar em que consiste o seu contrário no plano da ação.",
+  "ponte_saida": "Uma vez definido o mal como desadequação, degeneração ou dano operativos, P46 pode avançar para a determinação seguinte sem tratar o mal como princípio autónomo, mas como efeito prático discernível no campo da ação.",
+  "porque_o_anterior_nao_basta": "P44 fixa o bem como adequação prática ao real, mas ainda não determina explicitamente que o mal, em vez de substância autónoma, é a forma negativa dessa mesma ordem prática, como desadequação, degeneração ou dano.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a transição para P46 ficaria sem a mediação negativa correspondente: saber-se-ia o que é o bem, mas não em que sentido dedutivo o mal é pensável sem ser reificado como entidade independente.",
+  "objecao_letal": "mal como entidade autónoma",
+  "bloqueio_curto": "Se o bem deriva da adequação prática ao real, o mal não precisa de princípio próprio: basta a falha dessa adequação na ação, sob a forma de desadequação, dano ou degeneração.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "mal como entidade autónoma",
+    "separação forte entre verdade e bem",
+    "autonomia normativa absoluta",
+    "moralismo extrínseco",
+    "indiferentismo axiológico total",
+    "coerentismo fechado",
+    "relativismo",
+    "convencionalismo total"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0060_A01_SEG_004",
+    "F0120_SEG_002",
+    "F0067_SEG_003",
+    "F0119_A01_SEG_003"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação justificativa sem alterar a formulação canónica.",
+  "pendencias": []
+}

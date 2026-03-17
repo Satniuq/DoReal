@@ -1,0 +1,757 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P33_P37
+PASSO_PAI_ID=P34
+SUBPASSO_ID_SUGERIDO=P34_SP01
+NUMERO_ORDINAL_SUGERIDO=1
+PASSO_ANTERIOR_ID=P33
+PASSO_SEGUINTE_ID=P35
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{
+  "raw": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P34",
+    "numero_final": 34,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P31",
+      "P32",
+      "P33"
+    ],
+    "prepara": [
+      "P35"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+    "justificacao_expandida_final": "Se o conhecimento é representação de um real que não depende dela, então a verdade não pode reduzir-se à coerência interna da representação nem ao seu mero êxito discursivo. Há verdade quando a representação se ajusta ao real a que se refere, mas esse ajustamento só vale como verdade sob critério operativo; e tal critério, para não se fechar na consciência nem converter-se em mera persuasão, tem de estar ele mesmo submetido ao próprio real. Por isso, verdade é adequação da representação ao real sob critério operativo submetido ao real.",
+    "ponte_entrada": "Do passo anterior resulta que a representação cognitiva permanece referida ao real e corrigível por ele; por isso, o regime de verdade correspondente tem de ser definido como adequação ao real sob critério que também responda ao real.",
+    "ponte_saida": "Uma vez fixado que a verdade depende dessa adequação sob critério submetido ao real, pode-se passar ao passo seguinte explicitando as consequências normativas e corretivas desse regime de verdade.",
+    "porque_o_anterior_nao_basta": "Os passos P31, P32 e P33 ainda não explicitam de forma unificada que a verdade exige simultaneamente adequação, critério operativo e submissão desse critério ao real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde a definição mediadora do regime de verdade e surge como salto dedutivo.",
+    "objecao_letal": "verdade como coerência pura",
+    "bloqueio_curto": "Coerência interna pode ordenar representações, mas não basta para verdade se o critério não estiver submetido ao real a que a representação deve adequar-se.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "verdade como coerência pura",
+      "verdade como consenso",
+      "erro sem implicação corretiva",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "coerência aparente basta para verdade",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "pragmatismo desligado do real",
+      "coerência modelar sem referência ao real",
+      "coerentismo fechado",
+      "formalismo da verdade"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A25_SEG_003",
+      "F0241_A02_SEG_002",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0108_A02_SEG_002",
+      "F0106_SEG_003",
+      "F0106_SEG_002",
+      "F0104_A01_SEG_005",
+      "F0084_A02_SEG_002",
+      "F0070_SEG_002",
+      "F0061_SEG_002",
+      "F0054_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação sem alterar o núcleo canónico.",
+    "pendencias": []
+  },
+  "canonical": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P34",
+    "numero_final": 34,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P31",
+      "P32",
+      "P33"
+    ],
+    "prepara": [
+      "P35"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+    "justificacao_minima_suficiente": "Se o conhecimento é representação de um real que não depende dela, então a verdade não pode reduzir-se à coerência interna da representação nem ao seu mero êxito discursivo. Há verdade quando a representação se ajusta ao real a que se refere, mas esse ajustamento só vale como verdade sob critério operativo; e tal critério, para não se fechar na consciência nem converter-se em mera persuasão, tem de estar ele mesmo submetido ao próprio real. Por isso, verdade é adequação da representação ao real sob critério operativo submetido ao real.",
+    "ponte_entrada": "Do passo anterior resulta que a representação cognitiva permanece referida ao real e corrigível por ele; por isso, o regime de verdade correspondente tem de ser definido como adequação ao real sob critério que também responda ao real.",
+    "ponte_saida": "Uma vez fixado que a verdade depende dessa adequação sob critério submetido ao real, pode-se passar ao passo seguinte explicitando as consequências normativas e corretivas desse regime de verdade.",
+    "porque_o_anterior_nao_basta": "Os passos P31, P32 e P33 ainda não explicitam de forma unificada que a verdade exige simultaneamente adequação, critério operativo e submissão desse critério ao real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde a definição mediadora do regime de verdade e surge como salto dedutivo.",
+    "objecao_letal_a_bloquear": "verdade como coerência pura",
+    "bloqueio_curto_da_objecao": "Coerência interna pode ordenar representações, mas não basta para verdade se o critério não estiver submetido ao real a que a representação deve adequar-se.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_003",
+      "F0241_A02_SEG_002",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0108_A02_SEG_002",
+      "F0106_SEG_003",
+      "F0106_SEG_002",
+      "F0104_A01_SEG_005",
+      "F0084_A02_SEG_002",
+      "F0070_SEG_002",
+      "F0061_SEG_002",
+      "F0054_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "verdade como coerência pura",
+      "verdade como consenso",
+      "erro sem implicação corretiva",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "coerência aparente basta para verdade",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "pragmatismo desligado do real",
+      "coerência modelar sem referência ao real",
+      "coerentismo fechado",
+      "formalismo da verdade"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P34 no corredor P33_P37. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: verdade como coerência pura. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação sem alterar o núcleo canónico."
+    ]
+  }
+}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P34",
+  "numero_final": 34,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P31",
+    "P32",
+    "P33"
+  ],
+  "prepara": [
+    "P35"
+  ],
+  "proposicao_canonica_curta": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+  "proposicao_canonica_tecnica": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+  "tese_minima_canonica": "Verdade é adequação sob critério e submissão ao real.",
+  "justificacao_minima_canonica": "Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.",
+  "porque_este_passo_e_necessario": "Verdade é adequação sob critério e submissão ao real.",
+  "porque_o_anterior_nao_basta": "Os passos P31, P32, P33 não bastam em conjunto porque ainda não fecham esta passagem específica: A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "verdade como coerência pura",
+  "tipo_de_necessidade": "epistemica",
+  "estado_de_fecho": "quase_fechado",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 6.066,
+  "breakdown_score_canonico": {
+    "dependencias": 2.4,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.46632,
+    "fragilidade": -0.3,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "Verdade é adequação sob critério e submissão ao real.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_003",
+    "F0241_A02_SEG_002",
+    "F0160_SEG_001",
+    "F0119_A01_SEG_003",
+    "F0108_A02_SEG_002",
+    "F0106_SEG_003",
+    "F0106_SEG_002",
+    "F0104_A01_SEG_005",
+    "F0084_A02_SEG_002",
+    "F0070_SEG_002",
+    "F0061_SEG_002",
+    "F0054_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "verdade como coerência pura",
+    "verdade como consenso",
+    "erro sem implicação corretiva",
+    "verdade como mera forma discursiva",
+    "critério reduzido à persuasão intelectual",
+    "coerência aparente basta para verdade",
+    "representacionalismo sem referente",
+    "fechamento da consciência em si mesma",
+    "pragmatismo desligado do real",
+    "coerência modelar sem referência ao real",
+    "coerentismo fechado",
+    "formalismo da verdade"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Integrar adequação, critério e submissão ao real numa formulação unificada."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P34",
+  "numero_original": 34,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "numero_final": 34,
+  "proposicao_final": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+  "proposicao_original": "Verdade é adequação sob critério e submissão ao real.",
+  "descricao_curta": null,
+  "funcao_no_sistema": "No Epistemologia derivada da ontologia, esta proposição fixa que verdade é adequação sob critério e submissão ao real.; Recebe apoio imediato de P31, P32, P33; e prepara P35.",
+  "depende_de": [
+    "P31",
+    "P32",
+    "P33"
+  ],
+  "prepara": [
+    "P35"
+  ],
+  "tese_minima": "Verdade é adequação sob critério e submissão ao real.",
+  "justificacao_minima_suficiente": "Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.",
+  "objecoes_bloqueadas": [
+    "verdade como coerência pura",
+    "verdade como consenso",
+    "erro sem implicação corretiva",
+    "verdade como mera forma discursiva",
+    "critério reduzido à persuasão intelectual",
+    "coerência aparente basta para verdade",
+    "representacionalismo sem referente",
+    "fechamento da consciência em si mesma",
+    "pragmatismo desligado do real",
+    "coerência modelar sem referência ao real",
+    "coerentismo fechado",
+    "formalismo da verdade"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_003",
+    "F0241_A02_SEG_002",
+    "F0160_SEG_001",
+    "F0119_A01_SEG_003",
+    "F0108_A02_SEG_002",
+    "F0106_SEG_003",
+    "F0106_SEG_002",
+    "F0104_A01_SEG_005",
+    "F0084_A02_SEG_002",
+    "F0070_SEG_002",
+    "F0061_SEG_002",
+    "F0054_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "Verdade é adequação sob critério e submissão ao real.",
+  "mediacao_necessaria": [
+    "Explicitar a ponte dedutiva entre P31, P32, P33 e P34.",
+    "Explicitar a passagem de P34 para P35.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "medio",
+  "score_de_inevitabilidade": 0.606,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 1.0,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 5.829,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Integrar adequação, critério e submissão ao real numa formulação unificada."
+  ],
+  "estado_de_fecho_canonico": "quase_fechado",
+  "score_canonico_de_fecho": 6.066,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "Os passos P31, P32, P33 não bastam em conjunto porque ainda não fecham esta passagem específica: A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "verdade como coerência pura",
+  "tipo_de_necessidade": "epistemica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 5,
+    "fechados": 0,
+    "abertos": 3,
+    "quase_fechados": 2,
+    "subpassos": [
+      "P33",
+      "P36"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {
+      "id": "P34",
+      "score_canonico_de_fecho": 6.066,
+      "subpasso_sugerido": null
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 5,
+    "fechados": 0,
+    "quase_fechados": 2,
+    "abertos": 3,
+    "passos_com_subpasso": [
+      "P33",
+      "P36"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37"
+  ],
+  "proposicao_canonica": {
+    "id": "P34",
+    "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real."
+  },
+  "problema_ainda_aberto": {
+    "id": "P34",
+    "estado_de_fecho": "quase_fechado",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "verdade como coerência pura"
+  },
+  "passo": {
+    "id": "P34",
+    "numero_final": 34,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P31",
+      "P32",
+      "P33"
+    ],
+    "prepara": [
+      "P35"
+    ],
+    "proposicao_canonica_curta": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+    "proposicao_canonica_tecnica": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+    "tese_minima_canonica": "Verdade é adequação sob critério e submissão ao real.",
+    "justificacao_minima_canonica": "Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.",
+    "porque_este_passo_e_necessario": "Verdade é adequação sob critério e submissão ao real.",
+    "porque_o_anterior_nao_basta": "Os passos P31, P32, P33 não bastam em conjunto porque ainda não fecham esta passagem específica: A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P35 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "verdade como coerência pura",
+    "tipo_de_necessidade": "epistemica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 6.066,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.46632,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "Verdade é o nome da representação que melhor descreve a realidade a que se refere; por isso, a evidência do erro exige revisão.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "Verdade é adequação sob critério e submissão ao real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_003",
+      "F0241_A02_SEG_002",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0108_A02_SEG_002",
+      "F0106_SEG_003",
+      "F0106_SEG_002",
+      "F0104_A01_SEG_005",
+      "F0084_A02_SEG_002",
+      "F0070_SEG_002",
+      "F0061_SEG_002",
+      "F0054_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "verdade como coerência pura",
+      "verdade como consenso",
+      "erro sem implicação corretiva",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "coerência aparente basta para verdade",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "pragmatismo desligado do real",
+      "coerência modelar sem referência ao real",
+      "coerentismo fechado",
+      "formalismo da verdade"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Integrar adequação, critério e submissão ao real numa formulação unificada."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.resumo_global.top_proposicoes_por_pressao[4]",
+        "match": {
+          "proposicao_id": "P34",
+          "numero": 34,
+          "proposicao": "Verdade é adequação sob critério e submissão ao real.",
+          "total_fragmentos_que_tocam": 69,
+          "estabilidade": "estavel_mas_a_densificar",
+          "acao_estrutural_recomendada": "densificar"
+        }
+      },
+      {
+        "path": "$.macro_relatorio_original.passos_mais_tocados[4]",
+        "match": {
+          "proposicao_id": "P34",
+          "n": 69
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.blocos[4].proposicoes[4]",
+        "match": {
+          "id": "P34",
+          "numero": 34,
+          "proposicao": "Verdade é adequação sob critério e submissão ao real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P31",
+            "P32",
+            "P33"
+          ],
+          "prepara": [
+            "P35"
+          ],
+          "justificacao": {
+            "tese_minima": "Verdade é adequação sob critério e submissão ao real.",
+            "justificacao_interna_do_passo": "Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "sintese_do_regime_de_verdade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+            "o_que_falta_provar_ou_explicitar": "Integrar adequação, critério e submissão ao real numa formulação unificada.",
+            "objecoes_tipicas_a_bloquear": [
+              "verdade como coerência pura",
+              "verdade como consenso"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$[9].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P34",
+          "numero": 34,
+          "proposicao_resumida": "Verdade é adequação sob critério e submissão ao real.",
+          "grau_de_relevancia": "alto",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "O fragmento aproxima explicitamente verdade de boa descrição da realidade."
+        }
+      },
+      {
+        "path": "$[13].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P34",
+          "numero": 34,
+          "proposicao_resumida": "Verdade é adequação sob critério e submissão ao real.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "bloqueia_objecao",
+          "justificacao_da_associacao": "Ajuda a excluir a redução da verdade à forma intelectual ou à mera aparência de correção discursiva."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Decide, para o passo P34 no corredor P33_P37:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P33_P37",
+  "passo_pai_id": "P34",
+  "subpasso_id": "P34_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "P34",
+    "entra_apos_passo_id": "P33 ou null",
+    "entra_antes_de_passo_id": "P35 ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

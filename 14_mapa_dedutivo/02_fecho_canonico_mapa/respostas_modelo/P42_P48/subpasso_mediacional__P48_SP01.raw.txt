@@ -1,0 +1,46 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P48",
+  "subpasso_id": "P48_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Não se detecta aqui um salto dedutivo autónomo que exija mediação intermédia distinta do próprio P48. Os materiais convergem em que a lacuna era de densificação da relação entre dever-ser e poder-ser real, e essa lacuna já fica fechada pela formulação canónica final e pela justificação mínima suficiente do passo. Além disso, os registos prioritários indicam explicitamente que P48 não precisa de subpasso, que não há mediacoes_em_falta estruturais e que o impacto fragmentário recomendado é densificar, sem alterar a arquitetura. Introduzir um subpasso repetiria o conteúdo do passo pai ou criaria uma mediação decorativa.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P48",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não entra subpasso, porque a mediação necessária já foi absorvida na própria densificação de P48 e o passo fecha canonicamente sem inserção adicional."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "A passagem requerida é única e já está explicitada no próprio passo: se o dever-ser deriva do ser e do poder-ser reais, então só pode incidir sobre possibilidades reais de atualização. Um dever sem poder-ser correspondente não orienta ação efetiva e degrada-se em formulação de impossível. Isso basta para bloquear a objeção do dever impossível e preparar P49 sem subpasso autónomo.",
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "dever impossível",
+  "bloqueio_curto": "Não há dever prático onde não há possibilidade real de atualização.",
+  "fragmentos_selecionados_finais": [
+    "F0060_A01_SEG_001",
+    "F0114_A01_SEG_001",
+    "F0115_A01_SEG_001",
+    "F0205_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "dever impossível",
+    "dever-ser desligado do poder-ser",
+    "normatividade desligada do real",
+    "formalismo moral abstrato"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fechar por densificação interna de P48.",
+  "pendencias": []
+}

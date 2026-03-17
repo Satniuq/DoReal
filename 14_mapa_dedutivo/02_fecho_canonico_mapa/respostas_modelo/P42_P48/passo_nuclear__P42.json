@@ -1,0 +1,205 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P42",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:18:07+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P42",
+    "numero_final": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "justificacao_expandida_final": "Se, como resulta de P40 e P41, a ação não é indiferente ao real e o dano introduz uma assimetria efetiva, então nem todas as atualizações valem do mesmo modo. Dessa não-indiferença e dessa assimetria não se segue um fim imposto de fora, mas torna-se inteligível uma direção imanente: preservar as continuidades reais de que a ação depende, corrigir desvios que estreitam ou desalinham essas continuidades, e evitar formas de degeneração que empobrecem o campo real de potencialidades. Por isso, a orientação prática pode e deve ser pensada a partir desses vetores inscritos no real, e não a partir de uma normatividade autónoma ou de uma consciência isolada.",
+    "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+    "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+    "porque_o_anterior_nao_basta": "Os passos P40 e P41 mostram a não-indiferença da ação e a assimetria do dano, mas ainda não explicitam que dessas teses decorre uma direção prática imanente inscrita no real.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de teses epistemológicas e ontológicas sobre ação e dano para a determinação ética posterior fica sem mediação e surge como salto dedutivo.",
+    "objecao_letal": "teleologia externa",
+    "bloqueio_curto": "A direção aqui afirmada não impõe um fim externo ao ser; explicita apenas vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "impossibilidade de derivar valor do facto",
+      "direção ontológica como projeção humana",
+      "dever-ser como entidade separada"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A12_SEG_001",
+      "F0067_SEG_001",
+      "F0112_SEG_001",
+      "F0122_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação mediacional sem necessidade de subpasso autónomo.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P42",
+    "numero_final": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "justificacao_minima_suficiente": "Se, como resulta de P40 e P41, a ação não é indiferente ao real e o dano introduz uma assimetria efetiva, então nem todas as atualizações valem do mesmo modo. Dessa não-indiferença e dessa assimetria não se segue um fim imposto de fora, mas torna-se inteligível uma direção imanente: preservar as continuidades reais de que a ação depende, corrigir desvios que estreitam ou desalinham essas continuidades, e evitar formas de degeneração que empobrecem o campo real de potencialidades. Por isso, a orientação prática pode e deve ser pensada a partir desses vetores inscritos no real, e não a partir de uma normatividade autónoma ou de uma consciência isolada.",
+    "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+    "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+    "porque_o_anterior_nao_basta": "Os passos P40 e P41 mostram a não-indiferença da ação e a assimetria do dano, mas ainda não explicitam que dessas teses decorre uma direção prática imanente inscrita no real.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de teses epistemológicas e ontológicas sobre ação e dano para a determinação ética posterior fica sem mediação e surge como salto dedutivo.",
+    "objecao_letal_a_bloquear": "teleologia externa",
+    "bloqueio_curto_da_objecao": "A direção aqui afirmada não impõe um fim externo ao ser; explicita apenas vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0067_SEG_001",
+      "F0112_SEG_001",
+      "F0122_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "impossibilidade de derivar valor do facto",
+      "direção ontológica como projeção humana",
+      "dever-ser como entidade separada"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P42 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: teleologia externa. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação mediacional sem necessidade de subpasso autónomo."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0228f898d78145a30069b99ac43658819a997d5822145a0a8f",
+      "object": "response",
+      "created_at": 1773771460,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771473,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0228f898d78145a30069b99ac65878819abd26a32f7874de68",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P42_P48\",\n  \"passo_id\": \"P42\",\n  \"numero_final\": 42,\n  \"bloco_id\": \"BLOCO_VI\",\n  \"bloco_titulo\": \"Passagem da epistemologia à ética ontológica\",\n  \"depende_de\": [\n    \"P40\",\n    \"P41\"\n  ],\n  \"prepara\": [\n    \"P43\"\n  ],\n  \"estado_inicial_do_passo\": \"quase_fechado\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.\",\n  \"justificacao_expandida_final\": \"Se, como resulta de P40 e P41, a ação não é indiferente ao real e o dano introduz uma assimetria efetiva, então nem todas as atualizações valem do mesmo modo. Dessa não-indiferença e dessa assimetria não se segue um fim imposto de fora, mas torna-se inteligível uma direção imanente: preservar as continuidades reais de que a ação depende, corrigir desvios que estreitam ou desalinham essas continuidades, e evitar formas de degeneração que empobrecem o campo real de potencialidades. Por isso, a orientação prática pode e deve ser pensada a partir desses vetores inscritos no real, e não a partir de uma normatividade autónoma ou de uma consciência isolada.\",\n  \"ponte_entrada\": \"De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.\",\n  \"ponte_saida\": \"Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.\",\n  \"porque_o_anterior_nao_basta\": \"Os passos P40 e P41 mostram a não-indiferença da ação e a assimetria do dano, mas ainda não explicitam que dessas teses decorre uma direção prática imanente inscrita no real.\",\n  \"porque_nao_pode_ser_suprimido\": \"Sem este passo, a passagem de teses epistemológicas e ontológicas sobre ação e dano para a determinação ética posterior fica sem mediação e surge como salto dedutivo.\",\n  \"objecao_letal\": \"teleologia externa\",\n  \"bloqueio_curto\": \"A direção aqui afirmada não impõe um fim externo ao ser; explicita apenas vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"teleologia externa\",\n    \"arbitrariedade prática\",\n    \"consciência como fundamento absoluto\",\n    \"bem desligado da estrutura do ser\",\n    \"impossibilidade de derivar valor do facto\",\n    \"direção ontológica como projeção humana\",\n    \"dever-ser como entidade separada\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A12_SEG_001\",\n    \"F0067_SEG_001\",\n    \"F0112_SEG_001\",\n    \"F0122_SEG_001\",\n    \"F0176_SEG_001\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação mediacional sem necessidade de subpasso autónomo.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 10986,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 921,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11907
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P42.raw.txt"
+}

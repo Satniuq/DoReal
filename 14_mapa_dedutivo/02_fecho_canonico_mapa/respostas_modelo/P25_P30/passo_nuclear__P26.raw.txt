@@ -1,0 +1,58 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P25_P30",
+  "passo_id": "P26",
+  "numero_final": 26,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P25"
+  ],
+  "prepara": [
+    "P27"
+  ],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "reformular",
+  "formulacao_v2_final": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização.",
+  "justificacao_expandida_final": "Se o ser reflexivo tem de orientar-se no real, o que apreende não pode permanecer como mera apreensão imediata: tem de ser convertido em forma manipulável, estabilizável e comparável. É esse trabalho de transformação que constitui a representação. Assim, a representação não é um dado originário nem um produto desligado do apreendido, mas a forma operável em que a apreensão se torna utilizável para navegação, discriminação e estabilização.",
+  "ponte_entrada": "De P25 recebe-se a apreensão do real; P26 explicita que, para uso reflexivo e orientador, essa apreensão tem de passar a representação operável.",
+  "ponte_saida": "Uma vez que o apreendido foi transformado em representação operável, P27 pode tratar o uso ulterior dessa forma já estabilizada sem salto dedutivo.",
+  "porque_o_anterior_nao_basta": "P25 não basta porque ainda fica ao nível da apreensão e não explicita a mediação pela qual o apreendido se torna forma operável para orientação e estabilização.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de apreensão a operações ulteriores sobre conteúdos estabilizados ficaria sem mediação explícita e surgiria como salto dedutivo.",
+  "objecao_letal": "representação como dado originário",
+  "bloqueio_curto": "A representação não é originária: ela resulta da transformação mediada do que foi apreendido em forma operável.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "representação como dado originário",
+    "representação como produto puramente linguístico",
+    "linguisticismo",
+    "coerentismo fechado",
+    "verdade como mera inteligibilidade interna",
+    "autorreferencialidade discursiva suficiente para verdade",
+    "representacionalismo desligado do objeto",
+    "representação como afastamento originário do real",
+    "representação como camada meramente secundária",
+    "redução do humano ao animal não mediado"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0241_A25_SEG_002",
+    "F0108_A02_SEG_001",
+    "F0107_SEG_001",
+    "F0220_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por reformulação canónica e explicitação mínima da mediação.",
+  "pendencias": []
+}

@@ -1,0 +1,727 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P33_P37
+PASSO_PAI_ID=P36
+SUBPASSO_ID_SUGERIDO=P36_SP01
+NUMERO_ORDINAL_SUGERIDO=1
+PASSO_ANTERIOR_ID=P35
+PASSO_SEGUINTE_ID=P37
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{
+  "raw": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P36",
+    "numero_final": 36,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P35"
+    ],
+    "prepara": [
+      "P37"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+    "justificacao_expandida_final": "Se a normatividade epistémica deriva da estrutura do real e não apenas da consistência interna do discurso, então errar não é primariamente falhar uma forma lógica, mas falhar a adequação ao que é. Por isso, a incoerência é apenas um caso possível de erro, não o seu critério fundamental. O erro define-se antes como desadequação ao real sob critério válido; e essa desadequação pode ocorrer ao descrever mal, ao categorizar mal ou ao graduar mal aquilo de que se fala. Assim se fixa a passagem de uma epistemologia fundada ontologicamente para uma tipologia mínima do erro.",
+    "ponte_entrada": "De P35 recebe-se que o critério epistémico depende da estrutura do real; segue-se então que o erro deve ser entendido em primeiro lugar como desadequação a essa estrutura, e não apenas como incoerência formal.",
+    "ponte_saida": "Uma vez definido o erro como desadequação ao real em formas descritivas, categoriais e escalares, torna-se possível em P37 explicitar a exigência corretiva correspondente e a orientação prática dessa correção.",
+    "porque_o_anterior_nao_basta": "P35 não basta porque ainda estabelece apenas a dependência epistémica em relação ao real, sem explicitar que daí decorre uma definição primária do erro como desadequação ao real nem a sua tipologia mínima.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a transição entre a dependência ontológica do critério epistémico e a determinação corretiva seguinte fica em salto, porque falta nomear em que consiste precisamente errar.",
+    "objecao_letal": "erro reduzido a incoerência formal",
+    "bloqueio_curto": "Se o critério de acerto é a adequação ao real, pode haver erro mesmo com coerência interna; logo, incoerência não esgota o erro.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "erro reduzido a incoerência formal",
+      "verdade como coerência pura",
+      "coerentismo fechado",
+      "coerência aparente basta para verdade",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "correção prática desligada da descrição do real",
+      "erro como entidade ontologica propria"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A25_SEG_003",
+      "F0241_A18_SEG_003",
+      "F0241_A18_SEG_002",
+      "F0241_A10_SEG_001",
+      "F0185_SEG_001",
+      "F0181_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação, sem necessidade de subpasso autónomo.",
+    "pendencias": []
+  },
+  "canonical": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P36",
+    "numero_final": 36,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P35"
+    ],
+    "prepara": [
+      "P37"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+    "justificacao_minima_suficiente": "Se a normatividade epistémica deriva da estrutura do real e não apenas da consistência interna do discurso, então errar não é primariamente falhar uma forma lógica, mas falhar a adequação ao que é. Por isso, a incoerência é apenas um caso possível de erro, não o seu critério fundamental. O erro define-se antes como desadequação ao real sob critério válido; e essa desadequação pode ocorrer ao descrever mal, ao categorizar mal ou ao graduar mal aquilo de que se fala. Assim se fixa a passagem de uma epistemologia fundada ontologicamente para uma tipologia mínima do erro.",
+    "ponte_entrada": "De P35 recebe-se que o critério epistémico depende da estrutura do real; segue-se então que o erro deve ser entendido em primeiro lugar como desadequação a essa estrutura, e não apenas como incoerência formal.",
+    "ponte_saida": "Uma vez definido o erro como desadequação ao real em formas descritivas, categoriais e escalares, torna-se possível em P37 explicitar a exigência corretiva correspondente e a orientação prática dessa correção.",
+    "porque_o_anterior_nao_basta": "P35 não basta porque ainda estabelece apenas a dependência epistémica em relação ao real, sem explicitar que daí decorre uma definição primária do erro como desadequação ao real nem a sua tipologia mínima.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a transição entre a dependência ontológica do critério epistémico e a determinação corretiva seguinte fica em salto, porque falta nomear em que consiste precisamente errar.",
+    "objecao_letal_a_bloquear": "erro reduzido a incoerência formal",
+    "bloqueio_curto_da_objecao": "Se o critério de acerto é a adequação ao real, pode haver erro mesmo com coerência interna; logo, incoerência não esgota o erro.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_003",
+      "F0241_A18_SEG_003",
+      "F0241_A18_SEG_002",
+      "F0241_A10_SEG_001",
+      "F0185_SEG_001",
+      "F0181_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "erro reduzido a incoerência formal",
+      "verdade como coerência pura",
+      "coerentismo fechado",
+      "coerência aparente basta para verdade",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "correção prática desligada da descrição do real",
+      "erro como entidade ontologica propria"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P36 no corredor P33_P37. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: erro reduzido a incoerência formal. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação, sem necessidade de subpasso autónomo."
+    ]
+  }
+}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P36",
+  "numero_final": 36,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P35"
+  ],
+  "prepara": [
+    "P37"
+  ],
+  "proposicao_canonica_curta": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+  "proposicao_canonica_tecnica": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+  "tese_minima_canonica": "O erro não é só incoerência; é desalinhar-se com o real.",
+  "justificacao_minima_canonica": "O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.",
+  "porque_este_passo_e_necessario": "O erro não é só incoerência; é desalinhar-se com o real.",
+  "porque_o_anterior_nao_basta": "P35 não basta porque ainda não introduz explicitamente este ganho: O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P37 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "erro reduzido a incoerência formal",
+  "tipo_de_necessidade": "epistemica",
+  "estado_de_fecho": "aberto",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 4.718,
+  "breakdown_score_canonico": {
+    "dependencias": 0.8,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.7184,
+    "fragilidade": -0.3,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Separar erro, ilusão, insuficiência epistémica e dano prático, fixando o erro como desadequação ao real sob critério válido.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "O erro não é só incoerência; é desalinhar-se com o real.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_003",
+    "F0241_A19_SEG_003",
+    "F0241_A18_SEG_003",
+    "F0241_A18_SEG_002",
+    "F0241_A10_SEG_001",
+    "F0241_A02_SEG_002",
+    "F0185_SEG_001",
+    "F0181_SEG_001",
+    "F0167_SEG_001",
+    "F0108_A02_SEG_002",
+    "F0102_A01_SEG_002",
+    "F0101_SEG_003"
+  ],
+  "objecoes_bloqueadas": [
+    "erro reduzido a incoerência formal",
+    "autonomia normativa absoluta",
+    "moralismo extrínseco",
+    "correção prática desligada da descrição do real",
+    "verdade como coerência pura",
+    "erro sem implicação corretiva",
+    "coerentismo fechado",
+    "resposta social guiada por instinto ou emoção como equivalente epistémico",
+    "verdade como mera forma discursiva",
+    "critério reduzido à persuasão intelectual",
+    "coerência aparente basta para verdade",
+    "erro como entidade ontologica propria"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Consolidar tipologia do erro e sua derivação."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P36",
+  "numero_original": 36,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "numero_final": 36,
+  "proposicao_final": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+  "proposicao_original": "O erro não é só incoerência; é desalinhar-se com o real.",
+  "descricao_curta": null,
+  "funcao_no_sistema": "No Epistemologia derivada da ontologia, esta proposição fixa que o erro não é só incoerência; é desalinhar-se com o real.; Recebe apoio imediato de P35; e prepara P37.",
+  "depende_de": [
+    "P35"
+  ],
+  "prepara": [
+    "P37"
+  ],
+  "tese_minima": "O erro não é só incoerência; é desalinhar-se com o real.",
+  "justificacao_minima_suficiente": "O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.",
+  "objecoes_bloqueadas": [
+    "erro reduzido a incoerência formal",
+    "autonomia normativa absoluta",
+    "moralismo extrínseco",
+    "correção prática desligada da descrição do real",
+    "verdade como coerência pura",
+    "erro sem implicação corretiva",
+    "coerentismo fechado",
+    "resposta social guiada por instinto ou emoção como equivalente epistémico",
+    "verdade como mera forma discursiva",
+    "critério reduzido à persuasão intelectual",
+    "coerência aparente basta para verdade",
+    "erro como entidade ontologica propria"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_003",
+    "F0241_A19_SEG_003",
+    "F0241_A18_SEG_003",
+    "F0241_A18_SEG_002",
+    "F0241_A10_SEG_001",
+    "F0241_A02_SEG_002",
+    "F0185_SEG_001",
+    "F0181_SEG_001",
+    "F0167_SEG_001",
+    "F0108_A02_SEG_002",
+    "F0102_A01_SEG_002",
+    "F0101_SEG_003"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "O erro não é só incoerência; é desalinhar-se com o real.",
+  "mediacao_necessaria": [
+    "Explicitar a ponte dedutiva entre P35 e P36.",
+    "Explicitar a passagem de P36 para P37.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "medio",
+  "score_de_inevitabilidade": 0.533,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.846,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 8.98,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Consolidar tipologia do erro e sua derivação."
+  ],
+  "estado_de_fecho_canonico": "aberto",
+  "score_canonico_de_fecho": 4.718,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Separar erro, ilusão, insuficiência epistémica e dano prático, fixando o erro como desadequação ao real sob critério válido.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "P35 não basta porque ainda não introduz explicitamente este ganho: O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P37 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "erro reduzido a incoerência formal",
+  "tipo_de_necessidade": "epistemica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 5,
+    "fechados": 0,
+    "abertos": 3,
+    "quase_fechados": 2,
+    "subpassos": [
+      "P33",
+      "P36"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {
+      "id": "P36",
+      "score_canonico_de_fecho": 4.718,
+      "subpasso_sugerido": "Separar erro, ilusão, insuficiência epistémica e dano prático, fixando o erro como desadequação ao real sob critério válido."
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 5,
+    "fechados": 0,
+    "quase_fechados": 2,
+    "abertos": 3,
+    "passos_com_subpasso": [
+      "P33",
+      "P36"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P33",
+    "P34",
+    "P35",
+    "P36",
+    "P37"
+  ],
+  "proposicao_canonica": {
+    "id": "P36",
+    "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares."
+  },
+  "problema_ainda_aberto": {
+    "id": "P36",
+    "estado_de_fecho": "aberto",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": "Separar erro, ilusão, insuficiência epistémica e dano prático, fixando o erro como desadequação ao real sob critério válido.",
+    "objecao_letal_a_bloquear": "erro reduzido a incoerência formal"
+  },
+  "passo": {
+    "id": "P36",
+    "numero_final": 36,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P35"
+    ],
+    "prepara": [
+      "P37"
+    ],
+    "proposicao_canonica_curta": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+    "proposicao_canonica_tecnica": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+    "tese_minima_canonica": "O erro não é só incoerência; é desalinhar-se com o real.",
+    "justificacao_minima_canonica": "O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.",
+    "porque_este_passo_e_necessario": "O erro não é só incoerência; é desalinhar-se com o real.",
+    "porque_o_anterior_nao_basta": "P35 não basta porque ainda não introduz explicitamente este ganho: O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P37 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "erro reduzido a incoerência formal",
+    "tipo_de_necessidade": "epistemica",
+    "estado_de_fecho": "aberto",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 4.718,
+    "breakdown_score_canonico": {
+      "dependencias": 0.8,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.7184,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Separar erro, ilusão, insuficiência epistémica e dano prático, fixando o erro como desadequação ao real sob critério válido.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A necessidade prática relevante não decorre de uma moral autónoma, mas dos constrangimentos reais e relacionais dos sistemas em que a ação ocorre.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O erro não é só incoerência; é desalinhar-se com o real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_003",
+      "F0241_A19_SEG_003",
+      "F0241_A18_SEG_003",
+      "F0241_A18_SEG_002",
+      "F0241_A10_SEG_001",
+      "F0241_A02_SEG_002",
+      "F0185_SEG_001",
+      "F0181_SEG_001",
+      "F0167_SEG_001",
+      "F0108_A02_SEG_002",
+      "F0102_A01_SEG_002",
+      "F0101_SEG_003"
+    ],
+    "objecoes_bloqueadas": [
+      "erro reduzido a incoerência formal",
+      "autonomia normativa absoluta",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "verdade como coerência pura",
+      "erro sem implicação corretiva",
+      "coerentismo fechado",
+      "resposta social guiada por instinto ou emoção como equivalente epistémico",
+      "verdade como mera forma discursiva",
+      "critério reduzido à persuasão intelectual",
+      "coerência aparente basta para verdade",
+      "erro como entidade ontologica propria"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.23).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Consolidar tipologia do erro e sua derivação."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.resumo_global.top_proposicoes_por_pressao[2]",
+        "match": {
+          "proposicao_id": "P36",
+          "numero": 36,
+          "proposicao": "O erro não é só incoerência; é desalinhar-se com o real.",
+          "total_fragmentos_que_tocam": 123,
+          "estabilidade": "estavel_mas_a_densificar",
+          "acao_estrutural_recomendada": "densificar"
+        }
+      },
+      {
+        "path": "$.macro_relatorio_original.passos_mais_tocados[2]",
+        "match": {
+          "proposicao_id": "P36",
+          "n": 123
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$.blocos[4].proposicoes[6]",
+        "match": {
+          "id": "P36",
+          "numero": 36,
+          "proposicao": "O erro não é só incoerência; é desalinhar-se com o real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P35"
+          ],
+          "prepara": [
+            "P37"
+          ],
+          "justificacao": {
+            "tese_minima": "O erro não é só incoerência; é desalinhar-se com o real.",
+            "justificacao_interna_do_passo": "O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "desadequacao_real"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+            "o_que_falta_provar_ou_explicitar": "Consolidar tipologia do erro e sua derivação.",
+            "objecoes_tipicas_a_bloquear": [
+              "erro reduzido a incoerência formal"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": [
+      {
+        "path": "$[5].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[2]",
+        "match": {
+          "proposicao_id": "P36",
+          "numero": 36,
+          "proposicao_resumida": "O erro é desalinhar-se com o real.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "A passagem final afirma que descrever mal o problema conduz a aplicar mal a solução, o que reforça o erro como desadequação operativa."
+        }
+      },
+      {
+        "path": "$[6].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P36",
+          "numero": 36,
+          "proposicao_resumida": "O erro não é só incoerência; é desalinhar-se com o real.",
+          "grau_de_relevancia": "baixo",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "O fragmento sugere uma normalização de respostas empobrecidas e julgadoras, com afinidade geral com formas estabilizadas de erro, mas sem tipologia explícita."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P33_P37",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Decide, para o passo P36 no corredor P33_P37:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P33_P37",
+  "passo_pai_id": "P36",
+  "subpasso_id": "P36_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "P36",
+    "entra_apos_passo_id": "P35 ou null",
+    "entra_antes_de_passo_id": "P37 ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

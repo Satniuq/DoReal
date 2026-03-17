@@ -1,0 +1,56 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P26",
+  "subpasso_id": "P26_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Os materiais convergem em que a lacuna de P26 é resolúvel por reformulação do próprio passo, e não por mediação intermédia autónoma. A formulação canónica final já explicita o elemento antes em falta — que a representação não é dado originário, mas transformação mediada da apreensão em forma operável — e a justificação mínima suficiente fecha a passagem de P25 para P27 sem salto residual. Além disso, todos os registos relevantes indicam explicitamente \"precisa_de_subpasso\": false e \"subpasso_sugerido\": null. Introduzir P26_SP01 redundaria na repetição da mediação já incorporada no passo pai.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P26",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não entra subpasso, porque a mediação necessária já foi absorvida na reformulação canónica de P26."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "representação como dado originário",
+  "bloqueio_curto": "A representação não é originária: ela resulta da transformação mediada do que foi apreendido em forma operável.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A25_SEG_002",
+    "F0108_A02_SEG_001",
+    "F0107_SEG_001",
+    "F0220_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "representação como dado originário",
+    "representação como produto puramente linguístico",
+    "linguisticismo",
+    "coerentismo fechado",
+    "verdade como mera inteligibilidade interna",
+    "autorreferencialidade discursiva suficiente para verdade",
+    "representacionalismo desligado do objeto",
+    "representação como afastamento originário do real",
+    "representação como camada meramente secundária",
+    "redução do humano ao animal não mediado"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON",
+    "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+    "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fecho local obtido por reformulação suficiente do próprio P26.",
+  "pendencias": []
+}

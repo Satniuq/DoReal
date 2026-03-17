@@ -1,0 +1,60 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P42_P48",
+  "passo_id": "P48",
+  "numero_final": 46,
+  "bloco_id": "BLOCO_VII",
+  "bloco_titulo": "Fecho ético",
+  "depende_de": [
+    "P13",
+    "P14",
+    "P15",
+    "P47"
+  ],
+  "prepara": [
+    "P49"
+  ],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+  "justificacao_expandida_final": "Se o dever-ser deriva do ser e do poder-ser reais, então só pode orientar ação onde exista possibilidade efetiva de atualização. Uma exigência prática sem poder-ser correspondente não regula o agir real, mas apenas formula verbalmente um impossível. Por isso, a normatividade prática fica subordinada ao campo das possibilidades reais e não pode incidir sobre o que o real não permite.",
+  "ponte_entrada": "Do passo anterior resulta a subordinação do dever-ser ao ser e ao poder-ser reais; daqui segue-se que a exigência prática só vale enquanto recai sobre aquilo que pode realmente ser atualizado.",
+  "ponte_saida": "Uma vez fixado que a exigência prática só incide sobre possibilidades reais, fica preparada a passagem seguinte, em que a normatividade poderá ser especificada apenas dentro desse campo efetivo de atualização.",
+  "porque_o_anterior_nao_basta": "Os passos P13, P14, P15 e P47 ainda não explicitam esta consequência prática imediata: que um dever sem possibilidade real de atualização perde sentido normativo e não pode obrigar.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, desaparece a mediação que converte a subordinação ontológica do dever-ser ao poder-ser numa regra prática explícita, e a passagem para P49 fica em salto dedutivo.",
+  "objecao_letal": "dever impossível",
+  "bloqueio_curto": "Não há dever prático onde não há possibilidade real de atualização, porque o impossível não orienta ação efetiva.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "dever impossível",
+    "autonomia normativa absoluta",
+    "formalismo moral abstrato",
+    "dedutivismo prático desligado da situação",
+    "dever-ser desligado do poder-ser",
+    "normatividade desligada do real",
+    "livre-arbítrio absoluto"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0060_A01_SEG_001",
+    "F0114_A01_SEG_001",
+    "F0115_A01_SEG_001",
+    "F0117_A01_SEG_003",
+    "F0153_SEG_001",
+    "F0205_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da mediação entre normatividade e possibilidade real, sem necessidade de subpasso.",
+  "pendencias": []
+}

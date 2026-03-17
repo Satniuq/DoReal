@@ -1,0 +1,769 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P25_P30
+PASSO_PAI_ID=P28
+SUBPASSO_ID_SUGERIDO=P28_SP01
+NUMERO_ORDINAL_SUGERIDO=1
+PASSO_ANTERIOR_ID=P27
+PASSO_SEGUINTE_ID=P29
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{
+  "raw": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P28",
+    "numero_final": 28,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24",
+      "P25",
+      "P26",
+      "P27"
+    ],
+    "prepara": [
+      "P29"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+    "justificacao_expandida_final": "Se o humano é localizado e se apreende, representa e simboliza no real, então também a consciência não pode ser posta fora desse mesmo campo. Ela tem de ser entendida como processo situado e mediado no interior do real, inclusive nas mediações representativas e linguísticas, e não como instância soberana ou exterior a partir da qual o real seria apenas julgado de fora.",
+    "ponte_entrada": "Do passo anterior recebe-se que a representação e a simbolização pertencem ao modo humano de estar no real; por isso, a consciência que nelas opera tem de ser reinscrita como processo real, localizado e mediado.",
+    "ponte_saida": "Uma vez reinscrita a consciência no real como processo localizado e mediado, fica preparada a passagem para P29, sem salto para o nível seguinte da reflexividade humana.",
+    "porque_o_anterior_nao_basta": "Os passos P24, P25, P26 e P27 mostram localização, apreensão, representação e simbolização no real, mas ainda não explicitam a conclusão decisiva de que a própria consciência deve ser pensada nesses mesmos termos, bloqueando a sua exteriorização.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a transição para P29 perde a mediação que reinscreve a consciência no real e a sequência fica exposta ao salto dedutivo e ao retorno de um dualismo extramundano.",
+    "objecao_letal": "dualismo extramundano",
+    "bloqueio_curto": "Se a consciência opera por apreensão, representação e simbolização no real, ela não pode ser uma instância exterior ao real; tem de ser processo seu, localizado e mediado.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "dualismo extramundano",
+      "consciência como instância soberana",
+      "consciência como acidente absoluto",
+      "consciência como exterior ao real",
+      "consciência como instância exterior ao real",
+      "psicologismo do pensamento",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "excepcionalismo ontológico da consciência",
+      "negação do real a partir da opacidade da consciência",
+      "consciência como instância desencarnada"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003",
+      "F0241_A23_SEG_001",
+      "F0167_SEG_001",
+      "F0113_A01_SEG_001",
+      "F0107_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação entre representação/simbolização e reinscrição ontológica da consciência.",
+    "pendencias": []
+  },
+  "canonical": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P28",
+    "numero_final": 28,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24",
+      "P25",
+      "P26",
+      "P27"
+    ],
+    "prepara": [
+      "P29"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+    "justificacao_minima_suficiente": "Se o humano é localizado e se apreende, representa e simboliza no real, então também a consciência não pode ser posta fora desse mesmo campo. Ela tem de ser entendida como processo situado e mediado no interior do real, inclusive nas mediações representativas e linguísticas, e não como instância soberana ou exterior a partir da qual o real seria apenas julgado de fora.",
+    "ponte_entrada": "Do passo anterior recebe-se que a representação e a simbolização pertencem ao modo humano de estar no real; por isso, a consciência que nelas opera tem de ser reinscrita como processo real, localizado e mediado.",
+    "ponte_saida": "Uma vez reinscrita a consciência no real como processo localizado e mediado, fica preparada a passagem para P29, sem salto para o nível seguinte da reflexividade humana.",
+    "porque_o_anterior_nao_basta": "Os passos P24, P25, P26 e P27 mostram localização, apreensão, representação e simbolização no real, mas ainda não explicitam a conclusão decisiva de que a própria consciência deve ser pensada nesses mesmos termos, bloqueando a sua exteriorização.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a transição para P29 perde a mediação que reinscreve a consciência no real e a sequência fica exposta ao salto dedutivo e ao retorno de um dualismo extramundano.",
+    "objecao_letal_a_bloquear": "dualismo extramundano",
+    "bloqueio_curto_da_objecao": "Se a consciência opera por apreensão, representação e simbolização no real, ela não pode ser uma instância exterior ao real; tem de ser processo seu, localizado e mediado.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003",
+      "F0241_A23_SEG_001",
+      "F0167_SEG_001",
+      "F0113_A01_SEG_001",
+      "F0107_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dualismo extramundano",
+      "consciência como instância soberana",
+      "consciência como acidente absoluto",
+      "consciência como exterior ao real",
+      "consciência como instância exterior ao real",
+      "psicologismo do pensamento",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "excepcionalismo ontológico da consciência",
+      "negação do real a partir da opacidade da consciência",
+      "consciência como instância desencarnada"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P28 no corredor P25_P30. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: dualismo extramundano. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação entre representação/simbolização e reinscrição ontológica da consciência."
+    ]
+  }
+}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P28",
+  "numero_final": 28,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P24",
+    "P25",
+    "P26",
+    "P27"
+  ],
+  "prepara": [
+    "P29"
+  ],
+  "proposicao_canonica_curta": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+  "proposicao_canonica_tecnica": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+  "tese_minima_canonica": "A consciência é processo no real, não instância exterior ao real.",
+  "justificacao_minima_canonica": "Se o humano é localizado, apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real situado e mediado.",
+  "porque_este_passo_e_necessario": "A consciência é processo no real, não instância exterior ao real.",
+  "porque_o_anterior_nao_basta": "Os passos P24, P25, P26, P27 não bastam em conjunto porque ainda não fecham esta passagem específica: A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P29 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "dualismo extramundano",
+  "tipo_de_necessidade": "mediacional",
+  "estado_de_fecho": "quase_fechado",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "reformular",
+  "score_canonico_de_fecho": 5.009,
+  "breakdown_score_canonico": {
+    "dependencias": 2.4,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.1,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.80856,
+    "fragilidade": -1.0,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Explicitar a passagem entre representação linguística e consciência como processo real, localizado e mediado, evitando exterioridade da consciência.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "A consciência é processo no real, não instância exterior ao real.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003",
+    "F0241_A23_SEG_001",
+    "F0241_A19_SEG_003",
+    "F0241_A11_SEG_001",
+    "F0241_A10_SEG_002",
+    "F0241_A05_SEG_003",
+    "F0167_SEG_001",
+    "F0115_A01_SEG_003",
+    "F0113_A01_SEG_001",
+    "F0111_A01_SEG_002",
+    "F0107_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "dualismo extramundano",
+    "consciência como instância soberana",
+    "consciência como acidente absoluto",
+    "consciência como exterior ao real",
+    "consciência como instância exterior ao real",
+    "psicologismo do pensamento",
+    "representacionalismo sem referente",
+    "fechamento da consciência em si mesma",
+    "excepcionalismo ontológico da consciência",
+    "negação do real a partir da opacidade da consciência",
+    "consciência como instância desencarnada",
+    "persistência de crenças explicada apenas por decisão racional"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+    "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Fechar o argumento contínuo contra a exterioridade da consciência."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P28",
+  "numero_original": 28,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "numero_final": 28,
+  "proposicao_final": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+  "proposicao_original": "A consciência é processo no real, não instância exterior ao real.",
+  "descricao_curta": null,
+  "funcao_no_sistema": "No Emergência do ser localizado e reflexivo, esta proposição fixa que a consciência é processo no real, não instância exterior ao real.; Recebe apoio imediato de P24, P25, P26, P27; e prepara P29.",
+  "depende_de": [
+    "P24",
+    "P25",
+    "P26",
+    "P27"
+  ],
+  "prepara": [
+    "P29"
+  ],
+  "tese_minima": "A consciência é processo no real, não instância exterior ao real.",
+  "justificacao_minima_suficiente": "Se o humano é localizado, apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real situado e mediado.",
+  "objecoes_bloqueadas": [
+    "dualismo extramundano",
+    "consciência como instância soberana",
+    "consciência como acidente absoluto",
+    "consciência como exterior ao real",
+    "consciência como instância exterior ao real",
+    "psicologismo do pensamento",
+    "representacionalismo sem referente",
+    "fechamento da consciência em si mesma",
+    "excepcionalismo ontológico da consciência",
+    "negação do real a partir da opacidade da consciência",
+    "consciência como instância desencarnada",
+    "persistência de crenças explicada apenas por decisão racional"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003",
+    "F0241_A23_SEG_001",
+    "F0241_A19_SEG_003",
+    "F0241_A11_SEG_001",
+    "F0241_A10_SEG_002",
+    "F0241_A05_SEG_003",
+    "F0167_SEG_001",
+    "F0115_A01_SEG_003",
+    "F0113_A01_SEG_001",
+    "F0111_A01_SEG_002",
+    "F0107_SEG_001"
+  ],
+  "estatuto_no_mapa": "reformular",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "A consciência é processo no real, não instância exterior ao real.",
+  "mediacao_necessaria": [
+    "ligar consciência a localidade, mediação e linguagem",
+    "Reformular a proposição sem perder o núcleo que o material já sustenta.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "muito_alto",
+  "score_de_inevitabilidade": 0.843,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.92,
+  "apoio_argumentativo": {
+    "argumentos_ids": [
+      "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+      "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+    ],
+    "percursos_ids": [
+      "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_EIXO_ESCALA_E_ERRO_DE_ESCALA",
+      "P_EIXO_ETICO_NARRATIVO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "P_PERCURSO_DA_DEGENERACAO_ETICA",
+      "P_PERCURSO_DA_VIDA_BOA",
+      "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA",
+      "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO",
+      "P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO",
+      "P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA",
+      "P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL"
+    ],
+    "n_argumentos": 2,
+    "n_percursos": 13
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 10.107,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+    "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Fechar o argumento contínuo contra a exterioridade da consciência."
+  ],
+  "estado_de_fecho_canonico": "quase_fechado",
+  "score_canonico_de_fecho": 5.009,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Explicitar a passagem entre representação linguística e consciência como processo real, localizado e mediado, evitando exterioridade da consciência.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "Os passos P24, P25, P26, P27 não bastam em conjunto porque ainda não fecham esta passagem específica: A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P29 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "dualismo extramundano",
+  "tipo_de_necessidade": "mediacional"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 6,
+    "fechados": 0,
+    "abertos": 5,
+    "quase_fechados": 1,
+    "subpassos": [
+      "P25",
+      "P28"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {
+      "id": "P28",
+      "score_canonico_de_fecho": 5.009,
+      "subpasso_sugerido": "Explicitar a passagem entre representação linguística e consciência como processo real, localizado e mediado, evitando exterioridade da consciência."
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 6,
+    "fechados": 0,
+    "quase_fechados": 1,
+    "abertos": 5,
+    "passos_com_subpasso": [
+      "P25",
+      "P28"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30"
+  ],
+  "proposicao_canonica": {
+    "id": "P28",
+    "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano."
+  },
+  "problema_ainda_aberto": {
+    "id": "P28",
+    "estado_de_fecho": "quase_fechado",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": "Explicitar a passagem entre representação linguística e consciência como processo real, localizado e mediado, evitando exterioridade da consciência.",
+    "objecao_letal_a_bloquear": "dualismo extramundano"
+  },
+  "passo": {
+    "id": "P28",
+    "numero_final": 28,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24",
+      "P25",
+      "P26",
+      "P27"
+    ],
+    "prepara": [
+      "P29"
+    ],
+    "proposicao_canonica_curta": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+    "proposicao_canonica_tecnica": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+    "tese_minima_canonica": "A consciência é processo no real, não instância exterior ao real.",
+    "justificacao_minima_canonica": "Se o humano é localizado, apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real situado e mediado.",
+    "porque_este_passo_e_necessario": "A consciência é processo no real, não instância exterior ao real.",
+    "porque_o_anterior_nao_basta": "Os passos P24, P25, P26, P27 não bastam em conjunto porque ainda não fecham esta passagem específica: A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P29 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "dualismo extramundano",
+    "tipo_de_necessidade": "mediacional",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "reformular",
+    "score_canonico_de_fecho": 5.009,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.1,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.80856,
+      "fragilidade": -1.0,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Explicitar a passagem entre representação linguística e consciência como processo real, localizado e mediado, evitando exterioridade da consciência.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A pergunta pelo pensamento não é apenas psicológica: pensar é um modo de ser da consciência enquanto processo inscrito na estrutura do real.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "A consciência é processo no real, não instância exterior ao real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003",
+      "F0241_A23_SEG_001",
+      "F0241_A19_SEG_003",
+      "F0241_A11_SEG_001",
+      "F0241_A10_SEG_002",
+      "F0241_A05_SEG_003",
+      "F0167_SEG_001",
+      "F0115_A01_SEG_003",
+      "F0113_A01_SEG_001",
+      "F0111_A01_SEG_002",
+      "F0107_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "dualismo extramundano",
+      "consciência como instância soberana",
+      "consciência como acidente absoluto",
+      "consciência como exterior ao real",
+      "consciência como instância exterior ao real",
+      "psicologismo do pensamento",
+      "representacionalismo sem referente",
+      "fechamento da consciência em si mesma",
+      "excepcionalismo ontológico da consciência",
+      "negação do real a partir da opacidade da consciência",
+      "consciência como instância desencarnada",
+      "persistência de crenças explicada apenas por decisão racional"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+      "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Fechar o argumento contínuo contra a exterioridade da consciência."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$.resumo_global.top_proposicoes_por_pressao[1]",
+        "match": {
+          "proposicao_id": "P28",
+          "numero": 28,
+          "proposicao": "A consciência é processo no real, não instância exterior ao real.",
+          "total_fragmentos_que_tocam": 146,
+          "estabilidade": "estavel_mas_a_densificar",
+          "acao_estrutural_recomendada": "reformular"
+        }
+      },
+      {
+        "path": "$.macro_relatorio_original.passos_mais_tocados[1]",
+        "match": {
+          "proposicao_id": "P28",
+          "n": 146
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$.blocos[3].proposicoes[5]",
+        "match": {
+          "id": "P28",
+          "numero": 28,
+          "proposicao": "A consciência é processo no real, não instância exterior ao real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P24",
+            "P25",
+            "P26",
+            "P27"
+          ],
+          "prepara": [
+            "P29"
+          ],
+          "justificacao": {
+            "tese_minima": "A consciência é processo no real, não instância exterior ao real.",
+            "justificacao_interna_do_passo": "Se o humano é localizado, apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real situado e mediado.",
+            "tipo_de_necessidade": "necessidade_ontologico_reflexiva",
+            "estatuto_inferencial": "reinscricao_da_consciencia"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+            "o_que_falta_provar_ou_explicitar": "Fechar o argumento contínuo contra a exterioridade da consciência.",
+            "objecoes_tipicas_a_bloquear": [
+              "dualismo extramundano",
+              "consciência como instância soberana"
+            ],
+            "mediacoes_em_falta": [
+              "ligar consciência a localidade, mediação e linguagem"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$[0].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P28",
+          "numero": 28,
+          "proposicao_resumida": "A consciência é processo no real, não instância exterior ao real.",
+          "grau_de_relevancia": "baixo",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "O fragmento liga atividade mental consciente a comportamento, mas sem formulação ontológica da consciência."
+        }
+      },
+      {
+        "path": "$[17].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P28",
+          "numero": 28,
+          "proposicao_resumida": "A consciência é processo no real, não instância exterior ao real.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "toca_diretamente",
+          "justificacao_da_associacao": "O fragmento fala diretamente da consciência como momento reflexivo do ser, embora a formule de modo mais forte e especulativo do que o mapa."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Decide, para o passo P28 no corredor P25_P30:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P28",
+  "subpasso_id": "P28_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "P28",
+    "entra_apos_passo_id": "P27 ou null",
+    "entra_antes_de_passo_id": "P29 ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

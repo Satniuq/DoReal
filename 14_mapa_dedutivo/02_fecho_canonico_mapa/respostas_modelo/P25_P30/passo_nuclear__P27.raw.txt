@@ -1,0 +1,64 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P25_P30",
+  "passo_id": "P27",
+  "numero_final": 27,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P26"
+  ],
+  "prepara": [
+    "P28"
+  ],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+  "justificacao_expandida_final": "Se em P26 a representação já se tornou operável, então ela já não pode permanecer como episódio isolado: para poder repetir-se, partilhar-se e sustentar trabalho reflexivo, tem de estabilizar-se simbolicamente num meio de conservação e circulação. Esse meio é a linguagem. O passo não afirma que todo o ser se reduza à linguagem, mas que a mediação representacional, enquanto operável, adquire nela o seu regime próprio de fixação, transmissão e retomada.",
+  "ponte_entrada": "De P26 segue-se que a representação é operável; sendo operável, ela exige estabilização simbólica para não se perder na ocorrência singular, e essa estabilização dá-se em linguagem.",
+  "ponte_saida": "Uma vez que a representação operável circula e se estabiliza linguisticamente, fica aberto o passo seguinte para pensar os efeitos próprios dessa mediação linguística sobre o exercício reflexivo em P28.",
+  "porque_o_anterior_nao_basta": "P26 não basta porque ainda não explicita em que regime a representação operável se estabiliza, circula e se torna partilhável; sem isso, falta a mediação especificamente linguística.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem de uma representação apenas operável para os desenvolvimentos de P28 perde o seu meio simbólico próprio e transforma-se num salto dedutivo.",
+  "objecao_letal": "linguisticismo ontológico",
+  "bloqueio_curto": "O passo não diz que o real se reduz à linguagem; diz apenas que a representação operável, enquanto mediação simbólica estável e partilhável, se fixa e circula linguisticamente.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "linguisticismo ontológico",
+    "individualismo autodidata suficiente",
+    "mediação simbólica reduzida a informação abstrata",
+    "autonomia do sistema linguístico",
+    "fechamento simbólico",
+    "autonomizacao da linguagem"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0108_A02_SEG_001",
+    "F0071_SEG_001",
+    "F0054_SEG_001",
+    "F0241_A14_SEG_003",
+    "F0241_A14_SEG_001",
+    "F0241_A05_SEG_004",
+    "F0223_SEG_001",
+    "F0213_SEG_001",
+    "F0209_SEG_001",
+    "F0203_SEG_001",
+    "F0137_SEG_001",
+    "F0129_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da mediação entre representação operável e estabilização linguística, com bloqueio explícito do linguisticismo.",
+  "pendencias": []
+}

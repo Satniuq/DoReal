@@ -1,0 +1,183 @@
+{
+  "stage": "arbitragem_corredor",
+  "target_id": "P50",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:21:34+00:00",
+  "raw_json": {
+    "tipo_registo": "arbitragem_corredor",
+    "corredor": "P50",
+    "sequencia_minima_do_corredor": [
+      "P50"
+    ],
+    "decisoes_por_passo_referenciadas": [
+      "P50"
+    ],
+    "decisoes_por_subpasso_referenciadas": [
+      "P50_SP01"
+    ],
+    "passos_fechados": [
+      "P50"
+    ],
+    "passos_quase_fechados": [],
+    "passos_a_reabrir": [],
+    "subpassos_aprovados": [],
+    "formulacoes_fixadas": [
+      {
+        "passo_id": "P50",
+        "formulacao_canonica_final": "A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação."
+      }
+    ],
+    "sequencia_minima_ficou_fechada": true,
+    "estado_final_do_corredor": "fechado",
+    "criterio_de_fecho_aplicado": "O corredor fica fechado porque o único passo indispensável da sequência mínima, P50, foi densificado até estado fechado; a ponte de entrada e a ponte de saída são coerentes no próprio passo; a objeção letal relevante ('dignidade como puro convencionalismo') ficou bloqueada; o subpasso sugerido foi avaliado e corretamente não aprovado por não ser indispensável; e, sendo a sequência mínima unitária, não resta salto dedutivo impeditivo entre passos consecutivos.",
+    "justificacao_da_arbitragem": "No corredor P50, a lacuna inicial era local: faltava explicitar por que a dignidade decorre do estatuto ontológico-reflexivo do ser real, vulnerável e situado, em vez de ser mera convenção. A decisão editorial de densificação resolveu essa fragilidade dentro do próprio P50, com formulação canónica estável e justificação mínima suficiente que faz a mediação necessária. Como o corredor contém apenas este passo, não há descontinuidade sequencial adicional a testar. O subpasso P50_SP01 foi considerado, mas a sua rejeição é consistente com o fecho obtido intra-passo, sem salto dedutivo remanescente. Assim, o fecho canónico local do corredor pode ser arbitrado como concluído.",
+    "pendencias_remanescentes": [],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P50.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "observacoes_editoriais": [
+      "Fecho confirmado por densificação interna de P50.",
+      "Subpasso P50_SP01 mantido como não inserido.",
+      "Formulação canónica de P50 fixada como estável."
+    ]
+  },
+  "normalized_json": {
+    "tipo_registo": "arbitragem_corredor",
+    "corredor": "P50",
+    "sequencia_minima_do_corredor": [
+      "P50"
+    ],
+    "decisoes_por_passo_referenciadas": [
+      "P50"
+    ],
+    "decisoes_por_subpasso_referenciadas": [
+      "P50_SP01"
+    ],
+    "passos_fechados": [
+      "P50"
+    ],
+    "passos_quase_fechados": [],
+    "passos_a_reabrir": [],
+    "subpassos_aprovados": [],
+    "formulacoes_fixadas": [
+      {
+        "passo_id": "P50",
+        "formulacao_canonica_final": "A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação."
+      }
+    ],
+    "sequencia_minima_ficou_fechada": true,
+    "estado_final_do_corredor": "fechado",
+    "criterio_de_fecho_aplicado": "O corredor fica fechado porque o único passo indispensável da sequência mínima, P50, foi densificado até estado fechado; a ponte de entrada e a ponte de saída são coerentes no próprio passo; a objeção letal relevante ('dignidade como puro convencionalismo') ficou bloqueada; o subpasso sugerido foi avaliado e corretamente não aprovado por não ser indispensável; e, sendo a sequência mínima unitária, não resta salto dedutivo impeditivo entre passos consecutivos.",
+    "justificacao_da_arbitragem": "No corredor P50, a lacuna inicial era local: faltava explicitar por que a dignidade decorre do estatuto ontológico-reflexivo do ser real, vulnerável e situado, em vez de ser mera convenção. A decisão editorial de densificação resolveu essa fragilidade dentro do próprio P50, com formulação canónica estável e justificação mínima suficiente que faz a mediação necessária. Como o corredor contém apenas este passo, não há descontinuidade sequencial adicional a testar. O subpasso P50_SP01 foi considerado, mas a sua rejeição é consistente com o fecho obtido intra-passo, sem salto dedutivo remanescente. Assim, o fecho canónico local do corredor pode ser arbitrado como concluído.",
+    "pendencias_remanescentes": [],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P50.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "observacoes_editoriais": [
+      "Fecho confirmado por densificação interna de P50.",
+      "Subpasso P50_SP01 mantido como não inserido.",
+      "Formulação canónica de P50 fixada como estável."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_004478f1cfaad1780069b99ba25c1c8195ab9b2887105a1f00",
+      "object": "response",
+      "created_at": 1773771682,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771693,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_004478f1cfaad1780069b99ba2df4c8195aa0af174f2db594f",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"arbitragem_corredor\",\n  \"corredor\": \"P50\",\n  \"sequencia_minima_do_corredor\": [\n    \"P50\"\n  ],\n  \"decisoes_por_passo_referenciadas\": [\n    \"P50\"\n  ],\n  \"decisoes_por_subpasso_referenciadas\": [\n    \"P50_SP01\"\n  ],\n  \"passos_fechados\": [\n    \"P50\"\n  ],\n  \"passos_quase_fechados\": [],\n  \"passos_a_reabrir\": [],\n  \"subpassos_aprovados\": [],\n  \"formulacoes_fixadas\": [\n    {\n      \"passo_id\": \"P50\",\n      \"formulacao_canonica_final\": \"A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.\"\n    }\n  ],\n  \"sequencia_minima_ficou_fechada\": true,\n  \"estado_final_do_corredor\": \"fechado\",\n  \"criterio_de_fecho_aplicado\": \"O corredor fica fechado porque o único passo indispensável da sequência mínima, P50, foi densificado até estado fechado; a ponte de entrada e a ponte de saída são coerentes no próprio passo; a objeção letal relevante ('dignidade como puro convencionalismo') ficou bloqueada; o subpasso sugerido foi avaliado e corretamente não aprovado por não ser indispensável; e, sendo a sequência mínima unitária, não resta salto dedutivo impeditivo entre passos consecutivos.\",\n  \"justificacao_da_arbitragem\": \"No corredor P50, a lacuna inicial era local: faltava explicitar por que a dignidade decorre do estatuto ontológico-reflexivo do ser real, vulnerável e situado, em vez de ser mera convenção. A decisão editorial de densificação resolveu essa fragilidade dentro do próprio P50, com formulação canónica estável e justificação mínima suficiente que faz a mediação necessária. Como o corredor contém apenas este passo, não há descontinuidade sequencial adicional a testar. O subpasso P50_SP01 foi considerado, mas a sua rejeição é consistente com o fecho obtido intra-passo, sem salto dedutivo remanescente. Assim, o fecho canónico local do corredor pode ser arbitrado como concluído.\",\n  \"pendencias_remanescentes\": [],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json\",\n    \"../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json\",\n    \"../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json\",\n    \"../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P50.json\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\",\n    \"../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json\",\n    \"../../13_Meta_Indice/indice/indice_por_percurso.json\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json\"\n  ],\n  \"observacoes_editoriais\": [\n    \"Fecho confirmado por densificação interna de P50.\",\n    \"Subpasso P50_SP01 mantido como não inserido.\",\n    \"Formulação canónica de P50 fixada como estável.\"\n  ]\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 6565,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 830,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7395
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "arbitragem_corredor__P50.raw.txt"
+}

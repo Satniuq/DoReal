@@ -1,0 +1,61 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P33_P37",
+  "passo_id": "P37",
+  "numero_final": 37,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P36"
+  ],
+  "prepara": [
+    "P38"
+  ],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+  "justificacao_expandida_final": "Se o erro consiste num desvio por não inclusão suficiente do real, a sua correção não pode consistir apenas em restaurar coerência interna entre representações. Uma correção apenas interna pode reorganizar o sistema sem o submeter de novo ao que é. Por isso, corrigir exige reorientar representação e ação pela realidade mesma, isto é, reinscrevê-las na sua medida. Só assim a correção deixa de ser mera coerentização e volta a valer como correção real.",
+  "ponte_entrada": "P36 ainda mostrava a necessidade de submeter o critério ao real; P37 explicita agora que, quando há erro, essa submissão toma a forma positiva de correção como reinscrição de representação e ação no real.",
+  "ponte_saida": "Uma vez estabelecido que corrigir é voltar a medir representação e ação pelo real, fica preparada a passagem para P38, onde se pode explicitar o desenvolvimento seguinte dessa normatividade epistemológica sem salto.",
+  "porque_o_anterior_nao_basta": "P36 não basta porque ainda não distingue explicitamente entre correção real e simples reajuste interno do sistema.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, perde-se a mediação que transforma a submissão geral ao real em critério concreto de correção, e a passagem para P38 aparece como salto dedutivo.",
+  "objecao_letal": "correção como mera coerentização",
+  "bloqueio_curto": "Coerência interna por si só não basta, porque um sistema pode tornar-se mais coerente e continuar desligado do real; corrigir só ocorre quando representação e ação voltam a ser medidas pelo real.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "correção como mera coerentização",
+    "verdade como coerência pura",
+    "erro sem implicação corretiva",
+    "coerentismo fechado",
+    "convencionalismo total",
+    "erro reduzido a incoerência formal",
+    "representação sem base ontológica",
+    "autorreferencialismo fechado",
+    "verdade reduzida a processamento interno",
+    "correção como mera reformulação interna"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0241_A10_SEG_001",
+    "F0241_A26_SEG_004",
+    "F0064_A02_SEG_001",
+    "F0142_SEG_001",
+    "F0130_SEG_001",
+    "F0072_SEG_002"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da diferença entre correção interna e correção real, sem necessidade de subpasso.",
+  "pendencias": []
+}

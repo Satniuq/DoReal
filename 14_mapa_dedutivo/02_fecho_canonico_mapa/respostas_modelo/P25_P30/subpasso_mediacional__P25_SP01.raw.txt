@@ -1,0 +1,51 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P25",
+  "subpasso_id": "P25_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Apesar de os materiais preparatórios terem sinalizado fragilidade mediacional e sugerido um subpasso para distinguir apreensão de interpretação e representação, a decisão canónica final já incorporou essa distinção no próprio P25. A formulação final e a justificação mínima suficiente explicitam que a apreensão é contacto situado e originário com o real, anterior à representação, à interpretação e à tematização reflexiva. Assim, o bloqueio da objeção letal ('representacionalismo originário') já ocorre no interior do passo, sem exigir mediação autónoma adicional. Introduzir um subpasso aqui apenas duplicaria analiticamente o conteúdo já densificado de P25, sem fechar um salto residual indispensável entre P24 e P26.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P25",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não se justifica inserção, porque a mediação necessária foi absorvida pela reformulação canónica do próprio P25."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "P25 já fecha canonicamente ao explicitar que, dado P24, o humano enquanto ente localizado entra em contacto situado e originário com o real, e que esse contacto é apreensão antes de qualquer representação ou tematização reflexiva.",
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "representacionalismo originário",
+  "bloqueio_curto": "A apreensão já foi formulada no próprio passo como contacto situado e originário com o real, não como representação primeira.",
+  "fragmentos_selecionados_finais": [
+    "F0205_SEG_001",
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003"
+  ],
+  "objecoes_bloqueadas_final": [
+    "representacionalismo originário",
+    "real como exterior ao sujeito",
+    "dualismo extramundano da consciência",
+    "consciência como limite absoluto do real",
+    "representacionalismo que esquece a inscrição do humano no real",
+    "ponto de vista neutro ou exterior ao real",
+    "tratamento da consciência sem condição de enquadramento",
+    "dualismo extramundano",
+    "consciência como instância soberana"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../impacto_fragmentos_no_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: a mediação foi internalizada no fecho final de P25.",
+  "pendencias": []
+}

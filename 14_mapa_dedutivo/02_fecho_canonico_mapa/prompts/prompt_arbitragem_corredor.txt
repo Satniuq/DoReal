@@ -1,0 +1,117 @@
+Arbitra o fecho canónico de um único corredor do mapa dedutivo.
+
+Trabalha apenas sobre o corredor indicado.
+Não faças análise global.
+Não reavalies o projeto inteiro.
+Decide apenas se a sequência mínima do corredor ficou realmente fechada, que passos reabrir, que subpassos aprovar e que formulações fixar.
+
+PLACEHOLDERS
+
+CORREDOR_ID={{CORREDOR_ID}}
+SEQUENCIA_MINIMA_DO_CORREDOR_JSON={{SEQUENCIA_MINIMA_DO_CORREDOR_JSON}}
+
+MATERIAIS
+
+[DECISOES_POR_PASSO_JSON]
+{{DECISOES_POR_PASSO_JSON}}
+
+[DECISOES_POR_SUBPASSO_JSON]
+{{DECISOES_POR_SUBPASSO_JSON}}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{{MATRIZ_INEVITABILIDADES_RECORTE_JSON}}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{{MAPA_PRECANONICO_RECORTE_JSON}}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{{RELATORIO_FECHO_RECORTE_JSON}}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{{DOSSIER_CORREDOR_RECORTE_JSON}}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{{INPUTS_SECUNDARIOS_RELEVANTES_JSON}}
+
+TAREFA
+
+Para o corredor {{CORREDOR_ID}}, decide:
+1. se a sequência mínima ficou fechada;
+2. que passos têm de ser reabertos;
+3. que subpassos ficam aprovados;
+4. que formulações ficam fixadas.
+
+CRITÉRIO DE FECHO DO CORREDOR
+
+Considera o corredor fechado apenas se:
+- todos os passos indispensáveis da sequência mínima estiverem fechados;
+- as pontes de entrada e saída estiverem coerentes ao longo da sequência;
+- as objeções letais relevantes estiverem bloqueadas;
+- os subpassos necessários estiverem aprovados e integrados;
+- não restar salto dedutivo impeditivo entre passos consecutivos.
+
+Considera o corredor parcial quando:
+- há progresso local forte, mas permanece pelo menos uma lacuna impeditiva;
+- algum passo está quase fechado mas ainda sem mediação suficiente;
+- há formulações promissoras, mas ainda não fixáveis.
+
+Considera o corredor para reabrir quando:
+- a sequência mínima ainda falha em pontos decisivos;
+- há passos que precisam de revisão local antes de qualquer consolidação;
+- a arbitragem não pode fixar as formulações com segurança.
+
+REGRAS
+
+- Reabre apenas os passos estritamente necessários.
+- Aprova apenas os subpassos realmente indispensáveis.
+- Fixa apenas formulações que já podem ficar estáveis.
+- Não fixes formulações provisórias como finais.
+- Se o corredor estiver fechado, a lista de passos_a_reabrir deve ser vazia.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "arbitragem_corredor",
+  "corredor": "{{CORREDOR_ID}}",
+  "sequencia_minima_do_corredor": {{SEQUENCIA_MINIMA_DO_CORREDOR_JSON}},
+  "decisoes_por_passo_referenciadas": ["P.."],
+  "decisoes_por_subpasso_referenciadas": ["P.._SP.."],
+  "passos_fechados": ["P.."],
+  "passos_quase_fechados": ["P.."],
+  "passos_a_reabrir": ["P.."],
+  "subpassos_aprovados": ["P.._SP.."],
+  "formulacoes_fixadas": [
+    {
+      "passo_id": "P..",
+      "formulacao_canonica_final": "string"
+    }
+  ],
+  "sequencia_minima_ficou_fechada": true,
+  "estado_final_do_corredor": "fechado|parcial|reabrir",
+  "criterio_de_fecho_aplicado": "string",
+  "justificacao_da_arbitragem": "string",
+  "pendencias_remanescentes": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "observacoes_editoriais": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "decisoes_por_passo_referenciadas" deve listar os passos realmente usados na arbitragem.
+- "decisoes_por_subpasso_referenciadas" deve listar apenas os subpassos efetivamente considerados.
+- "passos_fechados" inclui apenas passos com fecho suficientemente estável.
+- "passos_quase_fechados" inclui apenas passos com avanço real mas ainda não totalmente fixados.
+- "passos_a_reabrir" inclui apenas os passos cujo estado impede o fecho do corredor.
+- "subpassos_aprovados" inclui apenas subpassos indispensáveis já validados.
+- "formulacoes_fixadas" inclui apenas formulações que podem ser tomadas como finais dentro deste corredor.
+- Se "sequencia_minima_ficou_fechada"=true, então:
+  - "estado_final_do_corredor" tem de ser "fechado";
+  - "passos_a_reabrir" tem de ser [];
+  - "pendencias_remanescentes" deve ser [] ou conter apenas notas não impeditivas.
+- Se "estado_final_do_corredor"="reabrir", então "passos_a_reabrir" tem de conter pelo menos um passo.
+- "justificacao_da_arbitragem" deve ser concreta e local ao corredor.
+- "observacoes_editoriais" deve conter apenas notas operacionais curtas.

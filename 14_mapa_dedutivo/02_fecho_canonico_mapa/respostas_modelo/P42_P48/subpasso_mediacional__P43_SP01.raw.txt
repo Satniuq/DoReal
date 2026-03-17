@@ -1,0 +1,50 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P43",
+  "subpasso_id": "P43_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P43 é resolúvel por densificação interna da própria formulação e justificação, não por introdução de uma mediação autónoma indispensável. A ligação entre orientação prática, critérios, vetores de ação e situação já foi explicitada no próprio passo canónico, bloqueando a objeção da direção meramente abstrata sem exigir distinção adicional ou pressuposto intermédio separado. Além disso, os materiais indicam explicitamente 'precisa_de_subpasso': false e 'promovivel_a_mediacao_autonoma': false.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P43",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não há inserção: o fecho canónico de P43 já absorve a mediação necessária por densificação local."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "direção meramente abstrata",
+  "bloqueio_curto": "A própria formulação canónica de P43 já bloqueia a objeção ao exigir tradução operativa em critérios e vetores situados.",
+  "fragmentos_selecionados_finais": [
+    "F0073_SEG_002",
+    "F0106_SEG_002",
+    "F0120_SEG_001",
+    "F0098_A03_SEG_001",
+    "F0163_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "direção meramente abstrata",
+    "liberdade abstrata sem inscrição no real",
+    "dever-ser como pura construção teórica explícita",
+    "formalismo moral abstrato",
+    "dedutivismo prático desligado da situação",
+    "coerência interna tomada como suficiente para correção",
+    "correção como mera coerentização"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso recusado; manter densificação interna de P43.",
+  "pendencias": []
+}

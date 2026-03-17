@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "schema_decisoes_canonicas_intermedias.json",
+  "title": "Schema agregador das decisões canónicas intermédias",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "meta",
+    "inputs_utilizados",
+    "ordem_de_execucao",
+    "decisoes_por_passo",
+    "decisoes_por_subpasso",
+    "arbitragens_de_corredor",
+    "resumo"
+  ],
+  "$defs": {
+    "corredor_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}(?:_P\\d{2})?$"
+    },
+    "caminho_relativo": {
+      "type": "string",
+      "pattern": "^(?:\\.?\\.?/)?[A-Za-z0-9_./-]+\\.(?:json|txt|md|py)$"
+    }
+  },
+  "properties": {
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "gerado_em_utc",
+        "manifesto_utilizado",
+        "modo_execucao",
+        "corredor_inicial_default",
+        "versao_pipeline"
+      ],
+      "properties": {
+        "gerado_em_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "manifesto_utilizado": {
+          "$ref": "#/$defs/caminho_relativo"
+        },
+        "modo_execucao": {
+          "type": "string",
+          "enum": [
+            "local_auditavel"
+          ]
+        },
+        "corredor_inicial_default": {
+          "$ref": "#/$defs/corredor_id"
+        },
+        "versao_pipeline": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "inputs_utilizados": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "inputs_nucleares",
+        "inputs_secundarios"
+      ],
+      "properties": {
+        "inputs_nucleares": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/caminho_relativo"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "inputs_secundarios": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/caminho_relativo"
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "ordem_de_execucao": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/corredor_id"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "decisoes_por_passo": {
+      "type": "array",
+      "items": {
+        "$ref": "schema_decisao_passo.json"
+      },
+      "uniqueItems": true
+    },
+    "decisoes_por_subpasso": {
+      "type": "array",
+      "items": {
+        "$ref": "schema_decisao_subpasso.json"
+      },
+      "uniqueItems": true
+    },
+    "arbitragens_de_corredor": {
+      "type": "array",
+      "items": {
+        "$ref": "schema_arbitragem_corredor.json"
+      },
+      "uniqueItems": true
+    },
+    "resumo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "total_decisoes_por_passo",
+        "total_decisoes_por_subpasso",
+        "total_arbitragens_de_corredor",
+        "passos_fechados",
+        "passos_quase_fechados",
+        "passos_abertos",
+        "subpassos_aprovados",
+        "subpassos_rejeitados",
+        "subpassos_adiados",
+        "corredores_fechados",
+        "corredores_parciais",
+        "corredores_para_reabrir"
+      ],
+      "properties": {
+        "total_decisoes_por_passo": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "total_decisoes_por_subpasso": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "total_arbitragens_de_corredor": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "passos_fechados": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "passos_quase_fechados": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "passos_abertos": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "subpassos_aprovados": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "subpassos_rejeitados": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "subpassos_adiados": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "corredores_fechados": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "corredores_parciais": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "corredores_para_reabrir": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2532 @@
+Arbitra o fecho canónico de um único corredor do mapa dedutivo.
+
+Trabalha apenas sobre o corredor indicado.
+Não faças análise global.
+Não reavalies o projeto inteiro.
+Decide apenas se a sequência mínima do corredor ficou realmente fechada, que passos reabrir, que subpassos aprovar e que formulações fixar.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P42_P48
+SEQUENCIA_MINIMA_DO_CORREDOR_JSON=[
+  "P42",
+  "P43",
+  "P47",
+  "P44",
+  "P48",
+  "P45",
+  "P46"
+]
+
+MATERIAIS
+
+[DECISOES_POR_PASSO_JSON]
+[
+  {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P42",
+    "numero_final": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "justificacao_minima_suficiente": "Se, como resulta de P40 e P41, a ação não é indiferente ao real e o dano introduz uma assimetria efetiva, então nem todas as atualizações valem do mesmo modo. Dessa não-indiferença e dessa assimetria não se segue um fim imposto de fora, mas torna-se inteligível uma direção imanente: preservar as continuidades reais de que a ação depende, corrigir desvios que estreitam ou desalinham essas continuidades, e evitar formas de degeneração que empobrecem o campo real de potencialidades. Por isso, a orientação prática pode e deve ser pensada a partir desses vetores inscritos no real, e não a partir de uma normatividade autónoma ou de uma consciência isolada.",
+    "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+    "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+    "porque_o_anterior_nao_basta": "Os passos P40 e P41 mostram a não-indiferença da ação e a assimetria do dano, mas ainda não explicitam que dessas teses decorre uma direção prática imanente inscrita no real.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de teses epistemológicas e ontológicas sobre ação e dano para a determinação ética posterior fica sem mediação e surge como salto dedutivo.",
+    "objecao_letal_a_bloquear": "teleologia externa",
+    "bloqueio_curto_da_objecao": "A direção aqui afirmada não impõe um fim externo ao ser; explicita apenas vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0067_SEG_001",
+      "F0112_SEG_001",
+      "F0122_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "impossibilidade de derivar valor do facto",
+      "direção ontológica como projeção humana",
+      "dever-ser como entidade separada"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P42 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: teleologia externa. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação mediacional sem necessidade de subpasso autónomo."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P43",
+    "numero_final": 43,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P32",
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37",
+      "P42"
+    ],
+    "prepara": [
+      "P44"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "justificacao_minima_suficiente": "Se a direção prática permanece apenas como orientação geral, ela ainda não pode guiar correção efetiva da ação. Para se tornar operável, tem de ser traduzida em critérios de discernimento e em vetores de ação ajustados ao campo real de relações, possibilidades e limites em que o agente está situado. Só essa fixação operativa impede que a direção permaneça abstrata e torna possível a passagem para determinações normativas ulteriores.",
+    "ponte_entrada": "De P42 recebe-se que a orientação prática deve permanecer inscrita no real e não pode valer como pura abstração; por isso, o passo seguinte é exigir que essa orientação se traduza operativamente em critérios e vetores de ação situados.",
+    "ponte_saida": "Uma vez estabelecido que a orientação só vale praticamente quando se fixa em critérios e vetores situados, torna-se possível passar em P44 à explicitação de como essa orientação pode servir de base a determinações práticas mais definidas sem salto dedutivo.",
+    "porque_o_anterior_nao_basta": "P42 e os passos anteriores ainda asseguram apenas a reinscrição da direção prática no real e a crítica da abstração, mas não mostram ainda a forma operativa pela qual essa direção se torna critério de correção e vetor de ação em situação.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a cadeia passaria da direção prática inscrita no real para determinações posteriores sem explicitar a mediação decisiva entre orientação geral e operabilidade situada, produzindo um salto dedutivo.",
+    "objecao_letal_a_bloquear": "direção meramente abstrata",
+    "bloqueio_curto_da_objecao": "Uma direção que não se traduza em critérios e vetores situados não orienta efetivamente a ação; permanece apenas abstrata e, por isso, insuficiente como direção prática.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0073_SEG_002",
+      "F0106_SEG_002",
+      "F0120_SEG_001",
+      "F0098_A03_SEG_001",
+      "F0163_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "direção meramente abstrata",
+      "liberdade abstrata sem inscrição no real",
+      "dever-ser como pura construção teórica explícita",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "coerência interna tomada como suficiente para correção",
+      "correção como mera coerentização"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P43 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: direção meramente abstrata. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação mediacional sem alterar o núcleo do passo."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P47",
+    "numero_final": 44,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P34",
+      "P37",
+      "P40",
+      "P42"
+    ],
+    "prepara": [
+      "P48"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_canonica_final": "O dever-ser exprime a exigência prática derivada da subordinação do agir à verdade, à correção, à direção e ao dano real.",
+    "justificacao_minima_suficiente": "Este passo não introduz uma normatividade autónoma nem infere um dever diretamente de um facto isolado. Fecha antes a mediação segundo a qual, se a ação está subordinada ao real, então a sua orientação prática fica vinculada ao que é verdadeiro, ao que é correto no seu exercício, à direção inscrita no poder-ser real e aos danos efetivos que a ação pode causar. Nessa medida, o dever-ser não vem de convenção externa nem de decisão voluntarista, mas da exigência prática de agir em conformidade com as condições reais que tornam a ação verdadeira, possível, dirigida e não destrutiva.",
+    "ponte_entrada": "Retomando o que já foi estabelecido sobre verdade, correção, direção e dano real, segue-se que a ação não pode manter-se indiferente a essas determinações sem se desordenar perante o real.",
+    "ponte_saida": "Uma vez mostrado que o dever-ser é essa exigência prática imanente à subordinação do agir ao real, fica preparada a passagem para P48, onde essa exigência pode ser explicitada no passo seguinte sem salto dedutivo.",
+    "porque_o_anterior_nao_basta": "Os passos P34, P37, P40 e P42 fornecem os elementos reais relevantes, mas ainda não formulam a passagem própria pela qual esses elementos se tornam exigência prática unitária; sem esta mediação, permanece a aparência de salto entre descrição do real e dever-ser.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, P48 deixa de receber a mediação que converte verdade, correção, direção e dano real em exigência prática, e a cadeia passa a parecer uma imposição normativa exterior ou um salto inferencial.",
+    "objecao_letal_a_bloquear": "falácia naturalista simplista",
+    "bloqueio_curto_da_objecao": "Não se deduz um dever de um facto bruto; explicita-se que, uma vez a ação subordinada operativamente ao real, a normatividade surge como exigência interna das condições reais de verdade, direção, correção e dano.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A22_SEG_002",
+      "F0241_A12_SEG_001",
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "falácia naturalista simplista",
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "relativismo normativo",
+      "consensualismo como fundamento suficiente da lei"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P47 no corredor P42_P48. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: falácia naturalista simplista. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por reformulação mínima com explicitação da derivação operativa do dever-ser."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P44",
+    "numero_final": 45,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P34",
+      "P40",
+      "P42",
+      "P43"
+    ],
+    "prepara": [
+      "P45"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "justificacao_minima_suficiente": "Dado que a ação não vale por mera eficácia exterior nem por regra extrínseca, mas pelo modo como se atualiza em conformidade com o real, o bem deve ser entendido como adequação da atualização ao real. Essa adequação não é neutra nem automática: exige critério para discernir a atualização pertinente, direção para orientar a ação no campo, verdade para não deslocar para o real a correção que compete ao agente, e não-dano relevante para que a atualização não se torne destrutiva do próprio real a que deve adequar-se. Assim, o bem nomeia o modo de atualização em que a ação permanece ajustada ao real em vez de o falsear, instrumentalizar ou contrariar.",
+    "ponte_entrada": "Do que já foi estabelecido em P34, P40, P42 e P43 sobre critério, direção, verdade e reorientação da ação no real, segue-se que a qualificação ética da ação não pode ser exterior a essa adequação: ela se chama bem quando a atualização se mantém adequada ao real.",
+    "ponte_saida": "Uma vez definido o bem como atualização adequada ao real sob critério, direção, verdade e não-dano, fica preparada em P45 a explicitação da consequência normativa dessa definição para a orientação prática da ação.",
+    "porque_o_anterior_nao_basta": "Os passos P34, P40, P42 e P43 fornecem condições e mediações da orientação no real, mas ainda não identificam explicitamente que a síntese ética dessas condições é o bem enquanto adequação da atualização ao real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem das condições epistemológicas e práticas já obtidas para a determinação ética seguinte fica sem a síntese mediadora que nomeia o bem e evita um salto dedutivo até P45.",
+    "objecao_letal_a_bloquear": "funcionalismo raso",
+    "bloqueio_curto_da_objecao": "O bem aqui não é mera funcionalidade ou sucesso operativo; é a atualização que permanece verdadeira e adequadamente orientada no real, sob critério, direção e não-dano relevante.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0241_A10_SEG_001",
+      "F0241_A08_SEG_001",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0112_SEG_002",
+      "F0106_SEG_002",
+      "F0094_A01_SEG_003",
+      "F0067_SEG_003",
+      "F0067_SEG_001",
+      "F0061_SEG_003",
+      "F0060_A01_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "funcionalismo raso",
+      "moralismo sem ontologia",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "autonomia normativa absoluta",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "real como exterior ao sujeito",
+      "representacionalismo originário"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P44 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: funcionalismo raso. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação mediacional da formulação canónica já estável."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P48",
+    "numero_final": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "justificacao_minima_suficiente": "Se o dever-ser deriva do ser e do poder-ser reais, então só pode orientar ação onde exista possibilidade efetiva de atualização. Uma exigência prática sem poder-ser correspondente não regula o agir real, mas apenas formula verbalmente um impossível. Por isso, a normatividade prática fica subordinada ao campo das possibilidades reais e não pode incidir sobre o que o real não permite.",
+    "ponte_entrada": "Do passo anterior resulta a subordinação do dever-ser ao ser e ao poder-ser reais; daqui segue-se que a exigência prática só vale enquanto recai sobre aquilo que pode realmente ser atualizado.",
+    "ponte_saida": "Uma vez fixado que a exigência prática só incide sobre possibilidades reais, fica preparada a passagem seguinte, em que a normatividade poderá ser especificada apenas dentro desse campo efetivo de atualização.",
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15 e P47 ainda não explicitam esta consequência prática imediata: que um dever sem possibilidade real de atualização perde sentido normativo e não pode obrigar.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, desaparece a mediação que converte a subordinação ontológica do dever-ser ao poder-ser numa regra prática explícita, e a passagem para P49 fica em salto dedutivo.",
+    "objecao_letal_a_bloquear": "dever impossível",
+    "bloqueio_curto_da_objecao": "Não há dever prático onde não há possibilidade real de atualização, porque o impossível não orienta ação efetiva.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0060_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0153_SEG_001",
+      "F0205_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "dever-ser desligado do poder-ser",
+      "normatividade desligada do real",
+      "livre-arbítrio absoluto"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P48 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: dever impossível. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação entre normatividade e possibilidade real, sem necessidade de subpasso."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P45",
+    "numero_final": 47,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P44"
+    ],
+    "prepara": [
+      "P46"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "justificacao_minima_suficiente": "Se, como em P44, o bem é a adequação prática ao real sob critério verdadeiro, então o seu contrário não requer uma entidade própria nem uma positividade autónoma. No plano ético, o mal aparece quando a ação falha na apreensão, descrição ou aplicação do real e do possível, produzindo desadequação operativa; e, quando essa falha se estabiliza ou se exerce sobre outros seres e relações reais, ela manifesta-se como degeneração ou dano. Assim, erro, dano e degeneração não introduzem substância distinta: nomeiam modos pelos quais a ação se desvia da adequação prática ao real. Por isso, o mal é negatividade prática no regime da ação, não entidade autónoma.",
+    "ponte_entrada": "Vindo de P44, uma vez estabelecido que o bem se mede pela adequação prática ao real, falta explicitar em que consiste o seu contrário no plano da ação.",
+    "ponte_saida": "Uma vez definido o mal como desadequação, degeneração ou dano operativos, P46 pode avançar para a determinação seguinte sem tratar o mal como princípio autónomo, mas como efeito prático discernível no campo da ação.",
+    "porque_o_anterior_nao_basta": "P44 fixa o bem como adequação prática ao real, mas ainda não determina explicitamente que o mal, em vez de substância autónoma, é a forma negativa dessa mesma ordem prática, como desadequação, degeneração ou dano.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a transição para P46 ficaria sem a mediação negativa correspondente: saber-se-ia o que é o bem, mas não em que sentido dedutivo o mal é pensável sem ser reificado como entidade independente.",
+    "objecao_letal_a_bloquear": "mal como entidade autónoma",
+    "bloqueio_curto_da_objecao": "Se o bem deriva da adequação prática ao real, o mal não precisa de princípio próprio: basta a falha dessa adequação na ação, sob a forma de desadequação, dano ou degeneração.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0060_A01_SEG_004",
+      "F0120_SEG_002",
+      "F0067_SEG_003",
+      "F0119_A01_SEG_003"
+    ],
+    "objecoes_bloqueadas_final": [
+      "mal como entidade autónoma",
+      "separação forte entre verdade e bem",
+      "autonomia normativa absoluta",
+      "moralismo extrínseco",
+      "indiferentismo axiológico total",
+      "coerentismo fechado",
+      "relativismo",
+      "convencionalismo total"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P45 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: mal como entidade autónoma. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação justificativa sem alterar a formulação canónica."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P46",
+    "numero_final": 49,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P40",
+      "P41",
+      "P42",
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "prepara": [
+      "P47"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_canonica_final": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "justificacao_minima_suficiente": "Dado o já estabelecido nos passos anteriores, o valor prático do agir emerge de assimetrias reais, de condições efetivas de possibilidade e do modo como a ação se inscreve em relações e formas de vida. Se é daí que procedem o bem e o mal práticos, então a exigência normativa não pode ser uma instância autónoma que se legisla a si mesma à margem do real; ela deriva da estrutura do real tal como se impõe à ação situada.",
+    "ponte_entrada": "Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.",
+    "ponte_saida": "Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P41, P42, P43, P44 e P45 mostram a ancoragem real do bem e do mal práticos, mas ainda não enunciam explicitamente a conclusão metaética de que a normatividade não constitui uma ordem separada autolegislada.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem da ancoragem real do valor prático para o desenvolvimento de P47 fica sem mediação explícita e surge como salto dedutivo.",
+    "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+    "bloqueio_curto_da_objecao": "Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "coerentismo institucional",
+      "positivismo normativo desligado do real",
+      "coerentismo fechado",
+      "convencionalismo total"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P46 no corredor P42_P48. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: autonomia normativa absoluta. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por reformulação canónica e densificação mínima da mediação anti-autonomista."
+    ]
+  }
+]
+
+[DECISOES_POR_SUBPASSO_JSON]
+[
+  {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P42",
+    "subpasso_id": "P42_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Embora os materiais intermédios assinalem fragilidade mediacional e sugiram um subpasso, a decisão canónica final para P42 já integra essa mediação no próprio passo por densificação suficiente: da não-indiferença da ação ao real e da assimetria do dano passa-se explicitamente à inteligibilidade de uma direção imanente de preservação, correção e não-degeneração, bloqueando ainda a objeção de teleologia externa. Não resta, portanto, um salto real que exija subpasso autónomo para fechar canonicamente P42.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": "A justificação final de P42 já explicita que, se a ação não é indiferente ao real e o dano introduz assimetria, então nem todas as atualizações valem do mesmo modo e torna-se inteligível uma direção imanente de preservação, correção e não-degeneração, sem apelo a fim externo.",
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P42",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não há inserção: a mediação necessária foi absorvida pela formulação e justificação final do próprio P42."
+    },
+    "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+    "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+    "objecao_letal_a_bloquear": "teleologia externa",
+    "bloqueio_curto_da_objecao": "A direção afirmada em P42 não impõe um fim externo ao ser; apenas torna explícitos vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0067_SEG_001",
+      "F0112_SEG_001",
+      "F0122_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "impossibilidade de derivar valor do facto",
+      "direção ontológica como projeção humana",
+      "dever-ser como entidade separada"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso recusado: fecho local obtido por densificação interna de P42."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P43",
+    "subpasso_id": "P43_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P43 é resolúvel por densificação interna da própria formulação e justificação, não por introdução de uma mediação autónoma indispensável. A ligação entre orientação prática, critérios, vetores de ação e situação já foi explicitada no próprio passo canónico, bloqueando a objeção da direção meramente abstrata sem exigir distinção adicional ou pressuposto intermédio separado. Além disso, os materiais indicam explicitamente 'precisa_de_subpasso': false e 'promovivel_a_mediacao_autonoma': false.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": null,
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P43",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não há inserção: o fecho canónico de P43 já absorve a mediação necessária por densificação local."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "direção meramente abstrata",
+    "bloqueio_curto_da_objecao": "A própria formulação canónica de P43 já bloqueia a objeção ao exigir tradução operativa em critérios e vetores situados.",
+    "fragmentos_de_apoio_final": [
+      "F0073_SEG_002",
+      "F0106_SEG_002",
+      "F0120_SEG_001",
+      "F0098_A03_SEG_001",
+      "F0163_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "direção meramente abstrata",
+      "liberdade abstrata sem inscrição no real",
+      "dever-ser como pura construção teórica explícita",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "coerência interna tomada como suficiente para correção",
+      "correção como mera coerentização"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso recusado; manter densificação interna de P43."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P47",
+    "subpasso_id": "P47_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Embora os materiais pré-canónicos sinalizem fragilidade mediacional e sugiram um subpasso, a decisão canónica já fecha o passo por reformulação suficiente. A formulação final de P47 incorpora explicitamente a mediação exigida: o dever-ser não é inferido de um facto bruto, mas apresentado como exigência prática interna à subordinação do agir ao real, via verdade, correção, direção e dano real. Assim, a objeção letal da falácia naturalista simplista fica bloqueada no próprio passo, sem necessidade de uma unidade intermédia autónoma. Introduzir um subpasso aqui apenas duplicaria a mediação já absorvida na formulação e justificação finais de P47.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": "A reformulação final de P47 já explicita a passagem de subordinação operativa ao real para exigência prática, removendo o salto inferencial sem precisar de subpasso autónomo.",
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P47",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção, porque a mediação necessária foi incorporada canonicamente no próprio P47."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "falácia naturalista simplista",
+    "bloqueio_curto_da_objecao": "Não se deduz um dever de um facto bruto; a normatividade é explicitada como exigência interna das condições reais do agir.",
+    "fragmentos_de_apoio_final": [
+      "F0241_A22_SEG_002",
+      "F0241_A12_SEG_001",
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "falácia naturalista simplista",
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "relativismo normativo",
+      "consensualismo como fundamento suficiente da lei"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso rejeitado por redundância mediacional local."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P44",
+    "subpasso_id": "P44_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade mediacional de P44 foi resolvida por densificação interna da formulação e da justificação do próprio passo, sem exigir mediação autónoma adicional. A ponte de entrada já explicita a passagem de P34, P40, P42 e P43 para a nomeação ética do bem, e a ponte de saída já prepara P45 sem salto residual que imponha subpasso canónico. Além disso, a decisão canónica final assinala explicitamente \"precisa_de_subpasso\": false e fixa o passo como \"fechado\". Introduzir um subpasso aqui seria redundante e tenderia a repetir o passo pai em vez de fechar uma lacuna indispensável.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": "A inferência fecha no próprio P44: as condições já estabelecidas de critério, direção, verdade e reorientação no real são sintetizadas como qualificação ética da ação, isto é, como bem enquanto adequação da atualização ao real. Essa síntese já bloqueia o funcionalismo raso e já fornece a mediação necessária para P45.",
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P44",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não entra subpasso, porque a mediação necessária já foi absorvida no próprio P44 por densificação canónica suficiente."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "funcionalismo raso",
+    "bloqueio_curto_da_objecao": "O bem não é mera eficácia, mas atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "fragmentos_de_apoio_final": [],
+    "objecoes_bloqueadas_final": [
+      "funcionalismo raso"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "dados/INPUTS_SECUNDARIOS_RELEVANTES_JSON",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Sem subpasso: fechar por densificação interna de P44."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P48",
+    "subpasso_id": "P48_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Não se detecta aqui um salto dedutivo autónomo que exija mediação intermédia distinta do próprio P48. Os materiais convergem em que a lacuna era de densificação da relação entre dever-ser e poder-ser real, e essa lacuna já fica fechada pela formulação canónica final e pela justificação mínima suficiente do passo. Além disso, os registos prioritários indicam explicitamente que P48 não precisa de subpasso, que não há mediacoes_em_falta estruturais e que o impacto fragmentário recomendado é densificar, sem alterar a arquitetura. Introduzir um subpasso repetiria o conteúdo do passo pai ou criaria uma mediação decorativa.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": "A passagem requerida é única e já está explicitada no próprio passo: se o dever-ser deriva do ser e do poder-ser reais, então só pode incidir sobre possibilidades reais de atualização. Um dever sem poder-ser correspondente não orienta ação efetiva e degrada-se em formulação de impossível. Isso basta para bloquear a objeção do dever impossível e preparar P49 sem subpasso autónomo.",
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P48",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não entra subpasso, porque a mediação necessária já foi absorvida na própria densificação de P48 e o passo fecha canonicamente sem inserção adicional."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "dever impossível",
+    "bloqueio_curto_da_objecao": "Não há dever prático onde não há possibilidade real de atualização.",
+    "fragmentos_de_apoio_final": [
+      "F0060_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0205_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dever impossível",
+      "dever-ser desligado do poder-ser",
+      "normatividade desligada do real",
+      "formalismo moral abstrato"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso rejeitado: fechar por densificação interna de P48."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P45",
+    "subpasso_id": "P45_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P45 é resolúvel por densificação interna do próprio passo, não por mediação autónoma adicional. A passagem já fecha canonicamente a partir de P44: se o bem é adequação prática ao real, o mal pode ser definido como a falha dessa adequação no regime da ação, sob as formas de desadequação, degeneração ou dano. Não há indicação de pressuposto indispensável ainda implícito que exija autonomização em subpasso; pelo contrário, os recortes editoriais assinalam explicitamente 'precisa_de_subpasso: false', 'subpasso_sugerido: null', 'promovivel_a_mediacao_autonoma: false' e 'indicios_de_passo_intermedio: 0'. A dificuldade remanescente — refinar a diferença entre erro, dano e mal — é uma tarefa de precisão justificativa e formulação dentro de P45, sem necessidade de inserir um elo dedutivo novo entre P48 e P46.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": null,
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P45",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já está absorvida na justificação do próprio P45."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "mal como entidade autónoma",
+    "bloqueio_curto_da_objecao": "A objeção é bloqueada no próprio P45: se o bem deriva da adequação prática ao real, o mal não requer princípio próprio, mas nomeia a falha dessa adequação na ação.",
+    "fragmentos_de_apoio_final": [
+      "F0060_A01_SEG_004",
+      "F0120_SEG_002",
+      "F0067_SEG_003",
+      "F0119_A01_SEG_003"
+    ],
+    "objecoes_bloqueadas_final": [
+      "mal como entidade autónoma"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Não inserir subpasso; manter fecho por densificação local de P45."
+    ]
+  },
+  {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P46",
+    "subpasso_id": "P46_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade mediacional de P46 foi resolvida por reformulação do próprio passo e pela densificação mínima da sua justificação, sem exigir mediação intermédia autónoma. A passagem de P45 para P46 já fica canonicamente fechada com a formulação final 'A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada' e com o respetivo bloqueio curto da objeção da autonomia normativa absoluta. Não há subpasso sugerido nos materiais, 'precisa_de_subpasso' surge explicitamente como false em todas as fontes principais, e a objeção letal é bloqueada no interior do próprio passo. Introduzir um subpasso aqui seria redundante e repetiria o conteúdo do passo pai em vez de acrescentar uma mediação indispensável.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P46",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já foi absorvida pela reformulação canónica de P46."
+    },
+    "ponte_entrada": "Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.",
+    "ponte_saida": "Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.",
+    "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+    "bloqueio_curto_da_objecao": "Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.",
+    "fragmentos_de_apoio_final": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "autonomia normativa absoluta"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso rejeitado: fecho local obtido no próprio P46."
+    ]
+  }
+]
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+[
+  {
+    "id": "P42",
+    "numero_final": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "proposicao_canonica_curta": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "proposicao_canonica_tecnica": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "tese_minima_canonica": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+    "justificacao_minima_canonica": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+    "porque_este_passo_e_necessario": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P41 não bastam em conjunto porque ainda não fecham esta passagem específica: A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P43 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "teleologia externa",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 4.985,
+    "breakdown_score_canonico": {
+      "dependencias": 1.6,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.18472000000000002,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0106_SEG_002",
+      "F0067_SEG_001",
+      "F0067_SEG_002",
+      "F0202_SEG_001",
+      "F0122_SEG_001",
+      "F0112_SEG_001",
+      "F0061_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "verdade reduzida a operação da consciência isolada",
+      "impossibilidade de derivar valor do facto",
+      "liberdade como ausência de limites",
+      "sujeito descontínuo sem continuidade prática",
+      "direção ontológica como projeção humana",
+      "continuidade irrelevante para o bem",
+      "colapso neutro ou gerador",
+      "indistinção entre ser e bem"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.10).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar direção sem escorregar para teleologia externa rígida."
+    ]
+  },
+  {
+    "id": "P43",
+    "numero_final": 43,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P32",
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37",
+      "P42"
+    ],
+    "prepara": [
+      "P44"
+    ],
+    "proposicao_canonica_curta": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "proposicao_canonica_tecnica": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "tese_minima_canonica": "A direção exige fixação operativa de vetores de ação.",
+    "justificacao_minima_canonica": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+    "porque_este_passo_e_necessario": "A direção exige fixação operativa de vetores de ação.",
+    "porque_o_anterior_nao_basta": "Os passos P32, P33, P34, P35, P36, P37, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P44 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "direção meramente abstrata",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "nucleo",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 6.767,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 3.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.16744,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A liberdade humana não é exterior ao real nem indeterminação absoluta; é a orientação deliberativa de atualizações no campo de possibilidades próprio de um ente reflexivo e localizado.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "A direção exige fixação operativa de vetores de ação.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0106_SEG_002",
+      "F0055_SEG_001",
+      "F0163_SEG_001",
+      "F0098_A03_SEG_001",
+      "F0098_A02_SEG_002",
+      "F0073_SEG_002",
+      "F0120_SEG_001",
+      "F0078_A01_SEG_003",
+      "F0063_A02_SEG_001",
+      "F0037_SEG_001",
+      "F0094_A01_SEG_002",
+      "F0079_A02_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "direção meramente abstrata",
+      "liberdade abstrata sem inscrição no real",
+      "verdade idealista desligada de campo e círculo",
+      "livre-arbítrio absoluto",
+      "determinismo anulador",
+      "reducionismo físico de escala",
+      "mecanicismo que dissolve a consciência",
+      "dever-ser como pura construção teórica explícita",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "coerência interna tomada como suficiente para correção",
+      "correção como mera coerentização"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Ligar melhor direção, critério, correção e campo."
+    ]
+  },
+  {
+    "id": "P47",
+    "numero_final": 44,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P34",
+      "P37",
+      "P40",
+      "P42"
+    ],
+    "prepara": [
+      "P48"
+    ],
+    "proposicao_canonica_curta": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+    "proposicao_canonica_tecnica": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+    "tese_minima_canonica": "O dever-ser deriva da subordinação operativa ao real.",
+    "justificacao_minima_canonica": "O dever-ser exprime a exigência prática que decorre da submissão da ação ao real, via verdade, correção, dano e direção.",
+    "porque_este_passo_e_necessario": "O dever-ser deriva da subordinação operativa ao real.",
+    "porque_o_anterior_nao_basta": "Os passos P34, P37, P40, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P48 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "falácia naturalista simplista",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "aberto",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "reformular",
+    "score_canonico_de_fecho": 4.789,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.1,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.58904,
+      "fragilidade": -1.0,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Mostrar que o dever-ser deriva da estrutura direcional do poder-ser real e não de convenção ou pura decisão voluntarista.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O dever-ser deriva da subordinação operativa ao real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A22_SEG_002",
+      "F0241_A12_SEG_001",
+      "F0241_A08_SEG_001",
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0153_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0115_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas": [
+      "falácia naturalista simplista",
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "relativismo normativo",
+      "consensualismo como fundamento suficiente da lei"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+      "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Mostrar formalmente que não há salto ilegítimo do ser ao dever-ser, mas derivação operativa."
+    ]
+  },
+  {
+    "id": "P44",
+    "numero_final": 45,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P34",
+      "P40",
+      "P42",
+      "P43"
+    ],
+    "prepara": [
+      "P45"
+    ],
+    "proposicao_canonica_curta": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "proposicao_canonica_tecnica": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "tese_minima_canonica": "O bem é adequação da atualização ao real.",
+    "justificacao_minima_canonica": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+    "porque_este_passo_e_necessario": "O bem é adequação da atualização ao real.",
+    "porque_o_anterior_nao_basta": "Os passos P34, P40, P42, P43 não bastam em conjunto porque ainda não fecham esta passagem específica: O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P45 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "funcionalismo raso",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 5.932,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.33192,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A exigência prática da verdade recai primariamente sobre a reorientação do agente no real, e não sobre a fantasia de deslocar para o real a mudança que compete ao indivíduo.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O bem é adequação da atualização ao real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0241_A10_SEG_001",
+      "F0241_A08_SEG_001",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0112_SEG_002",
+      "F0106_SEG_002",
+      "F0094_A01_SEG_003",
+      "F0067_SEG_003",
+      "F0067_SEG_001",
+      "F0061_SEG_003",
+      "F0060_A01_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "funcionalismo raso",
+      "moralismo sem ontologia",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "autonomia normativa absoluta",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "real como exterior ao sujeito",
+      "representacionalismo originário"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Fechar formulação canónica evitando banalização funcionalista."
+    ]
+  },
+  {
+    "id": "P48",
+    "numero_final": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "proposicao_canonica_curta": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "proposicao_canonica_tecnica": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "tese_minima_canonica": "O dever-ser é subordinado ao poder-ser real.",
+    "justificacao_minima_canonica": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+    "porque_este_passo_e_necessario": "O dever-ser é subordinado ao poder-ser real.",
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15, P47 não bastam em conjunto porque ainda não fecham esta passagem específica: A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P49 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "dever impossível",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 5.845,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.24512,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O dever-ser é subordinado ao poder-ser real.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0153_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0115_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0101_SEG_003",
+      "F0096_SEG_001",
+      "F0060_A01_SEG_001",
+      "F0017_SEG_001",
+      "F0226_SEG_001",
+      "F0177_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "subjetivismo valorativo",
+      "falácia naturalista simplista",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "livre-arbítrio absoluto",
+      "casuística local como fundamento do bem",
+      "inversão analítica entre nível prático e nível ontológico",
+      "autonomização da ação mundana recorrente como critério do bem",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.16).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.21).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar melhor a relação entre normatividade e possibilidade real."
+    ]
+  },
+  {
+    "id": "P45",
+    "numero_final": 47,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P44"
+    ],
+    "prepara": [
+      "P46"
+    ],
+    "proposicao_canonica_curta": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "proposicao_canonica_tecnica": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "tese_minima_canonica": "O mal é degeneração, dano ou desadequação operativa.",
+    "justificacao_minima_canonica": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+    "porque_este_passo_e_necessario": "O mal é degeneração, dano ou desadequação operativa.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P44 não bastam em conjunto porque ainda não fecham esta passagem específica: O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P46 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "mal como entidade autónoma",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "nucleo",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 6.078,
+    "breakdown_score_canonico": {
+      "dependencias": 1.6,
+      "prepara": 0.7,
+      "classificacao": 3.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.0784,
+      "fragilidade": -0.1,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O mal é degeneração, dano ou desadequação operativa.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0119_A01_SEG_003",
+      "F0067_SEG_003",
+      "F0067_SEG_002",
+      "F0060_A01_SEG_004",
+      "F0040_SEG_001",
+      "F0124_SEG_002",
+      "F0120_SEG_002",
+      "F0063_A02_SEG_002",
+      "F0241_A18_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "mal como entidade autónoma",
+      "coerentismo fechado",
+      "relativismo",
+      "convencionalismo total",
+      "autonomia normativa absoluta",
+      "separação forte entre verdade e bem",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "direção ontológica como projeção humana",
+      "continuidade irrelevante para o bem",
+      "colapso neutro ou gerador",
+      "indistinção entre ser e bem"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.31).",
+      "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Refinar diferença entre erro, dano e mal."
+    ]
+  },
+  {
+    "id": "P46",
+    "numero_final": 49,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P40",
+      "P41",
+      "P42",
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "prepara": [
+      "P47"
+    ],
+    "proposicao_canonica_curta": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "proposicao_canonica_tecnica": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "tese_minima_canonica": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+    "justificacao_minima_canonica": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+    "porque_este_passo_e_necessario": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P41, P42, P43, P44, P45 não bastam em conjunto porque ainda não fecham esta passagem específica: A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P47 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "aberto",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "reformular",
+    "score_canonico_de_fecho": 4.522,
+    "breakdown_score_canonico": {
+      "dependencias": 2.4,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.1,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.32192,
+      "fragilidade": -1.0,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A exigência prática não nasce de uma normatividade autónoma, mas da subordinação do agir às condições reais de verdade, possibilidade e preservação das formas de vida.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004",
+      "F0105_A02_SEG_001",
+      "F0094_A01_SEG_003",
+      "F0089_SEG_003",
+      "F0068_SEG_001",
+      "F0061_SEG_003",
+      "F0060_A01_SEG_001",
+      "F0024_SEG_001",
+      "F0017_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "coerentismo institucional",
+      "positivismo normativo desligado do real",
+      "coerentismo fechado",
+      "convencionalismo total"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.12).",
+      "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Blindar esta derivação contra a objeção da autonomia normativa."
+    ]
+  }
+]
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+[
+  {
+    "id": "P42",
+    "numero_original": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "numero_final": 42,
+    "proposicao_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "proposicao_original": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+    "descricao_curta": "A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração.",
+    "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que se nem tudo vale do mesmo modo, há direção ontológica.; Recebe apoio imediato de P40, P41; e prepara P43.",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "tese_minima": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+    "justificacao_minima_suficiente": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+    "objecoes_bloqueadas": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "verdade reduzida a operação da consciência isolada",
+      "impossibilidade de derivar valor do facto",
+      "liberdade como ausência de limites",
+      "sujeito descontínuo sem continuidade prática",
+      "direção ontológica como projeção humana",
+      "continuidade irrelevante para o bem",
+      "colapso neutro ou gerador",
+      "indistinção entre ser e bem"
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0106_SEG_002",
+      "F0067_SEG_001",
+      "F0067_SEG_002",
+      "F0202_SEG_001",
+      "F0122_SEG_001",
+      "F0112_SEG_001",
+      "F0061_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "estatuto_no_mapa": "densificar",
+    "classificacao_funcional": "mediacao_necessaria",
+    "nucleo": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+    "mediacao_necessaria": [
+      "Explicitar a ponte dedutiva entre P40, P41 e P42.",
+      "Explicitar a passagem de P42 para P43.",
+      "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+    ],
+    "apoio_expositivo": [],
+    "grau_de_inevitabilidade": "medio",
+    "score_de_inevitabilidade": 0.563,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_escolhida": "base_academica",
+    "score_compatibilidade_formulacao": 0.588,
+    "apoio_argumentativo": {
+      "argumentos_ids": [],
+      "percursos_ids": [],
+      "n_argumentos": 0,
+      "n_percursos": 0
+    },
+    "promovivel_a_mediacao_autonoma": true,
+    "score_promocao_mediacional": 2.309,
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.10).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar direção sem escorregar para teleologia externa rígida."
+    ],
+    "estado_de_fecho_canonico": "quase_fechado",
+    "score_canonico_de_fecho": 4.985,
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "porque_o_anterior_nao_basta": "Os passos P40, P41 não bastam em conjunto porque ainda não fecham esta passagem específica: A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P43 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "teleologia externa",
+    "tipo_de_necessidade": "etica"
+  },
+  {
+    "id": "P43",
+    "numero_original": 43,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "numero_final": 43,
+    "proposicao_final": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "proposicao_original": "A direção exige fixação operativa de vetores de ação.",
+    "descricao_curta": null,
+    "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que a direção exige fixação operativa de vetores de ação.; Recebe apoio imediato de P42, P32, P33, P34, P35, P36, P37; e prepara P44.",
+    "depende_de": [
+      "P32",
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37",
+      "P42"
+    ],
+    "prepara": [
+      "P44"
+    ],
+    "tese_minima": "A direção exige fixação operativa de vetores de ação.",
+    "justificacao_minima_suficiente": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+    "objecoes_bloqueadas": [
+      "direção meramente abstrata",
+      "liberdade abstrata sem inscrição no real",
+      "verdade idealista desligada de campo e círculo",
+      "livre-arbítrio absoluto",
+      "determinismo anulador",
+      "reducionismo físico de escala",
+      "mecanicismo que dissolve a consciência",
+      "dever-ser como pura construção teórica explícita",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "coerência interna tomada como suficiente para correção",
+      "correção como mera coerentização"
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0106_SEG_002",
+      "F0055_SEG_001",
+      "F0163_SEG_001",
+      "F0098_A03_SEG_001",
+      "F0098_A02_SEG_002",
+      "F0073_SEG_002",
+      "F0120_SEG_001",
+      "F0078_A01_SEG_003",
+      "F0063_A02_SEG_001",
+      "F0037_SEG_001",
+      "F0094_A01_SEG_002",
+      "F0079_A02_SEG_001"
+    ],
+    "estatuto_no_mapa": "densificar",
+    "classificacao_funcional": "nucleo",
+    "nucleo": "A direção exige fixação operativa de vetores de ação.",
+    "mediacao_necessaria": [
+      "Explicitar a ponte dedutiva entre P42, P32, P33, P34, P35, P36, P37 e P43.",
+      "Explicitar a passagem de P43 para P44.",
+      "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+    ],
+    "apoio_expositivo": [],
+    "grau_de_inevitabilidade": "alto",
+    "score_de_inevitabilidade": 0.68,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_escolhida": "base_academica",
+    "score_compatibilidade_formulacao": 0.818,
+    "apoio_argumentativo": {
+      "argumentos_ids": [],
+      "percursos_ids": [],
+      "n_argumentos": 0,
+      "n_percursos": 0
+    },
+    "promovivel_a_mediacao_autonoma": false,
+    "score_promocao_mediacional": 2.093,
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Ligar melhor direção, critério, correção e campo."
+    ],
+    "estado_de_fecho_canonico": "quase_fechado",
+    "score_canonico_de_fecho": 6.767,
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "porque_o_anterior_nao_basta": "Os passos P32, P33, P34, P35, P36, P37, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P44 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "direção meramente abstrata",
+    "tipo_de_necessidade": "etica"
+  },
+  {
+    "id": "P47",
+    "numero_original": 47,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "numero_final": 44,
+    "proposicao_final": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+    "proposicao_original": "O dever-ser deriva da subordinação operativa ao real.",
+    "descricao_curta": "Não é imposição externa; é exigência derivada de verdade, correção, dano real e direção.",
+    "funcao_no_sistema": "No Fecho ético, esta proposição fixa que o dever-ser deriva da subordinação operativa ao real.; Recebe apoio imediato de P34, P37, P40, P42; e prepara P48.",
+    "depende_de": [
+      "P34",
+      "P37",
+      "P40",
+      "P42"
+    ],
+    "prepara": [
+      "P48"
+    ],
+    "tese_minima": "O dever-ser deriva da subordinação operativa ao real.",
+    "justificacao_minima_suficiente": "O dever-ser exprime a exigência prática que decorre da submissão da ação ao real, via verdade, correção, dano e direção.",
+    "objecoes_bloqueadas": [
+      "falácia naturalista simplista",
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "relativismo normativo",
+      "consensualismo como fundamento suficiente da lei"
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A22_SEG_002",
+      "F0241_A12_SEG_001",
+      "F0241_A08_SEG_001",
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0153_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0115_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "estatuto_no_mapa": "reformular",
+    "classificacao_funcional": "mediacao_necessaria",
+    "nucleo": "O dever-ser deriva da subordinação operativa ao real.",
+    "mediacao_necessaria": [
+      "explicitar forma própria da derivação operativa",
+      "Reformular a proposição sem perder o núcleo que o material já sustenta.",
+      "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+    ],
+    "apoio_expositivo": [],
+    "grau_de_inevitabilidade": "medio",
+    "score_de_inevitabilidade": 0.643,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_escolhida": "base_academica",
+    "score_compatibilidade_formulacao": 0.643,
+    "apoio_argumentativo": {
+      "argumentos_ids": [],
+      "percursos_ids": [],
+      "n_argumentos": 0,
+      "n_percursos": 0
+    },
+    "promovivel_a_mediacao_autonoma": true,
+    "score_promocao_mediacional": 7.363,
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.22).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+      "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Mostrar formalmente que não há salto ilegítimo do ser ao dever-ser, mas derivação operativa."
+    ],
+    "estado_de_fecho_canonico": "aberto",
+    "score_canonico_de_fecho": 4.789,
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Mostrar que o dever-ser deriva da estrutura direcional do poder-ser real e não de convenção ou pura decisão voluntarista.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "porque_o_anterior_nao_basta": "Os passos P34, P37, P40, P42 não bastam em conjunto porque ainda não fecham esta passagem específica: O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P48 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "falácia naturalista simplista",
+    "tipo_de_necessidade": "etica"
+  },
+  {
+    "id": "P44",
+    "numero_original": 44,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "numero_final": 45,
+    "proposicao_final": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "proposicao_original": "O bem é adequação da atualização ao real.",
+    "descricao_curta": "Quando a atualização se orienta adequadamente no campo sob critério, verdade, direção e não-dano, instala-se o bem.",
+    "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que o bem é adequação da atualização ao real.; Recebe apoio imediato de P34, P40, P42, P43; e prepara P45.",
+    "depende_de": [
+      "P34",
+      "P40",
+      "P42",
+      "P43"
+    ],
+    "prepara": [
+      "P45"
+    ],
+    "tese_minima": "O bem é adequação da atualização ao real.",
+    "justificacao_minima_suficiente": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+    "objecoes_bloqueadas": [
+      "funcionalismo raso",
+      "moralismo sem ontologia",
+      "indiferentismo normativo",
+      "correção apenas exterior",
+      "deslocação da responsabilidade para o exterior",
+      "autonomia normativa absoluta",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "real como exterior ao sujeito",
+      "representacionalismo originário"
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0241_A10_SEG_001",
+      "F0241_A08_SEG_001",
+      "F0160_SEG_001",
+      "F0119_A01_SEG_003",
+      "F0112_SEG_002",
+      "F0106_SEG_002",
+      "F0094_A01_SEG_003",
+      "F0067_SEG_003",
+      "F0067_SEG_001",
+      "F0061_SEG_003",
+      "F0060_A01_SEG_001"
+    ],
+    "estatuto_no_mapa": "densificar",
+    "classificacao_funcional": "mediacao_necessaria",
+    "nucleo": "O bem é adequação da atualização ao real.",
+    "mediacao_necessaria": [
+      "Explicitar a ponte dedutiva entre P34, P40, P42, P43 e P44.",
+      "Explicitar a passagem de P44 para P45.",
+      "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+    ],
+    "apoio_expositivo": [],
+    "grau_de_inevitabilidade": "medio",
+    "score_de_inevitabilidade": 0.643,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_escolhida": "base_academica",
+    "score_compatibilidade_formulacao": 0.68,
+    "apoio_argumentativo": {
+      "argumentos_ids": [],
+      "percursos_ids": [],
+      "n_argumentos": 0,
+      "n_percursos": 0
+    },
+    "promovivel_a_mediacao_autonoma": true,
+    "score_promocao_mediacional": 4.149,
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.00).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.28).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Fechar formulação canónica evitando banalização funcionalista."
+    ],
+    "estado_de_fecho_canonico": "quase_fechado",
+    "score_canonico_de_fecho": 5.932,
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "porque_o_anterior_nao_basta": "Os passos P34, P40, P42, P43 não bastam em conjunto porque ainda não fecham esta passagem específica: O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P45 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "funcionalismo raso",
+    "tipo_de_necessidade": "etica"
+  },
+  {
+    "id": "P48",
+    "numero_original": 48,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "numero_final": 46,
+    "proposicao_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "proposicao_original": "O dever-ser é subordinado ao poder-ser real.",
+    "descricao_curta": "Não manda o impossível; orienta o possível real.",
+    "funcao_no_sistema": "No Fecho ético, esta proposição fixa que o dever-ser é subordinado ao poder-ser real.; Recebe apoio imediato de P13, P14, P15, P47; e prepara P49.",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "tese_minima": "O dever-ser é subordinado ao poder-ser real.",
+    "justificacao_minima_suficiente": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+    "objecoes_bloqueadas": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "subjetivismo valorativo",
+      "falácia naturalista simplista",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "livre-arbítrio absoluto",
+      "casuística local como fundamento do bem",
+      "inversão analítica entre nível prático e nível ontológico",
+      "autonomização da ação mundana recorrente como critério do bem",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação"
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0232_SEG_001",
+      "F0205_SEG_001",
+      "F0153_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0115_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0101_SEG_003",
+      "F0096_SEG_001",
+      "F0060_A01_SEG_001",
+      "F0017_SEG_001",
+      "F0226_SEG_001",
+      "F0177_SEG_001"
+    ],
+    "estatuto_no_mapa": "densificar",
+    "classificacao_funcional": "mediacao_necessaria",
+    "nucleo": "O dever-ser é subordinado ao poder-ser real.",
+    "mediacao_necessaria": [
+      "Explicitar a ponte dedutiva entre P13, P14, P15, P47 e P48.",
+      "Explicitar a passagem de P48 para P49.",
+      "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+    ],
+    "apoio_expositivo": [],
+    "grau_de_inevitabilidade": "medio",
+    "score_de_inevitabilidade": 0.643,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_escolhida": "base_academica",
+    "score_compatibilidade_formulacao": 0.5,
+    "apoio_argumentativo": {
+      "argumentos_ids": [],
+      "percursos_ids": [],
+      "n_argumentos": 0,
+      "n_percursos": 0
+    },
+    "promovivel_a_mediacao_autonoma": true,
+    "score_promocao_mediacional": 3.064,
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.16).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.21).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar melhor a relação entre normatividade e possibilidade real."
+    ],
+    "estado_de_fecho_canonico": "quase_fechado",
+    "score_canonico_de_fecho": 5.845,
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15, P47 não bastam em conjunto porque ainda não fecham esta passagem específica: A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P49 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "dever impossível",
+    "tipo_de_necessidade": "etica"
+  },
+  {
+    "id": "P45",
+    "numero_original": 45,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "numero_final": 47,
+    "proposicao_final": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "proposicao_original": "O mal é degeneração, dano ou desadequação operativa.",
+    "descricao_curta": "Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada.",
+    "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que o mal é degeneração, dano ou desadequação operativa.; Recebe apoio imediato de P40, P44; e prepara P46.",
+    "depende_de": [
+      "P40",
+      "P44"
+    ],
+    "prepara": [
+      "P46"
+    ],
+    "tese_minima": "O mal é degeneração, dano ou desadequação operativa.",
+    "justificacao_minima_suficiente": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+    "objecoes_bloqueadas": [
+      "mal como entidade autónoma",
+      "coerentismo fechado",
+      "relativismo",
+      "convencionalismo total",
+      "autonomia normativa absoluta",
+      "separação forte entre verdade e bem",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "direção ontológica como projeção humana",
+      "continuidade irrelevante para o bem",
+      "colapso neutro ou gerador",
+      "indistinção entre ser e bem"
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0119_A01_SEG_003",
+      "F0067_SEG_003",
+      "F0067_SEG_002",
+      "F0060_A01_SEG_004",
+      "F0040_SEG_001",
+      "F0124_SEG_002",
+      "F0120_SEG_002",
+      "F0063_A02_SEG_002",
+      "F0241_A18_SEG_001"
+    ],
+    "estatuto_no_mapa": "densificar",
+    "classificacao_funcional": "nucleo",
+    "nucleo": "O mal é degeneração, dano ou desadequação operativa.",
+    "mediacao_necessaria": [
+      "Densificar a justificação interna e tornar explícitos os seus pressupostos imediatos.",
+      "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+    ],
+    "apoio_expositivo": [],
+    "grau_de_inevitabilidade": "medio",
+    "score_de_inevitabilidade": 0.559,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_escolhida": "base_academica",
+    "score_compatibilidade_formulacao": 0.562,
+    "apoio_argumentativo": {
+      "argumentos_ids": [],
+      "percursos_ids": [],
+      "n_argumentos": 0,
+      "n_percursos": 0
+    },
+    "promovivel_a_mediacao_autonoma": false,
+    "score_promocao_mediacional": 0.98,
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.31).",
+      "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Refinar diferença entre erro, dano e mal."
+    ],
+    "estado_de_fecho_canonico": "quase_fechado",
+    "score_canonico_de_fecho": 6.078,
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "porque_o_anterior_nao_basta": "Os passos P40, P44 não bastam em conjunto porque ainda não fecham esta passagem específica: O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P46 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "mal como entidade autónoma",
+    "tipo_de_necessidade": "etica"
+  },
+  {
+    "id": "P46",
+    "numero_original": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "numero_final": 49,
+    "proposicao_final": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "proposicao_original": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+    "descricao_curta": null,
+    "funcao_no_sistema": "No Fecho ético, esta proposição fixa que se há bem e mal ancorados no real, a normatividade não é autónoma.; Recebe apoio imediato de P40, P41, P42, P43, P44, P45; e prepara P47.",
+    "depende_de": [
+      "P40",
+      "P41",
+      "P42",
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "prepara": [
+      "P47"
+    ],
+    "tese_minima": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+    "justificacao_minima_suficiente": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+    "objecoes_bloqueadas": [
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "coerentismo institucional",
+      "positivismo normativo desligado do real",
+      "coerentismo fechado",
+      "convencionalismo total"
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004",
+      "F0105_A02_SEG_001",
+      "F0094_A01_SEG_003",
+      "F0089_SEG_003",
+      "F0068_SEG_001",
+      "F0061_SEG_003",
+      "F0060_A01_SEG_001",
+      "F0024_SEG_001",
+      "F0017_SEG_001"
+    ],
+    "estatuto_no_mapa": "reformular",
+    "classificacao_funcional": "mediacao_necessaria",
+    "nucleo": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+    "mediacao_necessaria": [
+      "Reformular a proposição sem perder o núcleo que o material já sustenta.",
+      "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+    ],
+    "apoio_expositivo": [],
+    "grau_de_inevitabilidade": "alto",
+    "score_de_inevitabilidade": 0.68,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_escolhida": "base_academica",
+    "score_compatibilidade_formulacao": 0.667,
+    "apoio_argumentativo": {
+      "argumentos_ids": [],
+      "percursos_ids": [],
+      "n_argumentos": 0,
+      "n_percursos": 0
+    },
+    "promovivel_a_mediacao_autonoma": true,
+    "score_promocao_mediacional": 4.024,
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.12).",
+      "Défice principal do fecho manual: O défice principal é de formulação e fecho dedutivo. Falta ainda: Blindar esta derivação contra a objeção da autonomia normativa."
+    ],
+    "estado_de_fecho_canonico": "aberto",
+    "score_canonico_de_fecho": 4.522,
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "porque_o_anterior_nao_basta": "Os passos P40, P41, P42, P43, P44, P45 não bastam em conjunto porque ainda não fecham esta passagem específica: A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P47 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+    "tipo_de_necessidade": "etica"
+  }
+]
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 7,
+    "fechados": 0,
+    "abertos": 2,
+    "quase_fechados": 5,
+    "subpassos": [
+      "P42",
+      "P47"
+    ]
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 7,
+    "fechados": 0,
+    "quase_fechados": 5,
+    "abertos": 2,
+    "passos_com_subpasso": [
+      "P42",
+      "P47"
+    ]
+  },
+  "problemas_ainda_abertos": [
+    {
+      "id": "P42",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+      "objecao_letal_a_bloquear": "teleologia externa"
+    },
+    {
+      "id": "P43",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "direção meramente abstrata"
+    },
+    {
+      "id": "P47",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": "Mostrar que o dever-ser deriva da estrutura direcional do poder-ser real e não de convenção ou pura decisão voluntarista.",
+      "objecao_letal_a_bloquear": "falácia naturalista simplista"
+    },
+    {
+      "id": "P44",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "funcionalismo raso"
+    },
+    {
+      "id": "P48",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "dever impossível"
+    },
+    {
+      "id": "P45",
+      "estado_de_fecho": "quase_fechado",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "mal como entidade autónoma"
+    },
+    {
+      "id": "P46",
+      "estado_de_fecho": "aberto",
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null,
+      "objecao_letal_a_bloquear": "autonomia normativa absoluta"
+    }
+  ]
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true
+  }
+}
+
+TAREFA
+
+Para o corredor P42_P48, decide:
+1. se a sequência mínima ficou fechada;
+2. que passos têm de ser reabertos;
+3. que subpassos ficam aprovados;
+4. que formulações ficam fixadas.
+
+CRITÉRIO DE FECHO DO CORREDOR
+
+Considera o corredor fechado apenas se:
+- todos os passos indispensáveis da sequência mínima estiverem fechados;
+- as pontes de entrada e saída estiverem coerentes ao longo da sequência;
+- as objeções letais relevantes estiverem bloqueadas;
+- os subpassos necessários estiverem aprovados e integrados;
+- não restar salto dedutivo impeditivo entre passos consecutivos.
+
+Considera o corredor parcial quando:
+- há progresso local forte, mas permanece pelo menos uma lacuna impeditiva;
+- algum passo está quase fechado mas ainda sem mediação suficiente;
+- há formulações promissoras, mas ainda não fixáveis.
+
+Considera o corredor para reabrir quando:
+- a sequência mínima ainda falha em pontos decisivos;
+- há passos que precisam de revisão local antes de qualquer consolidação;
+- a arbitragem não pode fixar as formulações com segurança.
+
+REGRAS
+
+- Reabre apenas os passos estritamente necessários.
+- Aprova apenas os subpassos realmente indispensáveis.
+- Fixa apenas formulações que já podem ficar estáveis.
+- Não fixes formulações provisórias como finais.
+- Se o corredor estiver fechado, a lista de passos_a_reabrir deve ser vazia.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "arbitragem_corredor",
+  "corredor": "P42_P48",
+  "sequencia_minima_do_corredor": [
+  "P42",
+  "P43",
+  "P47",
+  "P44",
+  "P48",
+  "P45",
+  "P46"
+],
+  "decisoes_por_passo_referenciadas": ["P.."],
+  "decisoes_por_subpasso_referenciadas": ["P.._SP.."],
+  "passos_fechados": ["P.."],
+  "passos_quase_fechados": ["P.."],
+  "passos_a_reabrir": ["P.."],
+  "subpassos_aprovados": ["P.._SP.."],
+  "formulacoes_fixadas": [
+    {
+      "passo_id": "P..",
+      "formulacao_canonica_final": "string"
+    }
+  ],
+  "sequencia_minima_ficou_fechada": true,
+  "estado_final_do_corredor": "fechado|parcial|reabrir",
+  "criterio_de_fecho_aplicado": "string",
+  "justificacao_da_arbitragem": "string",
+  "pendencias_remanescentes": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "observacoes_editoriais": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "decisoes_por_passo_referenciadas" deve listar os passos realmente usados na arbitragem.
+- "decisoes_por_subpasso_referenciadas" deve listar apenas os subpassos efetivamente considerados.
+- "passos_fechados" inclui apenas passos com fecho suficientemente estável.
+- "passos_quase_fechados" inclui apenas passos com avanço real mas ainda não totalmente fixados.
+- "passos_a_reabrir" inclui apenas os passos cujo estado impede o fecho do corredor.
+- "subpassos_aprovados" inclui apenas subpassos indispensáveis já validados.
+- "formulacoes_fixadas" inclui apenas formulações que podem ser tomadas como finais dentro deste corredor.
+- Se "sequencia_minima_ficou_fechada"=true, então:
+  - "estado_final_do_corredor" tem de ser "fechado";
+  - "passos_a_reabrir" tem de ser [];
+  - "pendencias_remanescentes" deve ser [] ou conter apenas notas não impeditivas.
+- Se "estado_final_do_corredor"="reabrir", então "passos_a_reabrir" tem de conter pelo menos um passo.
+- "justificacao_da_arbitragem" deve ser concreta e local ao corredor.
+- "observacoes_editoriais" deve conter apenas notas operacionais curtas.

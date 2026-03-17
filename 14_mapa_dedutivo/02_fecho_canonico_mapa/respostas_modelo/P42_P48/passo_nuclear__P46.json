@@ -1,0 +1,222 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P46",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:20:38+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P46",
+    "numero_final": 49,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P40",
+      "P41",
+      "P42",
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "prepara": [
+      "P47"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_v2_final": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "justificacao_expandida_final": "Dado o já estabelecido nos passos anteriores, o valor prático do agir emerge de assimetrias reais, de condições efetivas de possibilidade e do modo como a ação se inscreve em relações e formas de vida. Se é daí que procedem o bem e o mal práticos, então a exigência normativa não pode ser uma instância autónoma que se legisla a si mesma à margem do real; ela deriva da estrutura do real tal como se impõe à ação situada.",
+    "ponte_entrada": "Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.",
+    "ponte_saida": "Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P41, P42, P43, P44 e P45 mostram a ancoragem real do bem e do mal práticos, mas ainda não enunciam explicitamente a conclusão metaética de que a normatividade não constitui uma ordem separada autolegislada.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem da ancoragem real do valor prático para o desenvolvimento de P47 fica sem mediação explícita e surge como salto dedutivo.",
+    "objecao_letal": "autonomia normativa absoluta",
+    "bloqueio_curto": "Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "coerentismo institucional",
+      "positivismo normativo desligado do real",
+      "coerentismo fechado",
+      "convencionalismo total"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por reformulação canónica e densificação mínima da mediação anti-autonomista.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P46",
+    "numero_final": 49,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P40",
+      "P41",
+      "P42",
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "prepara": [
+      "P47"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_canonica_final": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+    "justificacao_minima_suficiente": "Dado o já estabelecido nos passos anteriores, o valor prático do agir emerge de assimetrias reais, de condições efetivas de possibilidade e do modo como a ação se inscreve em relações e formas de vida. Se é daí que procedem o bem e o mal práticos, então a exigência normativa não pode ser uma instância autónoma que se legisla a si mesma à margem do real; ela deriva da estrutura do real tal como se impõe à ação situada.",
+    "ponte_entrada": "Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.",
+    "ponte_saida": "Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P41, P42, P43, P44 e P45 mostram a ancoragem real do bem e do mal práticos, mas ainda não enunciam explicitamente a conclusão metaética de que a normatividade não constitui uma ordem separada autolegislada.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem da ancoragem real do valor prático para o desenvolvimento de P47 fica sem mediação explícita e surge como salto dedutivo.",
+    "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+    "bloqueio_curto_da_objecao": "Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A06_SEG_001",
+      "F0232_SEG_001",
+      "F0112_SEG_002",
+      "F0111_A01_SEG_004"
+    ],
+    "objecoes_bloqueadas_final": [
+      "autonomia normativa absoluta",
+      "dever impossível",
+      "moralismo extrínseco",
+      "correção prática desligada da descrição do real",
+      "valoracao arbitraria",
+      "moralismo desligado do real",
+      "falácia naturalista simplista",
+      "subjetivismo valorativo",
+      "coerentismo institucional",
+      "positivismo normativo desligado do real",
+      "coerentismo fechado",
+      "convencionalismo total"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P46 no corredor P42_P48. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: autonomia normativa absoluta. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por reformulação canónica e densificação mínima da mediação anti-autonomista."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_094499836c0a1fd70069b99b5ef6ac819aacc60fba3e8de0d2",
+      "object": "response",
+      "created_at": 1773771614,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771628,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_094499836c0a1fd70069b99b5f6b98819a8ac94d20ad34ae58",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P42_P48\",\n  \"passo_id\": \"P46\",\n  \"numero_final\": 49,\n  \"bloco_id\": \"BLOCO_VII\",\n  \"bloco_titulo\": \"Fecho ético\",\n  \"depende_de\": [\n    \"P40\",\n    \"P41\",\n    \"P42\",\n    \"P43\",\n    \"P44\",\n    \"P45\"\n  ],\n  \"prepara\": [\n    \"P47\"\n  ],\n  \"estado_inicial_do_passo\": \"aberto\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"reformular\",\n  \"formulacao_v2_final\": \"A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.\",\n  \"justificacao_expandida_final\": \"Dado o já estabelecido nos passos anteriores, o valor prático do agir emerge de assimetrias reais, de condições efetivas de possibilidade e do modo como a ação se inscreve em relações e formas de vida. Se é daí que procedem o bem e o mal práticos, então a exigência normativa não pode ser uma instância autónoma que se legisla a si mesma à margem do real; ela deriva da estrutura do real tal como se impõe à ação situada.\",\n  \"ponte_entrada\": \"Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.\",\n  \"ponte_saida\": \"Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.\",\n  \"porque_o_anterior_nao_basta\": \"Os passos P40, P41, P42, P43, P44 e P45 mostram a ancoragem real do bem e do mal práticos, mas ainda não enunciam explicitamente a conclusão metaética de que a normatividade não constitui uma ordem separada autolegislada.\",\n  \"porque_nao_pode_ser_suprimido\": \"Sem este passo, a passagem da ancoragem real do valor prático para o desenvolvimento de P47 fica sem mediação explícita e surge como salto dedutivo.\",\n  \"objecao_letal\": \"autonomia normativa absoluta\",\n  \"bloqueio_curto\": \"Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"autonomia normativa absoluta\",\n    \"dever impossível\",\n    \"moralismo extrínseco\",\n    \"correção prática desligada da descrição do real\",\n    \"valoracao arbitraria\",\n    \"moralismo desligado do real\",\n    \"falácia naturalista simplista\",\n    \"subjetivismo valorativo\",\n    \"coerentismo institucional\",\n    \"positivismo normativo desligado do real\",\n    \"coerentismo fechado\",\n    \"convencionalismo total\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A06_SEG_001\",\n    \"F0232_SEG_001\",\n    \"F0112_SEG_002\",\n    \"F0111_A01_SEG_004\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por reformulação canónica e densificação mínima da mediação anti-autonomista.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 6894,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 953,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7847
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P46.raw.txt"
+}

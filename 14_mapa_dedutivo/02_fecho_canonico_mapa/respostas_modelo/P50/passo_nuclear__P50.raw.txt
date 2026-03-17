@@ -1,0 +1,68 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P50",
+  "passo_id": "P50",
+  "numero_final": 50,
+  "bloco_id": "BLOCO_VII",
+  "bloco_titulo": "Fecho ético",
+  "depende_de": [
+    "P24",
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P47",
+    "P48",
+    "P49"
+  ],
+  "prepara": [
+    "P51"
+  ],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+  "justificacao_expandida_final": "Dos passos anteriores já resulta que a normatividade legítima não pode autonomizar-se do real, que o dever-ser deve derivar do ser e do poder-ser, e que o campo ético relevante é o do ser consciente e reflexivo capaz de verdade, erro, correção e orientação prática. Sendo esse ser também vulnerável e situado, o seu modo de existir não pode ser tratado como material indiferente para prescrições, instituições ou usos instrumentais. Por isso, o seu próprio estatuto ontológico-reflexivo impõe um limite normativo forte às práticas que o atingem: esse limite é o que aqui se chama dignidade. Assim, a dignidade não é convenção acrescentada de fora, mas expressão normativa do estatuto real do ser reflexivo.",
+  "ponte_entrada": "Se, como o passo anterior já deixou preparado, o dever-ser legítimo deriva do real e da condição reflexiva do agente, então importa explicitar qual é o limite normativo forte que decorre desse estatuto: dignidade.",
+  "ponte_saida": "Uma vez fixado que a dignidade é o limite normativo forte inscrito no estatuto do ser reflexivo real, fica preparada a passagem seguinte para determinar as consequências normativas que daí decorrem em P51.",
+  "porque_o_anterior_nao_basta": "Os passos P24, P25, P26, P27, P28, P29, P47, P48 e P49 mostram a subordinação da normatividade ao real e caracterizam o ser reflexivo, mas ainda não explicitam que desse estatuto resulta precisamente um limite normativo forte chamado dignidade.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a transição da caracterização ontológico-reflexiva do agente para as consequências éticas seguintes fica sem mediação explícita e P51 aparece como salto dedutivo.",
+  "objecao_letal": "dignidade como puro convencionalismo",
+  "bloqueio_curto": "Se a dignidade fosse mera convenção, poderia variar apenas com instituições ou valores locais; mas aqui ela decorre do estatuto real do ser reflexivo, vulnerável, situado e capaz de orientação, pelo que funciona como limite normativo anterior à mera convenção.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "dignidade como puro convencionalismo",
+    "coerentismo institucional",
+    "positivismo normativo desligado do real",
+    "autonomia normativa absoluta",
+    "convencionalismo axiológico",
+    "valor social como entidade autónoma",
+    "uso da dignidade como licença subjetiva",
+    "justificação prática contra o real",
+    "moralismo desligado do real",
+    "resposta ética fundada apenas em coerência interna"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0024_SEG_001",
+    "F0063_A01_SEG_003",
+    "F0088_A02_SEG_003",
+    "F0089_SEG_002",
+    "F0121_A02_SEG_002",
+    "F0241_A06_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da mediação, sem necessidade de subpasso.",
+  "pendencias": []
+}

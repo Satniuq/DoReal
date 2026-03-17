@@ -1,0 +1,762 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P25_P30
+PASSO_PAI_ID=P27
+SUBPASSO_ID_SUGERIDO=P27_SP01
+NUMERO_ORDINAL_SUGERIDO=1
+PASSO_ANTERIOR_ID=P26
+PASSO_SEGUINTE_ID=P28
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{
+  "raw": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P27",
+    "numero_final": 27,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P26"
+    ],
+    "prepara": [
+      "P28"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+    "justificacao_expandida_final": "Se em P26 a representação já se tornou operável, então ela já não pode permanecer como episódio isolado: para poder repetir-se, partilhar-se e sustentar trabalho reflexivo, tem de estabilizar-se simbolicamente num meio de conservação e circulação. Esse meio é a linguagem. O passo não afirma que todo o ser se reduza à linguagem, mas que a mediação representacional, enquanto operável, adquire nela o seu regime próprio de fixação, transmissão e retomada.",
+    "ponte_entrada": "De P26 segue-se que a representação é operável; sendo operável, ela exige estabilização simbólica para não se perder na ocorrência singular, e essa estabilização dá-se em linguagem.",
+    "ponte_saida": "Uma vez que a representação operável circula e se estabiliza linguisticamente, fica aberto o passo seguinte para pensar os efeitos próprios dessa mediação linguística sobre o exercício reflexivo em P28.",
+    "porque_o_anterior_nao_basta": "P26 não basta porque ainda não explicita em que regime a representação operável se estabiliza, circula e se torna partilhável; sem isso, falta a mediação especificamente linguística.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem de uma representação apenas operável para os desenvolvimentos de P28 perde o seu meio simbólico próprio e transforma-se num salto dedutivo.",
+    "objecao_letal": "linguisticismo ontológico",
+    "bloqueio_curto": "O passo não diz que o real se reduz à linguagem; diz apenas que a representação operável, enquanto mediação simbólica estável e partilhável, se fixa e circula linguisticamente.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "linguisticismo ontológico",
+      "individualismo autodidata suficiente",
+      "mediação simbólica reduzida a informação abstrata",
+      "autonomia do sistema linguístico",
+      "fechamento simbólico",
+      "autonomizacao da linguagem"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0108_A02_SEG_001",
+      "F0071_SEG_001",
+      "F0054_SEG_001",
+      "F0241_A14_SEG_003",
+      "F0241_A14_SEG_001",
+      "F0241_A05_SEG_004",
+      "F0223_SEG_001",
+      "F0213_SEG_001",
+      "F0209_SEG_001",
+      "F0203_SEG_001",
+      "F0137_SEG_001",
+      "F0129_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../impacto_fragmentos_no_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação entre representação operável e estabilização linguística, com bloqueio explícito do linguisticismo.",
+    "pendencias": []
+  },
+  "canonical": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P27",
+    "numero_final": 27,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P26"
+    ],
+    "prepara": [
+      "P28"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+    "justificacao_minima_suficiente": "Se em P26 a representação já se tornou operável, então ela já não pode permanecer como episódio isolado: para poder repetir-se, partilhar-se e sustentar trabalho reflexivo, tem de estabilizar-se simbolicamente num meio de conservação e circulação. Esse meio é a linguagem. O passo não afirma que todo o ser se reduza à linguagem, mas que a mediação representacional, enquanto operável, adquire nela o seu regime próprio de fixação, transmissão e retomada.",
+    "ponte_entrada": "De P26 segue-se que a representação é operável; sendo operável, ela exige estabilização simbólica para não se perder na ocorrência singular, e essa estabilização dá-se em linguagem.",
+    "ponte_saida": "Uma vez que a representação operável circula e se estabiliza linguisticamente, fica aberto o passo seguinte para pensar os efeitos próprios dessa mediação linguística sobre o exercício reflexivo em P28.",
+    "porque_o_anterior_nao_basta": "P26 não basta porque ainda não explicita em que regime a representação operável se estabiliza, circula e se torna partilhável; sem isso, falta a mediação especificamente linguística.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem de uma representação apenas operável para os desenvolvimentos de P28 perde o seu meio simbólico próprio e transforma-se num salto dedutivo.",
+    "objecao_letal_a_bloquear": "linguisticismo ontológico",
+    "bloqueio_curto_da_objecao": "O passo não diz que o real se reduz à linguagem; diz apenas que a representação operável, enquanto mediação simbólica estável e partilhável, se fixa e circula linguisticamente.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0108_A02_SEG_001",
+      "F0071_SEG_001",
+      "F0054_SEG_001",
+      "F0241_A14_SEG_003",
+      "F0241_A14_SEG_001",
+      "F0241_A05_SEG_004",
+      "F0223_SEG_001",
+      "F0213_SEG_001",
+      "F0209_SEG_001",
+      "F0203_SEG_001",
+      "F0137_SEG_001",
+      "F0129_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "linguisticismo ontológico",
+      "individualismo autodidata suficiente",
+      "mediação simbólica reduzida a informação abstrata",
+      "autonomia do sistema linguístico",
+      "fechamento simbólico",
+      "autonomizacao da linguagem"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P27 no corredor P25_P30. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: linguisticismo ontológico. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação entre representação operável e estabilização linguística, com bloqueio explícito do linguisticismo."
+    ]
+  }
+}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P27",
+  "numero_final": 27,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P26"
+  ],
+  "prepara": [
+    "P28"
+  ],
+  "proposicao_canonica_curta": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+  "proposicao_canonica_tecnica": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+  "tese_minima_canonica": "A mediação estabiliza-se em linguagem.",
+  "justificacao_minima_canonica": "A representação operável tende a estabilizar-se simbolicamente, permitindo repetição, partilha e trabalho reflexivo: linguagem.",
+  "porque_este_passo_e_necessario": "A mediação estabiliza-se em linguagem.",
+  "porque_o_anterior_nao_basta": "P26 não basta porque ainda não introduz explicitamente este ganho: A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P28 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "linguisticismo ontológico",
+  "tipo_de_necessidade": "mediacional",
+  "estado_de_fecho": "aberto",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 4.298,
+  "breakdown_score_canonico": {
+    "dependencias": 0.8,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.29824,
+    "fragilidade": -0.3,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "A mediação estabiliza-se em linguagem.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0108_A02_SEG_001",
+    "F0071_SEG_001",
+    "F0054_SEG_001",
+    "F0241_A14_SEG_003",
+    "F0241_A14_SEG_001",
+    "F0241_A05_SEG_004",
+    "F0223_SEG_001",
+    "F0213_SEG_001",
+    "F0209_SEG_001",
+    "F0203_SEG_001",
+    "F0137_SEG_001",
+    "F0129_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "linguisticismo ontológico",
+    "individualismo autodidata suficiente",
+    "mediação simbólica reduzida a informação abstrata",
+    "coerentismo fechado",
+    "autonomia do sistema linguístico",
+    "erro reduzido a incoerência formal",
+    "representação como camada meramente secundária",
+    "redução do humano ao animal não mediado",
+    "moralização simplista do humano como fonte isolada do mal",
+    "valor metafísico autónomo",
+    "fechamento simbólico",
+    "autonomizacao da linguagem"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.13).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.30).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Densificar a transição da mediação para linguagem, evitando linguisticismo."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P27",
+  "numero_original": 27,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "numero_final": 27,
+  "proposicao_final": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+  "proposicao_original": "A mediação estabiliza-se em linguagem.",
+  "descricao_curta": null,
+  "funcao_no_sistema": "No Emergência do ser localizado e reflexivo, esta proposição fixa que a mediação estabiliza-se em linguagem.; Recebe apoio imediato de P26; e prepara P28.",
+  "depende_de": [
+    "P26"
+  ],
+  "prepara": [
+    "P28"
+  ],
+  "tese_minima": "A mediação estabiliza-se em linguagem.",
+  "justificacao_minima_suficiente": "A representação operável tende a estabilizar-se simbolicamente, permitindo repetição, partilha e trabalho reflexivo: linguagem.",
+  "objecoes_bloqueadas": [
+    "linguisticismo ontológico",
+    "individualismo autodidata suficiente",
+    "mediação simbólica reduzida a informação abstrata",
+    "coerentismo fechado",
+    "autonomia do sistema linguístico",
+    "erro reduzido a incoerência formal",
+    "representação como camada meramente secundária",
+    "redução do humano ao animal não mediado",
+    "moralização simplista do humano como fonte isolada do mal",
+    "valor metafísico autónomo",
+    "fechamento simbólico",
+    "autonomizacao da linguagem"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0108_A02_SEG_001",
+    "F0071_SEG_001",
+    "F0054_SEG_001",
+    "F0241_A14_SEG_003",
+    "F0241_A14_SEG_001",
+    "F0241_A05_SEG_004",
+    "F0223_SEG_001",
+    "F0213_SEG_001",
+    "F0209_SEG_001",
+    "F0203_SEG_001",
+    "F0137_SEG_001",
+    "F0129_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "A mediação estabiliza-se em linguagem.",
+  "mediacao_necessaria": [
+    "Explicitar a ponte dedutiva entre P26 e P27.",
+    "Explicitar a passagem de P27 para P28.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "alto",
+  "score_de_inevitabilidade": 0.733,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.8,
+  "apoio_argumentativo": {
+    "argumentos_ids": [
+      "ARG_SISTEMA_COMO_CRISTALIZACAO_SISTEMICA_DE_MEDIACOES",
+      "ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL"
+    ],
+    "percursos_ids": [
+      "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
+      "P_EIXO_EPISTEMOLOGICO",
+      "P_EIXO_ESCALA_E_ERRO_DE_ESCALA",
+      "P_EIXO_ETICO_NARRATIVO",
+      "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "P_PERCURSO_DA_DEGENERACAO_ETICA",
+      "P_PERCURSO_DA_VIDA_BOA",
+      "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA",
+      "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL",
+      "P_PERCURSO_DO_ERRO_E_CORRECAO",
+      "P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO",
+      "P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA",
+      "P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL"
+    ],
+    "n_argumentos": 2,
+    "n_percursos": 13
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 3.728,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.13).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.30).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Densificar a transição da mediação para linguagem, evitando linguisticismo."
+  ],
+  "estado_de_fecho_canonico": "aberto",
+  "score_canonico_de_fecho": 4.298,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "P26 não basta porque ainda não introduz explicitamente este ganho: A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P28 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "linguisticismo ontológico",
+  "tipo_de_necessidade": "mediacional"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 6,
+    "fechados": 0,
+    "abertos": 5,
+    "quase_fechados": 1,
+    "subpassos": [
+      "P25",
+      "P28"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {
+      "id": "P27",
+      "score_canonico_de_fecho": 4.298,
+      "tipos_de_fragilidade": [
+        "formulacao",
+        "mediacao"
+      ],
+      "subpasso_sugerido": null
+    },
+    "fragilidade_mediacional": {
+      "id": "P27",
+      "score_canonico_de_fecho": 4.298,
+      "subpasso_sugerido": null
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 6,
+    "fechados": 0,
+    "quase_fechados": 1,
+    "abertos": 5,
+    "passos_com_subpasso": [
+      "P25",
+      "P28"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P25",
+    "P26",
+    "P27",
+    "P28",
+    "P29",
+    "P30"
+  ],
+  "proposicao_canonica": {
+    "id": "P27",
+    "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável."
+  },
+  "problema_ainda_aberto": {
+    "id": "P27",
+    "estado_de_fecho": "aberto",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "linguisticismo ontológico"
+  },
+  "passo": {
+    "id": "P27",
+    "numero_final": 27,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P26"
+    ],
+    "prepara": [
+      "P28"
+    ],
+    "proposicao_canonica_curta": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+    "proposicao_canonica_tecnica": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+    "tese_minima_canonica": "A mediação estabiliza-se em linguagem.",
+    "justificacao_minima_canonica": "A representação operável tende a estabilizar-se simbolicamente, permitindo repetição, partilha e trabalho reflexivo: linguagem.",
+    "porque_este_passo_e_necessario": "A mediação estabiliza-se em linguagem.",
+    "porque_o_anterior_nao_basta": "P26 não basta porque ainda não introduz explicitamente este ganho: A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P28 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "linguisticismo ontológico",
+    "tipo_de_necessidade": "mediacional",
+    "estado_de_fecho": "aberto",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 4.298,
+    "breakdown_score_canonico": {
+      "dependencias": 0.8,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.29824,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "Na mediação simbólica, não se herdam apenas construções, mas modos encarnados de acesso ao mundo; quando isso falha, a representação persiste sem inteligibilidade suficiente do seu porquê.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "A mediação estabiliza-se em linguagem.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0108_A02_SEG_001",
+      "F0071_SEG_001",
+      "F0054_SEG_001",
+      "F0241_A14_SEG_003",
+      "F0241_A14_SEG_001",
+      "F0241_A05_SEG_004",
+      "F0223_SEG_001",
+      "F0213_SEG_001",
+      "F0209_SEG_001",
+      "F0203_SEG_001",
+      "F0137_SEG_001",
+      "F0129_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "linguisticismo ontológico",
+      "individualismo autodidata suficiente",
+      "mediação simbólica reduzida a informação abstrata",
+      "coerentismo fechado",
+      "autonomia do sistema linguístico",
+      "erro reduzido a incoerência formal",
+      "representação como camada meramente secundária",
+      "redução do humano ao animal não mediado",
+      "moralização simplista do humano como fonte isolada do mal",
+      "valor metafísico autónomo",
+      "fechamento simbólico",
+      "autonomizacao da linguagem"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.13).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.30).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Densificar a transição da mediação para linguagem, evitando linguisticismo."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$.resumo_global.top_proposicoes_por_pressao[9]",
+        "match": {
+          "proposicao_id": "P27",
+          "numero": 27,
+          "proposicao": "A mediação estabiliza-se em linguagem.",
+          "total_fragmentos_que_tocam": 45,
+          "estabilidade": "estavel_mas_a_densificar",
+          "acao_estrutural_recomendada": "densificar"
+        }
+      },
+      {
+        "path": "$.macro_relatorio_original.passos_mais_tocados[9]",
+        "match": {
+          "proposicao_id": "P27",
+          "n": 45
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$.blocos[3].proposicoes[4]",
+        "match": {
+          "id": "P27",
+          "numero": 27,
+          "proposicao": "A mediação estabiliza-se em linguagem.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P26"
+          ],
+          "prepara": [
+            "P28"
+          ],
+          "justificacao": {
+            "tese_minima": "A mediação estabiliza-se em linguagem.",
+            "justificacao_interna_do_passo": "A representação operável tende a estabilizar-se simbolicamente, permitindo repetição, partilha e trabalho reflexivo: linguagem.",
+            "tipo_de_necessidade": "necessidade_simbolica",
+            "estatuto_inferencial": "estabilizacao_simbolica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+            "o_que_falta_provar_ou_explicitar": "Densificar a transição da mediação para linguagem, evitando linguisticismo.",
+            "objecoes_tipicas_a_bloquear": [
+              "linguisticismo ontológico"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": [
+      {
+        "path": "$[32].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P27",
+          "numero": 27,
+          "proposicao_resumida": "A mediação estabiliza-se em linguagem.",
+          "grau_de_relevancia": "medio",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "O fragmento insiste na transmissão social de modos de ser e construções herdadas, o que ilustra estabilização mediacional, sem deduzir o passo."
+        }
+      },
+      {
+        "path": "$[57].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[3]",
+        "match": {
+          "proposicao_id": "P27",
+          "numero": 27,
+          "proposicao_resumida": "A mediação estabiliza-se em linguagem.",
+          "grau_de_relevancia": "baixo",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "O início do fragmento caracteriza a linguagem como meio social de expressão, mas sem acrescentar muito à dedução desse passo."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P25_P30",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Decide, para o passo P27 no corredor P25_P30:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P27",
+  "subpasso_id": "P27_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "P27",
+    "entra_apos_passo_id": "P26 ou null",
+    "entra_antes_de_passo_id": "P28 ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

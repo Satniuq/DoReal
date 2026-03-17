@@ -1,0 +1,211 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P48",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:19:50+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P48",
+    "numero_final": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "justificacao_expandida_final": "Se o dever-ser deriva do ser e do poder-ser reais, então só pode orientar ação onde exista possibilidade efetiva de atualização. Uma exigência prática sem poder-ser correspondente não regula o agir real, mas apenas formula verbalmente um impossível. Por isso, a normatividade prática fica subordinada ao campo das possibilidades reais e não pode incidir sobre o que o real não permite.",
+    "ponte_entrada": "Do passo anterior resulta a subordinação do dever-ser ao ser e ao poder-ser reais; daqui segue-se que a exigência prática só vale enquanto recai sobre aquilo que pode realmente ser atualizado.",
+    "ponte_saida": "Uma vez fixado que a exigência prática só incide sobre possibilidades reais, fica preparada a passagem seguinte, em que a normatividade poderá ser especificada apenas dentro desse campo efetivo de atualização.",
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15 e P47 ainda não explicitam esta consequência prática imediata: que um dever sem possibilidade real de atualização perde sentido normativo e não pode obrigar.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, desaparece a mediação que converte a subordinação ontológica do dever-ser ao poder-ser numa regra prática explícita, e a passagem para P49 fica em salto dedutivo.",
+    "objecao_letal": "dever impossível",
+    "bloqueio_curto": "Não há dever prático onde não há possibilidade real de atualização, porque o impossível não orienta ação efetiva.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "dever-ser desligado do poder-ser",
+      "normatividade desligada do real",
+      "livre-arbítrio absoluto"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0060_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0153_SEG_001",
+      "F0205_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação entre normatividade e possibilidade real, sem necessidade de subpasso.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P48",
+    "numero_final": 46,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P13",
+      "P14",
+      "P15",
+      "P47"
+    ],
+    "prepara": [
+      "P49"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+    "justificacao_minima_suficiente": "Se o dever-ser deriva do ser e do poder-ser reais, então só pode orientar ação onde exista possibilidade efetiva de atualização. Uma exigência prática sem poder-ser correspondente não regula o agir real, mas apenas formula verbalmente um impossível. Por isso, a normatividade prática fica subordinada ao campo das possibilidades reais e não pode incidir sobre o que o real não permite.",
+    "ponte_entrada": "Do passo anterior resulta a subordinação do dever-ser ao ser e ao poder-ser reais; daqui segue-se que a exigência prática só vale enquanto recai sobre aquilo que pode realmente ser atualizado.",
+    "ponte_saida": "Uma vez fixado que a exigência prática só incide sobre possibilidades reais, fica preparada a passagem seguinte, em que a normatividade poderá ser especificada apenas dentro desse campo efetivo de atualização.",
+    "porque_o_anterior_nao_basta": "Os passos P13, P14, P15 e P47 ainda não explicitam esta consequência prática imediata: que um dever sem possibilidade real de atualização perde sentido normativo e não pode obrigar.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, desaparece a mediação que converte a subordinação ontológica do dever-ser ao poder-ser numa regra prática explícita, e a passagem para P49 fica em salto dedutivo.",
+    "objecao_letal_a_bloquear": "dever impossível",
+    "bloqueio_curto_da_objecao": "Não há dever prático onde não há possibilidade real de atualização, porque o impossível não orienta ação efetiva.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0060_A01_SEG_001",
+      "F0114_A01_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0117_A01_SEG_003",
+      "F0153_SEG_001",
+      "F0205_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dever impossível",
+      "autonomia normativa absoluta",
+      "formalismo moral abstrato",
+      "dedutivismo prático desligado da situação",
+      "dever-ser desligado do poder-ser",
+      "normatividade desligada do real",
+      "livre-arbítrio absoluto"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P48 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: dever impossível. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação entre normatividade e possibilidade real, sem necessidade de subpasso."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0f6e343a0529f5080069b99b2e5ebc819983bc2ba4aeae59a5",
+      "object": "response",
+      "created_at": 1773771566,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771577,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0f6e343a0529f5080069b99b2efbc48199addc2f520dea13d8",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P42_P48\",\n  \"passo_id\": \"P48\",\n  \"numero_final\": 46,\n  \"bloco_id\": \"BLOCO_VII\",\n  \"bloco_titulo\": \"Fecho ético\",\n  \"depende_de\": [\n    \"P13\",\n    \"P14\",\n    \"P15\",\n    \"P47\"\n  ],\n  \"prepara\": [\n    \"P49\"\n  ],\n  \"estado_inicial_do_passo\": \"quase_fechado\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.\",\n  \"justificacao_expandida_final\": \"Se o dever-ser deriva do ser e do poder-ser reais, então só pode orientar ação onde exista possibilidade efetiva de atualização. Uma exigência prática sem poder-ser correspondente não regula o agir real, mas apenas formula verbalmente um impossível. Por isso, a normatividade prática fica subordinada ao campo das possibilidades reais e não pode incidir sobre o que o real não permite.\",\n  \"ponte_entrada\": \"Do passo anterior resulta a subordinação do dever-ser ao ser e ao poder-ser reais; daqui segue-se que a exigência prática só vale enquanto recai sobre aquilo que pode realmente ser atualizado.\",\n  \"ponte_saida\": \"Uma vez fixado que a exigência prática só incide sobre possibilidades reais, fica preparada a passagem seguinte, em que a normatividade poderá ser especificada apenas dentro desse campo efetivo de atualização.\",\n  \"porque_o_anterior_nao_basta\": \"Os passos P13, P14, P15 e P47 ainda não explicitam esta consequência prática imediata: que um dever sem possibilidade real de atualização perde sentido normativo e não pode obrigar.\",\n  \"porque_nao_pode_ser_suprimido\": \"Se este passo for suprimido, desaparece a mediação que converte a subordinação ontológica do dever-ser ao poder-ser numa regra prática explícita, e a passagem para P49 fica em salto dedutivo.\",\n  \"objecao_letal\": \"dever impossível\",\n  \"bloqueio_curto\": \"Não há dever prático onde não há possibilidade real de atualização, porque o impossível não orienta ação efetiva.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"dever impossível\",\n    \"autonomia normativa absoluta\",\n    \"formalismo moral abstrato\",\n    \"dedutivismo prático desligado da situação\",\n    \"dever-ser desligado do poder-ser\",\n    \"normatividade desligada do real\",\n    \"livre-arbítrio absoluto\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0060_A01_SEG_001\",\n    \"F0114_A01_SEG_001\",\n    \"F0115_A01_SEG_001\",\n    \"F0117_A01_SEG_003\",\n    \"F0153_SEG_001\",\n    \"F0205_SEG_001\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação da mediação entre normatividade e possibilidade real, sem necessidade de subpasso.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 13241,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 849,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14090
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P48.raw.txt"
+}

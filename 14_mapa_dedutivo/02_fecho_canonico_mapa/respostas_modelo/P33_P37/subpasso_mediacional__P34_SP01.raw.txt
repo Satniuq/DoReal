@@ -1,0 +1,45 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P33_P37",
+  "passo_pai_id": "P34",
+  "subpasso_id": "P34_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P34 foi resolvida por densificação da formulação e da justificação do próprio passo, sem necessidade de mediação autónoma adicional. Tanto a decisão canónica como a matriz de inevitabilidades e o mapa pré-canónico assinalam explicitamente \"precisa_de_subpasso\": false e \"subpasso_sugerido\": null. O salto identificado entre P33 e P34 não exige distinção nova nem pressuposto intermédio autónomo; exige apenas explicitação unificada, dentro de P34, de adequação, critério operativo e submissão do critério ao real. Introduzir subpasso aqui repetiria o conteúdo do passo pai em vez de fechar uma lacuna canónica independente.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P34",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já foi absorvida no próprio P34 por reformulação densificada."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "verdade como coerência pura",
+  "bloqueio_curto": "A objeção é bloqueada no próprio P34 ao exigir adequação ao real sob critério também submetido ao real.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A25_SEG_003",
+    "F0241_A02_SEG_002",
+    "F0160_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "verdade como coerência pura",
+    "verdade como consenso",
+    "formalismo da verdade"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../impacto_fragmentos_no_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado; fechar por densificação interna de P34.",
+  "pendencias": []
+}

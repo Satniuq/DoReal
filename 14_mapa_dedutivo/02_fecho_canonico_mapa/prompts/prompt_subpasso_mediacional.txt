@@ -1,0 +1,126 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID={{CORREDOR_ID}}
+PASSO_PAI_ID={{PASSO_PAI_ID}}
+SUBPASSO_ID_SUGERIDO={{SUBPASSO_ID_SUGERIDO}}
+NUMERO_ORDINAL_SUGERIDO={{NUMERO_ORDINAL_SUGERIDO}}
+PASSO_ANTERIOR_ID={{PASSO_ANTERIOR_ID}}
+PASSO_SEGUINTE_ID={{PASSO_SEGUINTE_ID}}
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{{DECISAO_POR_PASSO_CANDIDATA_JSON}}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{{MATRIZ_INEVITABILIDADES_RECORTE_JSON}}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{{MAPA_PRECANONICO_RECORTE_JSON}}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{{RELATORIO_FECHO_RECORTE_JSON}}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{{DOSSIER_CORREDOR_RECORTE_JSON}}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{{INPUTS_SECUNDARIOS_RELEVANTES_JSON}}
+
+TAREFA
+
+Decide, para o passo {{PASSO_PAI_ID}} no corredor {{CORREDOR_ID}}:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "{{CORREDOR_ID}}",
+  "passo_pai_id": "{{PASSO_PAI_ID}}",
+  "subpasso_id": "{{SUBPASSO_ID_SUGERIDO}}",
+  "numero_ordinal_no_passo": {{NUMERO_ORDINAL_SUGERIDO}},
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "{{PASSO_PAI_ID}}",
+    "entra_apos_passo_id": "{{PASSO_ANTERIOR_ID}} ou null",
+    "entra_antes_de_passo_id": "{{PASSO_SEGUINTE_ID}} ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

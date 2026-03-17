@@ -1,0 +1,181 @@
+{
+  "stage": "subpasso_mediacional",
+  "target_id": "P34_SP01",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:13:46+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P33_P37",
+    "passo_pai_id": "P34",
+    "subpasso_id": "P34_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "entra_subpasso": false,
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P34 foi resolvida por densificação da formulação e da justificação do próprio passo, sem necessidade de mediação autónoma adicional. Tanto a decisão canónica como a matriz de inevitabilidades e o mapa pré-canónico assinalam explicitamente \"precisa_de_subpasso\": false e \"subpasso_sugerido\": null. O salto identificado entre P33 e P34 não exige distinção nova nem pressuposto intermédio autónomo; exige apenas explicitação unificada, dentro de P34, de adequação, critério operativo e submissão do critério ao real. Introduzir subpasso aqui repetiria o conteúdo do passo pai em vez de fechar uma lacuna canónica independente.",
+    "formulacao_subpasso": null,
+    "posicao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P34",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já foi absorvida no próprio P34 por reformulação densificada."
+    },
+    "funcao_dedutiva": null,
+    "justificacao_minima_suficiente": null,
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "verdade como coerência pura",
+    "bloqueio_curto": "A objeção é bloqueada no próprio P34 ao exigir adequação ao real sob critério também submetido ao real.",
+    "fragmentos_selecionados_finais": [
+      "F0241_A25_SEG_003",
+      "F0241_A02_SEG_002",
+      "F0160_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "verdade como coerência pura",
+      "verdade como consenso",
+      "formalismo da verdade"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "nota_editorial_final": "Subpasso rejeitado; fechar por densificação interna de P34.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P33_P37",
+    "passo_pai_id": "P34",
+    "subpasso_id": "P34_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P34 foi resolvida por densificação da formulação e da justificação do próprio passo, sem necessidade de mediação autónoma adicional. Tanto a decisão canónica como a matriz de inevitabilidades e o mapa pré-canónico assinalam explicitamente \"precisa_de_subpasso\": false e \"subpasso_sugerido\": null. O salto identificado entre P33 e P34 não exige distinção nova nem pressuposto intermédio autónomo; exige apenas explicitação unificada, dentro de P34, de adequação, critério operativo e submissão do critério ao real. Introduzir subpasso aqui repetiria o conteúdo do passo pai em vez de fechar uma lacuna canónica independente.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": null,
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P34",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já foi absorvida no próprio P34 por reformulação densificada."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "verdade como coerência pura",
+    "bloqueio_curto_da_objecao": "A objeção é bloqueada no próprio P34 ao exigir adequação ao real sob critério também submetido ao real.",
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_003",
+      "F0241_A02_SEG_002",
+      "F0160_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "verdade como coerência pura",
+      "verdade como consenso",
+      "formalismo da verdade"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso rejeitado; fechar por densificação interna de P34."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_09ffbe22699608f70069b999d12c04819386cd9f69d2ea913c",
+      "object": "response",
+      "created_at": 1773771217,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771225,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_09ffbe22699608f70069b999d1eb8c8193a2b7b15c611e8487",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_subpasso\",\n  \"corredor\": \"P33_P37\",\n  \"passo_pai_id\": \"P34\",\n  \"subpasso_id\": \"P34_SP01\",\n  \"numero_ordinal_no_passo\": 1,\n  \"necessidade_detectada\": false,\n  \"decisao_subpasso\": \"rejeitado\",\n  \"entra_subpasso\": false,\n  \"justificacao_da_decisao\": \"Os materiais convergem em que a fragilidade de P34 foi resolvida por densificação da formulação e da justificação do próprio passo, sem necessidade de mediação autónoma adicional. Tanto a decisão canónica como a matriz de inevitabilidades e o mapa pré-canónico assinalam explicitamente \\\"precisa_de_subpasso\\\": false e \\\"subpasso_sugerido\\\": null. O salto identificado entre P33 e P34 não exige distinção nova nem pressuposto intermédio autónomo; exige apenas explicitação unificada, dentro de P34, de adequação, critério operativo e submissão do critério ao real. Introduzir subpasso aqui repetiria o conteúdo do passo pai em vez de fechar uma lacuna canónica independente.\",\n  \"formulacao_subpasso\": null,\n  \"posicao_na_cadeia\": {\n    \"modo_de_insercao\": \"intra_passo\",\n    \"ancorado_no_passo_id\": \"P34\",\n    \"entra_apos_passo_id\": null,\n    \"entra_antes_de_passo_id\": null,\n    \"justificacao_de_insercao\": \"Não se justifica inserção: a mediação necessária já foi absorvida no próprio P34 por reformulação densificada.\"\n  },\n  \"funcao_dedutiva\": null,\n  \"justificacao_minima_suficiente\": null,\n  \"ponte_entrada\": null,\n  \"ponte_saida\": null,\n  \"objecao_letal_a_bloquear\": \"verdade como coerência pura\",\n  \"bloqueio_curto\": \"A objeção é bloqueada no próprio P34 ao exigir adequação ao real sob critério também submetido ao real.\",\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A25_SEG_003\",\n    \"F0241_A02_SEG_002\",\n    \"F0160_SEG_001\"\n  ],\n  \"objecoes_bloqueadas_final\": [\n    \"verdade como coerência pura\",\n    \"verdade como consenso\",\n    \"formalismo da verdade\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estatuto_final_no_mapa\": \"nao_inserido\",\n  \"nota_editorial_final\": \"Subpasso rejeitado; fechar por densificação interna de P34.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 8754,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 677,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9431
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "subpasso_mediacional__P34_SP01.raw.txt"
+}

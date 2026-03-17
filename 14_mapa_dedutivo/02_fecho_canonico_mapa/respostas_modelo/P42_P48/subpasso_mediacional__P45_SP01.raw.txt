@@ -1,0 +1,43 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P45",
+  "subpasso_id": "P45_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P45 é resolúvel por densificação interna do próprio passo, não por mediação autónoma adicional. A passagem já fecha canonicamente a partir de P44: se o bem é adequação prática ao real, o mal pode ser definido como a falha dessa adequação no regime da ação, sob as formas de desadequação, degeneração ou dano. Não há indicação de pressuposto indispensável ainda implícito que exija autonomização em subpasso; pelo contrário, os recortes editoriais assinalam explicitamente 'precisa_de_subpasso: false', 'subpasso_sugerido: null', 'promovivel_a_mediacao_autonoma: false' e 'indicios_de_passo_intermedio: 0'. A dificuldade remanescente — refinar a diferença entre erro, dano e mal — é uma tarefa de precisão justificativa e formulação dentro de P45, sem necessidade de inserir um elo dedutivo novo entre P48 e P46.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P45",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já está absorvida na justificação do próprio P45."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "mal como entidade autónoma",
+  "bloqueio_curto": "A objeção é bloqueada no próprio P45: se o bem deriva da adequação prática ao real, o mal não requer princípio próprio, mas nomeia a falha dessa adequação na ação.",
+  "fragmentos_selecionados_finais": [
+    "F0060_A01_SEG_004",
+    "F0120_SEG_002",
+    "F0067_SEG_003",
+    "F0119_A01_SEG_003"
+  ],
+  "objecoes_bloqueadas_final": [
+    "mal como entidade autónoma"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Não inserir subpasso; manter fecho por densificação local de P45.",
+  "pendencias": []
+}

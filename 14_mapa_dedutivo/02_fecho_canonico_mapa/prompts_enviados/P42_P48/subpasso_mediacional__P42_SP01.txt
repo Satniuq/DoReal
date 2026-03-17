@@ -1,0 +1,955 @@
+Decide se é necessário introduzir um subpasso mediacional para fechar um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o passo indicado.
+Não faças análise global.
+Não cries subpassos decorativos.
+Só aproves um subpasso se sem ele o passo não fechar canonicamente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P42_P48
+PASSO_PAI_ID=P42
+SUBPASSO_ID_SUGERIDO=P42_SP01
+NUMERO_ORDINAL_SUGERIDO=1
+PASSO_ANTERIOR_ID=P40
+PASSO_SEGUINTE_ID=P43
+
+MATERIAIS
+
+[DECISAO_POR_PASSO_CANDIDATA_JSON]
+{
+  "raw": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P42",
+    "numero_final": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "justificacao_expandida_final": "Se, como resulta de P40 e P41, a ação não é indiferente ao real e o dano introduz uma assimetria efetiva, então nem todas as atualizações valem do mesmo modo. Dessa não-indiferença e dessa assimetria não se segue um fim imposto de fora, mas torna-se inteligível uma direção imanente: preservar as continuidades reais de que a ação depende, corrigir desvios que estreitam ou desalinham essas continuidades, e evitar formas de degeneração que empobrecem o campo real de potencialidades. Por isso, a orientação prática pode e deve ser pensada a partir desses vetores inscritos no real, e não a partir de uma normatividade autónoma ou de uma consciência isolada.",
+    "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+    "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+    "porque_o_anterior_nao_basta": "Os passos P40 e P41 mostram a não-indiferença da ação e a assimetria do dano, mas ainda não explicitam que dessas teses decorre uma direção prática imanente inscrita no real.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de teses epistemológicas e ontológicas sobre ação e dano para a determinação ética posterior fica sem mediação e surge como salto dedutivo.",
+    "objecao_letal": "teleologia externa",
+    "bloqueio_curto": "A direção aqui afirmada não impõe um fim externo ao ser; explicita apenas vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "impossibilidade de derivar valor do facto",
+      "direção ontológica como projeção humana",
+      "dever-ser como entidade separada"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A12_SEG_001",
+      "F0067_SEG_001",
+      "F0112_SEG_001",
+      "F0122_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação mediacional sem necessidade de subpasso autónomo.",
+    "pendencias": []
+  },
+  "canonical": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P42_P48",
+    "passo_id": "P42",
+    "numero_final": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "justificacao_minima_suficiente": "Se, como resulta de P40 e P41, a ação não é indiferente ao real e o dano introduz uma assimetria efetiva, então nem todas as atualizações valem do mesmo modo. Dessa não-indiferença e dessa assimetria não se segue um fim imposto de fora, mas torna-se inteligível uma direção imanente: preservar as continuidades reais de que a ação depende, corrigir desvios que estreitam ou desalinham essas continuidades, e evitar formas de degeneração que empobrecem o campo real de potencialidades. Por isso, a orientação prática pode e deve ser pensada a partir desses vetores inscritos no real, e não a partir de uma normatividade autónoma ou de uma consciência isolada.",
+    "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+    "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+    "porque_o_anterior_nao_basta": "Os passos P40 e P41 mostram a não-indiferença da ação e a assimetria do dano, mas ainda não explicitam que dessas teses decorre uma direção prática imanente inscrita no real.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de teses epistemológicas e ontológicas sobre ação e dano para a determinação ética posterior fica sem mediação e surge como salto dedutivo.",
+    "objecao_letal_a_bloquear": "teleologia externa",
+    "bloqueio_curto_da_objecao": "A direção aqui afirmada não impõe um fim externo ao ser; explicita apenas vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0067_SEG_001",
+      "F0112_SEG_001",
+      "F0122_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "impossibilidade de derivar valor do facto",
+      "direção ontológica como projeção humana",
+      "dever-ser como entidade separada"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P42 no corredor P42_P48. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: teleologia externa. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação mediacional sem necessidade de subpasso autónomo."
+    ]
+  }
+}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P42",
+  "numero_final": 42,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+    "P40",
+    "P41"
+  ],
+  "prepara": [
+    "P43"
+  ],
+  "proposicao_canonica_curta": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+  "proposicao_canonica_tecnica": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+  "tese_minima_canonica": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+  "justificacao_minima_canonica": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+  "porque_este_passo_e_necessario": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+  "porque_o_anterior_nao_basta": "Os passos P40, P41 não bastam em conjunto porque ainda não fecham esta passagem específica: A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P43 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "teleologia externa",
+  "tipo_de_necessidade": "etica",
+  "estado_de_fecho": "quase_fechado",
+  "classificacao_funcional": "mediacao_necessaria",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 4.985,
+  "breakdown_score_canonico": {
+    "dependencias": 1.6,
+    "prepara": 0.7,
+    "classificacao": 2.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.18472000000000002,
+    "fragilidade": -0.3,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A12_SEG_001",
+    "F0115_A01_SEG_001",
+    "F0106_SEG_002",
+    "F0067_SEG_001",
+    "F0067_SEG_002",
+    "F0202_SEG_001",
+    "F0122_SEG_001",
+    "F0112_SEG_001",
+    "F0061_SEG_001",
+    "F0176_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "teleologia externa",
+    "arbitrariedade prática",
+    "consciência como fundamento absoluto",
+    "bem desligado da estrutura do ser",
+    "verdade reduzida a operação da consciência isolada",
+    "impossibilidade de derivar valor do facto",
+    "liberdade como ausência de limites",
+    "sujeito descontínuo sem continuidade prática",
+    "direção ontológica como projeção humana",
+    "continuidade irrelevante para o bem",
+    "colapso neutro ou gerador",
+    "indistinção entre ser e bem"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.10).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar direção sem escorregar para teleologia externa rígida."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P42",
+  "numero_original": 42,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "numero_final": 42,
+  "proposicao_final": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+  "proposicao_original": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+  "descricao_curta": "A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração.",
+  "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que se nem tudo vale do mesmo modo, há direção ontológica.; Recebe apoio imediato de P40, P41; e prepara P43.",
+  "depende_de": [
+    "P40",
+    "P41"
+  ],
+  "prepara": [
+    "P43"
+  ],
+  "tese_minima": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+  "justificacao_minima_suficiente": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+  "objecoes_bloqueadas": [
+    "teleologia externa",
+    "arbitrariedade prática",
+    "consciência como fundamento absoluto",
+    "bem desligado da estrutura do ser",
+    "verdade reduzida a operação da consciência isolada",
+    "impossibilidade de derivar valor do facto",
+    "liberdade como ausência de limites",
+    "sujeito descontínuo sem continuidade prática",
+    "direção ontológica como projeção humana",
+    "continuidade irrelevante para o bem",
+    "colapso neutro ou gerador",
+    "indistinção entre ser e bem"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0241_A12_SEG_001",
+    "F0115_A01_SEG_001",
+    "F0106_SEG_002",
+    "F0067_SEG_001",
+    "F0067_SEG_002",
+    "F0202_SEG_001",
+    "F0122_SEG_001",
+    "F0112_SEG_001",
+    "F0061_SEG_001",
+    "F0176_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "mediacao_necessaria",
+  "nucleo": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+  "mediacao_necessaria": [
+    "Explicitar a ponte dedutiva entre P40, P41 e P42.",
+    "Explicitar a passagem de P42 para P43.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "medio",
+  "score_de_inevitabilidade": 0.563,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.588,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": true,
+  "score_promocao_mediacional": 2.309,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.10).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+    "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar direção sem escorregar para teleologia externa rígida."
+  ],
+  "estado_de_fecho_canonico": "quase_fechado",
+  "score_canonico_de_fecho": 4.985,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": true,
+  "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "Os passos P40, P41 não bastam em conjunto porque ainda não fecham esta passagem específica: A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P43 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "teleologia externa",
+  "tipo_de_necessidade": "etica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 7,
+    "fechados": 0,
+    "abertos": 2,
+    "quase_fechados": 5,
+    "subpassos": [
+      "P42",
+      "P47"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {
+      "id": "P42",
+      "score_canonico_de_fecho": 4.985,
+      "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo."
+    }
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 7,
+    "fechados": 0,
+    "quase_fechados": 5,
+    "abertos": 2,
+    "passos_com_subpasso": [
+      "P42",
+      "P47"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P42",
+    "P43",
+    "P47",
+    "P44",
+    "P48",
+    "P45",
+    "P46"
+  ],
+  "proposicao_canonica": {
+    "id": "P42",
+    "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real."
+  },
+  "problema_ainda_aberto": {
+    "id": "P42",
+    "estado_de_fecho": "quase_fechado",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+    "objecao_letal_a_bloquear": "teleologia externa"
+  },
+  "passo": {
+    "id": "P42",
+    "numero_final": 42,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P41"
+    ],
+    "prepara": [
+      "P43"
+    ],
+    "proposicao_canonica_curta": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "proposicao_canonica_tecnica": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "tese_minima_canonica": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+    "justificacao_minima_canonica": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+    "porque_este_passo_e_necessario": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P41 não bastam em conjunto porque ainda não fecham esta passagem específica: A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P43 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "teleologia externa",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "mediacao_necessaria",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 4.985,
+    "breakdown_score_canonico": {
+      "dependencias": 1.6,
+      "prepara": 0.7,
+      "classificacao": 2.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.18472000000000002,
+      "fragilidade": -0.3,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": true,
+    "subpasso_sugerido": "Explicitar por que a assimetria entre correção e dano torna inteligível uma direção ontológica sem apelo moral externo.",
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0241_A12_SEG_001",
+      "F0115_A01_SEG_001",
+      "F0106_SEG_002",
+      "F0067_SEG_001",
+      "F0067_SEG_002",
+      "F0202_SEG_001",
+      "F0122_SEG_001",
+      "F0112_SEG_001",
+      "F0061_SEG_001",
+      "F0176_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "teleologia externa",
+      "arbitrariedade prática",
+      "consciência como fundamento absoluto",
+      "bem desligado da estrutura do ser",
+      "verdade reduzida a operação da consciência isolada",
+      "impossibilidade de derivar valor do facto",
+      "liberdade como ausência de limites",
+      "sujeito descontínuo sem continuidade prática",
+      "direção ontológica como projeção humana",
+      "continuidade irrelevante para o bem",
+      "colapso neutro ou gerador",
+      "indistinção entre ser e bem"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.10).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.29).",
+      "Défice principal do fecho manual: O défice principal é de mediação dedutiva explícita. Falta ainda: Explicitar direção sem escorregar para teleologia externa rígida."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.revisao_por_proposicao[41]",
+        "match": {
+          "proposicao_id": "P42",
+          "numero": 42,
+          "bloco_id": "BLOCO_VI",
+          "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+          "proposicao": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+          "descricao_curta": "A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração.",
+          "depende_de": [
+            "P40",
+            "P41"
+          ],
+          "prepara": [
+            "P43"
+          ],
+          "estado_anterior_no_mapa": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null
+          },
+          "base_dedutiva_existente": {
+            "tese_minima": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+            "justificacao_interna_do_passo": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "orientacao_imanente",
+            "formulacao_filosofico_academica": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar direção sem escorregar para teleologia externa rígida.",
+            "objecoes_tipicas_a_bloquear": [
+              "teleologia externa",
+              "arbitrariedade prática"
+            ],
+            "mediacoes_em_falta_no_mapa": []
+          },
+          "pressao_dos_fragmentos": {
+            "total_fragmentos_que_tocam": 10,
+            "total_origens_que_tocam": 9,
+            "zona_filosofica_dominante": "etica_ontologica",
+            "efeito_principal_dominante": "explicita",
+            "acao_recomendada_dominante": "densificar",
+            "tipo_de_utilidade_dominante": "justificativa",
+            "prioridade_editorial_dominante": "media",
+            "distribuicao_efeitos": {
+              "medeia": 3,
+              "explicita": 7
+            },
+            "distribuicao_acoes": {
+              "densificar": 10
+            },
+            "distribuicao_tipos_relacao": {
+              "apoia_justificacao": 7,
+              "bloqueia_objecao": 1,
+              "toca_indiretamente": 1,
+              "faz_ponte_entre": 1
+            },
+            "distribuicao_graus_relevancia": {
+              "alto": 5,
+              "medio": 3,
+              "baixo": 2
+            },
+            "distribuicao_tipos_utilidade": {
+              "mediacional": 3,
+              "justificativa": 7
+            },
+            "distribuicao_prioridades": {
+              "media": 5,
+              "alta": 5
+            }
+          },
+          "materiais_de_reconstrucao": {
+            "fragmentos_relacionados": [
+              "F0061_SEG_001",
+              "F0067_SEG_001",
+              "F0067_SEG_002",
+              "F0106_SEG_002",
+              "F0112_SEG_001",
+              "F0115_A01_SEG_001",
+              "F0122_SEG_001",
+              "F0176_SEG_001",
+              "F0202_SEG_001",
+              "F0241_A12_SEG_001"
+            ],
+            "origens_relacionadas": [
+              "F0061",
+              "F0067",
+              "F0106",
+              "F0112",
+              "F0115_A01",
+              "F0122",
+              "F0176",
+              "F0202",
+              "F0241_A12"
+            ],
+            "resumos_de_fragmento": [
+              "Desloca o foco fundacional da consciência para uma necessidade ontológica anterior e ensaia ligar potencialidade, direção, bem e verdade.",
+              "Liga círculo, continuidade eu-real, direção ontológica e derivação do bem; serve sobretudo para densificar a passagem da direção ao bem e bloquear a objeção anti-derivacionista.",
+              "Enumera objeções à derivação do bem: questiona direção objetiva, relevância da continuidade, associação entre colapso e mal e distinção entre ser e bem.",
+              "Liga descrição adequada do real à orientação prática: compreender relações reais permite discernir melhor modo de ser, agir, bom e mau.",
+              "Liga continuidade do real, regulação imanente e definição do bem como agir segundo o que o real permite, mas de modo ainda intuitivo.",
+              "Subordina o dever-ser ao ser atual e ao contínuo relacional futuro, recusando tratá-lo como entidade autónoma.",
+              "Recusa a ética como construção arbitrária ou derivação de uma faculdade isolada e esboça que o domínio prático nasce da localidade relacional do agente; o comum vem depois por comunicação.",
+              "Esboça uma função ética de guarda do campo das potencialidades entre seres reflexivos, para que daí emerjam melhores dever-seres e melhores continuidades.",
+              "Critica sistemas estatais e normativos que se legitimam por justificações internas e se desalinham do real, sugerindo também erro de escala quando respostas válidas no círculo próximo são expandidas ao coletivo.",
+              "Ensaia que a direção da liberdade reflexiva só se valida pela maior ou menor proximidade ao real, ligando campo de potencialidades, verdade e bem."
+            ],
+            "teses_principais_dos_fragmentos": [
+              "O melhor modo de ser deve orientar-se pela concretização de potencialidades reais segundo a necessidade ontológica do ser, e não pela consciência tomada isoladamente.",
+              "O bem decorre de uma direção ontológica inscrita no real e tornada operativa pela continuidade limitada da relação entre o ser consciente e o real.",
+              "A derivação ontológica do bem requer defesa adicional porque pode ser contestada na direção do real, na relevância da continuidade, na negatividade do colapso e na distinção entre ser e bem.",
+              "O discernimento ético deriva da compreensão descritiva das relações reais em que se está inscrito, não de impressão externa.",
+              "O bem depende do que o real permite e da continuidade do agir no real, não de uma normatividade autónoma.",
+              "O dever-ser não existe autonomamente; existe como orientação futura no contínuo relacional da vida, pressuposta pelo ser e pelo poder-ser do agente.",
+              "A base da ética deve ser procurada no domínio situado que cada um tem sobre as relações em que está incorporado; a autonomia é local, não exterior nem abstrata.",
+              "A normatividade prática deve operar como guarda e preservação do campo real de potencialidades, não como imposição arbitrária.",
+              "O dever-ser político e institucional só é legítimo se subordinado ao ser e ao poder-ser reais; quando um sistema opera por justificação interna e expansão autojustificada, produz desadequação e erro de escala.",
+              "A orientação final da liberdade reflexiva deve ser validada pela sua maior ou menor adequação ao real."
+            ],
+            "justificacoes_da_associacao": [
+              "Afirma explicitamente uma direção necessária ligada ao campo onde a potencialidade existe.",
+              "O fragmento afirma explicitamente uma direção inscrita no real, ligada à existência do ser consciente.",
+              "O fragmento formula diretamente a objeção de que a direção no real pode ser ilusão humana.",
+              "O fragmento diz que a caracterização das relações permite perceber o melhor modo de ser e agir.",
+              "O fragmento sugere que agir bem é seguir a cadência e permissibilidade do real.",
+              "Ao localizar o dever-ser no futuro relacional, sugere direção da atualização sem a desenvolver plenamente.",
+              "Sugere uma passagem da localidade relacional para orientação prática, mas ainda sem derivação ética fechada.",
+              "O fragmento sugere orientação para melhores continuidades e melhores dever-seres, o que reforça a ideia de direção prática.",
+              "Sustenta que a ação institucional deve orientar-se pelo ser e poder-ser, não por fins autoimpostos.",
+              "O fragmento afirma explicitamente que a direção final da liberdade só pode ser validada pela proximidade ou afastamento do real."
+            ],
+            "o_que_os_fragmentos_acrescentam": [
+              "Uma ponte ainda bruta entre necessidade ontológica, potencialidade e direção prática do bem.",
+              "Acrescenta uma justificação compacta para ligar direção ontológica, continuidade da relação eu-real e identificação do bem.",
+              "Acrescenta o quadro mínimo de objeções que a passagem da ontologia ao bem tem de responder.",
+              "Acrescenta uma passagem curta entre descrição do real e orientação ética, via identificação das relações em que se está inscrito.",
+              "Uma formulação intuitiva da dependência do bem face à permissibilidade real, com continuidade entre processo natural e ação reflexiva.",
+              "Acrescenta uma formulação breve para negar o dever-ser como entidade separada e reinscrevê-lo no processo relacional da vida.",
+              "Acrescenta uma formulação intermédia entre localidade e ética: o domínio prático do agente é relativo às relações em que está incorporado e ao seu alcance nelas.",
+              "Acrescenta a imagem operativa de guarda do campo de potencialidades como função ética do agente reflexivo.",
+              "Exemplo crítico de desvio institucional em que normatividade, critério e ação se autonomizam face ao real e à escala adequada.",
+              "Acrescenta uma formulação intuitiva do critério prático: a liberdade não se valida por coerência interna, mas por aproximação ao real."
+            ],
+            "justificacoes_novas_que_fornecem": [
+              "Sugere que a normatividade e a verdade devem recair sobre o modo como o ser pode realizar potencialidades compatíveis com a sua estrutura.",
+              "Se a relação com o real é contínua, cumulativa e limitada, então a orientação prática não é arbitrária; daí o bem poder ser ancorado no próprio real.",
+              "Não fornece justificação positiva nova; delimita os pontos exatos onde a justificação atual é vulnerável.",
+              "Se o agir ocorre em relações reais caracterizadas, então o discernimento do melhor agir depende de compreender essas relações e a continuidade em que se dão.",
+              "Sugere que a bondade de uma ação se mede pela sua conformidade com a cadência e os limites do real, não por imposição externa.",
+              "A normatividade só faz sentido como orientação futura inscrita numa relação real contínua; por isso não pode ser autónoma face ao ser e ao poder-ser.",
+              "Fornece a ideia de que a ética não emerge de construção arbitrária nem de uma faculdade isolada, mas do domínio situado sobre relações reais e possíveis.",
+              "Mostra que o dever-ser pode ser entendido como derivado da preservação das condições reais de atualização e de continuidade, e não como comando solto.",
+              "Mostra em registo político-institucional como o dever-ser desligado do ser e do poder-ser gera desadequação prática e expansão errada de soluções locais.",
+              "Fornece a intuição de que verdade, bem e direção prática convergem porque todos dependem do grau de adequação ao real."
+            ],
+            "objecoes_que_ajudam_a_bloquear": [
+              "consciência como fundamento absoluto",
+              "bem desligado da estrutura do ser",
+              "verdade reduzida a operação da consciência isolada",
+              "impossibilidade de derivar valor do facto",
+              "liberdade como ausência de limites",
+              "sujeito descontínuo sem continuidade prática",
+              "direção ontológica como projeção humana",
+              "continuidade irrelevante para o bem",
+              "colapso neutro ou gerador",
+              "indistinção entre ser e bem",
+              "alinhamento automático de tudo o que existe com o real",
+              "moralismo extrínseco",
+              "impressionismo ético",
+              "verdade como mera enunciação desligada do real",
+              "autonomia normativa absoluta",
+              "dever-ser como entidade separada",
+              "ideal normativo desligado do real",
+              "construtivismo ético arbitrário",
+              "derivação da ética a partir de uma faculdade isolada",
+              "autonomia ética desligada da localidade"
+            ],
+            "mediacoes_que_fornecem": [
+              "Liga a reinscrição ontológica da consciência e da liberdade situada à emergência de direção ontológica e ao critério inicial do bem.",
+              "Ajuda a ligar liberdade situada e continuidade eu-real à formulação do bem como direção inscrita no real.",
+              "Nao fornece mediacao estrutural; fornece apenas explicitação dialética das objeções ao bloco ético.",
+              "Liga submissão descritiva ao real com direção prática e com a noção de bem como preservação adequada da relação.",
+              "Fornece mediação fraca entre descrição da continuidade do real e definição ética do bem.",
+              "Faz ponte fraca entre a descrição do ser atual e a orientação normativa futura, sem exigir passo novo.",
+              "Liga a tese da localidade do agente à tese da responsabilidade e da orientação prática situada, sem ainda criar um passo autónomo indispensável.",
+              "Fornece mediação fraca entre campo de potencialidades e dever-ser, mas nao fornece mediacao estrutural indispensavel.",
+              "Liga a derivação ontológica do dever-ser à crítica de sistemas institucionais e ao problema da escala na aplicação prática.",
+              "Faz ponte entre liberdade situada, campo de potencialidades e critério ético de direção pelo real."
+            ],
+            "conceitos_ou_distincoes_novas": [
+              "necessidade ontológica de raiz",
+              "critério do melhor modo de ser",
+              "direção necessária do campo de potencialidade",
+              "significado da vida contingente ao círculo",
+              "continuidade cumulativa da relação eu-real",
+              "distinção entre ser e bem",
+              "colapso neutro ou gerador",
+              "facto nao coisa",
+              "preservacao da relacao",
+              "dever-ser como futuro relacional",
+              "diferença entre dever-ser autónomo e dever-ser inscrito na relação",
+              "autonomia no sentido da localidade",
+              "domínio situado sobre relações incorporadas",
+              "papel de porteiro do campo de potencialidades",
+              "justificação interna vs alinhamento com o real",
+              "adequação local vs erro de escala expandido",
+              "validação da liberdade pela proximidade ao real",
+              "diferença entre coerência animal e validação reflexiva"
+            ],
+            "propostas_de_nova_formulacao": [
+              "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada.",
+              "O bem pode ser formulado como a orientação adequada da atualização do ser reflexivo numa direção ontológica inscrita no real e tornada legível pela continuidade limitada da relação eu-real.",
+              "Na derivação do bem e do mal, convém explicitar que nem toda atualização existente está por isso mesmo alinhada com o real em sentido normativo, e que a direção ontológica não pode ser tomada como pressuposto não defendido.",
+              "O discernimento do bom e do melhor agir decorre da compreensão das relações reais e da continuidade em que a ação se inscreve.",
+              "O bem pode ser formulado como agir segundo as possibilidades e limites que o real admite, tanto no plano da continuidade natural como no plano da ação reflexiva.",
+              "O dever-ser não designa uma ordem autónoma, mas a orientação futura da atualização possível de um ser reflexivo no contínuo relacional do real.",
+              "A responsabilidade prática do agente mede-se pelo domínio situado que ele tem sobre as relações em que está incorporado e sobre aquelas em que pode efetivamente intervir.",
+              "O dever-ser prático consiste em orientar a ação de modo a preservar e não estreitar o campo real de potencialidades de que dependem as continuidades futuras.",
+              "O dever-ser prático e institucional só é legítimo enquanto derivado do ser e do poder-ser reais, sob escala e campo adequados; desligado disso, degenera em justificação interna e desadequação.",
+              "A direção da liberdade reflexiva não se valida por mera coerência interna, mas pelo grau em que a atualização se aproxima ou se afasta do real."
+            ],
+            "propostas_de_novo_passo": [],
+            "entre_que_passos_deveria_entrar": [],
+            "observacoes_finais": [
+              "Útil como mediação e justificação, mas demasiado ensaístico para alterar a arquitetura do mapa.",
+              "Impacto real mas não arquitetónico: densifica sobretudo P42-P44 e ajuda defensivamente P47.",
+              "Impacto real no bloco P42-P45 como pressão dialética, sem alteração da arquitetura.",
+              "Útil sobretudo para densificar a ponte entre verdade submetida ao real e ética como adequação da ação.",
+              "Útil para reforçar a justificação de P44 e da derivação anti-autonomista, mas não estabiliza sozinho a passagem dedutiva.",
+              "Útil para densificar P47-P48, mas a formulação atual é elíptica e pode soar circular sem reescrita.",
+              "Útil como ponte entre localidade e responsabilidade; ainda ensaístico e insuficiente para alterar a arquitetura.",
+              "Útil para densificar a justificação ética, mas ainda oral e instável; não altera a arquitetura do mapa.",
+              "Fragmento aproveitável como reforço crítico-aplicado, mas demasiado instável para impacto estrutural forte.",
+              "Útil para reforçar a justificação de P42-P44 e preparar P47, mas ainda demasiado oral e instável para alterar a arquitetura."
+            ]
+          },
+          "diagnostico_estrutural": {
+            "estabilidade": "estavel_mas_a_densificar",
+            "necessidade_principal": "explicitar_mediacoes",
+            "acao_estrutural_recomendada": "densificar",
+            "indicios_de_reescrita": 0,
+            "indicios_de_divisao": 0,
+            "indicios_de_passo_intermedio": 0,
+            "necessita_revisao_humana_em": 8,
+            "diagnostico_textual": "A proposição P42 foi tocada por 10 fragmento(s). A pressão dominante vem da zona etica_ontologica. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+          },
+          "nova_formulacao_provisoria": "A direção prática deve ser pensada a partir do campo real de potencialidades admissíveis pelo ser, e não a partir de uma consciência autonomizada."
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.blocos[5].proposicoes[4]",
+        "match": {
+          "id": "P42",
+          "numero": 42,
+          "proposicao": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+          "descricao_curta": "A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração.",
+          "depende_de": [
+            "P40",
+            "P41"
+          ],
+          "prepara": [
+            "P43"
+          ],
+          "justificacao": {
+            "tese_minima": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+            "justificacao_interna_do_passo": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "orientacao_imanente"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar direção sem escorregar para teleologia externa rígida.",
+            "objecoes_tipicas_a_bloquear": [
+              "teleologia externa",
+              "arbitrariedade prática"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$[75].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[1]",
+        "match": {
+          "proposicao_id": "P42",
+          "numero": 42,
+          "proposicao_resumida": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+          "grau_de_relevancia": "alto",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "Afirma explicitamente uma direção necessária ligada ao campo onde a potencialidade existe."
+        }
+      },
+      {
+        "path": "$[100].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[0]",
+        "match": {
+          "proposicao_id": "P42",
+          "numero": 42,
+          "proposicao_resumida": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+          "grau_de_relevancia": "alto",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "O fragmento afirma explicitamente uma direção inscrita no real, ligada à existência do ser consciente."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Decide, para o passo P42 no corredor P42_P48:
+1. se entra subpasso;
+2. qual a formulação do subpasso, se entrar;
+3. onde entra na cadeia;
+4. que função dedutiva cumpre.
+
+CRITÉRIO DE APROVAÇÃO DO SUBPASSO
+
+Aprova um subpasso apenas quando:
+- existe um salto real que não fica resolvido por simples reformulação do passo;
+- há uma mediação indispensável entre o anterior e o seguinte;
+- há um pressuposto necessário ainda implícito;
+- há uma distinção sem a qual a inferência falha;
+- há uma objeção letal que só pode ser bloqueada com explicitação intermédia.
+
+Rejeita o subpasso quando:
+- a lacuna pode ser resolvida dentro do próprio passo;
+- a mediação seria redundante;
+- a formulação do passo já fecha com justificação suficiente;
+- o subpasso apenas repete o passo pai com outras palavras.
+
+Adia apenas quando os materiais não bastam para aprovar nem rejeitar com segurança.
+
+REGRAS
+
+- Se entra subpasso=false, não inventes formulação nem localização.
+- Se entra subpasso=true, a formulação do subpasso deve ser mínima, precisa e funcional.
+- A posição na cadeia deve indicar exatamente onde o subpasso entra.
+- A função dedutiva deve dizer o que o subpasso faz na inferência, não apenas o tema.
+- Usa apenas ids de fragmentos presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P42",
+  "subpasso_id": "P42_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": true,
+  "decisao_subpasso": "aprovado|rejeitado|adiado",
+  "entra_subpasso": true,
+  "justificacao_da_decisao": "string",
+  "formulacao_subpasso": "string ou null",
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo|entre_passos|ponte_mediacional|distincao_analitica|explicitacao_de_pressuposto",
+    "ancorado_no_passo_id": "P42",
+    "entra_apos_passo_id": "P40 ou null",
+    "entra_antes_de_passo_id": "P43 ou null",
+    "justificacao_de_insercao": "string"
+  },
+  "funcao_dedutiva": "string ou null",
+  "justificacao_minima_suficiente": "string ou null",
+  "ponte_entrada": "string ou null",
+  "ponte_saida": "string ou null",
+  "objecao_letal_a_bloquear": "string ou null",
+  "bloqueio_curto": "string ou null",
+  "fragmentos_selecionados_finais": ["F..."],
+  "objecoes_bloqueadas_final": ["string"],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estatuto_final_no_mapa": "inserido_no_mapa|nao_inserido|pendente",
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "decisao_subpasso"="aprovado", então:
+  - "entra_subpasso"=true;
+  - "formulacao_subpasso" não pode ser null;
+  - "posicao_na_cadeia" não pode ser null;
+  - "funcao_dedutiva" não pode ser null;
+  - "estatuto_final_no_mapa"="inserido_no_mapa".
+- Se "decisao_subpasso"="rejeitado", então:
+  - "entra_subpasso"=false;
+  - "formulacao_subpasso"=null;
+  - "funcao_dedutiva"=null;
+  - "estatuto_final_no_mapa"="nao_inserido".
+- Se "decisao_subpasso"="adiado", então:
+  - "estatuto_final_no_mapa"="pendente";
+  - "pendencias" deve listar o que falta.
+- "necessidade_detectada" deve refletir se a necessidade existe mesmo, independentemente de haver aprovação imediata.
+- "fragmentos_selecionados_finais" deve conter apenas fragmentos realmente usados.
+- "nota_editorial_final" deve ser uma nota curta, operacional e local.

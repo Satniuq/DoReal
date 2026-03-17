@@ -1,0 +1,57 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P25_P30",
+  "passo_id": "P25",
+  "numero_final": 25,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P24"
+  ],
+  "prepara": [
+    "P26"
+  ],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "A apreensão é a relação situada e originária de contacto com o real por parte de um ente localizado.",
+  "justificacao_expandida_final": "Dado P24, o humano não comparece como instância exterior ao real, mas como ente nele situado e localizado. Nessa condição, o seu acesso inicial ao real não precisa de ser construído por representação ou interpretação prévias: há já um contacto situado com o que é real. A esse contacto originário chama-se apreensão. Assim, dizer que o ser humano apreende é dizer que, por ser um ente localizado, entra originariamente em relação com o real antes de qualquer tematização reflexiva.",
+  "ponte_entrada": "A partir de P24, uma vez reconhecido o humano como ente localizado no real, torna-se necessário explicitar a forma mínima dessa inserção cognoscitiva: ele apreende o real em contacto situado.",
+  "ponte_saida": "Se a apreensão é já contacto situado e originário com o real, então P26 pode avançar a partir desse contacto para a explicitação seguinte sem depender de um salto representacional.",
+  "porque_o_anterior_nao_basta": "P24 não basta porque ainda não explicita que a relação do ente localizado com o real se dá como apreensão, isto é, como contacto situado e originário.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P24 para P26 perde a mediação que transforma a mera localização do humano no real numa relação efetiva de contacto com ele, produzindo um salto dedutivo.",
+  "objecao_letal": "representacionalismo originário",
+  "bloqueio_curto": "A apreensão não é uma imagem ou mediação representacional primeira, mas o próprio contacto situado e originário de um ente localizado com o real.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "representacionalismo originário",
+    "real como exterior ao sujeito",
+    "dualismo extramundano da consciência",
+    "consciência como limite absoluto do real",
+    "representacionalismo que esquece a inscrição do humano no real",
+    "ponto de vista neutro ou exterior ao real",
+    "tratamento da consciência sem condição de enquadramento",
+    "dualismo extramundano",
+    "consciência como instância soberana"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0205_SEG_001",
+    "F0241_A25_SEG_002",
+    "F0241_A24_SEG_003"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../impacto_fragmentos_no_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da formulação e explicitação do carácter pré-representacional da apreensão.",
+  "pendencias": []
+}

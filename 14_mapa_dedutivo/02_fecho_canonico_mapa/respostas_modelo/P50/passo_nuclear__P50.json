@@ -1,0 +1,227 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P50",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:21:23+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P50",
+    "passo_id": "P50",
+    "numero_final": 50,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P24",
+      "P25",
+      "P26",
+      "P27",
+      "P28",
+      "P29",
+      "P47",
+      "P48",
+      "P49"
+    ],
+    "prepara": [
+      "P51"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+    "justificacao_expandida_final": "Dos passos anteriores já resulta que a normatividade legítima não pode autonomizar-se do real, que o dever-ser deve derivar do ser e do poder-ser, e que o campo ético relevante é o do ser consciente e reflexivo capaz de verdade, erro, correção e orientação prática. Sendo esse ser também vulnerável e situado, o seu modo de existir não pode ser tratado como material indiferente para prescrições, instituições ou usos instrumentais. Por isso, o seu próprio estatuto ontológico-reflexivo impõe um limite normativo forte às práticas que o atingem: esse limite é o que aqui se chama dignidade. Assim, a dignidade não é convenção acrescentada de fora, mas expressão normativa do estatuto real do ser reflexivo.",
+    "ponte_entrada": "Se, como o passo anterior já deixou preparado, o dever-ser legítimo deriva do real e da condição reflexiva do agente, então importa explicitar qual é o limite normativo forte que decorre desse estatuto: dignidade.",
+    "ponte_saida": "Uma vez fixado que a dignidade é o limite normativo forte inscrito no estatuto do ser reflexivo real, fica preparada a passagem seguinte para determinar as consequências normativas que daí decorrem em P51.",
+    "porque_o_anterior_nao_basta": "Os passos P24, P25, P26, P27, P28, P29, P47, P48 e P49 mostram a subordinação da normatividade ao real e caracterizam o ser reflexivo, mas ainda não explicitam que desse estatuto resulta precisamente um limite normativo forte chamado dignidade.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a transição da caracterização ontológico-reflexiva do agente para as consequências éticas seguintes fica sem mediação explícita e P51 aparece como salto dedutivo.",
+    "objecao_letal": "dignidade como puro convencionalismo",
+    "bloqueio_curto": "Se a dignidade fosse mera convenção, poderia variar apenas com instituições ou valores locais; mas aqui ela decorre do estatuto real do ser reflexivo, vulnerável, situado e capaz de orientação, pelo que funciona como limite normativo anterior à mera convenção.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "dignidade como puro convencionalismo",
+      "coerentismo institucional",
+      "positivismo normativo desligado do real",
+      "autonomia normativa absoluta",
+      "convencionalismo axiológico",
+      "valor social como entidade autónoma",
+      "uso da dignidade como licença subjetiva",
+      "justificação prática contra o real",
+      "moralismo desligado do real",
+      "resposta ética fundada apenas em coerência interna"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0024_SEG_001",
+      "F0063_A01_SEG_003",
+      "F0088_A02_SEG_003",
+      "F0089_SEG_002",
+      "F0121_A02_SEG_002",
+      "F0241_A06_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da mediação, sem necessidade de subpasso.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P50",
+    "passo_id": "P50",
+    "numero_final": 50,
+    "bloco_id": "BLOCO_VII",
+    "bloco_titulo": "Fecho ético",
+    "depende_de": [
+      "P24",
+      "P25",
+      "P26",
+      "P27",
+      "P28",
+      "P29",
+      "P47",
+      "P48",
+      "P49"
+    ],
+    "prepara": [
+      "P51"
+    ],
+    "estado_inicial_do_passo": "quase_fechado",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+    "justificacao_minima_suficiente": "Dos passos anteriores já resulta que a normatividade legítima não pode autonomizar-se do real, que o dever-ser deve derivar do ser e do poder-ser, e que o campo ético relevante é o do ser consciente e reflexivo capaz de verdade, erro, correção e orientação prática. Sendo esse ser também vulnerável e situado, o seu modo de existir não pode ser tratado como material indiferente para prescrições, instituições ou usos instrumentais. Por isso, o seu próprio estatuto ontológico-reflexivo impõe um limite normativo forte às práticas que o atingem: esse limite é o que aqui se chama dignidade. Assim, a dignidade não é convenção acrescentada de fora, mas expressão normativa do estatuto real do ser reflexivo.",
+    "ponte_entrada": "Se, como o passo anterior já deixou preparado, o dever-ser legítimo deriva do real e da condição reflexiva do agente, então importa explicitar qual é o limite normativo forte que decorre desse estatuto: dignidade.",
+    "ponte_saida": "Uma vez fixado que a dignidade é o limite normativo forte inscrito no estatuto do ser reflexivo real, fica preparada a passagem seguinte para determinar as consequências normativas que daí decorrem em P51.",
+    "porque_o_anterior_nao_basta": "Os passos P24, P25, P26, P27, P28, P29, P47, P48 e P49 mostram a subordinação da normatividade ao real e caracterizam o ser reflexivo, mas ainda não explicitam que desse estatuto resulta precisamente um limite normativo forte chamado dignidade.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a transição da caracterização ontológico-reflexiva do agente para as consequências éticas seguintes fica sem mediação explícita e P51 aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "dignidade como puro convencionalismo",
+    "bloqueio_curto_da_objecao": "Se a dignidade fosse mera convenção, poderia variar apenas com instituições ou valores locais; mas aqui ela decorre do estatuto real do ser reflexivo, vulnerável, situado e capaz de orientação, pelo que funciona como limite normativo anterior à mera convenção.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0024_SEG_001",
+      "F0063_A01_SEG_003",
+      "F0088_A02_SEG_003",
+      "F0089_SEG_002",
+      "F0121_A02_SEG_002",
+      "F0241_A06_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dignidade como puro convencionalismo",
+      "coerentismo institucional",
+      "positivismo normativo desligado do real",
+      "autonomia normativa absoluta",
+      "convencionalismo axiológico",
+      "valor social como entidade autónoma",
+      "uso da dignidade como licença subjetiva",
+      "justificação prática contra o real",
+      "moralismo desligado do real",
+      "resposta ética fundada apenas em coerência interna"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P50.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P50 no corredor P50. A formulação final responde ao défice identificado em quase_fechado. A objeção letal bloqueada é: dignidade como puro convencionalismo. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da mediação, sem necessidade de subpasso."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0edc16077f2333df0069b99b87a558819590716dd4d240cdef",
+      "object": "response",
+      "created_at": 1773771655,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771670,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0edc16077f2333df0069b99b883e1481959e13af9ae1034fdd",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P50\",\n  \"passo_id\": \"P50\",\n  \"numero_final\": 50,\n  \"bloco_id\": \"BLOCO_VII\",\n  \"bloco_titulo\": \"Fecho ético\",\n  \"depende_de\": [\n    \"P24\",\n    \"P25\",\n    \"P26\",\n    \"P27\",\n    \"P28\",\n    \"P29\",\n    \"P47\",\n    \"P48\",\n    \"P49\"\n  ],\n  \"prepara\": [\n    \"P51\"\n  ],\n  \"estado_inicial_do_passo\": \"quase_fechado\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.\",\n  \"justificacao_expandida_final\": \"Dos passos anteriores já resulta que a normatividade legítima não pode autonomizar-se do real, que o dever-ser deve derivar do ser e do poder-ser, e que o campo ético relevante é o do ser consciente e reflexivo capaz de verdade, erro, correção e orientação prática. Sendo esse ser também vulnerável e situado, o seu modo de existir não pode ser tratado como material indiferente para prescrições, instituições ou usos instrumentais. Por isso, o seu próprio estatuto ontológico-reflexivo impõe um limite normativo forte às práticas que o atingem: esse limite é o que aqui se chama dignidade. Assim, a dignidade não é convenção acrescentada de fora, mas expressão normativa do estatuto real do ser reflexivo.\",\n  \"ponte_entrada\": \"Se, como o passo anterior já deixou preparado, o dever-ser legítimo deriva do real e da condição reflexiva do agente, então importa explicitar qual é o limite normativo forte que decorre desse estatuto: dignidade.\",\n  \"ponte_saida\": \"Uma vez fixado que a dignidade é o limite normativo forte inscrito no estatuto do ser reflexivo real, fica preparada a passagem seguinte para determinar as consequências normativas que daí decorrem em P51.\",\n  \"porque_o_anterior_nao_basta\": \"Os passos P24, P25, P26, P27, P28, P29, P47, P48 e P49 mostram a subordinação da normatividade ao real e caracterizam o ser reflexivo, mas ainda não explicitam que desse estatuto resulta precisamente um limite normativo forte chamado dignidade.\",\n  \"porque_nao_pode_ser_suprimido\": \"Sem este passo, a transição da caracterização ontológico-reflexiva do agente para as consequências éticas seguintes fica sem mediação explícita e P51 aparece como salto dedutivo.\",\n  \"objecao_letal\": \"dignidade como puro convencionalismo\",\n  \"bloqueio_curto\": \"Se a dignidade fosse mera convenção, poderia variar apenas com instituições ou valores locais; mas aqui ela decorre do estatuto real do ser reflexivo, vulnerável, situado e capaz de orientação, pelo que funciona como limite normativo anterior à mera convenção.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"dignidade como puro convencionalismo\",\n    \"coerentismo institucional\",\n    \"positivismo normativo desligado do real\",\n    \"autonomia normativa absoluta\",\n    \"convencionalismo axiológico\",\n    \"valor social como entidade autónoma\",\n    \"uso da dignidade como licença subjetiva\",\n    \"justificação prática contra o real\",\n    \"moralismo desligado do real\",\n    \"resposta ética fundada apenas em coerência interna\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0024_SEG_001\",\n    \"F0063_A01_SEG_003\",\n    \"F0088_A02_SEG_003\",\n    \"F0089_SEG_002\",\n    \"F0121_A02_SEG_002\",\n    \"F0241_A06_SEG_001\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação da mediação, sem necessidade de subpasso.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 12251,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1052,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13303
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P50.raw.txt"
+}

@@ -1,0 +1,311 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "schema_decisao_passo.json",
+  "title": "Schema de decisão canónica por passo",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "tipo_registo",
+    "corredor",
+    "passo_id",
+    "numero_final",
+    "bloco_id",
+    "bloco_titulo",
+    "depende_de",
+    "prepara",
+    "estado_inicial_do_passo",
+    "tipos_de_fragilidade_iniciais",
+    "decisao_editorial",
+    "formulacao_canonica_final",
+    "justificacao_minima_suficiente",
+    "ponte_entrada",
+    "ponte_saida",
+    "porque_o_anterior_nao_basta",
+    "porque_nao_pode_ser_suprimido",
+    "objecao_letal_a_bloquear",
+    "bloqueio_curto_da_objecao",
+    "precisa_de_subpasso",
+    "subpassos_aprovados_ids",
+    "fragmentos_de_apoio_final",
+    "objecoes_bloqueadas_final",
+    "fontes_utilizadas",
+    "estado_final_do_passo",
+    "reabrir_em_arbitragem_de_corredor",
+    "justificacao_da_decisao",
+    "observacoes_editoriais"
+  ],
+  "$defs": {
+    "passo_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}$"
+    },
+    "subpasso_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}_SP\\d{2}$"
+    },
+    "corredor_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}(?:_P\\d{2})?$"
+    },
+    "estado_de_fecho": {
+      "type": "string",
+      "enum": [
+        "aberto",
+        "quase_fechado",
+        "fechado"
+      ]
+    },
+    "tipo_fragilidade": {
+      "type": "string",
+      "enum": [
+        "formulacao",
+        "justificacao",
+        "mediacao",
+        "residual"
+      ]
+    },
+    "caminho_relativo": {
+      "type": "string",
+      "pattern": "^(?:\\.?\\.?/)?[A-Za-z0-9_./-]+\\.(?:json|txt|md)$"
+    },
+    "fragmento_id": {
+      "type": "string",
+      "pattern": "^F[0-9A-Z_]+$"
+    }
+  },
+  "properties": {
+    "tipo_registo": {
+      "const": "decisao_passo"
+    },
+    "corredor": {
+      "$ref": "#/$defs/corredor_id"
+    },
+    "passo_id": {
+      "$ref": "#/$defs/passo_id"
+    },
+    "numero_final": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "bloco_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "bloco_titulo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "depende_de": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/passo_id"
+      },
+      "uniqueItems": true
+    },
+    "prepara": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/passo_id"
+      },
+      "uniqueItems": true
+    },
+    "estado_inicial_do_passo": {
+      "$ref": "#/$defs/estado_de_fecho"
+    },
+    "tipos_de_fragilidade_iniciais": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/tipo_fragilidade"
+      },
+      "uniqueItems": true
+    },
+    "decisao_editorial": {
+      "type": "string",
+      "enum": [
+        "manter",
+        "densificar",
+        "reformular",
+        "introduzir_subpasso",
+        "reabrir"
+      ]
+    },
+    "formulacao_canonica_final": {
+      "type": "string",
+      "minLength": 1
+    },
+    "justificacao_minima_suficiente": {
+      "type": "string",
+      "minLength": 1
+    },
+    "ponte_entrada": {
+      "type": "string",
+      "minLength": 1
+    },
+    "ponte_saida": {
+      "type": "string",
+      "minLength": 1
+    },
+    "porque_o_anterior_nao_basta": {
+      "type": "string",
+      "minLength": 1
+    },
+    "porque_nao_pode_ser_suprimido": {
+      "type": "string",
+      "minLength": 1
+    },
+    "objecao_letal_a_bloquear": {
+      "type": "string",
+      "minLength": 1
+    },
+    "bloqueio_curto_da_objecao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "precisa_de_subpasso": {
+      "type": "boolean"
+    },
+    "subpassos_aprovados_ids": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/subpasso_id"
+      },
+      "uniqueItems": true
+    },
+    "fragmentos_de_apoio_final": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/fragmento_id"
+      },
+      "uniqueItems": true
+    },
+    "objecoes_bloqueadas_final": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "fontes_utilizadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/caminho_relativo"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "estado_final_do_passo": {
+      "$ref": "#/$defs/estado_de_fecho"
+    },
+    "reabrir_em_arbitragem_de_corredor": {
+      "type": "boolean"
+    },
+    "justificacao_da_decisao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "observacoes_editoriais": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "precisa_de_subpasso": {
+            "const": true
+          }
+        },
+        "required": [
+          "precisa_de_subpasso"
+        ]
+      },
+      "then": {
+        "properties": {
+          "subpassos_aprovados_ids": {
+            "minItems": 1
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "subpassos_aprovados_ids": {
+            "maxItems": 0
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "estado_final_do_passo": {
+            "const": "fechado"
+          }
+        },
+        "required": [
+          "estado_final_do_passo"
+        ]
+      },
+      "then": {
+        "properties": {
+          "justificacao_minima_suficiente": {
+            "minLength": 1
+          },
+          "ponte_entrada": {
+            "minLength": 1
+          },
+          "ponte_saida": {
+            "minLength": 1
+          },
+          "bloqueio_curto_da_objecao": {
+            "minLength": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "decisao_editorial": {
+            "const": "introduzir_subpasso"
+          }
+        },
+        "required": [
+          "decisao_editorial"
+        ]
+      },
+      "then": {
+        "properties": {
+          "precisa_de_subpasso": {
+            "const": true
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "decisao_editorial": {
+            "const": "reabrir"
+          }
+        },
+        "required": [
+          "decisao_editorial"
+        ]
+      },
+      "then": {
+        "properties": {
+          "reabrir_em_arbitragem_de_corredor": {
+            "const": true
+          }
+        }
+      }
+    }
+  ]
+}

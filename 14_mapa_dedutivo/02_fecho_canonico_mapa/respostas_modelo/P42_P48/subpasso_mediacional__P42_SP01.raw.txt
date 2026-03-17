@@ -1,0 +1,50 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P42",
+  "subpasso_id": "P42_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Embora os materiais intermédios assinalem fragilidade mediacional e sugiram um subpasso, a decisão canónica final para P42 já integra essa mediação no próprio passo por densificação suficiente: da não-indiferença da ação ao real e da assimetria do dano passa-se explicitamente à inteligibilidade de uma direção imanente de preservação, correção e não-degeneração, bloqueando ainda a objeção de teleologia externa. Não resta, portanto, um salto real que exija subpasso autónomo para fechar canonicamente P42.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P42",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não há inserção: a mediação necessária foi absorvida pela formulação e justificação final do próprio P42."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "A justificação final de P42 já explicita que, se a ação não é indiferente ao real e o dano introduz assimetria, então nem todas as atualizações valem do mesmo modo e torna-se inteligível uma direção imanente de preservação, correção e não-degeneração, sem apelo a fim externo.",
+  "ponte_entrada": "De P40 e P41 recebe-se que a ação tem incidência real e que o dano não é simétrico ao seu contrário; daí segue-se que a prática não pode permanecer axiologicamente neutra.",
+  "ponte_saida": "Uma vez admitido que a ação tem direção imanente de preservação, correção e não-degeneração, torna-se possível explicitar no passo seguinte o critério mais determinado dessa orientação prática.",
+  "objecao_letal_a_bloquear": "teleologia externa",
+  "bloqueio_curto": "A direção afirmada em P42 não impõe um fim externo ao ser; apenas torna explícitos vetores imanentes legíveis na assimetria entre preservação e dano dentro do próprio real.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A12_SEG_001",
+    "F0067_SEG_001",
+    "F0112_SEG_001",
+    "F0122_SEG_001",
+    "F0176_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "teleologia externa",
+    "arbitrariedade prática",
+    "consciência como fundamento absoluto",
+    "bem desligado da estrutura do ser",
+    "impossibilidade de derivar valor do facto",
+    "direção ontológica como projeção humana",
+    "dever-ser como entidade separada"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso recusado: fecho local obtido por densificação interna de P42.",
+  "pendencias": []
+}

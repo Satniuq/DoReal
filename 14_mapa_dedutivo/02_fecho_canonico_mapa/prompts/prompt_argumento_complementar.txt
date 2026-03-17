@@ -1,0 +1,105 @@
+Produz um argumento complementar local para reforçar o fecho canónico de um passo ou subpasso.
+
+Trabalha apenas sobre o alvo indicado.
+Não faças análise global.
+Não substituas a arquitetura do mapa.
+Não cries um novo passo se um reforço local bastar.
+O objetivo é fornecer o reforço mínimo suficiente para resolver uma insuficiência localizada.
+
+PLACEHOLDERS
+
+CORREDOR_ID={{CORREDOR_ID}}
+ALVO_TIPO={{ALVO_TIPO}}
+ALVO_ID={{ALVO_ID}}
+
+MATERIAIS
+
+[DECISAO_ALVO_JSON]
+{{DECISAO_ALVO_JSON}}
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{{MATRIZ_INEVITABILIDADES_RECORTE_JSON}}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{{MAPA_PRECANONICO_RECORTE_JSON}}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{{RELATORIO_FECHO_RECORTE_JSON}}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{{DOSSIER_CORREDOR_RECORTE_JSON}}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{{INPUTS_SECUNDARIOS_RELEVANTES_JSON}}
+
+TAREFA
+
+Para o alvo {{ALVO_TIPO}} {{ALVO_ID}} no corredor {{CORREDOR_ID}}, decide se é necessário um argumento complementar local e, se for, produz esse argumento de modo a:
+1. explicitar a premissa em falta;
+2. fechar uma ligação inferencial curta;
+3. bloquear uma objeção residual;
+4. reforçar a justificação mínima sem abrir nova análise.
+
+TIPOS DE REFORÇO ADMISSÍVEIS
+
+- distincao
+- pressuposto_implicito
+- ponte_inferencial
+- bloqueio_de_objecao
+- densificacao_da_justificacao
+
+REGRAS
+
+- Escolhe apenas um tipo de reforço principal.
+- O argumento complementar deve ser curto, explícito e diretamente integrável.
+- Não transformes o argumento complementar num subpasso, a menos que os materiais o imponham claramente.
+- Se o reforço não for necessário, diz isso de forma estruturada.
+- Usa apenas ids de fragmentos realmente presentes nos materiais.
+- Não escrevas texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "argumento_complementar",
+  "corredor": "{{CORREDOR_ID}}",
+  "alvo_tipo": "{{ALVO_TIPO}}",
+  "alvo_id": "{{ALVO_ID}}",
+  "necessidade_de_reforco": true,
+  "tipo_de_reforco": "distincao|pressuposto_implicito|ponte_inferencial|bloqueio_de_objecao|densificacao_da_justificacao|null",
+  "problema_local_a_corrigir": "string",
+  "argumento_complementar": "string ou null",
+  "justificacao_do_argumento": "string",
+  "premissas_operativas": ["string"],
+  "inferencias_minimas": ["string"],
+  "objecao_alvo": "string ou null",
+  "bloqueio_resultante": "string ou null",
+  "integracao_sugerida": {
+    "inserir_em": "formulacao_v2_final|justificacao_expandida_final|ponte_entrada|ponte_saida|bloqueio_curto|formulacao_subpasso|justificacao_minima_suficiente",
+    "texto_de_integracao": "string"
+  },
+  "fragmentos_selecionados_finais": ["F..."],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- Se "necessidade_de_reforco"=false, então:
+  - "tipo_de_reforco"=null;
+  - "argumento_complementar"=null;
+  - "objecao_alvo"=null ou descrição breve do falso problema;
+  - "bloqueio_resultante"=null;
+  - "pendencias" deve ser [] ou listar apenas insuficiências externas ao alvo.
+- Se "necessidade_de_reforco"=true, então:
+  - "tipo_de_reforco" não pode ser null;
+  - "argumento_complementar" não pode ser null;
+  - "integracao_sugerida" tem de indicar exatamente onde o reforço entra.
+- "problema_local_a_corrigir" deve nomear a insuficiência concreta.
+- "premissas_operativas" deve listar só as premissas realmente mobilizadas.
+- "inferencias_minimas" deve listar só os passos inferenciais necessários.
+- "fragmentos_selecionados_finais" deve listar apenas fragmentos usados no reforço.
+- "nota_editorial_final" deve ser curta e operacional.

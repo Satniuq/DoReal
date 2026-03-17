@@ -1,0 +1,259 @@
+2026-03-17 18:01:50 | INFO | A iniciar orquestrador do fecho canónico.
+2026-03-17 18:01:50 | INFO | Manifesto carregado: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json
+2026-03-17 18:01:50 | INFO | Ordem de execução: P33_P37, P25_P30, P42_P48, P50
+2026-03-17 18:01:50 | INFO | A processar corredor P33_P37 com 5 passo(s).
+2026-03-17 18:01:50 | INFO | A processar passo P33 no corredor P33_P37.
+2026-03-17 18:01:50 | ERROR | Execução interrompida por erro: Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1930, in <module>
+    main()
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1908, in main
+    step_decisions, substep_decisions, arbitration = process_corridor(runtime, indices, args, corridor)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1776, in process_corridor
+    step_decision, substep_decision = process_step(runtime, indices, args, corridor, sequence, step_id)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1686, in process_step
+    raw_text, raw_json, api_meta, mode = execute_stage(
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 877, in execute_stage
+    raw_text, api_response = call_model_api(prompt_text, args)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 744, in call_model_api
+    require(bool(api_key), "Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.")
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 212, in require
+    raise ValidationError(message)
+ValidationError: Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.
+2026-03-17 18:04:59 | INFO | A iniciar orquestrador do fecho canónico.
+2026-03-17 18:04:59 | INFO | Manifesto carregado: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json
+2026-03-17 18:04:59 | INFO | Ordem de execução: P33_P37, P25_P30, P42_P48, P50
+2026-03-17 18:04:59 | INFO | A processar corredor P33_P37 com 5 passo(s).
+2026-03-17 18:04:59 | INFO | A processar passo P33 no corredor P33_P37.
+2026-03-17 18:04:59 | ERROR | Execução interrompida por erro: Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1930, in <module>
+    main()
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1908, in main
+    step_decisions, substep_decisions, arbitration = process_corridor(runtime, indices, args, corridor)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1776, in process_corridor
+    step_decision, substep_decision = process_step(runtime, indices, args, corridor, sequence, step_id)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1686, in process_step
+    raw_text, raw_json, api_meta, mode = execute_stage(
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 877, in execute_stage
+    raw_text, api_response = call_model_api(prompt_text, args)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 744, in call_model_api
+    require(bool(api_key), "Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.")
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 212, in require
+    raise ValidationError(message)
+ValidationError: Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.
+2026-03-17 18:06:42 | INFO | A iniciar orquestrador do fecho canónico.
+2026-03-17 18:06:42 | INFO | Manifesto carregado: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json
+2026-03-17 18:06:42 | INFO | Ordem de execução: P33_P37, P25_P30, P42_P48, P50
+2026-03-17 18:06:42 | INFO | A processar corredor P33_P37 com 5 passo(s).
+2026-03-17 18:06:42 | INFO | A processar passo P33 no corredor P33_P37.
+2026-03-17 18:06:42 | ERROR | Execução interrompida por erro: Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1930, in <module>
+    main()
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1908, in main
+    step_decisions, substep_decisions, arbitration = process_corridor(runtime, indices, args, corridor)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1776, in process_corridor
+    step_decision, substep_decision = process_step(runtime, indices, args, corridor, sequence, step_id)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1686, in process_step
+    raw_text, raw_json, api_meta, mode = execute_stage(
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 877, in execute_stage
+    raw_text, api_response = call_model_api(prompt_text, args)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 744, in call_model_api
+    require(bool(api_key), "Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.")
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 212, in require
+    raise ValidationError(message)
+ValidationError: Variável de ambiente FECHO_API_KEY ou OPENAI_API_KEY ausente.
+2026-03-17 18:07:02 | INFO | A iniciar orquestrador do fecho canónico.
+2026-03-17 18:07:02 | INFO | Manifesto carregado: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json
+2026-03-17 18:07:02 | INFO | Ordem de execução: P33_P37, P25_P30, P42_P48, P50
+2026-03-17 18:07:02 | INFO | A processar corredor P33_P37 com 5 passo(s).
+2026-03-17 18:07:02 | INFO | A processar passo P33 no corredor P33_P37.
+2026-03-17 18:07:02 | ERROR | Execução interrompida por erro: Erro HTTP ao chamar API: 401 {
+  "error": {
+    "message": "Incorrect API key provided: sk-aqui_*****_key. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "code": "invalid_api_key",
+    "param": null
+  },
+  "status": 401
+}
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 755, in call_model_api
+    with urlopen(request, timeout=args.timeout) as response:
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 525, in open
+    response = meth(req, response)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 634, in http_response
+    response = self.parent.error(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 563, in error
+    return self._call_chain(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1930, in <module>
+    main()
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1908, in main
+    step_decisions, substep_decisions, arbitration = process_corridor(runtime, indices, args, corridor)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1776, in process_corridor
+    step_decision, substep_decision = process_step(runtime, indices, args, corridor, sequence, step_id)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1686, in process_step
+    raw_text, raw_json, api_meta, mode = execute_stage(
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 877, in execute_stage
+    raw_text, api_response = call_model_api(prompt_text, args)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 760, in call_model_api
+    raise RuntimeError(f"Erro HTTP ao chamar API: {exc.code} {detail}") from exc
+RuntimeError: Erro HTTP ao chamar API: 401 {
+  "error": {
+    "message": "Incorrect API key provided: sk-aqui_*****_key. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "code": "invalid_api_key",
+    "param": null
+  },
+  "status": 401
+}
+2026-03-17 18:07:57 | INFO | A iniciar orquestrador do fecho canónico.
+2026-03-17 18:07:57 | INFO | Manifesto carregado: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json
+2026-03-17 18:07:57 | INFO | Ordem de execução: P33_P37, P25_P30, P42_P48, P50
+2026-03-17 18:07:57 | INFO | A processar corredor P33_P37 com 5 passo(s).
+2026-03-17 18:07:57 | INFO | A processar passo P33 no corredor P33_P37.
+2026-03-17 18:07:57 | ERROR | Execução interrompida por erro: Erro HTTP ao chamar API: 401 {
+  "error": {
+    "message": "Incorrect API key provided: sk-aqui_*****_key. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "code": "invalid_api_key",
+    "param": null
+  },
+  "status": 401
+}
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 755, in call_model_api
+    with urlopen(request, timeout=args.timeout) as response:
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 525, in open
+    response = meth(req, response)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 634, in http_response
+    response = self.parent.error(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 563, in error
+    return self._call_chain(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1930, in <module>
+    main()
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1908, in main
+    step_decisions, substep_decisions, arbitration = process_corridor(runtime, indices, args, corridor)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1776, in process_corridor
+    step_decision, substep_decision = process_step(runtime, indices, args, corridor, sequence, step_id)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1686, in process_step
+    raw_text, raw_json, api_meta, mode = execute_stage(
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 877, in execute_stage
+    raw_text, api_response = call_model_api(prompt_text, args)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 760, in call_model_api
+    raise RuntimeError(f"Erro HTTP ao chamar API: {exc.code} {detail}") from exc
+RuntimeError: Erro HTTP ao chamar API: 401 {
+  "error": {
+    "message": "Incorrect API key provided: sk-aqui_*****_key. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "code": "invalid_api_key",
+    "param": null
+  },
+  "status": 401
+}
+2026-03-17 18:11:04 | INFO | A iniciar orquestrador do fecho canónico.
+2026-03-17 18:11:04 | INFO | Manifesto carregado: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json
+2026-03-17 18:11:04 | INFO | Ordem de execução: P33_P37, P25_P30, P42_P48, P50
+2026-03-17 18:11:04 | INFO | A processar corredor P33_P37 com 5 passo(s).
+2026-03-17 18:11:04 | INFO | A processar passo P33 no corredor P33_P37.
+2026-03-17 18:11:05 | ERROR | Execução interrompida por erro: Erro HTTP ao chamar API: 401 {
+  "error": {
+    "message": "Incorrect API key provided: sk-aqui_*****_key. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "code": "invalid_api_key",
+    "param": null
+  },
+  "status": 401
+}
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 755, in call_model_api
+    with urlopen(request, timeout=args.timeout) as response:
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 525, in open
+    response = meth(req, response)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 634, in http_response
+    response = self.parent.error(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 563, in error
+    return self._call_chain(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\urllib\request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1930, in <module>
+    main()
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1908, in main
+    step_decisions, substep_decisions, arbitration = process_corridor(runtime, indices, args, corridor)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1776, in process_corridor
+    step_decision, substep_decision = process_step(runtime, indices, args, corridor, sequence, step_id)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 1686, in process_step
+    raw_text, raw_json, api_meta, mode = execute_stage(
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 877, in execute_stage
+    raw_text, api_response = call_model_api(prompt_text, args)
+  File "C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py", line 760, in call_model_api
+    raise RuntimeError(f"Erro HTTP ao chamar API: {exc.code} {detail}") from exc
+RuntimeError: Erro HTTP ao chamar API: 401 {
+  "error": {
+    "message": "Incorrect API key provided: sk-aqui_*****_key. You can find your API key at https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "code": "invalid_api_key",
+    "param": null
+  },
+  "status": 401
+}
+2026-03-17 18:12:55 | INFO | A iniciar orquestrador do fecho canónico.
+2026-03-17 18:12:55 | INFO | Manifesto carregado: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json
+2026-03-17 18:12:55 | INFO | Ordem de execução: P33_P37, P25_P30, P42_P48, P50
+2026-03-17 18:12:55 | INFO | A processar corredor P33_P37 com 5 passo(s).
+2026-03-17 18:12:55 | INFO | A processar passo P33 no corredor P33_P37.
+2026-03-17 18:13:20 | INFO | A processar passo P34 no corredor P33_P37.
+2026-03-17 18:13:46 | INFO | A processar passo P35 no corredor P33_P37.
+2026-03-17 18:13:56 | INFO | A processar passo P36 no corredor P33_P37.
+2026-03-17 18:14:23 | INFO | A processar passo P37 no corredor P33_P37.
+2026-03-17 18:15:03 | INFO | A processar corredor P25_P30 com 6 passo(s).
+2026-03-17 18:15:03 | INFO | A processar passo P25 no corredor P25_P30.
+2026-03-17 18:15:29 | INFO | A processar passo P26 no corredor P25_P30.
+2026-03-17 18:15:51 | INFO | A processar passo P27 no corredor P25_P30.
+2026-03-17 18:16:13 | INFO | A processar passo P28 no corredor P25_P30.
+2026-03-17 18:16:37 | INFO | A processar passo P29 no corredor P25_P30.
+2026-03-17 18:16:58 | INFO | A processar passo P30 no corredor P25_P30.
+2026-03-17 18:17:40 | INFO | A processar corredor P42_P48 com 7 passo(s).
+2026-03-17 18:17:40 | INFO | A processar passo P42 no corredor P42_P48.
+2026-03-17 18:18:07 | INFO | A processar passo P43 no corredor P42_P48.
+2026-03-17 18:18:31 | INFO | A processar passo P47 no corredor P42_P48.
+2026-03-17 18:18:57 | INFO | A processar passo P44 no corredor P42_P48.
+2026-03-17 18:19:27 | INFO | A processar passo P48 no corredor P42_P48.
+2026-03-17 18:19:50 | INFO | A processar passo P45 no corredor P42_P48.
+2026-03-17 18:20:15 | INFO | A processar passo P46 no corredor P42_P48.
+2026-03-17 18:20:56 | INFO | A processar corredor P50 com 1 passo(s).
+2026-03-17 18:20:56 | INFO | A processar passo P50 no corredor P50.
+2026-03-17 18:21:34 | INFO | Output intermédio escrito em: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\outputs\decisoes_canonicas_intermedias.json
+2026-03-17 18:21:34 | INFO | Execução concluída com sucesso.

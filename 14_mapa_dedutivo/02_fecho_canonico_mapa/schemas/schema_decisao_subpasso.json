@@ -1,0 +1,326 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "schema_decisao_subpasso.json",
+  "title": "Schema de decisão canónica por subpasso",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "tipo_registo",
+    "corredor",
+    "passo_pai_id",
+    "subpasso_id",
+    "numero_ordinal_no_passo",
+    "necessidade_detectada",
+    "decisao_subpasso",
+    "justificacao_da_decisao",
+    "formulacao_subpasso",
+    "justificacao_minima_suficiente",
+    "funcao_dedutiva",
+    "localizacao_na_cadeia",
+    "ponte_entrada",
+    "ponte_saida",
+    "objecao_letal_a_bloquear",
+    "bloqueio_curto_da_objecao",
+    "fragmentos_de_apoio_final",
+    "objecoes_bloqueadas_final",
+    "fontes_utilizadas",
+    "estatuto_final_no_mapa",
+    "observacoes_editoriais"
+  ],
+  "$defs": {
+    "passo_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}$"
+    },
+    "subpasso_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}_SP\\d{2}$"
+    },
+    "corredor_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}(?:_P\\d{2})?$"
+    },
+    "caminho_relativo": {
+      "type": "string",
+      "pattern": "^(?:\\.?\\.?/)?[A-Za-z0-9_./-]+\\.(?:json|txt|md)$"
+    },
+    "fragmento_id": {
+      "type": "string",
+      "pattern": "^F[0-9A-Z_]+$"
+    },
+    "campo_textual_nullable": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "localizacao_nullable": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "required": [
+        "modo_de_insercao",
+        "ancorado_no_passo_id",
+        "entra_apos_passo_id",
+        "entra_antes_de_passo_id",
+        "justificacao_de_insercao"
+      ],
+      "properties": {
+        "modo_de_insercao": {
+          "type": "string",
+          "enum": [
+            "intra_passo",
+            "entre_passos",
+            "ponte_mediacional",
+            "distincao_analitica",
+            "explicitacao_de_pressuposto"
+          ]
+        },
+        "ancorado_no_passo_id": {
+          "$ref": "#/$defs/passo_id"
+        },
+        "entra_apos_passo_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^P\\d{2}$"
+        },
+        "entra_antes_de_passo_id": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^P\\d{2}$"
+        },
+        "justificacao_de_insercao": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  },
+  "properties": {
+    "tipo_registo": {
+      "const": "decisao_subpasso"
+    },
+    "corredor": {
+      "$ref": "#/$defs/corredor_id"
+    },
+    "passo_pai_id": {
+      "$ref": "#/$defs/passo_id"
+    },
+    "subpasso_id": {
+      "$ref": "#/$defs/subpasso_id"
+    },
+    "numero_ordinal_no_passo": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "necessidade_detectada": {
+      "type": "boolean"
+    },
+    "decisao_subpasso": {
+      "type": "string",
+      "enum": [
+        "aprovado",
+        "rejeitado",
+        "adiado"
+      ]
+    },
+    "justificacao_da_decisao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "formulacao_subpasso": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "justificacao_minima_suficiente": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "funcao_dedutiva": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "localizacao_na_cadeia": {
+      "$ref": "#/$defs/localizacao_nullable"
+    },
+    "ponte_entrada": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "ponte_saida": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "objecao_letal_a_bloquear": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "bloqueio_curto_da_objecao": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "fragmentos_de_apoio_final": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/fragmento_id"
+      },
+      "uniqueItems": true
+    },
+    "objecoes_bloqueadas_final": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "fontes_utilizadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/caminho_relativo"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "estatuto_final_no_mapa": {
+      "type": "string",
+      "enum": [
+        "inserido_no_mapa",
+        "nao_inserido",
+        "pendente"
+      ]
+    },
+    "observacoes_editoriais": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "decisao_subpasso": {
+            "const": "aprovado"
+          }
+        },
+        "required": [
+          "decisao_subpasso"
+        ]
+      },
+      "then": {
+        "properties": {
+          "necessidade_detectada": {
+            "const": true
+          },
+          "formulacao_subpasso": {
+            "type": "string",
+            "minLength": 1
+          },
+          "justificacao_minima_suficiente": {
+            "type": "string",
+            "minLength": 1
+          },
+          "funcao_dedutiva": {
+            "type": "string",
+            "minLength": 1
+          },
+          "localizacao_na_cadeia": {
+            "type": "object"
+          },
+          "ponte_entrada": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ponte_saida": {
+            "type": "string",
+            "minLength": 1
+          },
+          "objecao_letal_a_bloquear": {
+            "type": "string",
+            "minLength": 1
+          },
+          "bloqueio_curto_da_objecao": {
+            "type": "string",
+            "minLength": 1
+          },
+          "fragmentos_de_apoio_final": {
+            "minItems": 1
+          },
+          "estatuto_final_no_mapa": {
+            "const": "inserido_no_mapa"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "decisao_subpasso": {
+            "const": "rejeitado"
+          }
+        },
+        "required": [
+          "decisao_subpasso"
+        ]
+      },
+      "then": {
+        "properties": {
+          "estatuto_final_no_mapa": {
+            "const": "nao_inserido"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "decisao_subpasso": {
+            "const": "adiado"
+          }
+        },
+        "required": [
+          "decisao_subpasso"
+        ]
+      },
+      "then": {
+        "properties": {
+          "estatuto_final_no_mapa": {
+            "const": "pendente"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+15_fecho_canonico/
+├── manifesto_fecho_canonico.json
+├── orquestrador_fecho_canonico_api.py
+├── consolidador_fecho_canonico.py
+├── schemas/
+│   ├── schema_decisao_passo.json
+│   ├── schema_decisao_subpasso.json
+│   ├── schema_arbitragem_corredor.json
+│   └── schema_decisoes_canonicas_intermedias.json
+├── prompts/
+│   ├── prompt_passo_nuclear.txt
+│   ├── prompt_subpasso_mediacional.txt
+│   ├── prompt_arbitragem_corredor.txt
+│   └── prompt_argumento_complementar.txt
+├── dados/
+└── outputs/
+    ├── decisoes_canonicas_intermedias.json
+    ├── mapa_dedutivo_canonico_final.json
+    └── relatorio_final_de_inevitabilidades.json

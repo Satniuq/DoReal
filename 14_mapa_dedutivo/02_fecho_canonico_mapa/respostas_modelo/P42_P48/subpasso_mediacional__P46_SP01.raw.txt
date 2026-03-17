@@ -1,0 +1,44 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P42_P48",
+  "passo_pai_id": "P46",
+  "subpasso_id": "P46_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Os materiais convergem em que a fragilidade mediacional de P46 foi resolvida por reformulação do próprio passo e pela densificação mínima da sua justificação, sem exigir mediação intermédia autónoma. A passagem de P45 para P46 já fica canonicamente fechada com a formulação final 'A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada' e com o respetivo bloqueio curto da objeção da autonomia normativa absoluta. Não há subpasso sugerido nos materiais, 'precisa_de_subpasso' surge explicitamente como false em todas as fontes principais, e a objeção letal é bloqueada no interior do próprio passo. Introduzir um subpasso aqui seria redundante e repetiria o conteúdo do passo pai em vez de acrescentar uma mediação indispensável.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P46",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já foi absorvida pela reformulação canónica de P46."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+  "ponte_entrada": "Se em P45 ficou fixado que o valor prático não é arbitrário nem extrínseco, segue-se que a normatividade correspondente não pode aparecer como ordem independente, mas como derivação dessas condições reais do agir.",
+  "ponte_saida": "Uma vez estabelecido que a normatividade não é autónoma, P47 pode explicitar o seu fecho ulterior sem salto, mostrando a forma consequente dessa derivação no plano ético.",
+  "objecao_letal_a_bloquear": "autonomia normativa absoluta",
+  "bloqueio_curto": "Se a exigência prática deriva de assimetrias reais da ação e das condições efetivas do agir, então não pode provir de uma normatividade separada que se autolegisla independentemente do real.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A06_SEG_001",
+    "F0232_SEG_001",
+    "F0112_SEG_002",
+    "F0111_A01_SEG_004"
+  ],
+  "objecoes_bloqueadas_final": [
+    "autonomia normativa absoluta"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../impacto_fragmentos_no_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fecho local obtido no próprio P46.",
+  "pendencias": []
+}

@@ -1,0 +1,239 @@
+{
+  "stage": "arbitragem_corredor",
+  "target_id": "P33_P37",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:15:03+00:00",
+  "raw_json": {
+    "tipo_registo": "arbitragem_corredor",
+    "corredor": "P33_P37",
+    "sequencia_minima_do_corredor": [
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37"
+    ],
+    "decisoes_por_passo_referenciadas": [
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37"
+    ],
+    "decisoes_por_subpasso_referenciadas": [
+      "P33_SP01",
+      "P34_SP01",
+      "P36_SP01",
+      "P37_SP01"
+    ],
+    "passos_fechados": [
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37"
+    ],
+    "passos_quase_fechados": [],
+    "passos_a_reabrir": [],
+    "subpassos_aprovados": [],
+    "formulacoes_fixadas": [
+      {
+        "passo_id": "P33",
+        "formulacao_canonica_final": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico."
+      },
+      {
+        "passo_id": "P34",
+        "formulacao_canonica_final": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real."
+      },
+      {
+        "passo_id": "P35",
+        "formulacao_canonica_final": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade."
+      },
+      {
+        "passo_id": "P36",
+        "formulacao_canonica_final": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares."
+      },
+      {
+        "passo_id": "P37",
+        "formulacao_canonica_final": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno."
+      }
+    ],
+    "sequencia_minima_ficou_fechada": true,
+    "estado_final_do_corredor": "fechado",
+    "criterio_de_fecho_aplicado": "O corredor foi considerado fechado porque os cinco passos indispensáveis da sequência mínima estão localmente fechados nas decisões finais; as pontes P33→P34, P34→P35, P35→P36 e P36→P37 estão explicitadas e coerentes; as objeções letais de cada passo ficam bloqueadas no próprio passo; e os subpassos antes sugeridos foram avaliados como não necessários, tendo a mediação sido absorvida por densificação interna suficiente, sem restar salto dedutivo impeditivo entre passos consecutivos.",
+    "justificacao_da_arbitragem": "No corredor P33_P37, o fecho local é suficiente e estável. P33 fixa que um critério puramente interno não basta e bloqueia o coerentismo fechado; P34 unifica adequação, critério operativo e submissão ao real; P35 introduz a co-originariedade de verdade e erro, evitando infalibilismo vazio; P36 define o erro primariamente como desadequação ao real e impede a sua redução a incoerência formal; P37 distingue correção real de mera coerentização interna. As decisões por subpasso confirmam que não há mediação autónoma residual indispensável. Assim, a sequência mínima ficou efetivamente fechada sem necessidade de reabrir passos.",
+    "pendencias_remanescentes": [],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "observacoes_editoriais": [
+      "Não reabrir P33: subpasso absorvido no próprio passo.",
+      "Não inserir subpassos em P34, P36 e P37.",
+      "Fixar a cadeia P33-P37 nas formulações canónicas finais já densificadas."
+    ]
+  },
+  "normalized_json": {
+    "tipo_registo": "arbitragem_corredor",
+    "corredor": "P33_P37",
+    "sequencia_minima_do_corredor": [
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37"
+    ],
+    "decisoes_por_passo_referenciadas": [
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37"
+    ],
+    "decisoes_por_subpasso_referenciadas": [
+      "P33_SP01",
+      "P34_SP01",
+      "P36_SP01",
+      "P37_SP01"
+    ],
+    "passos_fechados": [
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37"
+    ],
+    "passos_quase_fechados": [],
+    "passos_a_reabrir": [],
+    "subpassos_aprovados": [],
+    "formulacoes_fixadas": [
+      {
+        "passo_id": "P33",
+        "formulacao_canonica_final": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico."
+      },
+      {
+        "passo_id": "P34",
+        "formulacao_canonica_final": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real."
+      },
+      {
+        "passo_id": "P35",
+        "formulacao_canonica_final": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade."
+      },
+      {
+        "passo_id": "P36",
+        "formulacao_canonica_final": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares."
+      },
+      {
+        "passo_id": "P37",
+        "formulacao_canonica_final": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno."
+      }
+    ],
+    "sequencia_minima_ficou_fechada": true,
+    "estado_final_do_corredor": "fechado",
+    "criterio_de_fecho_aplicado": "O corredor foi considerado fechado porque os cinco passos indispensáveis da sequência mínima estão localmente fechados nas decisões finais; as pontes P33→P34, P34→P35, P35→P36 e P36→P37 estão explicitadas e coerentes; as objeções letais de cada passo ficam bloqueadas no próprio passo; e os subpassos antes sugeridos foram avaliados como não necessários, tendo a mediação sido absorvida por densificação interna suficiente, sem restar salto dedutivo impeditivo entre passos consecutivos.",
+    "justificacao_da_arbitragem": "No corredor P33_P37, o fecho local é suficiente e estável. P33 fixa que um critério puramente interno não basta e bloqueia o coerentismo fechado; P34 unifica adequação, critério operativo e submissão ao real; P35 introduz a co-originariedade de verdade e erro, evitando infalibilismo vazio; P36 define o erro primariamente como desadequação ao real e impede a sua redução a incoerência formal; P37 distingue correção real de mera coerentização interna. As decisões por subpasso confirmam que não há mediação autónoma residual indispensável. Assim, a sequência mínima ficou efetivamente fechada sem necessidade de reabrir passos.",
+    "pendencias_remanescentes": [],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "observacoes_editoriais": [
+      "Não reabrir P33: subpasso absorvido no próprio passo.",
+      "Não inserir subpassos em P34, P36 e P37.",
+      "Fixar a cadeia P33-P37 nas formulações canónicas finais já densificadas."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_021e3dce7704e5400069b99a18f104819ba49724a1693b76a0",
+      "object": "response",
+      "created_at": 1773771288,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771302,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_021e3dce7704e5400069b99a19ae18819b8f04779c4ba32dc3",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"arbitragem_corredor\",\n  \"corredor\": \"P33_P37\",\n  \"sequencia_minima_do_corredor\": [\n    \"P33\",\n    \"P34\",\n    \"P35\",\n    \"P36\",\n    \"P37\"\n  ],\n  \"decisoes_por_passo_referenciadas\": [\n    \"P33\",\n    \"P34\",\n    \"P35\",\n    \"P36\",\n    \"P37\"\n  ],\n  \"decisoes_por_subpasso_referenciadas\": [\n    \"P33_SP01\",\n    \"P34_SP01\",\n    \"P36_SP01\",\n    \"P37_SP01\"\n  ],\n  \"passos_fechados\": [\n    \"P33\",\n    \"P34\",\n    \"P35\",\n    \"P36\",\n    \"P37\"\n  ],\n  \"passos_quase_fechados\": [],\n  \"passos_a_reabrir\": [],\n  \"subpassos_aprovados\": [],\n  \"formulacoes_fixadas\": [\n    {\n      \"passo_id\": \"P33\",\n      \"formulacao_canonica_final\": \"Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.\"\n    },\n    {\n      \"passo_id\": \"P34\",\n      \"formulacao_canonica_final\": \"A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.\"\n    },\n    {\n      \"passo_id\": \"P35\",\n      \"formulacao_canonica_final\": \"A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.\"\n    },\n    {\n      \"passo_id\": \"P36\",\n      \"formulacao_canonica_final\": \"O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.\"\n    },\n    {\n      \"passo_id\": \"P37\",\n      \"formulacao_canonica_final\": \"Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.\"\n    }\n  ],\n  \"sequencia_minima_ficou_fechada\": true,\n  \"estado_final_do_corredor\": \"fechado\",\n  \"criterio_de_fecho_aplicado\": \"O corredor foi considerado fechado porque os cinco passos indispensáveis da sequência mínima estão localmente fechados nas decisões finais; as pontes P33→P34, P34→P35, P35→P36 e P36→P37 estão explicitadas e coerentes; as objeções letais de cada passo ficam bloqueadas no próprio passo; e os subpassos antes sugeridos foram avaliados como não necessários, tendo a mediação sido absorvida por densificação interna suficiente, sem restar salto dedutivo impeditivo entre passos consecutivos.\",\n  \"justificacao_da_arbitragem\": \"No corredor P33_P37, o fecho local é suficiente e estável. P33 fixa que um critério puramente interno não basta e bloqueia o coerentismo fechado; P34 unifica adequação, critério operativo e submissão ao real; P35 introduz a co-originariedade de verdade e erro, evitando infalibilismo vazio; P36 define o erro primariamente como desadequação ao real e impede a sua redução a incoerência formal; P37 distingue correção real de mera coerentização interna. As decisões por subpasso confirmam que não há mediação autónoma residual indispensável. Assim, a sequência mínima ficou efetivamente fechada sem necessidade de reabrir passos.\",\n  \"pendencias_remanescentes\": [],\n  \"fontes_utilizadas\": [\n    \"../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json\",\n    \"../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json\",\n    \"../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json\",\n    \"../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json\",\n    \"../../13_Meta_Indice/indice/indice_por_percurso.json\",\n    \"../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json\"\n  ],\n  \"observacoes_editoriais\": [\n    \"Não reabrir P33: subpasso absorvido no próprio passo.\",\n    \"Não inserir subpassos em P34, P36 e P37.\",\n    \"Fixar a cadeia P33-P37 nas formulações canónicas finais já densificadas.\"\n  ]\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 22592,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1074,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 23666
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "arbitragem_corredor__P33_P37.raw.txt"
+}

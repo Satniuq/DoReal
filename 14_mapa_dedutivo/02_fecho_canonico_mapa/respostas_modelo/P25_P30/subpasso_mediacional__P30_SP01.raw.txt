@@ -1,0 +1,40 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P30",
+  "subpasso_id": "P30_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Não se impõe subpasso autónomo para P30, porque a lacuna mediacional identificada fica resolvida pela própria reformulação canónica do passo e pela sua justificação mínima suficiente. O ponto que faltava explicitar era o estatuto do representar como função reflexiva derivada da inserção ontológica e prática; isso já foi incorporado no enunciado final e na justificação do passo, sem exigir uma mediação intermédia distinta. Introduzir um subpasso aqui apenas desdobraria o mesmo conteúdo em duas formulações muito próximas, sem acrescentar distinção indispensável nem pressuposto novo sem o qual a inferência falharia canonicamente.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P30",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "A mediação necessária já foi absorvida no próprio fecho de P30; não há ponto autónomo de inserção que não resulte redundante."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "representação sem base ontológica",
+  "bloqueio_curto": "A representação afirmada em P30 já é explicitamente apresentada como derivada da inserção ontológica e prática, não como instância autónoma separada do real.",
+  "fragmentos_selecionados_finais": [],
+  "objecoes_bloqueadas_final": [
+    "representação sem base ontológica"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: fecho obtido por reformulação suficiente do próprio P30.",
+  "pendencias": []
+}

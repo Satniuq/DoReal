@@ -1,0 +1,40 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P25_P30",
+  "passo_pai_id": "P27",
+  "subpasso_id": "P27_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Não é necessário introduzir subpasso mediacional em P27. Os materiais convergem em que a lacuna inicial de mediação pode ser resolvida por densificação do próprio passo, e essa densificação já foi realizada na formulação canónica final, na justificação mínima suficiente e nas pontes de entrada e saída. A transição de P26 para P27 fica explicitada pelo nexo: representação operável exige estabilização simbólica para repetição, partilha e trabalho reflexivo; essa estabilização dá-se em linguagem. Não resta um pressuposto intermédio autónomo cuja explicitação exija novo degrau inferencial. Um subpasso aqui seria redundante e tenderia a repetir o conteúdo do passo pai em vez de acrescentar mediação indispensável. A objeção letal do linguisticismo ontológico também já está bloqueada no próprio passo, sem necessidade de instância intermédia adicional.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P27",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não há inserção, porque o fecho canónico de P27 já absorve a mediação necessária sem salto residual."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": null,
+  "ponte_entrada": null,
+  "ponte_saida": null,
+  "objecao_letal_a_bloquear": "linguisticismo ontológico",
+  "bloqueio_curto": "O passo já distingue entre a constituição linguística da estabilização da representação operável e a redução do real à linguagem.",
+  "fragmentos_selecionados_finais": [],
+  "objecoes_bloqueadas_final": [
+    "linguisticismo ontológico"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: a mediação necessária já fecha dentro de P27 por densificação local.",
+  "pendencias": []
+}

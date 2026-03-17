@@ -1,0 +1,241 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "schema_arbitragem_corredor.json",
+  "title": "Schema de arbitragem canónica por corredor",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "tipo_registo",
+    "corredor",
+    "sequencia_minima_do_corredor",
+    "decisoes_por_passo_referenciadas",
+    "decisoes_por_subpasso_referenciadas",
+    "passos_fechados",
+    "passos_quase_fechados",
+    "passos_a_reabrir",
+    "subpassos_aprovados",
+    "formulacoes_fixadas",
+    "sequencia_minima_ficou_fechada",
+    "estado_final_do_corredor",
+    "criterio_de_fecho_aplicado",
+    "justificacao_da_arbitragem",
+    "pendencias_remanescentes",
+    "fontes_utilizadas",
+    "observacoes_editoriais"
+  ],
+  "$defs": {
+    "passo_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}$"
+    },
+    "subpasso_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}_SP\\d{2}$"
+    },
+    "corredor_id": {
+      "type": "string",
+      "pattern": "^P\\d{2}(?:_P\\d{2})?$"
+    },
+    "caminho_relativo": {
+      "type": "string",
+      "pattern": "^(?:\\.?\\.?/)?[A-Za-z0-9_./-]+\\.(?:json|txt|md)$"
+    },
+    "formulacao_fixada": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "passo_id",
+        "formulacao_canonica_final"
+      ],
+      "properties": {
+        "passo_id": {
+          "$ref": "#/$defs/passo_id"
+        },
+        "formulacao_canonica_final": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  },
+  "properties": {
+    "tipo_registo": {
+      "const": "arbitragem_corredor"
+    },
+    "corredor": {
+      "$ref": "#/$defs/corredor_id"
+    },
+    "sequencia_minima_do_corredor": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/passo_id"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "decisoes_por_passo_referenciadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/passo_id"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "decisoes_por_subpasso_referenciadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/subpasso_id"
+      },
+      "uniqueItems": true
+    },
+    "passos_fechados": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/passo_id"
+      },
+      "uniqueItems": true
+    },
+    "passos_quase_fechados": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/passo_id"
+      },
+      "uniqueItems": true
+    },
+    "passos_a_reabrir": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/passo_id"
+      },
+      "uniqueItems": true
+    },
+    "subpassos_aprovados": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/subpasso_id"
+      },
+      "uniqueItems": true
+    },
+    "formulacoes_fixadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/formulacao_fixada"
+      },
+      "minItems": 0
+    },
+    "sequencia_minima_ficou_fechada": {
+      "type": "boolean"
+    },
+    "estado_final_do_corredor": {
+      "type": "string",
+      "enum": [
+        "fechado",
+        "parcial",
+        "reabrir"
+      ]
+    },
+    "criterio_de_fecho_aplicado": {
+      "type": "string",
+      "minLength": 1
+    },
+    "justificacao_da_arbitragem": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pendencias_remanescentes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "fontes_utilizadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/caminho_relativo"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "observacoes_editoriais": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "sequencia_minima_ficou_fechada": {
+            "const": true
+          }
+        },
+        "required": [
+          "sequencia_minima_ficou_fechada"
+        ]
+      },
+      "then": {
+        "properties": {
+          "estado_final_do_corredor": {
+            "const": "fechado"
+          },
+          "passos_a_reabrir": {
+            "maxItems": 0
+          },
+          "formulacoes_fixadas": {
+            "minItems": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "estado_final_do_corredor": {
+            "const": "fechado"
+          }
+        },
+        "required": [
+          "estado_final_do_corredor"
+        ]
+      },
+      "then": {
+        "properties": {
+          "sequencia_minima_ficou_fechada": {
+            "const": true
+          },
+          "passos_a_reabrir": {
+            "maxItems": 0
+          },
+          "formulacoes_fixadas": {
+            "minItems": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "estado_final_do_corredor": {
+            "const": "reabrir"
+          }
+        },
+        "required": [
+          "estado_final_do_corredor"
+        ]
+      },
+      "then": {
+        "properties": {
+          "passos_a_reabrir": {
+            "minItems": 1
+          }
+        }
+      }
+    }
+  ]
+}

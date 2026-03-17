@@ -1,0 +1,61 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P25_P30",
+  "passo_id": "P29",
+  "numero_final": 29,
+  "bloco_id": "BLOCO_IV",
+  "bloco_titulo": "Emergência do ser localizado e reflexivo",
+  "depende_de": [
+    "P13",
+    "P14",
+    "P15",
+    "P24",
+    "P25",
+    "P26",
+    "P27",
+    "P28"
+  ],
+  "prepara": [
+    "P30"
+  ],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "reformular",
+  "formulacao_v2_final": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real.",
+  "justificacao_expandida_final": "Dado que a ação humana ocorre em campos reais de potencialidade e sob mediação reflexiva, ela não se exerce nem como puro arbítrio exterior às condições do real nem como simples efeito passivo de determinações. Nesse quadro, liberdade designa a capacidade de orientar-se entre possibilidades efetivas inscritas no poder-ser, isto é, uma orientação situada no campo do real.",
+  "ponte_entrada": "Se o passo anterior mostrou que a ação humana é reflexivamente mediada e inscrita em condições reais, segue-se que o agir livre só pode ocorrer como orientação dentro dessas possibilidades efetivas.",
+  "ponte_saida": "Uma vez estabelecido que a liberdade é orientação situada no poder-ser real, o passo seguinte pode determinar como essa orientação se estabiliza ou se realiza sem recorrer a uma exterioridade abstrata.",
+  "porque_o_anterior_nao_basta": "Os passos anteriores mostram mediação reflexiva, inscrição no real e campo de possibilidades, mas ainda não explicitam que liberdade significa precisamente orientação situada entre possibilidades reais, distinguindo-a tanto do livre-arbítrio absoluto como do determinismo anulador.",
+  "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem para P30 perde a mediação que converte reflexão e potencialidade real em conceito de liberdade, e o encadeamento fica como salto dedutivo.",
+  "objecao_letal": "livre-arbítrio absoluto",
+  "bloqueio_curto": "Se a ação só ocorre em campos reais de possibilidade e sob mediação reflexiva, então a liberdade não pode ser poder absoluto sem condição, mas apenas orientação situada entre possibilidades efetivas.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "livre-arbítrio absoluto",
+    "determinismo anulador",
+    "liberdade abstrata sem inscrição no real",
+    "consciência como instância exterior ao real"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0241_A10_SEG_002",
+    "F0241_A06_SEG_001",
+    "F0094_A01_SEG_004",
+    "F0230_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por reformulação canónica e explicitação mínima da mediação entre potencialidade real, reflexão e liberdade situada.",
+  "pendencias": []
+}

@@ -1,0 +1,178 @@
+{
+  "stage": "subpasso_mediacional",
+  "target_id": "P45_SP01",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:20:15+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P45",
+    "subpasso_id": "P45_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "entra_subpasso": false,
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P45 é resolúvel por densificação interna do próprio passo, não por mediação autónoma adicional. A passagem já fecha canonicamente a partir de P44: se o bem é adequação prática ao real, o mal pode ser definido como a falha dessa adequação no regime da ação, sob as formas de desadequação, degeneração ou dano. Não há indicação de pressuposto indispensável ainda implícito que exija autonomização em subpasso; pelo contrário, os recortes editoriais assinalam explicitamente 'precisa_de_subpasso: false', 'subpasso_sugerido: null', 'promovivel_a_mediacao_autonoma: false' e 'indicios_de_passo_intermedio: 0'. A dificuldade remanescente — refinar a diferença entre erro, dano e mal — é uma tarefa de precisão justificativa e formulação dentro de P45, sem necessidade de inserir um elo dedutivo novo entre P48 e P46.",
+    "formulacao_subpasso": null,
+    "posicao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P45",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já está absorvida na justificação do próprio P45."
+    },
+    "funcao_dedutiva": null,
+    "justificacao_minima_suficiente": null,
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "mal como entidade autónoma",
+    "bloqueio_curto": "A objeção é bloqueada no próprio P45: se o bem deriva da adequação prática ao real, o mal não requer princípio próprio, mas nomeia a falha dessa adequação na ação.",
+    "fragmentos_selecionados_finais": [
+      "F0060_A01_SEG_004",
+      "F0120_SEG_002",
+      "F0067_SEG_003",
+      "F0119_A01_SEG_003"
+    ],
+    "objecoes_bloqueadas_final": [
+      "mal como entidade autónoma"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "nota_editorial_final": "Não inserir subpasso; manter fecho por densificação local de P45.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P42_P48",
+    "passo_pai_id": "P45",
+    "subpasso_id": "P45_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Os materiais convergem em que a fragilidade de P45 é resolúvel por densificação interna do próprio passo, não por mediação autónoma adicional. A passagem já fecha canonicamente a partir de P44: se o bem é adequação prática ao real, o mal pode ser definido como a falha dessa adequação no regime da ação, sob as formas de desadequação, degeneração ou dano. Não há indicação de pressuposto indispensável ainda implícito que exija autonomização em subpasso; pelo contrário, os recortes editoriais assinalam explicitamente 'precisa_de_subpasso: false', 'subpasso_sugerido: null', 'promovivel_a_mediacao_autonoma: false' e 'indicios_de_passo_intermedio: 0'. A dificuldade remanescente — refinar a diferença entre erro, dano e mal — é uma tarefa de precisão justificativa e formulação dentro de P45, sem necessidade de inserir um elo dedutivo novo entre P48 e P46.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": null,
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P45",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não se justifica inserção: a mediação necessária já está absorvida na justificação do próprio P45."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "mal como entidade autónoma",
+    "bloqueio_curto_da_objecao": "A objeção é bloqueada no próprio P45: se o bem deriva da adequação prática ao real, o mal não requer princípio próprio, mas nomeia a falha dessa adequação na ação.",
+    "fragmentos_de_apoio_final": [
+      "F0060_A01_SEG_004",
+      "F0120_SEG_002",
+      "F0067_SEG_003",
+      "F0119_A01_SEG_003"
+    ],
+    "objecoes_bloqueadas_final": [
+      "mal como entidade autónoma"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P42_P48.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Não inserir subpasso; manter fecho por densificação local de P45."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0379e23c3b6a3ea00069b99b5480b8819380ef8024a86a6b97",
+      "object": "response",
+      "created_at": 1773771604,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771614,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0379e23c3b6a3ea00069b99b55266c8193b45e38b16c91d94b",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_subpasso\",\n  \"corredor\": \"P42_P48\",\n  \"passo_pai_id\": \"P45\",\n  \"subpasso_id\": \"P45_SP01\",\n  \"numero_ordinal_no_passo\": 1,\n  \"necessidade_detectada\": false,\n  \"decisao_subpasso\": \"rejeitado\",\n  \"entra_subpasso\": false,\n  \"justificacao_da_decisao\": \"Os materiais convergem em que a fragilidade de P45 é resolúvel por densificação interna do próprio passo, não por mediação autónoma adicional. A passagem já fecha canonicamente a partir de P44: se o bem é adequação prática ao real, o mal pode ser definido como a falha dessa adequação no regime da ação, sob as formas de desadequação, degeneração ou dano. Não há indicação de pressuposto indispensável ainda implícito que exija autonomização em subpasso; pelo contrário, os recortes editoriais assinalam explicitamente 'precisa_de_subpasso: false', 'subpasso_sugerido: null', 'promovivel_a_mediacao_autonoma: false' e 'indicios_de_passo_intermedio: 0'. A dificuldade remanescente — refinar a diferença entre erro, dano e mal — é uma tarefa de precisão justificativa e formulação dentro de P45, sem necessidade de inserir um elo dedutivo novo entre P48 e P46.\",\n  \"formulacao_subpasso\": null,\n  \"posicao_na_cadeia\": {\n    \"modo_de_insercao\": \"intra_passo\",\n    \"ancorado_no_passo_id\": \"P45\",\n    \"entra_apos_passo_id\": null,\n    \"entra_antes_de_passo_id\": null,\n    \"justificacao_de_insercao\": \"Não se justifica inserção: a mediação necessária já está absorvida na justificação do próprio P45.\"\n  },\n  \"funcao_dedutiva\": null,\n  \"justificacao_minima_suficiente\": null,\n  \"ponte_entrada\": null,\n  \"ponte_saida\": null,\n  \"objecao_letal_a_bloquear\": \"mal como entidade autónoma\",\n  \"bloqueio_curto\": \"A objeção é bloqueada no próprio P45: se o bem deriva da adequação prática ao real, o mal não requer princípio próprio, mas nomeia a falha dessa adequação na ação.\",\n  \"fragmentos_selecionados_finais\": [\n    \"F0060_A01_SEG_004\",\n    \"F0120_SEG_002\",\n    \"F0067_SEG_003\",\n    \"F0119_A01_SEG_003\"\n  ],\n  \"objecoes_bloqueadas_final\": [\n    \"mal como entidade autónoma\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\"\n  ],\n  \"estatuto_final_no_mapa\": \"nao_inserido\",\n  \"nota_editorial_final\": \"Não inserir subpasso; manter fecho por densificação local de P45.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 12199,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 735,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12934
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "subpasso_mediacional__P45_SP01.raw.txt"
+}

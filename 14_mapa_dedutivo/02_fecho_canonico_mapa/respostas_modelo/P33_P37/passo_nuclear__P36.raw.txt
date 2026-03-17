@@ -1,0 +1,59 @@
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P33_P37",
+  "passo_id": "P36",
+  "numero_final": 36,
+  "bloco_id": "BLOCO_V",
+  "bloco_titulo": "Epistemologia derivada da ontologia",
+  "depende_de": [
+    "P35"
+  ],
+  "prepara": [
+    "P37"
+  ],
+  "estado_inicial_do_passo": "aberto",
+  "tipos_de_fragilidade_iniciais": [
+    "formulacao",
+    "mediacao"
+  ],
+  "decisao_editorial": "densificar",
+  "formulacao_v2_final": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+  "justificacao_expandida_final": "Se a normatividade epistémica deriva da estrutura do real e não apenas da consistência interna do discurso, então errar não é primariamente falhar uma forma lógica, mas falhar a adequação ao que é. Por isso, a incoerência é apenas um caso possível de erro, não o seu critério fundamental. O erro define-se antes como desadequação ao real sob critério válido; e essa desadequação pode ocorrer ao descrever mal, ao categorizar mal ou ao graduar mal aquilo de que se fala. Assim se fixa a passagem de uma epistemologia fundada ontologicamente para uma tipologia mínima do erro.",
+  "ponte_entrada": "De P35 recebe-se que o critério epistémico depende da estrutura do real; segue-se então que o erro deve ser entendido em primeiro lugar como desadequação a essa estrutura, e não apenas como incoerência formal.",
+  "ponte_saida": "Uma vez definido o erro como desadequação ao real em formas descritivas, categoriais e escalares, torna-se possível em P37 explicitar a exigência corretiva correspondente e a orientação prática dessa correção.",
+  "porque_o_anterior_nao_basta": "P35 não basta porque ainda estabelece apenas a dependência epistémica em relação ao real, sem explicitar que daí decorre uma definição primária do erro como desadequação ao real nem a sua tipologia mínima.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a transição entre a dependência ontológica do critério epistémico e a determinação corretiva seguinte fica em salto, porque falta nomear em que consiste precisamente errar.",
+  "objecao_letal": "erro reduzido a incoerência formal",
+  "bloqueio_curto": "Se o critério de acerto é a adequação ao real, pode haver erro mesmo com coerência interna; logo, incoerência não esgota o erro.",
+  "precisa_de_subpasso": false,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": [
+    "erro reduzido a incoerência formal",
+    "verdade como coerência pura",
+    "coerentismo fechado",
+    "coerência aparente basta para verdade",
+    "verdade como mera forma discursiva",
+    "critério reduzido à persuasão intelectual",
+    "correção prática desligada da descrição do real",
+    "erro como entidade ontologica propria"
+  ],
+  "fragmentos_selecionados_finais": [
+    "F0241_A25_SEG_003",
+    "F0241_A18_SEG_003",
+    "F0241_A18_SEG_002",
+    "F0241_A10_SEG_001",
+    "F0185_SEG_001",
+    "F0181_SEG_001"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../impacto_fragmentos_no_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+  ],
+  "estado_final_do_passo": "fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "Fecho local obtido por densificação da mediação, sem necessidade de subpasso autónomo.",
+  "pendencias": []
+}

@@ -1,0 +1,212 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P37",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:14:49+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P37",
+    "numero_final": 37,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P36"
+    ],
+    "prepara": [
+      "P38"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+    "justificacao_expandida_final": "Se o erro consiste num desvio por não inclusão suficiente do real, a sua correção não pode consistir apenas em restaurar coerência interna entre representações. Uma correção apenas interna pode reorganizar o sistema sem o submeter de novo ao que é. Por isso, corrigir exige reorientar representação e ação pela realidade mesma, isto é, reinscrevê-las na sua medida. Só assim a correção deixa de ser mera coerentização e volta a valer como correção real.",
+    "ponte_entrada": "P36 ainda mostrava a necessidade de submeter o critério ao real; P37 explicita agora que, quando há erro, essa submissão toma a forma positiva de correção como reinscrição de representação e ação no real.",
+    "ponte_saida": "Uma vez estabelecido que corrigir é voltar a medir representação e ação pelo real, fica preparada a passagem para P38, onde se pode explicitar o desenvolvimento seguinte dessa normatividade epistemológica sem salto.",
+    "porque_o_anterior_nao_basta": "P36 não basta porque ainda não distingue explicitamente entre correção real e simples reajuste interno do sistema.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, perde-se a mediação que transforma a submissão geral ao real em critério concreto de correção, e a passagem para P38 aparece como salto dedutivo.",
+    "objecao_letal": "correção como mera coerentização",
+    "bloqueio_curto": "Coerência interna por si só não basta, porque um sistema pode tornar-se mais coerente e continuar desligado do real; corrigir só ocorre quando representação e ação voltam a ser medidas pelo real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "correção como mera coerentização",
+      "verdade como coerência pura",
+      "erro sem implicação corretiva",
+      "coerentismo fechado",
+      "convencionalismo total",
+      "erro reduzido a incoerência formal",
+      "representação sem base ontológica",
+      "autorreferencialismo fechado",
+      "verdade reduzida a processamento interno",
+      "correção como mera reformulação interna"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A10_SEG_001",
+      "F0241_A26_SEG_004",
+      "F0064_A02_SEG_001",
+      "F0142_SEG_001",
+      "F0130_SEG_001",
+      "F0072_SEG_002"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../impacto_fragmentos_no_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da diferença entre correção interna e correção real, sem necessidade de subpasso.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P33_P37",
+    "passo_id": "P37",
+    "numero_final": 37,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P36"
+    ],
+    "prepara": [
+      "P38"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+    "justificacao_minima_suficiente": "Se o erro consiste num desvio por não inclusão suficiente do real, a sua correção não pode consistir apenas em restaurar coerência interna entre representações. Uma correção apenas interna pode reorganizar o sistema sem o submeter de novo ao que é. Por isso, corrigir exige reorientar representação e ação pela realidade mesma, isto é, reinscrevê-las na sua medida. Só assim a correção deixa de ser mera coerentização e volta a valer como correção real.",
+    "ponte_entrada": "P36 ainda mostrava a necessidade de submeter o critério ao real; P37 explicita agora que, quando há erro, essa submissão toma a forma positiva de correção como reinscrição de representação e ação no real.",
+    "ponte_saida": "Uma vez estabelecido que corrigir é voltar a medir representação e ação pelo real, fica preparada a passagem para P38, onde se pode explicitar o desenvolvimento seguinte dessa normatividade epistemológica sem salto.",
+    "porque_o_anterior_nao_basta": "P36 não basta porque ainda não distingue explicitamente entre correção real e simples reajuste interno do sistema.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, perde-se a mediação que transforma a submissão geral ao real em critério concreto de correção, e a passagem para P38 aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "correção como mera coerentização",
+    "bloqueio_curto_da_objecao": "Coerência interna por si só não basta, porque um sistema pode tornar-se mais coerente e continuar desligado do real; corrigir só ocorre quando representação e ação voltam a ser medidas pelo real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A10_SEG_001",
+      "F0241_A26_SEG_004",
+      "F0064_A02_SEG_001",
+      "F0142_SEG_001",
+      "F0130_SEG_001",
+      "F0072_SEG_002"
+    ],
+    "objecoes_bloqueadas_final": [
+      "correção como mera coerentização",
+      "verdade como coerência pura",
+      "erro sem implicação corretiva",
+      "coerentismo fechado",
+      "convencionalismo total",
+      "erro reduzido a incoerência formal",
+      "representação sem base ontológica",
+      "autorreferencialismo fechado",
+      "verdade reduzida a processamento interno",
+      "correção como mera reformulação interna"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P33_P37.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P37 no corredor P33_P37. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: correção como mera coerentização. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da diferença entre correção interna e correção real, sem necessidade de subpasso."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0c2ba0f246f3759d0069b999ff8760819088a0fd1d00bd95bc",
+      "object": "response",
+      "created_at": 1773771263,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771277,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0c2ba0f246f3759d0069b99a00e428819092b3c8d5121e1467",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P33_P37\",\n  \"passo_id\": \"P37\",\n  \"numero_final\": 37,\n  \"bloco_id\": \"BLOCO_V\",\n  \"bloco_titulo\": \"Epistemologia derivada da ontologia\",\n  \"depende_de\": [\n    \"P36\"\n  ],\n  \"prepara\": [\n    \"P38\"\n  ],\n  \"estado_inicial_do_passo\": \"aberto\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.\",\n  \"justificacao_expandida_final\": \"Se o erro consiste num desvio por não inclusão suficiente do real, a sua correção não pode consistir apenas em restaurar coerência interna entre representações. Uma correção apenas interna pode reorganizar o sistema sem o submeter de novo ao que é. Por isso, corrigir exige reorientar representação e ação pela realidade mesma, isto é, reinscrevê-las na sua medida. Só assim a correção deixa de ser mera coerentização e volta a valer como correção real.\",\n  \"ponte_entrada\": \"P36 ainda mostrava a necessidade de submeter o critério ao real; P37 explicita agora que, quando há erro, essa submissão toma a forma positiva de correção como reinscrição de representação e ação no real.\",\n  \"ponte_saida\": \"Uma vez estabelecido que corrigir é voltar a medir representação e ação pelo real, fica preparada a passagem para P38, onde se pode explicitar o desenvolvimento seguinte dessa normatividade epistemológica sem salto.\",\n  \"porque_o_anterior_nao_basta\": \"P36 não basta porque ainda não distingue explicitamente entre correção real e simples reajuste interno do sistema.\",\n  \"porque_nao_pode_ser_suprimido\": \"Se este passo for suprimido, perde-se a mediação que transforma a submissão geral ao real em critério concreto de correção, e a passagem para P38 aparece como salto dedutivo.\",\n  \"objecao_letal\": \"correção como mera coerentização\",\n  \"bloqueio_curto\": \"Coerência interna por si só não basta, porque um sistema pode tornar-se mais coerente e continuar desligado do real; corrigir só ocorre quando representação e ação voltam a ser medidas pelo real.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"correção como mera coerentização\",\n    \"verdade como coerência pura\",\n    \"erro sem implicação corretiva\",\n    \"coerentismo fechado\",\n    \"convencionalismo total\",\n    \"erro reduzido a incoerência formal\",\n    \"representação sem base ontológica\",\n    \"autorreferencialismo fechado\",\n    \"verdade reduzida a processamento interno\",\n    \"correção como mera reformulação interna\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A10_SEG_001\",\n    \"F0241_A26_SEG_004\",\n    \"F0064_A02_SEG_001\",\n    \"F0142_SEG_001\",\n    \"F0130_SEG_001\",\n    \"F0072_SEG_002\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../impacto_fragmentos_no_mapa.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação da diferença entre correção interna e correção real, sem necessidade de subpasso.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 13001,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 914,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13915
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P37.raw.txt"
+}

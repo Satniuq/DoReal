@@ -1,0 +1,52 @@
+{
+  "tipo_registo": "decisao_subpasso",
+  "corredor": "P33_P37",
+  "passo_pai_id": "P33",
+  "subpasso_id": "P33_SP01",
+  "numero_ordinal_no_passo": 1,
+  "necessidade_detectada": false,
+  "decisao_subpasso": "rejeitado",
+  "entra_subpasso": false,
+  "justificacao_da_decisao": "Os materiais mais recentes do próprio passo indicam fecho local por densificação interna e fixam explicitamente que o subpasso já não é necessário. A formulação canónica final, com a justificação mínima suficiente, já explicita a mediação antes em falta: um critério puramente interno mede apenas consistência, convenção ou fechamento autorreferencial e não adequação ao real. Assim, a objeção do coerentismo fechado fica bloqueada sem necessidade de mediação autónoma adicional. Introduzir subpasso aqui seria redundante e repetiria, em separado, uma distinção já incorporada canonicamente no próprio P33.",
+  "formulacao_subpasso": null,
+  "posicao_na_cadeia": {
+    "modo_de_insercao": "intra_passo",
+    "ancorado_no_passo_id": "P33",
+    "entra_apos_passo_id": null,
+    "entra_antes_de_passo_id": null,
+    "justificacao_de_insercao": "Não entra, porque a mediação necessária foi absorvida pela densificação do próprio P33."
+  },
+  "funcao_dedutiva": null,
+  "justificacao_minima_suficiente": "A formulação final de P33 já torna explícito que um critério desligado do real se reduz a coerência interna, convenção ou fechamento sistémico; por isso, a submissão do critério ao real fica dedutivamente estabelecida no próprio passo.",
+  "ponte_entrada": "A partir de P32, uma vez afirmada a prioridade do real, segue-se que o critério não pode ficar autónomo face a ele.",
+  "ponte_saida": "Estabelecido que o critério só vale se submetido ao real, P34 pode explicitar a consequência positiva dessa submissão para a determinação do conhecimento válido.",
+  "objecao_letal_a_bloquear": "coerentismo fechado",
+  "bloqueio_curto": "A coerência interna pode mostrar compatibilidade entre enunciados, mas não basta para mostrar adequação ao real; por isso não pode funcionar como critério último.",
+  "fragmentos_selecionados_finais": [
+    "F0241_A18_SEG_003",
+    "F0241_A15_SEG_002",
+    "F0241_A11_SEG_001",
+    "F0185_SEG_001"
+  ],
+  "objecoes_bloqueadas_final": [
+    "coerentismo fechado",
+    "convencionalismo total",
+    "confusão entre utilidade imediata e verdade",
+    "autonomia normativa absoluta",
+    "verdade como mera forma discursiva",
+    "consensualismo como fundamento suficiente da lei",
+    "relativismo normativo"
+  ],
+  "fontes_utilizadas": [
+    "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+    "dados/MAPA_PRECANONICO_RECORTE_JSON",
+    "dados/RELATORIO_FECHO_RECORTE_JSON",
+    "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+    "../revisao_estrutural_do_mapa.json",
+    "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "../impacto_fragmentos_no_mapa.json"
+  ],
+  "estatuto_final_no_mapa": "nao_inserido",
+  "nota_editorial_final": "Subpasso rejeitado: mediação já integrada no fecho canónico de P33.",
+  "pendencias": []
+}

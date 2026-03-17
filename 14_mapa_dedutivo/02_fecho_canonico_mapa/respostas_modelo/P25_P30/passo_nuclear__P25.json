@@ -1,0 +1,204 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P25",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:15:29+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P25",
+    "numero_final": 25,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24"
+    ],
+    "prepara": [
+      "P26"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_v2_final": "A apreensão é a relação situada e originária de contacto com o real por parte de um ente localizado.",
+    "justificacao_expandida_final": "Dado P24, o humano não comparece como instância exterior ao real, mas como ente nele situado e localizado. Nessa condição, o seu acesso inicial ao real não precisa de ser construído por representação ou interpretação prévias: há já um contacto situado com o que é real. A esse contacto originário chama-se apreensão. Assim, dizer que o ser humano apreende é dizer que, por ser um ente localizado, entra originariamente em relação com o real antes de qualquer tematização reflexiva.",
+    "ponte_entrada": "A partir de P24, uma vez reconhecido o humano como ente localizado no real, torna-se necessário explicitar a forma mínima dessa inserção cognoscitiva: ele apreende o real em contacto situado.",
+    "ponte_saida": "Se a apreensão é já contacto situado e originário com o real, então P26 pode avançar a partir desse contacto para a explicitação seguinte sem depender de um salto representacional.",
+    "porque_o_anterior_nao_basta": "P24 não basta porque ainda não explicita que a relação do ente localizado com o real se dá como apreensão, isto é, como contacto situado e originário.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P24 para P26 perde a mediação que transforma a mera localização do humano no real numa relação efetiva de contacto com ele, produzindo um salto dedutivo.",
+    "objecao_letal": "representacionalismo originário",
+    "bloqueio_curto": "A apreensão não é uma imagem ou mediação representacional primeira, mas o próprio contacto situado e originário de um ente localizado com o real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "representacionalismo originário",
+      "real como exterior ao sujeito",
+      "dualismo extramundano da consciência",
+      "consciência como limite absoluto do real",
+      "representacionalismo que esquece a inscrição do humano no real",
+      "ponto de vista neutro ou exterior ao real",
+      "tratamento da consciência sem condição de enquadramento",
+      "dualismo extramundano",
+      "consciência como instância soberana"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0205_SEG_001",
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../impacto_fragmentos_no_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por densificação da formulação e explicitação do carácter pré-representacional da apreensão.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P25",
+    "numero_final": 25,
+    "bloco_id": "BLOCO_IV",
+    "bloco_titulo": "Emergência do ser localizado e reflexivo",
+    "depende_de": [
+      "P24"
+    ],
+    "prepara": [
+      "P26"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "densificar",
+    "formulacao_canonica_final": "A apreensão é a relação situada e originária de contacto com o real por parte de um ente localizado.",
+    "justificacao_minima_suficiente": "Dado P24, o humano não comparece como instância exterior ao real, mas como ente nele situado e localizado. Nessa condição, o seu acesso inicial ao real não precisa de ser construído por representação ou interpretação prévias: há já um contacto situado com o que é real. A esse contacto originário chama-se apreensão. Assim, dizer que o ser humano apreende é dizer que, por ser um ente localizado, entra originariamente em relação com o real antes de qualquer tematização reflexiva.",
+    "ponte_entrada": "A partir de P24, uma vez reconhecido o humano como ente localizado no real, torna-se necessário explicitar a forma mínima dessa inserção cognoscitiva: ele apreende o real em contacto situado.",
+    "ponte_saida": "Se a apreensão é já contacto situado e originário com o real, então P26 pode avançar a partir desse contacto para a explicitação seguinte sem depender de um salto representacional.",
+    "porque_o_anterior_nao_basta": "P24 não basta porque ainda não explicita que a relação do ente localizado com o real se dá como apreensão, isto é, como contacto situado e originário.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a passagem de P24 para P26 perde a mediação que transforma a mera localização do humano no real numa relação efetiva de contacto com ele, produzindo um salto dedutivo.",
+    "objecao_letal_a_bloquear": "representacionalismo originário",
+    "bloqueio_curto_da_objecao": "A apreensão não é uma imagem ou mediação representacional primeira, mas o próprio contacto situado e originário de um ente localizado com o real.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0205_SEG_001",
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003"
+    ],
+    "objecoes_bloqueadas_final": [
+      "representacionalismo originário",
+      "real como exterior ao sujeito",
+      "dualismo extramundano da consciência",
+      "consciência como limite absoluto do real",
+      "representacionalismo que esquece a inscrição do humano no real",
+      "ponto de vista neutro ou exterior ao real",
+      "tratamento da consciência sem condição de enquadramento",
+      "dualismo extramundano",
+      "consciência como instância soberana"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P25 no corredor P25_P30. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: representacionalismo originário. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por densificação da formulação e explicitação do carácter pré-representacional da apreensão."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0efad440a16e5a0d0069b99a272d0c8199bcdf9b47410cc8e5",
+      "object": "response",
+      "created_at": 1773771303,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771314,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0efad440a16e5a0d0069b99a27e16c819997bfefd46629e38c",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P25_P30\",\n  \"passo_id\": \"P25\",\n  \"numero_final\": 25,\n  \"bloco_id\": \"BLOCO_IV\",\n  \"bloco_titulo\": \"Emergência do ser localizado e reflexivo\",\n  \"depende_de\": [\n    \"P24\"\n  ],\n  \"prepara\": [\n    \"P26\"\n  ],\n  \"estado_inicial_do_passo\": \"aberto\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"densificar\",\n  \"formulacao_v2_final\": \"A apreensão é a relação situada e originária de contacto com o real por parte de um ente localizado.\",\n  \"justificacao_expandida_final\": \"Dado P24, o humano não comparece como instância exterior ao real, mas como ente nele situado e localizado. Nessa condição, o seu acesso inicial ao real não precisa de ser construído por representação ou interpretação prévias: há já um contacto situado com o que é real. A esse contacto originário chama-se apreensão. Assim, dizer que o ser humano apreende é dizer que, por ser um ente localizado, entra originariamente em relação com o real antes de qualquer tematização reflexiva.\",\n  \"ponte_entrada\": \"A partir de P24, uma vez reconhecido o humano como ente localizado no real, torna-se necessário explicitar a forma mínima dessa inserção cognoscitiva: ele apreende o real em contacto situado.\",\n  \"ponte_saida\": \"Se a apreensão é já contacto situado e originário com o real, então P26 pode avançar a partir desse contacto para a explicitação seguinte sem depender de um salto representacional.\",\n  \"porque_o_anterior_nao_basta\": \"P24 não basta porque ainda não explicita que a relação do ente localizado com o real se dá como apreensão, isto é, como contacto situado e originário.\",\n  \"porque_nao_pode_ser_suprimido\": \"Sem este passo, a passagem de P24 para P26 perde a mediação que transforma a mera localização do humano no real numa relação efetiva de contacto com ele, produzindo um salto dedutivo.\",\n  \"objecao_letal\": \"representacionalismo originário\",\n  \"bloqueio_curto\": \"A apreensão não é uma imagem ou mediação representacional primeira, mas o próprio contacto situado e originário de um ente localizado com o real.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"representacionalismo originário\",\n    \"real como exterior ao sujeito\",\n    \"dualismo extramundano da consciência\",\n    \"consciência como limite absoluto do real\",\n    \"representacionalismo que esquece a inscrição do humano no real\",\n    \"ponto de vista neutro ou exterior ao real\",\n    \"tratamento da consciência sem condição de enquadramento\",\n    \"dualismo extramundano\",\n    \"consciência como instância soberana\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0205_SEG_001\",\n    \"F0241_A25_SEG_002\",\n    \"F0241_A24_SEG_003\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../impacto_fragmentos_no_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por densificação da formulação e explicitação do carácter pré-representacional da apreensão.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 7010,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 881,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7891
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P25.raw.txt"
+}

@@ -1,0 +1,229 @@
+{
+  "stage": "passo_nuclear",
+  "target_id": "P30",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:17:23+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P30",
+    "numero_final": 30,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P26",
+      "P27",
+      "P28",
+      "P29"
+    ],
+    "prepara": [
+      "P31"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_v2_final": "A reflexividade humana produz representações do real no interior da sua inserção ontológica e prática.",
+    "justificacao_expandida_final": "Dado que a reflexividade não opera fora do mundo, mas a partir da inserção ontológica e prática do ser humano, o representar não é um dado originário nem um fechamento autónomo do sujeito sobre si. As representações do real surgem como função reflexiva derivada dessa inserção, isto é, como explicitação simbólica e conceptual de um acesso já situado ao real. Assim, o ser reflexivo representa o real sem perder a sua base ontológica.",
+    "ponte_entrada": "Se, nos passos anteriores, a relação humana ao real já foi situada ontológica e praticamente, então pode agora dizer-se que a reflexividade produz representações desse real a partir dessa inserção e não à margem dela.",
+    "ponte_saida": "Uma vez estabelecido que a representação do real é função reflexiva situada, fica preparada a passagem para P31, onde essa função pode ser ulteriormente determinada sem salto como desenvolvimento epistemológico dessa base ontológica.",
+    "porque_o_anterior_nao_basta": "Os passos P26, P27, P28 e P29 situam as condições ontológicas e mediacionais da relação ao real, mas ainda não explicitam a passagem segundo a qual a reflexividade humana produz representações do real no interior dessa inserção.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a transição para P31 deixaria por mediar o estatuto da representação enquanto função reflexiva derivada da inserção ontológica, e a cadeia apareceria como salto dedutivo.",
+    "objecao_letal": "representação sem base ontológica",
+    "bloqueio_curto": "A representação aqui afirmada não precede nem substitui a relação ontológica ao real; ela deriva reflexivamente de uma inserção ontológica e prática já dada.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "objecoes_bloqueadas_final": [
+      "representação sem base ontológica",
+      "mediação simbólica reduzida a informação abstrata",
+      "coerentismo fechado",
+      "fechamento conceptual desligado do real",
+      "neutralidade espontanea do sujeito",
+      "representacao humana como acesso nao situado ao real",
+      "ponto de vista deslocalizado",
+      "representação como dado originário",
+      "individualismo autodidata suficiente"
+    ],
+    "fragmentos_selecionados_finais": [
+      "F0241_A19_SEG_003",
+      "F0241_A10_SEG_002",
+      "F0097_A02_SEG_001",
+      "F0241_A25_SEG_001",
+      "F0241_A14_SEG_001",
+      "F0195_SEG_001",
+      "F0147_SEG_001",
+      "F0129_SEG_001",
+      "F0119_A01_SEG_002",
+      "F0108_A01_SEG_001",
+      "F0107_SEG_003",
+      "F0094_A02_SEG_001"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../impacto_fragmentos_no_mapa.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "nota_editorial_final": "Fecho local obtido por reformulação mínima com explicitação do representar como função reflexiva derivada da inserção ontológica.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_passo",
+    "corredor": "P25_P30",
+    "passo_id": "P30",
+    "numero_final": 30,
+    "bloco_id": "BLOCO_V",
+    "bloco_titulo": "Epistemologia derivada da ontologia",
+    "depende_de": [
+      "P26",
+      "P27",
+      "P28",
+      "P29"
+    ],
+    "prepara": [
+      "P31"
+    ],
+    "estado_inicial_do_passo": "aberto",
+    "tipos_de_fragilidade_iniciais": [
+      "formulacao",
+      "mediacao"
+    ],
+    "decisao_editorial": "reformular",
+    "formulacao_canonica_final": "A reflexividade humana produz representações do real no interior da sua inserção ontológica e prática.",
+    "justificacao_minima_suficiente": "Dado que a reflexividade não opera fora do mundo, mas a partir da inserção ontológica e prática do ser humano, o representar não é um dado originário nem um fechamento autónomo do sujeito sobre si. As representações do real surgem como função reflexiva derivada dessa inserção, isto é, como explicitação simbólica e conceptual de um acesso já situado ao real. Assim, o ser reflexivo representa o real sem perder a sua base ontológica.",
+    "ponte_entrada": "Se, nos passos anteriores, a relação humana ao real já foi situada ontológica e praticamente, então pode agora dizer-se que a reflexividade produz representações desse real a partir dessa inserção e não à margem dela.",
+    "ponte_saida": "Uma vez estabelecido que a representação do real é função reflexiva situada, fica preparada a passagem para P31, onde essa função pode ser ulteriormente determinada sem salto como desenvolvimento epistemológico dessa base ontológica.",
+    "porque_o_anterior_nao_basta": "Os passos P26, P27, P28 e P29 situam as condições ontológicas e mediacionais da relação ao real, mas ainda não explicitam a passagem segundo a qual a reflexividade humana produz representações do real no interior dessa inserção.",
+    "porque_nao_pode_ser_suprimido": "Sem este passo, a transição para P31 deixaria por mediar o estatuto da representação enquanto função reflexiva derivada da inserção ontológica, e a cadeia apareceria como salto dedutivo.",
+    "objecao_letal_a_bloquear": "representação sem base ontológica",
+    "bloqueio_curto_da_objecao": "A representação aqui afirmada não precede nem substitui a relação ontológica ao real; ela deriva reflexivamente de uma inserção ontológica e prática já dada.",
+    "precisa_de_subpasso": false,
+    "subpassos_aprovados_ids": [],
+    "fragmentos_de_apoio_final": [
+      "F0241_A19_SEG_003",
+      "F0241_A10_SEG_002",
+      "F0097_A02_SEG_001",
+      "F0241_A25_SEG_001",
+      "F0241_A14_SEG_001",
+      "F0195_SEG_001",
+      "F0147_SEG_001",
+      "F0129_SEG_001",
+      "F0119_A01_SEG_002",
+      "F0108_A01_SEG_001",
+      "F0107_SEG_003",
+      "F0094_A02_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "representação sem base ontológica",
+      "mediação simbólica reduzida a informação abstrata",
+      "coerentismo fechado",
+      "fechamento conceptual desligado do real",
+      "neutralidade espontanea do sujeito",
+      "representacao humana como acesso nao situado ao real",
+      "ponto de vista deslocalizado",
+      "representação como dado originário",
+      "individualismo autodidata suficiente"
+    ],
+    "fontes_utilizadas": [
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estado_final_do_passo": "fechado",
+    "reabrir_em_arbitragem_de_corredor": false,
+    "justificacao_da_decisao": "Foi fixada uma decisão local para P30 no corredor P25_P30. A formulação final responde ao défice identificado em aberto. A objeção letal bloqueada é: representação sem base ontológica. Estado final provisório do passo: fechado.",
+    "observacoes_editoriais": [
+      "Fecho local obtido por reformulação mínima com explicitação do representar como função reflexiva derivada da inserção ontológica."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_090eb84f15e2f33f0069b99a9a18988190821a021c9e0daa6a",
+      "object": "response",
+      "created_at": 1773771418,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771430,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_090eb84f15e2f33f0069b99a9aa8488190853240dcfc5db3e0",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_passo\",\n  \"corredor\": \"P25_P30\",\n  \"passo_id\": \"P30\",\n  \"numero_final\": 30,\n  \"bloco_id\": \"BLOCO_V\",\n  \"bloco_titulo\": \"Epistemologia derivada da ontologia\",\n  \"depende_de\": [\n    \"P26\",\n    \"P27\",\n    \"P28\",\n    \"P29\"\n  ],\n  \"prepara\": [\n    \"P31\"\n  ],\n  \"estado_inicial_do_passo\": \"aberto\",\n  \"tipos_de_fragilidade_iniciais\": [\n    \"formulacao\",\n    \"mediacao\"\n  ],\n  \"decisao_editorial\": \"reformular\",\n  \"formulacao_v2_final\": \"A reflexividade humana produz representações do real no interior da sua inserção ontológica e prática.\",\n  \"justificacao_expandida_final\": \"Dado que a reflexividade não opera fora do mundo, mas a partir da inserção ontológica e prática do ser humano, o representar não é um dado originário nem um fechamento autónomo do sujeito sobre si. As representações do real surgem como função reflexiva derivada dessa inserção, isto é, como explicitação simbólica e conceptual de um acesso já situado ao real. Assim, o ser reflexivo representa o real sem perder a sua base ontológica.\",\n  \"ponte_entrada\": \"Se, nos passos anteriores, a relação humana ao real já foi situada ontológica e praticamente, então pode agora dizer-se que a reflexividade produz representações desse real a partir dessa inserção e não à margem dela.\",\n  \"ponte_saida\": \"Uma vez estabelecido que a representação do real é função reflexiva situada, fica preparada a passagem para P31, onde essa função pode ser ulteriormente determinada sem salto como desenvolvimento epistemológico dessa base ontológica.\",\n  \"porque_o_anterior_nao_basta\": \"Os passos P26, P27, P28 e P29 situam as condições ontológicas e mediacionais da relação ao real, mas ainda não explicitam a passagem segundo a qual a reflexividade humana produz representações do real no interior dessa inserção.\",\n  \"porque_nao_pode_ser_suprimido\": \"Sem este passo, a transição para P31 deixaria por mediar o estatuto da representação enquanto função reflexiva derivada da inserção ontológica, e a cadeia apareceria como salto dedutivo.\",\n  \"objecao_letal\": \"representação sem base ontológica\",\n  \"bloqueio_curto\": \"A representação aqui afirmada não precede nem substitui a relação ontológica ao real; ela deriva reflexivamente de uma inserção ontológica e prática já dada.\",\n  \"precisa_de_subpasso\": false,\n  \"subpassos_aprovados_ids\": [],\n  \"objecoes_bloqueadas_final\": [\n    \"representação sem base ontológica\",\n    \"mediação simbólica reduzida a informação abstrata\",\n    \"coerentismo fechado\",\n    \"fechamento conceptual desligado do real\",\n    \"neutralidade espontanea do sujeito\",\n    \"representacao humana como acesso nao situado ao real\",\n    \"ponto de vista deslocalizado\",\n    \"representação como dado originário\",\n    \"individualismo autodidata suficiente\"\n  ],\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A19_SEG_003\",\n    \"F0241_A10_SEG_002\",\n    \"F0097_A02_SEG_001\",\n    \"F0241_A25_SEG_001\",\n    \"F0241_A14_SEG_001\",\n    \"F0195_SEG_001\",\n    \"F0147_SEG_001\",\n    \"F0129_SEG_001\",\n    \"F0119_A01_SEG_002\",\n    \"F0108_A01_SEG_001\",\n    \"F0107_SEG_003\",\n    \"F0094_A02_SEG_001\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\",\n    \"../impacto_fragmentos_no_mapa.json\"\n  ],\n  \"estado_final_do_passo\": \"fechado\",\n  \"reabrir_em_arbitragem_de_corredor\": false,\n  \"nota_editorial_final\": \"Fecho local obtido por reformulação mínima com explicitação do representar como função reflexiva derivada da inserção ontológica.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 7064,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1013,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8077
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "passo_nuclear__P30.raw.txt"
+}

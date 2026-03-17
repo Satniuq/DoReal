@@ -1,0 +1,189 @@
+{
+  "stage": "subpasso_mediacional",
+  "target_id": "P28_SP01",
+  "mode": "api",
+  "gerado_em_utc": "2026-03-17T18:16:37+00:00",
+  "raw_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P25_P30",
+    "passo_pai_id": "P28",
+    "subpasso_id": "P28_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "entra_subpasso": false,
+    "justificacao_da_decisao": "Apesar de os materiais pré-canónicos e de inevitabilidade assinalarem inicialmente uma fragilidade mediacional e sugerirem explicitar a passagem entre representação linguística e consciência como processo real, a decisão canónica final já fecha essa mediação no próprio P28. A formulação final, a justificação mínima suficiente, a ponte de entrada e o bloqueio curto tornam explícito que, se a representação e a simbolização pertencem ao modo humano de estar no real, então a consciência que nelas opera não pode ser exterior ao real. Assim, a lacuna é resolvida por densificação interna do passo, sem necessidade de um subpasso autónomo. Introduzir P28_SP01 apenas repetiria o conteúdo inferencial já incorporado no passo pai.",
+    "formulacao_subpasso": null,
+    "posicao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P28",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não entra, porque a mediação necessária já foi absorvida pela reformulação canónica do próprio P28."
+    },
+    "funcao_dedutiva": null,
+    "justificacao_minima_suficiente": "A justificação canónica de P28 já explicita suficientemente a inferência: se o humano é localizado e se apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real, localizado e mediado, não como instância exterior.",
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "dualismo extramundano",
+    "bloqueio_curto": "Se a consciência opera por apreensão, representação e simbolização no real, ela não pode ser uma instância exterior ao real; tem de ser processo seu, localizado e mediado.",
+    "fragmentos_selecionados_finais": [
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003",
+      "F0241_A23_SEG_001",
+      "F0167_SEG_001",
+      "F0113_A01_SEG_001",
+      "F0107_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dualismo extramundano",
+      "consciência como instância soberana",
+      "consciência como exterior ao real",
+      "consciência como instância desencarnada"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "nota_editorial_final": "Subpasso rejeitado: fecho obtido por densificação interna de P28.",
+    "pendencias": []
+  },
+  "normalized_json": {
+    "tipo_registo": "decisao_subpasso",
+    "corredor": "P25_P30",
+    "passo_pai_id": "P28",
+    "subpasso_id": "P28_SP01",
+    "numero_ordinal_no_passo": 1,
+    "necessidade_detectada": false,
+    "decisao_subpasso": "rejeitado",
+    "justificacao_da_decisao": "Apesar de os materiais pré-canónicos e de inevitabilidade assinalarem inicialmente uma fragilidade mediacional e sugerirem explicitar a passagem entre representação linguística e consciência como processo real, a decisão canónica final já fecha essa mediação no próprio P28. A formulação final, a justificação mínima suficiente, a ponte de entrada e o bloqueio curto tornam explícito que, se a representação e a simbolização pertencem ao modo humano de estar no real, então a consciência que nelas opera não pode ser exterior ao real. Assim, a lacuna é resolvida por densificação interna do passo, sem necessidade de um subpasso autónomo. Introduzir P28_SP01 apenas repetiria o conteúdo inferencial já incorporado no passo pai.",
+    "formulacao_subpasso": null,
+    "justificacao_minima_suficiente": "A justificação canónica de P28 já explicita suficientemente a inferência: se o humano é localizado e se apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real, localizado e mediado, não como instância exterior.",
+    "funcao_dedutiva": null,
+    "localizacao_na_cadeia": {
+      "modo_de_insercao": "intra_passo",
+      "ancorado_no_passo_id": "P28",
+      "entra_apos_passo_id": null,
+      "entra_antes_de_passo_id": null,
+      "justificacao_de_insercao": "Não entra, porque a mediação necessária já foi absorvida pela reformulação canónica do próprio P28."
+    },
+    "ponte_entrada": null,
+    "ponte_saida": null,
+    "objecao_letal_a_bloquear": "dualismo extramundano",
+    "bloqueio_curto_da_objecao": "Se a consciência opera por apreensão, representação e simbolização no real, ela não pode ser uma instância exterior ao real; tem de ser processo seu, localizado e mediado.",
+    "fragmentos_de_apoio_final": [
+      "F0241_A25_SEG_002",
+      "F0241_A24_SEG_003",
+      "F0241_A23_SEG_001",
+      "F0167_SEG_001",
+      "F0113_A01_SEG_001",
+      "F0107_SEG_001"
+    ],
+    "objecoes_bloqueadas_final": [
+      "dualismo extramundano",
+      "consciência como instância soberana",
+      "consciência como exterior ao real",
+      "consciência como instância desencarnada"
+    ],
+    "fontes_utilizadas": [
+      "dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON",
+      "dados/MAPA_PRECANONICO_RECORTE_JSON",
+      "dados/DOSSIER_CORREDOR_RECORTE_JSON",
+      "../revisao_estrutural_do_mapa.json",
+      "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "../01_reconstrucao_mapa_v2/matriz_inevitabilidades_v4.json",
+      "../01_reconstrucao_mapa_v2/mapa_dedutivo_precanonico_v4.json",
+      "../01_reconstrucao_mapa_v2/relatorio_fecho_canonico_v4.json",
+      "../01_reconstrucao_mapa_v2/dossiers_corredor/dossier_corredor_P25_P30.json",
+      "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+      "../../13_Meta_Indice/indice/indice_por_percurso.json",
+      "../impacto_fragmentos_no_mapa.json",
+      "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json"
+    ],
+    "estatuto_final_no_mapa": "nao_inserido",
+    "observacoes_editoriais": [
+      "Subpasso rejeitado: fecho obtido por densificação interna de P28."
+    ]
+  },
+  "validation": {
+    "prompt_response_valid": true,
+    "canonical_valid": true,
+    "api_meta": {
+      "id": "resp_0cbc82c36f82b1260069b99a7ae7748199a8545cf99bc5de05",
+      "object": "response",
+      "created_at": 1773771386,
+      "status": "completed",
+      "background": false,
+      "billing": {
+        "payer": "developer"
+      },
+      "completed_at": 1773771396,
+      "error": null,
+      "frequency_penalty": 0.0,
+      "incomplete_details": null,
+      "instructions": null,
+      "max_output_tokens": null,
+      "max_tool_calls": null,
+      "model": "gpt-5.4-2026-03-05",
+      "output": [
+        {
+          "id": "msg_0cbc82c36f82b1260069b99a7b71688199b8509ab2c5f8a64f",
+          "type": "message",
+          "status": "completed",
+          "content": [
+            {
+              "type": "output_text",
+              "annotations": [],
+              "logprobs": [],
+              "text": "{\n  \"tipo_registo\": \"decisao_subpasso\",\n  \"corredor\": \"P25_P30\",\n  \"passo_pai_id\": \"P28\",\n  \"subpasso_id\": \"P28_SP01\",\n  \"numero_ordinal_no_passo\": 1,\n  \"necessidade_detectada\": false,\n  \"decisao_subpasso\": \"rejeitado\",\n  \"entra_subpasso\": false,\n  \"justificacao_da_decisao\": \"Apesar de os materiais pré-canónicos e de inevitabilidade assinalarem inicialmente uma fragilidade mediacional e sugerirem explicitar a passagem entre representação linguística e consciência como processo real, a decisão canónica final já fecha essa mediação no próprio P28. A formulação final, a justificação mínima suficiente, a ponte de entrada e o bloqueio curto tornam explícito que, se a representação e a simbolização pertencem ao modo humano de estar no real, então a consciência que nelas opera não pode ser exterior ao real. Assim, a lacuna é resolvida por densificação interna do passo, sem necessidade de um subpasso autónomo. Introduzir P28_SP01 apenas repetiria o conteúdo inferencial já incorporado no passo pai.\",\n  \"formulacao_subpasso\": null,\n  \"posicao_na_cadeia\": {\n    \"modo_de_insercao\": \"intra_passo\",\n    \"ancorado_no_passo_id\": \"P28\",\n    \"entra_apos_passo_id\": null,\n    \"entra_antes_de_passo_id\": null,\n    \"justificacao_de_insercao\": \"Não entra, porque a mediação necessária já foi absorvida pela reformulação canónica do próprio P28.\"\n  },\n  \"funcao_dedutiva\": null,\n  \"justificacao_minima_suficiente\": \"A justificação canónica de P28 já explicita suficientemente a inferência: se o humano é localizado e se apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real, localizado e mediado, não como instância exterior.\",\n  \"ponte_entrada\": null,\n  \"ponte_saida\": null,\n  \"objecao_letal_a_bloquear\": \"dualismo extramundano\",\n  \"bloqueio_curto\": \"Se a consciência opera por apreensão, representação e simbolização no real, ela não pode ser uma instância exterior ao real; tem de ser processo seu, localizado e mediado.\",\n  \"fragmentos_selecionados_finais\": [\n    \"F0241_A25_SEG_002\",\n    \"F0241_A24_SEG_003\",\n    \"F0241_A23_SEG_001\",\n    \"F0167_SEG_001\",\n    \"F0113_A01_SEG_001\",\n    \"F0107_SEG_001\"\n  ],\n  \"objecoes_bloqueadas_final\": [\n    \"dualismo extramundano\",\n    \"consciência como instância soberana\",\n    \"consciência como exterior ao real\",\n    \"consciência como instância desencarnada\"\n  ],\n  \"fontes_utilizadas\": [\n    \"dados/MATRIZ_INEVITABILIDADES_RECORTE_JSON\",\n    \"dados/MAPA_PRECANONICO_RECORTE_JSON\",\n    \"dados/DOSSIER_CORREDOR_RECORTE_JSON\",\n    \"../revisao_estrutural_do_mapa.json\",\n    \"../02_mapa_dedutivo_arquitetura_fragmentos.json\"\n  ],\n  \"estatuto_final_no_mapa\": \"nao_inserido\",\n  \"nota_editorial_final\": \"Subpasso rejeitado: fecho obtido por densificação interna de P28.\",\n  \"pendencias\": []\n}"
+            }
+          ],
+          "phase": "final_answer",
+          "role": "assistant"
+        }
+      ],
+      "parallel_tool_calls": true,
+      "presence_penalty": 0.0,
+      "previous_response_id": null,
+      "prompt_cache_key": null,
+      "prompt_cache_retention": null,
+      "reasoning": {
+        "effort": "none",
+        "summary": null
+      },
+      "safety_identifier": null,
+      "service_tier": "default",
+      "store": true,
+      "temperature": 1.0,
+      "text": {
+        "format": {
+          "type": "text"
+        },
+        "verbosity": "medium"
+      },
+      "tool_choice": "auto",
+      "tools": [],
+      "top_logprobs": 0,
+      "top_p": 0.98,
+      "truncation": "disabled",
+      "usage": {
+        "input_tokens": 9265,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 795,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10060
+      },
+      "user": null,
+      "metadata": {}
+    }
+  },
+  "raw_text_path": "subpasso_mediacional__P28_SP01.raw.txt"
+}

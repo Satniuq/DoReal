@@ -1,0 +1,823 @@
+Fecha canonicamente um único passo do mapa dedutivo.
+
+Trabalha apenas sobre o corredor e o passo abaixo indicados.
+Não faças análise global.
+Não reabras o projeto inteiro.
+Não proposes novas fases.
+Não inventes fragmentos, objeções, dependências ou fontes que não estejam suportados pelos materiais fornecidos.
+Escolhe a solução local mínima suficiente.
+
+PLACEHOLDERS
+
+CORREDOR_ID=P42_P48
+PASSO_ID=P45
+NUMERO_FINAL=47
+BLOCO_ID=BLOCO_VI
+BLOCO_TITULO=Passagem da epistemologia à ética ontológica
+DEPENDE_DE_JSON=[
+  "P40",
+  "P44"
+]
+PREPARA_JSON=[
+  "P46"
+]
+ESTADO_INICIAL_DO_PASSO=quase_fechado
+TIPOS_DE_FRAGILIDADE_JSON=[
+  "formulacao",
+  "mediacao"
+]
+PASSO_ANTERIOR_ID=P48
+PASSO_SEGUINTE_ID=P46
+
+MATERIAIS
+
+[MATRIZ_INEVITABILIDADES_RECORTE_JSON]
+{
+  "id": "P45",
+  "numero_final": 47,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+    "P40",
+    "P44"
+  ],
+  "prepara": [
+    "P46"
+  ],
+  "proposicao_canonica_curta": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+  "proposicao_canonica_tecnica": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+  "tese_minima_canonica": "O mal é degeneração, dano ou desadequação operativa.",
+  "justificacao_minima_canonica": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+  "porque_este_passo_e_necessario": "O mal é degeneração, dano ou desadequação operativa.",
+  "porque_o_anterior_nao_basta": "Os passos P40, P44 não bastam em conjunto porque ainda não fecham esta passagem específica: O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P46 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "mal como entidade autónoma",
+  "tipo_de_necessidade": "etica",
+  "estado_de_fecho": "quase_fechado",
+  "classificacao_funcional": "nucleo",
+  "estatuto_no_mapa": "densificar",
+  "score_canonico_de_fecho": 6.078,
+  "breakdown_score_canonico": {
+    "dependencias": 1.6,
+    "prepara": 0.7,
+    "classificacao": 3.0,
+    "estatuto": 1.8,
+    "impacto_fragmentario": 0.0,
+    "densificacao": 0.0,
+    "promocao_mediacional": 0.0784,
+    "fragilidade": -0.1,
+    "contaminacao_textual": -1.0
+  },
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_canonica": "v3_proposicao_final",
+  "score_formulacao_canonica": 4.6,
+  "candidatas_de_formulacao": [
+    {
+      "fonte": "v3_proposicao_final",
+      "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+      "score": 4.6
+    },
+    {
+      "fonte": "revisao_nova_formulacao_provisoria",
+      "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+      "score": 4.2
+    },
+    {
+      "fonte": "base_formulacao_academica",
+      "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+      "score": 4.0
+    },
+    {
+      "fonte": "fecho_formulacao_v2_provisoria",
+      "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+      "score": 2.8
+    },
+    {
+      "fonte": "base_proposicao",
+      "texto": "O mal é degeneração, dano ou desadequação operativa.",
+      "score": 2.0
+    }
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0119_A01_SEG_003",
+    "F0067_SEG_003",
+    "F0067_SEG_002",
+    "F0060_A01_SEG_004",
+    "F0040_SEG_001",
+    "F0124_SEG_002",
+    "F0120_SEG_002",
+    "F0063_A02_SEG_002",
+    "F0241_A18_SEG_001"
+  ],
+  "objecoes_bloqueadas": [
+    "mal como entidade autónoma",
+    "coerentismo fechado",
+    "relativismo",
+    "convencionalismo total",
+    "autonomia normativa absoluta",
+    "separação forte entre verdade e bem",
+    "indiferentismo axiológico total",
+    "moralismo extrínseco",
+    "direção ontológica como projeção humana",
+    "continuidade irrelevante para o bem",
+    "colapso neutro ou gerador",
+    "indistinção entre ser e bem"
+  ],
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.31).",
+    "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Refinar diferença entre erro, dano e mal."
+  ]
+}
+
+[MAPA_PRECANONICO_RECORTE_JSON]
+{
+  "id": "P45",
+  "numero_original": 45,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "numero_final": 47,
+  "proposicao_final": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+  "proposicao_original": "O mal é degeneração, dano ou desadequação operativa.",
+  "descricao_curta": "Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada.",
+  "funcao_no_sistema": "No Passagem da epistemologia à ética ontológica, esta proposição fixa que o mal é degeneração, dano ou desadequação operativa.; Recebe apoio imediato de P40, P44; e prepara P46.",
+  "depende_de": [
+    "P40",
+    "P44"
+  ],
+  "prepara": [
+    "P46"
+  ],
+  "tese_minima": "O mal é degeneração, dano ou desadequação operativa.",
+  "justificacao_minima_suficiente": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+  "objecoes_bloqueadas": [
+    "mal como entidade autónoma",
+    "coerentismo fechado",
+    "relativismo",
+    "convencionalismo total",
+    "autonomia normativa absoluta",
+    "separação forte entre verdade e bem",
+    "indiferentismo axiológico total",
+    "moralismo extrínseco",
+    "direção ontológica como projeção humana",
+    "continuidade irrelevante para o bem",
+    "colapso neutro ou gerador",
+    "indistinção entre ser e bem"
+  ],
+  "fragmentos_de_apoio_final": [
+    "F0119_A01_SEG_003",
+    "F0067_SEG_003",
+    "F0067_SEG_002",
+    "F0060_A01_SEG_004",
+    "F0040_SEG_001",
+    "F0124_SEG_002",
+    "F0120_SEG_002",
+    "F0063_A02_SEG_002",
+    "F0241_A18_SEG_001"
+  ],
+  "estatuto_no_mapa": "densificar",
+  "classificacao_funcional": "nucleo",
+  "nucleo": "O mal é degeneração, dano ou desadequação operativa.",
+  "mediacao_necessaria": [
+    "Densificar a justificação interna e tornar explícitos os seus pressupostos imediatos.",
+    "Aproveitar as mediações já sinalizadas nos fragmentos e separar as fortes das apenas expositivas."
+  ],
+  "apoio_expositivo": [],
+  "grau_de_inevitabilidade": "medio",
+  "score_de_inevitabilidade": 0.559,
+  "fonte_decisao_prioritaria": "fecho_manual",
+  "fonte_formulacao_escolhida": "base_academica",
+  "score_compatibilidade_formulacao": 0.562,
+  "apoio_argumentativo": {
+    "argumentos_ids": [],
+    "percursos_ids": [],
+    "n_argumentos": 0,
+    "n_percursos": 0
+  },
+  "promovivel_a_mediacao_autonoma": false,
+  "score_promocao_mediacional": 0.98,
+  "observacoes_editoriais": [
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+    "Formulação manual rejeitada por baixa compatibilidade semântica (0.31).",
+    "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Refinar diferença entre erro, dano e mal."
+  ],
+  "estado_de_fecho_canonico": "quase_fechado",
+  "score_canonico_de_fecho": 6.078,
+  "tipos_de_fragilidade": [
+    "formulacao",
+    "mediacao"
+  ],
+  "precisa_de_subpasso": false,
+  "subpasso_sugerido": null,
+  "texto_meta_editorial_detectado": true,
+  "requer_arbitragem_humana": true,
+  "porque_o_anterior_nao_basta": "Os passos P40, P44 não bastam em conjunto porque ainda não fecham esta passagem específica: O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+  "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P46 perde mediação e aparece como salto dedutivo.",
+  "objecao_letal_a_bloquear": "mal como entidade autónoma",
+  "tipo_de_necessidade": "etica"
+}
+
+[RELATORIO_FECHO_RECORTE_JSON]
+{
+  "corredor": {
+    "total": 7,
+    "fechados": 0,
+    "abertos": 2,
+    "quase_fechados": 5,
+    "subpassos": [
+      "P42",
+      "P47"
+    ]
+  },
+  "passo": {
+    "mais_aberto": {},
+    "fragilidade_mediacional": {}
+  }
+}
+
+[DOSSIER_CORREDOR_RECORTE_JSON]
+{
+  "resumo": {
+    "total_passos": 7,
+    "fechados": 0,
+    "quase_fechados": 5,
+    "abertos": 2,
+    "passos_com_subpasso": [
+      "P42",
+      "P47"
+    ]
+  },
+  "sequencia_minima_do_corredor": [
+    "P42",
+    "P43",
+    "P47",
+    "P44",
+    "P48",
+    "P45",
+    "P46"
+  ],
+  "proposicao_canonica": {
+    "id": "P45",
+    "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação."
+  },
+  "problema_ainda_aberto": {
+    "id": "P45",
+    "estado_de_fecho": "quase_fechado",
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "subpasso_sugerido": null,
+    "objecao_letal_a_bloquear": "mal como entidade autónoma"
+  },
+  "passo": {
+    "id": "P45",
+    "numero_final": 47,
+    "bloco_id": "BLOCO_VI",
+    "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+    "depende_de": [
+      "P40",
+      "P44"
+    ],
+    "prepara": [
+      "P46"
+    ],
+    "proposicao_canonica_curta": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "proposicao_canonica_tecnica": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "tese_minima_canonica": "O mal é degeneração, dano ou desadequação operativa.",
+    "justificacao_minima_canonica": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+    "porque_este_passo_e_necessario": "O mal é degeneração, dano ou desadequação operativa.",
+    "porque_o_anterior_nao_basta": "Os passos P40, P44 não bastam em conjunto porque ainda não fecham esta passagem específica: O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+    "porque_nao_pode_ser_suprimido": "Se este passo for suprimido, a passagem para P46 perde mediação e aparece como salto dedutivo.",
+    "objecao_letal_a_bloquear": "mal como entidade autónoma",
+    "tipo_de_necessidade": "etica",
+    "estado_de_fecho": "quase_fechado",
+    "classificacao_funcional": "nucleo",
+    "estatuto_no_mapa": "densificar",
+    "score_canonico_de_fecho": 6.078,
+    "breakdown_score_canonico": {
+      "dependencias": 1.6,
+      "prepara": 0.7,
+      "classificacao": 3.0,
+      "estatuto": 1.8,
+      "impacto_fragmentario": 0.0,
+      "densificacao": 0.0,
+      "promocao_mediacional": 0.0784,
+      "fragilidade": -0.1,
+      "contaminacao_textual": -1.0
+    },
+    "tipos_de_fragilidade": [
+      "formulacao",
+      "mediacao"
+    ],
+    "precisa_de_subpasso": false,
+    "subpasso_sugerido": null,
+    "texto_meta_editorial_detectado": true,
+    "requer_arbitragem_humana": true,
+    "fonte_decisao_prioritaria": "fecho_manual",
+    "fonte_formulacao_canonica": "v3_proposicao_final",
+    "score_formulacao_canonica": 4.6,
+    "candidatas_de_formulacao": [
+      {
+        "fonte": "v3_proposicao_final",
+        "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+        "score": 4.6
+      },
+      {
+        "fonte": "revisao_nova_formulacao_provisoria",
+        "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+        "score": 4.2
+      },
+      {
+        "fonte": "base_formulacao_academica",
+        "texto": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+        "score": 4.0
+      },
+      {
+        "fonte": "fecho_formulacao_v2_provisoria",
+        "texto": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+        "score": 2.8
+      },
+      {
+        "fonte": "base_proposicao",
+        "texto": "O mal é degeneração, dano ou desadequação operativa.",
+        "score": 2.0
+      }
+    ],
+    "fragmentos_de_apoio_final": [
+      "F0119_A01_SEG_003",
+      "F0067_SEG_003",
+      "F0067_SEG_002",
+      "F0060_A01_SEG_004",
+      "F0040_SEG_001",
+      "F0124_SEG_002",
+      "F0120_SEG_002",
+      "F0063_A02_SEG_002",
+      "F0241_A18_SEG_001"
+    ],
+    "objecoes_bloqueadas": [
+      "mal como entidade autónoma",
+      "coerentismo fechado",
+      "relativismo",
+      "convencionalismo total",
+      "autonomia normativa absoluta",
+      "separação forte entre verdade e bem",
+      "indiferentismo axiológico total",
+      "moralismo extrínseco",
+      "direção ontológica como projeção humana",
+      "continuidade irrelevante para o bem",
+      "colapso neutro ou gerador",
+      "indistinção entre ser e bem"
+    ],
+    "observacoes_editoriais": [
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.27).",
+      "Formulação manual rejeitada por baixa compatibilidade semântica (0.31).",
+      "Défice principal do fecho manual: O défice principal é de densidade justificativa. Falta ainda: Refinar diferença entre erro, dano e mal."
+    ]
+  }
+}
+
+[INPUTS_SECUNDARIOS_RELEVANTES_JSON]
+{
+  "revisao_estrutural_do_mapa": {
+    "path": "../revisao_estrutural_do_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.revisao_por_proposicao[44]",
+        "match": {
+          "proposicao_id": "P45",
+          "numero": 45,
+          "bloco_id": "BLOCO_VI",
+          "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+          "proposicao": "O mal é degeneração, dano ou desadequação operativa.",
+          "descricao_curta": "Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada.",
+          "depende_de": [
+            "P40",
+            "P44"
+          ],
+          "prepara": [
+            "P46"
+          ],
+          "estado_anterior_no_mapa": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null
+          },
+          "base_dedutiva_existente": {
+            "tese_minima": "O mal é degeneração, dano ou desadequação operativa.",
+            "justificacao_interna_do_passo": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "negatividade_pratica",
+            "formulacao_filosofico_academica": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+            "o_que_falta_provar_ou_explicitar": "Refinar diferença entre erro, dano e mal.",
+            "objecoes_tipicas_a_bloquear": [
+              "mal como entidade autónoma"
+            ],
+            "mediacoes_em_falta_no_mapa": []
+          },
+          "pressao_dos_fragmentos": {
+            "total_fragmentos_que_tocam": 9,
+            "total_origens_que_tocam": 8,
+            "zona_filosofica_dominante": "etica_ontologica",
+            "efeito_principal_dominante": "explicita",
+            "acao_recomendada_dominante": "densificar",
+            "tipo_de_utilidade_dominante": "justificativa",
+            "prioridade_editorial_dominante": "media",
+            "distribuicao_efeitos": {
+              "explicita": 8,
+              "sem_impacto_relevante": 1
+            },
+            "distribuicao_acoes": {
+              "densificar": 8,
+              "sem_acao": 1
+            },
+            "distribuicao_tipos_relacao": {
+              "toca_indiretamente": 2,
+              "apoia_justificacao": 6,
+              "bloqueia_objecao": 1
+            },
+            "distribuicao_graus_relevancia": {
+              "baixo": 2,
+              "alto": 3,
+              "medio": 4
+            },
+            "distribuicao_tipos_utilidade": {
+              "justificativa": 8,
+              "tematica": 1
+            },
+            "distribuicao_prioridades": {
+              "media": 5,
+              "alta": 3,
+              "baixa": 1
+            }
+          },
+          "materiais_de_reconstrucao": {
+            "fragmentos_relacionados": [
+              "F0040_SEG_001",
+              "F0060_A01_SEG_004",
+              "F0063_A02_SEG_002",
+              "F0067_SEG_002",
+              "F0067_SEG_003",
+              "F0119_A01_SEG_003",
+              "F0120_SEG_002",
+              "F0124_SEG_002",
+              "F0241_A18_SEG_001"
+            ],
+            "origens_relacionadas": [
+              "F0040",
+              "F0060_A01",
+              "F0063_A02",
+              "F0067",
+              "F0119_A01",
+              "F0120",
+              "F0124",
+              "F0241_A18"
+            ],
+            "resumos_de_fragmento": [
+              "Afirma a verdade como critério restante de orientação humana no real e liga a dissolução de estruturas simbólico-morais ao relativismo e à produção de proposições nocivas.",
+              "Nega separação ontológica forte entre verdade e bem e redefine o mal como falha de descrição/aplicação do dever-ser pelo ser reflexivo.",
+              "Distingue duas formas institucionais pelo seu efeito sobre o campo de potencialidades e pelo risco comum de degeneração por defeito de viver no processo.",
+              "Enumera objeções à derivação do bem: questiona direção objetiva, relevância da continuidade, associação entre colapso e mal e distinção entre ser e bem.",
+              "Reconduz bem, mal, critério e ilusão ao real; liga consciência à continuidade e nega bem/mal como entidades separadas.",
+              "Propõe um critério relacional unificado para verdade, bom e melhor, e aplica-o ao caso de matar como destruição de relação ontologicamente válida.",
+              "Liga decisão prática à qualidade da descrição e da apreensão, recusa o mal como entidade ontológica e reconduz o mal prático a falha de apreensão do real e do possível.",
+              "Aplica o critério de dano real a um caso de escolha genética, definindo o mal como corte deliberado de potencialidades de outro ser reflexivo.",
+              "Abre o problema do mal extremo como possibilidade humana compreensível, mas sem articulação dedutiva estabilizada."
+            ],
+            "teses_principais_dos_fragmentos": [
+              "Sem orientação subordinada à verdade sobre o real, a dissolução dos modos coletivos de ser gera relativismo e degradação prática.",
+              "O dever-ser e o bem devem permanecer subordinados ao ser verdadeiro; o mal não é entidade autónoma, mas desadequação reflexiva e operativa.",
+              "Uma forma institucional é preferível quando expande potencialidades em vez de impor regulação prévia que tende à degeneração.",
+              "A derivação ontológica do bem requer defesa adicional porque pode ser contestada na direção do real, na relevância da continuidade, na negatividade do colapso e na distinção entre ser e bem.",
+              "O bem não é entidade separada; é adequação ou descrição correta do real na ação consciente, e o critério permanece submetido ao real.",
+              "O bom e o verdadeiro medem-se pela preservação da relação real; destruir essa relação constitui falsidade e mal.",
+              "O bem e o mal práticos dependem da apreensão e descrição adequadas do real e do possível; o mal não é entidade ontológica.",
+              "Suprimir deliberadamente potencialidades reais de outro ser constitui dano real e, por isso, conta como mal eticamente relevante.",
+              "O mal extremo e o extermínio não são mistério absoluto; pertencem ao campo das possibilidades humanas reais e exigem explicação."
+            ],
+            "justificacoes_da_associacao": [
+              "A referência a proposições maléficas aproxima-se da linha da degeneração prática, mas ainda sem dedução ética suficiente.",
+              "Define o mal como falha em descrever e aplicar melhor o dever-ser, isto é, como desadequação operativa, não como positividade autónoma.",
+              "O texto nomeia explicitamente a degeneração como modo de falha institucional.",
+              "Põe em causa a associação necessária entre colapso e mal ao admitir colapso neutro ou gerador.",
+              "Nega o mal como entidade e reconduz-o à contraposição da verdade e à desadequação no real.",
+              "O exemplo de matar como destruição da relação explicita o mal como dano e desadequação operativa.",
+              "Define o mal como má descrição, má apreensão e falha em fazer o bem possível, reforçando o polo de desadequação operativa.",
+              "O fragmento identifica o mal a partir do dano infligido, sem introduzir nova arquitetura.",
+              "O fragmento nomeia casos extremos de mal e extermínio, mas ainda sem os reconduzir a degeneração, dano ou desadequação em termos conceptuais do mapa."
+            ],
+            "o_que_os_fragmentos_acrescentam": [
+              "Acrescenta um caso-limite contemporâneo para insistir que, sem verdade, a orientação humana e coletiva degrada-se.",
+              "Fornece uma formulação curta para ligar verdade, bem e dever-ser sem autonomizar o mal.",
+              "Um contraste operacional entre instituição expansiva e instituição reguladora-invertida.",
+              "Acrescenta o quadro mínimo de objeções que a passagem da ontologia ao bem tem de responder.",
+              "Acrescenta uma formulação compacta que subordina bem e critério ao real e dessubstancializa o mal.",
+              "Acrescenta um critério operativo negativo: destruir relações reais entre seres de igual estatuto ontológico conta contra o bem e a verdade prática.",
+              "Acrescenta uma formulação curta da dependência da ação correta face à apreensão, descrição e reconhecimento do possível.",
+              "Um exemplo forte de dano como redução deliberada do campo de potencialidades de outro ser.",
+              "Acrescenta um exemplo-limite e uma intuição de que o mal extremo deve ser explicado, não mitificado."
+            ],
+            "justificacoes_novas_que_fornecem": [
+              "Fornece uma justificação pragmático-ontológica: quando mediações e artefactos tornam indistintas as aparências, só a submissão à verdade sobre o real preserva orientação e continuidade.",
+              "Sugere que, se a verdade é adequação ao ser, o bem não pode ser ontologicamente separado dela; por isso o mal é falha de orientação e aplicação, não princípio independente.",
+              "Sugere que o critério prático de avaliação institucional é o efeito real sobre o processo e sobre a expansão ou contração das potencialidades.",
+              "Não fornece justificação positiva nova; delimita os pontos exatos onde a justificação atual é vulnerável.",
+              "Se a consciência exige continuidade e se mesmo a ilusão ocorre no real, então a ação consciente só pode ser avaliada pelo seu alinhamento com o real; daí o bem não ser entidade, mas adequação prática.",
+              "Fornece a ideia de que a preservação da continuidade relacional é sinal de adequação, enquanto a sua destruição é sinal de falsidade prática e mal.",
+              "Fornece a ideia de que a falha ética nasce de desadequação descritiva e prática, não da existência de um mal ontológico.",
+              "Mostra operacionalmente que dano não é mera diferença nem não-existência, mas perda real induzida de possibilidades admissíveis.",
+              "Não fornece justificação dedutiva nova; apenas sugere que a ocorrência histórica do extermínio mostra a realidade do problema."
+            ],
+            "objecoes_que_ajudam_a_bloquear": [
+              "coerentismo fechado",
+              "relativismo",
+              "convencionalismo total",
+              "autonomia normativa absoluta",
+              "mal como entidade autónoma",
+              "separação forte entre verdade e bem",
+              "indiferentismo axiológico total",
+              "moralismo extrínseco",
+              "direção ontológica como projeção humana",
+              "continuidade irrelevante para o bem",
+              "colapso neutro ou gerador",
+              "indistinção entre ser e bem",
+              "alinhamento automático de tudo o que existe com o real",
+              "bem como entidade separada",
+              "ilusão total como fuga ao real",
+              "critério desligado do real",
+              "subjetivismo moral centrado no eu",
+              "linguisticismo ético",
+              "materialismo externo que exclui a dimensão relacional do eu",
+              "indiferentismo perante o matar"
+            ],
+            "mediacoes_que_fornecem": [
+              "Faz mediação fraca entre o regime epistemológico da verdade e a crítica ética da dissolução coletiva.",
+              "Não fornece mediação estrutural nova; reforça a passagem já prevista entre verdade, bem e dever-ser.",
+              "Liga dano e degeneração ao plano institucional como caso derivado de atualização humana coletiva.",
+              "Nao fornece mediacao estrutural; fornece apenas explicitação dialética das objeções ao bloco ético.",
+              "Faz mediação fraca entre submissão epistemológica ao real e definição ética do bem como adequação na ação consciente.",
+              "Liga a verdade como adequação ao real ao bem como preservação de relações reais, preparando a passagem da epistemologia para a ética.",
+              "Fornece mediação fraca entre regime epistemológico de adequação/descrição e regime ético da ação correta.",
+              "Nao fornece mediacao estrutural nova; apenas aplica um criterio etico ja pressuposto.",
+              "Nao fornece mediacao estrutural."
+            ],
+            "conceitos_ou_distincoes_novas": [
+              "indistinção técnica entre humano e produto",
+              "perda de continuidade mental e social por remoção de estrutura orientadora",
+              "instituição expansiva vs instituição reguladora-invertida",
+              "distinção entre ser e bem",
+              "colapso neutro ou gerador",
+              "bem como descrição correta do real na ação consciente",
+              "mal como contraposição da verdade",
+              "continuidade como condição da consciência",
+              "continuidade da relação como critério do melhor",
+              "falsidade prática do matar",
+              "igual estatuto ontológico dos outros eus",
+              "distinção entre mal ontológico e mal prático",
+              "descrição como explicitação linguística da apreensão",
+              "distinção entre dano real e não-existência",
+              "distinção entre ampliação localizada e corte global de potencialidades"
+            ],
+            "propostas_de_nova_formulacao": [
+              "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real.",
+              "Na derivação do bem e do mal, convém explicitar que nem toda atualização existente está por isso mesmo alinhada com o real em sentido normativo, e que a direção ontológica não pode ser tomada como pressuposto não defendido.",
+              "O bem não é uma entidade separada, mas a adequação da ação consciente ao real sob critério verdadeiro; o mal nomeia a sua desadequação ou contraposição.",
+              "O bem pode ser formulado como atualização que preserva e sustenta relações reais sem destruir o estatuto ontológico dos outros seres reflexivos.",
+              "O mal não é uma entidade ontológica, mas uma forma de desadequação prática: falha de apreensão, descrição e orientação relativamente ao real e ao possível.",
+              "Dano real inclui a supressão deliberada de potencialidades constitutivas de outro ser por intervenção de um agente reflexivo, mesmo quando haja compensações locais noutros domínios."
+            ],
+            "propostas_de_novo_passo": [],
+            "entre_que_passos_deveria_entrar": [],
+            "observacoes_finais": [
+              "Útil para densificar P33-P36 com aplicação crítica e ponte fraca para a degeneração prática; não altera a arquitetura.",
+              "Útil para densificar P44-P47, mas a formulação é comprimida e parcialmente instável.",
+              "Útil como apoio local na justificação de assimetria prática, dano e degeneração; não altera a arquitetura.",
+              "Impacto real no bloco P42-P45 como pressão dialética, sem alteração da arquitetura.",
+              "Útil para densificar P44-P45 e, secundariamente, P33; não altera a arquitetura do mapa.",
+              "Útil para densificar P44-P45 e a ponte com P34, mas a identidade entre verdade, bom e melhor exige formulação prudente.",
+              "Útil para densificar P44-P48, mas com instabilidade categorial entre descrição, apreensão, representação e ontologia.",
+              "Útil como apoio argumentativo e exemplo de P40/P45; não altera a arquitetura dedutiva.",
+              "Fragmento exploratorio e oral; util mais como abertura redacional de problema do que como impacto no mapa."
+            ]
+          },
+          "diagnostico_estrutural": {
+            "estabilidade": "estavel_mas_a_densificar",
+            "necessidade_principal": "densificar",
+            "acao_estrutural_recomendada": "densificar",
+            "indicios_de_reescrita": 0,
+            "indicios_de_divisao": 0,
+            "indicios_de_passo_intermedio": 0,
+            "necessita_revisao_humana_em": 5,
+            "diagnostico_textual": "A proposição P45 foi tocada por 9 fragmento(s). A pressão dominante vem da zona etica_ontologica. O efeito dominante é 'explicita'. A ação editorial dominante é 'densificar'. O estado estrutural estimado é 'estavel_mas_a_densificar'. Há material para explicitar mediações intermédias. Há também apoio para bloqueio de objeções recorrentes."
+          },
+          "nova_formulacao_provisoria": "O mal não é positividade autónoma, mas falha reflexiva e operativa na descrição e aplicação do dever-ser subordinado ao real."
+        }
+      }
+    ]
+  },
+  "mapa_dedutivo_arquitetura_fragmentos": {
+    "path": "../02_mapa_dedutivo_arquitetura_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$.blocos[5].proposicoes[7]",
+        "match": {
+          "id": "P45",
+          "numero": 45,
+          "proposicao": "O mal é degeneração, dano ou desadequação operativa.",
+          "descricao_curta": "Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada.",
+          "depende_de": [
+            "P40",
+            "P44"
+          ],
+          "prepara": [
+            "P46"
+          ],
+          "justificacao": {
+            "tese_minima": "O mal é degeneração, dano ou desadequação operativa.",
+            "justificacao_interna_do_passo": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "negatividade_pratica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+            "o_que_falta_provar_ou_explicitar": "Refinar diferença entre erro, dano e mal.",
+            "objecoes_tipicas_a_bloquear": [
+              "mal como entidade autónoma"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      }
+    ]
+  },
+  "argumentos_unificados": {
+    "path": "../../13_Meta_Indice/indice/argumentos/argumentos_unificados.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "indice_por_percurso": {
+    "path": "../../13_Meta_Indice/indice/indice_por_percurso.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  },
+  "impacto_fragmentos_no_mapa": {
+    "path": "../impacto_fragmentos_no_mapa.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": [
+      {
+        "path": "$[43].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[3]",
+        "match": {
+          "proposicao_id": "P45",
+          "numero": 45,
+          "proposicao_resumida": "O mal é degeneração, dano ou desadequação operativa.",
+          "grau_de_relevancia": "baixo",
+          "tipo_de_relacao": "toca_indiretamente",
+          "justificacao_da_associacao": "A referência a proposições maléficas aproxima-se da linha da degeneração prática, mas ainda sem dedução ética suficiente."
+        }
+      },
+      {
+        "path": "$[70].impacto_no_mapa_fragmento.proposicoes_do_mapa_tocadas[1]",
+        "match": {
+          "proposicao_id": "P45",
+          "numero": 45,
+          "proposicao_resumida": "O mal é degeneração, dano ou desadequação operativa.",
+          "grau_de_relevancia": "alto",
+          "tipo_de_relacao": "apoia_justificacao",
+          "justificacao_da_associacao": "Define o mal como falha em descrever e aplicar melhor o dever-ser, isto é, como desadequação operativa, não como positividade autónoma."
+        }
+      }
+    ]
+  },
+  "tratamento_filosofico_fragmentos": {
+    "path": "../../13_Meta_Indice/cadência/04_extrator_q_faz_no_sistema/tratamento_filosofico_fragmentos.json",
+    "disponivel": true,
+    "corredor": "P42_P48",
+    "recortes": []
+  }
+}
+
+TAREFA
+
+Com base apenas nos materiais fornecidos, decide o fecho canónico do passo P45 no corredor P42_P48.
+
+Tens de produzir:
+1. formulação final estável do passo;
+2. justificação suficiente para ele não ficar em salto;
+3. ponte de entrada a partir do passo anterior;
+4. ponte de saída para o passo seguinte;
+5. razão pela qual o anterior não basta;
+6. razão pela qual este passo não pode ser suprimido;
+7. objeção letal mais forte a bloquear;
+8. bloqueio curto dessa objeção;
+9. decisão sobre necessidade de subpasso;
+10. lista final de objeções já bloqueadas;
+11. lista final de fragmentos efetivamente selecionados;
+12. nota final curta e operacional;
+13. pendências reais, se ainda existirem.
+
+REGRAS DE DECISÃO
+
+- Mantém a formulação atual apenas se ela já fechar o passo sem salto relevante.
+- Reformula quando a formulação existente é insuficiente, ambígua ou demasiado larga.
+- Densifica quando o núcleo do passo está certo mas a justificação ainda é curta.
+- Introduz subpasso apenas se o passo não fechar com simples reformulação e justificação.
+- Reabre apenas se houver insuficiência que não possa ser resolvida localmente com segurança.
+- A formulação final deve ser curta, afirmativa e dedutivamente precisa.
+- A justificação deve dizer o mínimo suficiente para o passo ficar inevitável na cadeia.
+- A ponte de entrada deve ligar explicitamente o passo ao anterior.
+- A ponte de saída deve ligar explicitamente o passo ao seguinte.
+- A objeção letal deve ser a mais destrutiva para este passo, não uma objeção lateral.
+- O bloqueio curto deve responder diretamente à objeção letal sem deriva.
+- Usa apenas ids de fragmentos efetivamente presentes nos materiais.
+- Se não houver pendências, devolve um array vazio.
+- Se precisa_de_subpasso=false, subpassos_aprovados_ids tem de ser [].
+- Se o passo ficar fechado, pendencias deve ser [] ou conter apenas notas não impeditivas.
+- Não escrevas introduções, comentários externos, markdown nem texto fora do JSON.
+
+FORMATO DE SAÍDA
+
+Responde exclusivamente com um único objeto JSON válido.
+Usa exatamente estas chaves e esta estrutura:
+
+{
+  "tipo_registo": "decisao_passo",
+  "corredor": "P42_P48",
+  "passo_id": "P45",
+  "numero_final": 47,
+  "bloco_id": "BLOCO_VI",
+  "bloco_titulo": "Passagem da epistemologia à ética ontológica",
+  "depende_de": [
+  "P40",
+  "P44"
+],
+  "prepara": [
+  "P46"
+],
+  "estado_inicial_do_passo": "quase_fechado",
+  "tipos_de_fragilidade_iniciais": [
+  "formulacao",
+  "mediacao"
+],
+  "decisao_editorial": "manter|densificar|reformular|introduzir_subpasso|reabrir",
+  "formulacao_v2_final": "string",
+  "justificacao_expandida_final": "string",
+  "ponte_entrada": "string",
+  "ponte_saida": "string",
+  "porque_o_anterior_nao_basta": "string",
+  "porque_nao_pode_ser_suprimido": "string",
+  "objecao_letal": "string",
+  "bloqueio_curto": "string",
+  "precisa_de_subpasso": true,
+  "subpassos_aprovados_ids": [],
+  "objecoes_bloqueadas_final": ["string"],
+  "fragmentos_selecionados_finais": ["F..."],
+  "fontes_utilizadas": ["dados/...json", "../.../ficheiro.json"],
+  "estado_final_do_passo": "aberto|quase_fechado|fechado",
+  "reabrir_em_arbitragem_de_corredor": false,
+  "nota_editorial_final": "string",
+  "pendencias": ["string"]
+}
+
+REGRAS DE PREENCHIMENTO DO JSON
+
+- "formulacao_v2_final": uma só formulação final, sem variantes.
+- "justificacao_expandida_final": texto suficientemente completo para fechar o passo localmente.
+- "objecoes_bloqueadas_final": inclui a objeção letal e outras objeções diretamente neutralizadas pela formulação e justificação finais.
+- "fragmentos_selecionados_finais": apenas ids realmente usados para sustentar a decisão.
+- "fontes_utilizadas": lista apenas os ficheiros efetivamente utilizados.
+- "nota_editorial_final": nota operacional curta sobre o estado do passo.
+- "pendencias": só inclui insuficiências reais que impeçam ou enfraqueçam o fecho.
+- Se "decisao_editorial"="introduzir_subpasso", então "precisa_de_subpasso" tem de ser true.
+- Se "decisao_editorial"="reabrir", então "reabrir_em_arbitragem_de_corredor" tem de ser true.
+- Se "estado_final_do_passo"="fechado", o conjunto do JSON deve mostrar fecho local claro e não deixar lacunas explícitas.
