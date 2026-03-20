@@ -1,0 +1,108 @@
+RELATÓRIO DE CONFERÊNCIA FINAL DO FECHO CANÓNICO
+==============================================================
+
+Data/hora local: 20/03/2026 11:49:49
+Veredito final: ACEITE
+
+1. Estrutura de caminhos resolvida
+-----------------------------------
+Diretório do script: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\outputs
+Diretório do fecho canónico: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa
+Diretório estrutural: C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\01_reconstrucao_mapa_v2
+
+2. Ficheiros usados
+-----------------
+[main]
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\outputs\mapa_dedutivo_canonico_final.json | tamanho=327714 bytes | sha256=ed125f576c27
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\outputs\relatorio_final_de_inevitabilidades.json | tamanho=359181 bytes | sha256=620c3175f5e9
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\outputs\decisoes_canonicas_intermedias_consolidado_final_intermedio.json | tamanho=162566 bytes | sha256=ef14bb33f648
+
+[parent]
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\manifesto_fecho_canonico.json | tamanho=6376 bytes | sha256=4b8240dc5973
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\07_README_estado_atual_e_transicao_para_fecho_do_mapa.md | tamanho=7358 bytes | sha256=c7a59952db7b
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\orquestrador_fecho_canonico_api.py | tamanho=84530 bytes | sha256=429a664f342a
+
+[structural]
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\01_reconstrucao_mapa_v2\mapa_dedutivo_precanonico_v4.json | tamanho=209820 bytes | sha256=bb8a919a8f58
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\01_reconstrucao_mapa_v2\matriz_inevitabilidades_v4.json | tamanho=222728 bytes | sha256=c1fecbf1994d
+- C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\01_reconstrucao_mapa_v2\relatorio_fecho_canonico_v4.json | tamanho=20543 bytes | sha256=dd61cc08eb07
+
+3. Contagens principais
+----------------------
+Passos no mapa final: 51
+Linhas no relatório final: 51
+Decisões por passo no agregador: 19
+Decisões por subpasso no agregador: 17
+Arbitragens de corredor no agregador: 4
+Subpassos ativos no mapa final: P36_SP01
+Subpassos aprovados no agregador: P36_SP01
+Subpassos rejeitados no agregador: P25_SP01, P26_SP01, P27_SP01, P28_SP01, P29_SP01, P30_SP01, P34_SP01, P37_SP01, P42_SP01, P43_SP01, P44_SP01, P45_SP01, P46_SP01, P47_SP01, P48_SP01, P50_SP01
+
+4. Verificações executadas
+---------------------------
+[PASS] Estrutura de caminhos e ficheiros obrigatórios
+    - Estrutura esperada confirmada a partir de C:\Users\JoseVitorinoQuintas\DoReal\14_mapa_dedutivo\02_fecho_canonico_mapa\outputs
+    - Ficheiros principais, auxiliares e estruturais localizados e legíveis.
+
+[PASS] Manifesto coerente com os outputs finais esperados
+    - Manifesto: outputs finais declarados = outputs/mapa_dedutivo_canonico_final.json | outputs/relatorio_final_de_inevitabilidades.json
+    - Manifesto: usar_caminhos_relativos = True
+
+[PASS] Mapa final contém 51 passos
+    - Passos localizados no mapa final: 51
+    - Coleção usada no mapa final: root.passos
+
+[PASS] Mapa final contém o subpasso ativo P36_SP01
+    - Subpassos ativos detetados no mapa: P36_SP01
+    - Subpassos ativos em P36: P36_SP01
+
+[PASS] Os 16 subpassos rejeitados estão ausentes do mapa final operativo
+    - Rejeitados no agregador: P25_SP01, P26_SP01, P27_SP01, P28_SP01, P29_SP01, P30_SP01, P34_SP01, P37_SP01, P42_SP01, P43_SP01, P44_SP01, P45_SP01, P46_SP01, P47_SP01, P48_SP01, P50_SP01
+    - Ativos no mapa final: P36_SP01
+    - Interseção indevida: (vazia)
+    - Nota: menções históricas em arbitragens ou resumos não contam como inserção ativa.
+
+[PASS] Não subsistem duplicações materiais de passos ou subpassos
+    - Sem IDs duplicados.
+    - Sem numero_final duplicado.
+    - Sem proposições finais duplicadas no mapa.
+    - Sem formulações duplicadas entre subpassos ativos.
+
+[PASS] Ajuste de numeração P49 (48 -> 49) refletido sem restos ativos incompatíveis
+    - Numeracao contínua no mapa: True
+    - Numeracao contínua no relatório: True
+    - P49 no mapa final: numero_final=49
+    - P49 no relatório final: numero_final=49
+    - Mapa final resume ajustes: P49: 48 -> 49
+    - Relatório final resume ajustes: P49: 48 -> 49
+
+[PASS] Não subsistem referências ativas do pré-canónico que contrariem o fecho consolidado
+    - Todos os passos canonicamente substituídos pelo agregador estão fechados e sem marcadores editoriais residuais.
+
+[PASS] Corredores críticos P33_P37, P25_P30, P42_P48 e P50 refletidos coerentemente no mapa final
+    - Todos os corredores críticos constam como fechados e coerentes com a projeção terminal.
+
+[PASS] Relatório final existe, é legível e tem coleção 1:1 localizável
+    - Linhas/passos localizados no relatório final: 51
+    - Coleção usada no relatório final: root.linhas
+
+[PASS] Relatório final alinhado 1:1 com o mapa final, sem órfãos e com numeração coerente
+    - Total no mapa: 51; total no relatório: 51
+
+[PASS] Mapa final respeita o fecho normativo projetado pelo agregador consolidado
+    - Todos os 19 passos decididos no agregador estão refletidos no mapa final sem divergências materiais.
+
+[PASS] Não há reintroduções indevidas de subpassos rejeitados nem reversões aparentes de decisões consolidadas
+    - Apenas P36_SP01 está ativo no mapa final; os 16 rejeitados permanecem fora da estrutura operativa.
+
+[PASS] Relatório final e mapa final refletem os corredores críticos fechados sem contradição material relevante
+    - Os quatro corredores críticos surgem fechados e sem contradições relevantes entre agregador, mapa e relatório.
+
+5. Inconformidades encontradas
+----------------------------
+Nenhuma inconformidade crítica detetada.
+
+6. Conclusão final
+------------------
+Resultado final: ACEITE
+Os outputs terminais satisfazem, cumulativamente, os critérios materiais mínimos de conferência definidos para esta fase.
