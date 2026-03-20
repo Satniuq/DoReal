@@ -1,0 +1,1030 @@
+RELATÓRIO DE GERAÇÃO DE MICROLINHAS V1
+============================================================
+Data/hora UTC: 2026-03-20T15:46:23Z
+Ficheiro atualizado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+Fragmentos lidos na árvore: 538
+Fragmentos processados nesta geração: 538
+Modo de execução: geração total
+Reescrita forçada: sim
+
+Critérios usados
+------------------------------------------------------------
+1. Percurso sequencial por ordem dos fragmentos.
+2. Compatibilidade por zona/cadência, área/problema filosófico, impacto local no mapa e vizinhança de ordem.
+3. Fecho da microlinha quando a compatibilidade cai abaixo do limiar ou quando há rutura forte.
+4. Tamanho máximo por microlinha: 5 fragmentos.
+5. Distância máxima de ordem para continuidade local: 3.
+
+Resumo
+------------------------------------------------------------
+Microlinhas geradas: 194
+Microlinhas unitárias: 70
+Microlinhas com exceções: 2
+Distribuição de tamanhos: 1: 70 | 2: 35 | 3: 19 | 4: 9 | 5: 61
+
+Microlinhas geradas
+------------------------------------------------------------
+ML_0001 | n=2 | transicao antropologica — introduz | estado=valido_com_avisos | excecao=ativa_tolerada
+  fragmentos: F0001_SEG_001, F0002_SEG_001
+  nota: Contém fragmentos com exceção ativa.
+ML_0002 | n=5 | nao_determinado — introduz: subordinacao da normatividade ao real | estado=valido_com_avisos | excecao=ativa_prioritaria
+  fragmentos: F0003_SEG_001, F0004_SEG_001, F0005_SEG_001, F0006_SEG_001, F0007_SEG_001
+  nota: Contém fragmentos com exceção ativa.
+ML_0003 | n=5 | etica e narrativa — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0008_SEG_001, F0009_SEG_001, F0010_SEG_001, F0011_SEG_001, F0012_SEG_001
+ML_0004 | n=3 | percurso do erro e correcao — introduz: sociedade e erro estabilizado | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0013_SEG_001, F0014_SEG_001, F0015_SEG_001
+ML_0005 | n=2 | nao_determinado — prolonga: fundamento do dever ser | estado=valido | excecao=sem_excecao
+  fragmentos: F0016_SEG_001, F0017_SEG_001
+ML_0006 | n=4 | transicao antropologica — introduz: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0018_A01_SEG_001, F0018_A01_SEG_002, F0018_A02_SEG_001, F0018_A02_SEG_002
+ML_0007 | n=2 | etica e narrativa — introduz: criterio para viver bem | estado=valido | excecao=sem_excecao
+  fragmentos: F0019_SEG_001, F0020_SEG_001
+ML_0008 | n=5 | epistemologia — prepara: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0021_SEG_001, F0021_SEG_002, F0022_SEG_001, F0023_SEG_001, F0024_SEG_001
+ML_0009 | n=5 | epistemologia — introduz: origem do erro | estado=valido | excecao=sem_excecao
+  fragmentos: F0024_SEG_002, F0025_SEG_001, F0026_SEG_001, F0027_SEG_001, F0028_SEG_001
+ML_0010 | n=5 | epistemologia — desloca: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0029_SEG_001, F0030_SEG_001, F0031_SEG_001, F0032_SEG_001, F0033_SEG_001
+ML_0011 | n=5 | escala e erro de escala — prolonga: ser humano como ente reflexivo | estado=valido | excecao=sem_excecao
+  fragmentos: F0035_SEG_001, F0036_SEG_001, F0037_SEG_001, F0038_SEG_001, F0039_SEG_001
+ML_0012 | n=5 | etica e narrativa — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0040_SEG_001, F0041_SEG_001, F0042_SEG_001, F0043_SEG_001, F0044_SEG_001
+ML_0013 | n=1 | percurso do erro e correcao — desloca: adequacao entre representacao e real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0045_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0014 | n=1 | nao_determinado — introduz: lei e fundamento ontologico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0046_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0015 | n=5 | percurso do erro e correcao — articula: origem do erro | estado=valido | excecao=sem_excecao
+  fragmentos: F0047_SEG_001, F0048_SEG_001, F0049_SEG_001, F0050_SEG_001, F0051_SEG_001
+ML_0016 | n=5 | etica e narrativa — articula: origem do bem | estado=valido | excecao=sem_excecao
+  fragmentos: F0052_SEG_001, F0053_SEG_001, F0054_SEG_001, F0055_SEG_001, F0056_SEG_001
+ML_0017 | n=2 | critica sistemica e reintegracao — prepara: erro descritivo | estado=valido | excecao=sem_excecao
+  fragmentos: F0057_SEG_001, F0057_SEG_002
+ML_0018 | n=5 | estrutura operacional do real — introduz: potencialidade e atualizacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0058_SEG_001, F0058_SEG_002, F0058_SEG_003, F0059_SEG_001, F0059_SEG_002
+ML_0019 | n=5 | etica e narrativa — prolonga: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0060_A01_SEG_001, F0060_A01_SEG_002, F0060_A01_SEG_003, F0060_A01_SEG_004, F0060_A01_SEG_005
+ML_0020 | n=2 | ontologia — fecha: verdade e valor | estado=valido | excecao=sem_excecao
+  fragmentos: F0060_A01_SEG_006, F0060_A02_SEG_001
+ML_0021 | n=1 | nao_determinado — fecha: ordem do percurso filosofico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0060_A02_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0022 | n=5 | etica e narrativa — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0061_SEG_001, F0061_SEG_002, F0061_SEG_003, F0062_A01_SEG_001, F0062_A01_SEG_002
+ML_0023 | n=5 | transicao antropologica — prolonga: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0062_A01_SEG_003, F0062_A01_SEG_004, F0062_A02_SEG_001, F0063_A01_SEG_001, F0063_A01_SEG_002
+ML_0024 | n=5 | etica e narrativa — fecha: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0063_A01_SEG_003, F0063_A02_SEG_001, F0063_A02_SEG_002, F0064_A01_SEG_001, F0064_A01_SEG_002
+ML_0025 | n=5 | critica sistemica e reintegracao — prolonga: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0064_A01_SEG_003, F0064_A01_SEG_004, F0064_A02_SEG_001, F0065_A01_SEG_001, F0065_A01_SEG_002
+ML_0026 | n=1 | metaestrutura do livro — prolonga: ordem do percurso filosofico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0065_A01_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0027 | n=5 | critica sistemica e reintegracao — fecha: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0065_A01_SEG_004, F0065_A02_SEG_001, F0066_SEG_001, F0066_SEG_002, F0067_SEG_001
+ML_0028 | n=5 | etica e narrativa — fecha: origem do bem | estado=valido | excecao=sem_excecao
+  fragmentos: F0067_SEG_002, F0067_SEG_003, F0068_SEG_001, F0068_SEG_002, F0069_SEG_001
+ML_0029 | n=5 | metaestrutura do livro — prolonga: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0069_SEG_002, F0069_SEG_003, F0069_SEG_004, F0069_SEG_005, F0070_SEG_001
+ML_0030 | n=3 | epistemologia — fecha: criterio de verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0070_SEG_002, F0071_SEG_001, F0071_SEG_002
+ML_0031 | n=4 | transicao antropologica — fecha: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0071_SEG_003, F0072_SEG_001, F0072_SEG_002, F0073_SEG_001
+ML_0032 | n=1 | etica e narrativa — fecha: subordinacao da normatividade ao real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0073_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0033 | n=5 | transicao antropologica — introduz: validade interna vs adequacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0074_A01_SEG_001, F0074_A01_SEG_002, F0074_A01_SEG_003, F0074_A02_SEG_001, F0074_A02_SEG_002
+ML_0034 | n=5 | transicao antropologica — fecha: projecao do eu no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0074_A02_SEG_003, F0075_SEG_001, F0075_SEG_002, F0075_SEG_003, F0076_SEG_001
+ML_0035 | n=2 | transicao antropologica — prolonga: localidade do ponto de vista | estado=valido | excecao=sem_excecao
+  fragmentos: F0076_SEG_002, F0076_SEG_003
+ML_0036 | n=3 | estrutura operacional do real — fecha: continuidade do real | estado=valido | excecao=sem_excecao
+  fragmentos: F0076_SEG_004, F0077_SEG_001, F0077_SEG_002
+ML_0037 | n=1 | nao_determinado — fecha: condicoes de possibilidade do ser | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0077_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0038 | n=3 | etica e narrativa — prolonga: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0078_A01_SEG_001, F0078_A01_SEG_002, F0078_A01_SEG_003
+ML_0039 | n=1 | ontologia — fecha: condicoes de possibilidade do ser | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0078_A02_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0040 | n=5 | transicao antropologica — introduz: ser humano como ente reflexivo | estado=valido | excecao=sem_excecao
+  fragmentos: F0079_A01_SEG_001, F0079_A01_SEG_002, F0079_A01_SEG_003, F0079_A02_SEG_001, F0079_A02_SEG_002
+ML_0041 | n=2 | epistemologia — introduz: criterio de verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0080_SEG_001, F0081_SEG_001
+ML_0042 | n=2 | ontologia — introduz: limite ontologico | estado=valido | excecao=sem_excecao
+  fragmentos: F0082_SEG_001, F0082_SEG_002
+ML_0043 | n=2 | transicao antropologica — introduz: projecao do eu no real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0083_SEG_001, F0083_SEG_002
+ML_0044 | n=5 | etica e narrativa — introduz: validade interna vs adequacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0084_A01_SEG_001, F0084_A01_SEG_002, F0084_A01_SEG_003, F0084_A02_SEG_001, F0084_A02_SEG_002
+ML_0045 | n=1 | estrutura operacional do real — fecha: regularidade e estabilidade | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0084_A02_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0046 | n=5 | epistemologia — introduz: mediacao simbolica | estado=valido | excecao=sem_excecao
+  fragmentos: F0084_A03_SEG_001, F0085_SEG_001, F0085_SEG_002, F0085_SEG_003, F0085_SEG_004
+ML_0047 | n=5 | epistemologia — introduz: possibilidade da verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0086_SEG_001, F0086_SEG_002, F0086_SEG_003, F0087_A01_SEG_001, F0087_A01_SEG_002
+ML_0048 | n=5 | transicao antropologica — introduz: projecao do eu no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0087_A01_SEG_003, F0087_A01_SEG_004, F0087_A02_SEG_001, F0088_A01_SEG_001, F0088_A01_SEG_002
+ML_0049 | n=1 | estrutura operacional do real — prolonga: potencialidade e atualizacao | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0088_A01_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0050 | n=4 | epistemologia — prolonga: fechamento simbolico | estado=valido | excecao=sem_excecao
+  fragmentos: F0088_A01_SEG_004, F0088_A01_SEG_005, F0088_A02_SEG_001, F0088_A02_SEG_002
+ML_0051 | n=5 | etica e narrativa — fecha: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0088_A02_SEG_003, F0089_SEG_001, F0089_SEG_002, F0089_SEG_003, F0090_A01_SEG_001
+ML_0052 | n=5 | transicao antropologica — prolonga: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0090_A01_SEG_002, F0090_A01_SEG_003, F0090_A01_SEG_004, F0090_A02_SEG_001, F0091_SEG_001
+ML_0053 | n=1 | nao_determinado — fecha: substituicao do real pelo sistema | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0091_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0054 | n=5 | etica e narrativa — prolonga: validade interna vs adequacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0092_SEG_001, F0092_SEG_002, F0093_A01_SEG_001, F0093_A01_SEG_002, F0093_A01_SEG_003
+ML_0055 | n=2 | nao_determinado — fecha: projecao do eu no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0093_A01_SEG_004, F0093_A02_SEG_001
+ML_0056 | n=1 | nao_determinado — introduz: escala das respostas coletivas | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0094_A01_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0057 | n=5 | etica e narrativa — prolonga: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0094_A01_SEG_002, F0094_A01_SEG_003, F0094_A01_SEG_004, F0094_A02_SEG_001, F0095_SEG_001
+ML_0058 | n=1 | estrutura operacional do real — fecha: potencialidade e atualizacao | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0095_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0059 | n=4 | escala e erro de escala — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0096_SEG_001, F0096_SEG_002, F0096_SEG_003, F0096_SEG_004
+ML_0060 | n=2 | transicao antropologica — introduz: localidade do ponto de vista | estado=valido | excecao=sem_excecao
+  fragmentos: F0097_A01_SEG_001, F0097_A01_SEG_002
+ML_0061 | n=1 | nao_determinado — fecha: erro de escala | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0097_A01_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0062 | n=5 | transicao antropologica — introduz: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0097_A02_SEG_001, F0097_A02_SEG_002, F0098_A01_SEG_001, F0098_A01_SEG_002, F0098_A01_SEG_003
+ML_0063 | n=5 | mediacao simbolica — introduz: fechamento simbolico | estado=valido | excecao=sem_excecao
+  fragmentos: F0098_A02_SEG_001, F0098_A02_SEG_002, F0098_A03_SEG_001, F0098_A03_SEG_002, F0099_SEG_001
+ML_0064 | n=2 | epistemologia — introduz: adequacao entre representacao e real | estado=valido | excecao=sem_excecao
+  fragmentos: F0100_SEG_001, F0100_SEG_002
+ML_0065 | n=2 | transicao antropologica — fecha: ser humano como ente reflexivo | estado=valido | excecao=sem_excecao
+  fragmentos: F0100_SEG_003, F0101_SEG_001
+ML_0066 | n=1 | nao_determinado — prolonga: mediacao simbolica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0101_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0067 | n=1 | etica e narrativa — fecha: subordinacao da normatividade ao real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0101_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0068 | n=5 | epistemologia — prolonga: condicoes de inteligibilidade do sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0102_A01_SEG_001, F0102_A01_SEG_002, F0102_A01_SEG_003, F0102_A01_SEG_004, F0102_A01_SEG_005
+ML_0069 | n=1 | epistemologia — fecha: adequacao entre representacao e real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0102_A01_SEG_006
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0070 | n=5 | transicao antropologica — introduz: localidade do ponto de vista | estado=valido | excecao=sem_excecao
+  fragmentos: F0102_A02_SEG_001, F0102_A02_SEG_002, F0103_A01_SEG_001, F0103_A01_SEG_002, F0103_A01_SEG_003
+ML_0071 | n=2 | epistemologia — introduz: possibilidade da verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0103_A02_SEG_001, F0103_A02_SEG_002
+ML_0072 | n=5 | epistemologia — prolonga: criterio de verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0104_A01_SEG_001, F0104_A01_SEG_002, F0104_A01_SEG_003, F0104_A01_SEG_004, F0104_A01_SEG_005
+ML_0073 | n=2 | critica sistemica e reintegracao — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0104_A02_SEG_001, F0104_A02_SEG_002
+ML_0074 | n=5 | campo e localizacao — introduz: erro de escala | estado=valido | excecao=sem_excecao
+  fragmentos: F0105_A01_SEG_001, F0105_A01_SEG_002, F0105_A01_SEG_003, F0105_A01_SEG_004, F0105_A02_SEG_001
+ML_0075 | n=1 | transicao antropologica — introduz: potencialidade e atualizacao | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0106_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0076 | n=2 | etica e narrativa — prolonga: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0106_SEG_002, F0106_SEG_003
+ML_0077 | n=1 | transicao antropologica — introduz: consciencia como processo no real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0107_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0078 | n=1 | ontologia — desloca: relacao e dependencia | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0107_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0079 | n=1 | mediacao simbolica — prolonga: mediacao simbolica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0107_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0080 | n=1 | epistemologia — fecha: possibilidade da verdade | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0107_SEG_004
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0081 | n=5 | mediacao simbolica — introduz: mediacao simbolica | estado=valido | excecao=sem_excecao
+  fragmentos: F0108_A01_SEG_001, F0108_A01_SEG_002, F0108_A01_SEG_003, F0108_A01_SEG_004, F0108_A02_SEG_001
+ML_0082 | n=5 | epistemologia — fecha: criterio de verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0108_A02_SEG_002, F0109_SEG_001, F0109_SEG_002, F0110_A01_SEG_001, F0110_A01_SEG_002
+ML_0083 | n=1 | mediacao simbolica — prolonga: mediacao simbolica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0110_A01_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0084 | n=2 | ontologia — introduz: estatuto do real | estado=valido | excecao=sem_excecao
+  fragmentos: F0110_A02_SEG_001, F0111_A01_SEG_001
+ML_0085 | n=2 | transicao antropologica — prolonga: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0111_A01_SEG_002, F0111_A01_SEG_003
+ML_0086 | n=3 | critica sistemica e reintegracao — fecha: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0111_A01_SEG_004, F0111_A02_SEG_001, F0111_A02_SEG_002
+ML_0087 | n=1 | mediacao simbolica — prolonga: cultura como estabilizacao simbolica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0111_A02_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0088 | n=2 | etica e narrativa — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0112_SEG_001, F0112_SEG_002
+ML_0089 | n=2 | epistemologia — introduz: criterio de verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0113_A01_SEG_001, F0113_A01_SEG_002
+ML_0090 | n=3 | etica e narrativa — introduz: fundamento do dever ser | estado=valido | excecao=sem_excecao
+  fragmentos: F0113_A01_SEG_003, F0113_A02_SEG_001, F0114_A01_SEG_001
+ML_0091 | n=3 | metaestrutura do livro — desloca: condicoes de inteligibilidade do sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0114_A01_SEG_002, F0114_A01_SEG_003, F0114_A01_SEG_004
+ML_0092 | n=1 | ontologia — fecha: limite ontologico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0114_A01_SEG_005
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0093 | n=5 | transicao antropologica — introduz: estatuto do eu | estado=valido | excecao=sem_excecao
+  fragmentos: F0114_A02_SEG_001, F0114_A02_SEG_002, F0115_A01_SEG_001, F0115_A01_SEG_002, F0115_A01_SEG_003
+ML_0094 | n=1 | critica sistemica e reintegracao — fecha: adequacao entre representacao e real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0115_A01_SEG_004
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0095 | n=1 | estrutura operacional do real — introduz: relacao e dependencia | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0115_A02_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0096 | n=1 | transicao antropologica — fecha: ser humano como ente reflexivo | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0115_A02_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0097 | n=5 | transicao antropologica — prolonga: ser humano como ente reflexivo | estado=valido | excecao=sem_excecao
+  fragmentos: F0116_SEG_001, F0116_SEG_002, F0116_SEG_003, F0116_SEG_004, F0117_A01_SEG_001
+ML_0098 | n=5 | transicao antropologica — prolonga: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0117_A01_SEG_002, F0117_A01_SEG_003, F0117_A02_SEG_001, F0118_SEG_001, F0118_SEG_002
+ML_0099 | n=2 | mediacao simbolica — introduz: mediacao simbolica | estado=valido | excecao=sem_excecao
+  fragmentos: F0119_A01_SEG_001, F0119_A01_SEG_002
+ML_0100 | n=5 | etica e narrativa — introduz: origem do bem | estado=valido | excecao=sem_excecao
+  fragmentos: F0119_A01_SEG_003, F0119_A02_SEG_001, F0119_A02_SEG_002, F0120_SEG_001, F0120_SEG_002
+ML_0101 | n=1 | epistemologia — fecha: adequacao entre representacao e real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0120_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0102 | n=1 | transicao antropologica — introduz: ser humano como ente reflexivo | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0121_A01_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0103 | n=1 | nao_determinado — prolonga: relacao e dependencia | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0121_A01_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0104 | n=2 | mediacao simbolica — prolonga: mediacao simbolica | estado=valido | excecao=sem_excecao
+  fragmentos: F0121_A01_SEG_003, F0121_A01_SEG_004
+ML_0105 | n=4 | etica e narrativa — introduz: dano real e reducao de potencialidades | estado=valido | excecao=sem_excecao
+  fragmentos: F0121_A02_SEG_001, F0121_A02_SEG_002, F0122_SEG_001, F0122_SEG_002
+ML_0106 | n=2 | nao_determinado — introduz: projecao do eu no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0123_SEG_001, F0123_SEG_002
+ML_0107 | n=1 | etica e narrativa — fecha: criterio para viver bem | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0123_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0108 | n=1 | transicao antropologica — prepara: projecao do eu no real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0124_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0109 | n=1 | etica e narrativa — fecha: dano real e reducao de potencialidades | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0124_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0110 | n=2 | transicao antropologica — introduz: origem da consciencia | estado=valido | excecao=sem_excecao
+  fragmentos: F0125_SEG_001, F0126_SEG_001
+ML_0111 | n=3 | epistemologia — introduz: erro de escala | estado=valido | excecao=sem_excecao
+  fragmentos: F0127_SEG_001, F0128_SEG_001, F0129_SEG_001
+ML_0112 | n=1 | critica sistemica e reintegracao — prolonga: substituicao do real pelo sistema | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0130_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0113 | n=5 | epistemologia — introduz: adequacao entre representacao e real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0131_SEG_001, F0132_SEG_001, F0133_SEG_001, F0134_SEG_001, F0135_SEG_001
+ML_0114 | n=4 | transicao antropologica — introduz: apreensao vs representacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0136_SEG_001, F0137_SEG_001, F0138_SEG_001, F0139_SEG_001
+ML_0115 | n=1 | nao_determinado — introduz: regularidade e estabilidade | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0140_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0116 | n=5 | transicao antropologica — introduz: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0141_SEG_001, F0142_SEG_001, F0143_SEG_001, F0144_SEG_001, F0145_SEG_001
+ML_0117 | n=2 | transicao antropologica — prolonga: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0146_SEG_001, F0147_SEG_001
+ML_0118 | n=5 | epistemologia — introduz: apreensao vs representacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0148_SEG_001, F0149_SEG_001, F0150_SEG_001, F0151_SEG_001, F0152_SEG_001
+ML_0119 | n=1 | etica e narrativa — introduz: subordinacao da normatividade ao real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0153_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0120 | n=1 | nao_determinado — introduz: apreensao vs representacao | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0154_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0121 | n=3 | transicao antropologica — introduz: projecao do eu no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0155_SEG_001, F0156_SEG_001, F0157_SEG_001
+ML_0122 | n=2 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido | excecao=sem_excecao
+  fragmentos: F0158_SEG_001, F0159_SEG_001
+ML_0123 | n=1 | epistemologia — introduz: criterio de verdade | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0160_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0124 | n=1 | nao_determinado — introduz: relacao entre partes do sistema | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0161_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0125 | n=1 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0162_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0126 | n=1 | etica e narrativa — introduz: fundamento do dever ser | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0163_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0127 | n=2 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido | excecao=sem_excecao
+  fragmentos: F0164_SEG_001, F0165_SEG_001
+ML_0128 | n=5 | transicao antropologica — introduz: validade interna vs adequacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0166_SEG_001, F0167_SEG_001, F0168_SEG_001, F0169_SEG_001, F0170_SEG_001
+ML_0129 | n=2 | transicao antropologica — introduz: ser humano como ente reflexivo | estado=valido | excecao=sem_excecao
+  fragmentos: F0171_SEG_001, F0172_SEG_001
+ML_0130 | n=1 | etica e narrativa — introduz: criterio para viver bem | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0173_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0131 | n=1 | transicao antropologica — introduz: consciencia como processo no real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0174_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0132 | n=1 | nao_determinado — introduz: escala das respostas coletivas | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0175_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0133 | n=5 | epistemologia — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0176_SEG_001, F0177_SEG_001, F0178_SEG_001, F0179_SEG_001, F0180_SEG_001
+ML_0134 | n=1 | critica sistemica e reintegracao — prolonga: substituicao do real pelo sistema | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0181_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0135 | n=3 | nao_determinado — introduz: degradacao autorreferencial dos sistemas | estado=valido | excecao=sem_excecao
+  fragmentos: F0182_SEG_001, F0183_SEG_001, F0184_SEG_001
+ML_0136 | n=3 | epistemologia — introduz: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0185_SEG_001, F0186_SEG_001, F0187_SEG_001
+ML_0137 | n=2 | ontologia — introduz: condicoes de possibilidade do ser | estado=valido | excecao=sem_excecao
+  fragmentos: F0188_SEG_001, F0189_SEG_001
+ML_0138 | n=1 | nao_determinado — introduz: subordinacao da normatividade ao real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0190_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0139 | n=3 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido | excecao=sem_excecao
+  fragmentos: F0191_SEG_001, F0192_SEG_001, F0193_SEG_001
+ML_0140 | n=3 | mediacao simbolica — introduz: condicoes de inteligibilidade do sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0194_SEG_001, F0195_SEG_001, F0196_SEG_001
+ML_0141 | n=1 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0197_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0142 | n=3 | ontologia — prepara: passagem da ontologia para a epistemologia | estado=valido | excecao=sem_excecao
+  fragmentos: F0198_SEG_001, F0199_SEG_001, F0200_SEG_001
+ML_0143 | n=1 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0201_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0144 | n=2 | mediacao simbolica — desloca: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0202_SEG_001, F0203_SEG_001
+ML_0145 | n=5 | etica e narrativa — introduz: criterio para viver bem | estado=valido | excecao=sem_excecao
+  fragmentos: F0204_SEG_001, F0205_SEG_001, F0206_SEG_001, F0207_SEG_001, F0208_SEG_001
+ML_0146 | n=1 | mediacao simbolica — introduz: mediacao simbolica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0209_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0147 | n=2 | etica e narrativa — desloca: adequacao entre representacao e real | estado=valido | excecao=sem_excecao
+  fragmentos: F0210_SEG_001, F0211_SEG_001
+ML_0148 | n=1 | nao_determinado — introduz: potencialidade e atualizacao | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0212_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0149 | n=5 | mediacao simbolica — introduz: apreensao vs representacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0213_SEG_001, F0214_SEG_001, F0215_SEG_001, F0216_SEG_001, F0217_SEG_001
+ML_0150 | n=1 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0218_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0151 | n=5 | transicao antropologica — introduz: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0219_SEG_001, F0220_SEG_001, F0221_SEG_001, F0222_SEG_001, F0223_SEG_001
+ML_0152 | n=2 | transicao antropologica — desloca: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0224_SEG_001, F0225_SEG_001
+ML_0153 | n=1 | etica e narrativa — articula: passagem da ontologia para a etica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0226_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0154 | n=1 | epistemologia — introduz: criterio de verdade | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0227_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0155 | n=1 | nao_determinado — introduz: estatuto do eu | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0228_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0156 | n=4 | transicao antropologica — introduz: mediacao simbolica | estado=valido | excecao=sem_excecao
+  fragmentos: F0229_SEG_001, F0230_SEG_001, F0231_SEG_001, F0231_SEG_002
+ML_0157 | n=1 | etica e narrativa — introduz: fundamento do dever ser | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0232_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0158 | n=4 | estrutura operacional do real — introduz: potencialidade e atualizacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0233_SEG_001, F0233_SEG_002, F0235_SEG_001, F0236_SEG_001
+ML_0159 | n=5 | transicao antropologica — introduz: criterio para viver bem | estado=valido | excecao=sem_excecao
+  fragmentos: F0237_SEG_001, F0238_SEG_001, F0239_SEG_001, F0240_SEG_001, F0241_A01_SEG_001
+ML_0160 | n=3 | epistemologia — prolonga: adequacao entre representacao e real | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A01_SEG_002, F0241_A01_SEG_003, F0241_A01_SEG_004
+ML_0161 | n=1 | nao_determinado — fecha: condicoes de possibilidade do ser | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A01_SEG_005
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0162 | n=3 | epistemologia — prolonga: criterio de verdade | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A02_SEG_001, F0241_A02_SEG_002, F0241_A02_SEG_003
+ML_0163 | n=1 | nao_determinado — prolonga: estrutura do movimento | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A03_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0164 | n=5 | epistemologia — fecha: adequacao entre representacao e real | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A03_SEG_002, F0241_A04_SEG_001, F0241_A04_SEG_002, F0241_A04_SEG_003, F0241_A05_SEG_001
+ML_0165 | n=5 | transicao antropologica — prolonga: ser humano como ente reflexivo | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A05_SEG_002, F0241_A05_SEG_003, F0241_A05_SEG_004, F0241_A06_SEG_001, F0241_A06_SEG_002
+ML_0166 | n=1 | nao_determinado — fecha: verdade e valor | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A06_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0167 | n=5 | etica e narrativa — prolonga: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A07_SEG_001, F0241_A07_SEG_002, F0241_A07_SEG_003, F0241_A07_SEG_004, F0241_A08_SEG_001
+ML_0168 | n=5 | critica sistemica e reintegracao — prolonga: cristalizacao sistemica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A08_SEG_002, F0241_A09_SEG_001, F0241_A09_SEG_002, F0241_A09_SEG_003, F0241_A10_SEG_001
+ML_0169 | n=1 | transicao antropologica — prolonga: consciencia como processo no real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A10_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0170 | n=1 | nao_determinado — retoma: criterio de verdade | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A10_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0171 | n=1 | transicao antropologica — introduz: consciencia como processo no real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A11_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0172 | n=3 | epistemologia — prolonga: adequacao entre representacao e real | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A11_SEG_002, F0241_A11_SEG_003, F0241_A11_SEG_004
+ML_0173 | n=1 | estrutura operacional do real — prolonga: continuidade do real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A11_SEG_005
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0174 | n=2 | etica e narrativa — introduz: subordinacao da normatividade ao real | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A12_SEG_001, F0241_A12_SEG_002
+ML_0175 | n=1 | mediacao simbolica — prolonga: apreensao vs representacao | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A12_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0176 | n=5 | transicao antropologica — fecha: validade interna vs adequacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A12_SEG_004, F0241_A13_SEG_001, F0241_A13_SEG_002, F0241_A14_SEG_001, F0241_A14_SEG_002
+ML_0177 | n=4 | transicao antropologica — prolonga: mediacao simbolica | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A14_SEG_003, F0241_A14_SEG_004, F0241_A15_SEG_001, F0241_A15_SEG_002
+ML_0178 | n=1 | ontologia — prolonga: condicoes de possibilidade do ser | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A15_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0179 | n=5 | critica sistemica e reintegracao — prolonga: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A15_SEG_004, F0241_A16_SEG_001, F0241_A16_SEG_002, F0241_A16_SEG_003, F0241_A16_SEG_004
+ML_0180 | n=3 | transicao antropologica — prolonga: validade interna vs adequacao | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A16_SEG_005, F0241_A17_SEG_001, F0241_A17_SEG_002
+ML_0181 | n=1 | etica e narrativa — fecha: subordinacao da normatividade ao real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A17_SEG_003
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0182 | n=1 | nao_determinado — introduz: responsabilidade ontologica | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A18_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0183 | n=3 | epistemologia — prolonga: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A18_SEG_002, F0241_A18_SEG_003, F0241_A18_SEG_004
+ML_0184 | n=1 | metaestrutura do livro — introduz: ordem do percurso filosofico | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A19_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0185 | n=1 | estrutura operacional do real — prolonga: potencialidade e atualizacao | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A19_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0186 | n=2 | transicao antropologica — prolonga: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A19_SEG_003, F0241_A19_SEG_004
+ML_0187 | n=5 | transicao antropologica — fecha: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A19_SEG_005, F0241_A20_SEG_001, F0241_A20_SEG_002, F0241_A20_SEG_003, F0241_A20_SEG_004
+ML_0188 | n=5 | metaestrutura do livro — prolonga: ordem do percurso filosofico | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A21_SEG_001, F0241_A21_SEG_002, F0241_A21_SEG_003, F0241_A21_SEG_004, F0241_A21_SEG_005
+ML_0189 | n=1 | nao_determinado — introduz: consciencia como processo no real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A22_SEG_001
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0190 | n=1 | etica e narrativa — prolonga: subordinacao da normatividade ao real | estado=valido_com_avisos | excecao=sem_excecao
+  fragmentos: F0241_A22_SEG_002
+  nota: Microlinha unitária; requer consolidação posterior.
+ML_0191 | n=5 | transicao antropologica — prolonga: adequacao entre representacao e real | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A22_SEG_003, F0241_A22_SEG_004, F0241_A22_SEG_005, F0241_A23_SEG_001, F0241_A23_SEG_002
+ML_0192 | n=5 | transicao antropologica — prolonga: consciencia como processo no real | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A23_SEG_003, F0241_A23_SEG_004, F0241_A24_SEG_001, F0241_A24_SEG_002, F0241_A24_SEG_003
+ML_0193 | n=2 | transicao antropologica — introduz: mediacao simbolica | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A25_SEG_001, F0241_A25_SEG_002
+ML_0194 | n=5 | critica sistemica e reintegracao — fecha: substituicao do real pelo sistema | estado=valido | excecao=sem_excecao
+  fragmentos: F0241_A25_SEG_003, F0241_A26_SEG_001, F0241_A26_SEG_002, F0241_A26_SEG_003, F0241_A26_SEG_004
+
+Log de agrupamento
+------------------------------------------------------------
+JOIN  F0002_SEG_001 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0003_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0004_SEG_001 -> grupo corrente (score=8; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0005_SEG_001 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0006_SEG_001 -> grupo corrente (score=10; razões=partilha proposição do mapa (P46, P47); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0007_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P36); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0008_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0009_SEG_001 -> grupo corrente (score=12; razões=partilha proposição do mapa (P47); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0010_SEG_001 -> grupo corrente (score=8; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0011_SEG_001 -> grupo corrente (score=17; razões=partilha proposição do mapa (P33, P47); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0012_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36, P47); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0013_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0014_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0015_SEG_001 -> grupo corrente (score=7; razões=partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0016_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0017_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P44, P46, P47); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0018_A01_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0018_A01_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; mantém estatuto local compatível)
+JOIN  F0018_A02_SEG_001 -> grupo corrente (score=4; razões=partilha proposição do mapa (P12); mantém estatuto local compatível)
+JOIN  F0018_A02_SEG_002 -> grupo corrente (score=13; razões=partilha proposição do mapa (P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0019_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0020_SEG_001 -> grupo corrente (score=6; razões=partilha área filosófica dominante; partilha problema filosófico central; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0021_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0021_SEG_002 -> grupo corrente (score=5; razões=partilha proposição do mapa (P34); mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0022_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28); partilha problema filosófico central; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0023_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0024_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0024_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0025_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P36); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0026_SEG_001 -> grupo corrente (score=14; razões=partilha proposição do mapa (P33, P34, P36); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0027_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P47); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0028_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0029_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0030_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0031_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; mantém estatuto local compatível)
+JOIN  F0032_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P36, P37); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0033_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0035_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0036_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P20, P22, P36); partilha zona provável de percurso; partilha área filosófica dominante; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0037_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P22); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0038_SEG_001 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0039_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P24, P28); mantém continuidade de zona com o fragmento anterior; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0040_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0041_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0042_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P36); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0043_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P46); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0044_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P28, P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0045_SEG_001 -> nova microlinha (tamanho_maximo)
+SPLIT F0046_SEG_001 -> nova microlinha (score_insuficiente=1)
+SPLIT F0047_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0048_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; mantém estatuto local compatível)
+JOIN  F0049_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P28, P33, P36); continuidade plausível de função de cadência)
+JOIN  F0050_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P34); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0051_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P28, P33, P47); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0052_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0053_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento)
+JOIN  F0054_SEG_001 -> grupo corrente (score=4; razões=toca proposições adjacentes do mapa; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0055_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P28, P29); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0056_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P34, P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0057_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0057_SEG_002 -> grupo corrente (score=4; razões=partilha proposição do mapa (P36); mantém estatuto local compatível)
+SPLIT F0058_SEG_001 -> nova microlinha (score_insuficiente=1)
+JOIN  F0058_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P24); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0058_SEG_003 -> grupo corrente (score=6; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0059_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P24); partilha função filosófica no sistema; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0059_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P26); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0060_A01_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0060_A01_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0060_A01_SEG_003 -> grupo corrente (score=7; razões=partilha proposição do mapa (P20); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0060_A01_SEG_004 -> grupo corrente (score=15; razões=partilha proposição do mapa (P44, P47); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0060_A01_SEG_005 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0060_A01_SEG_006 -> nova microlinha (tamanho_maximo)
+JOIN  F0060_A02_SEG_001 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0060_A02_SEG_002 -> nova microlinha (score_insuficiente=3)
+SPLIT F0061_SEG_001 -> nova microlinha (score_insuficiente=0)
+JOIN  F0061_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28, P34); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0061_SEG_003 -> grupo corrente (score=10; razões=partilha proposição do mapa (P44, P47); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência)
+JOIN  F0062_A01_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0062_A01_SEG_002 -> grupo corrente (score=12; razões=partilha proposição do mapa (P33, P44, P46); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0062_A01_SEG_003 -> nova microlinha (tamanho_maximo)
+JOIN  F0062_A01_SEG_004 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0062_A02_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P21); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0063_A01_SEG_001 -> grupo corrente (score=8; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0063_A01_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33, P36); partilha problema filosófico central; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0063_A01_SEG_003 -> nova microlinha (tamanho_maximo)
+JOIN  F0063_A02_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P47); mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0063_A02_SEG_002 -> grupo corrente (score=7; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0064_A01_SEG_001 -> grupo corrente (score=4; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0064_A01_SEG_002 -> grupo corrente (score=14; razões=partilha proposição do mapa (P50); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0064_A01_SEG_003 -> nova microlinha (tamanho_maximo)
+JOIN  F0064_A01_SEG_004 -> grupo corrente (score=16; razões=partilha proposição do mapa (P33, P36); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0064_A02_SEG_001 -> grupo corrente (score=15; razões=partilha proposição do mapa (P33, P36, P37); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0065_A01_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0065_A01_SEG_002 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0065_A01_SEG_003 -> nova microlinha (tamanho_maximo)
+SPLIT F0065_A01_SEG_004 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+JOIN  F0065_A02_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0066_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P33, P36); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0066_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P46); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0067_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P47); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0067_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0067_SEG_003 -> grupo corrente (score=11; razões=partilha proposição do mapa (P44, P45); partilha zona provável de percurso; partilha área filosófica dominante; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0068_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0068_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; mantém estatuto local compatível)
+JOIN  F0069_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0069_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0069_SEG_003 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0069_SEG_004 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0069_SEG_005 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0070_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0070_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0071_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0071_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0071_SEG_003 -> nova microlinha (score_insuficiente=3)
+JOIN  F0072_SEG_001 -> grupo corrente (score=4; razões=partilha proposição do mapa (P28); mantém estatuto local compatível)
+JOIN  F0072_SEG_002 -> grupo corrente (score=6; razões=toca proposições adjacentes do mapa; mantém continuidade de zona com o fragmento anterior; continuidade plausível de função de cadência)
+JOIN  F0073_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P23, P25, P28); partilha zona provável de percurso; partilha área filosófica dominante; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0073_SEG_002 -> nova microlinha (score_insuficiente=4)
+SPLIT F0074_A01_SEG_001 -> nova microlinha (score_insuficiente=0)
+JOIN  F0074_A01_SEG_002 -> grupo corrente (score=6; razões=partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa)
+JOIN  F0074_A01_SEG_003 -> grupo corrente (score=4; razões=partilha proposição do mapa (P33, P36); mantém estatuto local compatível)
+JOIN  F0074_A02_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P34, P36); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0074_A02_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28, P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0074_A02_SEG_003 -> nova microlinha (tamanho_maximo)
+JOIN  F0075_SEG_001 -> grupo corrente (score=7; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0075_SEG_002 -> grupo corrente (score=12; razões=partilha proposição do mapa (P28, P33); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0075_SEG_003 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0076_SEG_001 -> grupo corrente (score=3; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível)
+SPLIT F0076_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0076_SEG_003 -> grupo corrente (score=14; razões=partilha proposição do mapa (P25); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0076_SEG_004 -> nova microlinha (score_insuficiente=2)
+JOIN  F0077_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P15); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0077_SEG_002 -> grupo corrente (score=13; razões=partilha proposição do mapa (P16); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0077_SEG_003 -> nova microlinha (score_insuficiente=2)
+SPLIT F0078_A01_SEG_001 -> nova microlinha (score_insuficiente=1)
+JOIN  F0078_A01_SEG_002 -> grupo corrente (score=13; razões=partilha proposição do mapa (P29); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0078_A01_SEG_003 -> grupo corrente (score=13; razões=partilha proposição do mapa (P49); partilha zona provável de percurso; partilha área filosófica dominante; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0078_A02_SEG_001 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0079_A01_SEG_001 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+JOIN  F0079_A01_SEG_002 -> grupo corrente (score=8; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0079_A01_SEG_003 -> grupo corrente (score=7; razões=partilha proposição do mapa (P24, P33); continuidade plausível de função de cadência; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0079_A02_SEG_001 -> grupo corrente (score=4; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0079_A02_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0080_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0081_SEG_001 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa)
+SPLIT F0082_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0082_SEG_002 -> grupo corrente (score=15; razões=partilha proposição do mapa (P09, P10); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0083_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0083_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0084_A01_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0084_A01_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0084_A01_SEG_003 -> grupo corrente (score=11; razões=partilha proposição do mapa (P47); partilha zona provável de percurso; partilha área filosófica dominante; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0084_A02_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P36); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0084_A02_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P28, P33, P34); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0084_A02_SEG_003 -> nova microlinha (tamanho_maximo)
+SPLIT F0084_A03_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0085_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0085_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P36); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0085_SEG_003 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P36); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0085_SEG_004 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33, P36); mantém continuidade de zona com o fragmento anterior; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0086_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0086_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P26); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0086_SEG_003 -> grupo corrente (score=5; razões=partilha proposição do mapa (P28); mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0087_A01_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28, P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0087_A01_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P34); mantém continuidade de zona com o fragmento anterior; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0087_A01_SEG_003 -> nova microlinha (tamanho_maximo)
+JOIN  F0087_A01_SEG_004 -> grupo corrente (score=7; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0087_A02_SEG_001 -> grupo corrente (score=4; razões=partilha proposição do mapa (P46); mantém estatuto local compatível)
+JOIN  F0088_A01_SEG_001 -> grupo corrente (score=10; razões=partilha proposição do mapa (P28, P33); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0088_A01_SEG_002 -> grupo corrente (score=10; razões=partilha proposição do mapa (P28, P30); mantém continuidade de zona com o fragmento anterior; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0088_A01_SEG_003 -> nova microlinha (tamanho_maximo)
+SPLIT F0088_A01_SEG_004 -> nova microlinha (score_insuficiente=4)
+JOIN  F0088_A01_SEG_005 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0088_A02_SEG_001 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0088_A02_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P29, P34); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0088_A02_SEG_003 -> nova microlinha (score_insuficiente=3)
+JOIN  F0089_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P46, P50); partilha problema filosófico central; partilha função filosófica no sistema; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0089_SEG_002 -> grupo corrente (score=14; razões=partilha proposição do mapa (P46, P50); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0089_SEG_003 -> grupo corrente (score=16; razões=partilha proposição do mapa (P46, P50); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0090_A01_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P29); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0090_A01_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0090_A01_SEG_003 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0090_A01_SEG_004 -> grupo corrente (score=13; razões=partilha proposição do mapa (P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0090_A02_SEG_001 -> grupo corrente (score=13; razões=partilha proposição do mapa (P28, P29); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0091_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33, P36); continuidade plausível de direção do movimento; partilha efeito principal no mapa)
+SPLIT F0091_SEG_002 -> nova microlinha (tamanho_maximo)
+SPLIT F0092_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0092_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0093_A01_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0093_A01_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P36); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0093_A01_SEG_003 -> grupo corrente (score=10; razões=partilha proposição do mapa (P33, P34, P36); partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0093_A01_SEG_004 -> nova microlinha (tamanho_maximo)
+JOIN  F0093_A02_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0094_A01_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0094_A01_SEG_002 -> nova microlinha (score_insuficiente=2)
+JOIN  F0094_A01_SEG_003 -> grupo corrente (score=13; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0094_A01_SEG_004 -> grupo corrente (score=6; razões=partilha proposição do mapa (P29); continuidade plausível de função de cadência; partilha efeito principal no mapa)
+JOIN  F0094_A02_SEG_001 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0095_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P22, P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0095_SEG_002 -> nova microlinha (tamanho_maximo)
+SPLIT F0096_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0096_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P22, P47); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0096_SEG_003 -> grupo corrente (score=11; razões=partilha proposição do mapa (P33, P47); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0096_SEG_004 -> grupo corrente (score=13; razões=partilha proposição do mapa (P22, P36); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0097_A01_SEG_001 -> nova microlinha (score_insuficiente=1)
+JOIN  F0097_A01_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0097_A01_SEG_003 -> nova microlinha (score_insuficiente=1)
+SPLIT F0097_A02_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0097_A02_SEG_002 -> grupo corrente (score=13; razões=partilha proposição do mapa (P28); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0098_A01_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0098_A01_SEG_002 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0098_A01_SEG_003 -> grupo corrente (score=9; razões=partilha proposição do mapa (P27, P30); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0098_A02_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0098_A02_SEG_002 -> grupo corrente (score=6; razões=toca proposições adjacentes do mapa; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0098_A03_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P43, P46, P47); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0098_A03_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0099_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P33, P36, P47); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0100_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0100_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0100_SEG_003 -> nova microlinha (score_insuficiente=3)
+JOIN  F0101_SEG_001 -> grupo corrente (score=8; razões=partilha zona provável de percurso; partilha área filosófica dominante; partilha função filosófica no sistema; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0101_SEG_002 -> nova microlinha (score_insuficiente=4)
+SPLIT F0101_SEG_003 -> nova microlinha (score_insuficiente=4)
+SPLIT F0102_A01_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0102_A01_SEG_002 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0102_A01_SEG_003 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0102_A01_SEG_004 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0102_A01_SEG_005 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0102_A01_SEG_006 -> nova microlinha (tamanho_maximo)
+SPLIT F0102_A02_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0102_A02_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0103_A01_SEG_001 -> grupo corrente (score=13; razões=partilha proposição do mapa (P23, P28); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0103_A01_SEG_002 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33, P36); partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0103_A01_SEG_003 -> grupo corrente (score=10; razões=partilha proposição do mapa (P27, P33, P36); mantém continuidade de zona com o fragmento anterior; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0103_A02_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0103_A02_SEG_002 -> grupo corrente (score=11; razões=partilha proposição do mapa (P34); partilha zona provável de percurso; partilha área filosófica dominante; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0104_A01_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0104_A01_SEG_002 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0104_A01_SEG_003 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0104_A01_SEG_004 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0104_A01_SEG_005 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P34); continuidade plausível de função de cadência; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0104_A02_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0104_A02_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0105_A01_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0105_A01_SEG_002 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0105_A01_SEG_003 -> grupo corrente (score=6; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0105_A01_SEG_004 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0105_A02_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P46); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0106_SEG_001 -> nova microlinha (tamanho_maximo)
+SPLIT F0106_SEG_002 -> nova microlinha (score_insuficiente=4)
+JOIN  F0106_SEG_003 -> grupo corrente (score=5; razões=partilha proposição do mapa (P34); continuidade plausível de função de cadência)
+SPLIT F0107_SEG_001 -> nova microlinha (score_insuficiente=3)
+SPLIT F0107_SEG_002 -> nova microlinha (score_insuficiente=4)
+SPLIT F0107_SEG_003 -> nova microlinha (score_insuficiente=4)
+SPLIT F0107_SEG_004 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0108_A01_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0108_A01_SEG_002 -> grupo corrente (score=8; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0108_A01_SEG_003 -> grupo corrente (score=10; razões=partilha proposição do mapa (P28); mantém continuidade de zona com o fragmento anterior; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0108_A01_SEG_004 -> grupo corrente (score=11; razões=partilha proposição do mapa (P26, P27); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0108_A02_SEG_001 -> grupo corrente (score=13; razões=partilha proposição do mapa (P26, P27); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0108_A02_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0109_SEG_001 -> grupo corrente (score=10; razões=partilha proposição do mapa (P33, P34, P36); partilha zona provável de percurso; partilha área filosófica dominante; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0109_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0110_A01_SEG_001 -> grupo corrente (score=4; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0110_A01_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0110_A01_SEG_003 -> nova microlinha (tamanho_maximo)
+SPLIT F0110_A02_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0111_A01_SEG_001 -> grupo corrente (score=16; razões=partilha proposição do mapa (P01); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0111_A01_SEG_002 -> nova microlinha (score_insuficiente=4)
+JOIN  F0111_A01_SEG_003 -> grupo corrente (score=12; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0111_A01_SEG_004 -> nova microlinha (score_insuficiente=3)
+JOIN  F0111_A02_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0111_A02_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P38); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0111_A02_SEG_003 -> nova microlinha (score_insuficiente=3)
+SPLIT F0112_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0112_SEG_002 -> grupo corrente (score=11; razões=partilha proposição do mapa (P44, P46); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0113_A01_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0113_A01_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0113_A01_SEG_003 -> nova microlinha (score_insuficiente=2)
+JOIN  F0113_A02_SEG_001 -> grupo corrente (score=4; razões=partilha proposição do mapa (P47); continuidade plausível de direção do movimento)
+JOIN  F0114_A01_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P47, P48, P49); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento)
+SPLIT F0114_A01_SEG_002 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+JOIN  F0114_A01_SEG_003 -> grupo corrente (score=5; razões=partilha proposição do mapa (P34); partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0114_A01_SEG_004 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P34); partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0114_A01_SEG_005 -> nova microlinha (score_insuficiente=4)
+SPLIT F0114_A02_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0114_A02_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0115_A01_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P47); mantém continuidade de zona com o fragmento anterior; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0115_A01_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P28); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0115_A01_SEG_003 -> grupo corrente (score=12; razões=partilha proposição do mapa (P24, P28, P33); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0115_A01_SEG_004 -> nova microlinha (tamanho_maximo)
+SPLIT F0115_A02_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0115_A02_SEG_002 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0116_SEG_001 -> nova microlinha (score_insuficiente=1)
+JOIN  F0116_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P28, P29); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0116_SEG_003 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0116_SEG_004 -> grupo corrente (score=13; razões=partilha proposição do mapa (P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0117_A01_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0117_A01_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0117_A01_SEG_003 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0117_A02_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P28); mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0118_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P28); mantém continuidade de zona com o fragmento anterior; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0118_SEG_002 -> grupo corrente (score=14; razões=partilha proposição do mapa (P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0119_A01_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0119_A01_SEG_002 -> grupo corrente (score=17; razões=partilha proposição do mapa (P26, P30); partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0119_A01_SEG_003 -> nova microlinha (score_insuficiente=3)
+JOIN  F0119_A02_SEG_001 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0119_A02_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P28, P29); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0120_SEG_001 -> grupo corrente (score=11; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0120_SEG_002 -> grupo corrente (score=14; razões=partilha proposição do mapa (P40, P44, P45); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0120_SEG_003 -> nova microlinha (tamanho_maximo)
+SPLIT F0121_A01_SEG_001 -> nova microlinha (score_insuficiente=3)
+SPLIT F0121_A01_SEG_002 -> nova microlinha (score_insuficiente=4)
+SPLIT F0121_A01_SEG_003 -> nova microlinha (score_insuficiente=4)
+JOIN  F0121_A01_SEG_004 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0121_A02_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0121_A02_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P44); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0122_SEG_001 -> grupo corrente (score=3; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível)
+JOIN  F0122_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P23); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0123_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0123_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0123_SEG_003 -> nova microlinha (score_insuficiente=2)
+SPLIT F0124_SEG_001 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0124_SEG_002 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0125_SEG_001 -> nova microlinha (score_insuficiente=1)
+JOIN  F0126_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P28); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0127_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0128_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P25); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0129_SEG_001 -> grupo corrente (score=6; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0130_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0131_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0132_SEG_001 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0133_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P25); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0134_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P31); mantém continuidade de zona com o fragmento anterior; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0135_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P25); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0136_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0137_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P26); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0138_SEG_001 -> grupo corrente (score=11; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0139_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P23); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0140_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0141_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0142_SEG_001 -> grupo corrente (score=14; razões=partilha proposição do mapa (P36); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0143_SEG_001 -> grupo corrente (score=12; razões=partilha proposição do mapa (P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0144_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P25, P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0145_SEG_001 -> grupo corrente (score=10; razões=partilha proposição do mapa (P25); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0146_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0147_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P25); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0148_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0149_SEG_001 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0150_SEG_001 -> grupo corrente (score=12; razões=partilha proposição do mapa (P33); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0151_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P47); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0152_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P25, P47); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0153_SEG_001 -> nova microlinha (tamanho_maximo)
+SPLIT F0154_SEG_001 -> nova microlinha (score_insuficiente=3)
+SPLIT F0155_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0156_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0157_SEG_001 -> grupo corrente (score=12; razões=partilha proposição do mapa (P28, P33); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0158_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0159_SEG_001 -> grupo corrente (score=7; razões=partilha zona provável de percurso; partilha área filosófica dominante; partilha função filosófica no sistema; continuidade plausível de direção do movimento)
+SPLIT F0160_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0161_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0162_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0163_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0164_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0165_SEG_001 -> grupo corrente (score=12; razões=partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0166_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0167_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0168_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P36); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0169_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0170_SEG_001 -> grupo corrente (score=4; razões=toca proposições adjacentes do mapa; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0171_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0172_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P24); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0173_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0174_SEG_001 -> nova microlinha (score_insuficiente=3)
+SPLIT F0175_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0176_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0177_SEG_001 -> grupo corrente (score=10; razões=partilha proposição do mapa (P47); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0178_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0179_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33, P36); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0180_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36, P47); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0181_SEG_001 -> nova microlinha (tamanho_maximo)
+SPLIT F0182_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0183_SEG_001 -> grupo corrente (score=5; razões=partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0184_SEG_001 -> grupo corrente (score=10; razões=partilha proposição do mapa (P28); partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0185_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0186_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0187_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33, P36); partilha função filosófica no sistema; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0188_SEG_001 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+JOIN  F0189_SEG_001 -> grupo corrente (score=6; razões=partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0190_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0191_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0192_SEG_001 -> grupo corrente (score=6; razões=partilha problema filosófico central; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0193_SEG_001 -> grupo corrente (score=13; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; partilha problema filosófico central; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0194_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0195_SEG_001 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0196_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P25); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0197_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0198_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0199_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P24, P28); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0200_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P28); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0201_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0202_SEG_001 -> nova microlinha (score_insuficiente=1)
+JOIN  F0203_SEG_001 -> grupo corrente (score=7; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0204_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0205_SEG_001 -> grupo corrente (score=13; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0206_SEG_001 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0207_SEG_001 -> grupo corrente (score=10; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0208_SEG_001 -> grupo corrente (score=13; razões=partilha proposição do mapa (P38, P47); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0209_SEG_001 -> nova microlinha (tamanho_maximo)
+SPLIT F0210_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0211_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33); partilha problema filosófico central; partilha função filosófica no sistema; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0212_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0213_SEG_001 -> nova microlinha (score_insuficiente=3)
+JOIN  F0214_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P36); mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0215_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P27); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0216_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0217_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P25); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0218_SEG_001 -> nova microlinha (tamanho_maximo)
+SPLIT F0219_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0220_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0221_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P25); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0222_SEG_001 -> grupo corrente (score=14; razões=partilha proposição do mapa (P23, P25, P26); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0223_SEG_001 -> grupo corrente (score=12; razões=partilha proposição do mapa (P25, P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0224_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0225_SEG_001 -> grupo corrente (score=5; razões=partilha proposição do mapa (P28); partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0226_SEG_001 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0227_SEG_001 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0228_SEG_001 -> nova microlinha (score_insuficiente=4)
+SPLIT F0229_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0230_SEG_001 -> grupo corrente (score=6; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0231_SEG_001 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0231_SEG_002 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0232_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0233_SEG_001 -> nova microlinha (score_insuficiente=2)
+JOIN  F0233_SEG_002 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0235_SEG_001 -> grupo corrente (score=6; razões=partilha área filosófica dominante; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0236_SEG_001 -> grupo corrente (score=13; razões=partilha proposição do mapa (P14); mantém continuidade de zona com o fragmento anterior; partilha área filosófica dominante; partilha problema filosófico central; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0237_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0238_SEG_001 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; partilha função filosófica no sistema; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0239_SEG_001 -> grupo corrente (score=4; razões=toca proposições adjacentes do mapa; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0240_SEG_001 -> grupo corrente (score=6; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0241_A01_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P28, P30); mantém continuidade de zona com o fragmento anterior; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A01_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A01_SEG_003 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A01_SEG_004 -> grupo corrente (score=13; razões=partilha proposição do mapa (P33, P34); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A01_SEG_005 -> nova microlinha (score_insuficiente=3)
+SPLIT F0241_A02_SEG_001 -> nova microlinha (score_insuficiente=1)
+JOIN  F0241_A02_SEG_002 -> grupo corrente (score=13; razões=partilha proposição do mapa (P33, P34); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A02_SEG_003 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0241_A03_SEG_001 -> nova microlinha (score_insuficiente=3)
+SPLIT F0241_A03_SEG_002 -> nova microlinha (score_insuficiente=2)
+JOIN  F0241_A04_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A04_SEG_002 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A04_SEG_003 -> grupo corrente (score=5; razões=partilha proposição do mapa (P28); mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A05_SEG_001 -> grupo corrente (score=11; razões=partilha proposição do mapa (P31, P33); partilha zona provável de percurso; partilha área filosófica dominante; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A05_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A05_SEG_003 -> grupo corrente (score=13; razões=toca proposições adjacentes do mapa; partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A05_SEG_004 -> grupo corrente (score=8; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A06_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P29); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A06_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0241_A06_SEG_003 -> nova microlinha (tamanho_maximo)
+SPLIT F0241_A07_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0241_A07_SEG_002 -> grupo corrente (score=7; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A07_SEG_003 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A07_SEG_004 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A08_SEG_001 -> grupo corrente (score=13; razões=partilha proposição do mapa (P33, P47); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A08_SEG_002 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A09_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A09_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A09_SEG_003 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A10_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36, P37); partilha área filosófica dominante; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0241_A10_SEG_002 -> nova microlinha (tamanho_maximo)
+SPLIT F0241_A10_SEG_003 -> nova microlinha (score_insuficiente=2)
+SPLIT F0241_A11_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0241_A11_SEG_002 -> nova microlinha (score_insuficiente=4)
+JOIN  F0241_A11_SEG_003 -> grupo corrente (score=12; razões=partilha proposição do mapa (P31); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0241_A11_SEG_004 -> grupo corrente (score=9; razões=partilha proposição do mapa (P25); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A11_SEG_005 -> nova microlinha (score_insuficiente=4)
+SPLIT F0241_A12_SEG_001 -> nova microlinha (score_insuficiente=4)
+JOIN  F0241_A12_SEG_002 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A12_SEG_003 -> nova microlinha (score_insuficiente=3)
+SPLIT F0241_A12_SEG_004 -> nova microlinha (score_insuficiente=4)
+JOIN  F0241_A13_SEG_001 -> grupo corrente (score=6; razões=partilha proposição do mapa (P33); mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A13_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33); partilha função filosófica no sistema; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A14_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A14_SEG_002 -> grupo corrente (score=6; razões=partilha proposição do mapa (P36); continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A14_SEG_003 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A14_SEG_004 -> grupo corrente (score=7; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A15_SEG_001 -> grupo corrente (score=6; razões=mantém continuidade de zona com o fragmento anterior; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A15_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A15_SEG_003 -> nova microlinha (score_insuficiente=4)
+SPLIT F0241_A15_SEG_004 -> nova microlinha (score_insuficiente=3)
+JOIN  F0241_A16_SEG_001 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A16_SEG_002 -> grupo corrente (score=10; razões=partilha proposição do mapa (P33); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0241_A16_SEG_003 -> grupo corrente (score=11; razões=partilha proposição do mapa (P33, P36); partilha problema filosófico central; partilha função filosófica no sistema; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A16_SEG_004 -> grupo corrente (score=4; razões=mantém continuidade de zona com o fragmento anterior; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0241_A16_SEG_005 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A17_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P22); partilha problema filosófico central; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0241_A17_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+SPLIT F0241_A17_SEG_003 -> nova microlinha (score_insuficiente=4)
+SPLIT F0241_A18_SEG_001 -> nova microlinha (score_insuficiente=2)
+SPLIT F0241_A18_SEG_002 -> nova microlinha (score_insuficiente=2)
+JOIN  F0241_A18_SEG_003 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33, P36); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A18_SEG_004 -> grupo corrente (score=4; razões=partilha proposição do mapa (P33, P36); mantém estatuto local compatível)
+SPLIT F0241_A19_SEG_001 -> nova microlinha (divergencia_filosofica_e_de_impacto)
+SPLIT F0241_A19_SEG_002 -> nova microlinha (score_insuficiente=4)
+SPLIT F0241_A19_SEG_003 -> nova microlinha (score_insuficiente=3)
+JOIN  F0241_A19_SEG_004 -> grupo corrente (score=7; razões=partilha proposição do mapa (P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A19_SEG_005 -> nova microlinha (score_insuficiente=0)
+JOIN  F0241_A20_SEG_001 -> grupo corrente (score=4; razões=partilha proposição do mapa (P33); mantém estatuto local compatível)
+JOIN  F0241_A20_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa)
+JOIN  F0241_A20_SEG_003 -> grupo corrente (score=5; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A20_SEG_004 -> grupo corrente (score=7; razões=partilha proposição do mapa (P29); continuidade plausível de função de cadência; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0241_A21_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A21_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível)
+JOIN  F0241_A21_SEG_003 -> grupo corrente (score=8; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A21_SEG_004 -> grupo corrente (score=8; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A21_SEG_005 -> grupo corrente (score=5; razões=toca proposições adjacentes do mapa; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A22_SEG_001 -> nova microlinha (tamanho_maximo)
+SPLIT F0241_A22_SEG_002 -> nova microlinha (score_insuficiente=3)
+SPLIT F0241_A22_SEG_003 -> nova microlinha (score_insuficiente=4)
+JOIN  F0241_A22_SEG_004 -> grupo corrente (score=9; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A22_SEG_005 -> grupo corrente (score=7; razões=partilha proposição do mapa (P28); mantém continuidade de zona com o fragmento anterior; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A23_SEG_001 -> grupo corrente (score=10; razões=partilha proposição do mapa (P23, P24, P28); partilha zona provável de percurso; partilha área filosófica dominante; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A23_SEG_002 -> grupo corrente (score=8; razões=partilha proposição do mapa (P23, P24); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+SPLIT F0241_A23_SEG_003 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A23_SEG_004 -> grupo corrente (score=7; razões=toca proposições adjacentes do mapa; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha efeito principal no mapa)
+JOIN  F0241_A24_SEG_001 -> grupo corrente (score=7; razões=partilha proposição do mapa (P24, P28); mantém continuidade de zona com o fragmento anterior; continuidade plausível de direção do movimento; partilha efeito principal no mapa)
+JOIN  F0241_A24_SEG_002 -> grupo corrente (score=14; razões=partilha proposição do mapa (P24, P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A24_SEG_003 -> grupo corrente (score=13; razões=partilha proposição do mapa (P25, P28); partilha zona provável de percurso; partilha área filosófica dominante; continuidade plausível de função de cadência; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A25_SEG_001 -> nova microlinha (tamanho_maximo)
+JOIN  F0241_A25_SEG_002 -> grupo corrente (score=9; razões=partilha proposição do mapa (P28); continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+SPLIT F0241_A25_SEG_003 -> nova microlinha (score_insuficiente=3)
+JOIN  F0241_A26_SEG_001 -> grupo corrente (score=9; razões=partilha proposição do mapa (P33, P34, P36); partilha problema filosófico central; partilha função filosófica no sistema; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A26_SEG_002 -> grupo corrente (score=7; razões=partilha proposição do mapa (P33, P36); continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A26_SEG_003 -> grupo corrente (score=6; razões=continuidade plausível de função de cadência; continuidade plausível de direção do movimento; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+JOIN  F0241_A26_SEG_004 -> grupo corrente (score=8; razões=partilha proposição do mapa (P33, P36); partilha área filosófica dominante; mantém estatuto local compatível; partilha tipo de utilidade principal no mapa; partilha efeito principal no mapa)
+
+Conclusão final
+------------------------------------------------------------
+Geração concluída com 194 microlinhas, 70 unitárias e 2 com exceções.

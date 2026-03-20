@@ -1,0 +1,58 @@
+RELATÓRIO DE VALIDAÇÃO DE PERCURSOS V1
+========================================================================
+Data/hora UTC: 2026-03-20T17:45:02Z
+Ficheiro validado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+
+Contagem geral
+------------------------------------------------------------------------
+Número total de percursos: 17
+Número total de ramos: 67
+Número total de microlinhas: 194
+Número total de fragmentos: 538
+Percursos com ramos associados: 8
+Percursos sem ramos associados: 9
+Ramos associados a pelo menos um percurso: 44
+Ramos sem percurso: 23
+
+Distribuição de percursos por número de ramos
+------------------------------------------------------------------------
+Percursos com 0 ramos: 9
+Percursos com 1 ramo: 2
+Percursos com 2 ramos: 1
+Percursos com 3 ramos: 2
+Percursos com 4 ou mais ramos: 3
+
+Verificações executadas
+------------------------------------------------------------------------
+[PASS] 1. Existência e tipo do bloco percursos
+  - Bloco 'percursos' presente e com tipo array/list; total atual: 17.
+[PASS] 2. Campos mínimos de cada percurso
+  - Todos os percursos contêm os campos mínimos obrigatórios.
+[PASS] 3. Tipo de nó
+  - Todos os percursos têm tipo_no='percurso'.
+[PASS] 4. Estrutura mínima de meta
+  - Todos os percursos têm bloco 'meta' estruturalmente válido.
+[PASS] 5. Estrutura mínima de directo
+  - Todos os percursos têm bloco 'directo' estruturalmente válido.
+[PASS] 6. Estrutura mínima de com_pressupostos
+  - Todos os percursos têm bloco 'com_pressupostos' estruturalmente válido.
+[PASS] 7. Arrays auxiliares
+  - Todos os arrays auxiliares obrigatórios existem e têm tipo válido.
+[PASS] 8. Estado de validação
+  - Todos os percursos têm 'estado_validacao' preenchido.
+[PASS] 9. Integridade de ramo_ids
+  - Todos os 'ramo_ids' são válidos, existentes e sem duplicados internos.
+[PASS] 10. Consistência percurso → ramo
+  - Todas as referências percurso → ramo são bidirecionalmente coerentes.
+[PASS] 11. Consistência ramo → percurso
+  - Todos os 'percurso_ids_associados' referidos pelos ramos existem em 'percursos[]'.
+[PASS] 12. Propagação para microlinhas
+  - A propagação de percursos para microlinhas está coerente.
+[PASS] 13. Propagação para fragmentos
+  - A propagação de percursos para fragmentos está coerente.
+[PASS] 14. Métricas globais
+  - total_percursos coerente: 17.
+
+Conclusão final
+------------------------------------------------------------------------
+VALIDA COM AVISOS

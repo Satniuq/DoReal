@@ -1,0 +1,159 @@
+RELATÓRIO DE GERAÇÃO DE ARGUMENTOS V1
+========================================================================
+Data/hora UTC: 2026-03-20T18:10:51Z
+Ficheiro atualizado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+Fonte obrigatória usada: C:\Users\JoseVitorinoQuintas\DoReal\13_Meta_Indice\indice\argumentos\argumentos_unificados.json
+
+Critérios usados
+------------------------------------------------------------------------
+1. Importação determinística dos argumentos de referência a partir de argumentos_unificados.json.
+2. Deduplicação obrigatória por id, com agregação de fontes em 'fontes_argumento'.
+3. Associação ramo→argumento por heurística explícita e auditável.
+4. Sinais considerados: passos-alvo, percurso do ramo, problema/trabalho dominante, conceito-alvo/operação e evidência textual acumulada.
+5. Pontuação mínima de associação: 3.
+6. Associação forte preferencial: 4 ou mais.
+7. Parcimónia: no máximo 3 argumentos por ramo, apenas quando a evidência adicional é forte e próxima do melhor candidato.
+
+Resumo
+------------------------------------------------------------------------
+Argumentos importados: 65
+Ramos lidos: 67
+Ramos processados nesta execução: 67
+Ramos associados a pelo menos um argumento: 35
+Ramos sem argumento (entre os processados): 32
+Associações ramo→argumento geradas: 93
+Argumentos sem ramos associados: 37
+Modo de execução: geração total
+Reescrita forçada: não
+
+Log de associações
+------------------------------------------------------------------------
+RA_0001 -> ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE | score=4 | passo-alvo fortemente compatível com 18; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0001 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0001 -> ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0002 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0002 -> ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0002 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0003 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0003 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0003 -> ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0004 -> sem associação suficiente
+RA_0005 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0005 -> ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0005 -> ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0006 -> sem associação suficiente
+RA_0007 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0007 -> ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0007 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0008 -> ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL | score=4 | passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0008 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0008 -> ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+RA_0009 -> sem associação suficiente
+RA_0010 -> sem associação suficiente
+RA_0011 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0011 -> ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0011 -> ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0012 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0012 -> ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA | score=4 | passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0012 -> ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | score=4 | passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0013 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0013 -> ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0013 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0014 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0014 -> ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0014 -> ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0015 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0015 -> ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0015 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0016 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0016 -> ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | passo-alvo fortemente compatível com 15; problema/trabalho dominante compatível; evidência textual acumulada (epistemologia)
+RA_0016 -> ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE | score=4 | passo-alvo fortemente compatível com 18; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0017 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0017 -> ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0017 -> ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+RA_0018 -> ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA | score=4 | passo-alvo fortemente compatível com 4; percurso compatível (P_EIXO_ONTOLOGICO_NUCLEAR); evidência textual acumulada (p_eixo_ontologico_nuclear)
+RA_0018 -> ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL | score=4 | passo-alvo fortemente compatível com 4; percurso compatível (P_EIXO_ONTOLOGICO_NUCLEAR); evidência textual acumulada (p_eixo_ontologico_nuclear)
+RA_0019 -> sem associação suficiente
+RA_0020 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0020 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0020 -> ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0021 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0021 -> ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0021 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0022 -> sem associação suficiente
+RA_0023 -> ARG_DISTINCAO_MINIMA | score=4 | passo-alvo fortemente compatível com 1; percurso compatível (P_EIXO_ONTOLOGICO_NUCLEAR); evidência textual acumulada (p_eixo_ontologico_nuclear)
+RA_0023 -> ARG_RELACIONALIDADE_MINIMA | score=4 | passo-alvo fortemente compatível com 1; percurso compatível (P_EIXO_ONTOLOGICO_NUCLEAR); evidência textual acumulada (p_eixo_ontologico_nuclear)
+RA_0024 -> sem associação suficiente
+RA_0025 -> ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO | score=3 | passo-alvo adjacente ao capítulo do argumento; percurso compatível (P_ESTRUTURA_OPERACIONAL_DO_REAL); evidência textual acumulada (p_estrutura_operacional_do_real)
+RA_0026 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0026 -> ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+RA_0026 -> ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0027 -> sem associação suficiente
+RA_0028 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0028 -> ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0029 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_SIMBOLICO_MEDIACIONAL); evidência textual acumulada (p_eixo_simbolico_mediacional)
+RA_0029 -> ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO | score=4 | passo-alvo fortemente compatível com 26; percurso compatível (P_EIXO_SIMBOLICO_MEDIACIONAL); evidência textual acumulada (p_eixo_simbolico_mediacional)
+RA_0029 -> ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO | score=4 | passo-alvo fortemente compatível com 13; percurso compatível (P_EIXO_SIMBOLICO_MEDIACIONAL); evidência textual acumulada (p_eixo_simbolico_mediacional)
+RA_0030 -> sem associação suficiente
+RA_0031 -> sem associação suficiente
+RA_0032 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0032 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0032 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0033 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0033 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0033 -> ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0034 -> sem associação suficiente
+RA_0035 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0035 -> ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+RA_0035 -> ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0036 -> sem associação suficiente
+RA_0037 -> sem associação suficiente
+RA_0038 -> sem associação suficiente
+RA_0039 -> ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE | score=3 | passo-alvo adjacente ao capítulo do argumento; percurso compatível (P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL); evidência textual acumulada (p_percurso_da_vida_boa_filosofica_espiral)
+RA_0040 -> sem associação suficiente
+RA_0041 -> sem associação suficiente
+RA_0042 -> sem associação suficiente
+RA_0043 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0043 -> ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0043 -> ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0044 -> sem associação suficiente
+RA_0045 -> sem associação suficiente
+RA_0046 -> sem associação suficiente
+RA_0047 -> ARG_DISTINCAO_MINIMA | score=4 | passo-alvo fortemente compatível com 1; percurso compatível (P_EIXO_ONTOLOGICO_NUCLEAR); evidência textual acumulada (p_eixo_ontologico_nuclear)
+RA_0047 -> ARG_RELACIONALIDADE_MINIMA | score=4 | passo-alvo fortemente compatível com 1; percurso compatível (P_EIXO_ONTOLOGICO_NUCLEAR); evidência textual acumulada (p_eixo_ontologico_nuclear)
+RA_0048 -> sem associação suficiente
+RA_0049 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0049 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0049 -> ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0050 -> sem associação suficiente
+RA_0051 -> sem associação suficiente
+RA_0052 -> sem associação suficiente
+RA_0053 -> sem associação suficiente
+RA_0054 -> ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO | score=4 | passo-alvo fortemente compatível com 13; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0054 -> ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO | score=4 | passo-alvo fortemente compatível com 13; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0055 -> sem associação suficiente
+RA_0056 -> ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS | score=4 | passo-alvo fortemente compatível com 9; percurso compatível (P_ESTRUTURA_OPERACIONAL_DO_REAL); evidência textual acumulada (p_estrutura_operacional_do_real)
+RA_0057 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0057 -> ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA | score=4 | passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0057 -> ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | score=4 | passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0058 -> sem associação suficiente
+RA_0059 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0059 -> ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA | score=4 | passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0059 -> ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | score=4 | passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0060 -> sem associação suficiente
+RA_0061 -> ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL | score=4 | passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0061 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0061 -> ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+RA_0062 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0062 -> ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+RA_0063 -> sem associação suficiente
+RA_0064 -> sem associação suficiente
+RA_0065 -> sem associação suficiente
+RA_0066 -> ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL | score=4 | passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0066 -> ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO | score=4 | passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0066 -> ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA | score=4 | passo-alvo fortemente compatível com 12; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+RA_0067 -> sem associação suficiente
+
+Conclusão final
+------------------------------------------------------------------------
+Geração concluída com 65 argumentos importados, 93 associação(ões) e 37 argumento(s) vazios.

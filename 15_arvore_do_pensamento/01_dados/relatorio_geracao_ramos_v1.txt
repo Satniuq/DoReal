@@ -1,0 +1,458 @@
+RELATÓRIO DE GERAÇÃO DE RAMOS V1
+============================================================
+Data/hora UTC: 2026-03-20T16:28:36Z
+Ficheiro atualizado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+Microlinhas lidas na árvore: 194
+Microlinhas processadas nesta geração: 194
+Modo de execução: geração total
+Reescrita forçada: não
+
+Critérios usados
+------------------------------------------------------------
+1. Ordenação das microlinhas pela posição inicial do primeiro fragmento.
+2. Agrupamento sequencial e determinístico por compatibilidade suficiente.
+3. Compatibilidade por zona/problema/trabalho, movimento local, impacto no mapa e continuidade plausível.
+4. Fecho do ramo quando a compatibilidade cai abaixo do limiar ou quando há rutura forte.
+5. Tamanho máximo por ramo: 8 microlinhas.
+6. Distância máxima local entre microlinhas adjacentes: 18.
+7. Amplitude máxima entre a primeira microlinha do ramo e uma candidata: 36.
+
+Resumo
+------------------------------------------------------------
+Ramos gerados: 67
+Ramos unitários: 34
+Ramos com exceções: 1
+Distribuição de tamanhos: 1: 34 | 2: 9 | 3: 7 | 4: 1 | 5: 2 | 6: 2 | 7: 1 | 8: 11
+
+Ramos gerados
+------------------------------------------------------------
+RA_0001 | n=8 | transicao antropologica — subordinacao da normatividade ao real — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=ativa_prioritaria
+  microlinhas: ML_0001, ML_0002, ML_0003, ML_0004, ML_0005, ML_0006, ML_0007, ML_0008
+  passos-alvo: P33, P46, P28, P34, P36
+  nota: Contém microlinhas com exceção ativa.
+RA_0002 | n=5 | epistemologia — origem do erro — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0009, ML_0010, ML_0011, ML_0012, ML_0013
+  passos-alvo: P36, P33, P34, P28, P24
+RA_0003 | n=3 | percurso do erro e correcao — lei e fundamento ontologico — articula (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0014, ML_0015, ML_0016
+  passos-alvo: P28, P33, P34, P36, P46
+RA_0004 | n=1 | critica sistemica e reintegracao — erro descritivo — prepara (sem impacto relevante) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0017
+  passos-alvo: P33, P36, P38
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0005 | n=3 | estrutura operacional do real — potencialidade e atualizacao — introduz (explicita) | unidade=transicao | estado=valido | excecao=sem_excecao
+  microlinhas: ML_0018, ML_0019, ML_0020
+  passos-alvo: P28, P29, P44, P47, P11
+RA_0006 | n=1 | nao_determinado — ordem do percurso filosofico — fecha (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0021
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0007 | n=8 | etica e narrativa — substituicao do real pelo sistema — prolonga (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0022, ML_0023, ML_0024, ML_0025, ML_0026, ML_0027, ML_0028, ML_0029
+  passos-alvo: P33, P28, P36, P44, P46
+RA_0008 | n=8 | transicao antropologica — criterio de verdade — fecha (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0030, ML_0031, ML_0032, ML_0033, ML_0034, ML_0035, ML_0036, ML_0037
+  passos-alvo: P28, P36, P23, P33, P34
+RA_0009 | n=1 | etica e narrativa — subordinacao da normatividade ao real — prolonga (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0038
+  passos-alvo: P29, P37, P43, P47, P49
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0010 | n=1 | ontologia — condicoes de possibilidade do ser — fecha (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0039
+  passos-alvo: P10
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0011 | n=2 | transicao antropologica — ser humano como ente reflexivo — introduz (explicita) | unidade=transicao | estado=valido | excecao=sem_excecao
+  microlinhas: ML_0040, ML_0041
+  passos-alvo: P33, P22, P23, P24, P27
+RA_0012 | n=8 | transicao antropologica — projecao do eu no real — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0042, ML_0043, ML_0044, ML_0045, ML_0046, ML_0047, ML_0048, ML_0049
+  passos-alvo: P33, P28, P34, P36, P23
+RA_0013 | n=6 | etica e narrativa — fechamento simbolico — prolonga (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0050, ML_0051, ML_0052, ML_0053, ML_0054, ML_0055
+  passos-alvo: P33, P36, P28, P34, P24
+RA_0014 | n=2 | etica e narrativa — escala das respostas coletivas — introduz (sem impacto relevante) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0056, ML_0057
+  passos-alvo: P22, P20, P26, P27, P28
+RA_0015 | n=8 | transicao antropologica — potencialidade e atualizacao — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0058, ML_0059, ML_0060, ML_0061, ML_0062, ML_0063, ML_0064, ML_0065
+  passos-alvo: P36, P22, P33, P27, P28
+RA_0016 | n=8 | epistemologia — subordinacao da normatividade ao real — prolonga (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0066, ML_0067, ML_0068, ML_0069, ML_0070, ML_0071, ML_0072, ML_0073
+  passos-alvo: P33, P36, P31, P27, P34
+RA_0017 | n=4 | transicao antropologica — erro de escala — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0074, ML_0075, ML_0076, ML_0077
+  passos-alvo: P23, P26, P28, P33, P38
+RA_0018 | n=1 | ontologia — relacao e dependencia — desloca (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0078
+  passos-alvo: P04, P11, P12
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0019 | n=1 | mediacao simbolica — mediacao simbolica — prolonga (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0079
+  passos-alvo: P27, P28, P30
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0020 | n=8 | mediacao simbolica — mediacao simbolica — fecha (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0080, ML_0081, ML_0082, ML_0083, ML_0084, ML_0085, ML_0086, ML_0087
+  passos-alvo: P33, P26, P27, P28, P01
+RA_0021 | n=3 | etica e narrativa — subordinacao da normatividade ao real — introduz (explicita) | unidade=transicao | estado=valido | excecao=sem_excecao
+  microlinhas: ML_0088, ML_0089, ML_0090
+  passos-alvo: P47, P17, P25, P26, P28
+RA_0022 | n=1 | metaestrutura do livro — condicoes de inteligibilidade do sistema — desloca (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0091
+  passos-alvo: P33, P34, P36, P44
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0023 | n=1 | ontologia — limite ontologico — fecha (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0092
+  passos-alvo: P01, P09, P10, P12
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0024 | n=2 | transicao antropologica — estatuto do eu — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0093, ML_0094
+  passos-alvo: P33, P46, P06, P22, P24
+RA_0025 | n=1 | estrutura operacional do real — relacao e dependencia — introduz (explicita) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0095
+  passos-alvo: P04, P11
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0026 | n=7 | transicao antropologica — ser humano como ente reflexivo — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0096, ML_0097, ML_0098, ML_0099, ML_0100, ML_0101, ML_0102
+  passos-alvo: P24, P28, P29, P34, P25
+RA_0027 | n=1 | nao_determinado — relacao e dependencia — prolonga (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0103
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0028 | n=1 | mediacao simbolica — mediacao simbolica — prolonga (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0104
+  passos-alvo: P22, P26, P28, P33, P34
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0029 | n=3 | etica e narrativa — dano real e reducao de potencialidades — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0105, ML_0106, ML_0107
+  passos-alvo: P13, P44, P49, P12, P23
+RA_0030 | n=1 | transicao antropologica — projecao do eu no real — prepara (medeia) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0108
+  passos-alvo: P28, P29, P47
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0031 | n=1 | etica e narrativa — dano real e reducao de potencialidades — fecha (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0109
+  passos-alvo: P40, P45, P49
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0032 | n=2 | transicao antropologica — origem da consciencia — introduz (sem impacto relevante) | unidade=transicao | estado=valido | excecao=sem_excecao
+  microlinhas: ML_0110, ML_0111
+  passos-alvo: P20, P22, P23, P25, P26
+RA_0033 | n=3 | critica sistemica e reintegracao — substituicao do real pelo sistema — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0112, ML_0113, ML_0114
+  passos-alvo: P33, P36, P23, P25, P26
+RA_0034 | n=1 | nao_determinado — regularidade e estabilidade — introduz (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0115
+  passos-alvo: P16
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0035 | n=8 | transicao antropologica — consciencia como processo no real — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0116, ML_0117, ML_0118, ML_0119, ML_0120, ML_0121, ML_0122, ML_0123
+  passos-alvo: P25, P33, P47, P24, P28
+RA_0036 | n=1 | nao_determinado — relacao entre partes do sistema — introduz (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0124
+  passos-alvo: P28
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0037 | n=1 | metaestrutura do livro — ordem do percurso filosofico — introduz (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0125
+  passos-alvo: P33
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0038 | n=1 | etica e narrativa — fundamento do dever ser — introduz (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0126
+  passos-alvo: P43, P47, P48, P50
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0039 | n=3 | transicao antropologica — ordem do percurso filosofico — introduz (sem impacto relevante) | unidade=transicao | estado=valido | excecao=sem_excecao
+  microlinhas: ML_0127, ML_0128, ML_0129
+  passos-alvo: P28, P25, P24, P27, P33
+RA_0040 | n=1 | etica e narrativa — criterio para viver bem — introduz (explicita) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0130
+  passos-alvo: P49, P51
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0041 | n=1 | transicao antropologica — consciencia como processo no real — introduz (explicita) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0131
+  passos-alvo: P24, P28
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0042 | n=1 | nao_determinado — escala das respostas coletivas — introduz (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0132
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0043 | n=2 | epistemologia — subordinacao da normatividade ao real — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0133, ML_0134
+  passos-alvo: P33, P36, P24, P28, P29
+RA_0044 | n=1 | nao_determinado — degradacao autorreferencial dos sistemas — introduz (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0135
+  passos-alvo: P28, P46
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0045 | n=1 | epistemologia — substituicao do real pelo sistema — introduz (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0136
+  passos-alvo: P33, P36, P37
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0046 | n=1 | ontologia — condicoes de possibilidade do ser — introduz (sem impacto relevante) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0137
+  passos-alvo: P12, P15, P18
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0047 | n=6 | metaestrutura do livro — ordem do percurso filosofico — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0138, ML_0139, ML_0140, ML_0141, ML_0142, ML_0143
+  passos-alvo: P25, P33, P24, P26, P01
+RA_0048 | n=1 | mediacao simbolica — subordinacao da normatividade ao real — desloca (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0144
+  passos-alvo: P22, P23, P26, P27, P33
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0049 | n=5 | etica e narrativa — criterio para viver bem — introduz (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0145, ML_0146, ML_0147, ML_0148, ML_0149
+  passos-alvo: P25, P27, P15, P26, P31
+RA_0050 | n=1 | metaestrutura do livro — ordem do percurso filosofico — introduz (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0150
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0051 | n=2 | transicao antropologica — consciencia como processo no real — introduz (explicita) | unidade=percurso | estado=valido | excecao=sem_excecao
+  microlinhas: ML_0151, ML_0152
+  passos-alvo: P23, P24, P25, P28, P26
+RA_0052 | n=1 | etica e narrativa — passagem da ontologia para a etica — articula (medeia) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0153
+  passos-alvo: P46, P47, P48
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0053 | n=1 | epistemologia — criterio de verdade — introduz (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0154
+  passos-alvo: P33, P34, P44
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0054 | n=2 | transicao antropologica — estatuto do eu — introduz (sem impacto relevante) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0155, ML_0156
+  passos-alvo: P24, P13, P27, P28, P29
+RA_0055 | n=1 | etica e narrativa — fundamento do dever ser — introduz (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0157
+  passos-alvo: P46, P47, P48
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0056 | n=1 | estrutura operacional do real — potencialidade e atualizacao — introduz (sem impacto relevante) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0158
+  passos-alvo: P09, P13, P14, P15, P18
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0057 | n=2 | transicao antropologica — criterio para viver bem — introduz (explicita) | unidade=transicao | estado=valido | excecao=sem_excecao
+  microlinhas: ML_0159, ML_0160
+  passos-alvo: P25, P28, P21, P23, P24
+RA_0058 | n=1 | nao_determinado — condicoes de possibilidade do ser — fecha (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0161
+  passos-alvo: P12
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0059 | n=8 | epistemologia — criterio de verdade — prolonga (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0162, ML_0163, ML_0164, ML_0165, ML_0166, ML_0167, ML_0168, ML_0169
+  passos-alvo: P28, P33, P36, P26, P31
+RA_0060 | n=1 | nao_determinado — criterio de verdade — retoma (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0170
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0061 | n=8 | transicao antropologica — consciencia como processo no real — prolonga (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0171, ML_0172, ML_0173, ML_0174, ML_0175, ML_0176, ML_0177, ML_0178
+  passos-alvo: P25, P26, P28, P33, P11
+RA_0062 | n=3 | critica sistemica e reintegracao — substituicao do real pelo sistema — prolonga (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0179, ML_0180, ML_0181
+  passos-alvo: P22, P28, P33, P36, P46
+RA_0063 | n=2 | epistemologia — responsabilidade ontologica — introduz (sem impacto relevante) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0182, ML_0183
+  passos-alvo: P32, P33, P36, P40, P44
+RA_0064 | n=1 | metaestrutura do livro — ordem do percurso filosofico — introduz (sem impacto relevante) | unidade=problema | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0184
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0065 | n=1 | estrutura operacional do real — potencialidade e atualizacao — prolonga (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0185
+  passos-alvo: P14, P15, P18
+  nota: Ramo unitário; requer consolidação posterior.
+RA_0066 | n=8 | transicao antropologica — consciencia como processo no real — prolonga (explicita) | unidade=transicao | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0186, ML_0187, ML_0188, ML_0189, ML_0190, ML_0191, ML_0192, ML_0193
+  passos-alvo: P28, P23, P25, P24, P30
+RA_0067 | n=1 | critica sistemica e reintegracao — substituicao do real pelo sistema — fecha (explicita) | unidade=percurso | estado=valido_com_avisos | excecao=sem_excecao
+  microlinhas: ML_0194
+  passos-alvo: P20, P33, P34, P36, P37
+  nota: Ramo unitário; requer consolidação posterior.
+
+Log de agrupamento
+------------------------------------------------------------
+JOIN  ML_0002 -> ramo corrente (score=7; razões=toca passo(s) adjacentes do mapa; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0003 -> ramo corrente (score=13; razões=partilha passo(s) do mapa (P22, P33, P36); partilha problema filosófico central; partilha trabalho dominante no sistema; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0004 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P33, P34, P36); continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0005 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P44, P46, P47); continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0006 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P23, P28); partilha zona filosófica dominante; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0007 -> ramo corrente (score=5; razões=partilha passo(s) do mapa (P44, P48); continuidade plausível de direção local do movimento)
+JOIN  ML_0008 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P24, P28, P33); partilha trabalho dominante no sistema; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0009 -> novo ramo (tamanho_maximo)
+JOIN  ML_0010 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P33, P34, P36); partilha zona filosófica dominante; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0011 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P28, P36, P37); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0012 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P24, P26, P28); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0013 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P33, P34, P36); partilha trabalho dominante no sistema; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0014 -> novo ramo (score_insuficiente=3)
+JOIN  ML_0015 -> ramo corrente (score=5; razões=partilha passo(s) do mapa (P46); continuidade plausível de direção local do movimento)
+JOIN  ML_0016 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P28, P33, P34); continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+SPLIT ML_0017 -> novo ramo (score_insuficiente=3)
+SPLIT ML_0018 -> novo ramo (divergencia_filosofica_e_de_impacto)
+JOIN  ML_0019 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P28, P29); permanece na mesma faixa local do mapa; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0020 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P44, P47); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0021 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0022 -> novo ramo (score_insuficiente=0)
+JOIN  ML_0023 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P28, P33, P44); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0024 -> ramo corrente (score=18; razões=partilha passo(s) do mapa (P24, P28, P44); partilha zona filosófica dominante; partilha problema filosófico central; partilha trabalho dominante no sistema; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0025 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P33, P36, P39); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0026 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P19); continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0027 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P29, P33, P34); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0028 -> ramo corrente (score=13; razões=partilha passo(s) do mapa (P23, P27, P28); partilha zona filosófica dominante; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0029 -> ramo corrente (score=11; razões=partilha passo(s) do mapa (P24, P28, P33); partilha problema filosófico central; continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0030 -> novo ramo (tamanho_maximo)
+JOIN  ML_0031 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P28); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0032 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P36); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0033 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P28, P33, P34); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0034 -> ramo corrente (score=11; razões=partilha passo(s) do mapa (P27, P28, P31); partilha zona filosófica dominante; continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0035 -> ramo corrente (score=12; razões=partilha passo(s) do mapa (P23, P24, P25); partilha zona filosófica dominante; permanece na mesma faixa local do mapa; continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0036 -> ramo corrente (score=6; razões=toca mesma faixa local do mapa; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0037 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P23); partilha trabalho dominante no sistema; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+SPLIT ML_0038 -> novo ramo (tamanho_maximo)
+SPLIT ML_0039 -> novo ramo (score_insuficiente=2)
+SPLIT ML_0040 -> novo ramo (divergencia_filosofica_e_de_impacto)
+JOIN  ML_0041 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P33); permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0042 -> novo ramo (score_insuficiente=5)
+JOIN  ML_0043 -> ramo corrente (score=7; razões=continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0044 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P25, P28, P33); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0045 -> ramo corrente (score=7; razões=toca passo(s) adjacentes do mapa; continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0046 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P33, P34, P36); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0047 -> ramo corrente (score=12; razões=partilha passo(s) do mapa (P23, P25, P26); mantém continuidade de zona com a microlinha anterior; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0048 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P23, P28, P29); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0049 -> ramo corrente (score=13; razões=partilha passo(s) do mapa (P12, P15); partilha trabalho dominante no sistema; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0050 -> novo ramo (tamanho_maximo)
+JOIN  ML_0051 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P29, P33); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0052 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P24, P28, P29); permanece na mesma faixa local do mapa; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0053 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P28, P33, P36); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0054 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P33, P34, P36); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0055 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P24, P28, P33); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0056 -> novo ramo (score_insuficiente=2)
+JOIN  ML_0057 -> ramo corrente (score=5; razões=partilha passo(s) do mapa (P22); continuidade plausível de direção local do movimento)
+SPLIT ML_0058 -> novo ramo (score_insuficiente=3)
+JOIN  ML_0059 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P36); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0060 -> ramo corrente (score=5; razões=partilha passo(s) do mapa (P33); continuidade plausível de direção local do movimento)
+JOIN  ML_0061 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P20, P22, P36); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0062 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P22, P28, P33); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0063 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P27, P33, P36); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0064 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P22, P27); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0065 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P24, P28); partilha zona filosófica dominante; continuidade plausível de cadência)
+SPLIT ML_0066 -> novo ramo (tamanho_maximo)
+JOIN  ML_0067 -> ramo corrente (score=7; razões=toca passo(s) adjacentes do mapa; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0068 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P31, P33, P36); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0069 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P33, P36); mantém continuidade de zona com a microlinha anterior; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0070 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P27, P31, P33); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0071 -> ramo corrente (score=13; razões=partilha passo(s) do mapa (P30, P31, P33); partilha zona filosófica dominante; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0072 -> ramo corrente (score=14; razões=partilha passo(s) do mapa (P22, P23, P27); partilha zona filosófica dominante; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0073 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P33, P36, P47); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0074 -> novo ramo (tamanho_maximo)
+JOIN  ML_0075 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P38); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0076 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P23, P33); continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0077 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P23, P26, P28); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0078 -> novo ramo (score_insuficiente=5)
+SPLIT ML_0079 -> novo ramo (score_insuficiente=3)
+SPLIT ML_0080 -> novo ramo (score_insuficiente=5)
+JOIN  ML_0081 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P33); continuidade plausível de cadência; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0082 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P33, P34); partilha zona filosófica dominante; continuidade plausível de cadência; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0083 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P26, P27, P28); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0084 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P01, P11, P12); permanece na mesma faixa local do mapa; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0085 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P25, P26, P28); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0086 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P24, P29, P33); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0087 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P27); continuidade plausível de cadência; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0088 -> novo ramo (tamanho_maximo)
+JOIN  ML_0089 -> ramo corrente (score=7; razões=continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0090 -> ramo corrente (score=15; razões=partilha passo(s) do mapa (P47); partilha zona filosófica dominante; partilha trabalho dominante no sistema; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0091 -> novo ramo (score_insuficiente=5)
+SPLIT ML_0092 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0093 -> novo ramo (score_insuficiente=4)
+JOIN  ML_0094 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P33, P46); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0095 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0096 -> novo ramo (divergencia_filosofica_e_de_impacto)
+JOIN  ML_0097 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P24); partilha zona filosófica dominante; partilha problema filosófico central; permanece na mesma faixa local do mapa)
+JOIN  ML_0098 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P28, P37); partilha zona filosófica dominante; continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0099 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P25, P26, P27); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0100 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P24, P28, P29); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0101 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P34, P44); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0102 -> ramo corrente (score=12; razões=partilha passo(s) do mapa (P24, P28, P29); partilha zona filosófica dominante; partilha problema filosófico central; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0103 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0104 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0105 -> novo ramo (score_insuficiente=5)
+JOIN  ML_0106 -> ramo corrente (score=11; razões=partilha passo(s) do mapa (P13); permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0107 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P44, P49); partilha zona filosófica dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0108 -> novo ramo (score_insuficiente=3)
+SPLIT ML_0109 -> novo ramo (score_insuficiente=1)
+SPLIT ML_0110 -> novo ramo (divergencia_filosofica_e_de_impacto)
+JOIN  ML_0111 -> ramo corrente (score=6; razões=toca passo(s) adjacentes do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+SPLIT ML_0112 -> novo ramo (score_insuficiente=3)
+JOIN  ML_0113 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P33, P36); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0114 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P23, P25, P26); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0115 -> novo ramo (score_insuficiente=3)
+SPLIT ML_0116 -> novo ramo (score_insuficiente=2)
+JOIN  ML_0117 -> ramo corrente (score=17; razões=partilha passo(s) do mapa (P25); partilha zona filosófica dominante; partilha problema filosófico central; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0118 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P25, P30, P36); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0119 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P47); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0120 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P25, P31); continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0121 -> ramo corrente (score=11; razões=partilha passo(s) do mapa (P24, P28, P33); partilha zona filosófica dominante; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0122 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P46, P47, P48); continuidade plausível de cadência; continuidade plausível de direção local do movimento)
+JOIN  ML_0123 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P33, P34); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0124 -> novo ramo (tamanho_maximo)
+SPLIT ML_0125 -> novo ramo (score_insuficiente=5)
+SPLIT ML_0126 -> novo ramo (score_insuficiente=2)
+SPLIT ML_0127 -> novo ramo (score_insuficiente=2)
+JOIN  ML_0128 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P25, P28); permanece na mesma faixa local do mapa; continuidade plausível de direção local do movimento)
+JOIN  ML_0129 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P28); mantém continuidade de zona com a microlinha anterior; permanece na mesma faixa local do mapa; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0130 -> novo ramo (score_insuficiente=5)
+SPLIT ML_0131 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0132 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0133 -> novo ramo (score_insuficiente=4)
+JOIN  ML_0134 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P33, P36); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0135 -> novo ramo (score_insuficiente=3)
+SPLIT ML_0136 -> novo ramo (score_insuficiente=3)
+SPLIT ML_0137 -> novo ramo (score_insuficiente=3)
+SPLIT ML_0138 -> novo ramo (score_insuficiente=2)
+JOIN  ML_0139 -> ramo corrente (score=5; razões=partilha passo(s) do mapa (P33); continuidade plausível de direção local do movimento)
+JOIN  ML_0140 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P25, P33); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0141 -> ramo corrente (score=5; razões=partilha zona filosófica dominante; continuidade plausível de direção local do movimento)
+JOIN  ML_0142 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P24, P25, P26); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0143 -> ramo corrente (score=6; razões=partilha zona filosófica dominante; partilha problema filosófico central)
+SPLIT ML_0144 -> novo ramo (score_insuficiente=5)
+SPLIT ML_0145 -> novo ramo (score_insuficiente=5)
+JOIN  ML_0146 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P27); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0147 -> ramo corrente (score=7; razões=toca passo(s) adjacentes do mapa; partilha zona filosófica dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0148 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P15, P25); permanece na mesma faixa local do mapa; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0149 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P25, P26, P27); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0150 -> novo ramo (score_insuficiente=2)
+SPLIT ML_0151 -> novo ramo (score_insuficiente=2)
+JOIN  ML_0152 -> ramo corrente (score=17; razões=partilha passo(s) do mapa (P23, P24, P25); partilha zona filosófica dominante; partilha problema filosófico central; partilha trabalho dominante no sistema; permanece na mesma faixa local do mapa; continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0153 -> novo ramo (score_insuficiente=2)
+SPLIT ML_0154 -> novo ramo (score_insuficiente=1)
+SPLIT ML_0155 -> novo ramo (score_insuficiente=4)
+JOIN  ML_0156 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P24); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0157 -> novo ramo (score_insuficiente=2)
+SPLIT ML_0158 -> novo ramo (score_insuficiente=2)
+SPLIT ML_0159 -> novo ramo (score_insuficiente=4)
+JOIN  ML_0160 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P25, P28); permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0161 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0162 -> novo ramo (score_insuficiente=0)
+JOIN  ML_0163 -> ramo corrente (score=7; razões=toca mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0164 -> ramo corrente (score=12; razões=partilha passo(s) do mapa (P15, P26, P28); partilha zona filosófica dominante; permanece na mesma faixa local do mapa; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0165 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P24, P25, P26); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0166 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P34); continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0167 -> ramo corrente (score=6; razões=partilha passo(s) do mapa (P25, P26, P27); partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0168 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P28, P29, P33); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0169 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P28, P29, P30); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0170 -> novo ramo (tamanho_maximo)
+SPLIT ML_0171 -> novo ramo (score_insuficiente=0)
+JOIN  ML_0172 -> ramo corrente (score=8; razões=toca passo(s) adjacentes do mapa; permanece na mesma faixa local do mapa; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0173 -> ramo corrente (score=7; razões=continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0174 -> ramo corrente (score=7; razões=partilha passo(s) do mapa (P15); permanece na mesma faixa local do mapa; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0175 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P25, P26); continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0176 -> ramo corrente (score=11; razões=partilha passo(s) do mapa (P26, P28, P30); partilha zona filosófica dominante; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0177 -> ramo corrente (score=11; razões=partilha passo(s) do mapa (P23, P25, P27); partilha zona filosófica dominante; continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0178 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P11); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0179 -> novo ramo (tamanho_maximo)
+JOIN  ML_0180 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P22, P28, P33); permanece na mesma faixa local do mapa; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0181 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P46); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0182 -> novo ramo (score_insuficiente=2)
+JOIN  ML_0183 -> ramo corrente (score=4; razões=toca passo(s) adjacentes do mapa; continuidade plausível de direção local do movimento)
+SPLIT ML_0184 -> novo ramo (score_insuficiente=4)
+SPLIT ML_0185 -> novo ramo (score_insuficiente=2)
+SPLIT ML_0186 -> novo ramo (score_insuficiente=5)
+JOIN  ML_0187 -> ramo corrente (score=13; razões=partilha passo(s) do mapa (P23, P28, P36); partilha zona filosófica dominante; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0188 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P23, P25, P28); continuidade plausível de cadência; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0189 -> ramo corrente (score=10; razões=partilha passo(s) do mapa (P25, P28); partilha problema filosófico central; partilha trabalho dominante no sistema; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0190 -> ramo corrente (score=8; razões=partilha passo(s) do mapa (P49); continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0191 -> ramo corrente (score=13; razões=partilha passo(s) do mapa (P23, P24, P25); partilha zona filosófica dominante; partilha trabalho dominante no sistema; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0192 -> ramo corrente (score=17; razões=partilha passo(s) do mapa (P23, P24, P25); partilha zona filosófica dominante; partilha problema filosófico central; permanece na mesma faixa local do mapa; continuidade plausível de cadência; continuidade plausível de direção local do movimento; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+JOIN  ML_0193 -> ramo corrente (score=9; razões=partilha passo(s) do mapa (P23, P25, P26); partilha zona filosófica dominante; partilha tipo de utilidade dominante; partilha impacto estrutural dominante no mapa)
+SPLIT ML_0194 -> novo ramo (tamanho_maximo)
+
+Conclusão final
+------------------------------------------------------------
+Geração concluída com 67 ramos, 34 unitários e 1 com exceções.

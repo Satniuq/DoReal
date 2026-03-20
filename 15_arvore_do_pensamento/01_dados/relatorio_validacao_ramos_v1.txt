@@ -1,0 +1,53 @@
+RELATÓRIO DE VALIDAÇÃO DE RAMOS V1
+========================================================================
+Data/hora UTC: 2026-03-20T17:05:14Z
+Ficheiro validado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+
+Contagem geral
+------------------------------------------------------------------------
+Número total de ramos: 67
+Número total de microlinhas: 194
+Número total de fragmentos: 538
+Número de ramos unitários: 34
+Número de ramos com exceções: 1
+
+Distribuição de tamanhos
+------------------------------------------------------------------------
+Ramos com 1 microlinha: 34
+Ramos com 2 microlinhas: 9
+Ramos com 3 microlinhas: 7
+Ramos com 4 microlinhas: 1
+Ramos com 5 ou mais microlinhas: 16
+
+Verificações executadas
+------------------------------------------------------------------------
+[PASS] 1. Existência e tipo do bloco ramos
+  - Bloco 'ramos' presente e com tipo array/list; total atual: 67.
+[PASS] 2. Campos mínimos de cada ramo
+  - Todos os ramos contêm os campos mínimos obrigatórios.
+[PASS] 3. Convenção e unicidade de IDs
+  - Todos os IDs de ramo são únicos e respeitam o padrão esperado.
+[PASS] 4. Tipo de nó
+  - Todos os ramos têm tipo_no='ramo'.
+[PASS] 5. Arrays auxiliares
+  - Todos os arrays auxiliares existem e têm tipo válido.
+[PASS] 6. Estado de validação e campos textuais obrigatórios
+  - Todos os campos textuais obrigatórios estão preenchidos.
+[PASS] 7. Integridade de microlinha_ids
+  - Todas as microlinhas referidas existem e cada microlinha pertence no máximo a um ramo.
+[PASS] 8. Consistência entre ramos e microlinhas
+  - As ordens internas e a relação com exceções nas microlinhas estão coerentes.
+[PASS] 9. Consistência com fragmentos[].ligacoes_arvore.ramo_ids
+  - As ligações de ramo nos fragmentos estão coerentes com os ramos declarados.
+[PASS] 10. Ramos unitários
+  - Os ramos unitários estão assinalados com estado compatível com aviso.
+[PASS] 11. Ramos com exceções
+  - Os ramos com exceções refletem corretamente as exceções das microlinhas.
+[PASS] 12. Métricas globais
+  - total_ramos coerente: 67.
+[PASS] 13. Coerência básica de passo_ids_alvo
+  - Os campos 'passo_ids_alvo' têm formato básico plausível.
+
+Conclusão final
+------------------------------------------------------------------------
+VALIDA COM AVISOS

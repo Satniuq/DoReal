@@ -1,0 +1,103 @@
+RELATÓRIO DE GERAÇÃO DE PERCURSOS V1
+========================================================================
+Data/hora UTC: 2026-03-20T17:32:38Z
+Ficheiro atualizado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+Fonte obrigatória usada: C:\Users\JoseVitorinoQuintas\DoReal\13_Meta_Indice\indice\indice_por_percurso.json
+Fonte opcional meta_referencia_do_percurso.json: C:\Users\JoseVitorinoQuintas\DoReal\13_Meta_Indice\meta\meta_referencia_do_percurso.json
+Fonte opcional indice_de_percursos.json: C:\Users\JoseVitorinoQuintas\DoReal\13_Meta_Indice\indices_derivados\indice_de_percursos.json
+Fonte opcional conteudo_completo.txt: não localizado
+
+Critérios usados
+------------------------------------------------------------------------
+1. Importação determinística de todos os percursos do índice por percurso.
+2. Associação ramo→percurso por heurística explícita e auditável.
+3. Sinais considerados: zona dominante, passos-alvo, problema/trabalho dominante e evidência textual acumulada.
+4. Pontuação mínima de associação: 3.
+5. Associação forte preferencial: 4 ou mais.
+6. Parcimónia: no máximo 2 percursos por ramo, apenas quando a evidência é forte e próxima do melhor candidato.
+
+Resumo
+------------------------------------------------------------------------
+Percursos importados: 17
+Ramos lidos: 67
+Ramos processados nesta execução: 67
+Ramos associados a pelo menos um percurso: 44
+Ramos sem percurso (entre os processados): 23
+Associações ramo→percurso geradas: 44
+Percursos sem ramos associados: 9
+Modo de execução: geração total
+Reescrita forçada: não
+
+Log de associações
+------------------------------------------------------------------------
+RA_0001 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P12, P18, P28); evidência textual acumulada (epistemologia)
+RA_0002 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P9, P12, P20); evidência textual acumulada (epistemologia)
+RA_0003 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P20, P27, P28); evidência textual acumulada (epistemologia)
+RA_0004 -> sem associação suficiente
+RA_0005 -> P_EIXO_ESCALA_E_ERRO_DE_ESCALA | score=3 | passos-alvo compatíveis (P11, P13, P14); evidência textual acumulada (erro_de_escala)
+RA_0006 -> sem associação suficiente
+RA_0007 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P1, P14, P17); evidência textual acumulada (epistemologia)
+RA_0008 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=5 | zona dominante coincidente; passos-alvo compatíveis (P11, P13, P15); evidência textual acumulada (transicao, transicao_antropologica)
+RA_0009 -> sem associação suficiente
+RA_0010 -> P_EIXO_ONTOLOGICO_NUCLEAR | score=4 | zona dominante coincidente; passos-alvo adjacentes à faixa do percurso; evidência textual acumulada (ontologia)
+RA_0011 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P27, P28, P29); evidência textual acumulada (epistemologia)
+RA_0012 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P7, P9, P10); evidência textual acumulada (epistemologia)
+RA_0013 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P14, P15, P16); evidência textual acumulada (epistemologia)
+RA_0014 -> P_EIXO_ESCALA_E_ERRO_DE_ESCALA | score=3 | passos-alvo compatíveis (P20, P27, P28); evidência textual acumulada (erro_de_escala)
+RA_0015 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P4, P14, P15); evidência textual acumulada (epistemologia)
+RA_0016 -> P_EIXO_EPISTEMOLOGICO | score=5 | zona dominante coincidente; passos-alvo compatíveis (P11, P14, P15); evidência textual acumulada (epistemologia)
+RA_0017 -> P_EIXO_ESCALA_E_ERRO_DE_ESCALA | score=4 | problema dominante compatível; passos-alvo compatíveis (P20, P28, P29); evidência textual acumulada (erro_de_escala)
+RA_0018 -> P_EIXO_ONTOLOGICO_NUCLEAR | score=5 | zona dominante coincidente; passos-alvo compatíveis (P4); evidência textual acumulada (ontologia)
+RA_0019 -> sem associação suficiente
+RA_0020 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P1, P11, P12); evidência textual acumulada (epistemologia)
+RA_0021 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P17, P28); evidência textual acumulada (epistemologia)
+RA_0022 -> sem associação suficiente
+RA_0023 -> P_EIXO_ONTOLOGICO_NUCLEAR | score=5 | zona dominante coincidente; passos-alvo compatíveis (P1, P9); evidência textual acumulada (ontologia)
+RA_0024 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=5 | zona dominante coincidente; passos-alvo compatíveis (P6); evidência textual acumulada (transicao, transicao_antropologica)
+RA_0025 -> P_ESTRUTURA_OPERACIONAL_DO_REAL | score=5 | zona dominante coincidente; passos-alvo compatíveis (P4); evidência textual acumulada (estrutura_operacional_do_real)
+RA_0026 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=5 | zona dominante coincidente; passos-alvo compatíveis (P14, P15); evidência textual acumulada (transicao, transicao_antropologica)
+RA_0027 -> sem associação suficiente
+RA_0028 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P28); evidência textual acumulada (epistemologia)
+RA_0029 -> P_EIXO_SIMBOLICO_MEDIACIONAL | score=3 | passos-alvo compatíveis (P12, P13, P28); evidência textual acumulada (mediacional)
+RA_0030 -> P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA | score=4 | tipo de utilidade compatível; passos-alvo compatíveis (P28, P29); evidência textual acumulada (mediacional)
+RA_0031 -> sem associação suficiente
+RA_0032 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P20, P27, P28); evidência textual acumulada (epistemologia)
+RA_0033 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P20, P27, P28); evidência textual acumulada (epistemologia)
+RA_0034 -> sem associação suficiente
+RA_0035 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=5 | zona dominante coincidente; passos-alvo compatíveis (P1, P13, P14); evidência textual acumulada (transicao, transicao_antropologica)
+RA_0036 -> sem associação suficiente
+RA_0037 -> sem associação suficiente
+RA_0038 -> sem associação suficiente
+RA_0039 -> P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL | score=3 | passos-alvo compatíveis (P24, P25, P27); evidência textual acumulada (aprofundamento)
+RA_0040 -> sem associação suficiente
+RA_0041 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=3 | zona dominante coincidente; evidência textual acumulada (transicao_antropologica)
+RA_0042 -> sem associação suficiente
+RA_0043 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P28, P29); evidência textual acumulada (epistemologia)
+RA_0044 -> sem associação suficiente
+RA_0045 -> sem associação suficiente
+RA_0046 -> P_EIXO_ONTOLOGICO_NUCLEAR | score=3 | zona dominante coincidente; evidência textual acumulada (ontologia)
+RA_0047 -> P_EIXO_ONTOLOGICO_NUCLEAR | score=3 | passos-alvo compatíveis (P1); evidência textual acumulada (ontologia)
+RA_0048 -> sem associação suficiente
+RA_0049 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P11, P15, P16); evidência textual acumulada (epistemologia)
+RA_0050 -> sem associação suficiente
+RA_0051 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=3 | zona dominante coincidente; evidência textual acumulada (transicao_antropologica)
+RA_0052 -> sem associação suficiente
+RA_0053 -> P_EIXO_EPISTEMOLOGICO | score=3 | zona dominante coincidente; evidência textual acumulada (epistemologia)
+RA_0054 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=3 | passos-alvo compatíveis (P13); evidência textual acumulada (transicao, transicao_antropologica)
+RA_0055 -> sem associação suficiente
+RA_0056 -> P_ESTRUTURA_OPERACIONAL_DO_REAL | score=5 | zona dominante coincidente; passos-alvo compatíveis (P9); evidência textual acumulada (estrutura_operacional_do_real)
+RA_0057 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P21, P28, P29); evidência textual acumulada (epistemologia)
+RA_0058 -> P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL | score=3 | passos-alvo compatíveis (P12); evidência textual acumulada (aprofundamento)
+RA_0059 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P13, P14, P15); evidência textual acumulada (epistemologia)
+RA_0060 -> sem associação suficiente
+RA_0061 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=5 | zona dominante coincidente; passos-alvo compatíveis (P1, P9, P10); evidência textual acumulada (transicao, transicao_antropologica)
+RA_0062 -> P_EIXO_EPISTEMOLOGICO | score=3 | passos-alvo compatíveis (P28); evidência textual acumulada (epistemologia)
+RA_0063 -> sem associação suficiente
+RA_0064 -> sem associação suficiente
+RA_0065 -> P_ESTRUTURA_OPERACIONAL_DO_REAL | score=3 | zona dominante coincidente; evidência textual acumulada (estrutura_operacional_do_real)
+RA_0066 -> P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | score=5 | zona dominante coincidente; passos-alvo compatíveis (P11, P12); evidência textual acumulada (transicao, transicao_antropologica)
+RA_0067 -> sem associação suficiente
+
+Conclusão final
+------------------------------------------------------------------------
+Geração concluída com 17 percursos importados, 44 associação(ões) e 9 percurso(s) vazios.

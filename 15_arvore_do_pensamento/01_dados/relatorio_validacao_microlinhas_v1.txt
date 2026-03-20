@@ -1,0 +1,69 @@
+RELATÓRIO DE VALIDAÇÃO — MICROLINHAS V1
+============================================================
+Data/hora UTC: 2026-03-20T16:09:15Z
+Ficheiro validado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+
+Verificações executadas
+------------------------------------------------------------
+PASS — 1. Existência e tipo do bloco
+  - Sem inconformidades.
+
+PASS — 2. Contagem
+  - Número total de microlinhas: 194
+  - Número total de fragmentos: 538
+  - Número de microlinhas unitárias: 70
+  - Número de microlinhas com exceções: 2
+
+PASS — 3. Campos mínimos de cada microlinha
+  - Sem inconformidades.
+
+PASS — 4. Conteúdo mínimo de criterio_de_agregacao
+  - Sem inconformidades.
+
+PASS — 5. Convenção de IDs
+  - Sem inconformidades.
+
+PASS — 6. Tipo de nó
+  - Sem inconformidades.
+
+PASS — 7. Integridade de fragmento_ids
+  - Sem inconformidades.
+
+PASS — 8. Consistência com fragmentos[].ligacoes_arvore.microlinha_ids
+  - Sem inconformidades.
+
+WARNING — 9. Microlinhas unitárias
+  - Existem 70 microlinha(s) unitária(s); a estrutura é aceitável na v1, mas exige consolidação posterior.
+
+WARNING — 10. Microlinhas com exceções
+  - Existem 2 microlinha(s) com exceções ativas coerentes com os seus fragmentos.
+
+PASS — 11. Arrays auxiliares
+  - Sem inconformidades.
+
+PASS — 12. Estado de validação
+  - Sem inconformidades.
+
+PASS — 13. Métricas globais
+  - Sem inconformidades.
+
+PASS — 14. Distribuição de tamanhos
+  - Microlinhas com 1 fragmento: 70
+  - Microlinhas com 2 fragmentos: 35
+  - Microlinhas com 3 fragmentos: 19
+  - Microlinhas com 4 fragmentos: 9
+  - Microlinhas com 5 ou mais fragmentos: 61
+
+Resumo de contagem
+------------------------------------------------------------
+Número total de microlinhas: 194
+Número total de fragmentos: 538
+Número de microlinhas unitárias: 70
+Número de microlinhas com exceções: 2
+Número total de exceções: 3
+
+Conclusão final
+------------------------------------------------------------
+VALIDA COM AVISOS
+
+A camada de microlinhas é estruturalmente utilizável, mas contém avisos relevantes.

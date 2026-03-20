@@ -1,0 +1,117 @@
+RELATÓRIO DE VALIDAÇÃO DE ARGUMENTOS V1
+========================================================================
+Data/hora UTC: 2026-03-20T18:20:00Z
+Ficheiro validado: C:\Users\JoseVitorinoQuintas\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+
+Contagem geral
+------------------------------------------------------------------------
+Número total de argumentos: 65
+Número total de ramos: 67
+Número total de microlinhas: 194
+Número total de fragmentos: 538
+Argumentos com ramos associados: 28
+Argumentos sem ramos associados: 37
+Ramos associados a pelo menos um argumento: 35
+Ramos sem argumento: 32
+
+Distribuição dos argumentos por número de ramos
+------------------------------------------------------------------------
+Argumentos com 0 ramos: 37
+Argumentos com 1 ramo: 9
+Argumentos com 2 ramos: 5
+Argumentos com 3 ramos: 5
+Argumentos com 4 ou mais ramos: 9
+
+Verificações executadas
+------------------------------------------------------------------------
+[PASS] 1. Existência e tipo do bloco argumentos
+  - Bloco 'argumentos' presente e com tipo array/list; total atual: 65.
+[PASS] 2. Campos mínimos de cada argumento
+  - Todos os argumentos contêm os campos mínimos obrigatórios.
+[PASS] 3. Tipo de nó
+  - Todos os argumentos têm tipo_no='argumento'.
+[PASS] 4. Convenção e unicidade de IDs
+  - Todos os IDs de argumentos são únicos e as fontes estão agregadas em objetos únicos.
+[PASS] 5. Estrutura mínima de fundamenta
+  - Todos os argumentos têm bloco 'fundamenta' estruturalmente válido.
+[PASS] 6. Estrutura mínima de estrutura_logica
+  - Todos os argumentos têm bloco 'estrutura_logica' estruturalmente válido.
+[PASS] 7. Estrutura mínima de reducao_ao_absurdo
+  - Todos os argumentos têm bloco 'reducao_ao_absurdo' estruturalmente válido.
+[PASS] 8. Estrutura mínima de ligacoes_narrativas
+  - Todos os argumentos têm bloco 'ligacoes_narrativas' estruturalmente válido.
+[PASS] 9. Arrays auxiliares
+  - Todos os arrays auxiliares obrigatórios existem e têm tipo válido.
+[PASS] 10. Integridade de ramo_ids
+  - Todos os 'ramo_ids' são válidos, existentes e sem duplicados internos.
+[PASS] 11. Consistência argumento → ramo
+  - Todas as referências argumento → ramo são bidirecionalmente coerentes.
+[PASS] 12. Consistência ramo → argumento
+  - Todos os 'argumento_ids_associados' referidos pelos ramos existem em 'argumentos[]'.
+[PASS] 13. Propagação para microlinhas
+  - A propagação de argumentos para microlinhas está coerente.
+[PASS] 14. Propagação para fragmentos
+  - A propagação de argumentos para fragmentos está coerente.
+[PASS] 15. Estado de validação
+  - Todos os argumentos têm 'estado_validacao' preenchido.
+[PASS] 16. Métricas globais
+  - total_argumentos coerente: 65.
+[WARNING] 17. Bloco de plausibilidade das associações
+  - Foram detetados 24 aviso(s) de plausibilidade em 1 associação(ões) ramo→argumento.
+  - RA_0001 -> ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0002 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0003 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0005 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0007 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0008 -> ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0011 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0013 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0014 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0015 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0016 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0016 -> ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA [associacao_fraca]: Associação com poucos sinais observáveis independentes (sinais_detectados=1).
+  - RA_0017 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0020 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0021 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0026 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0029 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO,ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0032 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0033 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0035 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO [heterogeneidade_excessiva]: Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - ... e mais 4 aviso(s) não listados nesta secção resumida.
+
+Bloco de plausibilidade
+------------------------------------------------------------------------
+Número total de associações ramo→argumento: 93
+Número de associações plausíveis sem aviso: 92
+Número de associações com aviso de plausibilidade: 1
+Número total de avisos registados: 24
+Casos mais problemáticos:
+  - RA_0001 -> ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0002 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0003 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0005 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0007 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0008 -> ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0011 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0013 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0014 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0015 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0016 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0016 -> ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA [associacao_fraca] Associação com poucos sinais observáveis independentes (sinais_detectados=1).
+  - RA_0017 -> ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0020 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0021 -> ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0026 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0029 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO,ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0032 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=2, necessidades=1, conceitos=3).
+  - RA_0033 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0035 -> ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0043 -> ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0049 -> ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0061 -> ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+  - RA_0066 -> ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO,ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA [heterogeneidade_excessiva] Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).
+
+Conclusão final
+------------------------------------------------------------------------
+VALIDA COM AVISOS
