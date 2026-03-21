@@ -1,0 +1,334 @@
+RELATÓRIO DE TRIAGEM DO FECHO SUPERIOR V1
+========================================================================
+Data/hora UTC: 2026-03-21T00:54:59Z
+Script: triagem_fecho_superior_v1.py
+Bloco de ramos localizado em: raiz.ramos
+Bloco de percursos localizado em: raiz.percursos
+Bloco de argumentos localizado em: raiz.argumentos
+
+Ficheiros lidos
+------------------------------------------------------------------------
+arvore: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+relatorio_geracao_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_geracao_percursos_v1.txt
+relatorio_validacao_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_validacao_percursos_v1.txt
+relatorio_geracao_argumentos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_geracao_argumentos_v1.txt
+relatorio_validacao_argumentos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_validacao_argumentos_v1.txt
+
+Ficheiros escritos
+------------------------------------------------------------------------
+triagem_json: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\triagem_fecho_superior_v1.json
+relatorio_txt: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_triagem_fecho_superior_v1.txt
+
+Resumo quantitativo
+------------------------------------------------------------------------
+Número total de ramos: 67
+Grupo A — rever argumento: 26
+Grupo B — rever percurso e depois argumento: 9
+Grupo C — sem subida nesta ronda: 23
+Grupo D — fora do âmbito desta ronda: 9
+
+Critérios aplicados
+------------------------------------------------------------------------
+- Regra 1: sem percurso e sem argumento -> Grupo C.
+- Regra 2: com percurso e sem argumento -> Grupo B.
+- Regra 3: com percurso e com argumento -> Grupo D por defeito.
+- Regra 4: sinais de plausibilidade, heterogeneidade, associação fraca, divergência estrutural ou mais de 2 argumentos -> Grupo A.
+- Regra 5: na dúvida, revisão conservadora, sem inventar justificação factual.
+
+Critérios de deteção de inflação argumentativa
+------------------------------------------------------------------------
+- mais_de_2_argumentos_associados_ao_mesmo_ramo
+- avisos_textuais_de_heterogeneidade_excessiva
+- avisos_textuais_de_associacao_fraca
+- avisos_textuais_de_plausibilidade
+- divergencia_entre_estrutura_da_arvore_e_relatorios_de_geracao
+
+Extração dos relatórios
+------------------------------------------------------------------------
+relatorio_geracao_percursos_v1.txt
+  - ramos_com_mapeamento: 67
+  - linhas_ramo_detectadas: 67
+  - ramos_sem_associacao_explicitados: 23
+relatorio_validacao_percursos_v1.txt
+  - ramos_sem_percurso_contagem_global: 23
+  - ramos_com_percurso_contagem_global: 44
+  - ramos_com_avisos_mapeados: 0
+  - limitações:
+      * A validação de percursos pode trazer apenas contagens globais, sem sempre listar cada ramo individualmente.
+relatorio_geracao_argumentos_v1.txt
+  - ramos_com_mapeamento: 67
+  - linhas_ramo_detectadas: 125
+  - ramos_sem_associacao_explicitados: 32
+relatorio_validacao_argumentos_v1.txt
+  - ramos_com_avisos_mapeados: 19
+  - linhas_de_aviso_mapeadas: 20
+  - tipos_de_aviso: {'heterogeneidade_excessiva': 19, 'associacao_fraca': 1}
+
+Limitações globais da extração
+------------------------------------------------------------------------
+- O relatório de validação de percursos não forneceu, com o parser prudente atual, uma listagem ramo a ramo utilizável; foi usado sobretudo para contagens globais.
+
+Grupo A — rever argumento
+------------------------------------------------------------------------
+RA_0001 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE, ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0002 | microlinhas=5 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL, ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0003 | microlinhas=3 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0005 | microlinhas=3 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+  argumento_ids: ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME, ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO, ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0007 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA, ARG_ADEQUACAO_EXIGE_CRITERIO, ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0008 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL, ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO, ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0011 | microlinhas=2 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL, ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0012 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA, ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0013 | microlinhas=6 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA, ARG_ADEQUACAO_EXIGE_CRITERIO, ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0014 | microlinhas=2 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+  argumento_ids: ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME, ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO, ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0015 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA, ARG_ADEQUACAO_EXIGE_CRITERIO, ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0016 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, associacao_fraca, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA, ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva, aviso_validacao_argumentos:associacao_fraca
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0017 | microlinhas=4 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+  argumento_ids: ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME, ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO, ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0020 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0021 | microlinhas=3 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA, ARG_ADEQUACAO_EXIGE_CRITERIO, ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0026 | microlinhas=7 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO, ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA, ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0029 | microlinhas=3 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_SIMBOLICO_MEDIACIONAL
+  argumento_ids: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO, ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0032 | microlinhas=2 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0033 | microlinhas=3 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0035 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=heterogeneidade_excessiva, mais_de_2_argumentos
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO, ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA, ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO
+  factos_relatorios: aviso_validacao_argumentos:heterogeneidade_excessiva
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0043 | microlinhas=2 | percursos=1 | argumentos=3 | motivos=mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL, ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0049 | microlinhas=5 | percursos=1 | argumentos=3 | motivos=mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0057 | microlinhas=2 | percursos=1 | argumentos=3 | motivos=mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA, ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0059 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=mais_de_2_argumentos
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL, ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA, ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0061 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=mais_de_2_argumentos
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL, ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO, ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+RA_0066 | microlinhas=8 | percursos=1 | argumentos=3 | motivos=mais_de_2_argumentos
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL, ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO, ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA
+  inferencias_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados.
+
+Grupo B — rever percurso e depois argumento
+------------------------------------------------------------------------
+RA_0010 | microlinhas=1 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_EIXO_ONTOLOGICO_NUCLEAR
+  argumento_ids: ∅
+RA_0024 | microlinhas=2 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ∅
+RA_0030 | microlinhas=1 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA
+  argumento_ids: ∅
+RA_0041 | microlinhas=1 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ∅
+RA_0046 | microlinhas=1 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_EIXO_ONTOLOGICO_NUCLEAR
+  argumento_ids: ∅
+RA_0051 | microlinhas=2 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ∅
+RA_0053 | microlinhas=1 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ∅
+RA_0058 | microlinhas=1 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL
+  argumento_ids: ∅
+RA_0065 | microlinhas=1 | percursos=1 | argumentos=0 | motivos=tem_percurso_sem_argumento
+  percurso_ids: P_ESTRUTURA_OPERACIONAL_DO_REAL
+  argumento_ids: ∅
+
+Grupo C — sem subida nesta ronda
+------------------------------------------------------------------------
+RA_0004 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0006 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0009 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0019 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0022 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0027 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0031 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0034 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0036 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0037 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0038 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0040 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0042 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0044 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0045 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0048 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0050 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0052 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0055 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0060 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0063 | microlinhas=2 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0064 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+RA_0067 | microlinhas=1 | percursos=0 | argumentos=0 | motivos=sem_percurso_sem_argumento
+  percurso_ids: ∅
+  argumento_ids: ∅
+
+Grupo D — fora do âmbito desta ronda
+------------------------------------------------------------------------
+RA_0018 | microlinhas=1 | percursos=1 | argumentos=2 | motivos=estavel_nesta_fase
+  percurso_ids: P_EIXO_ONTOLOGICO_NUCLEAR
+  argumento_ids: ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA, ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL
+RA_0023 | microlinhas=1 | percursos=1 | argumentos=2 | motivos=estavel_nesta_fase
+  percurso_ids: P_EIXO_ONTOLOGICO_NUCLEAR
+  argumento_ids: ARG_DISTINCAO_MINIMA, ARG_RELACIONALIDADE_MINIMA
+RA_0025 | microlinhas=1 | percursos=1 | argumentos=1 | motivos=estavel_nesta_fase
+  percurso_ids: P_ESTRUTURA_OPERACIONAL_DO_REAL
+  argumento_ids: ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO
+RA_0028 | microlinhas=1 | percursos=1 | argumentos=2 | motivos=estavel_nesta_fase
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+RA_0039 | microlinhas=3 | percursos=1 | argumentos=1 | motivos=estavel_nesta_fase
+  percurso_ids: P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL
+  argumento_ids: ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE
+RA_0047 | microlinhas=6 | percursos=1 | argumentos=2 | motivos=estavel_nesta_fase
+  percurso_ids: P_EIXO_ONTOLOGICO_NUCLEAR
+  argumento_ids: ARG_DISTINCAO_MINIMA, ARG_RELACIONALIDADE_MINIMA
+RA_0054 | microlinhas=2 | percursos=1 | argumentos=2 | motivos=estavel_nesta_fase
+  percurso_ids: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+  argumento_ids: ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO, ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO
+RA_0056 | microlinhas=1 | percursos=1 | argumentos=1 | motivos=estavel_nesta_fase
+  percurso_ids: P_ESTRUTURA_OPERACIONAL_DO_REAL
+  argumento_ids: ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS
+RA_0062 | microlinhas=3 | percursos=1 | argumentos=2 | motivos=estavel_nesta_fase
+  percurso_ids: P_EIXO_EPISTEMOLOGICO
+  argumento_ids: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO, ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+
+Observações finais
+------------------------------------------------------------------------
+A triagem ficou suficientemente fechada para alimentar o script seguinte: sim
+Ramos com revisão manual recomendada: RA_0001, RA_0002, RA_0003, RA_0005, RA_0007, RA_0008, RA_0011, RA_0012, RA_0013, RA_0014, RA_0015, RA_0016, RA_0017, RA_0020, RA_0021, RA_0026, RA_0029, RA_0032, RA_0033, RA_0035, RA_0043, RA_0049, RA_0057, RA_0059, RA_0061, RA_0066
+Fila inicial para o script seguinte (revisão de percursos superiores): RA_0010, RA_0024, RA_0030, RA_0041, RA_0046, RA_0051, RA_0053, RA_0058, RA_0065
+Casos ainda potencialmente manuais: divergências entre árvore e relatórios, anomalias argumento sem percurso, ou avisos extraídos parcialmente dos relatórios.

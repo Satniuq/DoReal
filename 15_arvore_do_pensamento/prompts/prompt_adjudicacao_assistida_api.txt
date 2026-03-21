@@ -1,0 +1,544 @@
+Quero o **script completo** para adjudicação assistida por API dos casos manuais da zona superior da árvore do pensamento v1:
+
+**`adjudicar_argumentos_api_v1.py`**
+
+## Localização do script
+
+O script vai ser guardado em:
+
+`C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\scripts\adjudicar_argumentos_api_v1.py`
+
+Tens de escrever o código já com esta estrutura em mente.
+
+---
+
+## Objetivo do script
+
+Este script serve para resolver o bloqueio que ficou depois da revisão restritiva de argumentos.
+
+A situação atual é esta:
+
+- a triagem da zona superior já foi feita;
+- a revisão de percursos superiores já foi feita;
+- a revisão restritiva de argumentos já foi feita;
+- o resultado dessa revisão restritiva foi útil, mas deixou um conjunto relevante de ramos em **revisão manual**;
+- o problema já não é de limpeza automática simples;
+- o problema é de **adjudicação fina entre candidatos argumentativos fortes ou quase-fortes**, sem permitir inflação artificial.
+
+O script deve usar a API para ajudar a decidir, por ramo manual, entre:
+
+1. **manter 1 argumento dominante**
+2. **manter 2 argumentos apenas em caso excecional e estruturalmente compatível**
+3. **manter 0 argumentos**
+4. **assinalar revisão humana necessária**
+
+O objetivo não é gerar novos argumentos.
+O objetivo não é reabrir percursos.
+O objetivo não é rever a árvore toda.
+O objetivo é **adjudicar de forma restritiva e controlada os casos manuais**.
+
+---
+
+## Estrutura relevante da pasta da árvore
+
+`C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\`
+- `01_dados/arvore_do_pensamento_v1_fecho_superior.json`
+- `01_dados/triagem_fecho_superior_v1.json`
+- `01_dados/relatorio_triagem_fecho_superior_v1.txt`
+- `01_dados/relatorio_revisao_percursos_superiores_v1.txt`
+- `01_dados/relatorio_geracao_argumentos_v1.txt`
+- `01_dados/relatorio_validacao_argumentos_v1.txt`
+- `01_dados/relatorio_revisao_argumentos_restritiva_v1.txt`
+- `scripts/adjudicar_argumentos_api_v1.py`
+
+Se precisares de criar ficheiros auxiliares de estado, logs ou resultados intermédios, devem ficar em `01_dados/` e com nomes coerentes com este script.
+
+---
+
+## Regra de caminhos
+
+O script deve:
+1. assumir que corre a partir da pasta onde ele próprio está;
+2. usar `Path(__file__).resolve().parent` como base;
+3. subir para `15_arvore_do_pensamento/`;
+4. ler:
+   - `15_arvore_do_pensamento/01_dados/arvore_do_pensamento_v1_fecho_superior.json`
+   - `15_arvore_do_pensamento/01_dados/triagem_fecho_superior_v1.json`
+   - `15_arvore_do_pensamento/01_dados/relatorio_triagem_fecho_superior_v1.txt`
+   - `15_arvore_do_pensamento/01_dados/relatorio_revisao_percursos_superiores_v1.txt`
+   - `15_arvore_do_pensamento/01_dados/relatorio_geracao_argumentos_v1.txt`
+   - `15_arvore_do_pensamento/01_dados/relatorio_validacao_argumentos_v1.txt`
+   - `15_arvore_do_pensamento/01_dados/relatorio_revisao_argumentos_restritiva_v1.txt`
+5. escrever:
+   - `15_arvore_do_pensamento/01_dados/adjudicacao_argumentos_api_v1.json`
+   - `15_arvore_do_pensamento/01_dados/relatorio_adjudicacao_argumentos_api_v1.txt`
+
+Opcionalmente, o script pode também escrever:
+- `15_arvore_do_pensamento/01_dados/adjudicacao_argumentos_api_v1_logs.jsonl`
+- `15_arvore_do_pensamento/01_dados/adjudicacao_argumentos_api_v1_estado.json`
+
+Não quero caminhos absolutos hardcoded.
+
+---
+
+## Regra de API
+
+Quero que o script use a **OpenAI Responses API** com cliente oficial Python.
+
+### Requisitos obrigatórios
+- usar `python-dotenv` para carregar `.env`
+- ler a API key por variável de ambiente
+- não hardcodar a chave
+- usar `OpenAI()` do SDK oficial
+- usar structured output / JSON schema sempre que possível
+- ter retries prudentes para falhas de rede, schema inválido e respostas insuficientes
+
+O script deve assumir que o outro ambiente **não** tem nenhum script anterior de referência.
+Portanto, tens de escrever tudo de forma autónoma e completa, sem depender de `extrator_q_faz.py` nem de qualquer ficheiro semelhante.
+
+---
+
+## Dependências permitidas
+
+Podes usar:
+- bibliotecas standard do Python
+- `python-dotenv`
+- `openai`
+
+Não quero outras dependências externas.
+
+---
+
+## Universo de trabalho
+
+O script deve identificar os ramos a adjudicar a partir do estado já produzido.
+
+O universo principal deve ser:
+
+### 1. Ramos marcados para revisão manual
+A partir de:
+- `relatorio_revisao_argumentos_restritiva_v1.txt`
+- e/ou outros sinais consistentes disponíveis
+
+O script deve tentar extrair automaticamente os ramos marcados como:
+- revisão manual
+- decisão não fechada
+- empate sem dominância clara
+- concorrência estrutural
+- heterogeneidade impeditiva de fecho automático
+
+### 2. Fallback estrutural
+Se o relatório não permitir extrair todos os casos com segurança, o script deve:
+- cruzar com a árvore final dessa fase;
+- cruzar com a triagem;
+- e declarar no relatório quais os limites da extração.
+
+### 3. Universo final de adjudicação
+O script deve produzir uma lista fechada dos ramos a adjudicar nesta ronda.
+
+---
+
+## Princípio metodológico central
+
+O script deve ser guiado por este princípio:
+
+> mais vale manter 0 argumentos do que adjudicar artificialmente um argumento sem dominância estrutural clara.
+
+E por estas regras:
+
+- o critério dominante é **função estrutural dominante do ramo**
+- não usar mera proximidade temática como critério suficiente
+- não usar o percurso como justificação suficiente para manter argumento
+- não inventar argumentos novos
+- não permitir inflação argumentativa
+- na dúvida, preferir `0` ou `revisao_humana`
+
+---
+
+## Modelo de decisão desejado
+
+Para cada ramo manual, o script deve tentar chegar a uma saída final entre:
+
+- `manter_1`
+- `manter_2_excecional`
+- `manter_0`
+- `revisao_humana_necessaria`
+
+### Regra 1
+Por defeito, o máximo é **1 argumento**.
+
+### Regra 2
+Só pode haver **2 argumentos** quando:
+- ambos sejam fortemente sustentados;
+- ambos pertençam ao mesmo regime estrutural;
+- não haja heterogeneidade excessiva entre:
+  - parte
+  - conceito_alvo
+  - nivel_de_operacao
+  - tipo_de_necessidade
+
+### Regra 3
+Se houver empate sem dominância clara, preferir:
+- `manter_0`
+- ou `revisao_humana_necessaria`
+
+### Regra 4
+Nunca manter 2 ou mais argumentos só porque todos têm score razoável.
+
+### Regra 5
+O script não pode inventar candidatos que não estejam já presentes nos dados.
+
+---
+
+## Arquitetura desejada do script
+
+Quero uma arquitetura robusta, modular e autónoma.
+
+O script deve ter, no mínimo, funções separadas para:
+
+1. resolução de caminhos
+2. carregamento de `.env`
+3. validação de ficheiros necessários
+4. leitura da árvore
+5. leitura dos relatórios
+6. identificação dos ramos manuais
+7. extração, por ramo, do dossiê de adjudicação
+8. construção dos prompts
+9. chamada à API
+10. validação da resposta estruturada
+11. arbitragem/fallback
+12. escrita de outputs
+13. geração de relatório final
+14. `main()`
+
+---
+
+## Pipeline interno obrigatório
+
+Não quero um único prompt gigante.
+
+Quero que o script use **vários prompts especializados**, encadeados por ramo, com outputs estruturados.
+
+### Etapa 1 — leitura estrutural do ramo
+Objetivo:
+- identificar a função estrutural dominante do ramo;
+- resumir o que o ramo está a fazer no sistema;
+- explicitar o tipo de argumento que seria compatível com essa função.
+
+### Etapa 2 — comparação dos candidatos argumentativos
+Objetivo:
+- avaliar cada candidato já existente no ramo;
+- dizer se exprime ou não a função estrutural dominante;
+- identificar incompatibilidades e riscos de heterogeneidade.
+
+### Etapa 3 — decisão final restritiva
+Objetivo:
+- decidir entre `manter_1`, `manter_2_excecional`, `manter_0` ou `revisao_humana_necessaria`
+- com justificação curta e clara.
+
+### Etapa 4 — fallback prudente
+Se a API falhar, ou se a resposta não ficar suficientemente válida:
+- tentar nova chamada até ao limite de retries;
+- se continuar sem fecho, marcar `revisao_humana_necessaria`.
+
+---
+
+## Fontes de decisão permitidas
+
+O script pode usar, de forma prudente:
+
+### 1. Estrutura da árvore
+A partir de `arvore_do_pensamento_v1_fecho_superior.json`, por ramo:
+- `ramo_id`
+- `microlinha_ids`
+- `percurso_ids_associados`
+- `argumento_ids_associados`
+- outros campos locais úteis que existam no JSON
+
+### 2. Triagem
+A partir de `triagem_fecho_superior_v1.json`:
+- grupo original do ramo
+- motivos da classificação
+
+### 3. Relatórios de argumentos
+A partir de:
+- `relatorio_geracao_argumentos_v1.txt`
+- `relatorio_validacao_argumentos_v1.txt`
+- `relatorio_revisao_argumentos_restritiva_v1.txt`
+
+Extrair prudentemente, se existirem:
+- scores
+- razões
+- avisos de plausibilidade
+- heterogeneidade excessiva
+- associação fraca
+- poucos sinais independentes
+- incompatibilidades como:
+  - `parte_incompativel`
+  - `nivel_de_operacao_incompativel`
+  - `tipo_de_necessidade_incompativel`
+  - `conceito_alvo_incompativel`
+  - ou outras análogas
+
+### 4. Relatório de percursos
+A partir de:
+- `relatorio_revisao_percursos_superiores_v1.txt`
+
+Usar apenas para confirmar a estabilidade do percurso já fixado, nunca para justificar sozinho um argumento.
+
+---
+
+## Dossiê por ramo
+
+Antes de chamar a API, o script deve montar para cada ramo um dossiê claro e fechado, contendo pelo menos:
+
+- `ramo_id`
+- grupo original
+- percurso(s) estabilizado(s)
+- argumento(s) candidatos atuais
+- evidência estrutural local disponível
+- scores e razões extraídos dos relatórios, se existirem
+- incompatibilidades extraídas dos relatórios, se existirem
+- notas de prudência
+- indicação de lacunas dos dados
+
+Esse dossiê deve ser o input base dos prompts.
+
+---
+
+## Prompts internos obrigatórios
+
+Os prompts devem ser definidos no próprio script como strings multilinha claras e editáveis.
+
+### Prompt 1 — Função estrutural dominante
+Deve pedir ao modelo que responda, em JSON estruturado, algo como:
+- qual é a função estrutural dominante do ramo;
+- que operação o ramo realiza;
+- que tipo de argumento seria compatível com essa função;
+- que riscos de erro existem.
+
+### Prompt 2 — Avaliação dos candidatos
+Deve pedir ao modelo, em JSON estruturado:
+- avaliação ramo→argumento para cada candidato;
+- se o candidato exprime a função dominante;
+- se é compatível ou incompatível;
+- razões estruturais;
+- risco de heterogeneidade.
+
+### Prompt 3 — Decisão final
+Deve obrigar o modelo a escolher apenas entre:
+- `manter_1`
+- `manter_2_excecional`
+- `manter_0`
+- `revisao_humana_necessaria`
+
+E a devolver:
+- argumentos mantidos
+- argumentos excluídos
+- argumento dominante
+- justificação curta
+- nível de confiança
+- necessidade de revisão humana
+
+Não quero texto livre descontrolado.
+Quero saídas estritamente estruturadas.
+
+---
+
+## Schemas estruturados obrigatórios
+
+Quero que o script tenha schemas JSON explícitos, embutidos no próprio código, para validar as respostas da API.
+
+### Schema mínimo da etapa 1
+Campos do tipo:
+- `ramo_id`
+- `funcao_estrutural_dominante`
+- `operacao_dominante`
+- `tipo_de_argumento_adequado`
+- `riscos_identificados`
+- `confianca`
+
+### Schema mínimo da etapa 2
+Campos do tipo:
+- `ramo_id`
+- `avaliacoes`
+  - lista com um item por argumento candidato
+  - cada item deve conter:
+    - `argumento_id`
+    - `exprime_funcao_dominante`
+    - `compatibilidade_estrutural`
+    - `incompatibilidades`
+    - `justificacao_curta`
+    - `confianca`
+
+### Schema mínimo da etapa 3
+Campos do tipo:
+- `ramo_id`
+- `decisao_final`
+- `argumentos_mantidos`
+- `argumentos_excluidos`
+- `argumento_dominante`
+- `justificacao_curta`
+- `motivos_estruturais`
+- `confianca_decisao`
+- `necessita_revisao_humana`
+
+Podes afinar os nomes, mas a lógica tem de ser esta.
+
+---
+
+## Regras de arbitragem local
+
+Mesmo usando API, o script não deve aceitar tudo cegamente.
+
+Quero regras locais de arbitragem, por exemplo:
+
+- se a etapa 3 devolver `manter_2_excecional`, mas os argumentos mantidos forem estruturalmente incompatíveis segundo a etapa 2, forçar fallback para `revisao_humana_necessaria`;
+- se a decisão devolver argumento não presente nos candidatos, rejeitar;
+- se a resposta vier sem `ramo_id` coerente, rejeitar;
+- se a resposta vier com schema inválido, repetir;
+- se a confiança for demasiado baixa e a decisão for arriscada, preferir `revisao_humana_necessaria`;
+- se o modelo oscilar muito entre retries, preferir `revisao_humana_necessaria`.
+
+Quero prudência programática real.
+
+---
+
+## Configuração desejada
+
+Quero configuração centralizada no topo do script, incluindo pelo menos:
+
+- nome do modelo principal
+- nome de eventual modelo de arbitragem ou fallback
+- número máximo de retries por etapa
+- temperatura, se aplicável
+- limite de ramos a processar por execução, se quiseres incluir isso
+- flags de:
+  - reprocessamento
+  - guardar logs intermédios
+  - modo dry-run, se quiseres incluir
+
+Mas tudo isto deve ser simples, legível e editável.
+
+---
+
+## Estado e logs
+
+Quero que o script tenha persistência mínima de estado e logs, para não perder trabalho se a execução for interrompida.
+
+Pelo menos:
+- JSONL ou JSON com decisões por ramo
+- estado de progresso
+- registo de falhas e retries
+
+Mas sem complicação excessiva.
+
+---
+
+## O que o script deve produzir
+
+### 1. Output JSON principal
+`adjudicacao_argumentos_api_v1.json`
+
+Deve conter pelo menos:
+- metadata
+- lista de ramos adjudicados
+- decisão final por ramo
+- argumentos mantidos
+- argumentos excluídos
+- justificação curta
+- confiança
+- necessidade de revisão humana
+- eventuais avisos
+
+### 2. Relatório TXT
+`relatorio_adjudicacao_argumentos_api_v1.txt`
+
+Deve conter pelo menos:
+
+#### Cabeçalho
+- nome do script
+- data/hora
+- ficheiros lidos
+- ficheiros escritos
+- modelo(s) usado(s)
+
+#### Resumo quantitativo
+- total de ramos considerados
+- total adjudicado automaticamente
+- total mantido com 1 argumento
+- total mantido com 2 argumentos
+- total mantido com 0 argumentos
+- total em revisão humana
+- total de falhas/retries
+
+#### Critérios aplicados
+- regra dominante
+- regra de prudência
+- política de fallback
+
+#### Listagem por ramo
+Para cada ramo:
+- ramo_id
+- percurso(s)
+- candidatos iniciais
+- decisão final
+- argumentos mantidos
+- argumentos excluídos
+- justificação curta
+- confiança
+- revisão humana: sim/não
+
+#### Observações finais
+- se a zona superior ficou suficientemente adjudicada
+- que casos ainda exigem decisão humana
+
+---
+
+## O que não quero
+
+- Não quero pseudocódigo
+- Não quero explicação teórica
+- Não quero plano
+- Não quero dependência de scripts ausentes no outro ambiente
+- Não quero código incompleto
+- Não quero um esqueleto
+- Não quero um único prompt gigante
+- Não quero geração de novos argumentos
+- Não quero alteração de percursos
+- Não quero alteração de ramos
+- Não quero inferências soltas sem validação estrutural
+
+---
+
+## Requisitos técnicos obrigatórios
+
+O script deve:
+- ser completo e executável;
+- usar apenas standard library + `python-dotenv` + `openai`;
+- ter `main()`;
+- ter funções bem separadas;
+- usar `Path`;
+- ler e escrever UTF-8;
+- escrever JSON com `indent=2` e `ensure_ascii=False`;
+- validar existência de ficheiros;
+- falhar com mensagens claras;
+- ser robusto a campos em falta;
+- ter comentários sóbrios e úteis;
+- não assumir formatos frágeis sem fallback;
+- ser prudente no parsing textual dos relatórios.
+
+---
+
+## Exigência final
+
+Este script é um passo de **adjudicação assistida**, não de geração livre.
+
+Por isso, quero um código que:
+- use a API como mecanismo de julgamento comparativo controlado;
+- force saídas estruturadas;
+- reduza arbitrariedade;
+- preserve a regra de prudência;
+- e deixe claro, no fim, quais os ramos realmente fechados e quais os que ainda exigem decisão humana.
+
+Escreve agora o código completo de `adjudicar_argumentos_api_v1.py`.

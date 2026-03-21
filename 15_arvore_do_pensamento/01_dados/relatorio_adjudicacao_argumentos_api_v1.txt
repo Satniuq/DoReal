@@ -1,0 +1,287 @@
+RELATÓRIO DE ADJUDICAÇÃO ASSISTIDA DE ARGUMENTOS VIA API V1
+========================================================================
+Data/hora UTC: 2026-03-21T00:44:39Z
+Script: adjudicar_argumentos_api_v1.py
+Modelos usados: gpt-4.1-mini, gpt-4.1-mini
+
+Ficheiros lidos
+------------------------------------------------------------------------
+arvore_final: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1_fecho_superior.json
+triagem_json: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\triagem_fecho_superior_v1.json
+triagem_report: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_triagem_fecho_superior_v1.txt
+revisao_percursos_report: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_revisao_percursos_superiores_v1.txt
+geracao_argumentos_report: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_geracao_argumentos_v1.txt
+validacao_argumentos_report: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_validacao_argumentos_v1.txt
+revisao_argumentos_report: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_revisao_argumentos_restritiva_v1.txt
+
+Ficheiros escritos
+------------------------------------------------------------------------
+json_principal: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\adjudicacao_argumentos_api_v1.json
+relatorio_txt: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_adjudicacao_argumentos_api_v1.txt
+logs_jsonl: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\adjudicacao_argumentos_api_v1_logs.jsonl
+estado_json: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\adjudicacao_argumentos_api_v1_estado.json
+
+Resumo quantitativo
+------------------------------------------------------------------------
+Total de ramos considerados: 26
+Total processado nesta execução: 26
+Total adjudicado sem revisão humana: 25
+Total mantido com 1 argumento: 8
+Total mantido com 2 argumentos: 6
+Total mantido com 0 argumentos: 11
+Total em revisão humana: 1
+Total de retries: 78
+Total de falhas/retries com erro: 0
+
+Critérios aplicados
+------------------------------------------------------------------------
+Regra dominante: Função estrutural dominante do ramo.
+Regra de prudência: Na dúvida, preferir manter_0 ou revisao_humana_necessaria em vez de inflacionar argumentos.
+Política de fallback: Falhas de rede, schema inválido, argumentos inventados, incompatibilidades locais ou oscilação entre retries convertem para revisao_humana_necessaria.
+
+Universo de adjudicação
+------------------------------------------------------------------------
+Ramos extraídos do relatório de revisão restritiva: RA_0001, RA_0002, RA_0003, RA_0005, RA_0007, RA_0008, RA_0011, RA_0012, RA_0013, RA_0014, RA_0015, RA_0016, RA_0017, RA_0020, RA_0021, RA_0026, RA_0029, RA_0032, RA_0033, RA_0035, RA_0043, RA_0049, RA_0057, RA_0059, RA_0061, RA_0066
+Ramos adicionados por fallback estrutural: nenhum
+
+Listagem por ramo
+------------------------------------------------------------------------
+RA_0001 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | decisao=manter_1
+  mantidos: ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE | excluidos: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  argumento_dominante: ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE
+  justificação: Apenas o argumento ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE expressa fortemente a função estrutural dominante e é compatível estruturalmente; os outros são incompatíveis localmente e operam em níveis e partes diferentes.
+  confiança: 0.75
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos incompatíveis localmente, dispersão elevada em partes e níveis de operação, empate sem dominância clara entre candidatos argumentativos
+  retries_total: 3
+
+RA_0002 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | decisao=manter_1
+  mantidos: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | excluidos: ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME
+  argumento_dominante: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO
+  justificação: Mantém-se um único argumento operacional meta-dedutivo alinhado com a função dominante do ramo, evitando heterogeneidade excessiva e incompatibilidades estruturais.
+  confiança: 0.60
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos dispersos, incompatibilidade entre argumentos em diferentes partes e níveis de operação, ausência de consenso claro para seleção de argumento dominante
+  retries_total: 3
+
+RA_0003 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | decisao=manter_1
+  mantidos: ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO
+  argumento_dominante: ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  justificação: Apenas ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL expressa forte compatibilidade estrutural e função dominante do ramo; os demais são incompatíveis e geram heterogeneidade excessiva.
+  confiança: 0.85
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos incompatíveis localmente, ausência de argumento dominante claro nos demais candidatos, compatibilidade forte e alinhamento com função estrutural dominante apenas em ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  retries_total: 3
+
+RA_0005 | grupo=A_rever_argumento | percursos=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | candidatos=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS
+  argumento_dominante: ∅
+  justificação: Apesar da forte compatibilidade estrutural e alta confiança individual, a presença de três argumentos igualmente fortes e compatíveis gera heterogeneidade excessiva e impede a seleção restritiva de um ou dois argumentos. A prudência recomenda manter_0 para evitar inflacão argumentativa e garantir revisão futura.
+  confiança: 0.60
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos concorrentes, mais de dois argumentos viáveis sem redução prudente automática, inflacão argumentativa simples que dificulta adjudicação restritiva, ausência de menções específicas ao ramo no relatório de revisão de percursos
+  retries_total: 3
+
+RA_0007 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | decisao=manter_2_excecional
+  mantidos: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  argumento_dominante: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA
+  justificação: Dois argumentos epistemológicos meta-dedutivos são estruturalmente compatíveis e expressam claramente a função dominante do ramo, justificando exceção para manter ambos; o terceiro argumento é incompatível e excluído.
+  confiança: 0.85
+  revisão_humana: não
+  motivos_estruturais: compatibilidade forte entre dois argumentos epistemológicos, expressão clara da função estrutural dominante, incompatibilidade do terceiro argumento por parte e nível operacional distintos, heterogeneidade excessiva controlada pela seleção restritiva, mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  retries_total: 3
+
+RA_0008 | grupo=A_rever_argumento | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | candidatos=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA
+  argumento_dominante: ∅
+  justificação: Apesar da forte compatibilidade estrutural dos três argumentos com a função dominante, a heterogeneidade excessiva e a presença de mais de dois argumentos impedem a manutenção restritiva de qualquer argumento isolado ou dupla excepcional.
+  confiança: 0.60
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos dispersos, mais de dois argumentos no ramo, ausência de argumento único consolidado
+  retries_total: 3
+
+RA_0011 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+  argumento_dominante: ∅
+  justificação: Três argumentos fortes e compatíveis, mas excesso de argumentos e heterogeneidade indicam inflação argumentativa; prudência recomenda manter nenhum e revisão humana.
+  confiança: 0.60
+  revisão_humana: não
+  motivos_estruturais: mais de dois argumentos candidatos, heterogeneidade excessiva no ramo, inflacão argumentativa simples detectada, ausência de menções específicas no relatório de revisão
+  retries_total: 3
+
+RA_0012 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | decisao=manter_1
+  mantidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | excluidos: ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL
+  argumento_dominante: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  justificação: Apenas o argumento ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL expressa fortemente a função estrutural dominante e é compatível estruturalmente; os outros são incompatíveis e operam em níveis distintos, inviabilizando manter mais de um.
+  confiança: 0.80
+  revisão_humana: não
+  motivos_estruturais: presença de múltiplos argumentos incompatíveis no mesmo ramo, incompatibilidade entre níveis de operação e partes dos argumentos candidatos, necessidade de evitar inflação argumentativa
+  retries_total: 3
+
+RA_0013 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | decisao=manter_2_excecional
+  mantidos: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  argumento_dominante: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA
+  justificação: Dois argumentos epistemológicos são estruturalmente compatíveis e fortemente sustentados, justificando exceção para manter ambos; o terceiro é incompatível e excluído.
+  confiança: 0.85
+  revisão_humana: não
+  motivos_estruturais: compatibilidade forte entre dois argumentos epistemológicos, incompatibilidade estrutural do terceiro argumento, função e operação dominantes alinhadas com argumentos mantidos, heterogeneidade excessiva justifica restrição a dois argumentos, mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  retries_total: 3
+
+RA_0014 | grupo=A_rever_argumento | percursos=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | candidatos=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | decisao=revisao_humana_necessaria
+  mantidos: ∅ | excluidos: ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS
+  argumento_dominante: ∅
+  justificação: Três argumentos fortes e estruturalmente compatíveis, mas excesso de candidatos e heterogeneidade excessiva impedem decisão restritiva automática; revisão humana necessária para escolha prudente.
+  confiança: 0.70
+  revisão_humana: sim
+  motivos_estruturais: mais_de_2_argumentos, heterogeneidade_excessiva, ausência_de_dominância_clara, risco_de_dispersão_argumentativa
+  retries_total: 3
+
+RA_0015 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | decisao=manter_2_excecional
+  mantidos: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  argumento_dominante: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA
+  justificação: Dois argumentos epistemológicos e estruturais são fortemente compatíveis e expressam a função dominante do ramo, justificando exceção para manter ambos; o terceiro é incompatível e excluído.
+  confiança: 0.80
+  revisão_humana: não
+  motivos_estruturais: compatibilidade forte entre dois argumentos epistemológicos, expressão clara da função estrutural dominante do ramo, incompatibilidade do terceiro argumento com a função e nível do ramo, evitar inflação argumentativa mantendo restrição prudente, mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  retries_total: 3
+
+RA_0016 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | decisao=manter_1
+  mantidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | excluidos: ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA
+  argumento_dominante: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  justificação: Mantém-se um único argumento que expressa a função estrutural dominante com compatibilidade moderada, evitando inflacionar com argumentos incompatíveis e associação fraca.
+  confiança: 0.70
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos e dispersão elevada, incompatibilidade entre argumentos em partes e níveis de operação, associação fraca em argumento excluído
+  retries_total: 3
+
+RA_0017 | grupo=A_rever_argumento | percursos=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | candidatos=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS
+  argumento_dominante: ∅
+  justificação: Três argumentos fortes e compatíveis, mas excesso de heterogeneidade e dispersão impede manter mais de um; ausência de dominância clara recomenda manter_0 para prudência.
+  confiança: 0.70
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade_excessiva, mais_de_2_argumentos, ausência_de_dominância_clara, risco_de_inflacao_argumentativa
+  retries_total: 3
+
+RA_0020 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | decisao=manter_1
+  mantidos: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  argumento_dominante: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO
+  justificação: Apenas o argumento ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO expressa fortemente a função estrutural dominante e é estruturalmente compatível, enquanto os outros apresentam incompatibilidades de parte.
+  confiança: 0.80
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos concorrentes, incompatibilidade entre partes dos argumentos candidatos, ausência de argumento dominante claro, necessidade de restrição a um único argumento para evitar inflação argumentativa
+  retries_total: 3
+
+RA_0021 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | decisao=manter_2_excecional
+  mantidos: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  argumento_dominante: ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA
+  justificação: Dois argumentos epistemológicos meta-dedutivos são fortemente compatíveis estruturalmente e expressam a função dominante do ramo, justificando exceção para manter ambos; o terceiro é incompatível e excluído.
+  confiança: 0.80
+  revisão_humana: não
+  motivos_estruturais: compatibilidade forte entre dois argumentos epistemológicos, expressão clara da função estrutural dominante, incompatibilidade do terceiro argumento com a função dominante e nível operacional, heterogeneidade excessiva justifica exclusão do argumento incompatível, mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  retries_total: 3
+
+RA_0026 | grupo=A_rever_argumento | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | candidatos=ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO
+  argumento_dominante: ∅
+  justificação: Apesar da forte compatibilidade estrutural e fundamentação dos três argumentos, a presença simultânea de mais de dois argumentos compatíveis e a heterogeneidade excessiva indicam inflação argumentativa. Sem argumento dominante claro, a decisão prudente é não manter argumentos automaticamente.
+  confiança: 0.60
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva no ramo, mais de dois argumentos candidatos, ausência de argumento dominante claro, inflacão argumentativa que dificulta adjudicação restritiva
+  retries_total: 3
+
+RA_0029 | grupo=A_rever_argumento | percursos=P_EIXO_SIMBOLICO_MEDIACIONAL | candidatos=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO,ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO,ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO
+  argumento_dominante: ∅
+  justificação: Três argumentos fortes mas incompatíveis localmente, sem dominância clara e com heterogeneidade excessiva; decisão restritiva mantém nenhum argumento para evitar inflação argumentativa.
+  confiança: 0.50
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos incompatíveis localmente, ausência de argumento dominante claro devido a empate entre candidatos, dispersão elevada dificultando escolha clara de argumento dominante, lacunas de dados específicas para o ramo que impedem confirmação definitiva
+  retries_total: 3
+
+RA_0032 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME
+  argumento_dominante: ∅
+  justificação: Nenhum argumento expressa adequadamente a função dominante do ramo; incompatibilidades estruturais e heterogeneidade excessiva impedem manutenção restritiva.
+  confiança: 0.85
+  revisão_humana: não
+  motivos_estruturais: incompatibilidade de parte com função dominante, heterogeneidade excessiva dos argumentos, ausência de argumento dominante claro
+  retries_total: 3
+
+RA_0033 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | decisao=manter_1
+  mantidos: ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO
+  argumento_dominante: ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL
+  justificação: Apesar da heterogeneidade e incompatibilidades, o argumento ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL expressa a função dominante do ramo com compatibilidade moderada e maior confiança, justificando sua manutenção isolada.
+  confiança: 0.85
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva no ramo, incompatibilidade entre partes dos argumentos, ausência de compatibilidade plena entre argumentos, presença de argumento dominante alinhado com função estrutural dominante
+  retries_total: 3
+
+RA_0035 | grupo=A_rever_argumento | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | candidatos=ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO
+  argumento_dominante: ∅
+  justificação: Apesar da forte compatibilidade estrutural e fundamentação dos três argumentos, a presença simultânea de mais de dois argumentos viáveis e a heterogeneidade excessiva indicam sobreoferta sem redução prudente automática, sem argumento único dominante claro, recomendando não manter nenhum argumento automaticamente.
+  confiança: 0.60
+  revisão_humana: não
+  motivos_estruturais: heterogeneidade excessiva com múltiplos argumentos, mais de dois argumentos viáveis sem redução prudente, ausência de argumento dominante único, risco de inflação argumentativa simples
+  retries_total: 3
+
+RA_0043 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+  argumento_dominante: ∅
+  justificação: Apesar da forte compatibilidade e fundamentação dos três argumentos, a presença de mais de dois argumentos compatíveis e a ausência de dominância clara indicam prudência em não manter nenhum argumento automaticamente.
+  confiança: 0.70
+  revisão_humana: não
+  motivos_estruturais: mais de dois argumentos compatíveis presentes, compatibilidade estrutural forte entre todos os candidatos, ausência de argumento dominante claro, risco de inflação argumentativa, restrição máxima de um argumento salvo exceção clara
+  retries_total: 3
+
+RA_0049 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | decisao=manter_1
+  mantidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | excluidos: ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO
+  argumento_dominante: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  justificação: Apenas o argumento ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL expressa fortemente a função dominante do ramo e é estruturalmente compatível; os outros são incompatíveis e não podem ser mantidos juntos.
+  confiança: 0.85
+  revisão_humana: não
+  motivos_estruturais: incompatibilidade estrutural entre argumentos, função dominante clara expressa por um único argumento, evitar inflação argumentativa mantendo restrição a um argumento
+  retries_total: 3
+
+RA_0057 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL
+  argumento_dominante: ∅
+  justificação: Três argumentos são todos relevantes e alinhados à função dominante, mas incompatíveis entre si em parte e nível de operação, sem dominância clara. Dado o conflito estrutural e a ausência de menção específica no relatório, a decisão restritiva é não manter nenhum argumento para evitar inflação argumentativa.
+  confiança: 0.70
+  revisão_humana: não
+  motivos_estruturais: conflito entre argumentos incompatíveis em parte e nível de operação, presença de múltiplos argumentos concorrentes sem dominância clara, ausência de menções específicas ao ramo no relatório de revisão de percursos
+  retries_total: 3
+
+RA_0059 | grupo=A_rever_argumento | percursos=P_EIXO_EPISTEMOLOGICO | candidatos=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | decisao=manter_2_excecional
+  mantidos: ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | excluidos: ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL
+  argumento_dominante: ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA
+  justificação: Dois argumentos fortes e estruturalmente compatíveis expressam a função dominante epistemológica, justificando exceção para manter ambos; o terceiro é incompatível e excluído.
+  confiança: 0.85
+  revisão_humana: não
+  motivos_estruturais: compatibilidade forte entre ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA e ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL, ambos expressam fixação e descrição epistemológica de critérios de verdade, ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL incompatível em parte e nível, evitar inflação argumentativa mantendo apenas argumentos compatíveis, mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  retries_total: 3
+
+RA_0061 | grupo=A_rever_argumento | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | candidatos=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | decisao=manter_0
+  mantidos: ∅ | excluidos: ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA
+  argumento_dominante: ∅
+  justificação: Três argumentos fortes e estruturalmente compatíveis, mas excesso de candidatos impede exceção binária prudente; sem dominância clara, opta-se por manter_0 para evitar inflação argumentativa.
+  confiança: 0.70
+  revisão_humana: não
+  motivos_estruturais: mais de dois argumentos viáveis no ramo, compatibilidade estrutural forte entre todos os argumentos, ausência de argumento dominante claro
+  retries_total: 3
+
+RA_0066 | grupo=A_rever_argumento | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | candidatos=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO,ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA | decisao=manter_2_excecional
+  mantidos: ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO | excluidos: ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA
+  argumento_dominante: ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL
+  justificação: Dois argumentos principais são fortemente compatíveis, estruturais e operacionais, expressando a função dominante e percurso; terceiro argumento é menos central e compatível moderadamente, justificando exclusão para evitar inflação argumentativa.
+  confiança: 0.80
+  revisão_humana: não
+  motivos_estruturais: compatibilidade forte entre dois argumentos principais, expressão clara da função estrutural dominante, evitar inflação argumentativa com mais de dois argumentos, terceiro argumento apresenta compatibilidade moderada e foco secundário, mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  retries_total: 3
+
+Observações finais
+------------------------------------------------------------------------
+Zona superior suficientemente adjudicada: não
+Ramos ainda dependentes de decisão humana: RA_0014
+Este script não altera a árvore nem cria argumentos novos; adjudica casos manuais com base na estrutura já produzida.

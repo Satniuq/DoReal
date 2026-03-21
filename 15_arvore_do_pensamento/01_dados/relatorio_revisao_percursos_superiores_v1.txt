@@ -1,0 +1,120 @@
+RELATÓRIO DE REVISÃO DE PERCURSOS SUPERIORES V1
+========================================================================
+Data/hora UTC: 2026-03-20T23:02:44Z
+Script: rever_percursos_superiores_v1.py
+Bloco de ramos localizado em: raiz.ramos
+Bloco de percursos localizado em: raiz.percursos
+
+Ficheiros lidos
+------------------------------------------------------------------------
+arvore: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1.json
+triagem_json: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\triagem_fecho_superior_v1.json
+triagem_report: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_triagem_fecho_superior_v1.txt
+relatorio_geracao_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_geracao_percursos_v1.txt
+relatorio_validacao_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_validacao_percursos_v1.txt
+
+Ficheiros escritos
+------------------------------------------------------------------------
+arvore_pos_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1_pos_percursos.json
+relatorio_revisao_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_revisao_percursos_superiores_v1.txt
+
+Resumo quantitativo
+------------------------------------------------------------------------
+Total de ramos Grupo B analisados: 9
+Percurso confirmado: 3
+Sem percurso final: 6
+Revisão manual recomendada: 0
+Não decididos automaticamente: 0
+Grupo C confirmado sem alterar: 23
+
+Critérios aplicados
+------------------------------------------------------------------------
+Regra dominante: Função estrutural dominante do ramo, lida de forma prudente através do percurso já associado e dos sinais estruturais explicitados no relatório de geração de percursos.
+Regra de prudência: Na dúvida, não manter o percurso. O script não inventa novos percursos nem substitui o percurso atual por outro não já associado ao ramo.
+Limite de confirmação: Confirmação automática apenas com suporte textual-estrutural suficiente: score>=4 sem sinais negativos relevantes, ou score=3 com ancoragem estrutural forte e ancoragem adicional por passos.
+Heurística transparente usada:
+- Grupo B é o único universo diretamente revisto.
+- Grupo C é apenas confirmado como ausência sem alteração.
+- Score 4 ou 5 no relatório de geração, sem sinais negativos relevantes, permite confirmar o percurso atual.
+- Score 3 só confirma quando combina ancoragem estrutural forte (zona/problema/trabalho/utilidade/efeito) com ancoragem adicional por passos.
+- Mais de um percurso num ramo do Grupo B é tratado como anomalia e não é reduzido sem base textual clara.
+- Divergência entre estrutura e relatório de geração impede confirmação automática prudente.
+
+Listagem detalhada por ramo
+------------------------------------------------------------------------
+RA_0010 | anteriores=P_EIXO_ONTOLOGICO_NUCLEAR | finais=P_EIXO_ONTOLOGICO_NUCLEAR | decisão=confirmado
+  score_relatorio: 4
+  reasons_relatorio: zona dominante coincidente; passos-alvo adjacentes à faixa do percurso; evidência textual acumulada (ontologia)
+  motivos: percurso_confirmado_com_suporte_estrutural_suficiente
+  factos: percurso_ids_anteriores=P_EIXO_ONTOLOGICO_NUCLEAR | n_percursos_anteriores=1 | score_relatorio=4 | razao_relatorio:zona dominante coincidente | razao_relatorio:passos-alvo adjacentes à faixa do percurso | razao_relatorio:evidência textual acumulada (ontologia)
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0024 | anteriores=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | finais=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | decisão=confirmado
+  score_relatorio: 5
+  reasons_relatorio: zona dominante coincidente; passos-alvo compatíveis (P6); evidência textual acumulada (transicao, transicao_antropologica)
+  motivos: percurso_confirmado_com_suporte_estrutural_suficiente
+  factos: percurso_ids_anteriores=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | n_percursos_anteriores=1 | score_relatorio=5 | razao_relatorio:zona dominante coincidente | razao_relatorio:passos-alvo compatíveis (P6) | razao_relatorio:evidência textual acumulada (transicao, transicao_antropologica)
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0030 | anteriores=P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA | finais=P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA | decisão=confirmado
+  score_relatorio: 4
+  reasons_relatorio: tipo de utilidade compatível; passos-alvo compatíveis (P28, P29); evidência textual acumulada (mediacional)
+  motivos: percurso_confirmado_com_suporte_estrutural_suficiente
+  factos: percurso_ids_anteriores=P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA | n_percursos_anteriores=1 | score_relatorio=4 | razao_relatorio:tipo de utilidade compatível | razao_relatorio:passos-alvo compatíveis (P28, P29) | razao_relatorio:evidência textual acumulada (mediacional)
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0041 | anteriores=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | finais=∅ | decisão=removido
+  score_relatorio: 3
+  reasons_relatorio: zona dominante coincidente; evidência textual acumulada (transicao_antropologica)
+  motivos: score_insuficiente_para_confirmacao_conservadora, sinal_estrutural_minimo_sem_ancoragem_adicional
+  factos: percurso_ids_anteriores=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | n_percursos_anteriores=1 | score_relatorio=3 | razao_relatorio:zona dominante coincidente | razao_relatorio:evidência textual acumulada (transicao_antropologica)
+  inferências_prudentes: Na dúvida, o percurso não foi mantido. A confirmação automática exige suporte estrutural suficiente e ausência de sinais negativos relevantes.
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0046 | anteriores=P_EIXO_ONTOLOGICO_NUCLEAR | finais=∅ | decisão=removido
+  score_relatorio: 3
+  reasons_relatorio: zona dominante coincidente; evidência textual acumulada (ontologia)
+  motivos: score_insuficiente_para_confirmacao_conservadora, sinal_estrutural_minimo_sem_ancoragem_adicional
+  factos: percurso_ids_anteriores=P_EIXO_ONTOLOGICO_NUCLEAR | n_percursos_anteriores=1 | score_relatorio=3 | razao_relatorio:zona dominante coincidente | razao_relatorio:evidência textual acumulada (ontologia)
+  inferências_prudentes: Na dúvida, o percurso não foi mantido. A confirmação automática exige suporte estrutural suficiente e ausência de sinais negativos relevantes.
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0051 | anteriores=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | finais=∅ | decisão=removido
+  score_relatorio: 3
+  reasons_relatorio: zona dominante coincidente; evidência textual acumulada (transicao_antropologica)
+  motivos: score_insuficiente_para_confirmacao_conservadora, sinal_estrutural_minimo_sem_ancoragem_adicional
+  factos: percurso_ids_anteriores=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | n_percursos_anteriores=1 | score_relatorio=3 | razao_relatorio:zona dominante coincidente | razao_relatorio:evidência textual acumulada (transicao_antropologica)
+  inferências_prudentes: Na dúvida, o percurso não foi mantido. A confirmação automática exige suporte estrutural suficiente e ausência de sinais negativos relevantes.
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0053 | anteriores=P_EIXO_EPISTEMOLOGICO | finais=∅ | decisão=removido
+  score_relatorio: 3
+  reasons_relatorio: zona dominante coincidente; evidência textual acumulada (epistemologia)
+  motivos: score_insuficiente_para_confirmacao_conservadora, sinal_estrutural_minimo_sem_ancoragem_adicional
+  factos: percurso_ids_anteriores=P_EIXO_EPISTEMOLOGICO | n_percursos_anteriores=1 | score_relatorio=3 | razao_relatorio:zona dominante coincidente | razao_relatorio:evidência textual acumulada (epistemologia)
+  inferências_prudentes: Na dúvida, o percurso não foi mantido. A confirmação automática exige suporte estrutural suficiente e ausência de sinais negativos relevantes.
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0058 | anteriores=P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL | finais=∅ | decisão=removido
+  score_relatorio: 3
+  reasons_relatorio: passos-alvo compatíveis (P12); evidência textual acumulada (aprofundamento)
+  motivos: score_insuficiente_para_confirmacao_conservadora
+  factos: percurso_ids_anteriores=P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL | n_percursos_anteriores=1 | score_relatorio=3 | razao_relatorio:passos-alvo compatíveis (P12) | razao_relatorio:evidência textual acumulada (aprofundamento)
+  inferências_prudentes: Na dúvida, o percurso não foi mantido. A confirmação automática exige suporte estrutural suficiente e ausência de sinais negativos relevantes.
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+RA_0065 | anteriores=P_ESTRUTURA_OPERACIONAL_DO_REAL | finais=∅ | decisão=removido
+  score_relatorio: 3
+  reasons_relatorio: zona dominante coincidente; evidência textual acumulada (estrutura_operacional_do_real)
+  motivos: score_insuficiente_para_confirmacao_conservadora, sinal_estrutural_minimo_sem_ancoragem_adicional
+  factos: percurso_ids_anteriores=P_ESTRUTURA_OPERACIONAL_DO_REAL | n_percursos_anteriores=1 | score_relatorio=3 | razao_relatorio:zona dominante coincidente | razao_relatorio:evidência textual acumulada (estrutura_operacional_do_real)
+  inferências_prudentes: Na dúvida, o percurso não foi mantido. A confirmação automática exige suporte estrutural suficiente e ausência de sinais negativos relevantes.
+  triagem_motivos: tem_percurso_sem_argumento
+  menções_triagem: 2 linha(s)
+
+Observações finais
+------------------------------------------------------------------------
+Camada de percursos superiores suficientemente estabilizada para o passo seguinte: sim
+Ramos que exigem atenção manual antes da revisão argumentativa: nenhum
+A camada de percursos superiores só é considerada plenamente estabilizada para a revisão argumentativa quando nenhum ramo do Grupo B fica dependente de revisão manual.
+Sincronização local percurso->ramo aplicada apenas para os ramos revistos do Grupo B.

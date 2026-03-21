@@ -1,0 +1,3418 @@
+{
+  "metadata": {
+    "script": "triagem_fecho_superior_v1.py",
+    "timestamp_utc": "2026-03-21T00:54:59Z",
+    "total_ramos": 67,
+    "ficheiros_lidos": {
+      "arvore": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\15_arvore_do_pensamento\\01_dados\\arvore_do_pensamento_v1.json",
+      "relatorio_geracao_percursos": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\15_arvore_do_pensamento\\01_dados\\relatorio_geracao_percursos_v1.txt",
+      "relatorio_validacao_percursos": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\15_arvore_do_pensamento\\01_dados\\relatorio_validacao_percursos_v1.txt",
+      "relatorio_geracao_argumentos": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\15_arvore_do_pensamento\\01_dados\\relatorio_geracao_argumentos_v1.txt",
+      "relatorio_validacao_argumentos": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\15_arvore_do_pensamento\\01_dados\\relatorio_validacao_argumentos_v1.txt"
+    },
+    "ficheiros_escritos": {
+      "triagem_json": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\15_arvore_do_pensamento\\01_dados\\triagem_fecho_superior_v1.json",
+      "relatorio_txt": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\15_arvore_do_pensamento\\01_dados\\relatorio_triagem_fecho_superior_v1.txt"
+    }
+  },
+  "criterios_aplicados": {
+    "regras_classificacao": [
+      "Regra 1: sem percurso e sem argumento -> Grupo C.",
+      "Regra 2: com percurso e sem argumento -> Grupo B.",
+      "Regra 3: com percurso e com argumento -> Grupo D por defeito.",
+      "Regra 4: sinais de plausibilidade, heterogeneidade, associação fraca, divergência estrutural ou mais de 2 argumentos -> Grupo A.",
+      "Regra 5: na dúvida, revisão conservadora, sem inventar justificação factual."
+    ],
+    "criterios_deteccao_inflacao_argumentativa": [
+      "mais_de_2_argumentos_associados_ao_mesmo_ramo",
+      "avisos_textuais_de_heterogeneidade_excessiva",
+      "avisos_textuais_de_associacao_fraca",
+      "avisos_textuais_de_plausibilidade",
+      "divergencia_entre_estrutura_da_arvore_e_relatorios_de_geracao"
+    ],
+    "politica_de_prudencia": "Na dúvida, preferir revisão, mas apenas com base em factos extraídos ou inferências prudentes explicitadas."
+  },
+  "extracao_relatorios": {
+    "relatorio_geracao_percursos_v1.txt": {
+      "ramos_com_mapeamento": 67,
+      "linhas_ramo_detectadas": 67,
+      "ramos_sem_associacao_explicitados": 23,
+      "limitacoes": []
+    },
+    "relatorio_validacao_percursos_v1.txt": {
+      "ramos_sem_percurso_contagem_global": 23,
+      "ramos_com_percurso_contagem_global": 44,
+      "ramos_com_avisos_mapeados": 0,
+      "limitacoes": [
+        "A validação de percursos pode trazer apenas contagens globais, sem sempre listar cada ramo individualmente."
+      ]
+    },
+    "relatorio_geracao_argumentos_v1.txt": {
+      "ramos_com_mapeamento": 67,
+      "linhas_ramo_detectadas": 125,
+      "ramos_sem_associacao_explicitados": 32,
+      "limitacoes": []
+    },
+    "relatorio_validacao_argumentos_v1.txt": {
+      "ramos_com_avisos_mapeados": 19,
+      "linhas_de_aviso_mapeadas": 20,
+      "tipos_de_aviso": {
+        "heterogeneidade_excessiva": 19,
+        "associacao_fraca": 1
+      },
+      "limitacoes": []
+    },
+    "limitacoes_globais": [
+      "O relatório de validação de percursos não forneceu, com o parser prudente atual, uma listagem ramo a ramo utilizável; foi usado sobretudo para contagens globais."
+    ]
+  },
+  "grupos": {
+    "A_rever_argumento": [
+      {
+        "ramo_id": "RA_0001",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0001",
+          "ML_0002",
+          "ML_0003",
+          "ML_0004",
+          "ML_0005",
+          "ML_0006",
+          "ML_0007",
+          "ML_0008"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Contém microlinhas com exceção ativa."
+        ]
+      },
+      {
+        "ramo_id": "RA_0002",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 5,
+        "microlinha_ids": [
+          "ML_0009",
+          "ML_0010",
+          "ML_0011",
+          "ML_0012",
+          "ML_0013"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=5",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+                "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0003",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 3,
+        "microlinha_ids": [
+          "ML_0014",
+          "ML_0015",
+          "ML_0016"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=3",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0005",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 3,
+        "microlinha_ids": [
+          "ML_0018",
+          "ML_0019",
+          "ML_0020"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "argumento_ids": [
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+            "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+            "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=3",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+            "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+            "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+                "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+                "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0007",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0022",
+          "ML_0023",
+          "ML_0024",
+          "ML_0025",
+          "ML_0026",
+          "ML_0027",
+          "ML_0028",
+          "ML_0029"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+                "ARG_ADEQUACAO_EXIGE_CRITERIO",
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0008",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0030",
+          "ML_0031",
+          "ML_0032",
+          "ML_0033",
+          "ML_0034",
+          "ML_0035",
+          "ML_0036",
+          "ML_0037"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": [
+            "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+                "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+                "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0011",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0040",
+          "ML_0041"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=2",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+                "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0012",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0042",
+          "ML_0043",
+          "ML_0044",
+          "ML_0045",
+          "ML_0046",
+          "ML_0047",
+          "ML_0048",
+          "ML_0049"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+            "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+          ]
+        },
+        "motivos": [
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+            "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0013",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 6,
+        "microlinha_ids": [
+          "ML_0050",
+          "ML_0051",
+          "ML_0052",
+          "ML_0053",
+          "ML_0054",
+          "ML_0055"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=6",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+                "ARG_ADEQUACAO_EXIGE_CRITERIO",
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0014",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0056",
+          "ML_0057"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "argumento_ids": [
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+            "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+            "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=2",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+            "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+            "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+                "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+                "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0015",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0058",
+          "ML_0059",
+          "ML_0060",
+          "ML_0061",
+          "ML_0062",
+          "ML_0063",
+          "ML_0064",
+          "ML_0065"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+                "ARG_ADEQUACAO_EXIGE_CRITERIO",
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0016",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0066",
+          "ML_0067",
+          "ML_0068",
+          "ML_0069",
+          "ML_0070",
+          "ML_0071",
+          "ML_0072",
+          "ML_0073"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+            "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "associacao_fraca",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva",
+            "aviso_validacao_argumentos:associacao_fraca"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+            "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+                "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+                "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE"
+              ]
+            },
+            {
+              "tipo": "associacao_fraca",
+              "descricao": "Associação com poucos sinais observáveis independentes (sinais_detectados=1).",
+              "argumento_ids": [
+                "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0017",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 4,
+        "microlinha_ids": [
+          "ML_0074",
+          "ML_0075",
+          "ML_0076",
+          "ML_0077"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "argumento_ids": [
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+            "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+            "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=4",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+            "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+            "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+                "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+                "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0020",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0080",
+          "ML_0081",
+          "ML_0082",
+          "ML_0083",
+          "ML_0084",
+          "ML_0085",
+          "ML_0086",
+          "ML_0087"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0021",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 3,
+        "microlinha_ids": [
+          "ML_0088",
+          "ML_0089",
+          "ML_0090"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=3",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+            "ARG_ADEQUACAO_EXIGE_CRITERIO",
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+                "ARG_ADEQUACAO_EXIGE_CRITERIO",
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0026",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 7,
+        "microlinha_ids": [
+          "ML_0096",
+          "ML_0097",
+          "ML_0098",
+          "ML_0099",
+          "ML_0100",
+          "ML_0101",
+          "ML_0102"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": [
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+            "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=7",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+            "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+                "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+                "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0029",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 3,
+        "microlinha_ids": [
+          "ML_0105",
+          "ML_0106",
+          "ML_0107"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_SIMBOLICO_MEDIACIONAL"
+          ],
+          "argumento_ids": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+            "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=3",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_SIMBOLICO_MEDIACIONAL"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+            "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+                "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0032",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0110",
+          "ML_0111"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=2",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=3, níveis_operação=2, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0033",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 3,
+        "microlinha_ids": [
+          "ML_0112",
+          "ML_0113",
+          "ML_0114"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=3",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=2, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+                "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+                "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0035",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0116",
+          "ML_0117",
+          "ML_0118",
+          "ML_0119",
+          "ML_0120",
+          "ML_0121",
+          "ML_0122",
+          "ML_0123"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": [
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+            "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+          ]
+        },
+        "motivos": [
+          "heterogeneidade_excessiva",
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [
+            "aviso_validacao_argumentos:heterogeneidade_excessiva"
+          ],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+            "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+          ],
+          "avisos_validacao_argumentos": [
+            {
+              "tipo": "heterogeneidade_excessiva",
+              "descricao": "Ramo com vários argumentos e dispersão elevada (partes=1, níveis_operação=1, necessidades=1, conceitos=3).",
+              "argumento_ids": [
+                "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+                "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA",
+                "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+              ]
+            }
+          ]
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0043",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0133",
+          "ML_0134"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ]
+        },
+        "motivos": [
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=2",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0049",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 5,
+        "microlinha_ids": [
+          "ML_0145",
+          "ML_0146",
+          "ML_0147",
+          "ML_0148",
+          "ML_0149"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ]
+        },
+        "motivos": [
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=5",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0057",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0159",
+          "ML_0160"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+            "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+          ]
+        },
+        "motivos": [
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=2",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+            "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0059",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0162",
+          "ML_0163",
+          "ML_0164",
+          "ML_0165",
+          "ML_0166",
+          "ML_0167",
+          "ML_0168",
+          "ML_0169"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+            "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+          ]
+        },
+        "motivos": [
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+            "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+            "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0061",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0171",
+          "ML_0172",
+          "ML_0173",
+          "ML_0174",
+          "ML_0175",
+          "ML_0176",
+          "ML_0177",
+          "ML_0178"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": [
+            "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+          ]
+        },
+        "motivos": [
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+            "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO",
+            "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0066",
+        "grupo": "A_rever_argumento",
+        "n_microlinhas": 8,
+        "microlinha_ids": [
+          "ML_0186",
+          "ML_0187",
+          "ML_0188",
+          "ML_0189",
+          "ML_0190",
+          "ML_0191",
+          "ML_0192",
+          "ML_0193"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 3,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": [
+            "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+            "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO",
+            "ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA"
+          ]
+        },
+        "motivos": [
+          "mais_de_2_argumentos"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=3",
+            "n_microlinhas=8",
+            "ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": [
+            "Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados."
+          ]
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL",
+            "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO",
+            "ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      }
+    ],
+    "B_rever_percurso_e_depois_argumento": [
+      {
+        "ramo_id": "RA_0010",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0039"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0024",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0093",
+          "ML_0094"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=2",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0030",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0108"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0041",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0131"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0046",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0137"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0051",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0151",
+          "ML_0152"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=2",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0053",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0154"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0058",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0161"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0065",
+        "grupo": "B_rever_percurso_e_depois_argumento",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0185"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+          ],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "tem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_tem_percurso_sem_argumento"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+          ],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      }
+    ],
+    "C_sem_subida_nesta_ronda": [
+      {
+        "ramo_id": "RA_0004",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0017"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0006",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0021"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0009",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0038"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0019",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0079"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0022",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0091"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0027",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0103"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0031",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0109"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0034",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0115"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0036",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0124"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0037",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0125"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0038",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0126"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0040",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0130"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0042",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0132"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0044",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0135"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0045",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0136"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0048",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0144"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0050",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0150"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0052",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0153"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0055",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0157"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0060",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0170"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0063",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0182",
+          "ML_0183"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=2",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0064",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0184"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0067",
+        "grupo": "C_sem_subida_nesta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0194"
+        ],
+        "n_percursos": 0,
+        "n_argumentos": 0,
+        "associacoes": {
+          "percurso_ids": [],
+          "argumento_ids": []
+        },
+        "motivos": [
+          "sem_percurso_sem_argumento"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=0",
+            "n_argumentos=0",
+            "n_microlinhas=1",
+            "ramo_sem_subida_superior_na_estrutura"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [],
+          "argumento_ids_log_geracao": [],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      }
+    ],
+    "D_fora_do_ambito_desta_ronda": [
+      {
+        "ramo_id": "RA_0018",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0078"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 2,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids": [
+            "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+            "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=2",
+            "n_microlinhas=1",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA",
+            "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0023",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0092"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 2,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids": [
+            "ARG_DISTINCAO_MINIMA",
+            "ARG_RELACIONALIDADE_MINIMA"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=2",
+            "n_microlinhas=1",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_DISTINCAO_MINIMA",
+            "ARG_RELACIONALIDADE_MINIMA"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0025",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0095"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 1,
+        "associacoes": {
+          "percurso_ids": [
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+          ],
+          "argumento_ids": [
+            "ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=1",
+            "n_microlinhas=1",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0028",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0104"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 2,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=2",
+            "n_microlinhas=1",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0039",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 3,
+        "microlinha_ids": [
+          "ML_0127",
+          "ML_0128",
+          "ML_0129"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 1,
+        "associacoes": {
+          "percurso_ids": [
+            "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL"
+          ],
+          "argumento_ids": [
+            "ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=1",
+            "n_microlinhas=3",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0047",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 6,
+        "microlinha_ids": [
+          "ML_0138",
+          "ML_0139",
+          "ML_0140",
+          "ML_0141",
+          "ML_0142",
+          "ML_0143"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 2,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids": [
+            "ARG_DISTINCAO_MINIMA",
+            "ARG_RELACIONALIDADE_MINIMA"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=2",
+            "n_microlinhas=6",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_DISTINCAO_MINIMA",
+            "ARG_RELACIONALIDADE_MINIMA"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0054",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 2,
+        "microlinha_ids": [
+          "ML_0155",
+          "ML_0156"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 2,
+        "associacoes": {
+          "percurso_ids": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids": [
+            "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO",
+            "ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=2",
+            "n_microlinhas=2",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO",
+            "ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      },
+      {
+        "ramo_id": "RA_0056",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 1,
+        "microlinha_ids": [
+          "ML_0158"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 1,
+        "associacoes": {
+          "percurso_ids": [
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+          ],
+          "argumento_ids": [
+            "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=1",
+            "n_microlinhas=1",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": [
+          "Ramo unitário; requer consolidação posterior."
+        ]
+      },
+      {
+        "ramo_id": "RA_0062",
+        "grupo": "D_fora_do_ambito_desta_ronda",
+        "n_microlinhas": 3,
+        "microlinha_ids": [
+          "ML_0179",
+          "ML_0180",
+          "ML_0181"
+        ],
+        "n_percursos": 1,
+        "n_argumentos": 2,
+        "associacoes": {
+          "percurso_ids": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ]
+        },
+        "motivos": [
+          "estavel_nesta_fase"
+        ],
+        "evidencias": {
+          "factos_estrutura": [
+            "n_percursos=1",
+            "n_argumentos=2",
+            "n_microlinhas=3",
+            "ramo_com_percurso_e_argumento_sem_sinais_de_revisao"
+          ],
+          "factos_relatorios": [],
+          "inferencias_prudentes": []
+        },
+        "sinais_relatorios": {
+          "percurso_ids_log_geracao": [
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "argumento_ids_log_geracao": [
+            "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+            "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+          ],
+          "avisos_validacao_argumentos": []
+        },
+        "estado_validacao_ramo": "valido_com_avisos",
+        "observacoes_ramo": []
+      }
+    ]
+  },
+  "fila_operacional": {
+    "rever_percurso_primeiro": [
+      "RA_0010",
+      "RA_0024",
+      "RA_0030",
+      "RA_0041",
+      "RA_0046",
+      "RA_0051",
+      "RA_0053",
+      "RA_0058",
+      "RA_0065"
+    ],
+    "rever_argumento_apos_percurso": [
+      "RA_0001",
+      "RA_0002",
+      "RA_0003",
+      "RA_0005",
+      "RA_0007",
+      "RA_0008",
+      "RA_0010",
+      "RA_0011",
+      "RA_0012",
+      "RA_0013",
+      "RA_0014",
+      "RA_0015",
+      "RA_0016",
+      "RA_0017",
+      "RA_0020",
+      "RA_0021",
+      "RA_0024",
+      "RA_0026",
+      "RA_0029",
+      "RA_0030",
+      "RA_0032",
+      "RA_0033",
+      "RA_0035",
+      "RA_0041",
+      "RA_0043",
+      "RA_0046",
+      "RA_0049",
+      "RA_0051",
+      "RA_0053",
+      "RA_0057",
+      "RA_0058",
+      "RA_0059",
+      "RA_0061",
+      "RA_0065",
+      "RA_0066"
+    ],
+    "marcar_sem_subida_nesta_ronda": [
+      "RA_0004",
+      "RA_0006",
+      "RA_0009",
+      "RA_0019",
+      "RA_0022",
+      "RA_0027",
+      "RA_0031",
+      "RA_0034",
+      "RA_0036",
+      "RA_0037",
+      "RA_0038",
+      "RA_0040",
+      "RA_0042",
+      "RA_0044",
+      "RA_0045",
+      "RA_0048",
+      "RA_0050",
+      "RA_0052",
+      "RA_0055",
+      "RA_0060",
+      "RA_0063",
+      "RA_0064",
+      "RA_0067"
+    ],
+    "fora_do_ambito": [
+      "RA_0018",
+      "RA_0023",
+      "RA_0025",
+      "RA_0028",
+      "RA_0039",
+      "RA_0047",
+      "RA_0054",
+      "RA_0056",
+      "RA_0062"
+    ]
+  },
+  "resumo": {
+    "A": 26,
+    "B": 9,
+    "C": 23,
+    "D": 9
+  },
+  "observacoes_finais": {
+    "triagem_fechada_para_script_seguinte": true,
+    "ramos_com_revisao_manual_recomendada": [
+      "RA_0001",
+      "RA_0002",
+      "RA_0003",
+      "RA_0005",
+      "RA_0007",
+      "RA_0008",
+      "RA_0011",
+      "RA_0012",
+      "RA_0013",
+      "RA_0014",
+      "RA_0015",
+      "RA_0016",
+      "RA_0017",
+      "RA_0020",
+      "RA_0021",
+      "RA_0026",
+      "RA_0029",
+      "RA_0032",
+      "RA_0033",
+      "RA_0035",
+      "RA_0043",
+      "RA_0049",
+      "RA_0057",
+      "RA_0059",
+      "RA_0061",
+      "RA_0066"
+    ],
+    "nota": "A triagem fica operacionalmente fechada se todos os ramos foram classificados exatamente num grupo. O script seguinte de revisão de percursos superiores deve começar pela fila 'rever_percurso_primeiro'."
+  }
+}
