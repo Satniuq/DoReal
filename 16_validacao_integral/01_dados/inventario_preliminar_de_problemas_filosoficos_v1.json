@@ -1,0 +1,2186 @@
+{
+  "metadata": {
+    "schema_nome": "inventario_preliminar_de_problemas_filosoficos_v1",
+    "schema_versao": "1.0",
+    "data_geracao": "2026-03-22T23:20:00+00:00",
+    "gerado_por": "ChatGPT",
+    "descricao": "Inventário preliminar dos problemas filosóficos mobilizados pelo projeto antes da geração da matriz de confronto filosófico.",
+    "idioma": "pt-PT",
+    "projeto": "arvore_do_pensamento",
+    "estado_global": "preliminar"
+  },
+  "fontes": {
+    "ficheiros_base": [
+      "16_validacao_integral/01_dados/proposicoes_nucleares_enriquecidas_v1.json",
+      "16_validacao_integral/01_dados/matriz_pontes_entre_niveis_v1.json",
+      "16_validacao_integral/01_dados/matriz_ancoragem_cientifica_v1.json",
+      "16_validacao_integral/01_dados/mapa_campos_do_real_v1.json",
+      "16_validacao_integral/README_FASE_VALIDACAO_INTEGRAL_POS_ARVORE.md",
+      "16_validacao_integral/apoios/ideias.txt"
+    ],
+    "criterio_de_montagem": "Agregação por problema filosófico, priorizando os núcleos explicitados em ideias.txt e os agrupamentos já estabilizados por campos do real, pontes entre níveis e regimes de validação."
+  },
+  "estatisticas": {
+    "total_problemas": 18,
+    "total_problemas_nucleares": 10,
+    "total_problemas_metaestruturais": 3,
+    "total_problemas_com_revisao_humana": 4,
+    "total_problemas_com_exige_resposta_canonica": 18,
+    "total_problemas_com_precisa_capitulo_proprio": 9,
+    "total_problemas_com_precisa_argumento_canonico": 15
+  },
+  "enums_documentados": {
+    "estado_global": [
+      "preliminar",
+      "em_construcao",
+      "extraido",
+      "enriquecido",
+      "revisto",
+      "validado",
+      "integrado"
+    ],
+    "estado_item": [
+      "por_preencher",
+      "preenchido",
+      "revisto",
+      "validado",
+      "integrado"
+    ],
+    "tipo_de_unidade": [
+      "problema_filosofico",
+      "problema_metaestrutural",
+      "problema_de_passagem"
+    ],
+    "tipo_de_problema": [
+      "ontologico",
+      "fenomenologico",
+      "antropologico",
+      "epistemologico",
+      "semantico_linguistico",
+      "pratico_etico",
+      "social_historico",
+      "metaestrutural",
+      "transversal"
+    ],
+    "nivel_arquitetonico": [
+      "fundacional",
+      "estrutural",
+      "regional",
+      "de_articulacao",
+      "de_passagem",
+      "pratico_normativo",
+      "meta_sistemico"
+    ],
+    "grau_de_centralidade": [
+      "baixo",
+      "medio",
+      "alto",
+      "nuclear",
+      "estrutural"
+    ],
+    "grau_de_prioridade": [
+      "baixa",
+      "media",
+      "alta",
+      "estrutural"
+    ],
+    "grau_de_risco": [
+      "baixo",
+      "medio",
+      "alto",
+      "critico"
+    ],
+    "grau_de_cobertura_no_projeto": [
+      "ausente",
+      "incipiente",
+      "parcial",
+      "forte",
+      "estruturante"
+    ],
+    "tipo_de_tensao": [
+      "compatibilidade_forte",
+      "compatibilidade_parcial",
+      "tensao_produtiva",
+      "tensao_forte",
+      "incompatibilidade",
+      "indeterminacao_ainda_aberta"
+    ],
+    "tipo_de_resposta_exigida": [
+      "resposta_definicional",
+      "resposta_distintiva",
+      "resposta_fundacional",
+      "resposta_integrativa",
+      "resposta_critica",
+      "resposta_restritiva",
+      "resposta_reformuladora",
+      "resposta_de_passagem_entre_niveis",
+      "resposta_metaarquitetonica"
+    ],
+    "familia_filosofica": [
+      "metafisica_classica",
+      "aristotelismo",
+      "racionalismo",
+      "empirismo",
+      "idealismo",
+      "fenomenologia",
+      "hermeneutica",
+      "existencialismo",
+      "estruturalismo",
+      "pragmatismo",
+      "filosofia_analitica",
+      "realismo_critico",
+      "naturalismo",
+      "enativismo",
+      "filosofia_moral",
+      "filosofia_politica"
+    ]
+  },
+  "regras_de_validacao": {
+    "regras_gerais": [
+      {
+        "id": "RG01",
+        "descricao": "Cada problema deve ter problema_id, pergunta_central, descricao_canonica, grau_de_centralidade, grau_de_risco e estado_item preenchidos."
+      },
+      {
+        "id": "RG02",
+        "descricao": "Cada problema deve referir pelo menos um objeto filosófico principal."
+      },
+      {
+        "id": "RG03",
+        "descricao": "Cada problema deve indicar pelo menos um tipo_de_resposta_exigida."
+      },
+      {
+        "id": "RG04",
+        "descricao": "Se necessita_revisao_humana=true, motivo_revisao_humana deve ser não vazio."
+      },
+      {
+        "id": "RG05",
+        "descricao": "Campo_ids_relacionados deve usar IDs do mapa de campos do real quando o problema já tiver regionalização identificável."
+      },
+      {
+        "id": "RG06",
+        "descricao": "Ponte_ids_relacionadas deve usar IDs PNxx quando o problema envolver transição entre níveis ou regimes."
+      }
+    ]
+  },
+  "vocabulario_filosofico_nuclear": [
+    "ser",
+    "real",
+    "unidade",
+    "diferenca",
+    "relacao",
+    "limite",
+    "potencialidade",
+    "atualizacao",
+    "manifestacao",
+    "presenca",
+    "apreensao",
+    "vida",
+    "corporeidade",
+    "sujeito",
+    "consciencia",
+    "autoconsciencia",
+    "memoria",
+    "tempo",
+    "representacao",
+    "sentido",
+    "linguagem",
+    "verdade",
+    "erro",
+    "objetividade",
+    "criterio",
+    "correcao",
+    "acao",
+    "liberdade",
+    "dano",
+    "bem",
+    "mal",
+    "normatividade",
+    "responsabilidade",
+    "dignidade",
+    "vida_boa",
+    "historicidade",
+    "criterio_ultimo"
+  ],
+  "problemas": [
+    {
+      "problema_id": "UCF01",
+      "titulo_curto": "Ser, real e unidade diferenciada",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "ontologico",
+      "nivel_arquitetonico": "fundacional",
+      "pergunta_central": "O que é o ser e como pode o real ser uno sem anular diferença, relação e multiplicidade?",
+      "descricao_canonica": "Núcleo ontológico fundamental que decide o estatuto do ser, do real, da unidade, da diferença, da relação e da regionalização do real.",
+      "objetos_filosoficos_principais": [
+        "ser",
+        "real",
+        "unidade",
+        "diferenca",
+        "relacao",
+        "limite"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "definir",
+        "distinguir",
+        "fundamentar",
+        "integrar",
+        "regionalizar"
+      ],
+      "subproblemas": [
+        "ser e ente",
+        "unidade e multiplicidade",
+        "diferença e relação",
+        "limite e determinação",
+        "potencialidade e atualização"
+      ],
+      "familias_filosoficas_relevantes": [
+        "metafisica_classica",
+        "aristotelismo",
+        "idealismo",
+        "fenomenologia",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Parménides",
+        "Aristóteles",
+        "Tomás de Aquino",
+        "Hegel",
+        "Heidegger"
+      ],
+      "conceitos_classicos_associados": [
+        "ser",
+        "substância",
+        "relação",
+        "ato e potência",
+        "diferença ontológica"
+      ],
+      "teses_classicas_em_tensao": [
+        "ser imóvel versus dinamismo real",
+        "monismo versus pluralismo",
+        "substancialismo rígido versus relacionalidade forte"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "monismo_nivelador",
+        "pluralismo_sem_unidade",
+        "metafisica_sem_mediacao"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Unidade rígida pode destruir diferença real.",
+        "Pluralidade sem princípio de integração dissolve inteligibilidade.",
+        "Abstração ontológica pode perder regionalização concreta."
+      ],
+      "posicao_provavel_do_sistema": "O sistema precisa de um real independente, relacional e diferenciado, capaz de sustentar limite, emergência, reflexividade e regionalização sem colapso monista nem dispersão pluralista.",
+      "tipo_de_resposta_exigida": [
+        "resposta_fundacional",
+        "resposta_integrativa",
+        "resposta_restritiva"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte",
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P12",
+        "P17",
+        "P20"
+      ],
+      "blocos_relacionados": [
+        "B2",
+        "B3"
+      ],
+      "campos_do_real_relacionados": [
+        "integral_multicampo"
+      ],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "estrutural",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "estruturante",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [
+        "sem_autores_mapeados"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Problema axial para organizar toda a entrada ontológica do confronto filosófico."
+    },
+    {
+      "problema_id": "UCF02",
+      "titulo_curto": "Manifestação, aparecer e presença",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "fenomenologico",
+      "nivel_arquitetonico": "estrutural",
+      "pergunta_central": "Como aparece o real e que estatuto têm manifestação, presença e apreensão?",
+      "descricao_canonica": "Problema do aparecer do real, da presença e da apreensão, decisivo para evitar tanto uma ontologia cega como uma fenomenologia desligada do real.",
+      "objetos_filosoficos_principais": [
+        "manifestacao",
+        "presenca",
+        "apreensao",
+        "real",
+        "diferenca"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "distinguir",
+        "mediar",
+        "explicitar",
+        "integrar"
+      ],
+      "subproblemas": [
+        "aparecer e ser",
+        "presença imediata versus mediação",
+        "apreensão pré-conceptual",
+        "manifestação e erro"
+      ],
+      "familias_filosoficas_relevantes": [
+        "fenomenologia",
+        "hermeneutica",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Husserl",
+        "Heidegger",
+        "Merleau-Ponty"
+      ],
+      "conceitos_classicos_associados": [
+        "fenómeno",
+        "intencionalidade",
+        "presença",
+        "doação"
+      ],
+      "teses_classicas_em_tensao": [
+        "aparecer como puro fenómeno versus aparecer de algo real",
+        "presença imediata versus mediação constitutiva"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "fenomenologia_sem_ontologia_forte",
+        "idealismo_absoluto"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Fenomenologia sem real forte pode perder critério de erro.",
+        "Ontologia sem análise do aparecer pode tornar-se abstrata."
+      ],
+      "posicao_provavel_do_sistema": "O aparecer não cria o real, mas também não é mera janela neutra; é mediação estruturada entre real, corpo e capacidade de apreensão.",
+      "tipo_de_resposta_exigida": [
+        "resposta_distintiva",
+        "resposta_integrativa"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P23",
+        "P24"
+      ],
+      "blocos_relacionados": [
+        "B4"
+      ],
+      "campos_do_real_relacionados": [
+        "cognitivo_representacional",
+        "sensorio_motor"
+      ],
+      "campo_ids_relacionados": [
+        "CR02"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "grau_de_centralidade": "alto",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "parcial",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [
+        "sem_cobertura_academica"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Pode funcionar como interface entre ontologia estrutural e teoria da cognição encarnada."
+    },
+    {
+      "problema_id": "UCF03",
+      "titulo_curto": "Vida, organismo e corporeidade",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "antropologico",
+      "nivel_arquitetonico": "regional",
+      "pergunta_central": "Que estatuto ontológico têm vida, organismo e corpo na arquitetura do sistema?",
+      "descricao_canonica": "Problema da organização viva, corporeidade, vulnerabilidade e passagem do organismo ao sujeito encarnado.",
+      "objetos_filosoficos_principais": [
+        "vida",
+        "corporeidade",
+        "organismo",
+        "vulnerabilidade"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "definir",
+        "distinguir",
+        "mediar",
+        "regionalizar"
+      ],
+      "subproblemas": [
+        "corpo vivido versus corpo físico",
+        "organização viva e autorregulação",
+        "vulnerabilidade como traço estrutural",
+        "passagem do organismo ao sujeito encarnado"
+      ],
+      "familias_filosoficas_relevantes": [
+        "aristotelismo",
+        "fenomenologia",
+        "naturalismo",
+        "enativismo"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Hans Jonas",
+        "Merleau-Ponty",
+        "Francisco Varela"
+      ],
+      "conceitos_classicos_associados": [
+        "alma como forma",
+        "corpo vivido",
+        "autopoiese",
+        "encarnação"
+      ],
+      "teses_classicas_em_tensao": [
+        "dualismo cartesiano versus encarnação forte",
+        "reducionismo biológico versus corpo vivido"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "dualismo",
+        "reducionismo_fisicalista",
+        "naturalismo_eliminativista"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Separar corpo e consciência pode destruir a mediação concreta.",
+        "Reduzir vida a mecanismo pode apagar normatividade interna do vivo."
+      ],
+      "posicao_provavel_do_sistema": "A corporeidade não é detalhe acidental, mas condição estrutural da forma humana de consciência, ação e vulnerabilidade.",
+      "tipo_de_resposta_exigida": [
+        "resposta_fundacional",
+        "resposta_de_passagem_entre_niveis"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P01",
+        "P02",
+        "P13",
+        "P14",
+        "P15",
+        "P18",
+        "P19",
+        "P21",
+        "P22"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B2",
+        "B3"
+      ],
+      "campos_do_real_relacionados": [
+        "biologico",
+        "sensorio_motor",
+        "integral_multicampo"
+      ],
+      "campo_ids_relacionados": [
+        "CR06"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01"
+      ],
+      "grau_de_centralidade": "alto",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "No mapa gerado, este problema está concentrado no campo da vida, corporeidade e organismo."
+    },
+    {
+      "problema_id": "UCF04",
+      "titulo_curto": "Consciência, reflexividade e sujeito",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "antropologico",
+      "nivel_arquitetonico": "de_articulacao",
+      "pergunta_central": "O que é consciência e como é possível reflexividade sem recair em substancialismo ou dissolução do sujeito?",
+      "descricao_canonica": "Problema da consciência, autoconsciência, presença de si, memória, reflexividade e estatuto do sujeito.",
+      "objetos_filosoficos_principais": [
+        "consciencia",
+        "autoconsciencia",
+        "sujeito",
+        "memoria",
+        "reflexividade"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "definir",
+        "distinguir",
+        "integrar",
+        "corrigir"
+      ],
+      "subproblemas": [
+        "sujeito como substância, função, feixe ou polo de aparecimento",
+        "memória e identidade",
+        "presença de si pré-linguística",
+        "consciência como atualização ou milagre"
+      ],
+      "familias_filosoficas_relevantes": [
+        "racionalismo",
+        "empirismo",
+        "idealismo",
+        "fenomenologia",
+        "existencialismo",
+        "estruturalismo"
+      ],
+      "autores_relevantes": [
+        "Descartes",
+        "Hume",
+        "Kant",
+        "Husserl",
+        "Sartre"
+      ],
+      "conceitos_classicos_associados": [
+        "eu penso",
+        "feixe de perceções",
+        "apercepção transcendental",
+        "consciência pré-reflexiva"
+      ],
+      "teses_classicas_em_tensao": [
+        "substancialismo do eu versus dissolução do sujeito",
+        "reflexivismo forte versus presença de si mais originária"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "dualismo",
+        "naturalismo_eliminativista",
+        "convencionalismo_linguistico"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Substancialismo rígido isola demasiado o sujeito.",
+        "Dissolução excessiva do sujeito perde responsabilidade e continuidade.",
+        "Teorias linguísticas fortes podem excluir autorrelação pré-linguística."
+      ],
+      "posicao_provavel_do_sistema": "O sujeito não é substância isolada nem pura ficção discursiva; a reflexividade emerge em sujeito encarnado, temporal e inserido no real.",
+      "tipo_de_resposta_exigida": [
+        "resposta_integrativa",
+        "resposta_de_passagem_entre_niveis",
+        "resposta_reformuladora"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte",
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P23",
+        "P24",
+        "P25",
+        "P26",
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "campos_do_real_relacionados": [
+        "cognitivo_representacional",
+        "biologico"
+      ],
+      "campo_ids_relacionados": [
+        "CR02"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "grau_de_centralidade": "nuclear",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O problema encosta às pontes PN02 e PN03, que agregam P30 e transições sensíveis entre organismo, cognição e linguagem.",
+      "lacunas_identificadas": [
+        "sem_cobertura_academica"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "É um dos centros de gravidade da futura matriz de confronto filosófico."
+    },
+    {
+      "problema_id": "UCF05",
+      "titulo_curto": "Tempo, memória e identidade",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "fenomenologico",
+      "nivel_arquitetonico": "de_articulacao",
+      "pergunta_central": "Como entra o tempo na experiência e no real, e que papel desempenha na memória, identidade e reflexividade?",
+      "descricao_canonica": "Problema da temporalidade estruturada da experiência, da memória e da identidade do sujeito encarnado.",
+      "objetos_filosoficos_principais": [
+        "tempo",
+        "memoria",
+        "identidade",
+        "consciencia"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "explicitar",
+        "integrar",
+        "mediar"
+      ],
+      "subproblemas": [
+        "fluxo de consciência",
+        "retenção e protensão",
+        "permanência e mudança",
+        "memória e identidade"
+      ],
+      "familias_filosoficas_relevantes": [
+        "metafisica_classica",
+        "idealismo",
+        "fenomenologia",
+        "existencialismo"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Agostinho",
+        "Kant",
+        "Husserl",
+        "Bergson",
+        "Heidegger"
+      ],
+      "conceitos_classicos_associados": [
+        "tempo vivido",
+        "duração",
+        "retenção",
+        "protensão"
+      ],
+      "teses_classicas_em_tensao": [
+        "objetivação do tempo versus tempo vivido",
+        "subjetivização do tempo versus temporalidade real"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "formalismo_vazio"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Objetivar o tempo pode apagar o vivido.",
+        "Subjetivizar o tempo pode perder o real temporal."
+      ],
+      "posicao_provavel_do_sistema": "A consciência e a reflexividade humanas exigem temporalidade estruturada, sem a qual não há memória, correção nem identidade narrativa mínima.",
+      "tipo_de_resposta_exigida": [
+        "resposta_integrativa",
+        "resposta_reformuladora"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P23",
+        "P24",
+        "P25"
+      ],
+      "blocos_relacionados": [
+        "B4"
+      ],
+      "campos_do_real_relacionados": [
+        "cognitivo_representacional"
+      ],
+      "campo_ids_relacionados": [
+        "CR02"
+      ],
+      "ponte_ids_relacionadas": [],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "grau_de_centralidade": "alto",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "medio",
+      "grau_de_cobertura_no_projeto": "parcial",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": false,
+      "precisa_subcapitulo": true,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Convém mantê-lo distinto do problema geral da consciência."
+    },
+    {
+      "problema_id": "UCF06",
+      "titulo_curto": "Linguagem, símbolo e sentido",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "semantico_linguistico",
+      "nivel_arquitetonico": "de_passagem",
+      "pergunta_central": "A linguagem cria consciência e sentido, exprime-os ou estabiliza-os secundariamente?",
+      "descricao_canonica": "Problema da linguagem, simbolização, sentido e mediação entre experiência, representação e mundo comum.",
+      "objetos_filosoficos_principais": [
+        "linguagem",
+        "sentido",
+        "representacao",
+        "mediação"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "distinguir",
+        "mediar",
+        "explicitar",
+        "corrigir"
+      ],
+      "subproblemas": [
+        "pensamento sem linguagem",
+        "consciência sem linguagem",
+        "sentido como construção ou descoberta",
+        "linguagem como explicitação e distorção"
+      ],
+      "familias_filosoficas_relevantes": [
+        "hermeneutica",
+        "fenomenologia",
+        "pragmatismo",
+        "filosofia_analitica",
+        "estruturalismo"
+      ],
+      "autores_relevantes": [
+        "Wittgenstein",
+        "Gadamer",
+        "Saussure",
+        "Ricoeur"
+      ],
+      "conceitos_classicos_associados": [
+        "significação",
+        "referência",
+        "uso",
+        "símbolo"
+      ],
+      "teses_classicas_em_tensao": [
+        "linguisticismo forte versus anti-linguisticismo simplista",
+        "sentido como construção versus descoberta"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "convencionalismo_linguistico",
+        "idealismo_absoluto"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Linguisticismo forte dissolve o pré-linguístico.",
+        "Objetivismo sem mediação perde o trabalho da simbolização."
+      ],
+      "posicao_provavel_do_sistema": "A linguagem não cria o real nem a consciência do nada; explicita, organiza, fixa e também pode deformar o sentido emergente da relação real.",
+      "tipo_de_resposta_exigida": [
+        "resposta_distintiva",
+        "resposta_de_passagem_entre_niveis",
+        "resposta_critica"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B5"
+      ],
+      "campos_do_real_relacionados": [
+        "simbolico_linguistico",
+        "cognitivo_representacional",
+        "intersubjetivo_social"
+      ],
+      "campo_ids_relacionados": [
+        "CR05",
+        "CR02"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "grau_de_centralidade": "nuclear",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "CR05 agrega P30 e regionaliza o simbólico-linguístico em zona já sinalizada como exigindo revisão humana.",
+      "lacunas_identificadas": [
+        "sem_autores_mapeados"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Convém articular este problema com PN03 para não perder a passagem cognição-linguagem."
+    },
+    {
+      "problema_id": "UCF07",
+      "titulo_curto": "Verdade, erro, critério e correção",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "epistemologico",
+      "nivel_arquitetonico": "estrutural",
+      "pergunta_central": "Como são possíveis verdade, erro, critério, correção e objetividade se o sistema exige real independente?",
+      "descricao_canonica": "Problema epistemológico central do projeto: adequação e desadequação ao real, erro real, critério submetido ao real e correção de representação e ação.",
+      "objetos_filosoficos_principais": [
+        "verdade",
+        "erro",
+        "criterio",
+        "correcao",
+        "objetividade",
+        "real"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "definir",
+        "distinguir",
+        "fundamentar",
+        "corrigir",
+        "integrar"
+      ],
+      "subproblemas": [
+        "correspondência, coerência e pragmatismo",
+        "erro descritivo, categorial, de escala e reflexivo",
+        "objetividade para além do privado",
+        "critério submetido ao real"
+      ],
+      "familias_filosoficas_relevantes": [
+        "idealismo",
+        "fenomenologia",
+        "pragmatismo",
+        "filosofia_analitica",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Kant",
+        "Peirce",
+        "Tarski",
+        "Heidegger"
+      ],
+      "conceitos_classicos_associados": [
+        "correspondência",
+        "coerência",
+        "aletheia",
+        "validade",
+        "objetividade"
+      ],
+      "teses_classicas_em_tensao": [
+        "coerentismo versus correspondência real",
+        "objetividade como consenso versus adequação",
+        "pragmatismo forte versus critério real"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "ceticismo",
+        "relativismo",
+        "formalismo_vazio"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Sistemas sem real forte falham ao explicar o erro real.",
+        "Objetividade reduzida a consenso perde diferença entre acordo e adequação."
+      ],
+      "posicao_provavel_do_sistema": "Sem real independente e sem possibilidade de adequação, verdade, erro e correção degradam-se em circulação interna; o sistema exige critério submetido ao real.",
+      "tipo_de_resposta_exigida": [
+        "resposta_fundacional",
+        "resposta_integrativa",
+        "resposta_critica"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P24",
+        "P25",
+        "P26",
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "campos_do_real_relacionados": [
+        "cognitivo_representacional",
+        "simbolico_linguistico"
+      ],
+      "campo_ids_relacionados": [
+        "CR02",
+        "CR05"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "grau_de_centralidade": "nuclear",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "É útil tratá-lo como núcleo epistémico unificado, com subcampos internos."
+    },
+    {
+      "problema_id": "UCF08",
+      "titulo_curto": "Causalidade, emergência e passagem de níveis",
+      "tipo_de_unidade": "problema_de_passagem",
+      "tipo_de_problema": "transversal",
+      "nivel_arquitetonico": "de_passagem",
+      "pergunta_central": "Como surge algo qualitativamente novo no real sem milagre nem redução empobrecedora?",
+      "descricao_canonica": "Problema da emergência, causalidade, continuidade e salto entre níveis do real, especialmente na passagem vida-cognição-linguagem-ação.",
+      "objetos_filosoficos_principais": [
+        "emergencia",
+        "causalidade",
+        "continuidade",
+        "descontinuidade",
+        "atualizacao"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "derivar",
+        "mediar",
+        "integrar",
+        "delimitar"
+      ],
+      "subproblemas": [
+        "emergência forte ou fraca",
+        "continuidade ou salto",
+        "consciência como atualização possível ou milagre",
+        "transições ontologia-vida-cognição-linguagem"
+      ],
+      "familias_filosoficas_relevantes": [
+        "aristotelismo",
+        "naturalismo",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Samuel Alexander",
+        "C. D. Broad",
+        "Roy Bhaskar"
+      ],
+      "conceitos_classicos_associados": [
+        "causa",
+        "emergência",
+        "ato e potência",
+        "superveniência"
+      ],
+      "teses_classicas_em_tensao": [
+        "mecanicismo versus emergentismo",
+        "dualismo versus monismo nivelador",
+        "panpsiquismo versus atualização ontologicamente fundada"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "reducionismo_fisicalista",
+        "dualismo",
+        "monismo_nivelador"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Emergência mágica introduz salto injustificado.",
+        "Redução empobrecedora apaga novidade qualitativa.",
+        "Multiplicação metafísica excessiva pode perder sobriedade ontológica."
+      ],
+      "posicao_provavel_do_sistema": "A emergência é admissível, mas deve ser ontologicamente fundada, com passagens auditáveis e sem ruptura arbitrária entre níveis.",
+      "tipo_de_resposta_exigida": [
+        "resposta_de_passagem_entre_niveis",
+        "resposta_fundacional",
+        "resposta_restritiva"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P18",
+        "P19",
+        "P23",
+        "P31"
+      ],
+      "blocos_relacionados": [
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "campos_do_real_relacionados": [
+        "biologico",
+        "cognitivo_representacional",
+        "simbolico_linguistico"
+      ],
+      "campo_ids_relacionados": [
+        "CR06",
+        "CR02",
+        "CR05"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC02"
+      ],
+      "grau_de_centralidade": "nuclear",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "As pontes PN02 e PN03 concentram uma das zonas de maior exigência teórica do projeto e tocam proposições já assinaladas para revisão humana.",
+      "lacunas_identificadas": [
+        "sem_mediacao_suficiente"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Este problema deve conversar diretamente com a matriz de pontes entre níveis."
+    },
+    {
+      "problema_id": "UCF09",
+      "titulo_curto": "Ação e liberdade situada",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "pratico_etico",
+      "nivel_arquitetonico": "pratico_normativo",
+      "pergunta_central": "O que é agir no real e em que consiste a liberdade de um agente situado?",
+      "descricao_canonica": "Problema da ação, da agência e da liberdade como atualização situada no real, com consequências, limites e orientação.",
+      "objetos_filosoficos_principais": [
+        "acao",
+        "liberdade",
+        "agencia",
+        "situacao"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "definir",
+        "distinguir",
+        "integrar"
+      ],
+      "subproblemas": [
+        "ação localizada e mediada",
+        "liberdade como poder-ser real",
+        "limites materiais e normativos da ação"
+      ],
+      "familias_filosoficas_relevantes": [
+        "aristotelismo",
+        "existencialismo",
+        "fenomenologia",
+        "filosofia_moral"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Sartre",
+        "Anscombe"
+      ],
+      "conceitos_classicos_associados": [
+        "práxis",
+        "deliberação",
+        "escolha",
+        "agência"
+      ],
+      "teses_classicas_em_tensao": [
+        "liberdade absoluta versus determinação mecânica",
+        "ação voluntarista versus ação situada"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "reducionismo_fisicalista",
+        "formalismo_vazio"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Liberdade absoluta abstrai do real e das consequências.",
+        "Mecanicismo forte dissolve agência e imputação."
+      ],
+      "posicao_provavel_do_sistema": "A liberdade não é exterior ao real nem puro epifenómeno; é liberdade situada no poder-ser real de um agente encarnado.",
+      "tipo_de_resposta_exigida": [
+        "resposta_definicional",
+        "resposta_integrativa"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P36",
+        "P38",
+        "P41"
+      ],
+      "blocos_relacionados": [
+        "B6"
+      ],
+      "campos_do_real_relacionados": [
+        "pratico_normativo",
+        "intersubjetivo_social"
+      ],
+      "campo_ids_relacionados": [
+        "CR01"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN04"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "alto",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "parcial",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": false,
+      "precisa_subcapitulo": true,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "É importante distingui-lo do problema mais amplo da normatividade."
+    },
+    {
+      "problema_id": "UCF10",
+      "titulo_curto": "Dano, bem, mal e normatividade",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "pratico_etico",
+      "nivel_arquitetonico": "pratico_normativo",
+      "pergunta_central": "Como pode derivar normatividade sem arbitrariedade, a partir de dano real, bem, mal e adequação prática ao real?",
+      "descricao_canonica": "Núcleo ético do projeto: dano real, bem, mal, dever-ser e critérios de avaliação prática não arbitrários.",
+      "objetos_filosoficos_principais": [
+        "dano",
+        "bem",
+        "mal",
+        "normatividade",
+        "dever_ser",
+        "valor"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "derivar",
+        "fundamentar",
+        "distinguir",
+        "integrar"
+      ],
+      "subproblemas": [
+        "dano como degradação real",
+        "bem como adequação prática ao real",
+        "mal como desadequação operativa",
+        "derivação do dever-ser"
+      ],
+      "familias_filosoficas_relevantes": [
+        "aristotelismo",
+        "filosofia_moral",
+        "pragmatismo",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Kant",
+        "MacIntyre"
+      ],
+      "conceitos_classicos_associados": [
+        "bem humano",
+        "dever",
+        "norma",
+        "valor",
+        "dano"
+      ],
+      "teses_classicas_em_tensao": [
+        "moralismo externo versus derivação interna ao real",
+        "convencionalismo ético versus dano real"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "relativismo",
+        "formalismo_vazio",
+        "metafisica_sem_mediacao"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Derivar normatividade diretamente de factos sem mediação é salto ilegítimo.",
+        "Reduzir bem e mal a convenção perde dano real e correção."
+      ],
+      "posicao_provavel_do_sistema": "O dever-ser não vem de fora; deriva da subordinação operativa ao real, à verdade, à correção e ao dano real, com mediações suficientes.",
+      "tipo_de_resposta_exigida": [
+        "resposta_fundacional",
+        "resposta_de_passagem_entre_niveis",
+        "resposta_critica"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P42",
+        "P43",
+        "P44",
+        "P46",
+        "P47"
+      ],
+      "blocos_relacionados": [
+        "B6",
+        "B7"
+      ],
+      "campos_do_real_relacionados": [
+        "pratico_normativo",
+        "intersubjetivo_social",
+        "historico_cultural"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR04"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "nuclear",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "CR01 e CR04 agregam proposições já assinaladas para revisão humana e o próprio problema é descrito na lista embrionária como delicado.",
+      "lacunas_identificadas": [
+        "sem_mediacao_suficiente"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Este problema deve dialogar com PN04 e PN05 para controlar a derivação normativa."
+    },
+    {
+      "problema_id": "UCF11",
+      "titulo_curto": "Responsabilidade, dignidade e vida boa",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "pratico_etico",
+      "nivel_arquitetonico": "pratico_normativo",
+      "pergunta_central": "Porque responde o ser reflexivo pelas suas atualizações e que fundamento têm dignidade e vida boa?",
+      "descricao_canonica": "Problema do estatuto normativo forte do ser reflexivo, da imputação ontológica, da dignidade e do fecho prático do sistema.",
+      "objetos_filosoficos_principais": [
+        "responsabilidade",
+        "dignidade",
+        "vida_boa",
+        "ser_reflexivo"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "fundamentar",
+        "integrar",
+        "reformular"
+      ],
+      "subproblemas": [
+        "imputação ontológica",
+        "estatuto normativo do ser reflexivo",
+        "vida boa como atualização adequada"
+      ],
+      "familias_filosoficas_relevantes": [
+        "filosofia_moral",
+        "aristotelismo",
+        "existencialismo",
+        "filosofia_politica"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Kant",
+        "Ricoeur"
+      ],
+      "conceitos_classicos_associados": [
+        "responsabilidade",
+        "dignidade",
+        "eudaimonia"
+      ],
+      "teses_classicas_em_tensao": [
+        "dignidade formal versus dignidade ontologicamente fundada",
+        "vida boa como preferência subjetiva versus atualização adequada"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "relativismo",
+        "formalismo_vazio"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Dignidade puramente formal pode ficar sem ancoragem ontológica.",
+        "Vida boa como preferência perde critério real e corrigibilidade."
+      ],
+      "posicao_provavel_do_sistema": "Responsabilidade, dignidade e vida boa exigem ligação entre reflexividade, dano, verdade, correção e coexistência, não bastando convenção ou formalismo moral.",
+      "tipo_de_resposta_exigida": [
+        "resposta_fundacional",
+        "resposta_integrativa",
+        "resposta_reformuladora"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "indeterminacao_ainda_aberta",
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P46",
+        "P47",
+        "P49",
+        "P50",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B6",
+        "B7"
+      ],
+      "campos_do_real_relacionados": [
+        "pratico_normativo",
+        "historico_cultural",
+        "intersubjetivo_social"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR04"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "alto",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "critico",
+      "grau_de_cobertura_no_projeto": "parcial",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A própria lista embrionária assinala a dignidade como ainda aberta e CR04 concentra P50 e P51 já marcadas para revisão humana.",
+      "lacunas_identificadas": [
+        "sem_resposta_canonica"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Manter este problema separado do dano/normatividade ajuda a não encurtar o fecho ético."
+    },
+    {
+      "problema_id": "UCF12",
+      "titulo_curto": "Intersubjetividade, formas sociais e instituições",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "social_historico",
+      "nivel_arquitetonico": "regional",
+      "pergunta_central": "Como se articulam coexistência, formas sociais, expectativas normativas e instituições?",
+      "descricao_canonica": "Problema da regionalização intersubjetiva e institucional do sistema, incluindo coordenação prática, práticas e formas sociais estabilizadas.",
+      "objetos_filosoficos_principais": [
+        "coexistencia",
+        "intersubjetividade",
+        "instituicao",
+        "forma_social"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "regionalizar",
+        "integrar",
+        "mediar"
+      ],
+      "subproblemas": [
+        "coordenação de expectativas",
+        "instituições e obrigações",
+        "práticas sociais e estabilização normativa"
+      ],
+      "familias_filosoficas_relevantes": [
+        "fenomenologia",
+        "filosofia_politica",
+        "hermeneutica"
+      ],
+      "autores_relevantes": [
+        "Hegel",
+        "Mead",
+        "Searle"
+      ],
+      "conceitos_classicos_associados": [
+        "reconhecimento",
+        "instituição",
+        "mundo comum"
+      ],
+      "teses_classicas_em_tensao": [
+        "individualismo metodológico versus estrutura social forte",
+        "instituição como convenção versus sedimentação real"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "relativismo",
+        "historicismo_dissolvente"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Reduzir o social a soma de privados perde estrutura e sedimentação.",
+        "Dissolver tudo em historicidade perde critério trans-situacional."
+      ],
+      "posicao_provavel_do_sistema": "A coexistência entre seres reflexivos exige mediações sociais e institucionais reais, mas estas não podem absorver o critério do real nem da correção.",
+      "tipo_de_resposta_exigida": [
+        "resposta_integrativa",
+        "resposta_regional",
+        "resposta_critica"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P41",
+        "P42",
+        "P43",
+        "P49"
+      ],
+      "blocos_relacionados": [
+        "B6",
+        "B7"
+      ],
+      "campos_do_real_relacionados": [
+        "intersubjetivo_social",
+        "pratico_normativo",
+        "historico_cultural"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR04"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "alto",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "parcial",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": false,
+      "precisa_subcapitulo": true,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Ajuda a separar normatividade básica de institucionalização histórico-social."
+    },
+    {
+      "problema_id": "UCF13",
+      "titulo_curto": "Historicidade, cultura e sedimentação",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "social_historico",
+      "nivel_arquitetonico": "regional",
+      "pergunta_central": "Que papel têm história, cultura e sedimentação na regionalização das categorias práticas e simbólicas?",
+      "descricao_canonica": "Problema da forma histórico-cultural do real humano, incluindo sedimentação de práticas, linguagem, instituições e normas.",
+      "objetos_filosoficos_principais": [
+        "historicidade",
+        "cultura",
+        "sedimentacao",
+        "forma_historica"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "regionalizar",
+        "distinguir",
+        "integrar"
+      ],
+      "subproblemas": [
+        "historicidade da normatividade",
+        "cultura e simbolização",
+        "sedimentação institucional"
+      ],
+      "familias_filosoficas_relevantes": [
+        "hermeneutica",
+        "existencialismo",
+        "filosofia_politica"
+      ],
+      "autores_relevantes": [
+        "Dilthey",
+        "Gadamer",
+        "Taylor"
+      ],
+      "conceitos_classicos_associados": [
+        "historicidade",
+        "tradição",
+        "cultura"
+      ],
+      "teses_classicas_em_tensao": [
+        "historicidade forte versus critério trans-histórico",
+        "cultura como determinação total versus abertura ao real"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "historicismo_dissolvente",
+        "relativismo"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Historicismo dissolvente pode neutralizar verdade, correção e dignidade.",
+        "Abstração anti-histórica perde instituições e formas de vida reais."
+      ],
+      "posicao_provavel_do_sistema": "A historicidade regionaliza a normatividade e a simbolização, mas não pode abolir a diferença entre sedimentação histórica e critério real.",
+      "tipo_de_resposta_exigida": [
+        "resposta_regional",
+        "resposta_critica"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [
+        "P50",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B7"
+      ],
+      "campos_do_real_relacionados": [
+        "historico_cultural",
+        "pratico_normativo",
+        "simbolico_linguistico"
+      ],
+      "campo_ids_relacionados": [
+        "CR04"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "medio",
+      "grau_de_prioridade": "media",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "incipiente",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": false,
+      "precisa_subcapitulo": true,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "CR04 está explicitamente marcado para revisão humana e concentra a regionalização histórico-cultural do sistema.",
+      "lacunas_identificadas": [
+        "sem_cobertura_academica"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Útil para impedir que o prático-normativo absorva indevidamente a dimensão histórica."
+    },
+    {
+      "problema_id": "UCF14",
+      "titulo_curto": "Critério último e fecho do sistema",
+      "tipo_de_unidade": "problema_metaestrutural",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "meta_sistemico",
+      "pergunta_central": "Há um critério último e em que fecha o sistema?",
+      "descricao_canonica": "Problema do fecho último do sistema e da condição de toda a inteligibilidade, evitando fechos arbitrários ou infinitização sem critério.",
+      "objetos_filosoficos_principais": [
+        "criterio_ultimo",
+        "fecho",
+        "inteligibilidade",
+        "real"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "fundamentar",
+        "delimitar",
+        "hierarquizar"
+      ],
+      "subproblemas": [
+        "verdade última",
+        "consistência ontológica",
+        "realidade como condição de inteligibilidade"
+      ],
+      "familias_filosoficas_relevantes": [
+        "metafisica_classica",
+        "idealismo",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Platão",
+        "Aristóteles",
+        "Hegel"
+      ],
+      "conceitos_classicos_associados": [
+        "absoluto",
+        "fundamento",
+        "razão suficiente"
+      ],
+      "teses_classicas_em_tensao": [
+        "fecho ontológico forte versus sistema sem fecho último",
+        "critério formal versus critério real"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "relativismo",
+        "formalismo_vazio"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Fechos arbitrários não sustentam o sistema.",
+        "Infinitização sem critério dissolve orientação."
+      ],
+      "posicao_provavel_do_sistema": "O sistema exige um critério último que não seja só formal, interno ou convencional, sob pena de perder verdade forte e inteligibilidade global.",
+      "tipo_de_resposta_exigida": [
+        "resposta_metaarquitetonica",
+        "resposta_fundacional"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "indeterminacao_ainda_aberta"
+      ],
+      "proposicao_ids_relacionadas": [],
+      "blocos_relacionados": [],
+      "campos_do_real_relacionados": [
+        "integral_multicampo"
+      ],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "ponte_ids_relacionadas": [],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "estrutural",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "grau_de_cobertura_no_projeto": "incipiente",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A lista embrionária apresenta este problema como necessidade explícita, mas a sua formulação final ainda não está estabilizada nos artefactos gerados.",
+      "lacunas_identificadas": [
+        "sem_ligacao_a_proposicoes",
+        "sem_resposta_canonica"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Problema metassistemático que deve fechar a futura matriz de confronto filosófico."
+    },
+    {
+      "problema_id": "UCF15",
+      "titulo_curto": "Inteligibilidade do sistema",
+      "tipo_de_unidade": "problema_metaestrutural",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "meta_sistemico",
+      "pergunta_central": "O que torna o sistema inteiro inteligível e reconstruível como todo?",
+      "descricao_canonica": "Problema da ordem, dependência entre partes, reconstrução dedutiva e inteligibilidade global do sistema.",
+      "objetos_filosoficos_principais": [
+        "inteligibilidade",
+        "ordem",
+        "sistema",
+        "dependencia"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "hierarquizar",
+        "integrar",
+        "explicitar"
+      ],
+      "subproblemas": [
+        "ordem do percurso",
+        "dependência entre partes",
+        "reconstrução dedutiva"
+      ],
+      "familias_filosoficas_relevantes": [
+        "idealismo",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Hegel"
+      ],
+      "conceitos_classicos_associados": [
+        "sistema",
+        "ordem",
+        "dedução"
+      ],
+      "teses_classicas_em_tensao": [
+        "arquitetura dedutiva versus mapa temático frouxo"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "formalismo_vazio",
+        "pluralismo_sem_unidade"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Somatório de blocos não produz sistema inteligível.",
+        "Boa intuição sem ordem de percurso perde reconstruibilidade."
+      ],
+      "posicao_provavel_do_sistema": "A inteligibilidade do todo depende de dependências explícitas, ordem do percurso e controlo das passagens entre regimes e níveis.",
+      "tipo_de_resposta_exigida": [
+        "resposta_metaarquitetonica",
+        "resposta_integrativa"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [],
+      "blocos_relacionados": [],
+      "campos_do_real_relacionados": [
+        "integral_multicampo"
+      ],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "estrutural",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "parcial",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": false,
+      "precisa_subcapitulo": true,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [
+        "sem_ligacao_a_proposicoes"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Pode abrir a secção metaestrutural da matriz filosófica."
+    },
+    {
+      "problema_id": "UCF16",
+      "titulo_curto": "Passagem entre regimes de validação",
+      "tipo_de_unidade": "problema_metaestrutural",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "de_passagem",
+      "pergunta_central": "Como se passa de ontologia para epistemologia, e desta para ética, sem saltos ilegítimos?",
+      "descricao_canonica": "Problema das passagens entre regimes de validação do projeto, especialmente entre ontologia, ciência, cognição, linguagem e normatividade.",
+      "objetos_filosoficos_principais": [
+        "passagem",
+        "regime",
+        "mediacao",
+        "validacao"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "mediar",
+        "derivar",
+        "delimitar",
+        "integrar"
+      ],
+      "subproblemas": [
+        "ontologia para epistemologia",
+        "epistemologia para ética",
+        "filosofia e ciência",
+        "descrição e justificação"
+      ],
+      "familias_filosoficas_relevantes": [
+        "realismo_critico",
+        "fenomenologia",
+        "filosofia_moral"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Kant",
+        "Bhaskar"
+      ],
+      "conceitos_classicos_associados": [
+        "mediação",
+        "fundamento",
+        "derivação"
+      ],
+      "teses_classicas_em_tensao": [
+        "passagens fortes versus compartimentos estanques",
+        "derivação mediada versus salto injustificado"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "metafisica_sem_mediacao",
+        "formalismo_vazio"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Ter blocos bons não garante passagens legítimas.",
+        "Aderir demasiado depressa à ética ou à linguagem pode deformar o percurso."
+      ],
+      "posicao_provavel_do_sistema": "As passagens têm de ser justificadas por mediações reais e auditáveis, não por proximidade temática ou decisão externa.",
+      "tipo_de_resposta_exigida": [
+        "resposta_de_passagem_entre_niveis",
+        "resposta_metaarquitetonica"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_forte"
+      ],
+      "proposicao_ids_relacionadas": [],
+      "blocos_relacionados": [],
+      "campos_do_real_relacionados": [
+        "integral_multicampo",
+        "cognitivo_representacional",
+        "pratico_normativo"
+      ],
+      "campo_ids_relacionados": [
+        "CR03",
+        "CR02",
+        "CR01"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC02",
+        "AC03"
+      ],
+      "grau_de_centralidade": "estrutural",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": true,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A própria lista embrionária assinala este problema como decisivo e as pontes PN04 e PN05 concentram riscos altos/críticos.",
+      "lacunas_identificadas": [],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "É a dobradiça entre o inventário preliminar e a matriz de confronto filosófico propriamente dita."
+    },
+    {
+      "problema_id": "UCF17",
+      "titulo_curto": "Arquitetura do percurso filosófico",
+      "tipo_de_unidade": "problema_metaestrutural",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "meta_sistemico",
+      "pergunta_central": "Qual é a ordem correta dos problemas no sistema e que distorções surgem se a ordem for errada?",
+      "descricao_canonica": "Problema da arquitetura do percurso filosófico do projeto enquanto parte interna do próprio sistema.",
+      "objetos_filosoficos_principais": [
+        "arquitetura",
+        "percurso",
+        "ordem",
+        "distorcao"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "hierarquizar",
+        "delimitar",
+        "integrar"
+      ],
+      "subproblemas": [
+        "ordem correta dos problemas",
+        "efeitos de antecipação indevida",
+        "necessidade de preparação de passos posteriores"
+      ],
+      "familias_filosoficas_relevantes": [
+        "metafisica_classica",
+        "idealismo",
+        "realismo_critico"
+      ],
+      "autores_relevantes": [
+        "Aristóteles",
+        "Hegel"
+      ],
+      "conceitos_classicos_associados": [
+        "ordem do saber",
+        "arquitetónica"
+      ],
+      "teses_classicas_em_tensao": [
+        "ordem arquitetónica versus enciclopédia temática"
+      ],
+      "tipos_de_adversario_filosofico": [
+        "formalismo_vazio",
+        "pluralismo_sem_unidade"
+      ],
+      "insuficiencias_tipicas_identificadas": [
+        "Ordem errada gera distorção filosófica e dedutiva.",
+        "Boa categoria colocada no momento errado pode produzir pseudo-derivações."
+      ],
+      "posicao_provavel_do_sistema": "A ordem dos problemas não é externa ao sistema; faz parte dele e condiciona a validade das passagens e a inteligibilidade do todo.",
+      "tipo_de_resposta_exigida": [
+        "resposta_metaarquitetonica",
+        "resposta_restritiva"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "tensao_produtiva"
+      ],
+      "proposicao_ids_relacionadas": [],
+      "blocos_relacionados": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "campos_do_real_relacionados": [
+        "integral_multicampo"
+      ],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "grau_de_centralidade": "alto",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "grau_de_cobertura_no_projeto": "parcial",
+      "falta_tratamento_academico": true,
+      "precisa_capitulo_proprio": false,
+      "precisa_subcapitulo": true,
+      "precisa_argumento_canonico": true,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [
+        "sem_ligacao_a_proposicoes"
+      ],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Serve como problema de auditoria interna do próprio sistema filosófico."
+    },
+    {
+      "problema_id": "UCF18",
+      "titulo_curto": "Mapa auxiliar de reconhecimento filosófico",
+      "tipo_de_unidade": "problema_filosofico",
+      "tipo_de_problema": "transversal",
+      "nivel_arquitetonico": "de_articulacao",
+      "pergunta_central": "Como reconhecer rapidamente, em cada parte do projeto, o que está filosoficamente em jogo?",
+      "descricao_canonica": "Unidade transversal destinada a servir de interface entre o inventário preliminar e a futura matriz de confronto filosófico, permitindo rastrear registos, objetos e operações filosóficas por referente.",
+      "objetos_filosoficos_principais": [
+        "mapeamento",
+        "reconhecimento",
+        "problema",
+        "registo"
+      ],
+      "operacoes_filosoficas_implicadas": [
+        "explicitar",
+        "hierarquizar",
+        "integrar"
+      ],
+      "subproblemas": [
+        "identificação do registo dominante",
+        "ligação a campos e pontes",
+        "detecção de lacunas"
+      ],
+      "familias_filosoficas_relevantes": [
+        "realismo_critico"
+      ],
+      "autores_relevantes": [],
+      "conceitos_classicos_associados": [
+        "problema",
+        "sistema",
+        "reconhecimento"
+      ],
+      "teses_classicas_em_tensao": [],
+      "tipos_de_adversario_filosofico": [],
+      "insuficiencias_tipicas_identificadas": [
+        "Sem grelha auxiliar, a futura matriz arrisca-se a misturar problema, autor e tradição."
+      ],
+      "posicao_provavel_do_sistema": "É metodologicamente útil ter uma grelha preliminar que reconheça o que está em jogo antes de avançar para o confronto autoral e argumentativo detalhado.",
+      "tipo_de_resposta_exigida": [
+        "resposta_metaarquitetonica"
+      ],
+      "tipo_de_tensao_com_o_sistema": [
+        "compatibilidade_forte"
+      ],
+      "proposicao_ids_relacionadas": [],
+      "blocos_relacionados": [],
+      "campos_do_real_relacionados": [
+        "integral_multicampo",
+        "cognitivo_representacional",
+        "pratico_normativo"
+      ],
+      "campo_ids_relacionados": [
+        "CR03",
+        "CR02",
+        "CR01"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC02",
+        "AC03"
+      ],
+      "grau_de_centralidade": "medio",
+      "grau_de_prioridade": "media",
+      "grau_de_risco": "baixo",
+      "grau_de_cobertura_no_projeto": "forte",
+      "falta_tratamento_academico": false,
+      "precisa_capitulo_proprio": false,
+      "precisa_subcapitulo": false,
+      "precisa_argumento_canonico": false,
+      "exige_resposta_canonica": true,
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "lacunas_identificadas": [],
+      "estado_item": "preenchido",
+      "observacoes_metodologicas": "Entrada metodológica, não substantiva; serve como suporte ao trabalho posterior."
+    }
+  ],
+  "lista_auxiliar_de_reconhecimento": [
+    {
+      "entrada_id": "LAR01",
+      "referente_tipo": "campo",
+      "referente_ids": [
+        "CR03"
+      ],
+      "registo_filosofico_dominante": "ontologico",
+      "objetos_filosoficos_identificados": [
+        "ser",
+        "real",
+        "unidade",
+        "diferenca",
+        "relacao",
+        "limite",
+        "potencialidade",
+        "atualizacao"
+      ],
+      "operacoes_filosoficas_identificadas": [
+        "fundamentar",
+        "regionalizar",
+        "integrar"
+      ],
+      "perguntas_classicas_acionadas": [
+        "O que é o ser?",
+        "O que é o real?",
+        "Como regionalizar categorias gerais sem perder coerência?"
+      ],
+      "estado_item": "preenchido",
+      "observacoes": "Entrada auxiliar para leitura ontológica de CR03."
+    },
+    {
+      "entrada_id": "LAR02",
+      "referente_tipo": "campo",
+      "referente_ids": [
+        "CR02"
+      ],
+      "registo_filosofico_dominante": "epistemologico",
+      "objetos_filosoficos_identificados": [
+        "representacao",
+        "criterio",
+        "correcao",
+        "reflexividade",
+        "memoria"
+      ],
+      "operacoes_filosoficas_identificadas": [
+        "mediar",
+        "corrigir",
+        "integrar"
+      ],
+      "perguntas_classicas_acionadas": [
+        "Como é possível o erro?",
+        "O que é corrigir?",
+        "Como emerge a reflexividade?"
+      ],
+      "estado_item": "preenchido",
+      "observacoes": "Entrada auxiliar para leitura cognitivo-representacional de CR02."
+    },
+    {
+      "entrada_id": "LAR03",
+      "referente_tipo": "campo",
+      "referente_ids": [
+        "CR01",
+        "CR04"
+      ],
+      "registo_filosofico_dominante": "pratico_etico",
+      "objetos_filosoficos_identificados": [
+        "acao",
+        "dano",
+        "normatividade",
+        "responsabilidade",
+        "dignidade",
+        "vida_boa"
+      ],
+      "operacoes_filosoficas_identificadas": [
+        "derivar",
+        "fundamentar",
+        "integrar"
+      ],
+      "perguntas_classicas_acionadas": [
+        "Como pode derivar dever-ser sem arbitrariedade?",
+        "O que é dano real?",
+        "Porque responde o ser reflexivo?"
+      ],
+      "estado_item": "preenchido",
+      "observacoes": "Entrada auxiliar para leitura ética e histórico-social de CR01 e CR04."
+    },
+    {
+      "entrada_id": "LAR04",
+      "referente_tipo": "ponte",
+      "referente_ids": [
+        "PN02",
+        "PN03"
+      ],
+      "registo_filosofico_dominante": "transversal",
+      "objetos_filosoficos_identificados": [
+        "emergencia",
+        "passagem",
+        "linguagem",
+        "consciencia"
+      ],
+      "operacoes_filosoficas_identificadas": [
+        "mediar",
+        "derivar",
+        "delimitar"
+      ],
+      "perguntas_classicas_acionadas": [
+        "Como surge algo qualitativamente novo no real?",
+        "Como se passa do organismo ao sujeito encarnado?",
+        "Que papel tem a linguagem nesta passagem?"
+      ],
+      "estado_item": "preenchido",
+      "observacoes": "Entrada auxiliar para as passagens mais sensíveis do projeto."
+    },
+    {
+      "entrada_id": "LAR05",
+      "referente_tipo": "ponte",
+      "referente_ids": [
+        "PN04",
+        "PN05"
+      ],
+      "registo_filosofico_dominante": "pratico_etico",
+      "objetos_filosoficos_identificados": [
+        "acao",
+        "normatividade",
+        "valor",
+        "instituicao"
+      ],
+      "operacoes_filosoficas_identificadas": [
+        "derivar",
+        "mediar",
+        "integrar"
+      ],
+      "perguntas_classicas_acionadas": [
+        "Como se passa da ação à avaliação normativa?",
+        "Que mediações separam descrição e justificação?"
+      ],
+      "estado_item": "preenchido",
+      "observacoes": "Entrada auxiliar para a derivação normativa e sua institucionalização."
+    }
+  ],
+  "observacoes_metodologicas": {
+    "funcao_do_documento": [
+      "Dar ao projeto um mapa filosófico preliminar antes do confronto comparativo com autores e tradições.",
+      "Separar núcleos problemáticos fundacionais, regionais, de passagem e metaestruturais.",
+      "Criar uma base operacional para o futuro script gerar_matriz_confronto_filosofico_v1.py."
+    ],
+    "limites": [
+      "Inventário preliminar não substitui leitura direta dos filósofos.",
+      "Algumas ligações a proposições e autores permanecem abertas e deverão ser refinadas na matriz final.",
+      "Os IDs AC01-AC03 são usados aqui como referências reservadas às três entradas científicas principais já estabilizadas nesta fase."
+    ]
+  }
+}

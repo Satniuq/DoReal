@@ -1,0 +1,41 @@
+RELATÓRIO — GERAÇÃO DO MAPA DE CAMPOS DO REAL V1
+==============================================================================
+
+Data UTC: 2026-03-22T23:00:07+00:00
+Script: gerar_mapa_campos_do_real_v1.py
+
+FICHEIROS
+------------------------------------------------------------------------------
+Input JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\proposicoes_nucleares_enriquecidas_v1.json
+Output JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\mapa_campos_do_real_v1.json
+Relatório: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\02_outputs\relatorio_geracao_mapa_campos_do_real_v1.txt
+
+ESTATÍSTICAS GERAIS
+------------------------------------------------------------------------------
+Total de campos: 6
+Total de proposições mapeadas: 34
+Campos com revisão humana: 3
+Campos com incidência normativa: 2
+Campos multiescala: 5
+
+DISTRIBUIÇÕES
+------------------------------------------------------------------------------
+Por tipo de campo: {"campo_de_articulacao": 2, "campo_estrutural": 1, "campo_historico_cultural": 1, "campo_pratico_normativo": 1, "campo_regional": 1}
+Por grau de risco: {"alto": 3, "critico": 3}
+Por grau de prioridade: {"estrutural": 6}
+Por estado_item: {"por_preencher": 6}
+Por campo principal: {"biologico": 4, "cognitivo_representacional": 3, "historico_cultural": 1, "integral_multicampo": 2, "intersubjetivo_social": 3, "pratico_normativo": 2, "simbolico_linguistico": 1}
+
+CAMPOS MARCADOS PARA REVISÃO HUMANA
+------------------------------------------------------------------------------
+- CR01: O campo agrega proposições já marcadas para revisão humana: P44, P46, P47.
+- CR04: O campo agrega proposições já marcadas para revisão humana: P50, P51.
+- CR05: O campo agrega proposições já marcadas para revisão humana: P30.
+
+VALIDAÇÃO
+------------------------------------------------------------------------------
+Sem erros de validação.
+
+OBSERVAÇÃO
+------------------------------------------------------------------------------
+O mapa de campos do real não substitui ainda a investigação filosófica nem a ancoragem científica. Ele regionaliza onde as proposições se mostram, em que escalas e níveis operam, e onde os limites de instância, historicidade ou normatividade exigem trabalho adicional.

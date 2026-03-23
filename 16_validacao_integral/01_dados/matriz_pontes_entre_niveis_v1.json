@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "schema_nome": "matriz_pontes_entre_niveis_v1",
+    "schema_versao": "1.0",
+    "data_geracao": "2026-03-22T22:17:34+00:00",
+    "gerado_por_script": "gerar_matriz_pontes_entre_niveis_v1.py",
+    "descricao": "Matriz de pontes entre níveis para controlo dos saltos e transições entre níveis da fase pós-árvore.",
+    "idioma": "pt-PT",
+    "projeto": "arvore_do_pensamento",
+    "estado_global": "enriquecido"
+  },
+  "fontes": {
+    "fonte_proposicoes_enriquecidas": {
+      "caminho": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\16_validacao_integral\\01_dados",
+      "ficheiro": "proposicoes_nucleares_enriquecidas_v1.json",
+      "hash_opcional": ""
+    }
+  },
+  "estatisticas": {
+    "total_pontes": 5,
+    "total_proposicoes_mapeadas": 34,
+    "total_pontes_por_nivel": {
+      "acao_pratica__normatividade_etica": 1,
+      "biologia_do_organismo__ciencia_cognitiva": 1,
+      "ciencia_cognitiva__linguagem_simbolica": 1,
+      "ontologia_estrutural__ontologia_dinamica": 1,
+      "ontologia_geral__biologia_do_organismo": 1
+    },
+    "total_pontes_de_risco_alto_ou_critico": 4
+  },
+  "enums_documentados": {
+    "estado_global": [
+      "em_construcao",
+      "extraido",
+      "enriquecido",
+      "validado",
+      "integrado"
+    ],
+    "nivel_ponte": [
+      "ontologia_geral",
+      "ontologia_estrutural",
+      "ontologia_dinamica",
+      "biologia_do_organismo",
+      "ciencia_cognitiva",
+      "linguagem_simbolica",
+      "vida_social",
+      "acao_pratica",
+      "normatividade_etica"
+    ],
+    "tipo_ponte": [
+      "determinacao_material",
+      "instanciacao_regional",
+      "emergencia",
+      "condicao_de_possibilidade",
+      "traducao_operativa",
+      "derivacao_normativa",
+      "articulacao_multinivel"
+    ],
+    "grau_risco": [
+      "baixo",
+      "medio",
+      "alto",
+      "critico"
+    ],
+    "estado_item": [
+      "por_preencher",
+      "preenchido",
+      "revisto",
+      "validado",
+      "integrado"
+    ]
+  },
+  "regras_de_validacao": {
+    "regras_gerais": [
+      {
+        "id": "RG01",
+        "descricao": "Cada ponte deve ter nível de origem e nível de destino."
+      },
+      {
+        "id": "RG02",
+        "descricao": "Uma ponte não deve ter nível de origem igual ao nível de destino, salvo justificação explícita."
+      },
+      {
+        "id": "RG03",
+        "descricao": "Pontes com risco alto ou critico devem ter explicitação do problema."
+      }
+    ]
+  },
+  "pontes": [
+    {
+      "ponte_id": "PN01",
+      "proposicao_ids": [
+        "P38",
+        "P39",
+        "P40",
+        "P41",
+        "P42",
+        "P43",
+        "P44",
+        "P45",
+        "P46",
+        "P47",
+        "P48",
+        "P49",
+        "P50",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B6",
+        "B7"
+      ],
+      "nivel_origem": "acao_pratica",
+      "nivel_destino": "normatividade_etica",
+      "tipo_ponte": "derivacao_normativa",
+      "descricao": "Passagem do real e da ação situada à normatividade, dever-ser, dignidade ou vida boa.",
+      "problema_da_transicao": "Trata-se de justificar a passagem do real, da ação situada ou da estrutura ontológica para normatividade, dever-ser, dignidade ou vida boa.",
+      "justificacao_provisoria": "As proposições P38, P39, P40, P41, P42, P43, P44, P45, P46, P47, P48, P49, P50, P51 exigem explicitação adicional da passagem do ser, da ação ou da estrutura para a normatividade.",
+      "riscos_identificados": [
+        "Salto ilegítimo entre descrição do real e normatividade.",
+        "Insuficiência de mediação entre ação situada e dever-ser.",
+        "Elevado risco estrutural na arquitetura global do sistema."
+      ],
+      "campos_relacionados": [
+        "pratico_normativo",
+        "intersubjetivo_social",
+        "biologico",
+        "historico_cultural"
+      ],
+      "necessidades_de_trabalho": {
+        "precisa_confronto_filosofico": true,
+        "precisa_ancoragem_cientifica": true,
+        "precisa_reformulacao_conceitual": true
+      },
+      "grau_risco": "critico",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "Ponte de risco crítico exige revisão humana."
+    },
+    {
+      "ponte_id": "PN02",
+      "proposicao_ids": [
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "nivel_origem": "biologia_do_organismo",
+      "nivel_destino": "ciencia_cognitiva",
+      "tipo_ponte": "emergencia",
+      "descricao": "Passagem da organização viva/corporal à cognição, memória, representação e reflexividade.",
+      "problema_da_transicao": "Trata-se de justificar a passagem entre organização material/viva e níveis cognitivos ou reflexivos sem salto ilegítimo.",
+      "justificacao_provisoria": "As proposições P25, P26, P27, P28, P29, P30, P31, P34, P37 colocam um problema clássico de emergência ou passagem para níveis cognitivos/reflexivos.",
+      "riscos_identificados": [
+        "Reducionismo materialista ou biologicista.",
+        "Dualismo implícito na passagem para cognição ou reflexividade.",
+        "Elevado risco de mediação insuficiente entre níveis."
+      ],
+      "campos_relacionados": [
+        "cognitivo_representacional",
+        "sensorio_motor",
+        "simbolico_linguistico",
+        "intersubjetivo_social"
+      ],
+      "necessidades_de_trabalho": {
+        "precisa_confronto_filosofico": true,
+        "precisa_ancoragem_cientifica": true,
+        "precisa_reformulacao_conceitual": true
+      },
+      "grau_risco": "alto",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A ponte agrega proposições já marcadas para revisão humana: P30."
+    },
+    {
+      "ponte_id": "PN03",
+      "proposicao_ids": [
+        "P27",
+        "P28",
+        "P29",
+        "P30"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "nivel_origem": "ciencia_cognitiva",
+      "nivel_destino": "linguagem_simbolica",
+      "tipo_ponte": "articulacao_multinivel",
+      "descricao": "Passagem da cognição e mediação à linguagem/símbolo enquanto sistema partilhável.",
+      "problema_da_transicao": "Trata-se de articular níveis distintos sem confusão nem isolamento, preservando a especificidade funcional de cada um.",
+      "justificacao_provisoria": "As proposições P27, P28, P29, P30 exigem articulação entre níveis heterogéneos sem redução de um ao outro.",
+      "riscos_identificados": [
+        "Confusão entre níveis heterogéneos.",
+        "Falta de critério para passagem entre mediação, cognição e linguagem.",
+        "Elevado risco de mediação insuficiente entre níveis."
+      ],
+      "campos_relacionados": [
+        "cognitivo_representacional",
+        "sensorio_motor",
+        "simbolico_linguistico",
+        "intersubjetivo_social"
+      ],
+      "necessidades_de_trabalho": {
+        "precisa_confronto_filosofico": true,
+        "precisa_ancoragem_cientifica": true,
+        "precisa_reformulacao_conceitual": true
+      },
+      "grau_risco": "alto",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A ponte agrega proposições já marcadas para revisão humana: P30."
+    },
+    {
+      "ponte_id": "PN04",
+      "proposicao_ids": [
+        "P13",
+        "P14",
+        "P15",
+        "P18",
+        "P19",
+        "P21",
+        "P22",
+        "P25",
+        "P38",
+        "P39",
+        "P40",
+        "P44",
+        "P48",
+        "P49",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B2",
+        "B3",
+        "B4",
+        "B6",
+        "B7"
+      ],
+      "nivel_origem": "ontologia_estrutural",
+      "nivel_destino": "ontologia_dinamica",
+      "tipo_ponte": "instanciacao_regional",
+      "descricao": "Passagem de estrutura/limite para campos de potencialidade e atualização.",
+      "problema_da_transicao": "Trata-se de mostrar como categorias ontológicas gerais se instanciam em domínios regionais ou campos específicos do real.",
+      "justificacao_provisoria": "As proposições P13, P14, P15, P18, P19, P21, P22, P25, P38, P39, P40, P44, P48, P49, P51 apontam para a necessidade de regionalizar categorias gerais em campos concretos do real.",
+      "riscos_identificados": [
+        "Abstração excessiva sem concretização regional.",
+        "Multiplicação de campos sem critério de individuação suficiente."
+      ],
+      "campos_relacionados": [
+        "integral_multicampo",
+        "fisico",
+        "biologico",
+        "historico_cultural",
+        "cognitivo_representacional",
+        "sensorio_motor",
+        "pratico_normativo",
+        "intersubjetivo_social"
+      ],
+      "necessidades_de_trabalho": {
+        "precisa_confronto_filosofico": true,
+        "precisa_ancoragem_cientifica": true,
+        "precisa_reformulacao_conceitual": false
+      },
+      "grau_risco": "medio",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A ponte agrega proposições já marcadas para revisão humana: P44, P51."
+    },
+    {
+      "ponte_id": "PN05",
+      "proposicao_ids": [
+        "P01",
+        "P02",
+        "P23",
+        "P24",
+        "P46",
+        "P47",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B4",
+        "B7"
+      ],
+      "nivel_origem": "ontologia_geral",
+      "nivel_destino": "biologia_do_organismo",
+      "tipo_ponte": "determinacao_material",
+      "descricao": "Passagem do ente situado à sua determinação material como organismo vivo.",
+      "problema_da_transicao": "Trata-se de explicitar como uma determinação ontológica ou antropológica ganha inscrição material concreta sem colapso reducionista.",
+      "justificacao_provisoria": "As proposições P01, P02, P23, P24, P46, P47, P51 sugerem que o nível de origem não pode permanecer abstrato e exige determinação material mais concreta.",
+      "riscos_identificados": [
+        "Subdeterminação material do conceito filosófico.",
+        "Confusão entre determinação ontológica e descrição empírica imediata.",
+        "Elevado risco de mediação insuficiente entre níveis."
+      ],
+      "campos_relacionados": [
+        "integral_multicampo",
+        "biologico",
+        "pratico_normativo",
+        "intersubjetivo_social",
+        "historico_cultural"
+      ],
+      "necessidades_de_trabalho": {
+        "precisa_confronto_filosofico": true,
+        "precisa_ancoragem_cientifica": true,
+        "precisa_reformulacao_conceitual": false
+      },
+      "grau_risco": "alto",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A ponte agrega proposições já marcadas para revisão humana: P46, P47, P51."
+    }
+  ]
+}

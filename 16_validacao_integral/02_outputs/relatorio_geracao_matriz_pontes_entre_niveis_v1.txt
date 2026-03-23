@@ -1,0 +1,40 @@
+RELATÓRIO — GERAÇÃO DA MATRIZ DE PONTES ENTRE NÍVEIS V1
+==============================================================================
+
+Data UTC: 2026-03-22T22:17:34+00:00
+Script: gerar_matriz_pontes_entre_niveis_v1.py
+
+FICHEIROS
+------------------------------------------------------------------------------
+Input JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\proposicoes_nucleares_enriquecidas_v1.json
+Output JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\matriz_pontes_entre_niveis_v1.json
+Relatório: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\02_outputs\relatorio_geracao_matriz_pontes_entre_niveis_v1.txt
+
+ESTATÍSTICAS GERAIS
+------------------------------------------------------------------------------
+Total de pontes: 5
+Total de proposições mapeadas: 34
+Pontes de risco alto/crítico: 4
+
+DISTRIBUIÇÕES
+------------------------------------------------------------------------------
+Por tipo de ponte: {"articulacao_multinivel": 1, "derivacao_normativa": 1, "determinacao_material": 1, "emergencia": 1, "instanciacao_regional": 1}
+Por grau de risco: {"alto": 3, "critico": 1, "medio": 1}
+Por transição origem->destino: {"acao_pratica -> normatividade_etica": 1, "biologia_do_organismo -> ciencia_cognitiva": 1, "ciencia_cognitiva -> linguagem_simbolica": 1, "ontologia_estrutural -> ontologia_dinamica": 1, "ontologia_geral -> biologia_do_organismo": 1}
+Por estado_item: {"por_preencher": 5}
+
+PONTES MARCADAS PARA REVISÃO HUMANA
+------------------------------------------------------------------------------
+- PN01: Ponte de risco crítico exige revisão humana.
+- PN02: A ponte agrega proposições já marcadas para revisão humana: P30.
+- PN03: A ponte agrega proposições já marcadas para revisão humana: P30.
+- PN04: A ponte agrega proposições já marcadas para revisão humana: P44, P51.
+- PN05: A ponte agrega proposições já marcadas para revisão humana: P46, P47, P51.
+
+VALIDAÇÃO
+------------------------------------------------------------------------------
+Sem erros de validação.
+
+OBSERVAÇÃO
+------------------------------------------------------------------------------
+A matriz de pontes entre níveis não resolve ainda os problemas de transição; ela identifica, agrupa e torna auditáveis os pontos em que o sistema exige elaboração intermédia mais forte.

@@ -1,0 +1,665 @@
+{
+  "schema_nome": "proposicoes_nucleares_enriquecidas_v1",
+  "schema_versao": "1.0",
+  "descricao": "Schema canónico para o ficheiro-mãe de proposições nucleares enriquecidas da fase pós-árvore.",
+  "tipo_raiz": "object",
+  "estrutura_global": {
+    "metadata": "object",
+    "fontes": "object",
+    "estatisticas": "object",
+    "enums_documentados": "object",
+    "regras_de_validacao": "object",
+    "proposicoes": "array"
+  },
+  "campos_obrigatorios_raiz": [
+    "metadata",
+    "fontes",
+    "estatisticas",
+    "enums_documentados",
+    "regras_de_validacao",
+    "proposicoes"
+  ],
+  "campos": {
+    "metadata": {
+      "tipo": "object",
+      "obrigatorio": true,
+      "campos_obrigatorios": [
+        "schema_nome",
+        "schema_versao",
+        "data_geracao",
+        "gerado_por_script",
+        "descricao",
+        "idioma",
+        "projeto",
+        "estado_global"
+      ],
+      "campos": {
+        "schema_nome": {
+          "tipo": "string"
+        },
+        "schema_versao": {
+          "tipo": "string"
+        },
+        "data_geracao": {
+          "tipo": "string",
+          "formato": "datetime_iso8601"
+        },
+        "gerado_por_script": {
+          "tipo": "string"
+        },
+        "descricao": {
+          "tipo": "string"
+        },
+        "idioma": {
+          "tipo": "string",
+          "valores_permitidos": [
+            "pt-PT"
+          ]
+        },
+        "projeto": {
+          "tipo": "string"
+        },
+        "estado_global": {
+          "tipo": "string",
+          "enum_ref": "estado_global"
+        }
+      }
+    },
+    "fontes": {
+      "tipo": "object",
+      "obrigatorio": true,
+      "campos_obrigatorios": [
+        "fonte_mapa_dedutivo",
+        "fonte_arvore",
+        "fontes_auxiliares"
+      ],
+      "campos": {
+        "fonte_mapa_dedutivo": {
+          "tipo": "object",
+          "campos_obrigatorios": [
+            "caminho",
+            "ficheiro",
+            "hash_opcional"
+          ],
+          "campos": {
+            "caminho": {
+              "tipo": "string"
+            },
+            "ficheiro": {
+              "tipo": "string"
+            },
+            "hash_opcional": {
+              "tipo": "string"
+            }
+          }
+        },
+        "fonte_arvore": {
+          "tipo": "object",
+          "campos_obrigatorios": [
+            "caminho",
+            "ficheiro",
+            "hash_opcional"
+          ],
+          "campos": {
+            "caminho": {
+              "tipo": "string"
+            },
+            "ficheiro": {
+              "tipo": "string"
+            },
+            "hash_opcional": {
+              "tipo": "string"
+            }
+          }
+        },
+        "fontes_auxiliares": {
+          "tipo": "array",
+          "itens": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "tipo",
+              "caminho",
+              "ficheiro",
+              "descricao"
+            ],
+            "campos": {
+              "tipo": {
+                "tipo": "string",
+                "enum_ref": "tipo_fonte_auxiliar"
+              },
+              "caminho": {
+                "tipo": "string"
+              },
+              "ficheiro": {
+                "tipo": "string"
+              },
+              "descricao": {
+                "tipo": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "estatisticas": {
+      "tipo": "object",
+      "obrigatorio": true,
+      "campos_obrigatorios": [
+        "total_proposicoes",
+        "total_blocos",
+        "proposicoes_por_bloco",
+        "proposicoes_com_fragmentos",
+        "proposicoes_com_microlinhas",
+        "proposicoes_com_ramos",
+        "proposicoes_com_percursos",
+        "proposicoes_com_argumentos",
+        "proposicoes_que_precisam_confronto_filosofico",
+        "proposicoes_que_precisam_ancoragem_cientifica",
+        "proposicoes_que_precisam_ponte_entre_niveis",
+        "proposicoes_que_precisam_cartografia_de_campo",
+        "proposicoes_com_revisao_humana"
+      ],
+      "campos": {
+        "total_proposicoes": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "total_blocos": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_por_bloco": {
+          "tipo": "object"
+        },
+        "proposicoes_com_fragmentos": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_com_microlinhas": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_com_ramos": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_com_percursos": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_com_argumentos": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_que_precisam_confronto_filosofico": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_que_precisam_ancoragem_cientifica": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_que_precisam_ponte_entre_niveis": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_que_precisam_cartografia_de_campo": {
+          "tipo": "integer",
+          "minimo": 0
+        },
+        "proposicoes_com_revisao_humana": {
+          "tipo": "integer",
+          "minimo": 0
+        }
+      }
+    },
+    "enums_documentados": {
+      "tipo": "object",
+      "obrigatorio": true
+    },
+    "regras_de_validacao": {
+      "tipo": "object",
+      "obrigatorio": true
+    },
+    "proposicoes": {
+      "tipo": "array",
+      "obrigatorio": true,
+      "itens": {
+        "tipo": "object",
+        "campos_obrigatorios": [
+          "proposicao_id",
+          "texto",
+          "texto_curto",
+          "bloco_id",
+          "bloco_titulo",
+          "ordem_global",
+          "ordem_no_bloco",
+          "estado_proposicao",
+          "dependencias",
+          "arquitetura_origem",
+          "suporte_estrutural",
+          "classificacao_filosofica_inicial",
+          "validacao_integral",
+          "campos_do_real",
+          "pontes_entre_niveis",
+          "confronto_filosofico",
+          "ancoragem_cientifica",
+          "estado_trabalho"
+        ],
+        "campos": {
+          "proposicao_id": {
+            "tipo": "string",
+            "padrao_exemplo": "P01"
+          },
+          "texto": {
+            "tipo": "string"
+          },
+          "texto_curto": {
+            "tipo": "string"
+          },
+          "bloco_id": {
+            "tipo": "string",
+            "padrao_exemplo": "B1"
+          },
+          "bloco_titulo": {
+            "tipo": "string"
+          },
+          "ordem_global": {
+            "tipo": "integer",
+            "minimo": 1
+          },
+          "ordem_no_bloco": {
+            "tipo": "integer",
+            "minimo": 1
+          },
+          "estado_proposicao": {
+            "tipo": "string",
+            "enum_ref": "estado_proposicao"
+          },
+          "dependencias": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "dependencias_anteriores",
+              "dependencias_posteriores",
+              "dependencias_imediatas",
+              "dependencias_distais"
+            ],
+            "campos": {
+              "dependencias_anteriores": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "dependencias_posteriores": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "dependencias_imediatas": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "dependencias_distais": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              }
+            }
+          },
+          "arquitetura_origem": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "fragmento_ids",
+              "microlinha_ids",
+              "ramo_ids",
+              "percurso_ids",
+              "argumento_ids",
+              "convergencia_ids",
+              "relacao_ids"
+            ],
+            "campos": {
+              "fragmento_ids": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "microlinha_ids": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "ramo_ids": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "percurso_ids": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "argumento_ids": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "convergencia_ids": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "relacao_ids": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              }
+            }
+          },
+          "suporte_estrutural": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "tem_fragmentos_rastreaveis",
+              "tem_microlinhas_rastreaveis",
+              "tem_ramos_rastreaveis",
+              "tem_percursos_rastreaveis",
+              "tem_argumentos_rastreaveis",
+              "grau_rastreabilidade"
+            ],
+            "campos": {
+              "tem_fragmentos_rastreaveis": {
+                "tipo": "boolean"
+              },
+              "tem_microlinhas_rastreaveis": {
+                "tipo": "boolean"
+              },
+              "tem_ramos_rastreaveis": {
+                "tipo": "boolean"
+              },
+              "tem_percursos_rastreaveis": {
+                "tipo": "boolean"
+              },
+              "tem_argumentos_rastreaveis": {
+                "tipo": "boolean"
+              },
+              "grau_rastreabilidade": {
+                "tipo": "string",
+                "enum_ref": "grau_rastreabilidade"
+              }
+            }
+          },
+          "classificacao_filosofica_inicial": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "dominio_principal",
+              "subdominios",
+              "tipo_formulacao",
+              "funcao_no_mapa"
+            ],
+            "campos": {
+              "dominio_principal": {
+                "tipo": "string",
+                "enum_ref": "dominio_principal"
+              },
+              "subdominios": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "tipo_formulacao": {
+                "tipo": "string",
+                "enum_ref": "tipo_formulacao"
+              },
+              "funcao_no_mapa": {
+                "tipo": "string",
+                "enum_ref": "funcao_no_mapa"
+              }
+            }
+          },
+          "validacao_integral": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "tipo_de_proposicao",
+              "regime_de_validacao",
+              "precisa_confronto_filosofico",
+              "precisa_ancoragem_cientifica",
+              "precisa_ponte_entre_niveis",
+              "precisa_cartografia_de_campo",
+              "precisa_reformulacao_conceitual",
+              "grau_risco_salto",
+              "grau_prioridade",
+              "grau_confianca_atribuicao",
+              "justificacao_atribuicao"
+            ],
+            "campos": {
+              "tipo_de_proposicao": {
+                "tipo": "string",
+                "enum_ref": "tipo_de_proposicao"
+              },
+              "regime_de_validacao": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string",
+                  "enum_ref": "regime_de_validacao"
+                }
+              },
+              "precisa_confronto_filosofico": {
+                "tipo": "boolean"
+              },
+              "precisa_ancoragem_cientifica": {
+                "tipo": "boolean"
+              },
+              "precisa_ponte_entre_niveis": {
+                "tipo": "boolean"
+              },
+              "precisa_cartografia_de_campo": {
+                "tipo": "boolean"
+              },
+              "precisa_reformulacao_conceitual": {
+                "tipo": "boolean"
+              },
+              "grau_risco_salto": {
+                "tipo": "string",
+                "enum_ref": "grau_risco_salto"
+              },
+              "grau_prioridade": {
+                "tipo": "string",
+                "enum_ref": "grau_prioridade"
+              },
+              "grau_confianca_atribuicao": {
+                "tipo": "number",
+                "minimo": 0.0,
+                "maximo": 1.0
+              },
+              "justificacao_atribuicao": {
+                "tipo": "string"
+              }
+            }
+          },
+          "campos_do_real": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "campos_principais",
+              "campos_secundarios",
+              "escala_ontologica",
+              "nivel_de_realidade_implicado",
+              "observacoes"
+            ],
+            "campos": {
+              "campos_principais": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string",
+                  "enum_ref": "campo_do_real"
+                }
+              },
+              "campos_secundarios": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string",
+                  "enum_ref": "campo_do_real"
+                }
+              },
+              "escala_ontologica": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string",
+                  "enum_ref": "escala_ontologica"
+                }
+              },
+              "nivel_de_realidade_implicado": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string",
+                  "enum_ref": "nivel_de_realidade_implicado"
+                }
+              },
+              "observacoes": {
+                "tipo": "string"
+              }
+            }
+          },
+          "pontes_entre_niveis": {
+            "tipo": "array",
+            "itens": {
+              "tipo": "object",
+              "campos_obrigatorios": [
+                "nivel_origem",
+                "nivel_destino",
+                "tipo_ponte",
+                "descricao",
+                "risco"
+              ],
+              "campos": {
+                "nivel_origem": {
+                  "tipo": "string",
+                  "enum_ref": "nivel_ponte"
+                },
+                "nivel_destino": {
+                  "tipo": "string",
+                  "enum_ref": "nivel_ponte"
+                },
+                "tipo_ponte": {
+                  "tipo": "string",
+                  "enum_ref": "tipo_ponte"
+                },
+                "descricao": {
+                  "tipo": "string"
+                },
+                "risco": {
+                  "tipo": "string",
+                  "enum_ref": "grau_risco_salto"
+                }
+              }
+            }
+          },
+          "confronto_filosofico": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "temas_de_confronto",
+              "autores_prioritarios",
+              "tradicoes_prioritarias",
+              "questoes_abertas"
+            ],
+            "campos": {
+              "temas_de_confronto": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "autores_prioritarios": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "tradicoes_prioritarias": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "questoes_abertas": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              }
+            }
+          },
+          "ancoragem_cientifica": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "dominios_cientificos",
+              "subdominios_cientificos",
+              "tipo_dependencia_cientifica",
+              "observacoes"
+            ],
+            "campos": {
+              "dominios_cientificos": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string",
+                  "enum_ref": "dominio_cientifico"
+                }
+              },
+              "subdominios_cientificos": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string"
+                }
+              },
+              "tipo_dependencia_cientifica": {
+                "tipo": "array",
+                "itens": {
+                  "tipo": "string",
+                  "enum_ref": "tipo_dependencia_cientifica"
+                }
+              },
+              "observacoes": {
+                "tipo": "string"
+              }
+            }
+          },
+          "estado_trabalho": {
+            "tipo": "object",
+            "campos_obrigatorios": [
+              "estado_atual",
+              "necessita_revisao_humana",
+              "motivo_revisao_humana",
+              "notas_internas"
+            ],
+            "campos": {
+              "estado_atual": {
+                "tipo": "string",
+                "enum_ref": "estado_trabalho"
+              },
+              "necessita_revisao_humana": {
+                "tipo": "boolean"
+              },
+              "motivo_revisao_humana": {
+                "tipo": "string"
+              },
+              "notas_internas": {
+                "tipo": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

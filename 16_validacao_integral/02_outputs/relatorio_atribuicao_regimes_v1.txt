@@ -1,0 +1,44 @@
+RELATÓRIO — ATRIBUIÇÃO DE REGIMES DE VALIDAÇÃO V1
+==============================================================================
+
+Data UTC: 2026-03-22T22:07:52+00:00
+Script: atribuir_regimes_de_validacao_v1.py
+
+FICHEIROS
+------------------------------------------------------------------------------
+Input JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\proposicoes_nucleares_enriquecidas_v1.json
+Output JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\proposicoes_nucleares_enriquecidas_v1.json
+Relatório: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\02_outputs\relatorio_atribuicao_regimes_v1.txt
+
+ESTATÍSTICAS GERAIS
+------------------------------------------------------------------------------
+Total de proposições: 51
+Precisam de confronto filosófico: 51
+Precisam de ancoragem científica: 36
+Precisam de ponte entre níveis: 31
+Precisam de cartografia de campo: 34
+Com revisão humana: 6
+
+DISTRIBUIÇÕES
+------------------------------------------------------------------------------
+Regimes de validação: {"cartografia_de_campo": 34, "coerencia_dedutiva_interna": 51, "compatibilidade_cientifica": 36, "confronto_filosofico": 51, "justificacao_de_ponte": 31, "rastreabilidade_arquitetural": 51}
+Grau de risco: {"alto": 33, "baixo": 6, "critico": 6, "medio": 6}
+Grau de prioridade: {"alta": 15, "estrutural": 10, "media": 26}
+Estado de trabalho: {"pendente_ancoragem_cientifica": 8, "pendente_cartografia_de_campo": 4, "pendente_confronto_filosofico": 8, "pendente_ponte_entre_niveis": 25, "pendente_revisao_humana": 6}
+
+PROPOSIÇÕES COM REVISÃO HUMANA
+------------------------------------------------------------------------------
+- P30: Risco crítico de salto entre níveis ou de derivação normativa.
+- P44: Risco crítico de salto entre níveis ou de derivação normativa.
+- P46: Risco crítico de salto entre níveis ou de derivação normativa.
+- P47: Risco crítico de salto entre níveis ou de derivação normativa.
+- P50: Risco crítico de salto entre níveis ou de derivação normativa.
+- P51: Risco crítico de salto entre níveis ou de derivação normativa.
+
+VALIDAÇÃO
+------------------------------------------------------------------------------
+Sem erros de validação.
+
+OBSERVAÇÃO
+------------------------------------------------------------------------------
+Este script produz uma atribuição inicial, conservadora e auditável. Ele não substitui a fase posterior de confronto filosófico substantivo, ancoragem científica detalhada, elaboração de pontes entre níveis e cartografia aprofundada dos campos do real.

@@ -1,0 +1,629 @@
+{
+  "metadata": {
+    "schema_nome": "mapa_campos_do_real_v1",
+    "schema_versao": "1.0",
+    "data_geracao": "2026-03-22T23:00:07+00:00",
+    "gerado_por_script": "gerar_mapa_campos_do_real_v1.py",
+    "descricao": "Mapa de campos do real das proposições nucleares da fase pós-árvore.",
+    "idioma": "pt-PT",
+    "projeto": "arvore_do_pensamento",
+    "estado_global": "enriquecido"
+  },
+  "fontes": {
+    "fonte_proposicoes_enriquecidas": {
+      "caminho": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\16_validacao_integral\\01_dados",
+      "ficheiro": "proposicoes_nucleares_enriquecidas_v1.json",
+      "hash_opcional": ""
+    }
+  },
+  "estatisticas": {
+    "total_campos": 6,
+    "total_proposicoes_mapeadas": 34,
+    "total_campos_com_revisao_humana": 3,
+    "total_campos_com_incidencia_normativa": 2,
+    "total_campos_multiescala": 5,
+    "total_campos_por_tipo": {
+      "campo_de_articulacao": 2,
+      "campo_estrutural": 1,
+      "campo_historico_cultural": 1,
+      "campo_pratico_normativo": 1,
+      "campo_regional": 1
+    }
+  },
+  "enums_documentados": {
+    "estado_global": [
+      "em_construcao",
+      "extraido",
+      "enriquecido",
+      "validado",
+      "integrado"
+    ],
+    "campo_do_real": [
+      "fisico",
+      "quimico",
+      "biologico",
+      "ecologico",
+      "sensorio_motor",
+      "cognitivo_representacional",
+      "simbolico_linguistico",
+      "intersubjetivo_social",
+      "tecnico",
+      "pratico_normativo",
+      "historico_cultural",
+      "integral_multicampo"
+    ],
+    "escala_ontologica": [
+      "particula",
+      "objeto",
+      "organismo",
+      "sujeito_encarnado",
+      "agente",
+      "grupo_social",
+      "instituicao",
+      "cultura",
+      "escala_multinivel"
+    ],
+    "nivel_de_realidade": [
+      "estrutura",
+      "vida",
+      "cognicao",
+      "representacao",
+      "linguagem",
+      "coexistencia",
+      "acao",
+      "normatividade",
+      "valor"
+    ],
+    "tipo_campo": [
+      "campo_estrutural",
+      "campo_regional",
+      "campo_de_articulacao",
+      "campo_pratico_normativo",
+      "campo_historico_cultural"
+    ],
+    "grau_de_delimitacao": [
+      "baixo",
+      "medio",
+      "alto"
+    ],
+    "grau_prioridade": [
+      "baixa",
+      "media",
+      "alta",
+      "estrutural"
+    ],
+    "grau_risco": [
+      "baixo",
+      "medio",
+      "alto",
+      "critico"
+    ],
+    "estado_item": [
+      "por_preencher",
+      "preenchido",
+      "revisto",
+      "validado",
+      "integrado"
+    ]
+  },
+  "regras_de_validacao": {
+    "regras_gerais": [
+      {
+        "id": "RG01",
+        "descricao": "Cada campo deve referir pelo menos uma proposição."
+      },
+      {
+        "id": "RG02",
+        "descricao": "Cada campo deve indicar pelo menos um campo principal ou transversal do real."
+      },
+      {
+        "id": "RG03",
+        "descricao": "Escalas, níveis, tipos e estados têm de pertencer aos enums documentados."
+      },
+      {
+        "id": "RG04",
+        "descricao": "Se necessita_revisao_humana=true, o motivo deve estar preenchido."
+      }
+    ]
+  },
+  "campos": [
+    {
+      "campo_id": "CR01",
+      "proposicao_ids": [
+        "P36",
+        "P38",
+        "P41",
+        "P42",
+        "P43",
+        "P44",
+        "P46",
+        "P47",
+        "P49"
+      ],
+      "blocos_relacionados": [
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "tipo_campo": "campo_pratico_normativo",
+      "nome_campo": "acao_normatividade_e_formas_sociais",
+      "descricao_do_campo": "Campo em que ação, dano, bem, mal, coexistência, responsabilidade e vida boa se articulam com práticas e instituições.",
+      "campos_principais": [
+        "pratico_normativo",
+        "intersubjetivo_social",
+        "cognitivo_representacional",
+        "biologico"
+      ],
+      "campos_secundarios": [
+        "biologico",
+        "historico_cultural"
+      ],
+      "campos_transversais": [
+        "cognitivo_representacional",
+        "pratico_normativo",
+        "intersubjetivo_social",
+        "biologico"
+      ],
+      "escalas_ontologicas_implicadas": [
+        "agente",
+        "grupo_social",
+        "instituicao",
+        "organismo",
+        "sujeito_encarnado"
+      ],
+      "niveis_de_realidade_implicados": [
+        "representacao",
+        "cognicao",
+        "acao",
+        "normatividade",
+        "valor",
+        "coexistencia",
+        "vida"
+      ],
+      "propriedades_em_foco": [
+        "ação situada",
+        "responsabilidade",
+        "dano",
+        "dever-ser",
+        "dignidade",
+        "vida boa",
+        "institucionalidade"
+      ],
+      "dinamicas_relevantes": [
+        "passagem da ação à avaliação normativa",
+        "coordenação intersubjetiva de expectativas e obrigações",
+        "formação de critérios práticos e restrições éticas"
+      ],
+      "limites_e_cuidados": [
+        "Não derivar normatividade diretamente de factos sem mediação suficiente.",
+        "Não ignorar vulnerabilidade, contexto e práticas sociais reais.",
+        "Exige distinguir fundamento ontológico, justificação prática e institucionalização histórica."
+      ],
+      "questoes_de_regionalizacao": [
+        "Como justificar a derivação normativa sem salto ilegítimo?",
+        "Que papel têm instituições e formas de vida na estabilização do bem e do dano?",
+        "Que mediações separam descrição do campo e justificação normativa?"
+      ],
+      "exemplos_de_manifestacao": [
+        "ação situada",
+        "dano e responsabilidade",
+        "coordenação prática",
+        "instituições e obrigações",
+        "agentes situados em práticas concretas",
+        "grupos sociais e coordenação de coexistência"
+      ],
+      "grau_de_delimitacao": "alto",
+      "grau_prioridade": "estrutural",
+      "grau_risco": "critico",
+      "observacoes": "Campo sensível porque agrega proposições práticas/normativas (P36, P38, P41, P42, P43, P44, P46, P47...) e exige mediação forte entre ação, coexistência e valor.",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O campo agrega proposições já marcadas para revisão humana: P44, P46, P47."
+    },
+    {
+      "campo_id": "CR02",
+      "proposicao_ids": [
+        "P23",
+        "P24",
+        "P25",
+        "P26",
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "tipo_campo": "campo_de_articulacao",
+      "nome_campo": "cognicao_representacao_e_reflexividade",
+      "descricao_do_campo": "Campo em que aparecem memória, representação, critério, correção, reflexividade e mediações epistémicas do sujeito encarnado.",
+      "campos_principais": [
+        "cognitivo_representacional",
+        "biologico"
+      ],
+      "campos_secundarios": [
+        "sensorio_motor",
+        "simbolico_linguistico",
+        "intersubjetivo_social",
+        "cognitivo_representacional"
+      ],
+      "campos_transversais": [
+        "biologico",
+        "cognitivo_representacional",
+        "sensorio_motor"
+      ],
+      "escalas_ontologicas_implicadas": [
+        "organismo",
+        "sujeito_encarnado",
+        "agente"
+      ],
+      "niveis_de_realidade_implicados": [
+        "vida",
+        "acao",
+        "cognicao",
+        "representacao"
+      ],
+      "propriedades_em_foco": [
+        "memória",
+        "representação",
+        "atenção",
+        "critério",
+        "correção",
+        "reflexividade",
+        "mediação"
+      ],
+      "dinamicas_relevantes": [
+        "estabilização do apreendido em forma operável",
+        "passagem da incorporação à representação",
+        "formação de critérios submetidos ao real"
+      ],
+      "limites_e_cuidados": [
+        "Não dualizar mente e corpo.",
+        "Não confundir representação com espelhamento passivo do real.",
+        "Exige explicitar como verdade e erro são possíveis em agente encarnado."
+      ],
+      "questoes_de_regionalizacao": [
+        "Como emerge a reflexividade a partir de condições materiais e corporais?",
+        "Que estatuto têm memória e representação no sistema: descritivo, funcional ou ontológico?"
+      ],
+      "exemplos_de_manifestacao": [
+        "memória incorporada",
+        "representação operável",
+        "atenção e aprendizagem",
+        "correção e erro em agente situado",
+        "agentes situados em práticas concretas"
+      ],
+      "grau_de_delimitacao": "medio",
+      "grau_prioridade": "estrutural",
+      "grau_risco": "alto",
+      "observacoes": "Campo agregado a partir de 7 proposições relacionadas: P23, P24, P25, P26, P31, P34, P37.",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": ""
+    },
+    {
+      "campo_id": "CR03",
+      "proposicao_ids": [
+        "P12",
+        "P17",
+        "P20"
+      ],
+      "blocos_relacionados": [
+        "B2",
+        "B3"
+      ],
+      "tipo_campo": "campo_estrutural",
+      "nome_campo": "estrutura_integral_e_regionalizacao_do_real",
+      "descricao_do_campo": "Campo em que o sistema trata categorias gerais do real, limite, relação, diferença, unidade, potencialidade e atualização, antes da sua concretização regional mais fina.",
+      "campos_principais": [
+        "integral_multicampo"
+      ],
+      "campos_secundarios": [
+        "fisico",
+        "biologico",
+        "historico_cultural"
+      ],
+      "campos_transversais": [
+        "integral_multicampo"
+      ],
+      "escalas_ontologicas_implicadas": [
+        "escala_multinivel"
+      ],
+      "niveis_de_realidade_implicados": [
+        "estrutura"
+      ],
+      "propriedades_em_foco": [
+        "estrutura",
+        "relação",
+        "diferença",
+        "limite",
+        "unidade",
+        "potencialidade",
+        "atualização",
+        "regionalização"
+      ],
+      "dinamicas_relevantes": [
+        "passagem do plano ontológico geral para campos regionais",
+        "distribuição de categorias transversais por níveis do real",
+        "articulação entre estrutura fixa e dinamismo de atualização"
+      ],
+      "limites_e_cuidados": [
+        "Não confundir categoria ontológica geral com descrição empírica suficiente.",
+        "Não tratar o campo integral como se abolisse a especificidade dos campos regionais.",
+        "Exige controlo forte da instanciação regional para evitar abstração vazia."
+      ],
+      "questoes_de_regionalizacao": [
+        "Como se regionalizam categorias gerais sem perda de coerência?",
+        "Que propriedades são verdadeiramente transversais e quais já pertencem a campos concretos?",
+        "Como preservar continuidade entre escalas sem colapsar diferenças de nível?"
+      ],
+      "exemplos_de_manifestacao": [
+        "categorias estruturais transversais do sistema",
+        "passagens de potencialidade a atualização",
+        "regionalização de propriedades gerais por domínios do real"
+      ],
+      "grau_de_delimitacao": "alto",
+      "grau_prioridade": "estrutural",
+      "grau_risco": "alto",
+      "observacoes": "Campo estruturante agregado a partir de 3 proposições (P12, P17, P20) com forte incidência ontológica e multiescalar.",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": ""
+    },
+    {
+      "campo_id": "CR04",
+      "proposicao_ids": [
+        "P50",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B7"
+      ],
+      "tipo_campo": "campo_historico_cultural",
+      "nome_campo": "pratica_normatividade_e_formas_historicas",
+      "descricao_do_campo": "Campo em que normatividade, dignidade, instituições, cultura e sedimentação histórica se cruzam, mostrando a regionalização histórico-cultural das categorias práticas.",
+      "campos_principais": [
+        "pratico_normativo",
+        "historico_cultural",
+        "intersubjetivo_social",
+        "biologico"
+      ],
+      "campos_secundarios": [
+        "simbolico_linguistico",
+        "biologico",
+        "historico_cultural"
+      ],
+      "campos_transversais": [
+        "pratico_normativo",
+        "intersubjetivo_social",
+        "biologico",
+        "historico_cultural"
+      ],
+      "escalas_ontologicas_implicadas": [
+        "agente",
+        "grupo_social",
+        "instituicao",
+        "cultura",
+        "organismo",
+        "sujeito_encarnado"
+      ],
+      "niveis_de_realidade_implicados": [
+        "acao",
+        "normatividade",
+        "valor",
+        "coexistencia",
+        "vida"
+      ],
+      "propriedades_em_foco": [
+        "sedimentação histórica",
+        "cultura",
+        "instituições",
+        "tradições práticas",
+        "legitimação",
+        "variação contextual"
+      ],
+      "dinamicas_relevantes": [
+        "estabilização histórica de formas de vida",
+        "transmissão cultural de critérios e práticas",
+        "reformulação institucional da normatividade"
+      ],
+      "limites_e_cuidados": [
+        "Não relativizar completamente a normatividade a cada contexto histórico.",
+        "Não abstrair a historicidade real de instituições e práticas.",
+        "Exige articular universalidade pretendida e concretização histórica situada."
+      ],
+      "questoes_de_regionalizacao": [
+        "Como compatibilizar dignidade e vida boa com pluralidade histórico-cultural?",
+        "Que parte da normatividade depende de instituições e que parte as limita?",
+        "Que mediações separam descrição do campo e justificação normativa?"
+      ],
+      "exemplos_de_manifestacao": [
+        "formas de vida históricas",
+        "instituições sedimentadas",
+        "tradições e práticas culturais",
+        "variação contextual da normatividade",
+        "agentes situados em práticas concretas",
+        "grupos sociais e coordenação de coexistência",
+        "formas culturais de estabilização"
+      ],
+      "grau_de_delimitacao": "baixo",
+      "grau_prioridade": "estrutural",
+      "grau_risco": "critico",
+      "observacoes": "Campo sensível porque agrega proposições práticas/normativas (P50, P51) e exige mediação forte entre ação, coexistência e valor.",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O campo agrega proposições já marcadas para revisão humana: P50, P51."
+    },
+    {
+      "campo_id": "CR05",
+      "proposicao_ids": [
+        "P27",
+        "P28",
+        "P29",
+        "P30"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "tipo_campo": "campo_de_articulacao",
+      "nome_campo": "simbolo_linguagem_e_partilha_social",
+      "descricao_do_campo": "Campo em que símbolo, linguagem e mediação tornam a representação partilhável, transmissível e socialmente estabilizada.",
+      "campos_principais": [
+        "simbolico_linguistico",
+        "intersubjetivo_social",
+        "cognitivo_representacional"
+      ],
+      "campos_secundarios": [
+        "cognitivo_representacional",
+        "historico_cultural",
+        "sensorio_motor",
+        "simbolico_linguistico",
+        "intersubjetivo_social"
+      ],
+      "campos_transversais": [
+        "cognitivo_representacional",
+        "sensorio_motor",
+        "simbolico_linguistico",
+        "intersubjetivo_social"
+      ],
+      "escalas_ontologicas_implicadas": [
+        "agente",
+        "sujeito_encarnado",
+        "grupo_social",
+        "cultura"
+      ],
+      "niveis_de_realidade_implicados": [
+        "cognicao",
+        "representacao",
+        "linguagem",
+        "coexistencia"
+      ],
+      "propriedades_em_foco": [
+        "simbolização",
+        "linguagem",
+        "transmissibilidade",
+        "partilha",
+        "estabilização intersubjetiva",
+        "mediação social"
+      ],
+      "dinamicas_relevantes": [
+        "fixação simbólica do representado",
+        "circulação intersubjetiva de sentido",
+        "formação de práticas linguísticas e gramáticas de uso"
+      ],
+      "limites_e_cuidados": [
+        "Não tratar linguagem como camada puramente formal desligada da incorporação.",
+        "Não dissolver o símbolo em convenção arbitrária sem suporte prático e social.",
+        "Exige distinguir mediação simbólica de mera codificação técnica."
+      ],
+      "questoes_de_regionalizacao": [
+        "Como passa a representação a ser transmissível sem perder referência ao real?",
+        "Qual o nexo entre símbolo, prática e comunidade de uso?",
+        "Como se articula a linguagem com cognição e vida social sem isolamento formalista?"
+      ],
+      "exemplos_de_manifestacao": [
+        "símbolos partilháveis",
+        "linguagem estabilizada",
+        "circulação intersubjetiva de sentido",
+        "práticas discursivas",
+        "grupos sociais e coordenação de coexistência",
+        "formas culturais de estabilização"
+      ],
+      "grau_de_delimitacao": "medio",
+      "grau_prioridade": "estrutural",
+      "grau_risco": "critico",
+      "observacoes": "Campo agregado a partir de 4 proposições relacionadas: P27, P28, P29, P30.",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O campo agrega proposições já marcadas para revisão humana: P30."
+    },
+    {
+      "campo_id": "CR06",
+      "proposicao_ids": [
+        "P01",
+        "P02",
+        "P13",
+        "P14",
+        "P15",
+        "P18",
+        "P19",
+        "P21",
+        "P22"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B2",
+        "B3"
+      ],
+      "tipo_campo": "campo_regional",
+      "nome_campo": "vida_corporeidade_e_organismo",
+      "descricao_do_campo": "Campo da vida, do corpo, do organismo e da vulnerabilidade material, no qual o sistema precisa de mostrar como o ente situado se determina como vivente encarnado.",
+      "campos_principais": [
+        "biologico",
+        "integral_multicampo"
+      ],
+      "campos_secundarios": [
+        "ecologico",
+        "sensorio_motor",
+        "integral_multicampo",
+        "fisico",
+        "biologico",
+        "historico_cultural"
+      ],
+      "campos_transversais": [
+        "integral_multicampo",
+        "biologico",
+        "fisico",
+        "historico_cultural"
+      ],
+      "escalas_ontologicas_implicadas": [
+        "escala_multinivel",
+        "organismo",
+        "sujeito_encarnado"
+      ],
+      "niveis_de_realidade_implicados": [
+        "estrutura",
+        "vida",
+        "acao"
+      ],
+      "propriedades_em_foco": [
+        "corporeidade",
+        "organização viva",
+        "autorregulação",
+        "vulnerabilidade",
+        "inscrição ecológica",
+        "dependência material"
+      ],
+      "dinamicas_relevantes": [
+        "autoconservação e regulação interna",
+        "acoplamento organismo-meio",
+        "condicionamento material de cognição e ação"
+      ],
+      "limites_e_cuidados": [
+        "Não reduzir vida e ação a mero mecanismo físico-químico.",
+        "Não abstrair a corporeidade ao descrever o agente ou o sujeito.",
+        "Exige distinguir determinação material de reducionismo biologicista."
+      ],
+      "questoes_de_regionalizacao": [
+        "Como se passa do organismo ao sujeito encarnado sem salto?",
+        "Que peso ontológico tem a vulnerabilidade na arquitetura do sistema?",
+        "Como preservar continuidade entre escalas sem colapsar diferenças de nível?"
+      ],
+      "exemplos_de_manifestacao": [
+        "organismos vivos",
+        "corpos vulneráveis",
+        "autorregulação e homeostase",
+        "acoplamento organismo-meio"
+      ],
+      "grau_de_delimitacao": "alto",
+      "grau_prioridade": "estrutural",
+      "grau_risco": "alto",
+      "observacoes": "Campo agregado a partir de 9 proposições relacionadas: P01, P02, P13, P14, P15, P18, P19, P21, P22.",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": ""
+    }
+  ]
+}

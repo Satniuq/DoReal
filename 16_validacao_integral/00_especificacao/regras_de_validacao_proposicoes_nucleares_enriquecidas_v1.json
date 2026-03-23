@@ -1,0 +1,112 @@
+{
+  "regras_gerais": [
+    {
+      "id": "RG01",
+      "descricao": "O ficheiro raiz tem de conter todos os blocos obrigatórios."
+    },
+    {
+      "id": "RG02",
+      "descricao": "Cada proposição tem de ter um proposicao_id único."
+    },
+    {
+      "id": "RG03",
+      "descricao": "ordem_global tem de ser inteira, positiva, única e sequencial sem repetições."
+    },
+    {
+      "id": "RG04",
+      "descricao": "ordem_no_bloco tem de ser inteira, positiva e coerente com bloco_id."
+    },
+    {
+      "id": "RG05",
+      "descricao": "texto não pode estar vazio."
+    },
+    {
+      "id": "RG06",
+      "descricao": "texto_curto não pode estar vazio."
+    },
+    {
+      "id": "RG07",
+      "descricao": "Todos os valores enumerados têm de pertencer aos enums documentados."
+    },
+    {
+      "id": "RG08",
+      "descricao": "grau_confianca_atribuicao tem de estar entre 0.0 e 1.0."
+    }
+  ],
+  "regras_de_consistencia_estrutural": [
+    {
+      "id": "RC01",
+      "descricao": "Se tem_fragmentos_rastreaveis for true, fragmento_ids não pode estar vazio."
+    },
+    {
+      "id": "RC02",
+      "descricao": "Se tem_microlinhas_rastreaveis for true, microlinha_ids não pode estar vazio."
+    },
+    {
+      "id": "RC03",
+      "descricao": "Se tem_ramos_rastreaveis for true, ramo_ids não pode estar vazio."
+    },
+    {
+      "id": "RC04",
+      "descricao": "Se tem_percursos_rastreaveis for true, percurso_ids não pode estar vazio."
+    },
+    {
+      "id": "RC05",
+      "descricao": "Se tem_argumentos_rastreaveis for true, argumento_ids não pode estar vazio."
+    }
+  ],
+  "regras_de_consistencia_validacao": [
+    {
+      "id": "RV01",
+      "descricao": "Se precisa_confronto_filosofico for true, temas_de_confronto não pode estar vazio."
+    },
+    {
+      "id": "RV02",
+      "descricao": "Se precisa_ancoragem_cientifica for true, dominios_cientificos não pode estar vazio."
+    },
+    {
+      "id": "RV03",
+      "descricao": "Se precisa_ponte_entre_niveis for true, pontes_entre_niveis não pode estar vazio."
+    },
+    {
+      "id": "RV04",
+      "descricao": "Se precisa_cartografia_de_campo for true, campos_principais e/ou campos_secundarios não pode estar totalmente vazio."
+    },
+    {
+      "id": "RV05",
+      "descricao": "Se necessita_revisao_humana for true, motivo_revisao_humana não pode estar vazio."
+    }
+  ],
+  "regras_de_consistencia_dedutiva": [
+    {
+      "id": "RD01",
+      "descricao": "Uma proposição não pode depender de si mesma."
+    },
+    {
+      "id": "RD02",
+      "descricao": "dependencias_imediatas e dependencias_distais têm de ser subconjuntos de dependencias_anteriores."
+    },
+    {
+      "id": "RD03",
+      "descricao": "Dependências referidas têm de existir em proposicoes[].proposicao_id."
+    }
+  ],
+  "regras_de_qualidade_recomendadas": [
+    {
+      "id": "RQ01",
+      "descricao": "justificacao_atribuicao deve ser curta, específica e auditável."
+    },
+    {
+      "id": "RQ02",
+      "descricao": "autores_prioritarios deve privilegiar nomes realmente relevantes para a proposição."
+    },
+    {
+      "id": "RQ03",
+      "descricao": "subdominios_cientificos deve evitar excesso de granularidade irrelevante."
+    },
+    {
+      "id": "RQ04",
+      "descricao": "campos_do_real deve refletir domínios efetivamente implicados pela proposição, não listas genéricas."
+    }
+  ]
+}

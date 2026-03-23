@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "schema_nome": "schema_confronto_filosofico_preliminar_v1",
+    "schema_versao": "1.0",
+    "data_geracao": "2026-03-22T23:20:00+00:00",
+    "gerado_por": "ChatGPT",
+    "descricao": "Schema normativo preliminar para inventário e futura matriz de confronto filosófico na fase de validação integral pós-árvore.",
+    "idioma": "pt-PT",
+    "projeto": "arvore_do_pensamento",
+    "estado_global": "preliminar"
+  },
+  "fontes": {
+    "ficheiros_base": [
+      "16_validacao_integral/01_dados/proposicoes_nucleares_enriquecidas_v1.json",
+      "16_validacao_integral/01_dados/matriz_pontes_entre_niveis_v1.json",
+      "16_validacao_integral/01_dados/matriz_ancoragem_cientifica_v1.json",
+      "16_validacao_integral/01_dados/mapa_campos_do_real_v1.json",
+      "16_validacao_integral/README_FASE_VALIDACAO_INTEGRAL_POS_ARVORE.md",
+      "16_validacao_integral/apoios/ideias.txt"
+    ],
+    "finalidade": "Normalizar a identificação de problemas filosóficos, tradições, tensões, respostas exigidas e ligações ao mapa dedutivo antes da geração da matriz de confronto filosófico."
+  },
+  "estatisticas": {
+    "total_campos_de_topo": 8,
+    "total_enums_documentados": 17,
+    "total_regras_gerais": 12,
+    "total_campos_obrigatorios_por_unidade": 13,
+    "total_campos_opcionais_por_unidade": 22
+  },
+  "enums_documentados": {
+    "estado_global": [
+      "preliminar",
+      "em_construcao",
+      "extraido",
+      "enriquecido",
+      "revisto",
+      "validado",
+      "integrado"
+    ],
+    "estado_item": [
+      "por_preencher",
+      "preenchido",
+      "revisto",
+      "validado",
+      "integrado"
+    ],
+    "tipo_de_unidade": [
+      "problema_filosofico",
+      "subproblema_filosofico",
+      "problema_metaestrutural",
+      "problema_de_passagem",
+      "problema_regional"
+    ],
+    "tipo_de_problema": [
+      "ontologico",
+      "fenomenologico",
+      "antropologico",
+      "epistemologico",
+      "semantico_linguistico",
+      "pratico_etico",
+      "social_historico",
+      "metaestrutural",
+      "transversal"
+    ],
+    "nivel_arquitetonico": [
+      "fundacional",
+      "estrutural",
+      "regional",
+      "de_articulacao",
+      "de_passagem",
+      "pratico_normativo",
+      "meta_sistemico"
+    ],
+    "grau_de_centralidade": [
+      "baixo",
+      "medio",
+      "alto",
+      "nuclear",
+      "estrutural"
+    ],
+    "grau_de_prioridade": [
+      "baixa",
+      "media",
+      "alta",
+      "estrutural"
+    ],
+    "grau_de_risco": [
+      "baixo",
+      "medio",
+      "alto",
+      "critico"
+    ],
+    "grau_de_cobertura_no_projeto": [
+      "ausente",
+      "incipiente",
+      "parcial",
+      "forte",
+      "estruturante"
+    ],
+    "tipo_de_relacao_com_o_sistema": [
+      "fundamenta",
+      "delimita",
+      "medeia",
+      "tensiona",
+      "organiza",
+      "reformula",
+      "fecha",
+      "regionaliza"
+    ],
+    "operacao_filosofica": [
+      "definir",
+      "distinguir",
+      "fundamentar",
+      "derivar",
+      "integrar",
+      "mediar",
+      "regionalizar",
+      "delimitar",
+      "criticar",
+      "corrigir",
+      "hierarquizar",
+      "unificar",
+      "explicitar",
+      "reformular"
+    ],
+    "tipo_de_tensao": [
+      "compatibilidade_forte",
+      "compatibilidade_parcial",
+      "tensao_produtiva",
+      "tensao_forte",
+      "incompatibilidade",
+      "indeterminacao_ainda_aberta"
+    ],
+    "tipo_de_adversario_filosofico": [
+      "reducionismo_fisicalista",
+      "dualismo",
+      "idealismo_absoluto",
+      "fenomenismo",
+      "ceticismo",
+      "relativismo",
+      "convencionalismo_linguistico",
+      "naturalismo_eliminativista",
+      "historicismo_dissolvente",
+      "formalismo_vazio",
+      "monismo_nivelador",
+      "pluralismo_sem_unidade",
+      "metafisica_sem_mediacao",
+      "fenomenologia_sem_ontologia_forte"
+    ],
+    "tipo_de_resposta_exigida": [
+      "resposta_definicional",
+      "resposta_distintiva",
+      "resposta_fundacional",
+      "resposta_integrativa",
+      "resposta_critica",
+      "resposta_restritiva",
+      "resposta_reformuladora",
+      "resposta_de_passagem_entre_niveis",
+      "resposta_metaarquitetonica"
+    ],
+    "familia_filosofica": [
+      "metafisica_classica",
+      "aristotelismo",
+      "tomismo",
+      "racionalismo",
+      "empirismo",
+      "idealismo",
+      "fenomenologia",
+      "hermeneutica",
+      "existencialismo",
+      "estruturalismo",
+      "pragmatismo",
+      "filosofia_analitica",
+      "realismo_critico",
+      "naturalismo",
+      "enativismo",
+      "filosofia_moral",
+      "filosofia_politica"
+    ],
+    "campo_do_real": [
+      "fisico",
+      "quimico",
+      "biologico",
+      "ecologico",
+      "sensorio_motor",
+      "cognitivo_representacional",
+      "simbolico_linguistico",
+      "intersubjetivo_social",
+      "tecnico",
+      "pratico_normativo",
+      "historico_cultural",
+      "integral_multicampo"
+    ],
+    "nivel_de_realidade": [
+      "estrutura",
+      "vida",
+      "cognicao",
+      "representacao",
+      "linguagem",
+      "coexistencia",
+      "acao",
+      "normatividade",
+      "valor"
+    ],
+    "tipo_de_lacuna": [
+      "sem_ligacao_a_proposicoes",
+      "sem_ligacao_a_campos",
+      "sem_ligacao_a_pontes",
+      "sem_tradicoes_mapeadas",
+      "sem_autores_mapeados",
+      "sem_resposta_canonica",
+      "sem_cobertura_academica",
+      "sem_mediacao_suficiente"
+    ]
+  },
+  "estrutura_documento": {
+    "campos_de_topo_obrigatorios": [
+      "metadata",
+      "fontes",
+      "estatisticas",
+      "enums_documentados",
+      "regras_de_validacao",
+      "schema_unidade_de_confronto",
+      "schema_lista_auxiliar",
+      "observacoes_metodologicas"
+    ],
+    "descricao": "O documento define a forma canónica da unidade de confronto filosófico preliminar e da lista auxiliar de reconhecimento filosófico do projeto."
+  },
+  "schema_unidade_de_confronto": {
+    "descricao": "Objeto-base para cada problema filosófico a inventariar antes da matriz de confronto filosófico.",
+    "campos_obrigatorios": {
+      "problema_id": "string",
+      "titulo_curto": "string",
+      "tipo_de_unidade": "enum:tipo_de_unidade",
+      "tipo_de_problema": "enum:tipo_de_problema",
+      "nivel_arquitetonico": "enum:nivel_arquitetonico",
+      "pergunta_central": "string",
+      "descricao_canonica": "string",
+      "objetos_filosoficos_principais": "array[string]",
+      "operacoes_filosoficas_implicadas": "array[enum:operacao_filosofica]",
+      "grau_de_centralidade": "enum:grau_de_centralidade",
+      "grau_de_prioridade": "enum:grau_de_prioridade",
+      "grau_de_risco": "enum:grau_de_risco",
+      "estado_item": "enum:estado_item"
+    },
+    "campos_opcionais": {
+      "subproblemas": "array[string]",
+      "perguntas_associadas": "array[string]",
+      "familias_filosoficas_relevantes": "array[enum:familia_filosofica]",
+      "autores_relevantes": "array[string]",
+      "conceitos_classicos_associados": "array[string]",
+      "teses_classicas_em_tensao": "array[string]",
+      "tipos_de_adversario_filosofico": "array[enum:tipo_de_adversario_filosofico]",
+      "insuficiencias_tipicas_identificadas": "array[string]",
+      "posicao_provavel_do_sistema": "string",
+      "tipo_de_resposta_exigida": "array[enum:tipo_de_resposta_exigida]",
+      "tipo_de_tensao_com_o_sistema": "array[enum:tipo_de_tensao]",
+      "proposicao_ids_relacionadas": "array[string]",
+      "blocos_relacionados": "array[string]",
+      "campos_do_real_relacionados": "array[string]",
+      "campo_ids_relacionados": "array[string]",
+      "ponte_ids_relacionadas": "array[string]",
+      "ancoragem_ids_relacionadas": "array[string]",
+      "grau_de_cobertura_no_projeto": "enum:grau_de_cobertura_no_projeto",
+      "tipo_de_relacao_com_o_sistema": "array[enum:tipo_de_relacao_com_o_sistema]",
+      "falta_tratamento_academico": "boolean",
+      "precisa_capitulo_proprio": "boolean",
+      "precisa_subcapitulo": "boolean",
+      "precisa_argumento_canonico": "boolean",
+      "exige_resposta_canonica": "boolean",
+      "necessita_revisao_humana": "boolean",
+      "motivo_revisao_humana": "string",
+      "lacunas_identificadas": "array[enum:tipo_de_lacuna]",
+      "observacoes_metodologicas": "string"
+    }
+  },
+  "schema_lista_auxiliar": {
+    "descricao": "Objeto auxiliar para rastrear reconhecimento filosófico granular por proposição, campo, ponte ou agrupamento.",
+    "campos_obrigatorios": {
+      "entrada_id": "string",
+      "referente_tipo": "string",
+      "referente_ids": "array[string]",
+      "registo_filosofico_dominante": "enum:tipo_de_problema",
+      "objetos_filosoficos_identificados": "array[string]",
+      "operacoes_filosoficas_identificadas": "array[enum:operacao_filosofica]",
+      "perguntas_classicas_acionadas": "array[string]",
+      "estado_item": "enum:estado_item"
+    },
+    "campos_opcionais": {
+      "tradicoes_acionadas": "array[enum:familia_filosofica]",
+      "autores_acionados": "array[string]",
+      "tensoes_identificadas": "array[enum:tipo_de_tensao]",
+      "respostas_exigidas": "array[enum:tipo_de_resposta_exigida]",
+      "observacoes": "string"
+    }
+  },
+  "regras_de_validacao": {
+    "regras_gerais": [
+      {
+        "id": "RG01",
+        "descricao": "Todo o documento deve conter metadata, fontes, estatisticas, enums_documentados e regras_de_validacao."
+      },
+      {
+        "id": "RG02",
+        "descricao": "Todo o enum referido em schema_unidade_de_confronto e schema_lista_auxiliar deve estar documentado em enums_documentados."
+      },
+      {
+        "id": "RG03",
+        "descricao": "Os campos obrigatórios de schema_unidade_de_confronto devem estar explicitados e ter tipo definido."
+      },
+      {
+        "id": "RG04",
+        "descricao": "Os campos obrigatórios de schema_lista_auxiliar devem estar explicitados e ter tipo definido."
+      },
+      {
+        "id": "RG05",
+        "descricao": "Os enums reutilizados do projeto devem manter compatibilidade semântica com os já usados em mapa_campos_do_real_v1.json."
+      },
+      {
+        "id": "RG06",
+        "descricao": "O schema deve distinguir claramente problema filosófico, subproblema e problema metaestrutural."
+      },
+      {
+        "id": "RG07",
+        "descricao": "O schema deve permitir ligar problemas a proposições, campos, pontes e ancoragens sem obrigar a preenchimento exaustivo nesta fase preliminar."
+      },
+      {
+        "id": "RG08",
+        "descricao": "Se necessita_revisao_humana=true, motivo_revisao_humana deve estar preenchido."
+      },
+      {
+        "id": "RG09",
+        "descricao": "Se exige_resposta_canonica=true, tipo_de_resposta_exigida não pode estar vazio."
+      },
+      {
+        "id": "RG10",
+        "descricao": "Se grau_de_cobertura_no_projeto=ausente, o problema não deve ser marcado como estruturante sem justificação metodológica."
+      },
+      {
+        "id": "RG11",
+        "descricao": "Campos *_ids_relacionadas devem usar identificadores existentes ou reservados de forma coerente com o projeto."
+      },
+      {
+        "id": "RG12",
+        "descricao": "A lista auxiliar não substitui a matriz de confronto filosófico; serve para reconhecimento e normalização prévia."
+      }
+    ]
+  },
+  "observacoes_metodologicas": {
+    "funcao_do_schema": [
+      "Separar problema filosófico de autor isolado.",
+      "Permitir inventariar cobertura filosófica antes da leitura comparativa detalhada.",
+      "Preparar a futura matriz_confronto_filosofico_v1.json sem congelar prematuramente teses finais.",
+      "Ligar filosofia, campos do real, pontes entre níveis e ancoragens científicas num formato auditável."
+    ],
+    "nao_substitui": [
+      "leitura direta de autores",
+      "confronto argumentativo detalhado",
+      "fase posterior de adjudicação filosófica"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+RELATÓRIO — ADJUDICAÇÃO DOS CONFRONTOS FILOSÓFICOS V1
+========================================================================
+Data de geração: 2026-03-22T23:55:02+00:00
+Estado global: enriquecido
+
+Ficheiros lidos:
+------------------------------------------------------------------------
+- matriz_confronto: 16_validacao_integral/01_dados/matriz_confronto_filosofico_v1.json
+- proposicoes: 16_validacao_integral/01_dados/proposicoes_nucleares_enriquecidas_v1.json
+- pontes: 16_validacao_integral/01_dados/matriz_pontes_entre_niveis_v1.json
+- ancoragem: 16_validacao_integral/01_dados/matriz_ancoragem_cientifica_v1.json
+- campos: 16_validacao_integral/01_dados/mapa_campos_do_real_v1.json
+
+Ficheiros escritos:
+------------------------------------------------------------------------
+- json_principal: 16_validacao_integral/01_dados/adjudicacao_confrontos_filosoficos_v1.json
+- relatorio_txt: 16_validacao_integral/02_outputs/relatorio_adjudicacao_confrontos_filosoficos_v1.txt
+
+Resumo quantitativo:
+------------------------------------------------------------------------
+- total_confrontos_adjudicados: 18
+- total_revistos: 9
+- total_preenchidos: 9
+- total_com_revisao_humana: 9
+- total_decisao_revisao_humana: 5
+- total_prioridade_critica: 9
+- total_com_ciencia_articulada: 15
+- total_com_pontes_articuladas: 17
+- media_confianca_heuristica: 0.599
+
+Decisões de adjudicação:
+------------------------------------------------------------------------
+- preservar_com_restricoes: 5
+- preservar_e_explicitar: 8
+- revisao_humana_necessaria: 5
+
+Listagem por confronto:
+------------------------------------------------------------------------
+CF01 | risco=alto | revisão_humana=não | decisão=preservar_com_restricoes | prioridade=estrutural | confiança=0.7 | Ser, real e unidade diferenciada
+  síntese: Ser, real e unidade diferenciada é adjudicado como confronto estrutural em torno da pergunta ‘O que é o ser e como pode o real ser uno sem anular diferença, relação e multiplicidade?’. As proposições relacionadas sugerem este núcleo: Sem distinção, “algo” não tem qualquer sentido operacional. Estrutura implica admissibilidades e inadmissibilidades. O não-ser não é substância; é função do limite e da exclusão.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a ser, real e unidade diferenciada, a tese canónica provisória é a seguinte: O sistema precisa de um real independente, relacional e diferenciado, capaz de sustentar limite, emergência, reflexividade e regionalização sem colapso monista nem dispersão pluralista.
+CF02 | risco=alto | revisão_humana=não | decisão=preservar_e_explicitar | prioridade=alta | confiança=0.62 | Manifestação, aparecer e presença
+  síntese: Manifestação, aparecer e presença é adjudicado como confronto estrutural em torno da pergunta ‘Como aparece o real e que estatuto têm manifestação, presença e apreensão?’. As proposições relacionadas sugerem este núcleo: A continuidade torna possível movimento e estabilidade. Nada apreende de fora do real. O ser humano é um ente localizado no real.. A articulação exige especial cuidado na passagem biologia_do_organismo → ciencia_cognitiva (PN02).
+  tese_central: Quanto a manifestação, aparecer e presença, a tese canónica provisória é a seguinte: O aparecer não cria o real, mas também não é mera janela neutra; é mediação estruturada entre real, corpo e capacidade de apreensão.
+CF03 | risco=alto | revisão_humana=não | decisão=preservar_com_restricoes | prioridade=alta | confiança=0.81 | Vida, organismo e corporeidade
+  síntese: Vida, organismo e corporeidade é adjudicado como confronto estrutural em torno da pergunta ‘Que estatuto ontológico têm vida, organismo e corpo na arquitetura do sistema?’. As proposições relacionadas sugerem este núcleo: Sem isto não há qualquer posição, negação, dúvida ou descrição. “Há real” já exclui o vazio absoluto sem qualquer determinabilidade. Diferença relacional estável já é padrão, e padrão é estrutura.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a vida, organismo e corporeidade, a tese canónica provisória é a seguinte: A corporeidade não é detalhe acidental, mas condição estrutural da forma humana de consciência, ação e vulnerabilidade.
+CF04 | risco=alto | revisão_humana=sim | decisão=preservar_com_restricoes | prioridade=critica | confiança=0.66 | Consciência, reflexividade e sujeito
+  síntese: Consciência, reflexividade e sujeito é adjudicado como confronto estrutural em torno da pergunta ‘O que é consciência e como é possível reflexividade sem recair em substancialismo ou dissolução do sujeito?’. As proposições relacionadas sugerem este núcleo: Nada apreende de fora do real. O ser humano é um ente localizado no real. Apreensão é relação situada com o real.. A articulação exige especial cuidado na passagem biologia_do_organismo → ciencia_cognitiva (PN02).
+  tese_central: Quanto a consciência, reflexividade e sujeito, a tese canónica provisória é a seguinte: O sujeito não é substância isolada nem pura ficção discursiva; a reflexividade emerge em sujeito encarnado, temporal e inserido no real.
+CF05 | risco=medio | revisão_humana=não | decisão=preservar_e_explicitar | prioridade=alta | confiança=0.74 | Tempo, memória e identidade
+  síntese: Tempo, memória e identidade é adjudicado como confronto estrutural em torno da pergunta ‘Como entra o tempo na experiência e no real, e que papel desempenha na memória, identidade e reflexividade?’. As proposições relacionadas sugerem este núcleo: Nada apreende de fora do real. O ser humano é um ente localizado no real. Apreensão é relação situada com o real.. A articulação exige especial cuidado na passagem biologia_do_organismo → ciencia_cognitiva (PN02).
+  tese_central: Quanto a tempo, memória e identidade, a tese canónica provisória é a seguinte: A consciência e a reflexividade humanas exigem temporalidade estruturada, sem a qual não há memória, correção nem identidade narrativa mínima.
+CF06 | risco=alto | revisão_humana=sim | decisão=preservar_com_restricoes | prioridade=critica | confiança=0.62 | Linguagem, símbolo e sentido
+  síntese: Linguagem, símbolo e sentido é adjudicado como confronto estrutural em torno da pergunta ‘A linguagem cria consciência e sentido, exprime-os ou estabiliza-os secundariamente?’. As proposições relacionadas sugerem este núcleo: A mediação estabiliza-se em linguagem. A consciência é processo no real, não instância exterior ao real. Não é absoluto exterior ao limite; é orientação possível no campo do real.. A articulação exige especial cuidado na passagem biologia_do_organismo → ciencia_cognitiva (PN02).
+  tese_central: Quanto a linguagem, símbolo e sentido, a tese canónica provisória é a seguinte: A linguagem não cria o real nem a consciência do nada; explicita, organiza, fixa e também pode deformar o sentido emergente da relação real.
+CF07 | risco=alto | revisão_humana=sim | decisão=preservar_com_restricoes | prioridade=critica | confiança=0.69 | Verdade, erro, critério e correção
+  síntese: Verdade, erro, critério e correção é adjudicado como confronto estrutural em torno da pergunta ‘Como são possíveis verdade, erro, critério, correção e objetividade se o sistema exige real independente?’. As proposições relacionadas sugerem este núcleo: O ser humano é um ente localizado no real. Apreensão é relação situada com o real. A apreensão transforma-se em representação operável.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a verdade, erro, critério e correção, a tese canónica provisória é a seguinte: Sem real independente e sem possibilidade de adequação, verdade, erro e correção degradam-se em circulação interna; o sistema exige critério submetido ao real.
+CF08 | risco=critico | revisão_humana=sim | decisão=revisao_humana_necessaria | prioridade=critica | confiança=0.62 | Causalidade, emergência e passagem de níveis
+  síntese: Causalidade, emergência e passagem de níveis é adjudicado como confronto estrutural em torno da pergunta ‘Como surge algo qualitativamente novo no real sem milagre nem redução empobrecedora?’. As proposições relacionadas sugerem este núcleo: Toda a distinção implica ao menos não-identidade entre pólos. Diferença relacional estável já é padrão, e padrão é estrutura. Ser algo é ser determinado sob limite.. A articulação exige especial cuidado na passagem biologia_do_organismo → ciencia_cognitiva (PN02).
+  tese_central: Quanto a causalidade, emergência e passagem de níveis, a tese canónica provisória é a seguinte: A emergência é admissível, mas deve ser ontologicamente fundada, com passagens auditáveis e sem ruptura arbitrária entre níveis.
+CF09 | risco=alto | revisão_humana=não | decisão=preservar_e_explicitar | prioridade=alta | confiança=0.74 | Ação e liberdade situada
+  síntese: Ação e liberdade situada é adjudicado como confronto estrutural em torno da pergunta ‘O que é agir no real e em que consiste a liberdade de um agente situado?’. As proposições relacionadas sugerem este núcleo: Toda a distinção implica ao menos não-identidade entre pólos. Diferença relacional estável já é padrão, e padrão é estrutura. Ser algo é ser determinado sob limite.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a ação e liberdade situada, a tese canónica provisória é a seguinte: A liberdade não é exterior ao real nem puro epifenómeno; é liberdade situada no poder-ser real de um agente encarnado.
+CF10 | risco=critico | revisão_humana=sim | decisão=revisao_humana_necessaria | prioridade=critica | confiança=0.62 | Dano, bem, mal e normatividade
+  síntese: Dano, bem, mal e normatividade é adjudicado como confronto estrutural em torno da pergunta ‘Como pode derivar normatividade sem arbitrariedade, a partir de dano real, bem, mal e adequação prática ao real?’. As proposições relacionadas sugerem este núcleo: Toda a distinção implica ao menos não-identidade entre pólos. Ser algo é ser determinado sob limite. Determinar é excluir o que aquela determinação não é.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a dano, bem, mal e normatividade, a tese canónica provisória é a seguinte: O dever-ser não vem de fora; deriva da subordinação operativa ao real, à verdade, à correção e ao dano real, com mediações suficientes.
+CF11 | risco=critico | revisão_humana=sim | decisão=revisao_humana_necessaria | prioridade=critica | confiança=0.59 | Responsabilidade, dignidade e vida boa
+  síntese: Responsabilidade, dignidade e vida boa é adjudicado como confronto estrutural em torno da pergunta ‘Porque responde o ser reflexivo pelas suas atualizações e que fundamento têm dignidade e vida boa?’. As proposições relacionadas sugerem este núcleo: Se há bem e mal ancorados no real, a normatividade não é autónoma. Não é imposição externa; é exigência derivada de verdade, correção, dano real e direção. O ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a responsabilidade, dignidade e vida boa, a tese canónica provisória é a seguinte: Responsabilidade, dignidade e vida boa exigem ligação entre reflexividade, dano, verdade, correção e coexistência, não bastando convenção ou formalismo moral.
+CF12 | risco=alto | revisão_humana=não | decisão=preservar_e_explicitar | prioridade=alta | confiança=0.72 | Intersubjetividade, formas sociais e instituições
+  síntese: Intersubjetividade, formas sociais e instituições é adjudicado como confronto estrutural em torno da pergunta ‘Como se articulam coexistência, formas sociais, expectativas normativas e instituições?’. As proposições relacionadas sugerem este núcleo: O real já introduz um mínimo negativo objetivo. A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração. A direção exige fixação operativa de vetores de ação.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a intersubjetividade, formas sociais e instituições, a tese canónica provisória é a seguinte: A coexistência entre seres reflexivos exige mediações sociais e institucionais reais, mas estas não podem absorver o critério do real nem da correção.
+CF13 | risco=alto | revisão_humana=sim | decisão=preservar_e_explicitar | prioridade=critica | confiança=0.48 | Historicidade, cultura e sedimentação
+  síntese: Historicidade, cultura e sedimentação é adjudicado como confronto estrutural em torno da pergunta ‘Que papel têm história, cultura e sedimentação na regionalização das categorias práticas e simbólicas?’. As proposições relacionadas sugerem este núcleo: Aqui o sistema fecha a ética não na convenção, mas no estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação. A vida boa é atualização adequada, verdadeira, corrigível e não-degenerativa do ser reflexivo entre outros seres reflexivos no real.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a historicidade, cultura e sedimentação, a tese canónica provisória é a seguinte: A historicidade regionaliza a normatividade e a simbolização, mas não pode abolir a diferença entre sedimentação histórica e critério real.
+CF14 | risco=critico | revisão_humana=sim | decisão=revisao_humana_necessaria | prioridade=critica | confiança=0.2 | Critério último e fecho do sistema
+  síntese: Critério último e fecho do sistema é adjudicado como confronto estrutural em torno da pergunta ‘Há um critério último e em que fecha o sistema?’.
+  tese_central: Quanto a critério último e fecho do sistema, a tese canónica provisória é a seguinte: O sistema exige um critério último que não seja só formal, interno ou convencional, sob pena de perder verdade forte e inteligibilidade global.
+CF15 | risco=alto | revisão_humana=não | decisão=preservar_e_explicitar | prioridade=estrutural | confiança=0.45 | Inteligibilidade do sistema
+  síntese: Inteligibilidade do sistema é adjudicado como confronto estrutural em torno da pergunta ‘O que torna o sistema inteiro inteligível e reconstruível como todo?’. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a inteligibilidade do sistema, a tese canónica provisória é a seguinte: A inteligibilidade do todo depende de dependências explícitas, ordem do percurso e controlo das passagens entre regimes e níveis.
+CF16 | risco=critico | revisão_humana=sim | decisão=revisao_humana_necessaria | prioridade=critica | confiança=0.44 | Passagem entre regimes de validação
+  síntese: Passagem entre regimes de validação é adjudicado como confronto estrutural em torno da pergunta ‘Como se passa de ontologia para epistemologia, e desta para ética, sem saltos ilegítimos?’. As proposições relacionadas sugerem este núcleo: Algumas trajetórias estreitam o campo do poder-ser; outras preservam ou ampliam. Não manda o impossível; orienta o possível real.. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a passagem entre regimes de validação, a tese canónica provisória é a seguinte: As passagens têm de ser justificadas por mediações reais e auditáveis, não por proximidade temática ou decisão externa.
+CF17 | risco=alto | revisão_humana=não | decisão=preservar_e_explicitar | prioridade=alta | confiança=0.45 | Arquitetura do percurso filosófico
+  síntese: Arquitetura do percurso filosófico é adjudicado como confronto estrutural em torno da pergunta ‘Qual é a ordem correta dos problemas no sistema e que distorções surgem se a ordem for errada?’. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a arquitetura do percurso filosófico, a tese canónica provisória é a seguinte: A ordem dos problemas não é externa ao sistema; faz parte dele e condiciona a validade das passagens e a inteligibilidade do todo.
+CF18 | risco=baixo | revisão_humana=não | decisão=preservar_e_explicitar | prioridade=media | confiança=0.63 | Mapa auxiliar de reconhecimento filosófico
+  síntese: Mapa auxiliar de reconhecimento filosófico é adjudicado como confronto estrutural em torno da pergunta ‘Como reconhecer rapidamente, em cada parte do projeto, o que está filosoficamente em jogo?’. A articulação exige especial cuidado na passagem acao_pratica → normatividade_etica (PN01).
+  tese_central: Quanto a mapa auxiliar de reconhecimento filosófico, a tese canónica provisória é a seguinte: É metodologicamente útil ter uma grelha preliminar que reconheça o que está em jogo antes de avançar para o confronto autoral e argumentativo detalhado.
+
+Concluído sem erros de validação.

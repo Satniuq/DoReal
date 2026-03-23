@@ -1,0 +1,429 @@
+{
+  "metadata": {
+    "schema_nome": "proposicoes_nucleares_enriquecidas_v1",
+    "schema_versao": "1.0",
+    "data_geracao": "",
+    "gerado_por_script": "",
+    "descricao": "Proposições nucleares do mapa dedutivo enriquecidas com dependências dedutivas, rastreabilidade arquitetural e atributos de validação integral pós-árvore.",
+    "idioma": "pt-PT",
+    "projeto": "arvore_do_pensamento",
+    "estado_global": "em_construcao"
+  },
+  "fontes": {
+    "fonte_mapa_dedutivo": {
+      "caminho": "",
+      "ficheiro": "",
+      "hash_opcional": ""
+    },
+    "fonte_arvore": {
+      "caminho": "",
+      "ficheiro": "",
+      "hash_opcional": ""
+    },
+    "fontes_auxiliares": []
+  },
+  "estatisticas": {
+    "total_proposicoes": 0,
+    "total_blocos": 0,
+    "proposicoes_por_bloco": {},
+    "proposicoes_com_fragmentos": 0,
+    "proposicoes_com_microlinhas": 0,
+    "proposicoes_com_ramos": 0,
+    "proposicoes_com_percursos": 0,
+    "proposicoes_com_argumentos": 0,
+    "proposicoes_que_precisam_confronto_filosofico": 0,
+    "proposicoes_que_precisam_ancoragem_cientifica": 0,
+    "proposicoes_que_precisam_ponte_entre_niveis": 0,
+    "proposicoes_que_precisam_cartografia_de_campo": 0,
+    "proposicoes_com_revisao_humana": 0
+  },
+  "enums_documentados": {
+    "estado_global": [
+      "em_construcao",
+      "extraido",
+      "enriquecido",
+      "atribuido",
+      "validado",
+      "integrado"
+    ],
+    "tipo_fonte_auxiliar": [
+      "impacto_no_mapa",
+      "indice_percursos",
+      "argumentos_unificados",
+      "convergencias",
+      "relacoes",
+      "relatorio_validacao",
+      "outro"
+    ],
+    "estado_proposicao": [
+      "ativa",
+      "reformulada",
+      "desdobrada",
+      "suspensa"
+    ],
+    "grau_rastreabilidade": [
+      "baixo",
+      "medio",
+      "alto",
+      "muito_alto"
+    ],
+    "dominio_principal": [
+      "ontologia",
+      "metafisica",
+      "epistemologia",
+      "filosofia_da_mente",
+      "filosofia_da_linguagem",
+      "antropologia_filosofica",
+      "etica",
+      "axiologia",
+      "filosofia_da_ciencia",
+      "filosofia_da_biologia",
+      "filosofia_social",
+      "integrativo"
+    ],
+    "tipo_formulacao": [
+      "proposicao_fundacional",
+      "proposicao_derivada",
+      "proposicao_transicional",
+      "proposicao_definicional",
+      "proposicao_criteriologica",
+      "proposicao_normativa",
+      "proposicao_integrativa"
+    ],
+    "funcao_no_mapa": [
+      "fundamento",
+      "articulacao",
+      "transicao",
+      "definicao",
+      "criterio",
+      "derivacao",
+      "fecho",
+      "integracao"
+    ],
+    "tipo_de_proposicao": [
+      "ontologica_fundacional",
+      "ontologica_estrutural",
+      "ontologica_dinamica",
+      "fenomenologico_descritiva",
+      "transcendental_operativa",
+      "antropologica_estrutural",
+      "epistemologica_criteriologica",
+      "epistemologica_corretiva",
+      "etica_derivada",
+      "normativa_derivada",
+      "integrativa_entre_niveis",
+      "cientifico_material_dependente"
+    ],
+    "regime_de_validacao": [
+      "coerencia_dedutiva_interna",
+      "rastreabilidade_arquitetural",
+      "confronto_filosofico",
+      "compatibilidade_cientifica",
+      "ancoragem_cientifica_forte",
+      "justificacao_de_ponte",
+      "cartografia_de_campo",
+      "reformulacao_conceitual",
+      "validacao_integrativa"
+    ],
+    "grau_risco_salto": [
+      "baixo",
+      "medio",
+      "alto",
+      "critico"
+    ],
+    "grau_prioridade": [
+      "baixa",
+      "media",
+      "alta",
+      "estrutural"
+    ],
+    "campo_do_real": [
+      "fisico",
+      "quimico",
+      "biologico",
+      "ecologico",
+      "sensorio_motor",
+      "cognitivo_representacional",
+      "simbolico_linguistico",
+      "intersubjetivo_social",
+      "tecnico",
+      "pratico_normativo",
+      "historico_cultural",
+      "integral_multicampo"
+    ],
+    "escala_ontologica": [
+      "microfisica",
+      "fisica_mesoscopica",
+      "quimica_molecular",
+      "celular",
+      "organismo",
+      "ecossistema",
+      "agente",
+      "sujeito_encarnado",
+      "grupo_social",
+      "instituicao",
+      "cultura",
+      "escala_multinivel"
+    ],
+    "nivel_de_realidade_implicado": [
+      "materia",
+      "estrutura",
+      "vida",
+      "sensibilidade",
+      "cognicao",
+      "representacao",
+      "linguagem",
+      "acao",
+      "normatividade",
+      "valor",
+      "coexistencia"
+    ],
+    "nivel_ponte": [
+      "ontologia_geral",
+      "ontologia_estrutural",
+      "ontologia_dinamica",
+      "biologia_do_organismo",
+      "ciencia_cognitiva",
+      "linguagem_simbolica",
+      "vida_social",
+      "acao_pratica",
+      "normatividade_etica"
+    ],
+    "tipo_ponte": [
+      "determinacao_material",
+      "instanciacao_regional",
+      "emergencia",
+      "condicao_de_possibilidade",
+      "traducao_operativa",
+      "derivacao_normativa",
+      "articulacao_multinivel"
+    ],
+    "dominio_cientifico": [
+      "fisica",
+      "quimica",
+      "biologia",
+      "ecologia",
+      "neurociencia",
+      "ciencia_cognitiva",
+      "linguistica",
+      "antropologia",
+      "psicologia",
+      "sociologia",
+      "ciencias_da_complexidade",
+      "teoria_de_sistemas"
+    ],
+    "tipo_dependencia_cientifica": [
+      "nao_aplicavel",
+      "compatibilidade_geral",
+      "compatibilidade_forte",
+      "suporte_empirico_relevante",
+      "determinacao_material_necessaria",
+      "exemplificacao_regional",
+      "restricao_cientifica_importante"
+    ],
+    "estado_trabalho": [
+      "por_classificar",
+      "classificada",
+      "validada_internamente",
+      "pendente_confronto_filosofico",
+      "pendente_ancoragem_cientifica",
+      "pendente_ponte_entre_niveis",
+      "pendente_cartografia_de_campo",
+      "pendente_revisao_humana",
+      "reformulada",
+      "integrada"
+    ]
+  },
+  "regras_de_validacao": {
+    "regras_gerais": [
+      {
+        "id": "RG01",
+        "descricao": "O ficheiro raiz tem de conter todos os blocos obrigatórios."
+      },
+      {
+        "id": "RG02",
+        "descricao": "Cada proposição tem de ter um proposicao_id único."
+      },
+      {
+        "id": "RG03",
+        "descricao": "ordem_global tem de ser inteira, positiva, única e sequencial sem repetições."
+      },
+      {
+        "id": "RG04",
+        "descricao": "ordem_no_bloco tem de ser inteira, positiva e coerente com bloco_id."
+      },
+      {
+        "id": "RG05",
+        "descricao": "texto não pode estar vazio."
+      },
+      {
+        "id": "RG06",
+        "descricao": "texto_curto não pode estar vazio."
+      },
+      {
+        "id": "RG07",
+        "descricao": "Todos os valores enumerados têm de pertencer aos enums documentados."
+      },
+      {
+        "id": "RG08",
+        "descricao": "grau_confianca_atribuicao tem de estar entre 0.0 e 1.0."
+      }
+    ],
+    "regras_de_consistencia_estrutural": [
+      {
+        "id": "RC01",
+        "descricao": "Se tem_fragmentos_rastreaveis for true, fragmento_ids não pode estar vazio."
+      },
+      {
+        "id": "RC02",
+        "descricao": "Se tem_microlinhas_rastreaveis for true, microlinha_ids não pode estar vazio."
+      },
+      {
+        "id": "RC03",
+        "descricao": "Se tem_ramos_rastreaveis for true, ramo_ids não pode estar vazio."
+      },
+      {
+        "id": "RC04",
+        "descricao": "Se tem_percursos_rastreaveis for true, percurso_ids não pode estar vazio."
+      },
+      {
+        "id": "RC05",
+        "descricao": "Se tem_argumentos_rastreaveis for true, argumento_ids não pode estar vazio."
+      }
+    ],
+    "regras_de_consistencia_validacao": [
+      {
+        "id": "RV01",
+        "descricao": "Se precisa_confronto_filosofico for true, temas_de_confronto não pode estar vazio."
+      },
+      {
+        "id": "RV02",
+        "descricao": "Se precisa_ancoragem_cientifica for true, dominios_cientificos não pode estar vazio."
+      },
+      {
+        "id": "RV03",
+        "descricao": "Se precisa_ponte_entre_niveis for true, pontes_entre_niveis não pode estar vazio."
+      },
+      {
+        "id": "RV04",
+        "descricao": "Se precisa_cartografia_de_campo for true, campos_principais e/ou campos_secundarios não pode estar totalmente vazio."
+      },
+      {
+        "id": "RV05",
+        "descricao": "Se necessita_revisao_humana for true, motivo_revisao_humana não pode estar vazio."
+      }
+    ],
+    "regras_de_consistencia_dedutiva": [
+      {
+        "id": "RD01",
+        "descricao": "Uma proposição não pode depender de si mesma."
+      },
+      {
+        "id": "RD02",
+        "descricao": "dependencias_imediatas e dependencias_distais têm de ser subconjuntos de dependencias_anteriores."
+      },
+      {
+        "id": "RD03",
+        "descricao": "Dependências referidas têm de existir em proposicoes[].proposicao_id."
+      }
+    ],
+    "regras_de_qualidade_recomendadas": [
+      {
+        "id": "RQ01",
+        "descricao": "justificacao_atribuicao deve ser curta, específica e auditável."
+      },
+      {
+        "id": "RQ02",
+        "descricao": "autores_prioritarios deve privilegiar nomes realmente relevantes para a proposição."
+      },
+      {
+        "id": "RQ03",
+        "descricao": "subdominios_cientificos deve evitar excesso de granularidade irrelevante."
+      },
+      {
+        "id": "RQ04",
+        "descricao": "campos_do_real deve refletir domínios efetivamente implicados pela proposição, não listas genéricas."
+      }
+    ]
+  },
+  "proposicoes": [
+    {
+      "proposicao_id": "P01",
+      "texto": "",
+      "texto_curto": "",
+      "bloco_id": "",
+      "bloco_titulo": "",
+      "ordem_global": 1,
+      "ordem_no_bloco": 1,
+      "estado_proposicao": "ativa",
+      "dependencias": {
+        "dependencias_anteriores": [],
+        "dependencias_posteriores": [],
+        "dependencias_imediatas": [],
+        "dependencias_distais": []
+      },
+      "arquitetura_origem": {
+        "fragmento_ids": [],
+        "microlinha_ids": [],
+        "ramo_ids": [],
+        "percurso_ids": [],
+        "argumento_ids": [],
+        "convergencia_ids": [],
+        "relacao_ids": []
+      },
+      "suporte_estrutural": {
+        "tem_fragmentos_rastreaveis": false,
+        "tem_microlinhas_rastreaveis": false,
+        "tem_ramos_rastreaveis": false,
+        "tem_percursos_rastreaveis": false,
+        "tem_argumentos_rastreaveis": false,
+        "grau_rastreabilidade": "baixo"
+      },
+      "classificacao_filosofica_inicial": {
+        "dominio_principal": "integrativo",
+        "subdominios": [],
+        "tipo_formulacao": "proposicao_fundacional",
+        "funcao_no_mapa": "fundamento"
+      },
+      "validacao_integral": {
+        "tipo_de_proposicao": "ontologica_fundacional",
+        "regime_de_validacao": [],
+        "precisa_confronto_filosofico": false,
+        "precisa_ancoragem_cientifica": false,
+        "precisa_ponte_entre_niveis": false,
+        "precisa_cartografia_de_campo": false,
+        "precisa_reformulacao_conceitual": false,
+        "grau_risco_salto": "baixo",
+        "grau_prioridade": "media",
+        "grau_confianca_atribuicao": 0.0,
+        "justificacao_atribuicao": ""
+      },
+      "campos_do_real": {
+        "campos_principais": [],
+        "campos_secundarios": [],
+        "escala_ontologica": [],
+        "nivel_de_realidade_implicado": [],
+        "observacoes": ""
+      },
+      "pontes_entre_niveis": [],
+      "confronto_filosofico": {
+        "temas_de_confronto": [],
+        "autores_prioritarios": [],
+        "tradicoes_prioritarias": [],
+        "questoes_abertas": []
+      },
+      "ancoragem_cientifica": {
+        "dominios_cientificos": [],
+        "subdominios_cientificos": [],
+        "tipo_dependencia_cientifica": [],
+        "observacoes": ""
+      },
+      "estado_trabalho": {
+        "estado_atual": "por_classificar",
+        "necessita_revisao_humana": false,
+        "motivo_revisao_humana": "",
+        "notas_internas": ""
+      }
+    }
+  ]
+}

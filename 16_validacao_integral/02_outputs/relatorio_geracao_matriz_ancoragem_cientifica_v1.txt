@@ -1,0 +1,40 @@
+RELATÓRIO — GERAÇÃO DA MATRIZ DE ANCORAGEM CIENTÍFICA V1
+==============================================================================
+
+Data UTC: 2026-03-22T22:24:46+00:00
+Script: gerar_matriz_ancoragem_cientifica_v1.py
+
+FICHEIROS
+------------------------------------------------------------------------------
+Input JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\proposicoes_nucleares_enriquecidas_v1.json
+Output JSON: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\01_dados\matriz_ancoragem_cientifica_v1.json
+Relatório: C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\02_outputs\relatorio_geracao_matriz_ancoragem_cientifica_v1.txt
+
+ESTATÍSTICAS GERAIS
+------------------------------------------------------------------------------
+Total de proposições mapeadas: 36
+Total de domínios científicos: 9
+Itens com suporte empírico: 1
+Itens com determinação material: 1
+Itens com restrição científica: 0
+
+DISTRIBUIÇÕES
+------------------------------------------------------------------------------
+Por domínio científico: {"antropologia": 3, "biologia": 3, "ciencia_cognitiva": 1, "ciencias_da_complexidade": 3, "ecologia": 1, "neurociencia": 1, "psicologia": 3, "sociologia": 3, "teoria_de_sistemas": 3}
+Por tipo de dependência: {"compatibilidade_forte": 1, "compatibilidade_geral": 3, "determinacao_material_necessaria": 1, "suporte_empirico_relevante": 1}
+Por grau de solidez: {"alto": 1, "medio": 2}
+Por estado_item: {"por_preencher": 3}
+
+ENTRADAS MARCADAS PARA REVISÃO HUMANA
+------------------------------------------------------------------------------
+- AC01: O tema agrega proposições já marcadas para revisão humana: P44.
+- AC02: O tema exige determinação material necessária e revisão humana.
+- AC03: O tema agrega proposições já marcadas para revisão humana: P46, P47, P50, P51.
+
+VALIDAÇÃO
+------------------------------------------------------------------------------
+Sem erros de validação.
+
+OBSERVAÇÃO
+------------------------------------------------------------------------------
+A matriz de ancoragem científica não prova ainda as proposições. Ela recorta onde a ciência entra, com que tipo de função e com que grau de exigência material, empírica ou restritiva.

@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "schema_nome": "matriz_ancoragem_cientifica_v1",
+    "schema_versao": "1.0",
+    "data_geracao": "2026-03-22T22:24:46+00:00",
+    "gerado_por_script": "gerar_matriz_ancoragem_cientifica_v1.py",
+    "descricao": "Matriz de ancoragem científica das proposições nucleares da fase pós-árvore.",
+    "idioma": "pt-PT",
+    "projeto": "arvore_do_pensamento",
+    "estado_global": "enriquecido"
+  },
+  "fontes": {
+    "fonte_proposicoes_enriquecidas": {
+      "caminho": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\16_validacao_integral\\01_dados",
+      "ficheiro": "proposicoes_nucleares_enriquecidas_v1.json",
+      "hash_opcional": ""
+    },
+    "fontes_cientificas_iniciais": []
+  },
+  "estatisticas": {
+    "total_proposicoes_mapeadas": 36,
+    "total_dominios_cientificos": 9,
+    "total_itens_com_suporte_empirico": 1,
+    "total_itens_com_determinacao_material": 1,
+    "total_itens_com_restricao_cientifica": 0
+  },
+  "enums_documentados": {
+    "estado_global": [
+      "em_construcao",
+      "extraido",
+      "enriquecido",
+      "validado",
+      "integrado"
+    ],
+    "dominio_cientifico": [
+      "fisica",
+      "quimica",
+      "biologia",
+      "ecologia",
+      "neurociencia",
+      "ciencia_cognitiva",
+      "linguistica",
+      "antropologia",
+      "psicologia",
+      "sociologia",
+      "ciencias_da_complexidade",
+      "teoria_de_sistemas"
+    ],
+    "tipo_dependencia_cientifica": [
+      "nao_aplicavel",
+      "compatibilidade_geral",
+      "compatibilidade_forte",
+      "suporte_empirico_relevante",
+      "determinacao_material_necessaria",
+      "exemplificacao_regional",
+      "restricao_cientifica_importante"
+    ],
+    "grau_solidez": [
+      "baixo",
+      "medio",
+      "alto",
+      "muito_alto"
+    ],
+    "estado_item": [
+      "por_preencher",
+      "preenchido",
+      "revisto",
+      "validado",
+      "integrado"
+    ]
+  },
+  "regras_de_validacao": {
+    "regras_gerais": [
+      {
+        "id": "RG01",
+        "descricao": "Cada entrada deve referir pelo menos uma proposição."
+      },
+      {
+        "id": "RG02",
+        "descricao": "Cada entrada deve ter pelo menos um domínio científico quando a dependência não for nao_aplicavel."
+      },
+      {
+        "id": "RG03",
+        "descricao": "tipo_dependencia_cientifica tem de pertencer ao enum documentado."
+      }
+    ]
+  },
+  "entradas": [
+    {
+      "entrada_id": "AC01",
+      "proposicao_ids": [
+        "P04",
+        "P05",
+        "P07",
+        "P08",
+        "P12",
+        "P13",
+        "P15",
+        "P20",
+        "P21",
+        "P22",
+        "P32",
+        "P36",
+        "P38",
+        "P39",
+        "P40",
+        "P41",
+        "P42",
+        "P43",
+        "P44",
+        "P45",
+        "P48"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B2",
+        "B3",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "tema_cientifico": "organizacao_biologica_e_sistemica",
+      "descricao_do_tema": "Compatibilidade do sistema com descrição biológica, ecológica e sistémica de entidades e processos vivos.",
+      "dominios_cientificos": [
+        "biologia",
+        "psicologia",
+        "antropologia",
+        "sociologia",
+        "ciencias_da_complexidade",
+        "teoria_de_sistemas"
+      ],
+      "subdominios_cientificos": [
+        "vulnerabilidade",
+        "acao_situada",
+        "coexistencia",
+        "cooperacao",
+        "dinamica_de_sistemas",
+        "organizacao_multinivel",
+        "emergencia"
+      ],
+      "tipo_dependencia_cientifica": [
+        "compatibilidade_geral"
+      ],
+      "tipo_de_evidencia_necessaria": [
+        "compatibilidade geral com o melhor conhecimento científico disponível",
+        "descrição de organismos, vulnerabilidade, autorregulação e inserção ecológica",
+        "descrição de memória, cognição, representação, incorporação e linguagem",
+        "modelos de organização, dinâmica, emergência e níveis",
+        "descrição situada de formas sociais, ação coletiva e coexistência",
+        "função da ciência como restrição e não como substituição da derivação normativa"
+      ],
+      "estado_atual_da_ancoragem": "carece de verificação de compatibilidade geral",
+      "restricoes_ou_alertas": [
+        "Evitar reducionismo biologicista e evitar também abstração desencarnada.",
+        "Não confundir modelos dinâmicos com prova imediata de categorias ontológicas.",
+        "A ciência aqui opera sobretudo como restrição e compatibilidade, não como fundamento normativo suficiente."
+      ],
+      "perguntas_de_investigacao": [
+        "Que tipo de ciência é realmente necessária aqui: compatibilidade geral, suporte empírico ou determinação material?",
+        "Onde termina a utilidade científica e começa o trabalho propriamente filosófico de integração?"
+      ],
+      "exemplos_de_fenomenos_ou_processos": [
+        "organismos vivos",
+        "autorregulação",
+        "homeostase",
+        "vulnerabilidade corporal",
+        "inserção ecológica",
+        "dinâmica de sistemas",
+        "organização multinível",
+        "emergência",
+        "estabilidade e transição",
+        "cooperação",
+        "formas sociais",
+        "instituições",
+        "práticas coletivas"
+      ],
+      "grau_solidez": "medio",
+      "notas": "",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O tema agrega proposições já marcadas para revisão humana: P44."
+    },
+    {
+      "entrada_id": "AC02",
+      "proposicao_ids": [
+        "P25",
+        "P26",
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "tema_cientifico": "vida_corporeidade_e_emergencia_cognitiva",
+      "descricao_do_tema": "Articulação entre vida, corpo, organização viva e emergência de cognição, memória, representação ou reflexividade.",
+      "dominios_cientificos": [
+        "neurociencia",
+        "ciencia_cognitiva",
+        "psicologia",
+        "ciencias_da_complexidade",
+        "teoria_de_sistemas",
+        "biologia",
+        "antropologia",
+        "sociologia"
+      ],
+      "subdominios_cientificos": [
+        "memoria",
+        "cognicao_incorporada",
+        "representacao",
+        "linguagem",
+        "dinamica_de_sistemas",
+        "organizacao_multinivel",
+        "emergencia",
+        "vulnerabilidade",
+        "acao_situada",
+        "coexistencia",
+        "cooperacao"
+      ],
+      "tipo_dependencia_cientifica": [
+        "suporte_empirico_relevante",
+        "compatibilidade_geral",
+        "determinacao_material_necessaria"
+      ],
+      "tipo_de_evidencia_necessaria": [
+        "explicitação material forte do tipo de ente ou processo em causa",
+        "suporte empírico relevante sobre processos ou capacidades implicadas",
+        "compatibilidade geral com o melhor conhecimento científico disponível",
+        "descrição de organismos, vulnerabilidade, autorregulação e inserção ecológica",
+        "descrição de memória, cognição, representação, incorporação e linguagem",
+        "modelos de organização, dinâmica, emergência e níveis",
+        "descrição situada de formas sociais, ação coletiva e coexistência"
+      ],
+      "estado_atual_da_ancoragem": "carece de elaboração material robusta",
+      "restricoes_ou_alertas": [
+        "Evitar deixar a determinação material do ente ou processo em branco.",
+        "Evitar reducionismo biologicista e evitar também abstração desencarnada.",
+        "Evitar inferências excessivas da ciência empírica para teses ontológicas fortes.",
+        "Distinguir correlação empírica, condição material e identidade ontológica.",
+        "Não confundir modelos dinâmicos com prova imediata de categorias ontológicas.",
+        "Explicitar melhor a passagem entre corpo vivo e reflexividade, evitando dualismo implícito."
+      ],
+      "perguntas_de_investigacao": [
+        "Que condições biológicas mínimas suportam cognição, memória e reflexividade?",
+        "Como justificar a continuidade entre vida organizada e emergência de representação sem colapso reducionista?"
+      ],
+      "exemplos_de_fenomenos_ou_processos": [
+        "organismos vivos",
+        "autorregulação",
+        "homeostase",
+        "vulnerabilidade corporal",
+        "inserção ecológica",
+        "memória",
+        "cognição incorporada",
+        "atenção",
+        "representação",
+        "aprendizagem",
+        "dinâmica de sistemas",
+        "organização multinível",
+        "emergência",
+        "estabilidade e transição",
+        "cooperação",
+        "formas sociais",
+        "instituições",
+        "práticas coletivas"
+      ],
+      "grau_solidez": "medio",
+      "notas": "",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O tema exige determinação material necessária e revisão humana."
+    },
+    {
+      "entrada_id": "AC03",
+      "proposicao_ids": [
+        "P01",
+        "P02",
+        "P46",
+        "P47",
+        "P50",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B7"
+      ],
+      "tema_cientifico": "vida_corporeidade_e_organizacao",
+      "descricao_do_tema": "Determinação material do ser vivo, do corpo e da organização autorregulada enquanto base do ente situado.",
+      "dominios_cientificos": [
+        "biologia",
+        "ecologia",
+        "teoria_de_sistemas",
+        "psicologia",
+        "antropologia",
+        "sociologia",
+        "ciencias_da_complexidade"
+      ],
+      "subdominios_cientificos": [
+        "biologia_dos_organismos",
+        "autorregulacao",
+        "homeostase",
+        "corpo_situado",
+        "vulnerabilidade",
+        "acao_situada",
+        "coexistencia",
+        "cooperacao",
+        "dinamica_de_sistemas",
+        "organizacao_multinivel",
+        "emergencia"
+      ],
+      "tipo_dependencia_cientifica": [
+        "compatibilidade_forte",
+        "compatibilidade_geral"
+      ],
+      "tipo_de_evidencia_necessaria": [
+        "compatibilidade forte com resultados científicos consolidados",
+        "compatibilidade geral com o melhor conhecimento científico disponível",
+        "descrição de organismos, vulnerabilidade, autorregulação e inserção ecológica",
+        "descrição de memória, cognição, representação, incorporação e linguagem",
+        "modelos de organização, dinâmica, emergência e níveis",
+        "descrição situada de formas sociais, ação coletiva e coexistência",
+        "função da ciência como restrição e não como substituição da derivação normativa"
+      ],
+      "estado_atual_da_ancoragem": "carece de compatibilização científica forte",
+      "restricoes_ou_alertas": [
+        "Evitar reducionismo biologicista e evitar também abstração desencarnada.",
+        "Não confundir modelos dinâmicos com prova imediata de categorias ontológicas.",
+        "A ciência aqui opera sobretudo como restrição e compatibilidade, não como fundamento normativo suficiente."
+      ],
+      "perguntas_de_investigacao": [
+        "Que traços biológicos são indispensáveis para pensar o ente situado como organismo vivo?",
+        "Como descrever autorregulação, vulnerabilidade e corporeidade de forma filosoficamente integrada?"
+      ],
+      "exemplos_de_fenomenos_ou_processos": [
+        "organismos vivos",
+        "autorregulação",
+        "homeostase",
+        "vulnerabilidade corporal",
+        "inserção ecológica",
+        "dinâmica de sistemas",
+        "organização multinível",
+        "emergência",
+        "estabilidade e transição",
+        "cooperação",
+        "formas sociais",
+        "instituições",
+        "práticas coletivas"
+      ],
+      "grau_solidez": "alto",
+      "notas": "",
+      "estado_item": "por_preencher",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O tema agrega proposições já marcadas para revisão humana: P46, P47, P50, P51."
+    }
+  ]
+}

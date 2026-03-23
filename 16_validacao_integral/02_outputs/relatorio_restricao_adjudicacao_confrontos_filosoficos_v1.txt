@@ -1,0 +1,120 @@
+RELATÓRIO — RESTRIÇÃO DA ADJUDICAÇÃO DOS CONFRONTOS FILOSÓFICOS
+==============================================================================
+
+Data de geração: 2026-03-23T00:13:31+00:00
+Schema: adjudicacao_confrontos_filosoficos_restrita v1
+Estado global: restringido
+
+ESTATÍSTICAS
+------------------------------------------------------------------------------
+- total_confrontos_restritos: 18
+- ids_confrontos_restritos: ['CF01', 'CF02', 'CF03', 'CF04', 'CF05', 'CF06', 'CF07', 'CF08', 'CF09', 'CF10', 'CF11', 'CF12', 'CF13', 'CF14', 'CF15', 'CF16', 'CF17', 'CF18']
+- total_revistos_herdados: 9
+- total_preenchidos_herdados: 9
+- total_com_revisao_humana_herdados: 9
+- media_confianca_heuristica_herdada: 0.599
+- autores_antes: 139
+- autores_depois: 77
+- tradicoes_antes: 156
+- tradicoes_depois: 65
+- conceitos_antes: 66
+- conceitos_depois: 66
+- temas_antes: 285
+- temas_depois: 128
+- teses_classicas_antes: 35
+- teses_classicas_depois: 35
+- adversarios_antes: 39
+- adversarios_depois: 39
+- objecoes_fortes_antes: 91
+- objecoes_fortes_depois: 69
+- insuficiencias_antes: 38
+- insuficiencias_depois: 38
+- linhas_tratamento_antes: 73
+- linhas_tratamento_depois: 50
+- tipos_resposta_antes: 43
+- tipos_resposta_depois: 43
+- tipos_tensao_antes: 21
+- tipos_tensao_depois: 21
+- vereditos_antes: 20
+- vereditos_depois: 20
+- campos_antes: 29
+- campos_depois: 29
+- pontes_antes: 59
+- pontes_depois: 46
+- ancoragens_antes: 23
+- ancoragens_depois: 21
+- teses_sustentacao_antes: 83
+- teses_sustentacao_depois: 69
+- distincoes_minimas_antes: 57
+- distincoes_minimas_depois: 57
+- objecoes_priorizadas_antes: 88
+- objecoes_priorizadas_depois: 52
+- checklist_antes: 109
+- checklist_depois: 72
+- sequencia_redacao_antes: 109
+- sequencia_redacao_depois: 54
+
+LIMITES APLICADOS
+------------------------------------------------------------------------------
+- autores_prioritarios: máximo 5
+- tradicoes_prioritarias: máximo 4
+- conceitos_classicos_associados: máximo 6
+- temas_agregados: máximo 8
+- teses_classicas_em_tensao: máximo 4
+- tipos_de_adversario_filosofico: máximo 3
+- objecoes_fortes_a_responder: máximo 4
+- insuficiencias_tipicas_identificadas: máximo 3
+- linhas_de_tratamento: máximo 3
+- tipo_de_resposta_exigida: máximo 3
+- tipo_de_tensao_com_o_sistema: máximo 2
+- veredito_provisorio: máximo 2
+- campo_ids_relacionados: máximo 3
+- ponte_ids_relacionadas: máximo 3
+- ancoragem_ids_relacionadas: máximo 2
+- teses_de_sustentacao: máximo 4
+- distincoes_conceituais_minimas: máximo 4
+- objecoes_priorizadas: máximo 3
+- checklist_de_fecho: máximo 4
+
+RESUMO POR CONFRONTO
+------------------------------------------------------------------------------
+* CF01 — Ser, real e unidade diferenciada
+  teses=4; distinções=3; objeções=3; campos=1; pontes=1; ancoragens=1
+* CF02 — Manifestação, aparecer e presença
+  teses=4; distinções=3; objeções=3; campos=1; pontes=2; ancoragens=1
+* CF03 — Vida, organismo e corporeidade
+  teses=4; distinções=3; objeções=3; campos=1; pontes=3; ancoragens=2
+* CF04 — Consciência, reflexividade e sujeito
+  teses=4; distinções=3; objeções=3; campos=1; pontes=3; ancoragens=1
+* CF05 — Tempo, memória e identidade
+  teses=4; distinções=3; objeções=3; campos=1; pontes=3; ancoragens=1
+* CF06 — Linguagem, símbolo e sentido
+  teses=4; distinções=3; objeções=3; campos=2; pontes=2; ancoragens=1
+* CF07 — Verdade, erro, critério e correção
+  teses=4; distinções=4; objeções=3; campos=2; pontes=3; ancoragens=2
+* CF08 — Causalidade, emergência e passagem de níveis
+  teses=4; distinções=3; objeções=3; campos=3; pontes=3; ancoragens=2
+* CF09 — Ação e liberdade situada
+  teses=4; distinções=3; objeções=3; campos=1; pontes=2; ancoragens=1
+* CF10 — Dano, bem, mal e normatividade
+  teses=4; distinções=3; objeções=3; campos=2; pontes=3; ancoragens=2
+* CF11 — Responsabilidade, dignidade e vida boa
+  teses=4; distinções=4; objeções=3; campos=2; pontes=3; ancoragens=1
+* CF12 — Intersubjetividade, formas sociais e instituições
+  teses=4; distinções=3; objeções=3; campos=2; pontes=3; ancoragens=1
+* CF13 — Historicidade, cultura e sedimentação
+  teses=4; distinções=3; objeções=3; campos=1; pontes=3; ancoragens=1
+* CF14 — Critério último e fecho do sistema
+  teses=3; distinções=4; objeções=3; campos=1; pontes=0; ancoragens=0
+* CF15 — Inteligibilidade do sistema
+  teses=3; distinções=3; objeções=3; campos=1; pontes=3; ancoragens=0
+* CF16 — Passagem entre regimes de validação
+  teses=4; distinções=4; objeções=3; campos=3; pontes=3; ancoragens=2
+* CF17 — Arquitetura do percurso filosófico
+  teses=3; distinções=3; objeções=3; campos=1; pontes=3; ancoragens=0
+* CF18 — Mapa auxiliar de reconhecimento filosófico
+  teses=4; distinções=2; objeções=1; campos=3; pontes=3; ancoragens=2
+
+VALIDAÇÃO
+------------------------------------------------------------------------------
+Concluído sem erros de validação.
