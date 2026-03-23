@@ -1,0 +1,1804 @@
+# CF01 — Base fragmentária reaberta
+
+## 1. Função deste ficheiro
+Este ficheiro reabre a base fragmentária real do confronto, devolvendo ao dossier os fragmentos, microlinhas, ramos, percursos e argumentos herdados pelas proposições envolvidas.
+
+## 2. Snapshot do dossier de confronto
+### Pergunta central
+O que é o ser e como pode o real ser uno sem anular diferença, relação e multiplicidade?
+
+### Tese canónica provisória
+Quanto a ser, real e unidade diferenciada, a tese canónica provisória é a seguinte: O sistema precisa de um real independente, relacional e diferenciado, capaz de sustentar limite, emergência, reflexividade e regionalização sem colapso monista nem dispersão pluralista.
+
+### Articulação estrutural
+proposições nucleares: P03, P06, P09, P10, P11, P12; pontes entre níveis: PN01; ancoragens científicas: AC01; campos do real: CR03
+
+## 3. Estatísticas de reabertura
+- **n_proposicoes_dossier**: 6
+- **n_proposicoes_localizadas**: 6
+- **n_fragmentos**: 97
+- **n_microlinhas**: 35
+- **n_ramos**: 20
+- **n_percursos**: 17
+- **n_argumentos**: 30
+- **n_registos_impacto_fragmentos**: 0
+- **n_fragmentos_com_tratamento_filosofico**: 97
+
+## 4. Cobertura por proposição
+- **P03** — fragmentos: 0, registos de impacto: 0
+- **P06** — fragmentos: 6, registos de impacto: 0
+- **P09** — fragmentos: 13, registos de impacto: 0
+- **P10** — fragmentos: 5, registos de impacto: 0
+- **P11** — fragmentos: 55, registos de impacto: 0
+- **P12** — fragmentos: 39, registos de impacto: 0
+
+### Proposições sem fragmentos
+- P03
+
+## 5. Proposições do confronto e herança arquitetural
+### P03
+A inteligibilidade mínima do algo exige diferença, sob pena de colapso da determinabilidade.
+- fragmentos: 0 | microlinhas: 0 | ramos: 0 | percursos: 17 | argumentos: 2
+
+### P06
+Estrutura implica condições de admissibilidade e inadmissibilidade, isto é, limite ontológico.
+- fragmentos: 6 | microlinhas: 2 | ramos: 1 | percursos: 16 | argumentos: 2
+
+### P09
+O não-ser não é substância, mas função diferencial derivada do limite e da exclusão.
+- fragmentos: 13 | microlinhas: 5 | ramos: 5 | percursos: 17 | argumentos: 12
+
+### P10
+O limite institui estados não-admissíveis no real; nem tudo pode ser.
+- fragmentos: 5 | microlinhas: 4 | ramos: 4 | percursos: 17 | argumentos: 10
+
+### P11
+O ser deve ser compreendido como modo determinado de inscrição no real e não como unidade isolada autossubsistente.
+- fragmentos: 55 | microlinhas: 19 | ramos: 9 | percursos: 17 | argumentos: 17
+
+### P12
+A diferenciação real não dissolve o real em unidades absolutamente separadas, mas articula-o como continuidade estruturada.
+- fragmentos: 39 | microlinhas: 15 | ramos: 11 | percursos: 16 | argumentos: 17
+
+
+## 6. Fragmentos herdados
+### F0018_A01_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+[Proposta GPT]
+III. O elo perdido: a consciência
+
+Aqui está o ponto mais exigente:
+se o ser inclui o dever-ser, então o ser é consciente de si mesmo — pelo menos em alguns dos seus modos (nós).
+
+A consciência, nesse sentido, não é um acidente biológico; é o órgão reflexivo do ser.
+É através dela que o ser se reconhece, se descreve e se aperfeiçoa.
+
+A consciência é o ser a compreender-se e a corrigir-se.
+
+Por isso, a tua filosofia tende naturalmente a uma ontologia panconsistente ou panpsiquista disciplinada, onde o mundo é uma totalidade inteligente, não no sentido místico, mas estrutural:
+tudo o que existe tende para a auto-organização e para a coerência — e a consciência humana é a expressão mais elevada dessa tendência.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Propõe a consciência como mediação entre ser e dever-ser.",
+  "problema_filosofico_central": "passagem_da_ontologia_para_a_etica",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0018_A01_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+V. A implicação cosmológica: o universo como sistema de autocompreensão
+
+Esta estrutura exige uma cosmologia coerente:
+o universo, nesta visão, é um sistema de autocomplexificação e autocompreensão.
+A evolução da matéria para a vida, e da vida para a consciência, não é acidental:
+é o modo como o ser vai explicitando o que ele é, até atingir consciência de si.
+
+A história do cosmos é o ser a tornar-se transparente a si próprio.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Formula a consciência como explicitação cósmica do ser.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0018_A02_SEG_001
+- origem: fragmentos.md | tipo_unidade: afirmacao_curta
+
+Isto é ontologicamente total: não há fora.
+Tudo o que é, é uma expressão do mesmo movimento.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Afirma a totalidade imanente do real e a ausência de exterior.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "fixa_limite_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0018_A02_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+[Resposta do autor]
+3 e 5 não percebi, isso não é meu. O universo não tem consciência porque isso seria aplicar materialismo ao não material, tem sim uma componente não material, manifestada em diferentes modos de sofisticação, limitada, como tudo o resto, pela realidade. Ontologicamente isto é… ontologia é apenas o ser que existe, o que é real. Porque o ser é o que é real. Há muitas palavras, muitas coisas, mas… a realidade. E isso é tudo. Porque a realidade compreende tudo. Porque os episódios poderiam ser sobre a aplicação de comportamento conduzido à verdade. Porque, no fundo, é isso que é a vida bem vivida. A vida bem vivida é uma pergunta muito humana. Só nós conseguimos responder. E, por isso, a história seria do Homem. E o Homem, e o papel do Pai — como diria, não sei qual era o teósofo que me ensinou o nome do Pai… não sei, acho que não era o Jung, era outro qualquer — como simbologia das mais importantes. O Nome do Pai. Porque a Mãe carrega o peso e a necessidade pessoal durante os primeiros anos da vida. Mas depois cabe ao Pai… cabe ao Pai guiar na melhor filosofia possível. E já não é uma questão de critério. É uma questão de necessidade física (não só física — aqui “física” é para stressar). A formulação “que tipo de pensamento tem aquela pessoa?” não é meramente psicológica — é uma pergunta sobre como essa consciência existe dentro da estrutura do real. Ou seja, pensar é uma forma de ser.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reinscreve o pensar e a consciência na estrutura do real.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0024_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+[Entrada ChatGPT]
+(A) Metafísica da Consciência e dos Qualia  
+(B) Teoria do Conhecimento e do Erro  
+(C) Lógica da Evolução do Ser (Tempo e História)
+
+[Resposta do Autor]
+(A) Não preciso de explicar o sentir, porque sei e é verdade que ele é verdadeiro e universal.  
+(B) Não há erro ontologicamente: ontologicamente só há o real. O erro é um simples modo de ser — errado porque não verdadeiro. Gradual perante a realidade, como o conhecimento também é.  
+(C) A realidade não muda; e, mesmo que o espaço aumente pela energia escura e as regras da termodinâmica mudem, essa mudança faz parte do real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Nega estatuto ontológico ao erro e reinscreve a mudança no real.",
+  "problema_filosofico_central": "origem_do_erro",
+  "trabalho_no_sistema": "desfaz_confusao_categorial",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0025_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+A crença falsa do formalista da verdade consiste em não buscar a verdade, mas outras coisas, e por isso não propaga qualquer verdade. O intelectualista, o comentarista, qualquer pessoa com alcance comunicacional suficiente para implantar ideias de forma expressiva, incorre neste risco. O revés é que essa pessoa acaba por encarnar a crença que justifica formalmente — muitas vezes através de uma verborreia conceptual (frequentemente kantiana) que tenta enquadrar teorias com premissas erradas, exigindo autojustificações cada vez mais complexas. Assim, a pessoa passa a ser essa crença. O significado da vida encontra-se no tipo de vida que se tem, isto é, no modo de ser. Se o homem faz parte do que é, e é a única entidade conhecida que sabe que é dentro do que é, então o seu modo de ser tem de conformar-se ao real, sem permissões para justificações alternativas. Tudo o que existe são evidências; dualismos sem correspondência no objeto descrito carecem de sentido.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Critica o formalismo e reconduz o modo de ser ao real.",
+  "problema_filosofico_central": "validade_interna_vs_adequacao",
+  "trabalho_no_sistema": "submete_representacao_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0026_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Kant tem razão ao extrair algumas verdades básicas do próprio sistema, errando no resto; Wittgenstein erra na extensão do jogo de palavras, pois não alcança o real. A questão do melhor modo de ser remete para a realidade: aquilo que existe e inclui as pessoas. A história fundamental é o progresso do desvelar da sofisticação do pensamento humano ao conhecer a realidade — o percurso das grandes ideias como aproximações sucessivas ao real. Tornar isso inteligível é necessário para que se torne crença; mas a inteligibilização é parca, porque depende da apreensão limitada que o inovador trouxe à luz ao simbolizar o real ainda não mapeado. É nesse intervalo — na apreensão da apreensão — que reside a importância da forma verdadeira e do risco da forma realmente falsa.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Recentramento da verdade na relação ao real sob limite de apreensão.",
+  "problema_filosofico_central": "adequacao_entre_representacao_e_real",
+  "trabalho_no_sistema": "submete_representacao_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0027_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+As posições que se manifestam no contemporâneo — as divisões políticas, chamemos-lhes assim — são o revelar dos modos de ser das pessoas. No exemplo do aborto: recordo o caso de um bebé deixado num quartel de bombeiros. O discurso favorável ao aborto, nos seus modos de ser formais, não busca a verdade do sistema. Invoca a dignidade da pessoa para justificar posições antirreais, revestidas de um aparente verdadeirismo e cientificismo. Diz-se, por exemplo, que com mais acesso ao aborto talvez essa criança não tivesse sido deixada — quando, na verdade, nem haveria criança. Isto não é um problema do “porquê do ser”, próprio de uma metafísica moderna feita de proposições de dever-ser sem ligação ao poder-ser. É um problema de ser e de melhores ou piores modos de ser.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reconduz juízo político ao ser e critica normatividade desligada do real.",
+  "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+  "trabalho_no_sistema": "subordina_normatividade_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0028_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Na grande história da humanidade, se o pai não for Pai, o filho será órfão duas vezes. Aprender o mundo sozinho é mais difícil do que viver apenas das emoções que se apresentam continuamente no cérebro; assim, vive-se apenas do que os antepassados construíram, sem conhecer o porquê dessas construções. Dá-se a perda do mundo: poucos compreendem, e a voz coletiva pertence a quem vê as cores do mapa e não o caminho. Se os pais não encarnarem os modos de ser dos pais, quanto menos pais houver, mais órfãos haverá. Conceitos como os “memes” de Dawkins e os arquétipos de Jung são descrições estáveis da realidade — verdadeiras porque são a melhor descrição possível do que é. Se o ser humano fosse um alienígena, talvez não; partilharíamos apenas leis gerais da realidade. Mas, sendo a nossa consciência a única que conhecemos, essa descrição é verdadeira por não haver outra mais acertada.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Liga transmissão simbólica falhada a perda do mundo e ensaia um critério pragmático de verdade descritiva.",
+  "problema_filosofico_central": "mediacao_simbolica",
+  "trabalho_no_sistema": "clarifica_mediacao",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0058_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+No campo das possibilidades do ser, uma espécie capaz de construir casas necessita da representação de casas, o que implica a agregação. Quanto mais complexa se torna a representação da casa, mais se estende o conhecimento do real, ou uma coisa acompanha a outra.
+
+Saber que é necessário um telhado não é não querer ver as estrelas, mas reconhecer que o real em que se habita inclui a chuva. O espanto reside em como se tenta retirar o homem do ser, ou a consciência do ser, e em como se procura retirar o valor do homem — que é apenas o homem a existir — de um meio criado pelo próprio homem.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reinscreve consciência e representação no ser.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0058_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+O ser permitiu as criações do homem; o homem não criaria se o ser não o permitisse. O homem é diferente, tal como uma pedra é diferente de uma árvore. Toda a teoria da física moderna descreve estas regras, incluindo a conservação de energia.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reconduz a criação humana às condições do ser.",
+  "problema_filosofico_central": "potencialidade_e_atualizacao",
+  "trabalho_no_sistema": "identifica_dependencia_estrutural",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0058_SEG_003
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Dentro de um círculo de existência que existe no ser, não pode haver disfuncionalidade contra o ser. Também na física quântica, mesmo quando não há uma posição determinada, há ainda posição; há emergência, mas não surgimento do nada. O colapso não é arbitrário: é necessidade do ser. Para haver colapso, o ser tem de se conhecer a si mesmo, o que implica atualidade.
+
+O ponto ontológico é que, se há relação, essa relação não pode existir apenas como potencialidade. Pode sê-lo em quase todos os casos, mas enquanto relação — como ser a tocar o ser — tem de ser atual.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Sustenta a atualidade necessária da relação.",
+  "problema_filosofico_central": "potencialidade_e_atualizacao",
+  "trabalho_no_sistema": "descreve_dinamica_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0059_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Do ponto de vista humano e animal, a relação com o real começou pela deteção. Do ponto de vista celular, na sopa primórdica, essa relação manifestava-se em processos de ingestão, separação e colisão. Esse processo foi-se refinando até à emergência de órgãos sensoriais — olhos, ouvidos, membranas sensíveis — para apreender o exterior ao organismo, mas também o interior, permitindo reconhecer estados como fome, saciedade ou excreção.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Descreve a deteção como forma primária de relação com o real.",
+  "problema_filosofico_central": "ser_humano_como_ente_reflexivo",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0059_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Essa relação não é estranha nem excecional; decorre da própria existência do ser. Contudo, as regras que explicam o ser humano enquanto animal deixam de ser suficientes quando o animal deixa de viver diretamente no ambiente e passa a viver naquilo que representa que o ambiente é. O plano ontológico altera-se: passam a existir círculos distintos.
+
+É a maximização da mediação — o aperfeiçoamento da descrição — que torna possíveis as inovações humanas. Não poderia ser de outra forma. Mesmo os estados de coisas mais maléficos e dolorosos, frequentemente atribuídos ao homem enquanto fonte do mal, pertencem ao real. Essa crítica esquece que é também o homem quem pode transformar esses estados em melhores estados de coisas, porque só o homem consegue abarcar e integrar todos os nichos do real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Explica a passagem à vida mediada e os seus efeitos ontológicos.",
+  "problema_filosofico_central": "mediacao_simbolica",
+  "trabalho_no_sistema": "clarifica_mediacao",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0060_A01_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+1. O dever moral é o dever-ser que é real porque limitado pelo pode-ser. O chamado gap existe apenas pelo esquecimento de que o livre-arbítrio do homem não é critério absoluto do bem, pois só existe onde o real o permite. Não há gap: há melhor ou pior descrição do real. O que deve ser é sempre o que é, ainda que não esteja atuado.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Subordina o dever-ser ao pode-ser real.",
+  "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+  "trabalho_no_sistema": "subordina_normatividade_ao_real",
+  "confianca_tratamento_filosofico": "alta"
+}
+```
+
+### F0060_A01_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+2. Claro que para cada modo de existir há diferentes modos de ser. Alguns valores são adequados a círculos menores, mas valores relativos a círculos maiores nada têm que ver com as relações internas dos círculos menores. Isso suporta a teoria, não a refuta.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Distingue valores por escala de círculo.",
+  "problema_filosofico_central": "erro_de_escala",
+  "trabalho_no_sistema": "distingue_escala_de_analise",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0060_A01_SEG_003
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+3. Não há redução a função biológica. Trata-se da função ontológica do ser: o ser é função de si mesmo, senão não seria. A biologia aplica-se aos organismos; a ontologia não se reduz a isso.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Distingue ontologia de biologia para impedir redução categorial do ser.",
+  "problema_filosofico_central": "erro_categorial",
+  "trabalho_no_sistema": "desfaz_confusao_categorial",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0060_A01_SEG_004
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+4. Se algo é verdadeiro, como não será então bom? A distinção apresentada não faz sentido ontológico.
+
+5. O mal é simplesmente o ser que podia ser melhor descrito e melhor aplicado no dever-ser e não o faz. O erro é pensar que do céu cai ouro. O mal é esquecer que cada homem é o ser a olhar para si mesmo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Subordina o bem e o mal à relação entre verdade, ser e dever-ser.",
+  "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+  "trabalho_no_sistema": "subordina_normatividade_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0060_A01_SEG_005
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+6. A criatividade não viola o real. Parte de um órgão que cria representações imagéticas complexas e que só existe porque o real existe. Toda a ontologia é estruturalmente determinista. A vida animal do homem é o chão a partir do qual o homem pode escolher o próximo passo e quebrar cadeias causais.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reinscreve criatividade e escolha humana no real sem as tornar exterioridade ontológica.",
+  "problema_filosofico_central": "ser_humano_como_ente_reflexivo",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0060_A01_SEG_006
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+7. A confusão existe apenas porque o homem moderno pensa fora do real.
+
+8. O conhecimento empírico mostra que o ser reflexivo que vive sabendo o que é é o melhor em todos os critérios de avaliação — biológico, antropológico, sociológico — em qualquer sistema ético, do deontológico ao utilitarista ou emotivista.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Diagnostica erro por não submissão ao real e associa autoconhecimento a melhor avaliação.",
+  "problema_filosofico_central": "verdade_e_valor",
+  "trabalho_no_sistema": "submete_representacao_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0060_A02_SEG_001
+- origem: fragmentos.md | tipo_unidade: afirmacao_curta
+
+9. É tautológico por necessidade do ser, visto que o agir existe dentro do real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reinscreve o agir na necessidade do ser.",
+  "problema_filosofico_central": "fundamento_do_dever_ser",
+  "trabalho_no_sistema": "inscreve_elemento_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0077_SEG_003
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+O ser é a variação contínua do ser. Mas essa variação obriga a que o ser esteja colocado em algum lado. Onde fica, então, a condição necessária para a possibilidade do ser?
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Abre a questão da localização da condição do ser.",
+  "problema_filosofico_central": "condicoes_de_possibilidade_do_ser",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0078_A02_SEG_001
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+Mas tudo isto são auto-evidências. Porque, no fundo, como poderia o universo ser de outro modo?
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Fecho local por apelo à necessidade do universo.",
+  "problema_filosofico_central": "condicoes_de_possibilidade_do_ser",
+  "trabalho_no_sistema": "fecha_bloco_anterior",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0082_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Ainda que o real seja o campo, com tudo o que ele permite — atualizações, relações, deteção, representação e ponto de vista único local que representa a representação, até à consciência —, com tudo isso que é campo, o nada seria o quê? Haver algo sem o campo? Sem as potencialidades do ser?
+
+Aquilo que existe, ao existir, faz logo algo ser. Para ser nada, não poderia haver nada sequer que permitisse haver, o que já seria algo. O nada nunca pode ser.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Exclui ontologicamente o nada.",
+  "problema_filosofico_central": "limite_ontologico",
+  "trabalho_no_sistema": "exclui_impossibilidade_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0082_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+O estado estável daquilo que se mantém em si mesmo é o que cria aquilo que se mantém a si mesmo daqui a um segundo. É da própria lógica do ser, que é, que se tem de retirar o nada, que é nada. Porque se houvesse nada, não poderia haver ser.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Exclui o nada e liga estabilidade à auto-manutenção do ser.",
+  "problema_filosofico_central": "limite_ontologico",
+  "trabalho_no_sistema": "exclui_impossibilidade_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0088_A01_SEG_003
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+O tautológico não vem da circularidade com o real, mas do fundamento que se pretende atribuir a algo contrário: um deus-ente qualquer, sempre menor e autorreferencial. Se não fosse assim, por que razão se teria aprimorado a relação do homem com o real pela agregação contínua do desconhecido em várias entidades, tantas quantas as luzes abertas no campo das potencialidades, e não numa entidade única, no eu?
+
+Não há coisa real senão atualizações. Há talvez uma certa entificação quando se fala de universos em cada coisa, ou de novos universos a cada atualização quântica, ou na essencialização das leis descobertas. O enquadramento aqui é estritamente descritivo: no real há o real a manifestar-se, sem espaço para outros reais que teriam de se manifestar pelos seus próprios reais, o que seria absurdo.
+
+A atualização acontece com a relação. A indeterminação existe enquanto não há relação que a determine.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Descreve o real como atualização relacional e critica entificações.",
+  "problema_filosofico_central": "potencialidade_e_atualizacao",
+  "trabalho_no_sistema": "descreve_dinamica_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0102_A01_SEG_001
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+O ritmo, de certo modo. A atitude perante a clarificação de conceitos. O dizer de “vamos definir coisas”. Mesmo em qualquer discurso. Mesmo em discursos ontológicos — porque não existem absolutamente discursos ontológicos.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Limita a pretensão de um discurso ontológico absoluto.",
+  "problema_filosofico_central": "condicoes_de_inteligibilidade_do_sistema",
+  "trabalho_no_sistema": "limita_ponto_de_vista",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0102_A01_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+A articulação das condicionantes primárias dos tipos de pensamento são restrições à própria realidade. Não à coisa em si, mas àquilo que se está a descrever, ao objeto da descrição.
+
+A concordância que se espera pela proliferação dessas condicionantes básicas torna-se complexa porque essas condicionantes são irreais, obrigando a uma sistematização internamente lógica.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Diagnostica imposição de condicionantes irreais ao objeto descrito.",
+  "problema_filosofico_central": "validade_interna_vs_adequacao",
+  "trabalho_no_sistema": "identifica_substituicao_do_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0102_A01_SEG_003
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+O objeto de qualquer discussão está sempre integrado no real. O campo onde opera a batalha do discurso é no ser, naquilo que existe dentro do real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Inscreve o objeto do discurso no real e delimita o campo da discussão.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "inscreve_elemento_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0102_A01_SEG_004
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+Antes de qualquer coisa, importa saber o que o outro acha daquilo que diz. Qual é a realidade? Qual é o grau descritivo real? Quantas palavras são verdadeiras? Quantas pertencem ao círculo interno? Não há acesso direto à cabeça do outro, nem ao que pensa. O processo de revelar o pensamento por trás das proposições é cansativo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Abre o problema do acesso indireto ao pensamento alheio e da triagem entre descrição e circuito interno.",
+  "problema_filosofico_central": "adequacao_entre_representacao_e_real",
+  "trabalho_no_sistema": "mostra_condicao_da_verdade",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0102_A01_SEG_005
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+A forma como o discurso se manifesta é sempre preservadora da própria forma do discurso que existe e que é vivido na continuidade do ser. O discurso, antes de tudo, permanece esse discurso, não se opõe à sua própria forma.
+
+A continuidade ontológica do ser é o que permite que as relações operadas no discurso tenham capacidade de agir no real. Sem isso, não haveria relação.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Liga a eficácia do discurso à continuidade ontológica do ser.",
+  "problema_filosofico_central": "mediacao_simbolica",
+  "trabalho_no_sistema": "clarifica_mediacao",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0107_SEG_002
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+A relação é mal representada. É imaginada como duas coisas opostas, distintas: duas bolinhas, uma de um lado da folha, outra do outro, com coisas a acontecer entre elas. Mas a relação não é isso.
+
+A relação é as duas bolas dentro de uma bola maior que constitui a relação. Dentro de uma bola maior que constitui o real. Ainda que distintas, estão ligadas pelo próprio campo que permite que estejam no mesmo plano onde a relação sequer é possível.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Corrige a imagem exteriorista da relação por uma conceção de campo comum.",
+  "problema_filosofico_central": "relacao_e_dependencia",
+  "trabalho_no_sistema": "reconduz_relacionalmente",
+  "confianca_tratamento_filosofico": "alta"
+}
+```
+
+### F0108_A02_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Daí a bifurcação dos modos de ser dos seres conscientes reflexivos: o que se volta para o eu e o que se volta para o real. As descrições divergem e, com elas, as valorações.
+
+O eu está sempre falso para questões que não pertencem ao seu círculo local. Pode estar certo localmente, mas isso não garante verdade sobre o real. Em relações locais, basta adequação. Em relações que me vinculam independentemente da minha vontade, quanto mais longe do eu, mais próxima está a melhor descrição do real. A verdade.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Distingue adequação local e verdade sobre o real.",
+  "problema_filosofico_central": "criterio_de_verdade",
+  "trabalho_no_sistema": "fixa_criterio_de_verdade",
+  "confianca_tratamento_filosofico": "alta"
+}
+```
+
+### F0109_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Não há… Queixam-se de que a verdade tem de ser única no sentido da limitação do pensamento humano. Não no sentido do real.
+
+A proliferação contemporânea do relativismo é apenas a exigência de que, em todas as posições, haja um amparo no real. Todos os círculos de posições, de modos de pensar — sobretudo os mais perceptivos, tidos como articulados — estão ancorados no real, ainda que descritos de forma errada e prescritivamente errados.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reconduz pluralidade de posições ao real e separa ancoragem real de correção descritiva.",
+  "problema_filosofico_central": "adequacao_entre_representacao_e_real",
+  "trabalho_no_sistema": "submete_representacao_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0109_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+Não havendo a relação de onde emerge outra manifestação, confunde-se a manifestação com a relação manifestada. O copo em cima da mesa, e não a mesa e o copo. O vidro na sua estrutura que não se quebra com o toque dos lábios. A coisa como é.
+
+O real é aquilo que abraça toda a forma coerente. Ao real não se pede que seja algo. Pede-se apenas que seja. Porque sendo, é infinito. E é necessário que seja.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reconduz a manifestação à relação e afirma o real como ser.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "reconduz_relacionalmente",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0110_A01_SEG_001
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+Vou tentar fazer um súmula muito rude: a linguagem do real e de tudo o que pode relacionar. Do ser. Não ser se ser é. Ser por ser potencial, senão não ser sequer.
+
+Ser sabendo que se é naquilo que pode ser. Ser sabendo com ser sabendo. Onde? Naquilo que é. Ser por não deixar de ser o que se tem vindo a ser. E ser sabendo no campo do podendo ser, sendo como sabendo que pode ser o que não tem vindo a ser.
+
+Como quebra da função. Como apreensão do contínuo do real formando-se uma atualização. Isto é ontologia crua.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Esboça uma intuição ontológica sobre ser, poder-ser e atualização.",
+  "problema_filosofico_central": "potencialidade_e_atualizacao",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0110_A01_SEG_002
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+O que daqui deriva é a contingência das relações de um ser a viver num planeta, de humanos e civilizações, se quisermos. Não penso em ficção científica, por isso não escrevo sobre ser marciano noutro planeta.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Delimita o âmbito humano-planetário da análise.",
+  "problema_filosofico_central": "escala_das_respostas_coletivas",
+  "trabalho_no_sistema": "identifica_campo_de_validade",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0110_A02_SEG_001
+- origem: fragmentos.md | tipo_unidade: afirmacao_curta
+
+O real nem precisa de explicação. É tudo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Afirma a autossuficiência total do real.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "fixa_condicao_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0111_A01_SEG_001
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+Não havendo a relação de onde emerge outra manifestação, não sendo a manifestação a relação manifestada — o copo em cima da mesa e não a mesa e o copo. O vidro na sua estrutura que não se quebra com o toque dos lábios. A coisa como é. O real que abraça toda a forma coerente.
+
+Ao real não se pede que seja algo. Pede-se apenas que seja. Porque sendo, é infinito, e é necessário que seja.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Distingue relação e manifestação para afirmar o ser necessário do real.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "descreve_estrutura_do_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0114_A01_SEG_005
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+E assim se diz, ao mesmo tempo, que Deus não existe e que Deus é necessário. Deus não existe fora do círculo do real, porque tudo o que existisse fora do real seria Deus. Mas o nada não pode existir, por incoerência com o real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Nega exterioridade ao real e exclui o nada.",
+  "problema_filosofico_central": "limite_ontologico",
+  "trabalho_no_sistema": "fixa_limite_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0114_A02_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Nos círculos locais, Deus é uma figura imprescindível. A ideia de que há uma estrutura no que há é o que permite que o ser humano exista como ser reflexivo. Sem isso, nada haveria.
+
+Não se diz a uma criança que Deus não existe. O peso da responsabilidade sobre tudo o que existe cairia sobre o pai — partilhado com a mãe, com os outros — aberto à relativização.
+
+Ao negar-se a estrutura do real prévia ao eu, surge a ausência de limites onde o eu se possa manifestar.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Afirma a anterioridade de uma estrutura do real face ao eu.",
+  "problema_filosofico_central": "estatuto_do_eu",
+  "trabalho_no_sistema": "fixa_condicao_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0114_A02_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+O dever-ser impõe dever, traço, ser. O dever-ser é o ser que se deveria ser e que não se é. É o movimento que se quer construir e que ainda não existe. É a decisão de fazer ou não fazer algo. É o ponto de vista do eu sobre aquilo que é.
+
+Para além da valoração imposta pela localidade, há ainda uma camada reflexiva sobre o real onde se conjugam inúmeros dever-seres.
+
+É isto o dever-ser: a apreensão, pelo homem, do real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Tentativa de definir o dever-ser como apreensão reflexiva do real.",
+  "problema_filosofico_central": "fundamento_do_dever_ser",
+  "trabalho_no_sistema": "subordina_normatividade_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0115_A01_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Ser um bom homem é ser o homem que se deveria ser. É ser aquilo que se é. Porque esse é o pressuposto daquilo que se pode ser e daquilo que se deve ser.
+
+Mas o dever-ser não existe em lado nenhum. O dever-ser existe no futuro. Existe no contínuo da relação que permite a vida. É ali que se pode dar um nadinha na relação, porque olhamos para a relação.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Subordina o dever-ser ao ser e ao contínuo relacional.",
+  "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+  "trabalho_no_sistema": "subordina_normatividade_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0115_A01_SEG_002
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+Se não for comédia, tem de ser drama. E o drama não existe no real. O drama é o eu. É sentimentalismo, demotivismo, o eu a querer prevalecer-se sobre a ontologia, a querer dobrar o real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Diagnóstico do drama como projeção sentimental do eu sobre o real.",
+  "problema_filosofico_central": "projecao_do_eu_no_real",
+  "trabalho_no_sistema": "identifica_projecao_reflexiva",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0115_A01_SEG_003
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Imagino isto como uma linha vertical, de cima a baixo. E dessa linha saem para os lados as atualizações, como um sistema solar: o átomo, a molécula, o agregado, a célula, o tecido, o homem, a estrela, o campo. O centro é vazio. A maior parte é vazia. Mas é daí que saem os eventos da vida, porque não há atualização sem real, nem o real deixa de importar. É o que funda a relação.
+
+Depois tenta-se dizer: em cima disto há a consciência, com regras próprias, como se fosse uma coisa fora do eu. Trata-se a consciência como extra-real, trata-se o homem como fora do real. Quando essa ideia se espalha pelos círculos largos, isto torna-se inevitável.
+
+Cria-se algo dito sui generis. Como se isso explicasse alguma coisa. Como se não fosse apenas o eu a tentar impor-se ao real. Um sistema tão especial, tão complexo, que precisa de anos para se perceber, mas que luta contra o real e molda o homem para caber nele.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reinscreve consciência e homem no real e denuncia a sua extra-realização.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0115_A01_SEG_004
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+A discussão fica sempre no processo. Mas quase que isto se resolvia pela boa descrição do real. Pelo oferecer o caminho de encontro com o real.
+
+Os modos reais de ser já são conhecidos. Retirado o contexto possível, o homem continua a operar segundo esses modos. É isso que está no direito civil: a apreensão do modo de ser do homem, da família, da vila, da cidade, do Estado, da espécie.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reorienta a discussão para a descrição do real e aplica isso ao direito civil.",
+  "problema_filosofico_central": "adequacao_entre_representacao_e_real",
+  "trabalho_no_sistema": "submete_representacao_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0115_A02_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Se não houvesse modos de operar, nada existiria. Pela identificação desses modos, os modos individuais tornam-se irrelevantes quando confrontados com a necessidade de integrar a relação.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Fixa a dependência da existência face a modos operativos integrados relacionalmente.",
+  "problema_filosofico_central": "relacao_e_dependencia",
+  "trabalho_no_sistema": "identifica_dependencia_estrutural",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0121_A02_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Os exemplos do trolley e outros semelhantes são absurdos. Se o estado de coisas que define o dilema fosse recorrente num plano onde existem seres conscientes reflexivos, então esse plano não permitiria a existência de seres conscientes reflexivos.
+
+Seria uma disfunção de um ser com liberdade. Não poderia ser um modo de ser, nem algo com recorrência. O contínuo deixaria de ser.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Critica dilemas recorrentes como incompatíveis com a continuidade de um plano de seres reflexivos.",
+  "problema_filosofico_central": "dano_real_e_reducao_de_potencialidades",
+  "trabalho_no_sistema": "identifica_dano_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0121_A02_SEG_002
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+Aquilo que define o que é ser bom não pode ser resposta a cenários que não pertencem aos comportamentos típicos do ser consciente reflexivo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Delimita o campo relevante para definir o bom.",
+  "problema_filosofico_central": "criterio_para_viver_bem",
+  "trabalho_no_sistema": "identifica_campo_de_validade",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0122_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Parece que o que há é ou a aderência a uma posição parva qualquer, ou então a conclusão de que não há ética. Ou é tudo construção, ou tudo derivação de uma característica compartimentada qualquer — a emoção, por exemplo — como se dizer “tenho dedos” fosse uma resposta.
+
+O que existe é o domínio que cada um tem sobre as relações em que está incorporado, aquelas em que pode vir a estar, aquelas em que se move. Andar numa sala escura e acender a luz do desconhecido é acender a luz para quem anda na sala. Sou eu que mudo de corredor para ver o que está do outro lado.
+
+Isso pode depois tornar-se comum pelo processo de comunicação, mas o campo é local. Autónomo no sentido da localidade.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Esboça a ética a partir da localidade relacional do agente.",
+  "problema_filosofico_central": "passagem_da_ontologia_para_a_etica",
+  "trabalho_no_sistema": "faz_transicao_de_percurso",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0122_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+As regras universais são as que existem em qualquer relação. O real é partilhado. Nem sei se é necessário dizer que seres conscientes partilham o real, porque para haver seres conscientes já tem de haver real partilhado.
+
+O real não pode ser uma única atualização. Isso nem sequer existe. O real é o campo das potencialidades e, assim que algo pode ser potenciado, ele já é partilhado. O real é sempre partilhado.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Afirma o real como campo partilhado de potencialidades.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "descreve_estrutura_do_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0123_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Há uma unificação de toda a filosofia nos digresses a que ela se levou pela compartimentalização e especialização necessárias quando se fala de seres conscientes a pensarem sobre tudo, e pelas barreiras que as linguagens técnicas criam.
+
+Como é possível alguém querer ser filósofo e não compreender isto? Não é não saber matemática, não é não saber todas as teorias de todos os autores. É não compreender o que isto é à luz das descobertas científicas. É pôr a ciência de lado e dizer que isso cabe à ciência e que à filosofia cabe pensar sobre isto, sem sequer saber o que uma compartimentalização diz sobre uma parte disto.
+
+É querer saber o todo sem saber as partes. É viver na metafísica. É pôr o eu à frente do real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Critica a pretensão filosófica totalizante desligada da ciência e do real.",
+  "problema_filosofico_central": "projecao_do_eu_no_real",
+  "trabalho_no_sistema": "identifica_projecao_reflexiva",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0123_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+O discurso revela um modo de ser. Discursar sobre o discurso ou discursar sobre o que é obriga a pensar sobre o discurso ou sobre o que é, isto é, a integrar o real. Ser, pensar e dizer andam juntos.
+
+O estudo do pensamento filosófico torna-se necessário ao verdadeiro pensamento filosófico. Isso implica admitir que Aristóteles tinha razão na potencialidade. Implica rejeitar as finalidades. Platão tinha razão ao dizer que há algo entre o eu e o real, mas confundiu isso com o real quando era o símbolo.
+
+Kant percebeu que a estrutura da consciência condiciona o que se apreende, falhando em tudo o resto. Wittgenstein modernizou a analítica da apreensão e falhou em tudo o resto. Heidegger continuou e falhou em tudo o resto.
+
+A temática tem sido falhar em tudo o resto, até que o que permaneceu a insistir ressoou hoje em dia em falhar em tudo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Rearticula acertos parciais da tradição filosófica sob uma exigência de integração no real.",
+  "problema_filosofico_central": "relacao_entre_partes_do_sistema",
+  "trabalho_no_sistema": "rearticula_material_disperso",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0123_SEG_003
+- origem: fragmentos.md | tipo_unidade: bloco_unico
+
+Os círculos são apenas o símbolo da relação incorporada. O bom é ser o bom pai, o bom filho, o bom irmão, o bom cidadão, a boa pessoa.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Aplica o bom a papéis relacionais concretos.",
+  "problema_filosofico_central": "criterio_para_viver_bem",
+  "trabalho_no_sistema": "abre_aplicacao_setorial",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0188_SEG_001
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+O tamanho do universo, a ridícula escala de  não sei quantos trilioes de galáxias com não sei quantas milhões de estrelas, num espaço a expandir se numa velocidade superior á velocidade da luz, o infinito de tudo isto, é o nada a não ser por se ser então não pode não ser, é o contínuo do ser no potencial que o permite ser, que é, antes de QQ coisa, ser. Tudo faz sentido na ontologia
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Esboça uma intuição ontológica a partir da escala cosmológica.",
+  "problema_filosofico_central": "condicoes_de_possibilidade_do_ser",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0189_SEG_001
+- origem: fragmentos.md | tipo_unidade: afirmacao_curta
+
+Einstein pôs o campo na relação das atualidades
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reconduz o campo à relação entre atualidades.",
+  "problema_filosofico_central": "relacao_e_dependencia",
+  "trabalho_no_sistema": "reconduz_relacionalmente",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0194_SEG_001
+- origem: fragmentos.md | tipo_unidade: transicao_reflexiva
+
+Porque, e refletido isto, que eu não sei, eu tenho que pensar, vamos tentar pensar sobre isto, de facto, sobre o que é isto, tentar descrever o que é e o que acontece em todos os seus acontecimentos, do mais atómico, do mais pura potência, campo, até atómico, até outras estruturas, até astrelas, até buracos negros, até o que nós quisermos. Mas, pode-se saber, pode-se compreender o que nos estão a querer dizer sobre aquilo que é, ainda que seja em linguagem em física, química, filosófica, qualquer linguagem técnica, podemos compreender, e é possível compreender, porque se eu não percebo nada de física nem matemática, mas pelo que tenho dito e tenho acertado, mais ou menos, naquilo que eu acho que deve ser o que se passa para além, ainda que enquadrado, como é óbvio, por ti, mas pelo que parece, tem sido assim. Isto significa, então, que há um caminho que une tudo no real, e esse caminho deve ser, ou tem mérito por ser tido na interrupção que se vai dando quando se descobre alguma coisa, quando se pensa, ah, peraí, então mas isto, sendo o real assim, não é?
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Abre a hipótese de inteligibilidade unificada do real.",
+  "problema_filosofico_central": "condicoes_de_inteligibilidade_do_sistema",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0195_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+Porque o próprio método de aprender, que é apreender, representar, porque representando-se, cria-se o caminho para a permanência na memória, para a potencialidade da permanência na memória, para o acesso, para a padronização, para a junção das representações restantes da consciência, e aprendendo, e aprender é apreender o real, é representar o real, qualquer coisa que seja.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Liga aprendizagem, representação, memória e real.",
+  "problema_filosofico_central": "mediacao_simbolica",
+  "trabalho_no_sistema": "clarifica_mediacao",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0196_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+Vivendo-se no sistema que o homem criou, não havia qualquer tipo de inovação, de invenção, de industrialização, nada disso existia. Vivêssemos nos sistemas autojustificados, não haveria quem tivesse, como aconteceu e acontece, a romper com o sistema em busca do real, saber como é, o que é isto, e operar nele, claro, porque para saber o que é, tem que se estar nele. Tem que haver o contacto no campo de atualizações através da nossa localidade.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Contrapõe sistema autojustificado e contacto localizado com o real.",
+  "problema_filosofico_central": "validade_interna_vs_adequacao",
+  "trabalho_no_sistema": "submete_representacao_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0204_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Um parágrafo desmonta tudo A boa relação vem do, ser necessariamente pela encorporacao do meme de bom pai, de ser logo bom marido, ser fora da  justificação do próprio ser e integrando na relação de onde ele está com o demais relacionado, em estrita com o ponto de vista na medida com a relação e ele na relação, onde há outro que não partilham da sua localidade ontológica e horizonte. Estar no campo de atualizações do seu contato outro ser, é aí que está o atualizavel no contato com o que com o eu que se relaciona. O que é ser um bom pai é o que é ser o que um bom pai é no contínuo da relação
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reconduz o \"bom pai\" ao contínuo da relação concreta com o outro.",
+  "problema_filosofico_central": "criterio_para_viver_bem",
+  "trabalho_no_sistema": "reconduz_relacionalmente",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0205_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+E por isso é ontologicamente verdadeiro que da apreensão, com a apreensão vem o valor, ou melhor, não há valor sem apreensão. O dever de ser, não aquilo que se diz ser o dever ser, mas o dever de ser vem do ser e é ao filósofo que cabe integrar isto com o poder ser. Isso é a verdadeira filosofia.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Deriva o dever de ser do ser e liga valor à apreensão.",
+  "problema_filosofico_central": "fundamento_do_dever_ser",
+  "trabalho_no_sistema": "deriva_dever_ser_do_ser",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0206_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+Que é olhar para a pergunta do ser e responder. O que é isto de ser? Ah, ser… mas o quê? Ser o que é ser ontem? Risos. Quer dizer, ser o que está a ser, o que está a ser atualizado. Eu consigo olhar e, anto quanto vejo, não desmoronaste ainda numa sopa biológica qualquer, como uma poça no chão. Não, estás aí e estás a falar comigo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Abre a pergunta do ser aproximando-a de uma presença atual.",
+  "problema_filosofico_central": "potencialidade_e_atualizacao",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0207_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+As liberdades, ou seja, as ações que podem ou não ser boas, são todas, mas as liberdades que o homem pode fazer ou não fazer são verdadeiras ou mais boas ou erradas se o que fizerem for destruir as atualizações e as relações de atualizações criadas com as suas próprias relações. Nós escrevemos muito bem isso na lei. Por isso que a lei existe. Nós escrevemos muito bem o que é que acontece quando existe uma compra e venda. Ah, eu quero algo, dou-te algo em troca. O que acontece com o empréstimo, o que acontece com qualquer coisa. O que acontece com qualquer relação humana, que são cada vez e cada vez mais tipificadas, vez e tipificadas por...
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Aplica o critério do bem ao domínio da lei e das relações tipificadas.",
+  "problema_filosofico_central": "lei_e_fundamento_ontologico",
+  "trabalho_no_sistema": "abre_aplicacao_setorial",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0208_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+É a quebra da relação criada, do sinalagma que existe quando a atualização do meu ser se relaciona com a atualização de outro ser igual a mim, de estatuto idêntico, um ser consciente reflexivo. É da preservação da verdadeira relação que ele existiu, portanto, a relação que ele existiu, só pode ser a verdadeira, se há de dizer se houve uma quebra, se houve um bridge, o que houve foi nós chamam-se expectativas que são expectativas legítimas de algo acontecer, de uma promessa, de algo da relação, mas são expectativas, não, são somente possibilidades criadas no campo do poder ser que a própria relação permitiu, porque a produção de um, vamos inventar variáveis e efeitos de um contrato, existem porque houve uma atualização qualquer de seres conscientes reflexivos a pôr isso fisicamente numa caneta e num papel, a dizer isto de facto aconteceu. E isto tem essas ramificações, e isto é atualizável.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Aplica a ontologia relacional ao caso de promessa, expectativa e contrato.",
+  "problema_filosofico_central": "instituicoes_como_mediacoes_do_real",
+  "trabalho_no_sistema": "abre_aplicacao_setorial",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0233_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+“Estava a ouvir um Brian Cox a falar sobre o decaimento de partículas.”
+00:07
+
+“Não sei se percebe bem, mas tem algo a ver com a perda de carga?”
+00:07
+
+“Mas ele estava a dizer que um eletrão, ou uma coisa qualquer, só decai em pares, mas que o neutrão não. O neutrão consegue decair em próprio.”
+00:12
+
+“Por que o eletrão não é uma partícula composta?”
+00:02
+
+“Ok, então eu podia dizer isto de uma maneira ontológica, que o neutrão tem atualizações diferentes relacionadas a uma coerência qualquer, os quarks e essas coisas todas, enquanto o eletrão é uma atualização somente no sentido de ser um picozinho no campo das potencialidades?”
+00:29
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Ensaio exploratório de leitura ontológica de diferenças entre partículas a partir de um exemplo de decaimento.",
+  "problema_filosofico_central": "potencialidade_e_atualizacao",
+  "trabalho_no_sistema": "abre_aplicacao_setorial",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0233_SEG_002
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+“O nada, o nada, por não poder ser, porque se fosse não era nada, é um... é que não é nada, mas é... Por ser nada, por ser algo que não tem limites, quando se diz que o universo está sempre em expansão, é somente o alargamento necessário, o espaço necessário que ocupa cada potencialidade do campo que faz com que, de certo modo, se crie algo, mas não se cria nada. O ser é que está a querer existir.”
+00:51
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Explora de modo instável a relação entre nada, expansão, potencialidade e ser.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0235_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+“Não há bem uma teoria para o que é que é matéria negra, não é? Mas, portanto, a duplicação, a expansão, não é? A duplicação não, ou seja, a expansão do espaço numa velocidade superior à própria velocidade da luz não será algo assim como, ou seja, limitado, depois acaba o cientista a escrever, mas algo como aquilo que é necessário existir como campo para que as relações que existem no ser possam continuar a existir em movimento, no contínuo do tempo.”
+00:54
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Intuição exploratória sobre campo, continuidade e movimento.",
+  "problema_filosofico_central": "continuidade_do_real",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0236_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+o que eu estava a querer dizer é que o eletrão, quando existe em relação ao núcleo, naquilo que se chama o átomo e nos efeitos que produz também no exterior, isso tudo, é porque o campo do poder ser é o campo que já lá tem de estar, ou seja, nem que seja pela simples possibilidade de não ser nada, ou seja, de ser algo, pelo... por aquilo que já é. Aquilo que já é faz isso, ou seja, o campo do eletrão e o campo dos efeitos que o eletrão produz e o campo do átomo e essas coisas todas, estão... têm de estar lá e depois do lá estar, e depois do lá estar, porque o lá estar é o que faz com que o possa lá estar, exista. E a luz é menor do que o... tem uma velocidade menor, entre aspas, do que a expansão do universo, há sempre porque antes da luz tem de lá, onde a luz percorre, tem de lá estar o universo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Afirma o campo de poder-ser como condição prévia da existência.",
+  "problema_filosofico_central": "potencialidade_e_atualizacao",
+  "trabalho_no_sistema": "fixa_condicao_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A01_SEG_005
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+E se o Big Bang não fosse o início do universo, mas apenas aquilo que nós conseguimos medir, não pela criação, mas pela... não pela criação do universo, mas pela criação do espaço-tempo que está a ser criado à medida que o contínuo do ser vai existindo no nada, que é a única coisa que permitiria a continuação do ser, do universo na sua expansão, e o que nós vemos é o momento da criação da luz a sair naquele momento, naquele rasgar do nada, mas em que o ser já era antes. Não é um universo com multiversos, não com loops, não. É somente o ser a aparecer no nada.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Levanta a hipótese de separar início observável e início do ser.",
+  "problema_filosofico_central": "condicoes_de_possibilidade_do_ser",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A11_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Por haver melhores e piores modos de descrição, não significa que se tenha de viver num melhor modo de descrição. Outra verdade innegociável. O ser reflexivo vai viver num funcionalismo regular das suas descrições locais, sem qualquer problema. E isto vai sempre existir, porque senão todos eram filósofos. Sei lá, outra, a consciência é no estabelecimento real, não é extra-real.
+
+Qual é mesmo o sentido do discurso de hoje em ter de fazer a consciência uma coisa? Depois colocam-na onde querem. Pois. Fundem-na, iluminam-na, colocam-na fora do real, ou como algo extra-físico, extra-local, como algo com capacidade extra-local, que é um, sei lá, alma de mentes, mentes daquele tipo do que disse o senhor Besso Alivis, Descartes, esse malandro.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Critica a reificação da consciência e recoloca-a no real localizado.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A11_SEG_002
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+Está bem, olha outra, olha outra. Se viste, e viste. Olha esta, olha esta. Se viste, e apreendes que viste, logo se viste naquilo que aí estive, anda na estrada e não vais contra os carros, sei lá, exemplo. Se viste naquilo que viste, então não só tu existes, como o que existe também existe. Mas isto já me esqueci o que é que eu estava a querer dizer
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Ensaio de ligar percepção/apreensão à existência do real.",
+  "problema_filosofico_central": "adequacao_entre_representacao_e_real",
+  "trabalho_no_sistema": "mostra_condicao_da_verdade",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A11_SEG_003
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+A lógica da piada, o norm McDonald, em direto dizer que o mj tinha dito que preferia ter um rapaz, e que se tivesse uma menina se chamava Sharon e se menino, ia fazer sexo com ele. Um One of a kind brilhante, disruptivo porque estica o modus que é abrangência do tema pelo que é percepcionado e descrito e agido, o modo de ser do ser, aquilo que é ser um humano a fazer coisas humanas, e pelo real, ainda que o real seja tmb uma apreensão, mas que ocupando o lugar na cabeça das pessoas, porque diferente da apreensão coletiva, num estatuto diferente, pelo em qq caso, o objeto está na relação da apreensão e do real
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Ensaia uma distinção imprecisa entre apreensão e real a partir de um exemplo humorístico.",
+  "problema_filosofico_central": "apreensao_vs_representacao",
+  "trabalho_no_sistema": "distingue_apreensao_de_representacao",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0241_A11_SEG_004
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Estava a pensar em como, quando se fala com alguém, se marca um encontro no dia seguinte, um dia qualquer, na semana seguinte, a uma hora qualquer, num sítio qualquer, como é que é lembrada essa memória? Porque a lembrança dessa memória importa, não só a retenção da memória, mas como a consciência dessa memória, o awareness dessa memória, ou pelo menos daquilo que a memória implica. E vê-se que é como, pelo que se é, e o que se é é não só o apreender de sons ou de imagens quando se fala com outra pessoa, e se marca algo, mas é a representação da relação que está a ser instituída, a representação de um espaço, de um sítio, de alguém, de algo que se vai atualizar num certo sítio e que está a ser representado por quem está naquela relação.
+
+Toda a experiência apreensiva da relação da memória, que é o ato de a ter no momento, naquele momento, é a própria experiência vivida da continuidade do ser. Não haveria sequer memória. Memória é só isto.
+
+Memória é a permanência da relação de ter a memória naquele contexto representacional, simbólico, mas não se limitando a ele próprio, porque contendo a cadência que estava a ser instituída na relação física e na relação mental, na apreensão que faz a memória. A memória é sempre fiel à cadência do ser, e o ser posiciona-se, ainda que dentro do real, relativamente ao real, mas limitado pelo real. Sendo a relação da apreensão com o real, a direção é sempre o real, a manutenção da relação que se tem estado a manter.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Exploração da memória como permanência relacional entre apreensão, representação e continuidade do ser.",
+  "problema_filosofico_central": "ser_humano_como_ente_reflexivo",
+  "trabalho_no_sistema": "descreve_estrutura_do_real",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0241_A11_SEG_005
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+Nós não nos transformamos em nada, do nada. A minha mão ainda tem pele. E agora de continuar a ter pele, continua a ter pele, continua a ter uma mão, vejo que se mantém.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Exemplifica a continuidade de uma determinação no tempo.",
+  "problema_filosofico_central": "continuidade_do_real",
+  "trabalho_no_sistema": "descreve_dinamica_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A12_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+A direção do ser para o real não é necessária nem sequer exaustiva, porque pode ser, no mínimo coerente animal, mas no plano da reflexividade, no plano da liberdade que existe pela reflexividade, a direção final, depois de tanta liberdade, pode ser sempre, em última instância, validada somente por estar mais perto ou estar mais afastado do real. Esse campo de potencialidades onde tu te atualizas circunscreve-se a onde? A quê?
+
+O que tu és relativamente ao que o real imporia que tu fosses. Se tu conhecesses o real, se tu te conhecesses a ti próprio, se tu descrevesses melhor, se aprendesses melhor, o melhor, se há melhor, em última instância, é relativamente àquilo que é verdadeiro, àquilo que é o bom, que há de ser sempre aquilo que mais próximo se pode descrever que é o real. Não há coisas. O que é que são coisas? O que é que são coisas?
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Submete o melhor e o bom à proximidade ao real.",
+  "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+  "trabalho_no_sistema": "subordina_normatividade_ao_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A12_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Mesmo se queira ser minimamente sério, mas falhando, claro, mas tentamos apenas ser formalmente sério, mas não o sendo, como é óbvio. Mas ainda que tentando ser, podias dizer, ah, são aquilo que ocupa espaço, que tem volume, que tem, sei lá, massa, que tem qualque coisa assim. Está bem, mas aquilo que contém massa é uma coisa? É um bloco?
+
+Aquilo que o eletrão é, não se sabe já pela incerteza que é aquilo que pode ser, que é uma atualização, porque há uma relação conjugatória, que é uma quebra da função, porque algo que não seria o campo de potencialidade do eletrão a entrar dentro das potencialidades do eletrão o faz relacionar-se e por isso ocupar uma posição. É uma coisa, aí, quando ocupa uma posição, é uma coisa? Então e quando não ocupa uma posição? Então e quando está só, estável, na sua continuidade potencial?
+
+Eu sou uma coisa quando me encosto contra uma parede e a minha cara cede? Quando os meus dentes se partem se eu for com muita força? É que eu não me parto todo? Quando o meu cabelo cresce, também sou uma coisa? Se for uma coisa é ser uma relação, então ser uma coisa não significa nada e não se pode usar esse termo. Por isso existem atualizações e por isso existem relações.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Desfaz a reificação de \"coisa\" e reconduz o ser a relação e atualização.",
+  "problema_filosofico_central": "relacao_e_dependencia",
+  "trabalho_no_sistema": "reconduz_relacionalmente",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A12_SEG_003
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+Existem relações regulares, relações mais ou menos afetadas por outras relações, atualizações mais ou menos sobrepostas. E uma liberdade de uma atualização poder escolher o campo em que opera. mas os objetos não se relacionam não. Ou seja, falar de objetos é trazer um terceiro nível que não existe. É trazer um nível da apreensão.
+
+Ou seja, pode-se falar de, mas como crítica. Não é também como crítica, apenas como evidência da necessária, não é, de como se apreende, apreende-se por símbolos, apreende-se por estabilidades relacionais com o campo. Pá, eu não vou estar a aprender sempre o que é que é aquela árvore que eu vejo todos os dias, o que é que é esta estrada, o que é este céu. Eu sei que é quando eu olho para lá, vendo a apreensão que eu tenho do real e não vendo o real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Distingue relações reais de objetos apreendidos simbolicamente.",
+  "problema_filosofico_central": "apreensao_vs_representacao",
+  "trabalho_no_sistema": "distingue_apreensao_de_representacao",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A12_SEG_004
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+Operando assim necessariamente. Este é o discurso dominante, claro. O discurso dominante é autjustificativo e visto por coerência interna, na própria apreensão do real. Mas o ponto é sempre também é contrapor com aquilo que o filósofo faz.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Contrasta autovalidação discursiva com exigência filosófica de contraposição ao real.",
+  "problema_filosofico_central": "validade_interna_vs_adequacao",
+  "trabalho_no_sistema": "identifica_substituicao_do_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A13_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+O que o filósofo faz é procurar o real, é procurar o homem dentro do real. Não é excluir o real e dizer, ok, e agora é só objetos, agora é só símbolos. Não! Porque esses símbolos estão lá por causa de outra coisa qualquer. E os símbolos podem se desviar tanto até que o real estica a corda.
+
+Se eu mal representar a igualdade ontológica que existe em dois seres reflexivos, posso se calhar correr o erro de pensar que lhe posso mandar com um pau à cabeça. Posso achar isto? Isto existe somente por uma parca descrição do real. Não, os objetos existem, agora não existem, agora não há homem, não há mar, os objetos existem.
+
+Os objetos não têm o mesmo estatuto, porque dependem de... Os objetos são dependentes. do modo de ser do ser reflexivo. É somente isto. E o modo de ser do ser reflexivo pode ser mais ou menos ajustado ao real, ao bem e à verdade.
+
+E do real, e depende do real, não sei ouvir a tua resposta, mas depende da relação, da relação, da apreensão, porque só quem apreende, só o que apreende, ou só apreendendo, é que se pode sequer apreender. E só se refletindo é que se pode refletir. Pá, isto são daquelas coisas básicas, não é? Uma pedra não pode, não pode, não faz, não é, não tem, não sabe, não consegue, não existe sequer, é o real, é o real.
+
+É o real, não tem relação, não tem um mecanismo racional interno de detecção, de apreensão do real, de representação e de instauração de uma coordenação das representações internas no contínuo da relação com o real.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reinscreve o ser reflexivo no real e subordina símbolo e representação à apreensão.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A13_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+E aí o walkismo, qualquer política do sistema, contrária à política social, qualquer política que quer encarnar, a querer descobrir o melhor sistema, as melhores regras dentro do sistema, impor as limitações que se creem ser necessárias por causa do sistema, olhar para o Estado e querer ver nele a solução, porque o Estado é a instituição, o sistema em que vivemos, a ordem internacional, o suprasistema. Qualquer coisa, qualquer coisa. Vê-se como isso é andar no eu e não andar no real, vê-se como isso é andar na apreensão do real e não no real, que é a normalidade e por isso é que se vê os fenómenos que se vêem, por isso é que qualquer política relativista, modernista, neomodernista, qualquer coisa, qualquer coisa.
+
+Por isso é que cada uma dessas políticas que não apreendem o real, não sabem descrever o real, querem acabar com o real, acabar com qualquer estrutura familiar, com qualquer estrutura local, qualquer estrutura biológica, as estruturas ontológicas, ou seja, aquilo que existe não existe, o que existe é apenas o sistema e depois como o eu se deveria conformar ao sistema. Claro que se vai focar depois, como se foca, mas tem vindo a focar, claro que se vai focar no indivíduo, na individualidade de cada um, no subjetivismo de cada um. Claro, porque se tudo o resto não existe, a única relação que existe é do próprio indivíduo com o sistema.
+
+Claro que é para desintegrar a família, claro que é para desintegrar as regularidades do ser. Claro que sim, claro que sim. É todo um espectro, um espectro em que vai se apontando para aquilo que melhor encaixa dentro do sistema.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Diagnóstico da primazia do sistema sobre o real.",
+  "problema_filosofico_central": "substituicao_do_real_pelo_sistema",
+  "trabalho_no_sistema": "identifica_substituicao_do_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A14_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+E vai ser assim por instituição, qualquer norma, qualquer prática, qualquer instituto que permaneça, qualquer referência simbólica que permaneça para além da morte do indivíduo, do nascimento do bebé que nada sabe, vai ser sempre moldada por um enquadramento da apreensão do real. Claro, claro que sim. E por isso é que a questão é sempre quão melhor, quão mais perto do real está essa descrição.
+
+Não é que... Por que é que os sistemas sociais existem? Por que é que a comunidade existe? Porque há uma descrição comum que se tem como verdadeira do real, localmente funcional, e vai preservando. E é por isso que à noite se têm os sentidos aguçados para qualquer barulho atrás do arbusto.
+
+Claro que sim, claro que sim, obviamente. Porque o escuro não é apreendido e o arbusto não são apreendidos como identificações do real, mas identificações do simbolismo que eles próprios contêm na encarnação do ser na relação com o real. E é normal que assim seja, faz todo o sentido que assim seja. Aliás, não poderia ser de outro modo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Explica instituições como preservação simbólica de descrições comuns do real.",
+  "problema_filosofico_central": "mediacao_simbolica",
+  "trabalho_no_sistema": "clarifica_mediacao",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A14_SEG_002
+- origem: fragmentos.md | tipo_unidade: objecao_local
+
+Agora, aplicado a círculos fora das localidades, aplicar isso a círculos nacionais, supranacionais, universais, sistema solar, de galáxias, o que seja, aplicar aquilo que é funcional para a vivência de um ser humano a regularidades de outra escala, isso é que é parvo. E aplicá-lo isso filosoficamente ou à filosofia, ou a pretender que isso é filosofia, isso é desonroso.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Critica extrapolação de critérios humanos para outras escalas.",
+  "problema_filosofico_central": "erro_de_escala",
+  "trabalho_no_sistema": "identifica_erro_descritivo",
+  "confianca_tratamento_filosofico": "alta"
+}
+```
+
+### F0241_A14_SEG_003
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Daí a universalidade da religião, a necessidade de enquadramento da apreensão do real, do eu, do real no eu, essas coisas todas, a necessidade de enquadramento disso, no fundo da vida, daquilo que se está a viver, no círculo que o sequer possibilita, de modo a não exigir que se pense a vida de modo filosófico, verdadeiramente filosófico, porque isso seria não haver vida e impossível, porque altamente disfuncional, porque depois uma pessoa acaba por olhar para a relação do ser em cada interação e isso torna-se awkward. Mas obviamente que a resposta vai ser enquadrar no sistema o símbolo maior, pronto, o que quiser se chamar, o criador, o que se quiser chamar.
+
+Depois, como é óbvio, esse símbolo vai ter o melhor ou pior descrição, claro, quanto mais ou menos afastada for do real. E quão mais afastada se torna do real, menos verdadeira se torna, e por isso vê-se que o porquê da morte de Deus. Não é porque se descobriu, não é porque a ciência levou a descrições mais verdadeiras, a um reenquadramento. Não, é por isso e porque o símbolo de Deus, que se foi fazendo de Deus, passou a estar em mais choque com as novas apreensões.
+
+Claro que Deus morreu. Porque se foi descobrindo cada regularidade e isso foi entrando em choque com o símbolo anterior. E ao invés de procurar o melhor símbolo, procura-se a outra resposta também mais fácil de fazer, neste caso, que é dissolver. Dissolver o real e o eu, pela sua localidade e ponto de vista e perspectiva, passa a reenquadrar toda a apreensão.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Explica a função mediadora da religião e o colapso de um símbolo por desadequação ao real.",
+  "problema_filosofico_central": "mediacao_simbolica",
+  "trabalho_no_sistema": "clarifica_mediacao",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A14_SEG_004
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+O que é que ocupa a reflexividade, na maior parte do tempo? É o pensar sobre o que se está a viver, sobre a conversa que se está a ter, sobre aquilo que se vai viver a seguir, que se vai fazer. É ir a caminhar e pensar sobre o que se está a ver, e depois pensar sobre o que se está a ver e pensar sobre o que se está a pensar sobre o que se está a ver e depois pensar sobre o que se está a pensar. São diferentes relações que existem na reflexividade.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Enumera formas correntes de retorno reflexivo sobre a experiência e sobre o pensar.",
+  "problema_filosofico_central": "ser_humano_como_ente_reflexivo",
+  "trabalho_no_sistema": "descreve_dinamica_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A15_SEG_001
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_curto
+
+E por que é que se diz que vou caminhar para avidamente, para pensar, ou vou meditar para pensar? Porque as operações relativamente ao real obrigam à mudança da focalidade do indivíduo, à mudança da perspectiva. Então não eram pensamentos filosóficos, claro.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Associa pensar filosoficamente à mudança de focalidade perante o real.",
+  "problema_filosofico_central": "localidade_do_ponto_de_vista",
+  "trabalho_no_sistema": "limita_ponto_de_vista",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A15_SEG_002
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+O ser é o acontecer da vida. É o ser a vida é a atualizar-se nas relações em que está inserida. É o ser a atualizar-se no campo das potencialidades, que é o real. O real é uma coisa que se é, permite que seja.
+
+E é o que está a acontecer. Quer dizer, o ser não é bem vida a acontecer, o ser é o real a acontecer. A vida vem com o ser. Ah, mas então, é o quê?
+
+É o quê? Como é que se demonstra, sem se apelar apenas à evidência de que é, embora o que é nunca ele tenha assaltado, nem nunca ele tenha falhado, e o que é não deixa de acontecer para que eu fique sem chão. Mas ainda assim, teoriza a ideia de não se poder assertivizar que o que é é, como o princípio lógico necessário e o empinho. Mas como é que é?
+
+Então, como é que isso prova matematicamente? Como é que se prova matematicamente que o real é? Não sei, como é que fazes? Escreves aonde? O que é que escrever é?
+
+Por que é que achas que é uma atualização relacional de um corpo estável, de um ser reflexivo, interagir com outras atualizações noutas relações estáveis, a produzir um acontecimento coordenado, com vontade intencional, dirigido no campo de potencialidades que poderia ter sido outro se não tivesse agido daquele modo? Por que é que achas que isso é? Por que é que achas que é isto que faz com que permita que tu possas sequer pensar em conceber uma prova de um sistema qualquer teu interno para dizer que o real existe?
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reabre o problema do ser como acontecer real e da impossibilidade de provar o real a partir de um sistema interno.",
+  "problema_filosofico_central": "possibilidade_da_verdade",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A15_SEG_003
+- origem: fragmentos.md | tipo_unidade: objecao_local
+
+E a morte é o sair do acontecer, é o não estar a acontecer. Imaginem defender como é que é possível se defender, está nos livros de história da filosofia, das grandes ideias filosóficas, defender-se que há possibilidade de manutenção de um qualquer, de um qualquer estado do ser, normalmente através de uma alma ou de uma energia, ou de qualquer coisa assim, algo que se assemelhe ao que internamente se acha que o ser é, como uma essência separada, como é que se pode conceber isso, conceber isso sem olhar, sem sequer pensar sobre as condições de possibilidade de um ser que faz sequer essa pergunta.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Critica a sobrevivência de uma essência separada após a morte.",
+  "problema_filosofico_central": "condicoes_de_possibilidade_do_ser",
+  "trabalho_no_sistema": "exclui_impossibilidade_ontologica",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A21_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Neste caso que conhecemos, mas mais corretamente envolve o ser reflexivo, envolvendo o real, que é aquilo que permite que o ser reflexivo sequer manifeste, como sendo perto ou não daquilo que estamos a tentar definir. Pode ser liberdade, pode ser justiça, pode ser dignidade, pode ser o que quisermos. Os temas filosóficos de uma filosofia geral. A definição tem de conter essa própria generalidade e particularidade.
+
+A direção começa no eu, se começa no real, começando no real, porque o eu está dentro do real, mas não sei se narrativamente não faria mais sentido em que a linha daquilo que se está a definir, não é, que depois vai cantar integrar, para não terem definições soltas, não deveria começar no eu. Porque é no ser reflexivo que começa a própria reflexividade. Não existe para lá do ser reflexivo.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Explora a ordem narrativa entre real e eu na construção definicional.",
+  "problema_filosofico_central": "ordem_do_percurso_filosofico",
+  "trabalho_no_sistema": "faz_transicao_de_percurso",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A21_SEG_002
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+É a própria relação biológica de neurónios que temos que manifesta a imagética que de outro modo conseguiríamos ver simplesmente a abrir os olhos, na necessitar de grande capacidade cerebral. É a própria relação no contím do eu, mas não sei o que é que eu estava a dizer.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Explora de modo instável uma ligação entre imagética, neurónios e eu.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "abre_problema_ontologico",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0241_A21_SEG_003
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Porque na apreensão que a apreensão acontece no eu, não é? É o eu que apreende. Os muitos eus, os muitos eus, claro, com as suas localidades, cada um, mas sendo a consciência uma das partes da relação do eu no real, essa primoração da relação do eu no real, estruturada pela própria apreensão, limitada pelo próprio campo que a apreensão, a apreensão, e depois, como é óbvio, porque a apreensão inclui a representação já, mas também, como é óbvio, também exercida na ação e na descrição, mas o campo das potencialidades, quer dizer, flutua à medida da finesa ou não da relação.
+
+E a finesa pode ser em estado simples, a experiência certa, e pode ser em estado longo e inteiramente introspectivo, mas pode também estar certa. É só mais rara. A adequação natural ao real é aquilo que permite sequer o real interagir, por isso sim na própria representação, não é? Saber como é que o real é, tanto que sabe que se consegue mexer.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Exploração da relação entre eu, apreensão, consciência, representação e adequação ao real.",
+  "problema_filosofico_central": "adequacao_entre_representacao_e_real",
+  "trabalho_no_sistema": "clarifica_mediacao",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0241_A21_SEG_004
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+A relação com o ser reflexivo tem no real, a espectador intervém, anda, fala, salta, viaja, fala, o que quiserem, qualquer coisa, qualquer coisa, qualquer coisa. É ela, é ela e nela, na relação que está, que teve, que vai ter, que está a ter, é nela que reside a ética, o valor, é nela que está inserido, porque é nela que está inserido o ser reflexivo.
+
+Porque ena no modo de ser do ser reflexivo, que é um modo de ser que, antes de mais, apreende, pensa a si próprio, o que está a acontecer, apreende as suas regularidades, sempre, sempre, sempre com um ponto de vista, sempre com um ponto de vista contínuo, sempre com uma integração primária, primária não, básica, simples, do uso de símbolos grandes e largos, as próprias relações que os símbolos grandes e largos nas representações que fazem quando são manifestadas na própria apreensão real, concebe isso, não é? Concebe aquele modo de ser e o real que é apreendido. E essa mistura de símbolos diferentes na sua estrutura una naquilo que é, pode ser e deve ser que une o eu num próprio ponto de vista.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Reinscreve o ser reflexivo e a ética na relação com o real.",
+  "problema_filosofico_central": "passagem_da_ontologia_para_a_etica",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A21_SEG_005
+- origem: fragmentos.md | tipo_unidade: distincao_conceptual
+
+Verdades. O real, o ser, o ser no real, portanto, o campo, portanto, não ser fora do real. O ser que se mexe, que tem vida, cresce, que nasce, que morre.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Síntese ontológica do ser no real e da vida como inscrição no campo.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "fecha_bloco_anterior",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A23_SEG_003
+- origem: fragmentos.md | tipo_unidade: fragmento_intuitivo
+
+Agora, quem é feito de átomos como todos nós, pá, sim, óbvio, não é? Mas isso, creio que isso até as estrelas são.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Generaliza a composição material comum entre humano e cosmos.",
+  "problema_filosofico_central": "estatuto_do_real",
+  "trabalho_no_sistema": "inscreve_elemento_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A23_SEG_004
+- origem: fragmentos.md | tipo_unidade: desenvolvimento_medio
+
+Amigo, qual é a pergunta? Ah, onde é que termina a influência e começa a identidade? Depende do ponto de vista. Se eu estiver a ver de fora o sistema solar, não estou bem preocupado em quem é que se funda a identidade de um homenzinho e da estrada, ou da sociedade em que ele vive.
+
+Eu analiso a sociedade como o modo de ser daquele tipo de ser reflexivo. Porque daí diz-me como é que o tipo individual é. Se eu sei que alguém numa cultura é assim e eu vou lá, digo qualquer coisa que já sei que todas as pessoas vão compreender, todas as pessoas vão reagir de certo modo, porque são de um modo de ser. Se eu estiver a olhar para dentro de uma estrela, talvez seja mais interessado em ver as relações da fusão dos átomos, ou como é que isso lá se chama, para criar aquelas fusões lá dentro.
+
+Se calhar vejo algo mais profundo, mas menos abrangente. Depende. Agora, quando há reflexividade, então o limite é sempre o ponto reflexivo. Agora, se eu estou a ver outro ser com reflexividade, depende do meu ponto de vista.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Delimita a análise pelo ponto de vista e pela escala quando há reflexividade.",
+  "problema_filosofico_central": "localidade_do_ponto_de_vista",
+  "trabalho_no_sistema": "limita_ponto_de_vista",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A24_SEG_001
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Essas perguntas só fazem sentido em estados de reflexividade. Uma pedra não tem essas perguntas. Se não houvesse ser reflexivo, nem haveria essas perguntas.
+
+Como assim? Se os tipos de relação que fazem existir uma consciência, do ponto de vista da lucidez, do awareness, do que seja, da meta-reflexividade, se essas estruturas físicas que existem, que estão inscritas no contínuo que estão a acontecer neste momento que eu estou a falar, se isso é aquilo que permite que eu possa sequer estar a falar, se isto está a manter na relação do ser, ou seja, no ser que é relacional, e está a permitir que eu tenha estes estados, então se há algo que faz com que, ou se deixa de haver as condições para essas relações se manterem para eu poder ter estes estados, como esses exemplos que tu deste, do sono e da doença, ou o que foi, então nunca vai haver esse estado, não é? Pá, se a configuração dos elementos quaisquer não é para ser uma pedra de ouro, essa rocha de ferro não isso a coisa não vai ser ouro.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Mostra a dependência estrutural da reflexividade em relação a condições físicas e relacionais.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "identifica_dependencia_estrutural",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+### F0241_A24_SEG_002
+- origem: fragmentos.md | tipo_unidade: transicao_reflexiva
+
+Como assim é legítimo? Boa pergunta também, Jesus nosso Senhor, estamos fraquinhos. O eu continua a existir? Ele vai acordar? Ele vai se decompor?
+
+Há essa possibilidade? Está dentro do campo das potencialidades do eu ser eu, ainda que haja intermitências em que não se possa não ser eu, possa não ter essas experiências internas, mas está dentro do contínuo do eu, daquele ser?
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Interroga a continuidade do eu através das noções de intermitência, potencialidade e continuidade do ser.",
+  "problema_filosofico_central": "estatuto_do_eu",
+  "trabalho_no_sistema": "dessubstancializa_o_eu",
+  "confianca_tratamento_filosofico": "baixa"
+}
+```
+
+### F0241_A24_SEG_003
+- origem: fragmentos.md | tipo_unidade: sequencia_argumentativa
+
+Estou a conduzir, tiro as mãos do volante, vou andar, sei lá, 70, 80 kmh, ou seja, 100, 120, 130, tiro as mãos do volante, o carro continua. E já não estou com a mão no volante a manter a relação na regularidade da direção do carro, digamos assim dizer. Estou a olhar em frente, estou a ver a estrada, estou a olhar para um carro e a estrada começa a fazer uma ligeira curva, ou faz uma ligeira curva, a minha mão, a minha mão, ainda que esteja pousada em cima da porta, junto ao vidro, dá um toque, logo. Faz parte da própria constituição do ponto de vista subjetivo, experiencial que está a ter.
+o que existe, as relações que existem nesta multiplicidade de eventos que existem nesta experiência de estar durante cinco segundos sem as mãos no volante mostram que as relações que já lá estavam continuam a estar. Aquilo que se atualizou continua a atualizar-se, a velocidade, a direção, a posição do corpo, a atenção, a orientação, a direção, no fundo, o contínuo tem uma direção. Essa direção que já está construída vai continuar a relacionar-se, quer a consciência entre ou não. Pois ela relaciona-se com este manter da relação, este biologismo, se quisermos assim dizer, este vivismo, este acontecer da vida da sua própria definição, únicas, únicas verdadeiras, como é óbvio.
+E também teria que ser assim, porque a consciência é somente a relação que advém de um eu reflexivo, que, como já sabemos, é dependentemente um contínuo atualizado localmente. E a consciência, meta-reflexividade, que quisermos, opera porque há já uma estabilização perfeitamente adequada ao real, no fundo, que poderíamos dizer à estabilização da apreensão do eu no real, e opera somente pela coerência que os símbolos compacta, que os símbolos proporcionam, pela adequação da coerência interna imagética ao real que se está a ver, que se está a ouvir, que se está a cheirar, essa correspondência é que permite o contínuo da relação sem intervenção da consciência.
+
+#### Tratamento filosófico
+```json
+{
+  "descricao_funcional_curta": "Mostra a continuidade pré-consciente da relação e deriva dela a consciência.",
+  "problema_filosofico_central": "consciencia_como_processo_no_real",
+  "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+  "confianca_tratamento_filosofico": "media"
+}
+```
+
+## 7. Microlinhas herdadas
+- **ML_0006** — transicao antropologica — introduz: consciencia como processo no real
+- **ML_0009** — epistemologia — introduz: origem do erro
+- **ML_0018** — estrutura operacional do real — introduz: potencialidade e atualizacao
+- **ML_0019** — etica e narrativa — prolonga: subordinacao da normatividade ao real
+- **ML_0020** — ontologia — fecha: verdade e valor
+- **ML_0037** — nao_determinado — fecha: condicoes de possibilidade do ser
+- **ML_0039** — ontologia — fecha: condicoes de possibilidade do ser
+- **ML_0042** — ontologia — introduz: limite ontologico
+- **ML_0049** — estrutura operacional do real — prolonga: potencialidade e atualizacao
+- **ML_0068** — epistemologia — prolonga: condicoes de inteligibilidade do sistema
+- **ML_0078** — ontologia — desloca: relacao e dependencia
+- **ML_0082** — epistemologia — fecha: criterio de verdade
+- **ML_0084** — ontologia — introduz: estatuto do real
+- **ML_0092** — ontologia — fecha: limite ontologico
+- **ML_0093** — transicao antropologica — introduz: estatuto do eu
+- **ML_0094** — critica sistemica e reintegracao — fecha: adequacao entre representacao e real
+- **ML_0095** — estrutura operacional do real — introduz: relacao e dependencia
+- **ML_0105** — etica e narrativa — introduz: dano real e reducao de potencialidades
+- **ML_0106** — nao_determinado — introduz: projecao do eu no real
+- **ML_0107** — etica e narrativa — fecha: criterio para viver bem
+- **ML_0137** — ontologia — introduz: condicoes de possibilidade do ser
+- **ML_0140** — mediacao simbolica — introduz: condicoes de inteligibilidade do sistema
+- **ML_0145** — etica e narrativa — introduz: criterio para viver bem
+- **ML_0158** — estrutura operacional do real — introduz: potencialidade e atualizacao
+- **ML_0161** — nao_determinado — fecha: condicoes de possibilidade do ser
+- **ML_0171** — transicao antropologica — introduz: consciencia como processo no real
+- **ML_0172** — epistemologia — prolonga: adequacao entre representacao e real
+- **ML_0173** — estrutura operacional do real — prolonga: continuidade do real
+- **ML_0174** — etica e narrativa — introduz: subordinacao da normatividade ao real
+- **ML_0175** — mediacao simbolica — prolonga: apreensao vs representacao
+- **ML_0176** — transicao antropologica — fecha: validade interna vs adequacao
+- **ML_0177** — transicao antropologica — prolonga: mediacao simbolica
+- **ML_0178** — ontologia — prolonga: condicoes de possibilidade do ser
+- **ML_0188** — metaestrutura do livro — prolonga: ordem do percurso filosofico
+- **ML_0192** — transicao antropologica — prolonga: consciencia como processo no real
+
+## 8. Ramos herdados
+- **RA_0001** — transicao antropologica — subordinacao da normatividade ao real — introduz (explicita)
+- **RA_0002** — epistemologia — origem do erro — introduz (explicita)
+- **RA_0005** — estrutura operacional do real — potencialidade e atualizacao — introduz (explicita)
+- **RA_0008** — transicao antropologica — criterio de verdade — fecha (explicita)
+- **RA_0010** — ontologia — condicoes de possibilidade do ser — fecha (sem impacto relevante)
+- **RA_0012** — transicao antropologica — projecao do eu no real — introduz (explicita)
+- **RA_0016** — epistemologia — subordinacao da normatividade ao real — prolonga (explicita)
+- **RA_0018** — ontologia — relacao e dependencia — desloca (explicita)
+- **RA_0020** — mediacao simbolica — mediacao simbolica — fecha (explicita)
+- **RA_0023** — ontologia — limite ontologico — fecha (explicita)
+- **RA_0024** — transicao antropologica — estatuto do eu — introduz (explicita)
+- **RA_0025** — estrutura operacional do real — relacao e dependencia — introduz (explicita)
+- **RA_0029** — etica e narrativa — dano real e reducao de potencialidades — introduz (explicita)
+- **RA_0046** — ontologia — condicoes de possibilidade do ser — introduz (sem impacto relevante)
+- **RA_0047** — metaestrutura do livro — ordem do percurso filosofico — introduz (explicita)
+- **RA_0049** — etica e narrativa — criterio para viver bem — introduz (explicita)
+- **RA_0056** — estrutura operacional do real — potencialidade e atualizacao — introduz (sem impacto relevante)
+- **RA_0058** — nao_determinado — condicoes de possibilidade do ser — fecha (sem impacto relevante)
+- **RA_0061** — transicao antropologica — consciencia como processo no real — prolonga (explicita)
+- **RA_0066** — transicao antropologica — consciencia como processo no real — prolonga (explicita)
+
+## 9. Percursos herdados
+- **P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA** — P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA
+- **P_EIXO_CAMPO_E_LOCALIZACAO** — P_EIXO_CAMPO_E_LOCALIZACAO
+- **P_EIXO_EPISTEMOLOGICO** — P_EIXO_EPISTEMOLOGICO
+- **P_EIXO_ESCALA_E_ERRO_DE_ESCALA** — P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+- **P_EIXO_ETICO_NARRATIVO** — P_EIXO_ETICO_NARRATIVO
+- **P_EIXO_ONTOLOGICO_NUCLEAR** — P_EIXO_ONTOLOGICO_NUCLEAR
+- **P_EIXO_SIMBOLICO_MEDIACIONAL** — P_EIXO_SIMBOLICO_MEDIACIONAL
+- **P_ESTRUTURA_OPERACIONAL_DO_REAL** — P_ESTRUTURA_OPERACIONAL_DO_REAL
+- **P_PERCURSO_DA_DEGENERACAO_ETICA** — P_PERCURSO_DA_DEGENERACAO_ETICA
+- **P_PERCURSO_DA_VIDA_BOA** — P_PERCURSO_DA_VIDA_BOA
+- **P_PERCURSO_DA_VIDA_BOA_FILOSOFICA** — P_PERCURSO_DA_VIDA_BOA_FILOSOFICA
+- **P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL** — P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL
+- **P_PERCURSO_DO_ERRO_E_CORRECAO** — P_PERCURSO_DO_ERRO_E_CORRECAO
+- **P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO** — P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO
+- **P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA** — P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA
+- **P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL** — P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL
+- **P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA** — P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+
+## 10. Argumentos herdados
+- **ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL** — conceito_alvo: D_APREENSAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO** — conceito_alvo: D_ATUALIZACAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO** — conceito_alvo: D_AUTORREFERENCIALIDADE | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL** — conceito_alvo: D_BEM | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA** — conceito_alvo: D_CONSCIENCIA_REFLEXIVA | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO** — conceito_alvo: D_CONTINUO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA** — conceito_alvo: D_CORRECAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL** — conceito_alvo: D_CORRECAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE** — conceito_alvo: D_CRITERIO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO** — conceito_alvo: D_CULTURA | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE** — conceito_alvo: D_DETERMINACAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO** — conceito_alvo: D_DIGNIDADE | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL** — conceito_alvo: D_DIREITO_COMO_DESCRICAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_DISTINCAO_MINIMA** — conceito_alvo: D_DISTINCAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME** — conceito_alvo: D_ERRO_CATEGORIAL | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO** — conceito_alvo: D_ERRO_ONTOLOGICO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS** — conceito_alvo: D_ERRO_DE_ESCALA | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS** — conceito_alvo: D_ESCALA_ONTOLOGICA | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO** — conceito_alvo: D_ESTABILIDADE | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO** — conceito_alvo: D_SISTEMA_SIMBOLICO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO** — conceito_alvo: D_LOCALIDADE | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA** — conceito_alvo: D_MEMORIA | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE** — conceito_alvo: D_NAO_SER | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE** — conceito_alvo: D_PONTO_DE_VISTA | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA** — conceito_alvo: D_REAL | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_RELACIONALIDADE_MINIMA** — conceito_alvo: D_RELACIONALIDADE_MINIMA | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO** — conceito_alvo: D_REPRESENTACAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL** — conceito_alvo: D_SER | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO** — conceito_alvo: D_SER_HUMANO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+- **ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE** — conceito_alvo: D_TEMPO | natureza: meta_dedutivo | criterio_ultimo: D_REAL
+
+## 11. Alertas da reabertura
+- sem alertas
+
+## 12. Próximo uso filosófico
+Usar este ficheiro em paralelo com o dossier de confronto para verificar se a pergunta central, a tese provisória e as objeções realmente condensam a massa fragmentária herdada, ou se simplificam, misturam ou deixam cair tensões importantes.

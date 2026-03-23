@@ -1,0 +1,40 @@
+RELATÓRIO DE REVISÃO DE DOSSIER DE CONFRONTO
+
+Confronto: CF10
+Ficheiro de origem: 16_validacao_integral/03_cadernos_confrontos/CF10_dossier_confronto.md
+Gerado em (UTC): 2026-03-23T17:39:44+00:00
+
+1. Estado global da revisão
+- status_revisao: com_alertas
+- score_formal: 96/100
+- prontidao_formal: alta
+
+2. Resumo do dossier
+- grau_de_prioridade: estrutural
+- grau_de_risco: critico
+- estado_item: revisto
+- necessita_revisao_humana: True
+- número de proposições: 12
+- número de pontes: 3
+- número de ancoragens: 2
+- número de campos: 2
+- número de objeções: 3
+- número de itens de checklist: 4
+
+3. Comparações estruturais internas
+- proposições (secção 7 vs 20): sec7_only=['P43', 'P44', 'P45', 'P46', 'P47', 'P48'] sec20_only=[]
+- pontes (secção 8 vs 20): sec8_only=[] sec20_only=[]
+- ancoragens (secção 9 vs 20): sec9_only=[] sec20_only=[]
+- campos (secção 10 vs 20): sec10_only=[] sec20_only=[]
+
+4. Erros
+- nenhum
+
+5. Alertas
+- Inconsistência entre secção 7 e secção 20 nas proposições: sec7_only=['P43', 'P44', 'P45', 'P46', 'P47', 'P48'] sec20_only=[]
+
+6. Observações operacionais
+- Prontidão formal estimada: alta (score=96/100).
+
+7. Próximo ato sugerido
+- Harmonizar alertas principais e só depois avançar para redação canónica.

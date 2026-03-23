@@ -1,0 +1,775 @@
+{
+  "metadata": {
+    "schema_nome": "indice_cadernos_confrontos_v1",
+    "schema_versao": "1.0",
+    "data_geracao": "2026-03-23T14:55:34+00:00",
+    "gerado_por_script": "gerar_cadernos_redacao_confrontos_v1.py",
+    "descricao": "Índice operacional dos cadernos de redação por confronto.",
+    "idioma": "pt-PT",
+    "projeto": "DoReal / 16_validacao_integral",
+    "estado_global": "gerado"
+  },
+  "fontes": {
+    "fonte_adjudicacao_restrita": "16_validacao_integral/01_dados/adjudicacao_confrontos_filosoficos_restrita_v2.json",
+    "fonte_matriz_confronto": "16_validacao_integral/01_dados/matriz_confronto_filosofico_v1.json",
+    "fonte_proposicoes_enriquecidas": "16_validacao_integral/01_dados/proposicoes_nucleares_enriquecidas_v1.json",
+    "fonte_matriz_pontes": "16_validacao_integral/01_dados/matriz_pontes_entre_niveis_v1.json",
+    "fonte_matriz_ancoragem": "16_validacao_integral/01_dados/matriz_ancoragem_cientifica_v1.json",
+    "fonte_mapa_campos": "16_validacao_integral/01_dados/mapa_campos_do_real_v1.json"
+  },
+  "estatisticas": {
+    "total_cadernos": 18,
+    "total_com_revisao_humana": 9,
+    "total_prioridade_estrutural_ou_critica": 9,
+    "total_risco_alto_ou_critico": 16
+  },
+  "cadernos": [
+    {
+      "confronto_id": "CF01",
+      "titulo_curto": "Ser, real e unidade diferenciada",
+      "tipo_de_problema": "ontologico",
+      "nivel_arquitetonico": "fundacional",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [
+        "P03",
+        "P06",
+        "P09",
+        "P10",
+        "P11",
+        "P12",
+        "P16",
+        "P17",
+        "P20"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B2",
+        "B3"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01"
+      ],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "proposicoes_resumidas": [
+        "**P03** (B1) — Sem distinção, “algo” não tem qualquer sentido operacional.",
+        "**P06** (B1) — Estrutura implica admissibilidades e inadmissibilidades.",
+        "**P09** (B1) — O não-ser não é substância; é função do limite e da exclusão.",
+        "**P10** (B1) — Nem tudo pode ser; há estados não-admissíveis no real.",
+        "**P11** (B2) — O ser não é ponto isolado; é inscrição determinada no real.",
+        "**P12** (B2) — Distinção e limite não implicam fragmentação absoluta; implicam continuidade articulada.",
+        "**P16** (B2) — A continuidade torna possível movimento e estabilidade.",
+        "**P17** (B2) — Da atualização sob limite surgem regularidade, necessidade e contingência.",
+        "**P20** (B3) — Nem toda a realidade se descreve ao mesmo nível; colapsar níveis é erro."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF01_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF02",
+      "titulo_curto": "Manifestação, aparecer e presença",
+      "tipo_de_problema": "fenomenologico",
+      "nivel_arquitetonico": "estrutural",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [
+        "P16",
+        "P23",
+        "P24"
+      ],
+      "blocos_relacionados": [
+        "B2",
+        "B4"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR02"
+      ],
+      "proposicoes_resumidas": [
+        "**P16** (B2) — A continuidade torna possível movimento e estabilidade.",
+        "**P23** (B4) — Nada apreende de fora do real.",
+        "**P24** (B4) — O ser humano é um ente localizado no real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF02_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF03",
+      "titulo_curto": "Vida, organismo e corporeidade",
+      "tipo_de_problema": "antropologico",
+      "nivel_arquitetonico": "regional",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [
+        "P01",
+        "P02",
+        "P05",
+        "P13",
+        "P14",
+        "P15",
+        "P18",
+        "P19",
+        "P21",
+        "P22",
+        "P45"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B2",
+        "B3",
+        "B6"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN04"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC03"
+      ],
+      "campo_ids_relacionados": [
+        "CR06"
+      ],
+      "proposicoes_resumidas": [
+        "**P01** (B1) — Sem isto não há qualquer posição, negação, dúvida ou descrição.",
+        "**P02** (B1) — “Há real” já exclui o vazio absoluto sem qualquer determinabilidade.",
+        "**P05** (B1) — Diferença relacional estável já é padrão, e padrão é estrutura.",
+        "**P13** (B2) — O real não é só estado atual; inclui margem interna compatível.",
+        "**P14** (B2) — Potencialidade não é possível lógico abstrato; é campo real de atualizações compatíveis sob limite.",
+        "**P15** (B2) — Mudança não é salto mágico; é atualização real de potencialidades.",
+        "**P18** (B3) — Determinações e atualizações não ocorrem no vazio; ocorrem em configurações relacionais.",
+        "**P19** (B3) — Há estabilizações locais sem totalização absoluta.",
+        "**P21** (B3) — Tempo, estabilidade e movimento pertencem à estrutura do campo.",
+        "**P22** (B3) — A admissibilidade de descrições e ações depende de campo, escala e limite.",
+        "**P45** (B6) — Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF03_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF04",
+      "titulo_curto": "Consciência, reflexividade e sujeito",
+      "tipo_de_problema": "antropologico",
+      "nivel_arquitetonico": "de_articulacao",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "O problema encosta às pontes PN02 e PN03, que agregam P30 e transições sensíveis entre organismo, cognição e linguagem.",
+      "proposicao_ids": [
+        "P23",
+        "P24",
+        "P25",
+        "P26",
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02",
+        "PN03",
+        "PN04"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR02"
+      ],
+      "proposicoes_resumidas": [
+        "**P23** (B4) — Nada apreende de fora do real.",
+        "**P24** (B4) — O ser humano é um ente localizado no real.",
+        "**P25** (B4) — Apreensão é relação situada com o real.",
+        "**P26** (B4) — A apreensão transforma-se em representação operável.",
+        "**P31** (B5) — A representação pode adequar-se ou desadequar-se ao real.",
+        "**P34** (B5) — Verdade é adequação sob critério e submissão ao real.",
+        "**P37** (B5) — A correção é reinscrição no real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF04_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF05",
+      "titulo_curto": "Tempo, memória e identidade",
+      "tipo_de_problema": "fenomenologico",
+      "nivel_arquitetonico": "de_articulacao",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "medio",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [
+        "P23",
+        "P24",
+        "P25"
+      ],
+      "blocos_relacionados": [
+        "B4"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR02"
+      ],
+      "proposicoes_resumidas": [
+        "**P23** (B4) — Nada apreende de fora do real.",
+        "**P24** (B4) — O ser humano é um ente localizado no real.",
+        "**P25** (B4) — Apreensão é relação situada com o real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF05_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF06",
+      "titulo_curto": "Linguagem, símbolo e sentido",
+      "tipo_de_problema": "semantico_linguistico",
+      "nivel_arquitetonico": "de_passagem",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "Risco crítico de salto entre níveis ou de derivação normativa.",
+      "proposicao_ids": [
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31",
+        "P34",
+        "P37"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR02",
+        "CR05"
+      ],
+      "proposicoes_resumidas": [
+        "**P27** (B4) — A mediação estabiliza-se em linguagem.",
+        "**P28** (B4) — A consciência é processo no real, não instância exterior ao real.",
+        "**P29** (B4) — Não é absoluto exterior ao limite; é orientação possível no campo do real.",
+        "**P30** (B5) — O ser reflexivo representa o real.",
+        "**P31** (B5) — A representação pode adequar-se ou desadequar-se ao real.",
+        "**P34** (B5) — Verdade é adequação sob critério e submissão ao real.",
+        "**P37** (B5) — A correção é reinscrição no real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF06_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF07",
+      "titulo_curto": "Verdade, erro, critério e correção",
+      "tipo_de_problema": "epistemologico",
+      "nivel_arquitetonico": "estrutural",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "Risco crítico de salto entre níveis ou de derivação normativa.",
+      "proposicao_ids": [
+        "P24",
+        "P25",
+        "P26",
+        "P30",
+        "P31",
+        "P32",
+        "P33",
+        "P34",
+        "P35",
+        "P37",
+        "P40",
+        "P45"
+      ],
+      "blocos_relacionados": [
+        "B4",
+        "B5",
+        "B6"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR02",
+        "CR05"
+      ],
+      "proposicoes_resumidas": [
+        "**P24** (B4) — O ser humano é um ente localizado no real.",
+        "**P25** (B4) — Apreensão é relação situada com o real.",
+        "**P26** (B4) — A apreensão transforma-se em representação operável.",
+        "**P30** (B5) — O ser reflexivo representa o real.",
+        "**P31** (B5) — A representação pode adequar-se ou desadequar-se ao real.",
+        "**P32** (B5) — Sem critério, não há avaliação da representação.",
+        "**P33** (B5) — Caso contrário degrada-se em coerência interna ou fechamento sistémico.",
+        "**P34** (B5) — Verdade é adequação sob critério e submissão ao real.",
+        "**P35** (B5) — Sem distinção entre adequação e desadequação não há sequer crítica.",
+        "**P37** (B5) — A correção é reinscrição no real.",
+        "**P40** (B6) — Dano real é critério negativo ancorado no real: há trajetos que degradam condições e estreitam potencialidades.",
+        "**P45** (B6) — Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF07_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF08",
+      "titulo_curto": "Causalidade, emergência e passagem de níveis",
+      "tipo_de_problema": "transversal",
+      "nivel_arquitetonico": "de_passagem",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "Risco crítico de salto entre níveis ou de derivação normativa.",
+      "proposicao_ids": [
+        "P04",
+        "P05",
+        "P07",
+        "P08",
+        "P16",
+        "P18",
+        "P19",
+        "P23",
+        "P27",
+        "P28",
+        "P29",
+        "P30",
+        "P31"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN02",
+        "PN03",
+        "PN04"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR02",
+        "CR05",
+        "CR06"
+      ],
+      "proposicoes_resumidas": [
+        "**P04** (B1) — Toda a distinção implica ao menos não-identidade entre pólos.",
+        "**P05** (B1) — Diferença relacional estável já é padrão, e padrão é estrutura.",
+        "**P07** (B1) — Ser algo é ser determinado sob limite.",
+        "**P08** (B1) — Determinar é excluir o que aquela determinação não é.",
+        "**P16** (B2) — A continuidade torna possível movimento e estabilidade.",
+        "**P18** (B3) — Determinações e atualizações não ocorrem no vazio; ocorrem em configurações relacionais.",
+        "**P19** (B3) — Há estabilizações locais sem totalização absoluta.",
+        "**P23** (B4) — Nada apreende de fora do real.",
+        "**P27** (B4) — A mediação estabiliza-se em linguagem.",
+        "**P28** (B4) — A consciência é processo no real, não instância exterior ao real.",
+        "**P29** (B4) — Não é absoluto exterior ao limite; é orientação possível no campo do real.",
+        "**P30** (B5) — O ser reflexivo representa o real.",
+        "**P31** (B5) — A representação pode adequar-se ou desadequar-se ao real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF08_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF09",
+      "titulo_curto": "Ação e liberdade situada",
+      "tipo_de_problema": "pratico_etico",
+      "nivel_arquitetonico": "pratico_normativo",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [
+        "P04",
+        "P05",
+        "P07",
+        "P08",
+        "P36",
+        "P38",
+        "P39",
+        "P40",
+        "P41",
+        "P48"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN04"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01"
+      ],
+      "campo_ids_relacionados": [
+        "CR01"
+      ],
+      "proposicoes_resumidas": [
+        "**P04** (B1) — Toda a distinção implica ao menos não-identidade entre pólos.",
+        "**P05** (B1) — Diferença relacional estável já é padrão, e padrão é estrutura.",
+        "**P07** (B1) — Ser algo é ser determinado sob limite.",
+        "**P08** (B1) — Determinar é excluir o que aquela determinação não é.",
+        "**P36** (B5) — O erro não é só incoerência; é desalinhar-se com o real.",
+        "**P38** (B6) — A ação do ser reflexivo é atualização real com consequências.",
+        "**P39** (B6) — Algumas trajetórias estreitam o campo do poder-ser; outras preservam ou ampliam.",
+        "**P40** (B6) — Dano real é critério negativo ancorado no real: há trajetos que degradam condições e estreitam potencialidades.",
+        "**P41** (B6) — O real já introduz um mínimo negativo objetivo.",
+        "**P48** (B7) — Não manda o impossível; orienta o possível real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF09_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF10",
+      "titulo_curto": "Dano, bem, mal e normatividade",
+      "tipo_de_problema": "pratico_etico",
+      "nivel_arquitetonico": "pratico_normativo",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "Risco crítico de salto entre níveis ou de derivação normativa.",
+      "proposicao_ids": [
+        "P04",
+        "P07",
+        "P08",
+        "P39",
+        "P40",
+        "P42",
+        "P43",
+        "P44",
+        "P45",
+        "P46",
+        "P47",
+        "P48"
+      ],
+      "blocos_relacionados": [
+        "B1",
+        "B6",
+        "B7"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC03"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR04"
+      ],
+      "proposicoes_resumidas": [
+        "**P04** (B1) — Toda a distinção implica ao menos não-identidade entre pólos.",
+        "**P07** (B1) — Ser algo é ser determinado sob limite.",
+        "**P08** (B1) — Determinar é excluir o que aquela determinação não é.",
+        "**P39** (B6) — Algumas trajetórias estreitam o campo do poder-ser; outras preservam ou ampliam.",
+        "**P40** (B6) — Dano real é critério negativo ancorado no real: há trajetos que degradam condições e estreitam potencialidades.",
+        "**P42** (B6) — A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração.",
+        "**P43** (B6) — A direção exige fixação operativa de vetores de ação.",
+        "**P44** (B6) — Quando a atualização se orienta adequadamente no campo sob critério, verdade, direção e não-dano, instala-se o bem.",
+        "**P45** (B6) — Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada.",
+        "**P46** (B7) — Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+        "**P47** (B7) — Não é imposição externa; é exigência derivada de verdade, correção, dano real e direção.",
+        "**P48** (B7) — Não manda o impossível; orienta o possível real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF10_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF11",
+      "titulo_curto": "Responsabilidade, dignidade e vida boa",
+      "tipo_de_problema": "pratico_etico",
+      "nivel_arquitetonico": "pratico_normativo",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "critico",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "Risco crítico de salto entre níveis ou de derivação normativa.",
+      "proposicao_ids": [
+        "P46",
+        "P47",
+        "P49",
+        "P50",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B7"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC03"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR04"
+      ],
+      "proposicoes_resumidas": [
+        "**P46** (B7) — Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+        "**P47** (B7) — Não é imposição externa; é exigência derivada de verdade, correção, dano real e direção.",
+        "**P49** (B7) — O ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.",
+        "**P50** (B7) — Aqui o sistema fecha a ética não na convenção, mas no estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+        "**P51** (B7) — A vida boa é atualização adequada, verdadeira, corrigível e não-degenerativa do ser reflexivo entre outros seres reflexivos no real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF11_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF12",
+      "titulo_curto": "Intersubjetividade, formas sociais e instituições",
+      "tipo_de_problema": "social_historico",
+      "nivel_arquitetonico": "regional",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [
+        "P41",
+        "P42",
+        "P43",
+        "P49"
+      ],
+      "blocos_relacionados": [
+        "B6",
+        "B7"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR04"
+      ],
+      "proposicoes_resumidas": [
+        "**P41** (B6) — O real já introduz um mínimo negativo objetivo.",
+        "**P42** (B6) — A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração.",
+        "**P43** (B6) — A direção exige fixação operativa de vetores de ação.",
+        "**P49** (B7) — O ser reflexivo responde pelas atualizações que pode orientar no campo em que existe."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF12_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF13",
+      "titulo_curto": "Historicidade, cultura e sedimentação",
+      "tipo_de_problema": "social_historico",
+      "nivel_arquitetonico": "regional",
+      "grau_de_prioridade": "media",
+      "grau_de_risco": "alto",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "Risco crítico de salto entre níveis ou de derivação normativa.",
+      "proposicao_ids": [
+        "P50",
+        "P51"
+      ],
+      "blocos_relacionados": [
+        "B7"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN04",
+        "PN05"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC03"
+      ],
+      "campo_ids_relacionados": [
+        "CR04"
+      ],
+      "proposicoes_resumidas": [
+        "**P50** (B7) — Aqui o sistema fecha a ética não na convenção, mas no estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+        "**P51** (B7) — A vida boa é atualização adequada, verdadeira, corrigível e não-degenerativa do ser reflexivo entre outros seres reflexivos no real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF13_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF14",
+      "titulo_curto": "Critério último e fecho do sistema",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "meta_sistemico",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A lista embrionária apresenta este problema como necessidade explícita, mas a sua formulação final ainda não está estabilizada nos artefactos gerados.",
+      "proposicao_ids": [],
+      "blocos_relacionados": [],
+      "ponte_ids_relacionadas": [],
+      "ancoragem_ids_relacionadas": [],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "proposicoes_resumidas": [],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF14_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF15",
+      "titulo_curto": "Inteligibilidade do sistema",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "meta_sistemico",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "alto",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [],
+      "blocos_relacionados": [],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "proposicoes_resumidas": [],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF15_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF16",
+      "titulo_curto": "Passagem entre regimes de validação",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "de_passagem",
+      "grau_de_prioridade": "estrutural",
+      "grau_de_risco": "critico",
+      "estado_item": "revisto",
+      "necessita_revisao_humana": true,
+      "motivo_revisao_humana": "A própria lista embrionária assinala este problema como decisivo e as pontes PN04 e PN05 concentram riscos altos/críticos.",
+      "proposicao_ids": [
+        "P39",
+        "P48"
+      ],
+      "blocos_relacionados": [
+        "B6",
+        "B7"
+      ],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR02",
+        "CR03"
+      ],
+      "proposicoes_resumidas": [
+        "**P39** (B6) — Algumas trajetórias estreitam o campo do poder-ser; outras preservam ou ampliam.",
+        "**P48** (B7) — Não manda o impossível; orienta o possível real."
+      ],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF16_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF17",
+      "titulo_curto": "Arquitetura do percurso filosófico",
+      "tipo_de_problema": "metaestrutural",
+      "nivel_arquitetonico": "meta_sistemico",
+      "grau_de_prioridade": "alta",
+      "grau_de_risco": "alto",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [],
+      "blocos_relacionados": [],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [],
+      "campo_ids_relacionados": [
+        "CR03"
+      ],
+      "proposicoes_resumidas": [],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF17_dossier_confronto.md"
+    },
+    {
+      "confronto_id": "CF18",
+      "titulo_curto": "Mapa auxiliar de reconhecimento filosófico",
+      "tipo_de_problema": "transversal",
+      "nivel_arquitetonico": "de_articulacao",
+      "grau_de_prioridade": "media",
+      "grau_de_risco": "baixo",
+      "estado_item": "preenchido",
+      "necessita_revisao_humana": false,
+      "motivo_revisao_humana": "",
+      "proposicao_ids": [],
+      "blocos_relacionados": [],
+      "ponte_ids_relacionadas": [
+        "PN01",
+        "PN02",
+        "PN03"
+      ],
+      "ancoragem_ids_relacionadas": [
+        "AC01",
+        "AC02"
+      ],
+      "campo_ids_relacionados": [
+        "CR01",
+        "CR02",
+        "CR03"
+      ],
+      "proposicoes_resumidas": [],
+      "ficheiro_markdown": "16_validacao_integral/03_cadernos_confrontos/CF18_dossier_confronto.md"
+    }
+  ]
+}

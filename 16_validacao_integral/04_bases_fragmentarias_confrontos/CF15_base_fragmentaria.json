@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "script": "reabrir_base_fragmentaria_confronto_v1.py",
+    "gerado_em": "2026-03-23T19:11:37+00:00",
+    "estado_global": "reaberto",
+    "confronto_id": "CF15",
+    "project_root": "C:\\Users\\JoseVitorinoQuintas\\DoReal",
+    "fontes": {
+      "dossier_confronto": "16_validacao_integral/03_cadernos_confrontos/CF15_dossier_confronto.md",
+      "proposicoes_nucleares_enriquecidas": "16_validacao_integral/01_dados/proposicoes_nucleares_enriquecidas_v1.json",
+      "arvore_do_pensamento": "15_arvore_do_pensamento/01_dados/arvore_do_pensamento_v1.json",
+      "impacto_fragmentos_no_mapa": "14_mapa_dedutivo/impacto_fragmentos_no_mapa.json",
+      "arquitetura_fragmentos_mapa": "14_mapa_dedutivo/02_mapa_dedutivo_arquitetura_fragmentos.json"
+    }
+  },
+  "confronto": {
+    "confronto_id": "CF15",
+    "dossier_snapshot": {
+      "pergunta_central": "O que torna o sistema inteiro inteligível e reconstruível como todo?",
+      "descricao_do_confronto": "Problema da ordem, dependência entre partes, reconstrução dedutiva e inteligibilidade global do sistema.",
+      "tese_canonica_provisoria": "Quanto a inteligibilidade do sistema, a tese canónica provisória é a seguinte: A inteligibilidade do todo depende de dependências explícitas, ordem do percurso e controlo das passagens entre regimes e níveis.",
+      "articulacao_estrutural": "pontes entre níveis: PN01, PN02, PN03; campos do real: CR03"
+    },
+    "proposicoes_do_dossier": []
+  },
+  "estatisticas": {
+    "n_proposicoes_dossier": 0,
+    "n_proposicoes_localizadas": 0,
+    "n_fragmentos": 0,
+    "n_microlinhas": 0,
+    "n_ramos": 0,
+    "n_percursos": 0,
+    "n_argumentos": 0,
+    "n_registos_impacto_fragmentos": 0,
+    "n_fragmentos_com_tratamento_filosofico": 0
+  },
+  "cobertura": {
+    "proposicoes_alvo": [],
+    "cobertura_por_proposicao": [],
+    "proposicoes_sem_fragmentos": [],
+    "proposicoes_sem_registo_impacto_explicito": []
+  },
+  "proposicoes": [],
+  "fragmentos": [],
+  "microlinhas": [],
+  "ramos": [],
+  "percursos": [],
+  "argumentos": [],
+  "arquitetura_auxiliar": {
+    "meta_arquitetura_fragmentos": {
+      "nome": "mapa_dedutivo_integral_grelha_fragmentos",
+      "versao": "0.1",
+      "objetivo": "Estrutura-mãe para reconstrução integral do mapa dedutivo e confronto sistemático com os fragmentos tratados.",
+      "modo_de_uso": [
+        "Cada proposição é uma unidade lógico-editorial autónoma.",
+        "Os fragmentos não servem só para confirmar; servem para explicitar, corrigir, mediar ou obrigar a criar novos passos.",
+        "A decisão editorial deve ser sempre separada da justificação do passo e da formulação académica."
+      ],
+      "regras_de_decisao": {
+        "repete": "O fragmento confirma ou reformula sem ganho estrutural relevante.",
+        "explicita": "O fragmento torna explícito o que estava implícito.",
+        "corrige": "O fragmento mostra insuficiência ou desvio da formulação atual.",
+        "medeia": "O fragmento introduz ponte necessária entre passos.",
+        "novo_passo": "O fragmento obriga a inserir novo passo ou subdivisão."
+      }
+    },
+    "indices_disponiveis": [
+      "total_blocos",
+      "total_proposicoes",
+      "proposicoes_por_estado",
+      "nos_criticos_iniciais"
+    ]
+  },
+  "validacao": {
+    "erros": [
+      "Nenhum fragmento foi reconstituído a partir das proposições do confronto."
+    ],
+    "alertas": [
+      "Nenhum fragmento reconstituído traz tratamento_filosofico preenchido na árvore."
+    ],
+    "status": "com_erros"
+  }
+}

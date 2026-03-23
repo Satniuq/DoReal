@@ -1,0 +1,57 @@
+RELATÓRIO — GERAÇÃO DOS CADERNOS DE REDAÇÃO DOS CONFRONTOS V1
+==============================================================================
+Data de geração: 2026-03-23T14:55:34+00:00
+Estado global: gerado
+
+Ficheiros lidos:
+------------------------------------------------------------------------------
+- adjudicacao_restrita: 16_validacao_integral/01_dados/adjudicacao_confrontos_filosoficos_restrita_v2.json
+- matriz_confronto: 16_validacao_integral/01_dados/matriz_confronto_filosofico_v1.json
+- proposicoes: 16_validacao_integral/01_dados/proposicoes_nucleares_enriquecidas_v1.json
+- pontes: 16_validacao_integral/01_dados/matriz_pontes_entre_niveis_v1.json
+- ancoragem: 16_validacao_integral/01_dados/matriz_ancoragem_cientifica_v1.json
+- campos: 16_validacao_integral/01_dados/mapa_campos_do_real_v1.json
+
+Ficheiros escritos:
+------------------------------------------------------------------------------
+- pasta_cadernos: 16_validacao_integral/03_cadernos_confrontos
+- indice_json: 16_validacao_integral/03_cadernos_confrontos/indice_cadernos_confrontos.json
+- relatorio_txt: 16_validacao_integral/02_outputs/relatorio_geracao_cadernos_confrontos_v1.txt
+
+Resumo quantitativo:
+------------------------------------------------------------------------------
+- total_cadernos: 18
+- gerados_ou_atualizados_nesta_execucao: 18
+- preservados_sem_reescrita: 0
+- total_com_revisao_humana: 9
+- total_prioridade_estrutural_ou_critica: 9
+- total_risco_alto_ou_critico: 16
+
+Distribuições:
+------------------------------------------------------------------------------
+- por_prioridade: {"alta": 7, "estrutural": 9, "media": 2}
+- por_risco: {"alto": 11, "baixo": 1, "critico": 5, "medio": 1}
+- por_estado_item: {"preenchido": 9, "revisto": 9}
+
+Listagem dos cadernos:
+------------------------------------------------------------------------------
+- CF01 | prioridade=estrutural | risco=alto | revisão_humana=não | Ser, real e unidade diferenciada
+- CF02 | prioridade=alta | risco=alto | revisão_humana=não | Manifestação, aparecer e presença
+- CF03 | prioridade=alta | risco=alto | revisão_humana=não | Vida, organismo e corporeidade
+- CF04 | prioridade=estrutural | risco=alto | revisão_humana=sim | Consciência, reflexividade e sujeito
+- CF05 | prioridade=alta | risco=medio | revisão_humana=não | Tempo, memória e identidade
+- CF06 | prioridade=estrutural | risco=alto | revisão_humana=sim | Linguagem, símbolo e sentido
+- CF07 | prioridade=estrutural | risco=alto | revisão_humana=sim | Verdade, erro, critério e correção
+- CF08 | prioridade=estrutural | risco=critico | revisão_humana=sim | Causalidade, emergência e passagem de níveis
+- CF09 | prioridade=alta | risco=alto | revisão_humana=não | Ação e liberdade situada
+- CF10 | prioridade=estrutural | risco=critico | revisão_humana=sim | Dano, bem, mal e normatividade
+- CF11 | prioridade=alta | risco=critico | revisão_humana=sim | Responsabilidade, dignidade e vida boa
+- CF12 | prioridade=alta | risco=alto | revisão_humana=não | Intersubjetividade, formas sociais e instituições
+- CF13 | prioridade=media | risco=alto | revisão_humana=sim | Historicidade, cultura e sedimentação
+- CF14 | prioridade=estrutural | risco=critico | revisão_humana=sim | Critério último e fecho do sistema
+- CF15 | prioridade=estrutural | risco=alto | revisão_humana=não | Inteligibilidade do sistema
+- CF16 | prioridade=estrutural | risco=critico | revisão_humana=sim | Passagem entre regimes de validação
+- CF17 | prioridade=alta | risco=alto | revisão_humana=não | Arquitetura do percurso filosófico
+- CF18 | prioridade=media | risco=baixo | revisão_humana=não | Mapa auxiliar de reconhecimento filosófico
+
+Concluído sem erros de validação.

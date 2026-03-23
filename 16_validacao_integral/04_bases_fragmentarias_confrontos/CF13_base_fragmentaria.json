@@ -1,0 +1,4176 @@
+{
+  "metadata": {
+    "script": "reabrir_base_fragmentaria_confronto_v1.py",
+    "gerado_em": "2026-03-23T19:11:37+00:00",
+    "estado_global": "reaberto",
+    "confronto_id": "CF13",
+    "project_root": "C:\\Users\\JoseVitorinoQuintas\\DoReal",
+    "fontes": {
+      "dossier_confronto": "16_validacao_integral/03_cadernos_confrontos/CF13_dossier_confronto.md",
+      "proposicoes_nucleares_enriquecidas": "16_validacao_integral/01_dados/proposicoes_nucleares_enriquecidas_v1.json",
+      "arvore_do_pensamento": "15_arvore_do_pensamento/01_dados/arvore_do_pensamento_v1.json",
+      "impacto_fragmentos_no_mapa": "14_mapa_dedutivo/impacto_fragmentos_no_mapa.json",
+      "arquitetura_fragmentos_mapa": "14_mapa_dedutivo/02_mapa_dedutivo_arquitetura_fragmentos.json"
+    }
+  },
+  "confronto": {
+    "confronto_id": "CF13",
+    "dossier_snapshot": {
+      "pergunta_central": "Que papel têm história, cultura e sedimentação na regionalização das categorias práticas e simbólicas?",
+      "descricao_do_confronto": "Problema da forma histórico-cultural do real humano, incluindo sedimentação de práticas, linguagem, instituições e normas.",
+      "tese_canonica_provisoria": "Quanto a historicidade, cultura e sedimentação, a tese canónica provisória é a seguinte: A historicidade regionaliza a normatividade e a simbolização, mas não pode abolir a diferença entre sedimentação histórica e critério real.",
+      "articulacao_estrutural": "proposições nucleares: P50, P51; pontes entre níveis: PN01, PN05, PN04; ancoragens científicas: AC03; campos do real: CR04"
+    },
+    "proposicoes_do_dossier": [
+      "P50",
+      "P51"
+    ]
+  },
+  "estatisticas": {
+    "n_proposicoes_dossier": 2,
+    "n_proposicoes_localizadas": 2,
+    "n_fragmentos": 38,
+    "n_microlinhas": 10,
+    "n_ramos": 9,
+    "n_percursos": 3,
+    "n_argumentos": 13,
+    "n_registos_impacto_fragmentos": 0,
+    "n_fragmentos_com_tratamento_filosofico": 38
+  },
+  "cobertura": {
+    "proposicoes_alvo": [
+      "P50",
+      "P51"
+    ],
+    "cobertura_por_proposicao": [
+      {
+        "proposicao_id": "P50",
+        "n_fragmentos": 30,
+        "n_registos_impacto": 0
+      },
+      {
+        "proposicao_id": "P51",
+        "n_fragmentos": 8,
+        "n_registos_impacto": 0
+      }
+    ],
+    "proposicoes_sem_fragmentos": [],
+    "proposicoes_sem_registo_impacto_explicito": [
+      "P50",
+      "P51"
+    ]
+  },
+  "proposicoes": [
+    {
+      "proposicao_id": "P50",
+      "texto": "A dignidade exprime o limite normativo forte que decorre do estatuto ontológico-reflexivo do ser humano enquanto ser real, vulnerável, situado e capaz de orientação.",
+      "texto_curto": "Aqui o sistema fecha a ética não na convenção, mas no estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+      "bloco_id": "B7",
+      "bloco_titulo": "Fecho ético",
+      "ordem_global": 50,
+      "arquitetura_origem": {
+        "fragmento_ids": [
+          "F0021_SEG_001",
+          "F0021_SEG_002",
+          "F0022_SEG_001",
+          "F0023_SEG_001",
+          "F0024_SEG_001",
+          "F0063_A01_SEG_003",
+          "F0063_A02_SEG_001",
+          "F0063_A02_SEG_002",
+          "F0064_A01_SEG_001",
+          "F0064_A01_SEG_002",
+          "F0084_A01_SEG_001",
+          "F0084_A01_SEG_002",
+          "F0084_A01_SEG_003",
+          "F0084_A02_SEG_001",
+          "F0084_A02_SEG_002",
+          "F0088_A02_SEG_003",
+          "F0089_SEG_001",
+          "F0089_SEG_002",
+          "F0089_SEG_003",
+          "F0090_A01_SEG_001",
+          "F0121_A02_SEG_001",
+          "F0121_A02_SEG_002",
+          "F0122_SEG_001",
+          "F0122_SEG_002",
+          "F0163_SEG_001",
+          "F0241_A05_SEG_002",
+          "F0241_A05_SEG_003",
+          "F0241_A05_SEG_004",
+          "F0241_A06_SEG_001",
+          "F0241_A06_SEG_002"
+        ],
+        "microlinha_ids": [
+          "ML_0008",
+          "ML_0024",
+          "ML_0044",
+          "ML_0051",
+          "ML_0105",
+          "ML_0126",
+          "ML_0165"
+        ],
+        "ramo_ids": [
+          "RA_0001",
+          "RA_0007",
+          "RA_0012",
+          "RA_0013",
+          "RA_0029",
+          "RA_0038",
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO",
+          "P_EIXO_SIMBOLICO_MEDIACIONAL"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL",
+          "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+          "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+          "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+        ],
+        "convergencia_ids": [],
+        "relacao_ids": []
+      }
+    },
+    {
+      "proposicao_id": "P51",
+      "texto": "A vida boa designa a forma de atualização em que verdade, correção, não-dano, direção e co-existência reflexiva se articulam adequadamente.",
+      "texto_curto": "A vida boa é atualização adequada, verdadeira, corrigível e não-degenerativa do ser reflexivo entre outros seres reflexivos no real.",
+      "bloco_id": "B7",
+      "bloco_titulo": "Fecho ético",
+      "ordem_global": 51,
+      "arquitetura_origem": {
+        "fragmento_ids": [
+          "F0060_A01_SEG_006",
+          "F0060_A02_SEG_001",
+          "F0173_SEG_001",
+          "F0241_A07_SEG_001",
+          "F0241_A07_SEG_002",
+          "F0241_A07_SEG_003",
+          "F0241_A07_SEG_004",
+          "F0241_A08_SEG_001"
+        ],
+        "microlinha_ids": [
+          "ML_0020",
+          "ML_0130",
+          "ML_0167"
+        ],
+        "ramo_ids": [
+          "RA_0005",
+          "RA_0040",
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO",
+          "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL",
+          "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+          "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+          "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+        ],
+        "convergencia_ids": [],
+        "relacao_ids": []
+      }
+    }
+  ],
+  "fragmentos": [
+    {
+      "id": "F0021_SEG_001",
+      "origem_id": "F0021",
+      "ordem_no_ficheiro": 22,
+      "texto_fragmento": "[Questão do autor]\nO que a consciência faz é buscar a verdade, logo tem de haver verdade, porque é a realidade.\nMas os dados sensoriais são sempre referentes a qualquer coisa, que é a realidade.\nEra só para ir afinando as coisas: quais são os problemas que tenho então com a ciência do cérebro?\n\n[Entrada GPT]\n1. O problema da intencionalidade causal  \n2. O problema da correspondência (representação vs realidade)  \n3. O problema da consciência fenomenal  \n4. O problema da causalidade descendente",
+      "texto_curto": "[Questão do autor] O que a consciência faz é buscar a verdade, logo tem de haver verdade, porque é a realidade. Mas os dados sensoriais são sempre referentes a qualquer coisa, que é a realidade. Era só para ir afinando as coisas: quais são os problemas que tenho então com a ciên…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "resposta",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "prepara",
+        "centralidade": "transitorio",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Abre o problema consciência-realidade e enquadra objeções ao cerebralismo.",
+        "problema_filosofico_central": "consciencia_como_processo_no_real",
+        "trabalho_no_sistema": "abre_problema_ontologico",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "redacional",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P28",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_indiretamente"
+          },
+          {
+            "proposicao_id": "P31",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P34",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0008"
+        ],
+        "ramo_ids": [
+          "RA_0001"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0021_SEG_002",
+      "origem_id": "F0021",
+      "ordem_no_ficheiro": 22,
+      "texto_fragmento": "[Resposta do autor]\n1. Ainda que assim seja, há o real e esse é o ponto.  \n2. Se os modelos buscam o que funciona, então buscam a verdade.  \n3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar.  \n4. Nunca percebi isso de “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas quando eu penso de facto, penso sobre o que o meu cérebro determina — e se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+      "texto_curto": "[Resposta do autor] 1. Ainda que assim seja, há o real e esse é o ponto. 2. Se os modelos buscam o que funciona, então buscam a verdade. 3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar. 4. Nunca percebi isso…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "resposta_local",
+      "funcao_textual_dominante": "resposta",
+      "cadencia": {
+        "funcao_cadencia_principal": "resposta",
+        "direcao_movimento": "fecha",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "epistemologia"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Reafirma o real e aproxima funcionamento de verdade.",
+        "problema_filosofico_central": "criterio_de_verdade",
+        "trabalho_no_sistema": "fixa_criterio_de_verdade",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P34",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0008"
+        ],
+        "ramo_ids": [
+          "RA_0001"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0022_SEG_001",
+      "origem_id": "F0022",
+      "ordem_no_ficheiro": 23,
+      "texto_fragmento": "Qualia não são em última instância emoções representadas de outro modo, e as emoções são perfeitamente naturais. A consciência é tão natural que não pode explicar o porquê da sua existência; esse é precisamente o ponto. Isso não afasta nem a existência do real nem aquilo que o real contém, incluindo os qualia.",
+      "texto_curto": "Qualia não são em última instância emoções representadas de outro modo, e as emoções são perfeitamente naturais. A consciência é tão natural que não pode explicar o porquê da sua existência; esse é precisamente o ponto. Isso não afasta nem a existência do real nem aquilo que o r…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "distincao",
+      "cadencia": {
+        "funcao_cadencia_principal": "distincao_conceptual",
+        "direcao_movimento": "retoma",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "transicao_antropologica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Naturaliza consciência e qualia sem negar o real.",
+        "problema_filosofico_central": "consciencia_como_processo_no_real",
+        "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P28",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P24",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0008"
+        ],
+        "ramo_ids": [
+          "RA_0001"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0023_SEG_001",
+      "origem_id": "F0023",
+      "ordem_no_ficheiro": 24,
+      "texto_fragmento": "O homem encontrou o caminho certo com a interação do cristianismo e da liberdade criativa, que seria o único sistema que permitiria tal coisa, ao ter uma representação básica dos melhores modos de ação com a religião que, em liberdade, pudessem aproximar-se mais do descobrimento do real e do bom. Demos passos importantíssimos com a descoberta da previsibilidade da física, isto é, das leis universais — do modo de ser do real. Ainda que com erros, como em Kant, que chegando bem à ideia inicial, extraiu depois remédios irreais, com todos os filósofos e cientistas obtivemos descrições cada vez melhores. O tempo da fundação dos EUA é um marco, porque associa a um enorme território e população um ethos verdadeiro: o homem deve ser livre e digno porque é filho de Deus — isto é, da realidade, criado dentro da realidade. Vê-se que as sociedades que mais criam e inovam são as que preservam este princípio. A Europa, mais tarde, já num tempo em que a receita básica estava teorizada, passou a operar sobre crenças acerca dessa receita; e, pela regra da maioria, criou sistemas cada vez mais racionalizados e labirínticos, cheios de limitações à busca da verdade pelo homem. Já não era a simplicidade e beleza da verdade que pesava na balança, mas a necessidade de limitar o homem segundo sistemas pobres em imaginação. São exemplos da verdade da verdade.",
+      "texto_curto": "O homem encontrou o caminho certo com a interação do cristianismo e da liberdade criativa, que seria o único sistema que permitiria tal coisa, ao ter uma representação básica dos melhores modos de ação com a religião que, em liberdade, pudessem aproximar-se mais do descobrimento…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Articula um critério histórico-político de boa ordem social pela abertura ao real e critica sistemas que a bloqueiam.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "tematica",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "sem_impacto_relevante",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "sem_acao",
+          "prioridade_editorial": "baixa",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0008"
+        ],
+        "ramo_ids": [
+          "RA_0001"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0024_SEG_001",
+      "origem_id": "F0024",
+      "ordem_no_ficheiro": 25,
+      "texto_fragmento": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.",
+      "texto_curto": "[Autor] As instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "afirmacao",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina a prescrição verdadeira à realidade contra a instituição.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_diretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "alta",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0008"
+        ],
+        "ramo_ids": [
+          "RA_0001"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0060_A01_SEG_006",
+      "origem_id": "F0060_A01",
+      "ordem_no_ficheiro": 60,
+      "texto_fragmento": "7. A confusão existe apenas porque o homem moderno pensa fora do real.\n\n8. O conhecimento empírico mostra que o ser reflexivo que vive sabendo o que é é o melhor em todos os critérios de avaliação — biológico, antropológico, sociológico — em qualquer sistema ético, do deontológico ao utilitarista ou emotivista.",
+      "texto_curto": "7. A confusão existe apenas porque o homem moderno pensa fora do real. 8. O conhecimento empírico mostra que o ser reflexivo que vive sabendo o que é é o melhor em todos os critérios de avaliação — biológico, antropológico, sociológico — em qualquer sistema ético, do deontológic…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "resposta",
+        "direcao_movimento": "fecha",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Diagnostica erro por não submissão ao real e associa autoconhecimento a melhor avaliação.",
+        "problema_filosofico_central": "verdade_e_valor",
+        "trabalho_no_sistema": "submete_representacao_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P44",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P51",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0020"
+        ],
+        "ramo_ids": [
+          "RA_0005"
+        ],
+        "percurso_ids": [
+          "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+        ],
+        "argumento_ids": [
+          "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+          "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+          "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0060_A02_SEG_001",
+      "origem_id": "F0060_A02",
+      "ordem_no_ficheiro": 61,
+      "texto_fragmento": "9. É tautológico por necessidade do ser, visto que o agir existe dentro do real.",
+      "texto_curto": "9. É tautológico por necessidade do ser, visto que o agir existe dentro do real.",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "afirmacao_curta",
+      "funcao_textual_dominante": "afirmacao",
+      "cadencia": {
+        "funcao_cadencia_principal": "resposta",
+        "direcao_movimento": "prepara",
+        "centralidade": "transitorio",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "ontologia"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Reinscreve o agir na necessidade do ser.",
+        "problema_filosofico_central": "fundamento_do_dever_ser",
+        "trabalho_no_sistema": "inscreve_elemento_no_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P38",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0020"
+        ],
+        "ramo_ids": [
+          "RA_0005"
+        ],
+        "percurso_ids": [
+          "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+        ],
+        "argumento_ids": [
+          "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+          "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+          "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0063_A01_SEG_003",
+      "origem_id": "F0063_A01",
+      "ordem_no_ficheiro": 65,
+      "texto_fragmento": "Como o homem é livre dentro dos limites do real, as verdades ontológicas intergeracionais que se pretendem preservar devem corresponder ao real. Não é necessário um tratado para enunciar essas verdades: basta reconhecer que o homem é necessariamente livre e digno.\n\nQualquer estrutura que contenha o homem, se quiser ser boa, tem de assumir essas verdades como pressuposto de qualquer proposição. Os valores sociais, enquanto entidades autónomas, não existem; o valor de um sistema depende do modo de existir que o homem faz dele.\n\nA comparação entre civilizações mostra isto: a Constituição norte-americana, com poucos artigos, assenta na ideia de que o existir precede o ser; a Constituição portuguesa, extensa, assenta na ideia de que o ser cria o existir. Apesar disso, ambas chegam às mesmas soluções nos círculos menores, por reconhecerem a liberdade e dignidade humanas.",
+      "texto_curto": "Como o homem é livre dentro dos limites do real, as verdades ontológicas intergeracionais que se pretendem preservar devem corresponder ao real. Não é necessário um tratado para enunciar essas verdades: basta reconhecer que o homem é necessariamente livre e digno. Qualquer estru…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "fecha",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina estruturas e valores sociais à liberdade e dignidade humanas.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0024"
+        ],
+        "ramo_ids": [
+          "RA_0007"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0063_A02_SEG_001",
+      "origem_id": "F0063_A02",
+      "ordem_no_ficheiro": 66,
+      "texto_fragmento": "As soluções jurídicas são versões escritas e duráveis de descrições verdadeiras do que se deve ou não fazer, permitindo à instituição prolongar-se para além da vida dos seus criadores. Nenhuma dessas soluções nasce de uma análise ontológica explícita; surgem da imediaticidade da vida vivida com outros.",
+      "texto_curto": "As soluções jurídicas são versões escritas e duráveis de descrições verdadeiras do que se deve ou não fazer, permitindo à instituição prolongar-se para além da vida dos seus criadores. Nenhuma dessas soluções nasce de uma análise ontológica explícita; surgem da imediaticidade da…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_curto",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Caracteriza o direito como fixação escrita de orientações práticas emergidas da vida comum.",
+        "problema_filosofico_central": "lei_e_fundamento_ontologico",
+        "trabalho_no_sistema": "abre_aplicacao_setorial",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "redacional",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P43",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0024"
+        ],
+        "ramo_ids": [
+          "RA_0007"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0063_A02_SEG_002",
+      "origem_id": "F0063_A02",
+      "ordem_no_ficheiro": 66,
+      "texto_fragmento": "Ambas as formas institucionais podem degenerar no modo de ser humano por defeito de viver no processo. A diferença é que uma expande o campo das potencialidades, enquanto a outra tenta primeiro regular o interruptor e só depois acender a luz.",
+      "texto_curto": "Ambas as formas institucionais podem degenerar no modo de ser humano por defeito de viver no processo. A diferença é que uma expande o campo das potencialidades, enquanto a outra tenta primeiro regular o interruptor e só depois acender a luz.",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "distincao",
+      "cadencia": {
+        "funcao_cadencia_principal": "distincao_conceptual",
+        "direcao_movimento": "fecha",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Distingue dois modos institucionais pelo seu efeito sobre potencialidades e degeneração.",
+        "problema_filosofico_central": "dano_real_e_reducao_de_potencialidades",
+        "trabalho_no_sistema": "identifica_dano_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P39",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P40",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P45",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0024"
+        ],
+        "ramo_ids": [
+          "RA_0007"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0064_A01_SEG_001",
+      "origem_id": "F0064_A01",
+      "ordem_no_ficheiro": 67,
+      "texto_fragmento": "A mudança de perspetiva entre a criança e o adulto decorre da própria definição de ser criança: conhecer o mundo exterior e conhecer-se a si próprio de forma objetiva. Essa mudança ocorre quando o ser assume a crença necessária de que a sua vida lhe pertence e que terá de viver essa vida por sua conta. Essa passagem implica uma alteração de círculos ontológicos.\n\nA criança encontra-se inicialmente no interior de um círculo maior, procurando expandir o seu ser nesse círculo amplo da realidade. Quando se torna consciente de que a sua vida é irredutivelmente a sua, passa a localizar-se no seu próprio círculo. Como os adultos são as crianças que foram, quanto mais real existir no mundo das crianças, mais o homem adulto se orientará pelo real. Quanto mais emotivismo e prevalência do subjetivo sobre a realidade existirem na infância, mais adultos desligados do real surgirão.",
+      "texto_curto": "A mudança de perspetiva entre a criança e o adulto decorre da própria definição de ser criança: conhecer o mundo exterior e conhecer-se a si próprio de forma objetiva. Essa mudança ocorre quando o ser assume a crença necessária de que a sua vida lhe pertence e que terá de viver…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "transicao_antropologica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Descreve a transição criança-adulto como relocalização ontológica.",
+        "problema_filosofico_central": "ser_humano_como_ente_reflexivo",
+        "trabalho_no_sistema": "faz_transicao_de_percurso",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "redacional",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P24",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_indiretamente"
+          },
+          {
+            "proposicao_id": "P28",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          },
+          {
+            "proposicao_id": "P49",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0024"
+        ],
+        "ramo_ids": [
+          "RA_0007"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0064_A01_SEG_002",
+      "origem_id": "F0064_A01",
+      "ordem_no_ficheiro": 67,
+      "texto_fragmento": "Isto constitui mais uma evidência de que o bem coincide com a verdade e que a verdade coincide com o bem, pois sem homens — isto é, sem crianças que se tornam adultos e geram outras crianças — não existe sequer a possibilidade do bem. O universo não necessita do homem; o homem não é especial. Poderia existir outro animal com pensamentos de segunda ordem. Não se trata de antropomorfismo, mas de descrição.",
+      "texto_curto": "Isto constitui mais uma evidência de que o bem coincide com a verdade e que a verdade coincide com o bem, pois sem homens — isto é, sem crianças que se tornam adultos e geram outras crianças — não existe sequer a possibilidade do bem. O universo não necessita do homem; o homem n…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Liga o bem à verdade e descentra o humano.",
+        "problema_filosofico_central": "verdade_e_valor",
+        "trabalho_no_sistema": "deriva_criterio_do_bem",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P44",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0024"
+        ],
+        "ramo_ids": [
+          "RA_0007"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0084_A01_SEG_001",
+      "origem_id": "F0084_A01",
+      "ordem_no_ficheiro": 92,
+      "texto_fragmento": "Imagino mais como uma tela branca cheia de pulsões, como o campo subatómico virtual, o campo do poder-ser, que se vai pintando e compondo pelas relações que a tela e a tinta permitem. Como um átomo, uma molécula, uma estrutura atualizada, sempre limitada pelo que pode ser, até que o que pode ser passa a ver o próprio pode-ser e a entrar no dever-ser.\n\nAs ideias que nós temos, os pensamentos, refletem-se em ideias coletivas, claro, mas os modos de pensar e os modos de ser que encarnamos dependem em larga escala do campo das possibilidades. E isto é real. Não há potencialidades não atualizáveis, porque sendo o ser contínuo, sendo, nem que seja pela simples expressão do movimento e pela estabilidade estrutural dos objetos que compõem o mundo — isto é, das relações que propiciam a aparência e a atualidade das coisas —, temos já uma alegoria.",
+      "texto_curto": "Imagino mais como uma tela branca cheia de pulsões, como o campo subatómico virtual, o campo do poder-ser, que se vai pintando e compondo pelas relações que a tela e a tinta permitem. Como um átomo, uma molécula, uma estrutura atualizada, sempre limitada pelo que pode ser, até q…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "introduz",
+        "centralidade": "exploratorio",
+        "estatuto_no_percurso": "ponte_entre_zonas",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Descreve o poder-ser como campo real de atualizações e esboça a passagem ao dever-ser.",
+        "problema_filosofico_central": "potencialidade_e_atualizacao",
+        "trabalho_no_sistema": "descreve_dinamica_ontologica",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P13",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P14",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P15",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0044"
+        ],
+        "ramo_ids": [
+          "RA_0012"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0084_A01_SEG_002",
+      "origem_id": "F0084_A01",
+      "ordem_no_ficheiro": 92,
+      "texto_fragmento": "As ideias que temos vêm sempre de ideias anteriores. Não há ideias inovadoras coletivas, porque o coletivo não existe enquanto apreensão do real. Só daquele que consegue apreender o real pode vir alguma ideia, algum pensamento, algum alcance do modo de ser mais próximo do real. E isto leva a todo o tipo de dinâmicas progressistas, até ao ponto — que já sabemos ser incoerente — de se tentar apreender qual o melhor comportamento, os melhores modos de educação, aquilo que mantém a coesão anterior e propicia um melhor, ou menos mau, estado de coisas futuro.\n\nA descoberta do processo, da forma, do modo de ser, do círculo da mecânica das sociedades e do círculo do indivíduo, é o descobrimento do real relativamente a círculos mais abrangentes do que antes. Isto acontece porque se conhece a minuciosidade daquilo que faz o tique-taque no ser humano e o modo como isso se expressa — ou melhor, como se categorizam os modos de ser coletivos. Mas isto é invertido: parte-se do modo de ser coletivo para inferir tudo, quando só pela observação dos meios de ser coletivos se pode inferir alguma coisa.\n\nE o ser vai-se relegando Deus, aprimorando a minuciosidade do campo, daquilo que está à frente, da mecanicidade, mesmo que isso seja partilhado por três mil milhões de outros seres.\n\nQuando se fala de causa e efeito para dizer que tudo é mecanicista, que não há livre-arbítrio, ou que tudo se reduz a determinismo, está-se apenas a pensar a partir da ideia descoberta de que há causa e efeito na física das coisas. Depois o modo de operar coletivo futuro vive sobre a representação dessa ideia, desse novo espaço iluminado, e não sobre o conjunto das luzes que ali estão, mas apenas sobre o espaço iluminado. Isto faz com que a aproximação ao real seja inferior.\n\nAo descobrir-se o ser e ao aplicá-lo à liberdade humana — que é no fundo o que está em causa —, o homem percebe que não é uma árvore a crescer para onde o ramo quer. Está num campo onde pode representar o mundo, refletir-se sobre ele e agir mediante pensamento de segunda e terceira ordem, com pontos de vista internos e determinantes. E dizer que isto é uma relação simples, sem condições passadas, presentes e prováveis, é falso.",
+      "texto_curto": "As ideias que temos vêm sempre de ideias anteriores. Não há ideias inovadoras coletivas, porque o coletivo não existe enquanto apreensão do real. Só daquele que consegue apreender o real pode vir alguma ideia, algum pensamento, algum alcance do modo de ser mais próximo do real.…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Critica a hipóstase do coletivo e a extrapolação mecanicista.",
+        "problema_filosofico_central": "erro_categorial",
+        "trabalho_no_sistema": "desfaz_confusao_categorial",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P25",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P28",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P29",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P36",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0044"
+        ],
+        "ramo_ids": [
+          "RA_0012"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0084_A01_SEG_003",
+      "origem_id": "F0084_A01",
+      "ordem_no_ficheiro": 92,
+      "texto_fragmento": "A intensificação não é para a intensificação. É apenas o caminho para a dignidade, para o reconhecimento de que eu sou tanto como qualquer outro. Do ponto de vista ontológico. E isto leva-se depois a todo o tipo de justificações para comportamentos, até contra o real.",
+      "texto_curto": "A intensificação não é para a intensificação. É apenas o caminho para a dignidade, para o reconhecimento de que eu sou tanto como qualquer outro. Do ponto de vista ontológico. E isto leva-se depois a todo o tipo de justificações para comportamentos, até contra o real.",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_curto",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "critica_de_erro",
+        "direcao_movimento": "fecha",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina a dignidade ao real e critica justificações contra o real.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_diretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0044"
+        ],
+        "ramo_ids": [
+          "RA_0012"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0084_A02_SEG_001",
+      "origem_id": "F0084_A02",
+      "ordem_no_ficheiro": 93,
+      "texto_fragmento": "Pela própria natureza da quantidade de modos de ser que existem no mundo, a maioria das pessoas vive 99% dos seus dias na sua própria cabeça, com o seu ponto de vista como centro do mundo. O afastamento do real adensa-se pelo relativismo das proposições ditas verdadeiras. Essa relatividade afasta sempre do real, mesmo quando é apresentada como conhecimento mais aprofundado.",
+      "texto_curto": "Pela própria natureza da quantidade de modos de ser que existem no mundo, a maioria das pessoas vive 99% dos seus dias na sua própria cabeça, com o seu ponto de vista como centro do mundo. O afastamento do real adensa-se pelo relativismo das proposições ditas verdadeiras. Essa r…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "critica_de_erro",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "epistemologia"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Diagnóstico do fechamento subjetivo e do relativismo como afastamento do real.",
+        "problema_filosofico_central": "validade_interna_vs_adequacao",
+        "trabalho_no_sistema": "identifica_projecao_reflexiva",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P34",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          },
+          {
+            "proposicao_id": "P36",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0044"
+        ],
+        "ramo_ids": [
+          "RA_0012"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0084_A02_SEG_002",
+      "origem_id": "F0084_A02",
+      "ordem_no_ficheiro": 93,
+      "texto_fragmento": "Há potencialidades atualizáveis: há uma célula num órgão, há o que fiz ontem — nem que seja pelo simples facto de que, se não tivesse conduzido para casa ontem, ainda estaria no trabalho. Daí a continuidade do ser e a sua estrutura relacional.\n\nAs ideias, enquanto modos de ser, existem na representação do ser (o que foi e o que é), no poder-ser (o que poderá ser ou poderia ter sido) e no dever-ser (como teria de ser para estarmos a falar da realidade e não apenas de uma receita de tartes).\n\nViver na representação de Kant ou no discurso de Wittgenstein é o que de facto fazemos, por ser essa a característica humana. Mas isso não pode servir de verdade, porque esquece o círculo maior. Ainda assim, é isso que somos: o animal que domina todos os nichos em que se encontra, pela racionalização das parcas descrições do real.\n\nA descoberta do real traz consigo, à medida da sua atualização, o próprio modo de ser a viver nessa nova parte do mapa. Olhamos para o relevo que se revela e dizemos que são apenas categorias da consciência que permitem a revelação do real, e não o próprio ser. Mas isso ignora que o real se mantém descoberto pela sua própria estrutura, refletida em todas as ciências — ciências, não “ciências” — sem necessidade de perguntar como a mente concebe o real.",
+      "texto_curto": "Há potencialidades atualizáveis: há uma célula num órgão, há o que fiz ontem — nem que seja pelo simples facto de que, se não tivesse conduzido para casa ontem, ainda estaria no trabalho. Daí a continuidade do ser e a sua estrutura relacional. As ideias, enquanto modos de ser, e…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "pertence_a_zona",
+        "zona_provavel_percurso": "ontologia"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina representação e verdade à estrutura contínua do real.",
+        "problema_filosofico_central": "validade_interna_vs_adequacao",
+        "trabalho_no_sistema": "submete_representacao_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P34",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P28",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "alta",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0044"
+        ],
+        "ramo_ids": [
+          "RA_0012"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0088_A02_SEG_003",
+      "origem_id": "F0088_A02",
+      "ordem_no_ficheiro": 100,
+      "texto_fragmento": "Por isso, qualquer pergunta de círculo menor — no fundo todas — sobre o melhor modo de viver, só pode ter resposta se preservar a correspondência com o real. E, neste ponto, liberdade e dignidade aproximam-se, não por identidade moral, mas por estrutura ontológica comum: ambos são livres. Fora isso, qualquer resposta depende sempre de saber se preserva essa correspondência — e não creio que hoje nenhuma preserve.",
+      "texto_curto": "Por isso, qualquer pergunta de círculo menor — no fundo todas — sobre o melhor modo de viver, só pode ter resposta se preservar a correspondência com o real. E, neste ponto, liberdade e dignidade aproximam-se, não por identidade moral, mas por estrutura ontológica comum: ambos s…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "sintese_provisoria",
+        "direcao_movimento": "fecha",
+        "centralidade": "estabilizador",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina respostas éticas à correspondência com o real.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "introduz_distincao_nova"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0051"
+        ],
+        "ramo_ids": [
+          "RA_0013"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0089_SEG_001",
+      "origem_id": "F0089",
+      "ordem_no_ficheiro": 101,
+      "texto_fragmento": "O bom governante é aquele que luta contra o constante mapeamento que o homem quer fazer sobre a realidade, preservando a liberdade e a dignidade. É aquele que faz do governo o campo onde o homem pode atuar, restringindo apenas a ação na relação entre a liberdade e a dignidade de cada um.",
+      "texto_curto": "O bom governante é aquele que luta contra o constante mapeamento que o homem quer fazer sobre a realidade, preservando a liberdade e a dignidade. É aquele que faz do governo o campo onde o homem pode atuar, restringindo apenas a ação na relação entre a liberdade e a dignidade de…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "definicao",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Define o governo bom por ancoragem no real e por limites de liberdade e dignidade.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "tematica",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_indiretamente"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "toca_diretamente"
+          },
+          {
+            "proposicao_id": "P29",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "manter",
+          "prioridade_editorial": "baixa",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0051"
+        ],
+        "ramo_ids": [
+          "RA_0013"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0089_SEG_002",
+      "origem_id": "F0089",
+      "ordem_no_ficheiro": 101,
+      "texto_fragmento": "Por isso se chama leis às leis civilísticas. Depois, como é óbvio, tudo se quer abranger e tudo se chama lei, mas as leis civilísticas e as leis físicas são, no fundo, leis: descrições das regularidades dos modos de ser.\n\nUm dos modos de ser do homem é comprar e vender, trocar, dar e receber, mutuar, emprestar. Isto é verdade desde o Código Civil napoleónico e continuará a ser verdade em todos os sistemas que preservem a liberdade e a dignidade. O sinalagma perfeito destas relações jurídicas traduz a correspondência do real com a liberdade e a dignidade.\n\nComo poderia ser de outro modo? Se há paridade ontológica entre as pessoas que compõem uma sociedade, então há regularidade nos modos de ser entre modos de ser iguais. As posições filosóficas opostas teriam de aceitar, pela sua própria lógica, que não existissem arquétipos nem modos de ser estáveis.",
+      "texto_curto": "Por isso se chama leis às leis civilísticas. Depois, como é óbvio, tudo se quer abranger e tudo se chama lei, mas as leis civilísticas e as leis físicas são, no fundo, leis: descrições das regularidades dos modos de ser. Um dos modos de ser do homem é comprar e vender, trocar, d…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Aplica a noção de regularidade do real ao domínio jurídico-civil.",
+        "problema_filosofico_central": "lei_e_fundamento_ontologico",
+        "trabalho_no_sistema": "abre_aplicacao_setorial",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P17",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0051"
+        ],
+        "ramo_ids": [
+          "RA_0013"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0089_SEG_003",
+      "origem_id": "F0089",
+      "ordem_no_ficheiro": 101,
+      "texto_fragmento": "Dizer que cada sociedade tem os seus próprios valores e que os valores axiológicos diferem entre sociedades — que umas batem nas mulheres e outras não produzem a panóplia de direitos humanos — falha o ponto central. A questão é sempre o real.\n\nOs círculos internos vão sempre existir, porque são locais. As causas e os efeitos são sempre locais. Os modos de ser internos de cada sociedade são justificáveis pelas próprias sociedades. A questão é saber se essa sociedade toca no real.\n\nSe toca no real, então os modos de ser que emergem — liberdade e dignidade — são os mesmos. Perguntar se há dignidade em sociedades que batem nas mulheres é perguntar se essas sociedades ainda não vivem numa parte do real que já foi iluminada por outras. Saber que vivem de modo diferente por viverem em erro já é um dado.",
+      "texto_curto": "Dizer que cada sociedade tem os seus próprios valores e que os valores axiológicos diferem entre sociedades — que umas batem nas mulheres e outras não produzem a panóplia de direitos humanos — falha o ponto central. A questão é sempre o real. Os círculos internos vão sempre exis…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "consequencia",
+        "direcao_movimento": "fecha",
+        "centralidade": "nuclear",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina valores sociais ao real como critério.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P36",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "alta",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0051"
+        ],
+        "ramo_ids": [
+          "RA_0013"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0090_A01_SEG_001",
+      "origem_id": "F0090_A01",
+      "ordem_no_ficheiro": 102,
+      "texto_fragmento": "Estava a pensar na educação desde o Renascimento e na sua aplicação política com o liberalismo: percebeu-se que a educação do homem é aquilo que permite que o homem seja livre. Sem educação não existiria liberdade. E é natural que assim seja.",
+      "texto_curto": "Estava a pensar na educação desde o Renascimento e na sua aplicação política com o liberalismo: percebeu-se que a educação do homem é aquilo que permite que o homem seja livre. Sem educação não existiria liberdade. E é natural que assim seja.",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_curto",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "transicao_antropologica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Liga educação à possibilidade de liberdade.",
+        "problema_filosofico_central": "ser_humano_como_ente_reflexivo",
+        "trabalho_no_sistema": "identifica_dependencia_estrutural",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P29",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0051"
+        ],
+        "ramo_ids": [
+          "RA_0013"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+          "ARG_ADEQUACAO_EXIGE_CRITERIO",
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0121_A02_SEG_001",
+      "origem_id": "F0121_A02",
+      "ordem_no_ficheiro": 152,
+      "texto_fragmento": "Os exemplos do trolley e outros semelhantes são absurdos. Se o estado de coisas que define o dilema fosse recorrente num plano onde existem seres conscientes reflexivos, então esse plano não permitiria a existência de seres conscientes reflexivos.\n\nSeria uma disfunção de um ser com liberdade. Não poderia ser um modo de ser, nem algo com recorrência. O contínuo deixaria de ser.",
+      "texto_curto": "Os exemplos do trolley e outros semelhantes são absurdos. Se o estado de coisas que define o dilema fosse recorrente num plano onde existem seres conscientes reflexivos, então esse plano não permitiria a existência de seres conscientes reflexivos. Seria uma disfunção de um ser c…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "critica",
+      "cadencia": {
+        "funcao_cadencia_principal": "critica_de_erro",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Critica dilemas recorrentes como incompatíveis com a continuidade de um plano de seres reflexivos.",
+        "problema_filosofico_central": "dano_real_e_reducao_de_potencialidades",
+        "trabalho_no_sistema": "identifica_dano_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P40",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P44",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0105"
+        ],
+        "ramo_ids": [
+          "RA_0029"
+        ],
+        "percurso_ids": [
+          "P_EIXO_SIMBOLICO_MEDIACIONAL"
+        ],
+        "argumento_ids": [
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+          "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0121_A02_SEG_002",
+      "origem_id": "F0121_A02",
+      "ordem_no_ficheiro": 152,
+      "texto_fragmento": "Aquilo que define o que é ser bom não pode ser resposta a cenários que não pertencem aos comportamentos típicos do ser consciente reflexivo.",
+      "texto_curto": "Aquilo que define o que é ser bom não pode ser resposta a cenários que não pertencem aos comportamentos típicos do ser consciente reflexivo.",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "distincao",
+      "cadencia": {
+        "funcao_cadencia_principal": "distincao_conceptual",
+        "direcao_movimento": "fecha",
+        "centralidade": "estabilizador",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Delimita o campo relevante para definir o bom.",
+        "problema_filosofico_central": "criterio_para_viver_bem",
+        "trabalho_no_sistema": "identifica_campo_de_validade",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P44",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0105"
+        ],
+        "ramo_ids": [
+          "RA_0029"
+        ],
+        "percurso_ids": [
+          "P_EIXO_SIMBOLICO_MEDIACIONAL"
+        ],
+        "argumento_ids": [
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+          "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0122_SEG_001",
+      "origem_id": "F0122",
+      "ordem_no_ficheiro": 153,
+      "texto_fragmento": "Parece que o que há é ou a aderência a uma posição parva qualquer, ou então a conclusão de que não há ética. Ou é tudo construção, ou tudo derivação de uma característica compartimentada qualquer — a emoção, por exemplo — como se dizer “tenho dedos” fosse uma resposta.\n\nO que existe é o domínio que cada um tem sobre as relações em que está incorporado, aquelas em que pode vir a estar, aquelas em que se move. Andar numa sala escura e acender a luz do desconhecido é acender a luz para quem anda na sala. Sou eu que mudo de corredor para ver o que está do outro lado.\n\nIsso pode depois tornar-se comum pelo processo de comunicação, mas o campo é local. Autónomo no sentido da localidade.",
+      "texto_curto": "Parece que o que há é ou a aderência a uma posição parva qualquer, ou então a conclusão de que não há ética. Ou é tudo construção, ou tudo derivação de uma característica compartimentada qualquer — a emoção, por exemplo — como se dizer “tenho dedos” fosse uma resposta. O que exi…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "abertura_de_problema",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "transicao_antropologica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Esboça a ética a partir da localidade relacional do agente.",
+        "problema_filosofico_central": "passagem_da_ontologia_para_a_etica",
+        "trabalho_no_sistema": "faz_transicao_de_percurso",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "mediacional",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P23",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P42",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "faz_ponte_entre"
+          },
+          {
+            "proposicao_id": "P49",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "medeia",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0105"
+        ],
+        "ramo_ids": [
+          "RA_0029"
+        ],
+        "percurso_ids": [
+          "P_EIXO_SIMBOLICO_MEDIACIONAL"
+        ],
+        "argumento_ids": [
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+          "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0122_SEG_002",
+      "origem_id": "F0122",
+      "ordem_no_ficheiro": 153,
+      "texto_fragmento": "As regras universais são as que existem em qualquer relação. O real é partilhado. Nem sei se é necessário dizer que seres conscientes partilham o real, porque para haver seres conscientes já tem de haver real partilhado.\n\nO real não pode ser uma única atualização. Isso nem sequer existe. O real é o campo das potencialidades e, assim que algo pode ser potenciado, ele já é partilhado. O real é sempre partilhado.",
+      "texto_curto": "As regras universais são as que existem em qualquer relação. O real é partilhado. Nem sei se é necessário dizer que seres conscientes partilham o real, porque para haver seres conscientes já tem de haver real partilhado. O real não pode ser uma única atualização. Isso nem sequer…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "estrutura_operacional_do_real"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Afirma o real como campo partilhado de potencialidades.",
+        "problema_filosofico_central": "estatuto_do_real",
+        "trabalho_no_sistema": "descreve_estrutura_do_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P12",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P13",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P23",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0105"
+        ],
+        "ramo_ids": [
+          "RA_0029"
+        ],
+        "percurso_ids": [
+          "P_EIXO_SIMBOLICO_MEDIACIONAL"
+        ],
+        "argumento_ids": [
+          "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+          "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+          "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0163_SEG_001",
+      "origem_id": "F0163",
+      "ordem_no_ficheiro": 194,
+      "texto_fragmento": "E o bom e a filosofia verdadeira, não é? A filosofia verdadeira, que bem sabe o que é para postular o que deve ser e o que pode ser para postular o que deve ser, essa boa filosofia, porque os homens morrem e nascem depois bebezinhos que nada sabem, incorpora-o em conhecimento prático, práticas. E daí o meu ênfase ao cristianismo enquanto símbolo da trindade do homem divino, porque coloca no homem livre e digno a verdadeira ação, a boa ação que há de ser sempre como real, não é? A descoberta, a descoberta dos, sem ser de modo racional e analítico, mas pela própria continuidade do ser, a descoberta dos, como se fosse quase um paralelismo com a evolução, mas a descoberta das proposições verdadeiras encapsuladas em símbolos de orientação.",
+      "texto_curto": "E o bom e a filosofia verdadeira, não é? A filosofia verdadeira, que bem sabe o que é para postular o que deve ser e o que pode ser para postular o que deve ser, essa boa filosofia, porque os homens morrem e nascem depois bebezinhos que nada sabem, incorpora-o em conhecimento pr…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "aplicacao",
+        "direcao_movimento": "introduz",
+        "centralidade": "exploratorio",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina o bom ao ser e liga essa orientação a símbolos práticos.",
+        "problema_filosofico_central": "fundamento_do_dever_ser",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P48",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P43",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0126"
+        ],
+        "ramo_ids": [
+          "RA_0038"
+        ],
+        "percurso_ids": [],
+        "argumento_ids": [],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0173_SEG_001",
+      "origem_id": "F0173",
+      "ordem_no_ficheiro": 204,
+      "texto_fragmento": "A boa relação vem do, ser necessariamente pela encorporacao do meme de bom pai, de ser logo bom marido, ser fora da  justificação do próprio ser e integrando na relação de onde ele está com o demais relacionado, em estrita com o ponto de vista na medida com a relação e ele na relação, onde há outro que não partilham da sua localidade ontológica e horizonte. Estar no campo de atualizações do seu contato outro ser, é aí que está o atualizavel no contato com o que com o eu que se relaciona. O que é ser um bom pai é o que é ser o que um bom pai é no contínuo da relação",
+      "texto_curto": "A boa relação vem do, ser necessariamente pela encorporacao do meme de bom pai, de ser logo bom marido, ser fora da justificação do próprio ser e integrando na relação de onde ele está com o demais relacionado, em estrita com o ponto de vista na medida com a relação e ele na rel…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_curto",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "formulacao_inicial",
+        "direcao_movimento": "introduz",
+        "centralidade": "exploratorio",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Esboça uma leitura relacional da figura do bom pai.",
+        "problema_filosofico_central": "criterio_para_viver_bem",
+        "trabalho_no_sistema": "abre_aplicacao_setorial",
+        "confianca_tratamento_filosofico": "baixa"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "redacional",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P49",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          },
+          {
+            "proposicao_id": "P51",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "manter",
+          "prioridade_editorial": "baixa",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0130"
+        ],
+        "ramo_ids": [
+          "RA_0040"
+        ],
+        "percurso_ids": [],
+        "argumento_ids": [],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A05_SEG_002",
+      "origem_id": "F0241_A05",
+      "ordem_no_ficheiro": 275,
+      "texto_fragmento": "Quando se vê a diversidade da vida, a multiplicidade de variações em que, sei lá, veado tem aquelas coisas na cabeça, depois há um veado qualquer, não sei se é o iberico,ou é um qualquer, que já tem umas presas na boca, e como os gorilas têm umas presas enormes, mas não comem carne, e como não só a variedade, mas a vocação de cada ser, a capacidade de discrição, nem a capacidade, é o facto de ser na relação onde existe, nesta circularidade, mostra o próprio ontos, o próprio ontos da relação, das atualizações na relação, das atualizações relacional, nadas desrelacionáveis, em como cada animal tem o seu próprio nichozinho, em cada animal tem um campo limitado de potencialidade da sua própria atualização, como é óbvio, e que o ser humano opera na transversalidade de todos os nichos.\n\nNa especificação de cada compartimentalização depois de cada nicho ao nível teórico, mas ao nível físico-biológico, opera no domínio de todos os nichos. Por isso, como é óbvio, não podia ser só carnívoro, nem podia ser só herbívoro, teria que ser ambos. Tinha que ser aquilo que abrangesse a totalidade.\n\nNão quer dizer. Nós não temos presas, porque não lutamos com a boca. Não temos mãos esmagadoras, porque não temos de ter superioridade física. Porque quando a totalidade do ser abrange o ser e a potencialidade do ser, quando a potencialidade do ser é limitada, desculpe, então o ser tem um campo de movimentação também. E por isso os contactos nas relações, as graduações de força de contacto nas relações que medem o ser com ele próprio e com o real, nesta lógica de apreensão no ato senso, refletem isso mesmo. E o ser humano tem menos restrições de limitação de círculo pela capacidade de representar o real, todos os círculos.",
+      "texto_curto": "Quando se vê a diversidade da vida, a multiplicidade de variações em que, sei lá, veado tem aquelas coisas na cabeça, depois há um veado qualquer, não sei se é o iberico,ou é um qualquer, que já tem umas presas na boca, e como os gorilas têm umas presas enormes, mas não comem ca…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "transicao_antropologica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Descreve nichos limitados e a transversalidade humana.",
+        "problema_filosofico_central": "ser_humano_como_ente_reflexivo",
+        "trabalho_no_sistema": "descreve_estrutura_do_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P24",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_indiretamente"
+          },
+          {
+            "proposicao_id": "P29",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P30",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0165"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A05_SEG_003",
+      "origem_id": "F0241_A05",
+      "ordem_no_ficheiro": 275,
+      "texto_fragmento": "É, portanto, quanto mais a relação com o real, que mais faz haver consciência, porque desenganem-se aqueles que acham que a consciência foi ou é um clique qualquer mental. É apenas na capacidade da manifestação da apreensão de que o ser é capaz, mas, ainda assim, ainda que assim seja, o que está nesta capacidade apreensiva é melhor ou pior descrever, entre aspas, o real.",
+      "texto_curto": "É, portanto, quanto mais a relação com o real, que mais faz haver consciência, porque desenganem-se aqueles que acham que a consciência foi ou é um clique qualquer mental. É apenas na capacidade da manifestação da apreensão de que o ser é capaz, mas, ainda assim, ainda que assim…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "distincao",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "transicao_antropologica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Reinscreve a consciência na apreensão do real.",
+        "problema_filosofico_central": "consciencia_como_processo_no_real",
+        "trabalho_no_sistema": "reinscreve_consciencia_no_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P28",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P25",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P31",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "alta",
+          "confianca_da_analise": "alta"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0165"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A05_SEG_004",
+      "origem_id": "F0241_A05",
+      "ordem_no_ficheiro": 275,
+      "texto_fragmento": "Os símbolos também são importantes. Claro que são. Como descrições regulares que se têm sobre eventos, dito assim de maneira muito rude, sobre atualizações no lato senso daquilo que existe e que se apreende, das repetições do contínuo do ser, essas coisas malandras. Isso, o símbolo é aquilo que contém, contém, se quiséssemos usar as palavras deste pessoal corrente, o símbolo contém a descrição, contém o facto, descrição é minha, contém o facto e o valor, que contém aquilo que é representado, se assim pudéssemos dizer, e aquilo que é encarnado na ação do ser, são os símbolos, servem como, como é que eu hei de dizer, como o ponteiro na balança, pela maneira como quem os tem, depende de quem os simboliza, tem um ponteiro na balança que aponta mais para o eu eu, mais para o eu real, como tudo na vida. E quanto pior, quanto mais fraca, quanto mais desligada do real for a descrição, for este movimento de apreensão que o ser tem na relação com o real, pronto, menos ligada ao real estará, como é óbvio.",
+      "texto_curto": "Os símbolos também são importantes. Claro que são. Como descrições regulares que se têm sobre eventos, dito assim de maneira muito rude, sobre atualizações no lato senso daquilo que existe e que se apreende, das repetições do contínuo do ser, essas coisas malandras. Isso, o símb…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "aprofundamento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "mediacao_simbolica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Caracteriza o símbolo como mediação descritiva e vetor de orientação entre eu e real.",
+        "problema_filosofico_central": "mediacao_simbolica",
+        "trabalho_no_sistema": "clarifica_mediacao",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P26",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P27",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0165"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A06_SEG_001",
+      "origem_id": "F0241_A06",
+      "ordem_no_ficheiro": 276,
+      "texto_fragmento": "Todo este devaneio de viver no dever ser, viver na igualdade de resultados, em vez de na igualdade de oportunidades, ouvir uma verdade como querer ser julgado pelo conteúdo do caráter e não pelo conteúdo da cor, extraída aí de qualquer tipo de correção, engenharia, intervenção humana, criação de sistema sobre o ser, é não ver que dignidade e a liberdade são os pontos ontológicos, porque o homem é reflexivo, logo é livre e tem todos os membros do estatuto ontológico, são todos reflexivos, por isso são todos dignos. É não ver que é aqui que existe a relação entre os homens, em que todos têm a mesma igualdade de oportunidades, no sentido em que todos têm o mesmo espaço para onde dar um passo em frente, proficiar um som qualquer, qualquer coisa. Todos têm um campo onde podem exprimir a sua liberdade e é pela sua própria dignidade. Depois o que cada um faz nesse campo, isso é que já está sujeito a contenção pelos outros seres, pela própria necessidade física de vocalidade e de contacto.",
+      "texto_curto": "Todo este devaneio de viver no dever ser, viver na igualdade de resultados, em vez de na igualdade de oportunidades, ouvir uma verdade como querer ser julgado pelo conteúdo do caráter e não pelo conteúdo da cor, extraída aí de qualquer tipo de correção, engenharia, intervenção h…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "critica_de_erro",
+        "direcao_movimento": "introduz",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina igualdade e dever-ser à dignidade e liberdade ontológicas.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P50",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P29",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_diretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "alta",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0165"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A06_SEG_002",
+      "origem_id": "F0241_A06",
+      "ordem_no_ficheiro": 276,
+      "texto_fragmento": "A filosofia é tão fraca, tão carreirista, tão formalista, tão cheia de eu-ego, que nunca pensaria em colocar Thomas Sowell como filósofo. Porém, os mecanismos que ele descreve, um dos inúmeros exemplos, pelas simples frases, por exemplo, de que as pessoas não buscam a verdade, não a encontram relativamente a modos de ser do eu-ego, modos de ser do ser no real, na relação com o real, é absurdo no que a filosofia se tornou, ou no que nunca foi, no que deixou de ser depois de Aristóteles.\n\nSim, é bem visto. Sim, porque já não há filosofia, há só discurso sobre filosofia. Havia há uns tempos num programa qualquer, não sei se era o Pampleycast, em que eles gostavam de sempre fazer perguntas aos convidados, no fim, acho eu, no início, não tenho ideia já, o que é que para eles era a filosofia? E havia toda, ai, era uma prática, ai, era um conhecimento, ai, era um sei lá, o que é que eles diziam? Ai, a filosofia já não deve existir e deve ser absorvida pela ciência. Sei lá, coisas assim. E um de um lado e do outro. Então, o jogo do sistema é tão grande, eles vivem tanto no sistema que eles criaram, que nem descrever a sua própria atividade dentro desse sistema conseguem.",
+      "texto_curto": "A filosofia é tão fraca, tão carreirista, tão formalista, tão cheia de eu-ego, que nunca pensaria em colocar Thomas Sowell como filósofo. Porém, os mecanismos que ele descreve, um dos inúmeros exemplos, pelas simples frases, por exemplo, de que as pessoas não buscam a verdade, n…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "critica",
+      "cadencia": {
+        "funcao_cadencia_principal": "critica_de_erro",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Diagnóstico da filosofia como sistema fechado que perdeu relação descritiva com o real.",
+        "problema_filosofico_central": "fechamento_simbolico",
+        "trabalho_no_sistema": "diagnostica_fechamento_simbolico",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "tematica",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          },
+          {
+            "proposicao_id": "P36",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "manter",
+          "prioridade_editorial": "baixa",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0165"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A07_SEG_001",
+      "origem_id": "F0241_A07",
+      "ordem_no_ficheiro": 277,
+      "texto_fragmento": "Toda a progressão do ser é, pela infância e juventude, contínuo da mecânica de relação com o real, necessária, em relação a quê? Ao real. O processo de um bebe para uma criança é a capacidade de entender, logo ser sujeito a, pensar sobre, expressar no, enquanto está de facto a viver na relação da vida. A direção do ser infante é, para o real, ou para o eu, claro que obrigatoriamente dominado pelo eu no início, claro faltava lhe o real, Depois descreve, que é representar, agir e apreender, o que está a acontecer, que real é este no qual eu lá vivo, . Todas as correções, as corretas claro, são se adequação ao ser, as representações, apreensões e acções corrigidas ao real o que se obriga a que quem corrige seja quem saiba o que é o que pode ser e o que deve ser,  o que infante é e pode ser pela condição do poder ser. Se infante usar telemóvel e ver videozinhos, claro que o real está relegado, e agora cada vez mais. É que é na infância que se bem apreende as bases para a reposta á pergunta de cada um o que é viver bem, mais tarde, já um corpo de auto justificaçoes do meio da apreensão e do ser do eu, cristalizado. Já há custo, logo só atingível se com intenção, e esta é subordinada ao modo de ser que se é, igual ao que se era ontem",
+      "texto_curto": "Toda a progressão do ser é, pela infância e juventude, contínuo da mecânica de relação com o real, necessária, em relação a quê? Ao real. O processo de um bebe para uma criança é a capacidade de entender, logo ser sujeito a, pensar sobre, expressar no, enquanto está de facto a v…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prepara",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Aplica ao desenvolvimento infantil a tese da adequação ao real.",
+        "problema_filosofico_central": "criterio_para_viver_bem",
+        "trabalho_no_sistema": "abre_aplicacao_setorial",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "redacional",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P25",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_diretamente"
+          },
+          {
+            "proposicao_id": "P26",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "toca_diretamente"
+          },
+          {
+            "proposicao_id": "P37",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P51",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "toca_indiretamente"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0167"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A07_SEG_002",
+      "origem_id": "F0241_A07",
+      "ordem_no_ficheiro": 277,
+      "texto_fragmento": "O socialismo pode ser descrito de maneira ontológica, um sistema de crenças que depois se torna modo de ser, em que a relação eu-real é muito fraca, em que o plano do dever ser é sobreposto a qualquer plano do ser e do poder ser, especialmente do poder ser. É no plano da apreensão do real e do discurso sobre essa apreensão do real, é autojustificativo nos seus próprios termos.\n\nHá um grau de projeção diferente, há prioridades diferentes do campo da relação que eu tenho comigo próprio e da relação que eu tenho com o real e com o real comigo próprio. O real é secundário na relação de mim comigo próprio, toda a sua apreensão interior, quase sem tocar o cortado fora.\n\nEsquecemo-nos que o que eu sou, claro, é também o real, mas aí, consumido pela própria estrutura interna de responsabilidade, ela consegue manifestar-se no real, consegue atualizar-se a consciência pela quantidade de representações que tem pelos caminhos neurológicos dos neurónios pelo corpo inteiro que têm sobre a instância em que se está a operar no real, a apreensão é isto também, integra isto. Então, quando há essa quase possibilidade mesmo real de viver na apreensão do real, então já se vive no mundo do eu, no eu-eu e não no mundo do eu-real.\n\nComeçando a caminhada sobre a pergunta que é isto de viver bem e operar somente numa teoria qualquer, num quadro lógico qualquer, não fazê-lo operar no real. A norma é eu-eu, mas nesse eu-eu é igual, mas existe mais. As tuas regras de verificabilidade estão limitadas. Existe mais. Estão falsas. Há uma...",
+      "texto_curto": "O socialismo pode ser descrito de maneira ontológica, um sistema de crenças que depois se torna modo de ser, em que a relação eu-real é muito fraca, em que o plano do dever ser é sobreposto a qualquer plano do ser e do poder ser, especialmente do poder ser. É no plano da apreens…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "exploracao",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Diagnostica fechamento autojustificativo com enfraquecimento da relação eu-real.",
+        "problema_filosofico_central": "substituicao_do_real_pelo_sistema",
+        "trabalho_no_sistema": "diagnostica_fechamento_simbolico",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P36",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0167"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A07_SEG_003",
+      "origem_id": "F0241_A07",
+      "ordem_no_ficheiro": 277,
+      "texto_fragmento": "Os ritos de passagem sao a existencia do comum da apreensao estabilizada do real, ao ponto de a partir de certo ponto ja nao ser possivel haver outro tipo de apreensao, é este o facto-valor das pessoas com quem vives, é isto que achamos do real, pode claro estar melhour ou pior quanto melhor ou pior for a descriçao - apreensao representaçao e açao - do real.",
+      "texto_curto": "Os ritos de passagem sao a existencia do comum da apreensao estabilizada do real, ao ponto de a partir de certo ponto ja nao ser possivel haver outro tipo de apreensao, é este o facto-valor das pessoas com quem vives, é isto que achamos do real, pode claro estar melhour ou pior…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "desenvolvimento_curto",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "mediacao_simbolica"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Caracteriza os ritos como estabilização coletiva da apreensão do real.",
+        "problema_filosofico_central": "mediacao_simbolica",
+        "trabalho_no_sistema": "clarifica_mediacao",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P27",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P31",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "baixo",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0167"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A07_SEG_004",
+      "origem_id": "F0241_A07",
+      "ordem_no_ficheiro": 277,
+      "texto_fragmento": "O argumento do Andrew Wilson da objetividade da moralidade pelo comando divino é uma tentativa de salvar o que eu diria que é apreensível, tocável, experienciável, o mundo das coisas criado por Deus, algo assim. Mas a questão é, pela fraca descrição que todos têm, mesmo aqueles que tentam percorrer o caminho do real por não lhe darem ao real o estatuto que querem, por retirarem completamente da equação para a humanidade ter-se abstido de oferecer qualquer tipo de estatuto ao real ao ponto de que a melhor salvação é mudá-lo por Deus por um ente qualquer intencional.",
+      "texto_curto": "O argumento do Andrew Wilson da objetividade da moralidade pelo comando divino é uma tentativa de salvar o que eu diria que é apreensível, tocável, experienciável, o mundo das coisas criado por Deus, algo assim. Mas a questão é, pela fraca descrição que todos têm, mesmo aqueles…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "critica_de_erro",
+        "direcao_movimento": "fecha",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "indefinida"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Critica a substituição do real por fundamento divino intencional.",
+        "problema_filosofico_central": "substituicao_do_real_pelo_sistema",
+        "trabalho_no_sistema": "identifica_substituicao_do_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P46",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "bloqueia_objecao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "media",
+          "confianca_da_analise": "media"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0167"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    },
+    {
+      "id": "F0241_A08_SEG_001",
+      "origem_id": "F0241_A08",
+      "ordem_no_ficheiro": 278,
+      "texto_fragmento": "A moralidade, aquilo que, se sendo esse, bem sendo aquilo que melhor se situa no contínuo da localidade, assim é que é, no contínuo da localidade, em que se pode sequer colocar a questão de bem, somente quando do real advém um ser reflexivo. Só aí, porque o ser está a refletir sobre a realidade que o contém em si mesmo. O ser está a viver na mediação da apreensão e da realidade. Está a viver nessa relação. \nRelação de quê? Sempre de entre a apreensão e a realidade, a apreensão que inculta do estado interior, whatever, e a realidade. E quanto melhor for a apreensão depois a descrição do que o ser faz na realidade onde vive, melhor se vai posicionar no meio de todas as relações. Não é preciso recorrer a Deus para saber que num sistema relacional há aquilo que preserva e edifica a realidade, o conjunto de atualizações, e aquilo que destrói.\n\nMas o homem faz coisas tão más, é tão mauzão. Olha o Hitler. Claro. Hitler e qualquer outro massacre, qualquer outra guerra, que não falta por aí são guerras. Aquela foi com uma dimensão ridícula, mas ao.de extermínio. Mas outros extermínios também existiram, ainda que com dimensões menores. Mas independentemente da catástrofe, dizer como é que é possível... Nós sabemos como é que é possível. O homem faz, o homem tem comportamentos não bons para com outros seres. Até comportamentos ativamente destrutivos, impeditivos de florescer, vai ser mau. Se o sistema onde ele estiver inserido, onde ele viver, o sistema em que ele operar, o sistema em que ele apreender e descrever e agir, for um que justifica as ações que se mantêm independentemente de ser bom ou mau. Como o critério não está no real, o critério está no proprio sistema. Saber e fazer com que o outro, com estatuto ontológico igual a ele, que o contínuo das suas atualizações vai terminar, vai deixar de existir, vai deixar de estar enquadrado no potencial do ser, é justificado pela coerência interna de qualquer sistema, o homem  crê ser tão mau como o que for o por si apreendido como o homem que se é e num sistema de homens assim, ser assim nao ha de estar mal. Quanto menos gravosos forem, mais fácil de manter a coerência do sistema pela estabilizaçao dos utros homens no sistema. Quanto mais, mais intrincada vai ser, porque sempre afastado do real, no sistema da quebra com o real custa a posterior apreensao do real e nao da apreensao é custosa.\n\nAh, mas o teu critério é tão, é tão como vale tanto como outro qualquer outro critério. Vale, vale tanto? Como é que medes esse tanto? Ah, há de ser pela... Pois, amigo, há de ser pela adequação à realidade, adequação ao real. Mesmo no teu cenário fofo de possibilidade de algo ser somente porque há mais uma opção que, em abstrato, se poderia incluir nesse campo de possibilidades, é somente aprender mal o campo de possibilidades. Não é mais do que outra coisa. É aprender mal e descrever mal o ser, o poder e o dever ser.",
+      "texto_curto": "A moralidade, aquilo que, se sendo esse, bem sendo aquilo que melhor se situa no contínuo da localidade, assim é que é, no contínuo da localidade, em que se pode sequer colocar a questão de bem, somente quando do real advém um ser reflexivo. Só aí, porque o ser está a refletir s…",
+      "ficheiro_origem": "fragmentos.md",
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "cadencia": {
+        "funcao_cadencia_principal": "desenvolvimento",
+        "direcao_movimento": "prolonga",
+        "centralidade": "auxiliar",
+        "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+        "zona_provavel_percurso": "etica_e_narrativa"
+      },
+      "tratamento_filosofico": {
+        "descricao_funcional_curta": "Subordina o bem à adequação ao real e critica critérios sistémicos fechados.",
+        "problema_filosofico_central": "subordinacao_da_normatividade_ao_real",
+        "trabalho_no_sistema": "subordina_normatividade_ao_real",
+        "confianca_tratamento_filosofico": "media"
+      },
+      "impacto_mapa_arvore": {
+        "tipo_de_utilidade_principal": "justificativa",
+        "proposicoes_do_mapa_tocadas": [
+          {
+            "proposicao_id": "P33",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P40",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P44",
+            "grau_de_relevancia": "alto",
+            "tipo_de_relacao": "apoia_justificacao"
+          },
+          {
+            "proposicao_id": "P47",
+            "grau_de_relevancia": "medio",
+            "tipo_de_relacao": "apoia_justificacao"
+          }
+        ],
+        "efeito_principal_no_mapa": "explicita",
+        "decisao_final": {
+          "acao_recomendada_sobre_o_mapa": "densificar",
+          "prioridade_editorial": "alta",
+          "confianca_da_analise": "alta"
+        }
+      },
+      "impacto_no_mapa_registos": [],
+      "ligacoes_arvore": {
+        "microlinha_ids": [
+          "ML_0167"
+        ],
+        "ramo_ids": [
+          "RA_0059"
+        ],
+        "percurso_ids": [
+          "P_EIXO_EPISTEMOLOGICO"
+        ],
+        "argumento_ids": [
+          "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+          "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+          "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+        ],
+        "convergencia_ids": []
+      },
+      "estado_validacao": "valido",
+      "estado_excecao": "sem_excecao",
+      "excecao_ids": []
+    }
+  ],
+  "microlinhas": [
+    {
+      "id": "ML_0008",
+      "titulo": "epistemologia — prepara: consciencia como processo no real",
+      "descricao_funcional": "Agrupamento local de 5 fragmento(s), com dominância impacto mapa, movimento prepara, problema consciencia como processo no real e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0021_SEG_001",
+        "F0021_SEG_002",
+        "F0022_SEG_001",
+        "F0023_SEG_001",
+        "F0024_SEG_001"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+        "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+        "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "consciencia_como_processo_no_real",
+        "direcao_movimento_dominante": "prepara",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ML_0020",
+      "titulo": "ontologia — fecha: verdade e valor",
+      "descricao_funcional": "Agrupamento local de 2 fragmento(s), com dominância impacto mapa, movimento fecha, problema verdade e valor e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0060_A01_SEG_006",
+        "F0060_A02_SEG_001"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+        "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+        "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "verdade_e_valor",
+        "direcao_movimento_dominante": "fecha",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ML_0024",
+      "titulo": "etica e narrativa — fecha: subordinacao da normatividade ao real",
+      "descricao_funcional": "Agrupamento local de 5 fragmento(s), com dominância impacto mapa, movimento fecha, problema subordinacao da normatividade ao real e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0063_A01_SEG_003",
+        "F0063_A02_SEG_001",
+        "F0063_A02_SEG_002",
+        "F0064_A01_SEG_001",
+        "F0064_A01_SEG_002"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+        "ARG_ADEQUACAO_EXIGE_CRITERIO",
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "subordinacao_da_normatividade_ao_real",
+        "direcao_movimento_dominante": "fecha",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ML_0044",
+      "titulo": "etica e narrativa — introduz: validade interna vs adequacao",
+      "descricao_funcional": "Agrupamento local de 5 fragmento(s), com dominância impacto mapa, movimento introduz, problema validade interna vs adequacao e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0084_A01_SEG_001",
+        "F0084_A01_SEG_002",
+        "F0084_A01_SEG_003",
+        "F0084_A02_SEG_001",
+        "F0084_A02_SEG_002"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+        "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+        "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "validade_interna_vs_adequacao",
+        "direcao_movimento_dominante": "introduz",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ML_0051",
+      "titulo": "etica e narrativa — fecha: subordinacao da normatividade ao real",
+      "descricao_funcional": "Agrupamento local de 5 fragmento(s), com dominância impacto mapa, movimento fecha, problema subordinacao da normatividade ao real e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0088_A02_SEG_003",
+        "F0089_SEG_001",
+        "F0089_SEG_002",
+        "F0089_SEG_003",
+        "F0090_A01_SEG_001"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+        "ARG_ADEQUACAO_EXIGE_CRITERIO",
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "subordinacao_da_normatividade_ao_real",
+        "direcao_movimento_dominante": "fecha",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ML_0105",
+      "titulo": "etica e narrativa — introduz: dano real e reducao de potencialidades",
+      "descricao_funcional": "Agrupamento local de 4 fragmento(s), com dominância impacto mapa, movimento introduz, problema dano real e reducao de potencialidades e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0121_A02_SEG_001",
+        "F0121_A02_SEG_002",
+        "F0122_SEG_001",
+        "F0122_SEG_002"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_SIMBOLICO_MEDIACIONAL"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+        "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+        "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "dano_real_e_reducao_de_potencialidades",
+        "direcao_movimento_dominante": "introduz",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ML_0126",
+      "titulo": "etica e narrativa — introduz: fundamento do dever ser",
+      "descricao_funcional": "Agrupamento local de 1 fragmento(s), com dominância impacto mapa, movimento introduz, problema fundamento do dever ser e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0163_SEG_001"
+      ],
+      "percurso_ids_sugeridos": [],
+      "argumento_ids_sugeridos": [],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "fundamento_do_dever_ser",
+        "direcao_movimento_dominante": "introduz",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "ML_0130",
+      "titulo": "etica e narrativa — introduz: criterio para viver bem",
+      "descricao_funcional": "Agrupamento local de 1 fragmento(s), com dominância impacto mapa, movimento introduz, problema criterio para viver bem e utilidade redacional.",
+      "fragmento_ids": [
+        "F0173_SEG_001"
+      ],
+      "percurso_ids_sugeridos": [],
+      "argumento_ids_sugeridos": [],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "criterio_para_viver_bem",
+        "direcao_movimento_dominante": "introduz",
+        "tipo_de_utilidade_dominante": "redacional"
+      },
+      "prioridade_de_consolidacao": "media",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "ML_0165",
+      "titulo": "transicao antropologica — prolonga: ser humano como ente reflexivo",
+      "descricao_funcional": "Agrupamento local de 5 fragmento(s), com dominância impacto mapa, movimento prolonga, problema ser humano como ente reflexivo e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0241_A05_SEG_002",
+        "F0241_A05_SEG_003",
+        "F0241_A05_SEG_004",
+        "F0241_A06_SEG_001",
+        "F0241_A06_SEG_002"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+        "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+        "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "ser_humano_como_ente_reflexivo",
+        "direcao_movimento_dominante": "prolonga",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ML_0167",
+      "titulo": "etica e narrativa — prolonga: substituicao do real pelo sistema",
+      "descricao_funcional": "Agrupamento local de 5 fragmento(s), com dominância impacto mapa, movimento prolonga, problema substituicao do real pelo sistema e utilidade justificativa.",
+      "fragmento_ids": [
+        "F0241_A07_SEG_001",
+        "F0241_A07_SEG_002",
+        "F0241_A07_SEG_003",
+        "F0241_A07_SEG_004",
+        "F0241_A08_SEG_001"
+      ],
+      "percurso_ids_sugeridos": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_sugeridos": [
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+        "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+        "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+      ],
+      "criterio_de_agregacao": {
+        "base_dominante": "impacto_mapa",
+        "regra_curta": "continuidade local por impacto no mapa com suporte de cadência",
+        "problema_filosofico_dominante": "substituicao_do_real_pelo_sistema",
+        "direcao_movimento_dominante": "prolonga",
+        "tipo_de_utilidade_dominante": "justificativa"
+      },
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    }
+  ],
+  "ramos": [
+    {
+      "id": "RA_0001",
+      "titulo": "transicao antropologica — subordinacao da normatividade ao real — introduz (explicita)",
+      "descricao_funcional": "Unidade macro-local de 8 microlinha(s), dominada por zona transicao antropologica, problema subordinacao da normatividade ao real, trabalho subordina normatividade ao real, direção introduz, impacto explicita e faixa local P11-P15.",
+      "criterio_de_unidade": "transicao",
+      "microlinha_ids": [
+        "ML_0001",
+        "ML_0002",
+        "ML_0003",
+        "ML_0004",
+        "ML_0005",
+        "ML_0006",
+        "ML_0007",
+        "ML_0008"
+      ],
+      "percurso_ids_associados": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_associados": [
+        "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+        "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+        "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+      ],
+      "passo_ids_alvo": [
+        "P33",
+        "P46",
+        "P28",
+        "P34",
+        "P36"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "RA_0005",
+      "titulo": "estrutura operacional do real — potencialidade e atualizacao — introduz (explicita)",
+      "descricao_funcional": "Unidade macro-local de 3 microlinha(s), dominada por zona estrutura operacional do real, problema potencialidade e atualizacao, trabalho reinscreve consciencia no real, direção introduz, impacto explicita e faixa local P11-P15.",
+      "criterio_de_unidade": "transicao",
+      "microlinha_ids": [
+        "ML_0018",
+        "ML_0019",
+        "ML_0020"
+      ],
+      "percurso_ids_associados": [
+        "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+      ],
+      "argumento_ids_associados": [
+        "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+        "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+        "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+      ],
+      "passo_ids_alvo": [
+        "P28",
+        "P29",
+        "P44",
+        "P47",
+        "P11"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "RA_0007",
+      "titulo": "etica e narrativa — substituicao do real pelo sistema — prolonga (explicita)",
+      "descricao_funcional": "Unidade macro-local de 8 microlinha(s), dominada por zona etica e narrativa, problema substituicao do real pelo sistema, trabalho identifica substituicao do real, direção prolonga, impacto explicita e faixa local P01-P05.",
+      "criterio_de_unidade": "transicao",
+      "microlinha_ids": [
+        "ML_0022",
+        "ML_0023",
+        "ML_0024",
+        "ML_0025",
+        "ML_0026",
+        "ML_0027",
+        "ML_0028",
+        "ML_0029"
+      ],
+      "percurso_ids_associados": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_associados": [
+        "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+        "ARG_ADEQUACAO_EXIGE_CRITERIO",
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      ],
+      "passo_ids_alvo": [
+        "P33",
+        "P28",
+        "P36",
+        "P44",
+        "P46"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "RA_0012",
+      "titulo": "transicao antropologica — projecao do eu no real — introduz (explicita)",
+      "descricao_funcional": "Unidade macro-local de 8 microlinha(s), dominada por zona transicao antropologica, problema projecao do eu no real, trabalho descreve dinamica ontologica, direção introduz, impacto explicita e faixa local P06-P10.",
+      "criterio_de_unidade": "transicao",
+      "microlinha_ids": [
+        "ML_0042",
+        "ML_0043",
+        "ML_0044",
+        "ML_0045",
+        "ML_0046",
+        "ML_0047",
+        "ML_0048",
+        "ML_0049"
+      ],
+      "percurso_ids_associados": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_associados": [
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+        "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+        "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+      ],
+      "passo_ids_alvo": [
+        "P33",
+        "P28",
+        "P34",
+        "P36",
+        "P23"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "RA_0013",
+      "titulo": "etica e narrativa — fechamento simbolico — prolonga (explicita)",
+      "descricao_funcional": "Unidade macro-local de 6 microlinha(s), dominada por zona etica e narrativa, problema fechamento simbolico, trabalho diagnostica fechamento simbolico, direção prolonga, impacto explicita e faixa local P11-P15.",
+      "criterio_de_unidade": "transicao",
+      "microlinha_ids": [
+        "ML_0050",
+        "ML_0051",
+        "ML_0052",
+        "ML_0053",
+        "ML_0054",
+        "ML_0055"
+      ],
+      "percurso_ids_associados": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_associados": [
+        "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+        "ARG_ADEQUACAO_EXIGE_CRITERIO",
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      ],
+      "passo_ids_alvo": [
+        "P33",
+        "P36",
+        "P28",
+        "P34",
+        "P24"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "RA_0029",
+      "titulo": "etica e narrativa — dano real e reducao de potencialidades — introduz (explicita)",
+      "descricao_funcional": "Unidade macro-local de 3 microlinha(s), dominada por zona etica e narrativa, problema dano real e reducao de potencialidades, trabalho identifica dano real, direção introduz, impacto explicita e faixa local P11-P15.",
+      "criterio_de_unidade": "transicao",
+      "microlinha_ids": [
+        "ML_0105",
+        "ML_0106",
+        "ML_0107"
+      ],
+      "percurso_ids_associados": [
+        "P_EIXO_SIMBOLICO_MEDIACIONAL"
+      ],
+      "argumento_ids_associados": [
+        "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+        "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+        "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+      ],
+      "passo_ids_alvo": [
+        "P13",
+        "P44",
+        "P49",
+        "P12",
+        "P23"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "RA_0038",
+      "titulo": "etica e narrativa — fundamento do dever ser — introduz (explicita)",
+      "descricao_funcional": "Unidade macro-local de 1 microlinha(s), dominada por zona etica e narrativa, problema fundamento do dever ser, trabalho subordina normatividade ao real, direção introduz, impacto explicita e faixa local P41-P45.",
+      "criterio_de_unidade": "percurso",
+      "microlinha_ids": [
+        "ML_0126"
+      ],
+      "percurso_ids_associados": [],
+      "argumento_ids_associados": [],
+      "passo_ids_alvo": [
+        "P43",
+        "P47",
+        "P48",
+        "P50"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "RA_0040",
+      "titulo": "etica e narrativa — criterio para viver bem — introduz (explicita)",
+      "descricao_funcional": "Unidade macro-local de 1 microlinha(s), dominada por zona etica e narrativa, problema criterio para viver bem, trabalho abre aplicacao setorial, direção introduz, impacto explicita e faixa local P46-P50.",
+      "criterio_de_unidade": "problema",
+      "microlinha_ids": [
+        "ML_0130"
+      ],
+      "percurso_ids_associados": [],
+      "argumento_ids_associados": [],
+      "passo_ids_alvo": [
+        "P49",
+        "P51"
+      ],
+      "prioridade_de_consolidacao": "media",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "RA_0059",
+      "titulo": "epistemologia — criterio de verdade — prolonga (explicita)",
+      "descricao_funcional": "Unidade macro-local de 8 microlinha(s), dominada por zona epistemologia, problema criterio de verdade, trabalho abre aplicacao setorial, direção prolonga, impacto explicita e faixa local P11-P15.",
+      "criterio_de_unidade": "transicao",
+      "microlinha_ids": [
+        "ML_0162",
+        "ML_0163",
+        "ML_0164",
+        "ML_0165",
+        "ML_0166",
+        "ML_0167",
+        "ML_0168",
+        "ML_0169"
+      ],
+      "percurso_ids_associados": [
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "argumento_ids_associados": [
+        "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+        "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+        "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+      ],
+      "passo_ids_alvo": [
+        "P28",
+        "P33",
+        "P36",
+        "P26",
+        "P31"
+      ],
+      "prioridade_de_consolidacao": "alta",
+      "estado_validacao": "valido_com_avisos"
+    }
+  ],
+  "percursos": [
+    {
+      "id": "P_EIXO_EPISTEMOLOGICO",
+      "titulo": null,
+      "regime": null,
+      "descricao": null,
+      "ramo_ids": [
+        "RA_0001",
+        "RA_0002",
+        "RA_0003",
+        "RA_0007",
+        "RA_0011",
+        "RA_0012",
+        "RA_0013",
+        "RA_0015",
+        "RA_0016",
+        "RA_0020",
+        "RA_0021",
+        "RA_0028",
+        "RA_0032",
+        "RA_0033",
+        "RA_0043",
+        "RA_0049",
+        "RA_0053",
+        "RA_0057",
+        "RA_0059",
+        "RA_0062"
+      ],
+      "pressupostos_fecho_ids": [
+        "P_EIXO_ONTOLOGICO_NUCLEAR",
+        "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+        "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+        "P_EIXO_CAMPO_E_LOCALIZACAO",
+        "P_EIXO_SIMBOLICO_MEDIACIONAL"
+      ],
+      "directo": [
+        {
+          "caps_ids": [
+            "CAP_17_ADEQUACAO",
+            "CAP_18_CRITERIO",
+            "CAP_19_VERDADE",
+            "CAP_20_ERRO",
+            "CAP_21_CORRECAO",
+            "CAP_27_SISTEMA",
+            "CAP_29_INSTITUICAO"
+          ],
+          "cap_ids_axiais": [
+            "CAP_17_ADEQUACAO",
+            "CAP_18_CRITERIO",
+            "CAP_19_VERDADE",
+            "CAP_20_ERRO",
+            "CAP_21_CORRECAO"
+          ],
+          "cap_ids_participantes": [
+            "CAP_27_SISTEMA",
+            "CAP_29_INSTITUICAO"
+          ]
+        }
+      ],
+      "com_pressupostos": [
+        {
+          "percursos_base_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR",
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+            "P_EIXO_CAMPO_E_LOCALIZACAO",
+            "P_EIXO_SIMBOLICO_MEDIACIONAL",
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "caps_ids": [
+            "CAP_01_DISTINCAO",
+            "CAP_02_ESTRUTURA_LIMITE",
+            "CAP_03_DETERMINACAO_NAO_SER",
+            "CAP_04_RELACAO_REAL_SER",
+            "CAP_05_PODER_SER",
+            "CAP_06_ATUALIZACAO_CONTINUIDADE",
+            "CAP_07_REGULARIDADE_NECESSIDADE",
+            "CAP_08_CAMPO",
+            "CAP_09_ESCALA",
+            "CAP_10_ESTABILIDADE_TEMPO",
+            "CAP_11_LOCALIDADE",
+            "CAP_12_SER_HUMANO",
+            "CAP_13_REPRESENTACAO",
+            "CAP_14_LINGUAGEM_MEDIACAO",
+            "CAP_15_CONSCIENCIA",
+            "CAP_16_LIBERDADE_SITUADA",
+            "CAP_17_ADEQUACAO",
+            "CAP_18_CRITERIO",
+            "CAP_19_VERDADE",
+            "CAP_20_ERRO",
+            "CAP_21_CORRECAO",
+            "CAP_27_SISTEMA",
+            "CAP_28_CULTURA",
+            "CAP_29_INSTITUICAO",
+            "CAP_30_TECNOLOGIA"
+          ],
+          "resumo": ""
+        }
+      ],
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "P_EIXO_ESCALA_E_ERRO_DE_ESCALA",
+      "titulo": null,
+      "regime": null,
+      "descricao": null,
+      "ramo_ids": [
+        "RA_0005",
+        "RA_0014",
+        "RA_0017"
+      ],
+      "pressupostos_fecho_ids": [
+        "P_EIXO_ONTOLOGICO_NUCLEAR",
+        "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+        "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+        "P_EIXO_CAMPO_E_LOCALIZACAO",
+        "P_EIXO_SIMBOLICO_MEDIACIONAL",
+        "P_EIXO_EPISTEMOLOGICO"
+      ],
+      "directo": [
+        {
+          "caps_ids": [
+            "CAP_09_ESCALA",
+            "CAP_10_ESTABILIDADE_TEMPO",
+            "CAP_20_ERRO"
+          ],
+          "cap_ids_axiais": [],
+          "cap_ids_participantes": [
+            "CAP_09_ESCALA",
+            "CAP_10_ESTABILIDADE_TEMPO",
+            "CAP_20_ERRO"
+          ]
+        }
+      ],
+      "com_pressupostos": [
+        {
+          "percursos_base_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR",
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+            "P_EIXO_CAMPO_E_LOCALIZACAO",
+            "P_EIXO_SIMBOLICO_MEDIACIONAL",
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "caps_ids": [
+            "CAP_01_DISTINCAO",
+            "CAP_02_ESTRUTURA_LIMITE",
+            "CAP_03_DETERMINACAO_NAO_SER",
+            "CAP_04_RELACAO_REAL_SER",
+            "CAP_05_PODER_SER",
+            "CAP_06_ATUALIZACAO_CONTINUIDADE",
+            "CAP_07_REGULARIDADE_NECESSIDADE",
+            "CAP_08_CAMPO",
+            "CAP_09_ESCALA",
+            "CAP_10_ESTABILIDADE_TEMPO",
+            "CAP_11_LOCALIDADE",
+            "CAP_12_SER_HUMANO",
+            "CAP_13_REPRESENTACAO",
+            "CAP_14_LINGUAGEM_MEDIACAO",
+            "CAP_15_CONSCIENCIA",
+            "CAP_16_LIBERDADE_SITUADA",
+            "CAP_17_ADEQUACAO",
+            "CAP_18_CRITERIO",
+            "CAP_19_VERDADE",
+            "CAP_20_ERRO",
+            "CAP_21_CORRECAO",
+            "CAP_27_SISTEMA",
+            "CAP_28_CULTURA",
+            "CAP_29_INSTITUICAO",
+            "CAP_30_TECNOLOGIA"
+          ],
+          "resumo": ""
+        }
+      ],
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "P_EIXO_SIMBOLICO_MEDIACIONAL",
+      "titulo": null,
+      "regime": null,
+      "descricao": null,
+      "ramo_ids": [
+        "RA_0029"
+      ],
+      "pressupostos_fecho_ids": [
+        "P_EIXO_ONTOLOGICO_NUCLEAR",
+        "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+        "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+        "P_EIXO_CAMPO_E_LOCALIZACAO"
+      ],
+      "directo": [
+        {
+          "caps_ids": [
+            "CAP_13_REPRESENTACAO",
+            "CAP_14_LINGUAGEM_MEDIACAO",
+            "CAP_15_CONSCIENCIA",
+            "CAP_27_SISTEMA",
+            "CAP_28_CULTURA",
+            "CAP_30_TECNOLOGIA"
+          ],
+          "cap_ids_axiais": [
+            "CAP_13_REPRESENTACAO",
+            "CAP_14_LINGUAGEM_MEDIACAO"
+          ],
+          "cap_ids_participantes": [
+            "CAP_15_CONSCIENCIA",
+            "CAP_27_SISTEMA",
+            "CAP_28_CULTURA",
+            "CAP_30_TECNOLOGIA"
+          ]
+        }
+      ],
+      "com_pressupostos": [
+        {
+          "percursos_base_ids": [
+            "P_EIXO_ONTOLOGICO_NUCLEAR",
+            "P_ESTRUTURA_OPERACIONAL_DO_REAL",
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
+            "P_EIXO_CAMPO_E_LOCALIZACAO",
+            "P_EIXO_SIMBOLICO_MEDIACIONAL"
+          ],
+          "caps_ids": [
+            "CAP_01_DISTINCAO",
+            "CAP_02_ESTRUTURA_LIMITE",
+            "CAP_03_DETERMINACAO_NAO_SER",
+            "CAP_04_RELACAO_REAL_SER",
+            "CAP_05_PODER_SER",
+            "CAP_06_ATUALIZACAO_CONTINUIDADE",
+            "CAP_07_REGULARIDADE_NECESSIDADE",
+            "CAP_08_CAMPO",
+            "CAP_09_ESCALA",
+            "CAP_10_ESTABILIDADE_TEMPO",
+            "CAP_11_LOCALIDADE",
+            "CAP_12_SER_HUMANO",
+            "CAP_13_REPRESENTACAO",
+            "CAP_14_LINGUAGEM_MEDIACAO",
+            "CAP_15_CONSCIENCIA",
+            "CAP_16_LIBERDADE_SITUADA",
+            "CAP_27_SISTEMA",
+            "CAP_28_CULTURA",
+            "CAP_30_TECNOLOGIA"
+          ],
+          "resumo": ""
+        }
+      ],
+      "estado_validacao": "valido"
+    }
+  ],
+  "argumentos": [
+    {
+      "id": "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA",
+      "capitulo": "CAP_17_ADEQUACAO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_ADEQUACAO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_DESCRICAO_ESTRUTURAL"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_ADEQUACAO"
+      ],
+      "operacoes_chave": [
+        "OP_IDENTIFICACAO_ADEQUACAO",
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_SUBMISSAO_REAL"
+      ],
+      "ramo_ids": [
+        "RA_0007",
+        "RA_0013",
+        "RA_0015",
+        "RA_0021"
+      ],
+      "resumo": "conceito_alvo: D_ADEQUACAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_ADEQUACAO_EXIGE_CRITERIO",
+      "capitulo": "CAP_17_ADEQUACAO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_CRITERIO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_DESCRICAO_ESTRUTURAL"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_CRITERIO"
+      ],
+      "operacoes_chave": [
+        "OP_FIXACAO_CRITERIO",
+        "OP_IDENTIFICACAO_ADEQUACAO",
+        "OP_SUBMISSAO_REAL"
+      ],
+      "ramo_ids": [
+        "RA_0007",
+        "RA_0013",
+        "RA_0015",
+        "RA_0021"
+      ],
+      "resumo": "conceito_alvo: D_CRITERIO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL",
+      "capitulo": "CAP_25_BEM_MAL",
+      "parte": "PARTE_VI",
+      "nivel": 5,
+      "conceito_alvo": "D_BEM",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "operacional",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_ETICO_ONTOLOGICO",
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_DESCRICAO_ESTRUTURAL",
+            "REGIME_CORRETIVO",
+            "REGIME_INSCRICAO_REAL"
+          ],
+          "percursos": [
+            "P_EIXO_ETICO_NARRATIVO",
+            "P_PERCURSO_DA_VIDA_BOA",
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_BEM"
+      ],
+      "operacoes_chave": [
+        "OP_FIXACAO_CRITERIO",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_RECONDUCAO_RELACIONAL",
+        "OP_IDENTIFICACAO_DANO_REAL",
+        "OP_DIFERENCIACAO_NIVEIS"
+      ],
+      "ramo_ids": [
+        "RA_0003",
+        "RA_0007",
+        "RA_0012",
+        "RA_0013",
+        "RA_0015",
+        "RA_0016",
+        "RA_0020",
+        "RA_0021",
+        "RA_0032",
+        "RA_0033",
+        "RA_0049",
+        "RA_0057",
+        "RA_0059"
+      ],
+      "resumo": "conceito_alvo: D_BEM | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA",
+      "capitulo": "CAP_21_CORRECAO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_CORRECAO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_CORRETIVO",
+            "REGIME_EPISTEMOLOGICO"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_CORRECAO"
+      ],
+      "operacoes_chave": [
+        "OP_FIXACAO_CRITERIO",
+        "OP_IDENTIFICACAO_ESCALA",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "ramo_ids": [
+        "RA_0012",
+        "RA_0057",
+        "RA_0059"
+      ],
+      "resumo": "conceito_alvo: D_CORRECAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL",
+      "capitulo": "CAP_21_CORRECAO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_CORRECAO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_CORRETIVO",
+            "REGIME_EPISTEMOLOGICO"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_CORRECAO"
+      ],
+      "operacoes_chave": [
+        "OP_REINTEGRACAO_ONTOLOGICA",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_FIXACAO_CRITERIO"
+      ],
+      "ramo_ids": [
+        "RA_0012",
+        "RA_0057",
+        "RA_0059"
+      ],
+      "resumo": "conceito_alvo: D_CORRECAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE",
+      "capitulo": "CAP_18_CRITERIO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_CRITERIO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_DESCRICAO_ESTRUTURAL"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_CRITERIO"
+      ],
+      "operacoes_chave": [
+        "OP_FIXACAO_CRITERIO",
+        "OP_FIXACAO_LIMITE_ONTOLOGICO",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "ramo_ids": [
+        "RA_0001",
+        "RA_0016"
+      ],
+      "resumo": "conceito_alvo: D_CRITERIO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO",
+      "capitulo": "CAP_28_CULTURA",
+      "parte": "PARTE_VII",
+      "nivel": 6,
+      "conceito_alvo": "D_CULTURA",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "operacional",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_CRITICA_SISTEMICA",
+            "REGIME_DESCRICAO_ESTRUTURAL",
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_INSCRICAO_REAL"
+          ],
+          "percursos": [
+            "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
+            "P_EIXO_SIMBOLICO_MEDIACIONAL",
+            "P_EIXO_EPISTEMOLOGICO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_CULTURA"
+      ],
+      "operacoes_chave": [
+        "OP_IDENTIFICACAO_MEDIACAO",
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_IDENTIFICACAO_DEPENDENCIA",
+        "OP_FIXACAO_CRITERIO",
+        "OP_RECONDUCAO_RELACIONAL",
+        "OP_DESSUBSTANCIALIZACAO",
+        "OP_SUBMISSAO_REAL"
+      ],
+      "ramo_ids": [
+        "RA_0001",
+        "RA_0002",
+        "RA_0003",
+        "RA_0011",
+        "RA_0020",
+        "RA_0028",
+        "RA_0029",
+        "RA_0032",
+        "RA_0033",
+        "RA_0043",
+        "RA_0049",
+        "RA_0062"
+      ],
+      "resumo": "conceito_alvo: D_CULTURA | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO",
+      "capitulo": "CAP_26_DEVER_SER",
+      "parte": "PARTE_VI",
+      "nivel": 5,
+      "conceito_alvo": "D_DIGNIDADE",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "operacional",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_ETICO_ONTOLOGICO",
+            "REGIME_DESCRICAO_ESTRUTURAL",
+            "REGIME_CORRETIVO",
+            "REGIME_INSCRICAO_REAL",
+            "REGIME_CRITICA_SISTEMICA"
+          ],
+          "percursos": [
+            "P_EIXO_ETICO_NARRATIVO",
+            "P_PERCURSO_DA_VIDA_BOA",
+            "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA",
+            "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL",
+            "P_EIXO_SIMBOLICO_MEDIACIONAL",
+            "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_DIGNIDADE"
+      ],
+      "operacoes_chave": [
+        "OP_IDENTIFICACAO_MEDIACAO",
+        "OP_FIXACAO_LIMITE_ONTOLOGICO",
+        "OP_IDENTIFICACAO_DANO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+        "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA",
+        "OP_SUBMISSAO_REAL",
+        "OP_RECONDUCAO_RELACIONAL"
+      ],
+      "ramo_ids": [
+        "RA_0029"
+      ],
+      "resumo": "conceito_alvo: D_DIGNIDADE | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL",
+      "capitulo": "CAP_29_INSTITUICAO",
+      "parte": "PARTE_VII",
+      "nivel": 6,
+      "conceito_alvo": "D_DIREITO_COMO_DESCRICAO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "operacional",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_CRITICA_SISTEMICA",
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_CORRETIVO",
+            "REGIME_DESCRICAO_ESTRUTURAL",
+            "REGIME_INSCRICAO_REAL",
+            "REGIME_ETICO_ONTOLOGICO"
+          ],
+          "percursos": [
+            "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA",
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO",
+            "P_EIXO_ETICO_NARRATIVO"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_DIREITO_COMO_DESCRICAO"
+      ],
+      "operacoes_chave": [
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_FIXACAO_CRITERIO",
+        "OP_SUBMISSAO_REAL",
+        "OP_RECONDUCAO_RELACIONAL",
+        "OP_IDENTIFICACAO_DANO_REAL",
+        "OP_CRITICA_FECHAMENTO_SIMBOLICO",
+        "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA"
+      ],
+      "ramo_ids": [
+        "RA_0001",
+        "RA_0002",
+        "RA_0003",
+        "RA_0011",
+        "RA_0020",
+        "RA_0033",
+        "RA_0043"
+      ],
+      "resumo": "conceito_alvo: D_DIREITO_COMO_DESCRICAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido_com_avisos"
+    },
+    {
+      "id": "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME",
+      "capitulo": "CAP_20_ERRO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_ERRO_CATEGORIAL",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_DIFERENCIACAO_ONTOLOGICA",
+            "REGIME_CORRETIVO"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO",
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_ERRO_CATEGORIAL"
+      ],
+      "operacoes_chave": [
+        "OP_IDENTIFICACAO_ERRO_CATEGORIAL",
+        "OP_DIFERENCIACAO_NIVEIS",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "ramo_ids": [
+        "RA_0002",
+        "RA_0005",
+        "RA_0014",
+        "RA_0017",
+        "RA_0032"
+      ],
+      "resumo": "conceito_alvo: D_ERRO_CATEGORIAL | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO",
+      "capitulo": "CAP_20_ERRO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_ERRO_ONTOLOGICO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_DIFERENCIACAO_ONTOLOGICA",
+            "REGIME_CORRETIVO"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO",
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_ERRO_ONTOLOGICO"
+      ],
+      "operacoes_chave": [
+        "OP_IDENTIFICACAO_ERRO_DESCRITIVO",
+        "OP_IDENTIFICACAO_ADEQUACAO",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "ramo_ids": [
+        "RA_0005",
+        "RA_0014",
+        "RA_0017"
+      ],
+      "resumo": "conceito_alvo: D_ERRO_ONTOLOGICO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS",
+      "capitulo": "CAP_20_ERRO",
+      "parte": "PARTE_V",
+      "nivel": 4,
+      "conceito_alvo": "D_ERRO_DE_ESCALA",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "epistemologico",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_EPISTEMOLOGICO",
+            "REGIME_DIFERENCIACAO_ONTOLOGICA",
+            "REGIME_CORRETIVO"
+          ],
+          "percursos": [
+            "P_EIXO_EPISTEMOLOGICO",
+            "P_PERCURSO_DO_ERRO_E_CORRECAO",
+            "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_ERRO_DE_ESCALA"
+      ],
+      "operacoes_chave": [
+        "OP_IDENTIFICACAO_ERRO_ESCALA",
+        "OP_IDENTIFICACAO_ESCALA",
+        "OP_SUBMISSAO_REAL",
+        "OP_DESCRICAO_ESTRUTURAL"
+      ],
+      "ramo_ids": [
+        "RA_0005",
+        "RA_0014",
+        "RA_0017"
+      ],
+      "resumo": "conceito_alvo: D_ERRO_DE_ESCALA | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    },
+    {
+      "id": "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO",
+      "capitulo": "CAP_13_REPRESENTACAO",
+      "parte": "PARTE_IV",
+      "nivel": 3,
+      "conceito_alvo": "D_REPRESENTACAO",
+      "natureza": "meta_dedutivo",
+      "tipo_de_necessidade": "estrutural",
+      "nivel_de_operacao": "operacional",
+      "fundamenta": [
+        {
+          "regimes": [
+            "REGIME_DIFERENCIACAO_ONTOLOGICA",
+            "REGIME_CRITICA_REFLEXIVIDADE",
+            "REGIME_DESCRICAO_ESTRUTURAL"
+          ],
+          "percursos": [
+            "P_EIXO_SIMBOLICO_MEDIACIONAL",
+            "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+          ],
+          "modulos": []
+        }
+      ],
+      "outputs_instalados": [
+        "D_REPRESENTACAO"
+      ],
+      "operacoes_chave": [
+        "OP_IDENTIFICACAO_MEDIACAO",
+        "OP_DESCRICAO_ESTRUTURAL",
+        "OP_LIMITACAO_REFLEXIVIDADE",
+        "OP_DISTINCAO_APREENSAO_REPRESENTACAO"
+      ],
+      "ramo_ids": [
+        "RA_0029",
+        "RA_0054"
+      ],
+      "resumo": "conceito_alvo: D_REPRESENTACAO | natureza: meta_dedutivo | criterio_ultimo: D_REAL",
+      "estado_validacao": "valido"
+    }
+  ],
+  "arquitetura_auxiliar": {
+    "meta_arquitetura_fragmentos": {
+      "nome": "mapa_dedutivo_integral_grelha_fragmentos",
+      "versao": "0.1",
+      "objetivo": "Estrutura-mãe para reconstrução integral do mapa dedutivo e confronto sistemático com os fragmentos tratados.",
+      "modo_de_uso": [
+        "Cada proposição é uma unidade lógico-editorial autónoma.",
+        "Os fragmentos não servem só para confirmar; servem para explicitar, corrigir, mediar ou obrigar a criar novos passos.",
+        "A decisão editorial deve ser sempre separada da justificação do passo e da formulação académica."
+      ],
+      "regras_de_decisao": {
+        "repete": "O fragmento confirma ou reformula sem ganho estrutural relevante.",
+        "explicita": "O fragmento torna explícito o que estava implícito.",
+        "corrige": "O fragmento mostra insuficiência ou desvio da formulação atual.",
+        "medeia": "O fragmento introduz ponte necessária entre passos.",
+        "novo_passo": "O fragmento obriga a inserir novo passo ou subdivisão."
+      }
+    },
+    "indices_disponiveis": [
+      "total_blocos",
+      "total_proposicoes",
+      "proposicoes_por_estado",
+      "nos_criticos_iniciais"
+    ]
+  },
+  "validacao": {
+    "erros": [],
+    "alertas": [],
+    "status": "ok"
+  }
+}
