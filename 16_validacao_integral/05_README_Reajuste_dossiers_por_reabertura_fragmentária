@@ -1,0 +1,178 @@
+README — Reajuste dos dossiers por reabertura fragmentária
+1. O que foi feito até agora
+
+O trabalho começou com uma suspeita substantiva: no CF08, o dossier estava a descrever mal o problema real. Em vez de captar integralmente o que os fragmentos efetivamente dizem, a formulação anterior comprimia o confronto em torno de “emergência”, “novidade qualitativa” e “passagem entre níveis”. Essa suspeita acabou por ser confirmada metodológica e empiricamente.
+
+1.1. Leitura crítica do pipeline original
+
+Foi analisado o script original de seleção de amostras, selecionar_sample_fragmentos_confronto_v1.py, e percebeu-se que ele era útil para expor o desvio do dossier, mas não para o resolver suficientemente bem. Tinha, entre outros, dois problemas práticos:
+
+cortava demasiado o texto;
+não era suficientemente transparente quanto às razões de relevância de cada fragmento.
+
+Além disso, o próprio material produzido por esse pipeline já mostrava que o sample do CF08 era dominado por temas como consciência, real, mediação, representação, símbolo, crítica, erro, reflexividade e ponto de vista, muito mais do que por “emergência” em sentido forte.
+
+1.2. Construção de uma nova linha de scripts
+
+A seguir, foi construída uma linha sucessiva de scripts de seleção e diagnóstico:
+
+v2 / v2.1: passaram a preservar o texto integral, a ler corretamente o snapshot do dossier, e a tornar mais visível por que razão cada fragmento era relevante.
+v3: introduziu a ideia certa, isto é, separar relevância por perfis temáticos, mas a implementação falhou.
+v3.1: corrigiu parte da arquitetura, mas continuou a falhar na prática.
+v3.2: corrigiu o defeito real, isto é, a leitura errada dos campos de texto dos fragmentos, e tornou o sistema funcional.
+
+O erro decisivo das versões v3/v3.1 foi técnico: os scripts estavam a procurar o texto dos fragmentos em campos errados, o que fazia com que pontuassem texto vazio. A v3.2 corrigiu isso e, a partir daí, o diagnóstico passou a ser materialmente fiável.
+
+1.3. Reabertura empírica do CF08
+
+Com a v3.2, o dossier CF08 foi reaberto com base em:
+
+seleção global;
+perfis paralelos de relevância;
+relatório;
+debug;
+leitura integral dos fragmentos selecionados.
+
+O resultado foi inequívoco:
+
+dominant_profile = nucleo_consciencia_no_real
+dossier_declared_profile = emergencia_passagem_niveis
+mismatch_flag = True
+
+Ou seja: o eixo dominante do material não coincide com o eixo declarado do dossier anterior.
+
+1.4. Reformulação do dossier CF08
+
+Com base nessa reabertura, foi feita uma reformulação integral do dossier CF08, abandonando a antiga centralidade em “como surge algo qualitativamente novo no real?” e substituindo-a por um eixo mais fiel ao material:
+
+consciência no real;
+mediação;
+representação;
+símbolo;
+erro categorial;
+crítica ao dualismo, panpsiquismo e fechamento mediacional.
+
+Essa substituição integral ficou consolidada num novo ficheiro de dossier reformulado.
+
+2. O que estamos a fazer neste momento
+
+Neste momento, o trabalho já não está na fase de mera suspeita ou exploração. Estamos numa fase de validação estrutural dos dossiers, em que se faz o seguinte:
+
+parte-se do dossier existente;
+reabre-se a base fragmentária associada;
+selecionam-se fragmentos relevantes com texto integral e critérios legíveis;
+mede-se a relevância por perfis filosóficos distintos;
+compara-se o eixo declarado do dossier com o eixo efetivamente dominante do material;
+reformula-se o dossier quando houver desalinhamento.
+
+No caso do CF08, esse processo já produziu uma conclusão robusta: o dossier antigo descrevia mal o problema e teve de ser substituído.
+
+Portanto, o que estamos a fazer é isto:
+transformar o conjunto de dossiers de confrontos numa descrição mais fiel, integral e filosoficamente rigorosa do real tal como ele aparece nos fragmentos, em vez de manter formulações elegantes mas redutoras.
+
+3. O que já sabemos com segurança
+
+Do trabalho feito até agora, já se pode fixar com segurança o seguinte:
+
+3.1. O critério correto não é preservar o dossier anterior
+
+O README metodológico desta fase já dizia que o objetivo não é “salvar” a formulação antiga, mas verificar se ela descreve realmente o padrão dos fragmentos. Se não descrever, deve ser reajustada.
+
+3.2. O CF08 antigo estava mal centrado
+
+O dossier anterior estava orientado por:
+
+novidade qualitativa;
+emergência;
+passagem de níveis;
+unidade funcional.
+
+Mas os fragmentos fortes concentram-se sobretudo em:
+
+consciência no real;
+mediação;
+representação;
+símbolo;
+crítica ao erro categorial;
+crítica ao dualismo/panpsiquismo.
+3.3. A v3.2 já serve como baseline funcional
+
+A v3.2 já é suficientemente funcional para:
+
+selecionar fragmentos com texto integral;
+pontuar relevância global;
+separar perfis;
+e diagnosticar desalinhamento entre dossier e material.
+4. Passos seguintes
+
+Os próximos passos, do ponto de vista do projeto, deviam ser estes.
+
+4.1. Fixar a v3.2 como baseline técnica provisória
+
+A v3.2 deve ser tratada como a versão funcional de referência, porque foi a primeira a:
+
+não colapsar os scores;
+ler os campos reais dos fragmentos;
+devolver um diagnóstico empiricamente sustentado.
+4.2. Usar o mesmo processo noutros confrontos
+
+O método aplicado ao CF08 deve agora ser replicado noutros dossiers, nomeadamente em confrontos como o CF18, que já está presente no conjunto documental.
+
+A lógica deve repetir-se:
+
+correr a base fragmentária do confronto;
+analisar o perfil dominante;
+comparar com o dossier atual;
+reformular se necessário.
+4.3. Afinar o script numa futura v3.3
+
+A ferramenta já serve, mas ainda pode melhorar. O mais útil seria:
+
+distinguir melhor relevância global de nuclearidade específica para o dossier;
+reduzir o peso de fragmentos meta-críticos demasiado gerais;
+reforçar o peso de fragmentos marcados como problema filosófico central;
+tornar o diagnóstico ainda mais explícito no relatório.
+Isto ainda não é obrigatório para continuar a trabalhar, mas seria um ganho claro.
+4.4. Consolidar os dossiers reformulados
+
+Depois de cada confronto ser reaberto, convém guardar:
+
+o dossier antigo;
+a base fragmentária;
+os outputs v3.2;
+e o dossier reformulado final.
+Assim fica criada uma trilha clara entre formulação anterior, reabertura empírica e substituição final.
+5. Ficheiros relevantes
+5.1. Ficheiros metodológicos e de enquadramento
+04_README_REAJUSTE_DOSSIERS.md — define o critério metodológico desta fase e identifica o tipo de erro que ocorreu no CF08.
+CF08_dossier_confronto.md — dossier antigo, antes da reformulação.
+CF18_dossier_confronto.md — outro dossier relevante para eventual aplicação do mesmo processo.
+5.2. Ficheiros-base do confronto CF08
+CF08_base_fragmentaria.md — visão textual da base fragmentária do confronto.
+CF08_base_fragmentaria.json — base estruturada do CF08 usada para scoring e reabertura.
+5.3. Ficheiros do pipeline antigo
+selecionar_sample_fragmentos_confronto_v1.py — script original de seleção de sample.
+CF08_sample_fragmentos_v1.md — sample antigo em markdown.
+CF08_sample_fragmentos_v1.json — sample antigo em JSON.
+relatorio_selecao_sample_fragmentos_CF08_v1.txt — relatório do sample antigo.
+5.4. Ficheiros do pipeline funcional atual
+selecionar_fragmentos_relevantes_dossier_v3_2.py — script funcional atual para seleção e diagnóstico.
+CF08_fragmentos_relevantes_dossier_v3_2.json — output analítico principal da reabertura v3.2.
+CF08_fragmentos_relevantes_dossier_v3_2.md — leitura integral dos fragmentos selecionados.
+CF08_fragmentos_relevantes_dossier_v3_2__debug.txt — debug técnico do scoring.
+relatorio_CF08_fragmentos_relevantes_dossier_v3_2.txt — relatório resumido e diagnóstico.
+5.5. Ficheiro final de substituição do dossier
+CF08_dossier_confronto_reformulado.md — substituição integral do dossier CF08, alinhada com a reabertura fragmentária e com o diagnóstico da v3.2.
+5.6. Ficheiros estruturais do projeto que continuam relevantes
+proposicoes_nucleares_enriquecidas_v1.json — proposições nucleares usadas como pano de fundo de articulação.
+matriz_confronto_filosofico_v1.json — matriz de confrontos filosóficos.
+adjudicacao_confrontos_filosoficos_restrita_v2.json — adjudicação restrita dos confrontos.
+arvore_do_pensamento_v1.json — árvore de articulação.
+impacto_fragmentos_no_mapa.json — ligações de impacto no mapa.
+02_mapa_dedutivo_arquitetura_fragmentos.json — arquitetura dedutiva dos fragmentos.
+mapa_dedutivo_canonico_final__vfinal_corrente.json — mapa dedutivo canónico final.
+6. Formulação sintética do estado atual
+
+Em formulação curta:
+
+Já foi demonstrado que o CF08 estava mal descrito pelo dossier anterior. O script funcional v3.2 permitiu reabrir o confronto pelos fragmentos, mostrar o desalinhamento entre o eixo declarado e o eixo real do material, e produzir uma substituição integral do dossier. O trabalho que segue é replicar este método noutros confrontos e consolidar o reajuste global dos dossiers.

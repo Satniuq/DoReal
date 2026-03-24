@@ -1,0 +1,1039 @@
+DoReal
+├── 00_bruto
+│   ├── fragmentos.md
+│   ├── fragmentos_nao_processados.md
+│   ├── preparar_containers_segmentacao.py
+│   ├── relatorio_validacao_containers.json
+│   └── validar_containers_segmentacao.py
+├── 01_extraido
+│   ├── proposicoes_unicas_nao_processadas.txt
+│   └── proposicoes_unicas_processadas.txt
+├── 02_segmentado
+│   ├── fragmentos_extraidos.json
+│   └── fragmentos_segmentados.json
+├── 04_classificado
+│   ├── 01_01eixos.py
+│   ├── 01_02influencias_eixos.py
+│   ├── 02_01_INDICE_DA_OBRA.txt
+│   ├── 02_01Indice_Blocos_SubBlocos.py
+│   ├── 02_02_Blocos_E_SubBlocos_ID.txt
+│   ├── 02_02Blocos_SubBlocos_Por_ID.py
+│   ├── 02_031_blocos_so_sintese.py
+│   ├── 02_031_MANUSCRITO_SINTESE.txt
+│   ├── 02_03_MANUSCRITO_REVISAO_FINAL.txt
+│   ├── 02_03Blocos_SubBlocos_Com_Texto.py
+│   ├── 03_01transversalidade_das_classificacoes.py
+│   ├── 04_00IndiceSequencial.txt
+│   ├── 04_01Bloco1_Sequencial.py
+│   ├── 04_01Bloco1_Sequencial.txt
+│   ├── 04_02Bloco2_Sequencial.py
+│   ├── 04_02Bloco2_Sequencial.txt
+│   ├── 04_03Bloco3_Sequencial.py
+│   ├── 04_03Bloco3_Sequencial.txt
+│   ├── 04_04Bloco4_Sequencial.py
+│   ├── 04_04Bloco4_Sequencial.txt
+│   ├── 04_05TextoClassificado_Sequencial.py
+│   ├── 04_05TextoClassificado_Sequencial.txt
+│   ├── 05_01indice_temas_e_estagios.py
+│   ├── 05_01indice_temas_e_estagios.txt
+│   ├── 06_00_So_Texto_Em_Temas_e_Estagios.py
+│   ├── 06_00_So_Texto_Em_Temas_e_Estagios.txt
+│   ├── 06_01Texto_No_Indice_TXT.py
+│   ├── 06_01Texto_No_Indice_TXT.txt
+│   ├── 06_02Texto_No_Indice_MD.md
+│   ├── 06_02Texto_No_Indice_MD.py
+│   ├── Classificados_Final.json
+│   ├── MAPA_TRANSVERSAL_CONCEITOS.txt
+│   └── Taxonomia_Final.json
+├── 05_filософos
+│   ├── aristoteles.md
+│   ├── heidegger.md
+│   └── kant.md
+├── 05_verdades
+│   ├── 00_00_verdades_necessárias.txt
+│   ├── 01_01_Extrai_verdades.py
+│   ├── 01_01_Extrai_verdades.txt
+│   ├── 02_01_comando_AI_extrair_verdades.txt
+│   ├── 02_01_verdades_extraidas.json
+│   ├── @echo off.txt
+│   ├── copiar_fragmentos.py
+│   ├── COPIAR_PROXIMO.ps1
+│   ├── estado.txt
+│   ├── regras_extracao_verdades.txt
+│   └── verdades.md
+├── 06_historico
+│   ├── decisoes.md
+│   └── extracoes.md
+├── 06_relacoes
+│   ├── ligacoes_provisorias.md
+│   └── tensoes.md
+├── 07_indexacao
+│   ├── conceitos.md
+│   ├── eixos.md
+│   ├── problemas.md
+│   └── teses.md
+├── 08_definicoes
+│   ├── 00_pensamentos_sobre_definicoes.txt
+│   ├── 01_01_Indice compacto.txt
+│   ├── 01_def_Ser.txt
+│   ├── 01_Indice_Dependencias.txt
+│   ├── 02_01_processar_ontologia.py
+│   ├── 02_01_processar_ontologia_teste.py
+│   ├── 02_01_prompt.txt
+│   ├── 02_definicoes.json
+│   ├── 02_extracao.txt
+│   ├── 03_extracao_2.txt
+│   ├── 06_01Texto_No_Indice_TXT.txt
+│   ├── 1_def_Real
+│   ├── Estrutura.txt
+│   ├── indice_e_matriz.txt
+│   ├── script_debug.py
+│   └── teste_5_fragmentos.json
+├── 09_Prompt
+│   ├── config
+│   │   ├── definicoes.json
+│   │   ├── operacoes.json
+│   │   └── vetores_definicoes.json
+│   ├── data
+│   │   ├── 06_01Texto_No_Indice_TXT.txt
+│   │   ├── falhados.json
+│   │   ├── verificar_json.py
+│   │   └── verificar_TXT.py
+│   ├── extrator_robusto.py
+│   ├── gerar_vetores.py
+│   └── requirements.txt
+├── 10_grafo_dependencias
+│   ├── data
+│   │   ├── auditoria_definicoes
+│   │   │   ├── D_ADEQUACAO.txt
+│   │   │   ├── D_APREENSAO.txt
+│   │   │   ├── D_ATUALIZACAO.txt
+│   │   │   ├── D_AUTORREFERENCIALIDADE.txt
+│   │   │   ├── D_BEM.txt
+│   │   │   ├── D_CAMPO.txt
+│   │   │   ├── D_CAMPO_DE_POTENCIALIDADES.txt
+│   │   │   ├── D_CIRCULO.txt
+│   │   │   ├── D_CONSCIENCIA_REFLEXIVA.txt
+│   │   │   ├── D_CONTINGENCIA.txt
+│   │   │   ├── D_CONTINUIDADE.txt
+│   │   │   ├── D_CONTINUO.txt
+│   │   │   ├── D_CORRECAO.txt
+│   │   │   ├── D_CRITERIO.txt
+│   │   │   ├── D_CULTURA.txt
+│   │   │   ├── D_DANO_REAL.txt
+│   │   │   ├── D_DETERMINACAO.txt
+│   │   │   ├── D_DEVER_SER.txt
+│   │   │   ├── D_DIRECAO_ONTOLOGICA.txt
+│   │   │   ├── D_DIREITO_COMO_DESCRICAO.txt
+│   │   │   ├── D_DISTINCAO.txt
+│   │   │   ├── D_ERRO_CATEGORIAL.txt
+│   │   │   ├── D_ERRO_DE_ESCALA.txt
+│   │   │   ├── D_ERRO_ONTOLOGICO.txt
+│   │   │   ├── D_ESCALA_ONTOLOGICA.txt
+│   │   │   ├── D_ESTABILIDADE.txt
+│   │   │   ├── D_ESTRUTURA.txt
+│   │   │   ├── D_IMAGINACAO.txt
+│   │   │   ├── D_IMPOSSIBILIDADE_ONTOLOGICA.txt
+│   │   │   ├── D_INSTITUICAO.txt
+│   │   │   ├── D_LIBERDADE_SITUADA.txt
+│   │   │   ├── D_LIMITE.txt
+│   │   │   ├── D_LINGUAGEM.txt
+│   │   │   ├── D_LOCALIDADE.txt
+│   │   │   ├── D_MAL.txt
+│   │   │   ├── D_MEDIACAO.txt
+│   │   │   ├── D_MEMORIA.txt
+│   │   │   ├── D_MOVIMENTO.txt
+│   │   │   ├── D_NAO_SER.txt
+│   │   │   ├── D_NECESSIDADE.txt
+│   │   │   ├── D_PODER_SER.txt
+│   │   │   ├── D_PONTO_DE_VISTA.txt
+│   │   │   ├── D_POTENCIALIDADE.txt
+│   │   │   ├── D_REAL.txt
+│   │   │   ├── D_REGULARIDADE.txt
+│   │   │   ├── D_RELACAO.txt
+│   │   │   ├── D_RELACAO_EU_REAL.txt
+│   │   │   ├── D_RELACIONALIDADE_MINIMA.txt
+│   │   │   ├── D_REPRESENTACAO.txt
+│   │   │   ├── D_RESPONSABILIDADE_ONTOLOGICA.txt
+│   │   │   ├── D_SER.txt
+│   │   │   ├── D_SER_HUMANO.txt
+│   │   │   ├── D_SIMBOLO.txt
+│   │   │   ├── D_SISTEMA.txt
+│   │   │   ├── D_SISTEMA_SIMBOLICO.txt
+│   │   │   ├── D_TECNOLOGIA.txt
+│   │   │   ├── D_TEMPO.txt
+│   │   │   ├── D_TOTALIDADE.txt
+│   │   │   ├── D_VALIDADE.txt
+│   │   │   └── D_VERDADE.txt
+│   │   ├── grafo
+│   │   │   ├── grafo_dependencias.dot
+│   │   │   ├── grafo_dependencias.graphml
+│   │   │   └── grafo_resumo.txt
+│   │   └── subgrafos
+│   │       ├── subgrafo_epistemologia.dot
+│   │       ├── subgrafo_epistemologia.graphml
+│   │       ├── subgrafo_epistemologia_resumo.txt
+│   │       ├── subgrafo_etica.dot
+│   │       ├── subgrafo_etica.graphml
+│   │       ├── subgrafo_etica_resumo.txt
+│   │       ├── subgrafo_fundamento.dot
+│   │       ├── subgrafo_fundamento.graphml
+│   │       └── subgrafo_fundamento_resumo.txt
+│   ├── A_FAZER.MD
+│   ├── A_FAZER_EXPLICACAO.MD
+│   ├── auditar_definicoes.py
+│   ├── construir_grafo_dependencias.py
+│   ├── definicoes_aplicativas.md
+│   ├── definicoes_correcao.md
+│   ├── definicoes_indice.md
+│   ├── eixo_axial_do_sistema.md
+│   ├── hierarquia_do_real.txt
+│   ├── subgrafo_epistemologia.py
+│   ├── subgrafo_etica.py
+│   └── subgrafo_fundamento.py
+├── 11_Schema_tentativa_1
+│   ├── conceitos
+│   │   ├── nivel_0
+│   │   │   ├── D_DETERMINACAO.json
+│   │   │   ├── D_DISTINCAO.json
+│   │   │   ├── D_ESTRUTURA.json
+│   │   │   ├── D_LIMITE.json
+│   │   │   ├── D_NAO_SER.json
+│   │   │   ├── D_POTENCIALIDADE.json
+│   │   │   └── D_RELACIONALIDADE_MINIMA.json
+│   │   ├── nivel_1
+│   │   │   ├── D_ATUALIZACAO.json
+│   │   │   ├── D_LOCALIDADE.json
+│   │   │   ├── D_PODER_SER.json
+│   │   │   ├── D_REAL.json
+│   │   │   ├── D_RELACAO.json
+│   │   │   ├── D_SER.json
+│   │   │   └── D_TOTALIDADE.json
+│   │   ├── nivel_1_5
+│   │   │   ├── D_CONTINUIDADE.json
+│   │   │   ├── D_IMPOSSIBILIDADE_ONTOLOGICA.json
+│   │   │   └── D_REGULARIDADE.json
+│   │   ├── nivel_2
+│   │   │   ├── D_CAMPO.json
+│   │   │   ├── D_CIRCULO.json
+│   │   │   ├── D_CONTINGENCIA.json
+│   │   │   ├── D_CONTINUO.json
+│   │   │   ├── D_ESCALA_ONTOLOGICA.json
+│   │   │   ├── D_ESTABILIDADE.json
+│   │   │   ├── D_MOVIMENTO.json
+│   │   │   ├── D_NECESSIDADE.json
+│   │   │   └── D_TEMPO.json
+│   │   ├── nivel_3
+│   │   │   ├── D_APREENSAO.json
+│   │   │   ├── D_AUTORREFERENCIALIDADE.json
+│   │   │   ├── D_CONSCIENCIA_REFLEXIVA.json
+│   │   │   ├── D_LIBERDADE_SITUADA.json
+│   │   │   ├── D_LINGUAGEM.json
+│   │   │   ├── D_MEDIACAO.json
+│   │   │   ├── D_MEMORIA.json
+│   │   │   ├── D_PONTO_DE_VISTA.json
+│   │   │   ├── D_RELACAO_EU_REAL.json
+│   │   │   ├── D_REPRESENTACAO.json
+│   │   │   ├── D_SER_HUMANO.json
+│   │   │   └── D_SIMBOLO.json
+│   │   ├── nivel_4
+│   │   │   ├── D_ADEQUACAO.json
+│   │   │   ├── D_CORRECAO.json
+│   │   │   ├── D_CRITERIO.json
+│   │   │   ├── D_ERRO_CATEGORIAL.json
+│   │   │   ├── D_ERRO_DE_ESCALA.json
+│   │   │   ├── D_ERRO_ONTOLOGICO.json
+│   │   │   ├── D_VALIDADE.json
+│   │   │   └── D_VERDADE.json
+│   │   ├── nivel_5
+│   │   │   ├── D_BEM.json
+│   │   │   ├── D_CAMPO_DE_POTENCIALIDADES.json
+│   │   │   ├── D_DANO_REAL.json
+│   │   │   ├── D_DEVER_SER.json
+│   │   │   ├── D_DIGNIDADE.json
+│   │   │   ├── D_DIRECAO_ONTOLOGICA.json
+│   │   │   ├── D_MAL.json
+│   │   │   └── D_RESPONSABILIDADE_ONTOLOGICA.json
+│   │   └── nivel_6
+│   │       ├── D_CULTURA.json
+│   │       ├── D_DIREITO_COMO_DESCRICAO.json
+│   │       ├── D_IMAGINACAO.json
+│   │       ├── D_INSTITUICAO.json
+│   │       ├── D_SISTEMA.json
+│   │       ├── D_SISTEMA_SIMBOLICO.json
+│   │       └── D_TECNOLOGIA.json
+│   ├── operacoes
+│   │   └── operacoes.json
+│   ├── percursos
+│   ├── schema_base.json
+│   ├── carregar_conceitos.py
+│   ├── centralidade_conceitos.py
+│   ├── detetor_circularidade.py
+│   ├── detetor_dependencias_implicitas.py
+│   ├── detetor_dependencias_semanticas.py
+│   ├── detetor_inconsistencias.py
+│   ├── exportar_conceitos.py
+│   ├── exposicao_estrutural_do_real.txt
+│   ├── extrair_dependencias.py
+│   ├── identidade_do_projeto.py
+│   ├── identidade_do_projeto_2.py
+│   ├── identidade_do_projeto_3.py
+│   ├── identidade_do_projeto_4.py
+│   ├── identidade_do_projeto_5.py
+│   ├── identidade_projeto_1_a_5.md
+│   ├── INDICE_Tentativa_apos_percursos.md
+│   ├── todos_os_conceitos.json
+│   ├── validar_atributos_conceitos.py
+│   ├── validar_dependencias.py
+│   ├── validar_forma_conceitos.py
+│   ├── validar_operacoes_conceitos.py
+│   ├── validar_operacoes_nao_usadas.py
+│   └── validar_operacoes_por_eixo.py
+├── 12_Estados_finais_de_mundo
+│   ├── criterios_de_inferencia.json
+│   ├── estados_finais.json
+│   ├── MUNDO_AUTOCORRETIVO.json
+│   ├── MUNDO_CONSTITUIDO.json
+│   ├── MUNDO_DEGENERADO.json
+│   ├── MUNDO_ESTERIL.json
+│   └── MUNDO_FRAGIL.json
+├── 13_Meta_Indice
+│   ├── cadência
+│   │   ├── 01_segmentar_fragmentos
+│   │   │   ├── containers_segmentacao.json
+│   │   │   ├── estado_resegmentador.json
+│   │   │   ├── falhas_resegmentador.json
+│   │   │   ├── fazer a seguir.txt
+│   │   │   ├── fragmentos_resegmentados.json
+│   │   │   ├── normalizar_tipos_unidade.py
+│   │   │   ├── relatorio_validacao_fragmentos.json
+│   │   │   ├── resegmentador_semantico.py
+│   │   │   └── validador_fragmentos_resegmentados.py
+│   │   ├── 02_extrator_cadência
+│   │   │   ├── cadencia_casos_fragilizados.json
+│   │   │   ├── cadencia_extraida.json
+│   │   │   ├── cadencia_logs_execucao.json
+│   │   │   ├── cadencia_relatorio_validacao.json
+│   │   │   ├── cadencia_schema.json
+│   │   │   ├── estado_extrator_cadencia.json
+│   │   │   └── extrator_cadencia.py
+│   │   ├── 03_revisao_cruzada_segmentos_vs_cadencia
+│   │   │   ├── A FAZER.TXT
+│   │   │   ├── confianca_baixa.csv
+│   │   │   ├── extrair_falsos_negativos_zona.py
+│   │   │   ├── extrair_indefinidas_prioritarias.py
+│   │   │   ├── falsos_negativos_zona.csv
+│   │   │   ├── gerar_tabela_revisao_cadencia.py
+│   │   │   ├── material_a_retrabalhar.csv
+│   │   │   ├── revisao_humana_prioritaria.csv
+│   │   │   ├── tabela_revisao_cadencia.csv
+│   │   │   ├── tabela_revisao_cadencia.xlsx
+│   │   │   ├── zona_indefinida.csv
+│   │   │   └── zona_indefinida_prioritarias.csv
+│   │   ├── 04_extrator_q_faz_no_sistema
+│   │   │   ├── estado_tratamento_filosofico.json
+│   │   │   ├── extrator_q_faz.py
+│   │   │   ├── intrucoes_preenchimento.md
+│   │   │   ├── tratamento_filosofico_fragmento.schema.json
+│   │   │   ├── tratamento_filosofico_fragmento.template.json
+│   │   │   ├── tratamento_filosofico_fragmentos.json
+│   │   │   ├── tratamento_filosofico_logs_execucao.json
+│   │   │   └── tratamento_filosofico_relatorio_validacao.json
+│   │   ├── 05_priorizar_fragmentos_para_montagem
+│   │   │   ├── A SEGUIR A ISTO
+│   │   │   ├── fragmentos_prioridade_A.json
+│   │   │   ├── mapa_por_capitulo.json
+│   │   │   ├── priorizar_fragmentos_para_montagem.py
+│   │   │   └── top_capitulos_para_montagem.json
+│   │   ├── 06_montar_dossier_capitulos
+│   │   │   ├── dossier_CAP_15_CONSCIENCIA.json
+│   │   │   └── montar_dossier_capitulo.py
+│   │   ├── extrator
+│   │   │   ├── extracao_ontologica_final.json
+│   │   │   ├── fragment_schema.md
+│   │   │   ├── labels_erros.json
+│   │   │   ├── labels_tipos_fragmento.json
+│   │   │   ├── labels_zonas_indice.json
+│   │   │   └── reconciliador_fragmentos.py
+│   │   ├── 01_cadencia_dos_capitulos.md
+│   │   ├── 02_grelha_de_leitura_filosofos.md
+│   │   ├── 03_mapa_dos_erros_estruturais.md
+│   │   ├── pensamentos_iniciais_cadencia_livro.md
+│   │   └── pipeline_1.md
+│   ├── dados_base
+│   │   ├── proposicoes
+│   │   │   ├── criticas.json
+│   │   │   ├── epistemologicas.json
+│   │   │   ├── etico_ontologicas.json
+│   │   │   ├── ontologicas.json
+│   │   │   ├── proposicoes_filtradas.json
+│   │   │   ├── proposicoes_normalizadas.json
+│   │   │   └── proposicoes_ruido.json
+│   │   ├── indice_conceitos.json
+│   │   ├── operacoes.json
+│   │   ├── proposicoes.json
+│   │   ├── relatorio_estatisticas_engracadas.json
+│   │   ├── relatorio_proposicoes.json
+│   │   ├── todos_os_conceitos.json
+│   │   ├── validacao_erros.json
+│   │   └── validacao_warnings.json
+│   ├── data
+│   │   ├── estado_extrator.json
+│   │   ├── proposicoes_extraidas.json
+│   │   ├── relatorio_validacao_argumentos.json
+│   │   ├── relatorio_validacao_indice_por_percurso.json
+│   │   └── relatorio_validacao_indice_sequencial.json
+│   ├── indice
+│   │   ├── 01_mapa_integral_indice
+│   │   │   ├── gerar_mapa_integral_do_indice.py
+│   │   │   ├── gerar_mapa_legivel_indice_em_MD.py
+│   │   │   ├── gerar_mapa_tecnico_indice_em_MD.py
+│   │   │   ├── mapa_integral_do_indice.json
+│   │   │   ├── mapa_integral_do_indice_editorial.md
+│   │   │   └── mapa_integral_do_indice_legivel.md
+│   │   ├── argumentos
+│   │   │   ├── 10_ARG_POTENCIALIDADE_COMO_CAMPO_DE_ATUALIZACOES_COMPATIVEIS.json
+│   │   │   ├── 11_ARG_ATUALIZACAO_COMO_TRANSICAO_NO_CONTINUO.json
+│   │   │   ├── 12_ARG_CONTINUO_COMO_CONDICAO_DE_MOVIMENTO.json
+│   │   │   ├── 13_ARG_REGULARIDADE_COMO_ESTABILIDADE_RELACIONAL.json
+│   │   │   ├── 14_ARG_NECESSIDADE_COMO_DECORRENCIA_DO_LIMITE.json
+│   │   │   ├── 15_ARG_CONTINGENCIA_COMO_RESIDUO_ESTRUTURAL_DA_POTENCIA.json
+│   │   │   ├── 16_ARG_CAMPO_COMO_CONFIGURACAO_RELACIONAL.json
+│   │   │   ├── 17_ARG_CIRCULO_COMO_FECHO_FUNCIONAL_LOCAL.json
+│   │   │   ├── 18_ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS.json
+│   │   │   ├── 19_ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO.json
+│   │   │   ├── 1_ARG_DISTINCAO_MINIMA.json
+│   │   │   ├── 20_ARG_TEMPO_COMO_DIMENSAO_DA_ATUALIZACAO_E_DA_ESTABILIDADE.json
+│   │   │   ├── 21_ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO.json
+│   │   │   ├── 22_ARG_PONTO_DE_VISTA_COMO_EFEITO_DE_LOCALIDADE.json
+│   │   │   ├── 23_ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL.json
+│   │   │   ├── 24_ARG_SER_HUMANO_COMO_NODO_REFLEXIVO_LOCALIZADO.json
+│   │   │   ├── 25_ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA.json
+│   │   │   ├── 26_ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO.json
+│   │   │   ├── 27_ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO.json
+│   │   │   ├── 28_ARG_LINGUAGEM_COMO_SISTEMA_DE_SIMBOLOS_ESTABILIZADOS.json
+│   │   │   ├── 29_ARG_MEDIACAO_COMO_TRANSFORMACAO_DA_APREENSAO_EM_REPRESENTACAO_OPERAVEL.json
+│   │   │   ├── 2_ARG_RELACIONALIDADE_MINIMA.json
+│   │   │   ├── 30_ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA.json
+│   │   │   ├── 31_ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO.json
+│   │   │   ├── 32_ARG_RELACAO_EU_REAL_COMO_ESTRUTURA_REFLEXIVA_SITUADA.json
+│   │   │   ├── 33_ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO.json
+│   │   │   ├── 34_ARG_LIBERDADE_SITUADA_COMO_ORIENTACAO_NO_PODER_SER.json
+│   │   │   ├── 35_ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA.json
+│   │   │   ├── 36_ARG_ADEQUACAO_EXIGE_CRITERIO.json
+│   │   │   ├── 37_ARG_VALIDADE_COMO_ESTABILIDADE_DE_APLICACAO.json
+│   │   │   ├── 38_ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE.json
+│   │   │   ├── 39_ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO.json
+│   │   │   ├── 3_ARG_ESTRUTURA_COMO_CONDICAO_DE_DETERMINABILIDADE.json
+│   │   │   ├── 40_ARG_VERDADE_EXIGE_SUBMISSAO_REAL.json
+│   │   │   ├── 41_ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO.json
+│   │   │   ├── 42_ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME.json
+│   │   │   ├── 43_ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS.json
+│   │   │   ├── 44_ARG_ERRO_ONTOLOGICO_COMO_HIPOSTASE.json
+│   │   │   ├── 45_ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL.json
+│   │   │   ├── 46_ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA.json
+│   │   │   ├── 47_ ARG_CAMPO_DE_POTENCIALIDADES_COMO_ESTRUTURA_DE_ESCOLHAS.json
+│   │   │   ├── 48_ ARG_DANO_REAL_COMO_CRITERIO_NEGATIVO_DA_POTENCIA.json
+│   │   │   ├── 49_ARG_RESPONSABILIDADE_ONTOLOGICA_COMO_RESPOSTA_A_DANO_REAL.json
+│   │   │   ├── 4_ARG_LIMITE_COMO_CONDICAO_DE_EXISTENCIA_DETERMINADA.json
+│   │   │   ├── 50_ARG_RESPONSABILIDADE_EXIGE_LOCALIDADE_E_PONTO_DE_VISTA.json
+│   │   │   ├── 51_ARG_DIRECAO_ONTOLOGICA_COMO_ORIENTACAO_DA_ATUALIZACAO.json
+│   │   │   ├── 52_ARG_DIRECAO_COMO_FIXACAO_DE_VETORES_DE_ACAO.json
+│   │   │   ├── 53_ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL.json
+│   │   │   ├── 54_ARG_MAL_COMO_DEGENERACAO_E_DANO.json
+│   │   │   ├── 55_ARG_DEVER_SER_COMO_SUBORDINACAO_AO_REAL.json
+│   │   │   ├── 56_ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE.json
+│   │   │   ├── 57_ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO.json
+│   │   │   ├── 58_ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO.json
+│   │   │   ├── 59_ARG_SISTEMA_COMO_CRISTALIZACAO_SISTEMICA_DE_MEDIACOES.json
+│   │   │   ├── 5_ARG_DETERMINACAO_COMO_FIXACAO_RELACIONAL_SOB_LIMITE.json
+│   │   │   ├── 60_ARG_SISTEMA_TENDE_A_SUBSTITUIR_O_REAL.json
+│   │   │   ├── 61_ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO.json
+│   │   │   ├── 62_ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO.json
+│   │   │   ├── 63_ARG_INSTITUICAO_COMO_FIXACAO_DE_CRITERIOS_COLETIVOS.json
+│   │   │   ├── 64_ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL.json
+│   │   │   ├── 65_ARG_TECNOLOGIA_COMO_MEDIACAO_DE_SEGUNDA_ORDEM.json
+│   │   │   ├── 66_ARG_TECNOLOGIA_COMO_AMPLIFICACAO_E_RISCO_DE_SUBSTITUICAO.json
+│   │   │   ├── 6_ARG_NAO_SER_COMO_FUNCAO_DO_LIMITE.json
+│   │   │   ├── 7_ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA.json
+│   │   │   ├── 8_ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL.json
+│   │   │   ├── 9_ARG_PODER_SER_COMO_DIMENSAO_REAL_DA_ESTRUTURA.json
+│   │   │   ├── argumentos_unificados.json
+│   │   │   └── unir_argumentos.py
+│   │   ├── filosofos
+│   │   │   ├── extrator
+│   │   │   │   └── Método de Extração Filosófica Estratificada.md
+│   │   │   ├── ideias.md
+│   │   │   ├── Lista_filósofos_e_teorias.md
+│   │   │   ├── Lista_obras_filosoficas.md
+│   │   │   └── procedimento_analise_filosofos.md
+│   │   ├── indice sequencial.md
+│   │   ├── indice_argumentos.json
+│   │   ├── indice_argumentos.md
+│   │   ├── indice_derivado.md
+│   │   ├── indice_por_percurso.json
+│   │   ├── indice_sequencial.json
+│   │   └── read_me.md
+│   ├── indices_derivados
+│   │   ├── campos_nao_enquadrados.json
+│   │   ├── indice_conceito_operacoes.json
+│   │   ├── indice_de_patologias.json
+│   │   ├── indice_de_percursos.json
+│   │   ├── indice_por_funcao.json
+│   │   ├── indice_por_regime.json
+│   │   ├── indice_proposicoes_por_campo.json
+│   │   ├── indice_proposicoes_por_capitulo.json
+│   │   ├── indice_proposicoes_por_nivel.json
+│   │   ├── indice_proposicoes_por_percurso.json
+│   │   ├── indice_proposicoes_por_regime.json
+│   │   ├── indice_proposicoes_por_regime_e_nivel.json
+│   │   ├── indice_proposicoes_por_regime_principal.json
+│   │   ├── manuscrito_estrutural.txt
+│   │   ├── manuscrito_nuclear.txt
+│   │   ├── proposicoes_classificadas_funcao.json
+│   │   └── proposicoes_nao_enquadradas.json
+│   ├── meta
+│   │   ├── conceitos_fundacionais.json
+│   │   ├── indice_consolidado.md
+│   │   ├── indice_matriz.md
+│   │   ├── mapa_capitulos.json
+│   │   ├── meta_indice.json
+│   │   ├── meta_referencia_do_percurso.json
+│   │   ├── PR_M_ARGUMENTO_ESTRUTURAL_DA_VERDADE.json
+│   │   ├── regime_de_percursos.md
+│   │   └── regimes.json
+│   ├── old_arguments
+│   │   ├── ARG_CONSCIENCIA_INTERIORIDADE_ESTRUTURAL.json
+│   │   ├── ARG_DERIVACAO_ETICA_ESTRUTURAL.json
+│   │   ├── ARG_ESTRUTURAL_DA_VERDADE.json
+│   │   ├── ARG_IRREVERSIBILIDADE_DA_ATUALIZACAO.json
+│   │   └── ARG_LIMITE_DA_TOTALIZACAO.json
+│   ├── percursos
+│   │   ├── conteudo_completo_percursos.txt
+│   │   ├── extrair_percursos_e_python.py
+│   │   ├── P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA.json
+│   │   ├── P_EIXO_CAMPO_E_LOCALIZACAO.json
+│   │   ├── P_EIXO_EPISTEMOLOGICO.json
+│   │   ├── P_EIXO_ESCALA_E_ERRO_DE_ESCALA.json
+│   │   ├── P_EIXO_ETICO_NARRATIVO.json
+│   │   ├── P_EIXO_ONTOLOGICO_NUCLEAR.json
+│   │   ├── P_EIXO_SIMBOLICO_MEDIACIONAL.json
+│   │   ├── P_ESTRUTURA_OPERACIONAL_DO_REAL.json
+│   │   ├── P_PERCURSO_DA_DEGENERACAO_ETICA.json
+│   │   ├── P_PERCURSO_DA_VIDA_BOA.json
+│   │   ├── P_PERCURSO_DA_VIDA_BOA_FILOSOFICA.json
+│   │   ├── P_PERCURSO_DO_ERRO_E_CORRECAO.json
+│   │   ├── P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO.json
+│   │   ├── P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA.json
+│   │   ├── P_PERCURSO_ONTOLOGICAMENTE_ESTERIL_POR_INVERSAO_DIRECIONAL.json
+│   │   ├── P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA.json
+│   │   ├── validar_percursos.py
+│   │   └── ver_percurso.py
+│   ├── perfis_de_regimes
+│   │   ├── PR_P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA.json
+│   │   ├── PR_P_EIXO_CAMPO_E_LOCALIZACAO.json
+│   │   ├── PR_P_EIXO_EPISTEMOLOGICO.json
+│   │   ├── PR_P_EIXO_ESCALA_E_ERRO_DE_ESCALA.json
+│   │   ├── PR_P_EIXO_ETICO_NARRATIVO.json
+│   │   ├── PR_P_EIXO_ONTOLOGICO_NUCLEAR.json
+│   │   ├── PR_P_EIXO_SIMBOLICO_MEDIACIONAL.json
+│   │   ├── PR_P_ESTRUTURA_OPERACIONAL_DO_REAL.json
+│   │   ├── PR_P_PERCURSO_DA_DEGENERACAO_ETICA.json
+│   │   ├── PR_P_PERCURSO_DA_VIDA_BOA.json
+│   │   ├── PR_P_PERCURSO_DA_VIDA_BOA_FILOSOFICA.json
+│   │   ├── PR_P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL.json
+│   │   ├── PR_P_PERCURSO_DO_ERRO_E_CORRECAO.json
+│   │   ├── PR_P_PERCURSO_DO_ERRO_E_DA_DEGENERACAO.json
+│   │   └── PR_P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA.json
+│   └── scripts
+│       ├── adicionar_proposicao.py
+│       ├── alinhar_perfis_com_operacoes.py
+│       ├── classificar_funcao_proposicional.py
+│       ├── estatisticas_proposicoes.py
+│       ├── extrator_bruto_para_proposicoes_spec_best.py
+│       ├── filtrar_proposicoes_ruido.py
+│       ├── gerar_indice_conceitos.py
+│       ├── gerar_indices_derivados.py
+│       ├── gerar_indices_proposicionais.py
+│       ├── gerar_manuscrito_estrutural.py
+│       ├── gerar_manuscrito_nuclear.py
+│       ├── gerar_mapa_capitulos_proposicoes.py
+│       ├── gerar_meta_referencias.py
+│       ├── normalizar_e_validar_proposicoes.py
+│       ├── validar_argumentos.py
+│       ├── validar_conceitos_em_percursos.py
+│       ├── validar_indice_conceitos.py
+│       ├── validar_indice_por_percurso.py
+│       ├── validar_indice_sequencial.py
+│       ├── validar_indices_derivados.py
+│       ├── validar_meta_indice.py
+│       ├── validar_operacoes_em_percursos.py
+│       ├── validar_perfis_regimes.py
+│       └── validar_regimes_em_perfis.py
+├── 14_mapa_dedutivo
+│   ├── 01_reconstrucao_mapa_v2
+│   │   ├── dossiers_corredor
+│   │   │   ├── dossier_corredor_P25_P30.json
+│   │   │   ├── dossier_corredor_P33_P37.json
+│   │   │   ├── dossier_corredor_P42_P48.json
+│   │   │   └── dossier_corredor_P50.json
+│   │   ├── corredor_P25_P30.json
+│   │   ├── corredor_P25_P30_organizado.json
+│   │   ├── corredor_P33_P37.json
+│   │   ├── corredor_P33_P37_organizado.json
+│   │   ├── corredor_P42_P48.json
+│   │   ├── corredor_P42_P48_organizado.json
+│   │   ├── corredor_P50.json
+│   │   ├── corredor_P50_organizado.json
+│   │   ├── extrair_corredores_criticos.py
+│   │   ├── fechador_canonico_mapa.py
+│   │   ├── fecho_manual_corredor_P25_P30.json
+│   │   ├── fecho_manual_corredor_P33_P37.json
+│   │   ├── fecho_manual_corredor_P42_P48.json
+│   │   ├── fecho_manual_corredor_P50.json
+│   │   ├── fichas_v2_corredor_P25_P30.json
+│   │   ├── fichas_v2_corredor_P33_P37.json
+│   │   ├── fichas_v2_corredor_P42_P48.json
+│   │   ├── fichas_v2_corredor_P50.json
+│   │   ├── mapa_dedutivo_precanonico_v4.json
+│   │   ├── mapa_dedutivo_reconstrucao_inevitavel_v3.json
+│   │   ├── matriz_inevitabilidades_v4.json
+│   │   ├── montar_ficha.py
+│   │   ├── organizar_fragmentos_por_funcao.py
+│   │   ├── preparar_fecho_manual_corredor.py
+│   │   ├── READ_ME.md
+│   │   ├── reconstrutor_dedutivo_inevitavel.py
+│   │   ├── relatorio_fecho_canonico_v4.json
+│   │   ├── relatorio_reconstrucao_inevitavel_v3.json
+│   │   ├── resumo_extracao_corredores_criticos.json
+│   │   ├── resumo_montagem_fichas_v2.json
+│   │   ├── resumo_organizacao_fragmentos_por_funcao.json
+│   │   └── resumo_preparacao_fecho_manual.json
+│   ├── 02_fecho_canonico_mapa
+│   │   ├── consolidacao
+│   │   │   ├── consolidador_fecho_canonico.py
+│   │   │   ├── decisoes_canonicas_intermedias_consolidado_candidato.json
+│   │   │   ├── patch_consolidacao_agregador.py
+│   │   │   └── relatorio_validacao_consolidacao.txt
+│   │   ├── logs
+│   │   │   ├── consolidador_fecho_canonico.log
+│   │   │   └── orquestrador_fecho_canonico_api.log
+│   │   ├── outputs
+│   │   │   ├── versoes_finais
+│   │   │   │   ├── mapa_dedutivo_canonico_final__vfinal_corrente.json
+│   │   │   │   ├── relatorio_conferencia_final__aceite.txt
+│   │   │   │   └── relatorio_final_de_inevitabilidades__vfinal_corrente.json
+│   │   │   ├── conferencia_final_fecho.py
+│   │   │   ├── decisoes_canonicas_intermedias.json
+│   │   │   ├── decisoes_canonicas_intermedias_consolidado_final_intermedio.json
+│   │   │   ├── decisoes_canonicas_intermedias_copy.json
+│   │   │   ├── decisoes_canonicas_intermedias_copy_2.json
+│   │   │   ├── decisoes_canonicas_intermedias_copy_3 copy.json
+│   │   │   ├── mapa_dedutivo_canonico_final.json
+│   │   │   ├── relatorio_conferencia_final.txt
+│   │   │   ├── relatorio_final_de_inevitabilidades.json
+│   │   │   └── relatorio_validacao_consolidacao.txt
+│   │   ├── prompts
+│   │   │   ├── prompt_arbitragem_corredor.txt
+│   │   │   ├── prompt_argumento_complementar.txt
+│   │   │   ├── prompt_passo_nuclear.txt
+│   │   │   └── prompt_subpasso_mediacional.txt
+│   │   ├── prompts_enviados
+│   │   │   ├── P25_P30
+│   │   │   │   ├── arbitragem_corredor__P25_P30.txt
+│   │   │   │   ├── passo_nuclear__P25.txt
+│   │   │   │   ├── passo_nuclear__P26.txt
+│   │   │   │   ├── passo_nuclear__P27.txt
+│   │   │   │   ├── passo_nuclear__P28.txt
+│   │   │   │   ├── passo_nuclear__P29.txt
+│   │   │   │   ├── passo_nuclear__P30.txt
+│   │   │   │   ├── subpasso_mediacional__P25_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P26_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P27_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P28_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P29_SP01.txt
+│   │   │   │   └── subpasso_mediacional__P30_SP01.txt
+│   │   │   ├── P33_P37
+│   │   │   │   ├── arbitragem_corredor__P33_P37.txt
+│   │   │   │   ├── passo_nuclear__P33.txt
+│   │   │   │   ├── passo_nuclear__P34.txt
+│   │   │   │   ├── passo_nuclear__P35.txt
+│   │   │   │   ├── passo_nuclear__P36.txt
+│   │   │   │   ├── passo_nuclear__P37.txt
+│   │   │   │   ├── subpasso_mediacional__P33_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P34_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P36_SP01.txt
+│   │   │   │   └── subpasso_mediacional__P37_SP01.txt
+│   │   │   ├── P42_P48
+│   │   │   │   ├── arbitragem_corredor__P42_P48.txt
+│   │   │   │   ├── passo_nuclear__P42.txt
+│   │   │   │   ├── passo_nuclear__P43.txt
+│   │   │   │   ├── passo_nuclear__P44.txt
+│   │   │   │   ├── passo_nuclear__P45.txt
+│   │   │   │   ├── passo_nuclear__P46.txt
+│   │   │   │   ├── passo_nuclear__P47.txt
+│   │   │   │   ├── passo_nuclear__P48.txt
+│   │   │   │   ├── subpasso_mediacional__P42_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P43_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P44_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P45_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P46_SP01.txt
+│   │   │   │   ├── subpasso_mediacional__P47_SP01.txt
+│   │   │   │   └── subpasso_mediacional__P48_SP01.txt
+│   │   │   └── P50
+│   │   │       ├── arbitragem_corredor__P50.txt
+│   │   │       ├── passo_nuclear__P50.txt
+│   │   │       └── subpasso_mediacional__P50_SP01.txt
+│   │   ├── respostas_modelo
+│   │   │   ├── P25_P30
+│   │   │   │   ├── arbitragem_corredor__P25_P30.json
+│   │   │   │   ├── arbitragem_corredor__P25_P30.raw.txt
+│   │   │   │   ├── passo_nuclear__P25.json
+│   │   │   │   ├── passo_nuclear__P25.raw.txt
+│   │   │   │   ├── passo_nuclear__P26.json
+│   │   │   │   ├── passo_nuclear__P26.raw.txt
+│   │   │   │   ├── passo_nuclear__P27.json
+│   │   │   │   ├── passo_nuclear__P27.raw.txt
+│   │   │   │   ├── passo_nuclear__P28.json
+│   │   │   │   ├── passo_nuclear__P28.raw.txt
+│   │   │   │   ├── passo_nuclear__P29.json
+│   │   │   │   ├── passo_nuclear__P29.raw.txt
+│   │   │   │   ├── passo_nuclear__P30.json
+│   │   │   │   ├── passo_nuclear__P30.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P25_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P25_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P26_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P26_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P27_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P27_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P28_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P28_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P29_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P29_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P30_SP01.json
+│   │   │   │   └── subpasso_mediacional__P30_SP01.raw.txt
+│   │   │   ├── P33_P37
+│   │   │   │   ├── arbitragem_corredor__P33_P37.json
+│   │   │   │   ├── arbitragem_corredor__P33_P37.raw.txt
+│   │   │   │   ├── passo_nuclear__P33.json
+│   │   │   │   ├── passo_nuclear__P33.raw.txt
+│   │   │   │   ├── passo_nuclear__P34.json
+│   │   │   │   ├── passo_nuclear__P34.raw.txt
+│   │   │   │   ├── passo_nuclear__P35.json
+│   │   │   │   ├── passo_nuclear__P35.raw.txt
+│   │   │   │   ├── passo_nuclear__P36.json
+│   │   │   │   ├── passo_nuclear__P36.raw.txt
+│   │   │   │   ├── passo_nuclear__P37.json
+│   │   │   │   ├── passo_nuclear__P37.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P33_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P33_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P34_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P34_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P36_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P36_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P37_SP01.json
+│   │   │   │   └── subpasso_mediacional__P37_SP01.raw.txt
+│   │   │   ├── P42_P48
+│   │   │   │   ├── arbitragem_corredor__P42_P48.json
+│   │   │   │   ├── arbitragem_corredor__P42_P48.raw.txt
+│   │   │   │   ├── passo_nuclear__P42.json
+│   │   │   │   ├── passo_nuclear__P42.raw.txt
+│   │   │   │   ├── passo_nuclear__P43.json
+│   │   │   │   ├── passo_nuclear__P43.raw.txt
+│   │   │   │   ├── passo_nuclear__P44.json
+│   │   │   │   ├── passo_nuclear__P44.raw.txt
+│   │   │   │   ├── passo_nuclear__P45.json
+│   │   │   │   ├── passo_nuclear__P45.raw.txt
+│   │   │   │   ├── passo_nuclear__P46.json
+│   │   │   │   ├── passo_nuclear__P46.raw.txt
+│   │   │   │   ├── passo_nuclear__P47.json
+│   │   │   │   ├── passo_nuclear__P47.raw.txt
+│   │   │   │   ├── passo_nuclear__P48.json
+│   │   │   │   ├── passo_nuclear__P48.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P42_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P42_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P43_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P43_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P44_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P44_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P45_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P45_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P46_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P46_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P47_SP01.json
+│   │   │   │   ├── subpasso_mediacional__P47_SP01.raw.txt
+│   │   │   │   ├── subpasso_mediacional__P48_SP01.json
+│   │   │   │   └── subpasso_mediacional__P48_SP01.raw.txt
+│   │   │   └── P50
+│   │   │       ├── arbitragem_corredor__P50.json
+│   │   │       ├── arbitragem_corredor__P50.raw.txt
+│   │   │       ├── passo_nuclear__P50.json
+│   │   │       ├── passo_nuclear__P50.raw.txt
+│   │   │       ├── subpasso_mediacional__P50_SP01.json
+│   │   │       └── subpasso_mediacional__P50_SP01.raw.txt
+│   │   ├── schemas
+│   │   │   ├── schema_arbitragem_corredor.json
+│   │   │   ├── schema_decisao_passo.json
+│   │   │   ├── schema_decisao_subpasso.json
+│   │   │   └── schema_decisoes_canonicas_intermedias.json
+│   │   ├── 01_read_me_2_ideias_confuso.txt
+│   │   ├── 02_read_me_fecho_canonico.md
+│   │   ├── 03_read_me_continuar_fecho_canonico.md
+│   │   ├── 04_README_estado_atual_e_proximos_passos_com_nota.md
+│   │   ├── 05_PROMPTS CORREDOR_P25_P30.txt
+│   │   ├── 05_README — Estado do corredor P25_P30 e próximos passos
+│   │   ├── 06_README — Estado atual do fecho canónico e passo seguinte_consolidacao.txt
+│   │   ├── 07_README_estado_atual_e_transicao_para_fecho_do_mapa.md
+│   │   ├── 08_README_estado_atual_apos_consolidacao_terminal_e_proximos_passos.md
+│   │   ├── 09_README_fecho_canonico_aceite_e_congelado.md
+│   │   ├── estrutura da pasta.txt
+│   │   ├── manifesto_fecho_canonico.json
+│   │   └── orquestrador_fecho_canonico_api.py
+│   ├── 01_meu_mapa_dedutivo.md
+│   ├── 02_mapa_dedutivo_arquitetura_fragmentos.json
+│   ├── agregado_impacto_por_proposicao.json
+│   ├── estado_impacto_fragmentos_no_mapa.json
+│   ├── gerar_revisao_estrutural_do_mapa.py
+│   ├── impacto_fragmentos_no_mapa.json
+│   ├── impacto_fragmentos_no_mapa_logs_execucao.json
+│   ├── impacto_fragmentos_no_mapa_relatorio_validacao.json
+│   ├── O QUE TOU A FAZER.TXT
+│   ├── revisao_estrutural_do_mapa.json
+│   └── verificar_mapa_com_fragmentos.py
+├── 15_arvore_do_pensamento
+│   ├── 00_especificacao
+│   │   └── schema_arvore_do_pensamento_v1.md
+│   ├── 01_dados
+│   │   ├── adjudicacao_argumentos_api_v1.json
+│   │   ├── adjudicacao_argumentos_api_v1_estado.json
+│   │   ├── adjudicacao_argumentos_api_v1_logs.jsonl
+│   │   ├── arvore_do_pensamento_v1.json
+│   │   ├── arvore_do_pensamento_v1_fecho_superior.json
+│   │   ├── arvore_do_pensamento_v1_pos_percursos.json
+│   │   ├── relatorio_adjudicacao_argumentos_api_v1.txt
+│   │   ├── relatorio_geracao_argumentos_v1.txt
+│   │   ├── relatorio_geracao_microlinhas_v1.txt
+│   │   ├── relatorio_geracao_percursos_v1.txt
+│   │   ├── relatorio_geracao_ramos_v1.txt
+│   │   ├── relatorio_revisao_argumentos_restritiva_v1.txt
+│   │   ├── relatorio_revisao_percursos_superiores_v1.txt
+│   │   ├── relatorio_triagem_fecho_superior_v1.txt
+│   │   ├── relatorio_validacao_argumentos_v1.txt
+│   │   ├── relatorio_validacao_arvore_v1.txt
+│   │   ├── relatorio_validacao_microlinhas_v1.txt
+│   │   ├── relatorio_validacao_percursos_v1.txt
+│   │   ├── relatorio_validacao_ramos_v1.txt
+│   │   └── triagem_fecho_superior_v1.json
+│   ├── prompts
+│   │   └── prompt_adjudicacao_assistida_api.txt
+│   ├── scripts
+│   │   ├── adjudicar_argumentos_api_v1.py
+│   │   ├── gerar_argumentos_v1.py
+│   │   ├── gerar_arvore_do_pensamento_v1.py
+│   │   ├── gerar_microlinhas_v1.py
+│   │   ├── gerar_percursos_v1.py
+│   │   ├── gerar_ramos_v1.py
+│   │   ├── rever_argumentos_restritivo_v1.py
+│   │   ├── rever_percursos_superiores_v1.py
+│   │   ├── triagem_fecho_superior_v1.py
+│   │   ├── validar_argumentos_v1.py
+│   │   ├── validar_arvore_do_pensamento_v1.py
+│   │   ├── validar_microlinhas_v1.py
+│   │   ├── validar_percursos_v1.py
+│   │   └── validar_ramos_v1.py
+│   ├── 00_README — Fase Pós-Árvore.md
+│   ├── 01_README.md
+│   ├── 02_README_ANALISE_E_PASSOS.md
+│   └── 03_README-Fecho da Zona Superior da Árvore.md
+├── 16_validacao_integral
+│   ├── 00_especificacao
+│   │   ├── enums_documentados_proposicoes_nucleares_enriquecidas_v1.json
+│   │   ├── proposicoes_nucleares_enriquecidas_v1.json
+│   │   ├── regras_de_validacao_proposicoes_nucleares_enriquecidas_v1.json
+│   │   └── schema_proposicoes_nucleares_enriquecidas_v1.json
+│   ├── 01_dados
+│   │   ├── adjudicacao_confrontos_filosoficos_restrita_v1.json
+│   │   ├── adjudicacao_confrontos_filosoficos_restrita_v2.json
+│   │   ├── adjudicacao_confrontos_filosoficos_v1.json
+│   │   ├── inventario_preliminar_de_problemas_filosoficos_v1.json
+│   │   ├── mapa_campos_do_real_v1.json
+│   │   ├── matriz_ancoragem_cientifica_v1.json
+│   │   ├── matriz_confronto_filosofico_v1.json
+│   │   ├── matriz_pontes_entre_niveis_v1.json
+│   │   ├── proposicoes_nucleares_enriquecidas_v1.json
+│   │   └── schema_confronto_filosofico_preliminar_v1.json
+│   ├── 02_outputs
+│   │   ├── relatorio_adjudicacao_confrontos_filosoficos_v1.txt
+│   │   ├── relatorio_atribuicao_regimes_v1.txt
+│   │   ├── relatorio_extracao_e_enriquecimento_proposicoes_v1.txt
+│   │   ├── relatorio_geracao_cadernos_confrontos_v1.txt
+│   │   ├── relatorio_geracao_mapa_campos_do_real_v1.txt
+│   │   ├── relatorio_geracao_matriz_ancoragem_cientifica_v1.txt
+│   │   ├── relatorio_geracao_matriz_confronto_filosofico_v1.txt
+│   │   ├── relatorio_geracao_matriz_pontes_entre_niveis_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_all_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF01_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF02_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF03_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF04_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF05_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF06_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF07_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF08_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF09_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF10_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF11_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF12_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF13_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF14_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF15_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF16_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF17_v1.txt
+│   │   ├── relatorio_reabertura_fragmentaria_CF18_v1.txt
+│   │   ├── relatorio_restricao_adjudicacao_confrontos_filosoficos_v1.txt
+│   │   ├── relatorio_restricao_adjudicacao_confrontos_filosoficos_v2.txt
+│   │   ├── relatorio_revisao_dossier_CF01_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF02_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF03_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF04_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF05_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF06_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF07_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF08_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF09_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF10_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF11_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF12_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF13_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF14_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF15_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF16_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF17_v1.txt
+│   │   ├── relatorio_revisao_dossier_CF18_v1.txt
+│   │   └── relatorio_selecao_sample_fragmentos_CF08_v1.txt
+│   ├── 03_cadernos_confrontos
+│   │   ├── CF01_dossier_confronto.md
+│   │   ├── CF02_dossier_confronto.md
+│   │   ├── CF03_dossier_confronto.md
+│   │   ├── CF04_dossier_confronto.md
+│   │   ├── CF05_dossier_confronto.md
+│   │   ├── CF06_dossier_confronto.md
+│   │   ├── CF07_dossier_confronto.md
+│   │   ├── CF08_dossier_confronto.md
+│   │   ├── CF09_dossier_confronto.md
+│   │   ├── CF10_dossier_confronto.md
+│   │   ├── CF11_dossier_confronto.md
+│   │   ├── CF12_dossier_confronto.md
+│   │   ├── CF13_dossier_confronto.md
+│   │   ├── CF14_dossier_confronto.md
+│   │   ├── CF15_dossier_confronto.md
+│   │   ├── CF16_dossier_confronto.md
+│   │   ├── CF17_dossier_confronto.md
+│   │   ├── CF18_dossier_confronto.md
+│   │   ├── indice_cadernos_confrontos.json
+│   │   └── README_CADERNOS_CONFRONTOS.md
+│   ├── 04_bases_fragmentarias_confrontos
+│   │   ├── samples
+│   │   │   ├── CF08_sample_fragmentos_v1.json
+│   │   │   └── CF08_sample_fragmentos_v1.md
+│   │   ├── CF01_base_fragmentaria.json
+│   │   ├── CF01_base_fragmentaria.md
+│   │   ├── CF02_base_fragmentaria.json
+│   │   ├── CF02_base_fragmentaria.md
+│   │   ├── CF03_base_fragmentaria.json
+│   │   ├── CF03_base_fragmentaria.md
+│   │   ├── CF04_base_fragmentaria.json
+│   │   ├── CF04_base_fragmentaria.md
+│   │   ├── CF05_base_fragmentaria.json
+│   │   ├── CF05_base_fragmentaria.md
+│   │   ├── CF06_base_fragmentaria.json
+│   │   ├── CF06_base_fragmentaria.md
+│   │   ├── CF07_base_fragmentaria.json
+│   │   ├── CF07_base_fragmentaria.md
+│   │   ├── CF08_base_fragmentaria.json
+│   │   ├── CF08_base_fragmentaria.md
+│   │   ├── CF09_base_fragmentaria.json
+│   │   ├── CF09_base_fragmentaria.md
+│   │   ├── CF10_base_fragmentaria.json
+│   │   ├── CF10_base_fragmentaria.md
+│   │   ├── CF11_base_fragmentaria.json
+│   │   ├── CF11_base_fragmentaria.md
+│   │   ├── CF12_base_fragmentaria.json
+│   │   ├── CF12_base_fragmentaria.md
+│   │   ├── CF13_base_fragmentaria.json
+│   │   ├── CF13_base_fragmentaria.md
+│   │   ├── CF14_base_fragmentaria.json
+│   │   ├── CF14_base_fragmentaria.md
+│   │   ├── CF15_base_fragmentaria.json
+│   │   ├── CF15_base_fragmentaria.md
+│   │   ├── CF16_base_fragmentaria.json
+│   │   ├── CF16_base_fragmentaria.md
+│   │   ├── CF17_base_fragmentaria.json
+│   │   ├── CF17_base_fragmentaria.md
+│   │   ├── CF18_base_fragmentaria.json
+│   │   ├── CF18_base_fragmentaria.md
+│   │   └── indice_bases_fragmentarias_confrontos.json
+│   ├── scripts
+│   │   ├── adjudicar_confrontos_filosoficos_v1.py
+│   │   ├── atribuir_regimes_de_validacao_v1.py
+│   │   ├── extrair_e_enriquecer_proposicoes_nucleares_v1.py
+│   │   ├── gerar_cadernos_redacao_confrontos_v1_fechado.py
+│   │   ├── gerar_mapa_campos_do_real_v1.py
+│   │   ├── gerar_matriz_ancoragem_cientifica_v1.py
+│   │   ├── gerar_matriz_confronto_filosofico_v1.py
+│   │   ├── gerar_matriz_pontes_entre_niveis_v1.py
+│   │   ├── reabrir_base_fragmentaria_confronto_v1.py
+│   │   ├── restringir_adjudicacao_confrontos_filosoficos_v1.py
+│   │   ├── restringir_adjudicacao_confrontos_filosoficos_v2.py
+│   │   ├── rever_dossier_confronto_v1.py
+│   │   ├── selecionar_fragmentos_relevantes_dossier_v2.py
+│   │   └── selecionar_sample_fragmentos_confronto_v1.py
+│   ├── 01_README_FASE_VALIDACAO_INTEGRAL_POS_ARVORE.md
+│   ├── 02_README_FASE_VALIDACAO_INTEGRAL_EXECUCAO_ATUAL.md
+│   ├── 03_PLANO_OPERACIONAL_CONFRONTOS.md
+│   ├── 04_README_REAJUSTE_DOSSIERS.md
+│   ├── README_matrizes_derivadas_v1.md
+│   └── README_proposicoes_nucleares_enriquecidas_v1.md
+├── 18_filosofos
+│   └── ideias.txt
+├── data
+├── Estrutura
+│   └── estrutura_inicial.md
+├── indice
+│   ├── fragmentos_ordenados_3.md
+│   ├── fragmentos_ordenados_Parte_10_Hitória_do_pensamento_E_Filosofia
+│   ├── fragmentos_ordenados_Parte_11_Sintese_final
+│   ├── fragmentos_ordenados_Parte_1_o_Real.md
+│   ├── fragmentos_ordenados_Parte_2_Consciência
+│   ├── fragmentos_ordenados_Parte_3_Verdade e Conhecimento
+│   ├── fragmentos_ordenados_Parte_4_Erro
+│   ├── fragmentos_ordenados_Parte_5_Ética
+│   ├── fragmentos_ordenados_Parte_6_Antropologia_Filosofica
+│   ├── fragmentos_ordenados_Parte_7_Escalas_e_sistemas
+│   ├── fragmentos_ordenados_Parte_8_Politica_e_Direito
+│   ├── fragmentos_ordenados_Parte_9_Cultura_e_Transmissão
+│   ├── fragmentos_ordenados_por_indice_2.md
+│   ├── indice_1.md
+│   └── por_ordenar.md
+├── output
+│   └── fragmentos.csv
+├── regrasAI
+│   ├── comandos_AI.md
+│   ├── fragmentos_classificados.md
+│   └── lista_classificacao.md
+├── scripts
+│   ├── extract_fragments.py
+│   ├── segmentar_fragmentos.py
+│   ├── verificar_integridade.py
+│   └── verificar_integridade_segmentacao.py
+├── .env
+├── .gitignore
+├── anotacoes.csv
+├── escrita_certas_partes.txt
+├── guia.txt
+├── README.md
+├── setup_doreal.py
+├── taxnonomia.yml
+├── tree.txt
+├── tree_generate.py
+└── tree_output.txt
