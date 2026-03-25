@@ -264,8 +264,6 @@ DoReal
 │   │       └── D_TECNOLOGIA.json
 │   ├── operacoes
 │   │   └── operacoes.json
-│   ├── percursos
-│   ├── schema_base.json
 │   ├── carregar_conceitos.py
 │   ├── centralidade_conceitos.py
 │   ├── detetor_circularidade.py
@@ -615,6 +613,7 @@ DoReal
 │   │   │   ├── decisoes_canonicas_intermedias_consolidado_candidato.json
 │   │   │   ├── patch_consolidacao_agregador.py
 │   │   │   └── relatorio_validacao_consolidacao.txt
+│   │   ├── dados
 │   │   ├── logs
 │   │   │   ├── consolidador_fecho_canonico.log
 │   │   │   └── orquestrador_fecho_canonico_api.log
@@ -865,6 +864,10 @@ DoReal
 │   ├── 02_outputs
 │   │   ├── relatorio_adjudicacao_confrontos_filosoficos_v1.txt
 │   │   ├── relatorio_atribuicao_regimes_v1.txt
+│   │   ├── relatorio_CF08_fragmentos_relevantes_dossier_final.txt
+│   │   ├── relatorio_CF08_fragmentos_relevantes_dossier_v3.txt
+│   │   ├── relatorio_CF08_fragmentos_relevantes_dossier_v3_1.txt
+│   │   ├── relatorio_CF08_fragmentos_relevantes_dossier_v3_2.txt
 │   │   ├── relatorio_extracao_e_enriquecimento_proposicoes_v1.txt
 │   │   ├── relatorio_geracao_cadernos_confrontos_v1.txt
 │   │   ├── relatorio_geracao_mapa_campos_do_real_v1.txt
@@ -934,6 +937,16 @@ DoReal
 │   │   └── README_CADERNOS_CONFRONTOS.md
 │   ├── 04_bases_fragmentarias_confrontos
 │   │   ├── samples
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_final.json
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_final.md
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3.json
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3.md
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3_1.json
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3_1.md
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3_1__debug.txt
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3_2.json
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3_2.md
+│   │   │   ├── CF08_fragmentos_relevantes_dossier_v3_2__debug.txt
 │   │   │   ├── CF08_sample_fragmentos_v1.json
 │   │   │   └── CF08_sample_fragmentos_v1.md
 │   │   ├── CF01_base_fragmentaria.json
@@ -973,6 +986,11 @@ DoReal
 │   │   ├── CF18_base_fragmentaria.json
 │   │   ├── CF18_base_fragmentaria.md
 │   │   └── indice_bases_fragmentarias_confrontos.json
+│   ├── 04_dossiers_pontos_criticos
+│   ├── 05_dossiers_reformulados
+│   │   ├── CF08_dossier_confronto_FINAL_CONSOLIDADO.md
+│   │   └── CF08_dossier_confronto_reformulado.md
+│   ├── 05_redacao_canonica
 │   ├── scripts
 │   │   ├── adjudicar_confrontos_filosoficos_v1.py
 │   │   ├── atribuir_regimes_de_validacao_v1.py
@@ -987,16 +1005,19 @@ DoReal
 │   │   ├── restringir_adjudicacao_confrontos_filosoficos_v2.py
 │   │   ├── rever_dossier_confronto_v1.py
 │   │   ├── selecionar_fragmentos_relevantes_dossier_v2.py
+│   │   ├── selecionar_fragmentos_relevantes_dossier_v3.py
+│   │   ├── selecionar_fragmentos_relevantes_dossier_v3_1.py
+│   │   ├── selecionar_fragmentos_relevantes_dossier_v3_2.py
 │   │   └── selecionar_sample_fragmentos_confronto_v1.py
 │   ├── 01_README_FASE_VALIDACAO_INTEGRAL_POS_ARVORE.md
 │   ├── 02_README_FASE_VALIDACAO_INTEGRAL_EXECUCAO_ATUAL.md
 │   ├── 03_PLANO_OPERACIONAL_CONFRONTOS.md
 │   ├── 04_README_REAJUSTE_DOSSIERS.md
+│   ├── 05_README_Reajuste_dossiers_por_reabertura_fragmentaria_SUBSTITUICAO.md
 │   ├── README_matrizes_derivadas_v1.md
 │   └── README_proposicoes_nucleares_enriquecidas_v1.md
 ├── 18_filosofos
 │   └── ideias.txt
-├── data
 ├── Estrutura
 │   └── estrutura_inicial.md
 ├── indice
@@ -1029,6 +1050,7 @@ DoReal
 ├── .env
 ├── .gitignore
 ├── anotacoes.csv
+├── API_Key.txt
 ├── escrita_certas_partes.txt
 ├── guia.txt
 ├── README.md

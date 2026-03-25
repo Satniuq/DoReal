@@ -1,0 +1,415 @@
+DEBUG — primeiros fragmentos scoreados
+
+ALIGNMENT SNAPSHOT
+{
+  "dominant_profile": "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo",
+  "second_profile": "apreensao_detecao_localidade_relacao_ao_real",
+  "dossier_declared_profile": "vida_organismo_corpo_animalidade",
+  "dossier_declared_profile_estimation": {
+    "profile": "vida_organismo_corpo_animalidade",
+    "method": "weighted_snapshot_estimation",
+    "section_scores": {
+      "pergunta_central": {
+        "vida_organismo_corpo_animalidade": 18.3425,
+        "potencialidade_atualizacao_continuidade_campo": 0.0,
+        "apreensao_detecao_localidade_relacao_ao_real": 1.45,
+        "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 0.0,
+        "dualismo_reducionismo_erro_de_escala_entre_niveis": 0.0
+      },
+      "descricao_do_confronto": {
+        "vida_organismo_corpo_animalidade": 20.8125,
+        "potencialidade_atualizacao_continuidade_campo": 1.25,
+        "apreensao_detecao_localidade_relacao_ao_real": 1.25,
+        "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 7.625,
+        "dualismo_reducionismo_erro_de_escala_entre_niveis": 2.5
+      },
+      "tese_canonica_provisoria": {
+        "vida_organismo_corpo_animalidade": 23.44,
+        "potencialidade_atualizacao_continuidade_campo": 0.0,
+        "apreensao_detecao_localidade_relacao_ao_real": 1.6,
+        "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 12.96,
+        "dualismo_reducionismo_erro_de_escala_entre_niveis": 0.0
+      },
+      "articulacao_estrutural": {
+        "vida_organismo_corpo_animalidade": 0.0,
+        "potencialidade_atualizacao_continuidade_campo": 2.6625,
+        "apreensao_detecao_localidade_relacao_ao_real": 3.0,
+        "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 0.0,
+        "dualismo_reducionismo_erro_de_escala_entre_niveis": 4.5
+      }
+    },
+    "raw_profile_scores": {
+      "vida_organismo_corpo_animalidade": 62.595,
+      "potencialidade_atualizacao_continuidade_campo": 3.9125,
+      "apreensao_detecao_localidade_relacao_ao_real": 7.3,
+      "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 20.585,
+      "dualismo_reducionismo_erro_de_escala_entre_niveis": 7.0
+    },
+    "confidence": "high",
+    "gap_to_second": 42.01
+  },
+  "mismatch_flag": true,
+  "alignment_classification": "strongly_misaligned",
+  "diagnosis_lines": [
+    "O dossier declara sobretudo o eixo 'vida_organismo_corpo_animalidade', mas o sample global pende para 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo'.",
+    "Gap entre perfis no sample global=2.00; quota do perfil dominante=41.67%.",
+    "Há indício forte de que o centro real do confronto excede ou desloca a formulação declarada do dossier.",
+    "Perfil dominante dos fragmentos: ser_reflexivo_mediacao_representacao_passagem_sem_dualismo.",
+    "Segundo perfil dos fragmentos: apreensao_detecao_localidade_relacao_ao_real."
+  ],
+  "sample_size_used": 24,
+  "global_profile_ranking": [
+    {
+      "profile": "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo",
+      "composite_score": 25.7601,
+      "best_profile_hits": 10
+    },
+    {
+      "profile": "apreensao_detecao_localidade_relacao_ao_real",
+      "composite_score": 23.757,
+      "best_profile_hits": 8
+    },
+    {
+      "profile": "potencialidade_atualizacao_continuidade_campo",
+      "composite_score": 14.0752,
+      "best_profile_hits": 6
+    },
+    {
+      "profile": "vida_organismo_corpo_animalidade",
+      "composite_score": 7.9014,
+      "best_profile_hits": 0
+    },
+    {
+      "profile": "dualismo_reducionismo_erro_de_escala_entre_niveis",
+      "composite_score": 5.489,
+      "best_profile_hits": 0
+    }
+  ],
+  "profile_stats_snapshot": {
+    "vida_organismo_corpo_animalidade": {
+      "label": "Vida, organismo, corpo e animalidade",
+      "description": "Eixo da vida organizada, organismo, corpo, animalidade e forma encarnada do viver.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 12.5997,
+      "max_score": 19.75,
+      "top10_overlap_with_global": 8,
+      "threshold": 4.0
+    },
+    "potencialidade_atualizacao_continuidade_campo": {
+      "label": "Potencialidade, atualização, continuidade e campo",
+      "description": "Solo ontológico-dinâmico: potencialidade, atualização, continuidade real e campo de transformação.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 26.6486,
+      "max_score": 36.8149,
+      "top10_overlap_with_global": 4,
+      "threshold": 4.0
+    },
+    "apreensao_detecao_localidade_relacao_ao_real": {
+      "label": "Apreensão, deteção, localidade e relação ao real",
+      "description": "Relação do organismo ao real por deteção, apreensão situada, interior/exterior e localização do vivo.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 29.1009,
+      "max_score": 49.2669,
+      "top10_overlap_with_global": 10,
+      "threshold": 4.0
+    },
+    "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": {
+      "label": "Ser reflexivo, mediação, representação e passagem sem dualismo",
+      "description": "Passagem do vivo/animal ao ser reflexivo encarnado, com mediação representacional sem corte dualista.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 31.9132,
+      "max_score": 38.1669,
+      "top10_overlap_with_global": 8,
+      "threshold": 4.0
+    },
+    "dualismo_reducionismo_erro_de_escala_entre_niveis": {
+      "label": "Dualismo, reducionismo e erro de escala entre níveis",
+      "description": "Crítica do dualismo e do reducionismo, com atenção a erros de escala e mistura ilegítima de níveis.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 11.1428,
+      "max_score": 20.303,
+      "top10_overlap_with_global": 5,
+      "threshold": 4.0
+    }
+  }
+}
+
+## 1. F0214_SEG_001
+score=56.4905 score_base=54.7805 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=32.6279 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=20.203
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'encarnado', 'vivo', 'atualizacao', 'continuidade', 'apreensao', 'encarnacao', 'humana', 'proposicoes', 'localidade', 'local', 'erro']
+matched_hints=['vivo', 'atualização', 'atualizacao', 'continuidade', 'apreensão', 'apreensao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'sujeito encarnado', 'encarnação', 'encarnacao', 'consciência', 'consciencia', 'continuidade sem salto', 'erro de escala']
+profile_scores={'vida_organismo_corpo_animalidade': 13.8395, 'potencialidade_atualizacao_continuidade_campo': 14.2895, 'apreensao_detecao_localidade_relacao_ao_real': 20.203, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 32.6279, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 8.211}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 2. F0061_SEG_002
+score=53.7597 score_base=52.0497 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=26.1889 second_profile=vida_organismo_corpo_animalidade second_profile_score=15.45
+matched_phrases=[]
+matched_terms=['corporeidade', 'consciencia', 'real', 'corpo', 'representacao', 'ontologico', 'condicao', 'humana', 'animal', 'animalidade', 'potencialidade', 'erro', 'escala']
+matched_hints=['corpo', 'corporeidade', 'animal', 'animalidade', 'potencialidade', 'campo', 'relação ao real', 'relacao ao real', 'consciência', 'consciencia', 'representação', 'representacao', 'erro de escala']
+profile_scores={'vida_organismo_corpo_animalidade': 15.45, 'potencialidade_atualizacao_continuidade_campo': 14.0084, 'apreensao_detecao_localidade_relacao_ao_real': 8.122, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 26.1889, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 12.3793}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 3. F0212_SEG_001
+score=52.0336 score_base=50.3236 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=33.081 second_profile=potencialidade_atualizacao_continuidade_campo second_profile_score=14.098
+matched_phrases=[]
+matched_terms=['organismo', 'organizacao', 'real', 'organico', 'atualizacao', 'apreensao', 'detecao', 'nucleares', 'localidade', 'local', 'exterior']
+matched_hints=['organismo', 'orgânico', 'organico', 'atualização', 'atualizacao', 'campo', 'organização viva', 'organizacao viva', 'apreensão', 'apreensao', 'deteção', 'detecao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'exterior']
+profile_scores={'vida_organismo_corpo_animalidade': 13.311, 'potencialidade_atualizacao_continuidade_campo': 14.098, 'apreensao_detecao_localidade_relacao_ao_real': 33.081, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 0.072, 'dualismo_reducionismo_erro_de_escala_entre_niveis': -0.828}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 4. F0110_A01_SEG_003
+score=50.1502 score_base=48.4402 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=32.6279 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=30.9279
+matched_phrases=[]
+matched_terms=['real', 'continuidade', 'apreensao', 'representacao', 'mediacao', 'quanto', 'humana', 'acao', 'animal', 'animalidade', 'interior', 'exterior']
+matched_hints=['animal', 'animalidade', 'continuidade', 'campo', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'interior', 'exterior', 'representação', 'representacao', 'mediação', 'mediacao', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 12.95, 'potencialidade_atualizacao_continuidade_campo': 11.0584, 'apreensao_detecao_localidade_relacao_ao_real': 30.9279, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 32.6279, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 6.511}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 5. F0108_A01_SEG_001
+score=49.8969 score_base=48.1869 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=32.6279 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=19.75
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'atualizacao', 'apreensao', 'representacao', 'seguinte', 'condicao', 'estrutural', 'interior', 'reflexivo']
+matched_hints=['atualização', 'atualizacao', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'interior', 'ser reflexivo', 'consciência', 'consciencia', 'representação', 'representacao']
+profile_scores={'vida_organismo_corpo_animalidade': 6.872, 'potencialidade_atualizacao_continuidade_campo': 9.5505, 'apreensao_detecao_localidade_relacao_ao_real': 19.75, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 32.6279, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 6.511}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 6. F0070_SEG_001
+score=49.699 score_base=47.989 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=29.7809 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=15.203
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'sujeito', 'continuidade', 'apreensao', 'representacao', 'mediacao', 'ontologico', 'condicao', 'erro']
+matched_hints=['continuidade', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'sujeito encarnado', 'consciência', 'consciencia', 'representação', 'representacao', 'mediação', 'mediacao', 'continuidade sem salto', 'erro de escala']
+profile_scores={'vida_organismo_corpo_animalidade': 1.514, 'potencialidade_atualizacao_continuidade_campo': 13.142, 'apreensao_detecao_localidade_relacao_ao_real': 15.203, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 29.7809, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 1.964}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 7. F0059_SEG_001
+score=49.3028 score_base=47.5928 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=49.2669 second_profile=vida_organismo_corpo_animalidade second_profile_score=19.75
+matched_phrases=[]
+matched_terms=['organismo', 'organizacao', 'real', 'organico', 'apreensao', 'detecao', 'humana', 'animal', 'animalidade', 'interior', 'exterior']
+matched_hints=['organismo', 'orgânico', 'organico', 'animal', 'animalidade', 'processo vivo', 'organização viva', 'organizacao viva', 'apreensão', 'apreensao', 'deteção', 'detecao', 'relação ao real', 'relacao ao real', 'interior', 'exterior']
+profile_scores={'vida_organismo_corpo_animalidade': 19.75, 'potencialidade_atualizacao_continuidade_campo': 3.472, 'apreensao_detecao_localidade_relacao_ao_real': 49.2669, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 8.211, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 5.611}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 8. F0084_A02_SEG_002
+score=49.3028 score_base=47.5928 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=34.3279 second_profile=potencialidade_atualizacao_continuidade_campo second_profile_score=24.1285
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'atualizacao', 'continuidade', 'representacao', 'estrutural', 'humana', 'animal', 'animalidade', 'potencialidade', 'reflexivo']
+matched_hints=['animal', 'animalidade', 'potencialidade', 'atualização', 'atualizacao', 'continuidade', 'relação ao real', 'relacao ao real', 'ser reflexivo', 'consciência', 'consciencia', 'representação', 'representacao', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 7.761, 'potencialidade_atualizacao_continuidade_campo': 24.1285, 'apreensao_detecao_localidade_relacao_ao_real': 9.822, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 34.3279, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 9. F0084_A01_SEG_001
+score=48.786 score_base=47.076 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=30.3759 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=26.1889
+matched_phrases=[]
+matched_terms=['real', 'passagem', 'encarnado', 'atualizacao', 'continuidade', 'encarnacao', 'estrutural', 'potencialidade', 'reflexivo', 'escala']
+matched_hints=['potencialidade', 'atualização', 'atualizacao', 'continuidade', 'campo', 'relação ao real', 'relacao ao real', 'ser reflexivo', 'sujeito encarnado', 'encarnação', 'encarnacao', 'passagem', 'continuidade sem salto', 'erro de escala']
+profile_scores={'vida_organismo_corpo_animalidade': 9.011, 'potencialidade_atualizacao_continuidade_campo': 30.3759, 'apreensao_detecao_localidade_relacao_ao_real': 6.422, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 26.1889, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 8.9793}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 10. F0241_A04_SEG_001
+score=48.4102 score_base=46.7002 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=29.681 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=21.45
+matched_phrases=[]
+matched_terms=['real', 'continuidade', 'apreensao', 'representacao', 'proposicoes', 'localidade', 'local', 'interior', 'exterior', 'reflexivo']
+matched_hints=['continuidade', 'apreensão', 'apreensao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'interior', 'exterior', 'ser reflexivo', 'representação', 'representacao', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 0.072, 'potencialidade_atualizacao_continuidade_campo': 6.511, 'apreensao_detecao_localidade_relacao_ao_real': 29.681, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 21.45, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 0.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 11. F0084_A01_SEG_002
+score=44.9112 score_base=43.2012 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=38.1669 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=21.45
+matched_phrases=[]
+matched_terms=['real', 'passagem', 'apreensao', 'representacao', 'mediacao', 'condicao', 'humana', 'interior', 'reflexivo']
+matched_hints=['campo', 'processo vivo', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'interior', 'ser reflexivo', 'representação', 'representacao', 'mediação', 'mediacao', 'passagem']
+profile_scores={'vida_organismo_corpo_animalidade': 6.872, 'potencialidade_atualizacao_continuidade_campo': 16.1584, 'apreensao_detecao_localidade_relacao_ao_real': 21.45, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 38.1669, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 12. F0217_SEG_001
+score=41.1634 score_base=39.4534 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=29.2279 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=20.203
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'passagem', 'apreensao', 'representacao', 'localidade', 'local', 'reflexivo']
+matched_hints=['apreensão', 'apreensao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'ser reflexivo', 'consciência', 'consciencia', 'representação', 'representacao', 'passagem']
+profile_scores={'vida_organismo_corpo_animalidade': 0.072, 'potencialidade_atualizacao_continuidade_campo': 3.472, 'apreensao_detecao_localidade_relacao_ao_real': 20.203, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 29.2279, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 6.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 13. F0108_A02_SEG_001
+score=40.9001 score_base=39.1901 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=36.12 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=9.911
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'apreensao', 'quanto', 'estrutural', 'localidade', 'local', 'interior', 'exterior']
+matched_hints=['apreensão', 'apreensao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'interior', 'exterior', 'consciência', 'consciencia']
+profile_scores={'vida_organismo_corpo_animalidade': 1.772, 'potencialidade_atualizacao_continuidade_campo': 8.211, 'apreensao_detecao_localidade_relacao_ao_real': 36.12, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 9.911, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 14. F0213_SEG_001
+score=40.0522 score_base=38.3422 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=19.492 second_profile=potencialidade_atualizacao_continuidade_campo second_profile_score=18.242
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'sujeito', 'apreensao', 'estrutural', 'potencialidade', 'interior', 'erro']
+matched_hints=['potencialidade', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'interior', 'sujeito encarnado', 'consciência', 'consciencia', 'erro de escala']
+profile_scores={'vida_organismo_corpo_animalidade': 2.764, 'potencialidade_atualizacao_continuidade_campo': 18.242, 'apreensao_detecao_localidade_relacao_ao_real': 19.492, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 11.803, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 5.364}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 15. F0200_SEG_001
+score=39.7949 score_base=38.0849 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=26.1889 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=15.011
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'passagem', 'continuidade', 'apreensao', 'animal', 'animalidade', 'reflexivo']
+matched_hints=['animal', 'animalidade', 'continuidade', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'ser reflexivo', 'consciência', 'consciencia', 'passagem', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 6.511, 'potencialidade_atualizacao_continuidade_campo': 8.211, 'apreensao_detecao_localidade_relacao_ao_real': 15.011, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 26.1889, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 16. F0241_A15_SEG_002
+score=39.658 score_base=37.948 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=21.787 second_profile=vida_organismo_corpo_animalidade second_profile_score=13.2682
+matched_phrases=[]
+matched_terms=['corporeidade', 'vida', 'real', 'corpo', 'atualizacao', 'potencialidade', 'interior', 'reflexivo']
+matched_hints=['vida', 'corpo', 'corporeidade', 'potencialidade', 'atualização', 'atualizacao', 'campo', 'relação ao real', 'relacao ao real', 'interior', 'ser reflexivo']
+profile_scores={'vida_organismo_corpo_animalidade': 13.2682, 'potencialidade_atualizacao_continuidade_campo': 21.787, 'apreensao_detecao_localidade_relacao_ao_real': 11.161, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 8.211, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 17. F0093_A01_SEG_001
+score=38.8288 score_base=37.1188 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=18.242 second_profile=potencialidade_atualizacao_continuidade_campo second_profile_score=12.9504
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'encarnado', 'continuidade', 'encarnacao', 'interior', 'erro']
+matched_hints=['continuidade', 'campo', 'processo vivo', 'relação ao real', 'relacao ao real', 'interior', 'sujeito encarnado', 'encarnação', 'encarnacao', 'consciência', 'consciencia', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 8.403, 'potencialidade_atualizacao_continuidade_campo': 12.9504, 'apreensao_detecao_localidade_relacao_ao_real': 11.803, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 18.242, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 1.964}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 18. F0241_A04_SEG_002
+score=37.5634 score_base=35.8534 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=36.8149 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=11.161
+matched_phrases=[]
+matched_terms=['real', 'atualizacao', 'continuidade', 'ontologico', 'quanto', 'estrutural', 'potencialidade', 'interior']
+matched_hints=['potencialidade', 'atualização', 'atualizacao', 'continuidade', 'campo', 'relação ao real', 'relacao ao real', 'interior', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 6.422, 'potencialidade_atualizacao_continuidade_campo': 36.8149, 'apreensao_detecao_localidade_relacao_ao_real': 11.161, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 3.472, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 0.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 19. F0199_SEG_001
+score=37.3969 score_base=35.6869 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=16.35 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=14.561
+matched_phrases=[]
+matched_terms=['real', 'vivo', 'continuidade', 'detecao', 'representacao', 'ontologico', 'potencialidade']
+matched_hints=['vivo', 'potencialidade', 'continuidade', 'processo vivo', 'deteção', 'detecao', 'relação ao real', 'relacao ao real', 'representação', 'representacao', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 5.7005, 'potencialidade_atualizacao_continuidade_campo': 16.35, 'apreensao_detecao_localidade_relacao_ao_real': 14.561, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 10.711, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 20. F0117_A01_SEG_003
+score=36.7158 score_base=35.0058 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=25.8285 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=14.561
+matched_phrases=[]
+matched_terms=['real', 'atualizacao', 'continuidade', 'apreensao', 'ontologico', 'potencialidade', 'escala']
+matched_hints=['potencialidade', 'atualização', 'atualizacao', 'continuidade', 'processo vivo', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'continuidade sem salto', 'erro de escala']
+profile_scores={'vida_organismo_corpo_animalidade': -0.828, 'potencialidade_atualizacao_continuidade_campo': 25.8285, 'apreensao_detecao_localidade_relacao_ao_real': 14.561, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 3.472, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 5.5793}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 21. F0190_SEG_001
+score=35.94 score_base=34.23 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=20.395 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=18.242
+matched_phrases=[]
+matched_terms=['real', 'continuidade', 'apreensao', 'representacao', 'proposicoes', 'localidade', 'local']
+matched_hints=['continuidade', 'apreensão', 'apreensao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'representação', 'representacao', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 0.264, 'potencialidade_atualizacao_continuidade_campo': 6.703, 'apreensao_detecao_localidade_relacao_ao_real': 20.395, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 18.242, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 12.5707}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 22. F0123_SEG_002
+score=35.4267 score_base=33.7167 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=16.35 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=14.561
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'continuidade', 'apreensao', 'condicao', 'estrutural', 'potencialidade']
+matched_hints=['potencialidade', 'continuidade', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'consciência', 'consciencia', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 1.322, 'potencialidade_atualizacao_continuidade_campo': 16.35, 'apreensao_detecao_localidade_relacao_ao_real': 14.561, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 13.311, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 23. F0104_A01_SEG_002
+score=35.14 score_base=33.43 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=24.942 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=14.65
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'apreensao', 'localidade', 'local', 'interior', 'reflexivo']
+matched_hints=['apreensão', 'apreensao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'interior', 'ser reflexivo', 'consciência', 'consciencia']
+profile_scores={'vida_organismo_corpo_animalidade': 1.772, 'potencialidade_atualizacao_continuidade_campo': 1.772, 'apreensao_detecao_localidade_relacao_ao_real': 24.942, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 14.65, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 24. F0241_A14_SEG_003
+score=34.9658 score_base=33.2558 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=24.942 second_profile=dualismo_reducionismo_erro_de_escala_entre_niveis second_profile_score=6.872
+matched_phrases=[]
+matched_terms=['vida', 'real', 'passagem', 'apreensao', 'quanto', 'localidade', 'local', 'interior']
+matched_hints=['vida', 'apreensão', 'apreensao', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'interior', 'passagem']
+profile_scores={'vida_organismo_corpo_animalidade': 3.8793, 'potencialidade_atualizacao_continuidade_campo': 3.472, 'apreensao_detecao_localidade_relacao_ao_real': 24.942, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 6.511, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 6.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 25. F0059_SEG_002
+score=34.8326 score_base=33.1226 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=30.9279 second_profile=vida_organismo_corpo_animalidade second_profile_score=11.611
+matched_phrases=[]
+matched_terms=['real', 'passagem', 'representacao', 'mediacao', 'ontologico', 'humana', 'animal', 'animalidade']
+matched_hints=['animal', 'animalidade', 'relação ao real', 'relacao ao real', 'representação', 'representacao', 'mediação', 'mediacao', 'passagem']
+profile_scores={'vida_organismo_corpo_animalidade': 11.611, 'potencialidade_atualizacao_continuidade_campo': 9.911, 'apreensao_detecao_localidade_relacao_ao_real': 11.611, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 30.9279, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 26. F0211_SEG_001
+score=34.8326 score_base=33.1226 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=32.6279 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=6.872
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'continuidade', 'seguinte', 'humana', 'animal', 'animalidade', 'reflexivo']
+matched_hints=['animal', 'animalidade', 'continuidade', 'relação ao real', 'relacao ao real', 'ser reflexivo', 'consciência', 'consciencia', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 6.511, 'potencialidade_atualizacao_continuidade_campo': 6.511, 'apreensao_detecao_localidade_relacao_ao_real': 6.872, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 32.6279, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 6.511}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 27. F0061_SEG_001
+score=33.0637 score_base=31.3537 best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo best_profile_score=19.75 second_profile=potencialidade_atualizacao_continuidade_campo second_profile_score=16.1584
+matched_phrases=[]
+matched_terms=['consciencia', 'representacao', 'ontologico', 'quanto', 'estrutural', 'potencialidade']
+matched_hints=['potencialidade', 'campo', 'processo vivo', 'relação ao real', 'relacao ao real', 'consciência', 'consciencia', 'representação', 'representacao']
+profile_scores={'vida_organismo_corpo_animalidade': 1.322, 'potencialidade_atualizacao_continuidade_campo': 16.1584, 'apreensao_detecao_localidade_relacao_ao_real': 3.022, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 19.75, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 28. F0110_A01_SEG_001
+score=33.0033 score_base=31.2933 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=26.9759 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=14.561
+matched_phrases=[]
+matched_terms=['real', 'atualizacao', 'continuidade', 'apreensao', 'ontologico', 'potencialidade']
+matched_hints=['potencialidade', 'atualização', 'atualizacao', 'continuidade', 'campo', 'apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 4.722, 'potencialidade_atualizacao_continuidade_campo': 26.9759, 'apreensao_detecao_localidade_relacao_ao_real': 14.561, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 3.472, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 0.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 29. F0198_SEG_001
+score=31.8033 score_base=30.0933 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=21.0895 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=19.75
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'passagem', 'atualizacao', 'continuidade', 'salto']
+matched_hints=['atualização', 'atualizacao', 'continuidade', 'relação ao real', 'relacao ao real', 'consciência', 'consciencia', 'passagem', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 0.072, 'potencialidade_atualizacao_continuidade_campo': 21.0895, 'apreensao_detecao_localidade_relacao_ao_real': 6.872, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 19.75, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 9.911}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 30. F0156_SEG_001
+score=30.6033 score_base=28.8933 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=19.3895 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=11.161
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'atualizacao', 'estrutural', 'potencialidade', 'exterior']
+matched_hints=['potencialidade', 'atualização', 'atualizacao', 'relação ao real', 'relacao ao real', 'exterior', 'consciência', 'consciencia']
+profile_scores={'vida_organismo_corpo_animalidade': 1.322, 'potencialidade_atualizacao_continuidade_campo': 19.3895, 'apreensao_detecao_localidade_relacao_ao_real': 11.161, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 9.911, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 0.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 31. F0204_SEG_001
+score=29.4403 score_base=27.7303 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=18.837 second_profile=apreensao_detecao_localidade_relacao_ao_real second_profile_score=15.103
+matched_phrases=[]
+matched_terms=['atualizacao', 'continuidade', 'ontologico', 'localidade', 'local']
+matched_hints=['atualização', 'atualizacao', 'continuidade', 'campo', 'localidade', 'local', 'relação ao real', 'relacao ao real', 'continuidade sem salto']
+profile_scores={'vida_organismo_corpo_animalidade': 0.072, 'potencialidade_atualizacao_continuidade_campo': 18.837, 'apreensao_detecao_localidade_relacao_ao_real': 15.103, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 3.472, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 0.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 32. F0194_SEG_001
+score=29.4033 score_base=27.6933 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=16.1584 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=13.75
+matched_phrases=[]
+matched_terms=['real', 'passagem', 'estrutural', 'potencialidade', 'interior', 'reflexivo']
+matched_hints=['potencialidade', 'campo', 'relação ao real', 'relacao ao real', 'interior', 'ser reflexivo', 'passagem']
+profile_scores={'vida_organismo_corpo_animalidade': 1.322, 'potencialidade_atualizacao_continuidade_campo': 16.1584, 'apreensao_detecao_localidade_relacao_ao_real': 11.161, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 13.75, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 33. F0241_A05_SEG_001
+score=29.4033 score_base=27.6933 best_profile=apreensao_detecao_localidade_relacao_ao_real best_profile_score=15.011 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=14.65
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'apreensao', 'ontologico', 'condicao', 'reflexivo']
+matched_hints=['apreensão', 'apreensao', 'relação ao real', 'relacao ao real', 'ser reflexivo', 'consciência', 'consciencia']
+profile_scores={'vida_organismo_corpo_animalidade': 0.072, 'potencialidade_atualizacao_continuidade_campo': 1.772, 'apreensao_detecao_localidade_relacao_ao_real': 15.011, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 14.65, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 0.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 34. F0061_SEG_003
+score=29.1166 score_base=27.4066 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=22.237 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=9.911
+matched_phrases=[]
+matched_terms=['consciencia', 'real', 'atualizacao', 'ontologico', 'quanto', 'potencialidade']
+matched_hints=['potencialidade', 'atualização', 'atualizacao', 'campo', 'relação ao real', 'relacao ao real', 'consciência', 'consciencia']
+profile_scores={'vida_organismo_corpo_animalidade': -0.378, 'potencialidade_atualizacao_continuidade_campo': 22.237, 'apreensao_detecao_localidade_relacao_ao_real': 6.422, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 9.911, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 35. F0241_A12_SEG_001
+score=28.9481 score_base=27.2381 best_profile=potencialidade_atualizacao_continuidade_campo best_profile_score=22.237 second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo second_profile_score=9.911
+matched_phrases=[]
+matched_terms=['real', 'atualizacao', 'animal', 'animalidade', 'potencialidade', 'reflexivo']
+matched_hints=['animal', 'animalidade', 'potencialidade', 'atualização', 'atualizacao', 'campo', 'relação ao real', 'relacao ao real', 'ser reflexivo']
+profile_scores={'vida_organismo_corpo_animalidade': 6.061, 'potencialidade_atualizacao_continuidade_campo': 22.237, 'apreensao_detecao_localidade_relacao_ao_real': 6.422, 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo': 9.911, 'dualismo_reducionismo_erro_de_escala_entre_niveis': 0.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}

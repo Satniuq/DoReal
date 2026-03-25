@@ -1,0 +1,396 @@
+DEBUG — primeiros fragmentos scoreados
+
+ALIGNMENT SNAPSHOT
+{
+  "dominant_profile": "apreensao_representacao_consciencia_localidade",
+  "second_profile": "mediacao_simbolo_linguagem_fechamento",
+  "dossier_declared_profile": "adequacao_criterio_verdade_correcao",
+  "dossier_declared_profile_estimation": {
+    "profile": "adequacao_criterio_verdade_correcao",
+    "method": "weighted_snapshot_estimation",
+    "section_scores": {
+      "pergunta_central": {
+        "adequacao_criterio_verdade_correcao": 25.7375,
+        "apreensao_representacao_consciencia_localidade": 2.9,
+        "mediacao_simbolo_linguagem_fechamento": 4.35,
+        "substituicao_do_real_erro_categorial_erro_de_escala": 18.85
+      },
+      "descricao_do_confronto": {
+        "adequacao_criterio_verdade_correcao": 24.0,
+        "apreensao_representacao_consciencia_localidade": 6.9375,
+        "mediacao_simbolo_linguagem_fechamento": 1.25,
+        "substituicao_do_real_erro_categorial_erro_de_escala": 14.4375
+      },
+      "tese_canonica_provisoria": {
+        "adequacao_criterio_verdade_correcao": 30.0,
+        "apreensao_representacao_consciencia_localidade": 5.68,
+        "mediacao_simbolo_linguagem_fechamento": 11.2,
+        "substituicao_do_real_erro_categorial_erro_de_escala": 24.0
+      },
+      "articulacao_estrutural": {
+        "adequacao_criterio_verdade_correcao": 3.0,
+        "apreensao_representacao_consciencia_localidade": 1.5,
+        "mediacao_simbolo_linguagem_fechamento": 0.0,
+        "substituicao_do_real_erro_categorial_erro_de_escala": 3.0
+      }
+    },
+    "raw_profile_scores": {
+      "adequacao_criterio_verdade_correcao": 82.7375,
+      "apreensao_representacao_consciencia_localidade": 17.0175,
+      "mediacao_simbolo_linguagem_fechamento": 16.8,
+      "substituicao_do_real_erro_categorial_erro_de_escala": 60.2875
+    },
+    "confidence": "high",
+    "gap_to_second": 22.45
+  },
+  "mismatch_flag": true,
+  "alignment_classification": "partially_misaligned",
+  "diagnosis_lines": [
+    "O dossier declara sobretudo o eixo 'adequacao_criterio_verdade_correcao', mas o sample global pende para 'apreensao_representacao_consciencia_localidade'.",
+    "Gap entre perfis no sample global=0.38; quota do perfil dominante=45.83%.",
+    "Há desalinhamento, mas não suficientemente nítido para o classificar como forte.",
+    "Perfil dominante dos fragmentos: apreensao_representacao_consciencia_localidade.",
+    "Segundo perfil dos fragmentos: mediacao_simbolo_linguagem_fechamento."
+  ],
+  "sample_size_used": 24,
+  "global_profile_ranking": [
+    {
+      "profile": "apreensao_representacao_consciencia_localidade",
+      "composite_score": 30.3524,
+      "best_profile_hits": 11
+    },
+    {
+      "profile": "mediacao_simbolo_linguagem_fechamento",
+      "composite_score": 29.9718,
+      "best_profile_hits": 10
+    },
+    {
+      "profile": "adequacao_criterio_verdade_correcao",
+      "composite_score": 20.7972,
+      "best_profile_hits": 2
+    },
+    {
+      "profile": "substituicao_do_real_erro_categorial_erro_de_escala",
+      "composite_score": 17.3146,
+      "best_profile_hits": 1
+    }
+  ],
+  "profile_stats_snapshot": {
+    "adequacao_criterio_verdade_correcao": {
+      "label": "Adequação, critério, verdade e correção",
+      "description": "Eixo epistemológico explícito: adequação/desadequação ao real, critério, verdade, erro e correção.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 31.6257,
+      "max_score": 39.3201,
+      "top10_overlap_with_global": 4,
+      "threshold": 4.0
+    },
+    "apreensao_representacao_consciencia_localidade": {
+      "label": "Apreensão, representação, consciência e localidade",
+      "description": "Modo humano situado de apreensão do real, consciência reflexiva, representação e localização do ponto de vista.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 39.8518,
+      "max_score": 44.1196,
+      "top10_overlap_with_global": 2,
+      "threshold": 4.0
+    },
+    "mediacao_simbolo_linguagem_fechamento": {
+      "label": "Mediação, símbolo, linguagem e fechamento",
+      "description": "Mediação simbólica, linguagem, forma, sistema e risco de fechamento interno do circuito de validação.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 35.5134,
+      "max_score": 40.3202,
+      "top10_overlap_with_global": 8,
+      "threshold": 4.0
+    },
+    "substituicao_do_real_erro_categorial_erro_de_escala": {
+      "label": "Substituição do real, erro categorial e erro de escala",
+      "description": "Quando forma, sistema, símbolo ou escala errada passam a funcionar como critério do real.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 25.1276,
+      "max_score": 29.8096,
+      "top10_overlap_with_global": 5,
+      "threshold": 4.0
+    }
+  }
+}
+
+## 1. F0241_A24_SEG_003
+score=74.3884 score_base=72.6784 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=33.6519 second_profile=adequacao_criterio_verdade_correcao second_profile_score=30.2206
+matched_phrases=[]
+matched_terms=['real', 'correcao', 'verdade', 'adequacao', 'interna', 'consciencia', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'simbolico', 'coerencia', 'proposicoes', 'localidade', 'local']
+matched_hints=['verdade', 'correcao', 'correção', 'adequação', 'adequacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 30.2206, 'apreensao_representacao_consciencia_localidade': 33.6519, 'mediacao_simbolo_linguagem_fechamento': 29.271, 'substituicao_do_real_erro_categorial_erro_de_escala': 13.8215}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 2. F0241_A08_SEG_001
+score=72.5311 score_base=70.8211 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=31.8024 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=28.9106
+matched_phrases=[]
+matched_terms=['real', 'criterio', 'adequacao', 'interna', 'mediacao', 'independente', 'apreensao', 'reflexiva', 'sistemico', 'coerencia', 'possiveis', 'quanto', 'possibilidade', 'localidade', 'local']
+matched_hints=['criterio', 'critério', 'adequação', 'adequacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação', 'mediacao', 'mediação simbólica', 'mediacao simbolica', 'fecho sistémico', 'fecho sistemico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna', 'critério submetido ao real', 'criterio submetido ao real']
+profile_scores={'adequacao_criterio_verdade_correcao': 23.271, 'apreensao_representacao_consciencia_localidade': 31.8024, 'mediacao_simbolo_linguagem_fechamento': 28.9106, 'substituicao_do_real_erro_categorial_erro_de_escala': 25.7215}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 3. F0214_SEG_001
+score=71.463 score_base=69.753 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=36.2519 second_profile=adequacao_criterio_verdade_correcao second_profile_score=28.9978
+matched_phrases=[]
+matched_terms=['real', 'erro', 'verdade', 'adequacao', 'consciencia', 'objetividade', 'exige', 'apreensao', 'simbolica', 'simbolo', 'simbolico', 'degradam', 'proposicoes', 'localidade', 'local']
+matched_hints=['verdade', 'erro', 'adequação', 'adequacao', 'objetividade', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real', 'erro categorial', 'erro de escala']
+profile_scores={'adequacao_criterio_verdade_correcao': 28.9978, 'apreensao_representacao_consciencia_localidade': 36.2519, 'mediacao_simbolo_linguagem_fechamento': 18.4715, 'substituicao_do_real_erro_categorial_erro_de_escala': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 4. F0241_A14_SEG_003
+score=68.299 score_base=66.589 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=30.8215 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=25.0024
+matched_phrases=[]
+matched_terms=['real', 'verdade', 'interna', 'apreensao', 'simbolica', 'simbolo', 'sistemico', 'simbolico', 'possiveis', 'quanto', 'possibilidade', 'circulacao', 'localidade', 'local']
+matched_hints=['verdade', 'apreensão', 'apreensao', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fecho sistémico', 'fecho sistemico', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 13.3715, 'apreensao_representacao_consciencia_localidade': 25.0024, 'mediacao_simbolo_linguagem_fechamento': 30.8215, 'substituicao_do_real_erro_categorial_erro_de_escala': 17.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 5. F0104_A01_SEG_002
+score=65.9242 score_base=64.2142 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=33.6519 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=30.8215
+matched_phrases=[]
+matched_terms=['real', 'verdade', 'adequacao', 'interna', 'consciencia', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'sistemico', 'simbolico', 'localidade', 'local']
+matched_hints=['verdade', 'adequação', 'adequacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fecho sistémico', 'fecho sistemico', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 19.871, 'apreensao_representacao_consciencia_localidade': 33.6519, 'mediacao_simbolo_linguagem_fechamento': 30.8215, 'substituicao_do_real_erro_categorial_erro_de_escala': 17.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 6. F0241_A04_SEG_001
+score=65.9242 score_base=64.2142 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=33.6519 second_profile=adequacao_criterio_verdade_correcao second_profile_score=23.721
+matched_phrases=[]
+matched_terms=['real', 'criterio', 'verdade', 'interna', 'representacao', 'apreensao', 'reflexiva', 'sistemico', 'possiveis', 'possibilidade', 'proposicoes', 'localidade', 'local']
+matched_hints=['verdade', 'criterio', 'critério', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'fecho sistémico', 'fecho sistemico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna', 'critério submetido ao real', 'criterio submetido ao real']
+profile_scores={'adequacao_criterio_verdade_correcao': 23.721, 'apreensao_representacao_consciencia_localidade': 33.6519, 'mediacao_simbolo_linguagem_fechamento': 13.672, 'substituicao_do_real_erro_categorial_erro_de_escala': 22.172}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 7. F0202_SEG_001
+score=64.6599 score_base=62.9499 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=27.0126 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=25.5531
+matched_phrases=[]
+matched_terms=['real', 'criterio', 'interna', 'consciencia', 'mediacao', 'apreensao', 'reflexiva', 'sistemico', 'possiveis', 'possibilidade', 'circulacao', 'proposicoes']
+matched_hints=['criterio', 'critério', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'mediação', 'mediacao', 'mediação simbólica', 'mediacao simbolica', 'fecho sistémico', 'fecho sistemico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna', 'critério submetido ao real', 'criterio submetido ao real']
+profile_scores={'adequacao_criterio_verdade_correcao': 16.5135, 'apreensao_representacao_consciencia_localidade': 27.0126, 'mediacao_simbolo_linguagem_fechamento': 25.5531, 'substituicao_do_real_erro_categorial_erro_de_escala': 22.364}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 8. F0241_A03_SEG_001
+score=64.6349 score_base=62.9249 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=34.1601 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=31.0024
+matched_phrases=[]
+matched_terms=['real', 'correcao', 'consciencia', 'mediacao', 'independente', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'simbolico', 'localidade', 'local', 'linguagem']
+matched_hints=['correcao', 'correção', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação', 'mediacao', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'linguagem', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real']
+profile_scores={'adequacao_criterio_verdade_correcao': 18.0215, 'apreensao_representacao_consciencia_localidade': 31.0024, 'mediacao_simbolo_linguagem_fechamento': 34.1601, 'substituicao_do_real_erro_categorial_erro_de_escala': 6.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 9. F0035_SEG_001
+score=64.4601 score_base=62.7501 best_profile=substituicao_do_real_erro_categorial_erro_de_escala best_profile_score=29.271 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=19.871
+matched_phrases=[]
+matched_terms=['real', 'criterio', 'erro', 'verdade', 'interna', 'consciencia', 'sistemico', 'autonomo', 'acao', 'circulacao', 'proposicoes', 'pontes', 'categorial']
+matched_hints=['verdade', 'erro', 'criterio', 'critério', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'fecho sistémico', 'fecho sistemico', 'validade interna', 'erro categorial', 'erro de escala', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 19.0983, 'apreensao_representacao_consciencia_localidade': 19.871, 'mediacao_simbolo_linguagem_fechamento': 11.972, 'substituicao_do_real_erro_categorial_erro_de_escala': 29.271}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 10. F0108_A02_SEG_001
+score=62.7776 score_base=61.0676 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=37.771 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=33.6519
+matched_phrases=[]
+matched_terms=['real', 'interna', 'consciencia', 'apreensao', 'simbolica', 'simbolo', 'sistemico', 'simbolico', 'quanto', 'circulacao', 'localidade', 'local', 'linguagem']
+matched_hints=['apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'linguagem', 'fecho sistémico', 'fecho sistemico', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 5.972, 'apreensao_representacao_consciencia_localidade': 33.6519, 'mediacao_simbolo_linguagem_fechamento': 37.771, 'substituicao_do_real_erro_categorial_erro_de_escala': 17.072}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 11. F0044_SEG_001
+score=62.5707 score_base=60.8607 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=34.9197 second_profile=adequacao_criterio_verdade_correcao second_profile_score=27.2706
+matched_phrases=[]
+matched_terms=['real', 'verdade', 'adequacao', 'representacao', 'objetividade', 'simbolica', 'simbolo', 'simbolico', 'possiveis', 'possibilidade', 'circulacao', 'linguagem']
+matched_hints=['verdade', 'adequação', 'adequacao', 'objetividade', 'representação', 'representacao', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'linguagem', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real']
+profile_scores={'adequacao_criterio_verdade_correcao': 27.2706, 'apreensao_representacao_consciencia_localidade': 22.471, 'mediacao_simbolo_linguagem_fechamento': 34.9197, 'substituicao_do_real_erro_categorial_erro_de_escala': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 12. F0241_A13_SEG_001
+score=62.2237 score_base=60.5137 best_profile=adequacao_criterio_verdade_correcao best_profile_score=32.3978 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=30.2206
+matched_phrases=[]
+matched_terms=['real', 'erro', 'correcao', 'verdade', 'interna', 'representacao', 'objetividade', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'simbolico']
+matched_hints=['verdade', 'erro', 'correcao', 'correção', 'objetividade', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'erro categorial', 'erro de escala', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 32.3978, 'apreensao_representacao_consciencia_localidade': 30.2206, 'mediacao_simbolo_linguagem_fechamento': 25.2715, 'substituicao_do_real_erro_categorial_erro_de_escala': 15.372}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 13. F0070_SEG_002
+score=60.5047 score_base=58.7947 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=40.0197 second_profile=adequacao_criterio_verdade_correcao second_profile_score=30.7873
+matched_phrases=[]
+matched_terms=['real', 'erro', 'verdade', 'objetividade', 'simbolica', 'simbolo', 'sistemico', 'simbolico', 'proposicoes', 'linguagem', 'validade', 'categorial']
+matched_hints=['verdade', 'erro', 'objetividade', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'linguagem', 'fecho sistémico', 'fecho sistemico', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'erro categorial', 'erro de escala', 'sistema autónomo', 'sistema autonomo']
+profile_scores={'adequacao_criterio_verdade_correcao': 30.7873, 'apreensao_representacao_consciencia_localidade': 3.472, 'mediacao_simbolo_linguagem_fechamento': 40.0197, 'substituicao_do_real_erro_categorial_erro_de_escala': 25.7215}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 14. F0241_A20_SEG_004
+score=59.6964 score_base=57.9864 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=25.7215 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=25.0024
+matched_phrases=[]
+matched_terms=['real', 'interna', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'simbolico', 'possiveis', 'acao', 'possibilidade', 'localidade', 'local']
+matched_hints=['apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 9.372, 'apreensao_representacao_consciencia_localidade': 25.0024, 'mediacao_simbolo_linguagem_fechamento': 25.7215, 'substituicao_do_real_erro_categorial_erro_de_escala': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 15. F0108_A01_SEG_001
+score=59.6278 score_base=57.9178 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=38.8701 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=35.2202
+matched_phrases=[]
+matched_terms=['real', 'interna', 'consciencia', 'representacao', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'simbolico', 'seguinte', 'circulacao']
+matched_hints=['representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 7.672, 'apreensao_representacao_consciencia_localidade': 38.8701, 'mediacao_simbolo_linguagem_fechamento': 35.2202, 'substituicao_do_real_erro_categorial_erro_de_escala': 13.672}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 16. F0038_SEG_001
+score=58.3385 score_base=56.6285 best_profile=adequacao_criterio_verdade_correcao best_profile_score=16.921 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=16.471
+matched_phrases=[]
+matched_terms=['real', 'correcao', 'verdade', 'interna', 'exige', 'reflexiva', 'sistemico', 'autonomo', 'possiveis', 'possibilidade', 'proposicoes']
+matched_hints=['verdade', 'correcao', 'correção', 'consciência reflexiva', 'consciencia reflexiva', 'fecho sistémico', 'fecho sistemico', 'validade interna', 'sistema autónomo', 'sistema autonomo', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 16.921, 'apreensao_representacao_consciencia_localidade': 16.471, 'mediacao_simbolo_linguagem_fechamento': 11.972, 'substituicao_do_real_erro_categorial_erro_de_escala': 15.5215}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 17. F0190_SEG_001
+score=58.2599 score_base=56.5499 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=27.7944 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=24.2135
+matched_phrases=[]
+matched_terms=['real', 'independente', 'representacao', 'apreensao', 'simbolica', 'simbolo', 'sistemico', 'simbolico', 'proposicoes', 'localidade', 'local']
+matched_hints=['representação', 'representacao', 'apreensão', 'apreensao', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fecho sistémico', 'fecho sistemico', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo']
+profile_scores={'adequacao_criterio_verdade_correcao': 8.314, 'apreensao_representacao_consciencia_localidade': 27.7944, 'mediacao_simbolo_linguagem_fechamento': 24.2135, 'substituicao_do_real_erro_categorial_erro_de_escala': 13.864}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 18. F0241_A23_SEG_001
+score=57.4599 score_base=55.7499 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=25.871 second_profile=substituicao_do_real_erro_categorial_erro_de_escala second_profile_score=23.9601
+matched_phrases=[]
+matched_terms=['real', 'adequacao', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'simbolico', 'autonomo', 'coerencia', 'localidade', 'local']
+matched_hints=['adequação', 'adequacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 12.9215, 'apreensao_representacao_consciencia_localidade': 21.4529, 'mediacao_simbolo_linguagem_fechamento': 25.871, 'substituicao_do_real_erro_categorial_erro_de_escala': 23.9601}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 19. F0241_A25_SEG_002
+score=56.1707 score_base=54.4607 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=36.2519 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=24.171
+matched_phrases=[]
+matched_terms=['real', 'consciencia', 'representacao', 'apreensao', 'reflexiva', 'simbolica', 'simbolo', 'simbolico', 'localidade', 'local', 'linguagem']
+matched_hints=['representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'linguagem', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real']
+profile_scores={'adequacao_criterio_verdade_correcao': 9.372, 'apreensao_representacao_consciencia_localidade': 36.2519, 'mediacao_simbolo_linguagem_fechamento': 24.171, 'substituicao_do_real_erro_categorial_erro_de_escala': 6.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 20. F0110_A01_SEG_003
+score=55.7747 score_base=54.0647 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=35.7106 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=33.7701
+matched_phrases=[]
+matched_terms=['real', 'interna', 'mediacao', 'representacao', 'apreensao', 'simbolica', 'simbolo', 'simbolico', 'substituicao', 'acao', 'quanto']
+matched_hints=['representação', 'representacao', 'apreensão', 'apreensao', 'mediação', 'mediacao', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 9.822, 'apreensao_representacao_consciencia_localidade': 33.7701, 'mediacao_simbolo_linguagem_fechamento': 35.7106, 'substituicao_do_real_erro_categorial_erro_de_escala': 17.2215}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 21. F0094_A02_SEG_001
+score=55.3957 score_base=53.6857 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=29.4206 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=24.0215
+matched_phrases=[]
+matched_terms=['real', 'verdade', 'representacao', 'apreensao', 'simbolica', 'simbolo', 'sistemico', 'simbolico', 'possiveis', 'possibilidade']
+matched_hints=['verdade', 'representação', 'representacao', 'apreensão', 'apreensao', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fecho sistémico', 'fecho sistemico', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo']
+profile_scores={'adequacao_criterio_verdade_correcao': 15.0715, 'apreensao_representacao_consciencia_localidade': 29.4206, 'mediacao_simbolo_linguagem_fechamento': 24.0215, 'substituicao_do_real_erro_categorial_erro_de_escala': 13.672}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 22. F0241_A22_SEG_004
+score=54.8491 score_base=53.1391 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=25.505 second_profile=adequacao_criterio_verdade_correcao second_profile_score=21.8046
+matched_phrases=[]
+matched_terms=['criterio', 'adequacao', 'representacao', 'objetividade', 'reflexiva', 'simbolica', 'simbolo', 'simbolico', 'coerencia']
+matched_hints=['criterio', 'critério', 'adequação', 'adequacao', 'objetividade', 'representação', 'representacao', 'consciência reflexiva', 'consciencia reflexiva', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 21.8046, 'apreensao_representacao_consciencia_localidade': 13.0055, 'mediacao_simbolo_linguagem_fechamento': 25.505, 'substituicao_do_real_erro_categorial_erro_de_escala': 12.2055}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.65, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 23. F0241_A02_SEG_002
+score=53.5383 score_base=51.8283 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=27.4215 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=15.5215
+matched_phrases=[]
+matched_terms=['real', 'consciencia', 'reflexiva', 'simbolica', 'simbolo', 'sistemico', 'simbolico', 'quanto', 'circulacao', 'proposicoes']
+matched_hints=['consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fecho sistémico', 'fecho sistemico', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real', 'sistema autónomo', 'sistema autonomo']
+profile_scores={'adequacao_criterio_verdade_correcao': 7.672, 'apreensao_representacao_consciencia_localidade': 15.5215, 'mediacao_simbolo_linguagem_fechamento': 27.4215, 'substituicao_do_real_erro_categorial_erro_de_escala': 13.672}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 24. F0097_A02_SEG_001
+score=53.4 score_base=51.69 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=44.1196 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=25.7215
+matched_phrases=[]
+matched_terms=['real', 'verdade', 'interna', 'consciencia', 'representacao', 'apreensao', 'simbolica', 'simbolo', 'simbolico', 'acao']
+matched_hints=['verdade', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 14.6215, 'apreensao_representacao_consciencia_localidade': 44.1196, 'mediacao_simbolo_linguagem_fechamento': 25.7215, 'substituicao_do_real_erro_categorial_erro_de_escala': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 25. F0113_A01_SEG_001
+score=53.2278 score_base=51.5178 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=33.6519 second_profile=adequacao_criterio_verdade_correcao second_profile_score=25.5706
+matched_phrases=[]
+matched_terms=['real', 'criterio', 'verdade', 'interna', 'consciencia', 'objetividade', 'apreensao', 'reflexiva', 'localidade', 'local']
+matched_hints=['verdade', 'criterio', 'critério', 'objetividade', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna', 'critério submetido ao real', 'criterio submetido ao real']
+profile_scores={'adequacao_criterio_verdade_correcao': 25.5706, 'apreensao_representacao_consciencia_localidade': 33.6519, 'mediacao_simbolo_linguagem_fechamento': 15.9207, 'substituicao_do_real_erro_categorial_erro_de_escala': 18.772}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 26. F0107_SEG_003
+score=51.9386 score_base=50.2286 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=35.3697 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=29.3024
+matched_phrases=[]
+matched_terms=['real', 'consciencia', 'apreensao', 'simbolica', 'simbolo', 'simbolico', 'circulacao', 'localidade', 'local', 'linguagem']
+matched_hints=['apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'linguagem', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real']
+profile_scores={'adequacao_criterio_verdade_correcao': 7.672, 'apreensao_representacao_consciencia_localidade': 29.3024, 'mediacao_simbolo_linguagem_fechamento': 35.3697, 'substituicao_do_real_erro_categorial_erro_de_escala': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 27. F0045_SEG_001
+score=51.6991 score_base=49.9891 best_profile=adequacao_criterio_verdade_correcao best_profile_score=29.6126 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=16.5627
+matched_phrases=[]
+matched_terms=['correcao', 'verdade', 'adequacao', 'sistemico', 'possiveis', 'desadequacao', 'possibilidade', 'circulacao', 'proposicoes']
+matched_hints=['verdade', 'correcao', 'correção', 'adequação', 'adequacao', 'fecho sistémico', 'fecho sistemico', 'sistema autónomo', 'sistema autonomo']
+profile_scores={'adequacao_criterio_verdade_correcao': 29.6126, 'apreensao_representacao_consciencia_localidade': 8.9135, 'mediacao_simbolo_linguagem_fechamento': 16.5627, 'substituicao_do_real_erro_categorial_erro_de_escala': 5.364}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 28. F0094_A01_SEG_004
+score=51.5916 score_base=49.8816 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=44.0014 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=21.9611
+matched_phrases=[]
+matched_terms=['real', 'erro', 'interna', 'consciencia', 'mediacao', 'representacao', 'apreensao', 'reflexiva', 'localidade', 'local']
+matched_hints=['erro', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'mediação', 'mediacao', 'mediação simbólica', 'mediacao simbolica', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 11.5492, 'apreensao_representacao_consciencia_localidade': 44.0014, 'mediacao_simbolo_linguagem_fechamento': 21.9611, 'substituicao_do_real_erro_categorial_erro_de_escala': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 29. F0241_A05_SEG_004
+score=51.5426 score_base=49.8326 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=20.771 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=18.9215
+matched_phrases=[]
+matched_terms=['real', 'correcao', 'representacao', 'apreensao', 'simbolica', 'simbolo', 'simbolico', 'acao', 'quanto', 'pontes']
+matched_hints=['correcao', 'correção', 'representação', 'representacao', 'apreensão', 'apreensao', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real']
+profile_scores={'adequacao_criterio_verdade_correcao': 18.4715, 'apreensao_representacao_consciencia_localidade': 20.771, 'mediacao_simbolo_linguagem_fechamento': 18.9215, 'substituicao_do_real_erro_categorial_erro_de_escala': 8.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 30. F0108_A02_SEG_002
+score=51.3705 score_base=49.6605 best_profile=adequacao_criterio_verdade_correcao best_profile_score=20.321 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=18.9529
+matched_phrases=[]
+matched_terms=['real', 'verdade', 'adequacao', 'consciencia', 'independente', 'reflexiva', 'quanto', 'circulacao', 'localidade', 'local']
+matched_hints=['verdade', 'adequação', 'adequacao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'real independente', 'substituição do real', 'substituicao do real']
+profile_scores={'adequacao_criterio_verdade_correcao': 20.321, 'apreensao_representacao_consciencia_localidade': 18.9529, 'mediacao_simbolo_linguagem_fechamento': 1.772, 'substituicao_do_real_erro_categorial_erro_de_escala': 6.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 31. F0088_A02_SEG_002
+score=51.1635 score_base=49.4535 best_profile=adequacao_criterio_verdade_correcao best_profile_score=23.721 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=18.171
+matched_phrases=[]
+matched_terms=['real', 'correcao', 'verdade', 'interna', 'consciencia', 'reflexiva', 'possiveis', 'possibilidade', 'proposicoes']
+matched_hints=['verdade', 'correcao', 'correção', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 23.721, 'apreensao_representacao_consciencia_localidade': 18.171, 'mediacao_simbolo_linguagem_fechamento': 6.872, 'substituicao_do_real_erro_categorial_erro_de_escala': 10.272}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 32. F0101_SEG_002
+score=51.1635 score_base=49.4535 best_profile=mediacao_simbolo_linguagem_fechamento best_profile_score=30.1202 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=20.771
+matched_phrases=[]
+matched_terms=['real', 'correcao', 'representacao', 'apreensao', 'simbolica', 'simbolo', 'simbolico', 'circulacao', 'cientificas']
+matched_hints=['correcao', 'correção', 'representação', 'representacao', 'apreensão', 'apreensao', 'mediação simbólica', 'mediacao simbolica', 'símbolo', 'simbolo', 'fechamento simbólico', 'fechamento simbolico', 'real independente', 'substituição do real', 'substituicao do real']
+profile_scores={'adequacao_criterio_verdade_correcao': 18.4715, 'apreensao_representacao_consciencia_localidade': 20.771, 'mediacao_simbolo_linguagem_fechamento': 30.1202, 'substituicao_do_real_erro_categorial_erro_de_escala': 13.672}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 33. F0093_A01_SEG_001
+score=49.8976 score_base=48.1876 best_profile=adequacao_criterio_verdade_correcao best_profile_score=24.3903 second_profile=mediacao_simbolo_linguagem_fechamento second_profile_score=18.7531
+matched_phrases=[]
+matched_terms=['real', 'criterio', 'erro', 'verdade', 'interna', 'consciencia', 'fechamento', 'possiveis', 'possibilidade']
+matched_hints=['verdade', 'erro', 'criterio', 'critério', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'fechamento', 'fechamento simbólico', 'fechamento simbolico', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna', 'critério submetido ao real', 'criterio submetido ao real']
+profile_scores={'adequacao_criterio_verdade_correcao': 24.3903, 'apreensao_representacao_consciencia_localidade': 18.363, 'mediacao_simbolo_linguagem_fechamento': 18.7531, 'substituicao_do_real_erro_categorial_erro_de_escala': 15.564}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 34. F0241_A10_SEG_001
+score=49.5959 score_base=47.8859 best_profile=adequacao_criterio_verdade_correcao best_profile_score=36.6978 second_profile=apreensao_representacao_consciencia_localidade second_profile_score=25.0024
+matched_phrases=[]
+matched_terms=['real', 'criterio', 'erro', 'correcao', 'verdade', 'interna', 'apreensao', 'acao', 'localidade', 'local']
+matched_hints=['verdade', 'erro', 'criterio', 'critério', 'correcao', 'correção', 'apreensão', 'apreensao', 'localidade', 'local', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'erro categorial', 'erro de escala', 'coerência interna', 'coerencia interna', 'critério submetido ao real', 'criterio submetido ao real']
+profile_scores={'adequacao_criterio_verdade_correcao': 36.6978, 'apreensao_representacao_consciencia_localidade': 25.0024, 'mediacao_simbolo_linguagem_fechamento': 6.872, 'substituicao_do_real_erro_categorial_erro_de_escala': 18.772}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 35. F0241_A10_SEG_002
+score=49.3457 score_base=47.6357 best_profile=apreensao_representacao_consciencia_localidade best_profile_score=33.7359 second_profile=substituicao_do_real_erro_categorial_erro_de_escala second_profile_score=12.056
+matched_phrases=[]
+matched_terms=['real', 'interna', 'consciencia', 'apreensao', 'reflexiva', 'seguinte', 'proposicoes', 'localidade', 'local']
+matched_hints=['apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'localidade', 'local', 'validade interna', 'real independente', 'substituição do real', 'substituicao do real', 'coerência interna', 'coerencia interna']
+profile_scores={'adequacao_criterio_verdade_correcao': 6.506, 'apreensao_representacao_consciencia_localidade': 33.7359, 'mediacao_simbolo_linguagem_fechamento': 6.956, 'substituicao_do_real_erro_categorial_erro_de_escala': 12.056}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.65, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}

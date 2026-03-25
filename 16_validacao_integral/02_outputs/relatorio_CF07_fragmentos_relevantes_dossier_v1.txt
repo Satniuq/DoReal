@@ -1,0 +1,84 @@
+RELATÓRIO — CF07 (CF07 v1)
+
+min_score_global=8.0
+min_score_perfil=4.0
+selecionados_global=24
+
+DIAGNÓSTICO
+
+dominant_profile=apreensao_representacao_consciencia_localidade
+second_profile=mediacao_simbolo_linguagem_fechamento
+dossier_declared_profile=adequacao_criterio_verdade_correcao
+mismatch_flag=True
+alignment_classification=partially_misaligned
+- O dossier declara sobretudo o eixo 'adequacao_criterio_verdade_correcao', mas o sample global pende para 'apreensao_representacao_consciencia_localidade'.
+- Gap entre perfis no sample global=0.38; quota do perfil dominante=45.83%.
+- Há desalinhamento, mas não suficientemente nítido para o classificar como forte.
+- Perfil dominante dos fragmentos: apreensao_representacao_consciencia_localidade.
+- Segundo perfil dos fragmentos: mediacao_simbolo_linguagem_fechamento.
+
+ESTIMATIVA DO PERFIL DECLARADO
+
+{
+  "profile": "adequacao_criterio_verdade_correcao",
+  "method": "weighted_snapshot_estimation",
+  "section_scores": {
+    "pergunta_central": {
+      "adequacao_criterio_verdade_correcao": 25.7375,
+      "apreensao_representacao_consciencia_localidade": 2.9,
+      "mediacao_simbolo_linguagem_fechamento": 4.35,
+      "substituicao_do_real_erro_categorial_erro_de_escala": 18.85
+    },
+    "descricao_do_confronto": {
+      "adequacao_criterio_verdade_correcao": 24.0,
+      "apreensao_representacao_consciencia_localidade": 6.9375,
+      "mediacao_simbolo_linguagem_fechamento": 1.25,
+      "substituicao_do_real_erro_categorial_erro_de_escala": 14.4375
+    },
+    "tese_canonica_provisoria": {
+      "adequacao_criterio_verdade_correcao": 30.0,
+      "apreensao_representacao_consciencia_localidade": 5.68,
+      "mediacao_simbolo_linguagem_fechamento": 11.2,
+      "substituicao_do_real_erro_categorial_erro_de_escala": 24.0
+    },
+    "articulacao_estrutural": {
+      "adequacao_criterio_verdade_correcao": 3.0,
+      "apreensao_representacao_consciencia_localidade": 1.5,
+      "mediacao_simbolo_linguagem_fechamento": 0.0,
+      "substituicao_do_real_erro_categorial_erro_de_escala": 3.0
+    }
+  },
+  "raw_profile_scores": {
+    "adequacao_criterio_verdade_correcao": 82.7375,
+    "apreensao_representacao_consciencia_localidade": 17.0175,
+    "mediacao_simbolo_linguagem_fechamento": 16.8,
+    "substituicao_do_real_erro_categorial_erro_de_escala": 60.2875
+  },
+  "confidence": "high",
+  "gap_to_second": 22.45
+}
+
+PERFIS
+
+- adequacao_criterio_verdade_correcao: candidatos=24 avg_top10_score=31.6257 max_score=39.3201 overlap_global=4
+- apreensao_representacao_consciencia_localidade: candidatos=24 avg_top10_score=39.8518 max_score=44.1196 overlap_global=2
+- mediacao_simbolo_linguagem_fechamento: candidatos=24 avg_top10_score=35.5134 max_score=40.3202 overlap_global=8
+- substituicao_do_real_erro_categorial_erro_de_escala: candidatos=24 avg_top10_score=25.1276 max_score=29.8096 overlap_global=5
+
+TOP GLOBAL
+
+01. F0241_A24_SEG_003 | score=74.3884 | base=72.6784 | best_profile=apreensao_representacao_consciencia_localidade:33.6519 | second_profile=adequacao_criterio_verdade_correcao:30.2206
+02. F0241_A08_SEG_001 | score=72.5311 | base=70.8211 | best_profile=apreensao_representacao_consciencia_localidade:31.8024 | second_profile=mediacao_simbolo_linguagem_fechamento:28.9106
+03. F0214_SEG_001 | score=71.463 | base=69.753 | best_profile=apreensao_representacao_consciencia_localidade:36.2519 | second_profile=adequacao_criterio_verdade_correcao:28.9978
+04. F0241_A14_SEG_003 | score=68.299 | base=66.589 | best_profile=mediacao_simbolo_linguagem_fechamento:30.8215 | second_profile=apreensao_representacao_consciencia_localidade:25.0024
+05. F0104_A01_SEG_002 | score=65.9242 | base=64.2142 | best_profile=apreensao_representacao_consciencia_localidade:33.6519 | second_profile=mediacao_simbolo_linguagem_fechamento:30.8215
+06. F0241_A04_SEG_001 | score=65.9242 | base=64.2142 | best_profile=apreensao_representacao_consciencia_localidade:33.6519 | second_profile=adequacao_criterio_verdade_correcao:23.721
+07. F0202_SEG_001 | score=64.6599 | base=62.9499 | best_profile=apreensao_representacao_consciencia_localidade:27.0126 | second_profile=mediacao_simbolo_linguagem_fechamento:25.5531
+08. F0241_A03_SEG_001 | score=64.6349 | base=62.9249 | best_profile=mediacao_simbolo_linguagem_fechamento:34.1601 | second_profile=apreensao_representacao_consciencia_localidade:31.0024
+09. F0035_SEG_001 | score=64.4601 | base=62.7501 | best_profile=substituicao_do_real_erro_categorial_erro_de_escala:29.271 | second_profile=apreensao_representacao_consciencia_localidade:19.871
+10. F0108_A02_SEG_001 | score=62.7776 | base=61.0676 | best_profile=mediacao_simbolo_linguagem_fechamento:37.771 | second_profile=apreensao_representacao_consciencia_localidade:33.6519
+11. F0044_SEG_001 | score=62.5707 | base=60.8607 | best_profile=mediacao_simbolo_linguagem_fechamento:34.9197 | second_profile=adequacao_criterio_verdade_correcao:27.2706
+12. F0241_A13_SEG_001 | score=62.2237 | base=60.5137 | best_profile=adequacao_criterio_verdade_correcao:32.3978 | second_profile=apreensao_representacao_consciencia_localidade:30.2206
+13. F0070_SEG_002 | score=60.5047 | base=58.7947 | best_profile=mediacao_simbolo_linguagem_fechamento:40.0197 | second_profile=adequacao_criterio_verdade_correcao:30.7873
+14. F0241_A20_SEG_004 | score=59.6964 | base=57.9864 | best_profile=mediacao_simbolo_linguagem_fechamento:25.7215 | second_profile=apreensao_representacao_consciencia_localidade:25.0024
+15. F0108_A01_SEG_001 | score=59.6278 | base=57.9178 | best_profile=apreensao_representacao_consciencia_localidade:38.8701 | second_profile=mediacao_simbolo_linguagem_fechamento:35.2202

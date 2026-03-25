@@ -1,0 +1,90 @@
+RELATÓRIO — CF03 (CF03 v1)
+
+min_score_global=8.0
+min_score_perfil=4.0
+selecionados_global=24
+
+DIAGNÓSTICO
+
+dominant_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo
+second_profile=apreensao_detecao_localidade_relacao_ao_real
+dossier_declared_profile=vida_organismo_corpo_animalidade
+mismatch_flag=True
+alignment_classification=strongly_misaligned
+- O dossier declara sobretudo o eixo 'vida_organismo_corpo_animalidade', mas o sample global pende para 'ser_reflexivo_mediacao_representacao_passagem_sem_dualismo'.
+- Gap entre perfis no sample global=2.00; quota do perfil dominante=41.67%.
+- Há indício forte de que o centro real do confronto excede ou desloca a formulação declarada do dossier.
+- Perfil dominante dos fragmentos: ser_reflexivo_mediacao_representacao_passagem_sem_dualismo.
+- Segundo perfil dos fragmentos: apreensao_detecao_localidade_relacao_ao_real.
+
+ESTIMATIVA DO PERFIL DECLARADO
+
+{
+  "profile": "vida_organismo_corpo_animalidade",
+  "method": "weighted_snapshot_estimation",
+  "section_scores": {
+    "pergunta_central": {
+      "vida_organismo_corpo_animalidade": 18.3425,
+      "potencialidade_atualizacao_continuidade_campo": 0.0,
+      "apreensao_detecao_localidade_relacao_ao_real": 1.45,
+      "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 0.0,
+      "dualismo_reducionismo_erro_de_escala_entre_niveis": 0.0
+    },
+    "descricao_do_confronto": {
+      "vida_organismo_corpo_animalidade": 20.8125,
+      "potencialidade_atualizacao_continuidade_campo": 1.25,
+      "apreensao_detecao_localidade_relacao_ao_real": 1.25,
+      "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 7.625,
+      "dualismo_reducionismo_erro_de_escala_entre_niveis": 2.5
+    },
+    "tese_canonica_provisoria": {
+      "vida_organismo_corpo_animalidade": 23.44,
+      "potencialidade_atualizacao_continuidade_campo": 0.0,
+      "apreensao_detecao_localidade_relacao_ao_real": 1.6,
+      "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 12.96,
+      "dualismo_reducionismo_erro_de_escala_entre_niveis": 0.0
+    },
+    "articulacao_estrutural": {
+      "vida_organismo_corpo_animalidade": 0.0,
+      "potencialidade_atualizacao_continuidade_campo": 2.6625,
+      "apreensao_detecao_localidade_relacao_ao_real": 3.0,
+      "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 0.0,
+      "dualismo_reducionismo_erro_de_escala_entre_niveis": 4.5
+    }
+  },
+  "raw_profile_scores": {
+    "vida_organismo_corpo_animalidade": 62.595,
+    "potencialidade_atualizacao_continuidade_campo": 3.9125,
+    "apreensao_detecao_localidade_relacao_ao_real": 7.3,
+    "ser_reflexivo_mediacao_representacao_passagem_sem_dualismo": 20.585,
+    "dualismo_reducionismo_erro_de_escala_entre_niveis": 7.0
+  },
+  "confidence": "high",
+  "gap_to_second": 42.01
+}
+
+PERFIS
+
+- vida_organismo_corpo_animalidade: candidatos=24 avg_top10_score=12.5997 max_score=19.75 overlap_global=8
+- potencialidade_atualizacao_continuidade_campo: candidatos=24 avg_top10_score=26.6486 max_score=36.8149 overlap_global=4
+- apreensao_detecao_localidade_relacao_ao_real: candidatos=24 avg_top10_score=29.1009 max_score=49.2669 overlap_global=10
+- ser_reflexivo_mediacao_representacao_passagem_sem_dualismo: candidatos=24 avg_top10_score=31.9132 max_score=38.1669 overlap_global=8
+- dualismo_reducionismo_erro_de_escala_entre_niveis: candidatos=24 avg_top10_score=11.1428 max_score=20.303 overlap_global=5
+
+TOP GLOBAL
+
+01. F0214_SEG_001 | score=56.4905 | base=54.7805 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:32.6279 | second_profile=apreensao_detecao_localidade_relacao_ao_real:20.203
+02. F0061_SEG_002 | score=53.7597 | base=52.0497 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:26.1889 | second_profile=vida_organismo_corpo_animalidade:15.45
+03. F0212_SEG_001 | score=52.0336 | base=50.3236 | best_profile=apreensao_detecao_localidade_relacao_ao_real:33.081 | second_profile=potencialidade_atualizacao_continuidade_campo:14.098
+04. F0110_A01_SEG_003 | score=50.1502 | base=48.4402 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:32.6279 | second_profile=apreensao_detecao_localidade_relacao_ao_real:30.9279
+05. F0108_A01_SEG_001 | score=49.8969 | base=48.1869 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:32.6279 | second_profile=apreensao_detecao_localidade_relacao_ao_real:19.75
+06. F0070_SEG_001 | score=49.699 | base=47.989 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:29.7809 | second_profile=apreensao_detecao_localidade_relacao_ao_real:15.203
+07. F0059_SEG_001 | score=49.3028 | base=47.5928 | best_profile=apreensao_detecao_localidade_relacao_ao_real:49.2669 | second_profile=vida_organismo_corpo_animalidade:19.75
+08. F0084_A02_SEG_002 | score=49.3028 | base=47.5928 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:34.3279 | second_profile=potencialidade_atualizacao_continuidade_campo:24.1285
+09. F0084_A01_SEG_001 | score=48.786 | base=47.076 | best_profile=potencialidade_atualizacao_continuidade_campo:30.3759 | second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:26.1889
+10. F0241_A04_SEG_001 | score=48.4102 | base=46.7002 | best_profile=apreensao_detecao_localidade_relacao_ao_real:29.681 | second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:21.45
+11. F0084_A01_SEG_002 | score=44.9112 | base=43.2012 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:38.1669 | second_profile=apreensao_detecao_localidade_relacao_ao_real:21.45
+12. F0217_SEG_001 | score=41.1634 | base=39.4534 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:29.2279 | second_profile=apreensao_detecao_localidade_relacao_ao_real:20.203
+13. F0108_A02_SEG_001 | score=40.9001 | base=39.1901 | best_profile=apreensao_detecao_localidade_relacao_ao_real:36.12 | second_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:9.911
+14. F0213_SEG_001 | score=40.0522 | base=38.3422 | best_profile=apreensao_detecao_localidade_relacao_ao_real:19.492 | second_profile=potencialidade_atualizacao_continuidade_campo:18.242
+15. F0200_SEG_001 | score=39.7949 | base=38.0849 | best_profile=ser_reflexivo_mediacao_representacao_passagem_sem_dualismo:26.1889 | second_profile=apreensao_detecao_localidade_relacao_ao_real:15.011
