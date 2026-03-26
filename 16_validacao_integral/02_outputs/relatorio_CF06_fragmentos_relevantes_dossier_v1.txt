@@ -1,0 +1,111 @@
+RELATÓRIO — CF06 (CF05 v1)
+
+min_score_global=8.0
+min_score_perfil=4.0
+selecionados_global=24
+
+DIAGNÓSTICO
+
+dominant_profile=mediacao_transformacao_apreensao_representacao
+second_profile=consciencia_reflexiva_localizada
+dossier_declared_profile=linguisticismo_construtivismo_sentido
+mismatch_flag=True
+alignment_classification=partially_misaligned
+- O dossier declara sobretudo o eixo 'linguisticismo_construtivismo_sentido', mas o sample global pende para 'mediacao_transformacao_apreensao_representacao'.
+- Gap entre perfis no sample global=2.04; quota do perfil dominante=33.33%.
+- Há desalinhamento, mas não suficientemente nítido para o classificar como forte.
+- Perfil dominante dos fragmentos: mediacao_transformacao_apreensao_representacao.
+- Segundo perfil dos fragmentos: consciencia_reflexiva_localizada.
+
+ESTIMATIVA DO PERFIL DECLARADO
+
+{
+  "profile": "linguisticismo_construtivismo_sentido",
+  "method": "weighted_snapshot_estimation",
+  "section_scores": {
+    "pergunta_central": {
+      "simbolo_unidade_operativa_mediacao": 0.0,
+      "linguagem_estabilizacao_partilha_transmissibilidade": 6.5975,
+      "mediacao_transformacao_apreensao_representacao": 1.45,
+      "consciencia_reflexiva_localizada": 6.5975,
+      "representacao_adequacao_verdade_correcao": 0.0,
+      "linguisticismo_construtivismo_sentido": 20.445
+    },
+    "descricao_do_confronto": {
+      "simbolo_unidade_operativa_mediacao": 13.1875,
+      "linguagem_estabilizacao_partilha_transmissibilidade": 9.4375,
+      "mediacao_transformacao_apreensao_representacao": 11.375,
+      "consciencia_reflexiva_localizada": 2.5,
+      "representacao_adequacao_verdade_correcao": 2.5,
+      "linguisticismo_construtivismo_sentido": 17.625
+    },
+    "tese_canonica_provisoria": {
+      "simbolo_unidade_operativa_mediacao": 17.76,
+      "linguagem_estabilizacao_partilha_transmissibilidade": 10.48,
+      "mediacao_transformacao_apreensao_representacao": 0.0,
+      "consciencia_reflexiva_localizada": 10.48,
+      "representacao_adequacao_verdade_correcao": 8.0,
+      "linguisticismo_construtivismo_sentido": 24.16
+    },
+    "articulacao_estrutural": {
+      "simbolo_unidade_operativa_mediacao": 0.0,
+      "linguagem_estabilizacao_partilha_transmissibilidade": 0.0,
+      "mediacao_transformacao_apreensao_representacao": 0.0,
+      "consciencia_reflexiva_localizada": 3.2,
+      "representacao_adequacao_verdade_correcao": 4.0,
+      "linguisticismo_construtivismo_sentido": 0.8
+    }
+  },
+  "raw_profile_scores": {
+    "simbolo_unidade_operativa_mediacao": 30.9475,
+    "linguagem_estabilizacao_partilha_transmissibilidade": 26.515,
+    "mediacao_transformacao_apreensao_representacao": 12.825,
+    "consciencia_reflexiva_localizada": 22.7775,
+    "representacao_adequacao_verdade_correcao": 14.5,
+    "linguisticismo_construtivismo_sentido": 63.03
+  },
+  "confidence": "high",
+  "gap_to_second": 32.0825
+}
+
+SOBREPOSIÇÃO ARQUITETÓNICA
+
+{
+  "semantic_linguistic_share": 0.0833,
+  "mediational_share": 0.5,
+  "cf07_like_share": 0.5,
+  "corridor_p27_p34_share": 0.75,
+  "linguisticism_share": 0.25,
+  "notes": [
+    "Há tração relevante para o eixo mediacional: transformação da apreensão em representação + consciência reflexiva localizada.",
+    "Há tração relevante para a ponta CF07-like: mediação/representação + adequação/verdade/correção.",
+    "O sample aproxima-se fortemente do corredor P27–P34: símbolo → linguagem → mediação → consciência reflexiva → representação → adequação/correção."
+  ]
+}
+
+PERFIS
+
+- simbolo_unidade_operativa_mediacao: candidatos=24 avg_top10_score=25.702 max_score=28.9247 overlap_global=7
+- linguagem_estabilizacao_partilha_transmissibilidade: candidatos=24 avg_top10_score=26.7083 max_score=34.4935 overlap_global=3
+- mediacao_transformacao_apreensao_representacao: candidatos=24 avg_top10_score=43.0909 max_score=56.2858 overlap_global=3
+- consciencia_reflexiva_localizada: candidatos=24 avg_top10_score=35.2456 max_score=37.2855 overlap_global=3
+- representacao_adequacao_verdade_correcao: candidatos=24 avg_top10_score=36.4093 max_score=43.9532 overlap_global=3
+- linguisticismo_construtivismo_sentido: candidatos=24 avg_top10_score=31.7707 max_score=39.5935 overlap_global=5
+
+TOP GLOBAL
+
+01. F0241_A24_SEG_003 | score=93.5573 | base=91.8473 | best_profile=representacao_adequacao_verdade_correcao:40.133 | second_profile=consciencia_reflexiva_localizada:36.8659
+02. F0108_A01_SEG_001 | score=92.1615 | base=90.4515 | best_profile=consciencia_reflexiva_localizada:31.6914 | second_profile=mediacao_transformacao_apreensao_representacao:29.9631
+03. F0241_A25_SEG_002 | score=77.4559 | base=75.7459 | best_profile=linguisticismo_construtivismo_sentido:32.4631 | second_profile=consciencia_reflexiva_localizada:27.1073
+04. F0241_A03_SEG_001 | score=75.2635 | base=73.5535 | best_profile=mediacao_transformacao_apreensao_representacao:38.1027 | second_profile=consciencia_reflexiva_localizada:34.8356
+05. F0104_A01_SEG_002 | score=74.7165 | base=73.0065 | best_profile=consciencia_reflexiva_localizada:33.4377 | second_profile=representacao_adequacao_verdade_correcao:25.4223
+06. F0241_A26_SEG_002 | score=73.9147 | base=72.2047 | best_profile=mediacao_transformacao_apreensao_representacao:40.6855 | second_profile=simbolo_unidade_operativa_mediacao:28.9247
+07. F0110_A01_SEG_003 | score=72.501 | base=70.791 | best_profile=mediacao_transformacao_apreensao_representacao:36.4027 | second_profile=simbolo_unidade_operativa_mediacao:20.8024
+08. F0044_SEG_001 | score=72.1016 | base=70.3916 | best_profile=linguisticismo_construtivismo_sentido:39.5935 | second_profile=representacao_adequacao_verdade_correcao:24.1723
+09. F0241_A13_SEG_001 | score=70.0293 | base=68.3193 | best_profile=representacao_adequacao_verdade_correcao:33.2609 | second_profile=consciencia_reflexiva_localizada:24.5327
+10. F0035_SEG_001 | score=68.1719 | base=66.4619 | best_profile=representacao_adequacao_verdade_correcao:24.7609 | second_profile=mediacao_transformacao_apreensao_representacao:22.8327
+11. F0241_A21_SEG_004 | score=67.7303 | base=66.0203 | best_profile=consciencia_reflexiva_localizada:27.961 | second_profile=mediacao_transformacao_apreensao_representacao:24.5327
+12. F0241_A14_SEG_001 | score=67.6674 | base=65.9574 | best_profile=mediacao_transformacao_apreensao_representacao:21.1327 | second_profile=simbolo_unidade_operativa_mediacao:20.8024
+13. F0099_SEG_001 | score=66.6176 | base=64.9076 | best_profile=linguisticismo_construtivismo_sentido:27.5551 | second_profile=mediacao_transformacao_apreensao_representacao:26.3947
+14. F0241_A14_SEG_003 | score=66.5737 | base=64.8637 | best_profile=mediacao_transformacao_apreensao_representacao:22.8327 | second_profile=consciencia_reflexiva_localizada:20.9052
+15. F0010_SEG_001 | score=66.4207 | base=64.7107 | best_profile=linguisticismo_construtivismo_sentido:26.5631 | second_profile=consciencia_reflexiva_localizada:22.8327

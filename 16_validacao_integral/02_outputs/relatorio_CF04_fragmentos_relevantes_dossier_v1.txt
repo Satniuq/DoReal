@@ -1,0 +1,108 @@
+RELATÓRIO — CF04 (CF04 v1)
+
+min_score_global=8.0
+min_score_perfil=4.0
+selecionados_global=24
+
+DIAGNÓSTICO
+
+dominant_profile=humano_situado_localidade_apreensao
+second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real
+dossier_declared_profile=consciencia_reflexiva_sujeito_presenca_de_si
+mismatch_flag=True
+alignment_classification=strongly_misaligned
+- O dossier declara sobretudo o eixo 'consciencia_reflexiva_sujeito_presenca_de_si', mas o sample global pende para 'humano_situado_localidade_apreensao'.
+- Gap entre perfis no sample global=10.52; quota do perfil dominante=70.83%.
+- Há indício forte de que o centro real do confronto excede ou desloca a formulação declarada do dossier.
+- Perfil dominante dos fragmentos: humano_situado_localidade_apreensao.
+- Segundo perfil dos fragmentos: adequacao_verdade_erro_correcao_reinscricao_no_real.
+
+ESTIMATIVA DO PERFIL DECLARADO
+
+{
+  "profile": "consciencia_reflexiva_sujeito_presenca_de_si",
+  "method": "weighted_snapshot_estimation",
+  "section_scores": {
+    "pergunta_central": {
+      "humano_situado_localidade_apreensao": 0.0,
+      "memoria_temporalidade_estabilizacao_interna": 0.0,
+      "representacao_mediacao_simbolo_linguagem": 0.0,
+      "consciencia_reflexiva_sujeito_presenca_de_si": 15.4425,
+      "adequacao_verdade_erro_correcao_reinscricao_no_real": 0.0,
+      "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 13.195
+    },
+    "descricao_do_confronto": {
+      "humano_situado_localidade_apreensao": 0.0,
+      "memoria_temporalidade_estabilizacao_interna": 8.875,
+      "representacao_mediacao_simbolo_linguagem": 0.0,
+      "consciencia_reflexiva_sujeito_presenca_de_si": 19.0,
+      "adequacao_verdade_erro_correcao_reinscricao_no_real": 0.0,
+      "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 5.0
+    },
+    "tese_canonica_provisoria": {
+      "humano_situado_localidade_apreensao": 13.68,
+      "memoria_temporalidade_estabilizacao_interna": 12.08,
+      "representacao_mediacao_simbolo_linguagem": 0.0,
+      "consciencia_reflexiva_sujeito_presenca_de_si": 17.04,
+      "adequacao_verdade_erro_correcao_reinscricao_no_real": 9.6,
+      "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 17.76
+    },
+    "articulacao_estrutural": {
+      "humano_situado_localidade_apreensao": 6.04,
+      "memoria_temporalidade_estabilizacao_interna": 0.0,
+      "representacao_mediacao_simbolo_linguagem": 1.6,
+      "consciencia_reflexiva_sujeito_presenca_de_si": 0.0,
+      "adequacao_verdade_erro_correcao_reinscricao_no_real": 4.8,
+      "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 0.0
+    }
+  },
+  "raw_profile_scores": {
+    "humano_situado_localidade_apreensao": 19.72,
+    "memoria_temporalidade_estabilizacao_interna": 20.955,
+    "representacao_mediacao_simbolo_linguagem": 1.6,
+    "consciencia_reflexiva_sujeito_presenca_de_si": 51.4825,
+    "adequacao_verdade_erro_correcao_reinscricao_no_real": 14.4,
+    "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 35.955
+  },
+  "confidence": "high",
+  "gap_to_second": 15.5275
+}
+
+SOBREPOSIÇÃO ARQUITETÓNICA
+
+{
+  "cf03_like_share": 0.8333,
+  "cf07_like_share": 0.125,
+  "corridor_p25_p31_share": 0.2083,
+  "classic_subject_share": 0.0,
+  "notes": [
+    "Há tração relevante para o solo CF03-like: humano situado/localidade/apreensão + memória."
+  ]
+}
+
+PERFIS
+
+- humano_situado_localidade_apreensao: candidatos=24 avg_top10_score=38.4607 max_score=41.8081 overlap_global=5
+- memoria_temporalidade_estabilizacao_interna: candidatos=24 avg_top10_score=30.3196 max_score=38.7663 overlap_global=3
+- representacao_mediacao_simbolo_linguagem: candidatos=24 avg_top10_score=31.6132 max_score=38.4907 overlap_global=5
+- consciencia_reflexiva_sujeito_presenca_de_si: candidatos=24 avg_top10_score=26.8282 max_score=34.093 overlap_global=2
+- adequacao_verdade_erro_correcao_reinscricao_no_real: candidatos=24 avg_top10_score=32.7707 max_score=40.0921 overlap_global=3
+- identidade_pessoal_substancialismo_dissolucao_do_sujeito: candidatos=24 avg_top10_score=19.4672 max_score=24.3396 overlap_global=4
+
+TOP GLOBAL
+
+01. F0241_A08_SEG_001 | score=80.562 | base=78.852 | best_profile=humano_situado_localidade_apreensao:38.8581 | second_profile=memoria_temporalidade_estabilizacao_interna:26.3987
+02. F0050_SEG_001 | score=71.1129 | base=69.4029 | best_profile=memoria_temporalidade_estabilizacao_interna:25.6732 | second_profile=humano_situado_localidade_apreensao:24.912
+03. F0241_A04_SEG_001 | score=69.4807 | base=67.7707 | best_profile=humano_situado_localidade_apreensao:33.4825 | second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:24.4232
+04. F0241_A24_SEG_003 | score=69.051 | base=67.341 | best_profile=humano_situado_localidade_apreensao:35.1825 | second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:31.1383
+05. F0051_SEG_001 | score=68.0197 | base=66.3097 | best_profile=representacao_mediacao_simbolo_linguagem:31.0487 | second_profile=humano_situado_localidade_apreensao:24.912
+06. F0241_A14_SEG_003 | score=67.8445 | base=66.1345 | best_profile=humano_situado_localidade_apreensao:34.7325 | second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:17.3476
+07. F0110_A01_SEG_003 | score=64.7257 | base=63.0157 | best_profile=humano_situado_localidade_apreensao:33.6876 | second_profile=representacao_mediacao_simbolo_linguagem:32.3883
+08. F0214_SEG_001 | score=64.5698 | base=62.8598 | best_profile=humano_situado_localidade_apreensao:41.8081 | second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:29.4245
+09. F0241_A03_SEG_001 | score=64.1658 | base=62.4558 | best_profile=humano_situado_localidade_apreensao:34.7325 | second_profile=representacao_mediacao_simbolo_linguagem:32.8383
+10. F0049_SEG_001 | score=64.0806 | base=62.3706 | best_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:40.0921 | second_profile=identidade_pessoal_substancialismo_dissolucao_do_sujeito:22.6396
+11. F0241_A14_SEG_001 | score=61.1456 | base=59.4356 | best_profile=humano_situado_localidade_apreensao:36.8825 | second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:16.8976
+12. F0104_A01_SEG_002 | score=60.7159 | base=59.0059 | best_profile=humano_situado_localidade_apreensao:30.0825 | second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:24.0627
+13. F0016_SEG_001 | score=60.6323 | base=58.9223 | best_profile=memoria_temporalidade_estabilizacao_interna:26.1232 | second_profile=humano_situado_localidade_apreensao:24.462
+14. F0017_SEG_001 | score=60.2959 | base=58.5859 | best_profile=humano_situado_localidade_apreensao:21.5296 | second_profile=identidade_pessoal_substancialismo_dissolucao_do_sujeito:19.5152
+15. F0010_SEG_001 | score=59.7889 | base=58.0789 | best_profile=consciencia_reflexiva_sujeito_presenca_de_si:23.6174 | second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real:19.5849

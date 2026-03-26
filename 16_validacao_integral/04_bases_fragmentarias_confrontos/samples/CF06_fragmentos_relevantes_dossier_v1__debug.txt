@@ -1,0 +1,446 @@
+DEBUG — primeiros fragmentos scoreados
+
+ALIGNMENT SNAPSHOT
+{
+  "dominant_profile": "mediacao_transformacao_apreensao_representacao",
+  "second_profile": "consciencia_reflexiva_localizada",
+  "dossier_declared_profile": "linguisticismo_construtivismo_sentido",
+  "dossier_declared_profile_estimation": {
+    "profile": "linguisticismo_construtivismo_sentido",
+    "method": "weighted_snapshot_estimation",
+    "section_scores": {
+      "pergunta_central": {
+        "simbolo_unidade_operativa_mediacao": 0.0,
+        "linguagem_estabilizacao_partilha_transmissibilidade": 6.5975,
+        "mediacao_transformacao_apreensao_representacao": 1.45,
+        "consciencia_reflexiva_localizada": 6.5975,
+        "representacao_adequacao_verdade_correcao": 0.0,
+        "linguisticismo_construtivismo_sentido": 20.445
+      },
+      "descricao_do_confronto": {
+        "simbolo_unidade_operativa_mediacao": 13.1875,
+        "linguagem_estabilizacao_partilha_transmissibilidade": 9.4375,
+        "mediacao_transformacao_apreensao_representacao": 11.375,
+        "consciencia_reflexiva_localizada": 2.5,
+        "representacao_adequacao_verdade_correcao": 2.5,
+        "linguisticismo_construtivismo_sentido": 17.625
+      },
+      "tese_canonica_provisoria": {
+        "simbolo_unidade_operativa_mediacao": 17.76,
+        "linguagem_estabilizacao_partilha_transmissibilidade": 10.48,
+        "mediacao_transformacao_apreensao_representacao": 0.0,
+        "consciencia_reflexiva_localizada": 10.48,
+        "representacao_adequacao_verdade_correcao": 8.0,
+        "linguisticismo_construtivismo_sentido": 24.16
+      },
+      "articulacao_estrutural": {
+        "simbolo_unidade_operativa_mediacao": 0.0,
+        "linguagem_estabilizacao_partilha_transmissibilidade": 0.0,
+        "mediacao_transformacao_apreensao_representacao": 0.0,
+        "consciencia_reflexiva_localizada": 3.2,
+        "representacao_adequacao_verdade_correcao": 4.0,
+        "linguisticismo_construtivismo_sentido": 0.8
+      }
+    },
+    "raw_profile_scores": {
+      "simbolo_unidade_operativa_mediacao": 30.9475,
+      "linguagem_estabilizacao_partilha_transmissibilidade": 26.515,
+      "mediacao_transformacao_apreensao_representacao": 12.825,
+      "consciencia_reflexiva_localizada": 22.7775,
+      "representacao_adequacao_verdade_correcao": 14.5,
+      "linguisticismo_construtivismo_sentido": 63.03
+    },
+    "confidence": "high",
+    "gap_to_second": 32.0825
+  },
+  "mismatch_flag": true,
+  "alignment_classification": "partially_misaligned",
+  "diagnosis_lines": [
+    "O dossier declara sobretudo o eixo 'linguisticismo_construtivismo_sentido', mas o sample global pende para 'mediacao_transformacao_apreensao_representacao'.",
+    "Gap entre perfis no sample global=2.04; quota do perfil dominante=33.33%.",
+    "Há desalinhamento, mas não suficientemente nítido para o classificar como forte.",
+    "Perfil dominante dos fragmentos: mediacao_transformacao_apreensao_representacao.",
+    "Segundo perfil dos fragmentos: consciencia_reflexiva_localizada."
+  ],
+  "sample_size_used": 24,
+  "global_profile_ranking": [
+    {
+      "profile": "mediacao_transformacao_apreensao_representacao",
+      "composite_score": 26.499,
+      "best_profile_hits": 8
+    },
+    {
+      "profile": "consciencia_reflexiva_localizada",
+      "composite_score": 24.4591,
+      "best_profile_hits": 4
+    },
+    {
+      "profile": "representacao_adequacao_verdade_correcao",
+      "composite_score": 22.91,
+      "best_profile_hits": 4
+    },
+    {
+      "profile": "simbolo_unidade_operativa_mediacao",
+      "composite_score": 20.782,
+      "best_profile_hits": 1
+    },
+    {
+      "profile": "linguisticismo_construtivismo_sentido",
+      "composite_score": 18.2442,
+      "best_profile_hits": 6
+    },
+    {
+      "profile": "linguagem_estabilizacao_partilha_transmissibilidade",
+      "composite_score": 16.052,
+      "best_profile_hits": 1
+    }
+  ],
+  "profile_stats_snapshot": {
+    "simbolo_unidade_operativa_mediacao": {
+      "label": "Símbolo como unidade operativa de mediação",
+      "description": "Símbolo como unidade mínima operativa pela qual a representação se fixa, se retoma e se torna transmissível.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 25.702,
+      "max_score": 28.9247,
+      "top10_overlap_with_global": 7,
+      "threshold": 4.0
+    },
+    "linguagem_estabilizacao_partilha_transmissibilidade": {
+      "label": "Linguagem, estabilização, partilha e transmissibilidade",
+      "description": "Linguagem como sistema estabilizado de símbolos, partilhável e transmissível, sem se confundir com a apreensão imediata.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 26.7083,
+      "max_score": 34.4935,
+      "top10_overlap_with_global": 3,
+      "threshold": 4.0
+    },
+    "mediacao_transformacao_apreensao_representacao": {
+      "label": "Mediação, transformação da apreensão e representação",
+      "description": "Mediação como transformação operativa da apreensão em representação estabilizada e operável.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 43.0909,
+      "max_score": 56.2858,
+      "top10_overlap_with_global": 3,
+      "threshold": 4.0
+    },
+    "consciencia_reflexiva_localizada": {
+      "label": "Consciência reflexiva localizada",
+      "description": "Consciência reflexiva como capacidade localizada que retoma e trabalha mediações na relação com o real.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 35.2456,
+      "max_score": 37.2855,
+      "top10_overlap_with_global": 3,
+      "threshold": 4.0
+    },
+    "representacao_adequacao_verdade_correcao": {
+      "label": "Representação, adequação, verdade e correção",
+      "description": "Prolongamento epistemológico: representação ajustada ou desajustada, verdade sob critério e correção por reinscrição no real.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 36.4093,
+      "max_score": 43.9532,
+      "top10_overlap_with_global": 3,
+      "threshold": 4.0
+    },
+    "linguisticismo_construtivismo_sentido": {
+      "label": "Linguisticismo, construtivismo e sentido",
+      "description": "Perfil opcional para medir se o léxico de sentido/construção/language-first domina artificialmente o dossier.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 31.7707,
+      "max_score": 39.5935,
+      "top10_overlap_with_global": 5,
+      "threshold": 4.0
+    }
+  },
+  "overlap_signals": {
+    "semantic_linguistic_share": 0.0833,
+    "mediational_share": 0.5,
+    "cf07_like_share": 0.5,
+    "corridor_p27_p34_share": 0.75,
+    "linguisticism_share": 0.25,
+    "notes": [
+      "Há tração relevante para o eixo mediacional: transformação da apreensão em representação + consciência reflexiva localizada.",
+      "Há tração relevante para a ponta CF07-like: mediação/representação + adequação/verdade/correção.",
+      "O sample aproxima-se fortemente do corredor P27–P34: símbolo → linguagem → mediação → consciência reflexiva → representação → adequação/correção."
+    ]
+  }
+}
+
+## 1. F0241_A24_SEG_003
+score=93.5573 score_base=91.8473 best_profile=representacao_adequacao_verdade_correcao best_profile_score=40.133 second_profile=consciencia_reflexiva_localizada second_profile_score=36.8659
+matched_phrases=[]
+matched_terms=['real', 'simbolo', 'apreensao', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'coerencia', 'interna', 'adequacao', 'correcao', 'construtivismo', 'estabiliza', 'simbolizacao', 'experiencia', 'pode', 'proposicoes', 'interno', 'verdade']
+matched_hints=['símbolo', 'simbolo', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'adequação', 'adequacao', 'verdade', 'correção', 'correcao', 'submissão ao real', 'submissao ao real', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 22.5024, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.872, 'mediacao_transformacao_apreensao_representacao': 29.6327, 'consciencia_reflexiva_localizada': 36.8659, 'representacao_adequacao_verdade_correcao': 40.133, 'linguisticismo_construtivismo_sentido': 20.2327}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 2. F0108_A01_SEG_001
+score=92.1615 score_base=90.4515 best_profile=consciencia_reflexiva_localizada best_profile_score=31.6914 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=29.9631
+matched_phrases=[]
+matched_terms=['real', 'representacao', 'simbolo', 'significacao', 'referencia', 'apreensao', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'construtivismo', 'estabiliza', 'simbolizacao', 'comum', 'seguinte', 'explicita', 'pode', 'interno']
+matched_hints=['símbolo', 'simbolo', 'significação', 'significacao', 'referência', 'referencia', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 27.9327, 'linguagem_estabilizacao_partilha_transmissibilidade': 22.8327, 'mediacao_transformacao_apreensao_representacao': 29.9631, 'consciencia_reflexiva_localizada': 31.6914, 'representacao_adequacao_verdade_correcao': 17.072, 'linguisticismo_construtivismo_sentido': 21.9327}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 3. F0241_A25_SEG_002
+score=77.4559 score_base=75.7459 best_profile=linguisticismo_construtivismo_sentido best_profile_score=32.4631 second_profile=consciencia_reflexiva_localizada second_profile_score=27.1073
+matched_phrases=[]
+matched_terms=['linguagem', 'real', 'representacao', 'simbolo', 'apreensao', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'construtivismo', 'estabiliza', 'simbolizacao', 'experiencia', 'nada', 'pode', 'linguisticismo']
+matched_hints=['linguagem', 'símbolo', 'simbolo', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'submissão ao real', 'submissao ao real', 'linguisticismo', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.3524, 'linguagem_estabilizacao_partilha_transmissibilidade': 13.1024, 'mediacao_transformacao_apreensao_representacao': 24.5327, 'consciencia_reflexiva_localizada': 27.1073, 'representacao_adequacao_verdade_correcao': 11.972, 'linguisticismo_construtivismo_sentido': 32.4631}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 4. F0241_A03_SEG_001
+score=75.2635 score_base=73.5535 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=38.1027 second_profile=consciencia_reflexiva_localizada second_profile_score=34.8356
+matched_phrases=[]
+matched_terms=['linguagem', 'real', 'mediacao', 'simbolo', 'apreensao', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'correcao', 'estabiliza', 'simbolizacao', 'pode', 'partilha', 'linguisticismo']
+matched_hints=['linguagem', 'símbolo', 'simbolo', 'mediação', 'mediacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'partilha', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'correção', 'correcao', 'submissão ao real', 'submissao ao real', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': 22.0524, 'linguagem_estabilizacao_partilha_transmissibilidade': 21.9327, 'mediacao_transformacao_apreensao_representacao': 38.1027, 'consciencia_reflexiva_localizada': 34.8356, 'representacao_adequacao_verdade_correcao': 19.1024, 'linguisticismo_construtivismo_sentido': 16.5024}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 5. F0104_A01_SEG_002
+score=74.7165 score_base=73.0065 best_profile=consciencia_reflexiva_localizada best_profile_score=33.4377 second_profile=representacao_adequacao_verdade_correcao second_profile_score=25.4223
+matched_phrases=[]
+matched_terms=['sentido', 'real', 'simbolo', 'apreensao', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'adequacao', 'estabiliza', 'simbolizacao', 'interno', 'verdade']
+matched_hints=['símbolo', 'simbolo', 'sentido', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'adequação', 'adequacao', 'verdade', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 8.572, 'mediacao_transformacao_apreensao_representacao': 15.7024, 'consciencia_reflexiva_localizada': 33.4377, 'representacao_adequacao_verdade_correcao': 25.4223, 'linguisticismo_construtivismo_sentido': 13.1024}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 6. F0241_A26_SEG_002
+score=73.9147 score_base=72.2047 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=40.6855 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=28.9247
+matched_phrases=[]
+matched_terms=['linguagem', 'sentido', 'real', 'representacao', 'simbolo', 'apreensao', 'transmissivel', 'simbolica', 'simbolos', 'erro', 'exprime', 'simbolizacao', 'pode', 'verdade', 'linguisticismo']
+matched_hints=['linguagem', 'símbolo', 'simbolo', 'sentido', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'transmissível', 'transmissivel', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'erro categorial', 'erro de escala', 'verdade', 'submissão ao real', 'submissao ao real', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': 28.9247, 'linguagem_estabilizacao_partilha_transmissibilidade': 22.1247, 'mediacao_transformacao_apreensao_representacao': 40.6855, 'consciencia_reflexiva_localizada': 22.7972, 'representacao_adequacao_verdade_correcao': 24.1726, 'linguisticismo_construtivismo_sentido': 28.9247}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 7. F0110_A01_SEG_003
+score=72.501 score_base=70.791 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=36.4027 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=20.8024
+matched_phrases=[]
+matched_terms=['real', 'mediacao', 'representacao', 'simbolo', 'cria', 'apreensao', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'estabiliza', 'simbolizacao', 'quanto', 'pode', 'interno']
+matched_hints=['símbolo', 'simbolo', 'mediação', 'mediacao', 'representação', 'representacao', 'apreensão', 'apreensao', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.872, 'mediacao_transformacao_apreensao_representacao': 36.4027, 'consciencia_reflexiva_localizada': 15.7024, 'representacao_adequacao_verdade_correcao': 17.072, 'linguisticismo_construtivismo_sentido': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 8. F0044_SEG_001
+score=72.1016 score_base=70.3916 best_profile=linguisticismo_construtivismo_sentido best_profile_score=39.5935 second_profile=representacao_adequacao_verdade_correcao second_profile_score=24.1723
+matched_phrases=[]
+matched_terms=['linguagem', 'real', 'representacao', 'simbolo', 'simbolica', 'simbolos', 'adequacao', 'construtivismo', 'simbolizacao', 'experiencia', 'mundo', 'fixa', 'pode', 'verdade', 'linguisticismo']
+matched_hints=['linguagem', 'símbolo', 'simbolo', 'representação', 'representacao', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'adequação', 'adequacao', 'verdade', 'submissão ao real', 'submissao ao real', 'linguisticismo', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.3524, 'linguagem_estabilizacao_partilha_transmissibilidade': 21.9327, 'mediacao_transformacao_apreensao_representacao': 8.0024, 'consciencia_reflexiva_localizada': 6.872, 'representacao_adequacao_verdade_correcao': 24.1723, 'linguisticismo_construtivismo_sentido': 39.5935}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 9. F0241_A13_SEG_001
+score=70.0293 score_base=68.3193 best_profile=representacao_adequacao_verdade_correcao best_profile_score=33.2609 second_profile=consciencia_reflexiva_localizada second_profile_score=24.5327
+matched_phrases=[]
+matched_terms=['real', 'representacao', 'simbolo', 'apreensao', 'reflexiva', 'simbolica', 'simbolos', 'interna', 'erro', 'correcao', 'simbolizacao', 'pode', 'interno', 'verdade']
+matched_hints=['símbolo', 'simbolo', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'erro categorial', 'erro de escala', 'verdade', 'correção', 'correcao', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.3524, 'linguagem_estabilizacao_partilha_transmissibilidade': 14.0024, 'mediacao_transformacao_apreensao_representacao': 22.8327, 'consciencia_reflexiva_localizada': 24.5327, 'representacao_adequacao_verdade_correcao': 33.2609, 'linguisticismo_construtivismo_sentido': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 10. F0035_SEG_001
+score=68.1719 score_base=66.4619 best_profile=representacao_adequacao_verdade_correcao best_profile_score=24.7609 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=22.8327
+matched_phrases=[]
+matched_terms=['sentido', 'real', 'transmissivel', 'estabilizacao', 'interna', 'erro', 'estabiliza', 'pode', 'emergente', 'proposicoes', 'pontes', 'interno', 'categorial', 'verdade']
+matched_hints=['sentido', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'transmissível', 'transmissivel', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'erro categorial', 'erro de escala', 'verdade']
+profile_scores={'simbolo_unidade_operativa_mediacao': 11.8524, 'linguagem_estabilizacao_partilha_transmissibilidade': 21.1327, 'mediacao_transformacao_apreensao_representacao': 22.8327, 'consciencia_reflexiva_localizada': 19.4327, 'representacao_adequacao_verdade_correcao': 24.7609, 'linguisticismo_construtivismo_sentido': 12.3024}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 11. F0241_A21_SEG_004
+score=67.7303 score_base=66.0203 best_profile=consciencia_reflexiva_localizada best_profile_score=27.961 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=24.5327
+matched_phrases=[]
+matched_terms=['real', 'representacao', 'simbolo', 'apreensao', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'estabiliza', 'simbolizacao', 'pode', 'interno']
+matched_hints=['símbolo', 'simbolo', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.872, 'mediacao_transformacao_apreensao_representacao': 24.5327, 'consciencia_reflexiva_localizada': 27.961, 'representacao_adequacao_verdade_correcao': 17.072, 'linguisticismo_construtivismo_sentido': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 12. F0241_A14_SEG_001
+score=67.6674 score_base=65.9574 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=21.1327 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=20.8024
+matched_phrases=[]
+matched_terms=['sentido', 'real', 'simbolo', 'referencia', 'apreensao', 'estabilizacao', 'simbolica', 'simbolos', 'estabiliza', 'simbolizacao', 'comum', 'nada', 'pode', 'verdade']
+matched_hints=['símbolo', 'simbolo', 'sentido', 'referência', 'referencia', 'apreensão', 'apreensao', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'verdade', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 17.4024, 'mediacao_transformacao_apreensao_representacao': 21.1327, 'consciencia_reflexiva_localizada': 12.0465, 'representacao_adequacao_verdade_correcao': 13.5524, 'linguisticismo_construtivismo_sentido': 14.8024}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 13. F0099_SEG_001
+score=66.6176 score_base=64.9076 best_profile=linguisticismo_construtivismo_sentido best_profile_score=27.5551 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=26.3947
+matched_phrases=[]
+matched_terms=['real', 'mediacao', 'representacao', 'simbolo', 'simbolica', 'simbolos', 'erro', 'correcao', 'construtivismo', 'simbolizacao', 'mundo', 'partilha', 'fechamento']
+matched_hints=['símbolo', 'simbolo', 'mediação', 'mediacao', 'representação', 'representacao', 'partilha', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fechamento', 'erro categorial', 'erro de escala', 'correção', 'correcao', 'submissão ao real', 'submissao ao real', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 23.9444, 'linguagem_estabilizacao_partilha_transmissibilidade': 24.7247, 'mediacao_transformacao_apreensao_representacao': 26.3947, 'consciencia_reflexiva_localizada': 19.0668, 'representacao_adequacao_verdade_correcao': 24.6226, 'linguisticismo_construtivismo_sentido': 27.5551}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 14. F0241_A14_SEG_003
+score=66.5737 score_base=64.8637 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=22.8327 second_profile=consciencia_reflexiva_localizada second_profile_score=20.9052
+matched_phrases=[]
+matched_terms=['real', 'simbolo', 'cria', 'apreensao', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'estabiliza', 'simbolizacao', 'quanto', 'interno', 'verdade']
+matched_hints=['símbolo', 'simbolo', 'apreensão', 'apreensao', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'verdade', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 15.7024, 'mediacao_transformacao_apreensao_representacao': 22.8327, 'consciencia_reflexiva_localizada': 20.9052, 'representacao_adequacao_verdade_correcao': 19.1024, 'linguisticismo_construtivismo_sentido': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 15. F0010_SEG_001
+score=66.4207 score_base=64.7107 best_profile=linguisticismo_construtivismo_sentido best_profile_score=26.5631 second_profile=consciencia_reflexiva_localizada second_profile_score=22.8327
+matched_phrases=[]
+matched_terms=['sentido', 'real', 'transmissivel', 'estabilizacao', 'interna', 'erro', 'correcao', 'construtivismo', 'estabiliza', 'quanto', 'seguinte', 'interno', 'verdade']
+matched_hints=['sentido', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'transmissível', 'transmissivel', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'erro categorial', 'erro de escala', 'verdade', 'correção', 'correcao', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 6.7524, 'linguagem_estabilizacao_partilha_transmissibilidade': 14.0024, 'mediacao_transformacao_apreensao_representacao': 12.3024, 'consciencia_reflexiva_localizada': 22.8327, 'representacao_adequacao_verdade_correcao': 21.3609, 'linguisticismo_construtivismo_sentido': 26.5631}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 16. F0213_SEG_001
+score=66.3815 score_base=64.6715 best_profile=simbolo_unidade_operativa_mediacao best_profile_score=27.6747 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=23.0247
+matched_phrases=[]
+matched_terms=['real', 'simbolo', 'apreensao', 'transmissivel', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'erro', 'estabiliza', 'simbolizacao', 'pode', 'interno']
+matched_hints=['símbolo', 'simbolo', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'transmissível', 'transmissivel', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'erro categorial', 'erro de escala', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 27.6747, 'linguagem_estabilizacao_partilha_transmissibilidade': 15.8944, 'mediacao_transformacao_apreensao_representacao': 23.0247, 'consciencia_reflexiva_localizada': 19.6247, 'representacao_adequacao_verdade_correcao': 17.4922, 'linguisticismo_construtivismo_sentido': 6.4944}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 17. F0241_A11_SEG_004
+score=66.2508 score_base=64.5408 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=24.5327 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=20.8024
+matched_phrases=[]
+matched_terms=['real', 'representacao', 'simbolo', 'apreensao', 'estabilizacao', 'simbolica', 'simbolos', 'semantico', 'estabiliza', 'simbolizacao', 'experiencia', 'seguinte']
+matched_hints=['símbolo', 'simbolo', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'submissão ao real', 'submissao ao real', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.872, 'mediacao_transformacao_apreensao_representacao': 24.5327, 'consciencia_reflexiva_localizada': 14.0024, 'representacao_adequacao_verdade_correcao': 11.972, 'linguisticismo_construtivismo_sentido': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 18. F0241_A20_SEG_004
+score=66.2508 score_base=64.5408 best_profile=consciencia_reflexiva_localizada best_profile_score=29.7073 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=20.8024
+matched_phrases=[]
+matched_terms=['sentido', 'real', 'simbolo', 'apreensao', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'estabiliza', 'simbolizacao', 'interno']
+matched_hints=['símbolo', 'simbolo', 'sentido', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.872, 'mediacao_transformacao_apreensao_representacao': 15.7024, 'consciencia_reflexiva_localizada': 29.7073, 'representacao_adequacao_verdade_correcao': 13.222, 'linguisticismo_construtivismo_sentido': 13.1024}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 19. F0070_SEG_002
+score=66.2415 score_base=64.5315 best_profile=linguisticismo_construtivismo_sentido best_profile_score=30.4327 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=21.6024
+matched_phrases=[]
+matched_terms=['linguagem', 'sentido', 'real', 'simbolo', 'cria', 'simbolica', 'simbolos', 'erro', 'simbolizacao', 'pode', 'proposicoes', 'categorial', 'verdade', 'linguisticismo']
+matched_hints=['linguagem', 'símbolo', 'simbolo', 'sentido', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'erro categorial', 'erro de escala', 'verdade', 'submissão ao real', 'submissao ao real', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': 21.6024, 'linguagem_estabilizacao_partilha_transmissibilidade': 13.1024, 'mediacao_transformacao_apreensao_representacao': 18.5327, 'consciencia_reflexiva_localizada': 10.272, 'representacao_adequacao_verdade_correcao': 20.5806, 'linguisticismo_construtivismo_sentido': 30.4327}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 20. F0051_SEG_001
+score=66.0885 score_base=64.3785 best_profile=linguisticismo_construtivismo_sentido best_profile_score=28.7327 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=25.6631
+matched_phrases=[]
+matched_terms=['linguagem', 'sentido', 'real', 'representacao', 'transmissivel', 'estabilizacao', 'erro', 'estabiliza', 'fixa', 'pode', 'proposicoes', 'escala', 'verdade', 'linguisticismo']
+matched_hints=['linguagem', 'sentido', 'representação', 'representacao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'transmissível', 'transmissivel', 'erro categorial', 'erro de escala', 'verdade', 'submissão ao real', 'submissao ao real', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': 10.0327, 'linguagem_estabilizacao_partilha_transmissibilidade': 22.2631, 'mediacao_transformacao_apreensao_representacao': 25.6631, 'consciencia_reflexiva_localizada': 14.0024, 'representacao_adequacao_verdade_correcao': 20.5806, 'linguisticismo_construtivismo_sentido': 28.7327}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 21. F0097_A02_SEG_001
+score=65.821 score_base=64.111 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=36.7631 second_profile=representacao_adequacao_verdade_correcao second_profile_score=25.4524
+matched_phrases=[]
+matched_terms=['sentido', 'real', 'representacao', 'simbolo', 'referencia', 'apreensao', 'simbolica', 'simbolos', 'interna', 'simbolizacao', 'interno', 'verdade']
+matched_hints=['símbolo', 'simbolo', 'sentido', 'referência', 'referencia', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'verdade', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 22.5024, 'linguagem_estabilizacao_partilha_transmissibilidade': 14.0024, 'mediacao_transformacao_apreensao_representacao': 36.7631, 'consciencia_reflexiva_localizada': 19.4327, 'representacao_adequacao_verdade_correcao': 25.4524, 'linguisticismo_construtivismo_sentido': 13.1024}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 22. F0084_A01_SEG_002
+score=65.4279 score_base=63.7179 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=52.3634 second_profile=consciencia_reflexiva_localizada second_profile_score=31.361
+matched_phrases=[]
+matched_terms=['real', 'mediacao', 'representacao', 'apreensao', 'reflexiva', 'estabilizacao', 'interna', 'estabiliza', 'mundo', 'pode', 'partilha', 'interno', 'categorial']
+matched_hints=['mediação', 'mediacao', 'representação', 'representacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'partilha', 'fecho interno', 'coerência interna', 'coerencia interna', 'erro categorial', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 8.572, 'linguagem_estabilizacao_partilha_transmissibilidade': 24.8631, 'mediacao_transformacao_apreensao_representacao': 52.3634, 'consciencia_reflexiva_localizada': 31.361, 'representacao_adequacao_verdade_correcao': 20.472, 'linguisticismo_construtivismo_sentido': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 23. F0108_A02_SEG_001
+score=64.9048 score_base=63.1948 best_profile=linguagem_estabilizacao_partilha_transmissibilidade best_profile_score=30.7631 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=27.4827
+matched_phrases=[]
+matched_terms=['linguagem', 'real', 'simbolo', 'apreensao', 'transmissivel', 'simbolica', 'simbolos', 'interna', 'simbolizacao', 'mundo', 'quanto', 'interno', 'linguisticismo']
+matched_hints=['linguagem', 'símbolo', 'simbolo', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'transmissível', 'transmissivel', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': 27.4827, 'linguagem_estabilizacao_partilha_transmissibilidade': 30.7631, 'mediacao_transformacao_apreensao_representacao': 20.2327, 'consciencia_reflexiva_localizada': 24.6073, 'representacao_adequacao_verdade_correcao': 13.672, 'linguisticismo_construtivismo_sentido': 23.6327}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 24. F0049_SEG_001
+score=64.0944 score_base=62.3844 best_profile=representacao_adequacao_verdade_correcao best_profile_score=43.9532 second_profile=consciencia_reflexiva_localizada second_profile_score=23.0247
+matched_phrases=[]
+matched_terms=['real', 'transmissivel', 'coerencia', 'interna', 'erro', 'adequacao', 'correcao', 'experiencia', 'pode', 'emergente', 'proposicoes', 'interno', 'verdade']
+matched_hints=['consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'transmissível', 'transmissivel', 'fecho interno', 'coerência interna', 'coerencia interna', 'erro categorial', 'erro de escala', 'adequação', 'adequacao', 'verdade', 'correção', 'correcao', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 6.9444, 'linguagem_estabilizacao_partilha_transmissibilidade': 16.2247, 'mediacao_transformacao_apreensao_representacao': 10.7944, 'consciencia_reflexiva_localizada': 23.0247, 'representacao_adequacao_verdade_correcao': 43.9532, 'linguisticismo_construtivismo_sentido': 6.4944}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 25. F0124_SEG_001
+score=64.0003 score_base=62.2903 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=31.3327 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=22.5024
+matched_phrases=[]
+matched_terms=['real', 'simbolo', 'apreensao', 'estabilizacao', 'simbolica', 'simbolos', 'interna', 'estabiliza', 'simbolizacao', 'mundo', 'pode', 'emergente', 'interno']
+matched_hints=['símbolo', 'simbolo', 'apreensão', 'apreensao', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 22.5024, 'linguagem_estabilizacao_partilha_transmissibilidade': 8.572, 'mediacao_transformacao_apreensao_representacao': 31.3327, 'consciencia_reflexiva_localizada': 15.7307, 'representacao_adequacao_verdade_correcao': 17.072, 'linguisticismo_construtivismo_sentido': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 26. F0050_SEG_001
+score=63.3344 score_base=61.6244 best_profile=representacao_adequacao_verdade_correcao best_profile_score=28.1609 second_profile=consciencia_reflexiva_localizada second_profile_score=17.4024
+matched_phrases=[]
+matched_terms=['linguagem', 'real', 'representacao', 'cria', 'coerencia', 'erro', 'explicita', 'emergente', 'proposicoes', 'cientificas', 'categorial', 'verdade', 'linguisticismo']
+matched_hints=['linguagem', 'representação', 'representacao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'coerência interna', 'coerencia interna', 'erro categorial', 'erro de escala', 'verdade', 'submissão ao real', 'submissao ao real', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': -0.828, 'linguagem_estabilizacao_partilha_transmissibilidade': 13.4327, 'mediacao_transformacao_apreensao_representacao': 8.0024, 'consciencia_reflexiva_localizada': 17.4024, 'representacao_adequacao_verdade_correcao': 28.1609, 'linguisticismo_construtivismo_sentido': 16.5024}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 27. F0241_A25_SEG_003
+score=63.2532 score_base=61.5432 best_profile=representacao_adequacao_verdade_correcao best_profile_score=33.9223 second_profile=linguisticismo_construtivismo_sentido second_profile_score=28.7327
+matched_phrases=[]
+matched_terms=['linguagem', 'sentido', 'real', 'estabilizacao', 'interna', 'adequacao', 'estabiliza', 'seguinte', 'nada', 'pode', 'proposicoes', 'interno', 'linguisticismo']
+matched_hints=['linguagem', 'sentido', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'adequação', 'adequacao', 'submissão ao real', 'submissao ao real', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': -0.378, 'linguagem_estabilizacao_partilha_transmissibilidade': 9.7024, 'mediacao_transformacao_apreensao_representacao': 1.772, 'consciencia_reflexiva_localizada': 17.4769, 'representacao_adequacao_verdade_correcao': 33.9223, 'linguisticismo_construtivismo_sentido': 28.7327}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 28. F0241_A04_SEG_001
+score=62.8528 score_base=61.1428 best_profile=representacao_adequacao_verdade_correcao best_profile_score=33.0327 second_profile=consciencia_reflexiva_localizada second_profile_score=29.7073
+matched_phrases=[]
+matched_terms=['real', 'representacao', 'apreensao', 'reflexiva', 'estabilizacao', 'interna', 'construtivismo', 'estabiliza', 'pode', 'proposicoes', 'interno', 'verdade']
+matched_hints=['representação', 'representacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'verdade', 'submissão ao real', 'submissao ao real', 'construtivismo semântico', 'construtivismo semantico']
+profile_scores={'simbolo_unidade_operativa_mediacao': 0.072, 'linguagem_estabilizacao_partilha_transmissibilidade': 5.172, 'mediacao_transformacao_apreensao_representacao': 24.5327, 'consciencia_reflexiva_localizada': 29.7073, 'representacao_adequacao_verdade_correcao': 33.0327, 'linguisticismo_construtivismo_sentido': 20.2327}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 29. F0241_A23_SEG_001
+score=62.8528 score_base=61.1428 best_profile=consciencia_reflexiva_localizada best_profile_score=24.2769 second_profile=representacao_adequacao_verdade_correcao second_profile_score=22.4723
+matched_phrases=[]
+matched_terms=['real', 'simbolo', 'apreensao', 'reflexiva', 'simbolica', 'simbolos', 'coerencia', 'adequacao', 'simbolizacao', 'experiencia', 'organiza', 'pode']
+matched_hints=['símbolo', 'simbolo', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'coerência interna', 'coerencia interna', 'adequação', 'adequacao', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8024, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.872, 'mediacao_transformacao_apreensao_representacao': 14.0024, 'consciencia_reflexiva_localizada': 24.2769, 'representacao_adequacao_verdade_correcao': 22.4723, 'linguisticismo_construtivismo_sentido': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 30. F0241_A22_SEG_004
+score=62.2872 score_base=60.5772 best_profile=representacao_adequacao_verdade_correcao best_profile_score=27.9867 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=20.8864
+matched_phrases=[]
+matched_terms=['representacao', 'simbolo', 'reflexiva', 'estabilizacao', 'simbolica', 'simbolos', 'coerencia', 'adequacao', 'estabiliza', 'simbolizacao', 'pode']
+matched_hints=['símbolo', 'simbolo', 'representação', 'representacao', 'consciência reflexiva', 'consciencia reflexiva', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'coerência interna', 'coerencia interna', 'adequação', 'adequacao']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.8864, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.956, 'mediacao_transformacao_apreensao_representacao': 16.1167, 'consciencia_reflexiva_localizada': 15.8147, 'representacao_adequacao_verdade_correcao': 27.9867, 'linguisticismo_construtivismo_sentido': 0.156}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.65, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 31. F0241_A17_SEG_003
+score=61.3031 score_base=59.5931 best_profile=consciencia_reflexiva_localizada best_profile_score=34.8073 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=27.5723
+matched_phrases=[]
+matched_terms=['real', 'mediacao', 'cria', 'apreensao', 'reflexiva', 'estabilizacao', 'interna', 'estabiliza', 'experiencia', 'mundo', 'quanto', 'pode', 'interno']
+matched_hints=['mediação', 'mediacao', 'apreensão', 'apreensao', 'consciência reflexiva', 'consciencia reflexiva', 'sistema de símbolos', 'sistema de simbolos', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 3.472, 'linguagem_estabilizacao_partilha_transmissibilidade': 6.872, 'mediacao_transformacao_apreensao_representacao': 27.5723, 'consciencia_reflexiva_localizada': 34.8073, 'representacao_adequacao_verdade_correcao': 13.672, 'linguisticismo_construtivismo_sentido': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 32. F0017_SEG_001
+score=61.0615 score_base=59.3515 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=20.4247 second_profile=consciencia_reflexiva_localizada second_profile_score=12.5227
+matched_phrases=[]
+matched_terms=['real', 'significacao', 'apreensao', 'estabilizacao', 'interna', 'estabiliza', 'mundo', 'quanto', 'nada', 'explicita', 'pode', 'proposicoes', 'interno', 'verdade']
+matched_hints=['significação', 'significacao', 'apreensão', 'apreensao', 'fecho interno', 'coerência interna', 'coerencia interna', 'verdade']
+profile_scores={'simbolo_unidade_operativa_mediacao': 7.3944, 'linguagem_estabilizacao_partilha_transmissibilidade': 9.0944, 'mediacao_transformacao_apreensao_representacao': 20.4247, 'consciencia_reflexiva_localizada': 12.5227, 'representacao_adequacao_verdade_correcao': 10.7944, 'linguisticismo_construtivismo_sentido': 1.964}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 33. F0241_A10_SEG_002
+score=60.9475 score_base=59.2375 best_profile=consciencia_reflexiva_localizada best_profile_score=35.2217 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=29.7167
+matched_phrases=[]
+matched_terms=['sentido', 'real', 'apreensao', 'reflexiva', 'estabilizacao', 'interna', 'estabiliza', 'seguinte', 'nada', 'pode', 'proposicoes', 'interno']
+matched_hints=['sentido', 'apreensão', 'apreensao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'fecho interno', 'coerência interna', 'coerencia interna', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 5.256, 'linguagem_estabilizacao_partilha_transmissibilidade': 7.2864, 'mediacao_transformacao_apreensao_representacao': 29.7167, 'consciencia_reflexiva_localizada': 35.2217, 'representacao_adequacao_verdade_correcao': 16.706, 'linguisticismo_construtivismo_sentido': 13.1864}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.65, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 34. F0055_SEG_001
+score=60.8489 score_base=59.1389 best_profile=consciencia_reflexiva_localizada best_profile_score=31.6914 second_profile=mediacao_transformacao_apreensao_representacao second_profile_score=29.9631
+matched_phrases=[]
+matched_terms=['real', 'representacao', 'reflexiva', 'estabilizacao', 'interna', 'erro', 'estabiliza', 'comum', 'explicita', 'emergente', 'interno', 'categorial']
+matched_hints=['representação', 'representacao', 'consciência', 'consciencia', 'consciência reflexiva', 'consciencia reflexiva', 'fecho interno', 'coerência interna', 'coerencia interna', 'erro categorial', 'erro de escala', 'submissão ao real', 'submissao ao real']
+profile_scores={'simbolo_unidade_operativa_mediacao': 4.722, 'linguagem_estabilizacao_partilha_transmissibilidade': 8.9024, 'mediacao_transformacao_apreensao_representacao': 29.9631, 'consciencia_reflexiva_localizada': 31.6914, 'representacao_adequacao_verdade_correcao': 24.1002, 'linguisticismo_construtivismo_sentido': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 35. F0121_A01_SEG_003
+score=60.7907 score_base=59.0807 best_profile=mediacao_transformacao_apreensao_representacao best_profile_score=21.2167 second_profile=simbolo_unidade_operativa_mediacao second_profile_score=20.4364
+matched_phrases=[]
+matched_terms=['linguagem', 'real', 'simbolo', 'apreensao', 'estabilizacao', 'simbolica', 'simbolos', 'correcao', 'estabiliza', 'simbolizacao', 'linguisticismo']
+matched_hints=['linguagem', 'símbolo', 'simbolo', 'apreensão', 'apreensao', 'estabilização simbólica', 'estabilizacao simbolica', 'sistema de símbolos', 'sistema de simbolos', 'correção', 'correcao', 'linguisticismo']
+profile_scores={'simbolo_unidade_operativa_mediacao': 20.4364, 'linguagem_estabilizacao_partilha_transmissibilidade': 20.3167, 'mediacao_transformacao_apreensao_representacao': 21.2167, 'consciencia_reflexiva_localizada': 0.156, 'representacao_adequacao_verdade_correcao': 7.2864, 'linguisticismo_construtivismo_sentido': 15.7864}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.65, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
