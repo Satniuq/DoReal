@@ -1,0 +1,22 @@
+RELATÓRIO DIAGNÓSTICO METODOLÓGICO — CF03
+
+alignment_classification=pseudo_aligned
+autonomy_classification=autonomous_but_narrow
+recommended_methodological_decision=preservar_com_restricoes
+dominant_corridor=P14_P22
+decision_conflict_flag=False
+
+redecision_class=structural_substitution
+promoted_center=P14,P15,P18,P19,P21,P22
+background_center=P01,P13
+rejected_center=P02,P05
+selected_fragment_ids=F0233_SEG_001,F0235_SEG_001,F0241_A12_SEG_002,F0077_SEG_001,F0236_SEG_001,F0194_SEG_001,F0156_SEG_001,F0117_A01_SEG_003,F0084_A01_SEG_001,F0241_A04_SEG_002,F0110_A01_SEG_001,F0114_A01_SEG_005,F0121_A02_SEG_001,F0122_SEG_001,F0122_SEG_002
+coverage_summary={"nuclear_count": 6, "support_count": 6, "background_count": 5, "capture_risk_count": 6, "contradictory_count": 0, "selected_size": 15, "sample_size_target": 15}
+why_not_aligned=["Existe overlap relevante com o núcleo admissível, mas com pressão arquitetónica ou partilha de fundo ainda significativa."]
+why_corridor_status=["Há corredor dominante, mas sem condições formais de captura."]
+why_neighbor_status=["O overlap com dossiers vizinhos ficou abaixo do limiar significativo."]
+why_altitude_status=["A altitude dominante permaneceu alinhada com a expectativa arquitetónica do confronto."]
+why_not_preserve=["A preservação simples esconderia fundo partilhado, pressão de altitude ou necessidade de recentramento fino."]
+decision_rationale=["Existe núcleo próprio reconhecível, mas ainda com deslocações que exigem restrições e vigilância metodológica."]
+consistency_warnings=[]
+consistency_errors=[]
