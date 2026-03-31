@@ -1,7 +1,7 @@
 {
   "metadata": {
     "script_name": "selecionar_fragmentos_relevantes_dossier_v4.py",
-    "generated_at_utc": "2026-03-29T13:37:52+00:00",
+    "generated_at_utc": "2026-03-30T22:51:38+00:00",
     "confronto_id": "CF03",
     "mode": "local_auditavel_sem_api",
     "strict_mode": false,
@@ -36,9 +36,9 @@
     "dossier": "16_validacao_integral\\05_dossiers_reformulados\\CF03_dossier_confronto_REFORMULADO.md",
     "config_current": "16_validacao_integral\\scripts\\config_dossier_CF03_v4.json",
     "base_fragmentaria": "16_validacao_integral\\04_bases_fragmentarias_confrontos\\CF03_base_fragmentaria.json",
-    "diagnostic::CF03_diagnostico_metodologico_v4.json": "16_validacao_integral\\04_bases_fragmentarias_confrontos\\diagnosticos_v4\\CF03_diagnostico_metodologico_v4.json",
-    "diagnostic::CF03_diagnostico_metodologico_v4.md": "16_validacao_integral\\04_bases_fragmentarias_confrontos\\diagnosticos_v4\\CF03_diagnostico_metodologico_v4.md",
-    "diagnostic::relatorio_diagnostico_metodologico_CF03_v4.txt": "16_validacao_integral\\02_outputs\\relatorio_diagnostico_metodologico_CF03_v4.txt"
+    "diagnostic::CF03_diagnostico_metodologico_v4.json": "outputs_dossier_v4\\CF03_diagnostico_metodologico_v4.json",
+    "diagnostic::CF03_diagnostico_metodologico_v4.md": "outputs_dossier_v4\\CF03_diagnostico_metodologico_v4.md",
+    "diagnostic::relatorio_diagnostico_metodologico_CF03_v4.txt": "outputs_dossier_v4\\relatorio_diagnostico_metodologico_CF03_v4.txt"
   },
   "normative_precedence": [
     {
@@ -600,26 +600,6 @@
         "Baseline subsidiária da adjudicação restrita.",
         "Baseline fraca da matriz de confronto.",
         "Regra CF03: núcleo obrigatório do dossier reformulado."
-      ],
-      "P01": [
-        "Baseline subsidiária da adjudicação restrita.",
-        "Baseline fraca da matriz de confronto."
-      ],
-      "P02": [
-        "Baseline subsidiária da adjudicação restrita.",
-        "Baseline fraca da matriz de confronto."
-      ],
-      "P05": [
-        "Baseline subsidiária da adjudicação restrita.",
-        "Baseline fraca da matriz de confronto."
-      ],
-      "P13": [
-        "Baseline subsidiária da adjudicação restrita.",
-        "Baseline fraca da matriz de confronto."
-      ],
-      "P45": [
-        "Baseline subsidiária da adjudicação restrita.",
-        "Baseline fraca da matriz de confronto."
       ]
     },
     "rejected_reasons": {
@@ -635,36 +615,99 @@
     "notes": [
       "Regra CF03 aplicada: P14/P15/P18/P19/P21/P22 promovidas; P01/P13 fundo; P02/P05 descentradas.",
       "Regra CF03 aplicada: P23_P30 proibido como centro soberano automático."
-    ]
+    ],
+    "background_reasons": {
+      "P01": [
+        "Baseline subsidiária da adjudicação restrita.",
+        "Baseline fraca da matriz de confronto.",
+        "Fundo explicitamente declarado no dossier reformulado."
+      ],
+      "P13": [
+        "Baseline subsidiária da adjudicação restrita.",
+        "Baseline fraca da matriz de confronto.",
+        "Fundo explicitamente declarado no dossier reformulado."
+      ]
+    },
+    "suppressed_baseline_promotions": {
+      "P02": [
+        "Baseline subsidiária da adjudicação restrita.",
+        "Baseline fraca da matriz de confronto."
+      ],
+      "P05": [
+        "Baseline subsidiária da adjudicação restrita.",
+        "Baseline fraca da matriz de confronto."
+      ],
+      "P45": [
+        "Baseline subsidiária da adjudicação restrita.",
+        "Baseline fraca da matriz de confronto."
+      ]
+    }
   },
   "fragment_sample": {
     "selected_fragment_ids": [
-      "F0233_SEG_001",
-      "F0235_SEG_001",
+      "F0241_A19_SEG_002",
+      "F0189_SEG_001",
+      "F0194_SEG_001",
       "F0241_A12_SEG_002",
       "F0077_SEG_001",
+      "F0241_A11_SEG_005",
+      "F0233_SEG_001",
+      "F0235_SEG_001",
       "F0236_SEG_001",
-      "F0194_SEG_001",
       "F0156_SEG_001",
+      "F0076_SEG_004",
       "F0117_A01_SEG_003",
-      "F0084_A01_SEG_001",
-      "F0241_A04_SEG_002",
-      "F0110_A01_SEG_001",
-      "F0114_A01_SEG_005",
-      "F0121_A02_SEG_001",
-      "F0122_SEG_001",
-      "F0122_SEG_002"
+      "F0077_SEG_002",
+      "F0122_SEG_002",
+      "F0201_SEG_001"
     ],
     "ranked_fragments": [
       {
         "fragment_id": "F0241_A19_SEG_002",
-        "overall_selection_score": 0.75166,
+        "overall_selection_score": 0.88166,
         "base_strength": 0.873533,
         "nuclearity": 1.0,
         "mediationality": 0.0,
         "epistemic_weight": 0.0,
-        "corridor_capture": 0.65,
+        "corridor_capture": 0.0,
         "higher_axis_capture": 0.0,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0189_SEG_001",
+        "overall_selection_score": 0.798744,
+        "base_strength": 0.597146,
+        "nuclearity": 1.0,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0104_A01_SEG_001",
+        "overall_selection_score": 0.714787,
+        "base_strength": 0.854867,
+        "nuclearity": 1.0,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.1,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.818182,
         "categories": [
           "nuclear",
           "capture_risk"
@@ -673,27 +716,85 @@
           "forte base fragmentária",
           "overlap nuclear relevante",
           "corredor opera como suporte",
-          "risco de captura de corredor",
+          "pressão de eixo arquitetónico mais alto",
           "bom alinhamento declarado"
         ]
       },
       {
-        "fragment_id": "F0189_SEG_001",
-        "overall_selection_score": 0.668744,
-        "base_strength": 0.597146,
-        "nuclearity": 1.0,
+        "fragment_id": "F0241_A12_SEG_002",
+        "overall_selection_score": 0.69107,
+        "base_strength": 0.911867,
+        "nuclearity": 0.626866,
         "mediationality": 0.0,
         "epistemic_weight": 0.0,
-        "corridor_capture": 0.65,
+        "corridor_capture": 0.0,
         "higher_axis_capture": 0.0,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0092_SEG_001",
+        "overall_selection_score": 0.661183,
+        "base_strength": 0.676184,
+        "nuclearity": 1.0,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.1,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.818182,
         "categories": [
           "nuclear",
           "capture_risk"
         ],
         "rationale": [
+          "forte base fragmentária",
           "overlap nuclear relevante",
           "corredor opera como suporte",
-          "risco de captura de corredor",
+          "pressão de eixo arquitetónico mais alto",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0077_SEG_001",
+        "overall_selection_score": 0.656791,
+        "base_strength": 0.837756,
+        "nuclearity": 0.655731,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0241_A11_SEG_005",
+        "overall_selection_score": 0.649574,
+        "base_strength": 0.830644,
+        "nuclearity": 0.595238,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
           "bom alinhamento declarado"
         ]
       },
@@ -732,53 +833,13 @@
         ]
       },
       {
-        "fragment_id": "F0241_A12_SEG_002",
-        "overall_selection_score": 0.609578,
-        "base_strength": 0.911867,
-        "nuclearity": 0.626866,
+        "fragment_id": "F0095_SEG_002",
+        "overall_selection_score": 0.632864,
+        "base_strength": 0.900422,
+        "nuclearity": 0.850547,
         "mediationality": 0.0,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.407463,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0077_SEG_001",
-        "overall_selection_score": 0.571546,
-        "base_strength": 0.837756,
-        "nuclearity": 0.655731,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.426225,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0104_A01_SEG_001",
-        "overall_selection_score": 0.548787,
-        "base_strength": 0.854867,
-        "nuclearity": 1.0,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.1,
-        "corridor_capture": 0.83,
+        "epistemic_weight": 0.204617,
+        "corridor_capture": 0.0,
         "higher_axis_capture": 0.818182,
         "categories": [
           "nuclear",
@@ -788,20 +849,19 @@
           "forte base fragmentária",
           "overlap nuclear relevante",
           "corredor opera como suporte",
-          "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto",
           "bom alinhamento declarado"
         ]
       },
       {
-        "fragment_id": "F0092_SEG_001",
-        "overall_selection_score": 0.495183,
-        "base_strength": 0.676184,
-        "nuclearity": 1.0,
+        "fragment_id": "F0058_SEG_003",
+        "overall_selection_score": 0.597144,
+        "base_strength": 0.874867,
+        "nuclearity": 0.816176,
         "mediationality": 0.0,
-        "epistemic_weight": 0.1,
-        "corridor_capture": 0.83,
-        "higher_axis_capture": 0.818182,
+        "epistemic_weight": 0.155147,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.909091,
         "categories": [
           "nuclear",
           "capture_risk"
@@ -810,19 +870,18 @@
           "forte base fragmentária",
           "overlap nuclear relevante",
           "corredor opera como suporte",
-          "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto",
           "bom alinhamento declarado"
         ]
       },
       {
         "fragment_id": "F0236_SEG_001",
-        "overall_selection_score": 0.491417,
+        "overall_selection_score": 0.550425,
         "base_strength": 0.901644,
         "nuclearity": 0.45391,
         "mediationality": 0.0,
         "epistemic_weight": 0.0,
-        "corridor_capture": 0.295042,
+        "corridor_capture": 0.0,
         "higher_axis_capture": 0.0,
         "categories": [
           "nuclear",
@@ -837,56 +896,13 @@
         ]
       },
       {
-        "fragment_id": "F0241_A11_SEG_005",
-        "overall_selection_score": 0.491241,
-        "base_strength": 0.830644,
-        "nuclearity": 0.595238,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.791667,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0095_SEG_002",
-        "overall_selection_score": 0.486293,
-        "base_strength": 0.900422,
-        "nuclearity": 0.850547,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.204617,
-        "corridor_capture": 0.732855,
-        "higher_axis_capture": 0.818182,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "pressão de eixo arquitetónico mais alto",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
         "fragment_id": "F0156_SEG_001",
-        "overall_selection_score": 0.472999,
+        "overall_selection_score": 0.524097,
         "base_strength": 0.8742,
         "nuclearity": 0.393064,
         "mediationality": 0.0,
         "epistemic_weight": 0.0,
-        "corridor_capture": 0.255491,
+        "corridor_capture": 0.0,
         "higher_axis_capture": 0.0,
         "categories": [
           "background"
@@ -898,13 +914,73 @@
         ]
       },
       {
+        "fragment_id": "F0241_A04_SEG_002",
+        "overall_selection_score": 0.495891,
+        "base_strength": 0.906978,
+        "nuclearity": 0.646793,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.205962,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.818182,
+        "categories": [
+          "nuclear",
+          "background",
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "fundo partilhado relevante",
+          "corredor opera como suporte",
+          "pressão de eixo arquitetónico mais alto",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0076_SEG_004",
+        "overall_selection_score": 0.480286,
+        "base_strength": 0.565361,
+        "nuclearity": 0.442379,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.034572,
+        "higher_axis_capture": 0.0,
+        "categories": [],
+        "rationale": [
+          "corredor opera como suporte"
+        ]
+      },
+      {
+        "fragment_id": "F0084_A01_SEG_001",
+        "overall_selection_score": 0.466861,
+        "base_strength": 0.915422,
+        "nuclearity": 0.593388,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.221984,
+        "corridor_capture": 0.001984,
+        "higher_axis_capture": 0.818182,
+        "categories": [
+          "nuclear",
+          "background",
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "fundo partilhado relevante",
+          "corredor opera como suporte",
+          "pressão de eixo arquitetónico mais alto",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
         "fragment_id": "F0117_A01_SEG_003",
-        "overall_selection_score": 0.461278,
+        "overall_selection_score": 0.451668,
         "base_strength": 0.9002,
         "nuclearity": 0.417793,
         "mediationality": 0.0,
         "epistemic_weight": 0.0,
-        "corridor_capture": 0.565294,
+        "corridor_capture": 0.613345,
         "higher_axis_capture": 0.0,
         "categories": [
           "capture_risk"
@@ -932,73 +1008,18 @@
         ]
       },
       {
-        "fragment_id": "F0058_SEG_003",
-        "overall_selection_score": 0.418277,
-        "base_strength": 0.874867,
-        "nuclearity": 0.816176,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.155147,
-        "corridor_capture": 0.894338,
-        "higher_axis_capture": 0.909091,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
+        "fragment_id": "F0077_SEG_002",
+        "overall_selection_score": 0.332513,
+        "base_strength": 0.657702,
+        "nuclearity": 0.181906,
+        "mediationality": 0.019666,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.190857,
+        "higher_axis_capture": 0.0,
+        "categories": [],
         "rationale": [
           "forte base fragmentária",
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "pressão de eixo arquitetónico mais alto",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0241_A04_SEG_002",
-        "overall_selection_score": 0.375808,
-        "base_strength": 0.906978,
-        "nuclearity": 0.646793,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.205962,
-        "corridor_capture": 0.600415,
-        "higher_axis_capture": 0.818182,
-        "categories": [
-          "nuclear",
-          "background",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "fundo partilhado relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "pressão de eixo arquitetónico mais alto",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0084_A01_SEG_001",
-        "overall_selection_score": 0.354117,
-        "base_strength": 0.915422,
-        "nuclearity": 0.593388,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.221984,
-        "corridor_capture": 0.565702,
-        "higher_axis_capture": 0.818182,
-        "categories": [
-          "nuclear",
-          "background",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "fundo partilhado relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "pressão de eixo arquitetónico mais alto",
-          "bom alinhamento declarado"
+          "corredor opera como suporte"
         ]
       },
       {
@@ -1019,20 +1040,22 @@
         ]
       },
       {
-        "fragment_id": "F0076_SEG_004",
-        "overall_selection_score": 0.318167,
-        "base_strength": 0.565361,
-        "nuclearity": 0.442379,
+        "fragment_id": "F0110_A01_SEG_002",
+        "overall_selection_score": 0.328592,
+        "base_strength": 0.520903,
+        "nuclearity": 0.549451,
         "mediationality": 0.0,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.845167,
-        "higher_axis_capture": 0.0,
+        "epistemic_weight": 0.185165,
+        "corridor_capture": 0.15033,
+        "higher_axis_capture": 0.818182,
         "categories": [
+          "nuclear",
           "capture_risk"
         ],
         "rationale": [
+          "overlap nuclear relevante",
           "corredor opera como suporte",
-          "risco de captura de corredor"
+          "pressão de eixo arquitetónico mais alto"
         ]
       },
       {
@@ -1106,112 +1129,6 @@
         ]
       },
       {
-        "fragment_id": "F0077_SEG_002",
-        "overall_selection_score": 0.183417,
-        "base_strength": 0.657702,
-        "nuclearity": 0.181906,
-        "mediationality": 0.019666,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.936333,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "corredor opera como suporte",
-          "risco de captura de corredor"
-        ]
-      },
-      {
-        "fragment_id": "F0110_A01_SEG_002",
-        "overall_selection_score": 0.161119,
-        "base_strength": 0.520903,
-        "nuclearity": 0.549451,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.185165,
-        "corridor_capture": 0.987692,
-        "higher_axis_capture": 0.818182,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
-        "rationale": [
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "pressão de eixo arquitetónico mais alto"
-        ]
-      },
-      {
-        "fragment_id": "F0121_A02_SEG_001",
-        "overall_selection_score": 0.136382,
-        "base_strength": 0.712384,
-        "nuclearity": 0.0,
-        "mediationality": 0.483333,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "mediational"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "material mediacional relevante"
-        ]
-      },
-      {
-        "fragment_id": "F0122_SEG_001",
-        "overall_selection_score": 0.134135,
-        "base_strength": 0.866733,
-        "nuclearity": 0.0,
-        "mediationality": 0.483333,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "mediational"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "material mediacional relevante"
-        ]
-      },
-      {
-        "fragment_id": "F0122_SEG_002",
-        "overall_selection_score": 0.131357,
-        "base_strength": 0.857644,
-        "nuclearity": 0.0,
-        "mediationality": 0.483333,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "mediational"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "material mediacional relevante"
-        ]
-      },
-      {
-        "fragment_id": "F0121_A02_SEG_002",
-        "overall_selection_score": 0.116711,
-        "base_strength": 0.646813,
-        "nuclearity": 0.0,
-        "mediationality": 0.483333,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "mediational"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "material mediacional relevante"
-        ]
-      },
-      {
         "fragment_id": "F0241_A14_SEG_004",
         "overall_selection_score": 0.107855,
         "base_strength": 0.40396,
@@ -1272,22 +1189,6 @@
         "rationale": []
       },
       {
-        "fragment_id": "F0123_SEG_003",
-        "overall_selection_score": 0.082118,
-        "base_strength": 0.531506,
-        "nuclearity": 0.0,
-        "mediationality": 0.483333,
-        "epistemic_weight": 0.0,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "categories": [
-          "mediational"
-        ],
-        "rationale": [
-          "material mediacional relevante"
-        ]
-      },
-      {
         "fragment_id": "F0118_SEG_001",
         "overall_selection_score": 0.081735,
         "base_strength": 0.316894,
@@ -1313,24 +1214,6 @@
         ],
         "rationale": [
           "forte base fragmentária",
-          "pressão de eixo arquitetónico mais alto"
-        ]
-      },
-      {
-        "fragment_id": "F0062_A01_SEG_001",
-        "overall_selection_score": 0.07389,
-        "base_strength": 0.912533,
-        "nuclearity": 0.373134,
-        "mediationality": 0.219403,
-        "epistemic_weight": 0.28806,
-        "corridor_capture": 0.896269,
-        "higher_axis_capture": 0.818182,
-        "categories": [
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
       },
@@ -1410,6 +1293,61 @@
         ]
       },
       {
+        "fragment_id": "F0121_A02_SEG_001",
+        "overall_selection_score": 0.046382,
+        "base_strength": 0.712384,
+        "nuclearity": 0.0,
+        "mediationality": 0.483333,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.5,
+        "categories": [
+          "mediational",
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "material mediacional relevante",
+          "pressão de eixo arquitetónico mais alto"
+        ]
+      },
+      {
+        "fragment_id": "F0122_SEG_001",
+        "overall_selection_score": 0.044135,
+        "base_strength": 0.866733,
+        "nuclearity": 0.0,
+        "mediationality": 0.483333,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.5,
+        "categories": [
+          "mediational",
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "material mediacional relevante",
+          "pressão de eixo arquitetónico mais alto"
+        ]
+      },
+      {
+        "fragment_id": "F0190_SEG_001",
+        "overall_selection_score": 0.043878,
+        "base_strength": 0.911867,
+        "nuclearity": 0.0,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.300322,
+        "corridor_capture": 0.938184,
+        "higher_axis_capture": 0.0,
+        "categories": [
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "risco de captura de corredor"
+        ]
+      },
+      {
         "fragment_id": "F0109_SEG_002",
         "overall_selection_score": 0.043826,
         "base_strength": 0.856422,
@@ -1427,30 +1365,32 @@
         ]
       },
       {
-        "fragment_id": "F0190_SEG_001",
-        "overall_selection_score": 0.037354,
-        "base_strength": 0.911867,
+        "fragment_id": "F0122_SEG_002",
+        "overall_selection_score": 0.041357,
+        "base_strength": 0.857644,
         "nuclearity": 0.0,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.300322,
-        "corridor_capture": 0.970804,
-        "higher_axis_capture": 0.0,
+        "mediationality": 0.483333,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.5,
         "categories": [
+          "mediational",
           "capture_risk"
         ],
         "rationale": [
           "forte base fragmentária",
-          "risco de captura de corredor"
+          "material mediacional relevante",
+          "pressão de eixo arquitetónico mais alto"
         ]
       },
       {
         "fragment_id": "F0241_A15_SEG_002",
-        "overall_selection_score": 0.036623,
+        "overall_selection_score": 0.038767,
         "base_strength": 0.9352,
         "nuclearity": 0.0,
         "mediationality": 0.083333,
         "epistemic_weight": 0.241922,
-        "corridor_capture": 0.824806,
+        "corridor_capture": 0.814085,
         "higher_axis_capture": 0.0,
         "categories": [
           "background",
@@ -1479,20 +1419,38 @@
         ]
       },
       {
-        "fragment_id": "F0212_SEG_001",
-        "overall_selection_score": 0.007512,
-        "base_strength": 0.882756,
-        "nuclearity": 0.395349,
-        "mediationality": 0.211628,
-        "epistemic_weight": 0.231395,
-        "corridor_capture": 0.866279,
+        "fragment_id": "F0121_A02_SEG_002",
+        "overall_selection_score": 0.026711,
+        "base_strength": 0.646813,
+        "nuclearity": 0.0,
+        "mediationality": 0.483333,
+        "epistemic_weight": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.5,
+        "categories": [
+          "mediational",
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "material mediacional relevante",
+          "pressão de eixo arquitetónico mais alto"
+        ]
+      },
+      {
+        "fragment_id": "F0062_A01_SEG_001",
+        "overall_selection_score": 0.020234,
+        "base_strength": 0.912533,
+        "nuclearity": 0.373134,
+        "mediationality": 0.219403,
+        "epistemic_weight": 0.28806,
+        "corridor_capture": 0.919552,
         "higher_axis_capture": 0.818182,
         "categories": [
           "capture_risk"
         ],
         "rationale": [
           "forte base fragmentária",
-          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1548,6 +1506,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1567,6 +1526,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1586,6 +1546,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1643,6 +1604,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1681,6 +1643,7 @@
         ],
         "rationale": [
           "forte base fragmentária",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor"
         ]
       },
@@ -1699,6 +1662,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1766,7 +1730,7 @@
         "nuclearity": 0.0,
         "mediationality": 0.0,
         "epistemic_weight": 0.569492,
-        "corridor_capture": 0.976271,
+        "corridor_capture": 0.969831,
         "higher_axis_capture": 0.818182,
         "categories": [
           "capture_risk"
@@ -1793,6 +1757,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1849,6 +1814,7 @@
         ],
         "rationale": [
           "forte base fragmentária",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1868,6 +1834,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1887,6 +1854,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1905,6 +1873,7 @@
         ],
         "rationale": [
           "forte base fragmentária",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -1936,7 +1905,7 @@
         "mediationality": 0.833333,
         "epistemic_weight": 0.364607,
         "corridor_capture": 1.0,
-        "higher_axis_capture": 0.0,
+        "higher_axis_capture": 0.5,
         "categories": [
           "mediational",
           "capture_risk"
@@ -1944,7 +1913,8 @@
         "rationale": [
           "forte base fragmentária",
           "material mediacional relevante",
-          "risco de captura de corredor"
+          "risco de captura de corredor",
+          "pressão de eixo arquitetónico mais alto"
         ]
       },
       {
@@ -1954,7 +1924,7 @@
         "nuclearity": 0.0,
         "mediationality": 0.433333,
         "epistemic_weight": 0.0,
-        "corridor_capture": 1.0,
+        "corridor_capture": 0.990426,
         "higher_axis_capture": 0.0,
         "categories": [
           "mediational",
@@ -1973,7 +1943,7 @@
         "nuclearity": 0.0,
         "mediationality": 0.0,
         "epistemic_weight": 0.519492,
-        "corridor_capture": 0.976271,
+        "corridor_capture": 0.969831,
         "higher_axis_capture": 0.818182,
         "categories": [
           "capture_risk"
@@ -2001,6 +1971,25 @@
           "forte base fragmentária",
           "overlap relevante com dossier vizinho",
           "risco de captura de corredor"
+        ]
+      },
+      {
+        "fragment_id": "F0212_SEG_001",
+        "overall_selection_score": 0.0,
+        "base_strength": 0.882756,
+        "nuclearity": 0.395349,
+        "mediationality": 0.211628,
+        "epistemic_weight": 0.231395,
+        "corridor_capture": 0.895116,
+        "higher_axis_capture": 0.818182,
+        "categories": [
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap relevante com dossier vizinho",
+          "risco de captura de corredor",
+          "pressão de eixo arquitetónico mais alto"
         ]
       },
       {
@@ -2038,6 +2027,7 @@
         "rationale": [
           "forte base fragmentária",
           "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
@@ -2049,7 +2039,7 @@
         "nuclearity": 0.0,
         "mediationality": 0.083333,
         "epistemic_weight": 0.300322,
-        "corridor_capture": 0.970804,
+        "corridor_capture": 0.938184,
         "higher_axis_capture": 0.0,
         "categories": [
           "capture_risk"
@@ -2091,72 +2081,189 @@
         ],
         "rationale": [
           "forte base fragmentária",
+          "overlap relevante com dossier vizinho",
+          "risco de captura de corredor",
+          "pressão de eixo arquitetónico mais alto"
+        ]
+      },
+      {
+        "fragment_id": "F0241_A05_SEG_001",
+        "overall_selection_score": 0.0,
+        "base_strength": 0.868978,
+        "nuclearity": 0.0,
+        "mediationality": 0.35,
+        "epistemic_weight": 0.620011,
+        "corridor_capture": 1.0,
+        "higher_axis_capture": 0.818182,
+        "categories": [
+          "capture_risk"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "peso epistemológico deslocado",
+          "overlap relevante com dossier vizinho",
           "risco de captura de corredor",
           "pressão de eixo arquitetónico mais alto"
         ]
       }
     ],
     "coverage_summary": {
-      "nuclear_count": 6,
-      "support_count": 6,
-      "background_count": 5,
-      "capture_risk_count": 6,
+      "nuclear_count": 12,
+      "support_count": 9,
+      "background_count": 3,
+      "capture_risk_count": 2,
       "contradictory_count": 0,
+      "representative_zero_nuclearity_count": 0,
+      "missing_promoted_count": 4,
       "selected_size": 15,
       "sample_size_target": 15
     },
     "nuclear_fragments": [
+      "F0241_A19_SEG_002",
+      "F0189_SEG_001",
+      "F0194_SEG_001",
+      "F0241_A12_SEG_002",
+      "F0077_SEG_001",
+      "F0241_A11_SEG_005",
       "F0233_SEG_001",
       "F0235_SEG_001",
-      "F0241_A12_SEG_002",
-      "F0077_SEG_001",
-      "F0236_SEG_001",
-      "F0194_SEG_001"
-    ],
-    "mediational_fragments": [
-      "F0241_A12_SEG_002",
-      "F0077_SEG_001",
       "F0236_SEG_001",
       "F0156_SEG_001",
-      "F0117_A01_SEG_003",
-      "F0084_A01_SEG_001"
+      "F0076_SEG_004",
+      "F0117_A01_SEG_003"
+    ],
+    "mediational_fragments": [
+      "F0122_SEG_002"
     ],
     "background_fragments": [
       "F0236_SEG_001",
       "F0156_SEG_001",
-      "F0084_A01_SEG_001",
-      "F0241_A04_SEG_002",
-      "F0110_A01_SEG_001"
+      "F0201_SEG_001"
     ],
     "capture_risk_fragments": [
+      "F0117_A01_SEG_003",
+      "F0122_SEG_002"
+    ],
+    "contradictory_fragments": [],
+    "excluded_high_score_fragments_with_reason": [
+      {
+        "fragment_id": "F0104_A01_SEG_001",
+        "score": 0.714787,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0092_SEG_001",
+        "score": 0.661183,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0095_SEG_002",
+        "score": 0.632864,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0058_SEG_003",
+        "score": 0.597144,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0241_A04_SEG_002",
+        "score": 0.495891,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0084_A01_SEG_001",
+        "score": 0.466861,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0077_SEG_002",
+        "score": 0.332513,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0088_A01_SEG_003",
+        "score": 0.331102,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0110_A01_SEG_002",
+        "score": 0.328592,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0114_A01_SEG_005",
+        "score": 0.239433,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0206_SEG_001",
+        "score": 0.228537,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0110_A01_SEG_001",
+        "score": 0.208964,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      }
+    ],
+    "selection_warnings": [
+      "O sample representativo não cobriu suficientemente proposições promovidas: P18, P19, P21, P22.",
+      "O sample representativo ainda contém fragmentos com risco estrutural de captura: F0117_A01_SEG_003, F0122_SEG_002."
+    ],
+    "representative_fragment_ids": [
       "F0241_A19_SEG_002",
       "F0189_SEG_001",
+      "F0194_SEG_001",
       "F0241_A12_SEG_002",
       "F0077_SEG_001",
+      "F0241_A11_SEG_005",
+      "F0233_SEG_001",
+      "F0235_SEG_001",
+      "F0236_SEG_001",
+      "F0156_SEG_001",
+      "F0076_SEG_004",
+      "F0117_A01_SEG_003",
+      "F0077_SEG_002",
+      "F0122_SEG_002",
+      "F0201_SEG_001"
+    ],
+    "contrastive_fragment_ids": [
       "F0104_A01_SEG_001",
       "F0092_SEG_001",
-      "F0241_A11_SEG_005",
       "F0095_SEG_002",
-      "F0117_A01_SEG_003",
       "F0058_SEG_003",
       "F0241_A04_SEG_002",
       "F0084_A01_SEG_001",
+      "F0077_SEG_002",
       "F0088_A01_SEG_003",
-      "F0076_SEG_004",
+      "F0110_A01_SEG_002",
+      "F0114_A01_SEG_005",
       "F0206_SEG_001",
       "F0110_A01_SEG_001",
       "F0111_A02_SEG_003",
-      "F0077_SEG_002",
-      "F0110_A01_SEG_002",
+      "F0241_A14_SEG_004",
+      "F0197_SEG_001",
+      "F0188_SEG_001",
+      "F0233_SEG_002",
+      "F0229_SEG_001",
+      "F0118_SEG_001",
       "F0208_SEG_001",
-      "F0062_A01_SEG_001",
       "F0204_SEG_001",
       "F0241_A12_SEG_001",
+      "F0231_SEG_001",
+      "F0192_SEG_001",
       "F0207_SEG_001",
-      "F0109_SEG_002",
+      "F0121_A02_SEG_001",
+      "F0122_SEG_001",
       "F0190_SEG_001",
+      "F0109_SEG_002",
+      "F0122_SEG_002",
       "F0241_A15_SEG_002",
-      "F0212_SEG_001",
+      "F0201_SEG_001",
+      "F0121_A02_SEG_002",
+      "F0062_A01_SEG_001",
+      "F0231_SEG_002",
       "F0241_A04_SEG_001",
       "F0061_SEG_002",
       "F0084_A02_SEG_002",
@@ -2183,282 +2290,520 @@
       "F0149_SEG_001",
       "F0111_A01_SEG_004",
       "F0200_SEG_001",
+      "F0212_SEG_001",
       "F0058_SEG_001",
       "F0104_A01_SEG_002",
       "F0148_SEG_001",
       "F0205_SEG_001",
-      "F0111_A02_SEG_002"
+      "F0111_A02_SEG_002",
+      "F0241_A05_SEG_001"
     ],
-    "contradictory_fragments": [],
-    "excluded_high_score_fragments_with_reason": [
-      {
-        "fragment_id": "F0241_A19_SEG_002",
-        "score": 0.75166,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
-      },
-      {
-        "fragment_id": "F0189_SEG_001",
-        "score": 0.668744,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
-      },
+    "support_fragment_ids": [
+      "F0241_A19_SEG_002",
+      "F0189_SEG_001",
+      "F0241_A12_SEG_002",
+      "F0077_SEG_001",
+      "F0241_A11_SEG_005",
+      "F0236_SEG_001",
+      "F0156_SEG_001",
+      "F0076_SEG_004",
+      "F0077_SEG_002"
+    ],
+    "coverage_by_promoted_id": {
+      "P14": 0.47864,
+      "P15": 0.811485,
+      "P18": 0.209396,
+      "P19": 0.0,
+      "P21": 0.011065,
+      "P22": 0.014359
+    },
+    "missing_promoted_ids": [
+      "P18",
+      "P19",
+      "P21",
+      "P22"
+    ],
+    "contrastive_fragments_with_reason": [
       {
         "fragment_id": "F0104_A01_SEG_001",
-        "score": 0.548787,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "score": 0.714787,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0092_SEG_001",
-        "score": 0.495183,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
-      },
-      {
-        "fragment_id": "F0241_A11_SEG_005",
-        "score": 0.491241,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "score": 0.661183,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0095_SEG_002",
-        "score": 0.486293,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "score": 0.632864,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0058_SEG_003",
-        "score": 0.418277,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "score": 0.597144,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0241_A04_SEG_002",
+        "score": 0.495891,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0084_A01_SEG_001",
+        "score": 0.466861,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0077_SEG_002",
+        "score": 0.332513,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
       },
       {
         "fragment_id": "F0088_A01_SEG_003",
         "score": 0.331102,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
-        "fragment_id": "F0076_SEG_004",
-        "score": 0.318167,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "fragment_id": "F0110_A01_SEG_002",
+        "score": 0.328592,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0114_A01_SEG_005",
+        "score": 0.239433,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
       },
       {
         "fragment_id": "F0206_SEG_001",
         "score": 0.228537,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0110_A01_SEG_001",
+        "score": 0.208964,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0111_A02_SEG_003",
         "score": 0.195834,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
-        "fragment_id": "F0077_SEG_002",
-        "score": 0.183417,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "fragment_id": "F0241_A14_SEG_004",
+        "score": 0.107855,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
       },
       {
-        "fragment_id": "F0110_A01_SEG_002",
-        "score": 0.161119,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "fragment_id": "F0197_SEG_001",
+        "score": 0.10108,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0188_SEG_001",
+        "score": 0.096835,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0233_SEG_002",
+        "score": 0.092801,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0229_SEG_001",
+        "score": 0.091635,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0118_SEG_001",
+        "score": 0.081735,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
       },
       {
         "fragment_id": "F0208_SEG_001",
         "score": 0.075352,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
-      },
-      {
-        "fragment_id": "F0062_A01_SEG_001",
-        "score": 0.07389,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0204_SEG_001",
         "score": 0.067987,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0241_A12_SEG_001",
         "score": 0.06546,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0231_SEG_001",
+        "score": 0.06288,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0192_SEG_001",
+        "score": 0.056035,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
       },
       {
         "fragment_id": "F0207_SEG_001",
         "score": 0.055145,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0121_A02_SEG_001",
+        "score": 0.046382,
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
+      },
+      {
+        "fragment_id": "F0122_SEG_001",
+        "score": 0.044135,
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
+      },
+      {
+        "fragment_id": "F0190_SEG_001",
+        "score": 0.043878,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0109_SEG_002",
         "score": 0.043826,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
-        "fragment_id": "F0190_SEG_001",
-        "score": 0.037354,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "fragment_id": "F0122_SEG_002",
+        "score": 0.041357,
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
       },
       {
         "fragment_id": "F0241_A15_SEG_002",
-        "score": 0.036623,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "score": 0.038767,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
-        "fragment_id": "F0212_SEG_001",
-        "score": 0.007512,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "fragment_id": "F0201_SEG_001",
+        "score": 0.028668,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
+      },
+      {
+        "fragment_id": "F0121_A02_SEG_002",
+        "score": 0.026711,
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
+      },
+      {
+        "fragment_id": "F0062_A01_SEG_001",
+        "score": 0.020234,
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0231_SEG_002",
+        "score": 0.006801,
+        "reason": "excluído do sample representativo por não atingir representatividade mínima"
       },
       {
         "fragment_id": "F0241_A04_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0061_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0084_A02_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0070_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0093_A01_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0108_A01_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0092_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0241_A03_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0241_A14_SEG_003",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
       },
       {
         "fragment_id": "F0211_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0213_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0093_A01_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0061_SEG_003",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0062_A01_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0084_A01_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0110_A01_SEG_003",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0059_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0061_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0108_A02_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0104_A01_SEG_005",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0108_A02_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0214_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0123_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
       },
       {
         "fragment_id": "F0149_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
       },
       {
         "fragment_id": "F0111_A01_SEG_004",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0200_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0212_SEG_001",
+        "score": 0.0,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0058_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0104_A01_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional"
       },
       {
         "fragment_id": "F0148_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0205_SEG_001",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
       },
       {
         "fragment_id": "F0111_A02_SEG_002",
         "score": 0.0,
-        "reason": "retido apenas como contraste diagnóstico, não como sample representativo"
+        "reason": "retido como contraste diagnóstico por risco de captura"
+      },
+      {
+        "fragment_id": "F0241_A05_SEG_001",
+        "score": 0.0,
+        "reason": "retido como contraste diagnóstico por risco de captura"
       }
     ],
-    "selection_warnings": [],
+    "selection_quality_flags": [
+      "missing_promoted_prop_coverage",
+      "representative_sample_contains_capture_risk"
+    ],
     "selected_fragment_vectors": [
+      {
+        "fragment_id": "F0241_A19_SEG_002",
+        "base_strength": 0.873533,
+        "nuclearity": 1.0,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 0.0,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.9,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.78,
+        "overall_selection_score": 0.88166,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0189_SEG_001",
+        "base_strength": 0.597146,
+        "nuclearity": 1.0,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 0.0,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.9,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.78,
+        "overall_selection_score": 0.798744,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0194_SEG_001",
+        "base_strength": 0.545565,
+        "nuclearity": 0.5,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 0.0,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.125,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.39,
+        "overall_selection_score": 0.43447,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "overlap nuclear relevante"
+        ]
+      },
+      {
+        "fragment_id": "F0241_A12_SEG_002",
+        "base_strength": 0.911867,
+        "nuclearity": 0.626866,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 0.0,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.806716,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.488955,
+        "overall_selection_score": 0.69107,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0077_SEG_001",
+        "base_strength": 0.837756,
+        "nuclearity": 0.655731,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 0.344269,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.813933,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.573439,
+        "overall_selection_score": 0.656791,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
+      {
+        "fragment_id": "F0241_A11_SEG_005",
+        "base_strength": 0.830644,
+        "nuclearity": 0.595238,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 0.0,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.79881,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.464286,
+        "overall_selection_score": 0.649574,
+        "categories": [
+          "nuclear"
+        ],
+        "rationale": [
+          "forte base fragmentária",
+          "overlap nuclear relevante",
+          "corredor opera como suporte",
+          "bom alinhamento declarado"
+        ]
+      },
       {
         "fragment_id": "F0233_SEG_001",
         "base_strength": 0.341894,
@@ -2502,54 +2847,6 @@
         ]
       },
       {
-        "fragment_id": "F0241_A12_SEG_002",
-        "base_strength": 0.911867,
-        "nuclearity": 0.626866,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.0,
-        "shared_background": 0.0,
-        "neighbor_overlap": 0.0,
-        "corridor_support": 0.806716,
-        "corridor_capture": 0.407463,
-        "higher_axis_capture": 0.0,
-        "declared_alignment": 0.488955,
-        "overall_selection_score": 0.609578,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0077_SEG_001",
-        "base_strength": 0.837756,
-        "nuclearity": 0.655731,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.0,
-        "shared_background": 0.344269,
-        "neighbor_overlap": 0.0,
-        "corridor_support": 0.813933,
-        "corridor_capture": 0.426225,
-        "higher_axis_capture": 0.0,
-        "declared_alignment": 0.573439,
-        "overall_selection_score": 0.571546,
-        "categories": [
-          "nuclear",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "corredor opera como suporte",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
         "fragment_id": "F0236_SEG_001",
         "base_strength": 0.901644,
         "nuclearity": 0.45391,
@@ -2558,10 +2855,10 @@
         "shared_background": 0.54609,
         "neighbor_overlap": 0.0,
         "corridor_support": 0.763478,
-        "corridor_capture": 0.295042,
+        "corridor_capture": 0.0,
         "higher_axis_capture": 0.0,
         "declared_alignment": 0.452346,
-        "overall_selection_score": 0.491417,
+        "overall_selection_score": 0.550425,
         "categories": [
           "nuclear",
           "background"
@@ -2572,26 +2869,6 @@
           "fundo partilhado relevante",
           "corredor opera como suporte",
           "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0194_SEG_001",
-        "base_strength": 0.545565,
-        "nuclearity": 0.5,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.0,
-        "shared_background": 0.0,
-        "neighbor_overlap": 0.0,
-        "corridor_support": 0.125,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "declared_alignment": 0.39,
-        "overall_selection_score": 0.43447,
-        "categories": [
-          "nuclear"
-        ],
-        "rationale": [
-          "overlap nuclear relevante"
         ]
       },
       {
@@ -2603,16 +2880,34 @@
         "shared_background": 0.361272,
         "neighbor_overlap": 0.0,
         "corridor_support": 0.748266,
-        "corridor_capture": 0.255491,
+        "corridor_capture": 0.0,
         "higher_axis_capture": 0.0,
         "declared_alignment": 0.371618,
-        "overall_selection_score": 0.472999,
+        "overall_selection_score": 0.524097,
         "categories": [
           "background"
         ],
         "rationale": [
           "forte base fragmentária",
           "fundo partilhado relevante",
+          "corredor opera como suporte"
+        ]
+      },
+      {
+        "fragment_id": "F0076_SEG_004",
+        "base_strength": 0.565361,
+        "nuclearity": 0.442379,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 0.0,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.760595,
+        "corridor_capture": 0.034572,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.345056,
+        "overall_selection_score": 0.480286,
+        "categories": [],
+        "rationale": [
           "corredor opera como suporte"
         ]
       },
@@ -2625,10 +2920,10 @@
         "shared_background": 0.0,
         "neighbor_overlap": 0.0,
         "corridor_support": 0.754448,
-        "corridor_capture": 0.565294,
+        "corridor_capture": 0.613345,
         "higher_axis_capture": 0.0,
         "declared_alignment": 0.325879,
-        "overall_selection_score": 0.461278,
+        "overall_selection_score": 0.451668,
         "categories": [
           "capture_risk"
         ],
@@ -2639,144 +2934,22 @@
         ]
       },
       {
-        "fragment_id": "F0084_A01_SEG_001",
-        "base_strength": 0.915422,
-        "nuclearity": 0.593388,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.221984,
-        "shared_background": 0.353207,
-        "neighbor_overlap": 0.0,
-        "corridor_support": 0.798347,
-        "corridor_capture": 0.565702,
-        "higher_axis_capture": 0.818182,
-        "declared_alignment": 0.52642,
-        "overall_selection_score": 0.354117,
-        "categories": [
-          "nuclear",
-          "background",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "fundo partilhado relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "pressão de eixo arquitetónico mais alto",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0241_A04_SEG_002",
-        "base_strength": 0.906978,
-        "nuclearity": 0.646793,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.205962,
-        "shared_background": 0.353207,
-        "neighbor_overlap": 0.0,
-        "corridor_support": 0.811698,
-        "corridor_capture": 0.600415,
-        "higher_axis_capture": 0.818182,
-        "declared_alignment": 0.568076,
-        "overall_selection_score": 0.375808,
-        "categories": [
-          "nuclear",
-          "background",
-          "capture_risk"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "overlap nuclear relevante",
-          "fundo partilhado relevante",
-          "corredor opera como suporte",
-          "risco de captura de corredor",
-          "pressão de eixo arquitetónico mais alto",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0110_A01_SEG_001",
-        "base_strength": 0.512121,
-        "nuclearity": 0.5,
-        "mediationality": 0.0,
-        "epistemic_weight": 0.2,
-        "shared_background": 0.5,
-        "neighbor_overlap": 0.0,
-        "corridor_support": 0.125,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.818182,
-        "declared_alignment": 0.48,
-        "overall_selection_score": 0.208964,
-        "categories": [
-          "nuclear",
-          "background",
-          "capture_risk"
-        ],
-        "rationale": [
-          "overlap nuclear relevante",
-          "fundo partilhado relevante",
-          "pressão de eixo arquitetónico mais alto",
-          "bom alinhamento declarado"
-        ]
-      },
-      {
-        "fragment_id": "F0114_A01_SEG_005",
-        "base_strength": 0.837089,
-        "nuclearity": 0.0,
-        "mediationality": 0.0,
+        "fragment_id": "F0077_SEG_002",
+        "base_strength": 0.657702,
+        "nuclearity": 0.181906,
+        "mediationality": 0.019666,
         "epistemic_weight": 0.0,
-        "shared_background": 0.145443,
+        "shared_background": 0.0,
         "neighbor_overlap": 0.0,
-        "corridor_support": 0.0,
-        "corridor_capture": 0.0,
+        "corridor_support": 0.695476,
+        "corridor_capture": 0.190857,
         "higher_axis_capture": 0.0,
-        "declared_alignment": 0.02618,
-        "overall_selection_score": 0.239433,
+        "declared_alignment": 0.141886,
+        "overall_selection_score": 0.332513,
         "categories": [],
         "rationale": [
-          "forte base fragmentária"
-        ]
-      },
-      {
-        "fragment_id": "F0121_A02_SEG_001",
-        "base_strength": 0.712384,
-        "nuclearity": 0.0,
-        "mediationality": 0.483333,
-        "epistemic_weight": 0.0,
-        "shared_background": 0.0,
-        "neighbor_overlap": 0.0,
-        "corridor_support": 0.0,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "declared_alignment": 0.0,
-        "overall_selection_score": 0.136382,
-        "categories": [
-          "mediational"
-        ],
-        "rationale": [
           "forte base fragmentária",
-          "material mediacional relevante"
-        ]
-      },
-      {
-        "fragment_id": "F0122_SEG_001",
-        "base_strength": 0.866733,
-        "nuclearity": 0.0,
-        "mediationality": 0.483333,
-        "epistemic_weight": 0.0,
-        "shared_background": 0.0,
-        "neighbor_overlap": 0.346797,
-        "corridor_support": 0.0,
-        "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
-        "declared_alignment": 0.0,
-        "overall_selection_score": 0.134135,
-        "categories": [
-          "mediational"
-        ],
-        "rationale": [
-          "forte base fragmentária",
-          "material mediacional relevante"
+          "corredor opera como suporte"
         ]
       },
       {
@@ -2789,15 +2962,37 @@
         "neighbor_overlap": 0.149453,
         "corridor_support": 0.0,
         "corridor_capture": 0.0,
-        "higher_axis_capture": 0.0,
+        "higher_axis_capture": 0.5,
         "declared_alignment": 0.061968,
-        "overall_selection_score": 0.131357,
+        "overall_selection_score": 0.041357,
         "categories": [
-          "mediational"
+          "mediational",
+          "capture_risk"
         ],
         "rationale": [
           "forte base fragmentária",
-          "material mediacional relevante"
+          "material mediacional relevante",
+          "pressão de eixo arquitetónico mais alto"
+        ]
+      },
+      {
+        "fragment_id": "F0201_SEG_001",
+        "base_strength": 0.36356,
+        "nuclearity": 0.0,
+        "mediationality": 0.0,
+        "epistemic_weight": 0.0,
+        "shared_background": 1.0,
+        "neighbor_overlap": 0.0,
+        "corridor_support": 0.0,
+        "corridor_capture": 0.0,
+        "higher_axis_capture": 0.0,
+        "declared_alignment": 0.18,
+        "overall_selection_score": 0.028668,
+        "categories": [
+          "background"
+        ],
+        "rationale": [
+          "fundo partilhado relevante"
         ]
       }
     ]
@@ -2808,102 +3003,68 @@
       "P15",
       "P14",
       "P13",
+      "P18",
+      "P16",
       "P11",
       "P47",
-      "P12",
-      "P28",
-      "P48"
+      "P28"
     ],
-    "dominant_center_ratio": 0.478206,
+    "dominant_center_ratio": 0.612279,
     "dominant_sample_props": {
-      "P14": 3.842034,
-      "P18": 0.459176,
-      "P11": 1.053283,
-      "P15": 3.973796,
-      "P13": 3.840338,
-      "P12": 0.590996,
+      "P15": 6.456574,
+      "P14": 3.808299,
+      "P18": 1.666056,
+      "P12": 0.201553,
       "P22": 0.114247,
-      "P28": 0.558347,
-      "P47": 0.894765,
-      "P48": 0.480704,
-      "P37": 0.236506,
-      "P21": 0.099168,
-      "P01": 0.152653,
-      "P09": 0.236443,
-      "P10": 0.424036,
-      "P40": 0.169218,
-      "P44": 0.07346,
-      "P23": 0.237559,
-      "P42": 0.068804,
-      "P49": 0.24503
+      "P11": 1.191819,
+      "P13": 2.690866,
+      "P16": 1.458468,
+      "P28": 0.617416,
+      "P47": 0.784836,
+      "P48": 0.470901,
+      "P37": 0.231683,
+      "P21": 0.08804,
+      "P23": 0.025773,
+      "P01": 0.009939
     },
     "corridor_status": "corridor_support",
     "dominant_corridor": "P14_P22",
-    "neighbor_status": "none",
+    "neighbor_status": "autonomous",
     "top_neighbor_cf": "CF04",
-    "top_neighbor_ratio": 0.013383,
+    "top_neighbor_ratio": 0.007303,
     "altitude_status": "aligned_altitude",
-    "dominant_altitude": 1.936,
+    "dominant_altitude": 1.75625,
     "dominant_path_types": [
-      "axial_fundational_dynamic",
-      "axial_transitional",
-      "axial_fundational",
-      "axial_epistemological",
+      "axial_fundacional_dinamico",
+      "axial_fundacional",
+      "axial_transicional",
       "axial_mediacional"
     ],
     "operations_counter": {
-      "OP_DIFERENCIACAO_NIVEIS": 9,
-      "OP_IDENTIFICACAO_ESCALA": 9,
-      "OP_IDENTIFICACAO_CAMPO": 9,
-      "OP_IDENTIFICACAO_MEDIACAO": 9,
-      "OP_DESCRICAO_ESTRUTURAL": 25,
-      "OP_DESCRICAO_ATUALIZACAO": 25,
-      "OP_IDENTIFICACAO_DEPENDENCIA": 25,
-      "OP_IDENTIFICACAO_CONTINUIDADE": 25,
-      "OP_IDENTIFICACAO_REGULARIDADE": 25,
-      "OP_RECONDUCAO_RELACIONAL": 25,
-      "OP_DESSUBSTANCIALIZACAO": 11,
-      "OP_REINSCRICAO_CONSCIENCIA_REAL": 11,
-      "OP_LIMITACAO_REFLEXIVIDADE": 11,
-      "OP_DISTINCAO_APREENSAO_REPRESENTACAO": 11,
-      "OP_IDENTIFICACAO_PONTO_DE_VISTA": 11,
-      "OP_IDENTIFICACAO_PROJECAO_EU": 11,
-      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA": 12,
-      "OP_IDENTIFICACAO_DEGENERACAO": 12,
-      "OP_IDENTIFICACAO_SUBSTITUICAO_REAL_SISTEMA": 12,
-      "OP_CRITICA_FECHAMENTO_SIMBOLICO": 12,
-      "OP_AFIRMACAO_ESTRUTURAL": 11,
-      "OP_FIXACAO_CONDICAO_ONTOLOGICA": 11,
-      "OP_FIXACAO_LIMITE_ONTOLOGICO": 11,
-      "OP_EXCLUSAO_EXTERIORIDADE": 11,
-      "OP_IDENTIFICACAO_IMPOSSIBILIDADE_ONTOLOGICA": 11,
-      "OP_FIXACAO_CRITERIO": 8,
-      "OP_SUBMISSAO_REAL": 8,
-      "OP_IDENTIFICACAO_ADEQUACAO": 8,
-      "OP_DERIVACAO_DEVER_SER": 8,
-      "OP_SUBORDINACAO_DEVER_SER": 8,
-      "OP_IDENTIFICACAO_RESPONSABILIDADE_ONTOLOGICA": 8,
-      "OP_IDENTIFICACAO_DANO_REAL": 8,
-      "OP_IDENTIFICACAO_BEM_COMO_ADEQUACAO": 8,
-      "OP_IDENTIFICACAO_ERRO_DESCRITIVO": 8,
-      "OP_IDENTIFICACAO_ERRO_CATEGORIAL": 8,
-      "OP_IDENTIFICACAO_ERRO_ESCALA": 8,
-      "OP_REINTEGRACAO_ONTOLOGICA": 8
+      "OP_AFIRMACAO_ESTRUTURAL": 4,
+      "OP_IDENTIFICACAO_DEPENDENCIA": 23,
+      "OP_RECONDUCAO_RELACIONAL": 23,
+      "OP_DESSUBSTANCIALIZACAO": 23,
+      "OP_DIFERENCIACAO_NIVEIS": 13,
+      "OP_IDENTIFICACAO_MEDIACAO": 1,
+      "OP_DISTINCAO_APREENSAO_REPRESENTACAO": 1,
+      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA": 1
     },
     "dominant_operations_profile": [
-      "OP_DESCRICAO_ESTRUTURAL",
-      "OP_DESCRICAO_ATUALIZACAO",
       "OP_IDENTIFICACAO_DEPENDENCIA",
-      "OP_IDENTIFICACAO_CONTINUIDADE",
-      "OP_IDENTIFICACAO_REGULARIDADE",
       "OP_RECONDUCAO_RELACIONAL",
-      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA",
-      "OP_IDENTIFICACAO_DEGENERACAO"
+      "OP_DESSUBSTANCIALIZACAO",
+      "OP_DIFERENCIACAO_NIVEIS",
+      "OP_AFIRMACAO_ESTRUTURAL",
+      "OP_IDENTIFICACAO_MEDIACAO",
+      "OP_DISTINCAO_APREENSAO_REPRESENTACAO",
+      "OP_IDENTIFICACAO_CRISTALIZACAO_SISTEMICA"
     ],
     "alignment_classification": "pseudo_aligned",
-    "autonomy_classification": "autonomous_but_narrow",
+    "autonomy_classification": "autonomous",
     "why_not_aligned": [
-      "Existe overlap relevante com o núcleo admissível, mas com pressão arquitetónica ou partilha de fundo ainda significativa."
+      "Pelo menos 60% do peso do sample caiu no núcleo admissível, sem captura por corredor nem absorção vizinha.",
+      "O sample representativo ainda não cobre suficientemente o núcleo promovido ou continua com risco estrutural de captura."
     ],
     "why_corridor_status": [
       "Há corredor dominante, mas sem condições formais de captura."
@@ -2914,7 +3075,10 @@
     "why_altitude_status": [
       "A altitude dominante permaneceu alinhada com a expectativa arquitetónica do confronto."
     ],
-    "additional_notes": []
+    "additional_notes": [
+      "O sample representativo não cobriu suficientemente proposições promovidas: P18, P19, P21, P22.",
+      "O sample representativo ainda contém fragmentos com risco estrutural de captura: F0117_A01_SEG_003, F0122_SEG_002."
+    ]
   },
   "methodological_decision": {
     "confronto_id": "CF03",
@@ -2940,19 +3104,40 @@
   },
   "consistency_checks": {
     "success": true,
-    "warnings": [],
+    "warnings": [
+      "O sample representativo ainda contém fragmentos com risco estrutural de captura: F0117_A01_SEG_003, F0122_SEG_002",
+      "Cobertura insuficiente do núcleo promovido: P18, P19, P21, P22",
+      "selection_quality_flag::missing_promoted_prop_coverage",
+      "selection_quality_flag::representative_sample_contains_capture_risk",
+      "A decisão ficou mais benigna do que a qualidade do sample justifica; rever recentering/quality flags."
+    ],
     "errors": [],
     "decision_conflict_flag": false,
     "decision_conflict_reasons": [],
     "central_projection": {
       "alignment_classification": "pseudo_aligned",
-      "autonomy_classification": "autonomous_but_narrow",
+      "autonomy_classification": "autonomous",
       "recommended_methodological_decision": "preservar_com_restricoes",
       "dominant_corridor": "P14_P22",
       "decision_conflict_flag": false
     },
-    "markdown_projection": "- alignment_classification: `pseudo_aligned`\n- autonomy_classification: `autonomous_but_narrow`\n- recommended_methodological_decision: `preservar_com_restricoes`\n- dominant_corridor: `P14_P22`\n- decision_conflict_flag: `False`",
-    "txt_projection": "alignment_classification=pseudo_aligned\nautonomy_classification=autonomous_but_narrow\nrecommended_methodological_decision=preservar_com_restricoes\ndominant_corridor=P14_P22\ndecision_conflict_flag=False"
+    "markdown_projection": "- alignment_classification: `pseudo_aligned`\n- autonomy_classification: `autonomous`\n- recommended_methodological_decision: `preservar_com_restricoes`\n- dominant_corridor: `P14_P22`\n- decision_conflict_flag: `False`",
+    "txt_projection": "alignment_classification=pseudo_aligned\nautonomy_classification=autonomous\nrecommended_methodological_decision=preservar_com_restricoes\ndominant_corridor=P14_P22\ndecision_conflict_flag=False"
   },
-  "self_checks": null
+  "self_checks": {
+    "executed": true,
+    "passed": true,
+    "failures": [],
+    "warnings": [],
+    "checks": {
+      "self_check_no_lexical_token_contamination": true,
+      "self_check_operations_counter_not_empty_when_inferable": true,
+      "self_check_corridor_capture_blocks_preserve": true,
+      "self_check_decision_conflict_flag_opens": true,
+      "self_check_no_ad_hoc_tuples_in_core_pipeline": true,
+      "self_check_fragmentos_resegmentados_required": true,
+      "self_check_path_alias_normalization": true,
+      "self_check_reformulated_dossier_can_align": true
+    }
+  }
 }

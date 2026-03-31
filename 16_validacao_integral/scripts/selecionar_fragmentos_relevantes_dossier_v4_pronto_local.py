@@ -107,6 +107,7 @@ DOSSIER_CANDIDATE_FILENAMES = (
     "{cf}_dossier_confronto_REFORMULADO.md",
     "{cf}_dossier_confronto_FINAL_CONSOLIDADO.md",
     "{cf}_dossier_confronto_CONSOLIDADO.md",
+    "{cf}_dossier_confronto.md",
 )
 
 BASE_CANDIDATE_FILENAMES = (
@@ -212,16 +213,16 @@ DEFAULT_AUTONOMY_EXPECTATION = {
 }
 
 PATH_TYPE_ALTITUDE = {
-    "axial_fundational": 1.0,
-    "axial_fundational_dynamic": 1.3,
-    "axial_transitional": 2.2,
-    "axial_ontological_derived": 2.6,
-    "axial_mediational": 3.3,
-    "axial_epistemological": 4.0,
-    "axial_epistemological_critical": 4.2,
-    "axial_ethical_ontological": 4.1,
-    "axial_critical_corrective": 4.4,
-    "percursive": 3.8,
+    "axial_fundacional": 1.0,
+    "axial_fundacional_dinamico": 1.3,
+    "axial_transicional": 2.2,
+    "axial_ontologico_derivado": 2.6,
+    "axial_mediacional": 3.3,
+    "axial_epistemologico": 4.0,
+    "axial_epistemologico_critico": 4.2,
+    "axial_etico_ontologico": 4.1,
+    "axial_critico_corretivo": 4.4,
+    "percursivo": 3.8,
     "unknown": 0.0,
 }
 
@@ -230,33 +231,41 @@ PATH_ID_ALIASES = {
     "P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA",
 }
 
+
 PATH_TYPE_ALIASES = {
-    "axial_transicional": "axial_transitional",
-    "axial_ontologico_derivado": "axial_ontological_derived",
-    "axial_epistemologico": "axial_epistemological",
-    "axial_epistemologico_critico": "axial_epistemological_critical",
-    "axial_etico_ontologico": "axial_ethical_ontological",
-    "axial_critico_corretivo": "axial_critical_corrective",
-    "axial_fundacional": "axial_fundational",
-    "axial_fundacional_dinamico": "axial_fundational_dynamic",
-    "percursivo_critico_epistemologico": "percursive",
-    "percursivo_critico_transversal": "percursive",
-    "percursivo_critico_etico": "percursive",
-    "percursivo_critico_limite": "percursive",
-    "percursivo_transversal_ontologico_etico": "percursive",
-    "percursivo_transversal_filosofico": "percursive",
-    "percursivo_ciclico_pratico": "percursive",
-    "percursivo_integral": "percursive",
-    "axial_transitional": "axial_transitional",
-    "axial_ontological_derived": "axial_ontological_derived",
-    "axial_epistemological": "axial_epistemological",
-    "axial_epistemological_critical": "axial_epistemological_critical",
-    "axial_ethical_ontological": "axial_ethical_ontological",
-    "axial_critical_corrective": "axial_critical_corrective",
-    "axial_fundational": "axial_fundational",
-    "axial_fundational_dynamic": "axial_fundational_dynamic",
-    "axial_mediational": "axial_mediational",
-    "percursive": "percursive",
+    # canónico do projeto
+    "axial_fundacional": "axial_fundacional",
+    "axial_fundacional_dinamico": "axial_fundacional_dinamico",
+    "axial_transicional": "axial_transicional",
+    "axial_ontologico_derivado": "axial_ontologico_derivado",
+    "axial_mediacional": "axial_mediacional",
+    "axial_epistemologico": "axial_epistemologico",
+    "axial_epistemologico_critico": "axial_epistemologico_critico",
+    "axial_etico_ontologico": "axial_etico_ontologico",
+    "axial_critico_corretivo": "axial_critico_corretivo",
+    "percursivo": "percursivo",
+
+    # aliases ingleses tolerados
+    "axial_fundational": "axial_fundacional",
+    "axial_fundational_dynamic": "axial_fundacional_dinamico",
+    "axial_transitional": "axial_transicional",
+    "axial_ontological_derived": "axial_ontologico_derivado",
+    "axial_mediational": "axial_mediacional",
+    "axial_epistemological": "axial_epistemologico",
+    "axial_epistemological_critical": "axial_epistemologico_critico",
+    "axial_ethical_ontological": "axial_etico_ontologico",
+    "axial_critical_corrective": "axial_critico_corretivo",
+    "percursive": "percursivo",
+
+    # percursos específicos do índice derivado
+    "percursivo_critico_epistemologico": "percursivo",
+    "percursivo_critico_transversal": "percursivo",
+    "percursivo_critico_etico": "percursivo",
+    "percursivo_critico_limite": "percursivo",
+    "percursivo_transversal_ontologico_etico": "percursivo",
+    "percursivo_transversal_filosofico": "percursivo",
+    "percursivo_ciclico_pratico": "percursivo",
+    "percursivo_integral": "percursivo",
 }
 
 SEGMENTATION_CONFIDENCE_SCORE = {"alta": 1.00, "media": 0.68, "baixa": 0.35}
@@ -318,7 +327,7 @@ class CorridorStatus(str, Enum):
 
 
 class NeighborStatus(str, Enum):
-    none = "none"
+    autonomous = "autonomous"
     shared_background = "shared_background"
     neighbor_absorption = "neighbor_absorption"
 
@@ -575,6 +584,13 @@ class SampleSelection:
     contradictory_fragments: list[str]
     excluded_high_score_fragments_with_reason: list[dict[str, Any]]
     selection_warnings: list[str]
+    representative_fragment_ids: list[str] = field(default_factory=list)
+    contrastive_fragment_ids: list[str] = field(default_factory=list)
+    support_fragment_ids: list[str] = field(default_factory=list)
+    coverage_by_promoted_id: dict[str, float] = field(default_factory=dict)
+    missing_promoted_ids: list[str] = field(default_factory=list)
+    contrastive_fragments_with_reason: list[dict[str, Any]] = field(default_factory=list)
+    selection_quality_flags: list[str] = field(default_factory=list)
 
 
 @dataclass(slots=True)
@@ -598,6 +614,8 @@ class AdmissibleConfrontCenter:
     promoted_reasons: dict[str, list[str]]
     rejected_reasons: dict[str, list[str]]
     notes: list[str]
+    background_reasons: dict[str, list[str]] = field(default_factory=dict)
+    suppressed_baseline_promotions: dict[str, list[str]] = field(default_factory=dict)
 
 
 @dataclass(slots=True)
@@ -1867,13 +1885,13 @@ def _infer_operations_from_paths(path_ids: Sequence[str], indices: NormativeIndi
     ops: list[str] = []
     for path_id in path_ids:
         ptype = normalize_path_type(indices.path_to_type.get(path_id, ""))
-        if ptype == "axial_mediational":
+        if ptype == "axial_mediacional":
             ops.extend(["OP_IDENTIFICACAO_MEDIACAO", "OP_DISTINCAO_APREENSAO_REPRESENTACAO"])
-        elif ptype == "axial_epistemological":
+        elif ptype == "axial_epistemologico":
             ops.extend(["OP_FIXACAO_CRITERIO", "OP_SUBMISSAO_REAL", "OP_IDENTIFICACAO_ADEQUACAO"])
-        elif ptype == "axial_transitional":
+        elif ptype == "axial_transicional":
             ops.extend(["OP_IDENTIFICACAO_DEPENDENCIA", "OP_RECONDUCAO_RELACIONAL"])
-        elif ptype == "axial_critical_corrective":
+        elif ptype == "axial_critico_corretivo":
             ops.extend(["OP_IDENTIFICACAO_DEGENERACAO", "OP_REINTEGRACAO_ONTOLOGICA"])
     return dedupe_preserve_order(ops)
 
@@ -1888,16 +1906,32 @@ def _infer_operations_from_regimes(regime_ids: Sequence[str], bundle: SourceBund
 
 
 def infer_fragment_operations(fragment: FragmentRecord, bundle: SourceBundle, indices: NormativeIndices) -> FragmentRecord:
-    # Base principal: operações já ligadas localmente à proposição/argumento.
-    inferred = list(fragment.operation_ids_inferred)
-    # Reforços fracos: percurso e regime apenas acrescentam quando ainda não há massa suficiente.
+    local_ops = dedupe_preserve_order(fragment.operation_ids_inferred)
+
+    # Se já há operações locais vindas de proposições/argumentos, não inflacionar por regime.
+    if local_ops:
+        fragment.operation_ids_inferred = local_ops[:8]
+        return fragment
+
+    proposition_ops: list[str] = []
+    for proposition_id in fragment.proposition_ids:
+        proposition_ops.extend(indices.proposition_to_operations.get(proposition_id, []))
+
+    argument_ops: list[str] = []
+    for argument_id in fragment.argument_ids:
+        argument_ops.extend(indices.argument_to_operations.get(argument_id, []))
+
+    inferred = dedupe_preserve_order(proposition_ops + argument_ops)
+
     path_ops = _infer_operations_from_paths(fragment.path_ids, indices)
     regime_ops = _infer_operations_from_regimes(fragment.regime_ids, bundle)
+
+    if len(inferred) < 2:
+        inferred.extend(path_ops[:2])
     if len(inferred) < 3:
-        inferred.extend(path_ops)
-    if len(inferred) < 4:
-        inferred.extend(regime_ops)
-    fragment.operation_ids_inferred = dedupe_preserve_order([op for op in inferred if op])
+        inferred.extend(regime_ops[:1])
+
+    fragment.operation_ids_inferred = dedupe_preserve_order([op for op in inferred if op])[:8]
     return fragment
 
 
@@ -1964,6 +1998,7 @@ def _parse_neighbor_centers(runtime: RuntimeConfig, indices: NormativeIndices) -
     cache_key = (str(runtime.project_root.resolve()), runtime.confronto_id)
     if cache_key in _NEIGHBOR_CENTER_CACHE:
         return _NEIGHBOR_CENTER_CACHE[cache_key]
+
     neighbors: dict[str, dict[str, list[str]]] = {}
     for neighbor_cf in indices.cf_neighbor_map.get(runtime.confronto_id, []):
         filename: Optional[Path] = None
@@ -1974,10 +2009,13 @@ def _parse_neighbor_centers(runtime: RuntimeConfig, indices: NormativeIndices) -
                 break
         if filename is None:
             continue
+
         text = read_text(filename)
         sections = parse_markdown_sections(text)
+
         strong: list[str] = []
         background: list[str] = []
+
         for section in sections:
             role = _section_role(section)
             ids = [pid for pid in extract_inline_ids(section.body, "proposicao", indices.proposition_ids)]
@@ -1985,14 +2023,21 @@ def _parse_neighbor_centers(runtime: RuntimeConfig, indices: NormativeIndices) -
                 strong.extend(ids)
             elif role == "background":
                 background.extend(ids)
+
         if not strong:
             for section in sections:
                 if fuzzy_heading_key(section.heading) == "proposicoes_envolvidas":
                     strong.extend(extract_inline_ids(section.body, "proposicao", indices.proposition_ids))
+
+        strong = dedupe_preserve_order(strong)
+        background = dedupe_preserve_order([pid for pid in background if pid not in strong])
+
         neighbors[neighbor_cf] = {
-            "promoted": dedupe_preserve_order(strong),
-            "background": dedupe_preserve_order([pid for pid in background if pid not in strong]),
+            "promoted": strong,
+            "background": background,
+            "corridors": _corridors_from_propositions(strong + background, indices),
         }
+
     _NEIGHBOR_CENTER_CACHE[cache_key] = neighbors
     return neighbors
 
@@ -2008,7 +2053,14 @@ def compute_neighbor_overlap_score(
     neighbor_centers = neighbor_centers or _parse_neighbor_centers(runtime, indices)
     if not neighbor_centers:
         return 0.0
-    return clamp(max(weighted_overlap_ratio(fragment.proposition_weights, neighbor["promoted"]) for neighbor in neighbor_centers.values()))
+
+    best = 0.0
+    for neighbor in neighbor_centers.values():
+        core = weighted_overlap_ratio(fragment.proposition_weights, neighbor.get("promoted", []))
+        background = 0.55 * weighted_overlap_ratio(fragment.proposition_weights, neighbor.get("background", []))
+        corridor = 0.35 if set(fragment.corridor_ids).intersection(neighbor.get("corridors", [])) else 0.0
+        best = max(best, clamp(core + background + corridor))
+    return clamp(best)
 
 
 def compute_corridor_support_score(fragment: FragmentRecord, center: AdmissibleConfrontCenter) -> float:
@@ -2020,16 +2072,23 @@ def compute_corridor_support_score(fragment: FragmentRecord, center: AdmissibleC
 def compute_corridor_capture_score(fragment: FragmentRecord, center: AdmissibleConfrontCenter, runtime: RuntimeConfig, indices: NormativeIndices) -> float:
     if not fragment.corridor_ids:
         return 0.0
+
     expected_altitude = _expected_altitude_value(runtime, indices)
     nuclearity = compute_nuclearity_score(fragment, center)
     scores: list[float] = []
+
     for corridor_id in fragment.corridor_ids:
         corridor_props = indices.corridors.get(corridor_id, [])
         overlap = weighted_overlap_ratio(fragment.proposition_weights, corridor_props)
-        admissible_penalty = 0.0 if corridor_id in center.admissible_corridors else 0.22
         higher_penalty = 0.18 if _fragment_altitude(fragment, indices) > expected_altitude + 0.45 else 0.0
-        capture = clamp(overlap + admissible_penalty + higher_penalty - (nuclearity * 0.35))
+
+        if corridor_id in center.admissible_corridors:
+            capture = clamp((overlap * 0.30) + higher_penalty - (nuclearity * 0.60))
+        else:
+            capture = clamp((overlap * 0.85) + 0.30 + higher_penalty - (nuclearity * 0.25))
+
         scores.append(capture)
+
     return clamp(max(scores) if scores else 0.0)
 
 
@@ -2154,6 +2213,72 @@ def _pick_ranked(ranked_ids: Sequence[str], quota: int, selected: list[str], sel
         selected_set.add(fragment_id)
         remaining -= 1
 
+def _selected_ids(sample: SampleSelection) -> list[str]:
+    return sample.representative_fragment_ids or sample.selected_fragment_ids
+
+
+def _representative_candidate_ok(vector: FragmentScoreVector) -> bool:
+    if vector.overall_selection_score <= 0.0:
+        return False
+    if vector.corridor_capture >= 0.70 or vector.higher_axis_capture >= 0.70 or vector.neighbor_overlap >= 0.55:
+        return False
+    if vector.nuclearity >= 0.30:
+        return True
+    if vector.shared_background >= 0.30 and vector.declared_alignment >= 0.25:
+        return True
+    if vector.corridor_support >= 0.45 and vector.nuclearity >= 0.20:
+        return True
+    return False
+
+
+def _best_candidate_for_promoted_prop(
+    proposition_id: str,
+    ranked_vectors: Sequence[FragmentScoreVector],
+    fragment_map: dict[str, FragmentRecord],
+) -> Optional[str]:
+    best_fragment_id: Optional[str] = None
+    best_score = -1.0
+
+    for vector in ranked_vectors:
+        if not _representative_candidate_ok(vector):
+            continue
+
+        fragment = fragment_map.get(vector.fragment_id)
+        if fragment is None:
+            continue
+        if proposition_id not in fragment.proposition_weights:
+            continue
+
+        local_prop_weight = fragment.proposition_weights.get(proposition_id, 0.0)
+        score = local_prop_weight * (
+            (0.60 * vector.nuclearity)
+            + (0.25 * vector.declared_alignment)
+            + (0.15 * vector.base_strength)
+        )
+        if score > best_score:
+            best_score = score
+            best_fragment_id = vector.fragment_id
+
+    return best_fragment_id
+
+
+def _weighted_sample_overlap(
+    proposition_id: str,
+    representative_ids: Sequence[str],
+    fragment_map: dict[str, FragmentRecord],
+    vector_map: dict[str, FragmentScoreVector],
+) -> float:
+    numerator = 0.0
+    denominator = 0.0
+    for fragment_id in representative_ids:
+        fragment = fragment_map.get(fragment_id)
+        vector = vector_map.get(fragment_id)
+        if fragment is None or vector is None:
+            continue
+        weight = max(vector.overall_selection_score, 0.0) + 0.01
+        denominator += weight
+        numerator += weight * fragment.proposition_weights.get(proposition_id, 0.0)
+    return round(clamp(numerator / denominator), 6) if denominator else 0.0
 
 def select_sample(
     runtime: RuntimeConfig,
@@ -2162,37 +2287,207 @@ def select_sample(
     center: AdmissibleConfrontCenter,
 ) -> SampleSelection:
     vector_map = _vector_by_fragment_id(score_vectors)
-    ranked_vectors = sorted(score_vectors, key=lambda v: (-v.overall_selection_score, -v.base_strength, v.fragment_id))[: runtime.top_k_scoring]
+    fragment_map = {fragment.fragment_id: fragment for fragment in fragments}
+    ranked_vectors = sorted(
+        score_vectors,
+        key=lambda v: (-v.overall_selection_score, -v.base_strength, v.fragment_id),
+    )[: runtime.top_k_scoring]
 
-    nuclear_candidates = [v.fragment_id for v in ranked_vectors if v.nuclearity >= 0.45 and v.corridor_capture < 0.60 and v.higher_axis_capture < 0.60]
-    support_candidates = [v.fragment_id for v in ranked_vectors if v.corridor_support >= 0.35 and v.corridor_capture < 0.60 and v.neighbor_overlap < 0.60]
-    background_candidates = [v.fragment_id for v in ranked_vectors if v.shared_background >= 0.35 and v.nuclearity >= 0.20]
-    capture_candidates = [v.fragment_id for v in ranked_vectors if (v.corridor_capture >= 0.40 or v.higher_axis_capture >= 0.40 or v.neighbor_overlap >= 0.40)]
+    nuclear_candidates = [
+        v.fragment_id
+        for v in ranked_vectors
+        if v.nuclearity >= 0.45 and _representative_candidate_ok(v)
+    ]
+    support_candidates = [
+        v.fragment_id
+        for v in ranked_vectors
+        if v.corridor_support >= 0.45 and v.nuclearity >= 0.20 and _representative_candidate_ok(v)
+    ]
+    background_candidates = [
+        v.fragment_id
+        for v in ranked_vectors
+        if v.shared_background >= 0.35 and v.declared_alignment >= 0.20 and _representative_candidate_ok(v)
+    ]
+    mediational_candidates = [
+        v.fragment_id
+        for v in ranked_vectors
+        if v.mediationality >= 0.40
+    ]
+    capture_candidates = [
+        v.fragment_id
+        for v in ranked_vectors
+        if (v.corridor_capture >= 0.40 or v.higher_axis_capture >= 0.40 or v.neighbor_overlap >= 0.40)
+    ]
     contradictory_candidates = [v.fragment_id for v in ranked_vectors if "contradictory" in v.categories]
 
-    selected: list[str] = []
-    selected_set: set[str] = set()
-    _pick_ranked(nuclear_candidates, max(5, runtime.sample_size // 2), selected, selected_set)
-    _pick_ranked(support_candidates, max(2, runtime.sample_size // 4), selected, selected_set)
-    _pick_ranked(background_candidates, min(2, max(1, runtime.sample_size // 6)), selected, selected_set)
+    representative: list[str] = []
+    representative_set: set[str] = set()
+    contrastive: list[str] = []
+    contrastive_set: set[str] = set()
+    contrastive_rows: list[dict[str, Any]] = []
 
+    def add_contrastive(vector: FragmentScoreVector, reason: str) -> None:
+        if vector.fragment_id in contrastive_set:
+            return
+        contrastive.append(vector.fragment_id)
+        contrastive_set.add(vector.fragment_id)
+        contrastive_rows.append(
+            {
+                "fragment_id": vector.fragment_id,
+                "score": round(vector.overall_selection_score, 6),
+                "reason": reason,
+            }
+        )
+
+    # 1) Cobertura mínima do núcleo promovido: um bom candidato por proposição forte.
+    for proposition_id in center.promoted_proposition_ids:
+        best = _best_candidate_for_promoted_prop(proposition_id, ranked_vectors, fragment_map)
+        if best and best not in representative_set:
+            representative.append(best)
+            representative_set.add(best)
+
+    # 2) Reforço inicial por quotas.
+    _pick_ranked(nuclear_candidates, max(4, runtime.sample_size // 3), representative, representative_set)
+    _pick_ranked(support_candidates, max(2, runtime.sample_size // 5), representative, representative_set)
+    _pick_ranked(background_candidates, 1 if runtime.sample_size >= 6 else 0, representative, representative_set)
+
+    # 3) Fecho representativo disciplinado.
     for vector in ranked_vectors:
-        if len(selected) >= runtime.sample_size:
+        if len(representative) >= runtime.sample_size:
             break
-        if vector.fragment_id in selected_set:
+        if vector.fragment_id in representative_set:
             continue
-        if vector.corridor_capture >= 0.65 or vector.higher_axis_capture >= 0.65:
+
+        if runtime.confronto_id == "CF03" and vector.mediationality >= 0.40 and vector.nuclearity == 0.0:
+            add_contrastive(vector, "material mediacional puro num confronto CF03 cujo centro soberano não é mediacional")
             continue
-        selected.append(vector.fragment_id)
-        selected_set.add(vector.fragment_id)
+
+        if not _representative_candidate_ok(vector):
+            if vector.fragment_id in capture_candidates:
+                add_contrastive(vector, "retido como contraste diagnóstico por risco de captura")
+            elif vector.fragment_id in contradictory_candidates:
+                add_contrastive(vector, "retido como contraste diagnóstico por contradição local")
+            elif vector.fragment_id in mediational_candidates:
+                add_contrastive(vector, "retido como contraste diagnóstico mediacional, sem representatividade nuclear suficiente")
+            else:
+                add_contrastive(vector, "excluído do sample representativo por não atingir representatividade mínima")
+            continue
+
+        representative.append(vector.fragment_id)
+        representative_set.add(vector.fragment_id)
+
+    # 4) Fallback suave apenas para completar o sample, sem voltar a deixar entrar lixo representativo.
+    for vector in ranked_vectors:
+        if len(representative) >= runtime.sample_size:
+            break
+        if vector.fragment_id in representative_set:
+            continue
+        if vector.corridor_capture >= 0.75 or vector.higher_axis_capture >= 0.75:
+            add_contrastive(vector, "excluído do fallback por captura excessiva")
+            continue
+        if vector.nuclearity == 0.0 and vector.shared_background < 0.30:
+            add_contrastive(vector, "excluído do fallback por ausência de centro e de fundo relevante")
+            continue
+        representative.append(vector.fragment_id)
+        representative_set.add(vector.fragment_id)
+    
+    # 5) Segunda passagem: preservar contraste diagnóstico mesmo quando o sample representativo já está cheio.
+    for vector in ranked_vectors:
+        if vector.fragment_id in representative_set or vector.fragment_id in contrastive_set:
+            continue
+
+        if vector.fragment_id in capture_candidates:
+            add_contrastive(vector, "retido como contraste diagnóstico por risco de captura")
+        elif vector.fragment_id in contradictory_candidates:
+            add_contrastive(vector, "retido como contraste diagnóstico por contradição local")
+        elif vector.fragment_id in mediational_candidates and vector.nuclearity == 0.0:
+            add_contrastive(vector, "retido como contraste diagnóstico mediacional, sem representatividade nuclear")
+        elif vector.overall_selection_score <= 0.0:
+            add_contrastive(vector, "retido como contraste diagnóstico por score final nulo")
+
+        if len(contrastive) >= max(6, runtime.sample_size // 2):
+            break
+
+    coverage_by_promoted_id = {
+        pid: _weighted_sample_overlap(pid, representative, fragment_map, vector_map)
+        for pid in center.promoted_proposition_ids
+    }
+    missing_promoted_ids = [pid for pid, overlap in coverage_by_promoted_id.items() if overlap < 0.25]
+
+    representative_zero_nuclearity = [
+        fid
+        for fid in representative
+        if fid in vector_map
+        and vector_map[fid].nuclearity == 0.0
+        and vector_map[fid].shared_background < 0.30
+    ]
+
+    support_fragments = [
+        fid for fid in representative
+        if fid in vector_map and vector_map[fid].corridor_support >= 0.35 and vector_map[fid].corridor_capture < 0.60
+    ]
+    mediational_fragments = [
+        fid for fid in representative
+        if fid in vector_map and vector_map[fid].mediationality >= 0.40
+    ]
+    background_fragments = [
+        fid for fid in representative
+        if fid in vector_map and vector_map[fid].shared_background >= 0.35
+    ]
+    nuclear_fragments = [
+        fid for fid in representative
+        if fid in vector_map and vector_map[fid].nuclearity >= 0.30
+    ]
+
+    representative_capture_risk = [
+        fid
+        for fid in representative
+        if fid in vector_map and (
+            vector_map[fid].corridor_capture >= 0.40
+            or vector_map[fid].higher_axis_capture >= 0.40
+            or vector_map[fid].neighbor_overlap >= 0.40
+        )
+    ]
+
+
+
+    selection_quality_flags: list[str] = []
+    if representative_zero_nuclearity:
+        selection_quality_flags.append("representative_sample_contains_zero_nuclearity_fragments")
+    if missing_promoted_ids:
+        selection_quality_flags.append("missing_promoted_prop_coverage")
+    if representative_capture_risk:
+        selection_quality_flags.append("representative_sample_contains_capture_risk")
+        
+    warnings: list[str] = []
+    if not nuclear_fragments:
+        warnings.append("O sample representativo ficou sem fragmentos nucleares fortes; manter prudência máxima na adjudicação.")
+    if missing_promoted_ids:
+        warnings.append(
+            f"O sample representativo não cobriu suficientemente proposições promovidas: {', '.join(missing_promoted_ids)}."
+        )
+    if representative_zero_nuclearity:
+        warnings.append(
+            f"O sample representativo ainda contém fragmentos sem overlap nuclear suficiente: {', '.join(representative_zero_nuclearity)}."
+        )
+    if representative_capture_risk:
+        warnings.append(
+            "O sample representativo ainda contém fragmentos com risco estrutural de captura: "
+            + ", ".join(representative_capture_risk)
+            + "."
+        )
+    if capture_candidates and not contrastive:
+        warnings.append("O universo tinha fragmentos de risco, mas nenhum foi preservado como contraste diagnóstico.")
 
     coverage_summary = {
-        "nuclear_count": sum(1 for fid in selected if fid in nuclear_candidates),
-        "support_count": sum(1 for fid in selected if fid in support_candidates),
-        "background_count": sum(1 for fid in selected if fid in background_candidates),
-        "capture_risk_count": sum(1 for fid in selected if fid in capture_candidates),
-        "contradictory_count": sum(1 for fid in selected if fid in contradictory_candidates),
-        "selected_size": len(selected),
+        "nuclear_count": len(nuclear_fragments),
+        "support_count": len(support_fragments),
+        "background_count": len(background_fragments),
+        "capture_risk_count": len(representative_capture_risk),
+        "contradictory_count": sum(1 for fid in representative if fid in contradictory_candidates),
+        "representative_zero_nuclearity_count": len(representative_zero_nuclearity),
+        "missing_promoted_count": len(missing_promoted_ids),
+        "selected_size": len(representative),
         "sample_size_target": runtime.sample_size,
     }
 
@@ -2212,36 +2507,26 @@ def select_sample(
         for vector in ranked_vectors
     ]
 
-    warnings: list[str] = []
-    if coverage_summary["nuclear_count"] == 0:
-        warnings.append("O sample representativo ficou sem fragmentos nucleares fortes; manter prudência máxima na adjudicação.")
-    if coverage_summary["capture_risk_count"] == 0:
-        warnings.append("O sample representativo não inclui fragmentos de risco; o diagnóstico usa os candidatos de contraste fora do sample principal.")
-
-    excluded: list[dict[str, Any]] = []
-    for vector in ranked_vectors:
-        if vector.fragment_id in selected_set:
-            continue
-        if vector.fragment_id in capture_candidates or vector.fragment_id in contradictory_candidates:
-            excluded.append({
-                "fragment_id": vector.fragment_id,
-                "score": vector.overall_selection_score,
-                "reason": "retido apenas como contraste diagnóstico, não como sample representativo",
-            })
+    excluded_high_score = [row for row in contrastive_rows if float(row.get("score", 0.0)) >= 0.20]
 
     return SampleSelection(
-        selected_fragment_ids=selected,
+        selected_fragment_ids=representative,
+        representative_fragment_ids=representative,
+        contrastive_fragment_ids=contrastive,
+        support_fragment_ids=support_fragments,
         ranked_fragments=ranked_payload,
         coverage_summary=coverage_summary,
-        nuclear_fragments=[fid for fid in selected if fid in nuclear_candidates],
-        mediational_fragments=[fid for fid in selected if fid in support_candidates],
-        background_fragments=[fid for fid in selected if fid in background_candidates],
-        capture_risk_fragments=dedupe_preserve_order(capture_candidates),
-        contradictory_fragments=dedupe_preserve_order(contradictory_candidates),
-        excluded_high_score_fragments_with_reason=excluded,
-        selection_warnings=warnings,
+        coverage_by_promoted_id=coverage_by_promoted_id,
+        missing_promoted_ids=missing_promoted_ids,
+        nuclear_fragments=nuclear_fragments,
+        mediational_fragments=mediational_fragments,
+        background_fragments=background_fragments,
+        capture_risk_fragments=dedupe_preserve_order(representative_capture_risk),        contradictory_fragments=dedupe_preserve_order(contradictory_candidates),
+        excluded_high_score_fragments_with_reason=excluded_high_score,
+        contrastive_fragments_with_reason=contrastive_rows,
+        selection_quality_flags=dedupe_preserve_order(selection_quality_flags),
+        selection_warnings=dedupe_preserve_order(warnings),
     )
-
 
 # =============================================================================
 # CONSTRUÇÃO DO admissible_confront_center
@@ -2362,6 +2647,28 @@ def build_admissible_confront_center(
         background_ids = dedupe_preserve_order(["P01", "P13"])
         rejected_ids = dedupe_preserve_order(rejected_ids + ["P02", "P05"])
 
+    effective_promoted = set(promoted_ids) | set(weak_ids)
+    effective_background = set(background_ids)
+
+    background_reasons = {
+        pid: dedupe_preserve_order(
+            promoted_reasons.get(pid, [])
+            + (["Fundo explicitamente declarado no dossier reformulado."] if pid in declared_state.proposicoes_background else [])
+        )
+        for pid in background_ids
+    }
+
+    suppressed_baseline_promotions = {
+        pid: dedupe_preserve_order(reasons)
+        for pid, reasons in promoted_reasons.items()
+        if pid not in effective_promoted and pid not in effective_background
+    }
+
+    promoted_reasons_final = {
+        pid: dedupe_preserve_order(promoted_reasons.get(pid, []))
+        for pid in (promoted_ids + weak_ids)
+    }
+
     promoted_bridge_ids = dedupe_preserve_order(
         declared_state.pontes + [x for x in _safe_list(matrix.get("ponte_ids_relacionadas")) if isinstance(x, str)] + _collect_adjudication_structural_ids(restricted_adj, "PN")
     )
@@ -2414,9 +2721,11 @@ def build_admissible_confront_center(
         admissible_corridors=admissible_corridors,
         rejected_corridors=rejected_corridors,
         source_contributions=source_contributions,
-        promoted_reasons={k: dedupe_preserve_order(v) for k, v in promoted_reasons.items()},
+        promoted_reasons=promoted_reasons_final,
         rejected_reasons={k: dedupe_preserve_order(v) for k, v in rejected_reasons.items()},
         notes=notes,
+        background_reasons=background_reasons,
+        suppressed_baseline_promotions=suppressed_baseline_promotions,
     )
 
 
@@ -2431,7 +2740,8 @@ def _selected_fragment_objects(
     sample: SampleSelection,
 ) -> tuple[list[FragmentRecord], dict[str, FragmentScoreVector]]:
     fragment_map = {fragment.fragment_id: fragment for fragment in fragments}
-    selected_fragments = [fragment_map[fid] for fid in sample.selected_fragment_ids if fid in fragment_map]
+    selected_ids = _selected_ids(sample)
+    selected_fragments = [fragment_map[fid] for fid in selected_ids if fid in fragment_map]
     vector_map = _vector_by_fragment_id(score_vectors)
     return selected_fragments, vector_map
 
@@ -2482,7 +2792,11 @@ def diagnose_corridors(
     dominant_corridor = corridor_counter.most_common(1)[0][0] if corridor_counter else ""
     dominant_weight = corridor_counter[dominant_corridor] if dominant_corridor else 0.0
     corridor_ratio = clamp(dominant_weight / total_selection_weight) if total_selection_weight else 0.0
-    nuclear_weight = sum((max(vector_map[fid].overall_selection_score, 0.0) + 0.01) * vector_map[fid].nuclearity for fid in sample.selected_fragment_ids if fid in vector_map)
+    nuclear_weight = sum(
+        (max(vector_map[fid].overall_selection_score, 0.0) + 0.01) * vector_map[fid].nuclearity
+        for fid in _selected_ids(sample)
+        if fid in vector_map
+    )
 
     shared_with_neighbor = False
     if dominant_corridor:
@@ -2536,40 +2850,96 @@ def diagnose_neighbor_overlap(
     center: AdmissibleConfrontCenter,
     indices: NormativeIndices,
 ) -> dict[str, Any]:
-    selected_fragments, vector_map = _selected_fragment_objects(fragments, score_vectors, sample)
+    fragment_map = {fragment.fragment_id: fragment for fragment in fragments}
+    vector_map = _vector_by_fragment_id(score_vectors)
     neighbor_centers = _parse_neighbor_centers(runtime, indices)
-    details: dict[str, Any] = {}
+
+    representative_ids = sample.representative_fragment_ids or sample.selected_fragment_ids
+    contrastive_ids = sample.contrastive_fragment_ids
+
     sample_prop_weights: Counter[str] = Counter()
     total_prop_weight = 0.0
-    for fragment in selected_fragments:
-        selection_weight = max(vector_map[fragment.fragment_id].overall_selection_score, 0.0) + 0.01
+
+    for fragment_id in representative_ids:
+        fragment = fragment_map.get(fragment_id)
+        vector = vector_map.get(fragment_id)
+        if fragment is None or vector is None:
+            continue
+        selection_weight = max(vector.overall_selection_score, 0.0) + 0.01
         for proposition_id, weight in fragment.proposition_weights.items():
             sample_prop_weights[proposition_id] += selection_weight * weight
             total_prop_weight += selection_weight * weight
+
+    for fragment_id in contrastive_ids:
+        fragment = fragment_map.get(fragment_id)
+        vector = vector_map.get(fragment_id)
+        if fragment is None or vector is None:
+            continue
+        selection_weight = (max(vector.overall_selection_score, 0.0) + 0.01) * 0.35
+        for proposition_id, weight in fragment.proposition_weights.items():
+            sample_prop_weights[proposition_id] += selection_weight * weight
+            total_prop_weight += selection_weight * weight
+
+    details: dict[str, Any] = {}
     top_neighbor_ratio = 0.0
     top_neighbor_id = ""
+
     for neighbor_cf, neighbor_data in neighbor_centers.items():
-        overlap = sum(weight for proposition_id, weight in sample_prop_weights.items() if proposition_id in set(neighbor_data["promoted"]))
-        ratio = clamp(overlap / total_prop_weight) if total_prop_weight else 0.0
+        core_overlap = sum(
+            weight for proposition_id, weight in sample_prop_weights.items()
+            if proposition_id in set(neighbor_data.get("promoted", []))
+        )
+        background_overlap = sum(
+            weight for proposition_id, weight in sample_prop_weights.items()
+            if proposition_id in set(neighbor_data.get("background", []))
+        )
+
+        corridor_overlap = 0.0
+        neighbor_corridors = set(neighbor_data.get("corridors", []))
+        if neighbor_corridors:
+            for fragment_id in representative_ids:
+                fragment = fragment_map.get(fragment_id)
+                vector = vector_map.get(fragment_id)
+                if fragment is None or vector is None:
+                    continue
+                if set(fragment.corridor_ids).intersection(neighbor_corridors):
+                    corridor_overlap += max(vector.overall_selection_score, 0.0) + 0.01
+
+        core_ratio = clamp(core_overlap / total_prop_weight) if total_prop_weight else 0.0
+        background_ratio = clamp(background_overlap / total_prop_weight) if total_prop_weight else 0.0
+        corridor_ratio = clamp(corridor_overlap / max(1e-9, sum(max(vector_map[fid].overall_selection_score, 0.0) + 0.01 for fid in representative_ids if fid in vector_map))) if representative_ids else 0.0
+
+        combined_ratio = clamp(core_ratio + (0.40 * background_ratio) + (0.25 * corridor_ratio))
+
         details[neighbor_cf] = {
-            "overlap_weight": round(overlap, 6),
-            "overlap_ratio": round(ratio, 6),
-            "neighbor_promoted_ids": neighbor_data["promoted"],
+            "core_overlap_ratio": round(core_ratio, 6),
+            "background_overlap_ratio": round(background_ratio, 6),
+            "corridor_overlap_ratio": round(corridor_ratio, 6),
+            "combined_overlap_ratio": round(combined_ratio, 6),
+            "neighbor_promoted_ids": neighbor_data.get("promoted", []),
+            "neighbor_background_ids": neighbor_data.get("background", []),
+            "neighbor_corridors": neighbor_data.get("corridors", []),
         }
-        if ratio > top_neighbor_ratio:
-            top_neighbor_ratio = ratio
+
+        if combined_ratio > top_neighbor_ratio:
+            top_neighbor_ratio = combined_ratio
             top_neighbor_id = neighbor_cf
-    nuclear_ratio = clamp(sum(weight for proposition_id, weight in sample_prop_weights.items() if proposition_id in set(center.nuclear_expanded_ids)) / total_prop_weight) if total_prop_weight else 0.0
+
+    nuclear_ratio = clamp(
+        sum(weight for proposition_id, weight in sample_prop_weights.items() if proposition_id in set(center.nuclear_expanded_ids)) / total_prop_weight
+    ) if total_prop_weight else 0.0
+
     why: list[str] = []
-    if top_neighbor_ratio >= 0.48 and nuclear_ratio < 0.22:
+    if top_neighbor_ratio >= 0.40 and nuclear_ratio < 0.30:
         status = NeighborStatus.neighbor_absorption
         why.append("O overlap com dossier vizinho ultrapassou o limiar de absorção e o núcleo diferencial enfraqueceu demasiado.")
-    elif top_neighbor_ratio >= 0.24:
+    elif top_neighbor_ratio >= 0.18:
         status = NeighborStatus.shared_background
-        why.append("Existe fundo partilhado relevante com dossier vizinho, mas ainda resta núcleo próprio diferenciável.")
+        why.append("Existe fundo partilhado ou corredor de vizinhança relevante, mas o confronto ainda conserva centro próprio.")
     else:
-        status = NeighborStatus.none
+        status = NeighborStatus.autonomous
         why.append("O overlap com dossiers vizinhos ficou abaixo do limiar significativo.")
+
     return {
         "neighbor_status": status,
         "top_neighbor_cf": top_neighbor_id,
@@ -2593,7 +2963,7 @@ def diagnose_altitude(
         weight = max(vector_map[fragment.fragment_id].overall_selection_score, 0.0) + 0.01
         altitude = _fragment_altitude(fragment, indices)
         altitudes.extend([altitude] * max(1, int(math.ceil(weight * 3))))
-        path_types.extend(indices.path_to_type.get(pid, "unknown") for pid in fragment.path_ids)
+        path_types.extend(normalize_path_type(indices.path_to_type.get(pid, "unknown")) for pid in fragment.path_ids)
     dominant_altitude = average(altitudes)
     expected = _expected_altitude_value(runtime, indices)
     why: list[str] = []
@@ -2629,12 +2999,30 @@ def diagnose_operations_profile(
     selected_fragments, vector_map = _selected_fragment_objects(fragments, score_vectors, sample)
     counter: Counter[str] = Counter()
     inferable = False
+
     for fragment in selected_fragments:
+        vector = vector_map.get(fragment.fragment_id)
+        if vector is None:
+            continue
+
         if fragment.argument_ids or fragment.regime_ids or fragment.path_ids or fragment.proposition_ids:
             inferable = True
-        weight = max(vector_map[fragment.fragment_id].overall_selection_score, 0.0) + 0.01
-        for op in fragment.operation_ids_inferred:
-            counter[op] += max(1, int(math.ceil(weight * 3)))
+
+        structural_weight = (
+            (0.50 * vector.nuclearity)
+            + (0.30 * vector.declared_alignment)
+            + (0.20 * vector.base_strength)
+        )
+
+        if vector.nuclearity == 0.0 and vector.shared_background < 0.30:
+            structural_weight *= 0.40
+        if vector.corridor_capture >= 0.65 or vector.higher_axis_capture >= 0.65:
+            structural_weight *= 0.55
+
+        op_quota = 6 if vector.nuclearity >= 0.50 else 4
+        for op in fragment.operation_ids_inferred[:op_quota]:
+            counter[op] += max(1, int(math.ceil(clamp(structural_weight) * 5)))
+
     dominant_profile = [op for op, _ in counter.most_common(8)]
     return {
         "operations_counter": dict(counter),
@@ -2722,6 +3110,18 @@ def diagnose_architecture(
     operations_diag = diagnose_operations_profile(fragments, score_vectors, sample)
     alignment, why_not_aligned = classify_alignment(declared_state, center_diag, corridor_diag, neighbor_diag, altitude_diag)
     autonomy = classify_autonomy(neighbor_diag, corridor_diag, center_diag, indices, runtime)
+
+    if alignment == AlignmentClassification.aligned and (
+        sample.missing_promoted_ids
+        or "representative_sample_contains_capture_risk" in sample.selection_quality_flags
+    ):
+        alignment = AlignmentClassification.pseudo_aligned
+        why_not_aligned = dedupe_preserve_order(
+            why_not_aligned
+            + [
+                "O sample representativo ainda não cobre suficientemente o núcleo promovido ou continua com risco estrutural de captura."
+            ]
+        )
 
     notes: list[str] = []
     if runtime.confronto_id == "CF03" and "P23_P30" in corridor_diag.get("dominant_corridor", ""):
@@ -2875,6 +3275,8 @@ def validate_internal_consistency(
     center: AdmissibleConfrontCenter,
     diagnosis: ArchitecturalDiagnosis,
     decision: MethodologicalDecision,
+    sample: Optional[SampleSelection] = None,
+    score_vectors: Optional[Sequence[FragmentScoreVector]] = None,
 ) -> ConsistencyCheckResult:
     warnings: list[str] = []
     errors: list[str] = []
@@ -2887,19 +3289,35 @@ def validate_internal_consistency(
         conflict_reasons.append("O corredor dominante do sample foi explicitamente rejeitado pelo dossier/centro admissível.")
 
     # 2. corridor capture bloqueia qualquer preservação.
-    if diagnosis.corridor_status == CorridorStatus.corridor_capture and decision.recommended_methodological_decision in {RecommendedMethodologicalDecision.preservar, RecommendedMethodologicalDecision.preservar_com_restricoes}:
+    if diagnosis.corridor_status == CorridorStatus.corridor_capture and decision.recommended_methodological_decision in {
+        RecommendedMethodologicalDecision.preservar,
+        RecommendedMethodologicalDecision.preservar_com_restricoes,
+    }:
         errors.append("Se corridor_status == corridor_capture, a decisão final não pode ser preservar nem preservar_com_restricoes.")
 
     # 3. higher axis capture bloqueia preservação.
-    if diagnosis.altitude_status == AltitudeStatus.higher_axis_capture and decision.recommended_methodological_decision in {RecommendedMethodologicalDecision.preservar, RecommendedMethodologicalDecision.preservar_com_restricoes}:
+    if diagnosis.altitude_status == AltitudeStatus.higher_axis_capture and decision.recommended_methodological_decision in {
+        RecommendedMethodologicalDecision.preservar,
+        RecommendedMethodologicalDecision.preservar_com_restricoes,
+    }:
         errors.append("Se altitude_status == higher_axis_capture, a decisão final não pode preservar o dossier.")
 
     # 4. neighbor absorption bloqueia preservação.
-    if diagnosis.neighbor_status == NeighborStatus.neighbor_absorption and decision.recommended_methodological_decision in {RecommendedMethodologicalDecision.preservar, RecommendedMethodologicalDecision.preservar_com_restricoes}:
+    if diagnosis.neighbor_status == NeighborStatus.neighbor_absorption and decision.recommended_methodological_decision in {
+        RecommendedMethodologicalDecision.preservar,
+        RecommendedMethodologicalDecision.preservar_com_restricoes,
+    }:
         errors.append("Se neighbor_status == neighbor_absorption, a preservação do dossier é proibida.")
 
     # 5. operations_counter vazio quando inferível.
-    inferable = bool(diagnosis.dominant_operations_profile or diagnosis.operations_counter or center.promoted_argument_ids or center.promoted_regime_ids or center.promoted_percurso_ids or center.promoted_proposition_ids)
+    inferable = bool(
+        diagnosis.dominant_operations_profile
+        or diagnosis.operations_counter
+        or center.promoted_argument_ids
+        or center.promoted_regime_ids
+        or center.promoted_percurso_ids
+        or center.promoted_proposition_ids
+    )
     if not diagnosis.operations_counter and inferable:
         msg = "operations_counter veio vazio apesar de existirem operações inferíveis a partir de regimes, argumentos, proposições ou percursos."
         warnings.append(msg)
@@ -2921,14 +3339,118 @@ def validate_internal_consistency(
         errors.append(f"Tokens inválidos entraram em campos canónicos: {', '.join(sorted(invalid_in_canonical))}")
 
     # 7. strongly_misaligned não pode terminar em preservação.
-    if diagnosis.alignment_classification == AlignmentClassification.strongly_misaligned and decision.recommended_methodological_decision in {RecommendedMethodologicalDecision.preservar, RecommendedMethodologicalDecision.preservar_com_restricoes}:
+    if diagnosis.alignment_classification == AlignmentClassification.strongly_misaligned and decision.recommended_methodological_decision in {
+        RecommendedMethodologicalDecision.preservar,
+        RecommendedMethodologicalDecision.preservar_com_restricoes,
+    }:
         errors.append("strongly_misaligned não pode terminar em preservar nem em preservar_com_restricoes.")
 
     # 8. conflito normativo explícito bloqueia preservação sem flag.
     if conflict_flag and not decision.decision_conflict_flag:
         decision.decision_conflict_flag = True
-    if conflict_flag and decision.recommended_methodological_decision in {RecommendedMethodologicalDecision.preservar, RecommendedMethodologicalDecision.preservar_com_restricoes}:
+    if conflict_flag and decision.recommended_methodological_decision in {
+        RecommendedMethodologicalDecision.preservar,
+        RecommendedMethodologicalDecision.preservar_com_restricoes,
+    }:
         errors.append("Há conflito normativo explícito; a decisão não pode fechar em preservação sem reabertura/recentramento/substituição.")
+
+    # 9. centro rejeitado não pode continuar com promoted_reasons ativos.
+    leaked_rejections = sorted(set(center.rejected_proposition_ids).intersection(center.promoted_reasons.keys()))
+    if leaked_rejections:
+        errors.append(f"IDs rejeitados continuam presentes em promoted_reasons: {', '.join(leaked_rejections)}")
+
+    # 10. checks de qualidade do sample, quando disponíveis.
+    if sample is not None and score_vectors is not None:
+        vector_map = _vector_by_fragment_id(score_vectors)
+        representative_ids = _selected_ids(sample)
+
+        representative_zero_nuclearity = [
+            fid
+            for fid in representative_ids
+            if fid in vector_map
+            and vector_map[fid].nuclearity == 0.0
+            and vector_map[fid].shared_background < 0.30
+        ]
+        if representative_zero_nuclearity:
+            msg = (
+                "O sample representativo contém fragmentos sem overlap nuclear suficiente: "
+                + ", ".join(representative_zero_nuclearity)
+            )
+            warnings.append(msg)
+            if runtime.strict_mode:
+                errors.append(msg)
+
+        representative_zero_score = [
+            fid
+            for fid in representative_ids
+            if fid in vector_map and vector_map[fid].overall_selection_score <= 0.0
+        ]
+        if representative_zero_score:
+            errors.append(
+                "O sample representativo contém fragmentos com overall_selection_score <= 0.0: "
+                + ", ".join(representative_zero_score)
+            )
+
+        representative_capture_risk = [
+            fid
+            for fid in representative_ids
+            if fid in vector_map and (
+                vector_map[fid].corridor_capture >= 0.40
+                or vector_map[fid].higher_axis_capture >= 0.40
+                or vector_map[fid].neighbor_overlap >= 0.40
+            )
+        ]
+        if representative_capture_risk:
+            warnings.append(
+                "O sample representativo ainda contém fragmentos com risco estrutural de captura: "
+                + ", ".join(representative_capture_risk)
+            )
+
+        mediational_mismatch = [
+            fid
+            for fid in sample.mediational_fragments
+            if fid in vector_map and vector_map[fid].mediationality < 0.40
+        ]
+        if mediational_mismatch:
+            errors.append(
+                "mediational_fragments contém fragmentos cuja mediationality < 0.40: "
+                + ", ".join(mediational_mismatch)
+            )
+
+        bad_high_score_rows = [
+            row.get("fragment_id", "")
+            for row in sample.excluded_high_score_fragments_with_reason
+            if float(row.get("score", 0.0)) < 0.20
+        ]
+        if bad_high_score_rows:
+            errors.append(
+                "excluded_high_score_fragments_with_reason contém scores abaixo do limiar de high score: "
+                + ", ".join([fid for fid in bad_high_score_rows if fid])
+            )
+
+        if sample.missing_promoted_ids:
+            warnings.append(
+                "Cobertura insuficiente do núcleo promovido: " + ", ".join(sample.missing_promoted_ids)
+            )
+
+        if sample.selection_quality_flags:
+            warnings.extend(
+                [f"selection_quality_flag::{flag}" for flag in sample.selection_quality_flags]
+            )
+
+        if (
+            diagnosis.alignment_classification == AlignmentClassification.pseudo_aligned
+            and decision.recommended_methodological_decision == RecommendedMethodologicalDecision.preservar_com_restricoes
+            and (
+                sample.missing_promoted_ids
+                or representative_zero_nuclearity
+                or representative_zero_score
+                or representative_capture_risk
+            )
+        ):
+            warnings.append(
+                "A decisão ficou mais benigna do que a qualidade do sample justifica; rever recentering/quality flags."
+            )
 
     decision.decision_conflict_flag = conflict_flag
     decision.decision_conflict_reasons = dedupe_preserve_order(conflict_reasons)
@@ -2961,7 +3483,7 @@ def validate_internal_consistency(
 def _selected_vector_payload(sample: SampleSelection, vectors: Sequence[FragmentScoreVector]) -> list[dict[str, Any]]:
     vector_map = _vector_by_fragment_id(vectors)
     payload: list[dict[str, Any]] = []
-    for fid in sample.selected_fragment_ids:
+    for fid in _selected_ids(sample):
         vec = vector_map.get(fid)
         if vec is None:
             continue
@@ -3021,13 +3543,19 @@ def render_markdown_output(
             f"- corredores_rejeitados: {', '.join(center.rejected_corridors) or '∅'}",
             "",
             "## Sample fragmentário",
-            f"- selected_fragment_ids: {', '.join(sample.selected_fragment_ids) or '∅'}",
+            f"- selected_fragment_ids: {', '.join(_selected_ids(sample)) or '∅'}",
+            f"- representative_fragment_ids: {', '.join(sample.representative_fragment_ids or sample.selected_fragment_ids) or '∅'}",
+            f"- contrastive_fragment_ids: {', '.join(sample.contrastive_fragment_ids) or '∅'}",
+            f"- support_fragment_ids: {', '.join(sample.support_fragment_ids) or '∅'}",
             f"- cobertura: {json.dumps(sample.coverage_summary, ensure_ascii=False)}",
+            f"- coverage_by_promoted_id: {json.dumps(sample.coverage_by_promoted_id, ensure_ascii=False)}",
+            f"- missing_promoted_ids: {', '.join(sample.missing_promoted_ids) or '∅'}",
             f"- nuclear_fragments: {', '.join(sample.nuclear_fragments) or '∅'}",
             f"- mediational_fragments: {', '.join(sample.mediational_fragments) or '∅'}",
             f"- background_fragments: {', '.join(sample.background_fragments) or '∅'}",
             f"- capture_risk_fragments: {', '.join(sample.capture_risk_fragments) or '∅'}",
             f"- contradictory_fragments: {', '.join(sample.contradictory_fragments) or '∅'}",
+            f"- selection_quality_flags: {json.dumps(sample.selection_quality_flags, ensure_ascii=False)}",
             "",
             "## Diagnóstico arquitetónico",
             f"- dominant_sample_center: {', '.join(diagnosis.dominant_sample_center) or '∅'}",
@@ -3090,8 +3618,16 @@ def render_txt_output(
             f"promoted_center={','.join(center.promoted_proposition_ids)}",
             f"background_center={','.join(center.background_proposition_ids)}",
             f"rejected_center={','.join(center.rejected_proposition_ids)}",
-            f"selected_fragment_ids={','.join(sample.selected_fragment_ids)}",
+            f"background_reasons={json.dumps(center.background_reasons, ensure_ascii=False)}",
+            f"suppressed_baseline_promotions={json.dumps(center.suppressed_baseline_promotions, ensure_ascii=False)}",            
+            f"selected_fragment_ids={','.join(_selected_ids(sample))}",
+            f"representative_fragment_ids={','.join(sample.representative_fragment_ids or sample.selected_fragment_ids)}",
+            f"contrastive_fragment_ids={','.join(sample.contrastive_fragment_ids)}",
+            f"support_fragment_ids={','.join(sample.support_fragment_ids)}",
             f"coverage_summary={json.dumps(sample.coverage_summary, ensure_ascii=False)}",
+            f"coverage_by_promoted_id={json.dumps(sample.coverage_by_promoted_id, ensure_ascii=False)}",
+            f"missing_promoted_ids={json.dumps(sample.missing_promoted_ids, ensure_ascii=False)}",
+            f"selection_quality_flags={json.dumps(sample.selection_quality_flags, ensure_ascii=False)}",
             f"why_not_aligned={json.dumps(diagnosis.why_not_aligned, ensure_ascii=False)}",
             f"why_corridor_status={json.dumps(diagnosis.why_corridor_status, ensure_ascii=False)}",
             f"why_neighbor_status={json.dumps(diagnosis.why_neighbor_status, ensure_ascii=False)}",
@@ -3241,7 +3777,29 @@ def self_check_corridor_capture_blocks_preserve() -> None:
         invalid_id_tokens=[], parsing_warnings=[], redecision_class=DecisionRedecisionClass.none, redecision_evidence=[],
         config_defaults={}, section_trace=[]
     )
-    center = AdmissibleConfrontCenter("CF03", ["P14"], [], ["P14"], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [])
+    center = AdmissibleConfrontCenter(
+        confronto_id="CF03",
+        promoted_proposition_ids=["P14"],
+        promoted_weak_ids=[],
+        nuclear_expanded_ids=["P14"],
+        background_proposition_ids=[],
+        rejected_proposition_ids=[],
+        promoted_bridge_ids=[],
+        promoted_anchorage_ids=[],
+        promoted_field_ids=[],
+        promoted_chapter_ids=[],
+        promoted_regime_ids=[],
+        promoted_percurso_ids=[],
+        promoted_argument_ids=[],
+        admissible_corridors=["P14_P22"],
+        rejected_corridors=[],
+        source_contributions=[],
+        promoted_reasons={},
+        rejected_reasons={},
+        notes=[],
+        background_reasons={},
+        suppressed_baseline_promotions={},
+    )
     diagnosis = ArchitecturalDiagnosis(
         confronto_id="CF03", dominant_sample_center=["P23"], dominant_center_ratio=0.1, dominant_sample_props={},
         corridor_status=CorridorStatus.corridor_capture, dominant_corridor="P23_P30", neighbor_status=NeighborStatus.shared_background,
@@ -3292,7 +3850,8 @@ def self_check_fragmentos_resegmentados_required() -> None:
 
 def self_check_path_alias_normalization() -> None:
     assert normalize_path_id("P_TRANSICAO_ANTROPOLOGIA_ONTOLOGICA") == "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
-    assert normalize_path_type("axial_transicional") == "axial_transitional"
+    assert normalize_path_type("axial_transicional") == "axial_transicional"
+    assert normalize_path_type("axial_transitional") == "axial_transicional"
 
 
 def self_check_reformulated_dossier_can_align() -> None:
@@ -3307,7 +3866,7 @@ def self_check_reformulated_dossier_can_align() -> None:
         declared,
         {"nuclear_ratio": 0.72},
         {"corridor_status": CorridorStatus.corridor_support},
-        {"neighbor_status": NeighborStatus.none},
+        {"neighbor_status": NeighborStatus.autonomous},
         {"altitude_status": AltitudeStatus.aligned_altitude},
     )
     assert alignment in {AlignmentClassification.aligned, AlignmentClassification.pseudo_aligned}
@@ -3391,7 +3950,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         # 13. adjudicate_methodological_decision
         decision = adjudicate_methodological_decision(runtime, declared_state, admissible_center, diagnosis)
         # 14. validate_internal_consistency
-        consistency = validate_internal_consistency(runtime, declared_state, admissible_center, diagnosis, decision)
+        consistency = validate_internal_consistency(runtime, declared_state, admissible_center, diagnosis, decision, sample, score_vectors)
         # 15. build_output_bundle
         output_bundle = build_output_bundle(runtime, source_bundle, declared_state, admissible_center, sample, score_vectors, diagnosis, decision, consistency)
         # 16. write_outputs

@@ -1,7 +1,7 @@
 RELATÓRIO DIAGNÓSTICO METODOLÓGICO — CF03
 
 alignment_classification=pseudo_aligned
-autonomy_classification=autonomous_but_narrow
+autonomy_classification=autonomous
 recommended_methodological_decision=preservar_com_restricoes
 dominant_corridor=P14_P22
 decision_conflict_flag=False
@@ -10,13 +10,23 @@ redecision_class=structural_substitution
 promoted_center=P14,P15,P18,P19,P21,P22
 background_center=P01,P13
 rejected_center=P02,P05
-selected_fragment_ids=F0233_SEG_001,F0235_SEG_001,F0241_A12_SEG_002,F0077_SEG_001,F0236_SEG_001,F0194_SEG_001,F0156_SEG_001,F0117_A01_SEG_003,F0084_A01_SEG_001,F0241_A04_SEG_002,F0110_A01_SEG_001,F0114_A01_SEG_005,F0121_A02_SEG_001,F0122_SEG_001,F0122_SEG_002
-coverage_summary={"nuclear_count": 6, "support_count": 6, "background_count": 5, "capture_risk_count": 6, "contradictory_count": 0, "selected_size": 15, "sample_size_target": 15}
-why_not_aligned=["Existe overlap relevante com o núcleo admissível, mas com pressão arquitetónica ou partilha de fundo ainda significativa."]
+background_reasons={"P01": ["Baseline subsidiária da adjudicação restrita.", "Baseline fraca da matriz de confronto.", "Fundo explicitamente declarado no dossier reformulado."], "P13": ["Baseline subsidiária da adjudicação restrita.", "Baseline fraca da matriz de confronto.", "Fundo explicitamente declarado no dossier reformulado."]}
+suppressed_baseline_promotions={"P02": ["Baseline subsidiária da adjudicação restrita.", "Baseline fraca da matriz de confronto."], "P05": ["Baseline subsidiária da adjudicação restrita.", "Baseline fraca da matriz de confronto."], "P45": ["Baseline subsidiária da adjudicação restrita.", "Baseline fraca da matriz de confronto."]}
+selected_fragment_ids=F0241_A19_SEG_002,F0189_SEG_001,F0194_SEG_001,F0241_A12_SEG_002,F0077_SEG_001,F0241_A11_SEG_005,F0233_SEG_001,F0235_SEG_001,F0236_SEG_001,F0156_SEG_001,F0076_SEG_004,F0117_A01_SEG_003,F0077_SEG_002,F0122_SEG_002,F0201_SEG_001
+representative_fragment_ids=F0241_A19_SEG_002,F0189_SEG_001,F0194_SEG_001,F0241_A12_SEG_002,F0077_SEG_001,F0241_A11_SEG_005,F0233_SEG_001,F0235_SEG_001,F0236_SEG_001,F0156_SEG_001,F0076_SEG_004,F0117_A01_SEG_003,F0077_SEG_002,F0122_SEG_002,F0201_SEG_001
+contrastive_fragment_ids=F0104_A01_SEG_001,F0092_SEG_001,F0095_SEG_002,F0058_SEG_003,F0241_A04_SEG_002,F0084_A01_SEG_001,F0077_SEG_002,F0088_A01_SEG_003,F0110_A01_SEG_002,F0114_A01_SEG_005,F0206_SEG_001,F0110_A01_SEG_001,F0111_A02_SEG_003,F0241_A14_SEG_004,F0197_SEG_001,F0188_SEG_001,F0233_SEG_002,F0229_SEG_001,F0118_SEG_001,F0208_SEG_001,F0204_SEG_001,F0241_A12_SEG_001,F0231_SEG_001,F0192_SEG_001,F0207_SEG_001,F0121_A02_SEG_001,F0122_SEG_001,F0190_SEG_001,F0109_SEG_002,F0122_SEG_002,F0241_A15_SEG_002,F0201_SEG_001,F0121_A02_SEG_002,F0062_A01_SEG_001,F0231_SEG_002,F0241_A04_SEG_001,F0061_SEG_002,F0084_A02_SEG_002,F0070_SEG_001,F0093_A01_SEG_001,F0108_A01_SEG_001,F0092_SEG_002,F0241_A03_SEG_002,F0241_A14_SEG_003,F0211_SEG_001,F0213_SEG_001,F0093_A01_SEG_002,F0061_SEG_003,F0062_A01_SEG_002,F0084_A01_SEG_002,F0110_A01_SEG_003,F0059_SEG_002,F0061_SEG_001,F0108_A02_SEG_002,F0104_A01_SEG_005,F0108_A02_SEG_001,F0214_SEG_001,F0123_SEG_001,F0149_SEG_001,F0111_A01_SEG_004,F0200_SEG_001,F0212_SEG_001,F0058_SEG_001,F0104_A01_SEG_002,F0148_SEG_001,F0205_SEG_001,F0111_A02_SEG_002,F0241_A05_SEG_001
+support_fragment_ids=F0241_A19_SEG_002,F0189_SEG_001,F0241_A12_SEG_002,F0077_SEG_001,F0241_A11_SEG_005,F0236_SEG_001,F0156_SEG_001,F0076_SEG_004,F0077_SEG_002
+coverage_summary={"nuclear_count": 12, "support_count": 9, "background_count": 3, "capture_risk_count": 2, "contradictory_count": 0, "representative_zero_nuclearity_count": 0, "missing_promoted_count": 4, "selected_size": 15, "sample_size_target": 15}
+coverage_by_promoted_id={"P14": 0.47864, "P15": 0.811485, "P18": 0.209396, "P19": 0.0, "P21": 0.011065, "P22": 0.014359}
+missing_promoted_ids=["P18", "P19", "P21", "P22"]
+selection_quality_flags=["missing_promoted_prop_coverage", "representative_sample_contains_capture_risk"]
+why_not_aligned=["Pelo menos 60% do peso do sample caiu no núcleo admissível, sem captura por corredor nem absorção vizinha.", "O sample representativo ainda não cobre suficientemente o núcleo promovido ou continua com risco estrutural de captura."]
 why_corridor_status=["Há corredor dominante, mas sem condições formais de captura."]
 why_neighbor_status=["O overlap com dossiers vizinhos ficou abaixo do limiar significativo."]
 why_altitude_status=["A altitude dominante permaneceu alinhada com a expectativa arquitetónica do confronto."]
 why_not_preserve=["A preservação simples esconderia fundo partilhado, pressão de altitude ou necessidade de recentramento fino."]
 decision_rationale=["Existe núcleo próprio reconhecível, mas ainda com deslocações que exigem restrições e vigilância metodológica."]
-consistency_warnings=[]
+consistency_warnings=["O sample representativo ainda contém fragmentos com risco estrutural de captura: F0117_A01_SEG_003, F0122_SEG_002", "Cobertura insuficiente do núcleo promovido: P18, P19, P21, P22", "selection_quality_flag::missing_promoted_prop_coverage", "selection_quality_flag::representative_sample_contains_capture_risk", "A decisão ficou mais benigna do que a qualidade do sample justifica; rever recentering/quality flags."]
 consistency_errors=[]
+self_checks_passed=True
+self_checks_failures=[]
