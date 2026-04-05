@@ -1,0 +1,443 @@
+DEBUG — primeiros fragmentos scoreados
+
+ALIGNMENT SNAPSHOT
+{
+  "dominant_profile": "humano_situado_localidade_apreensao",
+  "second_profile": "adequacao_verdade_erro_correcao_reinscricao_no_real",
+  "dossier_declared_profile": "consciencia_reflexiva_sujeito_presenca_de_si",
+  "dossier_declared_profile_estimation": {
+    "profile": "consciencia_reflexiva_sujeito_presenca_de_si",
+    "method": "weighted_snapshot_estimation",
+    "section_scores": {
+      "pergunta_central": {
+        "humano_situado_localidade_apreensao": 0.0,
+        "memoria_temporalidade_estabilizacao_interna": 0.0,
+        "representacao_mediacao_simbolo_linguagem": 0.0,
+        "consciencia_reflexiva_sujeito_presenca_de_si": 15.4425,
+        "adequacao_verdade_erro_correcao_reinscricao_no_real": 0.0,
+        "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 13.195
+      },
+      "descricao_do_confronto": {
+        "humano_situado_localidade_apreensao": 0.0,
+        "memoria_temporalidade_estabilizacao_interna": 8.875,
+        "representacao_mediacao_simbolo_linguagem": 0.0,
+        "consciencia_reflexiva_sujeito_presenca_de_si": 19.0,
+        "adequacao_verdade_erro_correcao_reinscricao_no_real": 0.0,
+        "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 5.0
+      },
+      "tese_canonica_provisoria": {
+        "humano_situado_localidade_apreensao": 13.68,
+        "memoria_temporalidade_estabilizacao_interna": 12.08,
+        "representacao_mediacao_simbolo_linguagem": 0.0,
+        "consciencia_reflexiva_sujeito_presenca_de_si": 17.04,
+        "adequacao_verdade_erro_correcao_reinscricao_no_real": 9.6,
+        "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 17.76
+      },
+      "articulacao_estrutural": {
+        "humano_situado_localidade_apreensao": 6.04,
+        "memoria_temporalidade_estabilizacao_interna": 0.0,
+        "representacao_mediacao_simbolo_linguagem": 1.6,
+        "consciencia_reflexiva_sujeito_presenca_de_si": 0.0,
+        "adequacao_verdade_erro_correcao_reinscricao_no_real": 4.8,
+        "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 0.0
+      }
+    },
+    "raw_profile_scores": {
+      "humano_situado_localidade_apreensao": 19.72,
+      "memoria_temporalidade_estabilizacao_interna": 20.955,
+      "representacao_mediacao_simbolo_linguagem": 1.6,
+      "consciencia_reflexiva_sujeito_presenca_de_si": 51.4825,
+      "adequacao_verdade_erro_correcao_reinscricao_no_real": 14.4,
+      "identidade_pessoal_substancialismo_dissolucao_do_sujeito": 35.955
+    },
+    "confidence": "high",
+    "gap_to_second": 15.5275
+  },
+  "mismatch_flag": true,
+  "alignment_classification": "strongly_misaligned",
+  "diagnosis_lines": [
+    "O dossier declara sobretudo o eixo 'consciencia_reflexiva_sujeito_presenca_de_si', mas o sample global pende para 'humano_situado_localidade_apreensao'.",
+    "Gap entre perfis no sample global=10.52; quota do perfil dominante=70.83%.",
+    "Há indício forte de que o centro real do confronto excede ou desloca a formulação declarada do dossier.",
+    "Perfil dominante dos fragmentos: humano_situado_localidade_apreensao.",
+    "Segundo perfil dos fragmentos: adequacao_verdade_erro_correcao_reinscricao_no_real."
+  ],
+  "sample_size_used": 24,
+  "global_profile_ranking": [
+    {
+      "profile": "humano_situado_localidade_apreensao",
+      "composite_score": 32.557,
+      "best_profile_hits": 17
+    },
+    {
+      "profile": "adequacao_verdade_erro_correcao_reinscricao_no_real",
+      "composite_score": 22.0339,
+      "best_profile_hits": 2
+    },
+    {
+      "profile": "memoria_temporalidade_estabilizacao_interna",
+      "composite_score": 17.5303,
+      "best_profile_hits": 3
+    },
+    {
+      "profile": "representacao_mediacao_simbolo_linguagem",
+      "composite_score": 15.4779,
+      "best_profile_hits": 1
+    },
+    {
+      "profile": "consciencia_reflexiva_sujeito_presenca_de_si",
+      "composite_score": 13.2755,
+      "best_profile_hits": 1
+    },
+    {
+      "profile": "identidade_pessoal_substancialismo_dissolucao_do_sujeito",
+      "composite_score": 8.7713,
+      "best_profile_hits": 0
+    }
+  ],
+  "profile_stats_snapshot": {
+    "humano_situado_localidade_apreensao": {
+      "label": "Humano situado, localidade e apreensão",
+      "description": "Inscrição no real, ente localizado, apreensão situada e solo antropológico-local do problema.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 38.4607,
+      "max_score": 41.8081,
+      "top10_overlap_with_global": 5,
+      "threshold": 4.0
+    },
+    "memoria_temporalidade_estabilizacao_interna": {
+      "label": "Memória, temporalidade e estabilização interna",
+      "description": "Solo temporal da retenção, continuidade interna, memória e estabilização do vivido.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 30.3196,
+      "max_score": 38.7663,
+      "top10_overlap_with_global": 3,
+      "threshold": 4.0
+    },
+    "representacao_mediacao_simbolo_linguagem": {
+      "label": "Representação, mediação, símbolo e linguagem",
+      "description": "Transformação da apreensão em representação operável e suas mediações simbólicas e linguísticas.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 31.6132,
+      "max_score": 38.4907,
+      "top10_overlap_with_global": 5,
+      "threshold": 4.0
+    },
+    "consciencia_reflexiva_sujeito_presenca_de_si": {
+      "label": "Consciência, reflexividade, sujeito e presença de si",
+      "description": "Camada reflexiva explícita do dossier: consciência, autoconsciência, presença de si e estatuto do sujeito.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 26.8282,
+      "max_score": 34.093,
+      "top10_overlap_with_global": 2,
+      "threshold": 4.0
+    },
+    "adequacao_verdade_erro_correcao_reinscricao_no_real": {
+      "label": "Adequação, verdade, erro, correção e reinscrição no real",
+      "description": "Prolongamento epistemológico: adequação ao real, desadequação, verdade, erro e correção.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 32.7707,
+      "max_score": 40.0921,
+      "top10_overlap_with_global": 3,
+      "threshold": 4.0
+    },
+    "identidade_pessoal_substancialismo_dissolucao_do_sujeito": {
+      "label": "Identidade pessoal, substancialismo e dissolução do sujeito",
+      "description": "Perfil opcional para medir se o léxico clássico da subjetividade está a dominar artificialmente.",
+      "n_candidates_above_threshold": 24,
+      "avg_top10_score": 19.4672,
+      "max_score": 24.3396,
+      "top10_overlap_with_global": 4,
+      "threshold": 4.0
+    }
+  },
+  "overlap_signals": {
+    "cf03_like_share": 0.8333,
+    "cf07_like_share": 0.125,
+    "corridor_p25_p31_share": 0.2083,
+    "classic_subject_share": 0.0,
+    "notes": [
+      "Há tração relevante para o solo CF03-like: humano situado/localidade/apreensão + memória."
+    ]
+  }
+}
+
+## 1. F0241_A08_SEG_001
+score=80.562 score_base=78.852 best_profile=humano_situado_localidade_apreensao best_profile_score=38.8581 second_profile=memoria_temporalidade_estabilizacao_interna second_profile_score=26.3987
+matched_phrases=[]
+matched_terms=['real', 'presenca', 'interna', 'localizacao', 'apreensao', 'situada', 'estabilizacao', 'mediacao', 'adequacao', 'possivel', 'estatuto', 'quanto', 'inserido', 'situado', 'localizado', 'localidade']
+matched_hints=['humano situado', 'ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'mediação', 'mediacao', 'presença de si', 'presenca de si', 'reflexividade', 'adequação', 'adequacao', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 38.8581, 'memoria_temporalidade_estabilizacao_interna': 26.3987, 'representacao_mediacao_simbolo_linguagem': 20.3871, 'consciencia_reflexiva_sujeito_presenca_de_si': 18.1476, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 25.3127, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 2. F0050_SEG_001
+score=71.1129 score_base=69.4029 best_profile=memoria_temporalidade_estabilizacao_interna best_profile_score=25.6732 second_profile=humano_situado_localidade_apreensao second_profile_score=24.912
+matched_phrases=[]
+matched_terms=['real', 'memoria', 'representacao', 'possivel', 'estatuto', 'isolada', 'emerge', 'temporal', 'proposicoes', 'cientificas', 'humano', 'temporalidade', 'linguagem', 'verdade', 'erro']
+matched_hints=['humano situado', 'relação situada com o real', 'relacao situada com o real', 'memória', 'memoria', 'temporalidade interna', 'representação', 'representacao', 'linguagem', 'consciência', 'consciencia', 'verdade', 'erro', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 24.912, 'memoria_temporalidade_estabilizacao_interna': 25.6732, 'representacao_mediacao_simbolo_linguagem': 17.1732, 'consciencia_reflexiva_sujeito_presenca_de_si': 18.8732, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 22.7093, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 6.422}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 3. F0241_A04_SEG_001
+score=69.4807 score_base=67.7707 best_profile=humano_situado_localidade_apreensao best_profile_score=33.4825 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=24.4232
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'estabilizacao', 'representacao', 'possivel', 'estatuto', 'inserido', 'proposicoes', 'localizado', 'localidade', 'verdade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'representação', 'representacao', 'reflexividade', 'verdade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 33.4825, 'memoria_temporalidade_estabilizacao_interna': 17.6232, 'representacao_mediacao_simbolo_linguagem': 12.2476, 'consciencia_reflexiva_sujeito_presenca_de_si': 11.7976, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 24.4232, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 4. F0241_A24_SEG_003
+score=69.051 score_base=67.341 best_profile=humano_situado_localidade_apreensao best_profile_score=35.1825 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=31.1383
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'estabilizacao', 'simbolo', 'adequacao', 'correcao', 'estatuto', 'proposicoes', 'localizado', 'localidade', 'verdade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'símbolo', 'simbolo', 'consciência', 'consciencia', 'reflexividade', 'adequação', 'adequacao', 'verdade', 'correção', 'correcao', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 35.1825, 'memoria_temporalidade_estabilizacao_interna': 19.3232, 'representacao_mediacao_simbolo_linguagem': 20.7476, 'consciencia_reflexiva_sujeito_presenca_de_si': 25.9487, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 31.1383, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 5. F0051_SEG_001
+score=68.0197 score_base=66.3097 best_profile=representacao_mediacao_simbolo_linguagem best_profile_score=31.0487 second_profile=humano_situado_localidade_apreensao second_profile_score=24.912
+matched_phrases=[]
+matched_terms=['real', 'presenca', 'substancialismo', 'estabilizacao', 'representacao', 'possivel', 'estatuto', 'substancia', 'encarnado', 'proposicoes', 'humano', 'linguagem', 'verdade', 'erro']
+matched_hints=['humano situado', 'relação situada com o real', 'relacao situada com o real', 'representação', 'representacao', 'linguagem', 'consciência', 'consciencia', 'presença de si', 'presenca de si', 'verdade', 'erro', 'reinscrição no real', 'reinscricao no real', 'substancialismo']
+profile_scores={'humano_situado_localidade_apreensao': 24.912, 'memoria_temporalidade_estabilizacao_interna': 19.1487, 'representacao_mediacao_simbolo_linguagem': 31.0487, 'consciencia_reflexiva_sujeito_presenca_de_si': 19.9419, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 22.2593, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 16.8976}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 6. F0241_A14_SEG_003
+score=67.8445 score_base=66.1345 best_profile=humano_situado_localidade_apreensao best_profile_score=34.7325 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=17.3476
+matched_phrases=[]
+matched_terms=['real', 'dissolucao', 'interna', 'localizacao', 'apreensao', 'estabilizacao', 'simbolo', 'possivel', 'estatuto', 'quanto', 'localizado', 'localidade', 'verdade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'símbolo', 'simbolo', 'verdade', 'reinscrição no real', 'reinscricao no real', 'dissolução do sujeito', 'dissolucao do sujeito']
+profile_scores={'humano_situado_localidade_apreensao': 34.7325, 'memoria_temporalidade_estabilizacao_interna': 13.9476, 'representacao_mediacao_simbolo_linguagem': 13.9476, 'consciencia_reflexiva_sujeito_presenca_de_si': 0.072, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 17.3476, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 7.9476}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 7. F0110_A01_SEG_003
+score=64.7257 score_base=63.0157 best_profile=humano_situado_localidade_apreensao best_profile_score=33.6876 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=32.3883
+matched_phrases=[]
+matched_terms=['real', 'interna', 'substancialismo', 'apreensao', 'estabilizacao', 'representacao', 'mediacao', 'simbolo', 'estatuto', 'quanto', 'substancia', 'pura', 'humano']
+matched_hints=['humano situado', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'representação', 'representacao', 'mediação', 'mediacao', 'símbolo', 'simbolo', 'reinscrição no real', 'reinscricao no real', 'substancialismo']
+profile_scores={'humano_situado_localidade_apreensao': 33.6876, 'memoria_temporalidade_estabilizacao_interna': 17.6232, 'representacao_mediacao_simbolo_linguagem': 32.3883, 'consciencia_reflexiva_sujeito_presenca_de_si': 0.072, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.272, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 10.0976}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 8. F0214_SEG_001
+score=64.5698 score_base=62.8598 best_profile=humano_situado_localidade_apreensao best_profile_score=41.8081 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=29.4245
+matched_phrases=[]
+matched_terms=['real', 'localizacao', 'apreensao', 'simbolo', 'adequacao', 'encarnado', 'inserido', 'proposicoes', 'humano', 'localizado', 'localidade', 'verdade', 'erro']
+matched_hints=['humano situado', 'ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'símbolo', 'simbolo', 'consciência', 'consciencia', 'adequação', 'adequacao', 'verdade', 'erro', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 41.8081, 'memoria_temporalidade_estabilizacao_interna': 6.6976, 'representacao_mediacao_simbolo_linguagem': 13.9476, 'consciencia_reflexiva_sujeito_presenca_de_si': 10.0976, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 29.4245, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 5.972}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 9. F0241_A03_SEG_001
+score=64.1658 score_base=62.4558 best_profile=humano_situado_localidade_apreensao best_profile_score=34.7325 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=32.8383
+matched_phrases=[]
+matched_terms=['real', 'dissolucao', 'localizacao', 'apreensao', 'estabilizacao', 'mediacao', 'simbolo', 'correcao', 'estatuto', 'localizado', 'localidade', 'linguagem']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'mediação', 'mediacao', 'símbolo', 'simbolo', 'linguagem', 'consciência', 'consciencia', 'reflexividade', 'correção', 'correcao', 'reinscrição no real', 'reinscricao no real', 'dissolução do sujeito', 'dissolucao do sujeito']
+profile_scores={'humano_situado_localidade_apreensao': 34.7325, 'memoria_temporalidade_estabilizacao_interna': 12.5232, 'representacao_mediacao_simbolo_linguagem': 32.8383, 'consciencia_reflexiva_sujeito_presenca_de_si': 19.3232, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 17.3476, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 11.3476}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 10. F0049_SEG_001
+score=64.0806 score_base=62.3706 best_profile=adequacao_verdade_erro_correcao_reinscricao_no_real best_profile_score=40.0921 second_profile=identidade_pessoal_substancialismo_dissolucao_do_sujeito second_profile_score=22.6396
+matched_phrases=[]
+matched_terms=['real', 'interna', 'substancialismo', 'adequacao', 'correcao', 'possivel', 'substancia', 'discursiva', 'emerge', 'proposicoes', 'humano', 'verdade', 'erro']
+matched_hints=['humano situado', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'consciência', 'consciencia', 'adequação', 'adequacao', 'verdade', 'erro', 'correção', 'correcao', 'reinscrição no real', 'reinscricao no real', 'substancialismo']
+profile_scores={'humano_situado_localidade_apreensao': 21.254, 'memoria_temporalidade_estabilizacao_interna': 13.6896, 'representacao_mediacao_simbolo_linguagem': -0.186, 'consciencia_reflexiva_sujeito_presenca_de_si': 16.2839, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 40.0921, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 22.6396}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 11. F0241_A14_SEG_001
+score=61.1456 score_base=59.4356 best_profile=humano_situado_localidade_apreensao best_profile_score=36.8825 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=16.8976
+matched_phrases=[]
+matched_terms=['real', 'presenca', 'localizacao', 'apreensao', 'estabilizacao', 'simbolo', 'estatuto', 'encarnado', 'localizado', 'localidade', 'verdade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'símbolo', 'simbolo', 'presença de si', 'presenca de si', 'verdade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 36.8825, 'memoria_temporalidade_estabilizacao_interna': 14.2232, 'representacao_mediacao_simbolo_linguagem': 13.9476, 'consciencia_reflexiva_sujeito_presenca_de_si': 3.472, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 16.8976, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 4.5476}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 12. F0104_A01_SEG_002
+score=60.7159 score_base=59.0059 best_profile=humano_situado_localidade_apreensao best_profile_score=30.0825 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=24.0627
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'estabilizacao', 'simbolo', 'adequacao', 'estatuto', 'localizado', 'localidade', 'verdade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'símbolo', 'simbolo', 'consciência', 'consciencia', 'reflexividade', 'adequação', 'adequacao', 'verdade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 30.0825, 'memoria_temporalidade_estabilizacao_interna': 12.2476, 'representacao_mediacao_simbolo_linguagem': 13.9476, 'consciencia_reflexiva_sujeito_presenca_de_si': 18.8732, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 24.0627, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 3.022}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 13. F0016_SEG_001
+score=60.6323 score_base=58.9223 best_profile=memoria_temporalidade_estabilizacao_interna best_profile_score=26.1232 second_profile=humano_situado_localidade_apreensao second_profile_score=24.462
+matched_phrases=[]
+matched_terms=['real', 'interna', 'apreensao', 'estabilizacao', 'recair', 'estatuto', 'quanto', 'encarnado', 'temporal', 'cientificas', 'temporalidade', 'verdade']
+matched_hints=['apreensão', 'apreensao', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'consciência', 'consciencia', 'verdade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 24.462, 'memoria_temporalidade_estabilizacao_interna': 26.1232, 'representacao_mediacao_simbolo_linguagem': 0.072, 'consciencia_reflexiva_sujeito_presenca_de_si': 10.5476, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 16.8976, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 6.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 14. F0017_SEG_001
+score=60.2959 score_base=58.5859 best_profile=humano_situado_localidade_apreensao best_profile_score=21.5296 second_profile=identidade_pessoal_substancialismo_dissolucao_do_sujeito second_profile_score=19.5152
+matched_phrases=[]
+matched_terms=['real', 'interna', 'substancialismo', 'apreensao', 'estabilizacao', 'possivel', 'estatuto', 'quanto', 'substancia', 'ficcao', 'proposicoes', 'humano', 'verdade']
+matched_hints=['humano situado', 'apreensão', 'apreensao', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'verdade', 'substancialismo']
+profile_scores={'humano_situado_localidade_apreensao': 21.5296, 'memoria_temporalidade_estabilizacao_interna': 17.8152, 'representacao_mediacao_simbolo_linguagem': 3.4896, 'consciencia_reflexiva_sujeito_presenca_de_si': -0.636, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 7.3396, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 19.5152}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 15. F0010_SEG_001
+score=59.7889 score_base=58.0789 best_profile=consciencia_reflexiva_sujeito_presenca_de_si best_profile_score=23.6174 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=19.5849
+matched_phrases=[]
+matched_terms=['real', 'autoconsciencia', 'interna', 'estabilizacao', 'correcao', 'recair', 'estatuto', 'quanto', 'seguinte', 'inserido', 'verdade', 'erro']
+matched_hints=['temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'consciência', 'consciencia', 'autoconsciência', 'autoconsciencia', 'verdade', 'erro', 'correção', 'correcao']
+profile_scores={'humano_situado_localidade_apreensao': 5.9364, 'memoria_temporalidade_estabilizacao_interna': 11.7976, 'representacao_mediacao_simbolo_linguagem': 3.472, 'consciencia_reflexiva_sujeito_presenca_de_si': 23.6174, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 19.5849, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 8.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 16. F0094_A01_SEG_004
+score=59.1022 score_base=57.3922 best_profile=humano_situado_localidade_apreensao best_profile_score=33.4825 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=25.7627
+matched_phrases=[]
+matched_terms=['real', 'presenca', 'interna', 'localizacao', 'apreensao', 'representacao', 'mediacao', 'estatuto', 'localizado', 'localidade', 'erro']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'representação', 'representacao', 'mediação', 'mediacao', 'consciência', 'consciencia', 'presença de si', 'presenca de si', 'reflexividade', 'erro', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 33.4825, 'memoria_temporalidade_estabilizacao_interna': 15.6476, 'representacao_mediacao_simbolo_linguagem': 25.7627, 'consciencia_reflexiva_sujeito_presenca_de_si': 24.4232, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 13.4837, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 17. F0241_A25_SEG_003
+score=58.9239 score_base=57.2139 best_profile=adequacao_verdade_erro_correcao_reinscricao_no_real best_profile_score=29.1627 second_profile=humano_situado_localidade_apreensao second_profile_score=24.7069
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'estabilizacao', 'adequacao', 'estatuto', 'seguinte', 'proposicoes', 'localizado', 'localidade', 'linguagem']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'linguagem', 'adequação', 'adequacao', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 24.7069, 'memoria_temporalidade_estabilizacao_interna': 17.6232, 'representacao_mediacao_simbolo_linguagem': 8.8476, 'consciencia_reflexiva_sujeito_presenca_de_si': 5.1663, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 29.1627, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 18. F0190_SEG_001
+score=57.1335 score_base=55.4235 best_profile=humano_situado_localidade_apreensao best_profile_score=35.3745 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=26.3152
+matched_phrases=[]
+matched_terms=['real', 'localizacao', 'apreensao', 'estabilizacao', 'representacao', 'simbolo', 'estatuto', 'proposicoes', 'localizado', 'localidade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'representação', 'representacao', 'símbolo', 'simbolo', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 35.3745, 'memoria_temporalidade_estabilizacao_interna': 11.0152, 'representacao_mediacao_simbolo_linguagem': 26.3152, 'consciencia_reflexiva_sujeito_presenca_de_si': 6.2583, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.464, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 1.064}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 19. F0241_A19_SEG_004
+score=57.1132 score_base=55.4032 best_profile=humano_situado_localidade_apreensao best_profile_score=33.5665 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=15.7316
+matched_phrases=[]
+matched_terms=['real', 'localizacao', 'apreensao', 'estabilizacao', 'representacao', 'possivel', 'estatuto', 'inserido', 'localizado', 'localidade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'representação', 'representacao', 'reflexividade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 33.5665, 'memoria_temporalidade_estabilizacao_interna': 7.2316, 'representacao_mediacao_simbolo_linguagem': 15.7316, 'consciencia_reflexiva_sujeito_presenca_de_si': 12.3316, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.356, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 2.656}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.65, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 20. F0048_SEG_001
+score=57.1079 score_base=55.3979 best_profile=memoria_temporalidade_estabilizacao_interna best_profile_score=38.7663 second_profile=identidade_pessoal_substancialismo_dissolucao_do_sujeito second_profile_score=24.3396
+matched_phrases=[]
+matched_terms=['real', 'presenca', 'interna', 'substancialismo', 'estabilizacao', 'estatuto', 'substancia', 'discursiva', 'temporal', 'humano', 'temporalidade']
+matched_hints=['humano situado', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'presença de si', 'presenca de si', 'reflexividade', 'reinscrição no real', 'reinscricao no real', 'substancialismo']
+profile_scores={'humano_situado_localidade_apreensao': 21.254, 'memoria_temporalidade_estabilizacao_interna': 38.7663, 'representacao_mediacao_simbolo_linguagem': -0.186, 'consciencia_reflexiva_sujeito_presenca_de_si': 17.5396, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.014, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 24.3396}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 21. F0241_A20_SEG_004
+score=56.7632 score_base=55.0532 best_profile=humano_situado_localidade_apreensao best_profile_score=30.0825 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=13.9476
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'estabilizacao', 'simbolo', 'possivel', 'estatuto', 'localizado', 'localidade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'símbolo', 'simbolo', 'reflexividade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 30.0825, 'memoria_temporalidade_estabilizacao_interna': 12.2476, 'representacao_mediacao_simbolo_linguagem': 13.9476, 'consciencia_reflexiva_sujeito_presenca_de_si': 12.2476, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.272, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 3.022}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 22. F0241_A10_SEG_002
+score=56.6835 score_base=54.9735 best_profile=humano_situado_localidade_apreensao best_profile_score=36.9665 second_profile=memoria_temporalidade_estabilizacao_interna second_profile_score=19.4072
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'estabilizacao', 'estatuto', 'seguinte', 'proposicoes', 'localizado', 'localidade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'consciência', 'consciencia', 'reflexividade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 36.9665, 'memoria_temporalidade_estabilizacao_interna': 19.4072, 'representacao_mediacao_simbolo_linguagem': 10.356, 'consciencia_reflexiva_sujeito_presenca_de_si': 19.4072, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.356, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 4.356}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.65, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 23. F0241_A26_SEG_002
+score=56.1022 score_base=54.3922 best_profile=humano_situado_localidade_apreensao best_profile_score=40.7501 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=38.4907
+matched_phrases=[]
+matched_terms=['real', 'localizacao', 'apreensao', 'representacao', 'simbolo', 'humano', 'localizado', 'localidade', 'linguagem', 'verdade', 'erro']
+matched_hints=['humano situado', 'ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'representação', 'representacao', 'símbolo', 'simbolo', 'linguagem', 'consciência', 'consciencia', 'verdade', 'erro', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 40.7501, 'memoria_temporalidade_estabilizacao_interna': 4.914, 'representacao_mediacao_simbolo_linguagem': 38.4907, 'consciencia_reflexiva_sujeito_presenca_de_si': 10.7396, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 22.9013, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 11.9896}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 24. F0241_A25_SEG_002
+score=55.4009 score_base=53.6909 best_profile=humano_situado_localidade_apreensao best_profile_score=35.1825 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=31.4987
+matched_phrases=[]
+matched_terms=['real', 'localizacao', 'apreensao', 'estabilizacao', 'representacao', 'simbolo', 'estatuto', 'localizado', 'localidade', 'linguagem']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'representação', 'representacao', 'símbolo', 'simbolo', 'linguagem', 'consciência', 'consciencia', 'reflexividade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 35.1825, 'memoria_temporalidade_estabilizacao_interna': 3.7476, 'representacao_mediacao_simbolo_linguagem': 31.4987, 'consciencia_reflexiva_sujeito_presenca_de_si': 19.3232, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.272, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 2.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 25. F0052_SEG_001
+score=55.3752 score_base=53.6652 best_profile=humano_situado_localidade_apreensao best_profile_score=30.2876 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=22.7093
+matched_phrases=[]
+matched_terms=['real', 'apreensao', 'estabilizacao', 'mediacao', 'correcao', 'possivel', 'estatuto', 'emerge', 'inserido', 'humano', 'erro']
+matched_hints=['humano situado', 'apreensão', 'apreensao', 'mediação', 'mediacao', 'consciência', 'consciencia', 'erro', 'correção', 'correcao', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 30.2876, 'memoria_temporalidade_estabilizacao_interna': 3.2976, 'representacao_mediacao_simbolo_linguagem': 13.5871, 'consciencia_reflexiva_sujeito_presenca_de_si': 10.5476, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 22.7093, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 3.472}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 26. F0055_SEG_001
+score=55.3752 score_base=53.6652 best_profile=humano_situado_localidade_apreensao best_profile_score=29.8376 second_profile=consciencia_reflexiva_sujeito_presenca_de_si second_profile_score=19.3232
+matched_phrases=[]
+matched_terms=['real', 'interna', 'situada', 'estabilizacao', 'representacao', 'possivel', 'estatuto', 'emerge', 'humano', 'situado', 'erro']
+matched_hints=['humano situado', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'representação', 'representacao', 'consciência', 'consciencia', 'reflexividade', 'erro', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 29.8376, 'memoria_temporalidade_estabilizacao_interna': 18.8732, 'representacao_mediacao_simbolo_linguagem': 19.0476, 'consciencia_reflexiva_sujeito_presenca_de_si': 19.3232, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 15.1837, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 6.422}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 27. F0241_A10_SEG_001
+score=54.7198 score_base=53.0098 best_profile=humano_situado_localidade_apreensao best_profile_score=36.8825 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=36.8605
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'correcao', 'encarnado', 'localizado', 'localidade', 'verdade', 'erro']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'verdade', 'erro', 'correção', 'correcao', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 36.8825, 'memoria_temporalidade_estabilizacao_interna': 13.4976, 'representacao_mediacao_simbolo_linguagem': 0.072, 'consciencia_reflexiva_sujeito_presenca_de_si': -0.378, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 36.8605, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': -0.828}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 28. F0108_A02_SEG_001
+score=53.335 score_base=51.625 best_profile=humano_situado_localidade_apreensao best_profile_score=33.0325 second_profile=representacao_mediacao_simbolo_linguagem second_profile_score=19.3232
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'simbolo', 'quanto', 'discursiva', 'localizado', 'localidade', 'linguagem']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'símbolo', 'simbolo', 'linguagem', 'consciência', 'consciencia', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 33.0325, 'memoria_temporalidade_estabilizacao_interna': 8.572, 'representacao_mediacao_simbolo_linguagem': 19.3232, 'consciencia_reflexiva_sujeito_presenca_de_si': 10.5476, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.272, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 9.372}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 29. F0203_SEG_001
+score=52.3808 score_base=50.6708 best_profile=humano_situado_localidade_apreensao best_profile_score=31.3325 second_profile=memoria_temporalidade_estabilizacao_interna second_profile_score=15.6476
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'apreensao', 'estabilizacao', 'representacao', 'discursiva', 'localizado', 'localidade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'apreensão', 'apreensao', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'representação', 'representacao', 'consciência', 'consciencia', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 31.3325, 'memoria_temporalidade_estabilizacao_interna': 15.6476, 'representacao_mediacao_simbolo_linguagem': 12.2476, 'consciencia_reflexiva_sujeito_presenca_de_si': 10.5476, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 10.272, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 15.1976}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 30. F0241_A09_SEG_003
+score=52.3808 score_base=50.6708 best_profile=humano_situado_localidade_apreensao best_profile_score=24.7069 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=17.3476
+matched_phrases=[]
+matched_terms=['real', 'interna', 'localizacao', 'estabilizacao', 'representacao', 'estatuto', 'localizado', 'localidade', 'verdade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'representação', 'representacao', 'verdade', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 24.7069, 'memoria_temporalidade_estabilizacao_interna': 12.2476, 'representacao_mediacao_simbolo_linguagem': 15.6476, 'consciencia_reflexiva_sujeito_presenca_de_si': 1.772, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 17.3476, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 0.872}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 31. F0013_SEG_001
+score=51.7965 score_base=50.0865 best_profile=humano_situado_localidade_apreensao best_profile_score=20.5732 second_profile=memoria_temporalidade_estabilizacao_interna second_profile_score=19.3232
+matched_phrases=[]
+matched_terms=['apreensao', 'estabilizacao', 'correcao', 'possivel', 'estatuto', 'temporal', 'cientificas', 'humano', 'temporalidade', 'verdade']
+matched_hints=['humano situado', 'apreensão', 'apreensao', 'temporalidade interna', 'verdade', 'correção', 'correcao']
+profile_scores={'humano_situado_localidade_apreensao': 20.5732, 'memoria_temporalidade_estabilizacao_interna': 19.3232, 'representacao_mediacao_simbolo_linguagem': 0.072, 'consciencia_reflexiva_sujeito_presenca_de_si': 0.072, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 14.2232, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 8.572}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 32. F0076_SEG_001
+score=51.1808 score_base=49.4708 best_profile=humano_situado_localidade_apreensao best_profile_score=21.3069 second_profile=memoria_temporalidade_estabilizacao_interna second_profile_score=19.3232
+matched_phrases=[]
+matched_terms=['real', 'presenca', 'interna', 'localizacao', 'estabilizacao', 'possivel', 'estatuto', 'localizado', 'localidade']
+matched_hints=['ente localizado', 'localidade', 'localização', 'localizacao', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'presença de si', 'presenca de si', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 21.3069, 'memoria_temporalidade_estabilizacao_interna': 19.3232, 'representacao_mediacao_simbolo_linguagem': 3.472, 'consciencia_reflexiva_sujeito_presenca_de_si': 3.472, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 9.822, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': -0.378}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 33. F0047_SEG_001
+score=51.1213 score_base=49.4113 best_profile=consciencia_reflexiva_sujeito_presenca_de_si best_profile_score=26.1407 second_profile=memoria_temporalidade_estabilizacao_interna second_profile_score=21.4907
+matched_phrases=[]
+matched_terms=['real', 'memoria', 'estabilizacao', 'adequacao', 'estatuto', 'discursiva', 'inserido', 'proposicoes', 'verdade']
+matched_hints=['memória', 'memoria', 'consciência', 'consciencia', 'sujeito', 'reflexividade', 'adequação', 'adequacao', 'verdade', 'dissolução do sujeito', 'dissolucao do sujeito']
+profile_scores={'humano_situado_localidade_apreensao': 1.8284, 'memoria_temporalidade_estabilizacao_interna': 21.4907, 'representacao_mediacao_simbolo_linguagem': 0.264, 'consciencia_reflexiva_sujeito_presenca_de_si': 26.1407, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 17.4547, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 13.864}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 1.1, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 34. F0092_SEG_002
+score=51.0241 score_base=49.3141 best_profile=adequacao_verdade_erro_correcao_reinscricao_no_real best_profile_score=27.7245 second_profile=humano_situado_localidade_apreensao second_profile_score=17.8364
+matched_phrases=[]
+matched_terms=['real', 'interna', 'estabilizacao', 'adequacao', 'possivel', 'estatuto', 'quanto', 'seguinte', 'verdade', 'erro']
+matched_hints=['relação situada com o real', 'relacao situada com o real', 'temporalidade interna', 'estabilização interna', 'estabilizacao interna', 'adequação', 'adequacao', 'verdade', 'erro', 'reinscrição no real', 'reinscricao no real']
+profile_scores={'humano_situado_localidade_apreensao': 17.8364, 'memoria_temporalidade_estabilizacao_interna': 12.2476, 'representacao_mediacao_simbolo_linguagem': 0.072, 'consciencia_reflexiva_sujeito_presenca_de_si': -0.378, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 27.7245, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': -0.378}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}
+
+## 35. F0241_A07_SEG_001
+score=50.9532 score_base=49.2432 best_profile=humano_situado_localidade_apreensao best_profile_score=27.3007 second_profile=adequacao_verdade_erro_correcao_reinscricao_no_real second_profile_score=24.0627
+matched_phrases=[]
+matched_terms=['real', 'autoconsciencia', 'apreensao', 'estabilizacao', 'representacao', 'adequacao', 'correcao', 'estatuto', 'ente']
+matched_hints=['apreensão', 'apreensao', 'relação situada com o real', 'relacao situada com o real', 'representação', 'representacao', 'autoconsciência', 'autoconsciencia', 'sujeito', 'adequação', 'adequacao', 'correção', 'correcao', 'reinscrição no real', 'reinscricao no real', 'dissolução do sujeito', 'dissolucao do sujeito']
+profile_scores={'humano_situado_localidade_apreensao': 27.3007, 'memoria_temporalidade_estabilizacao_interna': 10.8232, 'representacao_mediacao_simbolo_linguagem': 12.2476, 'consciencia_reflexiva_sujeito_presenca_de_si': 19.7674, 'adequacao_verdade_erro_correcao_reinscricao_no_real': 24.0627, 'identidade_pessoal_substancialismo_dissolucao_do_sujeito': 3.022}
+structural_components={'tratamento_filosofico': 0.0, 'centralidade': 0.0, 'cadencia': 0.0, 'impacto_mapa_arvore': 0.0, 'funcao_textual': 0.3, 'ligacoes_arvore': 0.0, 'impacto_no_mapa_registos': 0.0}

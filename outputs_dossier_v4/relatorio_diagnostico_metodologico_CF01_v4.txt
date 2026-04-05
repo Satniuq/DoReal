@@ -1,0 +1,30 @@
+RELATÓRIO DIAGNÓSTICO METODOLÓGICO — CF01
+
+alignment_classification=pseudo_aligned
+autonomy_classification=autonomous
+recommended_methodological_decision=preservar_com_restricoes
+dominant_corridor=P14_P22
+decision_conflict_flag=False
+
+redecision_class=none
+promoted_center=P03,P06,P09,P10,P11,P12,P16,P17,P20
+background_center=
+rejected_center=
+background_reasons={}
+suppressed_baseline_promotions={}
+selected_fragment_ids=F0241_A15_SEG_003,F0082_SEG_001,F0102_A01_SEG_003,F0107_SEG_002,F0241_A11_SEG_005,F0060_A01_SEG_002,F0082_SEG_002,F0060_A01_SEG_003,F0114_A01_SEG_005,F0109_SEG_002,F0241_A01_SEG_005,F0241_A12_SEG_002,F0241_A14_SEG_002,F0110_A01_SEG_002,F0188_SEG_001
+representative_fragment_ids=F0241_A15_SEG_003,F0082_SEG_001,F0102_A01_SEG_003,F0107_SEG_002,F0241_A11_SEG_005,F0060_A01_SEG_002,F0082_SEG_002,F0060_A01_SEG_003,F0114_A01_SEG_005,F0109_SEG_002,F0241_A01_SEG_005,F0241_A12_SEG_002,F0241_A14_SEG_002,F0110_A01_SEG_002,F0188_SEG_001
+contrastive_fragment_ids=F0114_A02_SEG_001,F0122_SEG_001,F0189_SEG_001,F0121_A02_SEG_001,F0121_A02_SEG_002,F0241_A21_SEG_004,F0123_SEG_003
+support_fragment_ids=F0241_A11_SEG_005,F0060_A01_SEG_002,F0241_A12_SEG_002,F0241_A14_SEG_002,F0110_A01_SEG_002
+coverage_summary={"nuclear_count": 15, "support_count": 5, "background_count": 0, "capture_risk_count": 0, "contradictory_count": 0, "representative_zero_nuclearity_count": 0, "missing_promoted_count": 5, "selected_size": 15, "sample_size_target": 15}
+coverage_by_promoted_id={"P03": 0.0, "P06": 0.0, "P09": 0.324834, "P10": 0.525133, "P11": 0.523984, "P12": 0.315462, "P16": 0.061024, "P17": 0.0, "P20": 0.245014}
+missing_promoted_ids=["P03", "P06", "P16", "P17", "P20"]
+selection_quality_flags=["missing_promoted_prop_coverage"]
+why_not_aligned=["Pelo menos 60% do peso do sample caiu no núcleo admissível, sem captura por corredor nem absorção vizinha.", "O sample representativo ainda não cobre suficientemente o núcleo promovido ou continua com risco estrutural de captura."]
+why_corridor_status=["O corredor dominante medeia o núcleo admissível sem o soberanizar."]
+why_neighbor_status=["O overlap com dossiers vizinhos ficou abaixo do limiar significativo."]
+why_altitude_status=["Não havia altitude esperada suficientemente definida para medir captura vertical."]
+why_not_preserve=["A preservação simples esconderia fundo partilhado, pressão de altitude ou necessidade de recentramento fino."]
+decision_rationale=["Existe núcleo próprio reconhecível, mas ainda com deslocações que exigem restrições e vigilância metodológica."]
+consistency_warnings=["Cobertura insuficiente do núcleo promovido: P03, P06, P16, P17, P20", "selection_quality_flag::missing_promoted_prop_coverage", "A decisão ficou mais benigna do que a qualidade do sample justifica; rever recentering/quality flags."]
+consistency_errors=[]

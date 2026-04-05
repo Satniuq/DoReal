@@ -1,0 +1,77 @@
+RUN DE CONTAINERS — NÃO RESEGMENTADOS
+========================================================================
+Input: fragmentos_nao_processados.md
+Markdown run: run_nao_resegmentados__20260404_182036.md
+Containers JSON: containers_segmentacao__run_nao_resegmentados__20260404_182036.json
+Validação JSON: relatorio_validacao_containers__run_nao_resegmentados__20260404_182036.json
+
+Deteção de numeração
+------------------------------------------------------------------------
+- referencia=fragmentos_resegmentados.json:max_F=0241
+- referencia=containers_segmentacao.json:max_F=0241
+- referencia=containers_segmentacao__run_nao_resegmentados__20260404_181208.json:max_F=0275
+- referencia=fragmentos_resegmentados.json:max_F=0241
+- start_detectado=276
+
+Parsing / limpeza
+------------------------------------------------------------------------
+- blocos_brutos=38
+- blocos_ignorados_controlo=4
+- blocos_removidos_duplicado_exato=1
+- blocos_removidos_superbloco=2
+- blocos_run=31
+
+Resumo
+------------------------------------------------------------------------
+- blocos_run: 31
+- primeiro_id: F0276
+- ultimo_id: F0306
+- validacao_estado: ok
+- cobertura_total_ok: True
+- ordem_total_ok: True
+- ids_ok: True
+- containers_vazios_ok: True
+
+Sinais por bloco
+------------------------------------------------------------------------
+- F0276: sem_sinais
+- F0277: sem_sinais
+- F0278: sem_sinais
+- F0279: sem_sinais
+- F0280: cortou_prefixo_meta_ia, dialogo_ou_meta_ia, oralidade_ou_abreviacao
+- F0281: sem_sinais
+- F0282: sem_sinais
+- F0283: sem_sinais
+- F0284: oralidade_ou_abreviacao
+- F0285: sem_sinais
+- F0286: sem_sinais
+- F0287: sem_sinais
+- F0288: sem_sinais
+- F0289: possivel_artefacto_transcricao
+- F0290: sem_sinais
+- F0291: sem_sinais
+- F0292: oralidade_ou_abreviacao
+- F0293: oralidade_ou_abreviacao
+- F0294: possivel_artefacto_transcricao, removeu_meta_bicep, removeu_meta_whisper
+- F0295: sem_sinais
+- F0296: sem_sinais
+- F0297: removeu_frases_duplicadas_imediatas=1
+- F0298: removeu_frases_duplicadas_imediatas=1
+- F0299: bloco_multilinha, removeu_instrucao_nao_digas_nada, removeu_linha_pensado_para
+- F0300: bloco_multilinha, removeu_linha_pensado_para
+- F0301: bloco_multilinha, removeu_linha_pensei_durante
+- F0302: bloco_multilinha, removeu_linha_pensado_para
+- F0303: sem_sinais
+- F0304: sem_sinais
+- F0305: sem_sinais
+- F0306: sem_sinais
+
+Blocos removidos automaticamente
+------------------------------------------------------------------------
+- bloco_raw_10: removido_superbloco_redundante_matchs=4,superbloco_redundante_cobertura=1.00
+- bloco_raw_11: removido_superbloco_redundante_matchs=2,superbloco_redundante_cobertura=0.91
+- bloco_raw_20: removido_duplicado_exato
+- bloco_raw_28: removido_controlo_puro
+- bloco_raw_30: removido_controlo_puro
+- bloco_raw_32: removido_controlo_puro
+- bloco_raw_34: removido_controlo_puro

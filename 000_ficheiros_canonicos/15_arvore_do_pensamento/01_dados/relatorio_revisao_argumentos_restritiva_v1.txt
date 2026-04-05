@@ -1,0 +1,633 @@
+RELATÓRIO DE REVISÃO RESTRITIVA DE ARGUMENTOS V1
+========================================================================
+Data/hora UTC: 2026-03-20T23:35:47Z
+Script: rever_argumentos_restritivo_v1.py
+Bloco de ramos localizado em: raiz.ramos
+Bloco de argumentos localizado em: raiz.argumentos
+
+Ficheiros lidos
+------------------------------------------------------------------------
+arvore_pos_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1_pos_percursos.json
+triagem_json: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\triagem_fecho_superior_v1.json
+triagem_report: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_triagem_fecho_superior_v1.txt
+relatorio_geracao_argumentos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_geracao_argumentos_v1.txt
+relatorio_validacao_argumentos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_validacao_argumentos_v1.txt
+relatorio_revisao_percursos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_revisao_percursos_superiores_v1.txt
+
+Ficheiros escritos
+------------------------------------------------------------------------
+arvore_fecho_superior: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\arvore_do_pensamento_v1_fecho_superior.json
+relatorio_revisao_argumentos: C:\Users\vanes\DoReal_Casa_Local\DoReal\15_arvore_do_pensamento\01_dados\relatorio_revisao_argumentos_restritiva_v1.txt
+
+Resumo quantitativo
+------------------------------------------------------------------------
+Total de ramos revistos: 29
+Ramos finais com 1 argumento: 0
+Ramos finais com 2 argumentos: 0
+Ramos finais sem argumento: 29
+Reduções de 3+ para 1 ou 2: 0
+Revisão manual recomendada: 26
+Não decididos automaticamente: 26
+Universo primário A revisto: 26
+Universo secundário B revisto: 3
+
+Critérios aplicados
+------------------------------------------------------------------------
+Regra dominante: Função estrutural dominante do ramo, lida de modo prudente pela compatibilidade entre percurso estabilizado, suporte do relatório de geração e metadados estruturais do argumento.
+Regra restritiva: Por defeito, manter no máximo 1 argumento; admitir 2 apenas em caso excecional, com forte suporte e compatibilidade estrutural explícita. Na dúvida, não subir.
+Limite da decisão automática: Associação automática apenas quando o argumento tem score e sinais independentes suficientes, sem depender apenas de percurso/capítulo/evidência textual genérica e sem aviso de associação fraca.
+Heurística transparente usada:
+- Grupo A é o universo principal da revisão restritiva.
+- Grupo B só entra secundariamente quando ficou com percurso estabilizado e ainda sem argumento.
+- Candidatos com aviso explícito de associação fraca são excluídos da manutenção automática.
+- Candidatos assentes apenas em adjacência de capítulo, percurso compatível e evidência textual genérica são removidos por insuficiência semântica.
+- Dois argumentos só sobrevivem juntos quando partilham parte, nível de operação, tipo de necessidade e uma âncora estrutural comum (capítulo, percurso fundante ou regime).
+- Quando há empate ou sobreoferta sem dominância clara, o ramo fica sem argumento e é assinalado para revisão manual.
+
+Listagem detalhada por ramo
+------------------------------------------------------------------------
+RA_0001 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel, nivel_de_operacao_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 18; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0002 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | n_percursos=1 | n_argumentos=3 | n_microlinhas=5 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0003 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=3 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0005 | universo=A_principal | percursos=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | anteriores=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | argumentos_anteriores=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | n_percursos=1 | n_argumentos=3 | n_microlinhas=3 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+    - ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+    - ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+
+RA_0007 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0008 | universo=A_principal | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | anteriores=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | argumentos_anteriores=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+
+RA_0011 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | n_percursos=1 | n_argumentos=3 | n_microlinhas=2 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0012 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel, nivel_de_operacao_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0013 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=6 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0014 | universo=A_principal | percursos=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | anteriores=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | argumentos_anteriores=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | n_percursos=1 | n_argumentos=3 | n_microlinhas=2 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+    - ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+    - ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+
+RA_0015 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0016 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: heterogeneidade_excessiva, associacao_fraca, mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel, nivel_de_operacao_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | triagem_relatorio:aviso_validacao_argumentos:associacao_fraca | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | O relatório de validação assinala associação fraca com poucos sinais independentes. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 18; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | rank=334 | suficiente=False | aviso=heterogeneidade_excessiva,associacao_fraca
+      categorias: evidencia_textual, passo_forte, problema_trabalho
+      reasons: passo-alvo fortemente compatível com 15; problema/trabalho dominante compatível; evidência textual acumulada (epistemologia)
+
+RA_0017 | universo=A_principal | percursos=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | anteriores=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_ESCALA_E_ERRO_DE_ESCALA | argumentos_anteriores=ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME,ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO,ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | n_percursos=1 | n_argumentos=3 | n_microlinhas=4 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+    - ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+    - ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_ESCALA_E_ERRO_DE_ESCALA
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_ESCALA_E_ERRO_DE_ESCALA); evidência textual acumulada (p_eixo_escala_e_erro_de_escala)
+
+RA_0020 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0021 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA,ARG_ADEQUACAO_EXIGE_CRITERIO,ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=3 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_ADEQUACAO_EXIGE_CRITERIO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 17; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0026 | universo=A_principal | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | anteriores=ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | argumentos_anteriores=ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | n_percursos=1 | n_argumentos=3 | n_microlinhas=7 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+    - ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+
+RA_0029 | universo=A_principal | percursos=P_EIXO_SIMBOLICO_MEDIACIONAL | anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO,ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_SIMBOLICO_MEDIACIONAL | argumentos_anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO,ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO | n_percursos=1 | n_argumentos=3 | n_microlinhas=3 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_SIMBOLICO_MEDIACIONAL
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_SIMBOLICO_MEDIACIONAL); evidência textual acumulada (p_eixo_simbolico_mediacional)
+    - ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_SIMBOLICO_MEDIACIONAL
+      reasons: passo-alvo fortemente compatível com 26; percurso compatível (P_EIXO_SIMBOLICO_MEDIACIONAL); evidência textual acumulada (p_eixo_simbolico_mediacional)
+    - ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_SIMBOLICO_MEDIACIONAL
+      reasons: passo-alvo fortemente compatível com 13; percurso compatível (P_EIXO_SIMBOLICO_MEDIACIONAL); evidência textual acumulada (p_eixo_simbolico_mediacional)
+
+RA_0032 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | n_percursos=1 | n_argumentos=3 | n_microlinhas=2 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 20; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0033 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=3 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0035 | universo=A_principal | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | anteriores=ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: heterogeneidade_excessiva, mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | argumentos_anteriores=ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA,ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | triagem_relatorio:aviso_validacao_argumentos:heterogeneidade_excessiva | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+    - ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO | score=4 | rank=444 | suficiente=True | aviso=heterogeneidade_excessiva
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+
+RA_0043 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | n_percursos=1 | n_argumentos=3 | n_microlinhas=2 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 29; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0049 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO,ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | n_percursos=1 | n_argumentos=3 | n_microlinhas=5 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 28; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0057 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel, nivel_de_operacao_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=2 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0059 | universo=A_principal | percursos=P_EIXO_EPISTEMOLOGICO | anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: empate_ou_concorrencia_sem_dominancia_clara
+  triagem_motivos: mais_de_2_argumentos
+  bloqueios_da_decisao_binaria: parte_incompativel, nivel_de_operacao_incompativel
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_EIXO_EPISTEMOLOGICO | argumentos_anteriores=ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL,ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA,ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 25; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+    - ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_EIXO_EPISTEMOLOGICO
+      reasons: passo-alvo fortemente compatível com 21; percurso compatível (P_EIXO_EPISTEMOLOGICO); evidência textual acumulada (p_eixo_epistemologico)
+
+RA_0061 | universo=A_principal | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | anteriores=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | argumentos_anteriores=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO,ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 15; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (epistemologia, p_transicao_antropologica_ontologica)
+
+RA_0066 | universo=A_principal | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | anteriores=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO,ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA | finais=∅ | decisão=revisao_manual_recomendada
+  motivos: sobreoferta_de_argumentos_viaveis_sem_reducao_prudente_automatica
+  triagem_motivos: mais_de_2_argumentos
+  fundamentos_do_par_excecional: mesma_parte, mesmo_nivel_de_operacao, mesmo_tipo_de_necessidade, partilham_percurso_fundante
+  bloqueios_da_decisao_binaria: terceiro_argumento_competitivo_impede_excecao_binaria_prudente
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=3 | universo=A_principal | percursos_atuais=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | argumentos_anteriores=ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL,ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO,ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA | n_percursos=1 | n_argumentos=3 | n_microlinhas=8 | ramo_com_percurso_e_argumento_mas_com_sinal_de_revisao | mencoes_no_relatorio_de_triagem=2
+  inferências_prudentes: Estrutura local sugere inflação argumentativa simples: o ramo tem mais de dois argumentos associados. | Na dúvida, o ramo foi deixado sem argumento e assinalado para revisão manual, em vez de manter associações frouxas.
+  revisão_manual_recomendada: sim
+  candidatos_avaliados:
+    - ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 11; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+    - ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA | score=4 | rank=464 | suficiente=True | aviso=∅
+      categorias: evidencia_textual, passo_forte, percurso
+      percurso_overlap: P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA
+      reasons: passo-alvo fortemente compatível com 12; percurso compatível (P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA); evidência textual acumulada (p_transicao_antropologica_ontologica)
+
+RA_0010 | universo=B_secundario | percursos=P_EIXO_ONTOLOGICO_NUCLEAR | anteriores=∅ | finais=∅ | decisão=removido_totalmente
+  motivos: sem_candidatos_argumentativos_suficientes
+  triagem_motivos: tem_percurso_sem_argumento
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=0 | universo=B_secundario | percursos_atuais=P_EIXO_ONTOLOGICO_NUCLEAR | relatorio_geracao_indica_sem_associacao_suficiente
+  inferências_prudentes: Sem candidatos argumentativos extraíveis com segurança, o ramo fica explicitamente sem argumento.
+
+RA_0024 | universo=B_secundario | percursos=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | anteriores=∅ | finais=∅ | decisão=removido_totalmente
+  motivos: sem_candidatos_argumentativos_suficientes
+  triagem_motivos: tem_percurso_sem_argumento
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=0 | universo=B_secundario | percursos_atuais=P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA | relatorio_geracao_indica_sem_associacao_suficiente
+  inferências_prudentes: Sem candidatos argumentativos extraíveis com segurança, o ramo fica explicitamente sem argumento.
+
+RA_0030 | universo=B_secundario | percursos=P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA | anteriores=∅ | finais=∅ | decisão=removido_totalmente
+  motivos: sem_candidatos_argumentativos_suficientes
+  triagem_motivos: tem_percurso_sem_argumento
+  factos: n_percursos_atuais=1 | n_argumentos_anteriores=0 | universo=B_secundario | percursos_atuais=P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA | relatorio_geracao_indica_sem_associacao_suficiente
+  inferências_prudentes: Sem candidatos argumentativos extraíveis com segurança, o ramo fica explicitamente sem argumento.
+
+Observações finais
+------------------------------------------------------------------------
+Zona superior suficientemente fechada após a revisão restritiva de argumentos: não
+Ramos que ainda exigem atenção manual antes da fase seguinte: RA_0001, RA_0002, RA_0003, RA_0005, RA_0007, RA_0008, RA_0011, RA_0012, RA_0013, RA_0014, RA_0015, RA_0016, RA_0017, RA_0020, RA_0021, RA_0026, RA_0029, RA_0032, RA_0033, RA_0035, RA_0043, RA_0049, RA_0057, RA_0059, RA_0061, RA_0066
+A zona superior só é considerada suficientemente fechada quando nenhum ramo revisto permanece dependente de revisão manual e nenhum ramo fica com mais de dois argumentos.
+Sincronização local argumento->ramo aplicada apenas para os ramos revistos nesta fase.
+Limitação de escopo: este script estabiliza a zona superior ramo→argumento e sincroniza argumento→ramo; não recalcula propagação descendente para microlinhas/fragmentos.

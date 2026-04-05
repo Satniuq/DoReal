@@ -1,0 +1,2397 @@
+{
+  "meta": {
+    "nome": "mapa_dedutivo_integral_grelha_fragmentos",
+    "versao": "0.1",
+    "objetivo": "Estrutura-mãe para reconstrução integral do mapa dedutivo e confronto sistemático com os fragmentos tratados.",
+    "modo_de_uso": [
+      "Cada proposição é uma unidade lógico-editorial autónoma.",
+      "Os fragmentos não servem só para confirmar; servem para explicitar, corrigir, mediar ou obrigar a criar novos passos.",
+      "A decisão editorial deve ser sempre separada da justificação do passo e da formulação académica."
+    ],
+    "regras_de_decisao": {
+      "repete": "O fragmento confirma ou reformula sem ganho estrutural relevante.",
+      "explicita": "O fragmento torna explícito o que estava implícito.",
+      "corrige": "O fragmento mostra insuficiência ou desvio da formulação atual.",
+      "medeia": "O fragmento introduz ponte necessária entre passos.",
+      "novo_passo": "O fragmento obriga a inserir novo passo ou subdivisão."
+    }
+  },
+  "arquitetura_recomendada": {
+    "nivel_1": "blocos",
+    "nivel_2": "proposicoes",
+    "nivel_3": {
+      "justificacao": [
+        "tese_minima",
+        "justificacao_interna_do_passo",
+        "tipo_de_necessidade",
+        "estatuto_inferencial"
+      ],
+      "tratamento_academico": [
+        "formulacao_filosofico_academica",
+        "o_que_falta_provar_ou_explicitar",
+        "objecoes_tipicas_a_bloquear",
+        "mediacoes_em_falta"
+      ],
+      "confronto_com_fragmentos": [
+        "nos_fragmentos",
+        "tipo_de_presenca",
+        "fragmentos_relacionados",
+        "sintese_do_que_o_fragmento_acrescenta",
+        "objecoes_bloqueadas_pelo_fragmento",
+        "conceitos_novos_trazidos_pelos_fragmentos"
+      ],
+      "decisao_editorial": [
+        "estado_atual",
+        "necessidade_de_tratamento",
+        "acao_sobre_o_mapa",
+        "prioridade_editorial",
+        "nova_formulacao_provisoria"
+      ]
+    },
+    "motivo": "Separa a lógica interna do mapa, o tratamento académico, o confronto com os fragmentos e a decisão editorial."
+  },
+  "blocos": [
+    {
+      "id": "BLOCO_I",
+      "titulo": "Fundação ontológica mínima",
+      "proposicoes": [
+        {
+          "id": "P01",
+          "numero": 1,
+          "proposicao": "Há real.",
+          "descricao_curta": "Sem isto não há qualquer posição, negação, dúvida ou descrição.",
+          "depende_de": [],
+          "prepara": [
+            "P02"
+          ],
+          "justificacao": {
+            "tese_minima": "Há real.",
+            "justificacao_interna_do_passo": "A negação, dúvida ou descrição do real já pressupõe que algo é e que a própria operação ocorre no real.",
+            "tipo_de_necessidade": "transcendental_minimo",
+            "estatuto_inferencial": "condicao_de_possibilidade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A positividade mínima do real constitui a condição de possibilidade de toda a posição, negação, dúvida ou descrição.",
+            "o_que_falta_provar_ou_explicitar": "Fechar o argumento inaugural em forma contínua, mostrando que negar o real o pressupõe performativa e estruturalmente.",
+            "objecoes_tipicas_a_bloquear": [
+              "idealismo absoluto",
+              "niilismo ontológico",
+              "autorreferencialismo fechado"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar por que o acto de negar não pode ocorrer fora do real"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "L",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P02",
+          "numero": 2,
+          "proposicao": "Se há real, há algo.",
+          "descricao_curta": "“Há real” já exclui o vazio absoluto sem qualquer determinabilidade.",
+          "depende_de": [
+            "P01"
+          ],
+          "prepara": [
+            "P03"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há real, há algo.",
+            "justificacao_interna_do_passo": "A afirmação do real exclui o nada absoluto e implica positividade mínima, ainda antes de determinação mais rica.",
+            "tipo_de_necessidade": "necessidade_ontologica_minima",
+            "estatuto_inferencial": "consequencia_estrutural"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A afirmação do real exclui a hipótese de um vazio absolutamente indeterminado, implicando positividade mínima.",
+            "o_que_falta_provar_ou_explicitar": "Clarificar a passagem de real para algo sem pressupor ainda um ente plenamente determinado.",
+            "objecoes_tipicas_a_bloquear": [
+              "vazio absoluto compatível com o real"
+            ],
+            "mediacoes_em_falta": [
+              "distinguir positividade mínima de determinação plena"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P03",
+          "numero": 3,
+          "proposicao": "Se há algo, há distinção mínima.",
+          "descricao_curta": "Sem distinção, “algo” não tem qualquer sentido operacional.",
+          "depende_de": [
+            "P02"
+          ],
+          "prepara": [
+            "P04"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há algo, há distinção mínima.",
+            "justificacao_interna_do_passo": "Algo só é inteligível como algo se houver diferença mínima relativamente ao que não é esse algo.",
+            "tipo_de_necessidade": "necessidade_estrutural",
+            "estatuto_inferencial": "condicao_de_determinabilidade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A inteligibilidade mínima do algo exige diferença, sob pena de colapso da determinabilidade.",
+            "o_que_falta_provar_ou_explicitar": "Pode ser refinado apenas estilisticamente; o núcleo já está forte.",
+            "objecoes_tipicas_a_bloquear": [
+              "indistinção absoluta",
+              "algo sem diferença"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P04",
+          "numero": 4,
+          "proposicao": "Se há distinção, há relacionalidade mínima.",
+          "descricao_curta": "Toda a distinção implica ao menos não-identidade entre pólos.",
+          "depende_de": [
+            "P03"
+          ],
+          "prepara": [
+            "P05"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há distinção, há relacionalidade mínima.",
+            "justificacao_interna_do_passo": "Uma distinção não é bloco mudo: ela envolve relação mínima de não-identidade entre termos distinguíveis.",
+            "tipo_de_necessidade": "necessidade_estrutural",
+            "estatuto_inferencial": "implicacao_relacional"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Toda a distinção implica uma relação mínima de não-identidade entre termos distinguíveis.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar apenas que a diferença não é monádica nem muda.",
+            "objecoes_tipicas_a_bloquear": [
+              "diferença sem relação"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P05",
+          "numero": 5,
+          "proposicao": "Se há distinção e relacionalidade, há estrutura.",
+          "descricao_curta": "Diferença relacional estável já é padrão, e padrão é estrutura.",
+          "depende_de": [
+            "P03",
+            "P04"
+          ],
+          "prepara": [
+            "P06"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há distinção e relacionalidade, há estrutura.",
+            "justificacao_interna_do_passo": "Quando diferenças se articulam relacionalmente de modo estável, há estrutura como condição de determinabilidade.",
+            "tipo_de_necessidade": "necessidade_estrutural",
+            "estatuto_inferencial": "sintese_ontologica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A estabilização relacional de diferenças constitui estrutura como condição de determinabilidade.",
+            "o_que_falta_provar_ou_explicitar": "Fechar elegantemente a passagem de relação para padrão estrutural.",
+            "objecoes_tipicas_a_bloquear": [
+              "relacionalidade dispersa sem estrutura"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P06",
+          "numero": 6,
+          "proposicao": "Se há estrutura, há limite.",
+          "descricao_curta": "Estrutura implica admissibilidades e inadmissibilidades.",
+          "depende_de": [
+            "P05"
+          ],
+          "prepara": [
+            "P07"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há estrutura, há limite.",
+            "justificacao_interna_do_passo": "Toda a estrutura implica delimitação do que pode e do que não pode ocorrer nela.",
+            "tipo_de_necessidade": "necessidade_ontologica",
+            "estatuto_inferencial": "consequencia_da_estrutura"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Estrutura implica condições de admissibilidade e inadmissibilidade, isto é, limite ontológico.",
+            "o_que_falta_provar_ou_explicitar": "Apenas densificar a noção de exclusão real e não apenas lógica.",
+            "objecoes_tipicas_a_bloquear": [
+              "estrutura sem limite"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P07",
+          "numero": 7,
+          "proposicao": "Se há limite, há determinação.",
+          "descricao_curta": "Ser algo é ser determinado sob limite.",
+          "depende_de": [
+            "P06"
+          ],
+          "prepara": [
+            "P08"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há limite, há determinação.",
+            "justificacao_interna_do_passo": "O limite fixa modos de ser e torna uma determinação aquilo que é em vez de outra coisa qualquer.",
+            "tipo_de_necessidade": "necessidade_ontologica",
+            "estatuto_inferencial": "fixacao_relacional"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Determinação é fixação relacional sob limite; ser algo é ser delimitadamente.",
+            "o_que_falta_provar_ou_explicitar": "Consolidar a articulação entre fixação, identidade mínima e determinação.",
+            "objecoes_tipicas_a_bloquear": [
+              "ser sem determinação"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P08",
+          "numero": 8,
+          "proposicao": "Se há determinação, há exclusão.",
+          "descricao_curta": "Determinar é excluir o que aquela determinação não é.",
+          "depende_de": [
+            "P07"
+          ],
+          "prepara": [
+            "P09"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há determinação, há exclusão.",
+            "justificacao_interna_do_passo": "Toda a determinação fixa um perfil e exclui constitutivamente o que não cabe nesse perfil.",
+            "tipo_de_necessidade": "necessidade_ontologica",
+            "estatuto_inferencial": "consequencia_excludente"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Toda a determinação envolve exclusão do que ela não é.",
+            "o_que_falta_provar_ou_explicitar": "Distinguir exclusão constitutiva de mera negação lógica.",
+            "objecoes_tipicas_a_bloquear": [
+              "determinação sem exclusão"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar diferença entre negação lógica e exclusão ontológica"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P09",
+          "numero": 9,
+          "proposicao": "Se há exclusão, há não-ser funcional.",
+          "descricao_curta": "O não-ser não é substância; é função do limite e da exclusão.",
+          "depende_de": [
+            "P08"
+          ],
+          "prepara": [
+            "P10"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há exclusão, há não-ser funcional.",
+            "justificacao_interna_do_passo": "Se a determinação exclui, o não-ser surge como função diferencial dessa exclusão, não como entidade autónoma.",
+            "tipo_de_necessidade": "necessidade_ontologica",
+            "estatuto_inferencial": "derivacao_funcional"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O não-ser não é substância, mas função diferencial derivada do limite e da exclusão.",
+            "o_que_falta_provar_ou_explicitar": "Densificar para bloquear qualquer hipóstase do não-ser.",
+            "objecoes_tipicas_a_bloquear": [
+              "não-ser como substância",
+              "nadificação ontológica"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar estatuto funcional do não-ser"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P10",
+          "numero": 10,
+          "proposicao": "Se há exclusão real, há impossibilidade ontológica.",
+          "descricao_curta": "Nem tudo pode ser; há estados não-admissíveis no real.",
+          "depende_de": [
+            "P08",
+            "P09"
+          ],
+          "prepara": [
+            "P11"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há exclusão real, há impossibilidade ontológica.",
+            "justificacao_interna_do_passo": "Se o limite exclui realmente, então há estados que não são apenas não pensados, mas ontologicamente não admissíveis.",
+            "tipo_de_necessidade": "necessidade_ontologica",
+            "estatuto_inferencial": "fecho_do_limite"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O limite institui estados não-admissíveis no real; nem tudo pode ser.",
+            "o_que_falta_provar_ou_explicitar": "Distinguir impossibilidade lógica de impossibilidade ontológica.",
+            "objecoes_tipicas_a_bloquear": [
+              "possibilismo indiferenciado"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BLOCO_II",
+      "titulo": "Do ser determinado ao real dinâmico",
+      "proposicoes": [
+        {
+          "id": "P11",
+          "numero": 11,
+          "proposicao": "O ser não é ponto isolado; é inscrição determinada no real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P07",
+            "P08",
+            "P09",
+            "P10"
+          ],
+          "prepara": [
+            "P12"
+          ],
+          "justificacao": {
+            "tese_minima": "O ser não é ponto isolado; é inscrição determinada no real.",
+            "justificacao_interna_do_passo": "Se toda a determinação é relacional, então o ser não pode ser pensado como ponto isolado autossubsistente.",
+            "tipo_de_necessidade": "necessidade_estrutural",
+            "estatuto_inferencial": "reinscricao_ontologica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O ser deve ser compreendido como modo determinado de inscrição no real e não como unidade isolada autossubsistente.",
+            "o_que_falta_provar_ou_explicitar": "Fechar a crítica do ponto isolado e do atomismo ontológico.",
+            "objecoes_tipicas_a_bloquear": [
+              "atomismo ontológico",
+              "substância isolada"
+            ],
+            "mediacoes_em_falta": [
+              "ligar explicitamente relacionalidade a inscrição"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P12",
+          "numero": 12,
+          "proposicao": "O real é continuidade estruturada, não atomismo puro.",
+          "descricao_curta": "Distinção e limite não implicam fragmentação absoluta; implicam continuidade articulada.",
+          "depende_de": [
+            "P11"
+          ],
+          "prepara": [
+            "P13"
+          ],
+          "justificacao": {
+            "tese_minima": "O real é continuidade estruturada, não atomismo puro.",
+            "justificacao_interna_do_passo": "Se as determinações são inscrições relacionais no mesmo real, então a diferença não rompe o real em átomos absolutos, antes o articula como continuidade estruturada.",
+            "tipo_de_necessidade": "necessidade_estrutural",
+            "estatuto_inferencial": "ponte_critica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A diferenciação real não dissolve o real em unidades absolutamente separadas, mas articula-o como continuidade estruturada.",
+            "o_que_falta_provar_ou_explicitar": "Esta é uma das passagens críticas: mostrar porque distinção e limite não implicam fragmentação absoluta.",
+            "objecoes_tipicas_a_bloquear": [
+              "atomismo puro",
+              "monismo indiferenciado"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar por que relação e limite ainda pressupõem um tecido contínuo"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P13",
+          "numero": 13,
+          "proposicao": "Se há continuidade estruturada, há poder-ser real.",
+          "descricao_curta": "O real não é só estado atual; inclui margem interna compatível.",
+          "depende_de": [
+            "P12"
+          ],
+          "prepara": [
+            "P14"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há continuidade estruturada, há poder-ser real.",
+            "justificacao_interna_do_passo": "Uma continuidade estruturada não se esgota no atual instantâneo; ela comporta margens internas de atualização compatível.",
+            "tipo_de_necessidade": "necessidade_estrutural",
+            "estatuto_inferencial": "abertura_real"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A estrutura do real inclui margens internas de atualização compatível; o real não se esgota no atual.",
+            "o_que_falta_provar_ou_explicitar": "Fechar a noção de poder-ser como dimensão real e não mero possível lógico.",
+            "objecoes_tipicas_a_bloquear": [
+              "modalismo abstrato",
+              "atualismo rígido"
+            ],
+            "mediacoes_em_falta": [
+              "mostrar por que continuidade implica abertura real"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P14",
+          "numero": 14,
+          "proposicao": "O poder-ser abre potencialidade.",
+          "descricao_curta": "Potencialidade não é possível lógico abstrato; é campo real de atualizações compatíveis sob limite.",
+          "depende_de": [
+            "P13"
+          ],
+          "prepara": [
+            "P15"
+          ],
+          "justificacao": {
+            "tese_minima": "O poder-ser abre potencialidade.",
+            "justificacao_interna_do_passo": "Se há poder-ser real, então há potencialidades reais inscritas na estrutura e limitadas por compatibilidade.",
+            "tipo_de_necessidade": "necessidade_ontologica",
+            "estatuto_inferencial": "explicitacao_modal_real"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Potencialidade designa o campo real de atualizações compatíveis sob limite.",
+            "o_que_falta_provar_ou_explicitar": "Separar claramente potencialidade de abstração modal e de indeterminação vaga.",
+            "objecoes_tipicas_a_bloquear": [
+              "possível lógico confundido com potencialidade"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P15",
+          "numero": 15,
+          "proposicao": "A atualização é transição real no contínuo.",
+          "descricao_curta": "Mudança não é salto mágico; é atualização real de potencialidades.",
+          "depende_de": [
+            "P14"
+          ],
+          "prepara": [
+            "P16"
+          ],
+          "justificacao": {
+            "tese_minima": "A atualização é transição real no contínuo.",
+            "justificacao_interna_do_passo": "Se potencialidades são reais, a mudança é a sua efetivação no contínuo do real e não irrupção ex nihilo.",
+            "tipo_de_necessidade": "necessidade_dinamica",
+            "estatuto_inferencial": "passagem_potencia_ato"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A mudança é atualização efetiva de uma potencialidade real no interior de uma continuidade estruturada.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar por que não há salto mágico entre potência e ato.",
+            "objecoes_tipicas_a_bloquear": [
+              "milagre ontológico da mudança"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar mecanismo conceptual da transição"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P16",
+          "numero": 16,
+          "proposicao": "A continuidade torna possível movimento e estabilidade.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P15"
+          ],
+          "prepara": [
+            "P17"
+          ],
+          "justificacao": {
+            "tese_minima": "A continuidade torna possível movimento e estabilidade.",
+            "justificacao_interna_do_passo": "Num contínuo estruturado, a atualização permite variação e a estrutura permite permanência relativa.",
+            "tipo_de_necessidade": "necessidade_dinamica",
+            "estatuto_inferencial": "co_possibilidade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Movimento e estabilidade são co-possíveis porque a continuidade estruturada admite transição e manutenção sob limite.",
+            "o_que_falta_provar_ou_explicitar": "Mostrar como estabilidade não contradiz dinâmica, e dinâmica não dissolve estrutura.",
+            "objecoes_tipicas_a_bloquear": [
+              "dinamismo dissolvente",
+              "fixismo rígido"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P17",
+          "numero": 17,
+          "proposicao": "Da atualização sob limite surgem regularidade, necessidade e contingência.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P13",
+            "P14",
+            "P15",
+            "P16"
+          ],
+          "prepara": [
+            "P18"
+          ],
+          "justificacao": {
+            "tese_minima": "Da atualização sob limite surgem regularidade, necessidade e contingência.",
+            "justificacao_interna_do_passo": "Uma dinâmica real limitada produz padrões, constrangimentos e margens situadas, tornando inteligíveis regularidade, necessidade estrutural e contingência real.",
+            "tipo_de_necessidade": "necessidade_estrutural",
+            "estatuto_inferencial": "diferenciacao_modal"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A dinâmica real sob estrutura e limite torna inteligíveis regularidade, necessidade estrutural e contingência situada.",
+            "o_que_falta_provar_ou_explicitar": "Distinguir necessidade estrutural de fatalismo e contingência real de arbitrariedade.",
+            "objecoes_tipicas_a_bloquear": [
+              "fatalismo",
+              "caos indiferenciado"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BLOCO_III",
+      "titulo": "Organização do real",
+      "proposicoes": [
+        {
+          "id": "P18",
+          "numero": 18,
+          "proposicao": "O real organiza-se em campos.",
+          "descricao_curta": "Determinações e atualizações não ocorrem no vazio; ocorrem em configurações relacionais.",
+          "depende_de": [
+            "P12",
+            "P13",
+            "P14",
+            "P15",
+            "P16",
+            "P17"
+          ],
+          "prepara": [
+            "P19"
+          ],
+          "justificacao": {
+            "tese_minima": "O real organiza-se em campos.",
+            "justificacao_interna_do_passo": "As relações e atualizações reais distribuem-se em configurações relativamente estáveis que condicionam o que nelas é admissível.",
+            "tipo_de_necessidade": "necessidade_organizacional",
+            "estatuto_inferencial": "configuracao_relacional"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "As determinações e atualizações reais distribuem-se em configurações relacionais relativamente estáveis, isto é, em campos.",
+            "o_que_falta_provar_ou_explicitar": "Mostrar por que a relacionalidade alargada exige campo e não só relações dispersas.",
+            "objecoes_tipicas_a_bloquear": [
+              "relações dispersas sem configuração"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P19",
+          "numero": 19,
+          "proposicao": "Os campos comportam círculos ou fechos locais.",
+          "descricao_curta": "Há estabilizações locais sem totalização absoluta.",
+          "depende_de": [
+            "P18"
+          ],
+          "prepara": [
+            "P20"
+          ],
+          "justificacao": {
+            "tese_minima": "Os campos comportam círculos ou fechos locais.",
+            "justificacao_interna_do_passo": "Se um campo se estabiliza funcionalmente, pode haver circuitos ou fechos locais sem que isso implique fechamento total do real.",
+            "tipo_de_necessidade": "necessidade_funcional",
+            "estatuto_inferencial": "fecho_local"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Os campos admitem estabilizações funcionais locais sem exigirem fechamento absoluto do real.",
+            "o_que_falta_provar_ou_explicitar": "Clarificar fecho local e distingui-lo de totalidade absoluta.",
+            "objecoes_tipicas_a_bloquear": [
+              "totalização do campo"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P20",
+          "numero": 20,
+          "proposicao": "Há escalas ontológicas distintas.",
+          "descricao_curta": "Nem toda a realidade se descreve ao mesmo nível; colapsar níveis é erro.",
+          "depende_de": [
+            "P18",
+            "P19"
+          ],
+          "prepara": [
+            "P21"
+          ],
+          "justificacao": {
+            "tese_minima": "Há escalas ontológicas distintas.",
+            "justificacao_interna_do_passo": "A organização em campos e fechos locais torna inteligível que diferentes níveis de descrição e realidade não sejam redutíveis uns aos outros.",
+            "tipo_de_necessidade": "necessidade_descritiva",
+            "estatuto_inferencial": "nao_colapso_de_niveis"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A inteligibilidade do real exige diferenciação de níveis ou escalas ontológicas irredutíveis entre si.",
+            "o_que_falta_provar_ou_explicitar": "Mostrar que o colapso de escalas produz erro categorial e erro descritivo.",
+            "objecoes_tipicas_a_bloquear": [
+              "reducionismo de escala",
+              "colapso categorial"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P21",
+          "numero": 21,
+          "proposicao": "Tempo, estabilidade e movimento pertencem à estrutura do campo.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P15",
+            "P16",
+            "P20"
+          ],
+          "prepara": [
+            "P22"
+          ],
+          "justificacao": {
+            "tese_minima": "Tempo, estabilidade e movimento pertencem à estrutura do campo.",
+            "justificacao_interna_do_passo": "Uma vez que os campos comportam estabilidade e mudança em escalas, o tempo pertence à própria estrutura da atualização e persistência.",
+            "tipo_de_necessidade": "necessidade_dinamica",
+            "estatuto_inferencial": "temporalidade_estrutural"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O tempo não é mero índice externo, mas dimensão estrutural da atualização, da persistência e da variação dos campos.",
+            "o_que_falta_provar_ou_explicitar": "Fechar a dedução do tempo a partir de atualização, estabilidade e campo.",
+            "objecoes_tipicas_a_bloquear": [
+              "tempo como mera convenção externa"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P22",
+          "numero": 22,
+          "proposicao": "A admissibilidade de descrições e ações depende de campo, escala e limite.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P18",
+            "P19",
+            "P20",
+            "P21"
+          ],
+          "prepara": [
+            "P23"
+          ],
+          "justificacao": {
+            "tese_minima": "A admissibilidade de descrições e ações depende de campo, escala e limite.",
+            "justificacao_interna_do_passo": "Uma descrição ou ação só é adequada se respeitar o campo em que incide, a escala pertinente e os limites reais aplicáveis.",
+            "tipo_de_necessidade": "necessidade_epistemico_pratica",
+            "estatuto_inferencial": "criterio_de_adequacao_localizado"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Descrição e ação só são adequadas quando respeitam o campo em causa, a escala pertinente e os limites reais.",
+            "o_que_falta_provar_ou_explicitar": "Este passo é axial para epistemologia e ética; precisa de formulação mais sistemática.",
+            "objecoes_tipicas_a_bloquear": [
+              "universalismo indiferenciado de descrição",
+              "ação sem escala"
+            ],
+            "mediacoes_em_falta": [
+              "ligar este passo explicitamente ao erro e à ética"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BLOCO_IV",
+      "titulo": "Emergência do ser localizado e reflexivo",
+      "proposicoes": [
+        {
+          "id": "P23",
+          "numero": 23,
+          "proposicao": "No real há seres localizados.",
+          "descricao_curta": "Nada apreende de fora do real.",
+          "depende_de": [
+            "P12",
+            "P13",
+            "P14",
+            "P15",
+            "P16",
+            "P17",
+            "P18",
+            "P19",
+            "P20",
+            "P21",
+            "P22"
+          ],
+          "prepara": [
+            "P24"
+          ],
+          "justificacao": {
+            "tese_minima": "No real há seres localizados.",
+            "justificacao_interna_do_passo": "Se tudo quanto é se inscreve no real, então qualquer ente e qualquer apreensão são localizados e não exteriores ao real.",
+            "tipo_de_necessidade": "necessidade_ontologica",
+            "estatuto_inferencial": "localidade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Todo o ente se encontra situado no real e nenhuma apreensão ocorre a partir de um exterior ao real.",
+            "o_que_falta_provar_ou_explicitar": "Fechar o conceito de localidade sem cair em relativismo ou solipsismo.",
+            "objecoes_tipicas_a_bloquear": [
+              "ponto de vista absoluto exterior",
+              "relativismo da localidade"
+            ],
+            "mediacoes_em_falta": [
+              "mostrar que localidade limita sem destruir adequação"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P24",
+          "numero": 24,
+          "proposicao": "O ser humano é um ente localizado no real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P23"
+          ],
+          "prepara": [
+            "P25"
+          ],
+          "justificacao": {
+            "tese_minima": "O ser humano é um ente localizado no real.",
+            "justificacao_interna_do_passo": "O humano não é exceção extramundana: é um ente situado, inscrito nos mesmos regimes ontológicos fundamentais.",
+            "tipo_de_necessidade": "necessidade_antropologica",
+            "estatuto_inferencial": "reinscricao_do_humano"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O humano deve ser reinscrito ontologicamente como ente situado, e não como instância exterior ou fundadora do real.",
+            "o_que_falta_provar_ou_explicitar": "Reforçar a crítica do antropocentrismo fundacional.",
+            "objecoes_tipicas_a_bloquear": [
+              "fundacionalismo subjetivo",
+              "excepcionalismo humano extramundano"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P25",
+          "numero": 25,
+          "proposicao": "O ser humano apreende.",
+          "descricao_curta": "Apreensão é relação situada com o real.",
+          "depende_de": [
+            "P24"
+          ],
+          "prepara": [
+            "P26"
+          ],
+          "justificacao": {
+            "tese_minima": "O ser humano apreende.",
+            "justificacao_interna_do_passo": "Enquanto ente localizado, o humano entra em contacto situado com o real; essa relação originária é apreensão.",
+            "tipo_de_necessidade": "necessidade_fenomenologica_minima",
+            "estatuto_inferencial": "contacto_situado"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A apreensão é uma relação situada de contato com o real por parte de um ente localizado.",
+            "o_que_falta_provar_ou_explicitar": "Definir melhor apreensão e distingui-la de interpretação e representação.",
+            "objecoes_tipicas_a_bloquear": [
+              "representacionalismo originário"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar natureza pré-representacional da apreensão"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P26",
+          "numero": 26,
+          "proposicao": "A apreensão transforma-se em representação operável.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P25"
+          ],
+          "prepara": [
+            "P27"
+          ],
+          "justificacao": {
+            "tese_minima": "A apreensão transforma-se em representação operável.",
+            "justificacao_interna_do_passo": "Para orientar-se, o ser reflexivo transforma o apreendido em forma manipulável, estabilizável e comparável: representação operável.",
+            "tipo_de_necessidade": "necessidade_mediacional",
+            "estatuto_inferencial": "transformacao_operativa"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A representação é uma transformação mediada da apreensão em forma operável para orientação e estabilização.",
+            "o_que_falta_provar_ou_explicitar": "Esta mediação é central: explicar por que representação não é o dado originário.",
+            "objecoes_tipicas_a_bloquear": [
+              "representação como dado originário"
+            ],
+            "mediacoes_em_falta": [
+              "mostrar como e porquê a mediação ocorre"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P27",
+          "numero": 27,
+          "proposicao": "A mediação estabiliza-se em linguagem.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P26"
+          ],
+          "prepara": [
+            "P28"
+          ],
+          "justificacao": {
+            "tese_minima": "A mediação estabiliza-se em linguagem.",
+            "justificacao_interna_do_passo": "A representação operável tende a estabilizar-se simbolicamente, permitindo repetição, partilha e trabalho reflexivo: linguagem.",
+            "tipo_de_necessidade": "necessidade_simbolica",
+            "estatuto_inferencial": "estabilizacao_simbolica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A linguagem constitui o regime simbólico de estabilização e circulação da representação operável.",
+            "o_que_falta_provar_ou_explicitar": "Densificar a transição da mediação para linguagem, evitando linguisticismo.",
+            "objecoes_tipicas_a_bloquear": [
+              "linguisticismo ontológico"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P28",
+          "numero": 28,
+          "proposicao": "A consciência é processo no real, não instância exterior ao real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P24",
+            "P25",
+            "P26",
+            "P27"
+          ],
+          "prepara": [
+            "P29"
+          ],
+          "justificacao": {
+            "tese_minima": "A consciência é processo no real, não instância exterior ao real.",
+            "justificacao_interna_do_passo": "Se o humano é localizado, apreende, representa e simboliza no real, então a consciência deve ser pensada como processo real situado e mediado.",
+            "tipo_de_necessidade": "necessidade_ontologico_reflexiva",
+            "estatuto_inferencial": "reinscricao_da_consciencia"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A consciência deve ser pensada como processo real, localizado e mediado, e não como foro extramundano.",
+            "o_que_falta_provar_ou_explicitar": "Fechar o argumento contínuo contra a exterioridade da consciência.",
+            "objecoes_tipicas_a_bloquear": [
+              "dualismo extramundano",
+              "consciência como instância soberana"
+            ],
+            "mediacoes_em_falta": [
+              "ligar consciência a localidade, mediação e linguagem"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P29",
+          "numero": 29,
+          "proposicao": "A liberdade é situada no poder-ser.",
+          "descricao_curta": "Não é absoluto exterior ao limite; é orientação possível no campo do real.",
+          "depende_de": [
+            "P13",
+            "P14",
+            "P15",
+            "P24",
+            "P25",
+            "P26",
+            "P27",
+            "P28"
+          ],
+          "prepara": [
+            "P30"
+          ],
+          "justificacao": {
+            "tese_minima": "A liberdade é situada no poder-ser.",
+            "justificacao_interna_do_passo": "Se a ação humana se move em campos de potencialidade reais e sob mediação reflexiva, então a liberdade é capacidade situada de orientação no poder-ser.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "orientacao_situada"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A liberdade não é indeterminação absoluta, mas capacidade situada de orientação no campo do poder-ser real.",
+            "o_que_falta_provar_ou_explicitar": "Distinguir liberdade situada de livre-arbítrio absoluto e de puro determinismo.",
+            "objecoes_tipicas_a_bloquear": [
+              "livre-arbítrio absoluto",
+              "determinismo anulador"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BLOCO_V",
+      "titulo": "Epistemologia derivada da ontologia",
+      "proposicoes": [
+        {
+          "id": "P30",
+          "numero": 30,
+          "proposicao": "O ser reflexivo representa o real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P26",
+            "P27",
+            "P28",
+            "P29"
+          ],
+          "prepara": [
+            "P31"
+          ],
+          "justificacao": {
+            "tese_minima": "O ser reflexivo representa o real.",
+            "justificacao_interna_do_passo": "A reflexividade humana produz representações do real no interior da sua inserção ontológica e prática.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "funcao_reflexiva"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A reflexividade humana produz representações do real no interior da sua inserção ontológica.",
+            "o_que_falta_provar_ou_explicitar": "Clarificar o estatuto do representar como função derivada da apreensão.",
+            "objecoes_tipicas_a_bloquear": [
+              "representação sem base ontológica"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P31",
+          "numero": 31,
+          "proposicao": "A representação pode adequar-se ou desadequar-se ao real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P30"
+          ],
+          "prepara": [
+            "P32"
+          ],
+          "justificacao": {
+            "tese_minima": "A representação pode adequar-se ou desadequar-se ao real.",
+            "justificacao_interna_do_passo": "Se a representação é representação de algo real, então ela pode ajustar-se ou falhar relativamente ao que representa.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "possibilidade_de_verdade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Toda a representação admite diferença entre ajustamento e desajustamento relativamente ao real a que se refere.",
+            "o_que_falta_provar_ou_explicitar": "Fechar a passagem de representação para possibilidade de adequação.",
+            "objecoes_tipicas_a_bloquear": [
+              "coerência sem referência",
+              "representação sem critério de acerto"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F/M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P32",
+          "numero": 32,
+          "proposicao": "A adequação exige critério.",
+          "descricao_curta": "Sem critério, não há avaliação da representação.",
+          "depende_de": [
+            "P31"
+          ],
+          "prepara": [
+            "P33"
+          ],
+          "justificacao": {
+            "tese_minima": "A adequação exige critério.",
+            "justificacao_interna_do_passo": "A diferença entre ajustamento e desajustamento só é operável se houver critério de avaliação.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "avaliabilidade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A distinção entre adequação e desadequação exige um critério de avaliação.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar em que sentido o critério é operativo e não arbitrário.",
+            "objecoes_tipicas_a_bloquear": [
+              "critério arbitrário",
+              "mera impressão de acerto"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P33",
+          "numero": 33,
+          "proposicao": "O critério tem de estar submetido ao real.",
+          "descricao_curta": "Caso contrário degrada-se em coerência interna ou fechamento sistémico.",
+          "depende_de": [
+            "P32"
+          ],
+          "prepara": [
+            "P34"
+          ],
+          "justificacao": {
+            "tese_minima": "O critério tem de estar submetido ao real.",
+            "justificacao_interna_do_passo": "Um critério puramente interno não distingue entre coerência de sistema e adequação ao real; por isso tem de submeter-se ao real.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "submissao_ao_real"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.",
+            "o_que_falta_provar_ou_explicitar": "Blindar a crítica do coerentismo fechado e do autorreferencialismo.",
+            "objecoes_tipicas_a_bloquear": [
+              "coerentismo fechado",
+              "convencionalismo total"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P34",
+          "numero": 34,
+          "proposicao": "Verdade é adequação sob critério e submissão ao real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P31",
+            "P32",
+            "P33"
+          ],
+          "prepara": [
+            "P35"
+          ],
+          "justificacao": {
+            "tese_minima": "Verdade é adequação sob critério e submissão ao real.",
+            "justificacao_interna_do_passo": "Quando a representação se ajusta ao real segundo critério operativo submetido ao próprio real, há verdade.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "sintese_do_regime_de_verdade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.",
+            "o_que_falta_provar_ou_explicitar": "Integrar adequação, critério e submissão ao real numa formulação unificada.",
+            "objecoes_tipicas_a_bloquear": [
+              "verdade como coerência pura",
+              "verdade como consenso"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P35",
+          "numero": 35,
+          "proposicao": "Se há verdade, há erro.",
+          "descricao_curta": "Sem distinção entre adequação e desadequação não há sequer crítica.",
+          "depende_de": [
+            "P34"
+          ],
+          "prepara": [
+            "P36"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há verdade, há erro.",
+            "justificacao_interna_do_passo": "Se há possibilidade de acerto, há igualmente possibilidade de falha; sem erro não há inteligibilidade crítica da verdade.",
+            "tipo_de_necessidade": "co_originariedade_epistemica",
+            "estatuto_inferencial": "contraste_necessario"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.",
+            "o_que_falta_provar_ou_explicitar": "Está forte; apenas refino estilístico.",
+            "objecoes_tipicas_a_bloquear": [
+              "infalibilismo vazio"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P36",
+          "numero": 36,
+          "proposicao": "O erro não é só incoerência; é desalinhar-se com o real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P35"
+          ],
+          "prepara": [
+            "P37"
+          ],
+          "justificacao": {
+            "tese_minima": "O erro não é só incoerência; é desalinhar-se com o real.",
+            "justificacao_interna_do_passo": "O erro tem primariamente estatuto de desadequação ao real, podendo depois tomar formas descritivas, categoriais e escalares.",
+            "tipo_de_necessidade": "necessidade_epistemica",
+            "estatuto_inferencial": "desadequacao_real"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O erro deve ser definido primariamente como desadequação ao real, podendo assumir formas descritivas, categoriais e escalares.",
+            "o_que_falta_provar_ou_explicitar": "Consolidar tipologia do erro e sua derivação.",
+            "objecoes_tipicas_a_bloquear": [
+              "erro reduzido a incoerência formal"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P37",
+          "numero": 37,
+          "proposicao": "A correção é reinscrição no real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P36"
+          ],
+          "prepara": [
+            "P38"
+          ],
+          "justificacao": {
+            "tese_minima": "A correção é reinscrição no real.",
+            "justificacao_interna_do_passo": "Corrigir não é apenas reajustar um sistema interno, mas reinscrever representação e ação na medida do real.",
+            "tipo_de_necessidade": "necessidade_epistemico_pratica",
+            "estatuto_inferencial": "reinscricao_corretiva"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.",
+            "o_que_falta_provar_ou_explicitar": "Fechar a diferença entre correção interna e correção real.",
+            "objecoes_tipicas_a_bloquear": [
+              "correção como mera coerentização"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BLOCO_VI",
+      "titulo": "Passagem da epistemologia à ética ontológica",
+      "proposicoes": [
+        {
+          "id": "P38",
+          "numero": 38,
+          "proposicao": "A ação do ser reflexivo é atualização real com consequências.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P15",
+            "P29",
+            "P37"
+          ],
+          "prepara": [
+            "P39"
+          ],
+          "justificacao": {
+            "tese_minima": "A ação do ser reflexivo é atualização real com consequências.",
+            "justificacao_interna_do_passo": "A ação do ser reflexivo é uma atualização situada no real e produz efeitos reais sobre campos, escalas e outros seres.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "agencia_real"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A ação humana constitui atualização real situada, inscrita em campos e portadora de efeitos reais.",
+            "o_que_falta_provar_ou_explicitar": "Amarrar melhor ação, atualização, liberdade situada e correção.",
+            "objecoes_tipicas_a_bloquear": [
+              "ação como mero fenómeno interno"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P39",
+          "numero": 39,
+          "proposicao": "Nem toda a atualização é indiferente.",
+          "descricao_curta": "Algumas trajetórias estreitam o campo do poder-ser; outras preservam ou ampliam.",
+          "depende_de": [
+            "P38"
+          ],
+          "prepara": [
+            "P40"
+          ],
+          "justificacao": {
+            "tese_minima": "Nem toda a atualização é indiferente.",
+            "justificacao_interna_do_passo": "As atualizações do ser reflexivo diferem quanto ao seu efeito sobre as condições reais de preservação, abertura ou estreitamento do poder-ser.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "assimetria_real_da_acao"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "As atualizações do ser reflexivo diferem quanto ao seu efeito sobre as condições reais de preservação, abertura ou estreitamento do poder-ser.",
+            "o_que_falta_provar_ou_explicitar": "Tornar esta assimetria ontologicamente demonstrada e não apenas intuitiva.",
+            "objecoes_tipicas_a_bloquear": [
+              "indiferentismo axiológico total"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar a métrica ontológica da diferença prática"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P40",
+          "numero": 40,
+          "proposicao": "Existe dano real.",
+          "descricao_curta": "Dano real é critério negativo ancorado no real: há trajetos que degradam condições e estreitam potencialidades.",
+          "depende_de": [
+            "P39"
+          ],
+          "prepara": [
+            "P41"
+          ],
+          "justificacao": {
+            "tese_minima": "Existe dano real.",
+            "justificacao_interna_do_passo": "Se certas ações degradam estruturalmente condições reais de continuidade, compatibilidade e abertura, então há dano real.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "criterio_negativo"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "Há formas de atualização que degradam estruturalmente condições reais, limitam compatibilidades e estreitam o poder-ser.",
+            "o_que_falta_provar_ou_explicitar": "Fixar uma definição canónica de dano real como categoria ontológico-operativa.",
+            "objecoes_tipicas_a_bloquear": [
+              "moralismo extrínseco",
+              "negação da negatividade real"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P41",
+          "numero": 41,
+          "proposicao": "Se há dano real, nem tudo vale do mesmo modo.",
+          "descricao_curta": "O real já introduz um mínimo negativo objetivo.",
+          "depende_de": [
+            "P40"
+          ],
+          "prepara": [
+            "P42"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há dano real, nem tudo vale do mesmo modo.",
+            "justificacao_interna_do_passo": "A existência de dano real introduz assimetria objetiva entre cursos de ação, impedindo que todos valham indiferentemente.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "assimetria_pratica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A existência de dano real introduz assimetria objetiva entre cursos de ação.",
+            "o_que_falta_provar_ou_explicitar": "Mostrar que isto funda diferença prática sem moralismo extrínseco.",
+            "objecoes_tipicas_a_bloquear": [
+              "indiferentismo normativo"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P42",
+          "numero": 42,
+          "proposicao": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+          "descricao_curta": "A atualização pode orientar-se segundo vetores de preservação, correção e não-degeneração.",
+          "depende_de": [
+            "P40",
+            "P41"
+          ],
+          "prepara": [
+            "P43"
+          ],
+          "justificacao": {
+            "tese_minima": "Se nem tudo vale do mesmo modo, há direção ontológica.",
+            "justificacao_interna_do_passo": "Se a ação não é indiferente e o dano introduz assimetria, então torna-se inteligível uma direção imanente de preservação, correção e não-degeneração.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "orientacao_imanente"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A ação pode e deve ser orientada segundo vetores de preservação, correção e não-degeneração inscritos no real.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar direção sem escorregar para teleologia externa rígida.",
+            "objecoes_tipicas_a_bloquear": [
+              "teleologia externa",
+              "arbitrariedade prática"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P43",
+          "numero": 43,
+          "proposicao": "A direção exige fixação operativa de vetores de ação.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P42",
+            "P32",
+            "P33",
+            "P34",
+            "P35",
+            "P36",
+            "P37"
+          ],
+          "prepara": [
+            "P44"
+          ],
+          "justificacao": {
+            "tese_minima": "A direção exige fixação operativa de vetores de ação.",
+            "justificacao_interna_do_passo": "Uma orientação prática só se torna operável se for traduzida em critérios e vetores de ação situados.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "traducao_operativa"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A orientação prática exige tradução operativa em critérios e vetores de ação situados.",
+            "o_que_falta_provar_ou_explicitar": "Ligar melhor direção, critério, correção e campo.",
+            "objecoes_tipicas_a_bloquear": [
+              "direção meramente abstrata"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P44",
+          "numero": 44,
+          "proposicao": "O bem é adequação da atualização ao real.",
+          "descricao_curta": "Quando a atualização se orienta adequadamente no campo sob critério, verdade, direção e não-dano, instala-se o bem.",
+          "depende_de": [
+            "P34",
+            "P40",
+            "P42",
+            "P43"
+          ],
+          "prepara": [
+            "P45"
+          ],
+          "justificacao": {
+            "tese_minima": "O bem é adequação da atualização ao real.",
+            "justificacao_interna_do_passo": "O bem consiste no modo de atualização em que a ação se mantém adequada ao real, sob critério, direção e não-dano relevante.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "sintese_do_bem"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O bem consiste na atualização adequada ao real sob critério, direção, verdade e não-dano.",
+            "o_que_falta_provar_ou_explicitar": "Fechar formulação canónica evitando banalização funcionalista.",
+            "objecoes_tipicas_a_bloquear": [
+              "funcionalismo raso",
+              "moralismo sem ontologia"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P45",
+          "numero": 45,
+          "proposicao": "O mal é degeneração, dano ou desadequação operativa.",
+          "descricao_curta": "Não é entidade autónoma; é falha ou desvio relativamente à atualização adequada.",
+          "depende_de": [
+            "P40",
+            "P44"
+          ],
+          "prepara": [
+            "P46"
+          ],
+          "justificacao": {
+            "tese_minima": "O mal é degeneração, dano ou desadequação operativa.",
+            "justificacao_interna_do_passo": "Se o bem é adequação prática ao real, o mal surge como desadequação, degeneração ou dano no regime da ação.",
+            "tipo_de_necessidade": "necessidade_etico_ontologica",
+            "estatuto_inferencial": "negatividade_pratica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O mal não é substância autónoma, mas forma de desadequação, degeneração ou dano no regime da ação.",
+            "o_que_falta_provar_ou_explicitar": "Refinar diferença entre erro, dano e mal.",
+            "objecoes_tipicas_a_bloquear": [
+              "mal como entidade autónoma"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "BLOCO_VII",
+      "titulo": "Fecho ético",
+      "proposicoes": [
+        {
+          "id": "P46",
+          "numero": 46,
+          "proposicao": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P40",
+            "P41",
+            "P42",
+            "P43",
+            "P44",
+            "P45"
+          ],
+          "prepara": [
+            "P47"
+          ],
+          "justificacao": {
+            "tese_minima": "Se há bem e mal ancorados no real, a normatividade não é autónoma.",
+            "justificacao_interna_do_passo": "Se o valor prático emerge de assimetrias reais da ação, a normatividade não constitui ordem separada autolegislada.",
+            "tipo_de_necessidade": "necessidade_metaetica",
+            "estatuto_inferencial": "derivacao_da_normatividade"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A normatividade deriva da estrutura do real e da ação situada, não constituindo uma ordem separada autolegislada.",
+            "o_que_falta_provar_ou_explicitar": "Blindar esta derivação contra a objeção da autonomia normativa.",
+            "objecoes_tipicas_a_bloquear": [
+              "autonomia normativa absoluta"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P47",
+          "numero": 47,
+          "proposicao": "O dever-ser deriva da subordinação operativa ao real.",
+          "descricao_curta": "Não é imposição externa; é exigência derivada de verdade, correção, dano real e direção.",
+          "depende_de": [
+            "P34",
+            "P37",
+            "P40",
+            "P42"
+          ],
+          "prepara": [
+            "P48"
+          ],
+          "justificacao": {
+            "tese_minima": "O dever-ser deriva da subordinação operativa ao real.",
+            "justificacao_interna_do_passo": "O dever-ser exprime a exigência prática que decorre da submissão da ação ao real, via verdade, correção, dano e direção.",
+            "tipo_de_necessidade": "necessidade_metaetica",
+            "estatuto_inferencial": "derivacao_operativa_do_dever"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O dever-ser exprime a exigência prática derivada da verdade, correção, direção e dano real.",
+            "o_que_falta_provar_ou_explicitar": "Mostrar formalmente que não há salto ilegítimo do ser ao dever-ser, mas derivação operativa.",
+            "objecoes_tipicas_a_bloquear": [
+              "falácia naturalista simplista"
+            ],
+            "mediacoes_em_falta": [
+              "explicitar forma própria da derivação operativa"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M/F",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P48",
+          "numero": 48,
+          "proposicao": "O dever-ser é subordinado ao poder-ser real.",
+          "descricao_curta": "Não manda o impossível; orienta o possível real.",
+          "depende_de": [
+            "P13",
+            "P14",
+            "P15",
+            "P47"
+          ],
+          "prepara": [
+            "P49"
+          ],
+          "justificacao": {
+            "tese_minima": "O dever-ser é subordinado ao poder-ser real.",
+            "justificacao_interna_do_passo": "Uma exigência prática só tem sentido sobre possibilidades reais de atualização; por isso o dever-ser é subordinado ao poder-ser.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "normatividade_possivel"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A exigência prática só incide sobre possibilidades reais de atualização, não sobre impossíveis.",
+            "o_que_falta_provar_ou_explicitar": "Explicitar melhor a relação entre normatividade e possibilidade real.",
+            "objecoes_tipicas_a_bloquear": [
+              "dever impossível"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P49",
+          "numero": 49,
+          "proposicao": "A responsabilidade ontológica decorre da condição reflexiva situada.",
+          "descricao_curta": "O ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.",
+          "depende_de": [
+            "P29",
+            "P47",
+            "P48"
+          ],
+          "prepara": [
+            "P50"
+          ],
+          "justificacao": {
+            "tese_minima": "A responsabilidade ontológica decorre da condição reflexiva situada.",
+            "justificacao_interna_do_passo": "Se o ser reflexivo pode orientar atualizações reais possíveis, então responde por essa orientação no campo em que existe.",
+            "tipo_de_necessidade": "necessidade_pratica",
+            "estatuto_inferencial": "imputabilidade_ontologica"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "O ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.",
+            "o_que_falta_provar_ou_explicitar": "Densificar a noção de responsabilidade sem moralismo jurídico externo.",
+            "objecoes_tipicas_a_bloquear": [
+              "responsabilidade como mera convenção"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P50",
+          "numero": 50,
+          "proposicao": "A dignidade é o limite normativo forte relativo ao ser reflexivo no real.",
+          "descricao_curta": "Aqui o sistema fecha a ética não na convenção, mas no estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+          "depende_de": [
+            "P24",
+            "P25",
+            "P26",
+            "P27",
+            "P28",
+            "P29",
+            "P47",
+            "P48",
+            "P49"
+          ],
+          "prepara": [
+            "P51"
+          ],
+          "justificacao": {
+            "tese_minima": "A dignidade é o limite normativo forte relativo ao ser reflexivo no real.",
+            "justificacao_interna_do_passo": "Se o ser reflexivo é vulnerável, situado, capaz de verdade, erro, correção e orientação prática, então o seu estatuto funda um limite normativo forte: dignidade.",
+            "tipo_de_necessidade": "necessidade_metaetica",
+            "estatuto_inferencial": "limite_normativo_forte"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A dignidade exprime o estatuto normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.",
+            "o_que_falta_provar_ou_explicitar": "Esta é uma das peças menos fechadas: mostrar por que a dignidade decorre do estatuto ontológico-reflexivo e não é mera convenção.",
+            "objecoes_tipicas_a_bloquear": [
+              "dignidade como puro convencionalismo"
+            ],
+            "mediacoes_em_falta": [
+              "pode exigir subdivisão em vulnerabilidade, reflexividade e limite normativo"
+            ]
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "L/M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        },
+        {
+          "id": "P51",
+          "numero": 51,
+          "proposicao": "A vida boa é atualização adequada, verdadeira, corrigível e não-degenerativa do ser reflexivo entre outros seres reflexivos no real.",
+          "descricao_curta": "",
+          "depende_de": [
+            "P01",
+            "P02",
+            "P03",
+            "P04",
+            "P05",
+            "P06",
+            "P07",
+            "P08",
+            "P09",
+            "P10",
+            "P11",
+            "P12",
+            "P13",
+            "P14",
+            "P15",
+            "P16",
+            "P17",
+            "P18",
+            "P19",
+            "P20",
+            "P21",
+            "P22",
+            "P23",
+            "P24",
+            "P25",
+            "P26",
+            "P27",
+            "P28",
+            "P29",
+            "P30",
+            "P31",
+            "P32",
+            "P33",
+            "P34",
+            "P35",
+            "P36",
+            "P37",
+            "P38",
+            "P39",
+            "P40",
+            "P41",
+            "P42",
+            "P43",
+            "P44",
+            "P45",
+            "P46",
+            "P47",
+            "P48",
+            "P49",
+            "P50"
+          ],
+          "prepara": [],
+          "justificacao": {
+            "tese_minima": "A vida boa é atualização adequada, verdadeira, corrigível e não-degenerativa do ser reflexivo entre outros seres reflexivos no real.",
+            "justificacao_interna_do_passo": "A vida boa designa o modo de atualização em que verdade, correção, não-dano, direção e coexistência reflexiva se articulam adequadamente no real.",
+            "tipo_de_necessidade": "necessidade_sintetica",
+            "estatuto_inferencial": "fecho_do_percurso"
+          },
+          "tratamento_academico": {
+            "formulacao_filosofico_academica": "A vida boa designa a forma de atualização em que verdade, correção, não-dano, direção e co-existência reflexiva se articulam adequadamente.",
+            "o_que_falta_provar_ou_explicitar": "Integrar o fecho ético sem soar meramente programático.",
+            "objecoes_tipicas_a_bloquear": [
+              "eudaimonismo desligado da ontologia"
+            ],
+            "mediacoes_em_falta": []
+          },
+          "confronto_com_fragmentos": {
+            "nos_fragmentos": null,
+            "tipo_de_presenca": null,
+            "fragmentos_relacionados": [],
+            "sintese_do_que_o_fragmento_acrescenta": null,
+            "objecoes_bloqueadas_pelo_fragmento": [],
+            "conceitos_novos_trazidos_pelos_fragmentos": []
+          },
+          "decisao_editorial": {
+            "estado_atual": "M",
+            "necessidade_de_tratamento": null,
+            "acao_sobre_o_mapa": null,
+            "prioridade_editorial": null,
+            "nova_formulacao_provisoria": null
+          }
+        }
+      ]
+    }
+  ],
+  "indices": {
+    "total_blocos": 7,
+    "total_proposicoes": 51,
+    "proposicoes_por_estado": {
+      "L": 1,
+      "M": 33,
+      "F": 9,
+      "L/M": 1,
+      "M/F": 6,
+      "F/M": 1
+    },
+    "nos_criticos_iniciais": [
+      "P01",
+      "P12",
+      "P13",
+      "P14",
+      "P15",
+      "P22",
+      "P25",
+      "P26",
+      "P27",
+      "P28",
+      "P34",
+      "P39",
+      "P40",
+      "P42",
+      "P44",
+      "P46",
+      "P47",
+      "P50"
+    ]
+  }
+}
