@@ -1,8 +1,8 @@
 # DOSSIERS FINAIS ESTABILIZADOS — MERGED
 
-- Gerado em: `2026-04-05 16:59:37`
+- Gerado em: `2026-04-05 22:19:37`
 - Pasta origem: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\05_dossiers_reformulados\validacao_fina`
-- Total de ficheiros agregados: `28`
+- Total de ficheiros agregados: `48`
 
 ## Índice
 ### CF01
@@ -46,6 +46,36 @@
 - [CF07_complemento_FECHO_LOCAL](#cf07_complemento_fecho_local)
 - [CF07_ficha_gesto_estrutural](#cf07_ficha_gesto_estrutural)
 - [CF07_mapa_minimo_pre_exposicao](#cf07_mapa_minimo_pre_exposicao)
+
+### CF08
+- [CF08_dossier_confronto_fino_dirigido](#cf08_dossier_confronto_fino_dirigido)
+- [CF08_complemento_FECHO_LOCAL](#cf08_complemento_fecho_local)
+- [CF08_ficha_gesto_estrutural](#cf08_ficha_gesto_estrutural)
+- [CF08_mapa_minimo_pre_exposicao](#cf08_mapa_minimo_pre_exposicao)
+
+### CF09
+- [CF09_dossier_confronto_fino_dirigido](#cf09_dossier_confronto_fino_dirigido)
+- [CF09_complemento_FECHO_LOCAL](#cf09_complemento_fecho_local)
+- [CF09_ficha_gesto_estrutural](#cf09_ficha_gesto_estrutural)
+- [CF09_mapa_minimo_pre_exposicao](#cf09_mapa_minimo_pre_exposicao)
+
+### CF10
+- [CF10_dossier_confronto_fino_dirigido](#cf10_dossier_confronto_fino_dirigido)
+- [CF10_complemento_FECHO_LOCAL](#cf10_complemento_fecho_local)
+- [CF10_ficha_gesto_estrutural](#cf10_ficha_gesto_estrutural)
+- [CF10_mapa_minimo_pre_exposicao](#cf10_mapa_minimo_pre_exposicao)
+
+### CF11
+- [CF11_dossier_confronto_fino_dirigido](#cf11_dossier_confronto_fino_dirigido)
+- [CF11_complemento_FECHO_LOCAL](#cf11_complemento_fecho_local)
+- [CF11_ficha_gesto_estrutural](#cf11_ficha_gesto_estrutural)
+- [CF11_mapa_minimo_pre_exposicao](#cf11_mapa_minimo_pre_exposicao)
+
+### CF12
+- [CF12_dossier_confronto_fino_dirigido](#cf12_dossier_confronto_fino_dirigido)
+- [CF12_complemento_FECHO_LOCAL](#cf12_complemento_fecho_local)
+- [CF12_ficha_gesto_estrutural](#cf12_ficha_gesto_estrutural)
+- [CF12_mapa_minimo_pre_exposicao](#cf12_mapa_minimo_pre_exposicao)
 
 ---
 
@@ -2080,5 +2110,2131 @@ O **CF07** deve ser exposto da **relação situada ao real** para a **submissão
 ## V. Condição de uso
 
 Este mapa deve ser usado como **ordem mínima disciplinadora** de uma futura exposição: fixa o que abre, o que sustenta o corpo do caso e o que só pode entrar a jusante. **Ainda não é capítulo, narrativa nem redação final**; é apenas a camada intermédia que impede que a exposição futura traia a hierarquia já estabilizada do **CF07**.
+
+---
+
+# CF08
+
+---
+
+## CF08_dossier_confronto_fino_dirigido
+
+**Ficheiro de origem:** `CF08_dossier_confronto_fino_dirigido.md`
+
+# CF08 — dossier de confronto fino dirigido
+
+## I. Nota prévia de redecisão metodológica
+
+O **CF08** não é reaberto. Mantém-se como confronto local sobre a **reinscrição da consciência no real** e sobre a **determinação da mediação, da representação, do símbolo e da linguagem como operações locais e não soberanas**, sob regra **dossier-first**: o dossier continua a ser a norma local soberana provisória, a base fragmentária o campo real de prova e correção, e a instrumentação apenas travão auditável. O veredicto local estabilizado mantém-se como **`preservar_com_restricoes`**, pelo que o trabalho agora já não é de recentramento global, mas de **abertura baixa**, **hierarquia interna limpa** e **travagem de capturas laterais**.
+
+A consequência metodológica é simples: esta reformulação fina não pode voltar a abrir por **emergência**, **novidade qualitativa**, **passagem de níveis** ou qualquer léxico de salto abstrato; também não pode deixar teoria geral da linguagem, do símbolo, da mediação ou epistemologia corretiva alta ocuparem a cabeça do caso.
+
+## II. Pergunta central
+
+**Como descrever, a partir do facto de que nenhuma apreensão ocorre a partir de um exterior ao real, a consciência, a mediação, a representação, o símbolo e a linguagem como operações locais do real, sem dualismo, sem fechamento mediacional e sem substituição do real por construções derivadas?**
+
+## III. Formulação curta do confronto
+
+O **CF08** abre por **reinscrição no real**: nada apreende de fora do real. A partir daí, o caso trata da sequência pela qual a apreensão se deixa mediar, representar, simbolizar e estabilizar linguisticamente, sem que essas operações se autonomizem do real nem fabriquem pseudo-problemas por separação ontológica, erro categorial ou projeção indevida entre escalas.
+
+## IV. Descrição do confronto
+
+O problema local do **CF08** não é explicar um salto abstrato, nem construir uma teoria geral da consciência. O seu problema é mais restrito: determinar como a consciência se reinscreve no real e como o corpo mediacional do caso se articula sem se fechar sobre si.
+
+Por isso, a abertura correta do dossier tem de tornar visível **P23**: o caso começa pelo facto de que o ente e a apreensão estão situados no real e não operam a partir de um fora. Esta abertura não sobe para ontologia remota nem para teoria geral da consciência; serve apenas para impedir, desde o início, qualquer exteriorização ilegítima.
+
+O corpo próprio do confronto aparece depois em **P27/P28/P29**. Aqui o dossier tem de mostrar que a mediação não é ainda sistema soberano, que o símbolo não substitui o real que enquadra, e que a representação estabilizada continua subordinada à relação eu–real de que emerge. **P28** concentra a maior carga do material, mas só é filosoficamente correta quando permanece articulada com **P27** e **P29**, e não quando sobe a cabeça isolada do caso.
+
+A seguir entra **P30** como **dobradiça reflexiva local**: não abre o confronto, mas torna explícito como um ser reflexivo retoma e trabalha a mediação já instalada. O seu papel é de articulação, não de soberania.
+
+Só no terminal entra **P31**, como pressão epistemológica de fronteira: a representação admite diferença entre ajustamento e desajustamento relativamente ao real. Isto é importante, mas aqui ainda não pode mandar na entrada, sob pena de o dossier escorregar para o eixo de adequação, critério, verdade, erro e correção.
+
+Em toda a extensão do caso, **P19** vale como restrição transversal: há estabilizações locais sem fechamento absoluto do real. Esta cláusula protege o dossier contra duas derivas simétricas: dissolver toda a mediação num fluxo indiferenciado ou absolutizar a estabilização mediacional como se já fosse clausura ontológica.
+
+**P16/P18** permanecem como suportes ontológicos de fundo. **P04/P05/P07/P08** ficam como lastro estrutural remoto. Nenhuma destas faixas pode voltar a comandar a redação.
+
+## V. Tese canónica provisória afinada
+
+Quanto à consciência, à mediação e à representação, a tese canónica provisória afinada é a seguinte: **a consciência não é exterior ao real; a mediação, o símbolo, a representação e a linguagem são operações locais dessa inscrição; e os pseudo-problemas fortes deste domínio nascem quando uma diferença de perspetiva, de regime ou de estabilização é convertida em separação ontológica, fechamento mediacional ou critério soberano contra o próprio real.**
+
+## VI. Proposições nucleares e hierarquia interna
+
+### 1. Abertura e ancoragem
+- **P23** — abertura baixa e ancoragem de reinscrição.
+- Função: impedir exterioridade, dualismo forte e falsa autonomização da consciência logo na entrada.
+
+### 2. Corpo próprio do caso
+- **P27** — inicia o corpo mediacional como unidade operativa de mediação.
+- **P28** — concentra a maior carga do material e mostra a estabilização linguística/simbólica mais forte do caso.
+- **P29** — reconduz a mediação à representação operável sem a desligar do real.
+- Função do bloco: descrever o corpo mediacional próprio do CF08 sem o transformar em teoria geral da linguagem ou do símbolo.
+
+### 3. Dobradiça reflexiva
+- **P30** — entra como dobradiça reflexiva local.
+- Função: mostrar como a mediação é retomada por um ser reflexivo sem fazer da reflexividade uma exterioridade ontológica nem da correção o centro do dossier.
+
+### 4. Fronteira terminal
+- **P31** — fronteira terminal de pressão epistemológica.
+- Função: admitir a possibilidade de ajustamento e desajustamento sem deixar que adequação, critério, verdade, erro e correção reordenem a cabeça do caso.
+
+### 5. Restrição transversal
+- **P19** — estabilização local sem fechamento absoluto.
+- Função: travão interno permanente; não abre, não substitui o corpo, não fecha soberanamente.
+
+### 6. Suportes de fundo
+- **P16/P18** — suporte ontológico de fundo.
+- Função: dar chão de continuidade e campo sem subir a centro local.
+
+### 7. Lastro remoto
+- **P04/P05/P07/P08** — lastro estrutural remoto.
+- Função: permanecem pressupostos baixos do sistema, mas ficam fora da cabeça efetiva do confronto.
+
+## VII. Objeções fortes
+
+### 1. Dualismo
+A objeção dualista transforma consciência, interioridade ou ponto de vista em região separada do ser. O dossier deve responder mostrando que o erro surge antes, na má abertura que esquece a reinscrição no real.
+
+### 2. Panpsiquismo
+A objeção panpsiquista tenta resolver a separação distribuindo consciência por todo o real. O dossier deve responder mostrando que isso infla um falso problema inicial em vez de o dissolver pela descrição correta.
+
+### 3. Fechamento mediacional
+A objeção mediacional forte toma linguagem, símbolo ou representação como horizonte fechado. O dossier deve responder reconduzindo essas operações ao seu estatuto local e não soberano.
+
+### 4. Substituição do real por construção derivada
+A objeção sistemática aparece quando símbolo, linguagem, categoria, sistema ou exigência derivada passam a valer como critério do real. O dossier deve mostrar que essa inversão é ilegítima.
+
+## VIII. Fronteira arquitetónica
+
+### 1. Fronteira com CF06
+O **CF08** toca **CF06** porque também trabalha símbolo, linguagem e mediação. Mas não se dissolve nele. **CF06** tende a estabilizar o problema na cadeia mediacional enquanto tal; **CF08** usa esse corpo apenas enquanto necessário para reinscrever a consciência no real e bloquear a autonomização da mediação. Logo, o CF08 não pode fechar como teoria geral da mediação simbólico-linguística.
+
+### 2. Fronteira com CF07
+O **CF08** toca **CF07** porque admite terminalmente a pressão de ajustamento e desajustamento da representação ao real. Mas não se dissolve nele. **CF07** trata explicitamente de adequação, critério, verdade, erro e correção sob submissão ao real; **CF08** só pode deixar essa faixa aparecer como fronteira terminal em **P31**, sem a deixar comandar a entrada nem o corpo do caso.
+
+## IX. Restrições metodológicas obrigatórias
+
+- não abrir por emergência, novidade qualitativa, passagem de níveis ou salto em abstrato;
+- não deixar **P28** tornar-se cabeça soberana do caso;
+- não deixar **P30/P31** transformarem o dossier em epistemologia corretiva;
+- não deixar **P19** reordenar o centro para ontologia geral da estabilização;
+- não deixar **P16/P18** subirem de suporte a centro;
+- não deixar **P04/P05/P07/P08** funcionarem como abertura fundacional efetiva;
+- não deixar **CF06** absorver o confronto por linguagem, símbolo ou mediação como sistema;
+- não deixar **CF07** absorver o confronto por adequação, critério, verdade, erro ou correção;
+- não transformar a crítica ao dualismo, ao panpsiquismo, ao fechamento mediacional ou à substituição do real por construções derivadas num capítulo geral autónomo;
+- não tratar o dossier como capítulo final;
+- não propor narrativa.
+
+## X. Formulação final curta
+
+O **CF08** abre pela reinscrição da consciência no real, ganha o seu corpo próprio na mediação, no símbolo, na linguagem e na representação como operações locais e não soberanas, articula-se reflexivamente sem sair do real, e só admite no terminal a pressão epistemológica do ajustamento ao real, sem deixar que essa pressão reordene a cabeça do caso.
+
+## XI. Condição de passagem
+
+Nesta forma, o dossier fica pronto para **revalidação curta posterior**. O que essa revalidação já não tem de testar é o recentramento global do caso; o que tem apenas de confirmar é:
+
+1. que a abertura permanece corretamente baixa em **P23**;
+2. que o corpo mediacional fica disciplinado em **P27/P28/P29**, sem soberania isolada de **P28**;
+3. que **P30** se mantém como dobradiça e não como nova cabeça;
+4. que **P31** permanece terminal e fronteiriço;
+5. que **P19** funciona como restrição transversal sem se converter em centro paralelo.
+
+---
+
+## CF08_complemento_FECHO_LOCAL
+
+**Ficheiro de origem:** `CF08_complemento_FECHO_LOCAL.md`
+
+# CF08 — Complemento de FECHO LOCAL
+
+## I. Ganho local estabilizado
+
+O **CF08** fica localmente estabilizado como confronto sobre a **reinscrição da consciência no real** e sobre a **determinação da mediação, da representação, do símbolo e da linguagem como operações locais e não soberanas**.
+
+A abertura baixa em **P23** foi mantida. O corpo próprio do caso ficou disciplinado em **P27/P28/P29**. **P28** permaneceu forte sem ficar soberano. **P30** ficou como dobradiça reflexiva local e não como nova cabeça. **P31** ficou terminal e fronteiriço. **P19** ficou transversal e não paralelo. **P16/P18** ficaram como suporte de fundo. **P04/P05/P07/P08** ficaram remetidos a lastro estrutural remoto.
+
+Também ficou suficientemente fixado que o caso **não se dissolve nem em CF06 nem em CF07**.
+
+## II. Fecho local prudencial
+
+O fecho local legítimo do **CF08** é este: o dossier abre pela reinscrição no real, ganha o seu corpo no bloco mediacional próprio do caso, admite uma dobradiça reflexiva local e só no terminal deixa aparecer a pressão epistemológica da representação relativamente ao real.
+
+Isto basta para o fecho prudencial. Não é necessário voltar a discutir recentramento global, nem reabrir o antigo centro abandonado, nem subir para teoria geral da consciência, da linguagem, da mediação ou da correção.
+
+## III. Interdições remanescentes
+
+- não reabrir por emergência, novidade qualitativa, passagem de níveis ou salto;
+- não deixar **P28** tornar-se centro soberano;
+- não deixar **P30/P31** puxarem o caso para adequação, verdade, erro, correção ou critério como cabeça do confronto;
+- não deixar **P19** subir a centro paralelo;
+- não deixar **P16/P18** subirem de suporte a centro;
+- não deixar **P04/P05/P07/P08** funcionarem como abertura efetiva;
+- não deixar **CF06** absorver o caso por linguagem, símbolo ou mediação como sistema;
+- não deixar **CF07** absorver o caso por adequação, critério, verdade, erro ou correção.
+
+## IV. Fórmula curta de fecho
+
+O **CF08** abre pela reinscrição da consciência no real, ganha o seu corpo próprio na **mediação, representação, símbolo e linguagem** como operações locais e não soberanas, articula-se reflexivamente sem sair do real, e só admite no terminal a pressão epistemológica do ajustamento ao real, **sem decidir aqui critério**.
+
+## V. Condição de transição para ficha de gesto estrutural
+
+Pode agora transitar para **ficha de gesto estrutural** e para **mapa mínimo de pré-exposição** com estes pontos já fixos:
+
+- abertura baixa em **P23**;
+- corpo próprio em **P27/P28/P29**;
+- **P28** forte sem soberania isolada;
+- **P30** como dobradiça local;
+- **P31** como fronteira terminal;
+- **P19** como restrição transversal;
+- fronteira disciplinada com **CF06** e **CF07**.
+
+A transição é legítima porque o que resta já não é redecisão do centro do caso, mas apenas extração do seu gesto estrutural e da sua ordem mínima de exposição.
+
+---
+
+## CF08_ficha_gesto_estrutural
+
+**Ficheiro de origem:** `CF08_ficha_gesto_estrutural.md`
+
+# CF08 — ficha de gesto estrutural
+
+## I. Estatuto de entrada da ficha
+
+Esta ficha pertence à **camada intermédia disciplinada de pré-exposição**. Não reabre o **CF08**; apenas extrai, em forma mínima e transmissível, o gesto estrutural do que já ficou localmente estabilizado. Também não é capítulo final, nem narrativa, nem mapa expositivo: é só a fixação curta do gesto que o caso já ganhou.
+
+## II. Identificação do gesto estrutural
+
+**nome curto do gesto** — **reinscrição mediacional da consciência no real**.
+
+**fórmula nuclear** — O **CF08** parte de que nada apreende de fora do real, faz passar essa reinscrição por **mediação, representação, símbolo e linguagem** como operações locais e não soberanas, deixa a reflexividade entrar apenas como retoma localizada, e só admite terminalmente a pressão do ajustamento ao real, **sem decidir aqui critério**.
+
+## III. De onde parte
+
+O gesto parte de **P23**: ente e apreensão situados no real, sem exterioridade. É este o ponto de partida baixo do caso.
+
+Não pode abrir de outro modo. Se abrir por **P04/P05/P07/P08**, regressa a ontologia remota; se abrir por teoria geral da consciência, exterioriza indevidamente o problema; se abrir por mediação, símbolo ou linguagem como tais, dissolve-se em **CF06**; se abrir por adequação, critério, verdade, erro ou correção, dissolve-se em **CF07**; e se voltar a abrir por emergência, novidade qualitativa, passagem de níveis ou salto, reativa precisamente o centro abandonado.
+
+## IV. Sequência interna mínima
+
+**abertura** — **P23**: reinscrição baixa no real; bloqueio de qualquer fora.
+
+**corpo** — **P27/P28/P29**: corpo mediacional próprio do caso. **P27** inicia a mediação, **P28** concentra a maior carga sem poder soberanizar, e **P29** reconduz a estabilização representacional ao seu estatuto operatório local.
+
+**dobradiça** — **P30**: retoma reflexiva local da mediação já instalada. Não abre o caso e não lhe substitui o corpo.
+
+**fecho admissível** — **P31**: pressão epistemológica terminal do ajustamento ao real, **sem decidir aqui critério**. **P19** atravessa a sequência como restrição transversal de estabilização local sem fechamento absoluto. **P16/P18** ficam como suportes de fundo. **P04/P05/P07/P08** permanecem como lastro remoto fora da cabeça efetiva do gesto.
+
+## V. Erro dominante limpo
+
+**desvio antigo** — tomar o caso como problema de emergência, novidade qualitativa, passagem de níveis ou salto em abstrato.
+
+**desvio ainda possível** — deixar uma camada derivada subir indevidamente: **P28** como soberania mediacional, ou **P30/P31** como antecipação de adequação, verdade, erro, correção e critério.
+
+O erro principal que o gesto limpa é, por isso, este: **converter uma operação local e mediada do real em separação ontológica ou em soberania derivada contra o próprio real**.
+
+## VI. Estabilização derivada descentrada
+
+A camada derivada que o caso tem de usar sem soberanizar é a da **mediação, representação, símbolo e linguagem** enquanto estabilização local do apreendido.
+
+O gesto não apaga essa camada; descentrá-la significa mantê-la **subordinada a P23**, articulada no bloco **P27/P28/P29**, atravessada pelo travão de **P19**, e impedida de fechar como sistema autónomo. Assim, a força de **P28** é usada sem lhe entregar a soberania do caso.
+
+## VII. O que reinscreve no real
+
+O gesto reinscreve no real a **consciência**, a **retoma reflexiva**, o **ponto de vista** e toda a cadeia local de **mediação, representação, símbolo e linguagem**.
+
+A verdade local que estabiliza é curta: **não há apreensão a partir de um exterior ao real; a mediação não substitui o real; a reflexividade não cria uma segunda região ontológica; e a pressão terminal de ajustamento só é admissível a jusante, sem reordenar a cabeça do caso**.
+
+## VIII. Passagem preparada
+
+Este gesto prepara, a jusante, uma **ordem mínima de pré-exposição** em que a abertura por reinscrição governa o corpo mediacional do caso, a dobradiça reflexiva entra sem soberania, e a fronteira terminal de **P31** aparece apenas no fim.
+
+Ainda não decide: teoria geral da linguagem, da mediação ou do símbolo; teoria geral da consciência; adequação, verdade, erro, correção ou critério como centro; nem qualquer passagem expositiva que transforme o gesto em capítulo final.
+
+## IX. Fronteiras negativas
+
+**diferença face a CF06** — O **CF06** fixa a cadeia simbólico-linguística e mediacional enquanto centro próprio. O **CF08** usa essa cadeia apenas enquanto necessária para **reinscrever a consciência no real** e impedir que a mediação se torne soberana.
+
+**diferença face a CF07** — O **CF07** fixa a submissão da representação ao real e explicita adequação, erro, critério e correção. O **CF08** só admite essa faixa como **pressão terminal de P31**, sem lhe entregar a cabeça do caso.
+
+**interdições de uso futuro** — não reabrir por emergência, novidade qualitativa, passagem de níveis ou salto; não deixar **P28** soberanizar; não deixar **P30/P31** puxarem o gesto para o eixo corretivo; não deixar **P19** subir a centro paralelo; não deixar **P16/P18** passarem de suporte a centro; não deixar **P04/P05/P07/P08** funcionarem como ponto de partida; não deixar **CF06** ou **CF07** reabsorverem o gesto.
+
+## X. Fórmula sintética final
+
+**Reinscrever a consciência no real pela cadeia local de mediação, representação, símbolo e linguagem, sem soberania derivada e sem antecipar critério.**
+
+---
+
+## CF08_mapa_minimo_pre_exposicao
+
+**Ficheiro de origem:** `CF08_mapa_minimo_pre_exposicao.md`
+
+# CF08 — Mapa mínimo de pré-exposição
+
+## I. Estatuto do ficheiro
+
+Este ficheiro não reabre o **CF08** nem o transforma em capítulo final.
+
+Função: fixar a **ordem mínima de pré-exposição** do caso a partir do que já ficou localmente estabilizado.
+
+O mapa não redecide o centro do confronto; apenas disciplina a sua futura entrada expositiva.
+
+## II. Forma aparente do problema
+
+O problema tende a aparecer como se fosse preciso explicar uma exceção: ou como surge algo como a consciência, ou como mediação, símbolo e linguagem ganham peso próprio.
+
+Nesta forma aparente, o caso parece pedir teoria geral da consciência ou teoria geral da mediação.
+
+Essa aparência é enganadora para a abertura do **CF08**.
+
+## III. Falso centro a descentrar
+
+O falso centro a descentrar logo no início é duplo:
+
+- **emergência / novidade qualitativa / passagem de níveis / salto**;
+- **mediação, símbolo, linguagem ou reflexividade como soberanias autónomas**.
+
+Nenhum destes planos pode abrir a exposição. O primeiro reativa o centro abandonado; o segundo dissolve o caso em **CF06** ou antecipa indevidamente **CF07**.
+
+## IV. Solo real do caso
+
+O solo real do caso é este: **nenhuma apreensão ocorre a partir de um exterior ao real**.
+
+A abertura legítima é, por isso, **P23** como ancoragem de reinscrição.
+
+Os termos baixos da abertura são: **real, apreensão, inscrição, localidade, relação ao real, ausência de exterioridade**.
+
+Consciência, mediação, representação, símbolo e linguagem só entram depois, já reinscritos neste solo.
+
+## V. Justificação local mínima suficiente
+
+Esta ordem é localmente suficiente porque:
+
+- sem **P23**, o caso abre alto e fabrica exterioridade;
+- o corpo próprio só é legível depois da reinscrição;
+- **P28**, embora forte, não basta sozinha e falseia o caso se entrar isolada;
+- **P30** e **P31** só são admissíveis a jusante do corpo mediacional;
+- **P19** vale como travão transversal e não como eixo de abertura;
+- **P16/P18** sustentam, mas não comandam;
+- **P04/P05/P07/P08** pertencem ao lastro remoto e não à entrada efetiva.
+
+Os sinais que obrigam a preferir esta ordem são simples: o centro antigo foi abandonado, a hierarquia fina já ficou estabilizada, e a fronteira com **CF06** e **CF07** já está metodologicamente fixada.
+
+## VI. Ordem mínima de exposição
+
+### 1. Abertura baixa
+
+Abrir por **P23**: nada apreende de fora do real.
+
+Função: impedir exterioridade, dualização prematura e falsa autonomização da consciência.
+
+### 2. Corpo próprio do caso
+
+Passar ao bloco **P27/P28/P29** como corpo próprio do confronto.
+
+Função: mostrar a cadeia local de **mediação, representação, símbolo e linguagem** sem soberania derivada.
+
+Regra interna do bloco:
+
+- **P27** introduz a operação mediacional local;
+- **P28** concentra a maior carga do material;
+- **P29** impede que a estabilização se autonomize.
+
+**P28** não pode aparecer isolada nem como cabeça soberana da exposição.
+
+### 3. Dobradiça admissível
+
+Só depois fazer entrar **P30**.
+
+Função: marcar a retoma reflexiva local da cadeia já instalada, sem abrir por teoria geral da consciência e sem antecipar fecho corretivo.
+
+### 4. Travão transversal e suportes
+
+Explicitar **P19** como restrição transversal: **estabilização local sem fechamento absoluto**.
+
+Usar **P16/P18** apenas como suportes de fundo.
+
+**P04/P05/P07/P08** ficam fora da cabeça expositiva e só podem valer, quando muito, como lastro remoto implícito.
+
+### 5. Terminal admissível
+
+Só terminalmente deixar entrar **P31**.
+
+Função: admitir pressão epistemológica de ajustamento e desajustamento relativamente ao real, **sem decidir aqui critério** e sem reordenar a cabeça do caso.
+
+## VII. Custos do desvio
+
+Se a exposição abrir por **emergência, novidade qualitativa, passagem de níveis ou salto**, regressa ao falso centro abandonado.
+
+Se abrir por **teoria geral da consciência**, exterioriza indevidamente o problema.
+
+Se abrir por **mediação, símbolo ou linguagem** como tais, o caso é reabsorvido por **CF06**.
+
+Se abrir por **P30** ou **P31**, ou deixar **P31** antecipar o fecho, o caso escorrega para **CF07**.
+
+Se deixar **P28** mandar sozinha, o corpo mediacional transforma-se em soberania derivada.
+
+Se deixar **P19** subir a centro, o caso desvia-se para ontologia geral da estabilização.
+
+Se deixar **P16/P18** ou **P04/P05/P07/P08** abrir a exposição, perde-se a hierarquia fina já estabilizada.
+
+## VIII. Passagens autorizadas
+
+**Autorizadas**
+
+- de **P23** para o bloco **P27/P28/P29**;
+- do bloco **P27/P28/P29** para **P30** como dobradiça local;
+- de **P30** para **P31** apenas no terminal e **sem decidir aqui critério**;
+- de toda a sequência para **P19** como travão transversal;
+- menção de **P16/P18** apenas como suporte de fundo.
+
+**Interditas**
+
+- passagem de abertura para emergência, novidade qualitativa, passagem de níveis ou salto;
+- passagem do corpo para teoria geral da mediação, do símbolo ou da linguagem;
+- passagem antecipada para adequação, verdade, erro, correção ou critério;
+- qualquer formulação que deixe **CF06** ou **CF07** reabsorver o caso.
+
+**Passagem que a sequência prepara**
+
+- uma exposição ulterior em que a reinscrição baixa governa o corpo mediacional do caso e a pressão epistemológica fica terminalmente contida.
+
+## IX. Frase-guia de exposição
+
+> Para expor o **CF08** sem o trair, é preciso abrir por **P23** como reinscrição no real, passar depois pelo bloco **P27/P28/P29** como corpo local de **mediação, representação, símbolo e linguagem** sem soberania derivada, fazer entrar **P30** apenas como dobradiça reflexiva, manter **P19** como travão transversal, e só no terminal deixar aparecer **P31**, sem decidir aqui critério.
+
+---
+
+# CF09
+
+---
+
+## CF09_dossier_confronto_fino_dirigido
+
+**Ficheiro de origem:** `CF09_dossier_confronto_fino_dirigido.md`
+
+# CF09 — dossier de confronto fino dirigido
+
+## I. Nota prévia de redecisão metodológica
+
+O **CF09** não é reaberto. Esta fase já não rediscute o recentramento global do caso; fixa, em forma fina e dirigida, a hierarquia textual do que ficou localmente ganho no ciclo de validação. O dossier mantém-se como confronto local sobre **ação, agência e liberdade situada no real**, sob regra **dossier-first**, com o dossier como norma local provisória, a base fragmentária como campo real de prova e correção, e o diagnóstico apenas como travão auditável.
+
+A redecisão metodológica desta fase é estrita: o caso **não** pode abrir por ontologia fundacional abstrata, **não** pode ser comandado por epistemologia do erro em abstrato, e **não** pode ser inflacionado em normatividade já autonomizada. O trabalho remanescente é de **abertura baixa**, **hierarquia interna limpa** e **travagem de derivações**.
+
+## II. Pergunta central
+
+**O que é agir no real e em que consiste a liberdade de um agente situado?**
+
+## III. Formulação curta do confronto
+
+O **CF09** trata da liberdade como **atualização situada no real**: agir é atualizar possibilidades reais com consequências não indiferentes; algumas trajetórias estreitam o poder-ser e produzem dano real, outras preservam ou ampliam condições; por isso, a orientação prática só pode ser pensada a partir dessa assimetria real, com o erro a entrar apenas como disciplina crítica do agir e o possível real como limite terminal.
+
+## IV. Descrição do confronto
+
+O problema do **CF09** não é o de uma ontologia fundacional do ser, nem o de uma epistemologia formal do erro, nem o de uma moral autónoma. O seu problema local é saber como a **liberdade** pode ser pensada como modo de agir de um agente situado, sem exterioridade ao real, sem dissolução mecanicista e sem antecipação normativa indevida.
+
+Por isso, o dossier deve abrir por **P38**: a ação humana é atualização real situada, inscrita em campos e portadora de efeitos reais. É este o chão próprio do caso. A liberdade só permanece inteligível aqui enquanto poder de atualização real, e não como abstração desencarnada.
+
+A seguir, o corpo vivo do confronto deve ser carregado por **P39/P40/P41**. O ponto decisivo não é apenas que há ação, mas que **nem toda a atualização é indiferente**, que **há dano real** e que **o real já introduz um mínimo negativo objetivo**. Estas três proposições não transformam o dossier numa moral pronta; fixam apenas a assimetria real mínima sem a qual ação e liberdade se tornariam formalidades vazias.
+
+**P36** entra depois, e apenas depois, como travão crítico transversal. A sua função aqui não é abrir um dossier sobre erro, verdade, critério ou correção; é disciplinar o agir pela diferença entre descrição ajustada e descrição desviada, entre problema bem posto e solução mal aplicada, impedindo voluntarismo, confusão de escalas e fecho discursivo.
+
+**P48** só deve aparecer no terminal. A sua função é fechar prudentemente o caso pelo lado do limite: a orientação prática não manda o impossível; só pode orientar o possível real. Este ponto é importante, mas não pode governar cedo demais a cabeça do confronto.
+
+Já **P04/P05/P07/P08** ficam rebaixadas a fundo ontológico remoto. São condições estruturais de distinção, estrutura, determinação e exclusão, mas não são a abertura efetiva do caso. Sustentam-no à distância, sem lhe comandarem a redação.
+
+Do mesmo modo, **PN01** deve ficar suspensa como ponte ativa; **PN04** só sobrevive como ponte regional subordinada; **AC01** fica reduzida a compatibilidade externa; e **CR01** mantém-se apenas como campo derivado de incidência, sem soberania local sobre o confronto.
+
+## V. Tese canónica provisória afinada
+
+**A liberdade não é exterior ao real nem puro epifenómeno; é liberdade situada no poder-ser real de um agente encarnado, que age atualizando possibilidades reais com consequências não indiferentes, sob a assimetria efetiva entre preservação e estreitamento do poder-ser, com dano real e mínimo negativo objetivo, e sempre sob o limite do possível real.**
+
+## VI. Proposições nucleares e hierarquia interna
+
+### 1. Abertura legítima — P38
+
+**P38** deve abrir o dossier. O caso começa onde agir deixa de ser abstração e passa a ser **atualização real situada**. É a partir daqui que a pergunta sobre liberdade se mantém fiel ao real sem se dissolver nem em fundação ontológica remota nem em moral pronta.
+
+### 2. Corpo vivo do confronto — P39 / P40 / P41
+
+**P39/P40/P41** formam o corpo próprio do caso.
+
+- **P39**: nem toda a atualização é indiferente;
+- **P40**: dano real como critério negativo ancorado no real;
+- **P41**: mínimo negativo objetivo.
+
+Estas proposições pertencem ao centro vivo do confronto porque explicitam a assimetria real da ação. Não introduzem ainda uma ética fechada; apenas impedem que a liberdade situada seja descrita como neutralidade vazia.
+
+### 3. Travão crítico transversal — P36
+
+**P36** deve ser mantida, mas reescrita funcionalmente. Aqui não vale como cabeça epistemológica do caso. Vale como cláusula disciplinadora: agir mal não é apenas falhar uma intenção; é também desalinhar-se do real pela má descrição do problema, pela má leitura da situação ou pela má aplicação da solução. Assim usada, **P36** protege o caso sem o absorver.
+
+### 4. Fecho terminal admissível — P48
+
+**P48** entra apenas no terminal. O seu papel é recordar que nenhuma orientação prática pode mandar o impossível; só o possível real pode ser legitimamente orientado. É um limite de fecho, não uma abertura do confronto.
+
+### 5. Fundo remoto — P04 / P05 / P07 / P08
+
+**P04/P05/P07/P08** permanecem como fundo ontológico remoto. Não são falsas nem inúteis; simplesmente não constituem a cabeça viva do dossier. Devem aparecer, quando muito, como suporte de fundo do facto de a ação ocorrer num real estruturado sob limite.
+
+### 6. Elementos subordinados — PN01 / PN04 / AC01 / CR01
+
+- **PN01**: suspensa como ponte ativa;
+- **PN04**: apenas ponte regional subordinada;
+- **AC01**: compatibilidade externa, sem função filosófica central;
+- **CR01**: campo derivado de incidência, não soberania local do caso.
+
+## VII. Objeções fortes
+
+- **Liberdade absoluta abstrai do real e das consequências.**
+  Resposta: no CF09, liberdade só tem sentido enquanto atualização situada de possibilidades reais.
+
+- **Mecanicismo forte dissolve agência e imputação.**
+  Resposta: a ação continua a ser atualização real do agente, com consequências e diferença entre trajetórias.
+
+- **A assimetria entre trajetórias já transforma o dossier numa moral pronta.**
+  Resposta: o dossier fixa apenas um mínimo real de não-indiferença, dano e limite, sem autonomizar ainda um sistema normativo.
+
+- **Erro, critério e correção deveriam abrir o caso.**
+  Resposta: no CF09, entram apenas como disciplina transversal do agir, e não como cabeça soberana do confronto.
+
+## VIII. Fronteira arquitetónica
+
+O que é estritamente local ao **CF09** é a liberdade como agir situado no real, a não-indiferença das trajetórias de atualização, o dano real, o mínimo negativo objetivo e o limite do possível real.
+
+O que pertence ao fundo remoto é a ontologia mínima de distinção, estrutura, determinação e exclusão. O que pertence a camadas posteriores é a derivação normativa forte, a institucionalização, a filosofia política, a moral autónoma e a teoria geral da liberdade.
+
+O dossier deve, por isso, evitar dois desvios simétricos:
+
+- ser absorvido por um eixo epistemológico alto de erro, critério, verdade e correção;
+- ser inflacionado numa normatividade já autonomizada sob PN01, CR01 ou formulações sociais mais largas.
+
+## IX. Restrições metodológicas obrigatórias
+
+- não abrir por **P04/P05/P07/P08**;
+- não abrir por erro, critério, verdade ou correção em abstrato;
+- não deixar **P36** tornar-se cabeça soberana;
+- não deixar **P39/P40/P41** virarem moral pronta, filosofia social ou teoria política;
+- não deixar **P48** entrar cedo demais;
+- não deixar **PN01** comandar o confronto;
+- não usar **PN04** como substituto do problema local;
+- não usar **AC01** como substituto do problema filosófico;
+- não deixar **CR01** soberanizar o caso;
+- não transformar o CF09 numa teoria geral da liberdade;
+- não transformar o dossier em capítulo final.
+
+## X. Formulação final curta
+
+**O CF09 abre pela ação como atualização real situada, ganha o seu corpo na assimetria real entre trajetórias, dano e mínimo negativo objetivo, admite o erro apenas como disciplina crítica do agir, e fecha terminalmente pelo limite do possível real, sem autonomizar desde já normatividade, critério ou sistema.**
+
+## XI. Condição de passagem
+
+A presente versão fina fica pronta para **revalidação curta** se forem mantidos quatro pontos: **P38** como abertura legítima, **P39/P40/P41** como corpo vivo, **P36** como travão crítico transversal e **P48** apenas no terminal. A passagem fica bloqueada apenas se o dossier voltar a abrir por ontologia remota, por eixo epistemológico alto ou por inflação normativa.
+
+---
+
+## CF09_complemento_FECHO_LOCAL
+
+**Ficheiro de origem:** `CF09_complemento_FECHO_LOCAL.md`
+
+# CF09 — Complemento de FECHO LOCAL
+
+## I. Ganho local estabilizado
+
+O **CF09** fica localmente estabilizado como confronto sobre **ação, agência e liberdade situada no real**.
+
+A abertura baixa em **P38** foi mantida. O corpo vivo do caso ficou disciplinado em **P39/P40/P41**. **P36** ficou como **disciplina crítica do agir** e não como nova cabeça epistemológica. **P48** ficou terminal, subordinada ao **possível real**. **P04/P05/P07/P08** ficaram remetidas a **fundo ontológico remoto**. **PN01** ficou suspensa. **PN04** ficou apenas como ponte regional subordinada. **AC01** ficou como compatibilidade externa. **CR01** ficou como campo derivado de incidência, sem soberania local.
+
+Também ficou suficientemente fixado que o caso **não se dissolve nem em ontologia fundacional remota, nem em epistemologia alta, nem em normatividade autonomizada**.
+
+## II. Fecho local prudencial
+
+O fecho local legítimo do **CF09** é este: o dossier abre pela ação como atualização real situada, ganha o seu corpo na **assimetria real entre trajetórias**, no **dano real** e no **mínimo negativo objetivo**, admite o erro apenas como disciplina crítica transversal do agir, e só no terminal deixa aparecer o limite do **possível real**.
+
+Isto basta para o fecho prudencial. Não é necessário voltar a discutir o recentramento do caso, nem reabrir o confronto por ontologia remota, nem subir para erro, critério, verdade, correção ou normatividade já autonomizada.
+
+## III. Interdições remanescentes
+
+- não reabrir por **P04/P05/P07/P08**;
+- não abrir por erro, critério, verdade ou correção em abstrato;
+- não deixar **P36** tornar-se cabeça soberana do caso;
+- não deixar **P39/P40/P41** virarem moral pronta, filosofia social ou teoria política;
+- não deixar **P48** entrar cedo demais;
+- não deixar **PN01** comandar o confronto;
+- não usar **PN04** como substituto do problema local;
+- não usar **AC01** como substituto do problema filosófico;
+- não deixar **CR01** soberanizar o caso;
+- não transformar o CF09 numa teoria geral da liberdade;
+- não transformar o CF09 numa moral autónoma.
+
+## IV. Fórmula curta de fecho
+
+O **CF09** abre pela ação como atualização real situada, ganha o seu corpo na **assimetria real entre trajetórias**, no **dano real** e no **mínimo negativo objetivo**, admite o erro apenas como **disciplina crítica do agir**, e fecha terminalmente pelo limite do **possível real**, sem autonomizar desde já normatividade, critério ou sistema.
+
+## V. Condição de transição para ficha de gesto estrutural
+
+Pode agora transitar para **ficha de gesto estrutural** e para **mapa mínimo de pré-exposição** com estes pontos já fixos:
+
+- abertura legítima em **P38**;
+- corpo vivo em **P39/P40/P41**;
+- **P36** como travão crítico transversal;
+- **P48** como fecho terminal subordinado ao possível real;
+- **P04/P05/P07/P08** como fundo remoto;
+- **PN01** suspensa;
+- **PN04**, **AC01** e **CR01** subordinadas.
+
+A transição é legítima porque o que resta já não é redecisão do centro do caso, mas apenas extração do seu gesto estrutural e da sua ordem mínima de pré-exposição.
+
+---
+
+## CF09_ficha_gesto_estrutural
+
+**Ficheiro de origem:** `CF09_ficha_gesto_estrutural.md`
+
+# CF09 — ficha de gesto estrutural
+
+## I. Estatuto de entrada da ficha
+
+Esta ficha pertence à **camada intermédia disciplinada de pré-exposição**. Não reabre o **CF09**; apenas extrai, em forma mínima e transmissível, o gesto estrutural do que já ficou localmente estabilizado. Também não é capítulo final, nem narrativa, nem mapa expositivo: é só a fixação curta do gesto próprio que o caso já ganhou.
+
+## II. Identificação do gesto estrutural
+
+**nome curto do gesto** — **reinscrição prática da liberdade no agir real**.
+
+**fórmula nuclear** — O **CF09** parte da ação como **atualização real situada**, faz passar a liberdade pela **assimetria real entre trajetórias**, pelo **dano real** e pelo **mínimo negativo objetivo**, admite o erro apenas como **disciplina crítica do agir**, e só fecha terminalmente pelo **possível real**, sem autonomizar critério, sistema ou normatividade.
+
+## III. De onde parte
+
+O gesto parte de **P38**: agir é atualização real situada, inscrita em campos e portadora de efeitos reais. É este o ponto de partida baixo do caso.
+
+Não pode abrir de outro modo. Se abrir por **P04/P05/P07/P08**, regressa a ontologia remota; se abrir por **P36**, sobe para erro, critério, verdade e correção; se abrir por **PN01** ou **CR01**, infla prematuramente o caso em normatividade autonomizada. O gesto só se mantém próprio se começar pelo agir real do agente situado.
+
+## IV. Sequência interna mínima
+
+**abertura** — **P38**: ação como atualização real situada.
+
+**corpo** — **P39/P40/P41**: assimetria real entre trajetórias, dano real e mínimo negativo objetivo. Aqui o caso fixa que nem toda a atualização é indiferente.
+
+**travão** — **P36**: disciplina crítica do agir. Não abre o caso, não decide aqui critério e não se torna regime soberano; serve apenas para travar má descrição, má leitura da situação e má aplicação da solução.
+
+**fecho admissível** — **P48**: limite terminal do possível real. A orientação prática não manda o impossível; só pode orientar o possível real. **P04/P05/P07/P08** ficam como fundo remoto. **PN01** permanece suspensa. **PN04** fica subordinada. **AC01** e **CR01** ficam externas ao centro do gesto.
+
+## V. Erro dominante limpo
+
+**desvio antigo** — abrir o caso por ontologia fundacional remota ou por eixo epistemológico alto, deslocando a ação situada para condição abstrata ou para regime de validação.
+
+**desvio ainda possível** — deixar a assimetria real do agir subir indevidamente a moral pronta, filosofia social ou teoria política.
+
+O erro principal que o gesto limpa é este: **confundir a liberdade situada com abstração indiferente, com correção epistemológica soberana ou com normatividade já autonomizada**.
+
+## VI. Estabilização derivada descentrada
+
+A camada derivada que o caso tem de usar sem soberanizar é a da **disciplina crítica do agir**: distinção entre descrição ajustada, erro e aplicação.
+
+O gesto não a apaga; descentrá-la significa mantê-la **subordinada ao bloco P38–P41**, fazendo entrar **P36** apenas depois do corpo vivo do caso, sem a deixar abrir o confronto, sem a deixar comandar a sua verdade local e sem a converter em regime soberano de validação.
+
+## VII. O que reinscreve no real
+
+O gesto reinscreve no real a **liberdade**, a **agência**, a **orientação prática mínima** e a própria diferença entre trajetórias de ação.
+
+A verdade local que estabiliza é curta: **agir é atualização real situada; a liberdade não está fora do real; as trajetórias não são indiferentes; o dano real e o mínimo negativo objetivo contam; e a orientação prática depende dessa assimetria real sob o limite do possível real**.
+
+## VIII. Passagem preparada
+
+Este gesto prepara, a jusante, uma **ordem mínima de pré-exposição** em que a abertura por ação situada governa o corpo assimétrico do caso, o erro entra apenas como travão crítico e o limite do possível real aparece só no terminal.
+
+Ainda não decide: derivação normativa forte, lei, instituições, filosofia política, moral autónoma ou teoria geral da liberdade. Também não decide aqui a ponte **PN01**; apenas deixa preparado o terreno para que futuras passagens não traiam o centro local do caso.
+
+## IX. Fronteiras negativas
+
+**diferença face à ontologia remota** — O gesto do **CF09** não é o de fundar distinção, estrutura, determinação e exclusão. Usa esse fundo à distância, mas não abre por ele. O seu centro começa quando há agente situado a agir no real.
+
+**diferença face ao eixo epistemológico alto** — O gesto do **CF09** não é o de fixar erro, critério, verdade e correção como tema principal. Usa **P36** apenas como disciplina crítica do agir, sem lhe entregar a cabeça do caso.
+
+**diferença face à normatividade autonomizada** — O gesto do **CF09** não deriva ainda dever, lei, instituição ou ordem política. Fixa apenas uma assimetria real mínima do agir, sem deixar **PN01** ou **CR01** soberanizarem o confronto.
+
+**interdições de uso futuro** — não reabrir por **P04/P05/P07/P08**; não abrir por erro, critério, verdade ou correção em abstrato; não deixar **P36** subir a centro soberano; não deixar **P39/P40/P41** virarem moral pronta; não deixar **P48** entrar cedo demais; não deixar **PN01** comandar; não usar **PN04**, **AC01** ou **CR01** como substitutos do problema local; não transformar o gesto numa teoria geral da liberdade ou numa moral autónoma.
+
+## X. Fórmula sintética final
+
+**Reinscrever a liberdade no real como agir situado, orientado pela assimetria real entre trajetórias, disciplinado criticamente sem soberania epistemológica e limitado terminalmente pelo possível real.**
+
+---
+
+## CF09_mapa_minimo_pre_exposicao
+
+**Ficheiro de origem:** `CF09_mapa_minimo_pre_exposicao.md`
+
+# CF09 — mapa mínimo de pré-exposição
+
+## I. Estatuto do ficheiro
+
+Este ficheiro fixa apenas a ordem mínima de pré-exposição do CF09.
+
+Não é reabertura local do caso.
+
+Não é capítulo final.
+
+Não redecide o centro do confronto.
+
+Serve apenas para disciplinar a futura exposição, impedindo regressão para ontologia remota, eixo epistemológico alto ou normatividade autonomizada.
+
+## II. Forma aparente do problema
+
+A forma aparente do problema no CF09 é a de uma pergunta sobre liberdade, ação e orientação prática.
+
+Mas essa aparência pode deformar-se em três direções indevidas:
+- abertura por ontologia fundacional remota;
+- abertura por erro, critério, verdade ou correção em abstrato;
+- subida precoce para normatividade, responsabilidade social ou formas políticas.
+
+## III. Falso centro a descentrar
+
+O falso centro que a exposição tem de descentrar logo no início é este:
+- `P04/P05/P07/P08/P36/P38` como bloco plano;
+- `P36` como cabeça epistemológica do caso;
+- `PN01` e `CR01` como via rápida para normatividade autonomizada.
+
+O CF09 não abre por ontologia mínima, nem por teoria do erro, nem por moral pronta.
+
+## IV. Solo real do caso
+
+O solo real do caso é o agir no real como atualização situada.
+
+Esse solo abre em `P38` e ganha corpo em:
+- `P39` — nem toda a atualização é indiferente;
+- `P40` — há dano real ancorado no real;
+- `P41` — o real já introduz um mínimo negativo objetivo.
+
+A orientação prática do caso depende desta assimetria real entre trajetórias, e não de uma normatividade exterior ou autónoma.
+
+## V. Justificação local mínima suficiente
+
+A ordem escolhida é mínima e suficiente porque:
+- sem `P38`, o caso perde o seu chão próprio e dissolve-se em teoria geral da liberdade;
+- sem `P39/P40/P41`, o agir fica sem espessura real e sem assimetria mínima;
+- se `P36` entra cedo demais, o caso sobe para epistemologia alta;
+- se `P48` entra cedo demais, o caso fecha prematuramente pelo limite do possível real;
+- se `P04/P05/P07/P08` reabrem a cabeça, o caso regressa a ontologia remota;
+- se `PN01/CR01` sobem cedo, o caso infla para normatividade autonomizada.
+
+## VI. Ordem mínima de exposição
+
+### 1. Primeiro
+Abrir por `P38`.
+
+Formulação mínima: agir é atualização real situada, com efeitos reais, inscrita no real e não exterior a ele.
+
+### 2. Segundo
+Densificar imediatamente `P39/P40/P41`.
+
+Formulação mínima:
+- nem toda a atualização é indiferente;
+- há trajetórias que estreitam o poder-ser;
+- há dano real;
+- há um mínimo negativo objetivo já inscrito no próprio real do agir.
+
+### 3. Terceiro
+Fazer entrar `P36` apenas como travão crítico transversal do agir.
+
+Formulação mínima: o agir tem de ser disciplinado pela distinção entre descrição correta, erro e aplicação, sem transformar essa disciplina em cabeça soberana do caso.
+
+### 4. Quarto
+Fazer entrar `P48` apenas no terminal.
+
+Formulação mínima: a orientação do agir não manda o impossível; fica subordinada ao possível real.
+
+### 5. Apenas como fundo ou nota subordinada
+- `P04/P05/P07/P08` = fundo ontológico remoto;
+- `PN04` = ponte regional subordinada;
+- `AC01` = compatibilidade externa;
+- `CR01` = campo derivado de incidência;
+- `PN01` = suspensa.
+
+## VII. Custos do desvio
+
+Se a exposição abrir mal:
+- o caso regressa a ontologia fundacional remota;
+- `P36` transforma o CF09 em dossier de erro, critério, verdade ou correção;
+- `P39/P40/P41` degeneram em moral pronta, filosofia social ou teoria política;
+- `P48` fecha cedo demais o confronto;
+- `PN01` reintroduz inflação normativa;
+- o gesto próprio do caso deixa de ser visível.
+
+## VIII. Passagens autorizadas
+
+### Passagens autorizadas
+- `P38` → `P39/P40/P41`
+- `P39/P40/P41` → `P36`
+- `P36` → `P48`
+- referência terminal e subordinada a `PN04`, `AC01` e `CR01`
+
+### Passagens interditas
+- `P04/P05/P07/P08` → cabeça do caso
+- `P36` → abertura soberana
+- `P39/P40/P41` → moral pronta
+- `P48` → entrada precoce
+- `PN01` → comando do confronto
+- `CR01` → soberania local
+- `AC01` → substituto do problema filosófico
+
+## IX. Frase-guia de exposição
+
+Expor o CF09 como reinscrição da liberdade no agir real: primeiro a ação situada, depois a assimetria real entre trajetórias, dano e mínimo negativo objetivo, depois a disciplina crítica do agir, e só terminalmente o limite do possível real.
+
+---
+
+# CF10
+
+---
+
+## CF10_dossier_confronto_fino_dirigido
+
+**Ficheiro de origem:** `CF10_dossier_confronto_fino_dirigido.md`
+
+# CF10 — dossier de confronto fino dirigido
+
+## I. Nota prévia de redecisão metodológica
+
+O **CF10** não é reaberto. Mantém-se como confronto local sobre a **derivação não arbitrária da normatividade a partir do real**, sob regra **dossier-first**: o dossier continua a ser a norma local soberana provisória, a base fragmentária o campo real de prova e correção, e a instrumentação apenas travão auditável.
+
+O veredicto metodológico já estabilizado é **reformular finamente**. O problema remanescente já não é de centro global, mas de **abertura**, **hierarquia interna** e **travagem das derivações**. A tarefa desta versão fina é converter em forma textual limpa o que já ficou ganho: baixar a cabeça do caso, impedir a inflação normativa e disciplinar a sequência interna do confronto.
+
+## II. Pergunta central
+
+**Como pode derivar normatividade sem arbitrariedade, a partir de dano real, bem, mal e adequação prática ao real?**
+
+## III. Formulação curta do confronto
+
+O **CF10** abre pela não-indiferença real das atualizações, pelo dano real e por uma direção prática mínima ancorada no real; ganha espessura local em bem e mal como adequação e desadequação operativa; e só depois admite a derivação normativa interna, sempre subordinada ao possível real e sem autonomizar desde logo dever-ser, lei, instituição ou história.
+
+## IV. Descrição do confronto
+
+O problema do **CF10** não é ainda o de uma moral pronta, de uma teoria política, de um direito positivo ou de uma filosofia da institucionalização. O seu problema local é mais baixo: mostrar como, a partir do facto de que as atualizações não são indiferentes, de que há dano real e de que a ação pode orientar-se segundo vetores inscritos no real, se tornam inteligíveis bem e mal e, só depois, uma exigência normativa não arbitrária.
+
+Por isso, o dossier não deve abrir por **P04/P07/P08**, nem por **erro, critério, verdade ou correção** em abstrato, nem por **P46/P47/P48** como se a normatividade já viesse pronta. A abertura legítima do caso está em **P39/P40/P42**: algumas trajetórias estreitam o poder-ser, outras preservam ou ampliam condições reais, e essa assimetria já introduz uma direção prática mínima.
+
+É a partir desse chão que **P44/P45** podem entrar como explicitação local de **bem** e **mal**: não como entidades autónomas, não como moral pronta, mas como nomes locais para a adequação e a desadequação operativa da atualização ao real. Só depois disso **P46/P47** entram como derivação normativa interna e legítima: a normatividade não é autónoma e o dever-ser não vem de fora, mas também não abre soberanamente o caso. **P48** entra apenas no terminal, como limite do possível real.
+
+**P04/P07/P08** permanecem como fundo ontológico remoto. **PN01** fica suspensa como ponte ativa. **PN04/PN05** sobrevivem apenas como pontes regionais e materiais subordinadas. **AC01/AC03** ficam como compatibilidades externas. **CR01/CR04** ficam como campos derivados de incidência, sem soberania local.
+
+## V. Tese canónica provisória afinada
+
+**O dever-ser não vem de fora nem se impõe autonomamente: torna-se inteligível quando a ação é reinscrita no real como atualização não indiferente, capaz de preservar ou degradar condições reais; daí emergem bem e mal como adequação e desadequação operativa, e só depois uma exigência normativa interna, sempre subordinada ao possível real.**
+
+## VI. Proposições nucleares e hierarquia interna
+
+### 1. Chão real do caso — P39 / P40 / P42
+
+**P39/P40/P42** formam o chão legítimo do confronto.
+
+- **P39** fixa que nem toda a atualização é indiferente.
+- **P40** fixa o dano real como critério negativo ancorado no real.
+- **P42** fixa uma direção prática mínima segundo preservação, correção e não-degeneração.
+
+A abertura deve ser feita por esta tríade, e não por ontologia remota nem por normatividade já pronta. **P40** é a proposição mais carregada do material, mas não pode soberanizar sozinha o confronto; o caso exige a sua articulação com a não-indiferença de **P39** e com a direção mínima de **P42**.
+
+### 2. Explicitação local — P44 / P45
+
+**P44/P45** entram como corpo de explicitação local do caso.
+
+- **P44** nomeia o bem como adequação prática da atualização ao real.
+- **P45** nomeia o mal como falha, desvio ou desadequação relativamente a essa atualização adequada.
+
+Pertencem ao centro vivo do confronto, mas em regime estrito: não podem virar moral pronta, filosofia social ou teoria política. A sua função é tornar inteligível, em chave local, o que já estava implicitamente aberto em **P39/P40/P42**.
+
+### 3. Derivação normativa interna — P46 / P47
+
+**P46/P47** entram apenas depois de **P39/P40/P42** e de **P44/P45**.
+
+- **P46** fixa que a normatividade não é autónoma.
+- **P47** fixa que o dever-ser deriva da subordinação operativa ao real, ao dano real, à direção prática e à adequação.
+
+Estas proposições pertencem legitimamente ao caso, mas **não** como cabeça coigual nem como abertura. Funcionam como derivação normativa interna, e não como soberania normativa antecipada.
+
+### 4. Fecho terminal — P48
+
+**P48** entra apenas no fecho admissível do dossier: o dever-ser não manda o impossível; orienta o possível real. A sua função é terminal e limitativa. Não deve abrir, densificar nem reordenar cedo demais o confronto.
+
+### 5. Fundo remoto e elementos subordinados
+
+- **P04/P07/P08** = fundo ontológico remoto, não abertura efetiva.
+- **PN01** = suspensa como ponte ativa.
+- **PN04/PN05** = pontes regionais e materiais subordinadas.
+- **AC01/AC03** = compatibilidades externas.
+- **CR01/CR04** = campos derivados, sem soberania local.
+
+## VII. Objeções fortes
+
+**1. Sem abrir por P46/P47, o caso perde a normatividade que quer pensar.**  
+Não perde. Pelo contrário: só a ganha legitimamente quando a faz derivar de **P39/P40/P42** e de **P44/P45**, em vez de a instalar desde logo como camada pronta.
+
+**2. P44/P45 já são moral pronta e deviam ser rebaixadas.**  
+Não. Devem ficar no centro vivo do caso, mas apenas como explicitação local de adequação e desadequação operativa, sem autonomização moral, institucional ou política.
+
+**3. Sem P04/P07/P08 o caso perde o seu chão ontológico.**  
+Não perde. Esse chão permanece, mas como fundo remoto. O erro seria deixá-lo voltar a ocupar a cabeça viva do confronto.
+
+**4. Sem lei, instituição, história ou formas sociais a normatividade fica abstrata.**  
+Essas camadas podem ser preparadas, mas pertencem a um momento posterior do caso. Entrar com elas cedo demais dissolveria o CF10 no seu campo derivado.
+
+## VIII. Fronteira arquitetónica
+
+É estritamente local ao **CF10** a passagem que vai de **não-indiferença real → dano real → direção prática mínima → bem/mal → derivação normativa interna → limite do possível real**.
+
+Não pertence à cabeça local do caso:
+
+- a **ontologia fundacional remota** de **P04/P07/P08**;
+- o **regime epistemológico alto** de erro, critério, verdade e correção em abstrato;
+- a **institucionalização**, a **lei**, as **formas históricas** e os **campos prático-normativos** como se já fossem o centro do problema.
+
+A fronteira do caso deve, por isso, ficar assim fixada:
+
+- o **CF10** não é ontologia fundacional;
+- o **CF10** não é epistemologia corretiva em abstrato;
+- o **CF10** não é moral autónoma;
+- o **CF10** não é filosofia política;
+- o **CF10** não é ainda dossier de lei, instituições ou história.
+
+## IX. Restrições metodológicas obrigatórias
+
+- Não abrir por **P04/P07/P08**.
+- Não abrir por **erro, critério, verdade ou correção** em abstrato.
+- Não deixar **P46/P47/P48** tornarem-se cabeça soberana do caso.
+- Não deixar **P44/P45** virarem moral pronta.
+- Não deixar **P48** entrar cedo demais.
+- Não deixar **PN01** comandar o confronto.
+- Não usar **PN04/PN05** como substituto do problema filosófico local.
+- Não usar **AC01/AC03** como substituto do problema filosófico.
+- Não deixar **CR01/CR04** soberanizarem o caso.
+- Não deixar o dossier subir para lei, instituição, história, filosofia política ou teoria moral autónoma.
+
+## X. Formulação final curta
+
+**O CF10 abre pela não-indiferença real das atualizações, pelo dano real e por uma direção prática mínima ancorada no real, explicita bem e mal como adequação e desadequação operativa, e só depois deriva internamente o dever-ser, sob limite do possível real.**
+
+## XI. Condição de passagem
+
+O caso já autoriza uma **versão fina curta, firme e hierarquicamente limpa**.
+
+Fica suficientemente estável se conservar:
+
+- **P39/P40/P42** como abertura legítima e chão real do caso;
+- **P44/P45** como explicitação local sem moralização autónoma;
+- **P46/P47** como derivação normativa interna e não como cabeça;
+- **P48** apenas no terminal;
+- **P04/P07/P08** como fundo remoto;
+- **PN01** suspensa;
+- **PN04/PN05** subordinadas;
+- **AC01/AC03** externas;
+- **CR01/CR04** derivadas e sem soberania local.
+
+O que ainda impediria a passagem seria apenas uma regressão da abertura para a ontologia remota, para a normatividade pronta ou para a institucionalização antecipada. Mantidos estes travões, o dossier fica pronto para **revalidação curta posterior**.
+
+---
+
+## CF10_complemento_FECHO_LOCAL
+
+**Ficheiro de origem:** `CF10_complemento_FECHO_LOCAL.md`
+
+# CF10 — Complemento de FECHO LOCAL
+
+## I. Ganho local estabilizado
+
+O **CF10** fica localmente estabilizado como confronto sobre a **derivação não arbitrária da normatividade a partir do real**.
+
+A abertura baixa em **P39/P40/P42** foi mantida. **P40** permaneceu forte sem ficar soberana. **P44/P45** ficaram como explicitação local de **bem** e **mal**, sem moralização autónoma. **P46/P47** ficaram como **derivação normativa interna** e não como nova cabeça do dossier. **P48** ficou terminal, subordinada ao **possível real**. **P04/P07/P08** ficaram remetidas a **fundo ontológico remoto**. **PN01** ficou suspensa. **PN04/PN05** ficaram apenas como pontes regionais e materiais subordinadas. **AC01/AC03** ficaram como compatibilidades externas. **CR01/CR04** ficaram como campos derivados de incidência, sem soberania local.
+
+Também ficou suficientemente fixado que o caso **não se dissolve nem em ontologia fundacional remota, nem em epistemologia alta, nem em normatividade autonomizada**.
+
+## II. Fecho local prudencial
+
+O fecho local legítimo do **CF10** é este: o dossier abre pela **assimetria real entre trajetórias**, pelo **dano real** e por uma **direção prática mínima**; ganha o seu corpo na explicitação local de **bem** e **mal** como adequação e desadequação operativa; e só depois admite a **derivação normativa interna**, fechando terminalmente pelo limite do **possível real**.
+
+Isto basta para o fecho prudencial. Não é necessário voltar a discutir o recentramento do caso, nem reabrir a ontologia remota, nem subir para erro, critério, verdade, correção, lei, institucionalização ou formas históricas.
+
+## III. Interdições remanescentes
+
+- não reabrir por **P04/P07/P08**;
+- não abrir por erro, critério, verdade ou correção em abstrato;
+- não deixar **P46/P47/P48** tornarem-se cabeça soberana do caso;
+- não deixar **P44/P45** virarem moral pronta, filosofia social ou teoria política;
+- não deixar **P48** entrar cedo demais;
+- não deixar **PN01** comandar o confronto;
+- não usar **PN04/PN05** como substitutos do problema local;
+- não usar **AC01/AC03** como substitutos do problema filosófico;
+- não deixar **CR01/CR04** soberanizarem o caso;
+- não transformar o **CF10** numa teoria moral autónoma;
+- não transformar o **CF10** numa filosofia política.
+
+## IV. Fórmula curta de fecho
+
+O **CF10** abre pela **assimetria real entre trajetórias**, pelo **dano real** e por uma **direção prática mínima** de preservação, correção e não-degeneração, explicita **bem** e **mal** como adequação e desadequação operativa, deriva internamente a normatividade sem a autonomizar, e fecha terminalmente pelo limite do **possível real**.
+
+## V. Condição de transição para ficha de gesto estrutural
+
+Pode agora transitar para **ficha de gesto estrutural** e para **mapa mínimo de pré-exposição** com estes pontos já fixos:
+
+- abertura legítima em **P39/P40/P42**;
+- **P40** forte sem soberania isolada;
+- **P44/P45** como explicitação local de bem e mal;
+- **P46/P47** como derivação normativa interna;
+- **P48** como fecho terminal subordinado ao possível real;
+- **P04/P07/P08** como fundo remoto;
+- **PN01** suspensa;
+- **PN04/PN05**, **AC01/AC03** e **CR01/CR04** subordinadas.
+
+A transição é legítima porque o que resta já não é redecisão do centro do caso, mas apenas extração do seu gesto estrutural e da sua ordem mínima de pré-exposição.
+
+---
+
+## CF10_ficha_gesto_estrutural
+
+**Ficheiro de origem:** `CF10_ficha_gesto_estrutural.md`
+
+# CF10 — ficha de gesto estrutural
+
+## I. Estatuto de entrada da ficha
+
+Esta ficha pertence à **camada intermédia disciplinada de pré-exposição**. Não reabre o **CF10**; apenas extrai, em forma mínima e transmissível, o gesto estrutural do que já ficou localmente estabilizado. Também não é capítulo final, nem narrativa, nem mapa expositivo: é só a fixação curta do gesto próprio que o caso já ganhou.
+
+## II. Identificação do gesto estrutural
+
+**nome curto do gesto** — **reinscrição normativa do agir no real**.
+
+**fórmula nuclear** — O **CF10** parte da **assimetria real entre trajetórias**, fixa o **dano real** e uma **direção prática mínima**, explicita **bem** e **mal** como adequação e desadequação operativa, admite a **derivação normativa interna** sem a autonomizar, e só fecha terminalmente pelo **possível real**.
+
+## III. De onde parte
+
+O gesto parte de **P39/P40/P42**: nem toda a atualização é indiferente, há dano real ancorado no real, e a ação pode orientar-se segundo vetores mínimos de preservação, correção e não-degeneração.
+
+Não pode abrir de outro modo. Se abrir por **P04/P07/P08**, regressa a ontologia remota; se abrir por erro, critério, verdade ou correção em abstrato, sobe para eixo epistemológico alto; se abrir por **P46/P47/P48**, instala a normatividade já pronta antes de mostrar a sua derivação local.
+
+## IV. Sequência interna mínima
+
+**abertura** — **P39/P40/P42**: não-indiferença real das atualizações, dano real e direção prática mínima.
+
+**corpo** — **P44/P45**: bem e mal como adequação e desadequação operativa. Aqui o caso torna explícito, em chave local, o que já estava aberto pelo chão real do confronto.
+
+**derivação** — **P46/P47**: normatividade não autónoma e dever-ser como derivação normativa interna. Não abrem o caso, não são cabeça coigual e não formam regime soberano.
+
+**fecho admissível** — **P48**: limite terminal do possível real. A normatividade não manda o impossível; só orienta o possível real. **P04/P07/P08** ficam como fundo remoto. **PN01** permanece suspensa. **PN04/PN05** ficam subordinadas. **AC01/AC03** e **CR01/CR04** ficam externas ao centro do gesto.
+
+## V. Erro dominante limpo
+
+**desvio antigo** — abrir o caso por ontologia fundacional remota ou por normatividade já pronta, como se o dever-ser pudesse entrar antes da assimetria real do agir.
+
+**desvio ainda possível** — deixar a explicitação local de bem e mal ou a derivação normativa interna escorregarem para moral pronta, filosofia social, teoria política ou institucionalização precoce.
+
+O erro principal que o gesto limpa é este: **confundir a derivação não arbitrária da normatividade com uma normatividade autónoma, ou com uma simples importação de camadas remotas e derivadas para a cabeça do caso**.
+
+## VI. Estabilização derivada descentrada
+
+A camada derivada que o caso tem de usar sem soberanizar é a da **derivação normativa interna**.
+
+O gesto não a apaga; descentrá-la significa mantê-la **subordinada ao bloco P39–P45**, fazendo entrar **P46/P47** apenas depois da assimetria real entre trajetórias, do dano real e da explicitação local de bem e mal, sem a deixar abrir o confronto, sem a deixar governar o seu núcleo positivo e sem a converter em moral autónoma.
+
+## VII. O que reinscreve no real
+
+O gesto reinscreve no real a própria **normatividade mínima do agir**: a diferença entre trajetórias, o dano, o bem, o mal e a orientação prática deixam de aparecer como imposições externas ou convenções flutuantes.
+
+A verdade local que estabiliza é curta: **porque as atualizações não são indiferentes, porque há dano real e porque a ação pode orientar-se segundo vetores inscritos no real, tornam-se inteligíveis bem e mal como adequação e desadequação operativa e, só depois, uma exigência normativa interna sob o limite do possível real**.
+
+## VIII. Passagem preparada
+
+Este gesto prepara, a jusante, uma **ordem mínima de pré-exposição** em que o chão real do agir governa a explicitação local de bem e mal, a derivação normativa entra só depois e o possível real fecha o caso apenas no terminal.
+
+Ainda não decide: lei, instituições, história, formas sociais, teoria moral autónoma, filosofia política ou ativação plena de **PN01**. Também não decide aqui o uso forte de **CR01/CR04**; apenas deixa preparado o terreno para que futuras passagens não traiam o centro local do caso.
+
+## IX. Fronteiras negativas
+
+**diferença face à ontologia remota** — O gesto do **CF10** não é o de fundar distinção, determinação e exclusão. Usa esse fundo à distância, mas não abre por ele. O seu centro começa quando a atualização já é avaliada pela sua assimetria real e pelos seus efeitos.
+
+**diferença face ao eixo epistemológico alto** — O gesto do **CF10** não é o de fixar erro, critério, verdade e correção como tema principal. Pode usar esse eixo como disciplina e travão, mas não lhe entrega a cabeça do caso.
+
+**diferença face à normatividade autonomizada** — O gesto do **CF10** não começa por dever, lei, dignidade, instituição ou forma histórica. Faz a normatividade derivar internamente do real do agir, sem deixar **PN01**, **CR01** ou **CR04** soberanizarem o confronto.
+
+**interdições de uso futuro** — não reabrir por **P04/P07/P08**; não abrir por erro, critério, verdade ou correção em abstrato; não deixar **P46/P47/P48** tornarem-se centro soberano; não deixar **P44/P45** virarem moral pronta; não deixar **P48** entrar cedo demais; não deixar **PN01** comandar; não usar **PN04/PN05**, **AC01/AC03** ou **CR01/CR04** como substitutos do problema local; não transformar o gesto numa teoria moral autónoma nem numa filosofia política.
+
+## X. Fórmula sintética final
+
+**Reinscrever a normatividade no real do agir pela assimetria real entre trajetórias, pelo dano real e pela adequação operativa, derivando-a internamente sem a autonomizar e limitando-a terminalmente pelo possível real.**
+
+---
+
+## CF10_mapa_minimo_pre_exposicao
+
+**Ficheiro de origem:** `CF10_mapa_minimo_pre_exposicao.md`
+
+# CF10 — mapa mínimo de pré-exposição
+
+## I. Estatuto do ficheiro
+
+Este ficheiro fixa apenas a ordem mínima de pré-exposição do CF10.
+
+Não é reabertura local do caso.
+
+Não é capítulo final.
+
+Não redecide o centro do confronto.
+
+Serve apenas para disciplinar a futura exposição, impedindo regressão para ontologia fundacional remota, epistemologia alta ou normatividade autonomizada.
+
+## II. Forma aparente do problema
+
+A forma aparente do problema no CF10 é a de uma pergunta sobre como pode derivar normatividade sem arbitrariedade a partir de dano real, bem, mal e adequação prática ao real.
+
+Mas essa aparência pode deformar-se em três direções indevidas:
+- abertura por ontologia fundacional remota;
+- abertura por teoria moral já pronta;
+- subida precoce para lei, instituições, história ou formas sociais.
+
+## III. Falso centro a descentrar
+
+O falso centro que a futura exposição tem de descentrar logo no início é este:
+- `P04/P07/P08/P39/P40/P42` como bloco plano;
+- `P46/P47/P48` como cabeça normativa já pronta;
+- `PN01`, `CR01` e `CR04` como via rápida para normatividade autonomizada, institucionalização ou história.
+
+O CF10 não abre por ontologia remota, nem por dever-ser já consolidado, nem por lei, instituições ou formas históricas.
+
+## IV. Solo real do caso
+
+O solo real do caso é a assimetria real do agir.
+
+Esse solo abre em `P39/P40/P42`:
+- `P39` — nem toda a atualização é indiferente;
+- `P40` — há dano real ancorado no real;
+- `P42` — a ação pode orientar-se segundo vetores mínimos de preservação, correção e não-degeneração.
+
+`P40` é a proposição mais carregada do material, mas não pode aparecer isolada. O chão do caso é a articulação entre não-indiferença, dano real e direção prática mínima.
+
+## V. Justificação local mínima suficiente
+
+A ordem escolhida é mínima e suficiente porque:
+- sem `P39/P40/P42`, o caso perde o seu chão próprio e dissolve-se em normatividade abstrata;
+- sem `P44/P45`, o caso não torna visível a passagem local para bem e mal;
+- se `P46/P47` entram cedo demais, a derivação normativa sobe a cabeça soberana;
+- se `P48` entra cedo demais, o caso fecha prematuramente pelo possível real;
+- se `P04/P07/P08` reabrem a entrada, o caso regressa a ontologia remota;
+- se `PN01`, `CR01` ou `CR04` sobem cedo, o caso infla para moral autónoma, filosofia social ou institucionalização.
+
+## VI. Ordem mínima de exposição
+
+### 1. Primeiro
+Abrir por `P39/P40/P42`.
+
+Formulação mínima:
+- nem toda a atualização é indiferente;
+- há dano real;
+- a ação pode orientar-se segundo vetores mínimos inscritos no real.
+
+### 2. Segundo
+Densificar `P44/P45`.
+
+Formulação mínima:
+- bem = adequação operativa da atualização ao real;
+- mal = falha, desvio ou desadequação relativamente a essa atualização adequada.
+
+Aqui o caso torna explícito, em chave local, o que já estava aberto pelo chão real do confronto, sem ainda subir para moral pronta.
+
+### 3. Terceiro
+Fazer entrar `P46/P47` apenas como derivação normativa interna.
+
+Formulação mínima:
+- a normatividade não é autónoma;
+- o dever-ser deriva internamente do real do agir, do dano real, da adequação e da direção prática.
+
+### 4. Quarto
+Fazer entrar `P48` apenas no terminal.
+
+Formulação mínima: a normatividade não manda o impossível; fica subordinada ao possível real.
+
+### 5. Apenas como fundo ou nota subordinada
+- `P04/P07/P08` = fundo ontológico remoto;
+- `PN01` = suspensa;
+- `PN04/PN05` = pontes subordinadas;
+- `AC01/AC03` = compatibilidades externas;
+- `CR01/CR04` = campos derivados sem soberania local.
+
+## VII. Custos do desvio
+
+Se a exposição abrir mal:
+- o caso regressa a ontologia fundacional remota;
+- `P46/P47/P48` transformam o CF10 num dossier de normatividade já pronta;
+- `P44/P45` degeneram em moral pronta, filosofia social ou teoria política;
+- `P48` fecha cedo demais o confronto;
+- `PN01` reintroduz inflação normativa;
+- `CR01/CR04` deslocam o caso para lei, instituições ou história;
+- o gesto próprio do caso deixa de ser visível.
+
+## VIII. Passagens autorizadas
+
+### Passagens autorizadas
+- `P39/P40/P42` → `P44/P45`
+- `P44/P45` → `P46/P47`
+- `P46/P47` → `P48`
+- referência terminal e subordinada a `PN04/PN05`, `AC01/AC03` e `CR01/CR04`
+
+### Passagens interditas
+- `P04/P07/P08` → cabeça do caso
+- `P46/P47/P48` → abertura soberana
+- `P44/P45` → moral pronta
+- `P48` → entrada precoce
+- `PN01` → comando da exposição
+- `PN04/PN05` → substituto do problema local
+- `AC01/AC03` → substituto do problema filosófico
+- `CR01/CR04` → soberania local
+- lei, instituições ou história → cabeça do confronto
+
+## IX. Frase-guia de exposição
+
+Expor o CF10 como reinscrição normativa do agir no real: primeiro a assimetria real entre trajetórias, o dano real e a direção prática mínima, depois a explicitação local de bem e mal, depois a derivação normativa interna, e só terminalmente o limite do possível real.
+
+---
+
+# CF11
+
+---
+
+## CF11_dossier_confronto_fino_dirigido
+
+**Ficheiro de origem:** `CF11_dossier_confronto_fino_dirigido.md`
+
+# CF11 — dossier de confronto fino dirigido
+
+## I. Nota prévia de redecisão metodológica
+
+O **CF11** não é reaberto. Mantém-se como confronto local sobre **responsabilidade do ser reflexivo, fundamento da dignidade e estatuto prudencial da vida boa**, sob regra **dossier-first**: o dossier continua a ser a norma local soberana provisória, a base fragmentária o campo real de prova e correção, e a instrumentação apenas travão auditável.
+
+O veredicto metodológico já estabilizado é **reformular finamente**. O problema remanescente já não é de centro global, mas de **abertura**, **hierarquia interna** e **travagem das derivações**. A tarefa desta versão fina é converter em forma textual limpa o que já ficou ganho: impedir que o caso seja reabsorvido por `P46/P47`, impedir que `P50/P51` entrem como formas prontas, e fixar `P49` como chão singular do confronto.
+
+## II. Pergunta central
+
+**Porque responde o ser reflexivo pelas suas atualizações e que fundamento têm dignidade e vida boa?**
+
+## III. Formulação curta do confronto
+
+O **CF11** abre, sobre solo normativo herdado mas não soberano, pela imputação ontológica do ser reflexivo às atualizações que pode orientar; ganha o seu centro local na dignidade como limite normativo forte do ser reflexivo situado e vulnerável; e só depois admite a vida boa como fecho prudencial, corrigível e não-degenerativo, sempre sob limite do possível real.
+
+## IV. Descrição do confronto
+
+O problema do **CF11** não é ainda o de demonstrar genericamente que existe normatividade, nem o de formular uma teoria moral autónoma, uma filosofia política, um regime institucional, uma dignidade formal já pronta ou uma vida boa fechada em modelo prático definitivo. O seu problema local é mais restrito: saber por que razão o ser reflexivo responde pelas atualizações que pode orientar e como, a partir dessa imputação, se torna inteligível um limite forte de dignidade, ficando a vida boa apenas como fecho prudencial ulterior.
+
+Por isso, o dossier não deve abrir por **`P46/P47`** como se ainda tratasse apenas da derivação geral da normatividade. Essas proposições mantêm-se indispensáveis, mas entram como **solo normativo herdado**: a normatividade não é autónoma e o dever-ser deriva do real, do dano, da direção e da correção. Esse chão permanece, mas já não singulariza o caso.
+
+A abertura legítima do confronto está em **`P49`**. É aí que o caso se torna próprio: o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe. Esta abertura não deve ser artificialmente isolada do solo herdado de **`P46/P47`**, mas também não pode ser por ele abafada. A relação correta é esta: **`P46/P47`** sustentam, **`P49`** singulariza.
+
+É a partir daqui que **`P50`** entra como segundo passo forte do centro local. A dignidade não deve ser apresentada como valor formal, convenção ou dignificação externa. Deve entrar como **limite normativo forte** que decorre do estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação. A sua função não é moralizar o caso, mas torná-lo mais estrito.
+
+**`P51`** entra apenas no terminal. A vida boa não deve abrir nem governar o confronto. A sua entrada legítima é prudencial: designa a forma de atualização em que verdade, correção, não-dano, direção e coexistência reflexiva se articulam adequadamente, mas só depois de responsabilidade e dignidade terem sido localmente fixadas.
+
+**`P48`** entra apenas como travão terminal do possível real. Não deve governar cedo demais o confronto. A sua função é lembrar que o fecho prudencial do caso continua subordinado ao poder-ser real e aos limites do campo em que o ser reflexivo existe.
+
+**`PN01`** fica suspensa como ponte ativa. **`PN04/PN05`** sobrevivem apenas como pontes regionais e materiais subordinadas. **`AC03`** fica como compatibilidade externa. **`CR01/CR04`** ficam como campos derivados de incidência, sem soberania local.
+
+## V. Tese canónica provisória afinada
+
+**Responsabilidade, dignidade e vida boa só se tornam inteligíveis quando a normatividade herdada é reinscrita no ser reflexivo enquanto ente real, situado, vulnerável e capaz de orientação: daí decorre uma imputação ontológica pelas atualizações orientáveis, um limite forte de dignidade, e apenas a jusante uma forma prudencial de vida boa, sempre corrigível e subordinada ao possível real.**
+
+## VI. Proposições nucleares e hierarquia interna
+
+### 1. Solo normativo herdado e subordinado — P46 / P47
+
+**`P46/P47`** permanecem como fundamento herdado e subordinado.
+
+- **`P46`** fixa que a normatividade não é autónoma.
+- **`P47`** fixa que o dever-ser deriva do real, do dano, da direção e da correção.
+
+Estas proposições pertencem ao caso, mas não como cabeça soberana. Funcionam como chão normativo sem o qual o CF11 perderia suporte, mas não como núcleo singular do confronto.
+
+### 2. Chão singular do confronto — P49
+
+**`P49`** é o verdadeiro chão singular do caso.
+
+- O ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.
+
+A sua cobertura não é a mais forte do conjunto, mas é suficiente e, sobretudo, **decisiva para singularizar o confronto**. Sem `P49`, o CF11 regressaria à derivação normativa geral; com `P49`, o caso ganha o seu problema próprio.
+
+### 3. Centro vivo forte — P50
+
+**`P50`** entra como segundo passo forte do centro local.
+
+- A dignidade exprime o limite normativo forte que decorre do estatuto do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.
+
+`P50` não deve ser formulada como dignidade formal pronta, valor atribuído de fora ou categoria político-institucional já estabilizada. A sua função é explicitar o limite forte que se torna inteligível a partir de `P49`.
+
+### 4. Fecho prudencial — P51
+
+**`P51`** entra apenas como fecho prudencial terminal.
+
+- A vida boa designa a forma de atualização em que verdade, correção, não-dano, direção e coexistência reflexiva se articulam adequadamente.
+
+A sua cobertura é demasiado fraca para abrir ou co-governar o caso. Deve ser mantida, mas apenas como fecho prudencial, corrigível e não-degenerativo.
+
+### 5. Travão terminal — P48
+
+**`P48`** entra apenas no terminal, como limite do possível real. Não abre, não densifica o centro e não reordena cedo demais o confronto. A sua função é de travão, não de cabeça.
+
+### 6. Fundos e elementos subordinados
+
+- **`PN01`** = suspensa como ponte ativa.
+- **`PN04/PN05`** = pontes regionais e materiais subordinadas.
+- **`AC03`** = compatibilidade externa.
+- **`CR01/CR04`** = campos derivados, sem soberania local.
+
+## VII. Objeções fortes
+
+**1. Sem abrir por `P46/P47`, o caso perde o seu chão normativo.**  
+Não perde. O chão normativo permanece, mas como suporte herdado. O erro seria deixar esse suporte voltar a substituir o problema singular do CF11.
+
+**2. `P49` tem cobertura imperfeita e por isso não pode abrir o dossier.**  
+A cobertura não é a mais alta, mas é suficiente e filosoficamente decisiva. O que singulariza um caso não é apenas o peso bruto, mas o ponto em que o problema se torna próprio.
+
+**3. `P50` já é dignidade pronta e por isso devia ser rebaixada.**  
+Não deve ser apagada nem formalizada. Deve ser mantida como limite normativo forte do ser reflexivo, derivado de `P49` e não como teoria autónoma da dignidade.
+
+**4. `P51` deveria abrir, porque o título do caso inclui a vida boa.**  
+Não. A vida boa pertence ao fecho prudencial do caso, não à sua abertura. Abrir por `P51` seria deixar o fecho governar o problema.
+
+**5. `CR01/CR04` são necessárias para pensar coexistência, instituições e história.**  
+Podem ser preparadas, mas não pertencem à cabeça local do confronto. Entrar cedo demais por aí dissolveria o CF11 em moral, política ou institucionalização.
+
+## VIII. Fronteira arquitetónica
+
+É estritamente local ao **CF11** a passagem que vai de **solo normativo herdado** para **imputação ontológica do ser reflexivo**, de **imputação ontológica** para **dignidade como limite forte**, e daí para uma **vida boa apenas prudencialmente formulável**.
+
+Não pertence à cabeça local do caso:
+
+- a **derivação normativa geral** de `P46/P47` enquanto tal;
+- o **eixo epistemológico alto** de erro, critério, verdade e correção em abstrato;
+- a **dignidade formal** já fechada;
+- a **vida boa** como teoria pronta;
+- a **institucionalização**, a **história**, as **formas sociais** e a **filosofia política**.
+
+A fronteira do caso deve, por isso, ficar assim fixada:
+
+- o **CF11** não é simplesmente o prolongamento do CF10;
+- o **CF11** não é teoria moral autónoma;
+- o **CF11** não é filosofia política;
+- o **CF11** não é ainda dossier de instituições, história ou formas sociais;
+- o **CF11** não é epistemologia corretiva em abstrato.
+
+## IX. Restrições metodológicas obrigatórias
+
+- Não abrir por **`P46/P47`** como se o caso fosse apenas derivação normativa geral.
+- Não abrir por **erro, critério, verdade ou correção** em abstrato.
+- Não deixar **`P50/P51`** tornarem-se cabeça soberana do caso.
+- Não deixar **`P48`** entrar cedo demais.
+- Não deixar **`PN01`** comandar o confronto.
+- Não usar **`PN04/PN05`** como substitutos do problema filosófico local.
+- Não usar **`AC03`** como substituto do problema filosófico.
+- Não deixar **`CR01/CR04`** soberanizarem o caso.
+- Não transformar o **CF11** numa teoria moral autónoma.
+- Não transformar o **CF11** numa filosofia política.
+
+## X. Formulação final curta
+
+**O CF11 abre, sobre solo normativo herdado mas não soberano, pela imputação ontológica do ser reflexivo às atualizações que pode orientar, ganha o seu centro na dignidade como limite normativo forte do ser reflexivo situado e vulnerável, e só fecha prudentemente na vida boa como atualização adequada, corrigível e não-degenerativa, sempre sob limite do possível real.**
+
+## XI. Condição de passagem
+
+O caso já autoriza uma **versão fina curta, firme e hierarquicamente limpa**.
+
+Fica suficientemente estável se conservar:
+
+- **`P46/P47`** como solo normativo herdado e subordinado;
+- **`P49`** como abertura singular do caso;
+- **`P50`** como centro vivo forte;
+- **`P51`** apenas no terminal prudencial;
+- **`P48`** apenas como travão terminal;
+- **`PN01`** suspensa;
+- **`PN04/PN05`** subordinadas;
+- **`AC03`** externa;
+- **`CR01/CR04`** derivadas e sem soberania local.
+
+O que ainda impediria a passagem seria apenas uma regressão da abertura para `P46/P47`, ou uma entrada precoce de `P50/P51` como formas prontas. Mantidos estes travões, o dossier fica pronto para **revalidação curta posterior**.
+
+---
+
+## CF11_complemento_FECHO_LOCAL
+
+**Ficheiro de origem:** `CF11_complemento_FECHO_LOCAL.md`
+
+# CF11 — Complemento de FECHO LOCAL
+
+## I. Ganho local estabilizado
+
+O **CF11** fica localmente estabilizado como confronto sobre a **responsabilidade do ser reflexivo**, o **fundamento da dignidade** e o **estatuto prudencial da vida boa**.
+
+A abertura baixa em **P49** foi mantida. **P50** ficou como **centro vivo forte** do confronto, nomeada como **limite normativo forte do ser reflexivo** e não como dignidade formal pronta. **P51** ficou **prudencial, corrigível e terminal**. **P48** ficou como **travão terminal** subordinado ao **possível real**. **P46/P47** ficaram rebaixadas a **suporte normativo herdado e subordinado**. **PN01** ficou suspensa. **PN04/PN05** ficaram apenas como pontes regionais e materiais subordinadas. **AC03** ficou como compatibilidade externa. **CR01/CR04** ficaram como campos derivados de incidência, sem soberania local.
+
+Também ficou suficientemente fixado que o caso **não se dissolve nem em derivação normativa geral, nem em dignidade formal, nem em vida boa pronta, nem em institucionalização histórica, nem em filosofia política**.
+
+## II. Fecho local prudencial
+
+O fecho local legítimo do **CF11** é este: o dossier abre, sobre **suporte normativo herdado** mas não soberano, pela **imputação ontológica do ser reflexivo** às atualizações que pode orientar; ganha o seu centro no **limite normativo forte do ser reflexivo**; e só depois admite a **vida boa** como fecho **prudencial, corrigível e terminal**, sempre sob o travão do **possível real**.
+
+Isto basta para o fecho prudencial. Não é necessário voltar a discutir o recentramento do caso, nem reabrir a derivação normativa geral, nem subir para erro, critério, verdade, correção, dignidade formal, institucionalização, história ou filosofia política.
+
+## III. Interdições remanescentes
+
+- não reabrir por **P46/P47** como se o caso fosse apenas derivação normativa geral;
+- não abrir por erro, critério, verdade ou correção em abstrato;
+- não deixar **P50/P51** tornarem-se cabeça soberana do caso;
+- não deixar **P48** entrar cedo demais;
+- não deixar **PN01** comandar o confronto;
+- não usar **PN04/PN05** como substitutos do problema local;
+- não usar **AC03** como substituto do problema filosófico;
+- não deixar **CR01/CR04** soberanizarem o caso;
+- não transformar o **CF11** numa teoria moral autónoma;
+- não transformar o **CF11** numa filosofia política.
+
+## IV. Fórmula curta de fecho
+
+O **CF11** abre, sobre **suporte normativo herdado** mas não soberano, pela **imputação ontológica do ser reflexivo** às atualizações que pode orientar, ganha o seu centro no **limite normativo forte do ser reflexivo** enquanto ente real, vulnerável, situado e capaz de orientação, e só fecha **prudencial, corrigível e terminalmente** na **vida boa**, sempre sob o travão do **possível real**.
+
+## V. Condição de transição para ficha de gesto estrutural
+
+Pode agora transitar para **ficha de gesto estrutural** e para **mapa mínimo de pré-exposição** com estes pontos já fixos:
+
+- **P46/P47** como suporte normativo herdado e subordinado;
+- **P49** como abertura singular e legítima do caso;
+- **P50** como centro vivo forte;
+- **P51** como fecho prudencial terminal;
+- **P48** como travão terminal subordinado ao possível real;
+- **PN01** suspensa;
+- **PN04/PN05**, **AC03** e **CR01/CR04** subordinadas.
+
+A transição é legítima porque o que resta já não é redecisão do centro do caso, mas apenas extração do seu gesto estrutural e da sua ordem mínima de pré-exposição.
+
+---
+
+## CF11_ficha_gesto_estrutural
+
+**Ficheiro de origem:** `CF11_ficha_gesto_estrutural.md`
+
+# CF11 — Ficha de gesto estrutural
+
+## I. Estatuto de entrada da ficha
+
+Esta ficha pertence à fase de **extração do gesto estrutural mínimo** do CF11.
+
+Não é reabertura do caso.  
+Não é capítulo final.  
+Não é narrativa.  
+Parte apenas do que ficou **localmente estabilizado** no dossier fino e no fecho local prudencial.
+
+## II. Identificação do gesto estrutural
+
+**Nome curto do gesto**  
+Reinscrição da responsabilidade reflexiva no real.
+
+**Fórmula nuclear**  
+Reinscrever a responsabilidade do ser reflexivo no real a partir das atualizações que pode orientar, elevando daí um limite normativo forte sem autonomizar a normatividade e deixando a vida boa apenas como fecho prudencial sob o possível real.
+
+## III. De onde parte
+
+**Ponto de partida baixo do caso**  
+O gesto parte de um **suporte normativo herdado** em **P46/P47**, mas abre propriamente em **P49**:
+- a normatividade não é autónoma;
+- o dever-ser deriva do real;
+- mas o ponto singular do caso é que **o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe**.
+
+**Por que não pode abrir de outro modo**  
+Não pode abrir:
+- por **P46/P47**, porque assim o CF11 regressa à derivação normativa geral;
+- por **P50/P51**, porque assim dignidade e vida boa entram como formas prontas;
+- por erro, critério, verdade ou correção em abstrato;
+- por campos sociais, institucionais ou históricos.
+
+## IV. Sequência interna mínima
+
+**Suporte**  
+**P46/P47** — suporte normativo herdado e subordinado.
+
+**Abertura**  
+**P49** — imputação ontológica do ser reflexivo pelas atualizações que pode orientar.
+
+**Centro**  
+**P50** — dignidade como **limite normativo forte do ser reflexivo** enquanto ente real, vulnerável, situado e capaz de orientação.
+
+**Fecho admissível**  
+**P51** — vida boa como fecho **prudencial, corrigível e terminal**.  
+**P48** — travão terminal subordinado ao **possível real**.
+
+## V. Erro dominante limpo
+
+**Desvio antigo**  
+Tratar o CF11 como simples continuação da derivação normativa geral, deixando **P46/P47** governarem o caso inteiro.
+
+**Desvio ainda possível**  
+Deixar:
+- **P50** soar a dignidade formal já pronta;
+- **P51** entrar como modelo fechado de vida boa;
+- **P48** reordenar cedo demais o confronto;
+- **CR01/CR04** puxarem o caso para normatividade social, institucional ou histórica.
+
+## VI. Estabilização derivada descentrada
+
+**Camada derivada que o caso usa sem soberanizar**  
+O CF11 usa a **derivação normativa herdada** de **P46/P47**, mas apenas como suporte.
+
+Usa ainda:
+- **PN01** apenas como ponte suspensa;
+- **PN04/PN05** apenas como pontes regionais e materiais subordinadas;
+- **AC03** apenas como compatibilidade externa;
+- **CR01/CR04** apenas como campos derivados de incidência.
+
+**Como a mantém subordinada**  
+Não deixa nenhuma destas camadas:
+- abrir o caso;
+- redefinir o seu centro;
+- substituir a imputação ontológica do ser reflexivo;
+- antecipar moral, política, instituição ou história como cabeça do confronto.
+
+## VII. O que reinscreve no real
+
+**Núcleo positivo do gesto**  
+O gesto reinscreve no real que:
+- a responsabilidade não é convenção exterior;
+- o ser reflexivo responde pelas atualizações que pode orientar;
+- a dignidade exprime um limite forte desse estatuto;
+- a vida boa só pode surgir como fecho prudencial dessa orientação.
+
+**Verdade local estabilizada**  
+A verdade local estabilizada do CF11 é esta:  
+a responsabilidade do ser reflexivo funda-se na sua condição real de orientação; a dignidade não é formalismo externo; e a vida boa não pode entrar como forma pronta, mas apenas como atualização prudencial, corrigível e não-degenerativa.
+
+## VIII. Passagem preparada
+
+**O que este gesto prepara a jusante**  
+Prepara:
+- a explicitação prudencial da vida boa;
+- a ordenação expositiva mínima do caso;
+- a passagem para ficha de gesto estrutural estabilizada em camada intermédia;
+- o mapa mínimo de pré-exposição.
+
+**O que ainda não decide**  
+Não decide:
+- uma teoria moral autónoma;
+- uma filosofia política;
+- uma teoria institucional;
+- uma forma histórica fechada da dignidade;
+- uma formulação total da vida boa.
+
+## IX. Fronteiras negativas
+
+**Diferença face à derivação normativa geral**  
+O gesto do CF11 não é apenas: “o dever-ser deriva do real”.  
+É: **o ser reflexivo responde pelo que pode orientar, e é daí que se torna inteligível um limite forte de dignidade**.
+
+**Diferença face à dignidade formal**  
+A dignidade aqui não é valor formal atribuído de fora.  
+É limite normativo forte do ser reflexivo enquanto ente real, vulnerável, situado e capaz de orientação.
+
+**Diferença face à vida boa pronta**  
+A vida boa não entra como modelo fechado, ideal completo ou cabeça prática do caso.  
+Entra apenas como fecho prudencial, corrigível e terminal.
+
+**Diferença face à institucionalização e historicização**  
+O gesto não se confunde com:
+- normatividade social;
+- institucionalização jurídica;
+- sedimentação histórica;
+- filosofia política.
+
+Esses planos ficam a jusante, como derivados.
+
+**Interdições de uso futuro**  
+- não reabrir por **P46/P47**;
+- não deixar **P50/P51** tornarem-se centro soberano;
+- não deixar **P48** entrar cedo demais;
+- não deixar **PN01** comandar o gesto;
+- não usar **PN04/PN05** ou **AC03** como substitutos do problema local;
+- não deixar **CR01/CR04** soberanizarem o caso.
+
+## X. Fórmula sintética final
+
+Reinscrever a responsabilidade do ser reflexivo no real a partir das atualizações que pode orientar, elevando daí a dignidade como limite normativo forte e deixando a vida boa apenas como fecho prudencial, corrigível e terminal sob o possível real.
+
+---
+
+## CF11_mapa_minimo_pre_exposicao
+
+**Ficheiro de origem:** `CF11_mapa_minimo_pre_exposicao.md`
+
+# CF11 — Mapa mínimo de pré-exposição
+
+## I. Estatuto do ficheiro
+
+Este ficheiro pertence à **camada intermédia disciplinada de pré-exposição** do CF11.
+
+Não é reabertura local.  
+Não é capítulo final.  
+Não é narrativa.  
+Não serve para redecidir o centro do confronto.  
+Serve apenas para fixar a **ordem mínima de exposição** já autorizada pelo dossier fino, pelo fecho local e pela ficha de gesto estrutural.
+
+## II. Forma aparente do problema
+
+A forma aparente do problema no **CF11** é a seguinte:
+
+- porque responde o ser reflexivo pelo que faz;
+- que fundamento tem a dignidade;
+- que forma pode ter a vida boa.
+
+Esta forma aparente tende a apresentar o caso demasiado alto, como se já estivéssemos perante uma moral pronta, uma teoria da dignidade ou uma filosofia prática concluída.
+
+## III. Falso centro a descentrar
+
+O falso centro que a futura exposição tem de descentrar logo no início é este:
+
+- tomar **P46/P47/P49/P50/P51** como bloco plano;
+- abrir por **P46/P47** como se o caso fosse apenas derivação normativa geral;
+- abrir por **P50** como se a dignidade já viesse formalmente pronta;
+- abrir por **P51** como se a vida boa já pudesse ser dada em forma fechada;
+- deixar **CR01/CR04** puxarem cedo o caso para normatividade social, institucional, histórica ou política.
+
+## IV. Solo real do caso
+
+O solo real do caso é este:
+
+- existe já um **suporte normativo herdado** em **P46/P47**;
+- mas o ponto em que o caso se torna propriamente seu é **P49**:
+  - o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.
+
+A partir daí:
+- **P50** entra como centro vivo forte;
+- **P51** só pode entrar como fecho prudencial;
+- **P48** só pode entrar como travão terminal do possível real.
+
+## V. Justificação local mínima suficiente
+
+A ordem escolhida é localmente necessária por quatro razões:
+
+1. Se a exposição abrir por **P46/P47**, o CF11 regressa ao confronto anterior da derivação normativa geral.
+2. Se abrir por **P50**, a dignidade sobe cedo demais e tende a soar a forma pronta.
+3. Se abrir por **P51**, a vida boa fecha o caso antes de o problema próprio estar exposto.
+4. Só **P49** singulariza o confronto, porque fixa a imputação ontológica do ser reflexivo e torna depois inteligível a dignidade como limite forte e a vida boa como fecho prudencial.
+
+## VI. Ordem mínima de exposição
+
+**Primeiro**  
+Fixar brevemente o **suporte normativo herdado** em **P46/P47**:
+- a normatividade não é autónoma;
+- o dever-ser deriva do real;
+- isto sustenta o caso, mas não o singulariza.
+
+**Segundo**  
+Abrir propriamente o confronto em **P49**:
+- o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.
+
+**Terceiro**  
+Fazer entrar **P50** como centro vivo forte:
+- a dignidade exprime o **limite normativo forte do ser reflexivo** enquanto ente real, vulnerável, situado e capaz de orientação.
+
+**Quarto**  
+Admitir **P51** apenas como fecho prudencial:
+- a vida boa entra como atualização prudencial, corrigível e não fechada.
+
+**Só terminalmente**  
+Fazer entrar **P48**:
+- travão terminal do possível real;
+- não reordena a cabeça do caso;
+- apenas limita prudencialmente o fecho.
+
+## VII. Custos do desvio
+
+Se a exposição abrir mal, os custos são estes:
+
+- por **P46/P47**: reabsorção do CF11 pela derivação normativa geral;
+- por **P50**: subida precoce para dignidade formal;
+- por **P51**: entrada indevida numa vida boa pronta;
+- por **CR01/CR04**: dissolução em institucionalização, história ou filosofia política;
+- por **P48** demasiado cedo: redução do caso a limite abstrato do possível real;
+- por **PN01**: inflação moral antecipada que destrói a singularidade local do confronto.
+
+## VIII. Passagens autorizadas
+
+**Autorizadas**
+- **P46/P47 → P49**
+- **P49 → P50**
+- **P50 → P51**
+- **P51 → P48** apenas no terminal
+- referência subordinada a **PN04/PN05**, **AC03**, **CR01/CR04** apenas depois do centro já estar fixado e sempre sem soberania local
+
+**Interditas**
+- **P46/P47** como abertura soberana
+- **P50** como dignidade formal pronta
+- **P51** como modelo fechado de vida boa
+- **P48** antes do terminal
+- **PN01** como ponte ativa de abertura
+- **CR01/CR04** como passagem direta para social, institucional, histórico ou político
+
+## IX. Frase-guia de exposição
+
+Sobre **suporte normativo herdado** mas não soberano, o **CF11** abre pela **imputação ontológica do ser reflexivo** às atualizações que pode orientar, ganha o seu centro no **limite normativo forte da dignidade**, e só fecha **prudencial e terminalmente** na **vida boa**, sempre sob o travão do **possível real**.
+
+---
+
+# CF12
+
+---
+
+## CF12_dossier_confronto_fino_dirigido
+
+**Ficheiro de origem:** `CF12_dossier_confronto_fino_dirigido.md`
+
+# CF12 — dossier de confronto fino dirigido
+
+## I. Nota prévia de redecisão metodológica
+
+O **CF12** não é reaberto. Mantém-se como confronto local sobre **intersubjetividade, formas sociais e instituições** enquanto **regionalização real da coexistência entre seres reflexivos**, sob regra **dossier-first**: o dossier continua a ser a norma local soberana provisória, a base fragmentária o campo real de prova e correção, e a instrumentação apenas travão auditável.
+
+O veredicto metodológico já estabilizado é **reformular finamente**. O problema remanescente já não é de centro global, mas de **abertura**, **hierarquia interna** e **travagem das derivações**. A tarefa desta versão fina é converter em forma textual limpa o que já ficou ganho: impedir que o caso seja reabsorvido por `P41/P42/P43` como simples prolongamento da derivação normativa geral, impedir que `P49` suba mecanicamente a centro soberano, e travar a subida precoce para institucionalização, história, filosofia política ou teoria geral da socialidade.
+
+## II. Pergunta central
+
+**Como se articulam coexistência, formas sociais, expectativas normativas e instituições?**
+
+## III. Formulação curta do confronto
+
+O **CF12** abre, sobre um chão prático herdado mas não soberano, pela **responsabilidade situada do ser reflexivo no campo em que existe**, ganha o seu corpo próprio na **coordenação prática intersubjetiva** e nas **fixações operativas que tornam possível a coexistência**, mantém como travão um **mínimo negativo objetivo** que impede a indiferenciação dos cursos de ação, e só depois admite formas sociais, instituições e história como estabilizações derivadas, sempre sob o limite do possível real.
+
+## IV. Descrição do confronto
+
+O problema do **CF12** não é ainda o de formular uma teoria moral autónoma, uma filosofia política, uma teoria geral da intersubjetividade ou uma explicação plena da institucionalização histórica. O seu problema local é mais restrito: saber como a coexistência entre seres reflexivos se regionaliza em coordenação prática, expectativas normativas, formas sociais e instituições sem que essas mediações absorvam o real, a correção ou o próprio regime de diferenciação entre cursos de ação.
+
+Por isso, o dossier não deve abrir por **`P41/P42/P43`** como se ainda tratasse apenas do prolongamento da derivação normativa geral. Essas proposições permanecem indispensáveis, mas entram como **chão prático herdado**: há um mínimo negativo objetivo, há vetores de preservação, correção e não-degeneração, e há necessidade de fixação operativa de vetores de ação. Esse chão permanece, mas já não singulariza sozinho o caso.
+
+A abertura legítima do confronto está em **`P49`**. É aí que o caso se torna propriamente seu: o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe. Essa abertura não deve ser artificialmente isolada do chão herdado de **`P41/P42/P43`**, mas também não pode ser por ele abafada. A relação correta é esta: **`P41/P42/P43`** sustentam, **`P49`** singulariza.
+
+É a partir daqui que **`P42/P43`** regressam, agora já em chave regionalizada, como corpo vivo do caso. Não entram como normatividade genérica, mas como **coordenação prática intersubjetiva**: vetores de ação, fixações operativas, expectativas de conduta e estabilizações mínimas sem as quais a coexistência entre seres reflexivos não se sustenta. `P42` fixa a direção prática mínima; `P43` fixa a sua tradução operativa. Juntas, não abrem o caso, mas carregam o seu desenvolvimento próprio.
+
+Já **`P41`** não deve abrir soberanamente o dossier. Entra como **mínimo negativo objetivo** e **travão de indiferenciação**: nem todos os cursos de ação valem do mesmo modo, e a coexistência não é ontologicamente neutra. A sua função é necessária, mas sobretudo disciplinadora e restritiva.
+
+Por fim, **`P48`** deve entrar apenas no terminal, como limite do possível real. O seu papel é impedir que o fecho do caso se transforme em idealização normativa, forma social soberana ou institucionalização desligada do real. `P48` não governa a cabeça do confronto; apenas limita prudencialmente o que pode ser regionalizado.
+
+## V. Tese canónica provisória afinada
+
+**A coexistência entre seres reflexivos não se reduz nem à derivação normativa geral nem à soma de privados: sobre um chão prático herdado, ela torna-se propriamente inteligível quando a responsabilidade situada do ser reflexivo pelas atualizações que pode orientar se regionaliza em coordenação prática intersubjetiva, fixação operativa de expectativas e estabilizações sociais, sem que essas formas absorvam o real, a correção ou o limite do possível real.**
+
+## VI. Proposições nucleares e hierarquia interna
+
+**1. Chão herdado — `P41/P42/P43`**  
+`P41/P42/P43` permanecem como chão prático herdado e necessário.  
+- **`P41`**: mínimo negativo objetivo que impede a indiferenciação.  
+- **`P42`**: vetores de preservação, correção e não-degeneração.  
+- **`P43`**: fixação operativa de vetores e coordenação.  
+Este chão é indispensável, mas não singulariza sozinho o CF12.
+
+**2. Abertura singular — `P49`**  
+`P49` deve abrir propriamente o confronto: o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.  
+A sua abertura é legítima porque singulariza o caso; mas é uma abertura **apoiada**, não isolada. `P49` abre sobre o chão herdado, não fora dele.
+
+**3. Corpo vivo — `P42/P43` requalificadas**  
+Depois da abertura por `P49`, `P42/P43` regressam como corpo vivo do caso, agora já em regime de **coordenação prática intersubjetiva**.  
+- `P42` nomeia a direção prática mínima da coexistência.  
+- `P43` nomeia a sua tradução operativa em vetores, critérios situados e estabilizações de ação.  
+Assim requalificadas, deixam de ser apenas prolongamento da normatividade geral.
+
+**4. Travão mínimo — `P41`**  
+`P41` entra como travão mínimo: impede tratar cursos de ação, formas de coexistência e fixações sociais como ontologicamente indiferentes.  
+Não deve co-governar a abertura.
+
+**5. Terminal — `P48`**  
+`P48` entra apenas no fecho admissível: o possível real limita qualquer regionalização prática, expectativa normativa, forma social ou instituição.  
+Não abre o caso e não sobe a centro coigual.
+
+**6. Pontes, compatibilidades e campos derivados**  
+- **`PN01`**: suspensa como ponte ativa.  
+- **`PN04/PN05`**: apenas pontes regionais e materiais subordinadas.  
+- **`AC01`**: apenas compatibilidade externa.  
+- **`CR01/CR04`**: apenas campos derivados, posteriores e sem soberania local.
+
+## VII. Objeções fortes
+
+- **Reduzir o CF12 à derivação normativa geral.**  
+  Resposta: `P41/P42/P43` sustentam o caso, mas o problema próprio do CF12 começa em `P49`, quando a coexistência entre seres reflexivos exige regionalização prática e não apenas derivação normativa abstrata.
+
+- **Subir cedo demais para instituição, história ou política.**  
+  Resposta: `CR01/CR04` pertencem a uma camada derivada. O CF12 prepara a inteligibilidade dessas formas, mas não pode abrir nem fechar por elas.
+
+- **Transformar `P49` em centro soberano isolado.**  
+  Resposta: `P49` singulariza o caso, mas abre sobre chão herdado. Isolá-la artificialmente faria perder a base prática real que a torna inteligível.
+
+- **Fazer de `P42/P43` apenas normatividade genérica.**  
+  Resposta: no CF12, elas valem como coordenação prática intersubjetiva e fixação operativa de coexistência, não como mera repetição do confronto prático anterior.
+
+## VIII. Fronteira arquitetónica
+
+O que é estritamente local ao **CF12** é a **regionalização intersubjetiva da coexistência**: como a responsabilidade situada do ser reflexivo se traduz em coordenação prática, expectativas normativas e formas sociais sem autonomização da mediação.
+
+O que ainda pertence ao chão prático herdado e não pode governar sozinho a cabeça do caso é **`P41/P42/P43`** enquanto bloco genérico de assimetria, direção e fixação operativa.
+
+O que já pertence a derivações posteriores é:
+- **institucionalização forte**;
+- **campos sociais já formados**;
+- **historicização**;
+- **filosofia política**;
+- **teoria geral da socialidade**.
+
+A fronteira disciplinada do dossier é esta:
+- não abrir por moral autónoma;
+- não abrir por teoria geral da intersubjetividade;
+- não abrir por instituição ou história;
+- não deixar `CR01/CR04` passarem de campos derivados a cabeça do confronto.
+
+## IX. Restrições metodológicas obrigatórias
+
+- não abrir por **`P41/P42/P43`** como se o caso fosse apenas prolongamento da derivação normativa geral;
+- não abrir por erro, critério, verdade ou correção em abstrato;
+- não deixar **`P49`** tornar-se centro soberano mecânico;
+- não deixar **`P48`** entrar cedo demais;
+- não deixar **`PN01`** comandar o confronto;
+- não usar **`PN04/PN05`** como substitutos do problema filosófico local;
+- não usar **`AC01`** como substituto do problema filosófico;
+- não deixar **`CR01/CR04`** soberanizarem o caso;
+- não transformar o **CF12** numa teoria moral autónoma;
+- não transformar o **CF12** numa filosofia política;
+- não transformar formas sociais e instituições em início já pronto da exposição.
+
+## X. Formulação final curta
+
+O **CF12** abre, sobre um chão prático herdado mas não soberano, pela **responsabilidade situada do ser reflexivo** às atualizações que pode orientar no campo em que existe, ganha o seu corpo próprio na **coordenação prática intersubjetiva** e na **fixação operativa de expectativas e vetores de ação**, mantém como travão um **mínimo negativo objetivo** que impede a indiferenciação, e só depois admite formas sociais e instituições como estabilizações derivadas, sempre sob o limite do **possível real**.
+
+## XI. Condição de passagem
+
+O caso já autoriza uma versão fina **curta, firme e hierarquicamente limpa**.
+
+Fica preparado para revalidação curta posterior se forem mantidos estes pontos:
+- `P49` abre, mas não isolada do chão herdado;
+- `P42/P43` carregam o corpo vivo como coordenação prática intersubjetiva;
+- `P41` desce a travão mínimo negativo;
+- `P48` permanece apenas terminal;
+- `PN01` fica suspensa;
+- `PN04/PN05`, `AC01`, `CR01/CR04` permanecem subordinadas.
+
+Se esta hierarquia se mantiver, o CF12 pode passar prudencialmente ao próximo passo sem nova reabertura integral.
+
+---
+
+## CF12_complemento_FECHO_LOCAL
+
+**Ficheiro de origem:** `CF12_complemento_FECHO_LOCAL.md`
+
+# CF12 — Complemento de FECHO LOCAL
+
+## I. Ganho local estabilizado
+
+O **CF12** fica localmente estabilizado como confronto sobre a **regionalização real da coexistência entre seres reflexivos**.
+
+A abertura baixa em **P49** foi mantida. **P42/P43** ficaram como **corpo vivo da coordenação prática intersubjetiva**. **P41** ficou como **mínimo negativo objetivo e travão de indiferenciação**. **P48** ficou como **travão terminal** subordinado ao **possível real**. **P41/P42/P43** ficaram remetidas a **chão prático herdado e necessário, mas não soberano**. **PN01** ficou suspensa. **PN04/PN05** ficaram apenas como pontes regionais e materiais subordinadas. **AC01** ficou como compatibilidade externa. **CR01/CR04** ficaram como campos derivados de incidência, sem soberania local.
+
+Também ficou suficientemente fixado que o caso **não se dissolve nem em derivação normativa geral, nem em teoria moral autónoma, nem em institucionalização histórica, nem em filosofia política**.
+
+## II. Fecho local prudencial
+
+O fecho local legítimo do **CF12** é este: o dossier abre, sobre **chão prático herdado** mas não soberano, pela **responsabilidade situada do ser reflexivo** às atualizações que pode orientar no campo em que existe; ganha o seu corpo próprio na **coordenação prática intersubjetiva** e na fixação operativa de expectativas e vetores de ação; mantém como travão um **mínimo negativo objetivo** que impede a indiferenciação; e só depois admite **estabilizações sociais e institucionais** como derivações ulteriores, sempre sob o limite do **possível real**.
+
+Isto basta para o fecho prudencial. Não é necessário voltar a discutir o recentramento do caso, nem reabrir a derivação normativa geral, nem subir para erro, critério, verdade, correção, teoria moral autónoma, institucionalização histórica ou filosofia política.
+
+## III. Interdições remanescentes
+
+- não reabrir por **P41/P42/P43** como se o caso fosse apenas prolongamento da derivação normativa geral;
+- não abrir por erro, critério, verdade ou correção em abstrato;
+- não deixar **P49** tornar-se centro soberano mecânico;
+- não deixar **P48** entrar cedo demais;
+- não deixar **PN01** comandar o confronto;
+- não usar **PN04/PN05** como substitutos do problema local;
+- não usar **AC01** como substituto do problema filosófico;
+- não deixar **CR01/CR04** soberanizarem o caso;
+- não transformar o **CF12** numa teoria moral autónoma;
+- não transformar o **CF12** numa filosofia política.
+
+## IV. Fórmula curta de fecho
+
+O **CF12** abre, sobre **chão prático herdado** mas não soberano, pela **responsabilidade situada do ser reflexivo** às atualizações que pode orientar no campo em que existe, ganha o seu corpo próprio na **coordenação prática intersubjetiva**, mantém como travão um **mínimo negativo objetivo** que impede a indiferenciação, e só depois admite **estabilizações sociais e institucionais** como derivações ulteriores, sempre sob o travão terminal do **possível real**.
+
+## V. Condição de transição para ficha de gesto estrutural
+
+Pode agora transitar para **ficha de gesto estrutural** e para **mapa mínimo de pré-exposição** com estes pontos já fixos:
+
+- **P49** abre singularmente o caso;
+- **P42/P43** carregam o corpo vivo da coordenação prática intersubjetiva;
+- **P41** fica como mínimo negativo e travão;
+- **P48** permanece terminal;
+- **P41/P42/P43** não retomam soberania de abertura;
+- **PN01** permanece suspensa;
+- **PN04/PN05**, **AC01** e **CR01/CR04** permanecem subordinadas.
+
+---
+
+## CF12_ficha_gesto_estrutural
+
+**Ficheiro de origem:** `CF12_ficha_gesto_estrutural.md`
+
+# CF12 — Ficha de gesto estrutural
+
+## I. Estatuto de entrada da ficha
+
+Esta ficha pertence à fase de **extração do gesto estrutural mínimo** do CF12.
+
+Não é reabertura do caso.  
+Não é capítulo final.  
+Não é narrativa.  
+Parte apenas do que ficou **localmente estabilizado** no dossier fino e no fecho local prudencial.
+
+## II. Identificação do gesto estrutural
+
+**Nome curto do gesto**  
+Regionalização intersubjetiva da coexistência no real.
+
+**Fórmula nuclear**  
+Reinscrever a coexistência entre seres reflexivos no real a partir da responsabilidade situada pelas atualizações que podem orientar, convertendo o chão prático herdado em coordenação prática intersubjetiva sem autonomizar normatividade, instituição ou história.
+
+## III. De onde parte
+
+**Ponto de partida baixo do caso**  
+O gesto parte de um **chão prático herdado** em **P41/P42/P43**, mas abre propriamente em **P49**:
+- há um mínimo negativo objetivo;
+- há vetores de preservação, correção e não-degeneração;
+- há fixação operativa de ação;
+- mas o ponto singular do caso é que **o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe**, e é isso que torna a coexistência regionalizável.
+
+**Por que não pode abrir de outro modo**  
+Não pode abrir:
+- por **P41/P42/P43**, porque assim o CF12 regressa à derivação normativa geral;
+- por **CR01/CR04**, porque assim sobe cedo demais para socialidade, instituição, história ou política;
+- por erro, critério, verdade ou correção em abstrato;
+- por teoria geral da intersubjetividade.
+
+## IV. Sequência interna mínima
+
+**Chão herdado**  
+**P41/P42/P43** — chão prático herdado e necessário, mas não soberano.
+
+**Abertura singular**  
+**P49** — responsabilidade situada do ser reflexivo pelas atualizações que pode orientar no campo em que existe.
+
+**Corpo**  
+**P42/P43** — coordenação prática intersubjetiva:
+- vetores de ação para coexistência;
+- fixações operativas de expectativas e condutas.
+**P41** permanece aqui como mínimo negativo objetivo e travão de indiferenciação.
+
+**Fecho admissível**  
+**P48** — travão terminal subordinado ao possível real.  
+**CR01/CR04** — apenas como campos derivados posteriores, sem soberania local.
+
+## V. Erro dominante limpo
+
+**Desvio antigo**  
+Tratar o CF12 como simples prolongamento da derivação normativa geral, deixando **P41/P42/P43** governarem o caso inteiro.
+
+**Desvio ainda possível**  
+Deixar:
+- **P49** soar a centro mecânico isolado;
+- **CR01/CR04** puxarem cedo o caso para instituição, história ou política;
+- **P48** entrar antes do terminal;
+- **PN01** moralizar prematuramente o confronto.
+
+## VI. Estabilização derivada descentrada
+
+**Camada derivada que o caso usa sem soberanizar**  
+O CF12 usa:
+- o **chão prático herdado** de **P41/P42/P43**;
+- as futuras **estabilizações sociais e institucionais**;
+- e, só a jusante, campos como **CR01/CR04**.
+
+Usa ainda:
+- **PN01** apenas como ponte suspensa;
+- **PN04/PN05** apenas como pontes regionais e materiais subordinadas;
+- **AC01** apenas como compatibilidade externa.
+
+**Como a mantém subordinada**  
+Não deixa nenhuma destas camadas:
+- abrir o caso;
+- redefinir o seu centro;
+- substituir a responsabilidade situada do ser reflexivo;
+- antecipar moral autónoma, institucionalização, história ou filosofia política como cabeça do confronto.
+
+## VII. O que reinscreve no real
+
+**Núcleo positivo do gesto**  
+O gesto reinscreve no real que:
+- a coexistência entre seres reflexivos não é simples soma de privados;
+- a coordenação prática não é convenção arbitrária;
+- expectativas normativas e estabilizações sociais só se tornam inteligíveis a partir da responsabilidade situada e da necessidade de coordenação no campo real em que os agentes coexistem.
+
+**Verdade local estabilizada**  
+A verdade local estabilizada do CF12 é esta:  
+a coexistência entre seres reflexivos regionaliza-se em coordenação prática intersubjetiva sobre um chão herdado de assimetria, direção e fixação operativa, sem que esse chão esgote o caso e sem que as estabilizações sociais e institucionais se autonomizem do real.
+
+## VIII. Passagem preparada
+
+**O que este gesto prepara a jusante**  
+Prepara:
+- a inteligibilidade das estabilizações sociais e institucionais;
+- a distinção entre coordenação prática, forma social e instituição;
+- a ordenação expositiva mínima do caso;
+- a passagem para o mapa mínimo de pré-exposição.
+
+**O que ainda não decide**  
+Não decide:
+- uma teoria moral autónoma;
+- uma filosofia política;
+- uma teoria geral da instituição;
+- uma leitura histórico-cultural fechada da normatividade;
+- uma teoria total da intersubjetividade.
+
+## IX. Fronteiras negativas
+
+**Diferença face à derivação normativa geral herdada de `P41/P42/P43`**  
+O gesto do CF12 não é apenas: “há dano, direção e vetores de ação”.  
+É: **a coexistência entre seres reflexivos torna necessário regionalizar esses vetores em coordenação prática intersubjetiva**.
+
+**Diferença face à institucionalização e historicização posteriores**  
+O gesto não é ainda a instituição, a cultura sedimentada ou a história das formas normativas.  
+Essas camadas entram apenas depois, como estabilizações derivadas.
+
+**Diferença face à teoria moral autónoma e à filosofia política**  
+O gesto não formula um bem soberano, uma justiça pronta, um modelo político ou uma normatividade desligada do real.  
+Formula apenas o passo pelo qual a coexistência reflexiva se torna coordenável sem autonomização moral ou política.
+
+**Interdições de uso futuro**  
+- não reabrir por **P41/P42/P43** como se o caso fosse apenas prolongamento da derivação normativa geral;
+- não deixar **P49** tornar-se centro soberano mecânico;
+- não deixar **P48** entrar cedo demais;
+- não deixar **PN01** comandar o gesto;
+- não usar **PN04/PN05** ou **AC01** como substitutos do problema local;
+- não deixar **CR01/CR04** soberanizarem o caso.
+
+## X. Fórmula sintética final
+
+Reinscrever a coexistência entre seres reflexivos no real a partir da responsabilidade situada pelas atualizações que podem orientar, convertendo o chão prático herdado em coordenação prática intersubjetiva e deixando as estabilizações sociais e institucionais apenas como derivações ulteriores sob o possível real.
+
+---
+
+## CF12_mapa_minimo_pre_exposicao
+
+**Ficheiro de origem:** `CF12_mapa_minimo_pre_exposicao.md`
+
+# CF12 — Mapa mínimo de pré-exposição
+
+## I. Estatuto do ficheiro
+
+Este ficheiro pertence à **camada intermédia disciplinada de pré-exposição** do CF12.
+
+Não é reabertura local.  
+Não é capítulo final.  
+Não é narrativa.  
+Não serve para redecidir o centro do confronto.  
+Serve apenas para fixar a **ordem mínima de exposição** já autorizada pelo dossier fino, pelo fecho local e pela ficha de gesto estrutural.
+
+## II. Forma aparente do problema
+
+A forma aparente do problema no **CF12** é a seguinte:
+
+- como se articulam coexistência, expectativas normativas, formas sociais e instituições;
+- como se estabiliza a coordenação entre seres reflexivos;
+- como se regionaliza a normatividade em vida comum.
+
+Esta forma aparente tende a apresentar o caso demasiado alto, como se já estivéssemos perante uma teoria moral, uma teoria da instituição, uma filosofia política ou uma descrição histórico-social já pronta.
+
+## III. Falso centro a descentrar
+
+O falso centro que a futura exposição tem de descentrar logo no início é este:
+
+- tomar **P41/P42/P43/P49** como bloco plano;
+- abrir por **P41/P42/P43** como se o caso fosse apenas prolongamento da derivação normativa geral;
+- abrir por **P49** como se a sua singularização bastasse por si só sem chão herdado;
+- deixar **CR01/CR04** puxarem cedo o caso para socialidade já formada, institucionalização, história ou política;
+- deixar **P48** ganhar estatuto de limitação abstrata cedo demais.
+
+## IV. Solo real do caso
+
+O solo real do caso é este:
+
+- existe já um **chão prático herdado** em **P41/P42/P43**;
+- mas o ponto em que o caso se torna propriamente seu é **P49**:
+  - o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe.
+
+A partir daí:
+- **P42/P43** regressam como corpo vivo da **coordenação prática intersubjetiva**;
+- **P41** permanece como mínimo negativo objetivo e travão;
+- **P48** só pode entrar como travão terminal do possível real.
+
+## V. Justificação local mínima suficiente
+
+A ordem escolhida é localmente necessária por quatro razões:
+
+1. Se a exposição abrir por **P41/P42/P43**, o CF12 regressa ao confronto anterior da derivação normativa geral.
+2. Se abrir por **P49** isoladamente, perde o chão herdado que torna inteligível a singularização do caso.
+3. Se abrir por **CR01/CR04**, sobe cedo demais para campos sociais, institucionais e históricos já derivados.
+4. Só a sequência **chão herdado → P49 → P42/P43 → P48** permite mostrar como a coexistência entre seres reflexivos se regionaliza sem autonomizar moral, instituição ou política.
+
+## VI. Ordem mínima de exposição
+
+**Primeiro**  
+Fixar brevemente o **chão prático herdado** em **P41/P42/P43**:
+- há um mínimo negativo objetivo;
+- há vetores de preservação, correção e não-degeneração;
+- há necessidade de fixação operativa de ação;
+- isto sustenta o caso, mas não o singulariza.
+
+**Segundo**  
+Abrir propriamente o confronto em **P49**:
+- o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe;
+- é esta responsabilidade situada que torna a coexistência regionalizável.
+
+**Terceiro**  
+Fazer regressar **P42/P43** como **corpo vivo da coordenação prática intersubjetiva**:
+- vetores de ação para coexistência;
+- fixações operativas de expectativas e condutas;
+- estabilizações mínimas sem as quais a vida comum não se sustenta.
+
+**Quarto**  
+Manter **P41** explicitamente como **mínimo negativo objetivo e travão de indiferenciação**:
+- não abre o caso;
+- impede tratar cursos de ação e formas de coordenação como ontologicamente indiferentes.
+
+**Só terminalmente**  
+Fazer entrar **P48**:
+- travão terminal do possível real;
+- não reordena a cabeça do caso;
+- apenas limita prudencialmente o que pode ser estabilizado social e institucionalmente.
+
+## VII. Custos do desvio
+
+Se a exposição abrir mal, os custos são estes:
+
+- por **P41/P42/P43**: reabsorção do CF12 pela derivação normativa geral;
+- por **P49** isolada: perda do chão herdado que sustenta a singularização do caso;
+- por **CR01/CR04**: dissolução em institucionalização, história ou filosofia política;
+- por **P48** demasiado cedo: redução do caso a limite abstrato do possível real;
+- por **PN01**: inflação moral antecipada que destrói a regionalização própria do confronto.
+
+## VIII. Passagens autorizadas
+
+**Autorizadas**
+- **P41/P42/P43 → P49**
+- **P49 → P42/P43** em regime de coordenação prática intersubjetiva
+- **P42/P43 → P41** como travão mínimo negativo
+- **P42/P43 → P48** apenas no terminal
+- referência subordinada a **PN04/PN05**, **AC01**, **CR01/CR04** apenas depois do centro já estar fixado e sempre sem soberania local
+
+**Interditas**
+- **P41/P42/P43** como abertura soberana
+- **P49** como cabeça mecânica isolada
+- **P42/P43** como normatividade genérica sem regionalização intersubjetiva
+- **P41** como cabeça coigual
+- **P48** antes do terminal
+- **PN01** como ponte ativa de abertura
+- **CR01/CR04** como passagem direta para teoria moral autónoma, institucionalização, história ou política
+
+## IX. Frase-guia de exposição
+
+Sobre um **chão prático herdado** mas não soberano, o **CF12** abre pela **responsabilidade situada do ser reflexivo** às atualizações que pode orientar no campo em que existe, ganha o seu corpo próprio na **coordenação prática intersubjetiva**, mantém como travão um **mínimo negativo objetivo** que impede a indiferenciação, e só depois admite **estabilizações sociais e institucionais** como derivações ulteriores, sempre sob o travão terminal do **possível real**.
 
 ---
