@@ -1,5 +1,7 @@
 DoReal
 ├── 000_ficheiros_canonicos
+│   ├── 00_bruto
+│   │   └── containers_segmentacao__run_nao_resegmentados__20260404_182036.json
 │   ├── 09_Prompt
 │   │   └── config
 │   │       └── operacoes.json
@@ -16,6 +18,7 @@ DoReal
 │   ├── 13_Meta_Indice
 │   │   ├── cadência
 │   │   │   └── 01_segmentar_fragmentos
+│   │   │       ├── containers_segmentacao.json
 │   │   │       └── fragmentos_resegmentados.json
 │   │   ├── dados_base
 │   │   │   ├── operacoes.json
@@ -80,10 +83,22 @@ DoReal
 │       ├── 11_E_12_README_CICLO_LOCAL_VALIDACAO_E_CAMADA_INTERMEDIA_PRE_EXPOSICAO_DOSSIERS.md
 │       └── CONTEXTO_ESTRUTURAL_COMPACTO_DO_REAL__V2.md
 ├── 00_bruto
+│   ├── containers_segmentacao__run_nao_resegmentados__20260404_182036.json
+│   ├── estado_resegmentador__run_nao_resegmentados__20260404_182036.json
+│   ├── falhas_resegmentador__run_nao_resegmentados__20260404_182036.json
 │   ├── fragmentos.md
+│   ├── fragmentos_ja_processados.md
 │   ├── fragmentos_nao_processados.md
+│   ├── fragmentos_resegmentados__run_nao_resegmentados__20260404_182036.json
+│   ├── gerar_run_containers_nao_resegmentados_v4.py
 │   ├── preparar_containers_segmentacao.py
+│   ├── relatorio_resegmentador__run_nao_resegmentados__20260404_182036.txt
 │   ├── relatorio_validacao_containers.json
+│   ├── relatorio_validacao_containers__run_nao_resegmentados__20260404_182036.json
+│   ├── relatorio_validacao_fragmentos__run_nao_resegmentados__20260404_182036.json
+│   ├── resegmentar_containers_semanticos_v6_openai.py
+│   ├── run_nao_resegmentados__20260404_182036.md
+│   ├── run_nao_resegmentados__20260404_182036__relatorio.txt
 │   └── validar_containers_segmentacao.py
 ├── 01_extraido
 │   ├── proposicoes_unicas_nao_processadas.txt
@@ -346,8 +361,6 @@ DoReal
 │   │       └── D_TECNOLOGIA.json
 │   ├── operacoes
 │   │   └── operacoes.json
-│   ├── percursos
-│   ├── schema_base.json
 │   ├── carregar_conceitos.py
 │   ├── centralidade_conceitos.py
 │   ├── detetor_circularidade.py
@@ -1022,7 +1035,6 @@ DoReal
 │   │   ├── CF16_dossier_confronto.md
 │   │   ├── CF17_dossier_confronto.md
 │   │   ├── CF18_dossier_confronto.md
-│   │   ├── DOSSIERS_CONFRONTO__MERGED.md
 │   │   ├── DOSSIERS_CONFRONTO__MERGED_COM_REFORMULADOS.md
 │   │   ├── indice_cadernos_confrontos.json
 │   │   ├── merge_cadernos_confrontos.py
@@ -1095,6 +1107,14 @@ DoReal
 │   │   └── indice_bases_fragmentarias_confrontos.json
 │   ├── 05_dossiers_reformulados
 │   │   ├── validacao_fina
+│   │   │   ├── CF01_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF01_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF01_ficha_gesto_estrutural.md
+│   │   │   ├── CF01_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF02_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF02_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF02_ficha_gesto_estrutural.md
+│   │   │   ├── CF02_mapa_minimo_pre_exposicao.md
 │   │   │   ├── CF03_complemento_FECHO_LOCAL.md
 │   │   │   ├── CF03_dossier_confronto_fino_v3.md
 │   │   │   ├── CF03_ficha_gesto_estrutural.md
@@ -1107,9 +1127,61 @@ DoReal
 │   │   │   ├── CF05_dossier_confronto_fino_dirigido.md
 │   │   │   ├── CF05_ficha_gesto_estrutural.md
 │   │   │   ├── CF05_mapa_minimo_pre_exposicao.md
-│   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF03, CF04_e_CF05.md
+│   │   │   ├── CF06_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF06_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF06_ficha_gesto_estrutural.md
+│   │   │   ├── CF06_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF07_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF07_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF07_ficha_gesto_estrutural.md
+│   │   │   ├── CF07_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF08_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF08_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF08_ficha_gesto_estrutural.md
+│   │   │   ├── CF08_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF09_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF09_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF09_ficha_gesto_estrutural.md
+│   │   │   ├── CF09_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF10_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF10_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF10_ficha_gesto_estrutural.md
+│   │   │   ├── CF10_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF11_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF11_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF11_ficha_gesto_estrutural.md
+│   │   │   ├── CF11_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF12_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF12_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF12_ficha_gesto_estrutural.md
+│   │   │   ├── CF12_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF13_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF13_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF13_ficha_gesto_estrutural.md
+│   │   │   ├── CF13_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF14_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF14_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF14_ficha_gesto_estrutural.md
+│   │   │   ├── CF14_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF15_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF15_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF15_ficha_gesto_estrutural.md
+│   │   │   ├── CF15_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF16_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF16_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF16_ficha_gesto_estrutural.md
+│   │   │   ├── CF16_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF17_complemento_FECHO_LOCAL.md
+│   │   │   ├── CF17_dossier_confronto_fino_dirigido.md
+│   │   │   ├── CF17_ficha_gesto_estrutural.md
+│   │   │   ├── CF17_mapa_minimo_pre_exposicao.md
+│   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF11.md
+│   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF12.md
+│   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF16.md
+│   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF17.md
+│   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_CF13.md
 │   │   │   ├── merge_dossiers_finais.py
-│   │   │   └── sequencia_completa_prompts_cf03_cf04_cf05.md
+│   │   │   └── sequencia_completa_prompts_cf01_a_cf12.md
 │   │   ├── CF03_dossier_confronto_REFORMULADO.md
 │   │   ├── CF03_proposta_reformulacao_fina_v2.md
 │   │   ├── CF04_dossier_confronto_REFORMULADO.md
@@ -1118,6 +1190,11 @@ DoReal
 │   │   ├── CF07_dossier_confronto_REFORMULADO.md
 │   │   ├── CF08_dossier_confronto_FINAL_CONSOLIDADO.md
 │   │   └── CF08_dossier_confronto_reformulado.md
+│   ├── 06_extracao_transversal
+│   │   ├── CF01_CF16_alinhamento_macro_sequencial_provisorio.md
+│   │   ├── CF01_CF16_grelha_transversal_base.md
+│   │   ├── CF01_CF16_mini_consolidacao_transversal.md
+│   │   └── prompts_extracao_transversal_cf01_a_cf16.txt
 │   ├── scripts
 │   │   ├── adjudicar_confrontos_filosoficos_v1.py
 │   │   ├── atribuir_regimes_de_validacao_v1.py
@@ -1128,6 +1205,7 @@ DoReal
 │   │   ├── gerar_matriz_ancoragem_cientifica_v1.py
 │   │   ├── gerar_matriz_confronto_filosofico_v1.py
 │   │   ├── gerar_matriz_pontes_entre_niveis_v1.py
+│   │   ├── python
 │   │   ├── reabrir_base_fragmentaria_confronto_v1.py
 │   │   ├── restringir_adjudicacao_confrontos_filosoficos_v1.py
 │   │   ├── restringir_adjudicacao_confrontos_filosoficos_v2.py
@@ -1163,7 +1241,6 @@ DoReal
 │   └── README_proposicoes_nucleares_enriquecidas_v1.md
 ├── 18_filosofos
 │   └── ideias.txt
-├── data
 ├── Estrutura
 │   └── estrutura_inicial.md
 ├── indice
@@ -1185,6 +1262,10 @@ DoReal
 ├── output
 │   └── fragmentos.csv
 ├── outputs_dossier_v4
+│   ├── CF01_diagnostico_metodologico_v4.json
+│   ├── CF01_diagnostico_metodologico_v4.md
+│   ├── CF02_diagnostico_metodologico_v4.json
+│   ├── CF02_diagnostico_metodologico_v4.md
 │   ├── CF03_diagnostico_metodologico_v4.json
 │   ├── CF03_diagnostico_metodologico_v4.md
 │   ├── CF04_diagnostico_metodologico_v4.md
@@ -1192,13 +1273,33 @@ DoReal
 │   ├── CF05_diagnostico_metodologico_v4.md
 │   ├── CF06_diagnostico_metodologico_v4.json
 │   ├── CF06_diagnostico_metodologico_v4.md
+│   ├── CF07_diagnostico_metodologico_v4.json
+│   ├── CF07_diagnostico_metodologico_v4.md
+│   ├── CF08_diagnostico_metodologico_v4.json
+│   ├── CF08_diagnostico_metodologico_v4.md
+│   ├── CF09_diagnostico_metodologico_v4.json
+│   ├── CF09_diagnostico_metodologico_v4.md
 │   ├── CF10_diagnostico_metodologico_v4.json
 │   ├── CF10_diagnostico_metodologico_v4.md
+│   ├── CF11_diagnostico_metodologico_v4.json
+│   ├── CF11_diagnostico_metodologico_v4.md
+│   ├── CF12_diagnostico_metodologico_v4.json
+│   ├── CF12_diagnostico_metodologico_v4.md
+│   ├── CF13_diagnostico_metodologico_v4.json
+│   ├── CF13_diagnostico_metodologico_v4.md
+│   ├── relatorio_diagnostico_metodologico_CF01_v4.txt
+│   ├── relatorio_diagnostico_metodologico_CF02_v4.txt
 │   ├── relatorio_diagnostico_metodologico_CF03_v4.txt
 │   ├── relatorio_diagnostico_metodologico_CF04_v4.txt
 │   ├── relatorio_diagnostico_metodologico_CF05_v4.txt
 │   ├── relatorio_diagnostico_metodologico_CF06_v4.txt
-│   └── relatorio_diagnostico_metodologico_CF10_v4.txt
+│   ├── relatorio_diagnostico_metodologico_CF07_v4.txt
+│   ├── relatorio_diagnostico_metodologico_CF08_v4.txt
+│   ├── relatorio_diagnostico_metodologico_CF09_v4.txt
+│   ├── relatorio_diagnostico_metodologico_CF10_v4.txt
+│   ├── relatorio_diagnostico_metodologico_CF11_v4.txt
+│   ├── relatorio_diagnostico_metodologico_CF12_v4.txt
+│   └── relatorio_diagnostico_metodologico_CF13_v4.txt
 ├── regrasAI
 │   ├── comandos_AI.md
 │   ├── fragmentos_classificados.md
@@ -1211,6 +1312,7 @@ DoReal
 ├── .env
 ├── .gitignore
 ├── anotacoes.csv
+├── API_Key.txt
 ├── copiar_fonte_projeto_gpt_para_000_ficheiros_canonicos.ps1
 ├── escrita_certas_partes.txt
 ├── guia.txt
