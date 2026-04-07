@@ -393,6 +393,8 @@ DoReal
 │   ├── run_nao_resegmentados__20260404_182036.md
 │   ├── run_nao_resegmentados__20260404_182036__relatorio.txt
 │   └── validar_containers_segmentacao.py
+├── 03_filosofos
+│   └── ideias.txt
 ├── 13_Meta_Indice
 │   ├── cadência
 │   │   ├── 01_segmentar_fragmentos
@@ -1036,7 +1038,7 @@ DoReal
 │   │   ├── relatorio_revisao_dossier_CF17_v1.txt
 │   │   ├── relatorio_revisao_dossier_CF18_v1.txt
 │   │   └── relatorio_selecao_sample_fragmentos_CF08_v1.txt
-│   ├── 03_cadernos_confrontos
+│   ├── 03_cadernos_confrontos_nao_reformulados
 │   │   ├── CF01_dossier_confronto.md
 │   │   ├── CF02_dossier_confronto.md
 │   │   ├── CF03_dossier_confronto.md
@@ -1059,7 +1061,7 @@ DoReal
 │   │   ├── indice_cadernos_confrontos.json
 │   │   ├── merge_cadernos_confrontos.py
 │   │   └── README_CADERNOS_CONFRONTOS.md
-│   ├── 04_bases_fragmentarias_confrontos
+│   ├── 04_bases_fragmentarias_confrontos_pre_reformulacao
 │   │   ├── samples
 │   │   │   ├── CF03_fragmentos_relevantes_dossier_v1.json
 │   │   │   ├── CF03_fragmentos_relevantes_dossier_v1.md
@@ -1222,24 +1224,34 @@ DoReal
 │   │   ├── PROLOGO_ONT_EPIST_MINIMO_SUBMISSAO_AO_REAL.md
 │   │   └── TESTE_COMPATIBILIDADE_ESPINHA_PROLOGO_GRELHA.md
 │   ├── 08_descida_expositiva_controlada
-│   │   ├── 01_decisoes_e_limites
-│   │   │   ├── DECISAO_CONTROLADA_SOBRE_P25_SUBORDINADA_A_CF04.md
-│   │   │   ├── NOTA_ADMISSIBILIDADE_EXPOSITIVA_CONDICIONADA.md
-│   │   │   ├── NOTA_LIMITE_EXPOSITIVO_BLOCO2_CF04_CF05.md
-│   │   │   └── NOTA_LIMITE_LOCAL_USO_MAXIMO_P25_CF04.md
-│   │   ├── 02_pilotos_e_ensaios_historico
-│   │   │   ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v1.md
-│   │   │   ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v2.md
-│   │   │   ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v3.md
-│   │   │   ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v4.md
-│   │   │   ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v5.md
-│   │   │   ├── ENSAIO_CONTROLADO_P25_SUBORDINADO_A_CF04_v1.md
-│   │   │   └── ENSAIO_CONTROLADO_P25_SUBORDINADO_A_CF04_v2.md
-│   │   ├── 03_consolidado
-│   │   │   └── CONSOLIDACAO_FAIXA_EXPOSITIVA_ABERTURA_BLOCO2_CF04_P25.md
+│   │   ├── 01_faixa_abertura_bloco2_cf04_p25
+│   │   │   ├── 00_consolidado
+│   │   │   │   └── CONSOLIDACAO_FAIXA_EXPOSITIVA_ABERTURA_BLOCO2_CF04_P25.md
+│   │   │   ├── 01_decisoes_e_limites
+│   │   │   │   ├── DECISAO_CONTROLADA_SOBRE_P25_SUBORDINADA_A_CF04.md
+│   │   │   │   ├── NOTA_ADMISSIBILIDADE_EXPOSITIVA_CONDICIONADA.md
+│   │   │   │   ├── NOTA_LIMITE_EXPOSITIVO_BLOCO2_CF04_CF05.md
+│   │   │   │   └── NOTA_LIMITE_LOCAL_USO_MAXIMO_P25_CF04.md
+│   │   │   └── 02_historico_testes
+│   │   │       ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v1.md
+│   │   │       ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v2.md
+│   │   │       ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v3.md
+│   │   │       ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v4.md
+│   │   │       ├── CONTAINER_NARRATIVO_PILOTO_CONDICIONADO_v5.md
+│   │   │       ├── ENSAIO_CONTROLADO_P25_SUBORDINADO_A_CF04_v1.md
+│   │   │       └── ENSAIO_CONTROLADO_P25_SUBORDINADO_A_CF04_v2.md
+│   │   ├── 02_faixa_cf05_p23_p25
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF05_P23_P25.md
+│   │   │   ├── 01_ensaios
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   └── 03_consolidado
+│   │   ├── 90_transicao_para_proxima_fase
+│   │   │   └── DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   └── README_08_DESCIDA_EXPOSITIVA_CONTROLADA.md
 │   ├── 09_analise_estado_projeto
-│   │   └── ANALISE_ESTADO_ATUAL_DO_PROJETO_E_PASSOS_SEGUINTES.md
+│   │   ├── ANALISE_ESTADO_ATUAL_DO_PROJETO_E_PASSOS_SEGUINTES.md
+│   │   └── DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   ├── scripts
 │   │   ├── adjudicar_confrontos_filosoficos_v1.py
 │   │   ├── atribuir_regimes_de_validacao_v1.py
@@ -1268,8 +1280,6 @@ DoReal
 │   │   └── selecionar_sample_fragmentos_confronto_v1.py
 │   ├── 11_E_12_README_CICLO_LOCAL_VALIDACAO_E_CAMADA_INTERMEDIA_PRE_EXPOSICAO_DOSSIERS.md
 │   └── 13_README_CONTINUIDADE_PRE_EXPOSICAO_AMPLIADA.md
-├── 18_filosofos
-│   └── ideias.txt
 ├── .env
 ├── .gitignore
 ├── escrita_certas_partes.txt
