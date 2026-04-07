@@ -1,7 +1,7 @@
 # DOSSIERS DE CONFRONTO — MERGED
 
-- Gerado em: `2026-04-06 19:04:51`
-- Pasta origem: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\03_cadernos_confrontos`
+- Gerado em: `2026-04-06 23:00:37`
+- Pasta origem: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\03_cadernos_confrontos`
 - Total de ficheiros agregados: `18`
 
 ## Nota metodológica

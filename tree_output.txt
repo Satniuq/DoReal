@@ -361,6 +361,8 @@ DoReal
 │   │       └── D_TECNOLOGIA.json
 │   ├── operacoes
 │   │   └── operacoes.json
+│   ├── percursos
+│   ├── schema_base.json
 │   ├── carregar_conceitos.py
 │   ├── centralidade_conceitos.py
 │   ├── detetor_circularidade.py
@@ -1175,10 +1177,12 @@ DoReal
 │   │   │   ├── CF17_dossier_confronto_fino_dirigido.md
 │   │   │   ├── CF17_ficha_gesto_estrutural.md
 │   │   │   ├── CF17_mapa_minimo_pre_exposicao.md
+│   │   │   ├── CF18_dossier_confronto_fino_dirigido.md
 │   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF11.md
 │   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF12.md
 │   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF16.md
 │   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF17.md
+│   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF18.md
 │   │   │   ├── DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_CF13.md
 │   │   │   ├── merge_dossiers_finais.py
 │   │   │   └── sequencia_completa_prompts_cf01_a_cf12.md
@@ -1195,6 +1199,9 @@ DoReal
 │   │   ├── CF01_CF16_grelha_transversal_base.md
 │   │   ├── CF01_CF16_mini_consolidacao_transversal.md
 │   │   └── prompts_extracao_transversal_cf01_a_cf16.txt
+│   ├── 07_prologo
+│   │   ├── GRELHA_MINIMA_RECONHECIMENTO_FILOSOFICO_DISCIPLINADO_v2.md
+│   │   └── PROLOGO_ONT_EPIST_MINIMO_SUBMISSAO_AO_REAL.md
 │   ├── scripts
 │   │   ├── adjudicar_confrontos_filosoficos_v1.py
 │   │   ├── atribuir_regimes_de_validacao_v1.py
@@ -1241,6 +1248,7 @@ DoReal
 │   └── README_proposicoes_nucleares_enriquecidas_v1.md
 ├── 18_filosofos
 │   └── ideias.txt
+├── data
 ├── Estrutura
 │   └── estrutura_inicial.md
 ├── indice
@@ -1312,7 +1320,6 @@ DoReal
 ├── .env
 ├── .gitignore
 ├── anotacoes.csv
-├── API_Key.txt
 ├── copiar_fonte_projeto_gpt_para_000_ficheiros_canonicos.ps1
 ├── escrita_certas_partes.txt
 ├── guia.txt
