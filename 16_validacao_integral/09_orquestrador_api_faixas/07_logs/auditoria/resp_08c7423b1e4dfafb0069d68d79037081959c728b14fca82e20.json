@@ -1,0 +1,75 @@
+{
+  "id": "resp_08c7423b1e4dfafb0069d68d79037081959c728b14fca82e20",
+  "object": "response",
+  "created_at": 1775668601,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775668613,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_08c7423b1e4dfafb0069d68d7997f48195a491ee0727d6e298",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "# ENSAIO_CONTROLADO_CF08_ENTRADA_v1\n\n## 1. Limite ativo e regime de ensaio\n\nO presente ensaio realiza-se sob a vigência absoluta de todos os travões, bloqueios, limites e fronteiras dispostos na peça de abertura da faixa `CF08_ENTRADA`. O regime é estritamente negativo e de vigilância: não há autorização de desenvolvimento, densificação, segmentação temática, regime, capítulo, narrativa ou qualquer emergência positiva. O único objeto deste ensaio é testar — sob máxima restrição procedimental e sem ultrapassar qualquer linha crítica — se há possibilidade de um primeiro gesto real de entrada sob vigilância total dos limites herdados e sem deslocamento a positividade.\n\n## 2. Recapitulação dos travões e bloqueios herdados\n\n- Todo o saldo disciplinar, mediacional, estrutural, narrativo e de regime oriundo de `CF07_DESENVOLVIMENTO` permanece *travado* e sem autorização de prolongamento, reiteração ou reconexão indireta.\n- Travão do prólogo: bloqueia qualquer tentativa de emergência de mediação, sistema, linguagem, representação, critério, sentido ou regime classificatório.\n- Travão da grelha disciplinada: impede instauração de positividade — verdade, erro, explicação, conceito, núcleo, capítulo, estrutura ou qualquer função diferenciada.\n- Travão macro e local: não se admite segmentação, narrativa, regime, autonomização, ganho ou linguagem herdada, nem mesmo minimalisticamente.\n- Fronteiras superior, inferior e lateral mantêm-se inultrapassáveis, proibindo subida a qualquer regime e retorno a saldo negativo mesmo como extensão vigilante de `CF07`.\n\n## 3. Solo real mínimo atualmente admitido\n\n- O único solo reconhecido é o puro espaço de travagem absoluta demarcado pela consolidação do travão negativo de `CF07_DESENVOLVIMENTO`.\n- Não é admitida qualquer emergência positiva, nem sequer sob forma minimalista, disciplinar, sequencial, expositiva ou conceitual.\n- A tarefa mínima é só o reconhecimento vigilante da impossibilidade de movimento positivo sem decisão ulterior.\n\n## 4. Teste de possibilidade de gesto inicial\n\n**Pergunta central do ensaio:**  \nÉ admissível algum gesto de entrada real em `CF08_ENTRADA` sem violar qualquer limite, travão ou saldo negativo herdado?\n\n### 4.1. Hipótese nula do ensaio  \n- Hipótese de partida: qualquer movimento inicial (gesto, recorte, núcleo, função, segmento, motricidade, autonomização, positividade de qualquer natureza) permanece *bloqueado* pelas decisões vigentes.\n- Não é sequer legítimo esboçar função, intencionalidade, temática, estrutura ou regime de entrada — mesmo em regime minimal ou vigilante.\n- Só se legitima o teste formal da persistência do bloqueio pleno.\n\n### 4.2. Critérios estritos de avaliação  \n- O ensaio só se considera admissível se não invoca, propõe ou insinua qualquer positividade, núcleo, regime, continuidade, capítulo ou densificação.\n- Basta que o ensaio revele indício de função, segmento, explicação, valor normativo ou expositivo para ser considerado automaticamente **inválido** à luz dos travões ativos.\n\n### 4.3. Estado observado após recapitulação\n- Nenhum gesto de positivação, estruturação, narrativa, mediação, tematização, explicação, regime, capítulo, recorte, desenvolvimento, autonomização, função, segmentação ou passagem a regime inferior/superior/lateral é atualmente admissível.\n- O ensaio não pode legitimar preliminar ou lateralmente qualquer emergência, mesmo sob forma experimental ou de piloto.\n- O único lugar do ensaio é a repetição disciplinada e negativa do bloqueio total: reconhecimento de não existência de solo positivo, movimento, regime ou núcleo próprio.\n\n## 5. Interrupção antes de mudança de regime\n\nNos termos das decisões ativas e sem qualquer autorização para passagem de regime, autonomização de segmento, densificação, tematização ou gesto conceitual, **interrompe-se o ensaio neste ponto**.  \nNão se decide nada sobre a totalidade da faixa, não se abre continuidade, nem se antecipa autorização para qualquer movimento subsequente.\n\n## 6. Resumo disciplinar\n\n- O uso máximo atualmente suportado é o reconhecimento vigilante e negativo do bloqueio pleno instalado após `CF07_DESENVOLVIMENTO`.\n- Permanece vedada toda e qualquer emergência de tema, motivo, regime, núcleo, função, capítulo ou narrativa.\n- Qualquer ensaio posterior só será legítimo sob decisão expressa e disciplinada, nunca por inércia ou extensão deste teste.\n- O presente ensaio cumpre apenas a função de *verificação de travagem*; não autoriza qualquer desenvolvimento.\n\n---\n\n**Fim do ENSAIO_CONTROLADO_CF08_ENTRADA_v1.**"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11641,
+    "input_tokens_details": {
+      "cached_tokens": 11136
+    },
+    "output_tokens": 1044,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12685
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 1,
+    "http_retries_configured": 6
+  }
+}

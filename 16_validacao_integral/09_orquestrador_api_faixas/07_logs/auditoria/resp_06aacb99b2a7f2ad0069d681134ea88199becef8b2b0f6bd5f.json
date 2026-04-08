@@ -1,0 +1,75 @@
+{
+  "id": "resp_06aacb99b2a7f2ad0069d681134ea88199becef8b2b0f6bd5f",
+  "object": "response",
+  "created_at": 1775665427,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775665469,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_06aacb99b2a7f2ad0069d681182d6c81998a1344ca6822dc80",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "# CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_DESENVOLVIMENTO\n\nA faixa expositiva controlada `CF07_DESENVOLVIMENTO` encontra-se, no estado atual, consolidada unicamente sob regime de travão negativo pleno, conforme todos os critérios metodológicos e disciplinares fixados nas fases de abertura, ensaio e decisão. O solo real mínimo autorizado é exclusivamente o reconhecimento formal do espaço metodológico aberto pela travagem total da faixa anterior (`CF07_INICIO`), sendo expressamente vedada qualquer emergência de regime positivo — seja densificação, narrativa, estrutura, conceito, tema, explicação ou sistema.\n\nTodos os travões, limites e fronteiras previamente definidos permanecem ativa e integralmente vigentes:  \n- Proibida qualquer tematização, autonomização ou passagem a regimes de verdade, critério, linguagem, estrutura, sistema, consciência, normatividade ou mediação;\n- Bloqueada a continuidade por inércia a partir do saldo mediacional, reinscrição corretiva ou impulso disciplinar anterior;\n- Vedado todo e qualquer movimento de densificação expositiva, narrativa ou conceptual, por mínimo que fosse, incluindo antecipações ou esquemas;\n- Travamento total de qualquer abertura narrativa, capítulo, comentário lateral ou estruturação fonológica, conceitual ou filosófica.\n\nO único regime em vigor é o de vigilância negativa máxima:  \n- Só se admite, neste bloco, a recapitulação e manutenção do espaço disciplinado de teste — negativo-estrito — resultante do bloqueio da faixa anterior;\n- Nenhum passo adicional está autorizado sem deliberação explícita e fundamentada;\n- O presente consolidado não confere autorização, legitimação ou impulso para qualquer desenvolvimento, avanço temático, densificação, narrativa ou regime estrutural.\n\nO limite máximo admissível desta faixa é precisamente o reconhecimento disciplinado e negativo do seu solo, sob os travões ativos.  \nTodo e qualquer avanço, densificação, autonomização, tematização, estruturação ou narrativa permanece absolutamente vedado até futura decisão deliberada, a fundamentar e deliberar, caso se justifique reabertura.\n\n**Condição mínima de reabertura futura:**  \nSó poderá ser reaberta a faixa expositiva controlada `CF07_DESENVOLVIMENTO` mediante decisão explícita, fundamentada e delimitada, justificada no interior deste regime disciplinar.  \nNenhuma reabertura é autorizada por inércia, automatismo narrativo, saldo disciplinar ou impulso de infraestrutura. Qualquer proposta de movimento deve estar ancorada em necessidade real, recapitular cada travão ativo, e ser objeto de deliberação expressa.\n\n**Fórmula de consolidação:**  \n> A faixa expositiva controlada `CF07_DESENVOLVIMENTO` fica consolidada no seu reconhecimento negativo disciplinado do espaço metodológico aberto, com todos os travões, limites, bloqueios e fronteiras estritamente ativos. Não pode haver avanço expositivo, conceptual, narrativo ou estrutural sem nova decisão explícita.  \n> Preserva-se a faixa na sua configuração mínima, travada e bloqueada para todo e qualquer desenvolvimento, até futuro juízo metodologicamente sustentado.\n\n---"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 12318,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 664,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12982
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 2,
+    "http_retries_configured": 6
+  }
+}

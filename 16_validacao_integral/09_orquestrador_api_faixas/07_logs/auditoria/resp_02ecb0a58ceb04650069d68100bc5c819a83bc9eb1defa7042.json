@@ -1,0 +1,75 @@
+{
+  "id": "resp_02ecb0a58ceb04650069d68100bc5c819a83bc9eb1defa7042",
+  "object": "response",
+  "created_at": 1775665408,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775665418,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_02ecb0a58ceb04650069d68101c290819ab8ea84b96a9f4a9b",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_DESENVOLVIMENTO\n\n## Corpo consolidado ativo da faixa expositiva controlada CF07_DESENVOLVIMENTO\n\nA faixa expositiva controlada CF07_DESENVOLVIMENTO institui-se como unidade local de teste negativo e disciplina máxima imediatamente após a travagem total de CF07_INICIO, sem qualquer autorização para desenvolvimento, densificação, narrativa, avanço temático, explicativo ou estrutural. Todo o regime vigente é de travão metodológico pleno: o único gesto admitido é o reconhecimento formal do espaço real de possibilidade — conceptual, factual ou expositiva — que resulta da deliberação negativa anterior. \n\nNenhum regime de verdade, critério, correção, sistema, narrativa, conceito ou linguagem adquire legitimidade positiva; todo e qualquer passo, densificação, estrutura, tópico, avanço narrativo ou antecipação está bloqueado. Valem pleno todos os travões herdados e reafirmados: prólogo (proibição de mediação, representação, linguagem, sistema, critério como centro), grelha disciplinada (bloqueio de estabilizações positivas), travão macro e local (impedimento de translação automática dos ganhos ou regimes anteriores); CF17/CF18 conservam estatuto apenas de travão lateral.\n\nA execução real da faixa — tomada no seu máximo atualmente admissível — consiste em: \n- recapitulação sumária dos travões, limites, fronteiras e falsos centros ativos;\n- reafirmação do solo real mínimo: apenas o espaço negativo recém-instituído, sem concessão a qualquer geste positivo;\n- bloqueio de toda e qualquer emergência de conteúdo, regime, tema, estrutura, densificação, comentário, análise, narrativa, explicação, capítulo, sistematização, antecipação — seja explícita, seja latente;\n- reafirmação da suspensão da própria possibilidade de movimento: não há desenvolvimento, só espaço abstido de teste.\n\nO uso máximo da faixa corresponde, pois, à pura existência disciplinada do quadro de limite: testar, apenas, se permanece intacta a vedação absoluta ao desenvolvimento; preservar o interdito sobre toda densificação, avanço ou autonomização de bloco.\n\n**Limite máximo admissível desta faixa:**  \nO reconhecimento restrito e negativo do espaço metodológico aberto pela travagem de CF07_INICIO, sob regime integral de vigilância e bloqueio de qualquer forma positiva de desenvolvimento, densificação, estruturação, tematização ou narrativa.\n\n**Condição mínima de reabertura futura:**  \nSó uma decisão deliberada, expressa, fundamentada, que justifique rigorosamente a necessidade e legitimidade de qualquer gesto positivo, conteúdo, regime, estrutura ou narrativa poderá reabrir a faixa. Não é admissível avanço por inércia, automatismo, saldo anterior ou conveniência de continuidade. Até tal decisão, toda a faixa permanece congelada no reconhecimento negativo do espaço de teste.\n\n---\n\n> **Consolidação: a faixa CF07_DESENVOLVIMENTO fica, no estado presente, formalmente limitada ao seu regime negativo de teste disciplinado, sem qualquer autorização a progresso positivo até nova deliberação explícita.**\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 12261,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 657,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12918
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 1,
+    "http_retries_configured": 6
+  }
+}

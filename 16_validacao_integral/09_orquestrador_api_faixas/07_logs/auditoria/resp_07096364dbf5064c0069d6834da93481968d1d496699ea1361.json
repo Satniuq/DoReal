@@ -1,0 +1,75 @@
+{
+  "id": "resp_07096364dbf5064c0069d6834da93481968d1d496699ea1361",
+  "object": "response",
+  "created_at": 1775665997,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775666005,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_07096364dbf5064c0069d6834e6f008196b9d713c457bb12bb",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_POST_BLOQUEIO\n\n## Texto ativo de consolidação da faixa\n\nA faixa expositiva `CF07_POST_BLOQUEIO` permanece, em todo o seu âmbito, sob bloqueio negativo absoluto, formalmente instaurado, plenamente documentado e sem exceção disciplinar. O único gesto admissível neste estado é o reconhecimento e preservação desse bloqueio: nenhum centro local, tema, objeto, análise, bloco, narrativa, capítulo, percurso, exposição, ensaio—mesmo residual, técnico ou experimental—pode ser instalado, esboçado ou ativado. Todos os travões hierárquicos permanecem em efeito: travão do prólogo, grelha/espinha, local absoluto, macroestrutural e disciplinar CF17/CF18; nenhuma passagem, saldo disciplinar, pressão infraestrutural, exigência técnica, impulso narrativo, legado estrutural ou fragmento pode legitimar qualquer forma de entrada.\n\nA presente consolidação instala o fecho operativo provisório:  \n- o uso máximo permissível é a reafirmação do bloqueio disciplinar negativo já vigente;  \n- toda tentativa de ensaio, densificação, piloto, desenvolvimento, bloco temático, comentário, estrutura, argumento, capítulo, conceito ou centro está formal e absolutamente travada;  \n- não é autorizada qualquer transição, nem mesmo em modo experimental ou lateral;  \n- quaisquer decisões futuras sobre reabertura ou modificação só serão admissíveis por deliberação pública, fundamentada, documentada e baseada na revalidação exaustiva de todos os travões, fronteiras e riscos ativos à data.\n\n### Limite máximo admissível da faixa\n- O limite máximo atualmente admissível nesta faixa é a manutenção integral do bloqueio negativo total. Não há abertura para exposição, densidade, ensaio, narrativa, piloto, análise, centro ou tema, sob qualquer fórmula.\n\n### Condição mínima de reabertura futura\n- Só poderá ocorrer reabertura futura mediante decisão soberana, pública e formal, baseada em recapitulação exaustiva dos limites, riscos e travões ativos, acompanhada de fundamentação documentada e específica para cada ponto delimitado. Qualquer gesto deve ser precedido por validação disciplinar de não conversão do centro, não introdução de novo regime e não abertura automática da faixa seguinte.\n\n---\n\n**Fórmula operativa de estado:**  \n> A faixa CF07_POST_BLOQUEIO está consolidada sob bloqueio disciplinar negativo total, sem margem para exposição, ensaio, densidade, narrativa ou qualquer avanço. A preservação deste regime é imperativa até decisão futura deliberada e exaustivamente documentada.\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 12235,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 568,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12803
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 2,
+    "http_retries_configured": 6
+  }
+}

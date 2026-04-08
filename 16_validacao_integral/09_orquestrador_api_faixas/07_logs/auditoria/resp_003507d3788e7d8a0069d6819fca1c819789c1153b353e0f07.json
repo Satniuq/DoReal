@@ -1,0 +1,75 @@
+{
+  "id": "resp_003507d3788e7d8a0069d6819fca1c819789c1153b353e0f07",
+  "object": "response",
+  "created_at": 1775665567,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775665579,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_003507d3788e7d8a0069d681a079d48197a271dfde8d272086",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_POS_DESENVOLVIMENTO\n\n---\n\n## 1. Decisão controlada sobre o uso máximo atual da faixa CF07_POS_DESENVOLVIMENTO\n\n### I. Síntese do processo conduzido\n\n- A **abertura da faixa** CF07_POS_DESENVOLVIMENTO foi realizada exclusivamente sob regime de vigilância negativa, sem qualquer autorização para gesto positivo, densificação, autonomização ou abertura temática.\n- O **ensaio formal controlado (v1)** reconfirmou integralmente todos os travões, limites, fronteiras negativas, falsos centros e bloqueios de regime herdados da faixa precedente.\n- O ensaio deteve-se rigorosamente à recapitulação dos bloqueios, **não autorizando nem teste positivo, nem desenvolvimento, nem ensaio de avanço**, mantendo única e exclusivamente a manutenção vigilante negativa do espaço.\n\n---\n\n### II. O que passou\n\n- O reconhecimento integral do espaço herdado unicamente como **regime negativo de vigilância disciplinada** passou sem fissura.\n- O bloqueio total de qualquer gesto expositivo, densificação, narrativa, autonomização, tematização, análise ou comentário foi plenamente suportado.\n- Todas as fronteiras negativas e travões herdados encontram-se reativados e operantes — sem qualquer emergência de regime positivo, saldo disciplinar, tecnicalidade lateral, narrativa ou objeto.\n\n---\n\n### III. O que não passou\n\n- **Não passou**: qualquer tentativa (explícita ou implícita) de transitar para desenvolvimento, capítulo, conceito, estrutura, narrativa, análise, explicação, ensaio construtivo, avanço metodológico ou organização positiva.\n- **Também não passou**: pré-ensaio, preparação ou escorregamento para regime de objeto, densificação, estruturação ou comentário direcionado.\n- Falhou como ganho positivo qualquer hipótese de autorizar, mesmo em modo piloto ou excepcional, autonomia, abertura de tema, segmento ou ensaio lateral.  \n  - Este ensaio é, por isso, classificado e **preservado como teste negativo controlado** da resiliência do bloqueio, o qual permanece estável e sem exceção.\n\n---\n\n### IV. Próximo passo prudente\n\n- **A faixa CF07_POS_DESENVOLVIMENTO deve ser mantida em pleno regime negativo-vigilante**, sem qualquer autorização para desenvolvimento, ensaio, extensão, comentário, densificação, ambiguidade de regime ou movimento de abertura positiva.\n- Só se justifica futura deliberação se (e apenas se) houver decisão expressa, fundamentada e priorizada, ​acompanhada de nova abertura formal, com enumeração explícita e crítica dos riscos, travões e fronteiras.\n- O único output legítimo até nova decisão é a **manutenção disciplinada e documentada do bloqueio atual como regime máximo de uso**.\n\n---\n\n### V. Resumo deliberativo\n\n> **A faixa CF07_POS_DESENVOLVIMENTO atinge, no momento, o seu limite estrito: espaço de vigilância negativa integral, sem autorização para qualquer regime positivo, densificação, tema, objeto, ensaio ou gesto construtivo. O ensaio comandado valida apenas a manutenção do bloqueio e exclui toda exceção ou avanço até nova decisão própria.**\n\n---\n\n## 2. Estatuto do ficheiro\n\nEste ficheiro fixa como decisão ativa:\n- o limite máximo atual da faixa: **bloqueio estrito e vigilância disciplinada sem exceções**;\n- a nulidade de qualquer autorização automática de continuidade, ensaio, desenvolvimento ou autonomização;\n- a obrigatoriedade de decisão formal autónoma para todo e qualquer passo seguinte.\n\nA partir daqui:\n- O presente bloqueio comandará toda a operação expositiva da faixa;\n- Ensaios futuros só se legitimam com nova decisão explícita situada fora deste ciclo negativo;\n- A manutenção do regime negativo é o único procedimento permitido enquanto não houver deliberação adicional.\n\n---\n\n**Fim da decisão controlada.**\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11120,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 841,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 11961
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 1,
+    "http_retries_configured": 6
+  }
+}

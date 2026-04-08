@@ -1,0 +1,75 @@
+{
+  "id": "resp_0d2cf551934f99f40069d68d5d55408199a96d253c5138e418",
+  "object": "response",
+  "created_at": 1775668573,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775668585,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_0d2cf551934f99f40069d68d5e19188199836d6f61bd6c12df",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# ENSAIO_CONTROLADO_CF08_ENTRADA_v1\n\n## I. Objeto e propósito do ensaio\n\nEste ensaio controlado realiza o teste mínimo atualmente admissível para a faixa expositiva controlada `CF08_ENTRADA`, conforme as prescrições integrais de `ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md` e sob estrita submissão à hierarquia metodológica estabelecida em `14_README_FINAL_METODO_CONTINUIDADE_E_DESCIDA_EXPOSITIVA_CONTROLADA.md` e `GUIAO_OPERATIVO_FAIXAS_EXPOSITIVAS_CONTROLADAS.md`.  \nO objetivo é medir exclusivamente a possibilidade real de enunciar um reconhecimento disciplinado do solo de entrada, **sem ultrapassar** o uso máximo presente nem desencadear qualquer desenvolvimento, densificação, segmento, núcleo, capítulo, estrutura, explicação, regime ou emergência positiva.\n\n---\n\n## II. Recapitulação dos limites e travões\n\n1. Vigora a consolidação do travão negativo total herdado de `CF07_DESENVOLVIMENTO` — **nenhuma emergência positiva admitida**;\n2. O solo reconhecível nesta faixa é apenas o bloqueio recebido, **sem legitimação de segmento ou núcleo**;\n3. São proibidas qualquer passagem a capítulo, narrativa, explicação, regime, sistematização, tematização, estrutura, conceito, linguagem, verdade, critério, mediação, representação ou função diferenciada;\n4. Travões do prólogo, da grelha disciplinada, dos blocos laterais (CF17/18) e das fronteiras macro e locais **permanecem absolutamente ativos**;\n5. O presente ensaio **não autoriza**, por sua função ou formato, qualquer tipo de desenvolvimento, comentário, narrativa ou justificação lateral.\n\n---\n\n## III. Teste do uso máximo atualmente suportado\n\n### 1. Movimento inicial admissível\n\n- O único movimento possível é o **reconhecimento negativo e disciplinado** do solo herdado, sem enunciação de qualquer emergência ou núcleo;\n- Não se admite sequer a positividade de uma segmentação inicial, sendo o próprio ensaio uma mera aferição de inexistência de abertura;\n- O solo reconhecido não pode ser convertido em função, regime, estrutura, capítulo, bloco ou entrada autonomizada.\n\n### 2. Proibição de mudança de regime\n\n- Proibido densificar, tematizar, desenvolver, esquematizar ou introduzir qualquer mediação conceptual;\n- Proibida a ascensão ou passagem a qualquer regime (verdade, sistema, linguagem, critério, conceito, consciência, normatividade, explicação, etc);\n- Proibido usar linguagem de função, regime, autonomização, narrativa, bloco ou capítulo.\n\n### 3. Restrições suplementares (travão explícito)\n\n- Nenhum saldo, núcleo, forma ou estabilização do bloco anterior pode ser transferido para criar impulso positivo;\n- Falsos centros já tipificados **devem ser explicitamente bloqueados** no enunciado de qualquer movimento de teste.\n\n---\n\n## IV. Enunciado operacional mínimo\n\nO solo real atualmente aberto por `CF08_ENTRADA` reduz-se à **presença disciplinada de bloqueio total** herdado da faixa anterior, sem autorização de capítulo, núcleo, desenvolvimento, estrutura, regime, função, autonomização, densificação, explicação, segmento, narrativa ou mediação de qualquer ordem.\n\n**Nada aqui legitima emergência de positividade, movimento, função diferenciada ou segmento inicial;\nqualquer eventual admissibilidade futura permanece condicionada a decisão deliberada e travão total vigente.**\n\n---\n\n## V. Interrupção antes de mudança de regime\n\n**Este ensaio termina explicitamente** antes de qualquer transição para movimento, núcleo, função, capítulo, regime, densificação, desenvolvimento ou positividade – não se autoriza a enunciação de qualquer passo subsequente, mesmo de ordem minimalista, disciplinar, piloto ou exploratória.\n\n---\n\n## VI. Resumo operativo da faixa neste ponto\n\n- A faixa `CF08_ENTRADA` encontra-se integralmente travada no seu reconhecimento negativo, **não existindo ainda qualquer abertura legítima de segmento, núcleo, narrativa, desenvolvimento, capítulo, regime ou explicação**;\n- Todo o espaço permanece bloqueado pela herança disciplinar do travão CF07, sendo qualquer adoção ou teste de movimento inicial dependente de decisão futura;\n- O ensaio cumpre rigorosamente a recapitulação dos travões ativos e **interrompe antes de qualquer mudança de regime**.\n\n---\n\n## VII. Fórmula curta deste ensaio\n\n> **Em CF08_ENTRADA, só é admissível o reconhecimento disciplinado do espaço travado herdado; qualquer movimento, função, capítulo ou emergência positiva encontra-se absolutamente bloqueado neste ponto; o ensaio termina antes de qualquer transição ou mudança de regime.**\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11528,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 1018,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12546
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 1,
+    "http_retries_configured": 6
+  }
+}

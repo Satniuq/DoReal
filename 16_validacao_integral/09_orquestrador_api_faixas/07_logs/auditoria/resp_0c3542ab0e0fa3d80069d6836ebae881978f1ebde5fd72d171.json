@@ -1,0 +1,75 @@
+{
+  "id": "resp_0c3542ab0e0fa3d80069d6836ebae881978f1ebde5fd72d171",
+  "object": "response",
+  "created_at": 1775666030,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775666039,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_0c3542ab0e0fa3d80069d6836f28308197b6f2cfd93c15234e",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "# CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_POST_BLOQUEIO\n\nA faixa expositiva `CF07_POST_BLOQUEIO` permanece sob bloqueio negativo total, segundo disciplina metodológica estrita e em alinhamento absoluto com a hierarquia normativa e todos os travões ativos. O único texto ativo da faixa é o reconhecimento disciplinar, formal e documentado de que não há qualquer margem para avanço expositivo, densidade, ensaio, narrativa, análise, objeto, bloco, capítulo, estabilização, desenvolvimento ou qualquer gesto de autonomização local, residual ou técnica.\n\nO regime de bloqueio vigente cobre integralmente todo e qualquer percurso, fragmento, saldo estrutural, impulso macro, pressão narrativo-conceitual, entrada argumentativa, tentativa de retorno, revisão disciplinar, conversão lateral ou experimentação ensaística—explicitamente vedando:\n\n- qualquer início ou retomada de objeto, tema, conceito, argumento, capítulo, análise, comentário, percurso, narrativa, exposição, bloco, estrutura, estabilização ou piloto;\n- toda circulação residual, saldo disciplinar, pressão de continuidade ou justificação infraestrutural para admitir desenvolvimento;\n- qualquer transferência, exceção informal, ensaio exploratório, protótipo de transição, abertura formal ou tentativa de deslocação pelo contexto expositivo adjacente.\n\nTravões ativos, continuamente recapitulados:\n\n1. **Travão do prólogo:** veda mediação, sistema, critério, representação, linguagem, operador ou instância normativa como legitimação local ou campo admissível.\n2. **Travão grelha/espinha:** proíbe conversão em estrutura, narrativa, segmento, bloco, conceito ou percurso formalizado.\n3. **Travão local absoluto:** bloqueia qualquer densidade, autonomização, ensaio, objeto, capítulo ou estabilização não submetida a decisão documentada futura.\n4. **Travão macroestrutural:** trava heranças disciplinares, pressões de saldo, continuidade formal, exigências narrativas ou impulsos de coordenação.\n5. **Travão CF17/CF18:** estas zonas só mantêm estatuto de travão disciplinar, sendo vedado que funcionem como centro, bloco, classificação ou narrativa.\n\nO limite máximo admissível é a reconfirmação do bloqueio negativo formal. Não passou nem pode passar qualquer ensaio, densificação, exposição, análise, objeto ou evolução embrionária, nem sequer sob justificação de saldo técnico, piloto lateral, exceção, impulso macro, narrativa mínima ou estabilização residual.\n\nA condição mínima de reabertura futura é a deliberação soberana, pública, documentada e exaustiva, subordinada à recapitulação rigorosa de todos os travões e limites ativos à data. Nenhuma transição, avanço, ensaio ou alteração do regime pode ocorrer sem decisão expressa e fundamentada nesse sentido.\n\nEnquanto isto não acontecer, a faixa `CF07_POST_BLOQUEIO` permanece sob disciplina negativa total: **travão integral, ausência de centro, ausência de objeto, ausência de exposição e proibição total de autonomização local em qualquer modalidade.**"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 12292,
+    "input_tokens_details": {
+      "cached_tokens": 11136
+    },
+    "output_tokens": 649,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12941
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 3,
+    "http_retries_configured": 6
+  }
+}

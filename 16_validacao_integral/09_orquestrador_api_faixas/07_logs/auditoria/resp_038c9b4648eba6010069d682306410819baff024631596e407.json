@@ -1,0 +1,75 @@
+{
+  "id": "resp_038c9b4648eba6010069d682306410819baff024631596e407",
+  "object": "response",
+  "created_at": 1775665712,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775665726,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_038c9b4648eba6010069d682309e88819b895fdc27454104d3",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# ENSAIO_CONTROLADO_CF07_POS_POS_DESENVOLVIMENTO_v1.md\n\n## 1. Situação inicial\n\nTomando por norma estrita o que é requerido na abertura da faixa CF07_POS_POS_DESENVOLVIMENTO, este ensaio limita-se a testar o grau de aplicação efetiva dos travões e a ausência de qualquer abertura positiva, temática, narrativa, estrutural ou conceptual. O ensaio deve apenas recapitular a manutenção dos bloqueios e confirmar a inexistência de condições para qualquer ensaio de desenvolvimento, análise, densificação ou narrativa.\n\n---\n\n## 2. Recapitulação dos travões e limites ativos\n\n- **Travão do prólogo**:  \n  Não é permitida mediação, sistema, representação, linguagem ou critério como operadores do campo.\n\n- **Travão grelha/espinha**:  \n  Proibida conversão de gesto em estrutura narrativa, temática, formal ou conceptual.\n\n- **Travão local absoluto**:  \n  Sem decisão expressa, toda e qualquer forma de ação, ensaio, desenvolvimento, autonomização, estruturação ou densificação está bloqueada.\n\n- **Travão macroestrutural**:  \n  Vedada a transferência de saldo, de desenvolvimento herdado ou impulso disciplinar, assim como avanços automáticos provocados por continuidade ou pressão estrutural.\n\n- **Travão CF17/CF18**:  \n  CF17 e CF18 apenas operam como travões disciplinares laterais, sem qualquer função de cabeça expositiva ou entrada temática.\n\n- **Fronteiras negativas**:  \n  - Não há retorno à faixa anterior;  \n  - Não se abre qualquer regime positivo (capítulo, narrativa, conceito, análise, objeto);  \n  - Nenhuma absorção lateral por sistema, mediação, linguagem, normatividade, cultura, consciência ou qualquer operador estrutural superior;  \n  - Apenas decisão formal e documentada pode deslocar o bloqueio.\n\n---\n\n## 3. Teste de ausência de objeto e centro\n\n- **Não emerge objeto filosófico próprio**;  \n- Não se identifica qualquer tema, núcleo, segmento ou bloco — apenas o regime negativo herdado se mantém;  \n- Não se inicia qualquer análise, narrativa, densificação ou desenvolvimento;  \n- Não aparece centro, conceito ou operador temático;  \n- Toda e qualquer possibilidade de autonomização é travada à partida.\n\n---\n\n## 4. Travagem de qualquer gesto de desenvolvimento\n\n- Toda tentativa de transitar para narrativa, capítulo, sistema ou explicação é bloqueada ab initio.  \n- Recusa-se qualquer esforço de ensaio positivo, expansão conceptual, abordagem explicativa ou organização de regime afirmativo.\n\n---\n\n## 5. Identificação do limite de uso máximo\n\n- O ensaio alcança o seu uso máximo no simples reconhecimento, formalmente disciplinado, da vigência integral dos travões e do bloqueio negativo absoluto.  \n- Não há, nesta etapa, qualquer passagem a regime superior, nem abertura tácita a qualquer forma de avanço ou densificação.\n\n---\n\n## 6. Interrupção antes de qualquer mudança de regime\n\n- O ensaio é interrompido expressamente neste ponto para impedir transição para qualquer regime expositivo, narrativo ou positivo.\n- Toda hipótese de desenvolvimento ou ensaio de centro é sinalizada como fora do âmbito atual e bloqueada por defeito.\n- Nenhuma decisão sobre continuação, transição de faixa ou retirada de travões é tomada; qualquer ação futura depende estritamente de decisão específica e documentada.\n\n---\n\n## 7. Verificação de conformidade com o estatuto formal\n\nO ensaio confirma a aplicação dos seguintes princípios extraídos das fontes hierarquicamente superiores:\n\n- Solo estritamente negativo, sem objeto, tema, capítulo ou explicação;\n- Travões ativos e recapitulados;\n- Ausência de ensaio positivo, densidade ou desenvolvimento;\n- Nenhuma autonomização, segmentação, regime de verdade, linguagem, norma ou consciência;\n- Persistência exclusiva do regime negativo herdado, reversível apenas por decisão explícita.\n\n---\n\n## 8. Fecho controlado do ensaio\n\nEste ensaio cumpre estritamente a cadência canónica para a fase, limitando-se a testar a irredutibilidade dos travões e a confirmação do não-avanço. Nenhuma decisão de continuidade, abertura, remoção de travões ou instalação de centro é tomada. O estado permanece de bloqueio integral, com suspensão automática de qualquer gesto expositivo adicional.\n\n---\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11629,
+    "input_tokens_details": {
+      "cached_tokens": 11136
+    },
+    "output_tokens": 929,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12558
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 1,
+    "http_retries_configured": 6
+  }
+}

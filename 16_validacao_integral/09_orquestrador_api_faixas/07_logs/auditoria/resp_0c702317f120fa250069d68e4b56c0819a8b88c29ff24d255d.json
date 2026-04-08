@@ -1,0 +1,75 @@
+{
+  "id": "resp_0c702317f120fa250069d68e4b56c0819a8b88c29ff24d255d",
+  "object": "response",
+  "created_at": 1775668811,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775668823,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_0c702317f120fa250069d68e4c0528819aa7b5e40096c2dacd",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF09_TRANSICAO\n\n## 1. Estatuto desta decisão/limite\n\nEsta peça fixa, sob procedimento canónico, o regime máximo atualmente admissível para a faixa expositiva controlada `CF09_TRANSICAO`, imediatamente após execução do ENSAIO_CONTROLADO_CF09_TRANSICAO_v1 e sob plena vigência de todos os travões acumulados nas faixas anteriores.  \nAssume valor de limite operativo local:  \n- não é autorização aberta de continuação,  \n- não institui narrativa nem capítulo,  \n- não suspende nenhum travão,  \n- não converte teste em regime de progresso,  \n- nem transfere exceção instrumental para status normativo.\n\n---\n\n## 2. O que passou\n\n- Está plenamente confirmado e estabilizado o **bloqueio negativo integral** como único regime operativo possível em `CF09_TRANSICAO`;\n- O ensaio controlado demonstrou, de modo disciplinado e auditável, que **nenhuma emergência, entrada, densificação, segmento, função, narrativa, núcleo ou bloco positivo** é admissível;\n- O solo real mínimo da faixa reconhecido é o **estado de bloqueio e abstenção de qualquer movimento positivo, fragmentador ou lateral**;\n- A cadência canónica das faixas, a hierarquia metodológica e os travões do bloco anterior foram mantidos sem transgressão, conversão ou exceção.\n\n---\n\n## 3. O que não passou\n\n- **Não passou** qualquer autorização para entrada disciplinada, micro-segmento, fragmento, função, capítulo, densificação temática ou conceptual, narrativa inicial ou segmentação por ensaio;\n- **Não passou** qualquer exceção lateral, instrumental ou técnica: mesmo tentativas mínimas de movimento expositivo, operativo, metódico, disciplinar ou piloto foram bloqueadas local e estruturalmente;\n- **Não passou** qualquer deslocamento lateral, reentrada, regime negativo simulando abertura, ou teste encapotado de início por via indireta;\n- **Não passou** qualquer tentativa de antecipação, previsão ou delineamento de regime positivo futuro, autonomização, bloco, função, núcleo, capítulo ou segmento.\n\n---\n\n## 4. Próximo passo prudente\n\n- O próximo passo prudente é de **preservação rigorosa do limite negativo ativo**:  \n  - manter a faixa `CF09_TRANSICAO` rigorosamente sob bloqueio integral,  \n  - não admitir nenhum novo ensaio, fragmento, densificação ou regime até existir **deliberação disciplinada nova, fundada em reexame metodológico e justificação própria explícita**;\n- O **estado de suspensão de qualquer movimento positivo** é a condição operativa ativa.  \n- Qualquer reabertura, desenvolvimento, regime, capítulo ou narrativa está **formalmente proibido**, a não ser por decisão controlada subsequente, inteiramente fundamentada e disciplinada segundo a cadência canónica.\n\n---\n\n## 5. Histórico do ensaio\n\n- O ENSAIO_CONTROLADO_CF09_TRANSICAO_v1 **falhou como ganho positivo**, sendo preservado como **teste negativo controlado** e confirmação do travão integral operativo desta faixa.\n\n---\n\n## 6. Fórmula curta de decisão\n\n> **O uso máximo inicial atualmente permitido em `CF09_TRANSICAO` é o bloqueio integral.  \nNenhuma entrada, narrativa, função, segmento, capítulo, fragmento ou emergência pode ter lugar.  \nO único regime é: manter vigilância disciplinada do bloqueio, sem qualquer movimento positivo, ensaio adicional, exceção lateral ou antecipação de regime.  \nQualquer abertura ulterior só é legítima mediante decisão nova, rigorosamente justificada.**\n\n---\n\n**Fim da DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF09_TRANSICAO**\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11665,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 804,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12469
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 2,
+    "http_retries_configured": 6
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "resp_0dd185dd16550ea60069d68175145c81998e974632b16451b4",
+  "object": "response",
+  "created_at": 1775665525,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775665532,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_0dd185dd16550ea60069d68175addc81998f8c7bf2fa240215",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# ENSAIO_CONTROLADO_CF07_POS_DESENVOLVIMENTO_v1\n\n---\n\n**Ensaio controlado v1 da faixa expositiva CF07_POS_DESENVOLVIMENTO.  \nObjeto: teste mínimo do uso atualmente suportado, obedecendo ao travamento herdado da consolidação de CF07_DESENVOLVIMENTO e à abertura disciplinar subsequente.  \nFunção: demonstrar e aferir o regime negativo de vigilância, sem ultrapassar qualquer fronteira ou travão presente.  \nNão decidir regime, campo, continuidade, nem legitimar narrativa, análise, objeto ou conceito.  \nInterrompe antes de qualquer alteração do estatuto estabelecido.**\n\n---\n\n## 1. Recapitulação dos travões e limites vigentes\n\n- Todos os travões herdados prevalecem na íntegra:\n  - Travão do prólogo: bloqueio total a qualquer mediação, sistema, linguagem, critério ou explicação.\n  - Travão espinha/grelha: vedação à tematização, estrutura, narrativa, conceito ou densificação.\n  - Travão local absoluto: não se inicia ensaio afirmativo, densificação, estruturação, autonomização, nem qualquer consolidado.\n  - Travão macroestrutural: não há transferência de saldo, regime disciplinar ou impulso da faixa anterior.\n  - Travão CF17/CF18: estes entram apenas por bloqueio disciplinar, nunca por objeto ou operador.\n\n- Todas as fronteiras negativas permanecem intransponíveis:\n  - Inferior: interdito o retorno à faixa anterior.\n  - Superior: interdito qualquer regime positivo (verdade, narrativa, capítulo, análise, estruturação, objeto).\n  - Lateral: bloqueio a transversalização (mediação, cultura, normatividade, sistema, linguagem, consciência).\n  - Disciplinar: nenhuma passagem fora do regime negativo-vigilante sem decisão expressa.\n\n---\n\n## 2. Verificação do solo real mínimo\n\n- Único solo permitido: reconhecimento estrito e negativo do espaço travado herdado, sem concessão a regime afirmativo.\n- Nenhuma tentativa de densificação, avanço, objeto, autonomia, análise ou gesto afirmativo é autorizada.\n- Nenhum passo pode converter a faixa em narrativa, capítulo, sistema, explicação, conceito, comentário ou campo temático.\n\n---\n\n## 3. Exercício mínimo de vigilância disciplinar\n\n- Identificação do risco dominante: instalação inadvertida de continuidade por saldo, emergência de centro positivo, recidiva de qualquer regime temático, conceitual ou narrativo.\n- A ação autorizada resume-se à recapitulação e manutenção integral:\n  - O espaço da faixa permanece bloqueado como regime negativo pleno.\n  - Não é iniciada qualquer sequência de desenvolvimento, densificação, análise, explicação, estruturação ou autonomização.\n  - Não se legitima, formal ou materialmente, objeto, centro, conceito, regime, capítulo ou campo filosófico.\n  - Inibe-se proativamente qualquer impulso de afastamento do bloqueio herdado.\n\n---\n\n## 4. Sinalização dos falsos centros e travões ainda ativos\n\n- Todos os centros positivos ou latentes permanecem bloqueados:\n  - Tema, objeto, capitulo, sequência, estrutura, explicação, análise, comentário, sistema, regime de verdade ou de critério.\n- Travão operativo: qualquer emergência de regime, tema, campo ou gesto narrativo é imediatamente travada.\n\n---\n\n## 5. Limite de uso máximo atualmente suportado\n\n- O uso máximo no presente ensaio consiste em confirmar e fazer vigiar o espaço negativo herdado, sem operação adicional nem gesto afirmativo, e sem abrir a hipótese de transição ou alteração de regime.\n- Não se aprofunda, continua, amplia nem converge para decisão local de passagem, de abertura temática ou de densificação.\n- Interrompe-se aqui, antes de qualquer sinal de mudança.\n\n---\n\n## 6. Encerramento estrito do ensaio\n\n- O ensaio atinge o limite local do atualmente admissível: vigilância negativa, confirmação dos travões e bloqueio integral de autonomização ou desenvolvimento.\n- Todo e qualquer passo futuro—incluindo ensaio mais denso, decisão de passagem ou evento afirmativo—exige decisão própria explícita.\n- Nenhuma decisão é tomada acerca da continuidade da faixa, encerramento ou início de novo regime.\n\n---\n\n**Fórmula final deste ensaio:**  \n> O espaço da faixa CF07_POS_DESENVOLVIMENTO apenas vigia e preserva negativamente o regime bloqueado herdado, sem concessão temática, narrativa, conceptual, estruturante ou filosófica. Não há ensaio afirmativo, gesto de densificação, análise, desenvolvimento, objeto, cenário, campo ou capítulo. Todos os travões e fronteiras seguem ativos e intransitáveis. O ponto máximo admissível é a vigilância estrita—nada mais.\n\n---\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11248,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 1023,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12271
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 1,
+    "http_retries_configured": 6
+  }
+}

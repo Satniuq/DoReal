@@ -1,0 +1,75 @@
+{
+  "id": "resp_0a936108ae92ccb70069d68d8e193081908cc4f7a880b61ef3",
+  "object": "response",
+  "created_at": 1775668622,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775668636,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_0a936108ae92ccb70069d68d8ef50881908c8458422e54fb3d",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF08_ENTRADA\n\n## 1. Estado das peças e ensaios\n\n- **Abertura da faixa** (`ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md`):  \n  Fixa, sob máxima restrição, a legitimidade potencial apenas negativa da faixa `CF08_ENTRADA`, bloqueando qualquer emergência positiva de regime, núcleo, desenvolvimento, capítulo, densificação ou função diferenciada.  \n  Explicitamente proíbe tematização, narrativa, explicação, conceito, linguagem, verdade, sistema, critério ou qualquer movimento para além do reconhecimento disciplinado do bloqueio herdado de `CF07_DESENVOLVIMENTO`.\n\n- **Ensaio controlado ativo** (`ENSAIO_CONTROLADO_CF08_ENTRADA_v1.md`):  \n  Conduz um teste sob vigilância máxima para aferir se é admissível iniciar qualquer gesto expositivo.  \n  Ocorre exclusivamente sob a recapitulação e vigência de todos os travões e fronteiras negativas herdadas.  \n  Resultado: não é legítimo, nem mesmo minimalisticamente, iniciar qualquer regime, núcleo, proposição, segmento ou função positiva.  \n  O próprio ensaio interrompe-se antes da mudança de regime e limita-se a reiterar disciplinadamente o bloqueio pleno e a ausência de solo positivo.  \n  Este ensaio **falha como ganho positivo**: comprova apenas o funcionamento do travão, não a possibilidade de entrada.\n\n---\n\n## 2. Decisão sobre o uso máximo atualmente suportado\n\n- O uso máximo atualmente legitimado nesta faixa é **exclusivamente** o reconhecimento negativo, disciplinado e vigilante do bloqueio total de qualquer emergência positiva.\n- Permanece **vedada** qualquer:\n  - positividade temática, conceitual, disciplinar, exponencial ou expositiva,\n  - emergência de regime, núcleo, capítulo, segmento, função, desenvolvimento, autonomização, narrativa, explicação, estrutura, linguagem, critério, sistema, verdade, normatividade, representação ou mediação.\n- Nenhum gesto, núcleo, recorte, motricidade, autonomização ou continuidade pode ser legitimado neste momento.\n- Toda tentativa posterior de avanço é indevida sem decisão expressa e autónoma **posterior**.\n\n---\n\n## 3. O que passou\n\n- Passou:\n  - O reconhecimento vigilante do bloqueio pleno.\n  - A recapitulação rigorosa dos travões, limites e fronteiras herdadas de `CF07_DESENVOLVIMENTO`.\n  - O teste negativo do solo: afirmar a **inexistência** de solo positivo de entrada sem quebra disciplinar.\n\n---\n\n## 4. O que não passou\n\n- Não passou:\n  - Nenhuma emergência positiva de movimento, função, núcleo, capítulo, regime, proposição, narrativa, desenvolvimento ou segmentação.\n  - Nenhuma autorização para ensaio, piloto, avanço, gesto inicial, autonomização, titolo narrativo, densificação, tematização, explicação ou regime.\n  - Nenhuma transição legítima para positividade disciplinar, conceitual, expositiva, macro ou local.\n  - Nenhuma reabertura indireta do saldo mediacional, disciplinar, narrativo ou estrutural do segmento anterior.\n\n---\n\n## 5. Preservação do ensaio como teste negativo controlado\n\n- O ensaio `ENSAIO_CONTROLADO_CF08_ENTRADA_v1.md` é **preservado como teste negativo controlado**: serve de confirmação disciplinar de que, no atual estado dos travões e limites vigentes, mesmo o início mínimo de entrada está bloqueado.\n- Não há fundamento legítimo para extensão automática ou experimentação positiva sem decisão deliberada futura.\n\n---\n\n## 6. Próximo passo prudente\n\n- O próximo passo prudente é a **preservação rigorosa do limite negativo atual**.\n- Qualquer tentativa de novo ensaio, densificação, segmento, gesto inicial ou abertura positiva **só pode ocorrer mediante decisão futura explícita e fundamentada**.\n- Recomenda-se:\n  - Travar toda emergência de peça positiva, comentário lateral, teste funcional, narrativa, desenvolvimento ou autonomização até deliberação específica.\n  - Isto inclui proibição expressa de ensaio lateral, subida de regime ou avança de bloco sem filtro metodologicamente rigoroso.\n\n---\n\n## 7. Resumo operativo vinculativo\n\n> **O uso máximo atualmente admissível em `CF08_ENTRADA` é a pura vigília e recapitulação do bloqueio herdado, sem qualquer legitimidade para emergência, função, regime, núcleo, capítulo ou ensaio positivo, mesmo minimalista. O ensaio presente é validado apenas enquanto teste negativo, e qualquer novo passo exige decisão expressa e justificada.**\n\n---\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11224,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 1011,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12235
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 2,
+    "http_retries_configured": 6
+  }
+}

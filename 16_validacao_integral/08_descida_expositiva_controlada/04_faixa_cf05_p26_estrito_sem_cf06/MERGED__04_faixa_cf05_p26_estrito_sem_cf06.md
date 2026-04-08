@@ -1,6 +1,6 @@
 # MERGED — 04_faixa_cf05_p26_estrito_sem_cf06
 
-- Gerado em: `2026-04-08 01:09:39`
+- Gerado em: `2026-04-08 12:29:45`
 - Pasta da faixa: `04_faixa_cf05_p26_estrito_sem_cf06`
 - Número da faixa: `04`
 - Ficheiro ativo atual: `04_faixa_cf05_p26_estrito_sem_cf06\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF05_P26_ESTRITO_SEM_CF06.md`

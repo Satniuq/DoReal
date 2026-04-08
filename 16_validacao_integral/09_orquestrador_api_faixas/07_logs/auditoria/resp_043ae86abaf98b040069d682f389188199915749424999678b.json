@@ -1,0 +1,75 @@
+{
+  "id": "resp_043ae86abaf98b040069d682f389188199915749424999678b",
+  "object": "response",
+  "created_at": 1775665907,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "completed_at": 1775665920,
+  "error": null,
+  "frequency_penalty": 0.0,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_043ae86abaf98b040069d682f3ffc481999be7ee0dd5e64250",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "```markdown\n# ENSAIO_CONTROLADO_CF07_POST_BLOQUEIO_v1\n\n## 1. Estatuto e Procedimento\n\nEnsaio controlado v1 sob regime canónico de faixas expositivas, subordinado integralmente ao quadro disciplinar vigente para CF07_POST_BLOQUEIO, executado apenas até ao uso máximo autorizado pelo estado atual da pasta e dos travões ativos. Não decide faixa, não reverte bloqueio, não muda regime, não inaugura narrativa, capítulo ou bloco, e não ultrapassa o limite formal.\n\n---\n\n## 2. Recapitulação dos Travões e Estado Atual\n\n- Travão absoluto do prólogo, da grelha, da espinha macro e do contexto local.\n- Solo real mínimo: plena vigência do bloqueio negativo total, herdado e não revogado.\n- Centro próprio: apenas centro negativo; proibida toda autonomização, objeto, tema, narrativa, bloco, capítulo, análise ou exposição.\n- Falsos centros: todo objeto ou estabilidade temática, ensaio, comentário, sistema, narrativa ou desenvolvimento.\n- Fronteiras: inferiores, superiores, laterais e disciplinares — todas proibitivas.\n- Risco dominante: qualquer relançamento de regime, saldo, impulso estrutural, rotina disciplinar ou pressão macro.\n\n---\n\n## 3. Teste de Uso Máximo Suportado\n\n### 3.1. Solo admissível e impossibilidades\n\n- Único solo: reconhecimento de vigência do bloqueio — não há margem a ensaio positivo, exposição mínima, narrativa, comentário ou estabilização.\n- Nem mesmo ensaio instrumental ou saldo técnico, nem ensaio residual, piloto, desenvolvimento lateral ou gesto exploratório.\n- A colocação do presente ensaio só existe como registo de teste sob vigilância metodológica, integrado na pasta-histórico e não como produção expositiva.\n\n### 3.2. Travões e bloqueios\n\n- Travão do prólogo: nenhuma emergência de sistema, critério, metanarrativa, linguagem, mediação, representação, consciência, normatividade, operador hermenêutico, regime temático ou exposição filosófica local pode ser acolhida.\n- Travão da grelha e espinha: bloqueada qualquer conversão em segmento estrutural, capítulo, narrativa, percurso, tema ou formalização.\n- Travão CF17/CF18: apenas são travões disciplinares, não centros; proibida qualquer recondução à função positiva.\n\n### 3.3. Ensaio negativo — operação permitida\n\n- O atual ensaio é apenas um registo negativo: confirma a impossibilidade de abertura ou desenvolvimento, não produzindo conteúdo expositivo de espécie alguma.\n- Documento só formaliza, para registo de auditoria e controlo, a eficácia dos travões existentes.\n\n---\n\n## 4. Interrupção antes de Mudança de Regime\n\n- Não há suporte para transitar a ensaio analítico, pergunta, bloco, capítulo ou tentativa de exposição.\n- O teste termina ao constatar, recorrendo a todas as camadas de autoridade metodológica, que não existe qualquer abertura positiva admissível.\n- Não há margem a reinterpretação dos limites, nem a iniciativa de ensaio lateral, extensão experimental, ou reabertura de faixa à revelia dos travões globais e locais.\n\n---\n\n## 5. Resumo de Resultado\n\n- O uso máximo atualmente suportado pelo estado da pasta, decisões vigentes e regime disciplinar é o reconhecimento expositivo negativo da vigência total do bloqueio.\n- Não há centro próprio instalável, nem objeto, nem campo, nem ensaio, nem exposição.\n- O presente ficheiro cumpre apenas função de rastreio, controlando e auditando a obediência à disciplina formal da faixa.\n\n---\n\n## 6. Fórmula Curta\n\nA faixa CF07_POST_BLOQUEIO mantém-se sob bloqueio negativo absoluto:  \n> Nenhum ensaio positivo, expositor, exploratório ou residual está autorizado. O único ensaio possível é o reconhecimento controlado do bloqueio, sem qualquer produção temática, analítica, estrutural, conceptual ou narrativa.\n\nFim do ensaio controlado v1.  \n(Interrompido antes de qualquer mudança de regime ou abertura indevida.)\n```"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "presence_penalty": 0.0,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "prompt_cache_retention": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 11830,
+    "input_tokens_details": {
+      "cached_tokens": 11136
+    },
+    "output_tokens": 882,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 12712
+  },
+  "user": null,
+  "metadata": {},
+  "_runtime_http": {
+    "attempt": 1,
+    "http_retries_configured": 6
+  }
+}
