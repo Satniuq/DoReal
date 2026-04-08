@@ -1,0 +1,13 @@
+Resolve o estado atual da descida expositiva controlada.
+
+Objetivo:
+- identificar a faixa ativa;
+- identificar o ficheiro ativo de cada faixa;
+- determinar o próximo artefacto legítimo;
+- atualizar o estado do pipeline sem redecidir filosofia.
+
+Regras:
+- se existir consolidado, ele manda;
+- se não existir consolidado, manda a última decisão válida e, subsidiariamente, a abertura;
+- ensaios não comandam o estado;
+- nenhuma faixa se prolonga por inércia.

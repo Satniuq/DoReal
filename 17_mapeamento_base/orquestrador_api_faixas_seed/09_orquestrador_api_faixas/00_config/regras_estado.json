@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "states": [
+    "NAO_INICIADA",
+    "TRANSICAO_DECIDIDA",
+    "ABERTURA_GERADA",
+    "ABERTA_PUBLICADA",
+    "ENSAIO_GERADO",
+    "LIMITE_FIXADO",
+    "CONSOLIDADA",
+    "NEGATIVA_FECHADA",
+    "TRANSICAO_SEGUINTE_DECIDIDA",
+    "BLOQUEADA"
+  ],
+  "transitions": [
+    [
+      "NAO_INICIADA",
+      "TRANSICAO_DECIDIDA"
+    ],
+    [
+      "TRANSICAO_DECIDIDA",
+      "ABERTURA_GERADA"
+    ],
+    [
+      "ABERTURA_GERADA",
+      "ABERTA_PUBLICADA"
+    ],
+    [
+      "ABERTA_PUBLICADA",
+      "ENSAIO_GERADO"
+    ],
+    [
+      "ABERTA_PUBLICADA",
+      "LIMITE_FIXADO"
+    ],
+    [
+      "ENSAIO_GERADO",
+      "LIMITE_FIXADO"
+    ],
+    [
+      "LIMITE_FIXADO",
+      "CONSOLIDADA"
+    ],
+    [
+      "LIMITE_FIXADO",
+      "NEGATIVA_FECHADA"
+    ],
+    [
+      "CONSOLIDADA",
+      "TRANSICAO_SEGUINTE_DECIDIDA"
+    ],
+    [
+      "NEGATIVA_FECHADA",
+      "TRANSICAO_SEGUINTE_DECIDIDA"
+    ]
+  ],
+  "prohibited_transitions": [
+    [
+      "ENSAIO_GERADO",
+      "ENSAIO_GERADO"
+    ],
+    [
+      "ABERTA_PUBLICADA",
+      "CONSOLIDADA"
+    ],
+    [
+      "CONSOLIDADA",
+      "ENSAIO_GERADO"
+    ],
+    [
+      "NEGATIVA_FECHADA",
+      "CONSOLIDADA"
+    ]
+  ],
+  "state_resolution_rules": {
+    "active_file_priority": [
+      "consolidado",
+      "ultima_decisao_valida",
+      "abertura"
+    ],
+    "ensaios_do_not_command_state": true,
+    "no_inertia_extension": true
+  }
+}

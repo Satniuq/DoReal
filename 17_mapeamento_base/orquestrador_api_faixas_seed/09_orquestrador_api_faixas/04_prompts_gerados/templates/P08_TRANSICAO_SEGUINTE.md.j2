@@ -1,0 +1,27 @@
+Quero que produzas agora a decisão de transição para a próxima faixa expositiva controlada, para gerar o ficheiro `{{ output_filename }}`.
+
+Meta-norma obrigatória:
+- usa `{{ current_active_file_filename }}` como ficheiro ativo atual da faixa;
+- usa `{{ merged_descida_filename }}` como estado agregado da descida;
+- usa `{{ merged_transicoes_filename }}` como histórico agregado das transições;
+- usa `{{ readme_final_filename }}` e `{{ guiao_faixas_filename }}` como enquadramento superior;
+- não prolongues a faixa atual por inércia;
+- não reabras automaticamente a última faixa consolidada.
+
+Objetivo exato:
+- preservar o ganho da faixa atual;
+- identificar a próxima faixa mais legítima;
+- indicar o próximo ficheiro a abrir;
+- fixar a cadência curta da faixa seguinte.
+
+Estrutura obrigatória:
+I. Estatuto da decisão
+II. Estado da faixa atual
+III. Hipóteses candidatas
+IV. Decisão final
+V. Próximo ficheiro a gerar
+
+Condições negativas:
+- não transformar a transição em abertura;
+- não converter proximidade temática em legitimidade automática;
+- não incluir citações no ficheiro final.
