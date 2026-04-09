@@ -1,94 +1,94 @@
-```markdown
+﻿```markdown
 # 09_para_10_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA
 
-## I. Estatuto da decisão de transição
+## I. Estatuto da decisÃ£o de transiÃ§Ã£o
 
-**Função:**  
-Deliberar rigorosamente sobre a transição após a consolidação com travão negativo pleno da faixa expositiva controlada `CF07_DESENVOLVIMENTO`, segundo a meta-norma, a cadência canónica, e o veredito consolidado da faixa imediatamente anterior.  
-Esta decisão:
-- Compara o estado efetivamente ganho com a próxima zona legítima do percurso expositivo;
-- Fixa, sem a abrir, qual o próximo ficheiro e a pasta de destino para a eventual faixa seguinte;
-- Garante estritamente que não ocorre reabertura tácita, prolongamento narrativo ou transformação deste juízo em capítulo ou comentário;
-- Preserva a hierarquia metodológica e disciplina as possibilidades futuras sob controlo máximo.
+**FunÃ§Ã£o:**  
+Deliberar rigorosamente sobre a transiÃ§Ã£o apÃ³s a consolidaÃ§Ã£o com travÃ£o negativo pleno da faixa expositiva controlada `CF07_DESENVOLVIMENTO`, segundo a meta-norma, a cadÃªncia canÃ³nica, e o veredito consolidado da faixa imediatamente anterior.  
+Esta decisÃ£o:
+- Compara o estado efetivamente ganho com a prÃ³xima zona legÃ­tima do percurso expositivo;
+- Fixa, sem a abrir, qual o prÃ³ximo ficheiro e a pasta de destino para a eventual faixa seguinte;
+- Garante estritamente que nÃ£o ocorre reabertura tÃ¡cita, prolongamento narrativo ou transformaÃ§Ã£o deste juÃ­zo em capÃ­tulo ou comentÃ¡rio;
+- Preserva a hierarquia metodolÃ³gica e disciplina as possibilidades futuras sob controlo mÃ¡ximo.
 
 ---
 
 ## II. Estado consolidado, limite e ganho da faixa atual
 
-- A faixa `CF07_DESENVOLVIMENTO` foi **integralmente consolidada sob regime de travão negativo pleno**:
-  - O único ganho é o reconhecimento formal do espaço metodológico aberto pelos travões ativos de `CF07_INICIO`, sem qualquer avanço positivo, densificação conceptual, narrativa ou desenvolvimento;
-  - Todos os travões, limites e bloqueios permanecem integralmente ativos;
-  - Está **rigorosamente travado qualquer avanço expositivo, densificação, autonomização de conceito, regime, capítulo ou narrative drift**;
-  - A condição mínima de reabertura exige decisão expressa, fundamentada, situada no interior do atual regime de disciplina negativa.
+- A faixa `CF07_DESENVOLVIMENTO` foi **integralmente consolidada sob regime de travÃ£o negativo pleno**:
+  - O Ãºnico ganho Ã© o reconhecimento formal do espaÃ§o metodolÃ³gico aberto pelos travÃµes ativos de `CF07_INICIO`, sem qualquer avanÃ§o positivo, densificaÃ§Ã£o conceptual, narrativa ou desenvolvimento;
+  - Todos os travÃµes, limites e bloqueios permanecem integralmente ativos;
+  - EstÃ¡ **rigorosamente travado qualquer avanÃ§o expositivo, densificaÃ§Ã£o, autonomizaÃ§Ã£o de conceito, regime, capÃ­tulo ou narrative drift**;
+  - A condiÃ§Ã£o mÃ­nima de reabertura exige decisÃ£o expressa, fundamentada, situada no interior do atual regime de disciplina negativa.
 
-- **Estado metodológico efetivamente ganho:**  
-  - Consolidação disciplinada do reconhecimento negativo do solo de CF07;
+- **Estado metodolÃ³gico efetivamente ganho:**  
+  - ConsolidaÃ§Ã£o disciplinada do reconhecimento negativo do solo de CF07;
   - Travagem absoluta de qualquer movimento narrativo, conceptual ou estrutural;
-  - Nenhum regime positivo ou tematização é permitido, salvo decisão futura e específica de reabertura.
+  - Nenhum regime positivo ou tematizaÃ§Ã£o Ã© permitido, salvo decisÃ£o futura e especÃ­fica de reabertura.
 
 ---
 
-## III. Comparação com a próxima zona legítima
+## III. ComparaÃ§Ã£o com a prÃ³xima zona legÃ­tima
 
-- O **ganho consolidado** é negativo–disciplinar: não há saldo positivo ou autorização para qualquer densificação, regime conceptual, explicativo, narrativo ou de estrutura;
-- O **limite local** proíbe de modo expresso toda e qualquer autonomização de regime, tema, conceito ou capítulo — mesmo parcial ou experimental;
-- Só pode ser considerada passagem para zona nova se e só se houver deliberação fundamentada:
-  - Seja para reabrir, sob estrita disciplina, o próprio campo de CF07 à luz de algum fundamento metodológico novo,  
-  - Seja para propor, se justificável, a entrada no campo imediatamente seguinte da espinha macroestrutural, após formal reconhecimento e aceitação da vedação total presente.
+- O **ganho consolidado** Ã© negativoâ€“disciplinar: nÃ£o hÃ¡ saldo positivo ou autorizaÃ§Ã£o para qualquer densificaÃ§Ã£o, regime conceptual, explicativo, narrativo ou de estrutura;
+- O **limite local** proÃ­be de modo expresso toda e qualquer autonomizaÃ§Ã£o de regime, tema, conceito ou capÃ­tulo â€” mesmo parcial ou experimental;
+- SÃ³ pode ser considerada passagem para zona nova se e sÃ³ se houver deliberaÃ§Ã£o fundamentada:
+  - Seja para reabrir, sob estrita disciplina, o prÃ³prio campo de CF07 Ã  luz de algum fundamento metodolÃ³gico novo,  
+  - Seja para propor, se justificÃ¡vel, a entrada no campo imediatamente seguinte da espinha macroestrutural, apÃ³s formal reconhecimento e aceitaÃ§Ã£o da vedaÃ§Ã£o total presente.
 
-- O **debate metodológico** centra-se em:  
-  a) Preservar, sem qualquer avanço e até nova decisão fundamentada, todo o bloqueio consolidado;  
-  b) Remeter desde já, sob disciplina e completo controlo, para eventual preparação rigorosa de uma faixa subsequente — jamais por inércia, impulso estrutural, saldo temático ou automatismo narrativo.
+- O **debate metodolÃ³gico** centra-se em:  
+  a) Preservar, sem qualquer avanÃ§o e atÃ© nova decisÃ£o fundamentada, todo o bloqueio consolidado;  
+  b) Remeter desde jÃ¡, sob disciplina e completo controlo, para eventual preparaÃ§Ã£o rigorosa de uma faixa subsequente â€” jamais por inÃ©rcia, impulso estrutural, saldo temÃ¡tico ou automatismo narrativo.
 
 ---
 
-## IV. Próxima faixa mais legítima
+## IV. PrÃ³xima faixa mais legÃ­tima
 
-- **Na ausência de proposta justificada de reabertura de CF07,** e mantendo-se todos os travões ativos e a obrigação de bloqueio presente:
-  - A **zona subsequente** mais legítima será apenas a eventual preparação para abertura controlada de faixa seguinte, situada depois do limite total de CF07;
-  - Qualquer faixa futura só poderá ser aberta mediante:
-    - Proposta específica e disciplinada, fundamentada em necessidade real extraída da base fragmentária ou macroestrutural;
-    - Reafirmação plena de todos os travões e limites do bloco anterior;
-    - Definição explícita do solo real mínimo do novo passo, incluindo centro próprio, restrições e fronteiras negativas;
-    - Garantia absoluta contra qualquer prolongamento narrativo, densificação explicativa ou subida ilegítima de regime a partir do solo agora travado.
+- **Na ausÃªncia de proposta justificada de reabertura de CF07,** e mantendo-se todos os travÃµes ativos e a obrigaÃ§Ã£o de bloqueio presente:
+  - A **zona subsequente** mais legÃ­tima serÃ¡ apenas a eventual preparaÃ§Ã£o para abertura controlada de faixa seguinte, situada depois do limite total de CF07;
+  - Qualquer faixa futura sÃ³ poderÃ¡ ser aberta mediante:
+    - Proposta especÃ­fica e disciplinada, fundamentada em necessidade real extraÃ­da da base fragmentÃ¡ria ou macroestrutural;
+    - ReafirmaÃ§Ã£o plena de todos os travÃµes e limites do bloco anterior;
+    - DefiniÃ§Ã£o explÃ­cita do solo real mÃ­nimo do novo passo, incluindo centro prÃ³prio, restriÃ§Ãµes e fronteiras negativas;
+    - Garantia absoluta contra qualquer prolongamento narrativo, densificaÃ§Ã£o explicativa ou subida ilegÃ­tima de regime a partir do solo agora travado.
 
-- **Conclusão disciplinada:**  
-  - O estado consolidado só admite como legítima a preparação para a abertura ultra-controlada de faixa seguinte — sem autorização de entrada narrativa, conceptual, estruturante ou de qualquer outro regime, salvo deliberação futura e fundamentada.
-  - Fica bloqueada qualquer continuidade não deliberada do atual domínio.
+- **ConclusÃ£o disciplinada:**  
+  - O estado consolidado sÃ³ admite como legÃ­tima a preparaÃ§Ã£o para a abertura ultra-controlada de faixa seguinte â€” sem autorizaÃ§Ã£o de entrada narrativa, conceptual, estruturante ou de qualquer outro regime, salvo deliberaÃ§Ã£o futura e fundamentada.
+  - Fica bloqueada qualquer continuidade nÃ£o deliberada do atual domÃ­nio.
 
 ---
 
 ## V. Ficheiro e pasta de destino
 
-- **Nome do próximo ficheiro de abertura:**  
+- **Nome do prÃ³ximo ficheiro de abertura:**  
   `ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md`
 - **Pasta de destino prevista:**  
-  `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\08_descida_expositiva_controlada\10_faixa_cf08_entrada\00_abertura`
+  `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\08_descida_expositiva_controlada\10_faixa_cf08_entrada\00_abertura`
 
 ---
 
-## VI. Instrução explícita para o próximo passo
+## VI. InstruÃ§Ã£o explÃ­cita para o prÃ³ximo passo
 
 - **Preservar integralmente o limite consolidado em `CF07_DESENVOLVIMENTO`**:
-  - Não é autorizada a abertura de ensaios, narrativas, núcleos temáticos, regime conceitual ou qualquer desenvolvimento, enquanto não houver decisão metodológica, fundamentada e explícita, de reabertura;
-  - Se — e só se — vier a ser proposta uma necessidade real fundamentada de avanço, a abertura da faixa seguinte deve:
-    - Recapitular e afirmar todos os travões ativos herdados;
-    - Fixar rigorosamente o solo real mínimo autorizado da nova faixa;
-    - Explicitar o centro próprio sem autonomização descontrolada;
+  - NÃ£o Ã© autorizada a abertura de ensaios, narrativas, nÃºcleos temÃ¡ticos, regime conceitual ou qualquer desenvolvimento, enquanto nÃ£o houver decisÃ£o metodolÃ³gica, fundamentada e explÃ­cita, de reabertura;
+  - Se â€” e sÃ³ se â€” vier a ser proposta uma necessidade real fundamentada de avanÃ§o, a abertura da faixa seguinte deve:
+    - Recapitular e afirmar todos os travÃµes ativos herdados;
+    - Fixar rigorosamente o solo real mÃ­nimo autorizado da nova faixa;
+    - Explicitar o centro prÃ³prio sem autonomizaÃ§Ã£o descontrolada;
     - Identificar falsos centros e fronteiras negativas;
-    - Vigiar qualquer tendência ilegítima de densificação, capítulo ou narrativa.
+    - Vigiar qualquer tendÃªncia ilegÃ­tima de densificaÃ§Ã£o, capÃ­tulo ou narrativa.
 
 ---
 
 ## VII. Veredito operativo
 
 - **Estado ganho:**  
-  Travão disciplinado preservado e consolidado em `CF07_DESENVOLVIMENTO`, com interdição total de desenvolvimento, densificação ou avanço, exceto sob decisão própria e justificável.
-- **Continuidade inercial da faixa está formalmente interditada.**
-- **Preparação para faixa seguinte:**  
-  Só se legitima com decisão nova, fundamentada, disciplinar e sob vigilância de todos os travões.
-- **Próxima ação eficaz:**  
-  - criar `ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md` na pasta acima indicada, mas apenas sob nova decisão rigorosa e justificada.
+  TravÃ£o disciplinado preservado e consolidado em `CF07_DESENVOLVIMENTO`, com interdiÃ§Ã£o total de desenvolvimento, densificaÃ§Ã£o ou avanÃ§o, exceto sob decisÃ£o prÃ³pria e justificÃ¡vel.
+- **Continuidade inercial da faixa estÃ¡ formalmente interditada.**
+- **PreparaÃ§Ã£o para faixa seguinte:**  
+  SÃ³ se legitima com decisÃ£o nova, fundamentada, disciplinar e sob vigilÃ¢ncia de todos os travÃµes.
+- **PrÃ³xima aÃ§Ã£o eficaz:**  
+  - criar `ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md` na pasta acima indicada, mas apenas sob nova decisÃ£o rigorosa e justificada.
 
 ---
 ```

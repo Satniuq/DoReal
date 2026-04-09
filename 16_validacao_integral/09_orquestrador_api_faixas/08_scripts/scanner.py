@@ -429,32 +429,61 @@ def parse_transition_next_target(transition_file: Path) -> dict[str, Any] | None
 
 
 def decision_requires_preserve_limit(decision_file: Path) -> bool:
-    text = read_text(decision_file).lower()
-    preserve_markers = [
-        'próximo passo prudente é preservar o limite',
-        'proximo passo prudente e preservar o limite',
-        'preservar o limite agora fixado',
-        'preservar o limite agora fixado e não prolongar a faixa',
-        'preservar o limite agora fixado e nao prolongar a faixa',
-        'não prolongar a faixa sem nova deliberação específica',
-        'nao prolongar a faixa sem nova deliberacao especifica',
-        'não há base para continuação automática',
-        'nao ha base para continuacao automatica',
+    """
+    Deteta decisões locais que mandam preservar o limite atual e bloquear
+    continuação automática, consolidação ou transição por defeito.
+    """
+    try:
+        text = decision_file.read_text(encoding="utf-8", errors="ignore")
+    except Exception:
+        return False
+
+    t = text.lower()
+    # Normalizações leves para reduzir falhas por variantes gráficas
+    t = t.replace("—", "-").replace("–", "-").replace("`", "")
+    t = " ".join(t.split())
+
+    preserve_patterns = [
+        # padrões já usados antes
+        "próximo passo prudente é preservar o limite",
+        "proximo passo prudente é preservar o limite",
+        "não há base para continuação automática",
+        "nao ha base para continuacao automatica",
+        "não fica decidido agora",
+        "nao fica decidido agora",
+        "nem transitar para",
+        "não transitar para",
+        "nao transitar para",
+
+        # padrões novos que apareceram em CF12
+        "preservar o limite agora fixado",
+        "preservar primeiro; só reensaiar por decisão explícita",
+        "preservar primeiro; so reensaiar por decisao explicita",
+        "não há autorização para continuação automática",
+        "nao ha autorizacao para continuacao automatica",
+        "não abrir novo ensaio automaticamente",
+        "nao abrir novo ensaio automaticamente",
+        "o próximo passo prudente não é prolongar a faixa por inércia",
+        "o proximo passo prudente nao e prolongar a faixa por inercia",
+        "manter cf12 no limite agora fixado",
+        "manter no limite agora fixado",
+        "só admitir novo ensaio por deliberação explícita",
+        "so admitir novo ensaio por deliberacao explicita",
+        "a faixa ainda não está consolidada",
+        "a faixa ainda nao esta consolidada",
+
+        # variantes prudenciais úteis
+        "não há base para consolidação",
+        "nao ha base para consolidacao",
+        "não há base para continuação automatica",
+        "nao ha base para continuacao automatica",
+        "não há autorização para transição automática",
+        "nao ha autorizacao para transicao automatica",
+        "não autoriza passagem para",
+        "nao autoriza passagem para",
     ]
-    anti_transition_markers = [
-        'nem transitar para',
-        'não transitar para',
-        'nao transitar para',
-        'não fica decidido agora',
-        'nao fica decidido agora',
-        'não há base para continuação automática',
-        'nao ha base para continuacao automatica',
-        'não autoriza continuação automática',
-        'nao autoriza continuacao automatica',
-    ]
-    has_preserve = any(m in text for m in preserve_markers)
-    has_anti_transition = any(m in text for m in anti_transition_markers)
-    return has_preserve and has_anti_transition
+
+    return any(p in t for p in preserve_patterns)
 
 def decision_suggests_consolidation(decision_file: Path) -> bool:
     text = read_text(decision_file).lower()
