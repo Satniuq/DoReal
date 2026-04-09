@@ -1,6 +1,6 @@
 # MERGED — 07_faixa_cf06_p37_sem_cf07
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `07_faixa_cf06_p37_sem_cf07`
 - Número da faixa: `07`
 - Ficheiro ativo atual: `07_faixa_cf06_p37_sem_cf07\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF06_P37_SEM_CF07.md`

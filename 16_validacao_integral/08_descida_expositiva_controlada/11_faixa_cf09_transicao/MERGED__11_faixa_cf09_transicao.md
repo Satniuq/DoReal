@@ -1,6 +1,6 @@
 # MERGED — 11_faixa_cf09_transicao
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `11_faixa_cf09_transicao`
 - Número da faixa: `11`
 - Ficheiro ativo atual: `11_faixa_cf09_transicao\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF09_TRANSICAO.md`

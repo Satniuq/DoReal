@@ -1219,6 +1219,9 @@ DoReal
 │   │   ├── CF01_CF16_grelha_transversal_base.md
 │   │   ├── CF01_CF16_mini_consolidacao_transversal.md
 │   │   └── prompts_extracao_transversal_cf01_a_cf16.txt
+│   ├── 07.01_analise_estado_projeto
+│   │   ├── ANALISE_ESTADO_ATUAL_DO_PROJETO_E_PASSOS_SEGUINTES.md
+│   │   └── DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   ├── 07_prologo
 │   │   ├── GRELHA_MINIMA_RECONHECIMENTO_FILOSOFICO_DISCIPLINADO_v2.md
 │   │   ├── PROLOGO_ONT_EPIST_MINIMO_SUBMISSAO_AO_REAL.md
@@ -1282,27 +1285,434 @@ DoReal
 │   │   ├── 06_faixa_cf06_p31_p34
 │   │   │   ├── 00_abertura
 │   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF06_P31_P34.md
-│   │   │   └── 01_ensaios
-│   │   │       └── ENSAIO_CONTROLADO_CF06_P31_P34_v1.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF06_P31_P34_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF06_P31_P34.md
+│   │   │   ├── 03_consolidado
+│   │   │   │   └── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF06_P31_P34.md
+│   │   │   └── MERGED__06_faixa_cf06_p31_p34.md
+│   │   ├── 07_faixa_cf06_p37_sem_cf07
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF06_P37_SEM_CF07.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF06_P37_SEM_CF07_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF06_P37_SEM_CF07.md
+│   │   │   └── MERGED__07_faixa_cf06_p37_sem_cf07.md
+│   │   ├── 08_faixa_cf07_inicio
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_INICIO.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF07_INICIO_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_INICIO.md
+│   │   │   └── MERGED__08_faixa_cf07_inicio.md
+│   │   ├── 09_faixa_cf07_desenvolvimento
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_DESENVOLVIMENTO.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF07_DESENVOLVIMENTO_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_DESENVOLVIMENTO.md
+│   │   │   ├── 03_consolidado
+│   │   │   │   └── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_DESENVOLVIMENTO.md
+│   │   │   └── MERGED__09_faixa_cf07_desenvolvimento.md
+│   │   ├── 10_faixa_cf08_entrada
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF08_ENTRADA_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF08_ENTRADA.md
+│   │   │   └── MERGED__10_faixa_cf08_entrada.md
+│   │   ├── 11_faixa_cf09_transicao
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF09_TRANSICAO.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF09_TRANSICAO_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF09_TRANSICAO.md
+│   │   │   └── MERGED__11_faixa_cf09_transicao.md
+│   │   ├── 12_faixa_cf10
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF10.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF10_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF10.md
+│   │   │   ├── 03_consolidado
+│   │   │   │   └── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF10.md
+│   │   │   └── MERGED__12_faixa_cf10.md
+│   │   ├── 13_faixa_cf11
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF11.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF11_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11.md
+│   │   │   └── MERGED__13_faixa_cf11.md
+│   │   ├── 14_faixa_cf12
+│   │   │   ├── 00_abertura
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12.md
+│   │   │   ├── 01_ensaios
+│   │   │   │   └── ENSAIO_CONTROLADO_CF12_v1.md
+│   │   │   ├── 02_decisoes_e_limites
+│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md
+│   │   │   └── MERGED__14_faixa_cf12.md
 │   │   ├── 90_transicao_para_proxima_fase
 │   │   │   ├── 01_para_02_DECISAO_SOBRE_PROXIMA_FAIXA_E_CADENCIA_DE_TRATAMENTO.md
 │   │   │   ├── 02_para_03_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   │   ├── 03_para_04_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   │   ├── 04_para_05_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   │   ├── 05_para_06_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 06_para_07_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 07_para_08_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 08_para_09_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 09_para_10_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 10_para_11_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 11_para_12_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 12_para_13_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 13_para_14_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   │   │   ├── 14_para_15_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   │   ├── merge_transicao_para_proxima_fase.py
-│   │   │   ├── MERGED__90_transicao_para_proxima_fase_01_02_03.md
-│   │   │   ├── MERGED__90_transicao_para_proxima_fase_01_02_03_04.md
-│   │   │   └── MERGED__90_transicao_para_proxima_fase_01_02_03_04_05.md
+│   │   │   └── MERGED__90_transicao_para_proxima_fase_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md
 │   │   ├── 14_README_FINAL_METODO_CONTINUIDADE_E_DESCIDA_EXPOSITIVA_CONTROLADA.md
 │   │   ├── GUIAO_OPERATIVO_FAIXAS_EXPOSITIVAS_CONTROLADAS.md
 │   │   ├── merge_faixas_expositivas_controladas_v2.py
-│   │   ├── MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04.md
-│   │   ├── MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04_05.md
+│   │   ├── MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04_05_06.md
+│   │   ├── MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md
 │   │   └── PROMPTS_ORIGEM_FAIXAS_01_02_DESCIDA_EXPOSITIVA_CONTROLADA.md
-│   ├── 09_analise_estado_projeto
-│   │   ├── ANALISE_ESTADO_ATUAL_DO_PROJETO_E_PASSOS_SEGUINTES.md
-│   │   └── DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
+│   ├── 09_orquestrador_api_faixas
+│   │   ├── 00_config
+│   │   │   └── settings_runtime.json
+│   │   ├── 03_estado_runtime
+│   │   │   ├── ultimo_context_pack.json
+│   │   │   └── ultimo_estado.json
+│   │   ├── 04_prompts_gerados
+│   │   │   ├── 07_para_08_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md.prompt.txt
+│   │   │   ├── 08_para_09_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md.prompt.txt
+│   │   │   ├── 09_para_10_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md.prompt.txt
+│   │   │   ├── 10_para_11_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md.prompt.txt
+│   │   │   ├── 11_para_12_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md.prompt.txt
+│   │   │   ├── 12_para_13_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF06_P37_SEM_CF07.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF06_P37_SEM_CF07.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_DESENVOLVIMENTO.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_DESENVOLVIMENTO.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_DESENVOLVIMENTO.md.retry2.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_INICIO.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_INICIO.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_INICIO.md.retry2.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_POS_DESENVOLVIMENTO.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_POS_DESENVOLVIMENTO.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_POS_POS_DESENVOLVIMENTO.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_POS_POS_DESENVOLVIMENTO.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_POST_BLOQUEIO.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF07_POST_BLOQUEIO.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF08_ENTRADA.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF09_TRANSICAO.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF09_TRANSICAO.md.retry1.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF09_TRANSICAO.md.retry2.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF10.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF11.md.prompt.txt
+│   │   │   ├── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12.md.prompt.txt
+│   │   │   ├── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_DESENVOLVIMENTO.md.prompt.txt
+│   │   │   ├── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_DESENVOLVIMENTO.md.retry1.prompt.txt
+│   │   │   ├── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_POST_BLOQUEIO.md.prompt.txt
+│   │   │   ├── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_POST_BLOQUEIO.md.retry1.prompt.txt
+│   │   │   ├── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF10.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF06_P37_SEM_CF07.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF06_P37_SEM_CF07.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_DESENVOLVIMENTO.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_DESENVOLVIMENTO.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_INICIO.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_INICIO.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_POS_DESENVOLVIMENTO.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_POS_DESENVOLVIMENTO.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_POS_POS_DESENVOLVIMENTO.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_POS_POS_DESENVOLVIMENTO.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_POST_BLOQUEIO.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_POST_BLOQUEIO.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF08_ENTRADA.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF08_ENTRADA.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF09_TRANSICAO.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF09_TRANSICAO.md.retry1.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF10.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11.md.prompt.txt
+│   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF06_P37_SEM_CF07_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF06_P37_SEM_CF07_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_DESENVOLVIMENTO_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_DESENVOLVIMENTO_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_DESENVOLVIMENTO_v1.md.retry2.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_INICIO_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_INICIO_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POS_DESENVOLVIMENTO_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POS_DESENVOLVIMENTO_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POS_POS_DESENVOLVIMENTO_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POS_POS_DESENVOLVIMENTO_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POS_POS_DESENVOLVIMENTO_v1.md.retry2.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POST_BLOQUEIO_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POST_BLOQUEIO_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF07_POST_BLOQUEIO_v1.md.retry2.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF08_ENTRADA_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF08_ENTRADA_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF08_ENTRADA_v1.md.retry2.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF09_TRANSICAO_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF09_TRANSICAO_v1.md.retry1.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF10_v1.md.prompt.txt
+│   │   │   ├── ENSAIO_CONTROLADO_CF11_v1.md.prompt.txt
+│   │   │   └── ENSAIO_CONTROLADO_CF12_v1.md.prompt.txt
+│   │   ├── 07_logs
+│   │   │   └── auditoria
+│   │   │       ├── resp_000323d50245ab830069d6c86ca72c819783e2ebfb8573b2a9.json
+│   │   │       ├── resp_000323d50245ab830069d6c86ca72c819783e2ebfb8573b2a9__validation.json
+│   │   │       ├── resp_003507d3788e7d8a0069d6819fca1c819789c1153b353e0f07.json
+│   │   │       ├── resp_003507d3788e7d8a0069d6819fca1c819789c1153b353e0f07__validation.json
+│   │   │       ├── resp_005493aa52f5a1b90069d67583c698819a8be665d108d9529e.json
+│   │   │       ├── resp_005493aa52f5a1b90069d67583c698819a8be665d108d9529e__validation.json
+│   │   │       ├── resp_00d4da161f6c8c600069d676833dd48193848be81369388eb7.json
+│   │   │       ├── resp_00d4da161f6c8c600069d676833dd48193848be81369388eb7__validation.json
+│   │   │       ├── resp_00f498e4947e55000069d677ce4d7c8198aa456d653f73ad1a.json
+│   │   │       ├── resp_00f498e4947e55000069d677ce4d7c8198aa456d653f73ad1a__validation.json
+│   │   │       ├── resp_010bd1ac30dd0cae0069d6826074a481948bdb9a309817b468.json
+│   │   │       ├── resp_010bd1ac30dd0cae0069d6826074a481948bdb9a309817b468__validation.json
+│   │   │       ├── resp_01119fefd11de3340069d65baf9ffc8196ac02a33229a5cfd5.json
+│   │   │       ├── resp_01119fefd11de3340069d65baf9ffc8196ac02a33229a5cfd5__validation.json
+│   │   │       ├── resp_01185cde4ea537550069d65b792a848199ad9441524c407830.json
+│   │   │       ├── resp_01185cde4ea537550069d65b792a848199ad9441524c407830__validation.json
+│   │   │       ├── resp_01745932789057d70069d6938e6dec819bb8fde6de7ba1f791.json
+│   │   │       ├── resp_01745932789057d70069d6938e6dec819bb8fde6de7ba1f791__validation.json
+│   │   │       ├── resp_0197fd0f4a9a14540069d6760de500819b84d657e89087aa53.json
+│   │   │       ├── resp_0197fd0f4a9a14540069d6760de500819b84d657e89087aa53__validation.json
+│   │   │       ├── resp_01c051dce017e3730069d683256d948197b196a22892dccd88.json
+│   │   │       ├── resp_01c051dce017e3730069d683256d948197b196a22892dccd88__validation.json
+│   │   │       ├── resp_01f406f5a26b90380069d68d0044dc819bbc04ff3a9117364c.json
+│   │   │       ├── resp_01f406f5a26b90380069d68d0044dc819bbc04ff3a9117364c__validation.json
+│   │   │       ├── resp_0234e8de3d5e610a0069d6813e1f748190a10c2cee9a6b8c8b.json
+│   │   │       ├── resp_0234e8de3d5e610a0069d6813e1f748190a10c2cee9a6b8c8b__validation.json
+│   │   │       ├── resp_02588853c5e455c60069d677fd17c481978a03280bce4d55ad.json
+│   │   │       ├── resp_02588853c5e455c60069d677fd17c481978a03280bce4d55ad__validation.json
+│   │   │       ├── resp_027d55a682b27e8a0069d680b6063c819094716227b3aed908.json
+│   │   │       ├── resp_027d55a682b27e8a0069d680b6063c819094716227b3aed908__validation.json
+│   │   │       ├── resp_02800da8d595130e0069d682de22748199864d4aee55736aab.json
+│   │   │       ├── resp_02800da8d595130e0069d682de22748199864d4aee55736aab__validation.json
+│   │   │       ├── resp_02bd58d83b460b6d0069d67904b4008193b4b2c5ddc55b4253.json
+│   │   │       ├── resp_02bd58d83b460b6d0069d67904b4008193b4b2c5ddc55b4253__validation.json
+│   │   │       ├── resp_02c10fb3163cf4260069d694b4f080819bb8cb5dbd2d2094aa.json
+│   │   │       ├── resp_02c10fb3163cf4260069d694b4f080819bb8cb5dbd2d2094aa__validation.json
+│   │   │       ├── resp_02cc4d3887b4ebf00069d68208a7a4819a81743ee95beee75e.json
+│   │   │       ├── resp_02cc4d3887b4ebf00069d68208a7a4819a81743ee95beee75e__validation.json
+│   │   │       ├── resp_02e4205d9f403d130069d681518430819084e95f0d5e0a331d.json
+│   │   │       ├── resp_02e4205d9f403d130069d681518430819084e95f0d5e0a331d__validation.json
+│   │   │       ├── resp_02ecb0a58ceb04650069d68100bc5c819a83bc9eb1defa7042.json
+│   │   │       ├── resp_02ecb0a58ceb04650069d68100bc5c819a83bc9eb1defa7042__validation.json
+│   │   │       ├── resp_0303052153659f7c0069d680e2b1188199bda673d1a6a15bb4.json
+│   │   │       ├── resp_0303052153659f7c0069d680e2b1188199bda673d1a6a15bb4__validation.json
+│   │   │       ├── resp_0380e178f24f35b80069d6771f42548190808c559df967a195.json
+│   │   │       ├── resp_0380e178f24f35b80069d6771f42548190808c559df967a195__validation.json
+│   │   │       ├── resp_038c9b4648eba6010069d682306410819baff024631596e407.json
+│   │   │       ├── resp_038c9b4648eba6010069d682306410819baff024631596e407__validation.json
+│   │   │       ├── resp_03b95a8c7d9187780069d68308ce6c8193b2ea7ae293649d5d.json
+│   │   │       ├── resp_03b95a8c7d9187780069d68308ce6c8193b2ea7ae293649d5d__validation.json
+│   │   │       ├── resp_03fb07b79480fb7e0069d695a318dc819b9fcef526a1efaeee.json
+│   │   │       ├── resp_03fb07b79480fb7e0069d695a318dc819b9fcef526a1efaeee__validation.json
+│   │   │       ├── resp_042d3dc90a9dde470069d675a5529c81999268e1904545ca6b.json
+│   │   │       ├── resp_042d3dc90a9dde470069d675a5529c81999268e1904545ca6b__validation.json
+│   │   │       ├── resp_043ae86abaf98b040069d682f389188199915749424999678b.json
+│   │   │       ├── resp_043ae86abaf98b040069d682f389188199915749424999678b__validation.json
+│   │   │       ├── resp_0473af1f568994df0069d6c43e35888197892e231689585a9f.json
+│   │   │       ├── resp_0473af1f568994df0069d6c43e35888197892e231689585a9f__validation.json
+│   │   │       ├── resp_0484c8daedf3b45c0069d681d51490819b8107827cc29817cf.json
+│   │   │       ├── resp_0484c8daedf3b45c0069d681d51490819b8107827cc29817cf__validation.json
+│   │   │       ├── resp_04a3093070490a3b0069d68ecba4a0819989355855f4b3d621.json
+│   │   │       ├── resp_04a3093070490a3b0069d68ecba4a0819989355855f4b3d621__validation.json
+│   │   │       ├── resp_04b00dd665bcb9a60069d683969a2481968acedaadf0cc7119.json
+│   │   │       ├── resp_04b00dd665bcb9a60069d683969a2481968acedaadf0cc7119__validation.json
+│   │   │       ├── resp_04bccace9aa94b610069d6821e0bd48198952e67661270a16e.json
+│   │   │       ├── resp_04bccace9aa94b610069d6821e0bd48198952e67661270a16e__validation.json
+│   │   │       ├── resp_04c5a9e9546557fe0069d680a1b508819ba27d205154b5f489.json
+│   │   │       ├── resp_04c5a9e9546557fe0069d680a1b508819ba27d205154b5f489__validation.json
+│   │   │       ├── resp_04fee5264636e6e00069d67815e12c819b9d336ceb6f2c4c50.json
+│   │   │       ├── resp_04fee5264636e6e00069d67815e12c819b9d336ceb6f2c4c50__validation.json
+│   │   │       ├── resp_051101346857c8d40069d68de9f480819a883be13f422f0a7e.json
+│   │   │       ├── resp_051101346857c8d40069d68de9f480819a883be13f422f0a7e__validation.json
+│   │   │       ├── resp_05213422e7494d470069d65cfaf5a08198a4df4c0928b37d89.json
+│   │   │       ├── resp_05213422e7494d470069d65cfaf5a08198a4df4c0928b37d89__validation.json
+│   │   │       ├── resp_0539f6f233e130120069d6950f8e088193ab2d9ed6d04bb9ab.json
+│   │   │       ├── resp_0539f6f233e130120069d6950f8e088193ab2d9ed6d04bb9ab__validation.json
+│   │   │       ├── resp_0570769c8dbbadae0069d678826880819bb29598859978b013.json
+│   │   │       ├── resp_0570769c8dbbadae0069d678826880819bb29598859978b013__validation.json
+│   │   │       ├── resp_05e1f8ea224b95dc0069d68401ffa8819b9ee8b5252694f80a.json
+│   │   │       ├── resp_05e1f8ea224b95dc0069d68401ffa8819b9ee8b5252694f80a__validation.json
+│   │   │       ├── resp_060c5f66de8365d10069d680d09cc48198bc636ebd27222464.json
+│   │   │       ├── resp_060c5f66de8365d10069d680d09cc48198bc636ebd27222464__validation.json
+│   │   │       ├── resp_069c84adcd5e0b260069d65cd604bc819992a5b4f7f5723cb1.json
+│   │   │       ├── resp_069c84adcd5e0b260069d65cd604bc819992a5b4f7f5723cb1__validation.json
+│   │   │       ├── resp_06aacb99b2a7f2ad0069d681134ea88199becef8b2b0f6bd5f.json
+│   │   │       ├── resp_06aacb99b2a7f2ad0069d681134ea88199becef8b2b0f6bd5f__validation.json
+│   │   │       ├── resp_06b5f66b63cfa11a0069d6783352f48199bdd9e1f897b7d79b.json
+│   │   │       ├── resp_06b5f66b63cfa11a0069d6783352f48199bdd9e1f897b7d79b__validation.json
+│   │   │       ├── resp_06ba8400e61fb6d80069d692b093848199a86029ed9e819507.json
+│   │   │       ├── resp_06ba8400e61fb6d80069d692b093848199a86029ed9e819507__validation.json
+│   │   │       ├── resp_06be1324411e0b850069d68d4b88548195a75dbed64ba236a8.json
+│   │   │       ├── resp_06be1324411e0b850069d68d4b88548195a75dbed64ba236a8__validation.json
+│   │   │       ├── resp_07056e69ce4ae4030069d67707eeb0819aa5a81f39bd17bf57.json
+│   │   │       ├── resp_07056e69ce4ae4030069d67707eeb0819aa5a81f39bd17bf57__validation.json
+│   │   │       ├── resp_07096364dbf5064c0069d6834da93481968d1d496699ea1361.json
+│   │   │       ├── resp_07096364dbf5064c0069d6834da93481968d1d496699ea1361__validation.json
+│   │   │       ├── resp_079ab5a3c3489b6f0069d6c8950ef081938dce993d04aae52c.json
+│   │   │       ├── resp_079ab5a3c3489b6f0069d6c8950ef081938dce993d04aae52c__validation.json
+│   │   │       ├── resp_079caa6de164686f0069d6791fc3a88198bba947e0d0a617fb.json
+│   │   │       ├── resp_079caa6de164686f0069d6791fc3a88198bba947e0d0a617fb__validation.json
+│   │   │       ├── resp_07c692bcb949977d0069d68e0ec24c8193a0506dc58c87118a.json
+│   │   │       ├── resp_07c692bcb949977d0069d68e0ec24c8193a0506dc58c87118a__validation.json
+│   │   │       ├── resp_07ef3baf32cec4280069d682c1179481998549cddf8214badb.json
+│   │   │       ├── resp_07ef3baf32cec4280069d682c1179481998549cddf8214badb__validation.json
+│   │   │       ├── resp_080b47ef7650dbb80069d678cd0544819888253a7813bf8e65.json
+│   │   │       ├── resp_080b47ef7650dbb80069d678cd0544819888253a7813bf8e65__validation.json
+│   │   │       ├── resp_085d2f32825198d80069d677b6c6548196a4ddf6a02e4ba41c.json
+│   │   │       ├── resp_085d2f32825198d80069d677b6c6548196a4ddf6a02e4ba41c__validation.json
+│   │   │       ├── resp_086167b4d7527c590069d676202dc88199957bfb446043baae.json
+│   │   │       ├── resp_086167b4d7527c590069d676202dc88199957bfb446043baae__validation.json
+│   │   │       ├── resp_086a8c56edcb570b0069d68167a9dc819990044c0b4eeeec4c.json
+│   │   │       ├── resp_086a8c56edcb570b0069d68167a9dc819990044c0b4eeeec4c__validation.json
+│   │   │       ├── resp_08767b6574c636b30069d68196bf1881999da7af43c53cdb27.json
+│   │   │       ├── resp_08767b6574c636b30069d68196bf1881999da7af43c53cdb27__validation.json
+│   │   │       ├── resp_08ae4d352535786f0069d68da55a88819380c45be9641ec170.json
+│   │   │       ├── resp_08ae4d352535786f0069d68da55a88819380c45be9641ec170__validation.json
+│   │   │       ├── resp_08ba98d8ac862acd0069d6828b88348198aaa6210d2e5a715f.json
+│   │   │       ├── resp_08ba98d8ac862acd0069d6828b88348198aaa6210d2e5a715f__validation.json
+│   │   │       ├── resp_08c7423b1e4dfafb0069d68d79037081959c728b14fca82e20.json
+│   │   │       ├── resp_08c7423b1e4dfafb0069d68d79037081959c728b14fca82e20__validation.json
+│   │   │       ├── resp_08cd04437b7ee6590069d68069b3b08190af5d314f42c33a79.json
+│   │   │       ├── resp_08cd04437b7ee6590069d68069b3b08190af5d314f42c33a79__validation.json
+│   │   │       ├── resp_08ea8a44c3747e0a0069d675fcf704819b8d398166f0c17e60.json
+│   │   │       ├── resp_08ea8a44c3747e0a0069d675fcf704819b8d398166f0c17e60__validation.json
+│   │   │       ├── resp_08ed9bb89324ab830069d676720124819990c90fbf695f9476.json
+│   │   │       ├── resp_08ed9bb89324ab830069d676720124819990c90fbf695f9476__validation.json
+│   │   │       ├── resp_08ef05bc0c82beb10069d6789ba55881998a527f770e900f8d.json
+│   │   │       ├── resp_08ef05bc0c82beb10069d6789ba55881998a527f770e900f8d__validation.json
+│   │   │       ├── resp_08efa3bb11c98b000069d6969a4e008194baecc024038a56a0.json
+│   │   │       ├── resp_08efa3bb11c98b000069d6969a4e008194baecc024038a56a0__validation.json
+│   │   │       ├── resp_0900232b63c9d0cd0069d676b9b40481999be69f65bdc2514e.json
+│   │   │       ├── resp_0900232b63c9d0cd0069d676b9b40481999be69f65bdc2514e__validation.json
+│   │   │       ├── resp_09278afe148dda820069d682476d1881958c1dab8862633289.json
+│   │   │       ├── resp_09278afe148dda820069d682476d1881958c1dab8862633289__validation.json
+│   │   │       ├── resp_096527a00c6214600069d683806d9c819b9c5eed98b082c88c.json
+│   │   │       ├── resp_096527a00c6214600069d683806d9c819b9c5eed98b082c88c__validation.json
+│   │   │       ├── resp_096ad8349a8959d90069d6763822f88198b685ffc5f1f8e699.json
+│   │   │       ├── resp_096ad8349a8959d90069d6763822f88198b685ffc5f1f8e699__validation.json
+│   │   │       ├── resp_098ccbab5f8944090069d6808efbb88199870a8f0b097de4f8.json
+│   │   │       ├── resp_098ccbab5f8944090069d6808efbb88199870a8f0b097de4f8__validation.json
+│   │   │       ├── resp_09b851b1c98075980069d65ce5b0908190a8220d8a75d8e703.json
+│   │   │       ├── resp_09b851b1c98075980069d65ce5b0908190a8220d8a75d8e703__validation.json
+│   │   │       ├── resp_09c1d7fcde9325750069d6801a8f2c819bad5d35d23fe28a42.json
+│   │   │       ├── resp_09c1d7fcde9325750069d6801a8f2c819bad5d35d23fe28a42__validation.json
+│   │   │       ├── resp_09ce4019d96bdef00069d6833b7e3c81998f274c2508c4a1da.json
+│   │   │       ├── resp_09ce4019d96bdef00069d6833b7e3c81998f274c2508c4a1da__validation.json
+│   │   │       ├── resp_09d7238f9b9258e50069d683d0d1ac8198b87272a8934a9cae.json
+│   │   │       ├── resp_09d7238f9b9258e50069d683d0d1ac8198b87272a8934a9cae__validation.json
+│   │   │       ├── resp_0a0fcffa9c524b320069d65b9864bc819a9bc5c3f17ea2e1cb.json
+│   │   │       ├── resp_0a0fcffa9c524b320069d65b9864bc819a9bc5c3f17ea2e1cb__validation.json
+│   │   │       ├── resp_0a5194434029fc340069d694396a288196851e248eec706b80.json
+│   │   │       ├── resp_0a5194434029fc340069d694396a288196851e248eec706b80__validation.json
+│   │   │       ├── resp_0a59975c40ed10ed0069d6776ccf2c81948575001955ee2d5e.json
+│   │   │       ├── resp_0a59975c40ed10ed0069d6776ccf2c81948575001955ee2d5e__validation.json
+│   │   │       ├── resp_0a70dd7aa1e6712d0069d675d01ed0819491edd86aa04c500d.json
+│   │   │       ├── resp_0a70dd7aa1e6712d0069d675d01ed0819491edd86aa04c500d__validation.json
+│   │   │       ├── resp_0a7a3bd54b93c87f0069d68e374f788193b5eb6d6395f1ae07.json
+│   │   │       ├── resp_0a7a3bd54b93c87f0069d68e374f788193b5eb6d6395f1ae07__validation.json
+│   │   │       ├── resp_0a8aaf7cc4369ce80069d682ad88488195bcbcc7a97cd82e0c.json
+│   │   │       ├── resp_0a8aaf7cc4369ce80069d682ad88488195bcbcc7a97cd82e0c__validation.json
+│   │   │       ├── resp_0a936108ae92ccb70069d68d8e193081908cc4f7a880b61ef3.json
+│   │   │       ├── resp_0a936108ae92ccb70069d68d8e193081908cc4f7a880b61ef3__validation.json
+│   │   │       ├── resp_0a945e5172af53040069d680c18a088193bc64be7f0fc6be9d.json
+│   │   │       ├── resp_0a945e5172af53040069d680c18a088193bc64be7f0fc6be9d__validation.json
+│   │   │       ├── resp_0a9782fc9635b4e40069d675b4147c8196b499c3e210324012.json
+│   │   │       ├── resp_0a9782fc9635b4e40069d675b4147c8196b499c3e210324012__validation.json
+│   │   │       ├── resp_0aed4072969ae62b0069d676a59de08196a12eed663af7c4d3.json
+│   │   │       ├── resp_0aed4072969ae62b0069d676a59de08196a12eed663af7c4d3__validation.json
+│   │   │       ├── resp_0b5a97cd9db6bea40069d683dda5d48199ae986ffa52abc61e.json
+│   │   │       ├── resp_0b5a97cd9db6bea40069d683dda5d48199ae986ffa52abc61e__validation.json
+│   │   │       ├── resp_0b86508079397f8e0069d68eb8182c819584c0c5cbc5b7920d.json
+│   │   │       ├── resp_0b86508079397f8e0069d68eb8182c819584c0c5cbc5b7920d__validation.json
+│   │   │       ├── resp_0b8c88e44e4d409d0069d6784d83ec81949233169ea5bbabca.json
+│   │   │       ├── resp_0b8c88e44e4d409d0069d6784d83ec81949233169ea5bbabca__validation.json
+│   │   │       ├── resp_0b9e188e70f0a1460069d682833df8819a97a2b5d8678bd51f.json
+│   │   │       ├── resp_0b9e188e70f0a1460069d682833df8819a97a2b5d8678bd51f__validation.json
+│   │   │       ├── resp_0ba05771bd12744e0069d676eb436c8190bceddf295a81d551.json
+│   │   │       ├── resp_0ba05771bd12744e0069d676eb436c8190bceddf295a81d551__validation.json
+│   │   │       ├── resp_0bb884a62da6087d0069d68e2388188193b7cb5bbb18c1f818.json
+│   │   │       ├── resp_0bb884a62da6087d0069d68e2388188193b7cb5bbb18c1f818__validation.json
+│   │   │       ├── resp_0be4a017ee8632b60069d677e431d0819a9160bd33332da8d8.json
+│   │   │       ├── resp_0be4a017ee8632b60069d677e431d0819a9160bd33332da8d8__validation.json
+│   │   │       ├── resp_0c2147091e8dff010069d681c49b60819aa467bc42cbad16d8.json
+│   │   │       ├── resp_0c2147091e8dff010069d681c49b60819aa467bc42cbad16d8__validation.json
+│   │   │       ├── resp_0c3542ab0e0fa3d80069d6836ebae881978f1ebde5fd72d171.json
+│   │   │       ├── resp_0c3542ab0e0fa3d80069d6836ebae881978f1ebde5fd72d171__validation.json
+│   │   │       ├── resp_0c4bccf14355d0d70069d65cc7bca48193af24f25e7cc54612.json
+│   │   │       ├── resp_0c4bccf14355d0d70069d65cc7bca48193af24f25e7cc54612__validation.json
+│   │   │       ├── resp_0c702317f120fa250069d68e4b56c0819a8b88c29ff24d255d.json
+│   │   │       ├── resp_0c702317f120fa250069d68e4b56c0819a8b88c29ff24d255d__validation.json
+│   │   │       ├── resp_0c962b41bfa6ecff0069d681ef0d5c819bba0588f4ac28ea76.json
+│   │   │       ├── resp_0c962b41bfa6ecff0069d681ef0d5c819bba0588f4ac28ea76__validation.json
+│   │   │       ├── resp_0ca789b542115b420069d694191ff4819489fb822e1d125b1f.json
+│   │   │       ├── resp_0ca789b542115b420069d694191ff4819489fb822e1d125b1f__validation.json
+│   │   │       ├── resp_0caf5ee020c368d10069d68d6a2150819ab222f7d010d49876.json
+│   │   │       ├── resp_0caf5ee020c368d10069d68d6a2150819ab222f7d010d49876__validation.json
+│   │   │       ├── resp_0cb407451116d5480069d6777e68d88197a7b6fac48ebd7d41.json
+│   │   │       ├── resp_0cb407451116d5480069d6777e68d88197a7b6fac48ebd7d41__validation.json
+│   │   │       ├── resp_0ce537734b55f6fd0069d678b7c9fc819b9488c6c5b965d4a1.json
+│   │   │       ├── resp_0ce537734b55f6fd0069d678b7c9fc819b9488c6c5b965d4a1__validation.json
+│   │   │       ├── resp_0d08087a54cac1020069d65d0f5de4819ab027b9c540fc2d16.json
+│   │   │       ├── resp_0d08087a54cac1020069d65d0f5de4819ab027b9c540fc2d16__validation.json
+│   │   │       ├── resp_0d2cf551934f99f40069d68d5d55408199a96d253c5138e418.json
+│   │   │       ├── resp_0d2cf551934f99f40069d68d5d55408199a96d253c5138e418__validation.json
+│   │   │       ├── resp_0d40ff0e382209c20069d68db96ff8819b85f31229d43dec54.json
+│   │   │       ├── resp_0d40ff0e382209c20069d68db96ff8819b85f31229d43dec54__validation.json
+│   │   │       ├── resp_0d4c4326d3b1c8150069d6967b12b4819685eb6709d2d25a1f.json
+│   │   │       ├── resp_0d4c4326d3b1c8150069d6967b12b4819685eb6709d2d25a1f__validation.json
+│   │   │       ├── resp_0d806fff5c6420080069d68d1c7eb4819abe5be352293fbd3f.json
+│   │   │       ├── resp_0d806fff5c6420080069d68d1c7eb4819abe5be352293fbd3f__validation.json
+│   │   │       ├── resp_0dd185dd16550ea60069d68175145c81998e974632b16451b4.json
+│   │   │       ├── resp_0dd185dd16550ea60069d68175145c81998e974632b16451b4__validation.json
+│   │   │       ├── resp_0ddd2947b9e9c4b40069d677915ab08199a99301b07aeef5e0.json
+│   │   │       ├── resp_0ddd2947b9e9c4b40069d677915ab08199a99301b07aeef5e0__validation.json
+│   │   │       ├── resp_0ddfdf136e7ebd060069d678e70c10819583455ee2279fdbc2.json
+│   │   │       ├── resp_0ddfdf136e7ebd060069d678e70c10819583455ee2279fdbc2__validation.json
+│   │   │       ├── resp_0dff4607300eb5cb0069d6779fd13081958f140ad9d5a747e7.json
+│   │   │       ├── resp_0dff4607300eb5cb0069d6779fd13081958f140ad9d5a747e7__validation.json
+│   │   │       ├── resp_0e57c2a2f9b232b10069d678693c00819bbbda422dd9d876eb.json
+│   │   │       ├── resp_0e57c2a2f9b232b10069d678693c00819bbbda422dd9d876eb__validation.json
+│   │   │       ├── resp_0e84bea02d850c670069d6769360008196ba73b5289a2decda.json
+│   │   │       ├── resp_0e84bea02d850c670069d6769360008196ba73b5289a2decda__validation.json
+│   │   │       ├── resp_0f17df90d43e77da0069d676dcca3c8190935c2385f252abd4.json
+│   │   │       ├── resp_0f17df90d43e77da0069d676dcca3c8190935c2385f252abd4__validation.json
+│   │   │       ├── resp_0f79fb6cd3f611dd0069d67729c04081998a7295c7079acfe7.json
+│   │   │       ├── resp_0f79fb6cd3f611dd0069d67729c04081998a7295c7079acfe7__validation.json
+│   │   │       ├── resp_0fe46fb55f1b81ee0069d68dd329248193a68a225af7c5bb8e.json
+│   │   │       ├── resp_0fe46fb55f1b81ee0069d68dd329248193a68a225af7c5bb8e__validation.json
+│   │   │       ├── resp_0ff340c8fe86cd940069d683b431fc81969f187052edb441a5.json
+│   │   │       └── resp_0ff340c8fe86cd940069d683b431fc81969f187052edb441a5__validation.json
+│   │   ├── 08_scripts
+│   │   │   ├── build_context.py
+│   │   │   ├── build_prompt.py
+│   │   │   ├── cli.py
+│   │   │   ├── common.py
+│   │   │   ├── openai_client.py
+│   │   │   ├── publisher.py
+│   │   │   ├── resolve_state.py
+│   │   │   ├── scanner.py
+│   │   │   ├── settings.py
+│   │   │   └── validator.py
+│   │   ├── APOIO.txt
+│   │   ├── ESTADO_FAIXAS.bat
+│   │   ├── python
+│   │   ├── README_EXECUCAO_PRTICA.txt
+│   │   └── RUN_AUTOMATICO_FAIXAS.bat
 │   ├── scripts
 │   │   ├── adjudicar_confrontos_filosoficos_v1.py
 │   │   ├── atribuir_regimes_de_validacao_v1.py
@@ -1333,38 +1743,35 @@ DoReal
 │   └── 13_README_CONTINUIDADE_PRE_EXPOSICAO_AMPLIADA.md
 ├── 17_mapeamento_base
 │   └── orquestrador_api_faixas_seed
-│       ├── 09_orquestrador_api_faixas
-│       │   ├── 00_config
-│       │   │   ├── manifesto_fontes.json
-│       │   │   ├── perfis_contexto.json
-│       │   │   ├── regras_estado.json
-│       │   │   ├── regras_publicacao.json
-│       │   │   ├── regras_validacao.json
-│       │   │   └── settings_runtime.json
-│       │   ├── 01_catalogos
-│       │   │   ├── catalogo_faixas.json
-│       │   │   └── catalogo_prompts.json
-│       │   ├── 03_estado_runtime
-│       │   │   ├── checkpoints.json
-│       │   │   ├── estado_pipeline.json
-│       │   │   ├── fila_execucao.json
-│       │   │   └── outputs_pendentes.json
-│       │   ├── 04_prompts_gerados
-│       │   │   └── templates
-│       │   │       ├── P00_AUDITAR_FONTES.md.j2
-│       │   │       ├── P02_RESOLVER_ESTADO_ATUAL.md.j2
-│       │   │       ├── P03_DESCOBRIR_PROXIMA_FAIXA.md.j2
-│       │   │       ├── P04_ABERTURA_FAIXA.md.j2
-│       │   │       ├── P05_ENSAIO_CONTROLADO.md.j2
-│       │   │       ├── P06_DECISAO_LIMITE.md.j2
-│       │   │       ├── P07_CONSOLIDACAO_FAIXA.md.j2
-│       │   │       ├── P08_TRANSICAO_SEGUINTE.md.j2
-│       │   │       ├── P09_VALIDACAO_FORMAL_OUTPUT.md.j2
-│       │   │       └── P11_CONTEXTO_CURTO_POR_TAREFA.md.j2
-│       │   └── README_COLOCACAO.txt
-│       ├── catalogo_prompts.json
-│       ├── estado_pipeline.json
-│       └── manifesto_fontes.json
+│       └── 09_orquestrador_api_faixas
+│           ├── 00_config
+│           │   ├── manifesto_fontes.json
+│           │   ├── perfis_contexto.json
+│           │   ├── regras_estado.json
+│           │   ├── regras_publicacao.json
+│           │   ├── regras_validacao.json
+│           │   └── settings_runtime.json
+│           ├── 01_catalogos
+│           │   ├── catalogo_faixas.json
+│           │   └── catalogo_prompts.json
+│           ├── 03_estado_runtime
+│           │   ├── checkpoints.json
+│           │   ├── estado_pipeline.json
+│           │   ├── fila_execucao.json
+│           │   └── outputs_pendentes.json
+│           ├── 04_prompts_gerados
+│           │   └── templates
+│           │       ├── P00_AUDITAR_FONTES.md.j2
+│           │       ├── P02_RESOLVER_ESTADO_ATUAL.md.j2
+│           │       ├── P03_DESCOBRIR_PROXIMA_FAIXA.md.j2
+│           │       ├── P04_ABERTURA_FAIXA.md.j2
+│           │       ├── P05_ENSAIO_CONTROLADO.md.j2
+│           │       ├── P06_DECISAO_LIMITE.md.j2
+│           │       ├── P07_CONSOLIDACAO_FAIXA.md.j2
+│           │       ├── P08_TRANSICAO_SEGUINTE.md.j2
+│           │       ├── P09_VALIDACAO_FORMAL_OUTPUT.md.j2
+│           │       └── P11_CONTEXTO_CURTO_POR_TAREFA.md.j2
+│           └── README_COLOCACAO.txt
 ├── .env
 ├── .gitignore
 ├── escrita_certas_partes.txt

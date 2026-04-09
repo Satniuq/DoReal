@@ -1,6 +1,6 @@
 # MERGED — 10_faixa_cf08_entrada
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `10_faixa_cf08_entrada`
 - Número da faixa: `10`
 - Ficheiro ativo atual: `10_faixa_cf08_entrada\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF08_ENTRADA.md`

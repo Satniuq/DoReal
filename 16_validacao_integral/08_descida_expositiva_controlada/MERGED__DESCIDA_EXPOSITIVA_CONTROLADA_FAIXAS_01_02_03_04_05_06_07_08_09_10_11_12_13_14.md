@@ -1,7 +1,7 @@
 # MERGED — descida expositiva controlada
 
-- Gerado em: `2026-04-08 23:40:58`
-- Pasta raiz: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\08_descida_expositiva_controlada`
+- Gerado em: `2026-04-09 18:12:48`
+- Pasta raiz: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\08_descida_expositiva_controlada`
 - Faixas presentes: `01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14`
 
 ## Índice das faixas
@@ -69,12 +69,12 @@
 ### 13_faixa_cf11
 - Número da faixa: `13`
 - Merged local: `13_faixa_cf11\MERGED__13_faixa_cf11.md`
-- Ficheiro ativo atual: `13_faixa_cf11\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11.md`
+- Ficheiro ativo atual: `13_faixa_cf11\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11.md`
 
 ### 14_faixa_cf12
 - Número da faixa: `14`
 - Merged local: `14_faixa_cf12\MERGED__14_faixa_cf12.md`
-- Ficheiro ativo atual: `14_faixa_cf12\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md`
+- Ficheiro ativo atual: `14_faixa_cf12\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md`
 
 ## Conteúdo agregado das faixas
 
@@ -82,7 +82,7 @@
 
 # MERGED — 01_faixa_abertura_bloco2_cf04_p25
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `01_faixa_abertura_bloco2_cf04_p25`
 - Número da faixa: `01`
 - Ficheiro ativo atual: `01_faixa_abertura_bloco2_cf04_p25\00_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_ABERTURA_BLOCO2_CF04_P25.md`
@@ -1041,7 +1041,7 @@ Se houver necessidade de testar mais, o passo seguinte não deve ser novo ensaio
 
 # MERGED — 02_faixa_cf05_p23_p25
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `02_faixa_cf05_p23_p25`
 - Número da faixa: `02`
 - Ficheiro ativo atual: `02_faixa_cf05_p23_p25\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_INICIAL_CF05_P25.md`
@@ -1816,7 +1816,7 @@ Qualquer eventual novo ensaio só deve ser aberto depois de decisão própria e 
 
 # MERGED — 03_faixa_cf05_p25_p26
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `03_faixa_cf05_p25_p26`
 - Número da faixa: `03`
 - Ficheiro ativo atual: `03_faixa_cf05_p25_p26\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_INICIAL_CF05_P25_P26.md`
@@ -2548,7 +2548,7 @@ O próximo passo recomendado é **consolidar a faixa `CF05: P25 → P26`** num �
 
 # MERGED — 04_faixa_cf05_p26_estrito_sem_cf06
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `04_faixa_cf05_p26_estrito_sem_cf06`
 - Número da faixa: `04`
 - Ficheiro ativo atual: `04_faixa_cf05_p26_estrito_sem_cf06\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF05_P26_ESTRITO_SEM_CF06.md`
@@ -3259,7 +3259,7 @@ Essa decisão deve fixar explicitamente que:
 
 # MERGED — 05_faixa_cf06_p27_p29
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `05_faixa_cf06_p27_p29`
 - Número da faixa: `05`
 - Ficheiro ativo atual: `05_faixa_cf06_p27_p29\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_INICIAL_CF06_P27_P29.md`
@@ -3984,7 +3984,7 @@ O próximo passo recomendado é a **consolidação da faixa `CF06: P27 → P29`*
 
 # MERGED — 06_faixa_cf06_p31_p34
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `06_faixa_cf06_p31_p34`
 - Número da faixa: `06`
 - Ficheiro ativo atual: `06_faixa_cf06_p31_p34\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_CF06_P31_P34.md`
@@ -4687,7 +4687,7 @@ O próximo passo recomendado é a **consolidação da faixa `CF06: P31 → P34`*
 
 # MERGED — 07_faixa_cf06_p37_sem_cf07
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `07_faixa_cf06_p37_sem_cf07`
 - Número da faixa: `07`
 - Ficheiro ativo atual: `07_faixa_cf06_p37_sem_cf07\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF06_P37_SEM_CF07.md`
@@ -5022,7 +5022,7 @@ O uso máximo atualmente suportado é:
 
 # MERGED — 08_faixa_cf07_inicio
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `08_faixa_cf07_inicio`
 - Número da faixa: `08`
 - Ficheiro ativo atual: `08_faixa_cf07_inicio\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_INICIO.md`
@@ -5316,7 +5316,7 @@ deve ser considerado erro metodológico grave e bloqueado de imediato.
 
 # MERGED — 09_faixa_cf07_desenvolvimento
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `09_faixa_cf07_desenvolvimento`
 - Número da faixa: `09`
 - Ficheiro ativo atual: `09_faixa_cf07_desenvolvimento\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_CF07_DESENVOLVIMENTO.md`
@@ -5528,7 +5528,7 @@ Esta decisão fixa, com estrita vinculação ao quadro metodológico e aos limit
 
 # MERGED — 10_faixa_cf08_entrada
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `10_faixa_cf08_entrada`
 - Número da faixa: `10`
 - Ficheiro ativo atual: `10_faixa_cf08_entrada\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF08_ENTRADA.md`
@@ -5763,7 +5763,7 @@ Não se decide nada sobre a totalidade da faixa, não se abre continuidade, nem 
 
 # MERGED — 11_faixa_cf09_transicao
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `11_faixa_cf09_transicao`
 - Número da faixa: `11`
 - Ficheiro ativo atual: `11_faixa_cf09_transicao\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF09_TRANSICAO.md`
@@ -6066,7 +6066,7 @@ O uso máximo atualmente suportado é: manter-se inteiramente sob bloqueio, abst
 
 # MERGED — 12_faixa_cf10
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `12_faixa_cf10`
 - Número da faixa: `12`
 - Ficheiro ativo atual: `12_faixa_cf10\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_CF10.md`
@@ -6571,15 +6571,16 @@ O próximo passo prudente é preservar o limite agora fixado, só admitindo even
 
 # MERGED — 13_faixa_cf11
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `13_faixa_cf11`
 - Número da faixa: `13`
-- Ficheiro ativo atual: `13_faixa_cf11\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11.md`
+- Ficheiro ativo atual: `13_faixa_cf11\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11.md`
 
 ## Índice interno
 
 - [ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF11](#abertura_faixa_expositiva_controlada_cf11) — `13_faixa_cf11\00_abertura\ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF11.md`
 - [DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11](#decisao_controlada_sobre_uso_maximo_inicial_cf11) — `13_faixa_cf11\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11.md`
+- [DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11](#decisao_disciplinada_sobre_redecisao_local_cf11) — `13_faixa_cf11\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11.md`
 - [ENSAIO_CONTROLADO_CF11_v1](#ensaio_controlado_cf11_v1) — `13_faixa_cf11\01_ensaios\ENSAIO_CONTROLADO_CF11_v1.md`
 
 ## Estatuto desta agregação
@@ -7112,6 +7113,260 @@ Fórmula curta do veredito:
 
 ---
 
+## DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11
+
+**Ficheiro de origem:** `13_faixa_cf11\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11.md`
+
+#### I. Estatuto da decisão
+
+##### função
+- fixar, de modo vinculante, a **redecisão local disciplinada** da faixa expositiva `CF11`, corrigindo a fórmula baixa ainda ativa sem reabrir o caso ao nível dossier;
+- substituir funcionalmente o limite local vigente de `CF11` no ponto em que ele ficou abaixo do centro real já autorizado;
+- preservar o que a decisão atual acertou no plano dos travões, da separação face a `CF10` e da proibição de continuação automática.
+
+##### limite
+- esta decisão **não reabre o dossier** de `CF11`;
+- **não reabre** `CF10`;
+- **não reabre** `CF12`;
+- **não consolida** ainda a faixa `CF11`;
+- **não antecipa** a decisão final de `CF12`;
+- **não transforma** a peça em ensaio, narrativa, capítulo ou comentário panorâmico.
+
+##### valor metodológico
+- vale como **correção local da camada de faixas**, e não como redecisão do nível dossier;
+- vale como **substituição funcional** da decisão baixa ainda ativa;
+- vale como travão contra dois desvios simultâneos:
+  - prolongar a pobreza da fórmula atual por inércia;
+  - corrigir essa pobreza por inflação indevida para política, instituição, história ou teoria moral autónoma.
+
+---
+
+#### II. Base local considerada
+
+##### abertura de `CF11`
+Foi considerada a abertura ativa de `CF11`, que acertou na separação formal face a `CF10`, mas fixou o centro da faixa num grau demasiado preliminar e anónimo.
+
+##### ensaio `CF11_v1`
+Foi considerado o primeiro ensaio local, que mostrou suporte real mínimo para `CF11`, mas só conseguiu formular esse suporte como **primeira consistência local própria** ainda não desenvolvida.
+
+##### decisão local anterior
+Foi considerada a decisão local atualmente ativa, que preservou corretamente:
+- a separação entre `CF10` e `CF11`;
+- a inexistência de autorização para continuação automática;
+- o valor do ensaio como teste positivo limitado e teste negativo controlado.
+
+Mas essa decisão deixou o ganho local nomeado abaixo do que as fontes de autoridade superior já autorizam.
+
+##### confronto com dossier / grelha / alinhamento
+Foi confrontado o estado da faixa com o que já ficou estabilizado em:
+- dossier fino de `CF11`;
+- complemento de fecho local;
+- ficha de gesto estrutural;
+- mapa mínimo de pré-exposição;
+- grelha transversal;
+- mini-consolidação;
+- alinhamento macro;
+- decisão disciplinada sobre o refaixamento da zona `CF11–CF12`.
+
+Deste confronto resulta um ponto vinculante: `CF11` não é apenas um limiar genérico de consistência. O seu corredor próprio já está suficientemente identificado como:
+- **`P46/P47`** = suporte normativo herdado e subordinado;
+- **`P49`** = abertura singular do caso;
+- **`P50`** = centro vivo forte;
+- **`P51`** = fecho prudencial terminal;
+- **`P48`** = travão terminal do possível real.
+
+##### fronteira com `CF10` e `CF12`
+- `CF10` permanece como faixa anterior já estabilizada sobre assimetria real, dano real, bem, mal e derivação normativa interna, sem dever reabrir.
+- `CF12` permanece apenas como fronteira seguinte ainda por reabrir disciplinadamente, e não como campo já autorizado de continuação automática.
+- A subfaixa `CF11–CF12` continua parcialmente aberta, mas essa abertura não autoriza que `CF11` fique mal nomeada ou filosoficamente rebaixada.
+
+---
+
+#### III. O que permanece válido da decisão atual
+
+##### o que se preserva
+Permanece válido, e não deve ser perdido, o seguinte:
+- a decisão atual percebeu corretamente que `CF11` já não é mera repetição de `CF10`;
+- percebeu corretamente que a faixa tem **centro próprio mínimo**;
+- preservou corretamente a separação formal entre faixa anterior e faixa nova;
+- preservou corretamente o ensaio como teste auditável e como marcador negativo do limite;
+- preservou corretamente a interdição de prolongamento automático da faixa.
+
+##### o que não deve ser perdido
+Não deve ser perdido:
+- o travão contra reabsorção de `CF11` por `CF10`;
+- o travão contra subida precoce a estrutura, função, mediação, sistema, linguagem, representação, consciência, critério ou normatividade autónoma;
+- o bloqueio de política, instituição, história e teoria moral autónoma;
+- o princípio de que a faixa continua **não consolidada** e não pode ser alargada por inércia.
+
+##### o que continua correto
+Continua correto afirmar que:
+- `CF11` ainda deve ser usada em regime **curto, hierarquizado e vigiado**;
+- `P50` não pode soar a dignidade formal pronta;
+- `P51` não pode entrar como modelo fechado de vida boa;
+- `P48` não pode reordenar cedo demais a cabeça do caso;
+- o próximo passo já não é continuação automática da série.
+
+---
+
+#### IV. Insuficiência da formulação atual
+
+##### por que razão a fórmula atual é baixa demais
+A fórmula ativa — **“primeira consistência local própria”** — é baixa demais porque diz apenas que algo começa a consistir, mas não diz **o que** começa a consistir nem **qual é a hierarquia interna** do ganho.
+
+Ela mantém a faixa num limiar quase anónimo e deixa por nomear:
+- a imputação ontológica própria de `P49`;
+- a dignidade como centro vivo forte em `P50`;
+- a vida boa apenas prudencial em `P51`;
+- o travão terminal de `P48`.
+
+##### o que ela apaga do centro real de `CF11`
+Ela apaga ou rebaixa:
+- a passagem de solo herdado para singularização própria;
+- a diferença entre responsabilidade situada e mera derivação normativa geral;
+- a função local da dignidade como limite forte;
+- a restrição decisiva segundo a qual a vida boa entra apenas a jusante e só prudencialmente.
+
+Em vez de dizer o problema próprio de `CF11`, a fórmula atual apenas nomeia um limiar genérico após `CF10`.
+
+##### que erro de altitude e de centro ela produz
+O erro de **altitude** é este:
+- para evitar inflação indevida, a decisão anterior baixou também o que já podia e devia ser dito no nível local médio do caso.
+
+O erro de **centro** é este:
+- substituiu o objeto filosófico real de `CF11` por uma fórmula descritiva demasiado genérica, incapaz de distinguir este caso da simples progressão anónima da faixa anterior.
+
+Formulação sintética da insuficiência:
+- a decisão atual acerta no **travão**, mas falha no **nome do ganho**.
+
+---
+
+#### V. Centro próprio correto de `CF11`
+
+##### formulação explícita do centro
+O centro próprio correto de `CF11` deve ficar explicitado assim:
+
+> **`CF11` abre, sobre suporte normativo herdado mas não soberano, pela imputação ontológica do ser reflexivo às atualizações que pode orientar; ganha o seu centro na dignidade como limite normativo forte do ser reflexivo situado e vulnerável; e só depois admite a vida boa como fecho prudencial, corrigível e terminal, sempre sob o travão do possível real.**
+
+##### estatuto de `P46/P47`
+- **`P46/P47`** ficam como **suporte normativo herdado e subordinado**;
+- sustentam o caso, mas **não o singularizam**;
+- não podem abrir soberanamente a faixa;
+- valem apenas como chão breve e necessário para que `P49` abra legitimamente.
+
+##### estatuto de `P49`
+- **`P49`** é a **abertura singular** de `CF11`;
+- fixa o ponto em que o caso se torna propriamente seu;
+- exprime a **imputação ontológica do ser reflexivo** pelas atualizações que pode orientar;
+- sem `P49`, `CF11` regressa a mera derivação normativa geral.
+
+##### estatuto de `P50`
+- **`P50`** é o **centro vivo forte** do caso;
+- exprime a dignidade como **limite normativo forte do ser reflexivo**;
+- não pode soar a dignidade formal pronta, valor atribuído de fora ou categoria político-institucional já estabilizada;
+- a sua função é tornar o caso mais estrito, não mais abstrato.
+
+##### estatuto de `P51`
+- **`P51`** entra apenas como **fecho prudencial terminal**;
+- não abre o caso;
+- não governa o caso;
+- não autoriza modelo fechado de vida boa;
+- vale apenas enquanto fecho corrigível, não-degenerativo e subordinado ao que já ficou fixado por `P49` e `P50`.
+
+##### estatuto de `P48`
+- **`P48`** entra apenas como **travão terminal do possível real**;
+- não pode reordenar a cabeça do caso;
+- não pode fechar cedo demais o confronto;
+- vale só como limite prudencial final do que pode efetivamente ser pedido ao agir do ser reflexivo.
+
+---
+
+#### VI. Uso máximo local agora admissível
+
+Fica decidido que o **uso máximo local agora admissível** de `CF11` é este:
+
+> **Em `CF11`, já é admissível dizer que, sobre suporte normativo herdado mas não soberano, o ser reflexivo responde pelas atualizações que pode orientar no campo em que existe; que dessa imputação se torna inteligível a dignidade como limite normativo forte do ser reflexivo situado e vulnerável; e que a vida boa só pode entrar aqui como fecho prudencial, corrigível e terminal, sempre sob o travão do possível real.**
+
+##### condições vinculantes desse uso máximo
+Esta formulação só passa se forem preservadas simultaneamente as condições seguintes:
+- `P46/P47` entram apenas como suporte e não como cabeça soberana;
+- `P49` abre singularmente o caso;
+- `P50` carrega o centro vivo forte;
+- `P51` entra apenas como fecho prudencial terminal;
+- `P48` entra apenas no terminal como travão;
+- o texto permanece curto, hierarquizado e não inflacionado.
+
+##### o que esta formulação já permite dizer
+Ela já permite dizer mais do que a decisão atual porque:
+- já nomeia o objeto próprio de `CF11`;
+- já fixa a hierarquia interna do caso;
+- já distingue solo herdado, abertura singular, centro vivo forte, fecho prudencial e travão terminal.
+
+##### o que esta formulação ainda não permite dizer
+Ela ainda não permite:
+- desenvolvimento interno rico de `P50` ou `P51`;
+- bloco autónomo de vida boa;
+- passagem a institucionalização, história, política ou cultura;
+- absorção por `CR01/CR04`;
+- continuação expositiva automática para `CF12`.
+
+---
+
+#### VII. O que continua fora
+
+Continua explicitamente fora de `CF11`:
+- política;
+- instituição;
+- história;
+- teoria moral autónoma;
+- dignidade formal pronta;
+- vida boa como modelo fechado;
+- fusão com `CF10`;
+- absorção por `CF12`;
+- abertura por erro, critério, verdade ou correção em abstrato;
+- uso soberano de `PN01`;
+- uso soberano de `CR01/CR04`;
+- qualquer continuação automática da série.
+
+Continua também fora qualquer formulação que:
+- trate `P50` como categoria já socialmente estabilizada;
+- trate `P51` como forma já resolvida do viver bem;
+- faça `P48` entrar antes do terminal;
+- use o novo centro de `CF11` como ponte automática para a coordenação intersubjetiva de `CF12`.
+
+---
+
+#### VIII. Próximo passo prudente
+
+##### regra explícita
+Fica explicitamente decidido que o próximo passo **já não é nova transição**.
+
+Também não é:
+- novo ensaio de `CF11` por inércia;
+- consolidação de `CF11`;
+- decisão final de `CF12`.
+
+##### próximo passo correto
+O próximo passo correto é:
+- **nova abertura de `CF12`**, agora reaberta a partir do limite local corrigido de `CF11`.
+
+##### nome exato do próximo ficheiro
+`ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12__REABERTA.md`
+
+##### pasta exata de destino
+`14_faixa_cf12/00_abertura/`
+
+##### justificação curta
+A correção necessária nesta zona não consiste em prolongar `CF11`, mas em impedir que `CF12` continue a abrir a partir de um limite local mal nomeado. Corrigido o centro ativo de `CF11`, o próximo ato prudente é **reabrir a abertura de `CF12`** sobre essa nova fronteira, e não reativar a progressão automática da série.
+
+---
+
+#### IX. Fórmula final curta
+
+> **`CF11` já não é só um primeiro limiar de consistência; é a imputação ontológica do ser reflexivo que abre dignidade forte e só fecha prudencialmente na vida boa, sob o travão do possível real.**
+
+---
+
 ## ENSAIO_CONTROLADO_CF11_v1
 
 **Ficheiro de origem:** `13_faixa_cf11\01_ensaios\ENSAIO_CONTROLADO_CF11_v1.md`
@@ -7302,16 +7557,16 @@ Consequentemente:
 
 # MERGED — 14_faixa_cf12
 
-- Gerado em: `2026-04-08 23:40:58`
+- Gerado em: `2026-04-09 18:12:48`
 - Pasta da faixa: `14_faixa_cf12`
 - Número da faixa: `14`
-- Ficheiro ativo atual: `14_faixa_cf12\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md`
+- Ficheiro ativo atual: `14_faixa_cf12\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md`
 
 ## Índice interno
 
-- [ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12](#abertura_faixa_expositiva_controlada_cf12) — `14_faixa_cf12\00_abertura\ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12.md`
-- [DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12](#decisao_controlada_sobre_uso_maximo_inicial_cf12) — `14_faixa_cf12\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md`
-- [ENSAIO_CONTROLADO_CF12_v1](#ensaio_controlado_cf12_v1) — `14_faixa_cf12\01_ensaios\ENSAIO_CONTROLADO_CF12_v1.md`
+- [ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12__REABERTA](#abertura_faixa_expositiva_controlada_cf12__reaberta) — `14_faixa_cf12\00_abertura\ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12__REABERTA.md`
+- [DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12](#decisao_disciplinada_sobre_uso_maximo_reaberto_cf12) — `14_faixa_cf12\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md`
+- [ENSAIO_CONTROLADO_CF12__REABERTO_v1](#ensaio_controlado_cf12__reaberto_v1) — `14_faixa_cf12\01_ensaios\ENSAIO_CONTROLADO_CF12__REABERTO_v1.md`
 
 ## Estatuto desta agregação
 
@@ -7319,691 +7574,963 @@ Consequentemente:
 - O ficheiro ativo da faixa continua a ser o consolidado, se existir; caso não exista, vale a última decisão válida.
 - Ensaios e histórico só entram quando a faixa ainda não está consolidada, ou se a configuração os mandar incluir.
 
-## ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12
+## ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12__REABERTA
 
-**Ficheiro de origem:** `14_faixa_cf12\00_abertura\ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12.md`
+**Ficheiro de origem:** `14_faixa_cf12\00_abertura\ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12__REABERTA.md`
 
-### I. Estatuto da abertura
+#### I. Estatuto da abertura
 
-Esta abertura fixa, sob hierarquia metodológica estrita, o início da faixa expositiva controlada `CF12` como **faixa nova e separada** do limite local atualmente preservado em `CF11`.
+##### função
+- reabrir disciplinadamente `CF12` como **faixa nova e separada** do limite corrigido de `CF11`;
+- substituir funcionalmente a abertura antiga demasiado baixa, sem a transformar em objeto central desta peça;
+- fixar, desde a primeira linha, o **solo real mínimo**, o **centro próprio**, o **falso centro dominante**, os **travões obrigatórios** e as **fronteiras negativas** da faixa;
+- deixar preparada apenas a condição local para um ensaio reaberto, sem o antecipar dentro da própria abertura.
 
-A sua função é exclusivamente:
-- marcar a transição formal para a faixa seguinte da série;
-- fixar o **solo real mínimo** admissível para `CF12`;
-- determinar o seu **centro próprio** em termos estritamente preliminares;
-- bloquear desde o início o **falso centro** mais provável;
-- instalar os **travões obrigatórios** e as **fronteiras negativas** da faixa.
+##### limite
+- esta abertura **não reabre o dossier** de `CF12`;
+- **não reabre** `CF11`;
+- **não reabre** `CF13`;
+- **não ensaia** a faixa;
+- **não desenvolve** ainda positivamente o centro do caso;
+- **não transforma** a peça em narrativa, capítulo, comentário panorâmico ou mini-ensaio filosófico solto;
+- **não abre** por instituição, história, política, sistema, linguagem, critério, consciência ou representação;
+- **não autoriza** qualquer passagem automática para faixa seguinte.
 
-Esta peça **não**:
-- ensaia a faixa;
-- não formula conteúdo positivo desenvolvido;
-- não produz narrativa;
-- não converte a abertura em consolidação;
-- não usa o ganho limitado de `CF11` como matéria de prolongamento interno.
-
-A legitimidade desta abertura depende de cinco condições cumulativas:
-1. preservação integral do limite ativo de `CF11`;
-2. separação explícita entre a primeira consistência local própria já admitida e a nova faixa;
-3. fixação de um solo novo ainda estrito, sem inflação de regime;
-4. bloqueio imediato de subidas indevidas de regime;
-5. interdição de qualquer ensaio dentro da própria abertura.
+##### condições de legitimidade
+A presente abertura só é legítima se forem preservadas simultaneamente as condições seguintes:
+1. **preservação integral** do limite corrigido de `CF11`;
+2. **separação explícita** entre responsabilidade/dignidade prudencial e coordenação prática intersubjetiva;
+3. abertura por **centro próprio do caso** e não por fórmula liminar genérica;
+4. manutenção de **`P41/P42/P43`** como chão herdado breve e não como cabeça soberana;
+5. manutenção de **`P49`** como dobradiça singular do caso;
+6. manutenção de **`P42/P43`** como corpo vivo próprio da faixa;
+7. manutenção de **`P41`** e **`P48`** apenas como travões;
+8. fecho da peça **sem ensaio, sem narrativa e sem desenvolvimento positivo**.
 
 ---
 
-### II. Separação obrigatória face à faixa anterior
+#### II. Separação obrigatória face à faixa anterior
 
-`CF11` permanece válida como **faixa limitada**, com uso máximo inicial já decidido e sem autorização de densificação interna.
+##### preservação integral de `CF11`
+`CF11` permanece integralmente preservada no limite corrigido já decidido:
+- suporte herdado em `P46/P47`;
+- abertura singular em `P49`;
+- centro vivo forte em `P50`;
+- `P51` apenas como fecho prudencial terminal;
+- `P48` apenas como travão terminal do possível real.
 
 Nada nesta abertura:
-- prolonga `CF11` por inércia;
-- densifica a primeira consistência local própria ali admitida;
-- converte essa consistência em estrutura positiva;
-- a usa como rampa automática;
-- nem a trata como desenvolvimento já em curso.
+- reduz `CF11` a limiar vazio;
+- corrige retroativamente o seu centro;
+- prolonga a sua decisão local por inércia;
+- ou usa `CF12` para reensaiar dignidade, vida boa ou imputação ontológica singular.
 
-A passagem para `CF12` só é admissível nesta forma:
-- `CF11` fica preservada exatamente no seu limite decidido;
-- `CF12` abre como **nova faixa local**, e não como ampliação automática da faixa anterior;
-- a nova faixa começa apenas onde já não se tenta dizer mais `CF11`, mas testar a zona subsequente sem reabsorver o ganho anterior.
+##### por que `CF12` não é glosa de `CF11`
+`CF12` não é glosa de `CF11` porque o problema local já não é apenas este:
+- por que responde o ser reflexivo pelas atualizações que pode orientar;
+- que limite forte recebe essa resposta;
+- e em que regime prudencial pode ainda falar-se de vida boa.
 
-Consequentemente:
-- o centro de `CF12` **não é** a mera repetição da primeira consistência local própria já admitida em `CF11`;
-- o objeto desta faixa **não é** desenvolver retroativamente o ganho estreito da faixa anterior;
-- a nova abertura só é legítima se não transformar `CF11` em prólogo positivo interno de `CF12`.
+O problema local passa a ser outro:
+- como a responsabilidade situada, quando já não cabe apenas no singular, começa a ganhar forma de **coordenação prática entre seres reflexivos** no mesmo real;
+- como essa coordenação exige **fixação operativa de expectativas, vetores de ação e condutas**;
+- e como isso ainda pode ser dito sem subir a instituição, história ou política.
+
+Há continuidade forte entre `CF11` e `CF12`, mas há também torção real suficiente para que `CF12` tenha de abrir como faixa própria.
+
+##### por que `CF12` não reabre `CF11`
+`CF12` não reabre `CF11` porque:
+- não volta a discutir o corredor `P46/P47 → P49 → P50`;
+- não transforma dignidade em tema positivo interno da nova faixa;
+- não faz da vida boa prudencial o verdadeiro centro do caso seguinte;
+- recebe `CF11` apenas como **fronteira corrigida**, e não como conteúdo a desenvolver por dentro.
+
+Regra de separação:
+- `CF11` fica preservada no seu centro próprio;
+- `CF12` só pode começar onde a responsabilidade situada já não basta como figura singular e tem de começar a tornar-se coexistência coordenada.
 
 ---
 
-### III. Solo real mínimo
+#### III. Solo real mínimo
 
-O solo real mínimo de `CF12` deve ser fixado do modo mais restrito compatível com uma abertura real de faixa nova após o limite preservado de `CF11`.
-
-Esse solo real mínimo é:
-
-- a admissão de que, **após o reconhecimento ainda estrito de uma primeira consistência local própria já limitado em `CF11`**, a faixa seguinte só pode abrir por um nível igualmente vigiado de **ulterior determinação local**, ainda não convertida em desenvolvimento interno, explicação ou forma alta;
-- esse solo não autoriza ainda:
-  - arquitetura expositiva desenvolvida,
-  - sequência narrativa,
-  - explicação de funcionamento,
-  - formalização estrutural,
-  - subida a mediação,
-  - nem reorganização macro da série;
-- o que se admite aqui não é ainda um desenvolvimento pleno da consistência já reconhecida, mas apenas a **possibilidade de testar uma determinação local subsequente ao limiar de `CF11`**, desde que não seja confundida com:
-  - continuação interna de `CF11`,
-  - instalação de uma forma já estruturada,
-  - ou salto para camada derivada.
+O solo real mínimo de `CF12` fica fixado assim:
+- **coexistência entre seres reflexivos de igual estatuto ontológico** no mesmo real;
+- impossibilidade de essa coexistência permanecer apenas como paralelismo de privados;
+- necessidade de uma **coordenação prática mínima** entre atualizações reciprocamente relevantes;
+- necessidade de alguma **fixação operativa de expectativas, vetores de ação e condutas**;
+- início da **regionalização da coexistência no real**;
+- tudo isto ainda **sem formas sociais fortes, sem instituição pronta e sem história como cabeça positiva**.
 
 Formulação disciplinada do solo real mínimo:
-- existe apenas autorização para reconhecer que `CF12`, se abrir legitimamente, terá de abrir por uma **determinação local subsequente** à primeira consistência local própria já admitida em `CF11`, mas ainda sem elevação a estrutura, função, sistema, linguagem, consciência, normatividade ou representação.
+- `CF12` abre no ponto em que a responsabilidade situada já não pode ficar encerrada no eixo singular de `CF11` e tem de começar a aparecer como necessidade mínima de coordenação prática entre reflexivos no mesmo real.
+
+Isto implica desde logo:
+- não abrir por teoria moral autónoma;
+- não abrir por teoria geral da intersubjetividade;
+- não abrir por campos sociais já formados;
+- não abrir por institucionalização;
+- não abrir por sistema, linguagem, critério, consciência ou representação.
+
+Corredor mínimo de chão:
+- **`P41/P42/P43`** permanecem como **chão herdado breve**;
+- mas esse chão só vale aqui para sustentar a nova abertura, não para a substituir.
 
 ---
 
-### IV. Centro próprio
+#### IV. Centro próprio
 
-O centro próprio de `CF12`, nesta abertura, fica fixado apenas no grau estritamente admissível para uma peça inaugural.
+O centro próprio de `CF12` deve ficar explicitado assim:
 
-Esse centro é:
+> **`CF12` abre pela regionalização intersubjetiva da coexistência no real: a responsabilidade situada do ser reflexivo, quando confrontada com outros reflexivos de igual estatuto ontológico, começa a ganhar forma de coordenação prática intersubjetiva, fixando expectativas, vetores de ação e condutas mínimas sem ainda subir a instituição, história, política, sistema ou teoria moral autónoma.**
 
-- a **determinação vigilante de um grau local subsequente ao limiar já atingido em `CF11`**, sem converter esse novo grau:
-  - em capítulo,
-  - em narrativa,
-  - em função estrutural,
-  - em mediação soberana,
-  - em princípio de organização,
-  - em explicação alta do bloco.
+##### função de `P49` nesta faixa
+Em `CF12`, **`P49` já não funciona como em `CF11`**.
 
-Isto implica:
+Em `CF11`, `P49` abria a imputação ontológica singular do reflexivo.
 
-- `CF12` não abre para repetir a simples consistência local própria já admitida em `CF11`;
-- `CF12` não abre para celebrar uma positividade já consistente em sentido forte;
-- `CF12` não abre para instalar um novo centro alto;
-- `CF12` abre apenas para delimitar o ponto em que uma determinação local ulterior pode começar a ser testada sem romper a submissão ao real.
+Aqui, `P49` funciona como **dobradiça de passagem**:
+- já não apenas imputação singular;
+- ainda não institucionalização;
+- mas ponto em que a responsabilidade situada se abre à **coexistência coordenada entre reflexivos**.
 
-Formulação curta do centro próprio:
-- **não a primeira consistência local própria já limitada em `CF11`, nem uma estrutura já formada, mas o grau local subsequente que só pode ser procurado depois de `CF11` e sem o converter em positividade inflacionada.**
+`P49` abre o caso, mas não o pode fazer como cabeça isolada e mecânica.
+
+##### corpo próprio de `CF12`
+O corpo próprio da faixa fica em **`P42/P43`**, agora requalificadas como:
+- **coordenação prática intersubjetiva**;
+- direção prática mínima da coexistência;
+- fixação operativa de expectativas, vetores de ação e condutas;
+- estabilizações mínimas sem as quais a vida comum entre reflexivos não se sustenta.
+
+Assim requalificadas, `P42/P43` deixam de valer como mera normatividade genérica herdada e passam a carregar o corpo vivo próprio do caso.
+
+##### estatuto de `P41`
+`P41` permanece:
+- **mínimo negativo objetivo**;
+- **travão de indiferenciação**;
+- disciplina local contra a neutralização dos cursos de ação e das formas de coexistência.
+
+`P41` **não abre** a faixa e **não co-governa** a cabeça positiva do caso.
+
+##### estatuto de `P48`
+`P48` permanece:
+- **travão terminal do possível real**;
+- limite prudencial do que pode efetivamente estabilizar-se;
+- restrição final sobre qualquer passagem ulterior para forma social ou instituição.
+
+`P48` **não abre** a faixa e **não deve entrar antes do terminal**.
+
+##### corredor mínimo corretivo da faixa
+Fica fixado, para esta abertura, o seguinte corredor mínimo corretivo:
+- **chão herdado breve `P41/P42/P43` → `P49` → `P42/P43` → `P41` → `P48` terminal**.
+
+Versão curta de trabalho, admissível apenas para ensaio ulterior:
+- **`P49 → P42/P43 → P41`**,
+- sempre com memória explícita de que `P41/P42/P43` permanecem chão herdado breve e de que `P48` só entra no terminal.
 
 ---
 
-### V. Falso centro a bloquear
+#### V. Falso centro a bloquear
 
-Desde a abertura, ficam bloqueados como falsos centros:
+Ficam explicitamente bloqueados, desde a abertura, os seguintes falsos centros:
 
 1. **`CF11` como tema positivo interno de `CF12`**
-   - proibido transformar a primeira consistência local própria já admitida na faixa anterior em conteúdo central da nova faixa;
-   - proibido fazer de `CF12` mera glosa, explicação ou ampliação encapotada de `CF11`.
+   - proibido transformar a faixa nova em glosa da responsabilidade singular, da dignidade ou da vida boa prudencial já tratadas antes.
 
-2. **Qualquer inflação prematura da nova determinação local**
-   - proibido convertê-la em estrutura;
-   - proibido convertê-la em função;
-   - proibido convertê-la em mediação;
-   - proibido convertê-la em sistema;
-   - proibido convertê-la em representação;
-   - proibido convertê-la em princípio organizador.
+2. **qualquer reabertura por fórmula liminar vazia**
+   - proibido abrir por “grau subsequente de determinação local” ou por qualquer equivalente demasiado genérico que volte a apagar o objeto próprio do caso.
 
-3. **Qualquer subida prematura a camada derivada**
-   - linguagem;
-   - sistema;
-   - representação;
-   - critério;
-   - consciência;
-   - sujeito;
-   - normatividade;
-   - cultura;
-   - instituição;
-   - simbolização;
-   - explicação metateórica.
+3. **teoria moral autónoma**
+   - proibido fazer da faixa uma reedição alta da derivação normativa em abstrato.
 
-4. **Qualquer centro formalista ou expositivo**
-   - capítulo;
-   - bloco;
-   - dispositivo;
-   - arquitetura de exposição;
-   - ordenação literária;
-   - engenharia de sequência;
-   - organização redonda de desenvolvimento.
+4. **instituição pronta**
+   - proibido abrir por forma social forte, instituição já formada, direito pronto ou mecanismo estabilizado de ordem coletiva.
 
-5. **Qualquer pseudoabertura por ensaio disfarçado**
-   - microdesenvolvimento já argumentado;
-   - piloto encapotado;
-   - formulação provisória já expandida;
-   - comentário lateral que introduza positividade não autorizada.
+5. **política pronta**
+   - proibido abrir por socialidade já densificada, teoria política, conflito político ou filosofia do poder.
 
-6. **CF17 e CF18 como cabeças positivas**
-   - mantêm apenas papel lateral e travador;
-   - não podem servir como centro de abertura;
-   - não podem reclassificar a faixa por cima do seu solo mínimo.
+6. **história como cabeça positiva**
+   - proibido abrir por sedimentação histórica, cultura ou narrativa histórica do comum.
+
+7. **sistema, linguagem, critério, consciência ou representação como cabeças de abertura**
+   - proibido deslocar a faixa para metacamada mediacional, epistemológica ou reflexiva.
+
+8. **qualquer pseudoabertura por ensaio disfarçado**
+   - proibido instalar já desenvolvimento, explicação, mini-piloto, sequência interna ou redação argumentativa de teste dentro da própria abertura.
+
+9. **`P41/P42/P43` como abertura soberana**
+   - proibido regressar ao chão herdado como se ele ainda singularizasse o caso por si só.
+
+10. **`P49` como cabeça mecânica isolada**
+    - proibido separar artificialmente a singularização do caso do chão herdado e do corpo intersubjetivo que ela prepara.
+
+11. **`CF17` e `CF18` como cabeças positivas**
+    - mantêm apenas papel lateral e travador;
+    - não podem enquadrar soberanamente a nova abertura.
 
 ---
 
-### VI. Travões obrigatórios
+#### VI. Travões obrigatórios
 
-1. **Travão de separação de faixa**
-   - `CF12` não pode reabsorver `CF11`;
-   - toda formulação que reconduza a nova faixa à simples ampliação do ganho anterior deve ser interrompida.
+##### travão de separação face a `CF11`
+- `CF12` não pode reabsorver `CF11`;
+- a nova faixa não existe para desenvolver retroativamente dignidade ou vida boa;
+- toda formulação que reconduza a nova faixa à simples ampliação do caso anterior deve ser interrompida.
 
-2. **Travão de primado descritivo**
-   - nada pode abrir já como teoria, sistema, explicação ou interpretação alta;
-   - primeiro só pode haver fixação mínima da nova determinação local admissível.
+##### travão de primado descritivo
+- a abertura deve primeiro **descrever o objeto local**;
+- não deve começar por teoria, explicação, sistema, interpretação alta ou engenharia expositiva;
+- primeiro fixa-se o que a faixa é; só depois um ensaio poderá testar quanto disso aguenta já ser dito.
 
-3. **Travão de submissão ao real**
-   - nenhuma mediação pode funcionar como centro soberano da faixa;
-   - linguagem, sistema, representação, critério ou consciência não podem abrir por cima do chão ainda estrito.
+##### travão de submissão ao real
+- nenhuma mediação, representação, coerência interna, sistema simbólico ou expectativa normativa pode substituir o real que a faixa tenta descrever;
+- a coexistência e a coordenação entram aqui apenas como regionalização real, não como construção soberana.
 
-4. **Travão anti-inércia**
-   - a sequência numérica da série não legitima desenvolvimento automático;
-   - a nova faixa não existe para continuar por hábito o movimento anterior.
+##### travão anti-inércia
+- a sequência numérica da série não legitima continuação automática;
+- `CF12` não existe para continuar por hábito o movimento de `CF11`;
+- a própria reabertura desta faixa vale como correção de uma progressão automática mal nivelada.
 
-5. **Travão anti-capítulo**
-   - proibido converter a abertura em capítulo, narrativa, comentário panorâmico ou formulação já redonda.
+##### travão anti-capítulo
+- esta peça não pode soar a capítulo, bloco, panorama, narrativa ou síntese redonda;
+- só pode instalar solo, centro, falso centro, travões e fronteiras.
 
-6. **Travão anti-ensaio interno**
-   - esta abertura não testa;
-   - não exemplifica;
-   - não explora formulações;
-   - não mede o que aguenta;
-   - limita-se a instalar balizas.
+##### travão anti-ensaio interno
+- esta abertura não mede o que já aguenta em fraseado de desenvolvimento;
+- não testa formulações expandidas;
+- não exemplifica;
+- não encena microensaio;
+- não adianta o trabalho próprio do ensaio seguinte.
 
-7. **Travão anti-densificação por salto**
-   - não é admissível passar do limiar ainda estreito de `CF11` para consistência forte, dinâmica desenvolvida ou organização interna rica;
-   - qualquer tal salto excede o corredor de abertura.
+##### travão anti-densificação por salto
+- não é admissível passar diretamente de responsabilidade situada a instituição, sistema, história ou política;
+- não é admissível saltar da abertura para coordenação já densificada como forma social pronta;
+- não é admissível converter a coordenação mínima em lógica desenvolvida do comum.
 
-8. **Travão lateral de `CF17` e `CF18`**
-   - valem apenas como vigilância negativa;
-   - não entram como motores, sínteses nem enquadramentos positivos.
+##### travão anti-institucionalização prematura
+- formas sociais fortes, instituições, campos sociais já formados e historicização do comum só podem entrar a jusante;
+- nesta abertura permanecem expressamente fora da cabeça positiva do caso.
+
+##### travão lateral de `CF17` e `CF18`
+- `CF17` permanece apenas como fronteira arquitetónica lateral;
+- `CF18` permanece apenas como instrumento lateral de reconhecimento disciplinado;
+- nenhum dos dois pode decidir positivamente o centro desta abertura.
 
 ---
 
-### VII. Fronteiras e bloqueios locais
+#### VII. Fronteiras e bloqueios locais
 
-#### 1. Fronteira com a faixa anterior
+##### fronteira com `CF11`
+- `CF11` fica integralmente preservada como faixa corrigida;
+- `CF12` não a comenta, não a completa por dentro e não a usa como tema;
+- toda tentativa de transformar a nova faixa em prolongamento da anterior deve ser travada.
 
-- `CF11` fica integralmente preservada como faixa limitada ao reconhecimento de uma primeira consistência local própria ainda estrita e não desenvolvida;
-- `CF12` não pode ser usada para reabrir, corrigir, suavizar ou expandir retroativamente esse ganho;
-- toda tentativa de converter a nova faixa em comentário interno da anterior deve ser travada.
+##### fronteira interna da própria abertura
+- a abertura não pode ultrapassar a fixação de solo real mínimo, centro próprio, falso centro, travões e fronteiras;
+- qualquer passo para formulação positiva mais densa pertence ao ensaio reaberto e nunca a esta peça.
 
-#### 2. Fronteira interna da própria abertura
-
-- a abertura não pode ultrapassar a fixação de solo, centro, falso centro, travões e fronteiras;
-- qualquer passo para formulação positiva mais densa pertence a eventual ensaio posterior, nunca a esta peça.
-
-#### 3. Fronteira com a faixa seguinte
-
+##### fronteira com a faixa seguinte
 - `CF12` não autoriza desde já qualquer passagem para `CF13`;
-- a sua mera abertura não equivale a desenvolvimento já suportado;
+- a mera reabertura da abertura não equivale a ensaio bem sucedido, decisão local ou consolidação;
 - não é admissível usar esta peça como ponte antecipada para a faixa subsequente.
 
-#### 4. Fronteira de regime
-
-- não é admissível passagem direta do grau local subsequente a regime alto;
-- não é admissível abrir diretamente em mediação, classificação, sistema ou metacamada;
+##### fronteira de regime
+- não é admissível passagem direta da coordenação prática intersubjetiva mínima para regime alto;
+- não é admissível abrir diretamente em instituição, história, política, sistema, linguagem, critério, consciência ou representação;
 - não é admissível transformar o local ainda estrito em princípio total.
 
-#### 5. Fronteira lateral
-
+##### fronteira lateral
 - ficam bloqueados desvios para:
   - comentário metodológico expandido,
   - panorâmica estrutural,
   - reclassificação transversal,
   - tematização externa do percurso,
-  - ou absorção por zonas vizinhas.
+  - absorção por `CF17` ou `CF18`,
+  - ou absorção por zonas vizinhas ainda não autorizadas.
 
 ---
 
-### VIII. Ordem mínima de abertura
+#### VIII. Ordem mínima de abertura
 
-1. Preservar sem alteração o limite ativo de `CF11`;
-2. Marcar a separação explícita entre a faixa anterior preservada e a nova faixa a abrir;
-3. Fixar o solo real mínimo de `CF12` como possibilidade estritamente local de uma determinação subsequente ao limiar de `CF11`, ainda não densificada;
-4. Determinar o centro próprio apenas nesse nível estrito;
-5. Bloquear desde logo o falso centro dominante:
-   - reconversão de `CF11` em tema central de `CF12`,
+1. **preservar sem alteração o limite corrigido de `CF11`**;
+2. **marcar a separação explícita entre `CF11` e `CF12`**;
+3. **fixar o solo real mínimo de `CF12`** como coexistência entre reflexivos que exige coordenação prática mínima e fixação operativa, ainda sem forma social forte;
+4. **fixar o centro próprio de `CF12`** como regionalização intersubjetiva da coexistência no real;
+5. **bloquear o falso centro dominante**:
+   - reabsorção por `CF11`,
+   - reabertura por fórmula liminar vazia,
    - ou subida imediata a camada derivada;
-6. Reafirmar todos os travões obrigatórios;
-7. Fechar a abertura sem ensaio, sem narrativa e sem desenvolvimento positivo.
+6. **reafirmar todos os travões obrigatórios**;
+7. **fechar a abertura sem ensaio, sem narrativa e sem desenvolvimento positivo**.
 
 ---
 
-### IX. Resumo operativo
+#### IX. Resumo operativo
 
-A faixa expositiva controlada `CF12` abre apenas como **nova faixa local após o limite preservado de `CF11`**, e não como prolongamento interno dessa faixa anterior.
+A faixa expositiva controlada `CF12` reabre apenas como **nova faixa local após a fronteira corrigida de `CF11`**, e não como prolongamento interno dessa faixa anterior.
 
-O seu solo real mínimo é apenas a possibilidade de localizar uma **determinação local subsequente** ao limiar já admitido em `CF11`, ainda estrita e não inflacionada.  
-O seu centro próprio fica restrito à determinação vigilante desse grau local subsequente.  
-O falso centro principal a bloquear é duplo:
-- tomar `CF11` como centro positivo interno da nova faixa;
-- ou subir prematuramente a mediação, sistema, linguagem, consciência, critério ou representação.
+O seu solo real mínimo já não é uma determinação local subsequente em abstrato, mas a **coexistência entre seres reflexivos de igual estatuto ontológico que começa a exigir coordenação prática, fixação operativa de expectativas e regionalização da coexistência no real**.
 
-Todos os travões da meta-norma, do prólogo, da grelha e da cadência canónica permanecem ativos.  
-Nenhum ensaio é realizado nesta peça.
+O seu centro próprio fica explicitamente fixado como:
+- **coordenação prática intersubjetiva**;
+- com **`P49`** como dobradiça singular;
+- **`P42/P43`** como corpo vivo do caso;
+- **`P41`** como travão mínimo negativo;
+- e **`P48`** apenas no terminal.
 
----
+O falso centro principal a bloquear é composto:
+- reabsorção de `CF12` por `CF11`;
+- regressão à derivação normativa geral;
+- ou subida prematura a instituição, história, política, sistema, linguagem, critério, consciência ou representação.
 
-### X. Fórmula curta
+Todos os travões da meta-norma, do prólogo, da grelha, do alinhamento macro e da cadência canónica permanecem ativos.
 
-> **Abertura formal de `CF12`: preserva-se integralmente o limite ativo de `CF11` e abre-se apenas a possibilidade estrita de uma determinação local subsequente ao limiar já ali admitido, sem a converter em capítulo, narrativa, estrutura, função, sistema, linguagem, representação ou qualquer outra camada derivada. O falso centro principal a bloquear é a reabsorção da nova faixa pela anterior — ou, simetricamente, a subida prematura a um centro alto. Esta peça só fixa solo, centro, travões e fronteiras. Não ensaia.**
-
----
-
-## DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12
-
-**Ficheiro de origem:** `14_faixa_cf12\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md`
-
-### I. Estatuto da decisão
-
-A presente peça fixa o **limite local atualmente válido** da faixa expositiva controlada `CF12`, após a sua abertura formal e o primeiro ensaio controlado já realizado.
-
-A sua função é:
-
-- decidir o que, em `CF12`, **passou efetivamente** como ganho expositivo mínimo;
-- fixar o que **não passou** ou não pode ainda ser autorizado;
-- preservar o ensaio realizado no seu valor próprio, incluindo o seu eventual excesso como **teste negativo controlado**, e não como perda;
-- determinar o **próximo passo prudente** sem prolongamento por inércia;
-- deixar claro qual é, por agora, o **uso máximo inicial** admissível da faixa.
-
-Esta decisão **não**:
-
-- consolida ainda `CF12`;
-- não transforma o ensaio em texto ativo consolidado;
-- não abre automaticamente novo ensaio;
-- não autoriza passagem para `CF13`;
-- não reabre `CF11`;
-- não converte a faixa em capítulo, narrativa ou desenvolvimento interno.
-
-Enquanto não existir consolidação própria da faixa, o regime ativo de `CF12` passa a ser:
-- `ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12.md`
-- mais a presente `DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md`
+Fica desde já preparado, e só ele, o seguinte próximo passo admissível:
+- **`ENSAIO_CONTROLADO_CF12__REABERTO_v1.md`**
+- pasta: **`14_faixa_cf12/01_ensaios/`**
 
 ---
 
-### II. Base de decisão
+#### X. Fórmula curta
 
-A decisão assenta na seguinte sequência metodológica já cumprida:
-
-1. abertura formal de `CF12` como faixa nova e separada do limite preservado de `CF11`;
-2. fixação prévia do solo real mínimo, centro próprio preliminar, falso centro dominante, travões e fronteiras;
-3. realização de um primeiro ensaio local curto;
-4. leitura do ensaio apenas como teste de suporte e de limite, e não como consolidação.
-
-O ponto decisivo extraído do ensaio é este:
-
-- `CF12` **não ficou vazia**;
-- mas também **não adquiriu ainda espessura bastante** para desenvolvimento interno, consolidação imediata ou avanço automático.
-
-A faixa revelou apenas um ganho estreito e controlado.
+> **`CF12` abre quando a responsabilidade situada já não cabe apenas no singular e tem de começar a tornar-se coordenação prática entre reflexivos no mesmo real, sem ainda subir a instituição, história, política ou sistema.**
 
 ---
 
-### III. O que passou
+## DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12
 
-Passou, e fica agora autorizado como ganho positivo mínimo de `CF12`, apenas o seguinte:
+**Ficheiro de origem:** `14_faixa_cf12\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md`
 
-- já é admissível dizer que a primeira consistência local própria antes apenas reconhecida em limiar preservado em `CF11` **não comparece apenas como ponto isolado ou ocorrência muda**;
-- já é admissível dizer que ela admite um **grau subsequente de determinação local**;
-- já é admissível dizer que, nesse grau, essa consistência se deixa reconhecer como **não meramente pontual**, permanecendo ainda consistência sua;
-- tudo isto só passa:
-  - em registo curto;
-  - estritamente descritivo;
-  - sem desenvolvimento rico;
-  - sem explicação;
-  - sem arquitetura interna;
-  - sem mudança de regime.
+#### I. Estatuto da decisão
 
-Formulação positiva autorizada em termos canónicos:
+##### função
+- fixar, de modo vinculante, o **uso máximo reaberto atualmente admissível** de `CF12` após a abertura reaberta e o ensaio reaberto `v1`;
+- decidir com nitidez o que **passou** e o que **não passou** no teste local já realizado;
+- preservar o ensaio no seu duplo estatuto correto de **teste positivo mínimo** e **teste negativo controlado**;
+- determinar se o próximo passo prudente é **preservar o limite** ou **admitir novo ensaio `v2`**;
+- suspender explicitamente qualquer passagem automática para `CF13`.
 
-> **A consistência local própria, uma vez reconhecida no limiar preservado de `CF11`, admite um grau subsequente de determinação local em que já não comparece apenas como ponto isolado, mas ainda sem poder ser descrita como estrutura, dinâmica desenvolvida, função, sistema ou mediação.**
+##### limite
+- esta decisão **não reabre o dossier** de `CF12`;
+- **não consolida** ainda a faixa;
+- **não transforma** o ensaio em texto ativo consolidado;
+- **não abre automaticamente** novo ensaio;
+- **não autoriza** transição automática para `CF13`;
+- **não reabre** `CF11`;
+- **não transforma** a peça em ensaio, narrativa, capítulo ou comentário panorâmico;
+- **não abre** por instituição, política, história, sistema, linguagem, critério, consciência ou representação.
 
-Este é, por agora, o **uso máximo inicial** de `CF12`.
-
----
-
-### IV. O que não passou
-
-Não passou, e fica explicitamente não autorizado nesta fase, tudo o que exceda esse ganho mínimo.
-
-Ficam fora do corredor atualmente suportado:
-
-1. **desenvolvimento interno rico**
-   - não passou qualquer formulação de desdobramento forte;
-   - não passou qualquer descrição de organização interna densa;
-   - não passou qualquer encadeamento de submomentos.
-
-2. **estabilidade forte**
-   - não passou a ideia de forma já estruturada;
-   - não passou a ideia de consistência local já plenamente instalada;
-   - não passou a ideia de dinâmica própria desenvolvida.
-
-3. **mudança de regime**
-   - não passou estrutura;
-   - não passou função;
-   - não passou sistema;
-   - não passou mediação;
-   - não passou representação;
-   - não passaram linguagem, critério, consciência, sujeito, normatividade ou camadas equivalentes.
-
-4. **reabsorção por `CF11`**
-   - não passou qualquer leitura de `CF12` como mera glosa retroativa do ganho anterior;
-   - não passou a transformação da nova faixa em comentário interno da faixa precedente.
-
-5. **antecipação de `CF13`**
-   - não passou qualquer uso do pequeno ganho atual como ponte automática para a faixa seguinte;
-   - não passou qualquer sequência de continuação seriada por simples progressão numérica.
-
-6. **redondeamento expositivo**
-   - não passou texto de tipo capítulo;
-   - não passou micro-narrativa;
-   - não passou comentário lateral que estabilize artificialmente a faixa.
+##### valor metodológico
+- vale como **decisão/limite local vigente** da faixa reaberta `CF12`;
+- vale como **regra positiva de uso** do que já ficou suportado;
+- vale como **travão contra nova baixa artificial** e, simetricamente, contra inflação prematura;
+- vale como suspensão disciplinada de qualquer prolongamento automático da série.
 
 ---
 
-### V. Estatuto do ensaio v1
+#### II. Base local considerada
 
-O `ENSAIO_CONTROLADO_CF12_v1.md` deve ser preservado como **ensaio válido mas estreito**.
+##### abertura reaberta de `CF12`
+Foi tomada como base ativa a abertura reaberta já fixada para `CF12`.
 
-O que nele conta como ganho positivo controlado é:
+Nela ficou decidido que:
+- `CF12` já não abre por “grau subsequente de determinação local”;
+- abre por **regionalização intersubjetiva da coexistência no real**;
+- o seu centro próprio é a **coordenação prática intersubjetiva** entre seres reflexivos de igual estatuto ontológico;
+- `P49` funciona como **dobradiça singular de passagem**;
+- `P42/P43` carregam o **corpo vivo** do caso;
+- `P41` permanece como **travão mínimo negativo**;
+- `P48` só pode entrar **terminalmente**.
 
-- a prova de que a abertura de `CF12` tem suporte mínimo real;
-- a prova de que a faixa aguenta uma primeira formulação positiva muito curta;
-- a prova de que existe, de facto, um grau subsequente de determinação local dizível sem romper imediatamente a hierarquia.
+##### ensaio reaberto `v1`
+Foi tomado como base direta o ensaio reaberto `ENSAIO_CONTROLADO_CF12__REABERTO_v1.md`.
 
-Mas o ensaio também vale como **teste negativo controlado** no seu bordo superior:
+Esse ensaio mostrou que:
+- a abertura reaberta não é vazia;
+- `CF12` já aguenta formulação positiva mínima acima da antiga decisão baixa;
+- o corredor **`P49 → P42/P43 → P41`** já funciona em regime curto e disciplinado;
+- a interrupção obrigatória ocorre antes de forma social forte, instituição, história, política, sistema ou mediação alta.
 
-- sempre que tende para desenvolvimento interno, ele mostra o ponto em que a faixa ainda não aguenta;
-- sempre que se aproximaria de estrutura, função, sistema ou mediação, ele indica o limite de interrupção obrigatório;
-- por isso, o seu excesso potencial não deve ser apagado nem transformado em fracasso indiferenciado;
-- deve ser preservado como marca auditável do ponto exato em que `CF12` ainda deixa de passar.
+##### fronteira com `CF11`
+Foi preservada, sem alteração, a fronteira corrigida de `CF11`.
 
-Assim, o ensaio `v1` fica com duplo estatuto:
+`CF11` permanece:
+- sobre suporte herdado em `P46/P47`;
+- com `P49` como abertura singular;
+- `P50` como centro vivo forte;
+- `P51` apenas como fecho prudencial terminal;
+- `P48` apenas como travão terminal.
+
+Nada nesta decisão:
+- glosa `CF11`;
+- prolonga `CF11` por inércia;
+- ou usa dignidade e vida boa como tema positivo interno de `CF12`.
+
+##### confronto com o histórico antigo apenas como memória crítica
+A abertura antiga, o ensaio antigo e a decisão antiga de `CF12` entram aqui apenas como memória crítica do rebaixamento anterior.
+
+O contraste a preservar é este:
+- a versão antiga só autorizava um **grau subsequente de determinação local**;
+- a reabertura atual já autorizou **coordenação prática intersubjetiva mínima** como centro positivo do caso.
+
+##### confronto com `CF11`, `CF12` e `CF13`
+O confronto com os dossiers, a grelha, a mini-consolidação e o alinhamento macro confirma o seguinte:
+- `CF12` tem centro próprio legítimo;
+- esse centro não se dissolve nem em derivação normativa geral nem em institucionalização pronta;
+- `CF12` prepara a inteligibilidade de estabilizações sociais e institucionais, mas **não as decide ainda**;
+- a fronteira com `CF13` continua real e deve permanecer ativa.
+
+---
+
+#### III. O que passou
+
+##### o que o ensaio mostrou como ganho positivo mínimo real
+Passou, e fica agora admitido, o seguinte ganho positivo mínimo:
+- já é admissível dizer que a responsabilidade situada do ser reflexivo, quando confrontada com outros reflexivos de igual estatuto ontológico, **começa a exigir coordenação prática intersubjetiva mínima**;
+- já é admissível dizer que essa coordenação mínima se traduz em **vetores de ação, expectativas e condutas de coexistência**;
+- já é admissível dizer que essa coordenação não é ainda forma social forte, mas também já não é mera fórmula liminar vazia.
+
+##### o que já pode ficar admitido
+Fica admitido que, em `CF12`:
+- a coexistência entre reflexivos já não pode ser pensada apenas como paralelismo de privados;
+- `P49` já não funciona apenas como repetição simples do seu papel em `CF11`, mas como **dobradiça** entre responsabilidade situada e coexistência coordenada;
+- `P42/P43` já podem ser ditas como **corpo vivo do caso**;
+- `P41` já pode ser dita como **mínimo negativo objetivo** que impede a indiferenciação, sem tomar a cabeça positiva da faixa.
+
+##### como se fixa o corredor efetivo do caso
+O corredor efetivo agora fixado é este:
+- **`P49 → P42/P43 → P41`**,
+- com memória breve de que:
+  - `P41/P42/P43` permanecem como chão herdado necessário, mas não soberano;
+  - `P49` abre singularmente a passagem;
+  - `P42/P43` carregam o desenvolvimento vivo do caso;
+  - `P41` entra como travão mínimo;
+  - `P48` permanece apenas como bordo terminal externo.
+
+##### estatuto atual de `P49`
+`P49` fica agora com o seguinte estatuto exato em `CF12`:
+- **dobradiça singular de passagem**;
+- não mera repetição de `CF11`;
+- não cabeça mecânica isolada;
+- ponto em que a responsabilidade situada começa a tornar-se coexistência coordenada.
+
+##### estatuto atual de `P42/P43`
+`P42/P43` ficam agora com o seguinte estatuto:
+- **corpo vivo da coordenação prática intersubjetiva mínima**;
+- direção prática da coexistência;
+- fixação operativa de vetores de ação, expectativas e condutas;
+- ainda sem subir a forma social forte, instituição ou história.
+
+##### estatuto atual de `P41`
+`P41` fica agora com o seguinte estatuto:
+- **mínimo negativo objetivo**;
+- travão de indiferenciação dos cursos de ação e das formas mínimas de coexistência;
+- não abre a faixa;
+- não co-governa a cabeça positiva do caso.
+
+##### estatuto atual de `P48`
+`P48` fica agora com o seguinte estatuto:
+- **bordo terminal externo** do caso;
+- limite prudencial do possível real;
+- não necessário para a cabeça positiva do ensaio;
+- proibido como abertura ou travão dominante antecipado.
+
+---
+
+#### IV. O que não passou
+
+Não passou, e permanece explicitamente fora do corredor agora suportado, tudo o que exigiria mudança de regime.
+
+Ficam fora:
+- **forma social forte**;
+- **instituição**;
+- **história**;
+- **política**;
+- **sistema**;
+- **mediação alta**;
+- **teoria moral autónoma**;
+- **teoria geral da intersubjetividade**;
+- **comum sedimentado** em sentido próprio;
+- **organização supraindividual forte**;
+- **mecanismo institucional**;
+- **historicização do caso**;
+- **qualquer continuação automática**;
+- **qualquer passagem automática para `CF13`**.
+
+Também não passou:
+- consolidação da faixa;
+- transformação do ensaio em texto ativo consolidado;
+- descrição rica da organização interna da coordenação;
+- uso de linguagem, critério, consciência, representação ou sistema como cabeças positivas;
+- leitura do ganho atual como se já contivesse sedimentação, instituição ou ordem coletiva pronta.
+
+##### sobre consolidação
+O ensaio reaberto **não autoriza consolidação**.
+
+A razão não é falta de centro, mas limite de altitude:
+- o centro já apareceu;
+- mas só apareceu em **largura estreita** e ainda sob travão forte;
+- por isso a faixa permanece **reaberta e não consolidada**.
+
+##### sobre continuação automática
+O ensaio reaberto **não autoriza continuação automática**.
+
+A razão é igualmente clara:
+- a passagem positiva existe;
+- mas existe apenas até ao ponto em que a coordenação mínima ainda não se converte em forma social forte, instituição, história ou política.
+
+---
+
+#### V. Fixação do uso máximo reaberto atualmente admissível
+
+Fica decidido que a formulação máxima prudente e positiva agora admissível para `CF12` é esta:
+
+> **Em `CF12`, já é admissível dizer que, sobre um chão prático herdado mas não soberano, a responsabilidade situada do ser reflexivo, quando confrontada com outros reflexivos de igual estatuto ontológico, começa a exigir coordenação prática intersubjetiva mínima, fixando vetores de ação, expectativas e condutas de coexistência sob um mínimo negativo que impede a indiferenciação, mas ainda sem autorizar forma social forte, instituição, história, política ou sistema.**
+
+##### estatuto vinculante desta formulação
+Esta formulação:
+- é **mais forte** do que a antiga decisão baixa;
+- é **mais curta e mais vinculante** do que o ensaio;
+- é **inferior à consolidação**;
+- e passa a funcionar como **uso máximo reaberto atualmente admissível** da faixa.
+
+##### condições de validade da formulação
+Esta formulação só vale se forem preservadas simultaneamente as condições seguintes:
+- `P49` entra como **dobradiça** e não como repetição simples de `CF11`;
+- `P42/P43` entram como **corpo vivo** e não como moral genérica;
+- `P41` entra apenas como **travão mínimo**;
+- `P48` permanece apenas como **bordo terminal externo**;
+- o texto permanece **curto, descritivo, positivo e não densificado por salto**.
+
+##### o que esta formulação ganha relativamente à decisão antiga
+Relativamente à decisão antiga, a formulação agora fixada já ganha o seguinte:
+- nomeia explicitamente o **centro próprio** de `CF12`;
+- reconhece **coordenação prática intersubjetiva mínima** como ganho positivo real;
+- fixa o papel diferenciado de `P49`, `P42/P43`, `P41` e `P48`;
+- deixa de tratar o caso como simples determinação local subsequente ainda anónima.
+
+##### o que esta formulação ainda não ganha
+Ela ainda não ganha:
+- sedimentação do comum;
+- permanência supraindividual;
+- forma social forte;
+- instituição;
+- história;
+- política;
+- linguagem, sistema, critério, consciência ou representação como mediações próprias do caso.
+
+---
+
+#### VI. Preservação do ensaio como teste negativo controlado
+
+##### o que o ensaio mostrou no seu bordo superior
+O ensaio mostrou claramente que o seu bordo superior é este:
+- a coordenação prática intersubjetiva mínima pode ser dita;
+- mas não pode ainda ser descrita como comum já sedimentado;
+- nem como organização supraindividual forte;
+- nem como instituição;
+- nem como história;
+- nem como política;
+- nem como sistema mediacional.
+
+##### onde começa a mudança de regime
+A mudança de regime começa no instante em que a coordenação mínima é convertida em qualquer uma das seguintes figuras:
+- **forma social forte**;
+- **instituição pronta**;
+- **sedimentação histórica**;
+- **cultura estabilizada**;
+- **ordem política**;
+- **mediação alta**;
+- ou **teoria geral da intersubjetividade**.
+
+Em termos de série local, esse é precisamente o ponto em que o ensaio deixaria de trabalhar o centro próprio de `CF12` e começaria a antecipar a faixa seguinte.
+
+##### porque o excesso não entra ainda
+O excesso não entra ainda por três razões vinculantes:
+1. porque faria perder a diferença entre **coordenação mínima** e **sedimentação do comum**;
+2. porque dissolveria a fronteira real entre `CF12` e `CF13`;
+3. porque transformaria um ganho estreito e expositivo em pseudo-desenvolvimento por inércia.
+
+##### estatuto preservado do ensaio
+O ensaio reaberto `v1` fica preservado com duplo estatuto:
 - **teste positivo mínimo** do que passou;
-- **teste negativo controlado** do que ainda não pode entrar.
+- **teste negativo controlado** do ponto em que a faixa deixa de aguentar.
 
 ---
 
-### VI. Limite local atualmente ativo
+#### VII. Regime local agora em vigor
 
-Fica estabelecido como limite local ativo de `CF12` o seguinte:
+##### o que fica ativo em `CF12`
+Enquanto não existir consolidação própria da faixa, o regime local agora em vigor de `CF12` passa a ser este:
+- `ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12__REABERTA.md`
+- mais a presente `DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md`.
 
-- a faixa suporta apenas a formulação de que a consistência local própria já admitida em limiar preservado em `CF11` **não fica reduzida a pura pontualidade**, deixando reconhecer um **grau subsequente de determinação local**;
-- esse reconhecimento continua estrito;
-- esse reconhecimento não autoriza ainda descrição de organização, desenvolvimento, estruturação ou mediação;
-- qualquer formulação que ultrapasse esse ponto deve ser interrompida.
+O ensaio `v1` permanece como prova auditável do que passou e do que não passou, mas deixa de comandar sozinho o uso local.
 
-Formulação curta do limite:
+##### qual é o estatuto da faixa
+A faixa `CF12` fica agora com o seguinte estatuto:
+- **reaberta**;
+- **recentrada no seu centro próprio**;
+- com **ganho positivo mínimo real já admitido**;
+- mas ainda **não consolidada**.
 
-> **`CF12` passa apenas até ao reconhecimento descritivo de uma determinação local subsequente não meramente pontual. Tudo o que implique desenvolvimento forte ou mudança de regime fica, por agora, fora do uso admissível.**
+##### o que continua fora
+Continuam fora, sem afrouxamento:
+- forma social forte;
+- instituição;
+- história;
+- política;
+- sistema;
+- mediação alta;
+- teoria moral autónoma;
+- teoria geral da intersubjetividade;
+- qualquer compressão da faixa em capítulo;
+- qualquer passagem automática para `CF13`.
 
----
-
-### VII. Próximo passo prudente
-
-O próximo passo prudente **não** é prolongar a faixa por inércia.
-
-Também **não** é consolidar já `CF12` como se o seu centro estivesse suficientemente sustentado em largura.
-
-O próximo passo prudente fica fixado assim:
-
-1. **preservar o limite agora decidido** como estado ativo da faixa;
-2. **não abrir novo ensaio automaticamente**;
-3. admitir apenas, se houver deliberação específica, um eventual ensaio ulterior **mais estreito e explicitamente orientado ao bordo do limite**, para testar:
-   - se a determinação local subsequente pode ganhar formulação ligeiramente mais firme,
-   - sem cair em desenvolvimento interno,
-   - sem subir de regime,
-   - e sem reabsorção por `CF11`;
-4. se tal garantia não puder ser dada com antecedência suficiente, então o passo prudente é simplesmente:
-   - **manter `CF12` no limite agora fixado**.
-
-Em fórmula operacional:
-- **preservar primeiro; só reensaiar por decisão explícita e com corredor ainda mais vigiado.**
-
----
-
-### VIII. Travões reafirmados
-
-Mantêm-se integralmente ativos, sem afrouxamento, os seguintes travões:
-
+##### que travões permanecem
+Permanecem integralmente ativos, sem afrouxamento, os seguintes travões:
 - travão de separação face a `CF11`;
 - travão de primado descritivo;
 - travão de submissão ao real;
 - travão anti-inércia;
 - travão anti-capítulo;
 - travão anti-densificação por salto;
+- travão anti-institucionalização prematura;
 - travão anti-antecipação de `CF13`;
 - travão lateral de `CF17` e `CF18`.
 
-Acresce agora um travão local suplementar:
-
-- **travão anti-consolidação prematura de `CF12`**:
-  - o ganho atual é real, mas ainda demasiado estreito para ser tratado como consolidação suficiente da faixa.
-
----
-
-### IX. Veredito operativo
-
-O veredito operativo de `CF12`, no estado atual, é este:
-
-- a abertura da faixa **passou**;
-- o primeiro ensaio **passou apenas em faixa estreita**;
-- o ganho positivo válido é mínimo e já está nomeado;
-- o bordo superior do ensaio fica preservado como **teste negativo controlado**;
-- `CF12` tem agora **uso máximo inicial fixado**;
-- a faixa **ainda não está consolidada**;
-- não há autorização para continuação automática.
+##### em que termos fica suspensa qualquer passagem a `CF13`
+Fica expressamente suspensa qualquer passagem a `CF13` nos seguintes termos:
+- o ganho atualmente fixado em `CF12` **não pode** ser usado como ponte automática para sedimentação, transmissão, instituição, história ou política;
+- a faixa seguinte **não está disponível**;
+- não se autoriza abertura, ensaio, decisão de transição ou ficheiro ativo para `CF13` a partir do estado atual desta faixa;
+- qualquer deliberação ulterior sobre a fronteira seguinte só poderá ocorrer **depois** de nova decisão explícita e independente, e não por arrastamento do ganho agora fixado.
 
 ---
 
-### X. Fórmula final
+#### VIII. Próximo passo prudente
 
-> **Em `CF12` passou apenas isto: a consistência local própria antes reconhecida em limiar preservado em `CF11` deixa já reconhecer um grau subsequente de determinação local não meramente pontual, mas ainda sem desenvolvimento forte nem mudança de regime. Não passou qualquer formulação de estrutura, dinâmica, função, sistema, mediação ou camada derivada. O ensaio v1 fica preservado simultaneamente como ganho positivo mínimo e como teste negativo controlado do bordo que ainda não pode ser transposto. O próximo passo prudente é preservar o limite agora fixado e só admitir novo ensaio por deliberação explícita e ainda mais estreita.**
+##### decisão escolhida
+A decisão prudente escolhida é esta:
 
----
+> **preservar o limite agora fixado**.
 
-## ENSAIO_CONTROLADO_CF12_v1
+##### justificação
+Escolhe-se preservar o limite, e não abrir já um `CF12__REABERTO_v2`, por cinco razões:
 
-**Ficheiro de origem:** `14_faixa_cf12\01_ensaios\ENSAIO_CONTROLADO_CF12_v1.md`
+1. o ensaio `v1` já conseguiu fixar o **ganho positivo mínimo real** do caso;
+2. o ponto em que o ensaio deixa de aguentar já está suficientemente discriminado;
+3. não existe, neste momento, um **novo ponto interno preciso** ainda dentro do mesmo corredor que justifique `v2` sem risco de mudança de regime;
+4. abrir `v2` agora tenderia a repetir o mesmo núcleo ou a tocar cedo demais a borda de `CF13`;
+5. a cadência disciplinada das faixas proíbe prolongamento por inércia só porque o último ensaio passou.
 
-### I. Estatuto do ensaio
+##### consequências da decisão
+Fica decidido, por isso, que:
+- **não se abre automaticamente** `ENSAIO_CONTROLADO_CF12__REABERTO_v2.md`;
+- **não se consolida** a faixa;
+- **não se abre** transição seguinte;
+- o estado ativo de `CF12` passa a ser o limite agora fixado.
 
-Este ensaio é a primeira peça de teste da faixa expositiva controlada `CF12`, aberta previamente por `ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12.md`.
+##### condição eventual de reabertura futura
+Uma reabertura futura sob a forma de `v2` só poderia ser admissível se surgisse, por deliberação explícita posterior, um ponto ainda **interno a `CF12`** que fosse ao mesmo tempo:
+- mais estreito do que um desenvolvimento genérico da coordenação mínima;
+- ainda abaixo de forma social forte, instituição, história e política;
+- e formulável sem deslocar a faixa para sedimentação do comum ou para o centro próprio de `CF13`.
 
-A sua função é estritamente local e disciplinada:
-
-- testar se a abertura de `CF12` suporta já uma primeira formulação expositiva mínima;
-- medir qual é o **uso máximo atualmente suportado** dentro da nova faixa;
-- interromper antes de qualquer **mudança de regime**;
-- preparar uma decisão local de limite sem a antecipar em forma consolidada.
-
-Esta peça **não**:
-
-- consolida a faixa;
-- não decide a faixa toda;
-- não prolonga `CF11` por inércia;
-- não transforma `CF12` em capítulo, bloco ou narrativa;
-- não instala ainda desenvolvimento interno rico;
-- não abre qualquer passagem para `CF13`.
-
-O ensaio só é legítimo se permanecer subordinado às balizas já fixadas na abertura:
-- preservação integral do limite ativo de `CF11`;
-- teste apenas de uma **determinação local subsequente**;
-- bloqueio do falso centro duplo:
-  - reabsorção por `CF11`,
-  - subida prematura a camada derivada.
+Enquanto essa discriminação não existir, a decisão prudente é apenas esta:
+- **preservar o limite agora fixado**.
 
 ---
 
-### II. Reentrada mínima na norma local da faixa
+#### IX. Fórmula final curta
 
-Mantém-se sem alteração o seguinte quadro de autoridade local:
-
-1. `CF11` permanece preservada no seu limite já decidido;
-2. `CF12` só pode abrir como faixa nova e separada;
-3. o solo real mínimo de `CF12` continua a ser apenas a possibilidade de reconhecer uma **determinação local ulterior** ao limiar já admitido em `CF11`;
-4. essa determinação ulterior ainda não pode ser convertida em:
-   - estrutura,
-   - função,
-   - sistema,
-   - linguagem,
-   - representação,
-   - consciência,
-   - normatividade,
-   - nem princípio alto de organização.
-
-Consequentemente, o presente ensaio não testa mais do que isto:
-- se já é possível dizer, de modo expositivo mínimo, que a primeira consistência local própria antes apenas reconhecida em limiar não fica isolada como ponto mudo, mas admite um **grau subsequente de determinação local**;
-- e se esse grau pode ser dito sem ainda ser inflacionado em forma estável desenvolvida.
+> **Em `CF12`, a responsabilidade situada já se torna coordenação mínima entre reflexivos; o ganho reaberto fica aí, e toda a subida a comum sedimentado, instituição ou história permanece suspensa.**
 
 ---
 
-### III. Objeto exato do teste
+## ENSAIO_CONTROLADO_CF12__REABERTO_v1
 
-O objeto exato deste ensaio é o seguinte:
+**Ficheiro de origem:** `14_faixa_cf12\01_ensaios\ENSAIO_CONTROLADO_CF12__REABERTO_v1.md`
 
-- verificar se `CF12` aguenta já formular que a consistência local própria anteriormente apenas admitida em limiar não comparece apenas como traço instantâneo ou ponto sem seguimento;
-- verificar se já é admissível dizer que ela se deixa reconhecer por uma **ulterior determinação local mínima**, ainda estrita, ainda não expandida, ainda não convertida em dinâmica organizada;
-- verificar o ponto em que essa formulação começa a exigir mais do que a faixa ainda pode suportar.
+#### I. Estatuto do ensaio
 
-Formulação de trabalho do teste:
-- **não apenas a admissão de uma primeira consistência local própria, mas a possibilidade de reconhecer que ela comporta um grau local subsequente de determinação, sem que esse grau seja ainda tratado como desenvolvimento forte, forma estruturada ou mediação.**
+##### função
+- testar se a abertura reaberta de `CF12` suporta já uma **formulação positiva mínima** do seu centro corrigido;
+- medir até onde a **coordenação prática intersubjetiva** já pode ser dita como mais do que fórmula de abertura;
+- fixar o **uso máximo atualmente suportado** sem converter a faixa em consolidação, capítulo ou desenvolvimento de bloco;
+- interromper exatamente antes da **mudança de regime**;
+- preservar o excesso eventual como **teste negativo controlado**;
+- deixar preparada apenas a base para uma **nova decisão local de `CF12`**.
 
----
+##### limite
+- este ensaio **não reabre o dossier** de `CF12`;
+- **não reabre** `CF11`;
+- **não antecipa** a decisão final de `CF12`;
+- **não consolida** a faixa;
+- **não abre** passagem para `CF13`;
+- **não sobe** a instituição, história, política, sistema, linguagem, critério, consciência, representação, teoria moral autónoma ou teoria geral da intersubjetividade;
+- **não transforma** a peça em narrativa, mini-ensaio panorâmico, capítulo ou comentário metodológico expandido.
 
-### IV. Formulação ensaiada
+##### estatuto reversível do teste
+Este ensaio vale apenas como **teste local reversível, auditável e disciplinado**.
 
-A formulação que este ensaio testa é a seguinte:
-
-> A primeira consistência local própria antes apenas admitida em limiar não permanece como ocorrência muda ou ponto isolado; ela deixa já reconhecer um grau subsequente de determinação local, ainda estrito, em que essa consistência se mantém como consistência sua e não apenas como vestígio momentâneo, sem que por isso estejamos autorizados a convertê-la em estrutura desenvolvida, função, sistema ou camada derivada.
-
----
-
-### V. Verificação de suporte local
-
-#### 1. O que a formulação consegue fazer sem romper a faixa
-
-A formulação acima parece ainda compatível com a abertura de `CF12` porque:
-
-- não reabre `CF11` como centro;
-- não trata o limiar anterior como tema a desenvolver por dentro;
-- não instala uma positividade forte;
-- não sobe a um plano mediacional ou metateórico;
-- não introduz arquitetura explicativa;
-- não exige ainda sequência narrativa.
-
-Ela limita-se a dizer algo muito preciso:
-- a consistência local própria, uma vez atingido o seu limiar, admite já ser reconhecida como não puramente pontual;
-- esse reconhecimento, porém, continua a ocorrer em chave local e vigiada;
-- o que se acrescenta não é uma nova camada de regime, mas apenas um pequeno passo de determinação interna ainda contida.
-
-#### 2. O que esta formulação ainda não faz
-
-A formulação não autoriza ainda dizer:
-
-- como essa determinação se organiza;
-- que leis internas a governam;
-- que função exerce;
-- que forma sistemática assume;
-- como se articula em mediação;
-- como se traduz em representação;
-- como se eleva a critério, linguagem, consciência ou normatividade.
-
-Também não autoriza ainda:
-- distinguir submomentos internos;
-- encadear fases;
-- instalar mecanismo;
-- nem descrever já uma estabilidade rica.
+Se a formulação ensaiada passar, passa apenas como ganho **mínimo, curto e vigilante**.
+Se exceder o que a faixa suporta, esse excesso não vale como ganho perdido nem como nova verdade local; vale apenas como **bordo negativo controlado** do que ainda não pode entrar.
 
 ---
 
-### VI. Uso máximo atualmente suportado
+#### II. Norma local em vigor
 
-O uso máximo atualmente suportado neste primeiro ensaio parece ser o seguinte:
+##### reentrada mínima na abertura reaberta
+Mantém-se em vigor, sem alteração, a abertura reaberta de `CF12`:
+- `CF12` não abre por “grau subsequente de determinação local”;
+- abre por **regionalização intersubjetiva da coexistência no real**;
+- o seu centro próprio é a **coordenação prática intersubjetiva** entre seres reflexivos de igual estatuto ontológico;
+- `P49` funciona como **dobradiça singular de passagem**;
+- `P42/P43` carregam o **corpo vivo** do caso;
+- `P41` permanece **travão mínimo negativo**;
+- `P48` só pode entrar, se entrar, **terminalmente**.
 
-- já se pode dizer que a primeira consistência local própria, uma vez atingida no limiar preservado de `CF11`, **não comparece apenas como ponto isolado**, mas admite um grau subsequente de determinação local;
-- já se pode dizer que essa determinação local subsequente mostra uma **persistência mínima da consistência como consistência sua**, e não mera aparição sem espessura;
-- mas ainda só se pode dizê-lo num registo estritamente descritivo, curto e não desenvolvido.
+##### preservação de `CF11`
+`CF11` permanece integralmente preservada no seu limite corrigido:
+- `P46/P47` como suporte herdado;
+- `P49` como abertura singular;
+- `P50` como centro vivo forte;
+- `P51` apenas como fecho prudencial terminal;
+- `P48` apenas como travão terminal.
 
-Formulação de uso máximo:
-- **a consistência local própria, uma vez reconhecida no seu primeiro limiar, admite ainda um grau local subsequente em que se deixa reconhecer como não meramente pontual, mas ainda sem poder ser descrita como estrutura, dinâmica desenvolvida ou mediação.**
+Nada neste ensaio:
+- glosa `CF11`;
+- prolonga `CF11` por inércia;
+- ou usa dignidade e vida boa como tema positivo interno de `CF12`.
 
----
+##### centro próprio agora em vigor
+O centro atualmente em vigor para `CF12` é este:
+- a responsabilidade situada do ser reflexivo, quando já não cabe apenas no singular, começa a ganhar forma de **coordenação prática intersubjetiva mínima** entre reflexivos de igual estatuto ontológico no mesmo real.
 
-### VII. Ponto de interrupção obrigatório
+##### travões ativos
+Mantêm-se ativos, sem afrouxamento, os seguintes travões:
+- travão de separação face a `CF11`;
+- travão de primado descritivo;
+- travão de submissão ao real;
+- travão anti-inércia;
+- travão anti-capítulo;
+- travão anti-ensaio panorâmico;
+- travão anti-densificação por salto;
+- travão anti-institucionalização prematura;
+- travão anti-antecipação de `CF13`;
+- travão lateral de `CF17` e `CF18`.
 
-O ensaio deve ser interrompido antes de qualquer uma das seguintes passagens:
-
-1. **antes de transformar a determinação subsequente em desenvolvimento interno**
-   - não dizer ainda que há desdobramento rico;
-   - não dizer ainda que há organização própria forte;
-   - não dizer ainda que há composição interna articulada.
-
-2. **antes de mudança de regime**
-   - não passar a função;
-   - não passar a estrutura;
-   - não passar a sistema;
-   - não passar a linguagem, representação, critério, consciência ou normatividade.
-
-3. **antes de absorção retroativa por `CF11`**
-   - não reinterpretar a faixa atual como simples explicitação do que já estava dado na anterior;
-   - não tratar `CF12` como glosa do limiar anterior.
-
-4. **antes de antecipação de `CF13`**
-   - não usar esta pequena determinação local como ponte automática para a faixa seguinte;
-   - não instalar sequência de avanço por hábito seriado.
-
----
-
-### VIII. Formulações bloqueadas neste ensaio
-
-Ficam bloqueadas, por excederem o uso máximo agora suportado, formulações como:
-
-- “a consistência local própria já se organiza internamente de modo estável”;
-- “a consistência local própria passa aqui a funcionar como forma”;
-- “a consistência local própria adquire já função estruturante”;
-- “esta determinação local já constitui mediação”;
-- “aqui emerge já princípio de organização”;
-- “aqui abre já uma lógica própria desenvolvida”;
-- “a consistência torna-se aqui sistema de relações”;
-- qualquer formulação que trate o passo atual como regime alto.
-
-Também ficam bloqueadas:
-- expansões explicativas;
-- mini-narrativas de progressão;
-- comentários metodológicos laterais que substituam o teste local;
-- qualquer tentativa de redondear a faixa como se o seu centro já estivesse plenamente estabilizado.
+##### estatuto da camada antiga de `CF12`
+A abertura antiga, o ensaio antigo e a decisão antiga de `CF12` ficam apenas como **histórico crítico do rebaixamento a não repetir**.
+O texto ativo deste ensaio é governado pela abertura reaberta, não pela formulação baixa anterior.
 
 ---
 
-### IX. Veredito local do ensaio
+#### III. Objetivo de teste
 
-O ensaio `CF12_v1` passa apenas num nível estreito.
+O que está a ser testado neste ensaio é apenas isto:
+- se `CF12` já aguenta dizer, de modo positivo mínimo, que a responsabilidade situada do ser reflexivo, quando confrontada com outros reflexivos de igual estatuto ontológico, **já exige coordenação prática intersubjetiva mínima**;
+- se essa coordenação já pode ser dita como algo mais do que mera fórmula inaugural;
+- e até onde essa formulação aguenta sem subir a forma social forte, instituição, história, política, sistema ou mediação alta.
 
-Passa no seguinte sentido:
-- `CF12` aguenta já uma primeira formulação positiva mínima;
-- essa formulação permite dizer algo mais do que o simples limiar preservado em `CF11`;
-- o acrescento admissível é o reconhecimento de um **grau subsequente de determinação local não meramente pontual**.
+A pergunta local do ensaio é esta:
 
-Mas passa apenas sob condição forte:
-- a formulação tem de permanecer curta;
-- descritiva;
-- não explicativa;
-- não estrutural;
-- e imediatamente travada antes da mudança de regime.
-
-Assim, o ganho deste ensaio não é a faixa inteira, mas só isto:
-- **há suporte para uma formulação mínima segundo a qual a consistência local própria já admitida em limiar comporta um grau subsequente de determinação local, sem ainda autorizar desenvolvimento forte.**
+> **Pode `CF12` já dizer positivamente a coordenação prática intersubjetiva como corpo próprio do caso, sem ainda a converter em socialidade forte, institucionalização, história ou teoria autónoma do comum?**
 
 ---
 
-### X. Fecho operativo
+#### IV. Formulação ensaiada
 
-Este ensaio não consolida `CF12`, não fixa ainda a sua redação ativa e não decide a continuação da faixa.
+A formulação de teste deste ensaio é a seguinte:
 
-Ele apenas deixa estabelecido que:
+> **Sobre um chão prático herdado mas não soberano, a responsabilidade situada do ser reflexivo, quando confrontada com outros reflexivos de igual estatuto ontológico, começa a ganhar forma de coordenação prática intersubjetiva mínima: vetores de ação, expectativas e condutas de coexistência que tornam a vida comum operável sem ainda constituir forma social forte, instituição, história, política ou sistema. `P49` funciona aqui como dobradiça de passagem, `P42/P43` como corpo vivo do caso e `P41` apenas como mínimo negativo que impede a indiferenciação.**
 
-- a abertura de `CF12` não é vazia;
-- a nova faixa suporta já um primeiro passo expositivo mínimo;
-- esse passo vai até ao reconhecimento de uma determinação local subsequente não meramente pontual;
-- o ensaio deve parar exatamente antes de essa determinação ser convertida em estrutura, dinâmica, função ou mediação.
+---
 
-### XI. Fórmula curta
+#### V. Teste de admissibilidade local
 
-> **`CF12_v1` testa com êxito apenas isto: a primeira consistência local própria antes admitida em limiar não fica reduzida a ponto isolado, mas deixa reconhecer um grau subsequente de determinação local ainda estrita. O ensaio interrompe-se antes de qualquer desenvolvimento forte ou mudança de regime.**
+##### 1. O que a formulação já consegue fazer
+A formulação ensaiada já consegue fazer, sem romper a faixa, cinco coisas decisivas:
+
+1. **separa realmente `CF12` de `CF11`**
+   - deixa de falar apenas de imputação singular, dignidade ou vida boa prudencial;
+   - faz aparecer o ponto em que a responsabilidade situada já não cabe só no singular.
+
+2. **dá estatuto próprio a `P49` nesta faixa**
+   - `P49` já não repete apenas a sua função em `CF11`;
+   - entra aqui como **dobradiça** entre responsabilidade situada e coexistência coordenada entre reflexivos.
+
+3. **faz regressar `P42/P43` como corpo vivo local**
+   - não como normatividade genérica;
+   - mas como **direção prática mínima**, **fixação operativa**, **expectativas de conduta** e **vetores de coexistência**.
+
+4. **mantém `P41` no seu lugar correto**
+   - `P41` entra como **mínimo negativo objetivo**;
+   - impede tratar coordenação, condutas e cursos de ação como ontologicamente indiferentes;
+   - mas não toma a cabeça positiva da faixa.
+
+5. **fica abaixo da mudança de regime**
+   - não precisa ainda de instituição;
+   - não precisa ainda de história;
+   - não precisa ainda de política;
+   - não precisa ainda de sistema;
+   - não precisa ainda de linguagem, critério, consciência ou representação.
+
+##### 2. O que a formulação ainda não faz
+A formulação ainda não autoriza dizer:
+- como essa coordenação se sedimenta no tempo;
+- como se torna forma social forte;
+- como se traduz em instituição estável;
+- como se historiciza;
+- como se politiza;
+- como ganha mediação alta, sistema, linguagem, critério ou representação próprios;
+- como se torna teoria geral da intersubjetividade.
+
+Ela também não autoriza:
+- tipologia rica de papéis sociais;
+- organização já interna do comum;
+- descrição de mecanismos institucionais;
+- passagem a cultura, direito ou ordem coletiva pronta.
+
+##### 3. O que ela já permite dizer sem romper a faixa
+Ela já permite dizer, em regime curto e disciplinado, que:
+- a coexistência entre reflexivos **não fica reduzida a paralelismo de privados**;
+- a responsabilidade situada começa a exigir **coordenação prática mínima**;
+- essa coordenação já pode ser nomeada como **fixação operativa de expectativas e condutas de coexistência**;
+- mas isso ainda não equivale a forma social forte nem a instituição.
+
+---
+
+#### VI. Limite interno do que ainda aguenta
+
+##### onde deixa de aguentar
+A formulação deixa de aguentar logo que a coordenação prática intersubjetiva mínima comece a ser descrita como:
+- **forma social já forte**;
+- **instituição pronta**;
+- **ordem política**;
+- **sedimentação histórica**;
+- **cultura estabilizada**;
+- **sistema de mediações**;
+- **linguagem, critério, consciência ou representação** como condição positiva da faixa.
+
+Também deixa de aguentar quando:
+- `P42/P43` voltam a soar apenas a normatividade genérica;
+- `P49` é tratado como cabeça mecânica isolada;
+- `P41` sobe a co-cabeça positiva;
+- `P48` entra cedo demais como limite dominante;
+- a faixa começa a falar já de comum sedimentado em vez de coordenação mínima.
+
+##### que tipo de salto começa aí
+A partir desse ponto começa sempre um dos seguintes saltos:
+- salto para **forma social forte**;
+- salto para **institucionalização**;
+- salto para **historicização**;
+- salto para **política**;
+- salto para **mediação alta**;
+- salto para **metacamadas explicativas**;
+- ou salto para a **faixa seguinte**.
+
+##### que tipo de inflação começaria aí
+A inflação começa quando o ensaio deixa de descrever uma coordenação mínima entre reflexivos e passa a sugerir:
+- um mundo comum já formado;
+- um direito já instalado;
+- uma cultura já sedimentada;
+- uma teoria já pronta da intersubjetividade;
+- ou uma explicação do social como sistema.
+
+Nesse ponto, a faixa deixa de trabalhar `CF12` no seu centro corrigido e começa a projetar material de `CF13` ou de camadas ainda mais tardias.
+
+---
+
+#### VII. Uso máximo atualmente suportado
+
+A formulação máxima prudente e positiva que este ensaio deixa atualmente suportada é esta:
+
+> **Em `CF12`, já é admissível dizer que a responsabilidade situada do ser reflexivo, quando confrontada com outros reflexivos de igual estatuto ontológico, começa a exigir coordenação prática intersubjetiva mínima, fixando vetores de ação, expectativas e condutas de coexistência sob um mínimo negativo que impede a indiferenciação, mas ainda sem autorizar forma social forte, instituição, história, política ou sistema.**
+
+##### condições vinculantes desse uso máximo
+Esta formulação só passa sob as seguintes condições:
+- `P49` entra como **dobradiça** e não como repetição simples de `CF11`;
+- `P42/P43` entram como **corpo vivo** e não como moral genérica;
+- `P41` entra apenas como **travão mínimo**;
+- `P48` permanece apenas como **bordo terminal externo**, sem ser necessário para a cabeça positiva do ensaio;
+- o texto permanece **curto, positivo, descritivo e sem densificação alta**.
+
+---
+
+#### VIII. Ponto de interrupção obrigatório
+
+O ensaio tem de parar exatamente aqui:
+- **depois** de nomear a coordenação prática intersubjetiva mínima;
+- **depois** de a ligar a vetores de ação, expectativas e condutas de coexistência;
+- **depois** de recolocar `P41` como travão mínimo;
+- mas **antes** de qualquer conversão dessa coordenação em:
+  - forma social forte,
+  - instituição,
+  - história,
+  - política,
+  - sistema,
+  - mediação alta,
+  - cultura,
+  - comum sedimentado,
+  - ou teoria geral da intersubjetividade.
+
+##### antes de quê
+O ponto de interrupção obrigatório ocorre antes de:
+- sedimentação do comum em sentido próprio;
+- descrição de estabilizações supraindividuais fortes;
+- institucionalização;
+- historicização;
+- politização;
+- e qualquer passagem a `CF13`.
+
+##### porquê
+Porque a partir daí:
+- o ensaio já não testa o centro próprio de `CF12`;
+- começa a antecipar material de outra faixa;
+- e perde a diferença entre **coordenação mínima** e **forma social já estruturada**.
+
+O excesso acima desse ponto deve ser preservado apenas como **teste negativo controlado** do que ainda não pode entrar.
+
+---
+
+#### IX. Veredito local do ensaio
+
+##### passou em que sentido
+O ensaio reaberto passa no seguinte sentido:
+- a abertura reaberta de `CF12` **não é vazia**;
+- `CF12` já aguenta mais do que a antiga fórmula baixa;
+- já é possível dizer positivamente a **coordenação prática intersubjetiva mínima** como corpo próprio do caso;
+- `P49 → P42/P43 → P41` já funciona como corredor ensaiável curto e disciplinado.
+
+##### não passou em que sentido
+O ensaio não passou, e ainda não autoriza:
+- densificação interna rica;
+- forma social forte;
+- instituição;
+- história;
+- política;
+- sistema;
+- mediação alta;
+- nem consolidação da faixa.
+
+Também não passou qualquer tentativa de usar a coordenação mínima atual como ponte automática para `CF13`.
+
+##### se há base para nova decisão local
+Há base suficiente para uma **nova decisão local de `CF12`**.
+
+O passo seguinte fica preparado assim:
+- **nome recomendado do próximo ficheiro:** `DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md`
+- **função:** fixar o uso máximo agora suportado pelo ensaio reaberto;
+- **sem** consolidar ainda a faixa;
+- **sem** abrir passagem automática para a faixa seguinte.
+
+---
+
+#### X. Fórmula curta
+
+> **Em `CF12`, a responsabilidade situada começa já a tornar-se coordenação mínima entre reflexivos; o ensaio passa aí e interrompe-se antes de essa coordenação se tornar forma social já forte.**
 
 ---
 
