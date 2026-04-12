@@ -1,6 +1,6 @@
 # MERGED — 05_faixa_cf06_p27_p29
 
-- Gerado em: `2026-04-09 18:12:48`
+- Gerado em: `2026-04-11 10:17:46`
 - Pasta da faixa: `05_faixa_cf06_p27_p29`
 - Número da faixa: `05`
 - Ficheiro ativo atual: `05_faixa_cf06_p27_p29\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_INICIAL_CF06_P27_P29.md`

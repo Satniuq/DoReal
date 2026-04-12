@@ -1,6 +1,6 @@
 # MERGED — 02_faixa_cf05_p23_p25
 
-- Gerado em: `2026-04-09 18:12:48`
+- Gerado em: `2026-04-11 10:17:46`
 - Pasta da faixa: `02_faixa_cf05_p23_p25`
 - Número da faixa: `02`
 - Ficheiro ativo atual: `02_faixa_cf05_p23_p25\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_INICIAL_CF05_P25.md`

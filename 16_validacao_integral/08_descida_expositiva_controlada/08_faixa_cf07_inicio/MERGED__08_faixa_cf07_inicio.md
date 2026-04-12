@@ -1,6 +1,6 @@
 # MERGED — 08_faixa_cf07_inicio
 
-- Gerado em: `2026-04-09 18:12:48`
+- Gerado em: `2026-04-11 10:17:46`
 - Pasta da faixa: `08_faixa_cf07_inicio`
 - Número da faixa: `08`
 - Ficheiro ativo atual: `08_faixa_cf07_inicio\02_decisoes_e_limites\DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF07_INICIO.md`

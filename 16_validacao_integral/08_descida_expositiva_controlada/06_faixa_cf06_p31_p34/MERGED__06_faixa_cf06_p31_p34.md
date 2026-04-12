@@ -1,6 +1,6 @@
 # MERGED — 06_faixa_cf06_p31_p34
 
-- Gerado em: `2026-04-09 18:12:48`
+- Gerado em: `2026-04-11 10:17:46`
 - Pasta da faixa: `06_faixa_cf06_p31_p34`
 - Número da faixa: `06`
 - Ficheiro ativo atual: `06_faixa_cf06_p31_p34\03_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_CF06_P31_P34.md`

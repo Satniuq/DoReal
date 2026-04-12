@@ -1,6 +1,6 @@
 # MERGED — 13_faixa_cf11
 
-- Gerado em: `2026-04-09 18:12:48`
+- Gerado em: `2026-04-11 10:17:46`
 - Pasta da faixa: `13_faixa_cf11`
 - Número da faixa: `13`
 - Ficheiro ativo atual: `13_faixa_cf11\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11.md`

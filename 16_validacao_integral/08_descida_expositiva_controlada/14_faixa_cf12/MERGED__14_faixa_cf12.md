@@ -1,6 +1,6 @@
 # MERGED — 14_faixa_cf12
 
-- Gerado em: `2026-04-09 18:12:48`
+- Gerado em: `2026-04-11 10:17:46`
 - Pasta da faixa: `14_faixa_cf12`
 - Número da faixa: `14`
 - Ficheiro ativo atual: `14_faixa_cf12\02_decisoes_e_limites\DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md`

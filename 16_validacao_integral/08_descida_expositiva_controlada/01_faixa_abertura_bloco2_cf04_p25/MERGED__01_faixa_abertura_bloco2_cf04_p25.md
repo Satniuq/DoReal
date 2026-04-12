@@ -1,6 +1,6 @@
 # MERGED — 01_faixa_abertura_bloco2_cf04_p25
 
-- Gerado em: `2026-04-09 18:12:48`
+- Gerado em: `2026-04-11 10:17:46`
 - Pasta da faixa: `01_faixa_abertura_bloco2_cf04_p25`
 - Número da faixa: `01`
 - Ficheiro ativo atual: `01_faixa_abertura_bloco2_cf04_p25\00_consolidado\CONSOLIDACAO_FAIXA_EXPOSITIVA_ABERTURA_BLOCO2_CF04_P25.md`

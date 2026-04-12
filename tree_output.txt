@@ -395,6 +395,9 @@ DoReal
 │   └── validar_containers_segmentacao.py
 ├── 03_filosofos
 │   └── ideias.txt
+├── 11_Schema_tentativa_1
+│   ├── percursos
+│   └── schema_base.json
 ├── 13_Meta_Indice
 │   ├── cadência
 │   │   ├── 01_segmentar_fragmentos
@@ -1336,13 +1339,13 @@ DoReal
 │   │   │   └── MERGED__11_faixa_cf09_transicao.md
 │   │   ├── 12_faixa_cf10
 │   │   │   ├── 00_abertura
-│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF10.md
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF10__REABERTA.md
 │   │   │   ├── 01_ensaios
-│   │   │   │   └── ENSAIO_CONTROLADO_CF10_v1.md
+│   │   │   │   └── ENSAIO_CONTROLADO_CF10__REABERTO_v1.md
 │   │   │   ├── 02_decisoes_e_limites
-│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF10.md
+│   │   │   │   ├── DECISAO_DISCIPLINADA_SOBRE_REABERTURA_LOCAL_AUDITADA_FAIXA_12_CF10.md
+│   │   │   │   └── DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF10.md
 │   │   │   ├── 03_consolidado
-│   │   │   │   └── CONSOLIDACAO_FAIXA_EXPOSITIVA_CF10.md
 │   │   │   └── MERGED__12_faixa_cf10.md
 │   │   ├── 13_faixa_cf11
 │   │   │   ├── 00_abertura
@@ -1350,15 +1353,16 @@ DoReal
 │   │   │   ├── 01_ensaios
 │   │   │   │   └── ENSAIO_CONTROLADO_CF11_v1.md
 │   │   │   ├── 02_decisoes_e_limites
-│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11.md
+│   │   │   │   ├── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF11.md
+│   │   │   │   └── DECISAO_DISCIPLINADA_SOBRE_REDECISAO_LOCAL_CF11.md
 │   │   │   └── MERGED__13_faixa_cf11.md
 │   │   ├── 14_faixa_cf12
 │   │   │   ├── 00_abertura
-│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12.md
+│   │   │   │   └── ABERTURA_FAIXA_EXPOSITIVA_CONTROLADA_CF12__REABERTA.md
 │   │   │   ├── 01_ensaios
-│   │   │   │   └── ENSAIO_CONTROLADO_CF12_v1.md
+│   │   │   │   └── ENSAIO_CONTROLADO_CF12__REABERTO_v1.md
 │   │   │   ├── 02_decisoes_e_limites
-│   │   │   │   └── DECISAO_CONTROLADA_SOBRE_USO_MAXIMO_INICIAL_CF12.md
+│   │   │   │   └── DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF12.md
 │   │   │   └── MERGED__14_faixa_cf12.md
 │   │   ├── 90_transicao_para_proxima_fase
 │   │   │   ├── 01_para_02_DECISAO_SOBRE_PROXIMA_FAIXA_E_CADENCIA_DE_TRATAMENTO.md
@@ -1377,12 +1381,15 @@ DoReal
 │   │   │   ├── 14_para_15_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   │   ├── merge_transicao_para_proxima_fase.py
 │   │   │   └── MERGED__90_transicao_para_proxima_fase_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md
+│   │   ├── docs_novos_ainda_sem_sitio
 │   │   ├── 14_README_FINAL_METODO_CONTINUIDADE_E_DESCIDA_EXPOSITIVA_CONTROLADA.md
+│   │   ├── DECISAO_DISCIPLINADA_SOBRE_REFAIXAMENTO_DA_ZONA_CF11_CF12.md
 │   │   ├── GUIAO_OPERATIVO_FAIXAS_EXPOSITIVAS_CONTROLADAS.md
 │   │   ├── merge_faixas_expositivas_controladas_v2.py
-│   │   ├── MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04_05_06.md
 │   │   ├── MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md
 │   │   └── PROMPTS_ORIGEM_FAIXAS_01_02_DESCIDA_EXPOSITIVA_CONTROLADA.md
+│   ├── 09_capitulos
+│   │   └── 00_README_OPERATIVO_CAPITULOS.md
 │   ├── 09_orquestrador_api_faixas
 │   │   ├── 00_config
 │   │   │   └── settings_runtime.json
@@ -1772,6 +1779,7 @@ DoReal
 │           │       ├── P09_VALIDACAO_FORMAL_OUTPUT.md.j2
 │           │       └── P11_CONTEXTO_CURTO_POR_TAREFA.md.j2
 │           └── README_COLOCACAO.txt
+├── data
 ├── .env
 ├── .gitignore
 ├── escrita_certas_partes.txt
