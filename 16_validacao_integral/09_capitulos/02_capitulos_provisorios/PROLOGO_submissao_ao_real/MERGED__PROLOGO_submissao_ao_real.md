@@ -1,9 +1,9 @@
 # MERGED — PROLOGO_submissao_ao_real
 
-- Gerado em: `2026-04-13 07:51:08`
-- Pasta local: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\PROLOGO_submissao_ao_real`
+- Gerado em: `2026-04-13 15:03:10`
+- Pasta local: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\PROLOGO_submissao_ao_real`
 - Ficheiros incluídos: `4`
-- Ficheiro gerado: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\PROLOGO_submissao_ao_real\MERGED__PROLOGO_submissao_ao_real.md`
+- Ficheiro gerado: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\PROLOGO_submissao_ao_real\MERGED__PROLOGO_submissao_ao_real.md`
 
 ## Índice interno
 
