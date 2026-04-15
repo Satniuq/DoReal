@@ -395,9 +395,6 @@ DoReal
 │   └── validar_containers_segmentacao.py
 ├── 03_filosofos
 │   └── ideias.txt
-├── 11_Schema_tentativa_1
-│   ├── percursos
-│   └── schema_base.json
 ├── 13_Meta_Indice
 │   ├── cadência
 │   │   ├── 01_segmentar_fragmentos
@@ -1345,7 +1342,6 @@ DoReal
 │   │   │   ├── 02_decisoes_e_limites
 │   │   │   │   ├── DECISAO_DISCIPLINADA_SOBRE_REABERTURA_LOCAL_AUDITADA_FAIXA_12_CF10.md
 │   │   │   │   └── DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF10.md
-│   │   │   ├── 03_consolidado
 │   │   │   └── MERGED__12_faixa_cf10.md
 │   │   ├── 13_faixa_cf11
 │   │   │   ├── 00_abertura
@@ -1381,7 +1377,6 @@ DoReal
 │   │   │   ├── 14_para_15_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   │   ├── merge_transicao_para_proxima_fase.py
 │   │   │   └── MERGED__90_transicao_para_proxima_fase_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md
-│   │   ├── docs_novos_ainda_sem_sitio
 │   │   ├── 14_README_FINAL_METODO_CONTINUIDADE_E_DESCIDA_EXPOSITIVA_CONTROLADA.md
 │   │   ├── DECISAO_DISCIPLINADA_SOBRE_REFAIXAMENTO_DA_ZONA_CF11_CF12.md
 │   │   ├── GUIAO_OPERATIVO_FAIXAS_EXPOSITIVAS_CONTROLADAS.md
@@ -1389,8 +1384,52 @@ DoReal
 │   │   ├── MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md
 │   │   └── PROMPTS_ORIGEM_FAIXAS_01_02_DESCIDA_EXPOSITIVA_CONTROLADA.md
 │   ├── 09_capitulos
-│   │   └── 00_README_OPERATIVO_CAPITULOS.md
-│   ├── 09_orquestrador_api_faixas
+│   │   ├── 01_arquitetura_total
+│   │   │   ├── ARQUITETURA_PROVISORIA_TOTAL_DE_CAPITULOS__REVISAO_COBERTURA_v2.md
+│   │   │   ├── MAPA_DE_LACUNAS_POR_CAPITULO__REVISAO_COBERTURA_v2.md
+│   │   │   ├── MATRIZ_CRITICA_TRANSVERSAL_DOS_CAPITULOS__REVISAO_COBERTURA_v2.md
+│   │   │   └── MERGED__01_arquitetura_total.md
+│   │   ├── 02_capitulos_provisorios
+│   │   │   ├── CAP_01_ser_real_unidade_diferenciada
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   └── MERGED__CAP_01_ser_real_unidade_diferenciada.md
+│   │   │   ├── CAP_02_manifestacao_aparecer_apreensao_situada
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   └── MERGED__CAP_02_manifestacao_aparecer_apreensao_situada.md
+│   │   │   ├── PROLOGO_submissao_ao_real
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   └── MERGED__PROLOGO_submissao_ao_real.md
+│   │   │   └── MERGED__02_capitulos_provisorios.md
+│   │   ├── 03_mapeamento_fragmentario
+│   │   │   ├── MAPEAMENTO_CONTAINERS_POR_CAPITULO__REVISAO_COBERTURA_v2.md
+│   │   │   ├── MAPEAMENTO_FRAGMENTOS_POR_CAPITULO__REVISAO_COBERTURA_v2.md
+│   │   │   ├── MATERIAIS_SEM_CAPITULO_AINDA__REVISAO_COBERTURA_v2.md
+│   │   │   └── MERGED__03_mapeamento_fragmentario.md
+│   │   ├── 05_revisoes_macro
+│   │   │   ├── MERGED__05_revisoes_macro.md
+│   │   │   ├── REVISAO_DA_CAMADA_CRITICA.md
+│   │   │   ├── REVISAO_DA_COBERTURA_INTEGRAL.md
+│   │   │   └── REVISAO_DA_ORDEM_TOTAL_DOS_CAPITULOS.md
+│   │   ├── 90_decisoes_de_transicao
+│   │   │   ├── DECISAO_SOBRE_PASSAGEM_A_POVOAMENTO_DE_CAPITULOS.md
+│   │   │   ├── DECISAO_SOBRE_REABERTURAS_NECESSARIAS.md
+│   │   │   ├── MEDIACOES_EM_FALTA.md
+│   │   │   └── MERGED__90_decisoes_de_transicao.md
+│   │   ├── 00_README_OPERATIVO_CAPITULOS.md
+│   │   ├── 00_README_OPERATIVO_CAPITULOS__ATUALIZADO_v2.md
+│   │   ├── merge_camadas_09_capitulos.py
+│   │   ├── merge_capitulos_provisorios_09_capitulos.py
+│   │   └── MERGED__09_capitulos__CAMADAS_ESTRUTURAIS.md
+│   ├── 90_orquestrador_api_faixas
 │   │   ├── 00_config
 │   │   │   └── settings_runtime.json
 │   │   ├── 03_estado_runtime
@@ -1779,7 +1818,6 @@ DoReal
 │           │       ├── P09_VALIDACAO_FORMAL_OUTPUT.md.j2
 │           │       └── P11_CONTEXTO_CURTO_POR_TAREFA.md.j2
 │           └── README_COLOCACAO.txt
-├── data
 ├── .env
 ├── .gitignore
 ├── escrita_certas_partes.txt

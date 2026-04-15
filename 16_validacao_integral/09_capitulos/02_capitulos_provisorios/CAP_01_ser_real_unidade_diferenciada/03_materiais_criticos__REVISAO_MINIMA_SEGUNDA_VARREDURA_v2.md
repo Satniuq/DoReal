@@ -18,6 +18,13 @@
 ### regra decisiva
 > no `Capítulo 1`, a crítica só entra para impedir substancialização, exterioridade, monismo indiferenciado, atomismo isolacionista e subida precoce para aparecer, verdade, ética ou sistema; não entra para substituir o chão positivo.
 
+### nota de revisão mínima
+Esta versão mantém **inalterado** o regime crítico próprio do `Capítulo 1`.
+
+A única correção introduzida após a **segunda varredura** é esta:
+- tornar mais explícito o conjunto de materiais críticos que **ficam fora** do capítulo;
+- sobretudo materiais **metacríticos**, **epistemológicos altos**, **ideológicos** ou **crítico-sistémicos** que poderiam ser confundidos com crítica fundacional, mas que pertencem melhor a bandas posteriores, laterais ou tardias.
+
 ---
 
 ## II. Regime crítico próprio do Capítulo 1
@@ -243,6 +250,8 @@ Isto pertence melhor a `Capítulos 10–11`, não ao `Capítulo 1`.
 - `F0015_SEG_001`
 - `F0089_SEG_002`
 - `F0098_A03_SEG_001`
+- `F0241_A07_SEG_004`
+- `F0241_A08_SEG_002`
 
 ### razão
 Todos estes materiais já puxam para:
@@ -250,16 +259,42 @@ Todos estes materiais já puxam para:
 - sedimentação do comum;
 - cultura;
 - direito e instituição;
-- crítica de sistema.
+- crítica de sistema;
+- fundação simbólica substitutiva;
+- sistema normativo totalizante.
 
 No `Capítulo 1`, entram demasiado cedo e deslocam a fundação para o tardio.
 
 ## ficam fora por serem já metacríticos ou laterais
 - `F0123_SEG_001`
+- `F0123_SEG_002`
 - materiais equivalentes sobre filosofia desligada do real
 
 ### razão
 Estes materiais pertencem melhor a `L1 / 15` como metacrítica lateral, não à fundação ontológica mínima.
+
+## ficam fora por serem crítica epistemológica alta da reflexividade ou do critério
+- `F0074_A02_SEG_001`
+- `F0074_A02_SEG_002`
+- `F0074_A02_SEG_003`
+- `F0116_SEG_001`
+- `F0190_SEG_001`
+
+### razão
+Todos estes materiais já puxam para:
+- formalismo coerentista desligado do real;
+- relativização individualista;
+- fecho epistemológico da projeção do eu;
+- inconsistência reflexiva do determinismo;
+- ideologia ou normatividade não corrigida pelo real.
+
+São materiais úteis, mas pertencem melhor:
+- à matriz crítica transversal;
+- a `Capítulo 7`;
+- a zonas laterais de crítica da reflexividade;
+- ou a bandas mais tardias de crítica ético-epistemológica.
+
+No `Capítulo 1`, fariam o texto subir cedo demais da fundação ontológica para a disputa sobre critério, verdade, consciência, ideologia e correção.
 
 ---
 
@@ -299,6 +334,14 @@ Estes materiais pertencem melhor a `L1 / 15` como metacrítica lateral, não à 
 - `F0089_SEG_002`
 - `F0098_A03_SEG_001`
 - `F0123_SEG_001`
+- `F0123_SEG_002`
+- `F0074_A02_SEG_001`
+- `F0074_A02_SEG_002`
+- `F0074_A02_SEG_003`
+- `F0116_SEG_001`
+- `F0190_SEG_001`
+- `F0241_A07_SEG_004`
+- `F0241_A08_SEG_002`
 
 ---
 

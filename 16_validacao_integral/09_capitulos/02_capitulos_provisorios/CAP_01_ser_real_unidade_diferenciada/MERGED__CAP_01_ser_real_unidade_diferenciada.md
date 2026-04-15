@@ -1,16 +1,16 @@
 # MERGED — CAP_01_ser_real_unidade_diferenciada
 
-- Gerado em: `2026-04-13 15:03:10`
-- Pasta local: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\CAP_01_ser_real_unidade_diferenciada`
+- Gerado em: `2026-04-15 18:59:14`
+- Pasta local: `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada`
 - Ficheiros incluídos: `6`
-- Ficheiro gerado: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\CAP_01_ser_real_unidade_diferenciada\MERGED__CAP_01_ser_real_unidade_diferenciada.md`
+- Ficheiro gerado: `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/MERGED__CAP_01_ser_real_unidade_diferenciada.md`
 
 ## Índice interno
 
 - [00_estatuto_e_limites](#cap-01-ser-real-unidade-diferenciada-00-estatuto-e-limites-md) — `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/00_estatuto_e_limites.md`
 - [01_estrutura_interna](#cap-01-ser-real-unidade-diferenciada-01-estrutura-interna-md) — `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/01_estrutura_interna.md`
 - [02_materiais_positivos](#cap-01-ser-real-unidade-diferenciada-02-materiais-positivos-md) — `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/02_materiais_positivos.md`
-- [03_materiais_criticos](#cap-01-ser-real-unidade-diferenciada-03-materiais-criticos-md) — `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/03_materiais_criticos.md`
+- [03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2](#cap-01-ser-real-unidade-diferenciada-03-materiais-criticos-revisao-minima-segunda-varredura-v2-md) — `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2.md`
 - [04_lacunas_do_capitulo](#cap-01-ser-real-unidade-diferenciada-04-lacunas-do-capitulo-md) — `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/04_lacunas_do_capitulo.md`
 - [05_decisao_local_do_capitulo](#cap-01-ser-real-unidade-diferenciada-05-decisao-local-do-capitulo-md) — `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/05_decisao_local_do_capitulo.md`
 
@@ -844,10 +844,10 @@ Na abertura redacional futura do capítulo, será preciso:
 
 > O `Capítulo 1` já tem matéria bastante para abrir o tronco ontológico baixo, mas o seu povoamento tem de permanecer seco: dizer só o mínimo necessário para que o ser apareça como inscrição determinada no real sob estrutura e limite.
 
-<a id="cap-01-ser-real-unidade-diferenciada-03-materiais-criticos-md"></a>
-## 03_materiais_criticos
+<a id="cap-01-ser-real-unidade-diferenciada-03-materiais-criticos-revisao-minima-segunda-varredura-v2-md"></a>
+## 03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2
 
-**Ficheiro de origem:** `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/03_materiais_criticos.md`
+**Ficheiro de origem:** `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2.md`
 
 # 03_materiais_criticos
 
@@ -868,6 +868,13 @@ Na abertura redacional futura do capítulo, será preciso:
 
 ### regra decisiva
 > no `Capítulo 1`, a crítica só entra para impedir substancialização, exterioridade, monismo indiferenciado, atomismo isolacionista e subida precoce para aparecer, verdade, ética ou sistema; não entra para substituir o chão positivo.
+
+### nota de revisão mínima
+Esta versão mantém **inalterado** o regime crítico próprio do `Capítulo 1`.
+
+A única correção introduzida após a **segunda varredura** é esta:
+- tornar mais explícito o conjunto de materiais críticos que **ficam fora** do capítulo;
+- sobretudo materiais **metacríticos**, **epistemológicos altos**, **ideológicos** ou **crítico-sistémicos** que poderiam ser confundidos com crítica fundacional, mas que pertencem melhor a bandas posteriores, laterais ou tardias.
 
 ---
 
@@ -1094,6 +1101,8 @@ Isto pertence melhor a `Capítulos 10–11`, não ao `Capítulo 1`.
 - `F0015_SEG_001`
 - `F0089_SEG_002`
 - `F0098_A03_SEG_001`
+- `F0241_A07_SEG_004`
+- `F0241_A08_SEG_002`
 
 ### razão
 Todos estes materiais já puxam para:
@@ -1101,16 +1110,42 @@ Todos estes materiais já puxam para:
 - sedimentação do comum;
 - cultura;
 - direito e instituição;
-- crítica de sistema.
+- crítica de sistema;
+- fundação simbólica substitutiva;
+- sistema normativo totalizante.
 
 No `Capítulo 1`, entram demasiado cedo e deslocam a fundação para o tardio.
 
 ## ficam fora por serem já metacríticos ou laterais
 - `F0123_SEG_001`
+- `F0123_SEG_002`
 - materiais equivalentes sobre filosofia desligada do real
 
 ### razão
 Estes materiais pertencem melhor a `L1 / 15` como metacrítica lateral, não à fundação ontológica mínima.
+
+## ficam fora por serem crítica epistemológica alta da reflexividade ou do critério
+- `F0074_A02_SEG_001`
+- `F0074_A02_SEG_002`
+- `F0074_A02_SEG_003`
+- `F0116_SEG_001`
+- `F0190_SEG_001`
+
+### razão
+Todos estes materiais já puxam para:
+- formalismo coerentista desligado do real;
+- relativização individualista;
+- fecho epistemológico da projeção do eu;
+- inconsistência reflexiva do determinismo;
+- ideologia ou normatividade não corrigida pelo real.
+
+São materiais úteis, mas pertencem melhor:
+- à matriz crítica transversal;
+- a `Capítulo 7`;
+- a zonas laterais de crítica da reflexividade;
+- ou a bandas mais tardias de crítica ético-epistemológica.
+
+No `Capítulo 1`, fariam o texto subir cedo demais da fundação ontológica para a disputa sobre critério, verdade, consciência, ideologia e correção.
 
 ---
 
@@ -1150,6 +1185,14 @@ Estes materiais pertencem melhor a `L1 / 15` como metacrítica lateral, não à 
 - `F0089_SEG_002`
 - `F0098_A03_SEG_001`
 - `F0123_SEG_001`
+- `F0123_SEG_002`
+- `F0074_A02_SEG_001`
+- `F0074_A02_SEG_002`
+- `F0074_A02_SEG_003`
+- `F0116_SEG_001`
+- `F0190_SEG_001`
+- `F0241_A07_SEG_004`
+- `F0241_A08_SEG_002`
 
 ---
 
