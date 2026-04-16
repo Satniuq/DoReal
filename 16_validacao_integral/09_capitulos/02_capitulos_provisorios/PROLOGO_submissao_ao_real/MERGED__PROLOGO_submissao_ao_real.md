@@ -1,6 +1,6 @@
 # MERGED — PROLOGO_submissao_ao_real
 
-- Gerado em: `2026-04-15 18:59:14`
+- Gerado em: `2026-04-16 17:58:38`
 - Pasta local: `02_capitulos_provisorios/PROLOGO_submissao_ao_real`
 - Ficheiros incluídos: `4`
 - Ficheiro gerado: `02_capitulos_provisorios/PROLOGO_submissao_ao_real/MERGED__PROLOGO_submissao_ao_real.md`

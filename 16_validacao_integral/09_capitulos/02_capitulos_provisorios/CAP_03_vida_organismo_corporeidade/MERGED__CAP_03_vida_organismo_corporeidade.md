@@ -1,8 +1,8 @@
 # MERGED — CAP_03_vida_organismo_corporeidade
 
-- Gerado em: `2026-04-15 18:59:14`
+- Gerado em: `2026-04-16 17:58:38`
 - Pasta local: `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade`
-- Ficheiros incluídos: `4`
+- Ficheiros incluídos: `6`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/MERGED__CAP_03_vida_organismo_corporeidade.md`
 
 ## Índice interno
@@ -11,6 +11,8 @@
 - [01_estrutura_interna](#cap-03-vida-organismo-corporeidade-01-estrutura-interna-md) — `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/01_estrutura_interna.md`
 - [02_materiais_positivos](#cap-03-vida-organismo-corporeidade-02-materiais-positivos-md) — `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/02_materiais_positivos.md`
 - [03_materiais_criticos](#cap-03-vida-organismo-corporeidade-03-materiais-criticos-md) — `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/03_materiais_criticos.md`
+- [04_lacunas_do_capitulo](#cap-03-vida-organismo-corporeidade-04-lacunas-do-capitulo-md) — `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/04_lacunas_do_capitulo.md`
+- [05_decisao_local_do_capitulo](#cap-03-vida-organismo-corporeidade-05-decisao-local-do-capitulo-md) — `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/05_decisao_local_do_capitulo.md`
 
 ## Estatuto desta agregação
 
@@ -1307,3 +1309,602 @@ Na futura redação do capítulo, será preciso:
 - manter visível a diferença entre **solo baixo**, **torção de passagem**, **condições estruturais** e **bordo alto**;
 - usar a crítica só para travar regressões expositivas reais;
 - impedir que memória, mediação ou reflexividade entrem como compensação redacional para falta de secura na formulação do centro.
+
+<a id="cap-03-vida-organismo-corporeidade-04-lacunas-do-capitulo-md"></a>
+## 04_lacunas_do_capitulo
+
+**Ficheiro de origem:** `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/04_lacunas_do_capitulo.md`
+
+# 04_lacunas_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar as **lacunas reais ainda ativas** do **Capítulo 3 — Vida, organismo e corporeidade** depois do seu estatuto, estrutura interna, materiais positivos e materiais críticos já levantados;
+- distinguir entre:
+  - lacunas de **densificação positiva**,
+  - lacunas de **travão crítico**,
+  - lacunas de **fronteira**,
+  - e lacunas de **mediação terminal**;
+- impedir que o capítulo pareça mais fechado do que realmente está;
+- preparar a passagem disciplinada a `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não reabre a arquitetura total da obra;
+- não altera o centro local já fixado para o capítulo;
+- não converte a enumeração das faltas em novo ensaio;
+- não autoriza ainda expansão para memória, identidade temporal, representação, mediação, consciência, sujeito, critério, verdade, ética, sistema ou crítica tardia;
+- não autoriza que a entrega `3→4` se transforme já em corpo desenvolvido do `Capítulo 4`;
+- não autoriza que continuidade encarnada e estabilização local se convertam já no corpo próprio do `Capítulo 5`;
+- não transforma o capítulo em antropologia pronta nem em ontologia regional abstrata do vivo só porque a sua cobertura local já é real.
+
+### regra decisiva
+> neste capítulo, a lacuna principal já não é falta de matéria sobre vida organizada, corpo, organismo ou continuidade encarnada; é falta de secura suficiente para dizer a torção pela qual esse solo vivo torna inteligível a diferença reflexiva encarnada, e falta de distribuição mais dura entre centro próprio, condições estruturais e entrega terminal `3→4`.
+
+---
+
+## II. O que já está suficientemente ganho
+
+### ganho positivo real
+Já está suficientemente ganho, para este capítulo:
+- a incorporação local ativa da mediação obrigatória `2→3`;
+- a abertura pelo **vivo organizado** e não por consciência, sujeito ou memória;
+- a entrada de **corpo**, **organismo**, **campo do vivo**, **continuidade encarnada**, **estabilização local** e **apreensão** como solo legítimo do caso;
+- a necessidade de uma **torção de passagem** à diferença reflexiva encarnada;
+- a existência de **condições estruturais subordinadas** e de um **travão por campo, escala e limite**;
+- os travões contra abstração regional do vivo, contra memória soberana, contra mediação e representação precoces, contra epistemologia alta e contra subida ética ou sistémica;
+- a fronteira negativa com o `Capítulo 2`, o `Capítulo 4` e o `Capítulo 5`.
+
+### consequência metodológica
+O `Capítulo 3` não sofre, neste momento, de falta de matéria mínima.
+O que lhe falta já não é “ter sobre o que falar”.
+O que lhe falta é:
+- maior secura positiva da sua abertura;
+- melhor hierarquia interna entre solo, torção, condições e entrega;
+- e fronteira mais curta e mais dura com os capítulos seguintes.
+
+---
+
+## III. Lacunas positivas ainda ativas
+
+## L1 — falta de formulação curta e seca para o solo do vivo organizado
+
+### problema
+A abertura pelo vivo organizado já está corretamente identificada, mas ainda pode soar demasiado nominal ou acumulativa: “vida”, “organismo” e “corpo” aparecem por vezes como simples rótulos de zona, em vez de aparecerem como a primeira densidade real da passagem.
+
+### o que falta
+Falta uma formulação mais curta e mais afirmativa de:
+- por que razão o capítulo não começa por “vida” em abstrato;
+- por que razão o vivo organizado comparece como **solo real de inserção, adaptação e persistência encarnada**;
+- e por que razão esse solo ainda não é consciência, memória ou sujeito.
+
+### consequência
+Sem esta secura positiva, a abertura do capítulo pode parecer:
+- ontologia regional abstrata;
+- enumeração de temas biológicos;
+- ou simples prolongamento verbal da ponte `2→3`.
+
+---
+
+## L2 — falta de encadeamento mais apertado entre corpo, organismo, campo do vivo, continuidade encarnada, estabilização local e apreensão
+
+### problema
+Estes termos já estão todos legitimamente instalados, mas a ligação entre eles ainda pode parecer demasiado justaposta. O risco é que o capítulo avance por soma de nomes fortes em vez de mostrar uma cadeia curta e necessária.
+
+### o que falta
+Falta uma ponte interna que diga, com mais nitidez:
+- o organismo não é um acréscimo ao corpo, mas a sua organização viva;
+- o campo do vivo não é exterior a essa organização, mas a sua inscrição relacional;
+- continuidade encarnada e estabilização local não são camadas novas, mas modos de persistência desse vivo;
+- e a apreensão permanece ativa dentro desse solo, sem ainda subir a representação.
+
+### consequência
+Sem esta ponte, `M1` e `M2` podem:
+- parecer apenas contíguos;
+- achatar-se numa massa coigual;
+- ou deixar estabilização e apreensão soar já a memória ou mediação.
+
+---
+
+## L3 — falta de formulação ainda mais seca para a torção de passagem à diferença reflexiva encarnada
+
+### problema
+O verdadeiro centro do capítulo já está reconhecido, mas ainda precisa de formulação mais dura. A torção pela qual o vivo organizado torna inteligível uma diferença reflexiva encarnada continua vulnerável a dois excessos simétricos: ou regressa ao abstrato “vida/corpo/organismo”, ou pede emprestado ao `Capítulo 4` o que ainda não lhe pertence.
+
+### o que falta
+Falta uma formulação mínima que diga apenas isto:
+- há um vivo organizado, encarnado e situado;
+- esse vivo não se esgota em atualização cega;
+- nele se torna inteligível uma diferença interna mais alta;
+- mas essa diferença ainda não é reflexividade constituída, memorial, representacional ou mediada.
+
+### consequência
+Sem esta secura, o capítulo pode:
+- parecer demasiado baixo e sem torção própria;
+- ou demasiado alto, como se já estivesse a abrir a consciência reinscrita.
+
+---
+
+## L4 — falta de distribuição mais dura entre centro próprio e condições estruturais subordinadas
+
+### problema
+Campo, escala e limite já entram legitimamente como travão de admissibilidade. Mas ainda falta marcá-los com mais nitidez como **condições subordinadas** e não como novo co-centro do capítulo.
+
+### o que falta
+Falta uma regra de hierarquia mais curta:
+- o centro continua a ser o solo vivo-organizacional e a torção interna da passagem;
+- campo, escala e limite entram apenas para impedir colapsos;
+- não abrem nova faixa autónoma dentro do capítulo;
+- e não rebaixam o caso a mera diferenciação ontológica lateral.
+
+### consequência
+Sem esta hierarquia, `M4` pode:
+- engrossar indevidamente;
+- deslocar o foco do corpo vivo para a sua moldura;
+- ou fazer o capítulo parecer mais forte pelas condições de admissibilidade do que pelo que afirma positivamente.
+
+---
+
+## L5 — falta de entrega terminal suficientemente baixa para a mediação `3→4`
+
+### problema
+A entrega `3→4` já é necessária, mas ainda não está suficientemente fixada no seu regime exato. O risco já não é a sua ausência; é a sua inflação.
+
+### o que falta
+Falta uma formulação terminal que diga apenas:
+- a diferença reflexiva encarnada torna-se aqui inteligível;
+- a sua constituição situada, memorial, representacional e mediada ainda não abriu;
+- a mediação `3→4` pertence ao fecho terminal do capítulo;
+- e não pode reocupar a sua abertura nem o seu corpo próprio.
+
+### consequência
+Sem esta formulação baixa:
+- `M5` pode parecer falso começo do `Capítulo 4`;
+- ou falso avanço para o limiar memorial do `Capítulo 5`.
+
+---
+
+## IV. Lacunas críticas ainda ativas
+
+## C1 — crítica interna ainda demasiado dependente de materiais de bordo alto
+
+### problema
+Os materiais que melhor travam a subida para consciência, representação e mediação continuam úteis, mas vários deles já chegam com carga alta demais. Se forem mal usados, deixam de proteger o centro e passam a reocupá-lo.
+
+### o que falta
+Falta uma regra local mais dura sobre estes materiais:
+- podem entrar como bordo terminal;
+- podem entrar como frase curta de travão;
+- podem entrar como vigilância da entrega `3→4`;
+- mas não podem governar `M1`, `M2` ou `M3`.
+
+### consequência
+Sem esta disciplina, o capítulo pode abrir por consciência, símbolo, representação ou fala, em vez de abrir pelo vivo organizado e pela sua torção própria.
+
+---
+
+## C2 — falta de separação crítica mais curta entre anti-abstração do vivo e anti-consciência precoce
+
+### problema
+O capítulo já trava dois desvios reais:
+- reduzir o caso a “vida/organismo/corpo” em abstrato;
+- e subir cedo demais para consciência, reflexividade ou sujeito.
+
+Mas a linha crítica entre estes dois desvios ainda não está suficientemente seca.
+
+### o que falta
+Falta uma formulação que diga claramente:
+- nem ontologia regional abstrata do vivo;
+- nem reflexividade já pronta;
+- o capítulo pertence ao entremeio encarnado que torna a passagem inteligível.
+
+### consequência
+Sem esta distinção curta, o capítulo pode oscilar:
+- entre uma baixa demasiado pobre;
+- e uma alta emprestada ao caso seguinte.
+
+---
+
+## C3 — falta de travão mais curto entre continuidade encarnada / estabilização local e memória
+
+### problema
+O travão anti-memória soberana já existe, mas ainda precisa de formulação mais curta. Continuidade encarnada e estabilização local podem ser lidas indevidamente como se já fossem memória, retenção ou identidade temporal.
+
+### o que falta
+Falta dizer com mais dureza:
+- continuidade encarnada não é memória;
+- estabilização local não é ainda permanência interna tornada centro;
+- e o capítulo só usa estas noções enquanto condições estruturais da passagem.
+
+### consequência
+Sem este travão mais curto, o capítulo pode escorregar cedo demais para o `Capítulo 5`.
+
+---
+
+## C4 — risco de o capítulo parecer forte sobretudo pelo que exclui
+
+### problema
+O `Capítulo 3` já tem bons travões.
+Mas, se a formulação positiva não secar mais, o texto pode parecer mais robusto pelo negativo do que pela sua cabeça própria.
+
+### o que falta
+Falta que a crítica apareça explicitamente subordinada a uma cabeça positiva curta:
+- vivo organizado;
+- corpo / organismo / campo do vivo;
+- continuidade encarnada / estabilização local / apreensão;
+- torção à diferença reflexiva encarnada.
+
+### consequência
+Sem isso, o capítulo fica protegido, mas ainda insuficientemente concentrado.
+
+---
+
+## V. Lacunas de fronteira e de mediação interna
+
+## F1 — fronteira ainda insuficientemente curta com o Capítulo 2
+
+### problema
+O capítulo herda do `Capítulo 2` localidade, apreensão situada, afetação real antes da representação e a ponte baixa `2→3`.
+Mas ainda falta uma frase curta que impeça o retorno do aparecer situado como cabeça própria.
+
+### o que falta
+Falta uma fronteira do tipo:
+- o `Capítulo 2` torna este capítulo possível;
+- o `Capítulo 3` só começa quando a ponte `2→3` deixa de ser fecho terminal do aparecer e passa a solo próprio do vivo organizado.
+
+### consequência
+Sem esta fronteira curta, o capítulo pode parecer apenas prolongamento do anterior.
+
+---
+
+## F2 — fronteira ainda insuficientemente curta com o Capítulo 4
+
+### problema
+A passagem à diferença reflexiva encarnada já está legitimamente dentro do `Capítulo 3`, mas a constituição situada, memorial, representacional e mediada da reflexividade já pertence ao `Capítulo 4`.
+
+### o que falta
+Falta uma fórmula de fronteira mais curta que diga:
+- no `Capítulo 3`, a reflexividade só se torna inteligível;
+- no `Capítulo 4`, ela começa a ganhar constituição própria.
+
+### consequência
+Sem esta fronteira, a entrega `3→4` pode parecer corpo principal do próprio capítulo.
+
+---
+
+## F3 — fronteira ainda insuficientemente curta com o Capítulo 5
+
+### problema
+Tempo, continuidade encarnada e estabilização local já entram aqui, mas o `Capítulo 5` começa quando a estabilização temporal interna passa a centro próprio.
+
+### o que falta
+Falta uma frase de fronteira do tipo:
+- no `Capítulo 3`, estabilização e continuidade servem a passagem;
+- no `Capítulo 5`, a estabilização temporal interna torna-se o próprio foco do texto.
+
+### consequência
+Sem esta frase curta, o capítulo pode entregar cedo demais o seu centro ao limiar memorial.
+
+---
+
+## F4 — fronteira ainda insuficientemente curta com os Capítulos 6 e 7
+
+### problema
+Alguns materiais de borda continuam a puxar para representação forte, adequação, verdade, erro e correção.
+
+### o que falta
+Falta uma regra mais curta que diga:
+- a apreensão continua ativa;
+- a representação ainda não abriu como corpo próprio;
+- e adequação, critério, verdade, erro e correção continuam fora desta peça.
+
+### consequência
+Sem esta fronteira, o capítulo pode parecer mediação ou proto-epistemologia sob máscara corporal.
+
+---
+
+## VI. O que continua fora
+
+Continuam fora, e devem permanecer fora nesta fase:
+- memória como centro próprio;
+- identidade temporal;
+- representação em sentido forte;
+- mediação, símbolo e linguagem como corpo do capítulo;
+- consciência, sujeito e reflexividade constituída;
+- critério, verdade, erro e correção;
+- dever-ser, responsabilidade, dignidade, coordenação, cultura, instituição e sistema;
+- crítica tardia, metacrítica e ordem global do livro.
+
+### razão
+O `Capítulo 3` já é suficientemente forte sem estas camadas.
+Introduzi-las agora não o densificaria; desorganizá-lo-ia.
+
+---
+
+## VII. Núcleo das lacunas reais do capítulo
+
+O núcleo das lacunas reais do `Capítulo 3` é este:
+
+> **o capítulo já tem matéria bastante, mas ainda precisa de dizer com secura suficiente a própria torção pela qual o vivo organizado torna inteligível uma diferença reflexiva encarnada, sem voltar ao abstrato “vida/organismo/corpo” nem pedir emprestado ao `Capítulo 4` ou ao `Capítulo 5` o que ainda não lhe pertence.**
+
+### desdobramento do núcleo
+As lacunas reais concentram-se em cinco tarefas:
+1. secar a abertura pelo solo do vivo organizado;
+2. apertar a cadeia corpo → organismo → campo do vivo → continuidade encarnada → estabilização local → apreensão;
+3. fixar a torção de passagem à diferença reflexiva encarnada como centro próprio;
+4. subordinar mais duramente campo, escala e limite ao centro positivo;
+5. deixar a entrega `3→4` explicitamente terminal, sem falso começo de `Capítulo 4` nem falso avanço para `Capítulo 5`.
+
+---
+
+## VIII. Prioridade local de preenchimento
+
+### prioridade 1
+Fixar a formulação positiva mais seca da abertura do capítulo:
+- vivo organizado;
+- corpo;
+- organismo;
+- campo do vivo.
+
+### prioridade 2
+Fixar a ponte curta entre:
+- continuidade encarnada;
+- estabilização local;
+- apreensão;
+- e persistência organizada do vivo.
+
+### prioridade 3
+Fixar a fórmula mínima da torção central:
+- diferença reflexiva encarnada como inteligível aqui;
+- sem consciência, sujeito, memória ou representação como cabeça.
+
+### prioridade 4
+Fixar a fronteira local com o `Capítulo 4` e com o `Capítulo 5`:
+- travão contra constituição situada e mediada da reflexividade;
+- travão contra memória como centro próprio.
+
+### prioridade 5
+Fechar o estatuto exato dos materiais de bordo alto, para que não reocupem a cabeça do capítulo por afinidade verbal com consciência, representação, memória ou mediação.
+
+---
+
+## IX. Efeito desta peça sobre o passo seguinte
+
+### o que esta peça já permite
+Esta peça já permite passar a `05_decisao_local_do_capitulo.md`.
+
+### porquê
+Porque as lacunas do `Capítulo 3`:
+- são reais;
+- mas não são impeditivas do seu uso local disciplinado.
+
+O capítulo já tem massa suficiente para decisão local.
+O que falta agora não é mais levantamento bruto.
+O que falta é:
+- decidir o uso máximo local admissível;
+- fixar o seu regime de povoamento válido;
+- e dizer se a sua abertura local fica preservada, preservada com restrições ou ainda sob reabertura.
+
+---
+
+## X. Fórmula curta
+
+> O `Capítulo 3` já tem chão bastante para entrar, mas ainda precisa de ganhar mais secura e hierarquia local: não deixar “vida/corpo/organismo” soar a ontologia regional abstrata, não deixar memória, representação ou consciência tomarem a cabeça, e deixar `3→4` apenas como entrega terminal.
+
+<a id="cap-03-vida-organismo-corporeidade-05-decisao-local-do-capitulo-md"></a>
+## 05_decisao_local_do_capitulo
+
+**Ficheiro de origem:** `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/05_decisao_local_do_capitulo.md`
+
+# 05_decisao_local_do_capitulo
+
+## I. Estatuto da decisão
+
+### função
+- fixar o estatuto local atualmente admissível do **Capítulo 3 — Vida, organismo e corporeidade**;
+- decidir o que já pode ficar localmente preservado como ganho;
+- dizer o que ainda falta secar, apertar ou travar;
+- impedir crescimento indevido para ontologia regional abstrata do vivo, consciência alta, sujeito, memória soberana, representação, mediação, epistemologia alta, ética ou sistema;
+- preparar a passagem prudente ao capítulo seguinte sem a antecipar indevidamente.
+
+### limite
+- esta decisão não reabre a arquitetura total;
+- não reabre `CF03`;
+- não transforma o capítulo em redação corrida;
+- não autoriza ainda escrita livre do capítulo;
+- não desloca o centro do capítulo para memória, representação, mediação, consciência, sujeito, critério, verdade, ética ou sistema;
+- não decide ainda a forma final de redação do livro;
+- não autoriza abrir o `Capítulo 4` como se a mediação `3→4` já estivesse resolvida por si mesma;
+- não autoriza tratar o `Capítulo 5` como se já estivesse absorvido pela continuidade encarnada e pela estabilização local deste capítulo.
+
+### valor metodológico
+- vale como fecho local da primeira abertura disciplinada do `Capítulo 3`;
+- vale como critério de uso para esta pasta local;
+- vale como travão contra abstração biologista, memória precoce e inflação mediacional;
+- vale como regra de passagem prudente do solo do vivo organizado para a constituição situada da reflexividade, sem colapsar `Capítulo 3`, `Capítulo 4` e `Capítulo 5`.
+
+---
+
+## II. Base local considerada
+
+Esta decisão parte de:
+- `00_estatuto_e_limites.md`;
+- `01_estrutura_interna.md`;
+- `02_materiais_positivos.md`;
+- `03_materiais_criticos.md`;
+- `04_lacunas_do_capitulo.md`.
+
+E permanece subordinada:
+- à camada revista ativa da pasta `09_capitulos`;
+- à arquitetura provisória total revista;
+- à matriz crítica revista;
+- ao mapa de lacunas revisto;
+- ao corredor de povoamento já fixado para o `Capítulo 3`;
+- e ao centro estabilizado de `CF03`.
+
+---
+
+## III. O que já ficou suficientemente ganho
+
+### centro já ganho
+Fica localmente ganho, com força bastante para preservação, este centro:
+
+> **o vivo organizado, enquanto corpo, organismo, campo do vivo, continuidade encarnada, estabilização local e apreensão, torna inteligível a passagem à diferença reflexiva encarnada; por isso, o capítulo só pode abrir por esse solo e só pode fechar entregando ulteriormente a possibilidade de memória, representação, mediação, consciência e sujeito, sem ainda os deixar ocupar o seu centro próprio.**
+
+### desdobramento mínimo já assegurado
+Já ficou suficientemente assegurado que o `Capítulo 3`:
+- não é simples prolongamento do `Capítulo 2`;
+- não é ontologia regional abstrata de “vida/organismo/corpo”;
+- não abre por consciência, sujeito, memória, representação, mediação, critério, verdade, ética ou sistema;
+- tem ordem interna mínima estável;
+- já possui corpo positivo bastante em:
+  - solo do vivo organizado;
+  - corpo, organismo, campo do vivo, continuidade encarnada, estabilização local e apreensão;
+  - torção de passagem à diferença reflexiva encarnada;
+  - condições estruturais subordinadas;
+  - travão de admissibilidade por campo, escala e limite;
+  - fecho e entrega à mediação obrigatória `3→4`.
+
+### falso centro dominante já suficientemente bloqueado
+O falso centro dominante já suficientemente bloqueado é este:
+
+> **ou reduzir o capítulo ao abstrato “vida/organismo/corpo”, ou deixá-lo subir cedo demais para memória, mediação, representação, consciência ou sujeito.**
+
+### função expositiva já suficientemente assegurada
+O capítulo já aguenta mostrar ao leitor, de modo localmente estável:
+- que não se salta do aparecer situado para o sujeito;
+- que há uma espessura viva, corporal e encarnada que tem de ser atravessada;
+- que continuidade encarnada e estabilização local ainda não são memória como centro próprio;
+- e que a diferença reflexiva encarnada se torna aqui inteligível sem ainda ganhar constituição situada, memorial ou mediada.
+
+### erro principal a evitar
+O erro principal a evitar continua a ser triplo:
+- **achatar** o capítulo numa ontologia regional abstrata do vivo;
+- **inflacionar** o capítulo para memória, consciência, sujeito ou mediação;
+- **deslocar** o capítulo para o corpo próprio do `Capítulo 4` ou do `Capítulo 5` antes da sua mediação terminal legítima.
+
+---
+
+## IV. Uso máximo local atualmente admissível
+
+### formulação máxima prudente
+A formulação máxima prudente atualmente admissível para o `Capítulo 3` é esta:
+
+> **O terceiro capítulo começa quando a ponte `2→3` deixa de ser apenas fecho terminal do aparecer situado e passa a solo próprio do vivo organizado: corpo, organismo, campo do vivo, continuidade encarnada, estabilização local e apreensão dão aqui a espessura real da passagem, e é apenas nesse interior que se torna inteligível uma diferença reflexiva encarnada; o texto pára antes de constituição situada, memorial, representacional e mediada da reflexividade, e antes de memória enquanto centro próprio.**
+
+### estatuto desta formulação
+Esta formulação:
+- já diz mais do que um simples título;
+- já pode governar o povoamento local do capítulo;
+- já pode servir de critério de inclusão e exclusão de materiais;
+- mas ainda não deve ser confundida com redação final do capítulo.
+
+### o que ela já permite
+Ela já permite:
+- abrir o terceiro capítulo do tronco positivo com corpo próprio;
+- diferenciar claramente o capítulo do `Capítulo 2`, do `Capítulo 4` e do `Capítulo 5`;
+- usar vida organizada, corpo, organismo, campo do vivo, continuidade encarnada, estabilização local e apreensão como corpo positivo, e não apenas como rótulos ou travões;
+- manter a diferença reflexiva encarnada como centro real da torção do caso;
+- preparar disciplinadamente a mediação obrigatória `3→4`.
+
+### o que ela ainda não autoriza
+Ela ainda não autoriza:
+- ontologia regional abstrata do organismo ou do corpo;
+- teoria da consciência;
+- teoria do sujeito;
+- memória ou identidade temporal como cabeça positiva;
+- mediação, símbolo, linguagem ou representação em sentido forte;
+- adequação, critério, verdade, erro e correção;
+- dever-ser, responsabilidade, dignidade, cultura, instituição ou sistema;
+- passagem livre ao `Capítulo 4` sem mediação explícita;
+- passagem livre ao `Capítulo 5` por mera afinidade entre continuidade encarnada e estabilização temporal interna.
+
+---
+
+## V. Regime local agora em vigor
+
+### estado do capítulo
+O `Capítulo 3` passa a ficar em estado de:
+
+> **preservar com restrições, já ordenável localmente, utilizável para povoamento disciplinado, mas ainda não libertado para expansão livre.**
+
+### o que fica ativo
+Fica ativo:
+- o seu centro positivo baixo e transicional;
+- a sua estrutura interna mínima;
+- o seu corpo positivo mínimo;
+- a sua crítica interna de proteção;
+- a sua entrega terminal obrigatória `3→4`, mas apenas em regime de mediação superior e não de absorção do capítulo seguinte;
+- a sua fronteira superior dupla com `Capítulo 4` e `Capítulo 5`.
+
+### o que não fica ativo
+Não fica ativo:
+- redação corrida;
+- expansão livre;
+- abertura por consciência, sujeito, memória, símbolo, linguagem, representação ou critério;
+- transformação de `M3` em consciência já constituída;
+- transformação de `M4` em novo co-centro temático;
+- transformação de `M5` em começo desenvolvido do `Capítulo 4`;
+- reaproveitamento de materiais altos só por afinidade verbal com reflexividade, memória, representação ou mediação.
+
+---
+
+## VI. Travões locais obrigatórios
+
+### travão 1 — anti-dedução curta do vivo a partir do aparecer
+O vivo organizado não pode aparecer como simples consequência imediata do aparecer situado; a passagem tem de ser reinscrita como mediação baixa própria.
+
+### travão 2 — anti-ontologia regional abstrata do vivo
+Vida, organismo e corpo não podem ser tratados como nomes abstratos já suficientes do capítulo.
+
+### travão 3 — anti-subida precoce para consciência e sujeito
+A diferença reflexiva encarnada não pode ser reescrita como consciência já constituída nem como sujeito soberano.
+
+### travão 4 — anti-memória soberana
+Continuidade encarnada e estabilização local não podem ser convertidas em memória, retenção ou identidade temporal como cabeça positiva do capítulo.
+
+### travão 5 — anti-fusão com o Capítulo 4
+Constituição situada, memorial, representacional e mediada da reflexividade pertence ao `Capítulo 4`; aqui só se torna inteligível a sua possibilidade ulterior.
+
+### travão 6 — anti-fusão com o Capítulo 5
+Quando a estabilização temporal interna passa a centro próprio, já não estamos neste capítulo; estamos no limiar memorial ulterior.
+
+### travão 7 — anti-mediação e anti-representação precoces
+Representação, símbolo, linguagem e mediação só podem entrar como bordo terminal subordinado, nunca como cabeça do caso.
+
+### travão 8 — anti-epistemologia alta, ética e sistema
+Critério, verdade, erro, correção, dever-ser, responsabilidade, dignidade, cultura, instituição e sistema não podem ocupar a cabeça local do capítulo.
+
+### travão 9 — anti-contaminação por voz autoral transmissiva
+A função transmissiva da obra não pode sentimentalizar esta peça nem substituir o real como critério do seu conteúdo.
+
+---
+
+## VII. Próximo passo prudente
+
+### decisão
+O próximo passo prudente já não é nova revisão deste capítulo.
+
+O próximo passo prudente é:
+
+> **abrir localmente o `Capítulo 4 — consciência, reflexividade e sujeito reinscritos`, mas só mantendo a mediação `3→4` como entrega terminal do `Capítulo 3` e não como sua reocupação retroativa.**
+
+### consequência capitular
+Em termos capitulares, o próximo ficheiro já pode ser o `00_estatuto_e_limites.md` do `Capítulo 4`, desde que a nova abertura:
+- parta já acima do solo próprio do `Capítulo 3`;
+- não reconduza o `Capítulo 4` ao vivo organizado como se isso bastasse;
+- e trate `F0276`, `F0277` e `F0278` como pressão material legítima para a nova zona local, e não como licença para reescrever retroativamente o centro do capítulo agora decidido.
+
+### justificação curta
+Porque:
+- o `Capítulo 3` já tem centro suficientemente fixado;
+- as suas lacunas já estão visíveis e nomeadas;
+- o seu problema principal já não é falta de matéria, mas secura própria, hierarquia interna e fronteira superior;
+- a sua decisão local já permite passagem prudente;
+- e a arquitetura revista já reconhece pressão material real para a abertura disciplinada da zona local de `Capítulo 4`.
+
+---
+
+## VIII. Fórmula final curta
+
+> **O Capítulo 3 já aguenta abrir como terceira peça do tronco positivo, mas só se permanecer no seu entremeio próprio: dizer a espessura do vivo organizado como solo da passagem à diferença reflexiva encarnada, e parar antes de memória, representação, mediação, consciência ou sujeito se tornarem a sua cabeça.**
