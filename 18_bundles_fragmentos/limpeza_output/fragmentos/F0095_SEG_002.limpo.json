@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0095_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0095_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crítica conceitual potencialidade atualização"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0095_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Depois estive a ouvir o Alex falar sobre potencialidade e atualidade. Olham para as coisas como se fossem slides de pictogramas. Dizem que a potencialidade já tem de existir para se poder atualizar, e que a atualização já tem de existir para a potencialidade se atualizar.\n\nDá o exemplo da caneca de café: teria de haver a potencialidade de se tornar fria para poder arrefecer; teria de haver um frigorífico onde estivesse para poder arrefecer. Não é assim que isso se passa.\n\nA potencialidade é a totalidade das possíveis atualizações. Num sistema como o nosso, calor e frio não são entidades metafísicas, mas níveis de energia dos átomos que compõem aquilo que dizemos estar quente ou frio. Não tem nada a ver com existirem atualizações potenciais dependentes e necessárias como entidades separadas.",
+    "resumo_alteracoes": [
+      "Suavizada a oralidade redundante sem alterar a tese local.",
+      "Ajustada a pontuação para maior coesão e legibilidade.",
+      "Preservada a sequência argumentativa: caracterização da posição criticada, exemplo da caneca, rejeição e reformulação conceptual final.",
+      "Mantido o léxico central do fragmento, incluindo potencialidade, atualização, calor, frio e entidades metafísicas."
+    ],
+    "notas_cautela": [
+      "O fragmento depende de contexto argumentativo anterior e mantém referência a 'Alex' sem reapresentação.",
+      "A formulação 'slides de pictogramas' foi preservada por ser expressão autoral, embora permaneça metafórica.",
+      "Pode haver simplificação ou corte anterior no argumento criticado; não foi reconstruído além do mínimo necessário."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0095_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Depois estive a ouvir o Alex falar sobre potencialidade e atualidade. Olham para as coisas como se fossem slides de pictogramas. Dizem que a potencialidade já tem de existir para se poder atualizar, e que a atualização já tem de existir para a potencialidade se atualizar.\\n\\nDá o exemplo da caneca de café: teria de haver a potencialidade de se tornar fria para poder arrefecer; teria de haver um frigorífico onde estivesse para poder arrefecer. Não é assim que isso se passa.\\n\\nA potencialidade é a totalidade das possíveis atualizações. Num sistema como o nosso, calor e frio não são entidades metafísicas, mas níveis de energia dos átomos que compõem aquilo que dizemos estar quente ou frio. Não tem nada a ver com existirem atualizações potenciais dependentes e necessárias como entidades separadas.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a oralidade redundante sem alterar a tese local.\",\n    \"Ajustada a pontuação para maior coesão e legibilidade.\",\n    \"Preservada a sequência argumentativa: caracterização da posição criticada, exemplo da caneca, rejeição e reformulação conceptual final.\",\n    \"Mantido o léxico central do fragmento, incluindo potencialidade, atualização, calor, frio e entidades metafísicas.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento depende de contexto argumentativo anterior e mantém referência a 'Alex' sem reapresentação.\",\n    \"A formulação 'slides de pictogramas' foi preservada por ser expressão autoral, embora permaneça metafórica.\",\n    \"Pode haver simplificação ou corte anterior no argumento criticado; não foi reconstruído além do mínimo necessário.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:21:45+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0219_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0219_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "identidade e contexto familiar"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0219_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Eu não sou o mesmo em qualquer situação, nem sou o mesmo quando estou com os meus pais e com os meus irmãos. Claro que não. Porque aí eu sou o contínuo do modo de ser que era ao crescer com eles. Encarno o ser na relação que é ser eu, filho e irmão, do pai e dos irmãos, e também aquilo que a relação de filho, pai e irmão revelou ao longo do tempo em que essa relação perdurou. É isso que se quer dizer quando se diz que as pessoas voltam sempre aos mesmos círculos viciosos quando estão juntas, e que muitas vezes são felizes quando não estão juntas. Porquê? Porque o ser que, com o contínuo do tempo, passaram a ser não foi acompanhado pelos outros eus da família, que ficaram na relação das relações primárias.",
+    "resumo_alteracoes": [
+      "Removidas repetições e oralidade redundante sem alterar a tese local.",
+      "Corrigida a sintaxe para tornar mais legível a articulação entre identidade, relação familiar e continuidade no tempo.",
+      "Mantida a ordem argumentativa: diferença de ser conforme a situação, explicação pela relação primária, consequência nos círculos viciosos familiares.",
+      "Reconstruídos apenas os mínimos nexos necessários em trechos truncados."
+    ],
+    "notas_cautela": [
+      "A expressão \"outros eus da família\" foi preservada, mas o trecho final permanece semanticamente denso e algo truncado.",
+      "Havia problemas de formulação no encadeamento entre \"ser\", \"contínuo do tempo\" e \"relações primárias\"; a limpeza tentou clarificar sem introduzir tese nova."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0219_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Eu não sou o mesmo em qualquer situação, nem sou o mesmo quando estou com os meus pais e com os meus irmãos. Claro que não. Porque aí eu sou o contínuo do modo de ser que era ao crescer com eles. Encarno o ser na relação que é ser eu, filho e irmão, do pai e dos irmãos, e também aquilo que a relação de filho, pai e irmão revelou ao longo do tempo em que essa relação perdurou. É isso que se quer dizer quando se diz que as pessoas voltam sempre aos mesmos círculos viciosos quando estão juntas, e que muitas vezes são felizes quando não estão juntas. Porquê? Porque o ser que, com o contínuo do tempo, passaram a ser não foi acompanhado pelos outros eus da família, que ficaram na relação das relações primárias.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições e oralidade redundante sem alterar a tese local.\",\n    \"Corrigida a sintaxe para tornar mais legível a articulação entre identidade, relação familiar e continuidade no tempo.\",\n    \"Mantida a ordem argumentativa: diferença de ser conforme a situação, explicação pela relação primária, consequência nos círculos viciosos familiares.\",\n    \"Reconstruídos apenas os mínimos nexos necessários em trechos truncados.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão \\\"outros eus da família\\\" foi preservada, mas o trecho final permanece semanticamente denso e algo truncado.\",\n    \"Havia problemas de formulação no encadeamento entre \\\"ser\\\", \\\"contínuo do tempo\\\" e \\\"relações primárias\\\"; a limpeza tentou clarificar sem introduzir tese nova.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:43:15+00:00",
+  "modelo": "gpt-5.4"
+}

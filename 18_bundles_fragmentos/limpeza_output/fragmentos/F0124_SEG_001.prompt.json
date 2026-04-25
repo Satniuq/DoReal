@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0124_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0124_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0124\",\n  \"header_original\": \"## F0124\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"estatuto ontológico do poder ser\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Estava a ouvir o Alex O'Connor sobre o problema do nascimento num tempo específico, em que para se ser eu tenho de ser, para ser alguém concreto, tenho de ter nascido naquele tempo. Depois do cenário que ele colocou, aparentemente um dilema moral, em que uma mulher que quer ter atenção, que tem um filho e que, sei lá, toma um comprimido para o filho nascer deficiente e vive numa cadeira de rodas. Ou a mãe que, podendo ter um filho um mês mais tarde, tem ainda assim um filho naquele tempo em que, por causa de uma questão qualquer dela, o filho também vai ser deficiente e nascer numa cadeira de rodas. E o ponto era que ele estava a querer dizer que estas duas situações eram diferentes pelo tempo, porque um fica contente, porque se não tivesse nascido, não seria, não existiria sequer, e o outro fica triste porque queria existir sempre, mas poderia existir sem uma deficiência.\\n\\nÉ tratar o poder existir como atualizações sem estarem atualizadas. É olhar para o poder ser e pôr nele um mundo inteiro, só porque poderia ter sido. É viver no mundo da apreensão interna, ou seja, é viver no eu, porque é conceber a apreensão do mundo no quadro do que o eu pudesse apreender, o que é um pouco óbvio, não é? Porque o campo de apreensão que eu tenho é sempre respeitante a como a apreensão é sequer concretizada, emergida, e é sempre do eu para o real. E por isso viver no poder ser é somente o querer que o que o eu queria que fosse fosse. E a força com que se bate por essa posição, como que o que não é, mas poderia ter sido, é sequer relevante, mas eles passam a relevância e vão até para a exigência de mesmo estatuto ontológico do ser, que é uma ligação necessária deste ponto de vista da apreensão e do contínuo do ser.\\n\\nE pronto, isto liga-se, não é, creio eu, também ao modo como se diz no dever ser, ao modo como a valoração está inscrita na apreensão. O poder ser inclui o quê? Aquilo que apreende simboliza e o símbolo tem o valor, porque expressa a direção do ser no contínuo. Porque poderia ter sido, era só o que deveria ter sido. Aquilo que é só o que eu acho que deveria ter sido, que é só uma operação sobre o que eu acho que isto é.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0124_SEG_002\\n- tema: escolha genética e potencialidades\\n- preview: E depois o argumento vai para os tempos modernos, em que, aparentemente, houve uns tipos surdos que escolheram um embrião que também deveria ser surdo, porque queriam ter um filho surdo também, como eu dizia assim. E está nessa dúvida uma questão de ai, o que é o mal e o que é o bem, o que é isto, mas será que nessa circunstância e naquela circunstância, amigo, em retirar a audição que lá estaria tendo as coisas, co…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0124_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0124",
+    "header_original": "## F0124",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "estatuto ontológico do poder ser",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Estava a ouvir o Alex O'Connor sobre o problema do nascimento num tempo específico, em que para se ser eu tenho de ser, para ser alguém concreto, tenho de ter nascido naquele tempo. Depois do cenário que ele colocou, aparentemente um dilema moral, em que uma mulher que quer ter atenção, que tem um filho e que, sei lá, toma um comprimido para o filho nascer deficiente e vive numa cadeira de rodas. Ou a mãe que, podendo ter um filho um mês mais tarde, tem ainda assim um filho naquele tempo em que, por causa de uma questão qualquer dela, o filho também vai ser deficiente e nascer numa cadeira de rodas. E o ponto era que ele estava a querer dizer que estas duas situações eram diferentes pelo tempo, porque um fica contente, porque se não tivesse nascido, não seria, não existiria sequer, e o outro fica triste porque queria existir sempre, mas poderia existir sem uma deficiência.\n\nÉ tratar o poder existir como atualizações sem estarem atualizadas. É olhar para o poder ser e pôr nele um mundo inteiro, só porque poderia ter sido. É viver no mundo da apreensão interna, ou seja, é viver no eu, porque é conceber a apreensão do mundo no quadro do que o eu pudesse apreender, o que é um pouco óbvio, não é? Porque o campo de apreensão que eu tenho é sempre respeitante a como a apreensão é sequer concretizada, emergida, e é sempre do eu para o real. E por isso viver no poder ser é somente o querer que o que o eu queria que fosse fosse. E a força com que se bate por essa posição, como que o que não é, mas poderia ter sido, é sequer relevante, mas eles passam a relevância e vão até para a exigência de mesmo estatuto ontológico do ser, que é uma ligação necessária deste ponto de vista da apreensão e do contínuo do ser.\n\nE pronto, isto liga-se, não é, creio eu, também ao modo como se diz no dever ser, ao modo como a valoração está inscrita na apreensão. O poder ser inclui o quê? Aquilo que apreende simboliza e o símbolo tem o valor, porque expressa a direção do ser no contínuo. Porque poderia ter sido, era só o que deveria ter sido. Aquilo que é só o que eu acho que deveria ter sido, que é só uma operação sobre o que eu acho que isto é.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0124_SEG_002\n- tema: escolha genética e potencialidades\n- preview: E depois o argumento vai para os tempos modernos, em que, aparentemente, houve uns tipos surdos que escolheram um embrião que também deveria ser surdo, porque queriam ter um filho surdo também, como eu dizia assim. E está nessa dúvida uma questão de ai, o que é o mal e o que é o bem, o que é isto, mas será que nessa circunstância e naquela circunstância, amigo, em retirar a audição que lá estaria tendo as coisas, co…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

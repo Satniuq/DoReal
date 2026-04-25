@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A13_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A13_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "estatuto do ser reflexivo"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A13_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O que o filósofo faz é procurar o real, é procurar o homem dentro do real. Não é excluir o real e dizer: agora é só objetos, agora é só símbolos. Não. Porque esses símbolos estão lá por causa de outra coisa qualquer. E os símbolos podem desviar-se tanto que o real estica a corda.\n\nSe eu representar mal a igualdade ontológica que existe entre dois seres reflexivos, posso, se calhar, correr o erro de pensar que lhe posso mandar com um pau à cabeça. Posso achar isto. Isto existe somente por uma parca descrição do real. Não: os objetos existem; agora não existem; agora não há homem, não há mar; os objetos existem.\n\nOs objetos não têm o mesmo estatuto, porque dependem de... Os objetos são dependentes do modo de ser do ser reflexivo. É somente isto. E o modo de ser do ser reflexivo pode ser mais ou menos ajustado ao real, ao bem e à verdade.\n\nE depende do real. Não sei ouvir a tua resposta, mas depende da relação, da apreensão, porque só quem apreende, ou só apreendendo, é que se pode sequer apreender. E só se refletindo é que se pode refletir. Isto são daquelas coisas básicas. Uma pedra não pode, não faz, não é, não tem, não sabe, não consegue; não existe sequer assim: é o real, é o real.\n\nÉ o real, não tem relação, não tem um mecanismo racional interno de detecção, de apreensão do real, de representação e de instauração de uma coordenação das representações internas no contínuo da relação com o real.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e marcas de oralidade redundantes, preservando a voz geral do fragmento.",
+      "Corrigidas pequenas quebras sintáticas e de pontuação para melhorar a legibilidade.",
+      "Mantidas repetições com função enfática, reduzindo apenas as que bloqueavam a leitura.",
+      "Preservado o encadeamento local: procura do real, estatuto dos objetos, dependência do ser reflexivo e contraste com a pedra.",
+      "Conservado o corte interno assinalado por reticência sem o preencher com conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento contém formulações potencialmente partidas ou elípticas, sobretudo na passagem sobre os objetos existirem ou não existirem.",
+      "A frase com 'dependem de...' permaneceu parcialmente aberta por haver indício de corte interno.",
+      "A passagem 'não existe sequer assim: é o real' foi apenas minimamente regularizada e pode exigir revisão humana devido à instabilidade sintática de origem."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A13_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O que o filósofo faz é procurar o real, é procurar o homem dentro do real. Não é excluir o real e dizer: agora é só objetos, agora é só símbolos. Não. Porque esses símbolos estão lá por causa de outra coisa qualquer. E os símbolos podem desviar-se tanto que o real estica a corda.\\n\\nSe eu representar mal a igualdade ontológica que existe entre dois seres reflexivos, posso, se calhar, correr o erro de pensar que lhe posso mandar com um pau à cabeça. Posso achar isto. Isto existe somente por uma parca descrição do real. Não: os objetos existem; agora não existem; agora não há homem, não há mar; os objetos existem.\\n\\nOs objetos não têm o mesmo estatuto, porque dependem de... Os objetos são dependentes do modo de ser do ser reflexivo. É somente isto. E o modo de ser do ser reflexivo pode ser mais ou menos ajustado ao real, ao bem e à verdade.\\n\\nE depende do real. Não sei ouvir a tua resposta, mas depende da relação, da apreensão, porque só quem apreende, ou só apreendendo, é que se pode sequer apreender. E só se refletindo é que se pode refletir. Isto são daquelas coisas básicas. Uma pedra não pode, não faz, não é, não tem, não sabe, não consegue; não existe sequer assim: é o real, é o real.\\n\\nÉ o real, não tem relação, não tem um mecanismo racional interno de detecção, de apreensão do real, de representação e de instauração de uma coordenação das representações internas no contínuo da relação com o real.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e marcas de oralidade redundantes, preservando a voz geral do fragmento.\",\n    \"Corrigidas pequenas quebras sintáticas e de pontuação para melhorar a legibilidade.\",\n    \"Mantidas repetições com função enfática, reduzindo apenas as que bloqueavam a leitura.\",\n    \"Preservado o encadeamento local: procura do real, estatuto dos objetos, dependência do ser reflexivo e contraste com a pedra.\",\n    \"Conservado o corte interno assinalado por reticência sem o preencher com conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento contém formulações potencialmente partidas ou elípticas, sobretudo na passagem sobre os objetos existirem ou não existirem.\",\n    \"A frase com 'dependem de...' permaneceu parcialmente aberta por haver indício de corte interno.\",\n    \"A passagem 'não existe sequer assim: é o real' foi apenas minimamente regularizada e pode exigir revisão humana devido à instabilidade sintática de origem.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:50:41+00:00",
+  "modelo": "gpt-5.4"
+}

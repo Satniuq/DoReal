@@ -1,0 +1,43 @@
+{
+  "script": "pos_processar_limpeza_fragmentos_v1.py",
+  "schema_version": "1.0.0",
+  "gerado_em_utc": "2026-04-25T17:51:18+00:00",
+  "fontes": {
+    "limpezas_json": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\18_bundles_fragmentos\\limpeza_output\\limpezas_agregadas.json",
+    "manifesto_limpeza_json": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\18_bundles_fragmentos\\limpeza_output\\manifesto_limpeza.json",
+    "bundles_json": "C:\\Users\\vanes\\DoReal_Casa_Local\\DoReal\\18_bundles_fragmentos\\output\\lote_bundles_fragmentos.json"
+  },
+  "resumo_limpeza_original": {
+    "selecionados": 535,
+    "processados": 535,
+    "saltados": 0,
+    "erros": 0
+  },
+  "contagens": {
+    "total_limpezas": 535,
+    "aprovaveis": 329,
+    "revisao_humana": 206,
+    "auditoria_remanescente": 3,
+    "nao_processados": 0,
+    "por_estado_origem": {
+      "limpavel": 167,
+      "limpavel_com_cautela": 368
+    },
+    "por_regime_limpeza": {
+      "direto": 167,
+      "cautela": 368
+    },
+    "por_tipo_unidade": {
+      "desenvolvimento_medio": 122,
+      "sequencia_argumentativa": 238,
+      "fragmento_intuitivo": 26,
+      "desenvolvimento_curto": 59,
+      "distincao_conceptual": 66,
+      "resposta_local": 2,
+      "objecao_local": 9,
+      "afirmacao_curta": 8,
+      "bloco_unico": 1,
+      "transicao_reflexiva": 4
+    }
+  }
+}

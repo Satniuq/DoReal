@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A26_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A26_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "identidade: linguagem versus realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A26_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Todo o tema do LGBTQ+, da minha mãe e da tua, todos esses temas cansados de identidade, de género e de coisas parecidas, vêm como qualquer erro. Vêm da qualidade da descrição que se faz, que se tem — descrição aqui no sentido amplo —, da qualidade da apreensão, da descrição e da ação, da qualidade do ponto de vista, da consciência na sua localidade a representar-se a si no real. Vêm, como é óbvio, da falta de permanência das verdades necessárias, das verdades ontologicamente necessárias para depois poder exprimir qualquer tipo de posição. E, como essas posições se manifestam todas nos níveis meta, beneficiam da confusão dos conceitos, porque os termos, os símbolos meta, os grandes símbolos, incorporam apenas as verdades, contanto que se respeitem os restantes símbolos que estão a ser também chamados na sua aglomeração. O grupo só tem aquele nome porque... é aquele grupo; senão não teria esse nome. E há uma falha na compreensão daquilo que é um real, de um ser no real, de um ser no real biológico, humano, derivado, com estruturas derivadas com milhões e milhões e milhões de anos, desde os répteis aos peixes, aos antecedentes dos macacos, ao que for. Necessariamente estruturada, sem a qual não poderia sequer existir, o sexo. Porque, no multiambiente, tem de haver reprodução sexuada ou, se não sexuada, pelo menos diferenciada no meio de transmissão. E o diferenciado é o próprio homem e a mulher. Mas, claro, eles não operam neste nível; operam somente no nível da linguagem.",
+    "resumo_alteracoes": [
+      "Corrigida pontuação e segmentação frásica para legibilidade, preservando a progressão local do argumento.",
+      "Reduzidas repetições e oralidades mínimas sem remover léxico central do fragmento.",
+      "Mantida a elipse em \"porque...\" por haver corte interno e para evitar reconstrução inventada.",
+      "Feitos pequenos ajustes sintáticos e de concordância para tornar o texto utilizável sem alterar a tese local."
+    ],
+    "notas_cautela": [
+      "O fragmento contém corte interno e permanece parcialmente truncado em \"O grupo só tem aquele nome porque...\".",
+      "Há passagens sintaticamente instáveis no trecho sobre sexo, reprodução e diferenciação; foram apenas minimamente regularizadas.",
+      "O texto continua dependente do contexto mais amplo para plena determinação de alguns referentes, nomeadamente \"eles\"."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A26_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Todo o tema do LGBTQ+, da minha mãe e da tua, todos esses temas cansados de identidade, de género e de coisas parecidas, vêm como qualquer erro. Vêm da qualidade da descrição que se faz, que se tem — descrição aqui no sentido amplo —, da qualidade da apreensão, da descrição e da ação, da qualidade do ponto de vista, da consciência na sua localidade a representar-se a si no real. Vêm, como é óbvio, da falta de permanência das verdades necessárias, das verdades ontologicamente necessárias para depois poder exprimir qualquer tipo de posição. E, como essas posições se manifestam todas nos níveis meta, beneficiam da confusão dos conceitos, porque os termos, os símbolos meta, os grandes símbolos, incorporam apenas as verdades, contanto que se respeitem os restantes símbolos que estão a ser também chamados na sua aglomeração. O grupo só tem aquele nome porque... é aquele grupo; senão não teria esse nome. E há uma falha na compreensão daquilo que é um real, de um ser no real, de um ser no real biológico, humano, derivado, com estruturas derivadas com milhões e milhões e milhões de anos, desde os répteis aos peixes, aos antecedentes dos macacos, ao que for. Necessariamente estruturada, sem a qual não poderia sequer existir, o sexo. Porque, no multiambiente, tem de haver reprodução sexuada ou, se não sexuada, pelo menos diferenciada no meio de transmissão. E o diferenciado é o próprio homem e a mulher. Mas, claro, eles não operam neste nível; operam somente no nível da linguagem.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida pontuação e segmentação frásica para legibilidade, preservando a progressão local do argumento.\",\n    \"Reduzidas repetições e oralidades mínimas sem remover léxico central do fragmento.\",\n    \"Mantida a elipse em \\\"porque...\\\" por haver corte interno e para evitar reconstrução inventada.\",\n    \"Feitos pequenos ajustes sintáticos e de concordância para tornar o texto utilizável sem alterar a tese local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento contém corte interno e permanece parcialmente truncado em \\\"O grupo só tem aquele nome porque...\\\".\",\n    \"Há passagens sintaticamente instáveis no trecho sobre sexo, reprodução e diferenciação; foram apenas minimamente regularizadas.\",\n    \"O texto continua dependente do contexto mais amplo para plena determinação de alguns referentes, nomeadamente \\\"eles\\\".\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:56:57+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0076_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0076_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "fragmento_intuitivo",
+    "tema_dominante_provisorio": "filosofia: pobreza e estagnação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0076_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A filosofia de hoje é pobre e, por isso, triste. Que outra opção há, senão a continuidade da atualização do estado de coisas, dependente do estado de coisas atualizado há um segundo atrás?",
+    "resumo_alteracoes": [
+      "Suavizada a formulação interrogativa para maior fluidez sintática.",
+      "Ajustada a concordância e reduzida a repetição imediata de 'atualizadas/atualização' sem alterar a tese local.",
+      "Mantida a oposição entre pobreza da filosofia atual e continuidade do estado de coisas."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior para precisar o alcance de 'estado de coisas'.",
+      "Permanece um salto argumentativo entre a primeira frase e a pergunta; não foi preenchido para evitar introduzir conteúdo novo.",
+      "Há sinal de corte interno ou continuidade externa ativa; o texto foi apenas estabilizado localmente."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0076_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A filosofia de hoje é pobre e, por isso, triste. Que outra opção há, senão a continuidade da atualização do estado de coisas, dependente do estado de coisas atualizado há um segundo atrás?\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a formulação interrogativa para maior fluidez sintática.\",\n    \"Ajustada a concordância e reduzida a repetição imediata de 'atualizadas/atualização' sem alterar a tese local.\",\n    \"Mantida a oposição entre pobreza da filosofia atual e continuidade do estado de coisas.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior para precisar o alcance de 'estado de coisas'.\",\n    \"Permanece um salto argumentativo entre a primeira frase e a pergunta; não foi preenchido para evitar introduzir conteúdo novo.\",\n    \"Há sinal de corte interno ou continuidade externa ativa; o texto foi apenas estabilizado localmente.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:14:39+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,67 @@
+{
+  "fragment_id": "F0241_A15_SEG_004",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A15_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A15\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"pluralidade subjetiva de valores\",\n  \"motivos_estado\": [\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"houve_corte_interno\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Fingiu-se conhecer-se o real, o objeto, como eles dizem, fingiu-se, como a ciência já sabe, ah, então eu também sou humano, faço parte do humano científico, e também já sei, não, sabes mal, sabes mal, mas como já sabe, então, agora, o que resta é cada um postular a qualquer ideia sobre o que é viver bem, qual é o melhor modo de viver, o que é a verdade. E vivermos todos neste discurso autorreferencial do proponente daquilo que é, não, não, viver bem é de acordo com a minha ideia, é o útil utilitarismo, não, não, é o emotivismo, não, não, é o dogmatismo, não, não, é o religiosismo, não, não, é o que se quiser ser, é o que se quiser, é o teu sistema, não é? É o teu sistema, é o teu sistema que é, que é, é o teu modo de ser, é o teu modo de ser que é o melhor modo de ser, claro, claro que sim, claro que sim.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0241_A15_SEG_003\\n- tema: crítica à manutenção do ser\\n- preview: E a morte é o sair do acontecer, é o não estar a acontecer. Imaginem defender como é que é possível se defender, está nos livros de história da filosofia, das grandes ideias filosóficas, defender-se que há possibilidade de manutenção de um qualquer, de um qualquer estado do ser, normalmente através de uma alma ou de uma energia, ou de qualquer coisa assim, algo que se assemelhe ao que internamente se acha que o ser…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A15_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A15",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "pluralidade subjetiva de valores",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "houve_corte_interno"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Fingiu-se conhecer-se o real, o objeto, como eles dizem, fingiu-se, como a ciência já sabe, ah, então eu também sou humano, faço parte do humano científico, e também já sei, não, sabes mal, sabes mal, mas como já sabe, então, agora, o que resta é cada um postular a qualquer ideia sobre o que é viver bem, qual é o melhor modo de viver, o que é a verdade. E vivermos todos neste discurso autorreferencial do proponente daquilo que é, não, não, viver bem é de acordo com a minha ideia, é o útil utilitarismo, não, não, é o emotivismo, não, não, é o dogmatismo, não, não, é o religiosismo, não, não, é o que se quiser ser, é o que se quiser, é o teu sistema, não é? É o teu sistema, é o teu sistema que é, que é, é o teu modo de ser, é o teu modo de ser que é o melhor modo de ser, claro, claro que sim, claro que sim.",
+    "contexto_local": "Fragmento anterior:\n- id: F0241_A15_SEG_003\n- tema: crítica à manutenção do ser\n- preview: E a morte é o sair do acontecer, é o não estar a acontecer. Imaginem defender como é que é possível se defender, está nos livros de história da filosofia, das grandes ideias filosóficas, defender-se que há possibilidade de manutenção de um qualquer, de um qualquer estado do ser, normalmente através de uma alma ou de uma energia, ou de qualquer coisa assim, algo que se assemelhe ao que internamente se acha que o ser…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

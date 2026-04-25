@@ -1,0 +1,157 @@
+{
+  "identificacao": {
+    "fragment_id": "F0116_SEG_003",
+    "origem_id": "F0116",
+    "header_original": "## F0116",
+    "ordem_no_ficheiro": 144,
+    "base_container_id": "F0116",
+    "tipo_material_fonte": "fragmento_editorial"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0116",
+      "data": null,
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0116",
+      "ordem_no_ficheiro": 144,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0116",
+          "paragrafos_origem": [
+            "F0116_P04",
+            "F0116_P05",
+            "F0116_P06"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "fragmento_editorial",
+    "texto_fragmento": "O que falta a essa gente é imaginação. Esquecem-se que, para encontrar o real, é preciso primeiro pensar na necessidade de expandir as próprias condições internas para o poder desbloquear.\n\nSe mantiverem exatamente o mesmo contínuo anterior, claro que a posição deles vence. Mas isso acontece porque se limitam a manter a posição anterior no contínuo.\n\nSe temos imaginação, é para isso mesmo.",
+    "texto_normalizado": "O que falta a essa gente é imaginação. Esquecem-se que, para encontrar o real, é preciso primeiro pensar na necessidade de expandir as próprias condições internas para o poder desbloquear.\n\nSe mantiverem exatamente o mesmo contínuo anterior, claro que a posição deles vence. Mas isso acontece porque se limitam a manter a posição anterior no contínuo.\n\nSe temos imaginação, é para isso mesmo.",
+    "texto_fonte_reconstituido": "O que falta a essa gente é imaginação. Esquecem-se que, para encontrar o real, é preciso primeiro pensar na necessidade de expandir as próprias condições internas para o poder desbloquear.\n\nSe mantiverem exatamente o mesmo contínuo anterior, claro que a posição deles vence. Mas isso acontece porque se limitam a manter a posição anterior no contínuo.\n\nSe temos imaginação, é para isso mesmo.",
+    "texto_principal": "O que falta a essa gente é imaginação. Esquecem-se que, para encontrar o real, é preciso primeiro pensar na necessidade de expandir as próprias condições internas para o poder desbloquear.\n\nSe mantiverem exatamente o mesmo contínuo anterior, claro que a posição deles vence. Mas isso acontece porque se limitam a manter a posição anterior no contínuo.\n\nSe temos imaginação, é para isso mesmo.",
+    "segmentacao": {
+      "tipo_unidade": "sequencia_argumentativa",
+      "criterio_de_unidade": "continuidade_argumentativa",
+      "houve_fusao_de_paragrafos": true,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "critica",
+    "tema_dominante_provisorio": "imaginação: expansão, quebra de contínuo",
+    "conceitos_relevantes_provisorios": [
+      "imaginação",
+      "condições internas",
+      "desbloqueio",
+      "contínuo",
+      "real"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0116_SEG_002",
+      "fragmento_seguinte": "F0116_SEG_004",
+      "continua_anterior": true,
+      "prepara_seguinte": true
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 02:11:33",
+      "hash_texto_normalizado": "398daa024d63ad871a23e514131662eca2a80b40038229bfd28616b6c41be1dd"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0116",
+    "container_origem": {
+      "base_container_id": "F0116",
+      "header": "## F0116",
+      "data": null,
+      "texto_container": "Todo o pessoal que luta contra o livre-arbítrio, e contra essas coisas todas, rivaliza várias precisões deterministas. São descrentes daquilo que os faz, eles próprios, descrentes da consciência. É tudo motivismo, whatever.\n\nMas esquecem-se de uma coisa. Esquecem-se que, ainda que eu tenha de ir trabalhar porque tenho um escritório, ou que tenha de ir ter com os meus filhos porque tive filhos, independentemente disso, aquilo que eu vou fazer é aquilo que eu depois decido fazer.\n\nPorque eu penso sobre o que estou a fazer e sobre o que vou fazer.\n\nO que falta a essa gente é imaginação. Esquecem-se que, para encontrar o real, é preciso primeiro pensar na necessidade de expandir as próprias condições internas para o poder desbloquear.\n\nSe mantiverem exatamente o mesmo contínuo anterior, claro que a posição deles vence. Mas isso acontece porque se limitam a manter a posição anterior no contínuo.\n\nSe temos imaginação, é para isso mesmo.\n\nBiologicamente, faz sentido olhar para o eu. Importa saber o que tem de acontecer para eu deixar de ter fome, para não vir a ter fome, para ficar saciado, para retirar prazer, para ter qualquer intenção.\n\nO organismo vê o real como o espaço onde pode manifestar-se, onde as coisas acontecem sempre numa relação com o eu.",
+      "texto_container_preview": "Todo o pessoal que luta contra o livre-arbítrio, e contra essas coisas todas, rivaliza várias precisões deterministas. São descrentes daquilo que os faz, eles próprios, descrentes da consciência. É tudo motivismo, whatever. Mas esquecem-se de uma coisa. Esquecem-se que, ainda que eu tenha de ir trabalhar porque tenho um escritório, ou que tenha de ir ter com os meus filhos porque tive filhos, independentemente disso…",
+      "hash_texto_container": "f9103525c6984502bc5645be43ede31a85768274c30e7b6abdc261154c5bc730"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": {
+      "fragment_id": "F0116_SEG_002",
+      "encontrado": true,
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "afirmacao",
+      "tema_dominante_provisorio": "decisão pessoal versus obrigação",
+      "texto_preview": "Mas esquecem-se de uma coisa. Esquecem-se que, ainda que eu tenha de ir trabalhar porque tenho um escritório, ou que tenha de ir ter com os meus filhos porque tive filhos, independentemente disso, aquilo que eu vou fazer é aquilo que eu depois decido fazer. Porque eu penso sobre o que estou a fazer e sobre o que vou fazer."
+    },
+    "fragmento_seguinte": {
+      "fragment_id": "F0116_SEG_004",
+      "encontrado": true,
+      "tipo_unidade": "desenvolvimento_curto",
+      "funcao_textual_dominante": "exploracao",
+      "tema_dominante_provisorio": "eu biológico e motivação",
+      "texto_preview": "Biologicamente, faz sentido olhar para o eu. Importa saber o que tem de acontecer para eu deixar de ter fome, para não vir a ter fome, para ficar saciado, para retirar prazer, para ter qualquer intenção. O organismo vê o real como o espaço onde pode manifestar-se, onde as coisas acontecem sempre numa relação com o eu."
+    }
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "O que falta a essa gente é imaginação. Esquecem-se que, para encontrar o real, é preciso primeiro pensar na necessidade de expandir as próprias condições internas para o poder desbloquear.\n\nSe mantiverem exatamente o mesmo contínuo anterior, claro que a posição deles vence. Mas isso acontece porque se limitam a manter a posição anterior no contínuo.\n\nSe temos imaginação, é para isso mesmo.",
+    "fonte_texto_principal": "texto_fonte_reconstituido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": null,
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "398daa024d63ad871a23e514131662eca2a80b40038229bfd28616b6c41be1dd",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "estrutural",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": true,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "fragmento_com_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "houve_fusao_de_paragrafos"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:38+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "398daa024d63ad871a23e514131662eca2a80b40038229bfd28616b6c41be1dd",
+      "texto_normalizado": "398daa024d63ad871a23e514131662eca2a80b40038229bfd28616b6c41be1dd",
+      "texto_fonte_reconstituido": "398daa024d63ad871a23e514131662eca2a80b40038229bfd28616b6c41be1dd",
+      "texto_principal": "398daa024d63ad871a23e514131662eca2a80b40038229bfd28616b6c41be1dd"
+    }
+  }
+}

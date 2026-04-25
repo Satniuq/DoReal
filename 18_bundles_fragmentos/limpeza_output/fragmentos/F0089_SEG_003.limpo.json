@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0089_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0089_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "real como critério"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0089_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Dizer que cada sociedade tem os seus próprios valores e que os valores axiológicos diferem entre sociedades — que umas batem nas mulheres e outras não produzem a panóplia de direitos humanos — falha o ponto central. A questão é sempre o real.\n\nOs círculos internos vão sempre existir, porque são locais. As causas e os efeitos são sempre locais. Os modos de ser internos de cada sociedade são justificáveis pelas próprias sociedades. A questão é saber se essa sociedade toca o real.\n\nSe toca o real, então os modos de ser que emergem — liberdade e dignidade — são os mesmos. Perguntar se há dignidade em sociedades que batem nas mulheres é perguntar se essas sociedades ainda não vivem numa parte do real que já foi iluminada por outras. Saber que vivem de modo diferente por viverem em erro já é um dado.",
+    "resumo_alteracoes": [
+      "Mantida a estrutura em três momentos: crítica ao relativismo, afirmação da localidade dos círculos internos, e critério do real para liberdade e dignidade.",
+      "Removida apenas uma pequena aspereza sintática: 'toca no real' foi regularizado para 'toca o real' para manter paralelismo com a frase seguinte.",
+      "Preservado o léxico central do fragmento, incluindo 'real', 'círculos internos', 'liberdade' e 'dignidade'."
+    ],
+    "notas_cautela": [
+      "O fragmento parece semanticamente completo, mas integra uma continuidade local ativa com o segmento anterior.",
+      "A expressão 'já foi iluminada por outras' foi mantida tal como está, por poder depender de formulação mais ampla no contexto do conjunto.",
+      "Não foram fechadas possíveis lacunas de transição com o fragmento anterior."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0089_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Dizer que cada sociedade tem os seus próprios valores e que os valores axiológicos diferem entre sociedades — que umas batem nas mulheres e outras não produzem a panóplia de direitos humanos — falha o ponto central. A questão é sempre o real.\\n\\nOs círculos internos vão sempre existir, porque são locais. As causas e os efeitos são sempre locais. Os modos de ser internos de cada sociedade são justificáveis pelas próprias sociedades. A questão é saber se essa sociedade toca o real.\\n\\nSe toca o real, então os modos de ser que emergem — liberdade e dignidade — são os mesmos. Perguntar se há dignidade em sociedades que batem nas mulheres é perguntar se essas sociedades ainda não vivem numa parte do real que já foi iluminada por outras. Saber que vivem de modo diferente por viverem em erro já é um dado.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a estrutura em três momentos: crítica ao relativismo, afirmação da localidade dos círculos internos, e critério do real para liberdade e dignidade.\",\n    \"Removida apenas uma pequena aspereza sintática: 'toca no real' foi regularizado para 'toca o real' para manter paralelismo com a frase seguinte.\",\n    \"Preservado o léxico central do fragmento, incluindo 'real', 'círculos internos', 'liberdade' e 'dignidade'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece semanticamente completo, mas integra uma continuidade local ativa com o segmento anterior.\",\n    \"A expressão 'já foi iluminada por outras' foi mantida tal como está, por poder depender de formulação mais ampla no contexto do conjunto.\",\n    \"Não foram fechadas possíveis lacunas de transição com o fragmento anterior.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:19:31+00:00",
+  "modelo": "gpt-5.4"
+}

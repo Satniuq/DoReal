@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0096_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0096_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "realidade, dever-ser, poder-ser"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0096_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Eu não tenho de saber a verdade sobre tudo, no sentido de ter de saber tudo. Da correspondência com o real não resulta uma proposição necessariamente verdadeira para qualquer problema de círculo menor. Tem, isso sim, de depender do real.\n\nQuando se pergunta qual é a melhor política, a melhor decisão política, aquilo que vai enquadrar o modo de ser coletivo de uma sociedade, isso é normalmente feito por um governo e tem de depender da realidade. A multiplicidade de respostas possíveis depende sempre das relações existentes, tanto no círculo local como no real.\n\nO que acontece normalmente é isto: há uma parca descrição do real, do ser; depois há uma proposição; depois uma prescrição; depois algo a operar no dever-ser. Analisa-se apenas o dever-ser e esquece-se o poder-ser, que é onde está a verdade.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação e a fluidez sintática sem alterar a tese local.",
+      "Reduzida ligeiramente a oralidade redundante em 'Tem é de depender do real' para maior clareza.",
+      "Uniformizada a formulação de algumas passagens mantendo o léxico central: real, ser, dever-ser, poder-ser.",
+      "Preservada a estrutura em três movimentos: limite do saber total, dependência da política do real, crítica à análise exclusiva do dever-ser."
+    ],
+    "notas_cautela": [
+      "O fragmento pode integrar uma continuidade argumentativa maior sobre escala e decisão política.",
+      "A formulação 'círculo menor' permanece por ser lexicalmente relevante, embora o seu referente local não esteja totalmente explicitado neste excerto.",
+      "Há compressão conceptual na sequência 'proposição/prescrição/dever-ser'; foi preservada sem explicitação adicional para evitar introduzir conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0096_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Eu não tenho de saber a verdade sobre tudo, no sentido de ter de saber tudo. Da correspondência com o real não resulta uma proposição necessariamente verdadeira para qualquer problema de círculo menor. Tem, isso sim, de depender do real.\\n\\nQuando se pergunta qual é a melhor política, a melhor decisão política, aquilo que vai enquadrar o modo de ser coletivo de uma sociedade, isso é normalmente feito por um governo e tem de depender da realidade. A multiplicidade de respostas possíveis depende sempre das relações existentes, tanto no círculo local como no real.\\n\\nO que acontece normalmente é isto: há uma parca descrição do real, do ser; depois há uma proposição; depois uma prescrição; depois algo a operar no dever-ser. Analisa-se apenas o dever-ser e esquece-se o poder-ser, que é onde está a verdade.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação e a fluidez sintática sem alterar a tese local.\",\n    \"Reduzida ligeiramente a oralidade redundante em 'Tem é de depender do real' para maior clareza.\",\n    \"Uniformizada a formulação de algumas passagens mantendo o léxico central: real, ser, dever-ser, poder-ser.\",\n    \"Preservada a estrutura em três movimentos: limite do saber total, dependência da política do real, crítica à análise exclusiva do dever-ser.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode integrar uma continuidade argumentativa maior sobre escala e decisão política.\",\n    \"A formulação 'círculo menor' permanece por ser lexicalmente relevante, embora o seu referente local não esteja totalmente explicitado neste excerto.\",\n    \"Há compressão conceptual na sequência 'proposição/prescrição/dever-ser'; foi preservada sem explicitação adicional para evitar introduzir conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:21:52+00:00",
+  "modelo": "gpt-5.4"
+}

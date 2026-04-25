@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0142_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0142_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "vigilância, livre arbítrio, autoperceção"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0142_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "É como se, no seu âmago, quem defende não haver livre-arbítrio não admitisse o mais básico dos básicos: a vigilância, o próprio facto de falarem. O que acontece se estiverem a dizer: \"Ah, desculpe, enganei-me\"? Quem é que se apercebe de que se enganou? Quem é? Há de ser aquilo que vigia, e vigia no sentido de incorporação da representação, porque tem de ser isso. Porquê? Porque é aquilo que segrega, do ponto de vista coerente, o apreendido.",
+    "resumo_alteracoes": [
+      "Removeu-se oralidade redundante, como repetições de \"é como que\".",
+      "Ajustou-se a sintaxe para maior legibilidade sem alterar a tese local.",
+      "Regularizou-se a formulação de \"arbítrio livre\" para \"livre-arbítrio\".",
+      "Pontuou-se o excerto para separar melhor a objeção, a pergunta e a resposta."
+    ],
+    "notas_cautela": [
+      "A expressão \"segrega, do ponto de vista coerente, o apreendido\" foi preservada por ser lexicalmente importante, embora permaneça densa.",
+      "O sentido de \"vigilância\" e de \"incorporação da representação\" depende de contexto mais amplo que não está presente no fragmento."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0142_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"É como se, no seu âmago, quem defende não haver livre-arbítrio não admitisse o mais básico dos básicos: a vigilância, o próprio facto de falarem. O que acontece se estiverem a dizer: \\\"Ah, desculpe, enganei-me\\\"? Quem é que se apercebe de que se enganou? Quem é? Há de ser aquilo que vigia, e vigia no sentido de incorporação da representação, porque tem de ser isso. Porquê? Porque é aquilo que segrega, do ponto de vista coerente, o apreendido.\",\n  \"resumo_alteracoes\": [\n    \"Removeu-se oralidade redundante, como repetições de \\\"é como que\\\".\",\n    \"Ajustou-se a sintaxe para maior legibilidade sem alterar a tese local.\",\n    \"Regularizou-se a formulação de \\\"arbítrio livre\\\" para \\\"livre-arbítrio\\\".\",\n    \"Pontuou-se o excerto para separar melhor a objeção, a pergunta e a resposta.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão \\\"segrega, do ponto de vista coerente, o apreendido\\\" foi preservada por ser lexicalmente importante, embora permaneça densa.\",\n    \"O sentido de \\\"vigilância\\\" e de \\\"incorporação da representação\\\" depende de contexto mais amplo que não está presente no fragmento.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:35:28+00:00",
+  "modelo": "gpt-5.4"
+}

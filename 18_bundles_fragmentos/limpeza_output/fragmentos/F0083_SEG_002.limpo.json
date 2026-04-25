@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0083_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0083_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "realidade vs subjetividade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0083_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A folha não é verde. É tudo menos verde. Verde é o comprimento de onda que a folha não absorve, que refrata e que bate nos nossos olhos. E é aqui que os subjetivistas e relativistas apontam: há um mundo em si que não é acessível ao ser, há uma diferença ontológica, uma barreira.\n\nMas as condições em que opera a refração da luz na folha são condições do real. E, por isso, também o olho que recebe a luz está no real. “Ah, mas e os qualia?”, dizem. “E o greenness? O verde que eu vejo não é o verde que tu vês.”\n\nE Wittgenstein diria o quê aqui? Que a lógica precede o mundo? Que o verde não existe no mundo? Ou que o verde existe no mundo e que a proposição é válida se mantiver a lógica da existência do verde no mundo, sendo o homem apenas uma camada, um espectador a ver um filme?\n\nEntão o verde teria de ser o quê? O verde em si mesmo? Uma forma? Um número? Uma propriedade? Que analíticos que são. Que formalismo da linguagem.\n\nSe o verde é uma possibilidade lógica de um estado de coisas, uma propriedade de uma coisa, então é algo que existe. E, sendo algo que existe, como é que pode ser tratado como mera experiência subjetiva? Não é apreendido como todas as outras propriedades físicas das coisas são apreendidas pela consciência?\n\nQue possibilidade lógica é esta quando se atualiza? É limitada esta pretensa decomposição ilimitada. Porque tanto é real a folha que recebe a luz, como é real a luz, como é real o lugar onde a luz bate. Tudo isto é real.",
+    "resumo_alteracoes": [
+      "Corrigi pequenos pontos de legibilidade e concordância sem alterar a tese local.",
+      "Mantive a ordem argumentativa original e a progressão das perguntas retóricas.",
+      "Reduzi ligeiramente a oralidade redundante apenas onde isso melhorava a coesão.",
+      "Ajustei formulações pontuais como 'acessível pelo ser' para 'acessível ao ser' e 'formalismo das linguagens' para 'formalismo da linguagem'.",
+      "Substituí 'onde a luz bate' por 'o lugar onde a luz bate' para maior clareza sintática."
+    ],
+    "notas_cautela": [
+      "O fragmento conserva formulações assertivas e retóricas que podem depender do segmento anterior para plena ancoragem argumentativa.",
+      "A referência a Wittgenstein permanece interrogativa e parcialmente aberta; foi preservada sem tentativa de completar o argumento.",
+      "Há compressão conceptual em torno de 'verde', 'possibilidade lógica' e 'experiência subjetiva'; não foi expandida para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0083_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A folha não é verde. É tudo menos verde. Verde é o comprimento de onda que a folha não absorve, que refrata e que bate nos nossos olhos. E é aqui que os subjetivistas e relativistas apontam: há um mundo em si que não é acessível ao ser, há uma diferença ontológica, uma barreira.\\n\\nMas as condições em que opera a refração da luz na folha são condições do real. E, por isso, também o olho que recebe a luz está no real. “Ah, mas e os qualia?”, dizem. “E o greenness? O verde que eu vejo não é o verde que tu vês.”\\n\\nE Wittgenstein diria o quê aqui? Que a lógica precede o mundo? Que o verde não existe no mundo? Ou que o verde existe no mundo e que a proposição é válida se mantiver a lógica da existência do verde no mundo, sendo o homem apenas uma camada, um espectador a ver um filme?\\n\\nEntão o verde teria de ser o quê? O verde em si mesmo? Uma forma? Um número? Uma propriedade? Que analíticos que são. Que formalismo da linguagem.\\n\\nSe o verde é uma possibilidade lógica de um estado de coisas, uma propriedade de uma coisa, então é algo que existe. E, sendo algo que existe, como é que pode ser tratado como mera experiência subjetiva? Não é apreendido como todas as outras propriedades físicas das coisas são apreendidas pela consciência?\\n\\nQue possibilidade lógica é esta quando se atualiza? É limitada esta pretensa decomposição ilimitada. Porque tanto é real a folha que recebe a luz, como é real a luz, como é real o lugar onde a luz bate. Tudo isto é real.\",\n  \"resumo_alteracoes\": [\n    \"Corrigi pequenos pontos de legibilidade e concordância sem alterar a tese local.\",\n    \"Mantive a ordem argumentativa original e a progressão das perguntas retóricas.\",\n    \"Reduzi ligeiramente a oralidade redundante apenas onde isso melhorava a coesão.\",\n    \"Ajustei formulações pontuais como 'acessível pelo ser' para 'acessível ao ser' e 'formalismo das linguagens' para 'formalismo da linguagem'.\",\n    \"Substituí 'onde a luz bate' por 'o lugar onde a luz bate' para maior clareza sintática.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento conserva formulações assertivas e retóricas que podem depender do segmento anterior para plena ancoragem argumentativa.\",\n    \"A referência a Wittgenstein permanece interrogativa e parcialmente aberta; foi preservada sem tentativa de completar o argumento.\",\n    \"Há compressão conceptual em torno de 'verde', 'possibilidade lógica' e 'experiência subjetiva'; não foi expandida para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:16:25+00:00",
+  "modelo": "gpt-5.4"
+}

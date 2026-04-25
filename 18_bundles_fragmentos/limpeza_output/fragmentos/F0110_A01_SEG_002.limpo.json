@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0110_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0110_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "contingência relações planeta"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0110_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O que daqui deriva é a contingência das relações de um ser que vive num planeta, de humanos e civilizações, se quisermos. Não penso em ficção científica; por isso, não escrevo sobre um ser marciano noutro planeta.",
+    "resumo_alteracoes": [
+      "Ajustada a sintaxe de 'um ser a viver num planeta' para 'um ser que vive num planeta' para maior clareza.",
+      "Mantida a referência a 'humanos e civilizações, se quisermos' com pontuação mínima para preservar a voz.",
+      "Substituída a coordenação final por pontuação mais estável ('; por isso') para melhorar a fluidez sem alterar a tese local.",
+      "Clarificada a expressão 'ser marciano' com artigo ('um ser marciano') sem acrescentar conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento é breve e parece depender de continuidade com o segmento anterior.",
+      "A enumeração 'de humanos e civilizações' foi preservada sem expansão interpretativa.",
+      "O texto permanece localmente parcial no encadeamento do argumento mais amplo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0110_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O que daqui deriva é a contingência das relações de um ser que vive num planeta, de humanos e civilizações, se quisermos. Não penso em ficção científica; por isso, não escrevo sobre um ser marciano noutro planeta.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a sintaxe de 'um ser a viver num planeta' para 'um ser que vive num planeta' para maior clareza.\",\n    \"Mantida a referência a 'humanos e civilizações, se quisermos' com pontuação mínima para preservar a voz.\",\n    \"Substituída a coordenação final por pontuação mais estável ('; por isso') para melhorar a fluidez sem alterar a tese local.\",\n    \"Clarificada a expressão 'ser marciano' com artigo ('um ser marciano') sem acrescentar conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento é breve e parece depender de continuidade com o segmento anterior.\",\n    \"A enumeração 'de humanos e civilizações' foi preservada sem expansão interpretativa.\",\n    \"O texto permanece localmente parcial no encadeamento do argumento mais amplo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:28:07+00:00",
+  "modelo": "gpt-5.4"
+}

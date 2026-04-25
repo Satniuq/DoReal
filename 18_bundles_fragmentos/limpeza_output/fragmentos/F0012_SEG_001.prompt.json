@@ -1,0 +1,57 @@
+{
+  "fragment_id": "F0012_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0012_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"origem_id\": \"F0012\",\n  \"header_original\": \"## F0012 — 2026-01-02\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"crítica sistemas pensamento dominante\",\n  \"motivos_estado\": [],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [],\n    \"estado_bundle_destino\": \"limpavel\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui podes reordenar localmente frases curtas e corrigir sintaxe para obter uma formulação limpa.\",\n    \"Mantém a agressividade crítica quando ela fizer parte do conteúdo, mas remove apenas ruído de oralidade.\"\n  ],\n  \"texto_a_limpar\": \"Que não é adequado usar tudo o que não seja a melhor descrição possível da realidade. E porque se for logo, ontologicamente, ao nível dos tracinhos no mapa da cadeia da realidade, fecha o círculo, fecha o mapa, a todos os caminhos, a todos os caminhos, a todos os caminhos, intelectualmente... como é que se diz? Caldões. A questão não era essa. A questão é que a crítica maior é dirigida aos sistemas de pensamento, ou seja, aos tipos de pensamento que as pessoas têm nas suas cabeças e que depois exteriorizem comportamentos. A crítica é aos sistemas dominantes do discurso cultural e, entre aspas, científico-académico. Em grandes aspas. Não, não é nada disso. Não se disfarçam como... Portanto, as crenças bifurcadas num lado de relegar para o lado a única solução possível para resolver qualquer problema de sociedade, que é melhor descrever o problema para melhor aplicar a solução que tem que estar contida na própria descrição da realidade, relegar para o lado isto e favorecer outros tipos de pensamentos mais de primeira ordem, mais instintivos, mais emocionais, ou seja, respostas biológicas que não eram para problemas dessa larga escala. Mas quando esse tipo de pensamento se torna dominante na cultura, aquela proliferação deste tipo de visões que são muito mais captáveis pelo cérebro do que outras que requerem esforço físico... A crítica é que isto também é uma própria dependência do sistema ontológico, porque a própria realidade que contém nela própria, se contém o homem com uma bifurcação natural para saber, com uma bifurcação natural para aplicar estilos de resposta aos problemas, para aplicar dois diferentes grandes estilos de resposta aos problemas da realidade. Um que é procurar a realidade e mudar-se, mudar-se, melhorar-se, para melhor adaptar-se à realidade e melhor trazer sistemas... É mais institutiva como, há um problema, então eu vou é mudar o problema, eu vou é mudar o sistema para criar um deve-ser, quem vive na cabeça do deve-ser. A crítica é essa, é que o próprio sistema contém essa necessidade de que esta visão, a visão do lado mais básico, quando toma conta do discurso social, quando toma conta do discurso social, adapta-o.\",\n  \"contexto_local\": null,\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0012_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "origem_id": "F0012",
+    "header_original": "## F0012 — 2026-01-02",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crítica sistemas pensamento dominante",
+    "motivos_estado": [],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [],
+      "estado_bundle_destino": "limpavel"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui podes reordenar localmente frases curtas e corrigir sintaxe para obter uma formulação limpa.",
+      "Mantém a agressividade crítica quando ela fizer parte do conteúdo, mas remove apenas ruído de oralidade."
+    ],
+    "texto_a_limpar": "Que não é adequado usar tudo o que não seja a melhor descrição possível da realidade. E porque se for logo, ontologicamente, ao nível dos tracinhos no mapa da cadeia da realidade, fecha o círculo, fecha o mapa, a todos os caminhos, a todos os caminhos, a todos os caminhos, intelectualmente... como é que se diz? Caldões. A questão não era essa. A questão é que a crítica maior é dirigida aos sistemas de pensamento, ou seja, aos tipos de pensamento que as pessoas têm nas suas cabeças e que depois exteriorizem comportamentos. A crítica é aos sistemas dominantes do discurso cultural e, entre aspas, científico-académico. Em grandes aspas. Não, não é nada disso. Não se disfarçam como... Portanto, as crenças bifurcadas num lado de relegar para o lado a única solução possível para resolver qualquer problema de sociedade, que é melhor descrever o problema para melhor aplicar a solução que tem que estar contida na própria descrição da realidade, relegar para o lado isto e favorecer outros tipos de pensamentos mais de primeira ordem, mais instintivos, mais emocionais, ou seja, respostas biológicas que não eram para problemas dessa larga escala. Mas quando esse tipo de pensamento se torna dominante na cultura, aquela proliferação deste tipo de visões que são muito mais captáveis pelo cérebro do que outras que requerem esforço físico... A crítica é que isto também é uma própria dependência do sistema ontológico, porque a própria realidade que contém nela própria, se contém o homem com uma bifurcação natural para saber, com uma bifurcação natural para aplicar estilos de resposta aos problemas, para aplicar dois diferentes grandes estilos de resposta aos problemas da realidade. Um que é procurar a realidade e mudar-se, mudar-se, melhorar-se, para melhor adaptar-se à realidade e melhor trazer sistemas... É mais institutiva como, há um problema, então eu vou é mudar o problema, eu vou é mudar o sistema para criar um deve-ser, quem vive na cabeça do deve-ser. A crítica é essa, é que o próprio sistema contém essa necessidade de que esta visão, a visão do lado mais básico, quando toma conta do discurso social, quando toma conta do discurso social, adapta-o.",
+    "contexto_local": null,
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

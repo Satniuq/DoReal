@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0062_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0062_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "critérios de existência social"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0062_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Todas as sociedades humanas manifestam isto. Qualquer civilização pode viver segundo um modo de ser e justificá-lo pela própria existência desse modo de ser. O homem tende a viver sobre as formas que cria — processos, representações, relações —, a adaptar-se a elas e a tomá-las como critério do melhor modo de ser.\n\nHá modos de ser internamente coerentes, incluindo sociedades que consideram legítimo que as mulheres não sejam livres como os homens, justificando isso por autoridades simbólicas internas. Dentro desse círculo, há coerência. No entanto, círculos ontológicos superiores mostram que esse não é o melhor modo de ser; esse critério mede-se pela capacidade de alargamento ao real.\n\nAs sociedades que inovam são as que permitem ao homem conhecer o real. Isso foi reconhecido quando se identificou a liberdade como característica humana e se fundiu essa característica com a ideia de que cada homem é livre, permitindo a emergência de sociedades mais amplas e tecnicamente avançadas.",
+    "resumo_alteracoes": [
+      "Ajustei a pontuação e a ligação sintática para melhorar a legibilidade.",
+      "Reduzi formulações redundantes sem alterar a tese local.",
+      "Substituí 'Exemplos de modos de ser internamente coerentes incluem' por uma formulação mais direta, preservando o sentido.",
+      "Mantive a progressão argumentativa: coerência interna de formas sociais, critério de avaliação e ligação à inovação social."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém termos fortes e potencialmente dependentes de contexto, como 'círculos ontológicos superiores', sem explicitação interna adicional.",
+      "A passagem sobre liberdade e sociedades 'mais amplas e tecnicamente avançadas' foi preservada, mas pode depender de desenvolvimento anterior ou posterior para plena precisão.",
+      "Há continuidade local ativa com os fragmentos adjacentes; a limpeza não tentou preencher lacunas além do mínimo necessário."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0062_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Todas as sociedades humanas manifestam isto. Qualquer civilização pode viver segundo um modo de ser e justificá-lo pela própria existência desse modo de ser. O homem tende a viver sobre as formas que cria — processos, representações, relações —, a adaptar-se a elas e a tomá-las como critério do melhor modo de ser.\\n\\nHá modos de ser internamente coerentes, incluindo sociedades que consideram legítimo que as mulheres não sejam livres como os homens, justificando isso por autoridades simbólicas internas. Dentro desse círculo, há coerência. No entanto, círculos ontológicos superiores mostram que esse não é o melhor modo de ser; esse critério mede-se pela capacidade de alargamento ao real.\\n\\nAs sociedades que inovam são as que permitem ao homem conhecer o real. Isso foi reconhecido quando se identificou a liberdade como característica humana e se fundiu essa característica com a ideia de que cada homem é livre, permitindo a emergência de sociedades mais amplas e tecnicamente avançadas.\",\n  \"resumo_alteracoes\": [\n    \"Ajustei a pontuação e a ligação sintática para melhorar a legibilidade.\",\n    \"Reduzi formulações redundantes sem alterar a tese local.\",\n    \"Substituí 'Exemplos de modos de ser internamente coerentes incluem' por uma formulação mais direta, preservando o sentido.\",\n    \"Mantive a progressão argumentativa: coerência interna de formas sociais, critério de avaliação e ligação à inovação social.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém termos fortes e potencialmente dependentes de contexto, como 'círculos ontológicos superiores', sem explicitação interna adicional.\",\n    \"A passagem sobre liberdade e sociedades 'mais amplas e tecnicamente avançadas' foi preservada, mas pode depender de desenvolvimento anterior ou posterior para plena precisão.\",\n    \"Há continuidade local ativa com os fragmentos adjacentes; a limpeza não tentou preencher lacunas além do mínimo necessário.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:09:24+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0024_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0024_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "voz_autor_extraida",
+      "houve_corte_interno",
+      "continuidade_local_ativa",
+      "material_dialogico_com_ia"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "instituições, realidade, homem, prescrição"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0024_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "As instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e de ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outras coisas, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será a que não viole as regras verdadeiras básicas.",
+    "resumo_alteracoes": [
+      "Removida a marca de voz '[Autor]' por já estar pressuposta no fragmento extraído.",
+      "Suavizada a oralidade mínima e ajustada a coordenação em 'modos de pensar e de ser' para maior fluidez.",
+      "Substituído 'entre outros' por 'entre outras coisas' para corrigir a concordância sem alterar a tese.",
+      "Ajustado 'uma que não viole' para 'a que não viole' por economia e clareza."
+    ],
+    "notas_cautela": [
+      "Fragmento preservado como sequência argumentativa local, sem explicitar premissas implícitas.",
+      "Material de origem dialógica; a limpeza manteve apenas a voz autoral já extraída.",
+      "O trecho permanece denso e parcialmente dependente de contexto mais amplo, mas legível por si."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0024_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"As instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e de ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outras coisas, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será a que não viole as regras verdadeiras básicas.\",\n  \"resumo_alteracoes\": [\n    \"Removida a marca de voz '[Autor]' por já estar pressuposta no fragmento extraído.\",\n    \"Suavizada a oralidade mínima e ajustada a coordenação em 'modos de pensar e de ser' para maior fluidez.\",\n    \"Substituído 'entre outros' por 'entre outras coisas' para corrigir a concordância sem alterar a tese.\",\n    \"Ajustado 'uma que não viole' para 'a que não viole' por economia e clareza.\"\n  ],\n  \"notas_cautela\": [\n    \"Fragmento preservado como sequência argumentativa local, sem explicitar premissas implícitas.\",\n    \"Material de origem dialógica; a limpeza manteve apenas a voz autoral já extraída.\",\n    \"O trecho permanece denso e parcialmente dependente de contexto mais amplo, mas legível por si.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:03:29+00:00",
+  "modelo": "gpt-5.4"
+}

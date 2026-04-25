@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0221_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0221_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "localidade apreensão sensória"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0221_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Que sabe uma maçã? Qual é o sabor de uma maçã? É um sabor que só eu sinto. Há de sabê-lo quem quebrar aquela maçã ao comê-la pela sua boca, com as suas papilas gustativas. O que se pretende aqui? Pretende-se que a tua experiência de comer uma maçã seja dita ao mesmo tempo por mim? O que é suposto isso querer dizer? A tua apreensão da realidade é local. E o problema é que, sendo local, é local. Qual é a lógica nisto tudo? A localidade faz parte da própria apreensão. Não há apreensão, não há contacto com o ser, não há quebra do conteúdo do ser através do contacto, sem a localidade da própria apreensão. O sabor que a maçã tem só o tem porque há uma localidade a quebrar o conteúdo do ser. Nunca poderia ser algo partilhado por mim.",
+    "resumo_alteracoes": [
+      "Removidas marcas de oralidade redundante, como interjeições e formulações hesitantes.",
+      "Corrigida a sintaxe em várias frases para melhorar legibilidade sem alterar a tese local.",
+      "Preservada a sequência argumentativa: exemplo da maçã, recusa da partilha imediata da experiência, afirmação da localidade da apreensão.",
+      "Mantido o léxico central do fragmento, incluindo 'localidade', 'apreensão', 'contacto com o ser' e 'quebra do conteúdo do ser'."
+    ],
+    "notas_cautela": [
+      "A formulação 'quebrar o conteúdo do ser' foi preservada apesar da estranheza, por parecer léxico autoral com função conceptual.",
+      "A frase 'sendo local, é local' foi mantida quase intacta por poder ter função enfática, embora soe repetitiva."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0221_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Que sabe uma maçã? Qual é o sabor de uma maçã? É um sabor que só eu sinto. Há de sabê-lo quem quebrar aquela maçã ao comê-la pela sua boca, com as suas papilas gustativas. O que se pretende aqui? Pretende-se que a tua experiência de comer uma maçã seja dita ao mesmo tempo por mim? O que é suposto isso querer dizer? A tua apreensão da realidade é local. E o problema é que, sendo local, é local. Qual é a lógica nisto tudo? A localidade faz parte da própria apreensão. Não há apreensão, não há contacto com o ser, não há quebra do conteúdo do ser através do contacto, sem a localidade da própria apreensão. O sabor que a maçã tem só o tem porque há uma localidade a quebrar o conteúdo do ser. Nunca poderia ser algo partilhado por mim.\",\n  \"resumo_alteracoes\": [\n    \"Removidas marcas de oralidade redundante, como interjeições e formulações hesitantes.\",\n    \"Corrigida a sintaxe em várias frases para melhorar legibilidade sem alterar a tese local.\",\n    \"Preservada a sequência argumentativa: exemplo da maçã, recusa da partilha imediata da experiência, afirmação da localidade da apreensão.\",\n    \"Mantido o léxico central do fragmento, incluindo 'localidade', 'apreensão', 'contacto com o ser' e 'quebra do conteúdo do ser'.\"\n  ],\n  \"notas_cautela\": [\n    \"A formulação 'quebrar o conteúdo do ser' foi preservada apesar da estranheza, por parecer léxico autoral com função conceptual.\",\n    \"A frase 'sendo local, é local' foi mantida quase intacta por poder ter função enfática, embora soe repetitiva.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:43:30+00:00",
+  "modelo": "gpt-5.4"
+}

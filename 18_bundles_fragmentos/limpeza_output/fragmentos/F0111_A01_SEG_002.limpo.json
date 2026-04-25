@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0111_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0111_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "necessidade da consciência no real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0111_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A relação que cada ser consciente tem é sempre, antes de mais, consigo e com o real; depois, consigo e com os outros. Mas, a maior parte do tempo, é a primeira, por natureza: os meios e as vidas dependem da relação com o real.\n\nÉ aqui que nasce a necessidade da consciência no real. Porque, se não fosse no real, sendo extra-real e relacionando-se com o real, teria de ser real. Não há fuga.",
+    "resumo_alteracoes": [
+      "Separação e articulação mais nítida entre a relação consigo e com o real, e a relação com os outros.",
+      "Redução de oralidade mínima por pontuação e encadeamento sintático.",
+      "Preservação do núcleo argumentativo final sem completar lacunas."
+    ],
+    "notas_cautela": [
+      "O trecho mantém uma formulação densa em 'sendo extra-real e relacionando-se com o real, teria de ser real', que foi preservada por cautela.",
+      "Há continuidade argumentativa com o fragmento anterior e possível projeção para o seguinte; não foi expandida.",
+      "O texto pode permanecer parcialmente elíptico, mas sem sinais suficientes para reconstrução adicional segura."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0111_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A relação que cada ser consciente tem é sempre, antes de mais, consigo e com o real; depois, consigo e com os outros. Mas, a maior parte do tempo, é a primeira, por natureza: os meios e as vidas dependem da relação com o real.\\n\\nÉ aqui que nasce a necessidade da consciência no real. Porque, se não fosse no real, sendo extra-real e relacionando-se com o real, teria de ser real. Não há fuga.\",\n  \"resumo_alteracoes\": [\n    \"Separação e articulação mais nítida entre a relação consigo e com o real, e a relação com os outros.\",\n    \"Redução de oralidade mínima por pontuação e encadeamento sintático.\",\n    \"Preservação do núcleo argumentativo final sem completar lacunas.\"\n  ],\n  \"notas_cautela\": [\n    \"O trecho mantém uma formulação densa em 'sendo extra-real e relacionando-se com o real, teria de ser real', que foi preservada por cautela.\",\n    \"Há continuidade argumentativa com o fragmento anterior e possível projeção para o seguinte; não foi expandida.\",\n    \"O texto pode permanecer parcialmente elíptico, mas sem sinais suficientes para reconstrução adicional segura.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:28:28+00:00",
+  "modelo": "gpt-5.4"
+}

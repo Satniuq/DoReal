@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0072_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0072_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "estrutura da apreensão"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0072_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Para além disso, o modo como o mundo é apreendido constitui evidência suficiente. Quer se adote uma posição dualista, quer se dissolva a consciência ao ponto de a afastar, como em Chesterton, quer se adote um panpsiquismo que identifica ser e consciência, o erro comum é ignorar a necessidade condicional do modo de apreensão.\n\nEssas posições falham por não reconhecer que a apreensão do real ocorre sempre dentro de um quadro determinado. A observação atribuída a Chesterton é decisiva: descrever corretamente um argumento oposto exige compreender o quadro em que ele opera. O contra-argumento verdadeiro não nega o conteúdo, mas rearranja o quadro.\n\nÉ nessa simplicidade estrutural que reside a força do pensamento: mudar o quadro é alterar o sentido de tudo o que nele aparece. Assim, o modo de ser verdadeiro surge como o mais natural de todos, porque não há nada mais natural do que aquilo que é.",
+    "resumo_alteracoes": [
+      "Corrigida a capitalização de 'Chesterton'.",
+      "Ajustada ligeiramente a formulação para maior fluidez, sem alterar a tese local.",
+      "Preservada a sequência argumentativa entre modo de apreensão, quadro e contra-argumento."
+    ],
+    "notas_cautela": [
+      "A referência a 'Chesterton' foi mantida tal como aparece no fragmento, sem verificar atribuição ou contexto externo.",
+      "O fragmento parece íntegro o suficiente para leitura local, mas pode depender de contexto anterior para o alcance exato de 'necessidade condicional do modo de apreensão'."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0072_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Para além disso, o modo como o mundo é apreendido constitui evidência suficiente. Quer se adote uma posição dualista, quer se dissolva a consciência ao ponto de a afastar, como em Chesterton, quer se adote um panpsiquismo que identifica ser e consciência, o erro comum é ignorar a necessidade condicional do modo de apreensão.\\n\\nEssas posições falham por não reconhecer que a apreensão do real ocorre sempre dentro de um quadro determinado. A observação atribuída a Chesterton é decisiva: descrever corretamente um argumento oposto exige compreender o quadro em que ele opera. O contra-argumento verdadeiro não nega o conteúdo, mas rearranja o quadro.\\n\\nÉ nessa simplicidade estrutural que reside a força do pensamento: mudar o quadro é alterar o sentido de tudo o que nele aparece. Assim, o modo de ser verdadeiro surge como o mais natural de todos, porque não há nada mais natural do que aquilo que é.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a capitalização de 'Chesterton'.\",\n    \"Ajustada ligeiramente a formulação para maior fluidez, sem alterar a tese local.\",\n    \"Preservada a sequência argumentativa entre modo de apreensão, quadro e contra-argumento.\"\n  ],\n  \"notas_cautela\": [\n    \"A referência a 'Chesterton' foi mantida tal como aparece no fragmento, sem verificar atribuição ou contexto externo.\",\n    \"O fragmento parece íntegro o suficiente para leitura local, mas pode depender de contexto anterior para o alcance exato de 'necessidade condicional do modo de apreensão'.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:13:03+00:00",
+  "modelo": "gpt-5.4"
+}

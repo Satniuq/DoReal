@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0074_A01_SEG_003",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0074_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0074_A01\",\n  \"header_original\": \"## F0074 — Inteligência, adaptação e erro da validação formal\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"desenvolvimento_medio\",\n  \"tema_dominante_provisorio\": \"validação discurso filosófico\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Mas faz-me um certo tipo de confusão como é que o discurso filosófico passou a ser não validado pela lógica da realidade. Certamente porque bastou alguém apontar um erro — um erro, vai ser um erro do sistema qualquer de Gödel, é como é que se chama — em como os sistemas complexos não se auto-justificam. O que é confirmar que esses temas são apenas validações, justificações lógicas dentro do próprio modo de ser que o filósofo encarna, e que hoje em dia são todos extensivamente subjetivos.\\n\\nE que a única lógica que existe é a lógica da coerência interna. Ou seja, é a própria crença tornada realidade pelo próprio sistema formalista e pela própria razão de ser do homem. Razão de ser no sentido de modo de ser. Tendência natural como animal que somos. Não somos robôs, somos animais. Mesmo os robôs têm tendências de acordo com o seu código, se se puder aplicar ao ser humano — não para misturar tudo.\\n\\nSim, mas isto, eu acho que isto tinha mais um bocado também a ver com a outra ideia, que era da consciência. Depois vê-se sempre todo o discurso. Isto vê-se sempre em todo o discurso filosófico. É desconcertante. É completamente desconcertante.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0074_A01_SEG_002\\n- tema: adaptação humana: círculos e nichos\\n- preview: Como é que o discurso lógico, que se quer que seja o discurso filosófico, ou que quer que o discurso filosófico seja lógico, mas levamos, lá está, ao ponto tal da formalidade e da vivência em círculos relativamente reduzidos, e depois associar todas as nossas funções biológicas — como é que já se sabe, especialmente de obter crenças, e de ser muito mais difícil destruir crenças por outras novas — portanto manter-se…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0074_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0074_A01",
+    "header_original": "## F0074 — Inteligência, adaptação e erro da validação formal",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "validação discurso filosófico",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Mas faz-me um certo tipo de confusão como é que o discurso filosófico passou a ser não validado pela lógica da realidade. Certamente porque bastou alguém apontar um erro — um erro, vai ser um erro do sistema qualquer de Gödel, é como é que se chama — em como os sistemas complexos não se auto-justificam. O que é confirmar que esses temas são apenas validações, justificações lógicas dentro do próprio modo de ser que o filósofo encarna, e que hoje em dia são todos extensivamente subjetivos.\n\nE que a única lógica que existe é a lógica da coerência interna. Ou seja, é a própria crença tornada realidade pelo próprio sistema formalista e pela própria razão de ser do homem. Razão de ser no sentido de modo de ser. Tendência natural como animal que somos. Não somos robôs, somos animais. Mesmo os robôs têm tendências de acordo com o seu código, se se puder aplicar ao ser humano — não para misturar tudo.\n\nSim, mas isto, eu acho que isto tinha mais um bocado também a ver com a outra ideia, que era da consciência. Depois vê-se sempre todo o discurso. Isto vê-se sempre em todo o discurso filosófico. É desconcertante. É completamente desconcertante.",
+    "contexto_local": "Fragmento anterior:\n- id: F0074_A01_SEG_002\n- tema: adaptação humana: círculos e nichos\n- preview: Como é que o discurso lógico, que se quer que seja o discurso filosófico, ou que quer que o discurso filosófico seja lógico, mas levamos, lá está, ao ponto tal da formalidade e da vivência em círculos relativamente reduzidos, e depois associar todas as nossas funções biológicas — como é que já se sabe, especialmente de obter crenças, e de ser muito mais difícil destruir crenças por outras novas — portanto manter-se…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

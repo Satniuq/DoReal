@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0090_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0090_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "realidade eu conhecimento compartimentado"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0090_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A questão do melhor método de ensino é colocada como se fosse necessário conhecer todos os sistemas errados para se poder falar do correto, em vez de se afirmar a evidência tautológica: a criança sabe melhor se primeiro souber o que é isto que existe e o que é isto de eu existir.\n\nUma criança sem contacto com o real — que deveria ser dado pelo pai e pela mãe — sucumbirá a modos de contacto dependentes apenas do eu. Cresce-se depois já deparado com uma compartimentalização definida com precisão terminológica, e pergunta-se como é que alguém poderia não saber nada.\n\nO conhecimento humano é sempre compartimentalizado; não se pode querer fazer depender o real de respostas internas a domínios de conhecimento que nem sequer são tratados de forma integrada. Vê-se isso quando se discute Wittgenstein: as proposições fecham o discurso, excluindo o real, e, quando se tenta integrar o real, diz-se que já é outra conversa.",
+    "resumo_alteracoes": [
+      "Removida repetição ligeira e oralidade redundante sem alterar a tese local.",
+      "Ajustada a pontuação para melhorar legibilidade e separação entre segmentos argumentativos.",
+      "Feita limpeza mínima em formulações truncadas, preservando o léxico central do fragmento.",
+      "Mantida a sequência: método de ensino, contacto com o real na infância, crítica à compartimentalização do conhecimento."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e parcialmente elípticas que parecem depender do contexto adjacente.",
+      "A referência a Wittgenstein foi preservada sem explicitação adicional para evitar introdução de conteúdo novo.",
+      "Há continuidade local ativa com os fragmentos anterior e seguinte; a limpeza não tentou fechar lacunas argumentativas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0090_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A questão do melhor método de ensino é colocada como se fosse necessário conhecer todos os sistemas errados para se poder falar do correto, em vez de se afirmar a evidência tautológica: a criança sabe melhor se primeiro souber o que é isto que existe e o que é isto de eu existir.\\n\\nUma criança sem contacto com o real — que deveria ser dado pelo pai e pela mãe — sucumbirá a modos de contacto dependentes apenas do eu. Cresce-se depois já deparado com uma compartimentalização definida com precisão terminológica, e pergunta-se como é que alguém poderia não saber nada.\\n\\nO conhecimento humano é sempre compartimentalizado; não se pode querer fazer depender o real de respostas internas a domínios de conhecimento que nem sequer são tratados de forma integrada. Vê-se isso quando se discute Wittgenstein: as proposições fecham o discurso, excluindo o real, e, quando se tenta integrar o real, diz-se que já é outra conversa.\",\n  \"resumo_alteracoes\": [\n    \"Removida repetição ligeira e oralidade redundante sem alterar a tese local.\",\n    \"Ajustada a pontuação para melhorar legibilidade e separação entre segmentos argumentativos.\",\n    \"Feita limpeza mínima em formulações truncadas, preservando o léxico central do fragmento.\",\n    \"Mantida a sequência: método de ensino, contacto com o real na infância, crítica à compartimentalização do conhecimento.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e parcialmente elípticas que parecem depender do contexto adjacente.\",\n    \"A referência a Wittgenstein foi preservada sem explicitação adicional para evitar introdução de conteúdo novo.\",\n    \"Há continuidade local ativa com os fragmentos anterior e seguinte; a limpeza não tentou fechar lacunas argumentativas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:19:48+00:00",
+  "modelo": "gpt-5.4"
+}

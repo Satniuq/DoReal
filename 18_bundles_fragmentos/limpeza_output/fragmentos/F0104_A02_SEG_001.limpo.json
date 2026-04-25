@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0104_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0104_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "tensão eu-real no discurso"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0104_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Quanto mais um tipo de discurso tem o seu campo de aplicação centrado no eu, menos toca no real. E todos os critérios inventados nesses sistemas serão sempre internos, porque relegam o real.\n\nAs medidas prescritivas estão erradas quando são só eu-centradas. Mas aspirar ao contrário, ao só real, destruiria a relação humana, que é sempre eu com eu.",
+    "resumo_alteracoes": [
+      "Preservada a estrutura em dois momentos: crítica ao discurso centrado no eu e recusa do extremo oposto.",
+      "Ajustada a expressão final de \"a só real\" para \"ao só real\" por clareza sintática mínima.",
+      "Mantido o léxico central do fragmento: eu, real, critérios internos, medidas prescritivas, relação humana."
+    ],
+    "notas_cautela": [
+      "O fragmento parece parcial e integrado numa continuidade argumentativa maior.",
+      "A oposição entre \"eu-centradas\" e \"só real\" foi mantida sem desenvolvimento adicional para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0104_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Quanto mais um tipo de discurso tem o seu campo de aplicação centrado no eu, menos toca no real. E todos os critérios inventados nesses sistemas serão sempre internos, porque relegam o real.\\n\\nAs medidas prescritivas estão erradas quando são só eu-centradas. Mas aspirar ao contrário, ao só real, destruiria a relação humana, que é sempre eu com eu.\",\n  \"resumo_alteracoes\": [\n    \"Preservada a estrutura em dois momentos: crítica ao discurso centrado no eu e recusa do extremo oposto.\",\n    \"Ajustada a expressão final de \\\"a só real\\\" para \\\"ao só real\\\" por clareza sintática mínima.\",\n    \"Mantido o léxico central do fragmento: eu, real, critérios internos, medidas prescritivas, relação humana.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece parcial e integrado numa continuidade argumentativa maior.\",\n    \"A oposição entre \\\"eu-centradas\\\" e \\\"só real\\\" foi mantida sem desenvolvimento adicional para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:26:03+00:00",
+  "modelo": "gpt-5.4"
+}

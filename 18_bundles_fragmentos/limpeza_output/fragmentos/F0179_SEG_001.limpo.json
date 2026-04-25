@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0179_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0179_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "eu ser eu real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0179_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "A diferença entre esquerda e direita política está em que ambas querem viver no seu próprio sistema construído. Só que, como já temos visto, um lado cai no eu no ser e o outro cai no eu no real. E a diferença entre eu no ser e eu no real é enorme, porque condiciona tudo aquilo que acontece de relevante e de irrelevante na nossa vida, enquadrado no contínuo da existência: na direção em que há um acoplamento do existente de há um segundo ao existente de agora, há um movimento da relação que era atualizada de um certo tipo, de um certo modo, há um segundo, e que, pelo contínuo do tempo, é agora atualizada de outro modo, como se fosse uma corrente a passar no radar, e o radar clicasse, como se fosse um fotograma: um fotograma das relações como elos de uma malha metálica no universo.",
+    "resumo_alteracoes": [
+      "Corrigi a abertura frásica para lhe dar forma sintática completa.",
+      "Removi repetições de oralidade como \"no eu no eu\" sem alterar a distinção central entre \"eu no ser\" e \"eu no real\".",
+      "Ajustei concordâncias e ligações sintáticas para melhorar a legibilidade.",
+      "Mantive as imagens do radar, do fotograma e da malha metálica, apenas com pontuação mais estável."
+    ],
+    "notas_cautela": [
+      "A formulação \"um lado cai no eu no ser e o outro cai no eu no real\" preserva uma oposição presente no original, mas o trecho não explicita qual lado corresponde a qual posição.",
+      "A parte final mantém uma cadeia metafórica densa e parcialmente elíptica; foi apenas estabilizada, não reinterpretada."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0179_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"A diferença entre esquerda e direita política está em que ambas querem viver no seu próprio sistema construído. Só que, como já temos visto, um lado cai no eu no ser e o outro cai no eu no real. E a diferença entre eu no ser e eu no real é enorme, porque condiciona tudo aquilo que acontece de relevante e de irrelevante na nossa vida, enquadrado no contínuo da existência: na direção em que há um acoplamento do existente de há um segundo ao existente de agora, há um movimento da relação que era atualizada de um certo tipo, de um certo modo, há um segundo, e que, pelo contínuo do tempo, é agora atualizada de outro modo, como se fosse uma corrente a passar no radar, e o radar clicasse, como se fosse um fotograma: um fotograma das relações como elos de uma malha metálica no universo.\",\n  \"resumo_alteracoes\": [\n    \"Corrigi a abertura frásica para lhe dar forma sintática completa.\",\n    \"Removi repetições de oralidade como \\\"no eu no eu\\\" sem alterar a distinção central entre \\\"eu no ser\\\" e \\\"eu no real\\\".\",\n    \"Ajustei concordâncias e ligações sintáticas para melhorar a legibilidade.\",\n    \"Mantive as imagens do radar, do fotograma e da malha metálica, apenas com pontuação mais estável.\"\n  ],\n  \"notas_cautela\": [\n    \"A formulação \\\"um lado cai no eu no ser e o outro cai no eu no real\\\" preserva uma oposição presente no original, mas o trecho não explicita qual lado corresponde a qual posição.\",\n    \"A parte final mantém uma cadeia metafórica densa e parcialmente elíptica; foi apenas estabilizada, não reinterpretada.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:39:14+00:00",
+  "modelo": "gpt-5.4"
+}

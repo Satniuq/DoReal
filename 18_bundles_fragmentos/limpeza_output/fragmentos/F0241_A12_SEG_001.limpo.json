@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A12_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A12_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "validação do ser pelo real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A12_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A direção do ser para o real não é necessária, nem sequer exaustiva, porque pode ser, no mínimo, coerente no plano animal. Mas, no plano da reflexividade, no plano da liberdade que existe pela reflexividade, a direção final, depois de tanta liberdade, pode sempre, em última instância, ser validada somente por estar mais perto ou mais afastada do real. Esse campo de potencialidades onde tu te atualizas circunscreve-se a onde? A quê?\n\nAo que tu és relativamente ao que o real imporia que tu fosses. Se tu conhecesses o real, se tu te conhecesses a ti próprio, se descrevesses melhor, se aprendesses melhor, então o melhor, se há melhor, em última instância, é relativamente àquilo que é verdadeiro, àquilo que é o bom, que há de ser sempre aquilo que mais proximamente se pode descrever como o real. Não há coisas. O que é que são coisas? O que é que são coisas?",
+    "resumo_alteracoes": [
+      "Separação e pontuação ajustadas para desfazer fusões locais e melhorar a legibilidade.",
+      "Redução mínima de oralidade e de encadeamentos sintáticos excessivos, sem alterar a tese local.",
+      "Reconstrução conservadora da transição 'Aonde? A quê?' para 'Ao que tu és...' sem fechar lacunas argumentativas.",
+      "Preservado o fecho repetitivo sobre 'coisas' por ter função de passagem para o fragmento seguinte."
+    ],
+    "notas_cautela": [
+      "O fragmento apresenta corte interno e permanece parcialmente truncado na passagem entre a pergunta sobre o campo de potencialidades e a frase seguinte.",
+      "A expressão 'coerente no plano animal' resulta de limpeza mínima de um trecho sintaticamente instável; pode requerer revisão humana.",
+      "A formulação 'àquilo que é o bom' foi preservada por cautela, apesar da estranheza, para não normalizar excessivamente a voz autoral."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A12_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A direção do ser para o real não é necessária, nem sequer exaustiva, porque pode ser, no mínimo, coerente no plano animal. Mas, no plano da reflexividade, no plano da liberdade que existe pela reflexividade, a direção final, depois de tanta liberdade, pode sempre, em última instância, ser validada somente por estar mais perto ou mais afastada do real. Esse campo de potencialidades onde tu te atualizas circunscreve-se a onde? A quê?\\n\\nAo que tu és relativamente ao que o real imporia que tu fosses. Se tu conhecesses o real, se tu te conhecesses a ti próprio, se descrevesses melhor, se aprendesses melhor, então o melhor, se há melhor, em última instância, é relativamente àquilo que é verdadeiro, àquilo que é o bom, que há de ser sempre aquilo que mais proximamente se pode descrever como o real. Não há coisas. O que é que são coisas? O que é que são coisas?\",\n  \"resumo_alteracoes\": [\n    \"Separação e pontuação ajustadas para desfazer fusões locais e melhorar a legibilidade.\",\n    \"Redução mínima de oralidade e de encadeamentos sintáticos excessivos, sem alterar a tese local.\",\n    \"Reconstrução conservadora da transição 'Aonde? A quê?' para 'Ao que tu és...' sem fechar lacunas argumentativas.\",\n    \"Preservado o fecho repetitivo sobre 'coisas' por ter função de passagem para o fragmento seguinte.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento apresenta corte interno e permanece parcialmente truncado na passagem entre a pergunta sobre o campo de potencialidades e a frase seguinte.\",\n    \"A expressão 'coerente no plano animal' resulta de limpeza mínima de um trecho sintaticamente instável; pode requerer revisão humana.\",\n    \"A formulação 'àquilo que é o bom' foi preservada por cautela, apesar da estranheza, para não normalizar excessivamente a voz autoral.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:50:13+00:00",
+  "modelo": "gpt-5.4"
+}

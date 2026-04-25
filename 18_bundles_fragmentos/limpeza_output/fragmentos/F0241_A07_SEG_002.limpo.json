@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A07_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A07_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "apreensão do real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A07_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O socialismo pode ser descrito de maneira ontológica: um sistema de crenças que depois se torna modo de ser, em que a relação eu-real é muito fraca, em que o plano do dever-ser é sobreposto a qualquer plano do ser e do poder ser, especialmente do poder ser. No plano da apreensão do real e do discurso sobre essa apreensão do real, é autojustificativo nos seus próprios termos.\n\nHá um grau de projeção diferente, há prioridades diferentes no campo da relação que eu tenho comigo próprio e da relação que eu tenho com o real e com o real comigo próprio. O real é secundário na relação de mim comigo próprio; toda a sua apreensão é interior, quase sem tocar o que está fora.\n\nEsquecemo-nos de que o que eu sou, claro, é também o real. Mas aí, consumido pela própria estrutura interna de responsabilidade, isso consegue manifestar-se no real, consegue atualizar-se a consciência pela quantidade de representações que tem, pelos caminhos neurológicos, pelos neurónios, pelo corpo inteiro, sobre a instância em que se está a operar no real; a apreensão é isto também, integra isto. Então, quando há essa quase possibilidade real de viver na apreensão do real, já se vive no mundo do eu, no eu-eu, e não no mundo do eu-real.\n\nComeçando a caminhada sobre a pergunta do que é isto de viver bem: operar somente numa teoria qualquer, num quadro lógico qualquer, e não fazê-lo operar no real. A norma é eu-eu, mas nesse eu-eu é igual, mas existe mais. As tuas regras de verificabilidade estão limitadas. Existe mais. Estão falsas. Há uma...",
+    "resumo_alteracoes": [
+      "Corrigi pontuação e segmentação frásica para tornar a progressão legível sem alterar a tese local.",
+      "Reduzi oralidade redundante e repetições mínimas, preservando o léxico central como eu-real, eu-eu, apreensão do real e verificabilidade.",
+      "Ajustei algumas ligações sintáticas em passagens truncadas para legibilidade mínima, sem fechar lacunas argumentativas.",
+      "Separei melhor os blocos argumentativos já presentes no fragmento após fusão de parágrafos."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém sinais de corte interno, sobretudo no fecho abrupto em 'Há uma...'.",
+      "A passagem sobre consciência, representações e caminhos neurológicos permanece sintaticamente densa e parcialmente instável; foi apenas estabilizada no mínimo.",
+      "Algumas formulações podem continuar elípticas por dependência de contexto local anterior e seguinte."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A07_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O socialismo pode ser descrito de maneira ontológica: um sistema de crenças que depois se torna modo de ser, em que a relação eu-real é muito fraca, em que o plano do dever-ser é sobreposto a qualquer plano do ser e do poder ser, especialmente do poder ser. No plano da apreensão do real e do discurso sobre essa apreensão do real, é autojustificativo nos seus próprios termos.\\n\\nHá um grau de projeção diferente, há prioridades diferentes no campo da relação que eu tenho comigo próprio e da relação que eu tenho com o real e com o real comigo próprio. O real é secundário na relação de mim comigo próprio; toda a sua apreensão é interior, quase sem tocar o que está fora.\\n\\nEsquecemo-nos de que o que eu sou, claro, é também o real. Mas aí, consumido pela própria estrutura interna de responsabilidade, isso consegue manifestar-se no real, consegue atualizar-se a consciência pela quantidade de representações que tem, pelos caminhos neurológicos, pelos neurónios, pelo corpo inteiro, sobre a instância em que se está a operar no real; a apreensão é isto também, integra isto. Então, quando há essa quase possibilidade real de viver na apreensão do real, já se vive no mundo do eu, no eu-eu, e não no mundo do eu-real.\\n\\nComeçando a caminhada sobre a pergunta do que é isto de viver bem: operar somente numa teoria qualquer, num quadro lógico qualquer, e não fazê-lo operar no real. A norma é eu-eu, mas nesse eu-eu é igual, mas existe mais. As tuas regras de verificabilidade estão limitadas. Existe mais. Estão falsas. Há uma...\",\n  \"resumo_alteracoes\": [\n    \"Corrigi pontuação e segmentação frásica para tornar a progressão legível sem alterar a tese local.\",\n    \"Reduzi oralidade redundante e repetições mínimas, preservando o léxico central como eu-real, eu-eu, apreensão do real e verificabilidade.\",\n    \"Ajustei algumas ligações sintáticas em passagens truncadas para legibilidade mínima, sem fechar lacunas argumentativas.\",\n    \"Separei melhor os blocos argumentativos já presentes no fragmento após fusão de parágrafos.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém sinais de corte interno, sobretudo no fecho abrupto em 'Há uma...'.\",\n    \"A passagem sobre consciência, representações e caminhos neurológicos permanece sintaticamente densa e parcialmente instável; foi apenas estabilizada no mínimo.\",\n    \"Algumas formulações podem continuar elípticas por dependência de contexto local anterior e seguinte.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:48:18+00:00",
+  "modelo": "gpt-5.4"
+}

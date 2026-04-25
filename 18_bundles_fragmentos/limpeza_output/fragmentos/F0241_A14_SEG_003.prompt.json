@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A14_SEG_003",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A14_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A14\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"religião, símbolo e realidade\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Daí a universalidade da religião, a necessidade de enquadramento da apreensão do real, do eu, do real no eu, essas coisas todas, a necessidade de enquadramento disso, no fundo da vida, daquilo que se está a viver, no círculo que o sequer possibilita, de modo a não exigir que se pense a vida de modo filosófico, verdadeiramente filosófico, porque isso seria não haver vida e impossível, porque altamente disfuncional, porque depois uma pessoa acaba por olhar para a relação do ser em cada interação e isso torna-se awkward. Mas obviamente que a resposta vai ser enquadrar no sistema o símbolo maior, pronto, o que quiser se chamar, o criador, o que se quiser chamar.\\n\\nDepois, como é óbvio, esse símbolo vai ter o melhor ou pior descrição, claro, quanto mais ou menos afastada for do real. E quão mais afastada se torna do real, menos verdadeira se torna, e por isso vê-se que o porquê da morte de Deus. Não é porque se descobriu, não é porque a ciência levou a descrições mais verdadeiras, a um reenquadramento. Não, é por isso e porque o símbolo de Deus, que se foi fazendo de Deus, passou a estar em mais choque com as novas apreensões.\\n\\nClaro que Deus morreu. Porque se foi descobrindo cada regularidade e isso foi entrando em choque com o símbolo anterior. E ao invés de procurar o melhor símbolo, procura-se a outra resposta também mais fácil de fazer, neste caso, que é dissolver. Dissolver o real e o eu, pela sua localidade e ponto de vista e perspectiva, passa a reenquadrar toda a apreensão.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0241_A14_SEG_002\\n- tema: erro de escala em aplicação\\n- preview: Agora, aplicado a círculos fora das localidades, aplicar isso a círculos nacionais, supranacionais, universais, sistema solar, de galáxias, o que seja, aplicar aquilo que é funcional para a vivência de um ser humano a regularidades de outra escala, isso é que é parvo. E aplicá-lo isso filosoficamente ou à filosofia, ou a pretender que isso é filosofia, isso é desonroso.\\n\\nFragmento seguinte:\\n- id: F0241_A14_SEG_004\\n- tema: camadas e natureza da reflexividade\\n- preview: O que é que ocupa a reflexividade, na maior parte do tempo? É o pensar sobre o que se está a viver, sobre a conversa que se está a ter, sobre aquilo que se vai viver a seguir, que se vai fazer. É ir a caminhar e pensar sobre o que se está a ver, e depois pensar sobre o que se está a ver e pensar sobre o que se está a pensar sobre o que se está a ver e depois pensar sobre o que se está a pensar. São diferentes relaçõ…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A14_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A14",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "religião, símbolo e realidade",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Daí a universalidade da religião, a necessidade de enquadramento da apreensão do real, do eu, do real no eu, essas coisas todas, a necessidade de enquadramento disso, no fundo da vida, daquilo que se está a viver, no círculo que o sequer possibilita, de modo a não exigir que se pense a vida de modo filosófico, verdadeiramente filosófico, porque isso seria não haver vida e impossível, porque altamente disfuncional, porque depois uma pessoa acaba por olhar para a relação do ser em cada interação e isso torna-se awkward. Mas obviamente que a resposta vai ser enquadrar no sistema o símbolo maior, pronto, o que quiser se chamar, o criador, o que se quiser chamar.\n\nDepois, como é óbvio, esse símbolo vai ter o melhor ou pior descrição, claro, quanto mais ou menos afastada for do real. E quão mais afastada se torna do real, menos verdadeira se torna, e por isso vê-se que o porquê da morte de Deus. Não é porque se descobriu, não é porque a ciência levou a descrições mais verdadeiras, a um reenquadramento. Não, é por isso e porque o símbolo de Deus, que se foi fazendo de Deus, passou a estar em mais choque com as novas apreensões.\n\nClaro que Deus morreu. Porque se foi descobrindo cada regularidade e isso foi entrando em choque com o símbolo anterior. E ao invés de procurar o melhor símbolo, procura-se a outra resposta também mais fácil de fazer, neste caso, que é dissolver. Dissolver o real e o eu, pela sua localidade e ponto de vista e perspectiva, passa a reenquadrar toda a apreensão.",
+    "contexto_local": "Fragmento anterior:\n- id: F0241_A14_SEG_002\n- tema: erro de escala em aplicação\n- preview: Agora, aplicado a círculos fora das localidades, aplicar isso a círculos nacionais, supranacionais, universais, sistema solar, de galáxias, o que seja, aplicar aquilo que é funcional para a vivência de um ser humano a regularidades de outra escala, isso é que é parvo. E aplicá-lo isso filosoficamente ou à filosofia, ou a pretender que isso é filosofia, isso é desonroso.\n\nFragmento seguinte:\n- id: F0241_A14_SEG_004\n- tema: camadas e natureza da reflexividade\n- preview: O que é que ocupa a reflexividade, na maior parte do tempo? É o pensar sobre o que se está a viver, sobre a conversa que se está a ter, sobre aquilo que se vai viver a seguir, que se vai fazer. É ir a caminhar e pensar sobre o que se está a ver, e depois pensar sobre o que se está a ver e pensar sobre o que se está a pensar sobre o que se está a ver e depois pensar sobre o que se está a pensar. São diferentes relaçõ…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

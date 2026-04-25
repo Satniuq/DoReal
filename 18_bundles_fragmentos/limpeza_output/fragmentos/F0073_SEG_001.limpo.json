@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0073_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0073_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "consciência, real, ponto de vista"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0073_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A questão colocada por Thomas Nagel em “What Is It Like to Be a Bat?” interroga a relevância do ponto de vista subjetivo e se este obriga a uma separação ontológica da consciência. O argumento funda-se na impossibilidade de aceder ao “como é” de outra criatura, sugerindo uma interioridade inacessível ao real objetivo.\n\nContudo, o facto de um morcego — ou de qualquer outro animal — ser capaz de representação não obriga à conclusão de que a consciência seja uma interioridade separada do real. Pelo contrário, essa capacidade aponta para a consciência como expressão das condições reais em que o ser opera.\n\nA dificuldade apontada por Nagel resulta de absolutizar o ponto de vista como fronteira ontológica, em vez de o compreender como limitação condicional da apreensão. A consciência não está fora do real; é uma forma altamente complexa de relação com o real, condicionada pelo corpo, pelo meio e pelas possibilidades do ser.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo de formulação para maior fluidez e correção: \"obriga à\" para \"obriga a uma\".",
+      "Pequena regularização sintática em \"ou qualquer outro animal\" para \"ou de qualquer outro animal\".",
+      "Mantida a estrutura em três momentos: formulação da questão, objeção à separação ontológica e reformulação do problema."
+    ],
+    "notas_cautela": [
+      "O fragmento está legível e coeso, mas pode integrar uma sequência argumentativa maior.",
+      "Não foram preenchidas lacunas além do mínimo necessário; preservou-se o alcance local do argumento."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0073_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A questão colocada por Thomas Nagel em “What Is It Like to Be a Bat?” interroga a relevância do ponto de vista subjetivo e se este obriga a uma separação ontológica da consciência. O argumento funda-se na impossibilidade de aceder ao “como é” de outra criatura, sugerindo uma interioridade inacessível ao real objetivo.\\n\\nContudo, o facto de um morcego — ou de qualquer outro animal — ser capaz de representação não obriga à conclusão de que a consciência seja uma interioridade separada do real. Pelo contrário, essa capacidade aponta para a consciência como expressão das condições reais em que o ser opera.\\n\\nA dificuldade apontada por Nagel resulta de absolutizar o ponto de vista como fronteira ontológica, em vez de o compreender como limitação condicional da apreensão. A consciência não está fora do real; é uma forma altamente complexa de relação com o real, condicionada pelo corpo, pelo meio e pelas possibilidades do ser.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo de formulação para maior fluidez e correção: \\\"obriga à\\\" para \\\"obriga a uma\\\".\",\n    \"Pequena regularização sintática em \\\"ou qualquer outro animal\\\" para \\\"ou de qualquer outro animal\\\".\",\n    \"Mantida a estrutura em três momentos: formulação da questão, objeção à separação ontológica e reformulação do problema.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento está legível e coeso, mas pode integrar uma sequência argumentativa maior.\",\n    \"Não foram preenchidas lacunas além do mínimo necessário; preservou-se o alcance local do argumento.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:13:09+00:00",
+  "modelo": "gpt-5.4"
+}

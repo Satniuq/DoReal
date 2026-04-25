@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0152_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0152_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "modos de apreensão e filósofo"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0152_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Os modos de apreensão que existem são assim: o que isto é, o que isto pode ser e o que isto deve ser. As apreensões que se têm levam depois aos tipos de seres, conforme tenham mais ou menos pensamento do ser, do poder ser e do dever ser. Se viver só num desses níveis e tiver em consideração o outro, não quer saber do outro, seja assim. E é o filósofo que tem de ter estes três níveis de apreensão.",
+    "resumo_alteracoes": [
+      "Removidas repetições e hesitações orais sem alterar a tese local.",
+      "Reorganizada a enumeração central para maior clareza: o que é, o que pode ser e o que deve ser.",
+      "Simplificada a frase sobre as apreensões e os tipos de seres, preservando o léxico principal.",
+      "Suprimida a redundância final em torno de 'apreensões'.",
+      "Mantida a conclusão de que o filósofo deve ter os três níveis de apreensão."
+    ],
+    "notas_cautela": [
+      "O segmento intermédio sobre 'tipos de animais/seres' está sintaticamente instável na origem; foi apenas regularizado no mínimo necessário.",
+      "A frase 'seja assim' permanece algo elíptica no original e foi mantida sem desenvolvimento adicional."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0152_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Os modos de apreensão que existem são assim: o que isto é, o que isto pode ser e o que isto deve ser. As apreensões que se têm levam depois aos tipos de seres, conforme tenham mais ou menos pensamento do ser, do poder ser e do dever ser. Se viver só num desses níveis e tiver em consideração o outro, não quer saber do outro, seja assim. E é o filósofo que tem de ter estes três níveis de apreensão.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições e hesitações orais sem alterar a tese local.\",\n    \"Reorganizada a enumeração central para maior clareza: o que é, o que pode ser e o que deve ser.\",\n    \"Simplificada a frase sobre as apreensões e os tipos de seres, preservando o léxico principal.\",\n    \"Suprimida a redundância final em torno de 'apreensões'.\",\n    \"Mantida a conclusão de que o filósofo deve ter os três níveis de apreensão.\"\n  ],\n  \"notas_cautela\": [\n    \"O segmento intermédio sobre 'tipos de animais/seres' está sintaticamente instável na origem; foi apenas regularizado no mínimo necessário.\",\n    \"A frase 'seja assim' permanece algo elíptica no original e foi mantida sem desenvolvimento adicional.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:36:23+00:00",
+  "modelo": "gpt-5.4"
+}

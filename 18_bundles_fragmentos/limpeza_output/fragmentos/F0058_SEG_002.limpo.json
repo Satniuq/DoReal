@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0058_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0058_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "ser, criação, diferença, leis"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0058_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O ser permitiu as criações do homem; o homem não criaria se o ser não o permitisse. O homem é diferente, tal como uma pedra é diferente de uma árvore. Toda a teoria da física moderna descreve essas regras, incluindo a conservação da energia.",
+    "resumo_alteracoes": [
+      "Preservada a sequência argumentativa original.",
+      "Ajustada a formulação final para maior fluidez: 'estas regras' para 'essas regras'.",
+      "Feita correção linguística mínima em 'conservação de energia' para 'conservação da energia'."
+    ],
+    "notas_cautela": [
+      "O fragmento permanece parcial e muito condensado.",
+      "A referência a 'essas regras' não é desenvolvida neste segmento e depende do contexto local.",
+      "Há continuidade argumentativa ativa com os fragmentos adjacentes."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0058_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O ser permitiu as criações do homem; o homem não criaria se o ser não o permitisse. O homem é diferente, tal como uma pedra é diferente de uma árvore. Toda a teoria da física moderna descreve essas regras, incluindo a conservação da energia.\",\n  \"resumo_alteracoes\": [\n    \"Preservada a sequência argumentativa original.\",\n    \"Ajustada a formulação final para maior fluidez: 'estas regras' para 'essas regras'.\",\n    \"Feita correção linguística mínima em 'conservação de energia' para 'conservação da energia'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento permanece parcial e muito condensado.\",\n    \"A referência a 'essas regras' não é desenvolvida neste segmento e depende do contexto local.\",\n    \"Há continuidade argumentativa ativa com os fragmentos adjacentes.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:07:54+00:00",
+  "modelo": "gpt-5.4"
+}

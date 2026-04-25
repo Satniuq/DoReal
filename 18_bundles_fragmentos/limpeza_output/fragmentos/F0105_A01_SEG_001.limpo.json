@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0105_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0105_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "átomos, emergência e relação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0105_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Os átomos são conjuntos de atualizações, pelas suas próprias propriedades, pela própria atualização que têm. Um quark, um bosão, o que seja a matéria: são agitações que depois produzem coisas com presença. Presença emergente, não no sentido ridículo, mas no sentido de que, se o ponto de vista for exterior a uma única atualização, a um único pico de energia, então vê-se esse pico.\n\nÉ uma condição da relação: o ente humano, ou qualquer outro ente que se relacione, relaciona-se consigo mesmo enquanto relação. Não com cada parte mínima, mas com aquilo que emerge da escala. Se a interação não é ao nível mais ínfimo, talvez já se lide com uma bolinha, ou depois com algo como uma pedra.",
+    "resumo_alteracoes": [
+      "Reduzi repetições orais e reencaixei a frase inicial para maior fluidez.",
+      "Ajustei pontuação e ligação entre frases sem alterar a tese local.",
+      "Mantive o léxico central do fragmento, incluindo \"atualizações\", \"presença emergente\", \"relação\" e \"escala\".",
+      "Substituí \"se brinque\" por \"se lide\" para evitar coloquialidade ambígua e melhorar a legibilidade."
+    ],
+    "notas_cautela": [
+      "O fragmento parece manter uma transição conceptual abrupta entre física mínima e relação; a limpeza não tentou preencher essa passagem.",
+      "A expressão \"não no sentido ridículo\" foi preservada por fazer parte da voz autoral, embora permaneça algo indeterminada sem contexto adicional.",
+      "O texto pode continuar parcial devido a corte interno e fusão prévia de parágrafos."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0105_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Os átomos são conjuntos de atualizações, pelas suas próprias propriedades, pela própria atualização que têm. Um quark, um bosão, o que seja a matéria: são agitações que depois produzem coisas com presença. Presença emergente, não no sentido ridículo, mas no sentido de que, se o ponto de vista for exterior a uma única atualização, a um único pico de energia, então vê-se esse pico.\\n\\nÉ uma condição da relação: o ente humano, ou qualquer outro ente que se relacione, relaciona-se consigo mesmo enquanto relação. Não com cada parte mínima, mas com aquilo que emerge da escala. Se a interação não é ao nível mais ínfimo, talvez já se lide com uma bolinha, ou depois com algo como uma pedra.\",\n  \"resumo_alteracoes\": [\n    \"Reduzi repetições orais e reencaixei a frase inicial para maior fluidez.\",\n    \"Ajustei pontuação e ligação entre frases sem alterar a tese local.\",\n    \"Mantive o léxico central do fragmento, incluindo \\\"atualizações\\\", \\\"presença emergente\\\", \\\"relação\\\" e \\\"escala\\\".\",\n    \"Substituí \\\"se brinque\\\" por \\\"se lide\\\" para evitar coloquialidade ambígua e melhorar a legibilidade.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece manter uma transição conceptual abrupta entre física mínima e relação; a limpeza não tentou preencher essa passagem.\",\n    \"A expressão \\\"não no sentido ridículo\\\" foi preservada por fazer parte da voz autoral, embora permaneça algo indeterminada sem contexto adicional.\",\n    \"O texto pode continuar parcial devido a corte interno e fusão prévia de parágrafos.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:26:14+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0064_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0064_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "degeneração sistémica, perda realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0064_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Esta reflexão surge no contexto da degeneração necessária dos sistemas sociais que adotam a liberdade e a dignidade como pilares. Com o tempo, esses sistemas deixam de se fundar em verdades ontológicas e passam a existir como sistemas fechados sobre si próprios, tomados como causa e fim. Nesse processo, a criança deixa de ser esponja da realidade; o real é relegado e substituído pelo próprio sistema.\n\nNão sendo possível incutir o real na criança, incute-se nela a própria criança. O sistema atinge tal sofisticação intelectual que, ao reconhecer a relatividade das suas normas, impede a expansão para além de si mesmo. O movimento do homem passa, então, a ser definido pelo sistema.\n\nA criança deixa de procurar saber o que são as coisas e passa a aprender como se enquadrar nas estruturas existentes. Aprende o que pode ou não dizer; aprende que deve dizer algo, em vez de procurar o que é. Formam-se pré-estruturas mentais que privilegiam certos recortes da realidade em detrimento de outros.\n\nAntes dizia-se que as crianças não mentem, no sentido de que procuram o real, e isso era bom, porque procurar o real é procurar a verdade. Hoje diz-se que as crianças não podem mentir, transformando um traço ontológico numa imposição normativa. Aqui revela-se a ligação entre ser, poder-ser e dever-ser.",
+    "resumo_alteracoes": [
+      "Ajustei construções frásicas para maior fluidez e legibilidade, sem alterar a tese local.",
+      "Reduzi oralidade e pequenas redundâncias, preservando o léxico central do fragmento.",
+      "Reintroduzi pontuação e transições mínimas para separar melhor os movimentos argumentativos.",
+      "Mantive a progressão: degeneração do sistema, deslocação da criança em relação ao real, aprendizagem de enquadramento e fecho na distinção entre ser, poder-ser e dever-ser."
+    ],
+    "notas_cautela": [
+      "O fragmento parece íntegro na sequência local, mas pode depender do contexto adjacente para o alcance exato de algumas formulações.",
+      "Preservou-se a formulação densa 'incute-se nela a própria criança' sem explicitação adicional, para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0064_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Esta reflexão surge no contexto da degeneração necessária dos sistemas sociais que adotam a liberdade e a dignidade como pilares. Com o tempo, esses sistemas deixam de se fundar em verdades ontológicas e passam a existir como sistemas fechados sobre si próprios, tomados como causa e fim. Nesse processo, a criança deixa de ser esponja da realidade; o real é relegado e substituído pelo próprio sistema.\\n\\nNão sendo possível incutir o real na criança, incute-se nela a própria criança. O sistema atinge tal sofisticação intelectual que, ao reconhecer a relatividade das suas normas, impede a expansão para além de si mesmo. O movimento do homem passa, então, a ser definido pelo sistema.\\n\\nA criança deixa de procurar saber o que são as coisas e passa a aprender como se enquadrar nas estruturas existentes. Aprende o que pode ou não dizer; aprende que deve dizer algo, em vez de procurar o que é. Formam-se pré-estruturas mentais que privilegiam certos recortes da realidade em detrimento de outros.\\n\\nAntes dizia-se que as crianças não mentem, no sentido de que procuram o real, e isso era bom, porque procurar o real é procurar a verdade. Hoje diz-se que as crianças não podem mentir, transformando um traço ontológico numa imposição normativa. Aqui revela-se a ligação entre ser, poder-ser e dever-ser.\",\n  \"resumo_alteracoes\": [\n    \"Ajustei construções frásicas para maior fluidez e legibilidade, sem alterar a tese local.\",\n    \"Reduzi oralidade e pequenas redundâncias, preservando o léxico central do fragmento.\",\n    \"Reintroduzi pontuação e transições mínimas para separar melhor os movimentos argumentativos.\",\n    \"Mantive a progressão: degeneração do sistema, deslocação da criança em relação ao real, aprendizagem de enquadramento e fecho na distinção entre ser, poder-ser e dever-ser.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece íntegro na sequência local, mas pode depender do contexto adjacente para o alcance exato de algumas formulações.\",\n    \"Preservou-se a formulação densa 'incute-se nela a própria criança' sem explicitação adicional, para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:10:28+00:00",
+  "modelo": "gpt-5.4"
+}

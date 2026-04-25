@@ -1,0 +1,32 @@
+{
+  "fragment_id": "F0189_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0189_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "afirmacao_curta",
+    "tema_dominante_provisorio": "einstein campo relação atualidades"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0189_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Einstein pôs o campo em relação com as atualidades.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo de sintaxe para maior legibilidade.",
+      "Preservação do léxico central: \"Einstein\", \"campo\", \"relação\" e \"atualidades\"."
+    ],
+    "notas_cautela": [
+      "Fragmento muito curto e potencialmente dependente de contexto ausente.",
+      "A expressão \"atualidades\" pode exigir revisão humana se tiver uso técnico específico no projeto."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0189_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Einstein pôs o campo em relação com as atualidades.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo de sintaxe para maior legibilidade.\",\n    \"Preservação do léxico central: \\\"Einstein\\\", \\\"campo\\\", \\\"relação\\\" e \\\"atualidades\\\".\"\n  ],\n  \"notas_cautela\": [\n    \"Fragmento muito curto e potencialmente dependente de contexto ausente.\",\n    \"A expressão \\\"atualidades\\\" pode exigir revisão humana se tiver uso técnico específico no projeto.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:40:09+00:00",
+  "modelo": "gpt-5.4"
+}

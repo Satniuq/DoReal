@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A26_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A26_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "religião, real e ser reflexivo"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A26_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A religião vem daquilo que é, não daquilo que se faz ser, que se pretende que seja, mas daquilo que é. É a identificação de um todo que abrange tudo o resto. No fundo, a embarcação — no fundo, está mal escrito, mal descrito — mas é algo como o real, o real que existe e faz existir, mas que nós não conseguimos ver, portanto sensorialmente desligado. É o ter... O ser reflexivo, na sua própria estrutura relacional, é ver o eu reflexivo relativamente a um todo. É pôr Deus na equação. E depois é culturalizar, especificar em termos de operabilidade da própria estrutura daquele ser reflexivo que está em causa. Mas é algo que tem de existir para todos os seres reflexivos, quer estejam aqui, quer estejam em Marte. E por isso, pondo-o lá, daí derivam as práticas necessárias tendentes à melhor adequação do eu numa relação em que há o todo; não é que isto o diga, mas é que se expressa deste modo, é deste modo, faz o ser ser deste modo. Serão, podemos dizer, assim as regras, por exemplo. Não são regras, são meras evidências retiradas do uso da reflexibilidade que Deus nos deu. E depois há os erros, depois há tudo o resto.",
+    "resumo_alteracoes": [
+      "Reduzi repetições imediatas e oralidade redundante sem alterar a tese local.",
+      "Ajustei pontuação e segmentação frásica para tornar a progressão mais legível.",
+      "Preservei expressões autorais centrais como 'pôr Deus na equação', 'ser reflexivo' e a referência ao 'todo'.",
+      "Mantive a elipse em 'É o ter...' por haver corte interno e sentido incompleto.",
+      "Fiz correções mínimas de formulação, como 'uso da reflexibilidade' em vez de construção gramaticalmente mais truncada."
+    ],
+    "notas_cautela": [
+      "O fragmento contém corte interno e uma passagem truncada em 'É o ter...'.",
+      "A expressão 'a embarcação' pode resultar de lapso, desvio oral ou perda de contexto; foi preservada com mínima acomodação.",
+      "Há trechos ainda parcialmente opacos por dependência de contexto local e formulação oral."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A26_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A religião vem daquilo que é, não daquilo que se faz ser, que se pretende que seja, mas daquilo que é. É a identificação de um todo que abrange tudo o resto. No fundo, a embarcação — no fundo, está mal escrito, mal descrito — mas é algo como o real, o real que existe e faz existir, mas que nós não conseguimos ver, portanto sensorialmente desligado. É o ter... O ser reflexivo, na sua própria estrutura relacional, é ver o eu reflexivo relativamente a um todo. É pôr Deus na equação. E depois é culturalizar, especificar em termos de operabilidade da própria estrutura daquele ser reflexivo que está em causa. Mas é algo que tem de existir para todos os seres reflexivos, quer estejam aqui, quer estejam em Marte. E por isso, pondo-o lá, daí derivam as práticas necessárias tendentes à melhor adequação do eu numa relação em que há o todo; não é que isto o diga, mas é que se expressa deste modo, é deste modo, faz o ser ser deste modo. Serão, podemos dizer, assim as regras, por exemplo. Não são regras, são meras evidências retiradas do uso da reflexibilidade que Deus nos deu. E depois há os erros, depois há tudo o resto.\",\n  \"resumo_alteracoes\": [\n    \"Reduzi repetições imediatas e oralidade redundante sem alterar a tese local.\",\n    \"Ajustei pontuação e segmentação frásica para tornar a progressão mais legível.\",\n    \"Preservei expressões autorais centrais como 'pôr Deus na equação', 'ser reflexivo' e a referência ao 'todo'.\",\n    \"Mantive a elipse em 'É o ter...' por haver corte interno e sentido incompleto.\",\n    \"Fiz correções mínimas de formulação, como 'uso da reflexibilidade' em vez de construção gramaticalmente mais truncada.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento contém corte interno e uma passagem truncada em 'É o ter...'.\",\n    \"A expressão 'a embarcação' pode resultar de lapso, desvio oral ou perda de contexto; foi preservada com mínima acomodação.\",\n    \"Há trechos ainda parcialmente opacos por dependência de contexto local e formulação oral.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:57:04+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,33 @@
+{
+  "fragment_id": "F0029_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0029_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "verdade, organização, divisão conceitual"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0029_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "A organização em grandes grupos é outra realidade que permite retirar verdades sobre a sua própria organização estrutural. Duas civilizações com modos de ser diferentes: uma que busca a verdade do real. Qual apanhará o avião para longe do colapso do sol? Qual explorará Marte? Qual encontrará a cura para a degeneração da matéria orgânica? Qual sistema filosófico permite a verificação da proposição com o real? Não conheço outro. Divide-se a epistemologia da ontologia para se poder falar em dois temas sem ver o que está por baixo.",
+    "resumo_alteracoes": [
+      "Removida a pergunta fática de oralidade redundante: \"E não é verdade?\".",
+      "Mantida a sequência argumentativa original, com limpeza mínima de pontuação para maior legibilidade.",
+      "Preservado o léxico central do fragmento, incluindo \"verdade do real\", \"verificação da proposição com o real\" e a divisão entre epistemologia e ontologia."
+    ],
+    "notas_cautela": [
+      "A passagem \"colapso do sol\" pode soar hiperbólica ou alusiva, mas foi preservada por fazer parte do conteúdo.",
+      "A formulação final sobre a divisão entre epistemologia e ontologia mantém um tom condensado e potencialmente polémico; foi limpa sem expandir a tese."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0029_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"A organização em grandes grupos é outra realidade que permite retirar verdades sobre a sua própria organização estrutural. Duas civilizações com modos de ser diferentes: uma que busca a verdade do real. Qual apanhará o avião para longe do colapso do sol? Qual explorará Marte? Qual encontrará a cura para a degeneração da matéria orgânica? Qual sistema filosófico permite a verificação da proposição com o real? Não conheço outro. Divide-se a epistemologia da ontologia para se poder falar em dois temas sem ver o que está por baixo.\",\n  \"resumo_alteracoes\": [\n    \"Removida a pergunta fática de oralidade redundante: \\\"E não é verdade?\\\".\",\n    \"Mantida a sequência argumentativa original, com limpeza mínima de pontuação para maior legibilidade.\",\n    \"Preservado o léxico central do fragmento, incluindo \\\"verdade do real\\\", \\\"verificação da proposição com o real\\\" e a divisão entre epistemologia e ontologia.\"\n  ],\n  \"notas_cautela\": [\n    \"A passagem \\\"colapso do sol\\\" pode soar hiperbólica ou alusiva, mas foi preservada por fazer parte do conteúdo.\",\n    \"A formulação final sobre a divisão entre epistemologia e ontologia mantém um tom condensado e potencialmente polémico; foi limpa sem expandir a tese.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:04:06+00:00",
+  "modelo": "gpt-5.4"
+}

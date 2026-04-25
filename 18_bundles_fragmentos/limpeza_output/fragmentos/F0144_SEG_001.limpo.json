@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0144_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0144_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "interioridade: ver versus viver"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0144_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Mas isso não era, talvez, uma vigilância. Ainda assim, a interioridade não é ter aqui um ponto de vista visual sobre o mundo; é viver o mundo. Isso não é uma característica somente humana. Não sei que todos os animais sejam cegos, mas, quando há olhos, há ver.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e repetições redundantes.",
+      "Reorganizada a sintaxe local para tornar a oposição entre ver e viver mais legível.",
+      "Mantido o léxico central do fragmento, incluindo interioridade, ponto de vista visual, viver o mundo e olhos.",
+      "Reconstruídas ligações mínimas entre frases partidas sem acrescentar tese nova."
+    ],
+    "notas_cautela": [
+      "O início do fragmento permanece algo indeterminado ('isso não era'), por falta de contexto local.",
+      "A formulação final sobre os animais e os olhos exigiu reconstrução mínima de um trecho truncado."
+    ],
+    "preservou_ordem_argumentativa_local": false,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0144_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Mas isso não era, talvez, uma vigilância. Ainda assim, a interioridade não é ter aqui um ponto de vista visual sobre o mundo; é viver o mundo. Isso não é uma característica somente humana. Não sei que todos os animais sejam cegos, mas, quando há olhos, há ver.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e repetições redundantes.\",\n    \"Reorganizada a sintaxe local para tornar a oposição entre ver e viver mais legível.\",\n    \"Mantido o léxico central do fragmento, incluindo interioridade, ponto de vista visual, viver o mundo e olhos.\",\n    \"Reconstruídas ligações mínimas entre frases partidas sem acrescentar tese nova.\"\n  ],\n  \"notas_cautela\": [\n    \"O início do fragmento permanece algo indeterminado ('isso não era'), por falta de contexto local.\",\n    \"A formulação final sobre os animais e os olhos exigiu reconstrução mínima de um trecho truncado.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": false,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:35:37+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,67 @@
+{
+  "fragment_id": "F0088_A01_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0088_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0088_A01\",\n  \"header_original\": \"## F0088 — Preferência do eu, liberdade como descrição e correspondência com o real\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"continuidade existência relacional local\",\n  \"motivos_estado\": [\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"houve_corte_interno\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"O contínuo da vida não é um espírito que nos percorre; é local. Não há corpo conjunto: se eu perder um braço, mais ninguém o perde. A dependência do ser no tempo — se quisermos ser místicos —, a consciência percebida como contínua, não o é como substância, mas como relação. Não percebemos objetos, mas relações. É no pequeno-almoço que cada um comeu ontem, e não num pequeno-almoço comunal.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0088_A01_SEG_001\\n- tema: estrutura da relação humana\\n- preview: Na relação do homem com o real, sendo o homem real, vai preferir os modos potenciais que o favoreçam a si próprio. Mesmo um racista que se ache superior ao outro, se daí resultar lucro ou vantagem, incluí-lo-á na sua relação e dele fará trabalhador, inquilino, amigo, seja o que for. Se assim não fosse, não haveria sequer relação com o outro. O comum é esta dinâmica; caso contrário viveríamos todos no círculo do real…\\n\\nFragmento seguinte:\\n- id: F0088_A01_SEG_003\\n- tema: real, atualização e entidades\\n- preview: O tautológico não vem da circularidade com o real, mas do fundamento que se pretende atribuir a algo contrário: um deus-ente qualquer, sempre menor e autorreferencial. Se não fosse assim, por que razão se teria aprimorado a relação do homem com o real pela agregação contínua do desconhecido em várias entidades, tantas quantas as luzes abertas no campo das potencialidades, e não numa entidade única, no eu? Não há coi…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0088_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0088_A01",
+    "header_original": "## F0088 — Preferência do eu, liberdade como descrição e correspondência com o real",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "continuidade existência relacional local",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "houve_corte_interno"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "O contínuo da vida não é um espírito que nos percorre; é local. Não há corpo conjunto: se eu perder um braço, mais ninguém o perde. A dependência do ser no tempo — se quisermos ser místicos —, a consciência percebida como contínua, não o é como substância, mas como relação. Não percebemos objetos, mas relações. É no pequeno-almoço que cada um comeu ontem, e não num pequeno-almoço comunal.",
+    "contexto_local": "Fragmento anterior:\n- id: F0088_A01_SEG_001\n- tema: estrutura da relação humana\n- preview: Na relação do homem com o real, sendo o homem real, vai preferir os modos potenciais que o favoreçam a si próprio. Mesmo um racista que se ache superior ao outro, se daí resultar lucro ou vantagem, incluí-lo-á na sua relação e dele fará trabalhador, inquilino, amigo, seja o que for. Se assim não fosse, não haveria sequer relação com o outro. O comum é esta dinâmica; caso contrário viveríamos todos no círculo do real…\n\nFragmento seguinte:\n- id: F0088_A01_SEG_003\n- tema: real, atualização e entidades\n- preview: O tautológico não vem da circularidade com o real, mas do fundamento que se pretende atribuir a algo contrário: um deus-ente qualquer, sempre menor e autorreferencial. Se não fosse assim, por que razão se teria aprimorado a relação do homem com o real pela agregação contínua do desconhecido em várias entidades, tantas quantas as luzes abertas no campo das potencialidades, e não numa entidade única, no eu? Não há coi…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

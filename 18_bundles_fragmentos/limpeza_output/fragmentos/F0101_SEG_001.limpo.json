@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0101_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0101_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "sapiens: eu e mundo"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0101_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Pensa-se nos neandertais e nos sapiens, no modo como acompanhavam os animais e a vegetação pela terra que o permitia. Os sapiens desenvolvem-se num ponto relativamente fixo, como o ser no eu e o ser no real, o ser na cabeça e o ser no físico.\n\nAs atualizações do campo externo não são suficientes para a consciência: são suporte, mas a relação pós-mediação é eu-centrada. Mesmo que as potencialidades locais sejam fisicamente atualizáveis, falta o processo interno que advém do uso do eu para a atualização das potencialidades próximas.\n\nO sapiens, ao mover-se pelo mundo, não o faz como o neandertal, centrado na representação imediata da vida que se apresenta, como um animal, ainda que sofisticado; fá-lo centrado no eu, no contínuo de interioridade.\n\nPensar no tempo é ter o eu presente na relação. Não é a consciência que deriva do passado e do futuro; é o eu que permite que essa derivação exista, enquanto contínuo apreensível: eu, ou o outro, que é igualmente eu, morto por qualquer animal se não fizer qualquer coisa, ou eu num qualquer estado de coisas se não fizer qualquer coisa.",
+    "resumo_alteracoes": [
+      "Corrigida pontuação para melhorar legibilidade e articulação sintática.",
+      "Mantida a estrutura em quatro parágrafos e a ordem argumentativa local.",
+      "Reduzida apenas a oralidade redundante por via de ajustes mínimos de fraseado.",
+      "Preservado o léxico central do fragmento, incluindo 'eu', 'real', 'físico', 'consciência' e 'contínuo de interioridade'."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e parcialmente elípticas que podem depender de contexto anterior.",
+      "A expressão 'pela terra que o permitia' e a construção final sobre o tempo permanecem algo truncadas, mas foram preservadas para não introduzir conteúdo novo.",
+      "Há possível compressão conceptual entre neandertal, animal e representação imediata; não foi expandida por cautela."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0101_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Pensa-se nos neandertais e nos sapiens, no modo como acompanhavam os animais e a vegetação pela terra que o permitia. Os sapiens desenvolvem-se num ponto relativamente fixo, como o ser no eu e o ser no real, o ser na cabeça e o ser no físico.\\n\\nAs atualizações do campo externo não são suficientes para a consciência: são suporte, mas a relação pós-mediação é eu-centrada. Mesmo que as potencialidades locais sejam fisicamente atualizáveis, falta o processo interno que advém do uso do eu para a atualização das potencialidades próximas.\\n\\nO sapiens, ao mover-se pelo mundo, não o faz como o neandertal, centrado na representação imediata da vida que se apresenta, como um animal, ainda que sofisticado; fá-lo centrado no eu, no contínuo de interioridade.\\n\\nPensar no tempo é ter o eu presente na relação. Não é a consciência que deriva do passado e do futuro; é o eu que permite que essa derivação exista, enquanto contínuo apreensível: eu, ou o outro, que é igualmente eu, morto por qualquer animal se não fizer qualquer coisa, ou eu num qualquer estado de coisas se não fizer qualquer coisa.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida pontuação para melhorar legibilidade e articulação sintática.\",\n    \"Mantida a estrutura em quatro parágrafos e a ordem argumentativa local.\",\n    \"Reduzida apenas a oralidade redundante por via de ajustes mínimos de fraseado.\",\n    \"Preservado o léxico central do fragmento, incluindo 'eu', 'real', 'físico', 'consciência' e 'contínuo de interioridade'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e parcialmente elípticas que podem depender de contexto anterior.\",\n    \"A expressão 'pela terra que o permitia' e a construção final sobre o tempo permanecem algo truncadas, mas foram preservadas para não introduzir conteúdo novo.\",\n    \"Há possível compressão conceptual entre neandertal, animal e representação imediata; não foi expandida por cautela.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:24:05+00:00",
+  "modelo": "gpt-5.4"
+}

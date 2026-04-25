@@ -1,0 +1,65 @@
+{
+  "fragment_id": "F0099_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0099_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0099\",\n  \"header_original\": \"## F0099\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"discurso, representação, eu, distorção\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Vê-se que nos conteúdos dos discursos alargados se fala sempre a partir de pessoas concretas que representam uma percentagem mínima do todo. As perguntas feitas e as opiniões dadas enquadram-se em temas concretos — habitação, imigração, etc. — e parte-se daí para uma tentativa de resolução de problemas que são, desde logo, parcamente descritos.\\n\\nO que se faz é falar sobre representações de um qualquer ser e construir dever-seres ajustados a essas representações, como se isso fosse falar do ser articulado. O processo é pobre, mas é apresentado como eficaz. Apoia-se num materialismo do mundo exterior mediado por simbologias do eu com o extra-real, dependente de causalidades simplificadas do tipo “se isto, então aquilo”.\\n\\nEssa abordagem é vista como apropriada por se relacionar superficialmente com símbolos partilhados nas cabeças dos indivíduos. Para perceber o erro seria necessário retirar o eu da questão — o que não é necessário para uma boa vivência local, mas é necessário para perceber que o eu distorce o real e que aquilo que se diz não corresponde ao que é.\\n\\nO discurso torna-se limitado pelo símbolo do tema. Independentemente do que é efetivamente discutido, debate-se a ação humana sobre uma representação coletiva. O hoje surge assim como aquilo que é, fechado sobre o próprio enquadramento.\",\n  \"contexto_local\": null,\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0099_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0099",
+    "header_original": "## F0099",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "discurso, representação, eu, distorção",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Vê-se que nos conteúdos dos discursos alargados se fala sempre a partir de pessoas concretas que representam uma percentagem mínima do todo. As perguntas feitas e as opiniões dadas enquadram-se em temas concretos — habitação, imigração, etc. — e parte-se daí para uma tentativa de resolução de problemas que são, desde logo, parcamente descritos.\n\nO que se faz é falar sobre representações de um qualquer ser e construir dever-seres ajustados a essas representações, como se isso fosse falar do ser articulado. O processo é pobre, mas é apresentado como eficaz. Apoia-se num materialismo do mundo exterior mediado por simbologias do eu com o extra-real, dependente de causalidades simplificadas do tipo “se isto, então aquilo”.\n\nEssa abordagem é vista como apropriada por se relacionar superficialmente com símbolos partilhados nas cabeças dos indivíduos. Para perceber o erro seria necessário retirar o eu da questão — o que não é necessário para uma boa vivência local, mas é necessário para perceber que o eu distorce o real e que aquilo que se diz não corresponde ao que é.\n\nO discurso torna-se limitado pelo símbolo do tema. Independentemente do que é efetivamente discutido, debate-se a ação humana sobre uma representação coletiva. O hoje surge assim como aquilo que é, fechado sobre o próprio enquadramento.",
+    "contexto_local": null,
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

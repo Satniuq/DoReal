@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0099_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0099_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "discurso, representação, eu, distorção"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0099_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Vê-se que, nos conteúdos dos discursos alargados, se fala sempre a partir de pessoas concretas que representam uma percentagem mínima do todo. As perguntas feitas e as opiniões dadas enquadram-se em temas concretos — habitação, imigração, etc. — e parte-se daí para uma tentativa de resolução de problemas que são, desde logo, parcamente descritos.\n\nO que se faz é falar sobre representações de um qualquer ser e construir dever-seres ajustados a essas representações, como se isso fosse falar do ser articulado. O processo é pobre, mas é apresentado como eficaz. Apoia-se num materialismo do mundo exterior, mediado por simbologias do eu com o extra-real, e dependente de causalidades simplificadas do tipo: “se isto, então aquilo”.\n\nEssa abordagem é vista como apropriada por se relacionar superficialmente com símbolos partilhados nas cabeças dos indivíduos. Para perceber o erro, seria necessário retirar o eu da questão. Isso não é necessário para uma boa vivência local, mas é necessário para perceber que o eu distorce o real e que aquilo que se diz não corresponde ao que é.\n\nO discurso torna-se limitado pelo símbolo do tema. Independentemente do que é efetivamente discutido, debate-se a ação humana sobre uma representação coletiva. O hoje surge, assim, como aquilo que é, fechado sobre o próprio enquadramento.",
+    "resumo_alteracoes": [
+      "Corrigida a pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Separada a frase sobre retirar o eu da questão para reduzir fusão sintática entre ideias consecutivas.",
+      "Mantido o léxico central do fragmento, incluindo 'representações', 'dever-seres', 'eu', 'extra-real' e 'representação coletiva'.",
+      "Preservada a divisão em parágrafos e a progressão argumentativa original."
+    ],
+    "notas_cautela": [
+      "A expressão 'ser articulado' permanece potencialmente ambígua, mas foi preservada por fazer parte do léxico conceptual do fragmento.",
+      "A formulação 'simbologias do eu com o extra-real' pode admitir mais de uma leitura; não foi normalizada para evitar introduzir conteúdo novo.",
+      "O fragmento mantém densidade conceptual elevada e pode depender de contexto mais amplo não fornecido."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0099_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Vê-se que, nos conteúdos dos discursos alargados, se fala sempre a partir de pessoas concretas que representam uma percentagem mínima do todo. As perguntas feitas e as opiniões dadas enquadram-se em temas concretos — habitação, imigração, etc. — e parte-se daí para uma tentativa de resolução de problemas que são, desde logo, parcamente descritos.\\n\\nO que se faz é falar sobre representações de um qualquer ser e construir dever-seres ajustados a essas representações, como se isso fosse falar do ser articulado. O processo é pobre, mas é apresentado como eficaz. Apoia-se num materialismo do mundo exterior, mediado por simbologias do eu com o extra-real, e dependente de causalidades simplificadas do tipo: “se isto, então aquilo”.\\n\\nEssa abordagem é vista como apropriada por se relacionar superficialmente com símbolos partilhados nas cabeças dos indivíduos. Para perceber o erro, seria necessário retirar o eu da questão. Isso não é necessário para uma boa vivência local, mas é necessário para perceber que o eu distorce o real e que aquilo que se diz não corresponde ao que é.\\n\\nO discurso torna-se limitado pelo símbolo do tema. Independentemente do que é efetivamente discutido, debate-se a ação humana sobre uma representação coletiva. O hoje surge, assim, como aquilo que é, fechado sobre o próprio enquadramento.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Separada a frase sobre retirar o eu da questão para reduzir fusão sintática entre ideias consecutivas.\",\n    \"Mantido o léxico central do fragmento, incluindo 'representações', 'dever-seres', 'eu', 'extra-real' e 'representação coletiva'.\",\n    \"Preservada a divisão em parágrafos e a progressão argumentativa original.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão 'ser articulado' permanece potencialmente ambígua, mas foi preservada por fazer parte do léxico conceptual do fragmento.\",\n    \"A formulação 'simbologias do eu com o extra-real' pode admitir mais de uma leitura; não foi normalizada para evitar introduzir conteúdo novo.\",\n    \"O fragmento mantém densidade conceptual elevada e pode depender de contexto mais amplo não fornecido.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:23:35+00:00",
+  "modelo": "gpt-5.4"
+}

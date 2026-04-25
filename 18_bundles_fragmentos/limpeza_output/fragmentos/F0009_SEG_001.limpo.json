@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0009_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0009_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "integridade_semantica_baixa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "verdade, indivíduo, realidade, ação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0009_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Ou que tenha contaminado o resto da cultura com essas ideias. Tudo é um bocado a mesma coisa. Mas, quanto mais do tipo da esquerda, mais a verdade vai ser abafada. Porque, para alguém ser do tipo verdade, tem de ter tipos de pensamento recorrentes, pelo menos, ou então comportamentos intactos, para compreender a realidade em que está inserido, compreender o exterior e compreender o interior a um nível mínimo. Chega-se lá de várias maneiras. O cristianismo é uma delas. Qualquer sistema de crenças que tenha, como uma das crenças principais, importantes, ou pelo menos consequentes nas outras crenças, um modo de verdade, há de ser sempre a colocação da realidade na realidade e do indivíduo no indivíduo. Portanto, a colocação da necessidade de mudança, não na realidade, mas sim no indivíduo. Porque isto, depois, por necessidade lógica de coerência e harmonia, leva à ação modificadora: não só à descoberta daquilo que é, à compreensão daquilo que é, mas também à aplicação do valor, na medida em que vai trazer um melhor estado de coisas, ou pelo menos à preservação do estado de coisas. Portanto, o que é que eu estava a dizer? Ser deste tipo de pessoa, contrariamente a outro tipo de pessoa, que encontre uma qualquer justificação minimamente apresentável pela mente que não envolva nenhum tipo de autorresponsabilidade. São questões básicas, questões elementares do comportamento humano, variadas. Pelo simples querer preservar a energia e preferir não fazer nada a fazer algo. E depois, quando confrontado com a realidade e com os milhões...",
+    "resumo_alteracoes": [
+      "Removidas hesitações e repetições orais redundantes.",
+      "Ajustada a pontuação para tornar a sequência argumentativa mais legível.",
+      "Feitas correções mínimas de ligação sintática sem acrescentar conteúdo novo.",
+      "Preservado o léxico central do fragmento e a progressão local do argumento.",
+      "Mantido o fecho em suspensão, sem completar a frase truncada."
+    ],
+    "notas_cautela": [
+      "O fragmento permanece semanticamente instável em expressões como 'do tipo verdade' e 'colocação da realidade na realidade e do indivíduo no indivíduo'.",
+      "Há possível ambiguidade lexical em 'comportamentos intactos', mas foi preservada por cautela.",
+      "O final está truncado ('e com os milhões...') e não foi reconstruído além do mínimo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0009_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Ou que tenha contaminado o resto da cultura com essas ideias. Tudo é um bocado a mesma coisa. Mas, quanto mais do tipo da esquerda, mais a verdade vai ser abafada. Porque, para alguém ser do tipo verdade, tem de ter tipos de pensamento recorrentes, pelo menos, ou então comportamentos intactos, para compreender a realidade em que está inserido, compreender o exterior e compreender o interior a um nível mínimo. Chega-se lá de várias maneiras. O cristianismo é uma delas. Qualquer sistema de crenças que tenha, como uma das crenças principais, importantes, ou pelo menos consequentes nas outras crenças, um modo de verdade, há de ser sempre a colocação da realidade na realidade e do indivíduo no indivíduo. Portanto, a colocação da necessidade de mudança, não na realidade, mas sim no indivíduo. Porque isto, depois, por necessidade lógica de coerência e harmonia, leva à ação modificadora: não só à descoberta daquilo que é, à compreensão daquilo que é, mas também à aplicação do valor, na medida em que vai trazer um melhor estado de coisas, ou pelo menos à preservação do estado de coisas. Portanto, o que é que eu estava a dizer? Ser deste tipo de pessoa, contrariamente a outro tipo de pessoa, que encontre uma qualquer justificação minimamente apresentável pela mente que não envolva nenhum tipo de autorresponsabilidade. São questões básicas, questões elementares do comportamento humano, variadas. Pelo simples querer preservar a energia e preferir não fazer nada a fazer algo. E depois, quando confrontado com a realidade e com os milhões...\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e repetições orais redundantes.\",\n    \"Ajustada a pontuação para tornar a sequência argumentativa mais legível.\",\n    \"Feitas correções mínimas de ligação sintática sem acrescentar conteúdo novo.\",\n    \"Preservado o léxico central do fragmento e a progressão local do argumento.\",\n    \"Mantido o fecho em suspensão, sem completar a frase truncada.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento permanece semanticamente instável em expressões como 'do tipo verdade' e 'colocação da realidade na realidade e do indivíduo no indivíduo'.\",\n    \"Há possível ambiguidade lexical em 'comportamentos intactos', mas foi preservada por cautela.\",\n    \"O final está truncado ('e com os milhões...') e não foi reconstruído além do mínimo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:01:08+00:00",
+  "modelo": "gpt-5.4"
+}

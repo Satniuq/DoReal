@@ -1,0 +1,149 @@
+{
+  "identificacao": {
+    "fragment_id": "F0118_SEG_001",
+    "origem_id": "F0118",
+    "header_original": "## F0118",
+    "ordem_no_ficheiro": 147,
+    "base_container_id": "F0118",
+    "tipo_material_fonte": "misto"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0118",
+      "data": null,
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0118",
+      "ordem_no_ficheiro": 147,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0118",
+          "paragrafos_origem": [
+            "F0118_P01",
+            "F0118_P02"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "misto",
+    "texto_fragmento": "As drogas psicadélicas têm um efeito na ponte entre o real e o eu.\n\nEnquanto o automatismo, o naturalismo, o modo de ser anterior ao efeito psicadélico, fazia com que a ponte entre a consciência e o real fosse de um certo modo — muito automatizado, à espera que a consciência interviesse — o efeito psicadélico dissipa essa ligação.",
+    "texto_normalizado": "As drogas psicadélicas têm um efeito na ponte entre o real e o eu.\n\nEnquanto o automatismo, o naturalismo, o modo de ser anterior ao efeito psicadélico, fazia com que a ponte entre a consciência e o real fosse de um certo modo — muito automatizado, à espera que a consciência interviesse — o efeito psicadélico dissipa essa ligação.",
+    "texto_fonte_reconstituido": "As drogas psicadélicas têm um efeito na ponte entre o real e o eu.\n\nEnquanto o automatismo, o naturalismo, o modo de ser anterior ao efeito psicadélico, fazia com que a ponte entre a consciência e o real fosse de um certo modo — muito automatizado, à espera que a consciência interviesse — o efeito psicadélico dissipa essa ligação.",
+    "texto_principal": "As drogas psicadélicas têm um efeito na ponte entre o real e o eu.\n\nEnquanto o automatismo, o naturalismo, o modo de ser anterior ao efeito psicadélico, fazia com que a ponte entre a consciência e o real fosse de um certo modo — muito automatizado, à espera que a consciência interviesse — o efeito psicadélico dissipa essa ligação.",
+    "segmentacao": {
+      "tipo_unidade": "distincao_conceptual",
+      "criterio_de_unidade": "continuidade_tematica",
+      "houve_fusao_de_paragrafos": true,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "distincao",
+    "tema_dominante_provisorio": "efeito psicadélico ligação eu-real",
+    "conceitos_relevantes_provisorios": [
+      "drogas psicadélicas",
+      "ponte real-eu",
+      "automatismo",
+      "consciência",
+      "dissipação ligação"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": null,
+      "fragmento_seguinte": "F0118_SEG_002",
+      "continua_anterior": false,
+      "prepara_seguinte": true
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 02:12:54",
+      "hash_texto_normalizado": "f141980d065d64e315650e6443f1680600534f4e85389a6e68eaf436690d2a4d"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0118",
+    "container_origem": {
+      "base_container_id": "F0118",
+      "header": "## F0118",
+      "data": null,
+      "texto_container": "As drogas psicadélicas têm um efeito na ponte entre o real e o eu.\n\nEnquanto o automatismo, o naturalismo, o modo de ser anterior ao efeito psicadélico, fazia com que a ponte entre a consciência e o real fosse de um certo modo — muito automatizado, à espera que a consciência interviesse — o efeito psicadélico dissipa essa ligação.\n\nA consciência, em vez de viver diretamente na representação do real, existe mais. Evidencia-se mais. Ou experiencia outro tipo de modo de funcionar que seria no próprio toque com o real.",
+      "texto_container_preview": "As drogas psicadélicas têm um efeito na ponte entre o real e o eu. Enquanto o automatismo, o naturalismo, o modo de ser anterior ao efeito psicadélico, fazia com que a ponte entre a consciência e o real fosse de um certo modo — muito automatizado, à espera que a consciência interviesse — o efeito psicadélico dissipa essa ligação. A consciência, em vez de viver diretamente na representação do real, existe mais. Evide…",
+      "hash_texto_container": "82dfc1ff7748426431f7f2fb36cccabba1ab71e27fc9850e6918d7c0fae1dd59"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": null,
+    "fragmento_seguinte": {
+      "fragment_id": "F0118_SEG_002",
+      "encontrado": true,
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "distincao",
+      "tema_dominante_provisorio": "consciência: representação versus toque",
+      "texto_preview": "A consciência, em vez de viver diretamente na representação do real, existe mais. Evidencia-se mais. Ou experiencia outro tipo de modo de funcionar que seria no próprio toque com o real."
+    }
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "As drogas psicadélicas têm um efeito na ponte entre o real e o eu.\n\nEnquanto o automatismo, o naturalismo, o modo de ser anterior ao efeito psicadélico, fazia com que a ponte entre a consciência e o real fosse de um certo modo — muito automatizado, à espera que a consciência interviesse — o efeito psicadélico dissipa essa ligação.",
+    "fonte_texto_principal": "texto_fonte_reconstituido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": null,
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "f141980d065d64e315650e6443f1680600534f4e85389a6e68eaf436690d2a4d",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "conservadora",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": false,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "fragmento_com_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "houve_fusao_de_paragrafos"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:38+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "f141980d065d64e315650e6443f1680600534f4e85389a6e68eaf436690d2a4d",
+      "texto_normalizado": "f141980d065d64e315650e6443f1680600534f4e85389a6e68eaf436690d2a4d",
+      "texto_fonte_reconstituido": "f141980d065d64e315650e6443f1680600534f4e85389a6e68eaf436690d2a4d",
+      "texto_principal": "f141980d065d64e315650e6443f1680600534f4e85389a6e68eaf436690d2a4d"
+    }
+  }
+}

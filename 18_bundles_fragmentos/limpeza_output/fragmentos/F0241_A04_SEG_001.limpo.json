@@ -1,0 +1,42 @@
+{
+  "fragment_id": "F0241_A04_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A04_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "justificação, realidade e apreensão"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A04_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "2 + 2 = 4 funciona como sua própria justificação, mas ainda se pode ir a elementos mais básicos, mais profundos, aos elementos axiomáticos de um sistema, e depois diz-se que não há, porque a derivação é infinita. Claro que sim. Porque a demonstração de 2 + 2 ser 4 não é aquilo que compõe o 2, o 2 e o 4 que faz com que seja verdade; é o facto de 2 e 2 serem 4, essa relação que existe, continuar a permanecer no contínuo da existência dentro do sistema que diz que 2 + 2 = 4. Existe, é real, representa a realidade.\n\nPorque encontrar as justificações, os axiomas, os fundamentos de uma qualquer proposição faz parte disso, não é? Encontram-se apenas em dois lados. São os únicos lados possíveis assim que algo existe, ou seja, assim que há. E esses dois lados são: ou naquilo que há, na realidade, naquilo que é; ou então pela localidade de todos os seres reflexivos, pela perspectiva em que está inserido. É por essa imposição de derivação do eu para o real que a comparação entre qualquer tipo de critério, ou a justaposição entre qualquer tipo de critério dentro do quadro da apreensão do real pelo eu, faz com que seja no eu que reside a base, no eu que reside o quadro lógico. Portanto, é normal. Não foi algo descoberto assim que o homem começou a pensar. É uma luta constante na apreensão, na boa apreensão do real, que obriga também à descrição do real. A apreensão por si só é pouca se não houver descrição, ou representação. A representação não pode ser algo muito interno, e a descrição contém um interno e um externo, na relação entre o que existe.",
+    "resumo_alteracoes": [
+      "Corrigida oralidade redundante e removidas repetições enfáticas sem função argumentativa.",
+      "Ajustada pontuação e segmentação frásica para tornar a sequência argumentativa legível.",
+      "Normalizado o trecho inicial com '2 + 2 = 4' sem alterar a tese local.",
+      "Substituída forma aparentemente desviada 'domização' por 'demonstração' por ser a reconstrução mínima mais plausível para legibilidade.",
+      "Reorganizadas construções truncadas no segundo parágrafo para explicitar a oposição entre realidade e perspectiva do eu.",
+      "Reduzidas hesitações e autocorreções orais, preservando o registo autoral."
+    ],
+    "notas_cautela": [
+      "O fragmento apresenta sinais de corte interno e de fusão de parágrafos; algumas transições permanecem densas.",
+      "A leitura de 'domização' como 'demonstração' é inferência conservadora, mas deve ser revista humanamente.",
+      "O trecho sobre 'dois lados' e a derivação do eu para o real mantém alguma compressão sintáctica do original.",
+      "O texto permanece parcialmente oralizado e pode depender de contexto adjacente para plena estabilização."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A04_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"2 + 2 = 4 funciona como sua própria justificação, mas ainda se pode ir a elementos mais básicos, mais profundos, aos elementos axiomáticos de um sistema, e depois diz-se que não há, porque a derivação é infinita. Claro que sim. Porque a demonstração de 2 + 2 ser 4 não é aquilo que compõe o 2, o 2 e o 4 que faz com que seja verdade; é o facto de 2 e 2 serem 4, essa relação que existe, continuar a permanecer no contínuo da existência dentro do sistema que diz que 2 + 2 = 4. Existe, é real, representa a realidade.\\n\\nPorque encontrar as justificações, os axiomas, os fundamentos de uma qualquer proposição faz parte disso, não é? Encontram-se apenas em dois lados. São os únicos lados possíveis assim que algo existe, ou seja, assim que há. E esses dois lados são: ou naquilo que há, na realidade, naquilo que é; ou então pela localidade de todos os seres reflexivos, pela perspectiva em que está inserido. É por essa imposição de derivação do eu para o real que a comparação entre qualquer tipo de critério, ou a justaposição entre qualquer tipo de critério dentro do quadro da apreensão do real pelo eu, faz com que seja no eu que reside a base, no eu que reside o quadro lógico. Portanto, é normal. Não foi algo descoberto assim que o homem começou a pensar. É uma luta constante na apreensão, na boa apreensão do real, que obriga também à descrição do real. A apreensão por si só é pouca se não houver descrição, ou representação. A representação não pode ser algo muito interno, e a descrição contém um interno e um externo, na relação entre o que existe.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida oralidade redundante e removidas repetições enfáticas sem função argumentativa.\",\n    \"Ajustada pontuação e segmentação frásica para tornar a sequência argumentativa legível.\",\n    \"Normalizado o trecho inicial com '2 + 2 = 4' sem alterar a tese local.\",\n    \"Substituída forma aparentemente desviada 'domização' por 'demonstração' por ser a reconstrução mínima mais plausível para legibilidade.\",\n    \"Reorganizadas construções truncadas no segundo parágrafo para explicitar a oposição entre realidade e perspectiva do eu.\",\n    \"Reduzidas hesitações e autocorreções orais, preservando o registo autoral.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento apresenta sinais de corte interno e de fusão de parágrafos; algumas transições permanecem densas.\",\n    \"A leitura de 'domização' como 'demonstração' é inferência conservadora, mas deve ser revista humanamente.\",\n    \"O trecho sobre 'dois lados' e a derivação do eu para o real mantém alguma compressão sintáctica do original.\",\n    \"O texto permanece parcialmente oralizado e pode depender de contexto adjacente para plena estabilização.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:46:54+00:00",
+  "modelo": "gpt-5.4"
+}

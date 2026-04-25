@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A26_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A26_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "revisao_manual_prioritaria",
+      "confianca_segmentacao_baixa",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "erro: apreensão e real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A26_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O erro, em boa verdade, ocorre quando a representação da apreensão não vai na direção que o real atualiza, e o desajuste é ignorado ou deliberadamente ignorado. O erro está na manutenção da relação apreensiva e da estrutura do ser que é sendo, no encaminhar para as luzes acesas.",
+    "resumo_alteracoes": [
+      "Corrigidas formulações mínimas para legibilidade e coesão sintática.",
+      "Preservada a repetição de 'ignorado' por parecer semanticamente relevante no contraste entre ignorância e deliberação.",
+      "Mantido o fecho 'no encaminhar para as luzes acesas' sem desenvolvimento adicional."
+    ],
+    "notas_cautela": [
+      "O fragmento pode estar internamente cortado; a expressão final permanece pouco ancorada no segmento disponível.",
+      "A segmentação tem baixa confiança, por isso a limpeza foi conservadora e sem reconstrução argumentativa forte.",
+      "O texto pode permanecer parcial após limpeza."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A26_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O erro, em boa verdade, ocorre quando a representação da apreensão não vai na direção que o real atualiza, e o desajuste é ignorado ou deliberadamente ignorado. O erro está na manutenção da relação apreensiva e da estrutura do ser que é sendo, no encaminhar para as luzes acesas.\",\n  \"resumo_alteracoes\": [\n    \"Corrigidas formulações mínimas para legibilidade e coesão sintática.\",\n    \"Preservada a repetição de 'ignorado' por parecer semanticamente relevante no contraste entre ignorância e deliberação.\",\n    \"Mantido o fecho 'no encaminhar para as luzes acesas' sem desenvolvimento adicional.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode estar internamente cortado; a expressão final permanece pouco ancorada no segmento disponível.\",\n    \"A segmentação tem baixa confiança, por isso a limpeza foi conservadora e sem reconstrução argumentativa forte.\",\n    \"O texto pode permanecer parcial após limpeza.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:57:10+00:00",
+  "modelo": "gpt-5.4"
+}

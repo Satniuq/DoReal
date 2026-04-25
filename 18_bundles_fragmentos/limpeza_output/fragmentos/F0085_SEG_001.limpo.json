@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0085_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0085_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "limites sistemas pensamento e ser"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0085_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E como a filosofia, não sendo a melhor descrição do ser, leva normalmente a dois únicos caminhos possíveis: tentar viver na teia criada pelos filósofos mais potentes, ou então ter de dar um salto, fazer uma suspensão qualquer — uma suspensão da crença, ou do que for — para tentar chegar à descrição do ser não pelo poder-ser, mas pelo próprio dever-ser.\n\nE é por isso que, no fim, tudo acaba sempre na pergunta: Deus existe ou Deus não existe? E depois seguem-se os argumentos — o da primeira causa, o ontológico e todos os outros — como se fosse isso que estivesse em causa. O que falta aí é perceber que todo esse discurso parte de suposições sobre aquilo que é; não daquilo que é, mas do que os próprios sistemas de pensamento dizem ser.",
+    "resumo_alteracoes": [
+      "Suavizada a segmentação sintática do primeiro período para reduzir oralidade redundante sem alterar a tese local.",
+      "Mantido o encadeamento entre os dois caminhos possíveis, a suspensão e a crítica ao desvio para a questão de Deus.",
+      "Ajustada a pontuação para melhorar legibilidade e coesão entre incisos.",
+      "Removida repetição mínima e reorganizada a formulação final para maior clareza, preservando o léxico central."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior para a formulação inicial em 'E como a filosofia...'.",
+      "Permanece uma oposição conceptual forte entre 'poder-ser' e 'dever-ser' sem explicitação interna adicional; não foi expandida para evitar introdução de conteúdo novo.",
+      "Há continuidade argumentativa ativa com o fragmento seguinte, mas não foi fundida."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0085_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E como a filosofia, não sendo a melhor descrição do ser, leva normalmente a dois únicos caminhos possíveis: tentar viver na teia criada pelos filósofos mais potentes, ou então ter de dar um salto, fazer uma suspensão qualquer — uma suspensão da crença, ou do que for — para tentar chegar à descrição do ser não pelo poder-ser, mas pelo próprio dever-ser.\\n\\nE é por isso que, no fim, tudo acaba sempre na pergunta: Deus existe ou Deus não existe? E depois seguem-se os argumentos — o da primeira causa, o ontológico e todos os outros — como se fosse isso que estivesse em causa. O que falta aí é perceber que todo esse discurso parte de suposições sobre aquilo que é; não daquilo que é, mas do que os próprios sistemas de pensamento dizem ser.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a segmentação sintática do primeiro período para reduzir oralidade redundante sem alterar a tese local.\",\n    \"Mantido o encadeamento entre os dois caminhos possíveis, a suspensão e a crítica ao desvio para a questão de Deus.\",\n    \"Ajustada a pontuação para melhorar legibilidade e coesão entre incisos.\",\n    \"Removida repetição mínima e reorganizada a formulação final para maior clareza, preservando o léxico central.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior para a formulação inicial em 'E como a filosofia...'.\",\n    \"Permanece uma oposição conceptual forte entre 'poder-ser' e 'dever-ser' sem explicitação interna adicional; não foi expandida para evitar introdução de conteúdo novo.\",\n    \"Há continuidade argumentativa ativa com o fragmento seguinte, mas não foi fundida.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:17:25+00:00",
+  "modelo": "gpt-5.4"
+}

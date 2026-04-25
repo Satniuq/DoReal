@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0123_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0123_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "bloco_unico",
+    "tema_dominante_provisorio": "manifestação do bom"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0123_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Os círculos são apenas o símbolo da relação incorporada. O bom é ser bom pai, bom filho, bom irmão, bom cidadão, boa pessoa.",
+    "resumo_alteracoes": [
+      "Removidos artigos repetidos na enumeração para reduzir redundância sem alterar a tese local.",
+      "Preservada a formulação central sobre os círculos e a relação incorporada.",
+      "Mantida a enumeração de figuras relacionais e éticas no mesmo encadeamento."
+    ],
+    "notas_cautela": [
+      "O fragmento é muito curto e pode depender de contexto anterior para precisar o sentido de 'círculos' e de 'relação incorporada'.",
+      "Há continuidade local ativa; a limpeza foi conservadora e não tentou completar ligações argumentativas ausentes."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0123_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Os círculos são apenas o símbolo da relação incorporada. O bom é ser bom pai, bom filho, bom irmão, bom cidadão, boa pessoa.\",\n  \"resumo_alteracoes\": [\n    \"Removidos artigos repetidos na enumeração para reduzir redundância sem alterar a tese local.\",\n    \"Preservada a formulação central sobre os círculos e a relação incorporada.\",\n    \"Mantida a enumeração de figuras relacionais e éticas no mesmo encadeamento.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento é muito curto e pode depender de contexto anterior para precisar o sentido de 'círculos' e de 'relação incorporada'.\",\n    \"Há continuidade local ativa; a limpeza foi conservadora e não tentou completar ligações argumentativas ausentes.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:33:25+00:00",
+  "modelo": "gpt-5.4"
+}

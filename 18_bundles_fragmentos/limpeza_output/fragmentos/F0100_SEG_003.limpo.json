@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0100_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0100_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "eu real distinção género"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0100_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Ao pai não cabe esse papel porque não lhe cabe o custo de gerar um novo ser, nem o toque com a relação de ser que gera outro ser dentro de si. A exigência de enquadrar o real no eu seria desproporcionada e não passível de atualização evolutiva para a mãe, para quem o real é, na maior parte das vezes, secundário em relação ao filho.\n\nOs dois seres que existem — o que vive no eu e o que vive no real — correspondem ao feminino e ao masculino, uma vez que todos os seres conscientes reflexivos advêm de uma mãe e de um pai. As tipologias multiplicadas (big five, big seven, etc.) reduzem-se a duas: o ser no real e o ser no eu.",
+    "resumo_alteracoes": [
+      "Ajustada a formulação final da primeira frase para maior legibilidade, sem alterar a tese local.",
+      "Substituído 'secundário ao filho' por 'secundário em relação ao filho' para clarificar a relação sintática.",
+      "Preservada a distinção central entre 'ser no eu' e 'ser no real'.",
+      "Mantida a progressão local do argumento em dois momentos: papel do pai/mãe e redução tipológica a duas formas."
+    ],
+    "notas_cautela": [
+      "O fragmento depende de continuidade local anterior para o referente de 'esse papel'.",
+      "Permanece linguagem densa em 'toque com a relação de ser', preservada por cautela para não reformular em excesso.",
+      "Há uma passagem forte do plano parental para a tipologia feminino/masculino; foi mantida sem compensação interpretativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0100_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Ao pai não cabe esse papel porque não lhe cabe o custo de gerar um novo ser, nem o toque com a relação de ser que gera outro ser dentro de si. A exigência de enquadrar o real no eu seria desproporcionada e não passível de atualização evolutiva para a mãe, para quem o real é, na maior parte das vezes, secundário em relação ao filho.\\n\\nOs dois seres que existem — o que vive no eu e o que vive no real — correspondem ao feminino e ao masculino, uma vez que todos os seres conscientes reflexivos advêm de uma mãe e de um pai. As tipologias multiplicadas (big five, big seven, etc.) reduzem-se a duas: o ser no real e o ser no eu.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a formulação final da primeira frase para maior legibilidade, sem alterar a tese local.\",\n    \"Substituído 'secundário ao filho' por 'secundário em relação ao filho' para clarificar a relação sintática.\",\n    \"Preservada a distinção central entre 'ser no eu' e 'ser no real'.\",\n    \"Mantida a progressão local do argumento em dois momentos: papel do pai/mãe e redução tipológica a duas formas.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento depende de continuidade local anterior para o referente de 'esse papel'.\",\n    \"Permanece linguagem densa em 'toque com a relação de ser', preservada por cautela para não reformular em excesso.\",\n    \"Há uma passagem forte do plano parental para a tipologia feminino/masculino; foi mantida sem compensação interpretativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:23:58+00:00",
+  "modelo": "gpt-5.4"
+}

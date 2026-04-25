@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0064_A01_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0064_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "homem real representação civilização"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0064_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A história do homem reflete este percurso: a infância é o homem à procura do real e de si mesmo, incluindo-se no real. A vida adulta, depois de tudo o que aprendeu, passa a viver sobre a representação que criou. As civilizações que daí emergem nascem contra o real e produzem adultos contra o real.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo de fluidez em \"representação criada\" para \"representação que criou\", sem alterar a tese local.",
+      "Preservada a progressão infância → vida adulta → civilizações.",
+      "Mantido o léxico central: homem, real, representação, civilizações, adultos."
+    ],
+    "notas_cautela": [
+      "O fragmento depende de contexto anterior para a ligação entre aprendizagem, representação e degeneração do sistema.",
+      "Embora legível de forma autónoma, permanece inserido numa continuidade argumentativa ativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0064_A01_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A história do homem reflete este percurso: a infância é o homem à procura do real e de si mesmo, incluindo-se no real. A vida adulta, depois de tudo o que aprendeu, passa a viver sobre a representação que criou. As civilizações que daí emergem nascem contra o real e produzem adultos contra o real.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo de fluidez em \\\"representação criada\\\" para \\\"representação que criou\\\", sem alterar a tese local.\",\n    \"Preservada a progressão infância → vida adulta → civilizações.\",\n    \"Mantido o léxico central: homem, real, representação, civilizações, adultos.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento depende de contexto anterior para a ligação entre aprendizagem, representação e degeneração do sistema.\",\n    \"Embora legível de forma autónoma, permanece inserido numa continuidade argumentativa ativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:10:33+00:00",
+  "modelo": "gpt-5.4"
+}

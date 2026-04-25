@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0122_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0122_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "autonomia do campo relacional"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0122_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Parece que o que há é ou a aderência a uma posição parva qualquer, ou então a conclusão de que não há ética. Ou é tudo construção, ou tudo derivação de uma característica compartimentada qualquer — a emoção, por exemplo —, como se dizer “tenho dedos” fosse uma resposta.\n\nO que existe é o domínio que cada um tem sobre as relações em que está incorporado, aquelas em que pode vir a estar, aquelas em que atravessa. Andar numa sala escura e acender a luz do desconhecido é acender a luz para quem anda na sala. Sou eu que mudo de corredor para ver o que está do outro lado.\n\nIsso pode depois tornar-se comum pelo processo de comunicação, mas o campo é local. Autónomo no sentido da localidade.",
+    "resumo_alteracoes": [
+      "Ajustada pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Removida apenas a redundância mínima na enumeração inicial, preservando o léxico e o tom autoral.",
+      "Feita uma limpeza estrutural conservadora para separar melhor os momentos argumentativos já presentes.",
+      "Mantida a imagem da sala escura e do corredor sem explicitação adicional."
+    ],
+    "notas_cautela": [
+      "O fragmento parece íntegro localmente, mas pode depender do segmento seguinte para desenvolver melhor a noção de campo local e comum.",
+      "A expressão \"aquelas em que atravessa\" foi mantida como solução mínima de legibilidade perante possível fusão ou corte interno; convém revisão humana se houver acesso ao original contínuo.",
+      "Permanece um tom elíptico em \"como se dizer 'tenho dedos' fosse uma resposta\", mas foi preservado por parecer carregar a intenção do fragmento."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0122_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Parece que o que há é ou a aderência a uma posição parva qualquer, ou então a conclusão de que não há ética. Ou é tudo construção, ou tudo derivação de uma característica compartimentada qualquer — a emoção, por exemplo —, como se dizer “tenho dedos” fosse uma resposta.\\n\\nO que existe é o domínio que cada um tem sobre as relações em que está incorporado, aquelas em que pode vir a estar, aquelas em que atravessa. Andar numa sala escura e acender a luz do desconhecido é acender a luz para quem anda na sala. Sou eu que mudo de corredor para ver o que está do outro lado.\\n\\nIsso pode depois tornar-se comum pelo processo de comunicação, mas o campo é local. Autónomo no sentido da localidade.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Removida apenas a redundância mínima na enumeração inicial, preservando o léxico e o tom autoral.\",\n    \"Feita uma limpeza estrutural conservadora para separar melhor os momentos argumentativos já presentes.\",\n    \"Mantida a imagem da sala escura e do corredor sem explicitação adicional.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece íntegro localmente, mas pode depender do segmento seguinte para desenvolver melhor a noção de campo local e comum.\",\n    \"A expressão \\\"aquelas em que atravessa\\\" foi mantida como solução mínima de legibilidade perante possível fusão ou corte interno; convém revisão humana se houver acesso ao original contínuo.\",\n    \"Permanece um tom elíptico em \\\"como se dizer 'tenho dedos' fosse uma resposta\\\", mas foi preservado por parecer carregar a intenção do fragmento.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:33:04+00:00",
+  "modelo": "gpt-5.4"
+}

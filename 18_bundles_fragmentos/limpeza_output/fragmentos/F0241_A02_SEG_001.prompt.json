@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A02_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A02\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"apreensão do real e filosofia\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"A minha posição é a minha posição, é a posição de cada um. Qualquer posição que mal descreva esta obrigatoriedade de perspectiva na apreensão, quer dizer, o próprio ato de apreender, o próprio poder ser apreender, o próprio o ser consequente naquilo que se é ser apreender, o continuar a existir em cada continuar a existir nessa relação de um real, algo do real a apreender, o real, é que...\\nOs tipos de pensamento que se têm sobre isto, portanto, em cada tema, o que é que não sei quantas explica sobre isto? Quando se faz uma súmula da história da filosofia pelos seus grandes movimentos conceptuais, pela correspondência que tem com o que se percebe ser, e o ponto é que pode-se admitir, o ponto é que, normalmente, por detrás de um já sentido real, afirmado pela repetição durante milénios do ser que está a aprender, ou seja, do ser que está a ter essa ação na sua experiência repetida, moldada no canal, até como é óbvio, de onde brota a consciência,\\n\\nE o pensamento, vamos chamá-lhe filosófico, pronto, é o pensamento que está a incidir sobre aquele tipo de objeto, sobre o que é, que está na pergunta, que está a trilhar a resposta, ou seja, está a pensar sobre a pergunta que é isto, o que é isto? E pronto, como já dissemos, Kant identifica aqui alguma estrutura, mas marca muito fracamente descrita e também, depois, como é óbvio, é consumido, a descrição dele é consumida por aquilo que ele acha, em vez de ser por aquilo que é. Deixa de haver uma descrição do que é, passa a haver outra coisa qualquer, ou seja, aquilo que o resto do discurso filosófico se torna.\\n\\nHipótese ou filosofia ter filosofia, se não for verdadeira, ou pelo menos a busca, a busca para que se diga aquilo que é verdade, e se verdade é o que é real e o modo de manifestar é através da melhor descrição do real, não há muita coisa que seja filosofia, mas também não é suposto haver muita coisa que seja filosofia.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0241_A02_SEG_002\\n- tema: dinâmica de sistemas e realidade\\n- preview: E a amplitude em que isto se vê de um lado e do outro na relação a ser mantida entre o ser reflexivo e os outros seres reflexivos, e depois o discurso, ou seja, os símbolos comuns que identificam discursos, e ver esta dinâmica depois também relativamente ao que cada ser consciente pensa sobre si, sobre o que se pensa sobre o ser, ou seja, aquilo que se diz sobre o que é isto, e depois, como é óbvio, o que deveria se…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A02",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "apreensão do real e filosofia",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "A minha posição é a minha posição, é a posição de cada um. Qualquer posição que mal descreva esta obrigatoriedade de perspectiva na apreensão, quer dizer, o próprio ato de apreender, o próprio poder ser apreender, o próprio o ser consequente naquilo que se é ser apreender, o continuar a existir em cada continuar a existir nessa relação de um real, algo do real a apreender, o real, é que...\nOs tipos de pensamento que se têm sobre isto, portanto, em cada tema, o que é que não sei quantas explica sobre isto? Quando se faz uma súmula da história da filosofia pelos seus grandes movimentos conceptuais, pela correspondência que tem com o que se percebe ser, e o ponto é que pode-se admitir, o ponto é que, normalmente, por detrás de um já sentido real, afirmado pela repetição durante milénios do ser que está a aprender, ou seja, do ser que está a ter essa ação na sua experiência repetida, moldada no canal, até como é óbvio, de onde brota a consciência,\n\nE o pensamento, vamos chamá-lhe filosófico, pronto, é o pensamento que está a incidir sobre aquele tipo de objeto, sobre o que é, que está na pergunta, que está a trilhar a resposta, ou seja, está a pensar sobre a pergunta que é isto, o que é isto? E pronto, como já dissemos, Kant identifica aqui alguma estrutura, mas marca muito fracamente descrita e também, depois, como é óbvio, é consumido, a descrição dele é consumida por aquilo que ele acha, em vez de ser por aquilo que é. Deixa de haver uma descrição do que é, passa a haver outra coisa qualquer, ou seja, aquilo que o resto do discurso filosófico se torna.\n\nHipótese ou filosofia ter filosofia, se não for verdadeira, ou pelo menos a busca, a busca para que se diga aquilo que é verdade, e se verdade é o que é real e o modo de manifestar é através da melhor descrição do real, não há muita coisa que seja filosofia, mas também não é suposto haver muita coisa que seja filosofia.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0241_A02_SEG_002\n- tema: dinâmica de sistemas e realidade\n- preview: E a amplitude em que isto se vê de um lado e do outro na relação a ser mantida entre o ser reflexivo e os outros seres reflexivos, e depois o discurso, ou seja, os símbolos comuns que identificam discursos, e ver esta dinâmica depois também relativamente ao que cada ser consciente pensa sobre si, sobre o que se pensa sobre o ser, ou seja, aquilo que se diz sobre o que é isto, e depois, como é óbvio, o que deveria se…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

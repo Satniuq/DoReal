@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A23_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A23_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "delimitação por ponto de vista"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A23_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Qual é a pergunta? Onde é que termina a influência e começa a identidade? Depende do ponto de vista. Se eu estiver a ver de fora o sistema solar, não estou preocupado com em quem se funda a identidade de um homenzinho, da estrada ou da sociedade em que ele vive.\n\nEu analiso a sociedade como o modo de ser daquele tipo de ser reflexivo, porque isso diz-me como é que o tipo individual é. Se eu sei que alguém numa cultura é assim e eu vou lá, digo qualquer coisa que já sei que todas as pessoas vão compreender; todas as pessoas vão reagir de certo modo, porque são de um modo de ser. Se eu estiver a olhar para dentro de uma estrela, talvez esteja mais interessado em ver as relações da fusão dos átomos, ou como é que isso se chama, para criar aquelas fusões lá dentro.\n\nSe calhar vejo algo mais profundo, mas menos abrangente. Depende. Quando há reflexividade, o limite é sempre o ponto reflexivo. Agora, se eu estou a ver outro ser com reflexividade, depende do meu ponto de vista.",
+    "resumo_alteracoes": [
+      "Removeu-se oralidade redundante de abertura, preservando a pergunta central.",
+      "Ajustou-se a sintaxe de frases truncadas ou coloquiais para melhorar legibilidade sem alterar a tese local.",
+      "Separaram-se e organizaram-se os períodos mantendo a progressão: ponto de vista externo, análise da sociedade, contraste com a estrela, retorno à reflexividade.",
+      "Preservou-se o léxico central do fragmento, incluindo 'ponto de vista', 'sociedade', 'ser reflexivo' e 'ponto reflexivo'."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém marcas de oralidade conceptual e alguma formulação imprecisa que não foi normalizada em excesso.",
+      "A expressão sobre 'as relações da fusão dos átomos' permanece parcialmente tosca por cautela, para evitar introduzir formulação técnica nova.",
+      "Há continuidade local ativa com o fragmento anterior; a limpeza não tentou fechar lacunas para além do que está explicitamente dito aqui."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A23_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Qual é a pergunta? Onde é que termina a influência e começa a identidade? Depende do ponto de vista. Se eu estiver a ver de fora o sistema solar, não estou preocupado com em quem se funda a identidade de um homenzinho, da estrada ou da sociedade em que ele vive.\\n\\nEu analiso a sociedade como o modo de ser daquele tipo de ser reflexivo, porque isso diz-me como é que o tipo individual é. Se eu sei que alguém numa cultura é assim e eu vou lá, digo qualquer coisa que já sei que todas as pessoas vão compreender; todas as pessoas vão reagir de certo modo, porque são de um modo de ser. Se eu estiver a olhar para dentro de uma estrela, talvez esteja mais interessado em ver as relações da fusão dos átomos, ou como é que isso se chama, para criar aquelas fusões lá dentro.\\n\\nSe calhar vejo algo mais profundo, mas menos abrangente. Depende. Quando há reflexividade, o limite é sempre o ponto reflexivo. Agora, se eu estou a ver outro ser com reflexividade, depende do meu ponto de vista.\",\n  \"resumo_alteracoes\": [\n    \"Removeu-se oralidade redundante de abertura, preservando a pergunta central.\",\n    \"Ajustou-se a sintaxe de frases truncadas ou coloquiais para melhorar legibilidade sem alterar a tese local.\",\n    \"Separaram-se e organizaram-se os períodos mantendo a progressão: ponto de vista externo, análise da sociedade, contraste com a estrela, retorno à reflexividade.\",\n    \"Preservou-se o léxico central do fragmento, incluindo 'ponto de vista', 'sociedade', 'ser reflexivo' e 'ponto reflexivo'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém marcas de oralidade conceptual e alguma formulação imprecisa que não foi normalizada em excesso.\",\n    \"A expressão sobre 'as relações da fusão dos átomos' permanece parcialmente tosca por cautela, para evitar introduzir formulação técnica nova.\",\n    \"Há continuidade local ativa com o fragmento anterior; a limpeza não tentou fechar lacunas para além do que está explicitamente dito aqui.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:55:51+00:00",
+  "modelo": "gpt-5.4"
+}

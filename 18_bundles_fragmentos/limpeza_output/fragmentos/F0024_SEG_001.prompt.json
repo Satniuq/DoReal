@@ -1,0 +1,71 @@
+{
+  "fragment_id": "F0024_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0024_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0024\",\n  \"header_original\": \"## F0024 — 2026-01-02\",\n  \"tipo_material_fonte\": \"dialogo_com_ia\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"instituições, realidade, homem, prescrição\",\n  \"motivos_estado\": [\n    \"voz_autor_extraida\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\",\n    \"material_dialogico_com_ia\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"separacao_de_vozes\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"houve_corte_interno\",\n      \"material_dialogico_com_ia\",\n      \"voz_autor_extraida\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"[Autor]\\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0024_SEG_002\\n- tema: realidade, erro, ser, tempo\\n- preview: [Entrada ChatGPT] (A) Metafísica da Consciência e dos Qualia (B) Teoria do Conhecimento e do Erro (C) Lógica da Evolução do Ser (Tempo e História) [Resposta do Autor] (A) Não preciso de explicar o sentir, porque sei e é verdade que ele é verdadeiro e universal. (B) Não há erro ontologicamente: ontologicamente só há o real. O erro é um simples modo de ser — errado porque não verdadeiro. Gradual perante a realidade, c…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0024_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0024",
+    "header_original": "## F0024 — 2026-01-02",
+    "tipo_material_fonte": "dialogo_com_ia",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "instituições, realidade, homem, prescrição",
+    "motivos_estado": [
+      "voz_autor_extraida",
+      "houve_corte_interno",
+      "continuidade_local_ativa",
+      "material_dialogico_com_ia"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "separacao_de_vozes",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "houve_corte_interno",
+        "material_dialogico_com_ia",
+        "voz_autor_extraida"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0024_SEG_002\n- tema: realidade, erro, ser, tempo\n- preview: [Entrada ChatGPT] (A) Metafísica da Consciência e dos Qualia (B) Teoria do Conhecimento e do Erro (C) Lógica da Evolução do Ser (Tempo e História) [Resposta do Autor] (A) Não preciso de explicar o sentir, porque sei e é verdade que ele é verdadeiro e universal. (B) Não há erro ontologicamente: ontologicamente só há o real. O erro é um simples modo de ser — errado porque não verdadeiro. Gradual perante a realidade, c…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

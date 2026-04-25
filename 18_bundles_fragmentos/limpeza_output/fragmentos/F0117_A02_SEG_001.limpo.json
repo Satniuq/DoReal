@@ -1,0 +1,33 @@
+{
+  "fragment_id": "F0117_A02_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0117_A02_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "expressão eu-eu sociedade aberta"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0117_A02_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "É o eu real e o eu-eu. Numa sociedade aberta, com dissipação de círculos, é próprio do ser consciente reflexivo que haja mais expressão do eu-eu.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo da ordem sintática para melhorar a legibilidade.",
+      "Preservação dos termos centrais: 'eu real', 'eu-eu', 'sociedade aberta', 'dissipação de círculos' e 'ser consciente reflexivo'.",
+      "Remoção de leve aspereza oral sem alterar a tese local."
+    ],
+    "notas_cautela": [
+      "A relação exata entre 'eu real' e 'eu-eu' permanece apenas enunciada, sem desenvolvimento no fragmento.",
+      "A expressão 'dissipação de círculos' foi preservada literalmente por poder ter sentido técnico no projeto."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0117_A02_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"É o eu real e o eu-eu. Numa sociedade aberta, com dissipação de círculos, é próprio do ser consciente reflexivo que haja mais expressão do eu-eu.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo da ordem sintática para melhorar a legibilidade.\",\n    \"Preservação dos termos centrais: 'eu real', 'eu-eu', 'sociedade aberta', 'dissipação de círculos' e 'ser consciente reflexivo'.\",\n    \"Remoção de leve aspereza oral sem alterar a tese local.\"\n  ],\n  \"notas_cautela\": [\n    \"A relação exata entre 'eu real' e 'eu-eu' permanece apenas enunciada, sem desenvolvimento no fragmento.\",\n    \"A expressão 'dissipação de círculos' foi preservada literalmente por poder ter sentido técnico no projeto.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:31:31+00:00",
+  "modelo": "gpt-5.4"
+}

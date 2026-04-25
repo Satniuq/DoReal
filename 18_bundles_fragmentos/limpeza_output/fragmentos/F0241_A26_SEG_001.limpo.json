@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A26_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A26_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "natureza da filosofia e religião"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A26_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A filosofia é um termo, como todos os termos, tão ocupado pelos especialistas da forma do tema, os licenciados em filosofia, que permitiu à não religião pretender-se filosófica, quando é, por definição, a relegação do real ao nada pela validação e verdadeiração do sistema filosófico.",
+    "resumo_alteracoes": [
+      "Removida a oralidade redundante em inglês ('cough cough').",
+      "Corrigida a legibilidade sintática e a pontuação sem alterar a tese local.",
+      "Regularizada a expressão 'nao religiao' para 'não religião' para preservar o sentido pretendido.",
+      "Mantido o léxico central do fragmento, incluindo 'relegação do real ao nada', 'validação' e 'verdadeiração do sistema filosófico'."
+    ],
+    "notas_cautela": [
+      "O fragmento apresenta formulação densa e possivelmente parcial; a limpeza foi conservadora.",
+      "A construção 'permitiu à não religião pretender-se filosófica' pode depender de contexto mais amplo para fixar plenamente o referente.",
+      "Há continuidade local ativa, mas não foram fechadas lacunas com conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A26_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A filosofia é um termo, como todos os termos, tão ocupado pelos especialistas da forma do tema, os licenciados em filosofia, que permitiu à não religião pretender-se filosófica, quando é, por definição, a relegação do real ao nada pela validação e verdadeiração do sistema filosófico.\",\n  \"resumo_alteracoes\": [\n    \"Removida a oralidade redundante em inglês ('cough cough').\",\n    \"Corrigida a legibilidade sintática e a pontuação sem alterar a tese local.\",\n    \"Regularizada a expressão 'nao religiao' para 'não religião' para preservar o sentido pretendido.\",\n    \"Mantido o léxico central do fragmento, incluindo 'relegação do real ao nada', 'validação' e 'verdadeiração do sistema filosófico'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento apresenta formulação densa e possivelmente parcial; a limpeza foi conservadora.\",\n    \"A construção 'permitiu à não religião pretender-se filosófica' pode depender de contexto mais amplo para fixar plenamente o referente.\",\n    \"Há continuidade local ativa, mas não foram fechadas lacunas com conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:56:46+00:00",
+  "modelo": "gpt-5.4"
+}

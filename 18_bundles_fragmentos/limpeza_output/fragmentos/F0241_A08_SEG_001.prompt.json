@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A08_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A08_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A08\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"moralidade: apreensão e sistema\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"A moralidade, aquilo que, se sendo esse, bem sendo aquilo que melhor se situa no contínuo da localidade, assim é que é, no contínuo da localidade, em que se pode sequer colocar a questão de bem, somente quando do real advém um ser reflexivo. Só aí, porque o ser está a refletir sobre a realidade que o contém em si mesmo. O ser está a viver na mediação da apreensão e da realidade. Está a viver nessa relação. \\nRelação de quê? Sempre de entre a apreensão e a realidade, a apreensão que inculta do estado interior, whatever, e a realidade. E quanto melhor for a apreensão depois a descrição do que o ser faz na realidade onde vive, melhor se vai posicionar no meio de todas as relações. Não é preciso recorrer a Deus para saber que num sistema relacional há aquilo que preserva e edifica a realidade, o conjunto de atualizações, e aquilo que destrói.\\n\\nMas o homem faz coisas tão más, é tão mauzão. Olha o Hitler. Claro. Hitler e qualquer outro massacre, qualquer outra guerra, que não falta por aí são guerras. Aquela foi com uma dimensão ridícula, mas ao.de extermínio. Mas outros extermínios também existiram, ainda que com dimensões menores. Mas independentemente da catástrofe, dizer como é que é possível... Nós sabemos como é que é possível. O homem faz, o homem tem comportamentos não bons para com outros seres. Até comportamentos ativamente destrutivos, impeditivos de florescer, vai ser mau. Se o sistema onde ele estiver inserido, onde ele viver, o sistema em que ele operar, o sistema em que ele apreender e descrever e agir, for um que justifica as ações que se mantêm independentemente de ser bom ou mau. Como o critério não está no real, o critério está no proprio sistema. Saber e fazer com que o outro, com estatuto ontológico igual a ele, que o contínuo das suas atualizações vai terminar, vai deixar de existir, vai deixar de estar enquadrado no potencial do ser, é justificado pela coerência interna de qualquer sistema, o homem  crê ser tão mau como o que for o por si apreendido como o homem que se é e num sistema de homens assim, ser assim nao ha de estar mal. Quanto menos gravosos forem, mais fácil de manter a coerência do sistema pela estabilizaçao dos utros homens no sistema. Quanto mais, mais intrincada vai ser, porque sempre afastado do real, no sistema da quebra com o real custa a posterior apreensao do real e nao da apreensao é custosa.\\n\\nAh, mas o teu critério é tão, é tão como vale tanto como outro qualquer outro critério. Vale, vale tanto? Como é que medes esse tanto? Ah, há de ser pela... Pois, amigo, há de ser pela adequação à realidade, adequação ao real. Mesmo no teu cenário fofo de possibilidade de algo ser somente porque há mais uma opção que, em abstrato, se poderia incluir nesse campo de possibilidades, é somente aprender mal o campo de possibilidades. Não é mais do que outra coisa. É aprender mal e descrever mal o ser, o poder e o dever ser.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0241_A08_SEG_002\\n- tema: sistema, normativos e liberdade\\n- preview: Estava a pensar no homem moderno, no registo de normativos, de regras que perduram para além da morte do ser e do nascimento do novo ser, que nada se sabe sobre aquilo que é. Estava a pensar em como esse sistema criado vai se multiplicando e totalizando, abrangendo todas as instâncias do real e da relação do eu com o real, e em como o espaço que é dado para o homem livre exercer a sua liberdade já está cada vez mais…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A08_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A08",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "moralidade: apreensão e sistema",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "A moralidade, aquilo que, se sendo esse, bem sendo aquilo que melhor se situa no contínuo da localidade, assim é que é, no contínuo da localidade, em que se pode sequer colocar a questão de bem, somente quando do real advém um ser reflexivo. Só aí, porque o ser está a refletir sobre a realidade que o contém em si mesmo. O ser está a viver na mediação da apreensão e da realidade. Está a viver nessa relação. \nRelação de quê? Sempre de entre a apreensão e a realidade, a apreensão que inculta do estado interior, whatever, e a realidade. E quanto melhor for a apreensão depois a descrição do que o ser faz na realidade onde vive, melhor se vai posicionar no meio de todas as relações. Não é preciso recorrer a Deus para saber que num sistema relacional há aquilo que preserva e edifica a realidade, o conjunto de atualizações, e aquilo que destrói.\n\nMas o homem faz coisas tão más, é tão mauzão. Olha o Hitler. Claro. Hitler e qualquer outro massacre, qualquer outra guerra, que não falta por aí são guerras. Aquela foi com uma dimensão ridícula, mas ao.de extermínio. Mas outros extermínios também existiram, ainda que com dimensões menores. Mas independentemente da catástrofe, dizer como é que é possível... Nós sabemos como é que é possível. O homem faz, o homem tem comportamentos não bons para com outros seres. Até comportamentos ativamente destrutivos, impeditivos de florescer, vai ser mau. Se o sistema onde ele estiver inserido, onde ele viver, o sistema em que ele operar, o sistema em que ele apreender e descrever e agir, for um que justifica as ações que se mantêm independentemente de ser bom ou mau. Como o critério não está no real, o critério está no proprio sistema. Saber e fazer com que o outro, com estatuto ontológico igual a ele, que o contínuo das suas atualizações vai terminar, vai deixar de existir, vai deixar de estar enquadrado no potencial do ser, é justificado pela coerência interna de qualquer sistema, o homem  crê ser tão mau como o que for o por si apreendido como o homem que se é e num sistema de homens assim, ser assim nao ha de estar mal. Quanto menos gravosos forem, mais fácil de manter a coerência do sistema pela estabilizaçao dos utros homens no sistema. Quanto mais, mais intrincada vai ser, porque sempre afastado do real, no sistema da quebra com o real custa a posterior apreensao do real e nao da apreensao é custosa.\n\nAh, mas o teu critério é tão, é tão como vale tanto como outro qualquer outro critério. Vale, vale tanto? Como é que medes esse tanto? Ah, há de ser pela... Pois, amigo, há de ser pela adequação à realidade, adequação ao real. Mesmo no teu cenário fofo de possibilidade de algo ser somente porque há mais uma opção que, em abstrato, se poderia incluir nesse campo de possibilidades, é somente aprender mal o campo de possibilidades. Não é mais do que outra coisa. É aprender mal e descrever mal o ser, o poder e o dever ser.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0241_A08_SEG_002\n- tema: sistema, normativos e liberdade\n- preview: Estava a pensar no homem moderno, no registo de normativos, de regras que perduram para além da morte do ser e do nascimento do novo ser, que nada se sabe sobre aquilo que é. Estava a pensar em como esse sistema criado vai se multiplicando e totalizando, abrangendo todas as instâncias do real e da relação do eu com o real, e em como o espaço que é dado para o homem livre exercer a sua liberdade já está cada vez mais…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

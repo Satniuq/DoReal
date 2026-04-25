@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A06_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A06_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "aplicabilidade universal da adequação ao"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A06_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E dá para tudo na vida, não é? Dá para qualquer coisa. A adequação ao real, a boa descrição do real, a verdade e o bem são aplicáveis a todos os domínios, em última análise. Depois, o que fazemos com eles é outro assunto. Mas, na posição de cada um relativamente à família, à casa onde está, ao país onde está inserido, ao trabalho que tem, às atividades que desenvolve, ao tempo que passa, aos pensamentos que tem, aos segredos, às exposições, em todos estes exemplos — que são uma tentativa de apenas mostrar que há isso em toda a atividade do ser consciente reflexivo — há adequação ao real, até relativamente a ele próprio.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Removida repetição imediata redundante em \"atividades que desenvolve, que faz\".",
+      "Preservada a enumeração original dos domínios de aplicação, com ligeira regularização sintática.",
+      "Mantida a oralidade relevante do início, apenas com limpeza estrutural mínima.",
+      "Substituído \"há tudo\" por \"há isso\" para evitar opacidade referencial excessiva sem introduzir conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém traços de oralidade e acumulação enumerativa que parecem fazer parte da voz autoral.",
+      "A expressão originalmente truncada ou ambígua em \"há tudo\" exigiu ajuste mínimo de legibilidade; convém revisão humana se esse termo tiver valor técnico no conjunto.",
+      "Há continuidade local ativa com o fragmento anterior; a limpeza evitou completar ligações argumentativas não explicitadas aqui."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A06_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E dá para tudo na vida, não é? Dá para qualquer coisa. A adequação ao real, a boa descrição do real, a verdade e o bem são aplicáveis a todos os domínios, em última análise. Depois, o que fazemos com eles é outro assunto. Mas, na posição de cada um relativamente à família, à casa onde está, ao país onde está inserido, ao trabalho que tem, às atividades que desenvolve, ao tempo que passa, aos pensamentos que tem, aos segredos, às exposições, em todos estes exemplos — que são uma tentativa de apenas mostrar que há isso em toda a atividade do ser consciente reflexivo — há adequação ao real, até relativamente a ele próprio.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Removida repetição imediata redundante em \\\"atividades que desenvolve, que faz\\\".\",\n    \"Preservada a enumeração original dos domínios de aplicação, com ligeira regularização sintática.\",\n    \"Mantida a oralidade relevante do início, apenas com limpeza estrutural mínima.\",\n    \"Substituído \\\"há tudo\\\" por \\\"há isso\\\" para evitar opacidade referencial excessiva sem introduzir conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém traços de oralidade e acumulação enumerativa que parecem fazer parte da voz autoral.\",\n    \"A expressão originalmente truncada ou ambígua em \\\"há tudo\\\" exigiu ajuste mínimo de legibilidade; convém revisão humana se esse termo tiver valor técnico no conjunto.\",\n    \"Há continuidade local ativa com o fragmento anterior; a limpeza evitou completar ligações argumentativas não explicitadas aqui.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:48:02+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,42 @@
+{
+  "fragment_id": "F0018_A02_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0018_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "voz_autor_extraida",
+      "houve_corte_interno",
+      "continuidade_local_ativa",
+      "material_dialogico_com_ia"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "realidade ser consciência existência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0018_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "3 e 5 não percebi; isso não é meu. O universo não tem consciência, porque isso seria aplicar materialismo ao não material. Tem, sim, uma componente não material, manifestada em diferentes modos de sofisticação, limitada, como tudo o resto, pela realidade. Ontologicamente, isto é: ontologia é apenas o ser que existe, o que é real. Porque o ser é o que é real. Há muitas palavras, muitas coisas, mas a realidade. E isso é tudo, porque a realidade compreende tudo. Os episódios poderiam ser sobre a aplicação de comportamento conduzido à verdade, porque, no fundo, é isso que é a vida bem vivida. A vida bem vivida é uma pergunta muito humana. Só nós conseguimos responder e, por isso, a história seria do Homem. E o Homem, e o papel do Pai — como diria, não sei qual era o teósofo que me ensinou o nome do Pai; não sei, acho que não era o Jung, era outro qualquer — como uma das simbologias mais importantes. O Nome do Pai. Porque a Mãe carrega o peso e a necessidade pessoal durante os primeiros anos da vida. Mas depois cabe ao Pai guiar na melhor filosofia possível. E já não é uma questão de critério; é uma questão de necessidade física — não só física; aqui “física” é para stressar. A formulação “que tipo de pensamento tem aquela pessoa?” não é meramente psicológica: é uma pergunta sobre como essa consciência existe dentro da estrutura do real. Ou seja, pensar é uma forma de ser.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e repetições redundantes, preservando o léxico central.",
+      "Ajustada a pontuação para melhorar legibilidade e continuidade sintática.",
+      "Mantida a separação da voz autoral e a referência inicial a conteúdos que o autor rejeita como não seus.",
+      "Preservada a progressão local do argumento: realidade/ontologia, vida bem vivida, história do Homem, papel do Pai, pensamento como forma de ser.",
+      "Feita reconstrução mínima de trechos orais sem fechar lacunas com conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento conserva marcas de origem dialógica e começa com referência a pontos anteriores ('3 e 5') sem contexto interno suficiente.",
+      "Há um corte ou transição brusca entre a discussão ontológica e o motivo narrativo sobre o Homem e o Pai.",
+      "A menção ao teósofo/Jung permanece imprecisa no original e foi preservada sem tentativa de identificação.",
+      "O texto continua parcialmente elíptico em alguns encadeamentos argumentativos."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0018_A02_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"3 e 5 não percebi; isso não é meu. O universo não tem consciência, porque isso seria aplicar materialismo ao não material. Tem, sim, uma componente não material, manifestada em diferentes modos de sofisticação, limitada, como tudo o resto, pela realidade. Ontologicamente, isto é: ontologia é apenas o ser que existe, o que é real. Porque o ser é o que é real. Há muitas palavras, muitas coisas, mas a realidade. E isso é tudo, porque a realidade compreende tudo. Os episódios poderiam ser sobre a aplicação de comportamento conduzido à verdade, porque, no fundo, é isso que é a vida bem vivida. A vida bem vivida é uma pergunta muito humana. Só nós conseguimos responder e, por isso, a história seria do Homem. E o Homem, e o papel do Pai — como diria, não sei qual era o teósofo que me ensinou o nome do Pai; não sei, acho que não era o Jung, era outro qualquer — como uma das simbologias mais importantes. O Nome do Pai. Porque a Mãe carrega o peso e a necessidade pessoal durante os primeiros anos da vida. Mas depois cabe ao Pai guiar na melhor filosofia possível. E já não é uma questão de critério; é uma questão de necessidade física — não só física; aqui “física” é para stressar. A formulação “que tipo de pensamento tem aquela pessoa?” não é meramente psicológica: é uma pergunta sobre como essa consciência existe dentro da estrutura do real. Ou seja, pensar é uma forma de ser.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e repetições redundantes, preservando o léxico central.\",\n    \"Ajustada a pontuação para melhorar legibilidade e continuidade sintática.\",\n    \"Mantida a separação da voz autoral e a referência inicial a conteúdos que o autor rejeita como não seus.\",\n    \"Preservada a progressão local do argumento: realidade/ontologia, vida bem vivida, história do Homem, papel do Pai, pensamento como forma de ser.\",\n    \"Feita reconstrução mínima de trechos orais sem fechar lacunas com conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento conserva marcas de origem dialógica e começa com referência a pontos anteriores ('3 e 5') sem contexto interno suficiente.\",\n    \"Há um corte ou transição brusca entre a discussão ontológica e o motivo narrativo sobre o Homem e o Pai.\",\n    \"A menção ao teósofo/Jung permanece imprecisa no original e foi preservada sem tentativa de identificação.\",\n    \"O texto continua parcialmente elíptico em alguns encadeamentos argumentativos.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:02:43+00:00",
+  "modelo": "gpt-5.4"
+}

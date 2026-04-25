@@ -1,0 +1,67 @@
+{
+  "fragment_id": "F0241_A22_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A22_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A22\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"ser, dever-ser, relação\",\n  \"motivos_estado\": [\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"houve_corte_interno\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"a tentativa de saber depois de tudo, saber depois o que é viver uma vida bem vivida, não se sabendo o que é isto que é, é operar sempre sobre aquilo que se deveria ser. Quando o que deveria ser tem que ser apoiado no ser, quer dizer, qual é a quebra da relação que vai haver de tu não seres o que eras há um segundo atrás? Se pensares algo relativamente oposto, vais quebrar uma relação existente de outro ser ontologicamente com o mesmo estatuto que tu, de ser reflexivo, vais matá-lo?\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0241_A22_SEG_001\\n- tema: ser, real e aprendizagem\\n- preview: O ser reflexivo, o ser reflexivo no seu campo. O ser reflexivo na sua reflexividade. A relação que é ser, pois ser é-se no real, com si próprio, pois que está no real. O início do livro como início da narrativa, o início daquilo que se chama real é a própria descrição do real, portanto, eu vou tentar, porque eu quero que os meus filhos tenham algo que perdura a minha vida, porque a minha vida está morta, aquilo que…\\n\\nFragmento seguinte:\\n- id: F0241_A22_SEG_003\\n- tema: crítica ao discurso filosófico\\n- preview: Quer dizer, o nível do pensamento está sempre na boa descrição, portanto a boa descrição daquilo que é, tem de ser a descrição de tudo o que não é, e tudo o que não é é o discurso filosófico. É os pequenos acertos e as grandes sistematizações, as grandes centralizações no eu e não na relação do eu no real.\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A22_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A22",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "ser, dever-ser, relação",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "houve_corte_interno"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "a tentativa de saber depois de tudo, saber depois o que é viver uma vida bem vivida, não se sabendo o que é isto que é, é operar sempre sobre aquilo que se deveria ser. Quando o que deveria ser tem que ser apoiado no ser, quer dizer, qual é a quebra da relação que vai haver de tu não seres o que eras há um segundo atrás? Se pensares algo relativamente oposto, vais quebrar uma relação existente de outro ser ontologicamente com o mesmo estatuto que tu, de ser reflexivo, vais matá-lo?",
+    "contexto_local": "Fragmento anterior:\n- id: F0241_A22_SEG_001\n- tema: ser, real e aprendizagem\n- preview: O ser reflexivo, o ser reflexivo no seu campo. O ser reflexivo na sua reflexividade. A relação que é ser, pois ser é-se no real, com si próprio, pois que está no real. O início do livro como início da narrativa, o início daquilo que se chama real é a própria descrição do real, portanto, eu vou tentar, porque eu quero que os meus filhos tenham algo que perdura a minha vida, porque a minha vida está morta, aquilo que…\n\nFragmento seguinte:\n- id: F0241_A22_SEG_003\n- tema: crítica ao discurso filosófico\n- preview: Quer dizer, o nível do pensamento está sempre na boa descrição, portanto a boa descrição daquilo que é, tem de ser a descrição de tudo o que não é, e tudo o que não é é o discurso filosófico. É os pequenos acertos e as grandes sistematizações, as grandes centralizações no eu e não na relação do eu no real.",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

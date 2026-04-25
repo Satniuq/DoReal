@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0114_A02_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0114_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "conceito de dever-ser"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0114_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O dever-ser impõe dever, traço, ser. O dever-ser é o ser que se deveria ser e que não se é. É o movimento que se quer construir e que ainda não existe. É a decisão de fazer ou não fazer algo. É o ponto de vista do eu sobre aquilo que é.\n\nPara além da valoração imposta pela localidade, há ainda uma camada reflexiva sobre o real, onde se conjugam inúmeros dever-seres.\n\nÉ isto o dever-ser: a apreensão, pelo homem, do real.",
+    "resumo_alteracoes": [
+      "Mantida a sequência definicional original e a tese local.",
+      "Apenas ajustada a pontuação para melhorar a legibilidade.",
+      "Preservado o léxico central do fragmento, incluindo 'dever-ser', 'localidade' e 'apreensão do real'."
+    ],
+    "notas_cautela": [
+      "O fragmento pode condensar definições parcialmente heterogéneas de 'dever-ser'; não foram harmonizadas para evitar introdução de conteúdo novo.",
+      "A formulação final pode depender de contexto local ativo e permanecer parcialmente abrupta após a limpeza."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0114_A02_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O dever-ser impõe dever, traço, ser. O dever-ser é o ser que se deveria ser e que não se é. É o movimento que se quer construir e que ainda não existe. É a decisão de fazer ou não fazer algo. É o ponto de vista do eu sobre aquilo que é.\\n\\nPara além da valoração imposta pela localidade, há ainda uma camada reflexiva sobre o real, onde se conjugam inúmeros dever-seres.\\n\\nÉ isto o dever-ser: a apreensão, pelo homem, do real.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a sequência definicional original e a tese local.\",\n    \"Apenas ajustada a pontuação para melhorar a legibilidade.\",\n    \"Preservado o léxico central do fragmento, incluindo 'dever-ser', 'localidade' e 'apreensão do real'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode condensar definições parcialmente heterogéneas de 'dever-ser'; não foram harmonizadas para evitar introdução de conteúdo novo.\",\n    \"A formulação final pode depender de contexto local ativo e permanecer parcialmente abrupta após a limpeza.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:30:10+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0198_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0198_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "revisao_manual_prioritaria",
+      "integridade_semantica_baixa",
+      "confianca_segmentacao_baixa"
+    ],
+    "tipo_unidade": "fragmento_intuitivo",
+    "tema_dominante_provisorio": "relação ser e real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0198_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A passagem do ser, como meta, aquilo que é profundo, há de ser muito breve, para não ficar a falar sobre o nada, nem sobre o necessário, para dizer que a filosofia chama a isto contingência, se for bem definida daquilo que de facto é, que é atualizações do real. Independentemente disso, era isso que eu estava a dizer. Depois, no fim de tudo, do fim do ser e viver, e como o ser consciente é um ser, por definição, é real, faz parte do real. E por isso vamos falar da relação não só do ser, mas também da relação do ser com o real, e depois da relação do ser com o real e consigo. E de eu, não só é com o real do real; não é bem isto, isto também é como se houvesse aqui saltos malandros.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e marcas de oralidade redundantes.",
+      "Ajustada a pontuação para melhorar a legibilidade local.",
+      "Mantido o léxico central do fragmento, incluindo 'ser', 'real' e 'contingência'.",
+      "Preservadas formulações truncadas quando a reconstrução segura não era possível."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém baixa integridade semântica em várias passagens.",
+      "Há cortes e encadeamentos frágeis, sobretudo na transição final sobre a relação do ser com o real e consigo.",
+      "A expressão 'E de eu, não só é com o real do real' permaneceu apenas minimamente regularizada, por insuficiência de contexto.",
+      "O texto continua parcial e deve ser revisto manualmente."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0198_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A passagem do ser, como meta, aquilo que é profundo, há de ser muito breve, para não ficar a falar sobre o nada, nem sobre o necessário, para dizer que a filosofia chama a isto contingência, se for bem definida daquilo que de facto é, que é atualizações do real. Independentemente disso, era isso que eu estava a dizer. Depois, no fim de tudo, do fim do ser e viver, e como o ser consciente é um ser, por definição, é real, faz parte do real. E por isso vamos falar da relação não só do ser, mas também da relação do ser com o real, e depois da relação do ser com o real e consigo. E de eu, não só é com o real do real; não é bem isto, isto também é como se houvesse aqui saltos malandros.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e marcas de oralidade redundantes.\",\n    \"Ajustada a pontuação para melhorar a legibilidade local.\",\n    \"Mantido o léxico central do fragmento, incluindo 'ser', 'real' e 'contingência'.\",\n    \"Preservadas formulações truncadas quando a reconstrução segura não era possível.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém baixa integridade semântica em várias passagens.\",\n    \"Há cortes e encadeamentos frágeis, sobretudo na transição final sobre a relação do ser com o real e consigo.\",\n    \"A expressão 'E de eu, não só é com o real do real' permaneceu apenas minimamente regularizada, por insuficiência de contexto.\",\n    \"O texto continua parcial e deve ser revisto manualmente.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:41:09+00:00",
+  "modelo": "gpt-5.4"
+}

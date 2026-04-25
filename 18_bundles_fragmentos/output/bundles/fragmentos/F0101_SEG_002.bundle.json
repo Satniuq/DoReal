@@ -1,0 +1,154 @@
+{
+  "identificacao": {
+    "fragment_id": "F0101_SEG_002",
+    "origem_id": "F0101",
+    "header_original": "## F0101",
+    "ordem_no_ficheiro": 119,
+    "base_container_id": "F0101",
+    "tipo_material_fonte": "fragmento_editorial"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0101",
+      "data": null,
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0101",
+      "ordem_no_ficheiro": 119,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0101",
+          "paragrafos_origem": [
+            "F0101_P05",
+            "F0101_P06"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "fragmento_editorial",
+    "texto_fragmento": "A ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\n\nA ciência é representada no discurso, muitas vezes de forma incorreta, e como não descreve dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser porque o ser é conhecido intuitivamente pelos símbolos do real.",
+    "texto_normalizado": "A ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\n\nA ciência é representada no discurso, muitas vezes de forma incorreta, e como não descreve dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser porque o ser é conhecido intuitivamente pelos símbolos do real.",
+    "texto_fonte_reconstituido": "A ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\n\nA ciência é representada no discurso, muitas vezes de forma incorreta, e como não descreve dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser porque o ser é conhecido intuitivamente pelos símbolos do real.",
+    "texto_principal": "A ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\n\nA ciência é representada no discurso, muitas vezes de forma incorreta, e como não descreve dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser porque o ser é conhecido intuitivamente pelos símbolos do real.",
+    "segmentacao": {
+      "tipo_unidade": "sequencia_argumentativa",
+      "criterio_de_unidade": "continuidade_argumentativa",
+      "houve_fusao_de_paragrafos": true,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "desenvolvimento",
+    "tema_dominante_provisorio": "ciência discurso ser dever-ser",
+    "conceitos_relevantes_provisorios": [
+      "ciência",
+      "discurso científico",
+      "discurso comum"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0101_SEG_001",
+      "fragmento_seguinte": "F0101_SEG_003",
+      "continua_anterior": true,
+      "prepara_seguinte": true
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 01:55:55",
+      "hash_texto_normalizado": "b9de8858850258173c6c90869a7111b35d698d78b08df7eb56e78ffbd4f448e8"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0101",
+    "container_origem": {
+      "base_container_id": "F0101",
+      "header": "## F0101",
+      "data": null,
+      "texto_container": "Pensa-se nos neandertais e nos sapiens, no modo como acompanhavam os animais e a vegetação pela terra que o permitia. Os sapiens desenvolvem-se num ponto relativamente fixo, como o ser no eu e o ser no real, o ser na cabeça e o ser no físico.\n\nAs atualizações do campo externo não são suficientes para a consciência: são suporte, mas a relação pós-mediação é eu-centrada. Mesmo que as potencialidades locais sejam fisicamente atualizáveis, falta o processo interno que advém do uso do eu para a atualização das potencialidades próximas.\n\nO sapiens, ao mover-se pelo mundo, não o faz como o neandertal, centrado na representação imediata da vida que se apresenta, como um animal ainda que sofisticado; fá-lo centrado no eu, no contínuo de interioridade.\n\nPensar no tempo é ter o eu presente na relação. Não é a consciência que deriva do passado e do futuro; é o eu que permite que essa derivação exista, enquanto contínuo apreensível: eu (ou o outro, que é igualmente eu) morto por qualquer animal se não fizer qualquer coisa, ou eu num qualquer estado de coisas se não fizer qualquer coisa.\n\nA ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\n\nA ciência é representada no discurso, muitas vezes de forma incorreta, e como não descreve dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser porque o ser é conhecido intuitivamente pelos símbolos do real.\n\nO filósofo é o ser consciente reflexivo que conhece bem a realidade. O ato de ser é fazer, no sentido da continuidade do eu, do eu que segue relações e do eu que reflete sobre as suas próprias relações. O que tiver de ser feito para apreender bem o real inclui todas as necessidades ontológicas: não dizer o que o real não é, não confundir círculos de descrição, não esquecer dependências ontológicas em proposições valorativas.\n\nDizer a verdade é não errar no dever-ser, porque, se o dever-ser é verdadeiro, ele coincide com o pode-ser e com o ser.",
+      "texto_container_preview": "Pensa-se nos neandertais e nos sapiens, no modo como acompanhavam os animais e a vegetação pela terra que o permitia. Os sapiens desenvolvem-se num ponto relativamente fixo, como o ser no eu e o ser no real, o ser na cabeça e o ser no físico. As atualizações do campo externo não são suficientes para a consciência: são suporte, mas a relação pós-mediação é eu-centrada. Mesmo que as potencialidades locais sejam fisica…",
+      "hash_texto_container": "e19e61b04df4168dd531d25a20126c14f7ef61345fe6da306b941273f07af0c0"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": {
+      "fragment_id": "F0101_SEG_001",
+      "encontrado": true,
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "desenvolvimento",
+      "tema_dominante_provisorio": "sapiens: eu e mundo",
+      "texto_preview": "Pensa-se nos neandertais e nos sapiens, no modo como acompanhavam os animais e a vegetação pela terra que o permitia. Os sapiens desenvolvem-se num ponto relativamente fixo, como o ser no eu e o ser no real, o ser na cabeça e o ser no físico. As atualizações do campo externo não são suficientes para a consciência: são suporte, mas a relação pós-mediação é eu-centrada. Mesmo que as potencialidades locais sejam fisica…"
+    },
+    "fragmento_seguinte": {
+      "fragment_id": "F0101_SEG_003",
+      "encontrado": true,
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "desenvolvimento",
+      "tema_dominante_provisorio": "ser, verdade, ontologia, conhecimento",
+      "texto_preview": "O filósofo é o ser consciente reflexivo que conhece bem a realidade. O ato de ser é fazer, no sentido da continuidade do eu, do eu que segue relações e do eu que reflete sobre as suas próprias relações. O que tiver de ser feito para apreender bem o real inclui todas as necessidades ontológicas: não dizer o que o real não é, não confundir círculos de descrição, não esquecer dependências ontológicas em proposições val…"
+    }
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "A ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\n\nA ciência é representada no discurso, muitas vezes de forma incorreta, e como não descreve dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser porque o ser é conhecido intuitivamente pelos símbolos do real.",
+    "fonte_texto_principal": "texto_fonte_reconstituido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": null,
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "b9de8858850258173c6c90869a7111b35d698d78b08df7eb56e78ffbd4f448e8",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "estrutural",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": true,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "fragmento_com_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "houve_fusao_de_paragrafos"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:38+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "b9de8858850258173c6c90869a7111b35d698d78b08df7eb56e78ffbd4f448e8",
+      "texto_normalizado": "b9de8858850258173c6c90869a7111b35d698d78b08df7eb56e78ffbd4f448e8",
+      "texto_fonte_reconstituido": "b9de8858850258173c6c90869a7111b35d698d78b08df7eb56e78ffbd4f448e8",
+      "texto_principal": "b9de8858850258173c6c90869a7111b35d698d78b08df7eb56e78ffbd4f448e8"
+    }
+  }
+}

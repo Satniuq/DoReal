@@ -1,0 +1,57 @@
+{
+  "fragment_id": "F0190_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0190_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"origem_id\": \"F0190\",\n  \"header_original\": \"## F0190\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"conceito de socialismo inadequado\",\n  \"motivos_estado\": [],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [],\n    \"estado_bundle_destino\": \"limpavel\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui podes reordenar localmente frases curtas e corrigir sintaxe para obter uma formulação limpa.\",\n    \"Mantém a agressividade crítica quando ela fizer parte do conteúdo, mas remove apenas ruído de oralidade.\"\n  ],\n  \"texto_a_limpar\": \"Ah, não, não sabes o que é que é socialismo. Não, isso não é socialismo. Principalmente em Portugal existe esta conversa, confunde socialismo com social, com orientado para o social, com integrar o outro num sistema de crenças, com essa conversa toda do fundo que radica apenas para uma atitude mais ou menos genérica de, pá, reconhecer que o outro existe. Depois vai ao nível mais absurdo e mais básico, depois permite tudo, como o outro existe qualquer coisa, irrelevante. Como o outro é, como nós somos, como aquilo que é, é, pronto. E independentemente destas coisas todas, já sabem como é que as coisas funcionam. Mas não, então socialismo é o quê? Quais é que receitas de tudo aquilo que caracteriza o socialismo? Porque tens uma representação com simbólica diferente daquilo que é o socialismo. Socialismo, falarem em si, dito, não, porque não é comunismo. Ah, não, não, não é autoritarismo. Não, não. É somente o quê? É somente o quê? É somente, eu digo-te o que é somente, é só na relação mais básica que está aqui, de maneira abrangente, é na proposição de uma qualquer coisa que não serve perante o real. É isto, é um dever ser que, porque canalizado pela própria apreensão da realidade, quando o real faz-se mostrar, faz-se evidenciar, não muda o modo de ser, o modo de pensar, o modo de dizer nada do proponente. É uma crença, é uma manifestação de um modo de ser, de um modo de agir, que cobre todas as decisões, todas as ações, todo o contínuo do ser no ser, que é a resposta mais básica, mais intuitiva, que cola mais rápido, que se manifesta no nosso modo relacional, nós não nos relacionamos, eu não me relaciono com pessoas da China, quer dizer, é local. E é aquilo que vem à primeira, à cabeça, assim que se pensa em qualquer tema, qualquer tema do real, há necessariamente logo um enquadramento na perspectiva do eu para o real.\",\n  \"contexto_local\": null,\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0190_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "origem_id": "F0190",
+    "header_original": "## F0190",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "conceito de socialismo inadequado",
+    "motivos_estado": [],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [],
+      "estado_bundle_destino": "limpavel"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui podes reordenar localmente frases curtas e corrigir sintaxe para obter uma formulação limpa.",
+      "Mantém a agressividade crítica quando ela fizer parte do conteúdo, mas remove apenas ruído de oralidade."
+    ],
+    "texto_a_limpar": "Ah, não, não sabes o que é que é socialismo. Não, isso não é socialismo. Principalmente em Portugal existe esta conversa, confunde socialismo com social, com orientado para o social, com integrar o outro num sistema de crenças, com essa conversa toda do fundo que radica apenas para uma atitude mais ou menos genérica de, pá, reconhecer que o outro existe. Depois vai ao nível mais absurdo e mais básico, depois permite tudo, como o outro existe qualquer coisa, irrelevante. Como o outro é, como nós somos, como aquilo que é, é, pronto. E independentemente destas coisas todas, já sabem como é que as coisas funcionam. Mas não, então socialismo é o quê? Quais é que receitas de tudo aquilo que caracteriza o socialismo? Porque tens uma representação com simbólica diferente daquilo que é o socialismo. Socialismo, falarem em si, dito, não, porque não é comunismo. Ah, não, não, não é autoritarismo. Não, não. É somente o quê? É somente o quê? É somente, eu digo-te o que é somente, é só na relação mais básica que está aqui, de maneira abrangente, é na proposição de uma qualquer coisa que não serve perante o real. É isto, é um dever ser que, porque canalizado pela própria apreensão da realidade, quando o real faz-se mostrar, faz-se evidenciar, não muda o modo de ser, o modo de pensar, o modo de dizer nada do proponente. É uma crença, é uma manifestação de um modo de ser, de um modo de agir, que cobre todas as decisões, todas as ações, todo o contínuo do ser no ser, que é a resposta mais básica, mais intuitiva, que cola mais rápido, que se manifesta no nosso modo relacional, nós não nos relacionamos, eu não me relaciono com pessoas da China, quer dizer, é local. E é aquilo que vem à primeira, à cabeça, assim que se pensa em qualquer tema, qualquer tema do real, há necessariamente logo um enquadramento na perspectiva do eu para o real.",
+    "contexto_local": null,
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

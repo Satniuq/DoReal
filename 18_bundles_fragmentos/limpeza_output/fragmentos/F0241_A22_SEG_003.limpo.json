@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A22_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A22_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "objecao_local",
+    "tema_dominante_provisorio": "crítica ao discurso filosófico"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A22_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O nível do pensamento está sempre na boa descrição. Portanto, a boa descrição daquilo que é tem de ser a descrição de tudo o que não é; e tudo o que não é é o discurso filosófico: os pequenos acertos e as grandes sistematizações, as grandes centralizações no eu, e não na relação do eu no real.",
+    "resumo_alteracoes": [
+      "Removeu-se a oralidade inicial redundante ('Quer dizer').",
+      "Reorganizou-se a pontuação para tornar a sequência argumentativa mais legível.",
+      "Preservou-se o léxico central do fragmento, incluindo 'boa descrição', 'aquilo que é', 'discurso filosófico' e 'relação do eu no real'.",
+      "Manteve-se a oposição entre descrição do que é e discurso filosófico sem acrescentar conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender do segmento anterior para a plena inteligibilidade da oposição entre 'o que é' e 'o que não é'.",
+      "A formulação 'tudo o que não é é o discurso filosófico' foi preservada apesar da sua dureza, por parecer tese local do autor.",
+      "Há continuidade local ativa; a limpeza foi conservadora e não tentou fechar possíveis lacunas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A22_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O nível do pensamento está sempre na boa descrição. Portanto, a boa descrição daquilo que é tem de ser a descrição de tudo o que não é; e tudo o que não é é o discurso filosófico: os pequenos acertos e as grandes sistematizações, as grandes centralizações no eu, e não na relação do eu no real.\",\n  \"resumo_alteracoes\": [\n    \"Removeu-se a oralidade inicial redundante ('Quer dizer').\",\n    \"Reorganizou-se a pontuação para tornar a sequência argumentativa mais legível.\",\n    \"Preservou-se o léxico central do fragmento, incluindo 'boa descrição', 'aquilo que é', 'discurso filosófico' e 'relação do eu no real'.\",\n    \"Manteve-se a oposição entre descrição do que é e discurso filosófico sem acrescentar conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender do segmento anterior para a plena inteligibilidade da oposição entre 'o que é' e 'o que não é'.\",\n    \"A formulação 'tudo o que não é é o discurso filosófico' foi preservada apesar da sua dureza, por parecer tese local do autor.\",\n    \"Há continuidade local ativa; a limpeza foi conservadora e não tentou fechar possíveis lacunas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:55:11+00:00",
+  "modelo": "gpt-5.4"
+}

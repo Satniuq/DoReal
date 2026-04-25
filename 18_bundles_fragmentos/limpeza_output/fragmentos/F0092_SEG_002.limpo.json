@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0092_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0092_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "método filosófico e realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0092_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Daí a pergunta: qual é o melhor modo de adequação ao real? Onde está a verdade? O melhor modo verdadeiro há de estar sempre relacionado com isto. Quanto melhor for a descrição, maior a aproximação ao real; quanto maior o conhecimento do real, maior a possibilidade de interação, relação e conexão com o que existe e com o que eu sou.\n\nIsto pode ser resumido assim: tu podes fazer tudo, és livre, mas há coisas que, se fizeres, serão mais reais. Sem apelar a utilitarismos, ontologismos ou outros ismos. Todas essas filosofias têm um artifício cifrado.\n\nO que é necessário é uma limpeza: limpeza da falsa filosofia. Clarificação dos termos pelo que eles são, no seu ponto mais simples, simples mas abrangente, nas conexões necessárias de cada afirmação, de cada coisa que se possa dizer.\n\nO que se exige é o escrutínio não relativista da qualidade filosófica. Dizer: isto é o que é; isto é o porquê do que é; isto é o que os melhores filósofos dizem sobre isto que está a ser descrito. Onde é que erram? Onde é que convergem nos mesmos erros? Simplesmente por não seguirem o caminho do que já se sabe sobre o próprio real.",
+    "resumo_alteracoes": [
+      "Ajuste pontual de formulação para maior fluidez e correção mínima: 'qual o' para 'qual é o'.",
+      "Preservação da estrutura em quatro parágrafos, evitando fundir movimentos argumentativos distintos.",
+      "Reorganização leve da frase sobre clarificação dos termos, para reduzir quebra sintática sem alterar a tese.",
+      "Manutenção do léxico central do fragmento, incluindo 'real', 'verdade', 'limpeza', 'falsa filosofia' e 'escrutínio não relativista'."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém um tom assertivo e parcialmente programático; isso foi preservado por fazer parte da voz autoral.",
+      "A expressão 'serão mais reais' pode depender do contexto anterior para plena inteligibilidade, mas não foi expandida para evitar introdução de conteúdo novo.",
+      "Há traços de condensação argumentativa no fecho; não foram preenchidas lacunas interpretativas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0092_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Daí a pergunta: qual é o melhor modo de adequação ao real? Onde está a verdade? O melhor modo verdadeiro há de estar sempre relacionado com isto. Quanto melhor for a descrição, maior a aproximação ao real; quanto maior o conhecimento do real, maior a possibilidade de interação, relação e conexão com o que existe e com o que eu sou.\\n\\nIsto pode ser resumido assim: tu podes fazer tudo, és livre, mas há coisas que, se fizeres, serão mais reais. Sem apelar a utilitarismos, ontologismos ou outros ismos. Todas essas filosofias têm um artifício cifrado.\\n\\nO que é necessário é uma limpeza: limpeza da falsa filosofia. Clarificação dos termos pelo que eles são, no seu ponto mais simples, simples mas abrangente, nas conexões necessárias de cada afirmação, de cada coisa que se possa dizer.\\n\\nO que se exige é o escrutínio não relativista da qualidade filosófica. Dizer: isto é o que é; isto é o porquê do que é; isto é o que os melhores filósofos dizem sobre isto que está a ser descrito. Onde é que erram? Onde é que convergem nos mesmos erros? Simplesmente por não seguirem o caminho do que já se sabe sobre o próprio real.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste pontual de formulação para maior fluidez e correção mínima: 'qual o' para 'qual é o'.\",\n    \"Preservação da estrutura em quatro parágrafos, evitando fundir movimentos argumentativos distintos.\",\n    \"Reorganização leve da frase sobre clarificação dos termos, para reduzir quebra sintática sem alterar a tese.\",\n    \"Manutenção do léxico central do fragmento, incluindo 'real', 'verdade', 'limpeza', 'falsa filosofia' e 'escrutínio não relativista'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém um tom assertivo e parcialmente programático; isso foi preservado por fazer parte da voz autoral.\",\n    \"A expressão 'serão mais reais' pode depender do contexto anterior para plena inteligibilidade, mas não foi expandida para evitar introdução de conteúdo novo.\",\n    \"Há traços de condensação argumentativa no fecho; não foram preenchidas lacunas interpretativas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:20:28+00:00",
+  "modelo": "gpt-5.4"
+}

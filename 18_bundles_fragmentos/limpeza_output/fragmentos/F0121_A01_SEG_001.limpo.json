@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0121_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0121_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "homem: permanência, adaptação, consciência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0121_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Vê-se como o homem vive no contínuo do ser, no passo seguinte ao já construído, incluído no apreensível e no não apreendido. Olhando para o homem nos diferentes territórios do planeta, vê-se que, apesar de haver melhores sítios para se estar, é mínima a percentagem dos que saem. Caso contrário, deixariam de existir territórios que não fossem os melhores.\n\nO homem permanece pela simples necessidade de permanecer no contínuo da existência totalizante do real. É a consciência reflexiva que enquadra, reconstrói, molda, procura o fora do horizonte. Ou adapta-se, porque é o caminho que custa menos: adapta-se ao em, limitando-se pelo em.",
+    "resumo_alteracoes": [
+      "Corrigida a articulação mínima em 'incluído no apreensível e no não apreendido' para melhorar a legibilidade sem alterar a tese.",
+      "Ajustada a formulação de 'é mínima a percentagem que sai' para 'é mínima a percentagem dos que saem' por clareza sintática.",
+      "Suavizada a redundância em 'outros territórios que não os melhores' para 'territórios que não fossem os melhores'.",
+      "Mantida a oposição final entre consciência reflexiva e adaptação, com limpeza pontual de ritmo e repetição."
+    ],
+    "notas_cautela": [
+      "O uso de 'em' na formulação final foi preservado por parecer léxico autoral relevante, embora permaneça semanticamente denso.",
+      "O fragmento pode integrar uma continuidade argumentativa maior; a limpeza não tentou fechar possíveis lacunas externas ao excerto.",
+      "A passagem 'incluído no apreensível e no não apreendido' mantém alguma abertura conceptual do original."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0121_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Vê-se como o homem vive no contínuo do ser, no passo seguinte ao já construído, incluído no apreensível e no não apreendido. Olhando para o homem nos diferentes territórios do planeta, vê-se que, apesar de haver melhores sítios para se estar, é mínima a percentagem dos que saem. Caso contrário, deixariam de existir territórios que não fossem os melhores.\\n\\nO homem permanece pela simples necessidade de permanecer no contínuo da existência totalizante do real. É a consciência reflexiva que enquadra, reconstrói, molda, procura o fora do horizonte. Ou adapta-se, porque é o caminho que custa menos: adapta-se ao em, limitando-se pelo em.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a articulação mínima em 'incluído no apreensível e no não apreendido' para melhorar a legibilidade sem alterar a tese.\",\n    \"Ajustada a formulação de 'é mínima a percentagem que sai' para 'é mínima a percentagem dos que saem' por clareza sintática.\",\n    \"Suavizada a redundância em 'outros territórios que não os melhores' para 'territórios que não fossem os melhores'.\",\n    \"Mantida a oposição final entre consciência reflexiva e adaptação, com limpeza pontual de ritmo e repetição.\"\n  ],\n  \"notas_cautela\": [\n    \"O uso de 'em' na formulação final foi preservado por parecer léxico autoral relevante, embora permaneça semanticamente denso.\",\n    \"O fragmento pode integrar uma continuidade argumentativa maior; a limpeza não tentou fechar possíveis lacunas externas ao excerto.\",\n    \"A passagem 'incluído no apreensível e no não apreendido' mantém alguma abertura conceptual do original.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:32:33+00:00",
+  "modelo": "gpt-5.4"
+}

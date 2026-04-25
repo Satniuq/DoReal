@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0197_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0197_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "fragmento_intuitivo",
+    "tema_dominante_provisorio": "coerência do pensamento no texto"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0197_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "O livro, dito apenas neste sentido, tem de ser um texto coerente e inteligível; e tem de ser não só aquilo que é o tema do livro, mas também o próprio modo de pensamento que vai relacionando, como um avanço contínuo no ser, no próprio tempo que existe em qualquer relação. Como é que hei de descrever isto melhor? Na minha cabeça vejo um tipo a correr no ar, com as nuvens a passar ao lado. Estou a correr no ar e as nuvens passam-me ao lado; não sei porquê, mas é isto: o pensamento e o modo de ter do pensamento. Claro que não vai ser esta confusão que é a minha cabeça; há de ser o normal, o natural: revelar cada pensamento, unificado num só pensamento, com um eixo, em direção à tentativa de compreensão inteligível desta coisa, como qualquer outro ser humano. Isto não é para pássaros lerem.",
+    "resumo_alteracoes": [
+      "Corrigida a sintaxe local para tornar a frase inicial legível e coesa.",
+      "Removidas repetições e oralidade redundante sem alterar as imagens centrais nem a tese local.",
+      "Suprimida a referência aos gestos com as mãos por funcionar como ruído performativo e não como conteúdo necessário.",
+      "Mantida a imagem de correr no ar com as nuvens como modo de figurar o pensamento.",
+      "Ajustada a pontuação e segmentação frásica para maior continuidade de leitura."
+    ],
+    "notas_cautela": [
+      "A expressão \"modo de ter do pensamento\" foi preservada apesar da estranheza, por parecer lexicalmente relevante ao fragmento.",
+      "O fragmento mantém um grau de indeterminação imagética e conceptual que não deve ser compensado com explicações adicionais."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0197_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"O livro, dito apenas neste sentido, tem de ser um texto coerente e inteligível; e tem de ser não só aquilo que é o tema do livro, mas também o próprio modo de pensamento que vai relacionando, como um avanço contínuo no ser, no próprio tempo que existe em qualquer relação. Como é que hei de descrever isto melhor? Na minha cabeça vejo um tipo a correr no ar, com as nuvens a passar ao lado. Estou a correr no ar e as nuvens passam-me ao lado; não sei porquê, mas é isto: o pensamento e o modo de ter do pensamento. Claro que não vai ser esta confusão que é a minha cabeça; há de ser o normal, o natural: revelar cada pensamento, unificado num só pensamento, com um eixo, em direção à tentativa de compreensão inteligível desta coisa, como qualquer outro ser humano. Isto não é para pássaros lerem.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a sintaxe local para tornar a frase inicial legível e coesa.\",\n    \"Removidas repetições e oralidade redundante sem alterar as imagens centrais nem a tese local.\",\n    \"Suprimida a referência aos gestos com as mãos por funcionar como ruído performativo e não como conteúdo necessário.\",\n    \"Mantida a imagem de correr no ar com as nuvens como modo de figurar o pensamento.\",\n    \"Ajustada a pontuação e segmentação frásica para maior continuidade de leitura.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão \\\"modo de ter do pensamento\\\" foi preservada apesar da estranheza, por parecer lexicalmente relevante ao fragmento.\",\n    \"O fragmento mantém um grau de indeterminação imagética e conceptual que não deve ser compensado com explicações adicionais.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:41:03+00:00",
+  "modelo": "gpt-5.4"
+}

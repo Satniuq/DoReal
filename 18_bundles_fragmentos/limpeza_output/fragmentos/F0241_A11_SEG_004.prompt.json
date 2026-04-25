@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A11_SEG_004",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A11_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A11\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"memória, ser, relação e cadência\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Estava a pensar em como, quando se fala com alguém, se marca um encontro no dia seguinte, um dia qualquer, na semana seguinte, a uma hora qualquer, num sítio qualquer, como é que é lembrada essa memória? Porque a lembrança dessa memória importa, não só a retenção da memória, mas como a consciência dessa memória, o awareness dessa memória, ou pelo menos daquilo que a memória implica. E vê-se que é como, pelo que se é, e o que se é é não só o apreender de sons ou de imagens quando se fala com outra pessoa, e se marca algo, mas é a representação da relação que está a ser instituída, a representação de um espaço, de um sítio, de alguém, de algo que se vai atualizar num certo sítio e que está a ser representado por quem está naquela relação.\\n\\nToda a experiência apreensiva da relação da memória, que é o ato de a ter no momento, naquele momento, é a própria experiência vivida da continuidade do ser. Não haveria sequer memória. Memória é só isto.\\n\\nMemória é a permanência da relação de ter a memória naquele contexto representacional, simbólico, mas não se limitando a ele próprio, porque contendo a cadência que estava a ser instituída na relação física e na relação mental, na apreensão que faz a memória. A memória é sempre fiel à cadência do ser, e o ser posiciona-se, ainda que dentro do real, relativamente ao real, mas limitado pelo real. Sendo a relação da apreensão com o real, a direção é sempre o real, a manutenção da relação que se tem estado a manter.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0241_A11_SEG_003\\n- tema: modus, apreensão e real\\n- preview: A lógica da piada, o norm McDonald, em direto dizer que o mj tinha dito que preferia ter um rapaz, e que se tivesse uma menina se chamava Sharon e se menino, ia fazer sexo com ele. Um One of a kind brilhante, disruptivo porque estica o modus que é abrangência do tema pelo que é percepcionado e descrito e agido, o modo de ser do ser, aquilo que é ser um humano a fazer coisas humanas, e pelo real, ainda que o real sej…\\n\\nFragmento seguinte:\\n- id: F0241_A11_SEG_005\\n- tema: persistência do ser\\n- preview: Nós não nos transformamos em nada, do nada. A minha mão ainda tem pele. E agora de continuar a ter pele, continua a ter pele, continua a ter uma mão, vejo que se mantém.\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A11_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A11",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "memória, ser, relação e cadência",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Estava a pensar em como, quando se fala com alguém, se marca um encontro no dia seguinte, um dia qualquer, na semana seguinte, a uma hora qualquer, num sítio qualquer, como é que é lembrada essa memória? Porque a lembrança dessa memória importa, não só a retenção da memória, mas como a consciência dessa memória, o awareness dessa memória, ou pelo menos daquilo que a memória implica. E vê-se que é como, pelo que se é, e o que se é é não só o apreender de sons ou de imagens quando se fala com outra pessoa, e se marca algo, mas é a representação da relação que está a ser instituída, a representação de um espaço, de um sítio, de alguém, de algo que se vai atualizar num certo sítio e que está a ser representado por quem está naquela relação.\n\nToda a experiência apreensiva da relação da memória, que é o ato de a ter no momento, naquele momento, é a própria experiência vivida da continuidade do ser. Não haveria sequer memória. Memória é só isto.\n\nMemória é a permanência da relação de ter a memória naquele contexto representacional, simbólico, mas não se limitando a ele próprio, porque contendo a cadência que estava a ser instituída na relação física e na relação mental, na apreensão que faz a memória. A memória é sempre fiel à cadência do ser, e o ser posiciona-se, ainda que dentro do real, relativamente ao real, mas limitado pelo real. Sendo a relação da apreensão com o real, a direção é sempre o real, a manutenção da relação que se tem estado a manter.",
+    "contexto_local": "Fragmento anterior:\n- id: F0241_A11_SEG_003\n- tema: modus, apreensão e real\n- preview: A lógica da piada, o norm McDonald, em direto dizer que o mj tinha dito que preferia ter um rapaz, e que se tivesse uma menina se chamava Sharon e se menino, ia fazer sexo com ele. Um One of a kind brilhante, disruptivo porque estica o modus que é abrangência do tema pelo que é percepcionado e descrito e agido, o modo de ser do ser, aquilo que é ser um humano a fazer coisas humanas, e pelo real, ainda que o real sej…\n\nFragmento seguinte:\n- id: F0241_A11_SEG_005\n- tema: persistência do ser\n- preview: Nós não nos transformamos em nada, do nada. A minha mão ainda tem pele. E agora de continuar a ter pele, continua a ter pele, continua a ter uma mão, vejo que se mantém.",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

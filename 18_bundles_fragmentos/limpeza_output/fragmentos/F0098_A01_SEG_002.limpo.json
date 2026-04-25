@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0098_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0098_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "cadência e continuidade do ser"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0098_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E isso há de andar sempre pela continuidade da própria apreensão do ser em si, do ponto de vista epistemológico, a par e passo com as condicionantes do próprio círculo em que se opera.\n\nNão é sequer preservação no sentido abstrato, nem a preservação de um estado de coisas. Nem essa é a questão. A preservação da totalidade nem sequer é preservação. O que há é a cadência normal das relações dentro do próprio círculo. A preservação é simplesmente a continuidade do ser no real.\n\nDepois, como é óbvio, ao nível dos organismos individuais como nós, isso transforma-se noutras coisas. Mas a base é esta.",
+    "resumo_alteracoes": [
+      "Removida repetição redundante de \"a preservação\" em sequência, mantendo o sentido original.",
+      "Ajustada a pontuação para dar maior fluidez e coesão às negações sucessivas.",
+      "Preservado o léxico central do fragmento: \"apreensão do ser\", \"círculo\", \"cadência\", \"continuidade do ser no real\".",
+      "Mantida a progressão local: enquadramento epistemológico, recusa de certas leituras de preservação, formulação positiva da tese, aplicação ao nível dos organismos."
+    ],
+    "notas_cautela": [
+      "O fragmento parece integrado numa continuidade argumentativa maior e foi mantido sem tentativa de completar essa moldura.",
+      "A expressão \"isso transforma-se noutras coisas\" permanece genérica no original; não foi especificada para evitar introdução de conteúdo novo.",
+      "Há traços de oralidade e compressão conceptual preservados por cautela."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0098_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E isso há de andar sempre pela continuidade da própria apreensão do ser em si, do ponto de vista epistemológico, a par e passo com as condicionantes do próprio círculo em que se opera.\\n\\nNão é sequer preservação no sentido abstrato, nem a preservação de um estado de coisas. Nem essa é a questão. A preservação da totalidade nem sequer é preservação. O que há é a cadência normal das relações dentro do próprio círculo. A preservação é simplesmente a continuidade do ser no real.\\n\\nDepois, como é óbvio, ao nível dos organismos individuais como nós, isso transforma-se noutras coisas. Mas a base é esta.\",\n  \"resumo_alteracoes\": [\n    \"Removida repetição redundante de \\\"a preservação\\\" em sequência, mantendo o sentido original.\",\n    \"Ajustada a pontuação para dar maior fluidez e coesão às negações sucessivas.\",\n    \"Preservado o léxico central do fragmento: \\\"apreensão do ser\\\", \\\"círculo\\\", \\\"cadência\\\", \\\"continuidade do ser no real\\\".\",\n    \"Mantida a progressão local: enquadramento epistemológico, recusa de certas leituras de preservação, formulação positiva da tese, aplicação ao nível dos organismos.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece integrado numa continuidade argumentativa maior e foi mantido sem tentativa de completar essa moldura.\",\n    \"A expressão \\\"isso transforma-se noutras coisas\\\" permanece genérica no original; não foi especificada para evitar introdução de conteúdo novo.\",\n    \"Há traços de oralidade e compressão conceptual preservados por cautela.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:22:53+00:00",
+  "modelo": "gpt-5.4"
+}

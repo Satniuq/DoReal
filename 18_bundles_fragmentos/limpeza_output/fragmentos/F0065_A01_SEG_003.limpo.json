@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0065_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0065_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "filosofia compartimentalização conhecimento"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0065_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A filosofia deveria ser a capacidade de ver para além dos círculos locais e imediatos. O filósofo deveria ser aquele que vê mais longe, como um pai que orienta um filho, e não um produtor de tratados especializados sobre categorias linguísticas restritas. A compartimentalização extrema do pensamento não é filosofia, mas derivações disciplinares de escopo limitado.\n\nA abertura de um novo campo de potencialidades gera necessariamente compartimentalização. Quando se acendem várias luzes, cada indivíduo tende a fixar-se numa lâmpada específica, desenvolvendo grande densidade técnica sobre ela, e não sobre o circuito que fornece a luz. Este é o modo natural de avanço do conhecimento.",
+    "resumo_alteracoes": [
+      "Suavizada a oralidade mínima para melhorar a fluidez sintática.",
+      "Corrigida a ligação frásica com a inserção de 'e não' para clarificar o contraste.",
+      "Preservada a metáfora das luzes e do circuito, tornando apenas a frase mais legível.",
+      "Mantida a divisão em dois parágrafos, respeitando a progressão local do argumento."
+    ],
+    "notas_cautela": [
+      "O fragmento parece funcionalmente completo, mas integra uma continuidade argumentativa mais ampla.",
+      "Foi mantida a tensão local entre crítica da compartimentalização e a sua caracterização como efeito natural do avanço do conhecimento, sem tentar harmonizá-la."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0065_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A filosofia deveria ser a capacidade de ver para além dos círculos locais e imediatos. O filósofo deveria ser aquele que vê mais longe, como um pai que orienta um filho, e não um produtor de tratados especializados sobre categorias linguísticas restritas. A compartimentalização extrema do pensamento não é filosofia, mas derivações disciplinares de escopo limitado.\\n\\nA abertura de um novo campo de potencialidades gera necessariamente compartimentalização. Quando se acendem várias luzes, cada indivíduo tende a fixar-se numa lâmpada específica, desenvolvendo grande densidade técnica sobre ela, e não sobre o circuito que fornece a luz. Este é o modo natural de avanço do conhecimento.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a oralidade mínima para melhorar a fluidez sintática.\",\n    \"Corrigida a ligação frásica com a inserção de 'e não' para clarificar o contraste.\",\n    \"Preservada a metáfora das luzes e do circuito, tornando apenas a frase mais legível.\",\n    \"Mantida a divisão em dois parágrafos, respeitando a progressão local do argumento.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece funcionalmente completo, mas integra uma continuidade argumentativa mais ampla.\",\n    \"Foi mantida a tensão local entre crítica da compartimentalização e a sua caracterização como efeito natural do avanço do conhecimento, sem tentar harmonizá-la.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:10:56+00:00",
+  "modelo": "gpt-5.4"
+}

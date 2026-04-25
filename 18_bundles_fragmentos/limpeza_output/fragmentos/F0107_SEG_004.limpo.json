@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0107_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0107_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "afirmacao_curta",
+    "tema_dominante_provisorio": "definição da verdade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0107_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A verdade é aquilo que é dito sobre o real.",
+    "resumo_alteracoes": [
+      "Sem alterações: o fragmento já estava claro e utilizável.",
+      "Preservado integralmente o léxico e a formulação original."
+    ],
+    "notas_cautela": [
+      "Fragmento muito curto e possivelmente dependente de continuidade local.",
+      "Há indicação de corte interno no conjunto; este segmento permanece afirmativo, mas pode ser parcial no encadeamento mais amplo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0107_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A verdade é aquilo que é dito sobre o real.\",\n  \"resumo_alteracoes\": [\n    \"Sem alterações: o fragmento já estava claro e utilizável.\",\n    \"Preservado integralmente o léxico e a formulação original.\"\n  ],\n  \"notas_cautela\": [\n    \"Fragmento muito curto e possivelmente dependente de continuidade local.\",\n    \"Há indicação de corte interno no conjunto; este segmento permanece afirmativo, mas pode ser parcial no encadeamento mais amplo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:27:13+00:00",
+  "modelo": "gpt-5.4"
+}

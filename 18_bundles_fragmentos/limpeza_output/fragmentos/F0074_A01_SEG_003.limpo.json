@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0074_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0074_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "validação discurso filosófico"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0074_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Mas faz-me alguma confusão como é que o discurso filosófico passou a não ser validado pela lógica da realidade. Certamente porque bastou alguém apontar um erro — um erro de sistema, qualquer coisa de Gödel — em como os sistemas complexos não se autojustificam. O que confirma que esses temas são apenas validações, justificações lógicas dentro do próprio modo de ser que o filósofo encarna, e que hoje em dia são todos extensivamente subjetivos.\n\nE que a única lógica que existe é a lógica da coerência interna. Ou seja, é a própria crença tornada realidade pelo próprio sistema formalista e pela própria razão de ser do homem; razão de ser no sentido de modo de ser, tendência natural como animal que somos. Não somos robôs, somos animais. Mesmo os robôs têm tendências de acordo com o seu código, se isso se puder aplicar ao ser humano, sem misturar tudo.\n\nMas isto também tinha um bocado a ver com a outra ideia, que era a da consciência. Depois vê-se isso sempre em todo o discurso filosófico. É desconcertante, completamente desconcertante.",
+    "resumo_alteracoes": [
+      "Limpeza de oralidade redundante e hesitações sem alterar a tese local.",
+      "Reorganização pontual da sintaxe para melhorar legibilidade e coesão.",
+      "Tratamento mínimo da referência truncada a Gödel, preservando a imprecisão original sem a expandir.",
+      "Separação e ligação de frases para recuperar continuidade após fusão de parágrafos."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém uma referência incompleta/imprecisa a Gödel; não foi desenvolvida para evitar introdução de conteúdo novo.",
+      "A transição final para a ideia da consciência permanece parcial e dependente de contexto local.",
+      "Pode subsistir truncação argumentativa devido a corte interno no material de origem."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0074_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Mas faz-me alguma confusão como é que o discurso filosófico passou a não ser validado pela lógica da realidade. Certamente porque bastou alguém apontar um erro — um erro de sistema, qualquer coisa de Gödel — em como os sistemas complexos não se autojustificam. O que confirma que esses temas são apenas validações, justificações lógicas dentro do próprio modo de ser que o filósofo encarna, e que hoje em dia são todos extensivamente subjetivos.\\n\\nE que a única lógica que existe é a lógica da coerência interna. Ou seja, é a própria crença tornada realidade pelo próprio sistema formalista e pela própria razão de ser do homem; razão de ser no sentido de modo de ser, tendência natural como animal que somos. Não somos robôs, somos animais. Mesmo os robôs têm tendências de acordo com o seu código, se isso se puder aplicar ao ser humano, sem misturar tudo.\\n\\nMas isto também tinha um bocado a ver com a outra ideia, que era a da consciência. Depois vê-se isso sempre em todo o discurso filosófico. É desconcertante, completamente desconcertante.\",\n  \"resumo_alteracoes\": [\n    \"Limpeza de oralidade redundante e hesitações sem alterar a tese local.\",\n    \"Reorganização pontual da sintaxe para melhorar legibilidade e coesão.\",\n    \"Tratamento mínimo da referência truncada a Gödel, preservando a imprecisão original sem a expandir.\",\n    \"Separação e ligação de frases para recuperar continuidade após fusão de parágrafos.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém uma referência incompleta/imprecisa a Gödel; não foi desenvolvida para evitar introdução de conteúdo novo.\",\n    \"A transição final para a ideia da consciência permanece parcial e dependente de contexto local.\",\n    \"Pode subsistir truncação argumentativa devido a corte interno no material de origem.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:13:40+00:00",
+  "modelo": "gpt-5.4"
+}

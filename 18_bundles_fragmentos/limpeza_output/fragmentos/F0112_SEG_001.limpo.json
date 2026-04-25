@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0112_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0112_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "real, ser, ação, bem"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0112_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Estava a pensar em como as feromonas numa colónia de térmitas regulam a colónia: mais ou menos reprodutoras. E em como aí se vê o real a ser descoberto pelo ser que nele existe.\n\nHá uma lista de proposições certas que se sabe serem certas. E, agindo nelas, no real, mais com ele se estará.\n\nNo processo que é a relação, que é o contínuo do real, está a cadência natural daquilo que é real. E é assim que se vê o homem a ser.\n\nO bom é o que o real permite. É agir pelo ser no real. É não morrer de frio e pensar sobre não morrer de frio. O bem é o mesmo, quer a ação seja pela continuidade, quer haja um intérprete que apreenda a continuidade.",
+    "resumo_alteracoes": [
+      "Removeu-se a repetição redundante em 'mais ou menos reprodutoras, menos ou mais reprodutoras'.",
+      "Ajustou-se pontuação e ligação frásica para melhorar legibilidade sem alterar a tese local.",
+      "Preservou-se a sequência argumentativa: exemplo inicial, proposições certas, relação com o real, definição local do bom/bem."
+    ],
+    "notas_cautela": [
+      "O fragmento pode refletir fusão de parágrafos; a limpeza manteve a segmentação disponível sem reordenar conteúdo.",
+      "A expressão 'Há uma lista de proposições certas que se sabe serem certas' foi preservada quase intacta por cautela, apesar da formulação circular.",
+      "Mantém-se alguma densidade e possível parcialidade argumentativa por haver continuidade local ativa e registo de corte interno."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0112_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Estava a pensar em como as feromonas numa colónia de térmitas regulam a colónia: mais ou menos reprodutoras. E em como aí se vê o real a ser descoberto pelo ser que nele existe.\\n\\nHá uma lista de proposições certas que se sabe serem certas. E, agindo nelas, no real, mais com ele se estará.\\n\\nNo processo que é a relação, que é o contínuo do real, está a cadência natural daquilo que é real. E é assim que se vê o homem a ser.\\n\\nO bom é o que o real permite. É agir pelo ser no real. É não morrer de frio e pensar sobre não morrer de frio. O bem é o mesmo, quer a ação seja pela continuidade, quer haja um intérprete que apreenda a continuidade.\",\n  \"resumo_alteracoes\": [\n    \"Removeu-se a repetição redundante em 'mais ou menos reprodutoras, menos ou mais reprodutoras'.\",\n    \"Ajustou-se pontuação e ligação frásica para melhorar legibilidade sem alterar a tese local.\",\n    \"Preservou-se a sequência argumentativa: exemplo inicial, proposições certas, relação com o real, definição local do bom/bem.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode refletir fusão de parágrafos; a limpeza manteve a segmentação disponível sem reordenar conteúdo.\",\n    \"A expressão 'Há uma lista de proposições certas que se sabe serem certas' foi preservada quase intacta por cautela, apesar da formulação circular.\",\n    \"Mantém-se alguma densidade e possível parcialidade argumentativa por haver continuidade local ativa e registo de corte interno.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:29:02+00:00",
+  "modelo": "gpt-5.4"
+}

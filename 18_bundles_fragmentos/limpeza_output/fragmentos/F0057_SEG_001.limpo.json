@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0057_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0057_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "objecao_local",
+    "tema_dominante_provisorio": "limites análise aristóteles"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0057_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "As virtudes de Aristóteles não serão apenas a sistematização ou a explicitação de modos de ser verdadeiros, pela identificação dos arquétipos do ser humano. Mas no próprio Aristóteles nota-se a incompletude, ou a dificuldade, de uma análise exterior a nós mesmos e, por isso, a compartimentalização do real nas quatro ou cinco causas que ele propõe.",
+    "resumo_alteracoes": [
+      "Removida oralidade redundante em \"se nota\" para \"nota-se\".",
+      "Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Simplificado \"que ele lá propõe\" para \"que ele propõe\", preservando o sentido."
+    ],
+    "notas_cautela": [
+      "O fragmento pode estar ligado a continuidade argumentativa ativa com o segmento seguinte.",
+      "A formulação \"quatro ou cinco causas\" foi preservada tal como está, por poder refletir a voz autoral ou um estado parcial do argumento.",
+      "O texto permanece localmente parcial e com possível corte interno."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0057_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"As virtudes de Aristóteles não serão apenas a sistematização ou a explicitação de modos de ser verdadeiros, pela identificação dos arquétipos do ser humano. Mas no próprio Aristóteles nota-se a incompletude, ou a dificuldade, de uma análise exterior a nós mesmos e, por isso, a compartimentalização do real nas quatro ou cinco causas que ele propõe.\",\n  \"resumo_alteracoes\": [\n    \"Removida oralidade redundante em \\\"se nota\\\" para \\\"nota-se\\\".\",\n    \"Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Simplificado \\\"que ele lá propõe\\\" para \\\"que ele propõe\\\", preservando o sentido.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode estar ligado a continuidade argumentativa ativa com o segmento seguinte.\",\n    \"A formulação \\\"quatro ou cinco causas\\\" foi preservada tal como está, por poder refletir a voz autoral ou um estado parcial do argumento.\",\n    \"O texto permanece localmente parcial e com possível corte interno.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:07:37+00:00",
+  "modelo": "gpt-5.4"
+}

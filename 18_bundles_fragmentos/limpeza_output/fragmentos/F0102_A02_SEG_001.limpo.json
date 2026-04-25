@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0102_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0102_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "estrutura relacional do devir"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0102_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Isso deriva do eu, porque há sempre uma personalidade em qualquer ação. As relações podem ser pensadas como um cordão de elementos interligados, formando amálgamas maiores ou menores.\n\nSe os constituintes das relações não forem tidos em conta, resta apenas o absurdo do devir como modo de ser centrado num próprio centro de perspetiva e numa localidade de apreensão.",
+    "resumo_alteracoes": [
+      "Substituição de formulações ligeiramente redundantes para maior fluidez.",
+      "Ajuste mínimo na imagem do cordão: 'com elementos interligados' para 'de elementos interligados'.",
+      "Simplificação pontual de 'enquanto modo de ser' para 'como modo de ser', sem alterar a tese local.",
+      "Preservação do léxico central: eu, personalidade, relações, constituintes, absurdo do devir, centro de perspetiva, localidade de apreensão."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior para clarificar a ligação entre 'isso' e 'o eu'.",
+      "A passagem mantém alguma compressão conceptual e pode permanecer parcialmente truncada devido ao corte interno assinalado."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0102_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Isso deriva do eu, porque há sempre uma personalidade em qualquer ação. As relações podem ser pensadas como um cordão de elementos interligados, formando amálgamas maiores ou menores.\\n\\nSe os constituintes das relações não forem tidos em conta, resta apenas o absurdo do devir como modo de ser centrado num próprio centro de perspetiva e numa localidade de apreensão.\",\n  \"resumo_alteracoes\": [\n    \"Substituição de formulações ligeiramente redundantes para maior fluidez.\",\n    \"Ajuste mínimo na imagem do cordão: 'com elementos interligados' para 'de elementos interligados'.\",\n    \"Simplificação pontual de 'enquanto modo de ser' para 'como modo de ser', sem alterar a tese local.\",\n    \"Preservação do léxico central: eu, personalidade, relações, constituintes, absurdo do devir, centro de perspetiva, localidade de apreensão.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior para clarificar a ligação entre 'isso' e 'o eu'.\",\n    \"A passagem mantém alguma compressão conceptual e pode permanecer parcialmente truncada devido ao corte interno assinalado.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:24:51+00:00",
+  "modelo": "gpt-5.4"
+}

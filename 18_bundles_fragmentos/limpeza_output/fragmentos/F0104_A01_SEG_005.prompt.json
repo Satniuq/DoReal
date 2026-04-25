@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0104_A01_SEG_005",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0104_A01_SEG_005\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0104_A01\",\n  \"header_original\": \"## F0104\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"distincao_conceptual\",\n  \"tema_dominante_provisorio\": \"adequação da verdade ao real\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"conservadora\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": false,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Há necessidade de adequação das proposições verdadeiras à integralidade do real. Isso obriga a respeitar o círculo maior. E depois, conforme o tipo de proposição, se for de círculo menor, terá de responder às regras internas desse círculo, mas sem ofender o real.\\n\\nHá verdade do ponto de vista local — eu sinto que, eu acho que — e isso pode ser verdadeiro localmente. Mas pode ser errado em relação ao real. As proposições verdadeiramente verdadeiras são as que incidem sobre o real.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0104_A01_SEG_004\\n- tema: real, símbolo e agência\\n- preview: O homem não precisa de Deus por fé. O símbolo Deus existe para preencher o real. Sem isso é só processo. E vê-se que os que chegaram ao real — poucos — foram os que melhor combinaram liberdade e dignidade, ou seja, conhecer o real para agir corretamente nele. Isso advém do pensamento normal de que eu sou um agente. O ponto de vista local do eu é necessário, mas tem de ser redirecionado para o real, identificando out…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0104_A01_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0104_A01",
+    "header_original": "## F0104",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "adequação da verdade ao real",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "conservadora",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": false,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Há necessidade de adequação das proposições verdadeiras à integralidade do real. Isso obriga a respeitar o círculo maior. E depois, conforme o tipo de proposição, se for de círculo menor, terá de responder às regras internas desse círculo, mas sem ofender o real.\n\nHá verdade do ponto de vista local — eu sinto que, eu acho que — e isso pode ser verdadeiro localmente. Mas pode ser errado em relação ao real. As proposições verdadeiramente verdadeiras são as que incidem sobre o real.",
+    "contexto_local": "Fragmento anterior:\n- id: F0104_A01_SEG_004\n- tema: real, símbolo e agência\n- preview: O homem não precisa de Deus por fé. O símbolo Deus existe para preencher o real. Sem isso é só processo. E vê-se que os que chegaram ao real — poucos — foram os que melhor combinaram liberdade e dignidade, ou seja, conhecer o real para agir corretamente nele. Isso advém do pensamento normal de que eu sou um agente. O ponto de vista local do eu é necessário, mas tem de ser redirecionado para o real, identificando out…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

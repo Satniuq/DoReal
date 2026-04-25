@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0068_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0068_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "decadência, escolha e sistema"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0068_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A decadência é, assim, normal. Diante do falhanço, o ser consciente tem apenas duas opções: fechar-se num modo de ser cada vez mais restrito, protegido por camadas circulares, ou abrir-se à mudança. Estes dois modos de ser existem desde o início.\n\nEm sistemas onde a liberdade e a dignidade não são reconhecidas como necessidades do ser consciente, os pontos de vista individuais não têm capacidade de se tornar coletivos. Só quando cada ser consciente é reconhecido como livre e digno se permite a emergência de mini-círculos onde se disputa o critério da verdade e do bem, abrindo espaço ao relativismo absoluto.",
+    "resumo_alteracoes": [
+      "Mantida a ordem argumentativa local e a tese do fragmento.",
+      "Ajustada a formulação final para maior fluidez sintática, sem alterar o conteúdo.",
+      "Preservado o léxico central do fragmento, incluindo 'decadência', 'modo de ser', 'liberdade', 'dignidade', 'mini-círculos' e 'relativismo absoluto'."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior para a ligação entre 'decadência', 'falhanço' e os 'dois modos de ser'.",
+      "A passagem final condensa uma transição argumentativa forte entre reconhecimento individual e relativismo absoluto; foi preservada sem tentar preencher lacunas.",
+      "Há sinais de corte ou fusão prévia, mas não foram compensados com conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0068_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A decadência é, assim, normal. Diante do falhanço, o ser consciente tem apenas duas opções: fechar-se num modo de ser cada vez mais restrito, protegido por camadas circulares, ou abrir-se à mudança. Estes dois modos de ser existem desde o início.\\n\\nEm sistemas onde a liberdade e a dignidade não são reconhecidas como necessidades do ser consciente, os pontos de vista individuais não têm capacidade de se tornar coletivos. Só quando cada ser consciente é reconhecido como livre e digno se permite a emergência de mini-círculos onde se disputa o critério da verdade e do bem, abrindo espaço ao relativismo absoluto.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a ordem argumentativa local e a tese do fragmento.\",\n    \"Ajustada a formulação final para maior fluidez sintática, sem alterar o conteúdo.\",\n    \"Preservado o léxico central do fragmento, incluindo 'decadência', 'modo de ser', 'liberdade', 'dignidade', 'mini-círculos' e 'relativismo absoluto'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior para a ligação entre 'decadência', 'falhanço' e os 'dois modos de ser'.\",\n    \"A passagem final condensa uma transição argumentativa forte entre reconhecimento individual e relativismo absoluto; foi preservada sem tentar preencher lacunas.\",\n    \"Há sinais de corte ou fusão prévia, mas não foram compensados com conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:11:52+00:00",
+  "modelo": "gpt-5.4"
+}

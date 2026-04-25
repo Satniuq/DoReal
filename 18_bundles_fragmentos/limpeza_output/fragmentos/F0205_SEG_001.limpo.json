@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0205_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0205_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "ser, dever, valor na filosofia"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0205_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "E por isso é ontologicamente verdadeiro que, da apreensão, vem o valor; ou melhor, não há valor sem apreensão. O dever de ser, não aquilo a que se chama dever-ser, vem do ser, e cabe ao filósofo integrar isto com o poder ser. Isso é a verdadeira filosofia.",
+    "resumo_alteracoes": [
+      "Removida repetição imediata em torno de 'apreensão'.",
+      "Ajustada a pontuação para tornar a sequência argumentativa mais legível.",
+      "Regularizada a formulação 'dever ser' para 'dever-ser' apenas na referência ao termo dito.",
+      "Mantida a tese local sobre apreensão, valor, ser, dever de ser e poder ser."
+    ],
+    "notas_cautela": [
+      "A expressão 'dever de ser' pode ter uso técnico próprio e foi preservada.",
+      "A formulação final continua assertiva e programática, sem explicitação adicional por falta de contexto local."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0205_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"E por isso é ontologicamente verdadeiro que, da apreensão, vem o valor; ou melhor, não há valor sem apreensão. O dever de ser, não aquilo a que se chama dever-ser, vem do ser, e cabe ao filósofo integrar isto com o poder ser. Isso é a verdadeira filosofia.\",\n  \"resumo_alteracoes\": [\n    \"Removida repetição imediata em torno de 'apreensão'.\",\n    \"Ajustada a pontuação para tornar a sequência argumentativa mais legível.\",\n    \"Regularizada a formulação 'dever ser' para 'dever-ser' apenas na referência ao termo dito.\",\n    \"Mantida a tese local sobre apreensão, valor, ser, dever de ser e poder ser.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão 'dever de ser' pode ter uso técnico próprio e foi preservada.\",\n    \"A formulação final continua assertiva e programática, sem explicitação adicional por falta de contexto local.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:41:54+00:00",
+  "modelo": "gpt-5.4"
+}

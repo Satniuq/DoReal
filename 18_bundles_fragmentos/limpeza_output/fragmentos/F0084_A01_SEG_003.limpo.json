@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0084_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0084_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "intensificação, dignidade, justificação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0084_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A intensificação não é para a intensificação. É apenas o caminho para a dignidade, para o reconhecimento de que eu sou tanto como qualquer outro, do ponto de vista ontológico. E isto leva depois a todo o tipo de justificações para comportamentos, até contra o real.",
+    "resumo_alteracoes": [
+      "Integração de 'Do ponto de vista ontológico' na frase anterior para maior continuidade sintática.",
+      "Ajuste mínimo de pontuação e ritmo.",
+      "Preservação do léxico central e da progressão argumentativa local."
+    ],
+    "notas_cautela": [
+      "O fragmento parece depender de contexto anterior para a transição de 'dignidade' para 'justificações para comportamentos'.",
+      "Mantém-se uma possível compressão argumentativa local; não foi expandida para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0084_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A intensificação não é para a intensificação. É apenas o caminho para a dignidade, para o reconhecimento de que eu sou tanto como qualquer outro, do ponto de vista ontológico. E isto leva depois a todo o tipo de justificações para comportamentos, até contra o real.\",\n  \"resumo_alteracoes\": [\n    \"Integração de 'Do ponto de vista ontológico' na frase anterior para maior continuidade sintática.\",\n    \"Ajuste mínimo de pontuação e ritmo.\",\n    \"Preservação do léxico central e da progressão argumentativa local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece depender de contexto anterior para a transição de 'dignidade' para 'justificações para comportamentos'.\",\n    \"Mantém-se uma possível compressão argumentativa local; não foi expandida para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:16:45+00:00",
+  "modelo": "gpt-5.4"
+}

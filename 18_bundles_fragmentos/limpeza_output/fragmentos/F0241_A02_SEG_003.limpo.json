@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A02_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A02_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "comédia, eu-eu, eu-real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A02_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Estava a pensar na comédia e em como isso revela os modos de ser eu-eu, eu-real, esta deslocação em que se depende, cada vez mais, de que se é no contínuo do ser. E era porquê? Porque é que eu estava a dizer isto? Ah, porque isso vê-se na comédia, especialmente no programa Kill Tony, em que várias pessoas se inscrevem, são sorteadas e podem fazer um minuto de stand-up. E aí vê-se quem tem uma parca descrição do real, não é? Vê-se quem vive no eu-eu e não no eu-real. Porque fazer um bom minuto de comédia é uma distorção do real apreendido, que é aquilo que apreende o real. E quem vive no eu-eu faz sempre má comédia, pela falta de relação com a apreensão do real em quem está a ouvir a comédia.",
+    "resumo_alteracoes": [
+      "Corrigidas construções orais e sintáticas para maior legibilidade.",
+      "Reduzidas hesitações e repetições mínimas sem alterar a tese local.",
+      "Ajustadas flexões verbais e pronominais.",
+      "Preservado o léxico central do fragmento: comédia, eu-eu, eu-real, apreensão do real."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém alguma opacidade conceptual em expressões como 'depende, cada vez mais, de que se é no contínuo do ser', por cautela, sem reformulação forte.",
+      "A formulação 'o real apreendido, que é aquilo que apreende o real' foi preservada quase intacta por poder conter uma distinção autoral específica.",
+      "Há continuidade argumentativa ativa com o fragmento anterior; a limpeza não tentou fechar lacunas locais."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A02_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Estava a pensar na comédia e em como isso revela os modos de ser eu-eu, eu-real, esta deslocação em que se depende, cada vez mais, de que se é no contínuo do ser. E era porquê? Porque é que eu estava a dizer isto? Ah, porque isso vê-se na comédia, especialmente no programa Kill Tony, em que várias pessoas se inscrevem, são sorteadas e podem fazer um minuto de stand-up. E aí vê-se quem tem uma parca descrição do real, não é? Vê-se quem vive no eu-eu e não no eu-real. Porque fazer um bom minuto de comédia é uma distorção do real apreendido, que é aquilo que apreende o real. E quem vive no eu-eu faz sempre má comédia, pela falta de relação com a apreensão do real em quem está a ouvir a comédia.\",\n  \"resumo_alteracoes\": [\n    \"Corrigidas construções orais e sintáticas para maior legibilidade.\",\n    \"Reduzidas hesitações e repetições mínimas sem alterar a tese local.\",\n    \"Ajustadas flexões verbais e pronominais.\",\n    \"Preservado o léxico central do fragmento: comédia, eu-eu, eu-real, apreensão do real.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém alguma opacidade conceptual em expressões como 'depende, cada vez mais, de que se é no contínuo do ser', por cautela, sem reformulação forte.\",\n    \"A formulação 'o real apreendido, que é aquilo que apreende o real' foi preservada quase intacta por poder conter uma distinção autoral específica.\",\n    \"Há continuidade argumentativa ativa com o fragmento anterior; a limpeza não tentou fechar lacunas locais.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:46:25+00:00",
+  "modelo": "gpt-5.4"
+}

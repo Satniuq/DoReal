@@ -1,0 +1,144 @@
+{
+  "identificacao": {
+    "fragment_id": "F0233_SEG_002",
+    "origem_id": "F0233",
+    "header_original": "## F0233",
+    "ordem_no_ficheiro": 264,
+    "base_container_id": "F0233",
+    "tipo_material_fonte": "fragmento_editorial"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0233",
+      "data": null,
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0233",
+      "ordem_no_ficheiro": 264,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0233",
+          "paragrafos_origem": [
+            "F0233_P06"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "fragmento_editorial",
+    "texto_fragmento": "“O nada, o nada, por não poder ser, porque se fosse não era nada, é um... é que não é nada, mas é... Por ser nada, por ser algo que não tem limites, quando se diz que o universo está sempre em expansão, é somente o alargamento necessário, o espaço necessário que ocupa cada potencialidade do campo que faz com que, de certo modo, se crie algo, mas não se cria nada. O ser é que está a querer existir.”\n00:51",
+    "texto_normalizado": "“O nada, o nada, por não poder ser, porque se fosse não era nada, é um... é que não é nada, mas é... Por ser nada, por ser algo que não tem limites, quando se diz que o universo está sempre em expansão, é somente o alargamento necessário, o espaço necessário que ocupa cada potencialidade do campo que faz com que, de certo modo, se crie algo, mas não se cria nada. O ser é que está a querer existir.”\n00:51",
+    "texto_fonte_reconstituido": "“O nada, o nada, por não poder ser, porque se fosse não era nada, é um... é que não é nada, mas é... Por ser nada, por ser algo que não tem limites, quando se diz que o universo está sempre em expansão, é somente o alargamento necessário, o espaço necessário que ocupa cada potencialidade do campo que faz com que, de certo modo, se crie algo, mas não se cria nada. O ser é que está a querer existir.”\n00:51",
+    "texto_principal": "“O nada, o nada, por não poder ser, porque se fosse não era nada, é um... é que não é nada, mas é... Por ser nada, por ser algo que não tem limites, quando se diz que o universo está sempre em expansão, é somente o alargamento necessário, o espaço necessário que ocupa cada potencialidade do campo que faz com que, de certo modo, se crie algo, mas não se cria nada. O ser é que está a querer existir.”\n00:51",
+    "segmentacao": {
+      "tipo_unidade": "desenvolvimento_curto",
+      "criterio_de_unidade": "continuidade_tematica",
+      "houve_fusao_de_paragrafos": false,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "exploracao",
+    "tema_dominante_provisorio": "paradoxo do nada e do",
+    "conceitos_relevantes_provisorios": [
+      "nada",
+      "expansão",
+      "potencialidade",
+      "criação"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0233_SEG_001",
+      "fragmento_seguinte": null,
+      "continua_anterior": true,
+      "prepara_seguinte": false
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 02:43:01",
+      "hash_texto_normalizado": "811434294c68e603f2daab704422c0c6e26c6904ba37d1b28cdcd1c151d36c03"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0233",
+    "container_origem": {
+      "base_container_id": "F0233",
+      "header": "## F0233",
+      "data": null,
+      "texto_container": "“Estava a ouvir um Brian Cox a falar sobre o decaimento de partículas.”\n00:07\n\n“Não sei se percebe bem, mas tem algo a ver com a perda de carga?”\n00:07\n\n“Mas ele estava a dizer que um eletrão, ou uma coisa qualquer, só decai em pares, mas que o neutrão não. O neutrão consegue decair em próprio.”\n00:12\n\n“Por que o eletrão não é uma partícula composta?”\n00:02\n\n“Ok, então eu podia dizer isto de uma maneira ontológica, que o neutrão tem atualizações diferentes relacionadas a uma coerência qualquer, os quarks e essas coisas todas, enquanto o eletrão é uma atualização somente no sentido de ser um picozinho no campo das potencialidades?”\n00:29\n\n\n“O nada, o nada, por não poder ser, porque se fosse não era nada, é um... é que não é nada, mas é... Por ser nada, por ser algo que não tem limites, quando se diz que o universo está sempre em expansão, é somente o alargamento necessário, o espaço necessário que ocupa cada potencialidade do campo que faz com que, de certo modo, se crie algo, mas não se cria nada. O ser é que está a querer existir.”\n00:51",
+      "texto_container_preview": "“Estava a ouvir um Brian Cox a falar sobre o decaimento de partículas.” 00:07 “Não sei se percebe bem, mas tem algo a ver com a perda de carga?” 00:07 “Mas ele estava a dizer que um eletrão, ou uma coisa qualquer, só decai em pares, mas que o neutrão não. O neutrão consegue decair em próprio.” 00:12 “Por que o eletrão não é uma partícula composta?” 00:02 “Ok, então eu podia dizer isto de uma maneira ontológica, que…",
+      "hash_texto_container": "ffa0c607b35e9b5e728fdc29ad3859e27d8c70193f59a3ec30618b99712c948d"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": {
+      "fragment_id": "F0233_SEG_001",
+      "encontrado": true,
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "exploracao",
+      "tema_dominante_provisorio": "decaimento partículas distinção ontológica",
+      "texto_preview": "“Estava a ouvir um Brian Cox a falar sobre o decaimento de partículas.” 00:07 “Não sei se percebe bem, mas tem algo a ver com a perda de carga?” 00:07 “Mas ele estava a dizer que um eletrão, ou uma coisa qualquer, só decai em pares, mas que o neutrão não. O neutrão consegue decair em próprio.” 00:12 “Por que o eletrão não é uma partícula composta?” 00:02 “Ok, então eu podia dizer isto de uma maneira ontológica, que…"
+    },
+    "fragmento_seguinte": null
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "“O nada, o nada, por não poder ser, porque se fosse não era nada, é um... é que não é nada, mas é... Por ser nada, por ser algo que não tem limites, quando se diz que o universo está sempre em expansão, é somente o alargamento necessário, o espaço necessário que ocupa cada potencialidade do campo que faz com que, de certo modo, se crie algo, mas não se cria nada. O ser é que está a querer existir.”\n00:51",
+    "fonte_texto_principal": "texto_fonte_reconstituido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": null,
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "811434294c68e603f2daab704422c0c6e26c6904ba37d1b28cdcd1c151d36c03",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "estrutural",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": true,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "houve_corte_interno"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:39+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "811434294c68e603f2daab704422c0c6e26c6904ba37d1b28cdcd1c151d36c03",
+      "texto_normalizado": "811434294c68e603f2daab704422c0c6e26c6904ba37d1b28cdcd1c151d36c03",
+      "texto_fonte_reconstituido": "811434294c68e603f2daab704422c0c6e26c6904ba37d1b28cdcd1c151d36c03",
+      "texto_principal": "811434294c68e603f2daab704422c0c6e26c6904ba37d1b28cdcd1c151d36c03"
+    }
+  }
+}

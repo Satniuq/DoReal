@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0110_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0110_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "integração do eu por símbolos"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0110_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Dos filósofos que acompanham as ideias que ascendem da descoberta de que há algo: que eu faço, que eu durmo, que se vai tornando integrado pela quantidade ridiculamente gigante de campo apreensível. O eu quer, o eu vai fazer: integrar o eu.\n\nIntegrar o eu por ser necessário ser como eu-eu. No exterior está o que estaria para qualquer animal, mas é no interior que está o animal que, perante o mesmo real que os outros, apreende mais.\n\nNão recebe apenas o mediado bruto da mediação puramente sensorial. Tem uma máquina biológica que filtra e uma biblioteca de símbolos criados pelo contínuo do ser, da ação humana.\n\nSó nos podemos pensar porque temos símbolos. Nos animais vê-se isso por graduação diferente, mas o substrato está lá. Os símbolos são os portadores do que chamamos representação. São a relação com que o eu pode interagir.",
+    "resumo_alteracoes": [
+      "Pontuação ajustada para reduzir truncação e melhorar a legibilidade.",
+      "Removida uma redundância mínima em 'por necessário ser' para 'por ser necessário', sem alterar a tese local.",
+      "Regularizada a grafia de 'eu–eu' para 'eu-eu'.",
+      "Inserido 'isso' em 'Nos animais vê-se isso por graduação diferente' para recuperar coesão local mínima."
+    ],
+    "notas_cautela": [
+      "O início do fragmento permanece sintaticamente irregular e possivelmente dependente de contexto anterior.",
+      "Há sinais de corte interno; algumas formulações foram preservadas por não ser seguro reconstruí-las além do mínimo.",
+      "A expressão 'quantidade ridiculamente gigante de campo apreensível' foi mantida apesar da estranheza, para preservar o léxico autoral."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0110_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Dos filósofos que acompanham as ideias que ascendem da descoberta de que há algo: que eu faço, que eu durmo, que se vai tornando integrado pela quantidade ridiculamente gigante de campo apreensível. O eu quer, o eu vai fazer: integrar o eu.\\n\\nIntegrar o eu por ser necessário ser como eu-eu. No exterior está o que estaria para qualquer animal, mas é no interior que está o animal que, perante o mesmo real que os outros, apreende mais.\\n\\nNão recebe apenas o mediado bruto da mediação puramente sensorial. Tem uma máquina biológica que filtra e uma biblioteca de símbolos criados pelo contínuo do ser, da ação humana.\\n\\nSó nos podemos pensar porque temos símbolos. Nos animais vê-se isso por graduação diferente, mas o substrato está lá. Os símbolos são os portadores do que chamamos representação. São a relação com que o eu pode interagir.\",\n  \"resumo_alteracoes\": [\n    \"Pontuação ajustada para reduzir truncação e melhorar a legibilidade.\",\n    \"Removida uma redundância mínima em 'por necessário ser' para 'por ser necessário', sem alterar a tese local.\",\n    \"Regularizada a grafia de 'eu–eu' para 'eu-eu'.\",\n    \"Inserido 'isso' em 'Nos animais vê-se isso por graduação diferente' para recuperar coesão local mínima.\"\n  ],\n  \"notas_cautela\": [\n    \"O início do fragmento permanece sintaticamente irregular e possivelmente dependente de contexto anterior.\",\n    \"Há sinais de corte interno; algumas formulações foram preservadas por não ser seguro reconstruí-las além do mínimo.\",\n    \"A expressão 'quantidade ridiculamente gigante de campo apreensível' foi mantida apesar da estranheza, para preservar o léxico autoral.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:28:14+00:00",
+  "modelo": "gpt-5.4"
+}

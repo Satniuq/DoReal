@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A14_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A14_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "religião, símbolo e realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A14_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Daí a universalidade da religião: a necessidade de enquadramento da apreensão do real, do eu, do real no eu, dessas coisas todas; a necessidade de enquadrar isso no fundo da vida, naquilo que se está a viver, no círculo que sequer o possibilita, de modo a não exigir que se pense a vida de modo filosófico, verdadeiramente filosófico, porque isso seria não haver vida e seria impossível, por ser altamente disfuncional. Depois, uma pessoa acaba por olhar para a relação do ser em cada interação, e isso torna-se awkward. Mas, obviamente, a resposta vai ser enquadrar no sistema o símbolo maior, pronto, o que se quiser chamar: o criador, o que se quiser chamar.\n\nDepois, como é óbvio, esse símbolo vai ter melhor ou pior descrição, claro, consoante esteja mais ou menos afastado do real. E, quanto mais afastado se torna do real, menos verdadeiro se torna. Por isso vê-se o porquê da morte de Deus. Não é porque se descobriu, não é porque a ciência levou a descrições mais verdadeiras, a um reenquadramento. Não. É por isso e porque o símbolo de Deus, que se foi fazendo de Deus, passou a estar mais em choque com as novas apreensões.\n\nClaro que Deus morreu, porque se foi descobrindo cada regularidade, e isso foi entrando em choque com o símbolo anterior. E, ao invés de procurar o melhor símbolo, procura-se a outra resposta, também mais fácil de fazer neste caso, que é dissolver. Dissolver o real e o eu pela sua localidade, ponto de vista e perspetiva passa a reenquadrar toda a apreensão.",
+    "resumo_alteracoes": [
+      "Separei e pontuei períodos longos para melhorar legibilidade sem alterar a progressão local.",
+      "Reduzi repetições imediatas e oralidade redundante, preservando o léxico central do fragmento.",
+      "Mantive expressões autorais relevantes, incluindo 'awkward' e 'o que se quiser chamar'.",
+      "Ajustei pequenas concordâncias e encaixes sintáticos mínimos em trechos fundidos.",
+      "Preservei a sequência: universalidade da religião -> símbolo maior -> afastamento do real -> morte de Deus -> dissolução como resposta."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém marcas de oralidade e compressão conceptual que foram preservadas por cautela.",
+      "Há passagem potencialmente truncada em 'Não é porque se descobriu', mantida sem completar o raciocínio com conteúdo novo.",
+      "A formulação final sobre dissolver o real e o eu continua densa e parcialmente elíptica após a limpeza."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A14_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Daí a universalidade da religião: a necessidade de enquadramento da apreensão do real, do eu, do real no eu, dessas coisas todas; a necessidade de enquadrar isso no fundo da vida, naquilo que se está a viver, no círculo que sequer o possibilita, de modo a não exigir que se pense a vida de modo filosófico, verdadeiramente filosófico, porque isso seria não haver vida e seria impossível, por ser altamente disfuncional. Depois, uma pessoa acaba por olhar para a relação do ser em cada interação, e isso torna-se awkward. Mas, obviamente, a resposta vai ser enquadrar no sistema o símbolo maior, pronto, o que se quiser chamar: o criador, o que se quiser chamar.\\n\\nDepois, como é óbvio, esse símbolo vai ter melhor ou pior descrição, claro, consoante esteja mais ou menos afastado do real. E, quanto mais afastado se torna do real, menos verdadeiro se torna. Por isso vê-se o porquê da morte de Deus. Não é porque se descobriu, não é porque a ciência levou a descrições mais verdadeiras, a um reenquadramento. Não. É por isso e porque o símbolo de Deus, que se foi fazendo de Deus, passou a estar mais em choque com as novas apreensões.\\n\\nClaro que Deus morreu, porque se foi descobrindo cada regularidade, e isso foi entrando em choque com o símbolo anterior. E, ao invés de procurar o melhor símbolo, procura-se a outra resposta, também mais fácil de fazer neste caso, que é dissolver. Dissolver o real e o eu pela sua localidade, ponto de vista e perspetiva passa a reenquadrar toda a apreensão.\",\n  \"resumo_alteracoes\": [\n    \"Separei e pontuei períodos longos para melhorar legibilidade sem alterar a progressão local.\",\n    \"Reduzi repetições imediatas e oralidade redundante, preservando o léxico central do fragmento.\",\n    \"Mantive expressões autorais relevantes, incluindo 'awkward' e 'o que se quiser chamar'.\",\n    \"Ajustei pequenas concordâncias e encaixes sintáticos mínimos em trechos fundidos.\",\n    \"Preservei a sequência: universalidade da religião -> símbolo maior -> afastamento do real -> morte de Deus -> dissolução como resposta.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém marcas de oralidade e compressão conceptual que foram preservadas por cautela.\",\n    \"Há passagem potencialmente truncada em 'Não é porque se descobriu', mantida sem completar o raciocínio com conteúdo novo.\",\n    \"A formulação final sobre dissolver o real e o eu continua densa e parcialmente elíptica após a limpeza.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:51:14+00:00",
+  "modelo": "gpt-5.4"
+}

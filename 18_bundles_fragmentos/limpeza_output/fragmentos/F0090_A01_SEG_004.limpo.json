@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0090_A01_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0090_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crítica consciência autossuficiente"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0090_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "É perturbadora a facilidade com que se relega o real e se continuam a pedir justificações internas. O ser, em círculos, pela sua continuidade e localidade, desenvolve-se desde a criança com estruturas herdadas, num quadro inicialmente vazio, com limites causais, que vai sendo preenchido por inscrições: como o rasto do caracol, o fumo do avião, a marca deixada no percurso.\n\nÉ absurdo continuar a propor que a consciência, por si só, seja causa do mundo. Esquece-se que o homem tem infância. Se a consciência fosse extra-corpo, ou causa do corpo, ter-se-ia de admitir, simultaneamente, que é o corpo que desenvolve a consciência.",
+    "resumo_alteracoes": [
+      "Corrigida a concordância em \"É perturbadora a facilidade\".",
+      "Reorganizada pontuação para dar legibilidade ao período sobre o desenvolvimento desde a infância, sem alterar a sequência argumentativa.",
+      "Substituídos travessões por dois-pontos na enumeração de inscrições, preservando as imagens originais.",
+      "Ajustada a pontuação da frase final para separar melhor as alternativas \"extra-corpo\" e \"causa do corpo\"."
+    ],
+    "notas_cautela": [
+      "A expressão \"O ser, em círculos\" foi preservada por poder ter valor autoral, embora permaneça semanticamente densa.",
+      "O fragmento parece integrar uma continuidade argumentativa maior; a limpeza não procurou preencher lacunas de contexto.",
+      "Mantém-se uma formulação condensada sobre infância, corpo e consciência que pode depender do segmento anterior para plena inteligibilidade."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0090_A01_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"É perturbadora a facilidade com que se relega o real e se continuam a pedir justificações internas. O ser, em círculos, pela sua continuidade e localidade, desenvolve-se desde a criança com estruturas herdadas, num quadro inicialmente vazio, com limites causais, que vai sendo preenchido por inscrições: como o rasto do caracol, o fumo do avião, a marca deixada no percurso.\\n\\nÉ absurdo continuar a propor que a consciência, por si só, seja causa do mundo. Esquece-se que o homem tem infância. Se a consciência fosse extra-corpo, ou causa do corpo, ter-se-ia de admitir, simultaneamente, que é o corpo que desenvolve a consciência.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a concordância em \\\"É perturbadora a facilidade\\\".\",\n    \"Reorganizada pontuação para dar legibilidade ao período sobre o desenvolvimento desde a infância, sem alterar a sequência argumentativa.\",\n    \"Substituídos travessões por dois-pontos na enumeração de inscrições, preservando as imagens originais.\",\n    \"Ajustada a pontuação da frase final para separar melhor as alternativas \\\"extra-corpo\\\" e \\\"causa do corpo\\\".\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão \\\"O ser, em círculos\\\" foi preservada por poder ter valor autoral, embora permaneça semanticamente densa.\",\n    \"O fragmento parece integrar uma continuidade argumentativa maior; a limpeza não procurou preencher lacunas de contexto.\",\n    \"Mantém-se uma formulação condensada sobre infância, corpo e consciência que pode depender do segmento anterior para plena inteligibilidade.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:19:55+00:00",
+  "modelo": "gpt-5.4"
+}

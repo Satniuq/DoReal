@@ -1,0 +1,67 @@
+{
+  "fragment_id": "F0072_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0072_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0072\",\n  \"header_original\": \"## F0072 — Consciência como realidade e necessidade do modo de apreensão\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"desenvolvimento_curto\",\n  \"tema_dominante_provisorio\": \"realização corporal da consciência\",\n  \"motivos_estado\": [\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"houve_corte_interno\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"A consciência apresenta-se como realidade: uma relação de atualidades altamente complexas que o corpo realiza. Não é necessário recorrer apenas ao argumento comparativo das estruturas biológicas e neurológicas conhecidas — desde a célula da pele, aos sistemas orgânicos como o fígado e o cérebro, até às redes neuronais — todas elas funcionando de forma integrada, física e causalmente limitada.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0072_SEG_002\\n- tema: estrutura da apreensão\\n- preview: Para além disso, o modo como o mundo é apreendido constitui evidência suficiente. Quer se adote uma posição dualista, quer se dissolva a consciência ao ponto de a afastar, como em chesterton, quer se adote um panpsiquismo que identifica ser e consciência, o erro comum é ignorar a necessidade condicional do modo de apreensão. Essas posições falham por não reconhecerem que a apreensão do real ocorre sempre dentro de u…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0072_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0072",
+    "header_original": "## F0072 — Consciência como realidade e necessidade do modo de apreensão",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "realização corporal da consciência",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "houve_corte_interno"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "A consciência apresenta-se como realidade: uma relação de atualidades altamente complexas que o corpo realiza. Não é necessário recorrer apenas ao argumento comparativo das estruturas biológicas e neurológicas conhecidas — desde a célula da pele, aos sistemas orgânicos como o fígado e o cérebro, até às redes neuronais — todas elas funcionando de forma integrada, física e causalmente limitada.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0072_SEG_002\n- tema: estrutura da apreensão\n- preview: Para além disso, o modo como o mundo é apreendido constitui evidência suficiente. Quer se adote uma posição dualista, quer se dissolva a consciência ao ponto de a afastar, como em chesterton, quer se adote um panpsiquismo que identifica ser e consciência, o erro comum é ignorar a necessidade condicional do modo de apreensão. Essas posições falham por não reconhecerem que a apreensão do real ocorre sempre dentro de u…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0209_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0209_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "símbolo cristalização tempo mudança"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0209_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "O símbolo é uma cristalização de apreensões de relações já passadas. Cristalizar pressupõe manutenção da regularidade. Eu não sou o que era há um segundo atrás.",
+    "resumo_alteracoes": [
+      "Separei o período em frases para melhorar a legibilidade.",
+      "Corrigi a sintaxe e a pontuação sem alterar a tese local.",
+      "Removi o marcador residual final.",
+      "Ajustei a formulação negativa final para uma leitura gramaticalmente estável."
+    ],
+    "notas_cautela": [
+      "A relação exata entre as três frases permanece implícita no fragmento original.",
+      "O trecho é breve e pode pertencer a um desenvolvimento maior não fornecido."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0209_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"O símbolo é uma cristalização de apreensões de relações já passadas. Cristalizar pressupõe manutenção da regularidade. Eu não sou o que era há um segundo atrás.\",\n  \"resumo_alteracoes\": [\n    \"Separei o período em frases para melhorar a legibilidade.\",\n    \"Corrigi a sintaxe e a pontuação sem alterar a tese local.\",\n    \"Removi o marcador residual final.\",\n    \"Ajustei a formulação negativa final para uma leitura gramaticalmente estável.\"\n  ],\n  \"notas_cautela\": [\n    \"A relação exata entre as três frases permanece implícita no fragmento original.\",\n    \"O trecho é breve e pode pertencer a um desenvolvimento maior não fornecido.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:42:17+00:00",
+  "modelo": "gpt-5.4"
+}

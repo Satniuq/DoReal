@@ -1,0 +1,67 @@
+{
+  "fragment_id": "F0241_A02_SEG_003",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A02_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A02\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"comédia, eu-eu, eu-real\",\n  \"motivos_estado\": [\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"houve_corte_interno\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Estava a pensar na comédia e como isso revela os modos de ser eu-eu, eu-real, esta dislocação em que se depende para mais, cada vez mais, que se é no contínuo do ser. E era porquê? Por que que eu estava a dizer isto? Ah! Porque vê-se na comédia, especialmente no programa Kill Tony, em que várias pessoas inscrevem-se, são sorteadas e podem fazer um minuto de stand-up. E aí vê-se quem tem uma parca descrição do real, não é? Vê-se quem vive no eu-eu e não no eu-real. Porque fazer um bom minuto de comédia é uma distorção do real apreendido, que é aquilo que apreende o real. E quem vive no eu-eu faz sempre má comédia, pela falta de relação da apreensão do real em quem está a ouvir a comédia.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0241_A02_SEG_002\\n- tema: dinâmica de sistemas e realidade\\n- preview: E a amplitude em que isto se vê de um lado e do outro na relação a ser mantida entre o ser reflexivo e os outros seres reflexivos, e depois o discurso, ou seja, os símbolos comuns que identificam discursos, e ver esta dinâmica depois também relativamente ao que cada ser consciente pensa sobre si, sobre o que se pensa sobre o ser, ou seja, aquilo que se diz sobre o que é isto, e depois, como é óbvio, o que deveria se…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A02_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A02",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "comédia, eu-eu, eu-real",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "houve_corte_interno"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Estava a pensar na comédia e como isso revela os modos de ser eu-eu, eu-real, esta dislocação em que se depende para mais, cada vez mais, que se é no contínuo do ser. E era porquê? Por que que eu estava a dizer isto? Ah! Porque vê-se na comédia, especialmente no programa Kill Tony, em que várias pessoas inscrevem-se, são sorteadas e podem fazer um minuto de stand-up. E aí vê-se quem tem uma parca descrição do real, não é? Vê-se quem vive no eu-eu e não no eu-real. Porque fazer um bom minuto de comédia é uma distorção do real apreendido, que é aquilo que apreende o real. E quem vive no eu-eu faz sempre má comédia, pela falta de relação da apreensão do real em quem está a ouvir a comédia.",
+    "contexto_local": "Fragmento anterior:\n- id: F0241_A02_SEG_002\n- tema: dinâmica de sistemas e realidade\n- preview: E a amplitude em que isto se vê de um lado e do outro na relação a ser mantida entre o ser reflexivo e os outros seres reflexivos, e depois o discurso, ou seja, os símbolos comuns que identificam discursos, e ver esta dinâmica depois também relativamente ao que cada ser consciente pensa sobre si, sobre o que se pensa sobre o ser, ou seja, aquilo que se diz sobre o que é isto, e depois, como é óbvio, o que deveria se…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "educação, repetição, real, técnica"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A educação é repetição pela apreensão do real, no real: aprender qualquer coisa é confrontar-se com o real na sua repetição. Então, todas as tentativas de adaptar as palavras e o próprio método de aprendizagem para que isso só depois, quando se for adulto, quando se for não sei quê, aí sim, se trate do problema na sua forma mais técnica — como mais técnica? Devia ser mais verdadeira. E esse ser mais verdadeiro percorre desde que se é bebé e se dizem as coisas mais verdadeiras sem complexizar a frase.\n\nIsto aqui é uma garrafa vermelha; digo só «garrafa» e aponto. Não interessa. Tenta-se fazer da especificidade técnica algo só atingível a certas categorias, como se fosse possível comparar isso com o real dizendo: não, para aprender bem o real, isso depois vais perceber; para aprender bem o real, tem que se compreender isto, tem que aprender isto, tem que aprender esta matemática, tem que aprender esta língua qualquer, deste autor, tem que... Como assim? Quais são as abordagens para o real? Quando é que se vai aprender? Quando não se estiver ainda repetido sobre o que se está a aprender?",
+    "resumo_alteracoes": [
+      "Reduzi repetições orais e hesitações sem alterar a tese local.",
+      "Reorganizei pontuação e encadeamento frásico para melhorar legibilidade.",
+      "Mantive o léxico central do fragmento: educação, repetição, real, técnica, verdade.",
+      "Preservei a progressão local: educação como repetição do real, crítica ao adiamento técnico da aprendizagem, exemplo da nomeação simples, perguntas finais."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém traços de oralidade e uma sintaxe parcialmente elíptica por haver continuidade local ativa.",
+      "A formulação «Quando não se estiver ainda repetido sobre o que se está a aprender?» permanece semanticamente estranha, mas foi preservada com intervenção mínima.",
+      "Há sinais de fusão de parágrafos e possível corte interno; evitou-se reconstrução interpretativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A educação é repetição pela apreensão do real, no real: aprender qualquer coisa é confrontar-se com o real na sua repetição. Então, todas as tentativas de adaptar as palavras e o próprio método de aprendizagem para que isso só depois, quando se for adulto, quando se for não sei quê, aí sim, se trate do problema na sua forma mais técnica — como mais técnica? Devia ser mais verdadeira. E esse ser mais verdadeiro percorre desde que se é bebé e se dizem as coisas mais verdadeiras sem complexizar a frase.\\n\\nIsto aqui é uma garrafa vermelha; digo só «garrafa» e aponto. Não interessa. Tenta-se fazer da especificidade técnica algo só atingível a certas categorias, como se fosse possível comparar isso com o real dizendo: não, para aprender bem o real, isso depois vais perceber; para aprender bem o real, tem que se compreender isto, tem que aprender isto, tem que aprender esta matemática, tem que aprender esta língua qualquer, deste autor, tem que... Como assim? Quais são as abordagens para o real? Quando é que se vai aprender? Quando não se estiver ainda repetido sobre o que se está a aprender?\",\n  \"resumo_alteracoes\": [\n    \"Reduzi repetições orais e hesitações sem alterar a tese local.\",\n    \"Reorganizei pontuação e encadeamento frásico para melhorar legibilidade.\",\n    \"Mantive o léxico central do fragmento: educação, repetição, real, técnica, verdade.\",\n    \"Preservei a progressão local: educação como repetição do real, crítica ao adiamento técnico da aprendizagem, exemplo da nomeação simples, perguntas finais.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém traços de oralidade e uma sintaxe parcialmente elíptica por haver continuidade local ativa.\",\n    \"A formulação «Quando não se estiver ainda repetido sobre o que se está a aprender?» permanece semanticamente estranha, mas foi preservada com intervenção mínima.\",\n    \"Há sinais de fusão de parágrafos e possível corte interno; evitou-se reconstrução interpretativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:45:43+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0129_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0129_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "busca real fundamento ciência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0129_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "O ver, a análise, a descrição, a narrativa: por isso é que a apreensão se transforma nisto tudo. Ela fica compartimentalizada, sistematizada. Porquê? Já te perguntaram porque é que todas as ciências derivam do poder ser filosófico que o homem tem? Derivam daqui: da busca pelo real. E a busca pelo real envolve alguém que busca o real, que é o todo.",
+    "resumo_alteracoes": [
+      "Removidas repetições orais redundantes, como a duplicação de 'e por isso'.",
+      "Ajustada a pontuação para clarificar a sequência argumentativa.",
+      "Corrigida a sintaxe de algumas frases sem alterar a tese local.",
+      "Mantido o léxico central do fragmento, incluindo 'apreensão', 'compartimentalizada', 'sistematizada' e 'busca pelo real'."
+    ],
+    "notas_cautela": [
+      "A formulação final 'que é o todo' permanece potencialmente ambígua no original e foi preservada sem expansão interpretativa.",
+      "O início do fragmento pode depender de contexto anterior, mas não há quebra suficiente para justificar reconstrução adicional."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0129_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"O ver, a análise, a descrição, a narrativa: por isso é que a apreensão se transforma nisto tudo. Ela fica compartimentalizada, sistematizada. Porquê? Já te perguntaram porque é que todas as ciências derivam do poder ser filosófico que o homem tem? Derivam daqui: da busca pelo real. E a busca pelo real envolve alguém que busca o real, que é o todo.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições orais redundantes, como a duplicação de 'e por isso'.\",\n    \"Ajustada a pontuação para clarificar a sequência argumentativa.\",\n    \"Corrigida a sintaxe de algumas frases sem alterar a tese local.\",\n    \"Mantido o léxico central do fragmento, incluindo 'apreensão', 'compartimentalizada', 'sistematizada' e 'busca pelo real'.\"\n  ],\n  \"notas_cautela\": [\n    \"A formulação final 'que é o todo' permanece potencialmente ambígua no original e foi preservada sem expansão interpretativa.\",\n    \"O início do fragmento pode depender de contexto anterior, mas não há quebra suficiente para justificar reconstrução adicional.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:34:13+00:00",
+  "modelo": "gpt-5.4"
+}

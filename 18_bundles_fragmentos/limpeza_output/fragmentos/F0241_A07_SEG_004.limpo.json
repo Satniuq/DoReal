@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A07_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A07_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "problema objetividade moralidade divina"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A07_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O argumento do Andrew Wilson da objetividade da moralidade pelo comando divino é uma tentativa de salvar o que eu diria ser apreensível, tocável, experienciável: o mundo das coisas criado por Deus, algo assim. Mas a questão é que, pela fraca descrição que todos têm, mesmo aqueles que tentam percorrer o caminho do real, por não darem ao real o estatuto que querem, retiram-no completamente da equação, como se a humanidade se tivesse abstido de oferecer qualquer tipo de estatuto ao real, ao ponto de a melhor salvação ser mudá-lo por Deus, por um ente qualquer intencional.",
+    "resumo_alteracoes": [
+      "Reduzidas hesitações e oralidade redundante sem alterar a tese local.",
+      "Reorganizada a pontuação para tornar a sequência argumentativa legível.",
+      "Ajustadas algumas construções sintáticas mínimas para clarificar referentes e relações entre orações.",
+      "Preservado o léxico central: objetividade, moralidade, comando divino, real, estatuto, Deus, ente intencional."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém uma formulação densa e parcialmente truncada no segmento sobre a 'fraca descrição' e o 'estatuto' do real.",
+      "Há sinal de corte interno; a limpeza recompôs apenas o mínimo necessário para legibilidade.",
+      "O texto permanece parcial e pode beneficiar de revisão humana em articulação com o contexto adjacente."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A07_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O argumento do Andrew Wilson da objetividade da moralidade pelo comando divino é uma tentativa de salvar o que eu diria ser apreensível, tocável, experienciável: o mundo das coisas criado por Deus, algo assim. Mas a questão é que, pela fraca descrição que todos têm, mesmo aqueles que tentam percorrer o caminho do real, por não darem ao real o estatuto que querem, retiram-no completamente da equação, como se a humanidade se tivesse abstido de oferecer qualquer tipo de estatuto ao real, ao ponto de a melhor salvação ser mudá-lo por Deus, por um ente qualquer intencional.\",\n  \"resumo_alteracoes\": [\n    \"Reduzidas hesitações e oralidade redundante sem alterar a tese local.\",\n    \"Reorganizada a pontuação para tornar a sequência argumentativa legível.\",\n    \"Ajustadas algumas construções sintáticas mínimas para clarificar referentes e relações entre orações.\",\n    \"Preservado o léxico central: objetividade, moralidade, comando divino, real, estatuto, Deus, ente intencional.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém uma formulação densa e parcialmente truncada no segmento sobre a 'fraca descrição' e o 'estatuto' do real.\",\n    \"Há sinal de corte interno; a limpeza recompôs apenas o mínimo necessário para legibilidade.\",\n    \"O texto permanece parcial e pode beneficiar de revisão humana em articulação com o contexto adjacente.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:48:30+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0067_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0067_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "bem, mal, real, consciência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0067_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "As respostas a estas críticas afirmam que não existe consciência que viva em “flashes” incoerentes; sem continuidade, não há sequer consciência. O bem só é uma questão para quem consegue pensar a vida e descrevê-la; sem consciência, não há bem, há apenas o real. O mal não existe como entidade: é o nome dado à contraposição da verdade, isto é, à atuação de círculos menores contra círculos maiores do real.\n\nMesmo admitindo a hipótese de ilusão total, há sempre um real onde a ilusão existe. O critério não é afastar-se do real, mas conhecê-lo e orientar-se por ele. Por fim, conclui-se que, de facto, o bem não existe como entidade separada: existe apenas o ser; o bem é a descrição correta do real na ação consciente.",
+    "resumo_alteracoes": [
+      "Ajustada pontuação para melhorar legibilidade e coesão.",
+      "Substituído \"sem ser consciente\" por \"sem consciência\" para maior clareza sem alterar a tese.",
+      "Preservada a sequência local: continuidade da consciência, estatuto do bem, estatuto do mal, hipótese de ilusão, conclusão sobre ser e bem."
+    ],
+    "notas_cautela": [
+      "O fragmento parece responder diretamente a críticas formuladas no segmento anterior e mantém dependência desse contexto local.",
+      "A expressão \"círculos menores contra círculos maiores do real\" foi preservada por ser léxico autoral relevante, embora permaneça densa.",
+      "Não foram preenchidas eventuais lacunas argumentativas entre a resposta às críticas e a conclusão final."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0067_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"As respostas a estas críticas afirmam que não existe consciência que viva em “flashes” incoerentes; sem continuidade, não há sequer consciência. O bem só é uma questão para quem consegue pensar a vida e descrevê-la; sem consciência, não há bem, há apenas o real. O mal não existe como entidade: é o nome dado à contraposição da verdade, isto é, à atuação de círculos menores contra círculos maiores do real.\\n\\nMesmo admitindo a hipótese de ilusão total, há sempre um real onde a ilusão existe. O critério não é afastar-se do real, mas conhecê-lo e orientar-se por ele. Por fim, conclui-se que, de facto, o bem não existe como entidade separada: existe apenas o ser; o bem é a descrição correta do real na ação consciente.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada pontuação para melhorar legibilidade e coesão.\",\n    \"Substituído \\\"sem ser consciente\\\" por \\\"sem consciência\\\" para maior clareza sem alterar a tese.\",\n    \"Preservada a sequência local: continuidade da consciência, estatuto do bem, estatuto do mal, hipótese de ilusão, conclusão sobre ser e bem.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece responder diretamente a críticas formuladas no segmento anterior e mantém dependência desse contexto local.\",\n    \"A expressão \\\"círculos menores contra círculos maiores do real\\\" foi preservada por ser léxico autoral relevante, embora permaneça densa.\",\n    \"Não foram preenchidas eventuais lacunas argumentativas entre a resposta às críticas e a conclusão final.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:11:37+00:00",
+  "modelo": "gpt-5.4"
+}

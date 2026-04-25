@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0235_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0235_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "expansão espaço campo existência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0235_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Não há bem uma teoria para o que é a matéria negra. Mas a expansão do espaço numa velocidade superior à própria velocidade da luz não será algo limitado, como acaba por escrever o cientista, mas antes algo necessário existir como campo para que as relações que existem no ser possam continuar a existir em movimento, no contínuo do tempo.",
+    "resumo_alteracoes": [
+      "Removeu-se oralidade redundante, como 'não é?', 'portanto' e 'ou seja'.",
+      "Eliminou-se a autocorreção 'a duplicação não' para estabilizar a frase sem alterar a tese local.",
+      "Ajustou-se a sintaxe para tornar a pergunta mais legível e contínua.",
+      "Preservou-se o contraste entre uma leitura limitada da expansão e a formulação da expansão como campo necessário."
+    ],
+    "notas_cautela": [
+      "A expressão 'matéria negra' foi preservada tal como no original, sem normalização terminológica.",
+      "O trecho 'como acaba por escrever o cientista' mantém alguma indeterminação referencial já presente na fonte.",
+      "Há condensação conceptual elevada no segmento final; a limpeza visou apenas legibilidade, sem reconstrução interpretativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0235_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Não há bem uma teoria para o que é a matéria negra. Mas a expansão do espaço numa velocidade superior à própria velocidade da luz não será algo limitado, como acaba por escrever o cientista, mas antes algo necessário existir como campo para que as relações que existem no ser possam continuar a existir em movimento, no contínuo do tempo.\",\n  \"resumo_alteracoes\": [\n    \"Removeu-se oralidade redundante, como 'não é?', 'portanto' e 'ou seja'.\",\n    \"Eliminou-se a autocorreção 'a duplicação não' para estabilizar a frase sem alterar a tese local.\",\n    \"Ajustou-se a sintaxe para tornar a pergunta mais legível e contínua.\",\n    \"Preservou-se o contraste entre uma leitura limitada da expansão e a formulação da expansão como campo necessário.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão 'matéria negra' foi preservada tal como no original, sem normalização terminológica.\",\n    \"O trecho 'como acaba por escrever o cientista' mantém alguma indeterminação referencial já presente na fonte.\",\n    \"Há condensação conceptual elevada no segmento final; a limpeza visou apenas legibilidade, sem reconstrução interpretativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:44:58+00:00",
+  "modelo": "gpt-5.4"
+}

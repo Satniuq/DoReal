@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0074_A02_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0074_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "relativização da sabedoria humana"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0074_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E isto faz parte da sabedoria humana, ou do que chamamos sabedoria humana — hoje já é difícil saber o que isso é. Está tudo tão compartimentalizado, difuso e relativizado. Mas relativizado a quê? À esfera especial do indivíduo: eu tenho um momento e, por isso, o real está abaixo de mim.\n\nNo fundo, é esta a posição. Uma das únicas duas posições que podem existir. Da outra já falámos.",
+    "resumo_alteracoes": [
+      "Suavizada a oralidade e a fragmentação sintática sem alterar a tese local.",
+      "Ligação mínima entre frases para melhorar coesão e legibilidade.",
+      "Pontuação revista para clarificar a sequência argumentativa.",
+      "Mantido o contraste entre 'sabedoria humana' e a relativização à esfera do indivíduo."
+    ],
+    "notas_cautela": [
+      "O fragmento depende de contexto anterior e posterior, sobretudo na referência às 'únicas duas posições'.",
+      "A expressão 'eu tenho um momento' foi preservada por poder ser lexicalmente relevante, apesar de alguma ambiguidade.",
+      "O texto permanece parcialmente alusivo e não fecha a distinção mencionada."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0074_A02_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E isto faz parte da sabedoria humana, ou do que chamamos sabedoria humana — hoje já é difícil saber o que isso é. Está tudo tão compartimentalizado, difuso e relativizado. Mas relativizado a quê? À esfera especial do indivíduo: eu tenho um momento e, por isso, o real está abaixo de mim.\\n\\nNo fundo, é esta a posição. Uma das únicas duas posições que podem existir. Da outra já falámos.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a oralidade e a fragmentação sintática sem alterar a tese local.\",\n    \"Ligação mínima entre frases para melhorar coesão e legibilidade.\",\n    \"Pontuação revista para clarificar a sequência argumentativa.\",\n    \"Mantido o contraste entre 'sabedoria humana' e a relativização à esfera do indivíduo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento depende de contexto anterior e posterior, sobretudo na referência às 'únicas duas posições'.\",\n    \"A expressão 'eu tenho um momento' foi preservada por poder ser lexicalmente relevante, apesar de alguma ambiguidade.\",\n    \"O texto permanece parcialmente alusivo e não fecha a distinção mencionada.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:13:54+00:00",
+  "modelo": "gpt-5.4"
+}

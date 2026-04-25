@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A25_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A25_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "corpo, cognição e reflexividade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A25_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A questão é que eu não sei se uma síntese simbólica que se reconhece não é o mesmo que dizer síntese simbólica, porque, para haver síntese simbólica, já tem de haver reconhecimento, já tem de haver algo que sintetiza, algo que pode sequer sintetizar. Eu não creio que um cão, quando vê e tem imagética na sua cabeça, portanto faz 90% do que nós fazemos quando olhamos para uma coisa, não conheça aquilo que está a ver e a representar. Agora, ele não conhece que conhece aquilo que está a ver e a representar. Mas isso também é porque não tem mãos, não tem pernas, não tem estrutura onde possa desenvolver uma fala; não pode construir, não pode fazer nada. É normal que não tenha.\n\nCuidado. Onde é que haveria reflexividade sem um ser exploratório? Sem um ser que toca coisas, que apreende diretamente o local, o real? Não tenho a certeza de que a experiência olfativa seja tão dada à relação com o real, na sua boa descrição, que, no fundo, é isso que a consciência permite fazer: o ser conhecer-se a si no real, conhecendo o real, e que pudesse alguma vez servir de fundamento para um ser reflexivo, se não existem essas condições. Também não tenho a certeza de que apontar para a linguagem, ou para a construção simbólica, resolva a questão. Está bem, mas isso existe porquê? Existe porque está aí uma estrutura, certo? Isso existe porque não ando com as quatro patas no chão; tenho dois braços para poder manusear o real.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e oralidade redundante sem alterar a tese local.",
+      "Separadas e pontuadas frases longas para melhorar legibilidade e coesão.",
+      "Corrigidas repetições imediatas e interpelações coloquiais excessivas.",
+      "Feita reconstrução mínima em trechos truncados para manter continuidade sintática.",
+      "Corrigido provável lapso material em 'dois livros' para 'dois braços' por coerência interna com 'manusear o real' e com a oposição a 'quatro patas'."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém zonas de formulação instável, sobretudo na passagem sobre experiência olfativa e fundamento do ser reflexivo.",
+      "Há corte interno perceptível; a reconstrução foi mínima e conservadora.",
+      "A correção de 'dois livros' para 'dois braços' é inferencial e deve ser validada em revisão humana."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A25_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A questão é que eu não sei se uma síntese simbólica que se reconhece não é o mesmo que dizer síntese simbólica, porque, para haver síntese simbólica, já tem de haver reconhecimento, já tem de haver algo que sintetiza, algo que pode sequer sintetizar. Eu não creio que um cão, quando vê e tem imagética na sua cabeça, portanto faz 90% do que nós fazemos quando olhamos para uma coisa, não conheça aquilo que está a ver e a representar. Agora, ele não conhece que conhece aquilo que está a ver e a representar. Mas isso também é porque não tem mãos, não tem pernas, não tem estrutura onde possa desenvolver uma fala; não pode construir, não pode fazer nada. É normal que não tenha.\\n\\nCuidado. Onde é que haveria reflexividade sem um ser exploratório? Sem um ser que toca coisas, que apreende diretamente o local, o real? Não tenho a certeza de que a experiência olfativa seja tão dada à relação com o real, na sua boa descrição, que, no fundo, é isso que a consciência permite fazer: o ser conhecer-se a si no real, conhecendo o real, e que pudesse alguma vez servir de fundamento para um ser reflexivo, se não existem essas condições. Também não tenho a certeza de que apontar para a linguagem, ou para a construção simbólica, resolva a questão. Está bem, mas isso existe porquê? Existe porque está aí uma estrutura, certo? Isso existe porque não ando com as quatro patas no chão; tenho dois braços para poder manusear o real.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e oralidade redundante sem alterar a tese local.\",\n    \"Separadas e pontuadas frases longas para melhorar legibilidade e coesão.\",\n    \"Corrigidas repetições imediatas e interpelações coloquiais excessivas.\",\n    \"Feita reconstrução mínima em trechos truncados para manter continuidade sintática.\",\n    \"Corrigido provável lapso material em 'dois livros' para 'dois braços' por coerência interna com 'manusear o real' e com a oposição a 'quatro patas'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém zonas de formulação instável, sobretudo na passagem sobre experiência olfativa e fundamento do ser reflexivo.\",\n    \"Há corte interno perceptível; a reconstrução foi mínima e conservadora.\",\n    \"A correção de 'dois livros' para 'dois braços' é inferencial e deve ser validada em revisão humana.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:56:32+00:00",
+  "modelo": "gpt-5.4"
+}

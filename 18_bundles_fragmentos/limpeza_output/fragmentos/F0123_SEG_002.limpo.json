@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0123_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0123_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "filosofia, apreensão, limites, falha"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0123_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O discurso revela um modo de ser. Discursar sobre o discurso, ou sobre o que é, obriga a pensar sobre o discurso ou sobre o que é; isto é, a integrar o real. Ser, pensar e dizer andam juntos.\n\nO estudo do pensamento filosófico torna-se necessário ao verdadeiro pensamento filosófico. Isso implica admitir que Aristóteles tinha razão na potencialidade. Implica rejeitar as finalidades. Platão tinha razão ao dizer que há algo entre o eu e o real, mas confundiu isso com o real, quando era o símbolo.\n\nKant percebeu que a estrutura da consciência condiciona o que se apreende, falhando em tudo o resto. Wittgenstein modernizou a analítica da apreensão e falhou em tudo o resto. Heidegger continuou, e falhou em tudo o resto.\n\nA temática tem sido falhar em tudo o resto, até que o que permaneceu a insistir ressoou, hoje em dia, em falhar em tudo.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Reduzida a redundância sintática no primeiro parágrafo, preservando o encadeamento original.",
+      "Mantido o léxico central do fragmento, incluindo 'integrar o real', 'potencialidade', 'símbolo' e 'falhar em tudo o resto'.",
+      "Preservada a repetição final por aparentar ter função enfática no argumento local."
+    ],
+    "notas_cautela": [
+      "O fecho do fragmento permanece formulaicamente denso e pode refletir compressão argumentativa não resolvida no excerto.",
+      "Há juízos muito abreviados sobre autores; foram preservados por cautela, sem explicitação adicional.",
+      "O fragmento pode permanecer parcial face à continuidade local ativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0123_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O discurso revela um modo de ser. Discursar sobre o discurso, ou sobre o que é, obriga a pensar sobre o discurso ou sobre o que é; isto é, a integrar o real. Ser, pensar e dizer andam juntos.\\n\\nO estudo do pensamento filosófico torna-se necessário ao verdadeiro pensamento filosófico. Isso implica admitir que Aristóteles tinha razão na potencialidade. Implica rejeitar as finalidades. Platão tinha razão ao dizer que há algo entre o eu e o real, mas confundiu isso com o real, quando era o símbolo.\\n\\nKant percebeu que a estrutura da consciência condiciona o que se apreende, falhando em tudo o resto. Wittgenstein modernizou a analítica da apreensão e falhou em tudo o resto. Heidegger continuou, e falhou em tudo o resto.\\n\\nA temática tem sido falhar em tudo o resto, até que o que permaneceu a insistir ressoou, hoje em dia, em falhar em tudo.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Reduzida a redundância sintática no primeiro parágrafo, preservando o encadeamento original.\",\n    \"Mantido o léxico central do fragmento, incluindo 'integrar o real', 'potencialidade', 'símbolo' e 'falhar em tudo o resto'.\",\n    \"Preservada a repetição final por aparentar ter função enfática no argumento local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fecho do fragmento permanece formulaicamente denso e pode refletir compressão argumentativa não resolvida no excerto.\",\n    \"Há juízos muito abreviados sobre autores; foram preservados por cautela, sem explicitação adicional.\",\n    \"O fragmento pode permanecer parcial face à continuidade local ativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:33:21+00:00",
+  "modelo": "gpt-5.4"
+}

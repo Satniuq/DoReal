@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0165_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0165_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "natureza não-progressiva da filosofia"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0165_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Pois, é bem visto e faz um certo sentido. O que é isto? A linha narrativa ser o que é, ser. O que é isto? É uma pergunta que só faz sentido num ser consciente e reflexivo que se pergunta o que é isto. E a filosofia, creio eu, mostra de certo modo isso. Ela não é progressiva de todo; é reveladora dos espaços descobertos do real. Como hei de dizer isto? O que estou a pensar é algo como isto: Aristóteles não tinha sequer conhecimento do que é um planeta, do que é um animal. Tinha a noção de que havia um espaço onde ele existia e de que havia uns seres que faziam umas coisas e tinham mais liberdade para fazer outras. Descartes não tinha a mínima ideia do que era o conhecimento obtido através do instrumento. Kant não tinha qualquer noção do que era a física, e por aí adiante. Por isso, é normal que fossem assim.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e marcas de oralidade redundantes sem alterar a tese local.",
+      "Ajustada a sintaxe e a pontuação para maior legibilidade e coesão.",
+      "Preservada a sequência argumentativa: pergunta sobre o ser, limitação do sujeito reflexivo, caráter não progressivo da filosofia, exemplos históricos, conclusão.",
+      "Mantido o léxico central do fragmento, incluindo a formulação sobre a filosofia como reveladora dos espaços descobertos do real."
+    ],
+    "notas_cautela": [
+      "A expressão \"linha narrativa ser o que é, ser\" permanece algo elíptica; foi apenas minimamente regularizada.",
+      "A formulação sobre Aristóteles, Descartes e Kant foi preservada no seu tom assertivo, sem correção de conteúdo histórico.",
+      "A frase \"Por isso eles...\" estava truncada; a conclusão foi reconstruída apenas com base no segmento seguinte."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0165_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Pois, é bem visto e faz um certo sentido. O que é isto? A linha narrativa ser o que é, ser. O que é isto? É uma pergunta que só faz sentido num ser consciente e reflexivo que se pergunta o que é isto. E a filosofia, creio eu, mostra de certo modo isso. Ela não é progressiva de todo; é reveladora dos espaços descobertos do real. Como hei de dizer isto? O que estou a pensar é algo como isto: Aristóteles não tinha sequer conhecimento do que é um planeta, do que é um animal. Tinha a noção de que havia um espaço onde ele existia e de que havia uns seres que faziam umas coisas e tinham mais liberdade para fazer outras. Descartes não tinha a mínima ideia do que era o conhecimento obtido através do instrumento. Kant não tinha qualquer noção do que era a física, e por aí adiante. Por isso, é normal que fossem assim.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e marcas de oralidade redundantes sem alterar a tese local.\",\n    \"Ajustada a sintaxe e a pontuação para maior legibilidade e coesão.\",\n    \"Preservada a sequência argumentativa: pergunta sobre o ser, limitação do sujeito reflexivo, caráter não progressivo da filosofia, exemplos históricos, conclusão.\",\n    \"Mantido o léxico central do fragmento, incluindo a formulação sobre a filosofia como reveladora dos espaços descobertos do real.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão \\\"linha narrativa ser o que é, ser\\\" permanece algo elíptica; foi apenas minimamente regularizada.\",\n    \"A formulação sobre Aristóteles, Descartes e Kant foi preservada no seu tom assertivo, sem correção de conteúdo histórico.\",\n    \"A frase \\\"Por isso eles...\\\" estava truncada; a conclusão foi reconstruída apenas com base no segmento seguinte.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:37:43+00:00",
+  "modelo": "gpt-5.4"
+}

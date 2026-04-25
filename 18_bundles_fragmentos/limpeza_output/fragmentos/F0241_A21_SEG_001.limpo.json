@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A21_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A21_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "fundamento da definição"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A21_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Neste caso que conhecemos, mas mais corretamente, trata-se do ser reflexivo envolvendo o real, que é aquilo que permite que o ser reflexivo sequer se manifeste como estando perto ou não daquilo que estamos a tentar definir. Pode ser liberdade, pode ser justiça, pode ser dignidade, pode ser o que quisermos: os temas filosóficos de uma filosofia geral. A definição tem de conter essa própria generalidade e particularidade.\n\nA direção começa no eu, se começa no real; começa no real porque o eu está dentro do real. Mas não sei se, narrativamente, não faria mais sentido que a linha daquilo que se está a definir, para não haver definições soltas, começasse no eu. Porque é no ser reflexivo que começa a própria reflexividade. Não existe para lá do ser reflexivo.",
+    "resumo_alteracoes": [
+      "Clarificada a sintaxe do primeiro período sem alterar a tese local.",
+      "Removidas hesitações e oralidade redundante para melhorar a legibilidade.",
+      "Reorganizada pontuação em passagens longas e fundidas.",
+      "Suprimido o trecho corrompido \"vai cantar integrar\" por não ser recuperável com segurança e por prejudicar a coesão.",
+      "Preservada a oposição local entre começar no real e começar no eu."
+    ],
+    "notas_cautela": [
+      "O fragmento contém sinais de corte interno e fusão de parágrafos.",
+      "Há uma passagem manifestamente corrompida no original; foi reduzida ao mínimo legível sem reconstrução especulativa.",
+      "O texto pode permanecer parcial em relação ao desenvolvimento argumentativo mais amplo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A21_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Neste caso que conhecemos, mas mais corretamente, trata-se do ser reflexivo envolvendo o real, que é aquilo que permite que o ser reflexivo sequer se manifeste como estando perto ou não daquilo que estamos a tentar definir. Pode ser liberdade, pode ser justiça, pode ser dignidade, pode ser o que quisermos: os temas filosóficos de uma filosofia geral. A definição tem de conter essa própria generalidade e particularidade.\\n\\nA direção começa no eu, se começa no real; começa no real porque o eu está dentro do real. Mas não sei se, narrativamente, não faria mais sentido que a linha daquilo que se está a definir, para não haver definições soltas, começasse no eu. Porque é no ser reflexivo que começa a própria reflexividade. Não existe para lá do ser reflexivo.\",\n  \"resumo_alteracoes\": [\n    \"Clarificada a sintaxe do primeiro período sem alterar a tese local.\",\n    \"Removidas hesitações e oralidade redundante para melhorar a legibilidade.\",\n    \"Reorganizada pontuação em passagens longas e fundidas.\",\n    \"Suprimido o trecho corrompido \\\"vai cantar integrar\\\" por não ser recuperável com segurança e por prejudicar a coesão.\",\n    \"Preservada a oposição local entre começar no real e começar no eu.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento contém sinais de corte interno e fusão de parágrafos.\",\n    \"Há uma passagem manifestamente corrompida no original; foi reduzida ao mínimo legível sem reconstrução especulativa.\",\n    \"O texto pode permanecer parcial em relação ao desenvolvimento argumentativo mais amplo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:54:24+00:00",
+  "modelo": "gpt-5.4"
+}

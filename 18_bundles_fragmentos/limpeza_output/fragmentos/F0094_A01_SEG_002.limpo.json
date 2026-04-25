@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0094_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0094_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "fundamentação liberdade expressão"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0094_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Há o exemplo do Mestre: a razão principal que o levou a agir foi aquilo que abriu o campo das possibilidades futuras, o primeiro caminho que permitiu todas as curvas seguintes. Isso fundou-se na luta contra a restrição da liberdade de expressão — que é liberdade de pensamento — e, logo, liberdade de ser. Trata-se de um limite autoimposto com impacto monumental na vida humana, porque usamos a linguagem para comunicar: fala, escrita, gestos. Esse agir corresponde à liberdade do ser reflexivo dentro da realidade, para melhor conhecê-la e daí extrair possibilidades.\n\nMesmo de um ponto de vista pragmático, aplicado ao círculo dependente do modo de ser verdadeiro, não se poderia escolher uma posição política que restrinja a liberdade de expressão. A divisão manifesta-se globalmente entre a restrição e a preservação da liberdade.",
+    "resumo_alteracoes": [
+      "Suavizei construções orais e tornei a sintaxe mais estável sem alterar a tese local.",
+      "Mantive a sequência argumentativa: exemplo do Mestre, fundamento na liberdade de expressão, alcance ontológico e consequência política.",
+      "Ajustei ligações frásicas mínimas para melhorar coesão e legibilidade.",
+      "Preservei o léxico central do fragmento: liberdade de expressão, liberdade de pensamento, liberdade de ser, ser reflexivo, realidade."
+    ],
+    "notas_cautela": [
+      "O referente de «Mestre» permanece contextual e não foi explicitado para evitar introdução de conteúdo novo.",
+      "A formulação «limite autoimposto» pode depender de contexto anterior para plena determinação, mas foi preservada.",
+      "O fragmento parece integrado numa continuidade argumentativa maior; a limpeza não tentou fechar lacunas além do necessário."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0094_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Há o exemplo do Mestre: a razão principal que o levou a agir foi aquilo que abriu o campo das possibilidades futuras, o primeiro caminho que permitiu todas as curvas seguintes. Isso fundou-se na luta contra a restrição da liberdade de expressão — que é liberdade de pensamento — e, logo, liberdade de ser. Trata-se de um limite autoimposto com impacto monumental na vida humana, porque usamos a linguagem para comunicar: fala, escrita, gestos. Esse agir corresponde à liberdade do ser reflexivo dentro da realidade, para melhor conhecê-la e daí extrair possibilidades.\\n\\nMesmo de um ponto de vista pragmático, aplicado ao círculo dependente do modo de ser verdadeiro, não se poderia escolher uma posição política que restrinja a liberdade de expressão. A divisão manifesta-se globalmente entre a restrição e a preservação da liberdade.\",\n  \"resumo_alteracoes\": [\n    \"Suavizei construções orais e tornei a sintaxe mais estável sem alterar a tese local.\",\n    \"Mantive a sequência argumentativa: exemplo do Mestre, fundamento na liberdade de expressão, alcance ontológico e consequência política.\",\n    \"Ajustei ligações frásicas mínimas para melhorar coesão e legibilidade.\",\n    \"Preservei o léxico central do fragmento: liberdade de expressão, liberdade de pensamento, liberdade de ser, ser reflexivo, realidade.\"\n  ],\n  \"notas_cautela\": [\n    \"O referente de «Mestre» permanece contextual e não foi explicitado para evitar introdução de conteúdo novo.\",\n    \"A formulação «limite autoimposto» pode depender de contexto anterior para plena determinação, mas foi preservada.\",\n    \"O fragmento parece integrado numa continuidade argumentativa maior; a limpeza não tentou fechar lacunas além do necessário.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:21:11+00:00",
+  "modelo": "gpt-5.4"
+}

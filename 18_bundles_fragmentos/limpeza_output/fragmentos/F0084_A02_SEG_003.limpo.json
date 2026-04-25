@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0084_A02_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0084_A02_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "coletivo, nicho, permanência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0084_A02_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "É natural ver no coletivo uma direção, porque apreendo os outros e a mim próprio. O coletivo nasce daí, mas só porque também nasce de mim. Isto esquece-se pela nossa característica animalesca de dominar nichos, porque representamos simbolicamente e delegamos a validação dos modos de ser.\n\nNão é preciso comer em Tóquio quando posso comer nos dez restaurantes à volta de casa que conheço. A adequação ao nicho leva-me à adequação ao modo de ser do nicho. Mudar fora dessa direção é mais difícil, porque destrói caminhos físicos, biológicos e neuronais. É mais fácil viver de acordo com o modo coletivo local.\n\nSe algum estado de coisas pretende afetar o meu estado de coisas, prevalece a permanência do contínuo do estado de coisas existente há um segundo, há dois segundos. O relativismo, a delegação do real por outras prioridades, é justificável em círculos menores. Caso contrário, nem haveria ser humano.",
+    "resumo_alteracoes": [
+      "Removida oralidade mínima em 'eu apreendo', mantendo o sentido.",
+      "Ajustada a pontuação e a coordenação em 'físicos, biológicos e neuronais' para maior fluidez.",
+      "Preservada a divisão em três parágrafos e a progressão argumentativa local."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e parcialmente elípticas, sobretudo em 'delegamos a validação dos modos de ser' e na passagem final sobre relativismo.",
+      "Há possível compressão argumentativa entre coletivo, nicho e permanência; foi preservada sem explicitação adicional para evitar introduzir conteúdo novo.",
+      "O texto permanece utilizável, mas pode beneficiar de revisão humana se for necessário articular melhor a transição para a tese do relativismo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0084_A02_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"É natural ver no coletivo uma direção, porque apreendo os outros e a mim próprio. O coletivo nasce daí, mas só porque também nasce de mim. Isto esquece-se pela nossa característica animalesca de dominar nichos, porque representamos simbolicamente e delegamos a validação dos modos de ser.\\n\\nNão é preciso comer em Tóquio quando posso comer nos dez restaurantes à volta de casa que conheço. A adequação ao nicho leva-me à adequação ao modo de ser do nicho. Mudar fora dessa direção é mais difícil, porque destrói caminhos físicos, biológicos e neuronais. É mais fácil viver de acordo com o modo coletivo local.\\n\\nSe algum estado de coisas pretende afetar o meu estado de coisas, prevalece a permanência do contínuo do estado de coisas existente há um segundo, há dois segundos. O relativismo, a delegação do real por outras prioridades, é justificável em círculos menores. Caso contrário, nem haveria ser humano.\",\n  \"resumo_alteracoes\": [\n    \"Removida oralidade mínima em 'eu apreendo', mantendo o sentido.\",\n    \"Ajustada a pontuação e a coordenação em 'físicos, biológicos e neuronais' para maior fluidez.\",\n    \"Preservada a divisão em três parágrafos e a progressão argumentativa local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e parcialmente elípticas, sobretudo em 'delegamos a validação dos modos de ser' e na passagem final sobre relativismo.\",\n    \"Há possível compressão argumentativa entre coletivo, nicho e permanência; foi preservada sem explicitação adicional para evitar introduzir conteúdo novo.\",\n    \"O texto permanece utilizável, mas pode beneficiar de revisão humana se for necessário articular melhor a transição para a tese do relativismo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:17:09+00:00",
+  "modelo": "gpt-5.4"
+}

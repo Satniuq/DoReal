@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0090_A01_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0090_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0090_A01\",\n  \"header_original\": \"## F0090 — Educação como condição da liberdade, infância, continuidade e criação da consciência\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"inversão eu e realidade\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"O que decorreu depois foi deixar de se perguntar o que é preciso fazer para manter verdadeira a afirmação de que o homem é livre e de que as sociedades, para prosperarem, têm de manter o homem livre — o que exigiria focar a educação nesses termos — passando-se antes a discutir o próprio termo. Confunde-se educação com métricas de literacia. É o mesmo problema de sempre: recolocar o eu fora da realidade.\\n\\nÉ tentar resolver a discrepância de valências individuais fazendo o real adequar-se ao eu, em vez de colocar o eu dentro do real. Esquece-se que não se dá educação: oferece-se educação. Cada um acaba por recebê-la ou não.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0090_A01_SEG_001\\n- tema: educação pilar liberdade política\\n- preview: Estava a pensar na educação desde o Renascimento e na sua aplicação política com o liberalismo: percebeu-se que a educação do homem é aquilo que permite que o homem seja livre. Sem educação não existiria liberdade. E é natural que assim seja.\\n\\nFragmento seguinte:\\n- id: F0090_A01_SEG_003\\n- tema: realidade eu conhecimento compartimentado\\n- preview: A questão do melhor método de ensino é colocada como se fosse necessário conhecer todos os sistemas errados para se poder falar do correto, em vez de se afirmar a evidência tautológica: a criança sabe melhor se primeiro souber o que é isto que existe e o que é isto de eu existir. Uma criança sem contacto com o real — que deveria ser dado pelo pai e pela mãe — sucumbirá a todos os modos de contacto dependentes apenas…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0090_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0090_A01",
+    "header_original": "## F0090 — Educação como condição da liberdade, infância, continuidade e criação da consciência",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "inversão eu e realidade",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "O que decorreu depois foi deixar de se perguntar o que é preciso fazer para manter verdadeira a afirmação de que o homem é livre e de que as sociedades, para prosperarem, têm de manter o homem livre — o que exigiria focar a educação nesses termos — passando-se antes a discutir o próprio termo. Confunde-se educação com métricas de literacia. É o mesmo problema de sempre: recolocar o eu fora da realidade.\n\nÉ tentar resolver a discrepância de valências individuais fazendo o real adequar-se ao eu, em vez de colocar o eu dentro do real. Esquece-se que não se dá educação: oferece-se educação. Cada um acaba por recebê-la ou não.",
+    "contexto_local": "Fragmento anterior:\n- id: F0090_A01_SEG_001\n- tema: educação pilar liberdade política\n- preview: Estava a pensar na educação desde o Renascimento e na sua aplicação política com o liberalismo: percebeu-se que a educação do homem é aquilo que permite que o homem seja livre. Sem educação não existiria liberdade. E é natural que assim seja.\n\nFragmento seguinte:\n- id: F0090_A01_SEG_003\n- tema: realidade eu conhecimento compartimentado\n- preview: A questão do melhor método de ensino é colocada como se fosse necessário conhecer todos os sistemas errados para se poder falar do correto, em vez de se afirmar a evidência tautológica: a criança sabe melhor se primeiro souber o que é isto que existe e o que é isto de eu existir. Uma criança sem contacto com o real — que deveria ser dado pelo pai e pela mãe — sucumbirá a todos os modos de contacto dependentes apenas…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

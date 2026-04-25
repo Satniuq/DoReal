@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0082_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0082_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "impossibilidade conceitual do nada"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0082_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Ainda que o real seja o campo, com tudo o que ele permite — atualizações, relações, deteção, representação e um ponto de vista único local que representa a representação, até à consciência —, com tudo isso que é campo, o nada seria o quê? Haver algo sem o campo? Sem as potencialidades do ser?\n\nAquilo que existe, ao existir, faz logo algo ser. Para ser nada, não poderia haver nada sequer que permitisse haver; e isso já seria algo. O nada nunca pode ser.",
+    "resumo_alteracoes": [
+      "Ajuste pontual de fluidez sintática sem alterar a tese local.",
+      "Substituição de 'e ponto de vista único local' por 'e um ponto de vista único local' para legibilidade.",
+      "Reorganização mínima da última frase com pontuação para tornar o encadeamento mais claro.",
+      "Preservação do vocabulário central: real, campo, potencialidades do ser, nada."
+    ],
+    "notas_cautela": [
+      "O fragmento parece integrar uma continuidade argumentativa ativa com o segmento seguinte.",
+      "Há formulações densas e parcialmente elípticas que foram preservadas para não introduzir conteúdo novo.",
+      "A expressão 'representa a representação' foi mantida apesar da opacidade local, por poder ser filosoficamente carregada no projeto."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0082_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Ainda que o real seja o campo, com tudo o que ele permite — atualizações, relações, deteção, representação e um ponto de vista único local que representa a representação, até à consciência —, com tudo isso que é campo, o nada seria o quê? Haver algo sem o campo? Sem as potencialidades do ser?\\n\\nAquilo que existe, ao existir, faz logo algo ser. Para ser nada, não poderia haver nada sequer que permitisse haver; e isso já seria algo. O nada nunca pode ser.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste pontual de fluidez sintática sem alterar a tese local.\",\n    \"Substituição de 'e ponto de vista único local' por 'e um ponto de vista único local' para legibilidade.\",\n    \"Reorganização mínima da última frase com pontuação para tornar o encadeamento mais claro.\",\n    \"Preservação do vocabulário central: real, campo, potencialidades do ser, nada.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece integrar uma continuidade argumentativa ativa com o segmento seguinte.\",\n    \"Há formulações densas e parcialmente elípticas que foram preservadas para não introduzir conteúdo novo.\",\n    \"A expressão 'representa a representação' foi mantida apesar da opacidade local, por poder ser filosoficamente carregada no projeto.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:16:07+00:00",
+  "modelo": "gpt-5.4"
+}

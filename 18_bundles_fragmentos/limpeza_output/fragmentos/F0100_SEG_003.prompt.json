@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0100_SEG_003",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0100_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0100\",\n  \"header_original\": \"## F0100\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"distincao_conceptual\",\n  \"tema_dominante_provisorio\": \"eu real distinção género\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"conservadora\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": false,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Ao pai não cabe esse papel porque não lhe cabe o custo de gerar um novo ser, nem o toque com a relação de ser que gera outro ser dentro de si. A exigência de enquadrar o real no eu seria desproporcionada e não passível de atualização evolutiva para a mãe, para quem o real é, na maior parte das vezes, secundário ao filho.\\n\\nOs dois seres que existem — o que vive no eu e o que vive no real — correspondem ao feminino e ao masculino, uma vez que todos os seres conscientes reflexivos advêm de uma mãe e de um pai. As tipologias multiplicadas (big five, big seven, etc.) reduzem-se a duas: o ser no real e o ser no eu.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0100_SEG_002\\n- tema: pai professor comparação papel\\n- preview: Antes do professor — enquanto compartimentalização humana necessária pelo aumento da complexidade das relações — havia o pai. A continuidade tende para a interconexão com todos os seres do planeta onde existem seres conscientes reflexivos, e potencialmente para além disso. O pai surge como o símbolo mais forte porque é o mais atualizado: o ser que existe no círculo imediato do novo ser e a quem cabe, bem ou mal, tra…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0100_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0100",
+    "header_original": "## F0100",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "eu real distinção género",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "conservadora",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": false,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Ao pai não cabe esse papel porque não lhe cabe o custo de gerar um novo ser, nem o toque com a relação de ser que gera outro ser dentro de si. A exigência de enquadrar o real no eu seria desproporcionada e não passível de atualização evolutiva para a mãe, para quem o real é, na maior parte das vezes, secundário ao filho.\n\nOs dois seres que existem — o que vive no eu e o que vive no real — correspondem ao feminino e ao masculino, uma vez que todos os seres conscientes reflexivos advêm de uma mãe e de um pai. As tipologias multiplicadas (big five, big seven, etc.) reduzem-se a duas: o ser no real e o ser no eu.",
+    "contexto_local": "Fragmento anterior:\n- id: F0100_SEG_002\n- tema: pai professor comparação papel\n- preview: Antes do professor — enquanto compartimentalização humana necessária pelo aumento da complexidade das relações — havia o pai. A continuidade tende para a interconexão com todos os seres do planeta onde existem seres conscientes reflexivos, e potencialmente para além disso. O pai surge como o símbolo mais forte porque é o mais atualizado: o ser que existe no círculo imediato do novo ser e a quem cabe, bem ou mal, tra…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

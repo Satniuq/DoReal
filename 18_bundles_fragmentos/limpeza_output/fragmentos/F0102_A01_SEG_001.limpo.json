@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0102_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0102_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "fragmento_intuitivo",
+    "tema_dominante_provisorio": "abordagem conceitual e discurso ontológico"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0102_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O ritmo, de certo modo. A atitude perante a clarificação de conceitos, o dizer: “vamos definir coisas”. Mesmo em qualquer discurso, mesmo em discursos ontológicos — porque não existem, absolutamente, discursos ontológicos.",
+    "resumo_alteracoes": [
+      "Suavizada a segmentação frásica para melhorar a legibilidade local.",
+      "Reduzida a oralidade redundante sem alterar a tese do fragmento.",
+      "Mantido o léxico central, incluindo 'clarificação de conceitos' e 'discursos ontológicos'.",
+      "Preservada a formulação enfática final, apenas com ajuste de pontuação."
+    ],
+    "notas_cautela": [
+      "O fragmento permanece parcial e enunciativo, sem desenvolvimento explícito da ligação entre as frases.",
+      "Há continuidade local ativa e possível corte interno; não foram preenchidas lacunas argumentativas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0102_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O ritmo, de certo modo. A atitude perante a clarificação de conceitos, o dizer: “vamos definir coisas”. Mesmo em qualquer discurso, mesmo em discursos ontológicos — porque não existem, absolutamente, discursos ontológicos.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a segmentação frásica para melhorar a legibilidade local.\",\n    \"Reduzida a oralidade redundante sem alterar a tese do fragmento.\",\n    \"Mantido o léxico central, incluindo 'clarificação de conceitos' e 'discursos ontológicos'.\",\n    \"Preservada a formulação enfática final, apenas com ajuste de pontuação.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento permanece parcial e enunciativo, sem desenvolvimento explícito da ligação entre as frases.\",\n    \"Há continuidade local ativa e possível corte interno; não foram preenchidas lacunas argumentativas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:24:21+00:00",
+  "modelo": "gpt-5.4"
+}

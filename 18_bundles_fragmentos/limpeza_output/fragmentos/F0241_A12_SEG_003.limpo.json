@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A12_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A12_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "objeto, relação, apreensão, real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A12_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Existem relações regulares, relações mais ou menos afetadas por outras relações, atualizações mais ou menos sobrepostas, e uma liberdade de uma atualização poder escolher o campo em que opera. Mas os objetos não se relacionam. Ou seja, falar de objetos é trazer um terceiro nível que não existe: é trazer um nível da apreensão.\n\nOu seja, pode-se falar disso, mas como crítica. Não é apenas como crítica; é também evidência da necessidade de como se apreende: apreende-se por símbolos, apreende-se por estabilidades relacionais com o campo. Eu não vou estar sempre a aprender o que é aquela árvore que vejo todos os dias, o que é esta estrada, o que é este céu. Eu sei o que é quando olho para lá, vendo a apreensão que tenho do real, e não vendo o real.",
+    "resumo_alteracoes": [
+      "Corrigida pontuação e capitalização para melhorar a legibilidade.",
+      "Removidas hesitações e oralidade redundante sem alterar a tese local.",
+      "Ajustadas repetições imediatas e pequenas quebras sintáticas.",
+      "Reconstruídas ligações mínimas em trechos truncados sem acrescentar conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém marcas de corte interno e possível compressão de formulações.",
+      "A expressão sobre a 'necessidade de como se apreende' foi apenas regularizada sintaticamente e pode ainda conservar alguma ambiguidade do original.",
+      "Permanece a distinção entre relações, objetos e apreensão sem fechamento de lacunas argumentativas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A12_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Existem relações regulares, relações mais ou menos afetadas por outras relações, atualizações mais ou menos sobrepostas, e uma liberdade de uma atualização poder escolher o campo em que opera. Mas os objetos não se relacionam. Ou seja, falar de objetos é trazer um terceiro nível que não existe: é trazer um nível da apreensão.\\n\\nOu seja, pode-se falar disso, mas como crítica. Não é apenas como crítica; é também evidência da necessidade de como se apreende: apreende-se por símbolos, apreende-se por estabilidades relacionais com o campo. Eu não vou estar sempre a aprender o que é aquela árvore que vejo todos os dias, o que é esta estrada, o que é este céu. Eu sei o que é quando olho para lá, vendo a apreensão que tenho do real, e não vendo o real.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida pontuação e capitalização para melhorar a legibilidade.\",\n    \"Removidas hesitações e oralidade redundante sem alterar a tese local.\",\n    \"Ajustadas repetições imediatas e pequenas quebras sintáticas.\",\n    \"Reconstruídas ligações mínimas em trechos truncados sem acrescentar conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém marcas de corte interno e possível compressão de formulações.\",\n    \"A expressão sobre a 'necessidade de como se apreende' foi apenas regularizada sintaticamente e pode ainda conservar alguma ambiguidade do original.\",\n    \"Permanece a distinção entre relações, objetos e apreensão sem fechamento de lacunas argumentativas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:50:27+00:00",
+  "modelo": "gpt-5.4"
+}

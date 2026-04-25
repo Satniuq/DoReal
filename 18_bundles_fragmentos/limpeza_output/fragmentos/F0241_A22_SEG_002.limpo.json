@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A22_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A22_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "ser, dever-ser, relação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A22_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A tentativa de saber, depois de tudo, o que é viver uma vida bem vivida, sem se saber o que é isto que é, é operar sempre sobre aquilo que se deveria ser. Quando o que deveria ser tem de ser apoiado no ser, quer dizer: qual é a quebra da relação que vai haver se tu não fores o que eras há um segundo atrás? Se pensares algo relativamente oposto, vais quebrar uma relação existente de outro ser, ontologicamente com o mesmo estatuto que tu, de ser reflexivo; vais matá-lo?",
+    "resumo_alteracoes": [
+      "Reduzi repetições e oralidade redundante sem alterar a tese local.",
+      "Reorganizei a primeira frase para melhorar legibilidade e coesão sintáctica.",
+      "Ajustei pontuação em perguntas e incisos para tornar a sequência argumentativa mais clara.",
+      "Mantive o léxico central: saber, vida bem vivida, dever-ser, ser, relação, ser reflexivo."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém densidade e alguma indeterminação conceptual próprias do original.",
+      "A expressão final 'vais matá-lo?' pode depender de continuidade com o contexto local e foi preservada sem explicitação adicional.",
+      "Há sinais de corte interno; a limpeza recompôs apenas o mínimo necessário para legibilidade."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A22_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A tentativa de saber, depois de tudo, o que é viver uma vida bem vivida, sem se saber o que é isto que é, é operar sempre sobre aquilo que se deveria ser. Quando o que deveria ser tem de ser apoiado no ser, quer dizer: qual é a quebra da relação que vai haver se tu não fores o que eras há um segundo atrás? Se pensares algo relativamente oposto, vais quebrar uma relação existente de outro ser, ontologicamente com o mesmo estatuto que tu, de ser reflexivo; vais matá-lo?\",\n  \"resumo_alteracoes\": [\n    \"Reduzi repetições e oralidade redundante sem alterar a tese local.\",\n    \"Reorganizei a primeira frase para melhorar legibilidade e coesão sintáctica.\",\n    \"Ajustei pontuação em perguntas e incisos para tornar a sequência argumentativa mais clara.\",\n    \"Mantive o léxico central: saber, vida bem vivida, dever-ser, ser, relação, ser reflexivo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém densidade e alguma indeterminação conceptual próprias do original.\",\n    \"A expressão final 'vais matá-lo?' pode depender de continuidade com o contexto local e foi preservada sem explicitação adicional.\",\n    \"Há sinais de corte interno; a limpeza recompôs apenas o mínimo necessário para legibilidade.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:55:04+00:00",
+  "modelo": "gpt-5.4"
+}

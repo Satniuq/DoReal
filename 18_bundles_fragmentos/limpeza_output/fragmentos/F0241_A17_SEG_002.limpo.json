@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A17_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A17_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "direito, eu e totalização"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A17_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Os direitos são vistos como o pensamento do direito que o eu tem no real. Isso é visto como uma necessidade de ocupação desse real por cada eu, integrada pela paridade ontológica. E, como é óbvio, desse sentido animal de querer ser o que se está a ser vai-se querer expandir a sua relevância local para todo o real. E, quando o real mostra que o que todos temos é acesso ao campo na relação com todos os outros do mesmo estatuto, então há limitação àquilo que eu sou, que estou a ser, que vou ser.\n\nDeixa de me interessar o real, o outro, até o próprio eu, sem ser perspectivado por mim. E por isso penso qualquer tipo de comportamento, ou o que quiser ser, porque a minha importância é totalizante. E por isso eu posso ser o melhor ou o pior a escrever o real, o melhor ou o pior a aprender, descrever e representar o real. O melhor ou o pior. Eu estou a ser mais verdadeiro ou mais falso, estou a ser...",
+    "resumo_alteracoes": [
+      "Removida repetição integral do último parágrafo, por duplicação evidente.",
+      "Desfeita a formulação redundante inicial para melhorar legibilidade sem alterar a tese local.",
+      "Ajustadas ligações sintáticas e pontuação em frases longas.",
+      "Conservado o fecho em suspensão, por indicar corte interno do fragmento.",
+      "Mantido o vocabulário central: direito, eu, real, paridade ontológica, importância totalizante."
+    ],
+    "notas_cautela": [
+      "O fragmento contém corte interno e termina de forma incompleta.",
+      "A expressão inicial sobre os direitos permanece parcialmente densa; foi apenas clarificada no mínimo.",
+      "A passagem pode depender do contexto anterior e seguinte para plena estabilização argumentativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A17_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Os direitos são vistos como o pensamento do direito que o eu tem no real. Isso é visto como uma necessidade de ocupação desse real por cada eu, integrada pela paridade ontológica. E, como é óbvio, desse sentido animal de querer ser o que se está a ser vai-se querer expandir a sua relevância local para todo o real. E, quando o real mostra que o que todos temos é acesso ao campo na relação com todos os outros do mesmo estatuto, então há limitação àquilo que eu sou, que estou a ser, que vou ser.\\n\\nDeixa de me interessar o real, o outro, até o próprio eu, sem ser perspectivado por mim. E por isso penso qualquer tipo de comportamento, ou o que quiser ser, porque a minha importância é totalizante. E por isso eu posso ser o melhor ou o pior a escrever o real, o melhor ou o pior a aprender, descrever e representar o real. O melhor ou o pior. Eu estou a ser mais verdadeiro ou mais falso, estou a ser...\",\n  \"resumo_alteracoes\": [\n    \"Removida repetição integral do último parágrafo, por duplicação evidente.\",\n    \"Desfeita a formulação redundante inicial para melhorar legibilidade sem alterar a tese local.\",\n    \"Ajustadas ligações sintáticas e pontuação em frases longas.\",\n    \"Conservado o fecho em suspensão, por indicar corte interno do fragmento.\",\n    \"Mantido o vocabulário central: direito, eu, real, paridade ontológica, importância totalizante.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento contém corte interno e termina de forma incompleta.\",\n    \"A expressão inicial sobre os direitos permanece parcialmente densa; foi apenas clarificada no mínimo.\",\n    \"A passagem pode depender do contexto anterior e seguinte para plena estabilização argumentativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:52:35+00:00",
+  "modelo": "gpt-5.4"
+}

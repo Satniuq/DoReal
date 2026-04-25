@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A12_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A12_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "definição de coisa e relação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A12_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Mesmo que se queira ser minimamente sério, ainda que falhando, tentamos apenas ser formalmente sérios, mesmo não o sendo, como é óbvio. Podias dizer: são aquilo que ocupa espaço, que tem volume, que tem massa, qualquer coisa assim. Está bem, mas aquilo que contém massa é uma coisa? É um bloco?\n\nAquilo que o eletrão é não se sabe, já pela incerteza. É aquilo que pode ser, uma atualização, porque há uma relação conjugatória, uma quebra da função: algo que não seria o campo de potencialidade do eletrão entra nas potencialidades do eletrão, fá-lo relacionar-se e, por isso, ocupar uma posição. É uma coisa aí, quando ocupa uma posição? E quando não ocupa uma posição? E quando está só, estável, na sua continuidade potencial?\n\nEu sou uma coisa quando me encosto contra uma parede e a minha cara cede? Quando os meus dentes se partem, se eu for com muita força? É que eu não me parto todo. Quando o meu cabelo cresce, também sou uma coisa? Se for uma coisa é ser uma relação, então ser uma coisa não significa nada e não se pode usar esse termo. Por isso existem atualizações e por isso existem relações.",
+    "resumo_alteracoes": [
+      "Reduzidas hesitações e oralidade redundante no início, preservando o tom interrogativo e provisório.",
+      "Reorganizada pontuação para melhorar legibilidade sem alterar a sequência local das perguntas e inferências.",
+      "Corrigidas pequenas formas truncadas ou informais, como 'qualque' para 'qualquer'.",
+      "Mantido o léxico central do fragmento, incluindo 'atualização', 'relação conjugatória', 'quebra da função' e 'continuidade potencial'.",
+      "Preservada a passagem do exemplo físico para o eletrão e depois para o corpo próprio, sem fusão com o contexto adjacente."
+    ],
+    "notas_cautela": [
+      "O trecho sobre o eletrão permanece conceitualmente denso e possivelmente elíptico; foi apenas tornado mais legível.",
+      "Há sinais de corte interno e de fusão prévia de parágrafos; não foram preenchidas lacunas argumentativas.",
+      "A expressão 'relação conjugatória' foi preservada sem normalização por poder ser termo autoral específico."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A12_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Mesmo que se queira ser minimamente sério, ainda que falhando, tentamos apenas ser formalmente sérios, mesmo não o sendo, como é óbvio. Podias dizer: são aquilo que ocupa espaço, que tem volume, que tem massa, qualquer coisa assim. Está bem, mas aquilo que contém massa é uma coisa? É um bloco?\\n\\nAquilo que o eletrão é não se sabe, já pela incerteza. É aquilo que pode ser, uma atualização, porque há uma relação conjugatória, uma quebra da função: algo que não seria o campo de potencialidade do eletrão entra nas potencialidades do eletrão, fá-lo relacionar-se e, por isso, ocupar uma posição. É uma coisa aí, quando ocupa uma posição? E quando não ocupa uma posição? E quando está só, estável, na sua continuidade potencial?\\n\\nEu sou uma coisa quando me encosto contra uma parede e a minha cara cede? Quando os meus dentes se partem, se eu for com muita força? É que eu não me parto todo. Quando o meu cabelo cresce, também sou uma coisa? Se for uma coisa é ser uma relação, então ser uma coisa não significa nada e não se pode usar esse termo. Por isso existem atualizações e por isso existem relações.\",\n  \"resumo_alteracoes\": [\n    \"Reduzidas hesitações e oralidade redundante no início, preservando o tom interrogativo e provisório.\",\n    \"Reorganizada pontuação para melhorar legibilidade sem alterar a sequência local das perguntas e inferências.\",\n    \"Corrigidas pequenas formas truncadas ou informais, como 'qualque' para 'qualquer'.\",\n    \"Mantido o léxico central do fragmento, incluindo 'atualização', 'relação conjugatória', 'quebra da função' e 'continuidade potencial'.\",\n    \"Preservada a passagem do exemplo físico para o eletrão e depois para o corpo próprio, sem fusão com o contexto adjacente.\"\n  ],\n  \"notas_cautela\": [\n    \"O trecho sobre o eletrão permanece conceitualmente denso e possivelmente elíptico; foi apenas tornado mais legível.\",\n    \"Há sinais de corte interno e de fusão prévia de parágrafos; não foram preenchidas lacunas argumentativas.\",\n    \"A expressão 'relação conjugatória' foi preservada sem normalização por poder ser termo autoral específico.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:50:21+00:00",
+  "modelo": "gpt-5.4"
+}

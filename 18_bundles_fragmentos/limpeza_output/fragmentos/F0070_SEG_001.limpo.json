@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0070_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0070_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "limitação e erro ontológico"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0070_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A divergência central não está tanto na identificação de elementos basilares do mundo, mas no próprio enquadramento ontológico. Falar de “mundo”, como faz Wittgenstein, já é operar num plano derivado; seria mais rigoroso falar de realidade ou, no limite, de universo. O mundo é sempre uma construção mediada.\n\nWittgenstein opera num quadro que herda de outro, assumindo como ponto de partida a limitação das condições de apreensão da consciência. Tudo o que tivesse consciência estaria sujeito a essa limitação inicial. O erro não está em reconhecer a limitação, mas em absolutizá-la, transformando-a num limite ontológico da própria busca do real.\n\nEm vez de continuar a procurar o real, constrói-se uma muralha conceptual em torno de dois elementos basilares, esquecendo que o homem não é apenas um sujeito que representa o real, mas é ele próprio uma realidade. O erro consiste em tratar a limitação da apreensão como se fosse uma limitação do ser.",
+    "resumo_alteracoes": [
+      "Expansão mínima de abreviação oral: “Wit” para “Wittgenstein”.",
+      "Remoção de marca técnica corrompida de citação no segundo parágrafo.",
+      "Ajustes leves de fluidez e pontuação para legibilidade.",
+      "Preservação da sequência argumentativa local e do léxico central do fragmento."
+    ],
+    "notas_cautela": [
+      "Havia uma referência interna corrompida após “herda de”, e o texto permanece parcialmente indeterminado nesse ponto.",
+      "Não foi reconstruída a origem desse quadro para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0070_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A divergência central não está tanto na identificação de elementos basilares do mundo, mas no próprio enquadramento ontológico. Falar de “mundo”, como faz Wittgenstein, já é operar num plano derivado; seria mais rigoroso falar de realidade ou, no limite, de universo. O mundo é sempre uma construção mediada.\\n\\nWittgenstein opera num quadro que herda de outro, assumindo como ponto de partida a limitação das condições de apreensão da consciência. Tudo o que tivesse consciência estaria sujeito a essa limitação inicial. O erro não está em reconhecer a limitação, mas em absolutizá-la, transformando-a num limite ontológico da própria busca do real.\\n\\nEm vez de continuar a procurar o real, constrói-se uma muralha conceptual em torno de dois elementos basilares, esquecendo que o homem não é apenas um sujeito que representa o real, mas é ele próprio uma realidade. O erro consiste em tratar a limitação da apreensão como se fosse uma limitação do ser.\",\n  \"resumo_alteracoes\": [\n    \"Expansão mínima de abreviação oral: “Wit” para “Wittgenstein”.\",\n    \"Remoção de marca técnica corrompida de citação no segundo parágrafo.\",\n    \"Ajustes leves de fluidez e pontuação para legibilidade.\",\n    \"Preservação da sequência argumentativa local e do léxico central do fragmento.\"\n  ],\n  \"notas_cautela\": [\n    \"Havia uma referência interna corrompida após “herda de”, e o texto permanece parcialmente indeterminado nesse ponto.\",\n    \"Não foi reconstruída a origem desse quadro para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:12:30+00:00",
+  "modelo": "gpt-5.4"
+}

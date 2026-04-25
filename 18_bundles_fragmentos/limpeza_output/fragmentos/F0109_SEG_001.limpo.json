@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0109_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0109_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "relativismo e fundamentação no real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0109_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Não há… Queixam-se de que a verdade tem de ser única no sentido da limitação do pensamento humano, não no sentido do real.\n\nA proliferação contemporânea do relativismo é apenas a exigência de que, em todas as posições, haja um amparo no real. Todos os círculos de posições, de modos de pensar — sobretudo os mais perceptivos, tidos como articulados — estão ancorados no real, ainda que descritos de forma errada e, prescritivamente, errados.",
+    "resumo_alteracoes": [
+      "Mantida a abertura truncada com reticências, sem tentar completar o corte interno.",
+      "Ajustada a pontuação entre as duas frases iniciais para melhorar a continuidade sintática.",
+      "Preservado o léxico central do fragmento, com limpeza mínima de oralidade e ritmo.",
+      "Feita intervenção pontual na expressão final para melhorar a legibilidade sem alterar a tese local."
+    ],
+    "notas_cautela": [
+      "O início do fragmento permanece claramente cortado: 'Não há…'.",
+      "Há continuidade local ativa, mas não foi usada para completar lacunas argumentativas.",
+      "O texto mantém possível parcialidade devido a corte interno e fusão prévia de parágrafos."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0109_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Não há… Queixam-se de que a verdade tem de ser única no sentido da limitação do pensamento humano, não no sentido do real.\\n\\nA proliferação contemporânea do relativismo é apenas a exigência de que, em todas as posições, haja um amparo no real. Todos os círculos de posições, de modos de pensar — sobretudo os mais perceptivos, tidos como articulados — estão ancorados no real, ainda que descritos de forma errada e, prescritivamente, errados.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a abertura truncada com reticências, sem tentar completar o corte interno.\",\n    \"Ajustada a pontuação entre as duas frases iniciais para melhorar a continuidade sintática.\",\n    \"Preservado o léxico central do fragmento, com limpeza mínima de oralidade e ritmo.\",\n    \"Feita intervenção pontual na expressão final para melhorar a legibilidade sem alterar a tese local.\"\n  ],\n  \"notas_cautela\": [\n    \"O início do fragmento permanece claramente cortado: 'Não há…'.\",\n    \"Há continuidade local ativa, mas não foi usada para completar lacunas argumentativas.\",\n    \"O texto mantém possível parcialidade devido a corte interno e fusão prévia de parágrafos.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:27:50+00:00",
+  "modelo": "gpt-5.4"
+}

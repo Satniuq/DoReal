@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0156_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0156_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "estrutura do ser e real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0156_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "\"O real é o que é. Sendo o que é, é-o sendo, com a estrutura, nem que seja, do mero ser. Sendo-o estruturado, é-o limitado, pela atualização que é e pela potencialidade que permite ser. O que pode ser — que há de ser o que permite ser — não é externo ao real: pertence-lhe. O que é é, portanto, real. A atualização é o poder-ser a ser na relação que permite que seja. A consciência é, por poder ser, como qualquer coisa que possa também ser; senão, não seria.\"",
+    "resumo_alteracoes": [
+      "Removida a hesitação inicial sem valor conceptual.",
+      "Unificadas as frases citadas num bloco contínuo mais legível.",
+      "Corrigida a sintaxe mínima e a pontuação para clarificar relações entre as proposições.",
+      "Ajustada a concordância em \"não é externo ao real\" para reduzir ruído gramatical sem alterar a tese.",
+      "Mantido o léxico central: real, ser, estrutura, limitação, atualização, potencialidade, consciência."
+    ],
+    "notas_cautela": [
+      "A formulação \"a atualização é o poder-ser a ser\" permanece densa e possivelmente elíptica; foi preservada por parecer conceitualmente intencional.",
+      "O encadeamento entre ser, estrutura, limitação, atualização e potencialidade foi apenas limpo, não desenvolvido."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0156_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"\\\"O real é o que é. Sendo o que é, é-o sendo, com a estrutura, nem que seja, do mero ser. Sendo-o estruturado, é-o limitado, pela atualização que é e pela potencialidade que permite ser. O que pode ser — que há de ser o que permite ser — não é externo ao real: pertence-lhe. O que é é, portanto, real. A atualização é o poder-ser a ser na relação que permite que seja. A consciência é, por poder ser, como qualquer coisa que possa também ser; senão, não seria.\\\"\",\n  \"resumo_alteracoes\": [\n    \"Removida a hesitação inicial sem valor conceptual.\",\n    \"Unificadas as frases citadas num bloco contínuo mais legível.\",\n    \"Corrigida a sintaxe mínima e a pontuação para clarificar relações entre as proposições.\",\n    \"Ajustada a concordância em \\\"não é externo ao real\\\" para reduzir ruído gramatical sem alterar a tese.\",\n    \"Mantido o léxico central: real, ser, estrutura, limitação, atualização, potencialidade, consciência.\"\n  ],\n  \"notas_cautela\": [\n    \"A formulação \\\"a atualização é o poder-ser a ser\\\" permanece densa e possivelmente elíptica; foi preservada por parecer conceitualmente intencional.\",\n    \"O encadeamento entre ser, estrutura, limitação, atualização e potencialidade foi apenas limpo, não desenvolvido.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:36:48+00:00",
+  "modelo": "gpt-5.4"
+}

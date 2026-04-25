@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0100_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0100_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "pai professor comparação papel"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0100_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Antes do professor — enquanto compartimentalização humana necessária pelo aumento da complexidade das relações — havia o pai. A continuidade tende para a interconexão com todos os seres do planeta onde existem seres conscientes reflexivos, e potencialmente para além disso. O pai surge como o símbolo mais forte porque é o mais atualizado: o ser que existe no círculo imediato do novo ser e a quem cabe, bem ou mal, transmitir aquilo em que esse novo ser existe.\n\nO processo introduz uma quebra na força do símbolo do pai. O professor não é o mestre numa relação quase individual, que permitiria ao menor tomar as características do pai; é antes alguém que trabalha e dispensa algumas horas semanais a muitos alunos, funcionando como transmissor do estado de coisas do discurso alargado no momento.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo de sintaxe e pontuação para melhorar a legibilidade.",
+      "Substituição de formulações redundantes ou mais rígidas por equivalentes próximos, sem alterar a tese local.",
+      "Clarificação leve da transição na frase sobre o mestre e a relação quase individual.",
+      "Preservação do léxico central: professor, pai, símbolo, transmissor, discurso alargado."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém um salto conceptual entre a tendência para a interconexão e a centralidade simbólica do pai.",
+      "Há sinais de corte ou compressão interna; a ligação com o contexto mais amplo pode estar parcial.",
+      "A expressão sobre 'seres conscientes reflexivos' foi mantida, embora permaneça densa, para não subir a altitude nem alterar a voz."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0100_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Antes do professor — enquanto compartimentalização humana necessária pelo aumento da complexidade das relações — havia o pai. A continuidade tende para a interconexão com todos os seres do planeta onde existem seres conscientes reflexivos, e potencialmente para além disso. O pai surge como o símbolo mais forte porque é o mais atualizado: o ser que existe no círculo imediato do novo ser e a quem cabe, bem ou mal, transmitir aquilo em que esse novo ser existe.\\n\\nO processo introduz uma quebra na força do símbolo do pai. O professor não é o mestre numa relação quase individual, que permitiria ao menor tomar as características do pai; é antes alguém que trabalha e dispensa algumas horas semanais a muitos alunos, funcionando como transmissor do estado de coisas do discurso alargado no momento.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo de sintaxe e pontuação para melhorar a legibilidade.\",\n    \"Substituição de formulações redundantes ou mais rígidas por equivalentes próximos, sem alterar a tese local.\",\n    \"Clarificação leve da transição na frase sobre o mestre e a relação quase individual.\",\n    \"Preservação do léxico central: professor, pai, símbolo, transmissor, discurso alargado.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém um salto conceptual entre a tendência para a interconexão e a centralidade simbólica do pai.\",\n    \"Há sinais de corte ou compressão interna; a ligação com o contexto mais amplo pode estar parcial.\",\n    \"A expressão sobre 'seres conscientes reflexivos' foi mantida, embora permaneça densa, para não subir a altitude nem alterar a voz.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:23:51+00:00",
+  "modelo": "gpt-5.4"
+}

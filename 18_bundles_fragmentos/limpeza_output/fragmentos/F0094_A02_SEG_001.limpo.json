@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0094_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0094_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "representação modo default"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0094_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Wittgenstein enfrenta o mesmo problema: a incapacidade de reconciliar o real com aquilo que o apreende. O modo default do ser humano não é viver na descrição do que é, mas na simbolização do que é. Vive-se na representação.\n\nO verdadeiro filósofo ajusta a representação às condições que a tornam possível. Não confunde o HTML com o funcionamento do sistema. Mas o modo default tem de ser assim — viver na representação — porque, caso contrário, a existência seria insuportável e não haveria relações humanas.",
+    "resumo_alteracoes": [
+      "Preservado o conteúdo e a ordem argumentativa local.",
+      "Mantida a divisão em dois parágrafos para restaurar legibilidade após fusão assinalada.",
+      "Não foram introduzidas reformulações substantivas nem conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento já estava relativamente estável; a limpeza foi mínima e conservadora.",
+      "A analogia 'HTML' foi preservada sem explicitação adicional para evitar acrescentar conteúdo.",
+      "Pode permanecer parcial em relação ao contexto mais amplo do argumento."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0094_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Wittgenstein enfrenta o mesmo problema: a incapacidade de reconciliar o real com aquilo que o apreende. O modo default do ser humano não é viver na descrição do que é, mas na simbolização do que é. Vive-se na representação.\\n\\nO verdadeiro filósofo ajusta a representação às condições que a tornam possível. Não confunde o HTML com o funcionamento do sistema. Mas o modo default tem de ser assim — viver na representação — porque, caso contrário, a existência seria insuportável e não haveria relações humanas.\",\n  \"resumo_alteracoes\": [\n    \"Preservado o conteúdo e a ordem argumentativa local.\",\n    \"Mantida a divisão em dois parágrafos para restaurar legibilidade após fusão assinalada.\",\n    \"Não foram introduzidas reformulações substantivas nem conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento já estava relativamente estável; a limpeza foi mínima e conservadora.\",\n    \"A analogia 'HTML' foi preservada sem explicitação adicional para evitar acrescentar conteúdo.\",\n    \"Pode permanecer parcial em relação ao contexto mais amplo do argumento.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:21:31+00:00",
+  "modelo": "gpt-5.4"
+}

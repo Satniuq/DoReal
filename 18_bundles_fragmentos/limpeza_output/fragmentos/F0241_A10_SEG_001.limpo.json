@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A10_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A10_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "apreensão, erro e correção"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A10_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Estava a pensar no caminho da contradição. Da contradição, não; quer dizer, sim, é uma contradição, mas apenas no caminho em que o verdadeiro e o bom são, por necessidade, o resultado da melhor descrição e da melhor ação, da melhor apreensão no sentido da relação com o real, de quão bem se é no real, relativamente ao real. E estava a pensar no ser que apreende e que vive na estrutura da apreensão, vive na apreensão e revela o real. Em tudo isso, como em todos os exemplos que têm dado, tudo tem falado, vai de uma ponta à outra. E, na correção, estava a pensar na correção, mas a correção não é bem... não há nenhuma correção; há apenas o apontar para o caminho real, para o caminho bom, para o caminho verdadeiro.\n\nO erro é somente o desvio, e daí o sentido de continuar, porque o erro não é uma quebra. O erro não é algo separado. O erro é somente a apreensão de um modo de ser que não inclui o real quando o poderia incluir, sabendo que o que se é normalmente, é-se; o que se é naturalmente, é-se, pela necessária relação da apreensão com o eu e com o real no eu, pela localidade do ponto de vista.\n\nTanto que qualquer produção, qualquer valor, qualquer coisa, em cada uma das coisas, quaisquer direções que se inscrevam, que se manifestem no real, que se encarnem no real, quaisquer modos de ser, modos de ser que, sendo, são justificados somente por um critério interior, muito raramente intocável pelo real; e no outro, que, ao incluir o real como pressuposto de tudo, impõe-se, permite-se na correção. E é na correção porquê? Pelo real, pelo que apreende.",
+    "resumo_alteracoes": [
+      "Reduzi hesitações e repetições orais sem alterar a tese local.",
+      "Separei melhor a progressão entre contradição, correção e erro.",
+      "Ajustei pontuação e encadeamentos para legibilidade.",
+      "Reconstruí apenas o mínimo em trechos elípticos ou fundidos, preservando o léxico central."
+    ],
+    "notas_cautela": [
+      "O terceiro parágrafo permanece sintaticamente instável e possivelmente afetado por corte interno.",
+      "A formulação 'muito raramente intocável pelo real' pode refletir truncação ou compressão do original.",
+      "Há continuidade local ativa; a limpeza evitou fechar lacunas argumentativas com conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A10_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Estava a pensar no caminho da contradição. Da contradição, não; quer dizer, sim, é uma contradição, mas apenas no caminho em que o verdadeiro e o bom são, por necessidade, o resultado da melhor descrição e da melhor ação, da melhor apreensão no sentido da relação com o real, de quão bem se é no real, relativamente ao real. E estava a pensar no ser que apreende e que vive na estrutura da apreensão, vive na apreensão e revela o real. Em tudo isso, como em todos os exemplos que têm dado, tudo tem falado, vai de uma ponta à outra. E, na correção, estava a pensar na correção, mas a correção não é bem... não há nenhuma correção; há apenas o apontar para o caminho real, para o caminho bom, para o caminho verdadeiro.\\n\\nO erro é somente o desvio, e daí o sentido de continuar, porque o erro não é uma quebra. O erro não é algo separado. O erro é somente a apreensão de um modo de ser que não inclui o real quando o poderia incluir, sabendo que o que se é normalmente, é-se; o que se é naturalmente, é-se, pela necessária relação da apreensão com o eu e com o real no eu, pela localidade do ponto de vista.\\n\\nTanto que qualquer produção, qualquer valor, qualquer coisa, em cada uma das coisas, quaisquer direções que se inscrevam, que se manifestem no real, que se encarnem no real, quaisquer modos de ser, modos de ser que, sendo, são justificados somente por um critério interior, muito raramente intocável pelo real; e no outro, que, ao incluir o real como pressuposto de tudo, impõe-se, permite-se na correção. E é na correção porquê? Pelo real, pelo que apreende.\",\n  \"resumo_alteracoes\": [\n    \"Reduzi hesitações e repetições orais sem alterar a tese local.\",\n    \"Separei melhor a progressão entre contradição, correção e erro.\",\n    \"Ajustei pontuação e encadeamentos para legibilidade.\",\n    \"Reconstruí apenas o mínimo em trechos elípticos ou fundidos, preservando o léxico central.\"\n  ],\n  \"notas_cautela\": [\n    \"O terceiro parágrafo permanece sintaticamente instável e possivelmente afetado por corte interno.\",\n    \"A formulação 'muito raramente intocável pelo real' pode refletir truncação ou compressão do original.\",\n    \"Há continuidade local ativa; a limpeza evitou fechar lacunas argumentativas com conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:49:18+00:00",
+  "modelo": "gpt-5.4"
+}

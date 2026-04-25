@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0061_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0061_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0061\",\n  \"header_original\": \"## F0061 — Necessidade ontológica, potencialidade e critério do melhor modo de ser\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"modos ser, descrição, conhecimento\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Os modos de ser reduzem-se sempre a dois: viver segundo as potencialidades ou não viver segundo elas; viver conforme o modo que é ou apenas pensar sobre o que pode ser. Em contexto social, à escala macro, não são as relações de poder que explicam o fluxo, mas a melhor descrição da realidade. Quem possui o melhor conhecimento do real alcança campos de potencialidade ainda não descobertos.\\n\\nA dúvida sobre o dever-ser permanece apenas no erro categorial e no erro de descrição. Se a descrição é o único modo de validação do pensamento humano, é nela que recai o critério do bom e do verdadeiro. Tudo o que existe consciente só pode ou representar o que existe ou não o representar.\\n\\nNão há reconhecimento ideal nem consciência absoluta: há o universo a conhecer-se nas condições específicas do animal humano, limitado pelo seu corpo, pelo seu meio e pela sua história evolutiva. Qualquer ideia de consciência universal sem meio é um absurdo ontológico.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0061_SEG_001\\n- tema: ser, existência, necessidade, potencialidade\\n- preview: A questão fundacional não é a consciência em si, mas a existência de um ser onde algo conhece o ser. A tendência da existência e do tempo é a de perdurar estruturas do ser, pois sem isso não haveria movimento nem qualquer permanência. Não se afirma que a consciência seja necessária; fala-se antes de uma necessidade ontológica de raiz, um solo onde a árvore pode crescer, existente no plano das possibilidades e do vir…\\n\\nFragmento seguinte:\\n- id: F0061_SEG_003\\n- tema: potencialidade, valor e juízo\\n- preview: O campo das potencialidades do ser consciente é múltiplo, permitindo tantos modos de ser quantos seres conscientes existirem. Qualquer modo de ser que não elimine outros nem contradiga o real é permitido pelo ser. Não há condenação ontológica por não ser outro modo de ser, nem aspiração heroica necessária. O valor é uma abstração da potencialidade não atualizada. O juízo sobre o que é melhor ou desejável depende sem…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0061_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0061",
+    "header_original": "## F0061 — Necessidade ontológica, potencialidade e critério do melhor modo de ser",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "modos ser, descrição, conhecimento",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Os modos de ser reduzem-se sempre a dois: viver segundo as potencialidades ou não viver segundo elas; viver conforme o modo que é ou apenas pensar sobre o que pode ser. Em contexto social, à escala macro, não são as relações de poder que explicam o fluxo, mas a melhor descrição da realidade. Quem possui o melhor conhecimento do real alcança campos de potencialidade ainda não descobertos.\n\nA dúvida sobre o dever-ser permanece apenas no erro categorial e no erro de descrição. Se a descrição é o único modo de validação do pensamento humano, é nela que recai o critério do bom e do verdadeiro. Tudo o que existe consciente só pode ou representar o que existe ou não o representar.\n\nNão há reconhecimento ideal nem consciência absoluta: há o universo a conhecer-se nas condições específicas do animal humano, limitado pelo seu corpo, pelo seu meio e pela sua história evolutiva. Qualquer ideia de consciência universal sem meio é um absurdo ontológico.",
+    "contexto_local": "Fragmento anterior:\n- id: F0061_SEG_001\n- tema: ser, existência, necessidade, potencialidade\n- preview: A questão fundacional não é a consciência em si, mas a existência de um ser onde algo conhece o ser. A tendência da existência e do tempo é a de perdurar estruturas do ser, pois sem isso não haveria movimento nem qualquer permanência. Não se afirma que a consciência seja necessária; fala-se antes de uma necessidade ontológica de raiz, um solo onde a árvore pode crescer, existente no plano das possibilidades e do vir…\n\nFragmento seguinte:\n- id: F0061_SEG_003\n- tema: potencialidade, valor e juízo\n- preview: O campo das potencialidades do ser consciente é múltiplo, permitindo tantos modos de ser quantos seres conscientes existirem. Qualquer modo de ser que não elimine outros nem contradiga o real é permitido pelo ser. Não há condenação ontológica por não ser outro modo de ser, nem aspiração heroica necessária. O valor é uma abstração da potencialidade não atualizada. O juízo sobre o que é melhor ou desejável depende sem…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

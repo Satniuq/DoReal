@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0078_A01_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0078_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0078_A01\",\n  \"header_original\": \"## F0078 — Liberdade, reprodução, modos de ser e continuidade cultural\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"dinâmica liberdade necessidades existência\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"A questão não é essa. A questão é que, dentro do modo de viver, dentro do círculo mais abaixo do grande círculo da liberdade, temos de contar com outros círculos. Um deles é o que fazemos não só com a necessidade do ser humano de se auto-preservar e de não se extinguir, mas também com a necessidade de manter filhos conhecedores do conhecimento que o resto da humanidade lhes deu, e que só se mantém vivo porque há filhos.\\n\\nA resposta a esta evidência de múltiplas necessidades dos modos de ser nos círculos em que se vive tem de ser contrabalançada com a liberdade de que dispomos e com a obrigação moral — e completamente ontológica — da própria existência do ser: o ser tem de conhecer o que é. E eu não conheço o que sou se não for também um bocadinho do que já foi.\\n\\nÉ sobre os modos de ser — mais corretamente dito — que contêm modos de pensar, modos de agir, modos de estar, e os modos relacionais com que nos relacionamos. E isto aplica-se universalmente, mas vai sempre depender da posição que cada um ocupa.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0078_A01_SEG_001\\n- tema: liberdade, trabalho, igualdade género\\n- preview: Mas pode-se, porque dentro do próprio sistema criado pelo facto de a liberdade do indivíduo derivar necessariamente na abertura a todo o ser humano — como é óbvio incluindo mulheres — a esse caminho de liberdade ativa, podemos dizer, de maneira muito imprecisa, “entrar no mercado de trabalho”. Não, no fundo é só conceder-lhes a liberdade. A liberdade de movimento. A liberdade de ser o que é. Logo, a consequência ser…\\n\\nFragmento seguinte:\\n- id: F0078_A01_SEG_003\\n- tema: potencial, capacidade e auto-reflexão\\n- preview: A variedade humana é enorme. As potencialidades humanas, as capacidades, as possibilidades são amplas. É correto dizer proposições verdadeiras sobre as potencialidades de cada um verificadas pelas capacidades de cada um. Uma coisa é necessária à outra. E é isso que fazemos de modo implícito, mesmo quando não reconhecemos essa estrutura verdadeira do universo ao caminhar. Quem criou o fogo não foi apenas quem o desco…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0078_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0078_A01",
+    "header_original": "## F0078 — Liberdade, reprodução, modos de ser e continuidade cultural",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "dinâmica liberdade necessidades existência",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "A questão não é essa. A questão é que, dentro do modo de viver, dentro do círculo mais abaixo do grande círculo da liberdade, temos de contar com outros círculos. Um deles é o que fazemos não só com a necessidade do ser humano de se auto-preservar e de não se extinguir, mas também com a necessidade de manter filhos conhecedores do conhecimento que o resto da humanidade lhes deu, e que só se mantém vivo porque há filhos.\n\nA resposta a esta evidência de múltiplas necessidades dos modos de ser nos círculos em que se vive tem de ser contrabalançada com a liberdade de que dispomos e com a obrigação moral — e completamente ontológica — da própria existência do ser: o ser tem de conhecer o que é. E eu não conheço o que sou se não for também um bocadinho do que já foi.\n\nÉ sobre os modos de ser — mais corretamente dito — que contêm modos de pensar, modos de agir, modos de estar, e os modos relacionais com que nos relacionamos. E isto aplica-se universalmente, mas vai sempre depender da posição que cada um ocupa.",
+    "contexto_local": "Fragmento anterior:\n- id: F0078_A01_SEG_001\n- tema: liberdade, trabalho, igualdade género\n- preview: Mas pode-se, porque dentro do próprio sistema criado pelo facto de a liberdade do indivíduo derivar necessariamente na abertura a todo o ser humano — como é óbvio incluindo mulheres — a esse caminho de liberdade ativa, podemos dizer, de maneira muito imprecisa, “entrar no mercado de trabalho”. Não, no fundo é só conceder-lhes a liberdade. A liberdade de movimento. A liberdade de ser o que é. Logo, a consequência ser…\n\nFragmento seguinte:\n- id: F0078_A01_SEG_003\n- tema: potencial, capacidade e auto-reflexão\n- preview: A variedade humana é enorme. As potencialidades humanas, as capacidades, as possibilidades são amplas. É correto dizer proposições verdadeiras sobre as potencialidades de cada um verificadas pelas capacidades de cada um. Uma coisa é necessária à outra. E é isso que fazemos de modo implícito, mesmo quando não reconhecemos essa estrutura verdadeira do universo ao caminhar. Quem criou o fogo não foi apenas quem o desco…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

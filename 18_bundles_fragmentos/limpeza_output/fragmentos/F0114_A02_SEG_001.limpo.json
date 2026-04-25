@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0114_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0114_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "necessidade de estrutura existencial"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0114_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Nos círculos locais, Deus é uma figura imprescindível. A ideia de que há uma estrutura no que há é o que permite que o ser humano exista como ser reflexivo. Sem isso, nada haveria.\n\nNão se diz a uma criança que Deus não existe. O peso da responsabilidade por tudo o que existe cairia sobre o pai — partilhado com a mãe, com os outros — e ficaria aberto à relativização.\n\nAo negar-se a estrutura do real prévia ao eu, surge a ausência de limites em que o eu se possa manifestar.",
+    "resumo_alteracoes": [
+      "Corrigida a fluidez sintática em 'responsabilidade sobre tudo o que existe' para 'responsabilidade por tudo o que existe'.",
+      "Ajustada a ligação final da segunda frase com 'e ficaria aberto à relativização' para melhorar a legibilidade sem mudar a tese local.",
+      "Substituído 'onde o eu se possa manifestar' por 'em que o eu se possa manifestar' por clareza gramatical.",
+      "Preservada a divisão em três parágrafos e a progressão argumentativa local."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e parcialmente elípticas; foram apenas regularizadas no mínimo necessário.",
+      "A referência a 'nada haveria' permanece tal como está, apesar da sua abertura semântica, para não estreitar o sentido original.",
+      "A expressão 'aberto à relativização' pode conservar alguma ambiguidade de referente no encadeamento da frase."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0114_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Nos círculos locais, Deus é uma figura imprescindível. A ideia de que há uma estrutura no que há é o que permite que o ser humano exista como ser reflexivo. Sem isso, nada haveria.\\n\\nNão se diz a uma criança que Deus não existe. O peso da responsabilidade por tudo o que existe cairia sobre o pai — partilhado com a mãe, com os outros — e ficaria aberto à relativização.\\n\\nAo negar-se a estrutura do real prévia ao eu, surge a ausência de limites em que o eu se possa manifestar.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a fluidez sintática em 'responsabilidade sobre tudo o que existe' para 'responsabilidade por tudo o que existe'.\",\n    \"Ajustada a ligação final da segunda frase com 'e ficaria aberto à relativização' para melhorar a legibilidade sem mudar a tese local.\",\n    \"Substituído 'onde o eu se possa manifestar' por 'em que o eu se possa manifestar' por clareza gramatical.\",\n    \"Preservada a divisão em três parágrafos e a progressão argumentativa local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e parcialmente elípticas; foram apenas regularizadas no mínimo necessário.\",\n    \"A referência a 'nada haveria' permanece tal como está, apesar da sua abertura semântica, para não estreitar o sentido original.\",\n    \"A expressão 'aberto à relativização' pode conservar alguma ambiguidade de referente no encadeamento da frase.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:30:05+00:00",
+  "modelo": "gpt-5.4"
+}

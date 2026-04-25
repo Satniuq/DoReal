@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A22_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A22_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "fundamento animal da reflexão"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A22_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Quando se olha para aquilo que se é, esse ser reflexivo é um animal. Seres reflexivos, cumprindo os critérios, podem não ser animais; mas aquilo que se conhece que é, é um ser reflexivo cuja animalidade lhe permite ter a característica de refletir sobre si próprio, enquadrar-se no seu ponto de vista, ver-se na sua continuidade, na apresentação meticulosa e representada simbolicamente, na sua adequação necessária para se poder sequer andar sem tropeçar, para permitir o foco, para permitir que o foco seja o único objeto da integração, pois tudo o resto está enraizado na sua animalidade, que todos os animais têm. A coerência é o que permite, e não a multiplicidade, e não a serem todos.",
+    "resumo_alteracoes": [
+      "Corrigida a sintaxe inicial para tornar legível a distinção entre ser reflexivo e animalidade.",
+      "Reduzidas repetições e oralidade sem alterar a tese local.",
+      "Ajustada a pontuação para manter a progressão do período longo.",
+      "Corrigido o trecho final provavelmente truncado de \"sermentes todos\" para \"serem todos\", com cautela mínima."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém um período longo e parcialmente denso, porque simplificá-lo mais poderia alterar a articulação local.",
+      "Há sinais de corte interno e de formulação possivelmente incompleta.",
+      "O segmento final continua semanticamente instável, apesar da correção mínima."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A22_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Quando se olha para aquilo que se é, esse ser reflexivo é um animal. Seres reflexivos, cumprindo os critérios, podem não ser animais; mas aquilo que se conhece que é, é um ser reflexivo cuja animalidade lhe permite ter a característica de refletir sobre si próprio, enquadrar-se no seu ponto de vista, ver-se na sua continuidade, na apresentação meticulosa e representada simbolicamente, na sua adequação necessária para se poder sequer andar sem tropeçar, para permitir o foco, para permitir que o foco seja o único objeto da integração, pois tudo o resto está enraizado na sua animalidade, que todos os animais têm. A coerência é o que permite, e não a multiplicidade, e não a serem todos.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a sintaxe inicial para tornar legível a distinção entre ser reflexivo e animalidade.\",\n    \"Reduzidas repetições e oralidade sem alterar a tese local.\",\n    \"Ajustada a pontuação para manter a progressão do período longo.\",\n    \"Corrigido o trecho final provavelmente truncado de \\\"sermentes todos\\\" para \\\"serem todos\\\", com cautela mínima.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém um período longo e parcialmente denso, porque simplificá-lo mais poderia alterar a articulação local.\",\n    \"Há sinais de corte interno e de formulação possivelmente incompleta.\",\n    \"O segmento final continua semanticamente instável, apesar da correção mínima.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:55:18+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0116_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0116_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "eu biológico e motivação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0116_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Biologicamente, faz sentido olhar para o eu. Importa saber o que tem de acontecer para eu deixar de ter fome, para não voltar a ter fome, para ficar saciado, para retirar prazer, para ter qualquer intenção.\n\nO organismo vê o real como o espaço onde pode manifestar-se, onde as coisas acontecem sempre numa relação com o eu.",
+    "resumo_alteracoes": [
+      "Mantida a estrutura em dois momentos: foco biológico no eu e caracterização da relação do organismo com o real.",
+      "Feita limpeza mínima de formulação em 'para não vir a ter fome' para 'para não voltar a ter fome', visando legibilidade.",
+      "Preservado o léxico central: 'biologicamente', 'eu', 'organismo', 'real', 'relação com o eu'."
+    ],
+    "notas_cautela": [
+      "O fragmento pode estar inserido numa continuidade argumentativa maior; a limpeza não tentou completar essa transição.",
+      "A formulação permanece parcial e assertiva, sem explicitação adicional das ligações entre fome, prazer e intenção."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0116_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Biologicamente, faz sentido olhar para o eu. Importa saber o que tem de acontecer para eu deixar de ter fome, para não voltar a ter fome, para ficar saciado, para retirar prazer, para ter qualquer intenção.\\n\\nO organismo vê o real como o espaço onde pode manifestar-se, onde as coisas acontecem sempre numa relação com o eu.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a estrutura em dois momentos: foco biológico no eu e caracterização da relação do organismo com o real.\",\n    \"Feita limpeza mínima de formulação em 'para não vir a ter fome' para 'para não voltar a ter fome', visando legibilidade.\",\n    \"Preservado o léxico central: 'biologicamente', 'eu', 'organismo', 'real', 'relação com o eu'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode estar inserido numa continuidade argumentativa maior; a limpeza não tentou completar essa transição.\",\n    \"A formulação permanece parcial e assertiva, sem explicitação adicional das ligações entre fome, prazer e intenção.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:31:06+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0102_A01_SEG_005",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0102_A01_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "discurso, forma e continuidade ontológica"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0102_A01_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A forma como o discurso se manifesta preserva sempre a própria forma do discurso que existe e é vivido na continuidade do ser. O discurso, antes de tudo, permanece esse discurso; não se opõe à sua própria forma.\n\nA continuidade ontológica do ser é o que permite que as relações operadas no discurso tenham capacidade de agir no real. Sem isso, não haveria relação.",
+    "resumo_alteracoes": [
+      "Removida a redundância de 'é sempre preservadora' para 'preserva sempre', mantendo o sentido.",
+      "Ajustada a frase 'que existe e que é vivido' para 'que existe e é vivido', para maior fluidez.",
+      "Substituído o ponto por ponto e vírgula na segunda frase para melhorar a coesão sem alterar a progressão local."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e parcialmente reiterativas que parecem estruturais, não mero ruído.",
+      "Há continuidade local ativa com o fragmento seguinte; a limpeza foi conservadora para não fechar articulações ontológicas em excesso."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0102_A01_SEG_005\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A forma como o discurso se manifesta preserva sempre a própria forma do discurso que existe e é vivido na continuidade do ser. O discurso, antes de tudo, permanece esse discurso; não se opõe à sua própria forma.\\n\\nA continuidade ontológica do ser é o que permite que as relações operadas no discurso tenham capacidade de agir no real. Sem isso, não haveria relação.\",\n  \"resumo_alteracoes\": [\n    \"Removida a redundância de 'é sempre preservadora' para 'preserva sempre', mantendo o sentido.\",\n    \"Ajustada a frase 'que existe e que é vivido' para 'que existe e é vivido', para maior fluidez.\",\n    \"Substituído o ponto por ponto e vírgula na segunda frase para melhorar a coesão sem alterar a progressão local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e parcialmente reiterativas que parecem estruturais, não mero ruído.\",\n    \"Há continuidade local ativa com o fragmento seguinte; a limpeza foi conservadora para não fechar articulações ontológicas em excesso.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:24:41+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0102_A01_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0102_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "fragmento_intuitivo",
+    "tema_dominante_provisorio": "inacessibilidade pensamento outro"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0102_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Antes de qualquer coisa, importa saber o que o outro acha daquilo que diz. Qual é a realidade? Qual é o grau descritivo do real? Quantas palavras são verdadeiras? Quantas pertencem ao círculo interno? Não há acesso direto à cabeça do outro, nem ao que ele pensa. O processo de revelar o pensamento por trás das proposições é cansativo.",
+    "resumo_alteracoes": [
+      "Ajuste sintático mínimo em \"grau descritivo real\" para \"grau descritivo do real\", preservando o sentido local.",
+      "Explicitação mínima do pronome em \"ao que pensa\" para \"ao que ele pensa\", para legibilidade.",
+      "Preservada a sequência original de perguntas e a conclusão sobre a dificuldade de acesso ao pensamento do outro."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior e seguinte para precisar o sentido de \"realidade\", \"grau descritivo\" e \"círculo interno\".",
+      "Mantiveram-se expressões potencialmente abertas ou parciais para evitar introdução de conteúdo novo.",
+      "Há continuidade local ativa; a limpeza foi conservadora."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0102_A01_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Antes de qualquer coisa, importa saber o que o outro acha daquilo que diz. Qual é a realidade? Qual é o grau descritivo do real? Quantas palavras são verdadeiras? Quantas pertencem ao círculo interno? Não há acesso direto à cabeça do outro, nem ao que ele pensa. O processo de revelar o pensamento por trás das proposições é cansativo.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste sintático mínimo em \\\"grau descritivo real\\\" para \\\"grau descritivo do real\\\", preservando o sentido local.\",\n    \"Explicitação mínima do pronome em \\\"ao que pensa\\\" para \\\"ao que ele pensa\\\", para legibilidade.\",\n    \"Preservada a sequência original de perguntas e a conclusão sobre a dificuldade de acesso ao pensamento do outro.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior e seguinte para precisar o sentido de \\\"realidade\\\", \\\"grau descritivo\\\" e \\\"círculo interno\\\".\",\n    \"Mantiveram-se expressões potencialmente abertas ou parciais para evitar introdução de conteúdo novo.\",\n    \"Há continuidade local ativa; a limpeza foi conservadora.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:24:36+00:00",
+  "modelo": "gpt-5.4"
+}

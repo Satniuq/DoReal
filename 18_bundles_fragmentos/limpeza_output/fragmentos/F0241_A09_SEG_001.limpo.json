@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A09_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A09_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "governação: indivíduo e sistema"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A09_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Porque os Estados Unidos não foram tão longe na derivação necessária de tudo — da ética, da política, ou seja, até à ontologia — foram até onde isso lhes permitiria ir e depois divulgaram isso em si mesmos; e, por isso, o homem é divino. Este é o homem que vive, que cria o sistema; não é o sistema que cria o homem. O Estado está lá como parede de fundo, não como labirinto onde o homem se move.\n\nE, sim, o homem cria o sistema, vai criando, vai atualizando as relações onde se vai inserir, e o sistema vai fazendo esse homem que se quer criador de sistemas. No jogo da apreensão e da descrição, e da boa descrição do real, enquanto que, ao contrário, há apenas um ciclo vicioso, cada vez mais junção ao sistema.\n\nIsto vê-se em tudo, e vê-se em coisas básicas. Nos Estados Unidos, vem um governador qualquer com uma ideia qualquer e diz: agora acabou-se isto; já não há este imposto; agora as regras são estas; agora podes construir aqui. Vem um presidente e diz: nós agora vamos comportar-nos como um tipo totalmente diferente de país relativamente ao mundo. Porque, pronto, é um mecanismo de expressão da vontade dos eus. Na Europa, há um regulamento que diz o que é que pode e o que é que não pode ser; aplica-se a todos os Estados, e as regiões e câmaras desses Estados nem podem, nem pouco mais ou menos, fazer o que querem, porque está centralizado: têm que manter a coerência do sistema. Não: pode construir até este terreno, mas este ao lado já não se pode. Agora vamos mudar isso.",
+    "resumo_alteracoes": [
+      "Pontuação e segmentação frásica revistas para reduzir oralidade redundante e melhorar legibilidade.",
+      "Repetições coloquiais como \"pá\" e interjeições como \"ui\" foram removidas quando não acrescentavam conteúdo.",
+      "Foram preservados o contraste entre Estados Unidos e Europa e a ordem local da argumentação.",
+      "Houve limpeza mínima de formulações truncadas sem fechar lacunas conceptuais."
+    ],
+    "notas_cautela": [
+      "O início do fragmento mantém uma formulação parcialmente opaca (\"derivação necessária de tudo\" / \"divulgaram isso em si mesmos\"); foi preservada por cautela.",
+      "A passagem \"No jogo da apreensão e da descrição...\" permanece sintaticamente tensa e pode refletir corte interno anterior.",
+      "O texto pode continuar parcial devido a fusão de parágrafos e corte interno assinalados no payload."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A09_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Porque os Estados Unidos não foram tão longe na derivação necessária de tudo — da ética, da política, ou seja, até à ontologia — foram até onde isso lhes permitiria ir e depois divulgaram isso em si mesmos; e, por isso, o homem é divino. Este é o homem que vive, que cria o sistema; não é o sistema que cria o homem. O Estado está lá como parede de fundo, não como labirinto onde o homem se move.\\n\\nE, sim, o homem cria o sistema, vai criando, vai atualizando as relações onde se vai inserir, e o sistema vai fazendo esse homem que se quer criador de sistemas. No jogo da apreensão e da descrição, e da boa descrição do real, enquanto que, ao contrário, há apenas um ciclo vicioso, cada vez mais junção ao sistema.\\n\\nIsto vê-se em tudo, e vê-se em coisas básicas. Nos Estados Unidos, vem um governador qualquer com uma ideia qualquer e diz: agora acabou-se isto; já não há este imposto; agora as regras são estas; agora podes construir aqui. Vem um presidente e diz: nós agora vamos comportar-nos como um tipo totalmente diferente de país relativamente ao mundo. Porque, pronto, é um mecanismo de expressão da vontade dos eus. Na Europa, há um regulamento que diz o que é que pode e o que é que não pode ser; aplica-se a todos os Estados, e as regiões e câmaras desses Estados nem podem, nem pouco mais ou menos, fazer o que querem, porque está centralizado: têm que manter a coerência do sistema. Não: pode construir até este terreno, mas este ao lado já não se pode. Agora vamos mudar isso.\",\n  \"resumo_alteracoes\": [\n    \"Pontuação e segmentação frásica revistas para reduzir oralidade redundante e melhorar legibilidade.\",\n    \"Repetições coloquiais como \\\"pá\\\" e interjeições como \\\"ui\\\" foram removidas quando não acrescentavam conteúdo.\",\n    \"Foram preservados o contraste entre Estados Unidos e Europa e a ordem local da argumentação.\",\n    \"Houve limpeza mínima de formulações truncadas sem fechar lacunas conceptuais.\"\n  ],\n  \"notas_cautela\": [\n    \"O início do fragmento mantém uma formulação parcialmente opaca (\\\"derivação necessária de tudo\\\" / \\\"divulgaram isso em si mesmos\\\"); foi preservada por cautela.\",\n    \"A passagem \\\"No jogo da apreensão e da descrição...\\\" permanece sintaticamente tensa e pode refletir corte interno anterior.\",\n    \"O texto pode continuar parcial devido a fusão de parágrafos e corte interno assinalados no payload.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:48:57+00:00",
+  "modelo": "gpt-5.4"
+}

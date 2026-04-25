@@ -1,0 +1,57 @@
+{
+  "fragment_id": "F0047_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0047_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"origem_id\": \"F0047\",\n  \"header_original\": \"## F0047 — 2026-01-02\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"crítica ao panpsiquismo e pós-modernismo\",\n  \"motivos_estado\": [],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [],\n    \"estado_bundle_destino\": \"limpavel\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui podes reordenar localmente frases curtas e corrigir sintaxe para obter uma formulação limpa.\",\n    \"Mantém a agressividade crítica quando ela fizer parte do conteúdo, mas remove apenas ruído de oralidade.\"\n  ],\n  \"texto_a_limpar\": \"O panpsiquismo surge como um argumento absurdo que tenta afirmar que tudo é consciência apenas para evitar dizer que tudo é matéria. A contenda nasce de argumentos infantis na filosofia da mente, como o exemplo de imaginar um sujeito sem memória. Não ter memória é apenas não ter perduração experiencial; memória é a continuidade do ser após um evento. Se algo continua a existir depois de um acontecimento, tem memória. A diferença está apenas no grau de acesso, fineza e consciência dessa memória. O panpsiquismo tenta reduzir tudo a uma questão de complexidade, como se adicionar camadas transformasse algo qualitativamente noutro tipo de ser. Isto reflete um pós-modernismo aplicado à filosofia da mente: evita discutir o que é (matéria, homem, realidade) e limita-se a descrever processos e a formular proposições sobre eles. O homem é um animal biológico adaptativo, inserido num nicho que não reavalia continuamente as razões das suas crenças; estas persistem pela adequação à vida que permitem. Assim, o modo de ser do indivíduo reflete o modo de ser da sociedade. Apenas poucos dispõem-se a gastar energia a pensar e a destrinçar a verdade. O panpsiquismo prospera porque se ajusta ao estado pós-moderno centrado no processo e na forma, sendo uma variante do relativismo. No fundo, há apenas dois modos de ser fundamentais: a busca da verdade e a busca da forma/processo. O panpsiquismo é um travestismo filosófico que mascara esta divisão essencial.\",\n  \"contexto_local\": null,\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0047_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "origem_id": "F0047",
+    "header_original": "## F0047 — 2026-01-02",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crítica ao panpsiquismo e pós-modernismo",
+    "motivos_estado": [],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [],
+      "estado_bundle_destino": "limpavel"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui podes reordenar localmente frases curtas e corrigir sintaxe para obter uma formulação limpa.",
+      "Mantém a agressividade crítica quando ela fizer parte do conteúdo, mas remove apenas ruído de oralidade."
+    ],
+    "texto_a_limpar": "O panpsiquismo surge como um argumento absurdo que tenta afirmar que tudo é consciência apenas para evitar dizer que tudo é matéria. A contenda nasce de argumentos infantis na filosofia da mente, como o exemplo de imaginar um sujeito sem memória. Não ter memória é apenas não ter perduração experiencial; memória é a continuidade do ser após um evento. Se algo continua a existir depois de um acontecimento, tem memória. A diferença está apenas no grau de acesso, fineza e consciência dessa memória. O panpsiquismo tenta reduzir tudo a uma questão de complexidade, como se adicionar camadas transformasse algo qualitativamente noutro tipo de ser. Isto reflete um pós-modernismo aplicado à filosofia da mente: evita discutir o que é (matéria, homem, realidade) e limita-se a descrever processos e a formular proposições sobre eles. O homem é um animal biológico adaptativo, inserido num nicho que não reavalia continuamente as razões das suas crenças; estas persistem pela adequação à vida que permitem. Assim, o modo de ser do indivíduo reflete o modo de ser da sociedade. Apenas poucos dispõem-se a gastar energia a pensar e a destrinçar a verdade. O panpsiquismo prospera porque se ajusta ao estado pós-moderno centrado no processo e na forma, sendo uma variante do relativismo. No fundo, há apenas dois modos de ser fundamentais: a busca da verdade e a busca da forma/processo. O panpsiquismo é um travestismo filosófico que mascara esta divisão essencial.",
+    "contexto_local": null,
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

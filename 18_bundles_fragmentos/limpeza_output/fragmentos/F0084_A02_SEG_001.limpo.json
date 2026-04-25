@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0084_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0084_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "subjetividade, relativismo, realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0084_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Pela própria natureza da quantidade de modos de ser que existem no mundo, a maioria das pessoas vive 99% dos seus dias na sua própria cabeça, com o seu ponto de vista no centro do mundo. O afastamento do real adensa-se pelo relativismo das proposições ditas verdadeiras. Essa relatividade afasta sempre do real, mesmo quando é apresentada como conhecimento mais aprofundado.",
+    "resumo_alteracoes": [
+      "Suavizada a formulação 'como centro do mundo' para 'no centro do mundo' para maior fluidez, sem alterar a tese local.",
+      "Preservada a sequência argumentativa: centralidade do ponto de vista próprio, adensamento do afastamento do real, crítica ao relativismo.",
+      "Mantido o léxico principal do fragmento: 'modos de ser', 'real', 'relativismo', 'proposições ditas verdadeiras'."
+    ],
+    "notas_cautela": [
+      "O fragmento é assertivo e legível, mas integra uma continuidade local ativa com desenvolvimento no segmento seguinte.",
+      "A generalização 'a maioria das pessoas vive 99% dos seus dias na sua própria cabeça' foi preservada por parecer estrutural à voz e ao argumento.",
+      "Não foram preenchidas possíveis lacunas de fundamentação, por cautela."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0084_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Pela própria natureza da quantidade de modos de ser que existem no mundo, a maioria das pessoas vive 99% dos seus dias na sua própria cabeça, com o seu ponto de vista no centro do mundo. O afastamento do real adensa-se pelo relativismo das proposições ditas verdadeiras. Essa relatividade afasta sempre do real, mesmo quando é apresentada como conhecimento mais aprofundado.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a formulação 'como centro do mundo' para 'no centro do mundo' para maior fluidez, sem alterar a tese local.\",\n    \"Preservada a sequência argumentativa: centralidade do ponto de vista próprio, adensamento do afastamento do real, crítica ao relativismo.\",\n    \"Mantido o léxico principal do fragmento: 'modos de ser', 'real', 'relativismo', 'proposições ditas verdadeiras'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento é assertivo e legível, mas integra uma continuidade local ativa com desenvolvimento no segmento seguinte.\",\n    \"A generalização 'a maioria das pessoas vive 99% dos seus dias na sua própria cabeça' foi preservada por parecer estrutural à voz e ao argumento.\",\n    \"Não foram preenchidas possíveis lacunas de fundamentação, por cautela.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:16:55+00:00",
+  "modelo": "gpt-5.4"
+}

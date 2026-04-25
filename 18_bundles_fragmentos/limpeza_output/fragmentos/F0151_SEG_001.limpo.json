@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0151_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0151_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "ser e sua descrição"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0151_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "O ser, o poder ser e o dever ser andam sempre em conjunto, porque o ser, sem algo que o descreva, é só o ser. A descrição, neste sentido, é o único modo da melhor descrição do ser. Pode-se conceber o ser numa língua qualquer, mas, se não permanecer, não continuará a ser a melhor. Há de ser pelo modo comunicacional dos seres que estão a descrever o ser.",
+    "resumo_alteracoes": [
+      "Removeu-se oralidade redundante, hesitações e marcas conversacionais.",
+      "Consolidaram-se repetições próximas sem alterar a tese local.",
+      "Corrigiu-se a sintaxe para legibilidade mínima.",
+      "Reconstruiu-se de forma mínima a transição inicial interrompida por elipse."
+    ],
+    "notas_cautela": [
+      "O fragmento tem cortes e formulações elípticas, sobretudo na passagem sobre a descrição do ser.",
+      "A expressão 'o único modo da melhor descrição do ser' foi preservada com limpeza mínima, embora permaneça semanticamente tensa.",
+      "A relação entre 'permanecer' e 'ser a melhor' continua algo indeterminada no original."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0151_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"O ser, o poder ser e o dever ser andam sempre em conjunto, porque o ser, sem algo que o descreva, é só o ser. A descrição, neste sentido, é o único modo da melhor descrição do ser. Pode-se conceber o ser numa língua qualquer, mas, se não permanecer, não continuará a ser a melhor. Há de ser pelo modo comunicacional dos seres que estão a descrever o ser.\",\n  \"resumo_alteracoes\": [\n    \"Removeu-se oralidade redundante, hesitações e marcas conversacionais.\",\n    \"Consolidaram-se repetições próximas sem alterar a tese local.\",\n    \"Corrigiu-se a sintaxe para legibilidade mínima.\",\n    \"Reconstruiu-se de forma mínima a transição inicial interrompida por elipse.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento tem cortes e formulações elípticas, sobretudo na passagem sobre a descrição do ser.\",\n    \"A expressão 'o único modo da melhor descrição do ser' foi preservada com limpeza mínima, embora permaneça semanticamente tensa.\",\n    \"A relação entre 'permanecer' e 'ser a melhor' continua algo indeterminada no original.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:36:17+00:00",
+  "modelo": "gpt-5.4"
+}

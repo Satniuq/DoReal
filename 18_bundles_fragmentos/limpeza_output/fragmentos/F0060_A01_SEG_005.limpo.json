@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0060_A01_SEG_005",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0060_A01_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "determinismo, criatividade, agência humana"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0060_A01_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "6. A criatividade não viola o real. Parte de um órgão que cria representações imagéticas complexas e que só existe porque o real existe. Toda a ontologia é estruturalmente determinista. A vida animal do homem é o chão a partir do qual ele pode escolher o próximo passo e quebrar cadeias causais.",
+    "resumo_alteracoes": [
+      "Mantida a ordem argumentativa local.",
+      "Ajustada a coesão referencial em \"o homem pode\" para \"ele pode\".",
+      "Preservado o léxico central do fragmento, com limpeza mínima."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém uma tensão interna entre \"determinista\" e \"quebrar cadeias causais\"; não foi resolvida por exigir conteúdo novo.",
+      "Há continuidade local ativa com os segmentos anterior e seguinte; a limpeza foi conservadora."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0060_A01_SEG_005\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"6. A criatividade não viola o real. Parte de um órgão que cria representações imagéticas complexas e que só existe porque o real existe. Toda a ontologia é estruturalmente determinista. A vida animal do homem é o chão a partir do qual ele pode escolher o próximo passo e quebrar cadeias causais.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a ordem argumentativa local.\",\n    \"Ajustada a coesão referencial em \\\"o homem pode\\\" para \\\"ele pode\\\".\",\n    \"Preservado o léxico central do fragmento, com limpeza mínima.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém uma tensão interna entre \\\"determinista\\\" e \\\"quebrar cadeias causais\\\"; não foi resolvida por exigir conteúdo novo.\",\n    \"Há continuidade local ativa com os segmentos anterior e seguinte; a limpeza foi conservadora.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:08:36+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0079_A01_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0079_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0079_A01\",\n  \"header_original\": \"## F0079 — Realidade, continuidade do ser, verdade e dissolução moral\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"desenvolvimento_medio\",\n  \"tema_dominante_provisorio\": \"corpo, mente, realidade\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Porque, no fundo, a única pergunta que existe é: o que é isto? E o que é isto de viver aqui nisto? É a realidade. Nós e a realidade. Somos nós.\\n\\nO que é isto de ser uma espécie humana? O que é isto? O que é isto de sermos animais? De onde é que vimos? Hoje em dia isso é rapidamente explicável. Temos a evolução dos animais durante centenas de milhares de anos, a comportarem-se de certas maneiras. Uns gostavam mais de umas coisas, outros de outras, e isso traduzia-se em adaptações. É tudo verdadeiro. É um dos idiomas verdadeiros que hoje existem.\\n\\nE depois olha para nós. Porque daqui vem a ligação lógica para o que somos nós. Não somos só um ser pensante. Somos também uma entidade corporal. Temos um corpo. E esse corpo está ligado ao pensamento. Está tudo ligado. As redes neuronais não se restringem ao cérebro.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0079_A01_SEG_002\\n- tema: realidade, vontade, ser e mudança\\n- preview: E o que é isto que diz aquilo que a pessoa faz? Podemos sempre dizer: faz o que quiseres fazer. Nada te impede. Mas isso não é verdadeiro. Porque isso não é o bom. É a mesma coisa dita com outras palavras. O pai e o filho percorrem a vida juntos. O filho cresce, torna-se adulto, o pai morre. O ciclo continua. Mesmo que não se viva de acordo com o passado, a verdade continua a existir. Se vier um meteorito e não se s…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0079_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0079_A01",
+    "header_original": "## F0079 — Realidade, continuidade do ser, verdade e dissolução moral",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "corpo, mente, realidade",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Porque, no fundo, a única pergunta que existe é: o que é isto? E o que é isto de viver aqui nisto? É a realidade. Nós e a realidade. Somos nós.\n\nO que é isto de ser uma espécie humana? O que é isto? O que é isto de sermos animais? De onde é que vimos? Hoje em dia isso é rapidamente explicável. Temos a evolução dos animais durante centenas de milhares de anos, a comportarem-se de certas maneiras. Uns gostavam mais de umas coisas, outros de outras, e isso traduzia-se em adaptações. É tudo verdadeiro. É um dos idiomas verdadeiros que hoje existem.\n\nE depois olha para nós. Porque daqui vem a ligação lógica para o que somos nós. Não somos só um ser pensante. Somos também uma entidade corporal. Temos um corpo. E esse corpo está ligado ao pensamento. Está tudo ligado. As redes neuronais não se restringem ao cérebro.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0079_A01_SEG_002\n- tema: realidade, vontade, ser e mudança\n- preview: E o que é isto que diz aquilo que a pessoa faz? Podemos sempre dizer: faz o que quiseres fazer. Nada te impede. Mas isso não é verdadeiro. Porque isso não é o bom. É a mesma coisa dita com outras palavras. O pai e o filho percorrem a vida juntos. O filho cresce, torna-se adulto, o pai morre. O ciclo continua. Mesmo que não se viva de acordo com o passado, a verdade continua a existir. Se vier um meteorito e não se s…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0064_A01_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0064_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0064_A01\",\n  \"header_original\": \"## F0064 — Infância, círculos do real e degeneração do sistema\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"desenvolvimento_medio\",\n  \"tema_dominante_provisorio\": \"transição ontológica criança adulto\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"A mudança de perspetiva entre a criança e o adulto decorre da própria definição de ser criança: conhecer o mundo exterior e conhecer-se a si próprio de forma objetiva. Essa mudança ocorre quando o ser assume a crença necessária de que a sua vida lhe pertence e que terá de viver essa vida por sua conta. Essa passagem implica uma alteração de círculos ontológicos.\\n\\nA criança encontra-se inicialmente no interior de um círculo maior, procurando expandir o seu ser nesse círculo amplo da realidade. Quando se torna consciente de que a sua vida é irredutivelmente a sua, passa a localizar-se no seu próprio círculo. Como os adultos são as crianças que foram, quanto mais real existir no mundo das crianças, mais o homem adulto se orientará pelo real. Quanto mais emotivismo e prevalência do subjetivo sobre a realidade existirem na infância, mais adultos desligados do real surgirão.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0064_A01_SEG_002\\n- tema: bem verdade existência humana\\n- preview: Isto constitui mais uma evidência de que o bem coincide com a verdade e que a verdade coincide com o bem, pois sem homens — isto é, sem crianças que se tornam adultos e geram outras crianças — não existe sequer a possibilidade do bem. O universo não necessita do homem; o homem não é especial. Poderia existir outro animal com pensamentos de segunda ordem. Não se trata de antropomorfismo, mas de descrição.\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0064_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0064_A01",
+    "header_original": "## F0064 — Infância, círculos do real e degeneração do sistema",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "transição ontológica criança adulto",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "A mudança de perspetiva entre a criança e o adulto decorre da própria definição de ser criança: conhecer o mundo exterior e conhecer-se a si próprio de forma objetiva. Essa mudança ocorre quando o ser assume a crença necessária de que a sua vida lhe pertence e que terá de viver essa vida por sua conta. Essa passagem implica uma alteração de círculos ontológicos.\n\nA criança encontra-se inicialmente no interior de um círculo maior, procurando expandir o seu ser nesse círculo amplo da realidade. Quando se torna consciente de que a sua vida é irredutivelmente a sua, passa a localizar-se no seu próprio círculo. Como os adultos são as crianças que foram, quanto mais real existir no mundo das crianças, mais o homem adulto se orientará pelo real. Quanto mais emotivismo e prevalência do subjetivo sobre a realidade existirem na infância, mais adultos desligados do real surgirão.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0064_A01_SEG_002\n- tema: bem verdade existência humana\n- preview: Isto constitui mais uma evidência de que o bem coincide com a verdade e que a verdade coincide com o bem, pois sem homens — isto é, sem crianças que se tornam adultos e geram outras crianças — não existe sequer a possibilidade do bem. O universo não necessita do homem; o homem não é especial. Poderia existir outro animal com pensamentos de segunda ordem. Não se trata de antropomorfismo, mas de descrição.",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

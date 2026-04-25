@@ -1,0 +1,32 @@
+{
+  "fragment_id": "F0054_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0054_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "linguagem, discurso, separação do real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0054_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "A fala surge como resposta à existência de estados mentais partilháveis entre indivíduos que se reconhecem como semelhantes. A linguagem aparece como meio necessário para expressar esses estados mentais num contexto social. A diversidade linguística deriva dos diferentes modos de ser e das civilizações que os propagam. O homem, ao conhecer um sistema, tende a exprimi-lo até à exaustão, intelectualizando-o ao limite e retirando-lhe todo o “suco”. Essa tendência leva à autonomização da linguagem enquanto meio, procurando retirar-lhe qualquer significado real que não seja o do próprio sistema linguístico. Quando se separam linguagem e objeto — quando o discurso deixa de referir o real — todo o sistema de crenças passa a operar apenas dentro do próprio discurso. Nesse contexto, torna-se impossível dizer o que é melhor, correto ou errado, não por impossibilidade ontológica, mas porque se removeu o plano em que o sistema existe: o real.",
+    "resumo_alteracoes": [
+      "Ajuste de coesão referencial com a introdução de “esses estados mentais”.",
+      "Correção sintática mínima em “dos diferentes modos de ser e das civilizações”.",
+      "Compactação leve de formulações redundantes sem alterar a tese local.",
+      "Ajuste verbal em “procurando retirar-lhe” para maior fluidez.",
+      "Correção de concordância em “o plano em que o sistema existe”."
+    ],
+    "notas_cautela": [],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0054_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"A fala surge como resposta à existência de estados mentais partilháveis entre indivíduos que se reconhecem como semelhantes. A linguagem aparece como meio necessário para expressar esses estados mentais num contexto social. A diversidade linguística deriva dos diferentes modos de ser e das civilizações que os propagam. O homem, ao conhecer um sistema, tende a exprimi-lo até à exaustão, intelectualizando-o ao limite e retirando-lhe todo o “suco”. Essa tendência leva à autonomização da linguagem enquanto meio, procurando retirar-lhe qualquer significado real que não seja o do próprio sistema linguístico. Quando se separam linguagem e objeto — quando o discurso deixa de referir o real — todo o sistema de crenças passa a operar apenas dentro do próprio discurso. Nesse contexto, torna-se impossível dizer o que é melhor, correto ou errado, não por impossibilidade ontológica, mas porque se removeu o plano em que o sistema existe: o real.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste de coesão referencial com a introdução de “esses estados mentais”.\",\n    \"Correção sintática mínima em “dos diferentes modos de ser e das civilizações”.\",\n    \"Compactação leve de formulações redundantes sem alterar a tese local.\",\n    \"Ajuste verbal em “procurando retirar-lhe” para maior fluidez.\",\n    \"Correção de concordância em “o plano em que o sistema existe”.\"\n  ],\n  \"notas_cautela\": [],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:07:15+00:00",
+  "modelo": "gpt-5.4"
+}

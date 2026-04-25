@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0062_A01_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0062_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "continuidade ação pensamento"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0062_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A ação e a reflexão operam em repetição contínua. O instinto animal tende a preservar o modo de ser anterior; não cria um novo ser a cada instante. A memória e o pensamento emergem de mapas neurológicos fisicamente ancorados em estados anteriores. Sem isso, qualquer opinião seria diferente a cada tentativa de pensar.",
+    "resumo_alteracoes": [
+      "Mantida a estrutura e a progressão argumentativa original.",
+      "Suavizada a formulação final para maior coesão sintática.",
+      "Substituída a repetição de 'pensamentos anteriores' por 'estados anteriores' para reduzir redundância sem alterar a tese local."
+    ],
+    "notas_cautela": [
+      "O fragmento parece integrar uma continuidade argumentativa maior.",
+      "A expressão 'mapas neurológicos' foi preservada, mas o trecho permanece dependente do contexto adjacente."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0062_A01_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A ação e a reflexão operam em repetição contínua. O instinto animal tende a preservar o modo de ser anterior; não cria um novo ser a cada instante. A memória e o pensamento emergem de mapas neurológicos fisicamente ancorados em estados anteriores. Sem isso, qualquer opinião seria diferente a cada tentativa de pensar.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a estrutura e a progressão argumentativa original.\",\n    \"Suavizada a formulação final para maior coesão sintática.\",\n    \"Substituída a repetição de 'pensamentos anteriores' por 'estados anteriores' para reduzir redundância sem alterar a tese local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece integrar uma continuidade argumentativa maior.\",\n    \"A expressão 'mapas neurológicos' foi preservada, mas o trecho permanece dependente do contexto adjacente.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:09:34+00:00",
+  "modelo": "gpt-5.4"
+}

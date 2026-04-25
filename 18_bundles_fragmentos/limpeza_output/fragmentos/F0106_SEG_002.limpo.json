@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0106_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0106_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "compreensão do real e agir"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0106_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Por isso é que o filósofo é aquele que descreve bem o real. Não é o que diz a verdade. A verdade é o que é o real.\n\nQuem compreende as relações em que se encontra, ou vai encontrar, ou poderia ter encontrado, compreende que essas relações são caracterizadas de certo modo. E, por serem caracterizadas assim, pode perceber qual o melhor modo de ser, de agir, o que é bom e o que é mau. Não por impressão externa, mas pela identificação da própria relação.\n\nSe eu consigo entender o facto — não a coisa —, se consigo entender o que está a acontecer na continuidade do ser, então posso ser melhor nessa continuidade, preservando a relação em que estou, ou quero estar.",
+    "resumo_alteracoes": [
+      "Suavizada a formulação inicial de 'bem descreve o real' para 'descreve bem o real', sem alterar a tese.",
+      "Ajustada a pontuação para melhorar a legibilidade e a cadência argumentativa.",
+      "Reduzida uma repetição leve em 'posso melhor ser' para 'posso ser melhor', preservando o sentido.",
+      "Mantida a distinção entre 'facto' e 'coisa' e o encadeamento entre compreensão, caracterização da relação e ação."
+    ],
+    "notas_cautela": [
+      "O trecho parece íntegro localmente, mas depende do contexto adjacente para a noção de 'relações' e de 'continuidade do ser'.",
+      "A expressão 'ou poderia ter encontrado' foi preservada apesar de ligeira estranheza, por cautela autoral.",
+      "Não foram preenchidas possíveis lacunas conceptuais implícitas entre descrição do real e critério do bem agir."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0106_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Por isso é que o filósofo é aquele que descreve bem o real. Não é o que diz a verdade. A verdade é o que é o real.\\n\\nQuem compreende as relações em que se encontra, ou vai encontrar, ou poderia ter encontrado, compreende que essas relações são caracterizadas de certo modo. E, por serem caracterizadas assim, pode perceber qual o melhor modo de ser, de agir, o que é bom e o que é mau. Não por impressão externa, mas pela identificação da própria relação.\\n\\nSe eu consigo entender o facto — não a coisa —, se consigo entender o que está a acontecer na continuidade do ser, então posso ser melhor nessa continuidade, preservando a relação em que estou, ou quero estar.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a formulação inicial de 'bem descreve o real' para 'descreve bem o real', sem alterar a tese.\",\n    \"Ajustada a pontuação para melhorar a legibilidade e a cadência argumentativa.\",\n    \"Reduzida uma repetição leve em 'posso melhor ser' para 'posso ser melhor', preservando o sentido.\",\n    \"Mantida a distinção entre 'facto' e 'coisa' e o encadeamento entre compreensão, caracterização da relação e ação.\"\n  ],\n  \"notas_cautela\": [\n    \"O trecho parece íntegro localmente, mas depende do contexto adjacente para a noção de 'relações' e de 'continuidade do ser'.\",\n    \"A expressão 'ou poderia ter encontrado' foi preservada apesar de ligeira estranheza, por cautela autoral.\",\n    \"Não foram preenchidas possíveis lacunas conceptuais implícitas entre descrição do real e critério do bem agir.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:26:47+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A17_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A17_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "moralidade, realidade, apreensão, relação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A17_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O argumento do Andrew Wilson, da objetividade da moralidade pelo comando divino, é uma tentativa de salvar aquilo que eu diria ser apreensível, tocável, experienciável: o mundo das coisas criado por Deus, algo assim. Mas a questão é que, pela fraca descrição que todos têm, mesmo aqueles que tentam percorrer o caminho do real, por não darem ao real o estatuto que querem, retiram-no completamente da equação, ao ponto de a melhor salvação ser trocá-lo por Deus, por um ente qualquer intencional.\n\nA moralidade, aquilo que, sendo isso, melhor se situa no contínuo da localidade, é assim que é nesse contínuo da localidade, em que se pode sequer colocar a questão do bem, somente quando do real advém um ser reflexivo. Só aí, porque o ser está a refletir sobre a realidade que o contém em si mesmo. O ser está a viver na mediação da apreensão e da realidade.\n\nEstá a viver nessa relação. Relação de quê? Sempre entre a apreensão e a realidade: a apreensão, que inculta do estado interior, whatever, e a realidade. E, quanto melhor for a apreensão, e depois a descrição do que o ser faz na realidade onde vive, melhor se vai posicionar no meio de todas as relações.\n\nNão é preciso recorrer a Deus para saber que, num sistema relacional, há aquilo que preserva e edifica a realidade, o conjunto de atualizações, e aquilo que destrói.",
+    "resumo_alteracoes": [
+      "Pontuação e segmentação ajustadas para reduzir fusões sintáticas e melhorar a legibilidade.",
+      "Repetições e hesitações mínimas foram aparadas sem alterar a tese local.",
+      "Foram feitas reconstruções conservadoras em passagens truncadas, apenas para sustentação gramatical básica.",
+      "A ordem argumentativa local foi mantida: crítica ao comando divino, localização da moralidade na relação entre apreensão e realidade, conclusão sobre preservação e destruição no sistema relacional."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém zonas sintaticamente instáveis, sobretudo em torno de 'contínuo da localidade', que não foram normalizadas em excesso para preservar a formulação autoral.",
+      "A expressão 'a apreensão, que inculta do estado interior, whatever' permanece parcialmente opaca; foi apenas levemente estabilizada.",
+      "Há sinais de corte interno e de fusão de parágrafos; o texto continua parcialmente truncado após a limpeza."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A17_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O argumento do Andrew Wilson, da objetividade da moralidade pelo comando divino, é uma tentativa de salvar aquilo que eu diria ser apreensível, tocável, experienciável: o mundo das coisas criado por Deus, algo assim. Mas a questão é que, pela fraca descrição que todos têm, mesmo aqueles que tentam percorrer o caminho do real, por não darem ao real o estatuto que querem, retiram-no completamente da equação, ao ponto de a melhor salvação ser trocá-lo por Deus, por um ente qualquer intencional.\\n\\nA moralidade, aquilo que, sendo isso, melhor se situa no contínuo da localidade, é assim que é nesse contínuo da localidade, em que se pode sequer colocar a questão do bem, somente quando do real advém um ser reflexivo. Só aí, porque o ser está a refletir sobre a realidade que o contém em si mesmo. O ser está a viver na mediação da apreensão e da realidade.\\n\\nEstá a viver nessa relação. Relação de quê? Sempre entre a apreensão e a realidade: a apreensão, que inculta do estado interior, whatever, e a realidade. E, quanto melhor for a apreensão, e depois a descrição do que o ser faz na realidade onde vive, melhor se vai posicionar no meio de todas as relações.\\n\\nNão é preciso recorrer a Deus para saber que, num sistema relacional, há aquilo que preserva e edifica a realidade, o conjunto de atualizações, e aquilo que destrói.\",\n  \"resumo_alteracoes\": [\n    \"Pontuação e segmentação ajustadas para reduzir fusões sintáticas e melhorar a legibilidade.\",\n    \"Repetições e hesitações mínimas foram aparadas sem alterar a tese local.\",\n    \"Foram feitas reconstruções conservadoras em passagens truncadas, apenas para sustentação gramatical básica.\",\n    \"A ordem argumentativa local foi mantida: crítica ao comando divino, localização da moralidade na relação entre apreensão e realidade, conclusão sobre preservação e destruição no sistema relacional.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém zonas sintaticamente instáveis, sobretudo em torno de 'contínuo da localidade', que não foram normalizadas em excesso para preservar a formulação autoral.\",\n    \"A expressão 'a apreensão, que inculta do estado interior, whatever' permanece parcialmente opaca; foi apenas levemente estabilizada.\",\n    \"Há sinais de corte interno e de fusão de parágrafos; o texto continua parcialmente truncado após a limpeza.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:52:44+00:00",
+  "modelo": "gpt-5.4"
+}

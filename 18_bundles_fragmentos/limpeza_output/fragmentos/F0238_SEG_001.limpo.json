@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0238_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0238_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "thomas sol, abordagem factual"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0238_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "A questão já nem sei qual era. Era com o Thomas Sol. Grande ser: básico, factual. Não derivativo da ontologia, mas acertado, por factual, na melhor descrição daquilo que é no seu campo: economia; toca em política, toca em filosofia, mas, pronto, ainda maioritariamente economia.",
+    "resumo_alteracoes": [
+      "Removeu-se oralidade redundante e hesitações iniciais.",
+      "Eliminou-se a repetição do nome próprio.",
+      "Corrigiu-se a sintaxe e a pontuação para maior legibilidade.",
+      "Preservou-se o léxico central: 'básico', 'factual', 'não derivativo da ontologia', 'economia', 'política' e 'filosofia'."
+    ],
+    "notas_cautela": [
+      "A formulação 'acertado, por factual' mantém alguma aspereza sintática do original para evitar introduzir uma tese nova.",
+      "A expressão 'Grande ser' foi preservada como traço de voz autoral, apesar do registo elíptico."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0238_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"A questão já nem sei qual era. Era com o Thomas Sol. Grande ser: básico, factual. Não derivativo da ontologia, mas acertado, por factual, na melhor descrição daquilo que é no seu campo: economia; toca em política, toca em filosofia, mas, pronto, ainda maioritariamente economia.\",\n  \"resumo_alteracoes\": [\n    \"Removeu-se oralidade redundante e hesitações iniciais.\",\n    \"Eliminou-se a repetição do nome próprio.\",\n    \"Corrigiu-se a sintaxe e a pontuação para maior legibilidade.\",\n    \"Preservou-se o léxico central: 'básico', 'factual', 'não derivativo da ontologia', 'economia', 'política' e 'filosofia'.\"\n  ],\n  \"notas_cautela\": [\n    \"A formulação 'acertado, por factual' mantém alguma aspereza sintática do original para evitar introduzir uma tese nova.\",\n    \"A expressão 'Grande ser' foi preservada como traço de voz autoral, apesar do registo elíptico.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:45:16+00:00",
+  "modelo": "gpt-5.4"
+}

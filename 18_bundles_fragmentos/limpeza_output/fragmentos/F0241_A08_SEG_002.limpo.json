@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A08_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A08_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "sistema, normativos e liberdade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A08_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Estava a pensar no homem moderno, no registo de normativos, de regras que perduram para além da morte do ser e do nascimento do novo ser, sobre o qual nada se sabe daquilo que é. Estava a pensar em como esse sistema criado se vai multiplicando e totalizando, abrangendo todas as instâncias do real e da relação do eu com o real, e em como o espaço dado ao homem livre para exercer a sua liberdade está cada vez mais restrito a permissões, permissões dadas por um ente qualquer que vai criando barreiras e muros no caminho do homem.\n\nE o sistema europeu, assim como veio, cujo pensamento veio da permissão concebida à intelectualização, concedeu à intelectualização um modo de ser que é o modo de ser que cria o melhor sistema. E o melhor sistema é onde o homem deve viver, como é óbvio. Vivem eles. Por isso, toda a política e todos os modos de viver que podem viver dentro do espaço político, dentro do sistema, tornam-se subscrivientes ao sistema, como efeito da maioria.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e marcas de oralidade redundantes.",
+      "Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Feitas correções mínimas de construção frásica.",
+      "Mantida a progressão do argumento: normativos e sistema, restrição da liberdade, sistema europeu, subscrição política ao sistema."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e parcialmente elípticas.",
+      "Há possível corte interno ou compressão argumentativa na passagem sobre o sistema europeu e a intelectualização.",
+      "A expressão final foi preservada com intervenção mínima, embora permaneça algo abrupta."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A08_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Estava a pensar no homem moderno, no registo de normativos, de regras que perduram para além da morte do ser e do nascimento do novo ser, sobre o qual nada se sabe daquilo que é. Estava a pensar em como esse sistema criado se vai multiplicando e totalizando, abrangendo todas as instâncias do real e da relação do eu com o real, e em como o espaço dado ao homem livre para exercer a sua liberdade está cada vez mais restrito a permissões, permissões dadas por um ente qualquer que vai criando barreiras e muros no caminho do homem.\\n\\nE o sistema europeu, assim como veio, cujo pensamento veio da permissão concebida à intelectualização, concedeu à intelectualização um modo de ser que é o modo de ser que cria o melhor sistema. E o melhor sistema é onde o homem deve viver, como é óbvio. Vivem eles. Por isso, toda a política e todos os modos de viver que podem viver dentro do espaço político, dentro do sistema, tornam-se subscrivientes ao sistema, como efeito da maioria.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e marcas de oralidade redundantes.\",\n    \"Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Feitas correções mínimas de construção frásica.\",\n    \"Mantida a progressão do argumento: normativos e sistema, restrição da liberdade, sistema europeu, subscrição política ao sistema.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e parcialmente elípticas.\",\n    \"Há possível corte interno ou compressão argumentativa na passagem sobre o sistema europeu e a intelectualização.\",\n    \"A expressão final foi preservada com intervenção mínima, embora permaneça algo abrupta.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:48:48+00:00",
+  "modelo": "gpt-5.4"
+}

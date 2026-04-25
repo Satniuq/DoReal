@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0098_A03_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0098_A03_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "sociedade, normas, valor, mediação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0098_A03_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E pergunta-se: como é que sabes o que deve ser? Pela integração da totalidade do conhecimento verdadeiro que foi sendo obtido. Eu não cheguei aqui sozinho. Sei que há um agente, um ser reflexivo integrado numa sociedade.\n\nAs sociedades produzem modos de ser típicos. Pela dimensão das sociedades, por estarem muitas pessoas no mesmo sítio, como muitos átomos a ocupar o mesmo espaço, houve necessidade de reger princípios comuns, para que quem nasce amanhã tenha um enquadramento do que é.\n\nMas isso é quase sempre feito do ponto de vista do dever-ser, nunca do que é.\n\nA lei é valorativa. As exterioridades, as atualizações intermédias entre o eu e o real, são ficções criadas para que o homem que nasce amanhã saiba o que já foi descoberto.\n\nO ato humano é valorativo pela própria estrutura da mediação entre o eu local e o real em que me insiro.",
+    "resumo_alteracoes": [
+      "Ajustada pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Preservada a divisão em parágrafos e a progressão argumentativa original.",
+      "Feita uma normalização mínima em 'onde me insiro' para 'em que me insiro', por fluidez sintática.",
+      "Mantido o léxico central do fragmento, incluindo 'dever-ser', 'lei é valorativa' e 'mediação'."
+    ],
+    "notas_cautela": [
+      "O fragmento pode permanecer parcial, com continuidade argumentativa dependente do segmento seguinte.",
+      "A expressão 'reger princípios comuns' foi preservada apesar de alguma estranheza, para evitar introdução de formulação nova.",
+      "Há formulações densas e possivelmente elípticas ('exterioridades', 'atualizações intermédias') que foram mantidas por cautela autoral."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0098_A03_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E pergunta-se: como é que sabes o que deve ser? Pela integração da totalidade do conhecimento verdadeiro que foi sendo obtido. Eu não cheguei aqui sozinho. Sei que há um agente, um ser reflexivo integrado numa sociedade.\\n\\nAs sociedades produzem modos de ser típicos. Pela dimensão das sociedades, por estarem muitas pessoas no mesmo sítio, como muitos átomos a ocupar o mesmo espaço, houve necessidade de reger princípios comuns, para que quem nasce amanhã tenha um enquadramento do que é.\\n\\nMas isso é quase sempre feito do ponto de vista do dever-ser, nunca do que é.\\n\\nA lei é valorativa. As exterioridades, as atualizações intermédias entre o eu e o real, são ficções criadas para que o homem que nasce amanhã saiba o que já foi descoberto.\\n\\nO ato humano é valorativo pela própria estrutura da mediação entre o eu local e o real em que me insiro.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Preservada a divisão em parágrafos e a progressão argumentativa original.\",\n    \"Feita uma normalização mínima em 'onde me insiro' para 'em que me insiro', por fluidez sintática.\",\n    \"Mantido o léxico central do fragmento, incluindo 'dever-ser', 'lei é valorativa' e 'mediação'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode permanecer parcial, com continuidade argumentativa dependente do segmento seguinte.\",\n    \"A expressão 'reger princípios comuns' foi preservada apesar de alguma estranheza, para evitar introdução de formulação nova.\",\n    \"Há formulações densas e possivelmente elípticas ('exterioridades', 'atualizações intermédias') que foram mantidas por cautela autoral.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:23:22+00:00",
+  "modelo": "gpt-5.4"
+}

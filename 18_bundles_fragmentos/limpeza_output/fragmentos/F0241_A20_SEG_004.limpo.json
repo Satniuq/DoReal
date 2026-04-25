@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A20_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A20_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "definição, descrição completa"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A20_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "As definições, no sentido da descrição completa do símbolo que se está a descrever. Se se está a descrever a liberdade, então a definição tem de conter aquilo que é, de facto, a liberdade: somente o reflexo da reflexividade na ação; as possibilidades no campo das potencialidades de um ser reflexivo que existe localmente nesse campo, que interage com o campo na sua extensão, que amplia, desfaz, molda e restringe, dependendo da apreensão relativamente ao real, que o inclui a ele próprio, claro. É a descrição de todas as compartimentalizações daquilo de que se está a falar, que envolve, para além de tudo, o homem.",
+    "resumo_alteracoes": [
+      "Corrigida a sintaxe para maior legibilidade, preservando o conteúdo e o léxico central.",
+      "Reduzidas repetições e oralidades redundantes, como a duplicação de 'envolve'.",
+      "Ajustadas concordâncias e encadeamentos frásicos sem alterar a tese local.",
+      "Pontuação reorganizada para tornar mais clara a enumeração interna da definição."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e possivelmente incompletas devido a corte interno.",
+      "A expressão final sobre o que 'envolve o homem' permanece geral, porque não convém completar a lacuna com conteúdo novo.",
+      "Foi preservada a formulação local sobre liberdade e apreensão sem tentar clarificar além do que o texto sustenta."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A20_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"As definições, no sentido da descrição completa do símbolo que se está a descrever. Se se está a descrever a liberdade, então a definição tem de conter aquilo que é, de facto, a liberdade: somente o reflexo da reflexividade na ação; as possibilidades no campo das potencialidades de um ser reflexivo que existe localmente nesse campo, que interage com o campo na sua extensão, que amplia, desfaz, molda e restringe, dependendo da apreensão relativamente ao real, que o inclui a ele próprio, claro. É a descrição de todas as compartimentalizações daquilo de que se está a falar, que envolve, para além de tudo, o homem.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a sintaxe para maior legibilidade, preservando o conteúdo e o léxico central.\",\n    \"Reduzidas repetições e oralidades redundantes, como a duplicação de 'envolve'.\",\n    \"Ajustadas concordâncias e encadeamentos frásicos sem alterar a tese local.\",\n    \"Pontuação reorganizada para tornar mais clara a enumeração interna da definição.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e possivelmente incompletas devido a corte interno.\",\n    \"A expressão final sobre o que 'envolve o homem' permanece geral, porque não convém completar a lacuna com conteúdo novo.\",\n    \"Foi preservada a formulação local sobre liberdade e apreensão sem tentar clarificar além do que o texto sustenta.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:54:17+00:00",
+  "modelo": "gpt-5.4"
+}

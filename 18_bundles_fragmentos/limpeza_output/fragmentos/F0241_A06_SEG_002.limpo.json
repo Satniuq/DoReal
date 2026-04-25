@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A06_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A06_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crise da filosofia contemporânea"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A06_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A filosofia é tão fraca, tão carreirista, tão formalista, tão cheia de eu-ego, que nunca pensaria em colocar Thomas Sowell como filósofo. Porém, os mecanismos que ele descreve — um entre inúmeros exemplos —, em frases simples, por exemplo a de que as pessoas não buscam a verdade, nem a encontram relativamente aos modos de ser do eu-ego, aos modos de ser no real, na relação com o real, mostram o absurdo em que a filosofia se tornou, ou no que nunca foi, no que deixou de ser depois de Aristóteles.\n\nSim, é bem visto. Sim, porque já não há filosofia; há só discurso sobre filosofia. Havia, há uns tempos, num programa qualquer — não sei se era o Pampleycast — em que gostavam sempre de fazer aos convidados a pergunta sobre o que era, para eles, a filosofia. E havia toda aquela coisa: era uma prática, era um conhecimento, era um sei lá o quê; ou então que a filosofia já não deve existir e deve ser absorvida pela ciência. Coisas assim, de um lado e do outro. Então, o jogo do sistema é tão grande, eles vivem tanto no sistema que criaram, que nem descrever a sua própria atividade dentro desse sistema conseguem.",
+    "resumo_alteracoes": [
+      "Separei e pontuei períodos para recuperar legibilidade após fusão de parágrafos e encadeamentos orais.",
+      "Reduzi hesitações, repetições e marcadores orais redundantes sem alterar a tese local.",
+      "Mantive as referências a Thomas Sowell, ao eu-ego, ao real e à crítica à filosofia contemporânea.",
+      "Reconstruí apenas o mínimo sintático necessário em trechos truncados, sem fechar lacunas argumentativas com conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O trecho central sobre 'as pessoas não buscam a verdade' e a ligação com 'modos de ser do eu-ego' permanece parcialmente áspero por haver corte interno na formulação original.",
+      "A referência ao programa e à ordem da pergunta continua imprecisa no original; foi apenas regularizada para leitura.",
+      "O fragmento mantém marcas de oralidade e possível compressão argumentativa; a limpeza foi conservadora."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A06_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A filosofia é tão fraca, tão carreirista, tão formalista, tão cheia de eu-ego, que nunca pensaria em colocar Thomas Sowell como filósofo. Porém, os mecanismos que ele descreve — um entre inúmeros exemplos —, em frases simples, por exemplo a de que as pessoas não buscam a verdade, nem a encontram relativamente aos modos de ser do eu-ego, aos modos de ser no real, na relação com o real, mostram o absurdo em que a filosofia se tornou, ou no que nunca foi, no que deixou de ser depois de Aristóteles.\\n\\nSim, é bem visto. Sim, porque já não há filosofia; há só discurso sobre filosofia. Havia, há uns tempos, num programa qualquer — não sei se era o Pampleycast — em que gostavam sempre de fazer aos convidados a pergunta sobre o que era, para eles, a filosofia. E havia toda aquela coisa: era uma prática, era um conhecimento, era um sei lá o quê; ou então que a filosofia já não deve existir e deve ser absorvida pela ciência. Coisas assim, de um lado e do outro. Então, o jogo do sistema é tão grande, eles vivem tanto no sistema que criaram, que nem descrever a sua própria atividade dentro desse sistema conseguem.\",\n  \"resumo_alteracoes\": [\n    \"Separei e pontuei períodos para recuperar legibilidade após fusão de parágrafos e encadeamentos orais.\",\n    \"Reduzi hesitações, repetições e marcadores orais redundantes sem alterar a tese local.\",\n    \"Mantive as referências a Thomas Sowell, ao eu-ego, ao real e à crítica à filosofia contemporânea.\",\n    \"Reconstruí apenas o mínimo sintático necessário em trechos truncados, sem fechar lacunas argumentativas com conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O trecho central sobre 'as pessoas não buscam a verdade' e a ligação com 'modos de ser do eu-ego' permanece parcialmente áspero por haver corte interno na formulação original.\",\n    \"A referência ao programa e à ordem da pergunta continua imprecisa no original; foi apenas regularizada para leitura.\",\n    \"O fragmento mantém marcas de oralidade e possível compressão argumentativa; a limpeza foi conservadora.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:47:55+00:00",
+  "modelo": "gpt-5.4"
+}

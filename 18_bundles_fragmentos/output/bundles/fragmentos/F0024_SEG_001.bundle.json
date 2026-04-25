@@ -1,0 +1,149 @@
+{
+  "identificacao": {
+    "fragment_id": "F0024_SEG_001",
+    "origem_id": "F0024",
+    "header_original": "## F0024 — 2026-01-02",
+    "ordem_no_ficheiro": 25,
+    "base_container_id": "F0024",
+    "tipo_material_fonte": "dialogo_com_ia"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0024",
+      "data": "2026-01-02",
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0024 — 2026-01-02",
+      "ordem_no_ficheiro": 25,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0024",
+          "paragrafos_origem": [
+            "F0024_P01"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "dialogo_com_ia",
+    "texto_fragmento": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.",
+    "texto_normalizado": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.",
+    "texto_fonte_reconstituido": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.",
+    "texto_principal": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.",
+    "segmentacao": {
+      "tipo_unidade": "sequencia_argumentativa",
+      "criterio_de_unidade": "continuidade_argumentativa",
+      "houve_fusao_de_paragrafos": false,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "afirmacao",
+    "tema_dominante_provisorio": "instituições, realidade, homem, prescrição",
+    "conceitos_relevantes_provisorios": [
+      "instituições",
+      "verdade",
+      "realidade",
+      "homem livre",
+      "prescrição"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": null,
+      "fragmento_seguinte": "F0024_SEG_002",
+      "continua_anterior": false,
+      "prepara_seguinte": true
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 01:12:15",
+      "hash_texto_normalizado": "f1d16b54cf02b90f2925e2b2a32a80e185eaf340fabdb83179c2592dc27680aa"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0024",
+    "container_origem": {
+      "base_container_id": "F0024",
+      "header": "## F0024 — 2026-01-02",
+      "data": "2026-01-02",
+      "texto_container": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.\n\n[Entrada ChatGPT]\n(A) Metafísica da Consciência e dos Qualia  \n(B) Teoria do Conhecimento e do Erro  \n(C) Lógica da Evolução do Ser (Tempo e História)\n\n[Resposta do Autor]\n(A) Não preciso de explicar o sentir, porque sei e é verdade que ele é verdadeiro e universal.  \n(B) Não há erro ontologicamente: ontologicamente só há o real. O erro é um simples modo de ser — errado porque não verdadeiro. Gradual perante a realidade, como o conhecimento também é.  \n(C) A realidade não muda; e, mesmo que o espaço aumente pela energia escura e as regras da termodinâmica mudem, essa mudança faz parte do real.",
+      "texto_container_preview": "[Autor] As instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras v…",
+      "hash_texto_container": "9d8e7158525a8287683f087b2e8f273f00eeadf796262fffd1ee7e7075ff711e"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": null,
+    "fragmento_seguinte": {
+      "fragment_id": "F0024_SEG_002",
+      "encontrado": true,
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "resposta",
+      "tema_dominante_provisorio": "realidade, erro, ser, tempo",
+      "texto_preview": "[Entrada ChatGPT] (A) Metafísica da Consciência e dos Qualia (B) Teoria do Conhecimento e do Erro (C) Lógica da Evolução do Ser (Tempo e História) [Resposta do Autor] (A) Não preciso de explicar o sentir, porque sei e é verdade que ele é verdadeiro e universal. (B) Não há erro ontologicamente: ontologicamente só há o real. O erro é um simples modo de ser — errado porque não verdadeiro. Gradual perante a realidade, c…"
+    }
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "[Autor]\nAs instituições impõem modos de ser; quanto piores as instituições, piores os modos de pensar e ser. Pensar de acordo com a instituição não é pensar de acordo com a verdade. Independentemente das ações individuais, é verdade que agir de acordo com a realidade é melhor; e a realidade contém, entre outros, o homem consciente. O homem é livre e digno; logo, a melhor prescrição será uma que não viole as regras verdadeiras básicas.",
+    "fonte_texto_principal": "texto_autor_extraido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "voz_autor_extraida",
+      "houve_corte_interno",
+      "continuidade_local_ativa",
+      "material_dialogico_com_ia"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": "extrair_voz_autor",
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "f1d16b54cf02b90f2925e2b2a32a80e185eaf340fabdb83179c2592dc27680aa",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "separacao_de_vozes",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": true,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "houve_corte_interno",
+      "material_dialogico_com_ia",
+      "voz_autor_extraida"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:37+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "f1d16b54cf02b90f2925e2b2a32a80e185eaf340fabdb83179c2592dc27680aa",
+      "texto_normalizado": "f1d16b54cf02b90f2925e2b2a32a80e185eaf340fabdb83179c2592dc27680aa",
+      "texto_fonte_reconstituido": "f1d16b54cf02b90f2925e2b2a32a80e185eaf340fabdb83179c2592dc27680aa",
+      "texto_principal": "f1d16b54cf02b90f2925e2b2a32a80e185eaf340fabdb83179c2592dc27680aa"
+    }
+  }
+}

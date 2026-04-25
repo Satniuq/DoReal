@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0068_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0068_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "erro categorial e resistência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0068_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A crítica do chamado GAP entre ser e dever-ser é, no fundo, o mesmo erro categorial que atravessa outras formulações filosóficas contemporâneas, como o chamado “problema difícil da consciência”. Trata-se do mesmo modo de pensar falhado: confundir níveis ontológicos distintos e exigir uma ponte onde já existe continuidade.\n\nÉ normal que a posição por defeito seja relegar a realidade e pensar prioritariamente em termos pessoais. Isto decorre não apenas da fisicalidade do ponto de vista — cada consciência centrada num único corpo — mas também do facto de o real ser quase sempre diferente da primeira formulação mental do indivíduo. Por isso, o pensamento do indivíduo terá sempre de ser diferente de si próprio.\n\nEssa diferença gera resistência: o indivíduo não quer destruir o seu modo de ser atual, mas preservá-lo. Existe o privilégio humano de construir o real na própria cabeça, e essa mediação cria a ilusão de uma dificuldade artificial na proposta de comportamentos orientados pelo real.\n\nCuriosamente, não há dificuldade em propor normativos para os outros. A resistência surge quando o filósofo propõe normas derivadas do real para todos, incluindo quem as formula. A partir de um quadro simples — duas ou três pinceladas ontológicas — cada indivíduo vê apenas o fragmento imediato à sua volta, não a totalidade do quadro.",
+    "resumo_alteracoes": [
+      "Corrigida a fluidez sintática em 'do facto de que o real será' para 'do facto de o real ser'.",
+      "Removida a expressão em inglês 'ease out' por surgir como marca oral ou intrusiva, preservando a ideia de dificuldade artificial.",
+      "Mantida a divisão argumentativa em quatro momentos sem reordenar a progressão local.",
+      "Feita limpeza mínima de formulações para melhorar legibilidade sem alterar a tese."
+    ],
+    "notas_cautela": [
+      "O fragmento parece integrar uma sequência argumentativa ativa e deve ser lido em continuidade com o seguinte.",
+      "A formulação 'o pensamento do indivíduo terá sempre de ser diferente de si próprio' foi preservada apesar de alguma opacidade, por poder ter carga conceptual própria.",
+      "A expressão removida ('ease out') era ambígua no contexto; a limpeza optou por conservar apenas o núcleo sem reconstrução interpretativa adicional."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0068_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A crítica do chamado GAP entre ser e dever-ser é, no fundo, o mesmo erro categorial que atravessa outras formulações filosóficas contemporâneas, como o chamado “problema difícil da consciência”. Trata-se do mesmo modo de pensar falhado: confundir níveis ontológicos distintos e exigir uma ponte onde já existe continuidade.\\n\\nÉ normal que a posição por defeito seja relegar a realidade e pensar prioritariamente em termos pessoais. Isto decorre não apenas da fisicalidade do ponto de vista — cada consciência centrada num único corpo — mas também do facto de o real ser quase sempre diferente da primeira formulação mental do indivíduo. Por isso, o pensamento do indivíduo terá sempre de ser diferente de si próprio.\\n\\nEssa diferença gera resistência: o indivíduo não quer destruir o seu modo de ser atual, mas preservá-lo. Existe o privilégio humano de construir o real na própria cabeça, e essa mediação cria a ilusão de uma dificuldade artificial na proposta de comportamentos orientados pelo real.\\n\\nCuriosamente, não há dificuldade em propor normativos para os outros. A resistência surge quando o filósofo propõe normas derivadas do real para todos, incluindo quem as formula. A partir de um quadro simples — duas ou três pinceladas ontológicas — cada indivíduo vê apenas o fragmento imediato à sua volta, não a totalidade do quadro.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a fluidez sintática em 'do facto de que o real será' para 'do facto de o real ser'.\",\n    \"Removida a expressão em inglês 'ease out' por surgir como marca oral ou intrusiva, preservando a ideia de dificuldade artificial.\",\n    \"Mantida a divisão argumentativa em quatro momentos sem reordenar a progressão local.\",\n    \"Feita limpeza mínima de formulações para melhorar legibilidade sem alterar a tese.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece integrar uma sequência argumentativa ativa e deve ser lido em continuidade com o seguinte.\",\n    \"A formulação 'o pensamento do indivíduo terá sempre de ser diferente de si próprio' foi preservada apesar de alguma opacidade, por poder ter carga conceptual própria.\",\n    \"A expressão removida ('ease out') era ambígua no contexto; a limpeza optou por conservar apenas o núcleo sem reconstrução interpretativa adicional.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:11:45+00:00",
+  "modelo": "gpt-5.4"
+}

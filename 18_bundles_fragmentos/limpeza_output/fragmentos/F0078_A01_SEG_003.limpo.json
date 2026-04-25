@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0078_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0078_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "potencial, capacidade e auto-reflexão"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0078_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A variedade humana é enorme. As potencialidades humanas, as capacidades e as possibilidades são amplas. É correto dizer proposições verdadeiras sobre as potencialidades de cada um, verificadas pelas capacidades de cada um. Uma coisa é necessária à outra. E é isso que fazemos de modo implícito, mesmo quando não reconhecemos essa estrutura verdadeira do universo ao caminhar.\n\nQuem criou o fogo não foi apenas quem o descobriu, mas quem conseguiu descrever corretamente o processo da sua criação para que outros também o pudessem fazer. Se só um souber fazer, a ideia acaba. Todas acabam assim.\n\nPor isso avaliamos competências, capacidades e até níveis psicológicos. Mais uma demonstração de que dentro do ser há o que somos. Se não nos cercarmos do que tomamos como verdadeiro, não analisaremos verdadeiramente questões como: terei filhos? Com quem me devo juntar? Antes disso tudo: que tipo de pessoa sou? Que tipo de pessoa quero ser?\n\nSem um modo de ser que obrigue a estas perguntas, elas nem sequer se colocam. Vivemos muitas vezes em modo automático. A correção, quando não é reflexiva, torna-se traumática. O trauma surge pelo arrastar da situação, pela inação em corrigir o caminho.",
+    "resumo_alteracoes": [
+      "Limpeza pontual de repetições e coordenações para melhorar fluidez sem alterar a tese local.",
+      "Ajuste mínimo de pontuação e encadeamento sintático.",
+      "Reformulação muito conservadora de 'processo de criação do fogo' para 'processo da sua criação' apenas por legibilidade."
+    ],
+    "notas_cautela": [
+      "O fragmento parece semanticamente contínuo, mas pode depender do contexto anterior para o alcance de 'estrutura verdadeira do universo'.",
+      "Mantida a formulação 'dentro do ser há o que somos' apesar de alguma opacidade, para não introduzir interpretação nova.",
+      "A passagem entre avaliação de capacidades e decisões de vida permanece densa; não foi expandida para evitar fechar lacunas argumentativas com conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0078_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A variedade humana é enorme. As potencialidades humanas, as capacidades e as possibilidades são amplas. É correto dizer proposições verdadeiras sobre as potencialidades de cada um, verificadas pelas capacidades de cada um. Uma coisa é necessária à outra. E é isso que fazemos de modo implícito, mesmo quando não reconhecemos essa estrutura verdadeira do universo ao caminhar.\\n\\nQuem criou o fogo não foi apenas quem o descobriu, mas quem conseguiu descrever corretamente o processo da sua criação para que outros também o pudessem fazer. Se só um souber fazer, a ideia acaba. Todas acabam assim.\\n\\nPor isso avaliamos competências, capacidades e até níveis psicológicos. Mais uma demonstração de que dentro do ser há o que somos. Se não nos cercarmos do que tomamos como verdadeiro, não analisaremos verdadeiramente questões como: terei filhos? Com quem me devo juntar? Antes disso tudo: que tipo de pessoa sou? Que tipo de pessoa quero ser?\\n\\nSem um modo de ser que obrigue a estas perguntas, elas nem sequer se colocam. Vivemos muitas vezes em modo automático. A correção, quando não é reflexiva, torna-se traumática. O trauma surge pelo arrastar da situação, pela inação em corrigir o caminho.\",\n  \"resumo_alteracoes\": [\n    \"Limpeza pontual de repetições e coordenações para melhorar fluidez sem alterar a tese local.\",\n    \"Ajuste mínimo de pontuação e encadeamento sintático.\",\n    \"Reformulação muito conservadora de 'processo de criação do fogo' para 'processo da sua criação' apenas por legibilidade.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece semanticamente contínuo, mas pode depender do contexto anterior para o alcance de 'estrutura verdadeira do universo'.\",\n    \"Mantida a formulação 'dentro do ser há o que somos' apesar de alguma opacidade, para não introduzir interpretação nova.\",\n    \"A passagem entre avaliação de capacidades e decisões de vida permanece densa; não foi expandida para evitar fechar lacunas argumentativas com conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:15:12+00:00",
+  "modelo": "gpt-5.4"
+}

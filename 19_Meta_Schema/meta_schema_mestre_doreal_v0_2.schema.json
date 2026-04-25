@@ -1,0 +1,2481 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://doreal.local/schemas/meta_schema_mestre_doreal_v0_2.schema.json",
+  "title": "Meta-Schema Mestre DoReal v0.2",
+  "description": "Schema mestre multi-camada do projeto DoReal. Integra base empírica fragmentária, camadas analíticas derivadas, estrutura dedutiva canónica, governo expositivo e arbitragem transversal entre camadas, preservando D_REAL como critério último.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "meta_schema",
+    "governanca",
+    "manifesto_de_cobertura",
+    "registro_de_fontes",
+    "pecas_governativas",
+    "entidades_canonicas",
+    "arestas_tipadas",
+    "arbitragem_transversal",
+    "projecoes_regeneraveis"
+  ],
+  "properties": {
+    "meta_schema": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "versao",
+        "nome",
+        "criterio_ultimo",
+        "descricao",
+        "gerado_em_utc",
+        "estado",
+        "fonte_normativa_prevalecente"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "versao": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        },
+        "nome": {
+          "type": "string"
+        },
+        "criterio_ultimo": {
+          "type": "string",
+          "const": "D_REAL"
+        },
+        "descricao": {
+          "type": "string"
+        },
+        "gerado_em_utc": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "estado": {
+          "type": "string",
+          "enum": [
+            "proposta",
+            "em_teste",
+            "ativo",
+            "consolidado",
+            "substituido",
+            "historico"
+          ]
+        },
+        "fonte_normativa_prevalecente": {
+          "$ref": "#/$defs/fonteRef"
+        },
+        "observacoes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "governanca": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "hierarquia_de_soberania",
+        "principios",
+        "regras_de_prevalencia",
+        "regra_de_conteudo_destinacao_voz"
+      ],
+      "properties": {
+        "hierarquia_de_soberania": {
+          "type": "array",
+          "minItems": 6,
+          "items": {
+            "type": "string",
+            "enum": [
+              "empirica_base",
+              "textual_derivada",
+              "analitica_derivada",
+              "estrutural_canonica",
+              "expositiva_governativa",
+              "arbitragem_transversal"
+            ]
+          },
+          "description": "Ordem de leitura e resolução de tensão entre camadas."
+        },
+        "principios": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "enum": [
+              "primado_descritivo",
+              "submissao_ao_real",
+              "nao_exterioridade",
+              "dossier_first",
+              "nao_substituicao_do_real_por_sistema",
+              "separacao_conteudo_destinacao_voz",
+              "abertura_baixa",
+              "reconstrucao_sem_achatamento"
+            ]
+          }
+        },
+        "regras_de_prevalencia": {
+          "type": "array",
+          "minItems": 4,
+          "items": {
+            "$ref": "#/$defs/regraPrevalencia"
+          }
+        },
+        "regra_de_conteudo_destinacao_voz": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "conteudo_governado_pelo_real",
+            "destinacao_governada_pela_transmissao",
+            "voz_governada_pela_responsabilidade_expositiva"
+          ],
+          "properties": {
+            "conteudo_governado_pelo_real": {
+              "type": "boolean"
+            },
+            "destinacao_governada_pela_transmissao": {
+              "type": "boolean"
+            },
+            "voz_governada_pela_responsabilidade_expositiva": {
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    },
+    "manifesto_de_cobertura": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "arranque_permitido",
+        "cobertura_por_camada",
+        "lacunas",
+        "pendencias"
+      ],
+      "properties": {
+        "arranque_permitido": {
+          "type": "boolean"
+        },
+        "cobertura_por_camada": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/coberturaCamada"
+          }
+        },
+        "lacunas": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/lacunaOuPendencia"
+          }
+        },
+        "pendencias": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/lacunaOuPendencia"
+          }
+        },
+        "observacoes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "registro_de_fontes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/fonteCanonica"
+      }
+    },
+    "pecas_governativas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/pecaGovernativa"
+      }
+    },
+    "entidades_canonicas": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "containers",
+        "fragmentos",
+        "conceitos",
+        "operacoes",
+        "proposicoes",
+        "argumentos",
+        "percursos",
+        "ramos",
+        "cfs",
+        "capitulos",
+        "faixas_expositivas"
+      ],
+      "properties": {
+        "containers": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/container"
+          }
+        },
+        "fragmentos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/fragmento"
+          }
+        },
+        "conceitos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/conceito"
+          }
+        },
+        "operacoes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/operacao"
+          }
+        },
+        "proposicoes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/proposicao"
+          }
+        },
+        "argumentos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/argumento"
+          }
+        },
+        "percursos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/percurso"
+          }
+        },
+        "ramos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ramo"
+          }
+        },
+        "cfs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/cf"
+          }
+        },
+        "capitulos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/capitulo"
+          }
+        },
+        "faixas_expositivas": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/faixaExpositiva"
+          }
+        }
+      }
+    },
+    "arestas_tipadas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/arestaTipada"
+      }
+    },
+    "arbitragem_transversal": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/registroArbitragem"
+      }
+    },
+    "projecoes_regeneraveis": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/projecaoRegeneravel"
+      }
+    }
+  },
+  "$defs": {
+    "idPadrao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "entityId": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tipo_entidade",
+        "id"
+      ],
+      "properties": {
+        "tipo_entidade": {
+          "type": "string",
+          "enum": [
+            "container",
+            "fragmento",
+            "conceito",
+            "operacao",
+            "proposicao",
+            "argumento",
+            "percurso",
+            "ramo",
+            "cf",
+            "capitulo",
+            "faixa_expositiva",
+            "peca_governativa",
+            "fonte"
+          ]
+        },
+        "id": {
+          "type": "string"
+        }
+      }
+    },
+    "fonteRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fonte_id"
+      ],
+      "properties": {
+        "fonte_id": {
+          "type": "string"
+        }
+      }
+    },
+    "fonteCanonica": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fonte_id",
+        "nome",
+        "path",
+        "camada",
+        "estatuto",
+        "precedencia",
+        "obrigatoria",
+        "schema_version",
+        "modo_de_uso"
+      ],
+      "properties": {
+        "fonte_id": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        },
+        "path": {
+          "type": "string"
+        },
+        "camada": {
+          "type": "string",
+          "enum": [
+            "empirica_base",
+            "textual_derivada",
+            "analitica_derivada",
+            "estrutural_canonica",
+            "expositiva_governativa",
+            "arbitragem_transversal"
+          ]
+        },
+        "estatuto": {
+          "type": "string",
+          "enum": [
+            "soberana",
+            "canonica",
+            "derivada",
+            "governativa",
+            "operativa_local",
+            "historica_auditavel"
+          ]
+        },
+        "precedencia": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "obrigatoria": {
+          "type": "boolean"
+        },
+        "schema_version": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "modo_de_uso": {
+          "type": "string",
+          "enum": [
+            "governa_conteudo",
+            "governa_voz",
+            "governa_transicao",
+            "base_empirica",
+            "leitura_derivada",
+            "auditavel_historico",
+            "projecao_regeneravel"
+          ]
+        },
+        "observacoes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "regraPrevalencia": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "descricao",
+        "quando",
+        "prevalece"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "descricao": {
+          "type": "string"
+        },
+        "quando": {
+          "type": "string"
+        },
+        "prevalece": {
+          "type": "string",
+          "enum": [
+            "empirica_base",
+            "textual_derivada",
+            "analitica_derivada",
+            "estrutural_canonica",
+            "expositiva_governativa",
+            "arbitragem_transversal"
+          ]
+        },
+        "suspende_automatismo": {
+          "type": "boolean",
+          "default": false
+        }
+      }
+    },
+    "coberturaCamada": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "camada",
+        "total_unidades",
+        "total_cobertas"
+      ],
+      "properties": {
+        "camada": {
+          "type": "string",
+          "enum": [
+            "empirica_base",
+            "textual_derivada",
+            "analitica_derivada",
+            "estrutural_canonica",
+            "expositiva_governativa",
+            "arbitragem_transversal"
+          ]
+        },
+        "total_unidades": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "total_cobertas": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "ids_problematicos": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "observacao": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        }
+      }
+    },
+    "lacunaOuPendencia": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "tipo",
+        "descricao",
+        "camada"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "tipo": {
+          "type": "string",
+          "enum": [
+            "lacuna",
+            "pendencia",
+            "conflito",
+            "cobertura_baixa",
+            "excecao_ativa"
+          ]
+        },
+        "descricao": {
+          "type": "string"
+        },
+        "camada": {
+          "type": "string",
+          "enum": [
+            "empirica_base",
+            "textual_derivada",
+            "analitica_derivada",
+            "estrutural_canonica",
+            "expositiva_governativa",
+            "arbitragem_transversal"
+          ]
+        },
+        "unidades_afetadas": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entityId"
+          },
+          "default": []
+        },
+        "prioridade": {
+          "type": "string",
+          "enum": [
+            "baixa",
+            "media",
+            "alta",
+            "critica"
+          ],
+          "default": "media"
+        }
+      }
+    },
+    "pecaGovernativa": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "nome",
+        "tipo_peca",
+        "estatuto_governativo",
+        "camadas_sobre_que_governa",
+        "fonte",
+        "regras_ativas"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        },
+        "tipo_peca": {
+          "type": "string",
+          "enum": [
+            "readme_metodologico",
+            "prologo_soberano",
+            "grelha_reconhecimento",
+            "nota_destinacao",
+            "contexto_estrutural_compacto",
+            "decisao_de_transicao",
+            "consolidacao_faixa",
+            "nota_expositiva",
+            "outra"
+          ]
+        },
+        "estatuto_governativo": {
+          "type": "string",
+          "enum": [
+            "soberana",
+            "derivada",
+            "lateral",
+            "local",
+            "transicional"
+          ]
+        },
+        "camadas_sobre_que_governa": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "empirica_base",
+              "textual_derivada",
+              "analitica_derivada",
+              "estrutural_canonica",
+              "expositiva_governativa",
+              "arbitragem_transversal"
+            ]
+          }
+        },
+        "fonte": {
+          "$ref": "#/$defs/fonteRef"
+        },
+        "regras_ativas": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "bloqueia": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "autoriza": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "observacoes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "origemFragmentaria": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ficheiro",
+        "origem_id",
+        "header_original",
+        "ordem_no_ficheiro"
+      ],
+      "properties": {
+        "ficheiro": {
+          "type": "string"
+        },
+        "origem_id": {
+          "type": "string"
+        },
+        "data": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "titulo_container": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "tem_header_formal": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        },
+        "header_original": {
+          "type": "string"
+        },
+        "ordem_no_ficheiro": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "segmentacaoFragmentaria": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tipo_unidade",
+        "criterio_de_unidade",
+        "houve_fusao_de_paragrafos",
+        "houve_corte_interno"
+      ],
+      "properties": {
+        "tipo_unidade": {
+          "type": "string"
+        },
+        "criterio_de_unidade": {
+          "type": "string"
+        },
+        "houve_fusao_de_paragrafos": {
+          "type": "boolean"
+        },
+        "houve_corte_interno": {
+          "type": "boolean"
+        },
+        "container_tipo_segmentacao": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "estadoLocalValidacao": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "estado_validacao",
+        "estado_excecao"
+      ],
+      "properties": {
+        "estado_validacao": {
+          "type": "string",
+          "enum": [
+            "nao_avaliado",
+            "valido",
+            "valido_com_avisos",
+            "invalido_tolerado",
+            "invalido",
+            "suspenso"
+          ]
+        },
+        "estado_excecao": {
+          "type": "string",
+          "enum": [
+            "sem_excecao",
+            "ativa_tolerada",
+            "ativa_prioritaria",
+            "ativa_bloqueante",
+            "resolvida"
+          ]
+        },
+        "excecao_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "necessita_revisao_humana": {
+          "type": "boolean",
+          "default": false
+        },
+        "confianca": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "baixa",
+            "media",
+            "alta",
+            null
+          ],
+          "default": null
+        }
+      }
+    },
+    "camadaTextualDerivada": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "estado_limpeza"
+      ],
+      "properties": {
+        "estado_limpeza": {
+          "type": "string",
+          "enum": [
+            "nao_processado",
+            "limpo_aprovavel",
+            "limpo_revisao_humana",
+            "auditoria_remanescente",
+            "rejeitado"
+          ]
+        },
+        "texto_limpo": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "resumo_alteracoes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "notas_cautela": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "modelo": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "gerado_em_utc": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time",
+          "default": null
+        },
+        "sinalizar_revisao_humana": {
+          "type": "boolean",
+          "default": false
+        }
+      }
+    },
+    "cadenciaCanonica": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "funcao_cadencia_principal",
+        "direcao_movimento",
+        "grau_de_abertura_argumentativa",
+        "centralidade",
+        "estatuto_no_percurso",
+        "zona_provavel_percurso",
+        "incide_sobre_erro",
+        "dominio_contributivo_principal",
+        "aproveitamento_editorial",
+        "necessita_revisao_humana",
+        "confianca_cadencia",
+        "justificacao_curta_cadencia"
+      ],
+      "properties": {
+        "funcao_cadencia_principal": {
+          "type": "string"
+        },
+        "funcao_cadencia_secundaria": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "direcao_movimento": {
+          "type": "string"
+        },
+        "grau_de_abertura_argumentativa": {
+          "type": "string"
+        },
+        "centralidade": {
+          "type": "string"
+        },
+        "estatuto_no_percurso": {
+          "type": "string"
+        },
+        "zona_provavel_percurso": {
+          "type": "string"
+        },
+        "ponte_entre_zonas": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "default": null
+        },
+        "prepara_fragmento_seguinte": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "default": null
+        },
+        "fecha_algo_anterior": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "default": null
+        },
+        "incide_sobre_erro": {
+          "type": "boolean"
+        },
+        "familia_erro_provavel": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "erro_dominante_provavel": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "dominio_contributivo_principal": {
+          "type": "string"
+        },
+        "tipo_fragmento_provavel": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "aproveitamento_editorial": {
+          "type": "string"
+        },
+        "necessita_revisao_humana": {
+          "type": "boolean"
+        },
+        "confianca_cadencia": {
+          "type": "string",
+          "enum": [
+            "baixa",
+            "media",
+            "alta"
+          ]
+        },
+        "justificacao_curta_cadencia": {
+          "type": "string"
+        }
+      }
+    },
+    "tratamentoFilosoficoCanonico": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "descricao_funcional_curta",
+        "problema_filosofico_central",
+        "trabalho_no_sistema",
+        "potencial_argumentativo",
+        "destino_editorial",
+        "avaliacao_global"
+      ],
+      "properties": {
+        "explicacao_textual_do_que_o_fragmento_tenta_fazer": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "descricao_funcional_curta": {
+          "type": "string"
+        },
+        "problema_filosofico_central": {
+          "type": "string"
+        },
+        "problemas_filosoficos_associados": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "trabalho_no_sistema": {
+          "type": "string"
+        },
+        "trabalho_no_sistema_secundario": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "tipo_de_problema": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "posicao_no_indice": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "estrutura_analitica": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "potencial_argumentativo": {
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "estado_argumentativo",
+            "argumento_reconstruivel"
+          ],
+          "properties": {
+            "estado_argumentativo": {
+              "type": "string"
+            },
+            "argumento_reconstruivel": {
+              "type": "boolean"
+            },
+            "necessita_reconstrucao_forte": {
+              "type": [
+                "boolean",
+                "null"
+              ],
+              "default": null
+            }
+          }
+        },
+        "relacoes_no_sistema": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "destino_editorial": {
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "destino_editorial_fino",
+            "papel_editorial_primario"
+          ],
+          "properties": {
+            "destino_editorial_fino": {
+              "type": "string"
+            },
+            "papel_editorial_primario": {
+              "type": "string"
+            },
+            "papel_editorial_secundario": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            }
+          }
+        },
+        "avaliacao_global": {
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "clareza_atual",
+            "grau_de_estabilizacao",
+            "confianca_tratamento_filosofico"
+          ],
+          "properties": {
+            "clareza_atual": {
+              "type": "string"
+            },
+            "grau_de_estabilizacao": {
+              "type": "string"
+            },
+            "confianca_tratamento_filosofico": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "impactoMapaCanonico": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tipo_de_utilidade_principal",
+        "efeito_principal_no_mapa",
+        "decisao_final"
+      ],
+      "properties": {
+        "resumo_do_fragmento_para_o_mapa": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "tese_principal_relevante": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "zona_filosofica_dominante": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "tipo_de_utilidade_principal": {
+          "type": "string"
+        },
+        "proposicoes_do_mapa_tocadas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": true,
+            "required": [
+              "proposicao_id",
+              "grau_de_relevancia",
+              "tipo_de_relacao"
+            ],
+            "properties": {
+              "proposicao_id": {
+                "type": "string"
+              },
+              "grau_de_relevancia": {
+                "type": "string"
+              },
+              "tipo_de_relacao": {
+                "type": "string"
+              }
+            }
+          },
+          "default": []
+        },
+        "efeito_principal_no_mapa": {
+          "type": "string",
+          "enum": [
+            "sem_impacto_relevante",
+            "repete",
+            "explicita",
+            "corrige",
+            "medeia",
+            "novo_passo"
+          ]
+        },
+        "efeitos_secundarios": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "impacto_editorial_e_dedutivo": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "decisao_final": {
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "acao_recomendada_sobre_o_mapa",
+            "prioridade_editorial",
+            "confianca_da_analise"
+          ],
+          "properties": {
+            "acao_recomendada_sobre_o_mapa": {
+              "type": "string"
+            },
+            "prioridade_editorial": {
+              "type": "string"
+            },
+            "confianca_da_analise": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "fragmento": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fragment_id",
+        "camada_empirica",
+        "camada_textual_derivada",
+        "camada_analitica",
+        "camada_estrutural",
+        "camada_expositiva",
+        "estado_local"
+      ],
+      "properties": {
+        "fragment_id": {
+          "type": "string"
+        },
+        "camada_empirica": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "origem",
+            "tipo_material_fonte",
+            "texto_fragmento",
+            "texto_normalizado",
+            "texto_fonte_reconstituido",
+            "segmentacao",
+            "funcao_textual_dominante",
+            "tema_dominante_provisorio"
+          ],
+          "properties": {
+            "origem": {
+              "$ref": "#/$defs/origemFragmentaria"
+            },
+            "tipo_material_fonte": {
+              "type": "string"
+            },
+            "texto_fragmento": {
+              "type": "string"
+            },
+            "texto_normalizado": {
+              "type": "string"
+            },
+            "texto_fonte_reconstituido": {
+              "type": "string"
+            },
+            "paragrafos_agregados": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 0,
+              "default": null
+            },
+            "frases_aproximadas": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 0,
+              "default": null
+            },
+            "n_chars_fragmento": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 0,
+              "default": null
+            },
+            "densidade_aprox": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "segmentacao": {
+              "$ref": "#/$defs/segmentacaoFragmentaria"
+            },
+            "funcao_textual_dominante": {
+              "type": "string"
+            },
+            "tema_dominante_provisorio": {
+              "type": "string"
+            },
+            "conceitos_relevantes_provisorios": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "integridade_semantica": {
+              "type": [
+                "object",
+                "null"
+              ],
+              "default": null
+            },
+            "confianca_segmentacao": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "relacoes_locais": {
+              "type": [
+                "object",
+                "null"
+              ],
+              "default": null
+            },
+            "estado_revisao": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "sinalizador_para_cadencia": {
+              "type": [
+                "object",
+                "null"
+              ],
+              "default": null
+            },
+            "_metadados_segmentador": {
+              "type": [
+                "object",
+                "null"
+              ],
+              "default": null
+            }
+          }
+        },
+        "camada_textual_derivada": {
+          "$ref": "#/$defs/camadaTextualDerivada"
+        },
+        "camada_analitica": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "cadencia",
+            "tratamento_filosofico",
+            "impacto_no_mapa"
+          ],
+          "properties": {
+            "cadencia": {
+              "oneOf": [
+                {
+                  "$ref": "#/$defs/cadenciaCanonica"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "tratamento_filosofico": {
+              "oneOf": [
+                {
+                  "$ref": "#/$defs/tratamentoFilosoficoCanonico"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "impacto_no_mapa": {
+              "oneOf": [
+                {
+                  "$ref": "#/$defs/impactoMapaCanonico"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "proposicoes_extraidas": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            }
+          }
+        },
+        "camada_estrutural": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "conceitos_acionados",
+            "operacoes_acionadas",
+            "proposicoes_relacionadas",
+            "argumentos_relacionados",
+            "percursos_relacionados",
+            "ramos_relacionados"
+          ],
+          "properties": {
+            "conceitos_acionados": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "operacoes_acionadas": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "proposicoes_relacionadas": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "argumentos_relacionados": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "percursos_relacionados": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "ramos_relacionados": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            }
+          }
+        },
+        "camada_expositiva": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "cfs_envolvidos",
+            "capitulos_envolvidos",
+            "faixas_envolvidas"
+          ],
+          "properties": {
+            "cfs_envolvidos": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "capitulos_envolvidos": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "faixas_envolvidas": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            },
+            "papel_editorial": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "travoes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "fontes_locais_governativas": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/entityId"
+              },
+              "default": []
+            }
+          }
+        },
+        "estado_local": {
+          "$ref": "#/$defs/estadoLocalValidacao"
+        }
+      }
+    },
+    "container": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "container_id",
+        "header_original",
+        "ordem_no_ficheiro",
+        "tipo_material_fonte"
+      ],
+      "properties": {
+        "container_id": {
+          "type": "string"
+        },
+        "titulo_container": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "data": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "origem_ficheiro": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "tipo_material_fonte": {
+          "type": "string"
+        },
+        "ordem_no_ficheiro": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "tem_header_formal": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "default": null
+        },
+        "header_original": {
+          "type": "string"
+        },
+        "paragrafos": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          },
+          "default": []
+        },
+        "n_paragrafos": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0,
+          "default": null
+        },
+        "observacoes_container": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "conceito": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "nome",
+        "nivel",
+        "dominio",
+        "definicao",
+        "estatuto_ontologico"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        },
+        "nivel": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "dominio": {
+          "type": "string"
+        },
+        "definicao": {
+          "type": "object"
+        },
+        "estatuto_ontologico": {
+          "type": "object"
+        },
+        "dependencias": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "operacoes_ontologicas": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "dinamica": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "epistemologia": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "notas_de_protecao": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        }
+      }
+    },
+    "operacao": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "tipo",
+        "descricao",
+        "criterio_ultimo"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "tipo": {
+          "type": "string"
+        },
+        "descricao": {
+          "type": "string"
+        },
+        "criterio_ultimo": {
+          "type": "string",
+          "const": "D_REAL"
+        }
+      }
+    },
+    "proposicao": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "texto_literal",
+        "localizacao_vertical",
+        "operacao_ontologica"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "texto_literal": {
+          "type": "string"
+        },
+        "localizacao_vertical": {
+          "type": "object"
+        },
+        "operacao_ontologica": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "dependencias": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "gera": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "degeneracao_possivel": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "reintegracao": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "grau_de_integracao": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "_vinculacao_textual": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        }
+      }
+    },
+    "argumento": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "capitulo",
+        "parte",
+        "nivel",
+        "conceito_alvo",
+        "criterio_ultimo",
+        "natureza",
+        "tipo_de_necessidade",
+        "nivel_de_operacao",
+        "fundamenta",
+        "pressupostos_ontologicos",
+        "outputs_instalados",
+        "operacoes_chave",
+        "estrutura_logica"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "capitulo": {
+          "type": "string"
+        },
+        "parte": {
+          "type": "string"
+        },
+        "nivel": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "conceito_alvo": {
+          "type": "string"
+        },
+        "criterio_ultimo": {
+          "type": "string",
+          "const": "D_REAL"
+        },
+        "natureza": {
+          "type": "string"
+        },
+        "tipo_de_necessidade": {
+          "type": "string"
+        },
+        "nivel_de_operacao": {
+          "type": "string"
+        },
+        "fundamenta": {
+          "type": "object"
+        },
+        "pressupostos_ontologicos": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "outputs_instalados": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "operacoes_chave": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "estrutura_logica": {
+          "type": "object"
+        },
+        "reducao_ao_absurdo": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "ligacoes_narrativas": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "proposicoes_fonte": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "observacoes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "_ficheiro_origem": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        }
+      }
+    },
+    "percurso": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "nome",
+        "tipo",
+        "estatuto_do_percurso",
+        "descricao"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        },
+        "tipo": {
+          "type": "string"
+        },
+        "estatuto_do_percurso": {
+          "type": "object"
+        },
+        "descricao": {
+          "type": "object"
+        },
+        "inicio": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "termino": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "sequencia": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "pressupostos_estruturais": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "operacoes_ativas": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "operacoes_de_correcao": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "resultado_ontologico": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "resultado_critico": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "riscos_de_desvio": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          },
+          "default": []
+        },
+        "observacoes_finais": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "ramo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "microlinha_ids",
+        "percurso_ids_estabilizados",
+        "decisao_argumentativa"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "microlinha_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "titulo": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "estado_validacao": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "estado_excecao": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "descricao_funcional": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "percurso_ids_estabilizados": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "decisao_argumentativa": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "estado",
+            "necessita_revisao_humana"
+          ],
+          "properties": {
+            "estado": {
+              "type": "string",
+              "enum": [
+                "sem_argumento",
+                "manter_0",
+                "manter_1",
+                "manter_2_excecional",
+                "revisao_humana_necessaria"
+              ]
+            },
+            "argumento_dominante": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "argumentos_mantidos": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "argumentos_excluidos": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "necessita_revisao_humana": {
+              "type": "boolean"
+            },
+            "confianca_decisao": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "default": null
+            }
+          }
+        },
+        "candidatos_argumentativos": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          },
+          "default": []
+        }
+      }
+    },
+    "cf": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "estatuto_local",
+        "centro_proprio"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "estatuto_local": {
+          "type": "string"
+        },
+        "centro_proprio": {
+          "type": "string"
+        },
+        "gesto_estrutural": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "mapa_minimo_pre_exposicao": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "dossiers_relacionados": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "travoes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        }
+      }
+    },
+    "capitulo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "nome",
+        "estatuto_de_abertura",
+        "centro_proprio",
+        "falso_centro_dominante",
+        "travoes_locais"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        },
+        "estatuto_de_abertura": {
+          "type": "string",
+          "enum": [
+            "arquitetado",
+            "libertado_para_povoamento",
+            "aberto_localmente",
+            "limitrofe_rebaixado",
+            "reservado",
+            "consolidado_parcial",
+            "consolidado"
+          ]
+        },
+        "centro_proprio": {
+          "type": "string"
+        },
+        "falso_centro_dominante": {
+          "type": "string"
+        },
+        "fronteiras": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "default": null
+        },
+        "uso_maximo_local": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "travoes_locais": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "fontes_locais": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/fonteRef"
+          },
+          "default": []
+        },
+        "cf_origem_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entityId"
+          },
+          "default": []
+        },
+        "povoamento_fragmentario_refs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entityId"
+          },
+          "default": []
+        }
+      }
+    },
+    "faixaExpositiva": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "numero",
+        "estatuto",
+        "ficheiro_ativo",
+        "capitulos_envolvidos"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "numero": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "nome": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "estatuto": {
+          "type": "string",
+          "enum": [
+            "em_teste",
+            "consolidada",
+            "limitada",
+            "transicional",
+            "reaberta"
+          ]
+        },
+        "ficheiro_ativo": {
+          "type": "string"
+        },
+        "capitulos_envolvidos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/entityId"
+          }
+        },
+        "limite_maximo": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "transicao_para_seguinte": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "decisoes_associadas": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/fonteRef"
+          },
+          "default": []
+        }
+      }
+    },
+    "arestaTipada": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "origem",
+        "destino",
+        "tipo_de_relacao",
+        "grau_de_relevancia",
+        "efeito_principal",
+        "fonte"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "origem": {
+          "$ref": "#/$defs/entityId"
+        },
+        "destino": {
+          "$ref": "#/$defs/entityId"
+        },
+        "tipo_de_relacao": {
+          "type": "string",
+          "enum": [
+            "ancora_empirica",
+            "interpreta",
+            "explicita",
+            "corrige",
+            "medeia",
+            "repete",
+            "novo_passo",
+            "fundamenta",
+            "prepara",
+            "depende_de",
+            "participa_em",
+            "povoa",
+            "governa",
+            "bloqueia",
+            "subordina",
+            "reinscreve",
+            "entra_em_tensao_com",
+            "resolve_conflito_em"
+          ]
+        },
+        "grau_de_relevancia": {
+          "type": "string",
+          "enum": [
+            "baixo",
+            "medio",
+            "alto",
+            "critico"
+          ]
+        },
+        "efeito_principal": {
+          "type": "string",
+          "enum": [
+            "sem_impacto_relevante",
+            "repete",
+            "explicita",
+            "corrige",
+            "medeia",
+            "novo_passo",
+            "governo",
+            "travagem",
+            "arbitragem"
+          ]
+        },
+        "justificacao": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "fonte": {
+          "$ref": "#/$defs/fonteRef"
+        },
+        "confianca": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "baixa",
+            "media",
+            "alta",
+            null
+          ],
+          "default": null
+        }
+      }
+    },
+    "registroArbitragem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "alvo",
+        "camadas_em_tensao",
+        "tipo_de_conflito",
+        "regra_de_prevalencia_aplicada",
+        "decisao",
+        "necessita_revisao_humana"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "alvo": {
+          "$ref": "#/$defs/entityId"
+        },
+        "camadas_em_tensao": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "string",
+            "enum": [
+              "empirica_base",
+              "textual_derivada",
+              "analitica_derivada",
+              "estrutural_canonica",
+              "expositiva_governativa",
+              "arbitragem_transversal"
+            ]
+          }
+        },
+        "tipo_de_conflito": {
+          "type": "string",
+          "enum": [
+            "divergencia_textual",
+            "divergencia_analitica",
+            "divergencia_estrutural",
+            "conflito_expositivo",
+            "excecao_ativa",
+            "cobertura_insuficiente"
+          ]
+        },
+        "regra_de_prevalencia_aplicada": {
+          "type": "string"
+        },
+        "decisao": {
+          "type": "string",
+          "enum": [
+            "prevalece_empirica_base",
+            "prevalece_textual_derivada",
+            "prevalece_analitica_derivada",
+            "prevalece_estrutural_canonica",
+            "prevalece_expositiva_governativa",
+            "suspender_automatismo",
+            "revisao_humana"
+          ]
+        },
+        "justificacao": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "necessita_revisao_humana": {
+          "type": "boolean"
+        },
+        "fonte": {
+          "$ref": "#/$defs/fonteRef"
+        }
+      }
+    },
+    "projecaoRegeneravel": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "nome",
+        "tipo",
+        "fontes_necessarias",
+        "regra_de_geracao",
+        "artefactos_gerados"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        },
+        "tipo": {
+          "type": "string",
+          "enum": [
+            "arvore_do_pensamento",
+            "mapa_dedutivo",
+            "grafo_dependencias",
+            "arquitetura_capitular",
+            "corpus_pos_limpeza",
+            "contexto_compacto"
+          ]
+        },
+        "fontes_necessarias": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/fonteRef"
+          }
+        },
+        "regra_de_geracao": {
+          "type": "string"
+        },
+        "artefactos_gerados": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "perda_admitida": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        },
+        "perda_nao_admitida": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "default": null
+        }
+      }
+    }
+  }
+}

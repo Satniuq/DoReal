@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0105_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0105_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "fundamentação relacional da moral"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0105_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A relação é sempre maior do que o eu. O círculo aumenta. A justiça é a correta identificação do dever-ser, o que obriga à correta identificação do ser e do poder-ser. Prescrever o que deve ser atualizado é manter a totalidade da relação, típica do modo de ser comum.\n\nA moralidade não é um sistema externo. Advém da própria existência de um homem com outro homem. Entra-se no círculo do outro, condiciona-se e é-se condicionado, preservando ainda a própria localidade. Esses mínimos existem pela observação do ser, sem necessidade de apelo externo.",
+    "resumo_alteracoes": [
+      "Ajustada pontuação mínima para melhorar a legibilidade.",
+      "Preservada a divisão em dois parágrafos para manter a sequência argumentativa local.",
+      "Mantido o léxico central do fragmento, sem introdução de conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e parcialmente elípticas; optou-se por não explicitar passagens para evitar invenção.",
+      "Havia indicação de fusão de parágrafos na origem; a limpeza foi conservadora."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0105_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A relação é sempre maior do que o eu. O círculo aumenta. A justiça é a correta identificação do dever-ser, o que obriga à correta identificação do ser e do poder-ser. Prescrever o que deve ser atualizado é manter a totalidade da relação, típica do modo de ser comum.\\n\\nA moralidade não é um sistema externo. Advém da própria existência de um homem com outro homem. Entra-se no círculo do outro, condiciona-se e é-se condicionado, preservando ainda a própria localidade. Esses mínimos existem pela observação do ser, sem necessidade de apelo externo.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada pontuação mínima para melhorar a legibilidade.\",\n    \"Preservada a divisão em dois parágrafos para manter a sequência argumentativa local.\",\n    \"Mantido o léxico central do fragmento, sem introdução de conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e parcialmente elípticas; optou-se por não explicitar passagens para evitar invenção.\",\n    \"Havia indicação de fusão de parágrafos na origem; a limpeza foi conservadora.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:26:35+00:00",
+  "modelo": "gpt-5.4"
+}

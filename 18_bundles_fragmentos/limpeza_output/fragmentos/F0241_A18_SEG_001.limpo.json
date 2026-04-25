@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A18_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A18_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "fragmento_intuitivo",
+    "tema_dominante_provisorio": "compreensão da maldade humana"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A18_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Mas o homem faz coisas tão más, é tão mau. Olha o Hitler. Claro. Hitler e qualquer outro massacre, qualquer outra guerra — que não faltam por aí. Aquela teve uma dimensão ridícula, de extermínio. Mas outros extermínios também existiram, ainda que com dimensões menores. Mas, independentemente da catástrofe, dizer: como é que é possível? Nós sabemos como é que é possível.",
+    "resumo_alteracoes": [
+      "Removidas repetições e oralidade redundante sem alterar a tese local.",
+      "Corrigidos cortes e gralhas mínimas para legibilidade, como em 'ao.de extermínio'.",
+      "Reorganizada pontuação para preservar o encadeamento original e tornar o fragmento utilizável."
+    ],
+    "notas_cautela": [
+      "O fragmento apresenta sinais de corte interno e permanece parcialmente truncado.",
+      "A expressão 'dimensão ridícula' foi preservada por fidelidade autoral, embora o alcance exato possa depender do contexto.",
+      "Há continuidade local ativa com o fragmento seguinte; a limpeza não tentou completar a transição argumentativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A18_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Mas o homem faz coisas tão más, é tão mau. Olha o Hitler. Claro. Hitler e qualquer outro massacre, qualquer outra guerra — que não faltam por aí. Aquela teve uma dimensão ridícula, de extermínio. Mas outros extermínios também existiram, ainda que com dimensões menores. Mas, independentemente da catástrofe, dizer: como é que é possível? Nós sabemos como é que é possível.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições e oralidade redundante sem alterar a tese local.\",\n    \"Corrigidos cortes e gralhas mínimas para legibilidade, como em 'ao.de extermínio'.\",\n    \"Reorganizada pontuação para preservar o encadeamento original e tornar o fragmento utilizável.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento apresenta sinais de corte interno e permanece parcialmente truncado.\",\n    \"A expressão 'dimensão ridícula' foi preservada por fidelidade autoral, embora o alcance exato possa depender do contexto.\",\n    \"Há continuidade local ativa com o fragmento seguinte; a limpeza não tentou completar a transição argumentativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:52:51+00:00",
+  "modelo": "gpt-5.4"
+}

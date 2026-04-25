@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0063_A02_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0063_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "formas institucionais: degeneração vs expansão"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0063_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Ambas as formas institucionais podem degenerar no modo de ser humano por defeito de viver no processo. A diferença é que uma expande o campo das potencialidades, enquanto a outra tenta regular primeiro o interruptor e só depois acender a luz.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo de ordem sintática em \"tenta regular primeiro o interruptor\" para melhorar a fluidez.",
+      "Preservação integral da distinção entre as duas formas institucionais e da metáfora final."
+    ],
+    "notas_cautela": [
+      "O fragmento parece depender de contexto anterior para identificar explicitamente quais são as duas formas institucionais.",
+      "Mantido o enunciado sem explicitar lacunas contextuais, para não introduzir conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0063_A02_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Ambas as formas institucionais podem degenerar no modo de ser humano por defeito de viver no processo. A diferença é que uma expande o campo das potencialidades, enquanto a outra tenta regular primeiro o interruptor e só depois acender a luz.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo de ordem sintática em \\\"tenta regular primeiro o interruptor\\\" para melhorar a fluidez.\",\n    \"Preservação integral da distinção entre as duas formas institucionais e da metáfora final.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece depender de contexto anterior para identificar explicitamente quais são as duas formas institucionais.\",\n    \"Mantido o enunciado sem explicitar lacunas contextuais, para não introduzir conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:10:09+00:00",
+  "modelo": "gpt-5.4"
+}

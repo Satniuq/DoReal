@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0076_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0076_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "conhecimento, sociedade, possibilidades"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0076_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Estava a pensar em como a mistura de modos de ser é aquilo que leva à ampliação do campo das possibilidades. E que, na falta de uma expansão comunicacional como a moderna, a presença era um requisito. As sociedades locais vivem da abertura do real que outras sociedades trazem, pelo menos enquanto não se vive de acordo com o real — e isso requer mais aprimoramento do conhecimento técnico. E esse conhecimento só existe por contacto.\n\nNa cabeça de cada um só vive o que lá vive. É no pensamento do outro que está o interruptor da luz. A captura de mais potencialidades, a abertura do modo de ser à liberdade ontológica, deixa de ser necessária quando o conhecimento deixa de ser local. A homogeneidade das sociedades de hoje já não é o oposto da captação de potencialidades. A pólis tornou desnecessária a sociedade cosmopolita.",
+    "resumo_alteracoes": [
+      "Ajustada a formulação 'na falta de expansão comunicacional como a moderna' para 'na falta de uma expansão comunicacional como a moderna' por legibilidade mínima.",
+      "Regularizada a expressão 'As sociedades locais vivem da abertura do real que outras sociedades trazem' sem alterar a tese local.",
+      "Feita limpeza pontual de fluência em 'As sociedades de hoje'.",
+      "Mantida a divisão em dois parágrafos e a progressão argumentativa local."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações densas e possivelmente dependentes de contexto mais amplo.",
+      "A passagem final sobre 'A pólis' e 'a sociedade cosmopolita' pode carregar compressão argumentativa não totalmente explicitada neste segmento.",
+      "Havia sinais de fusão e corte interno; a limpeza foi conservadora e não tentou preencher lacunas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0076_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Estava a pensar em como a mistura de modos de ser é aquilo que leva à ampliação do campo das possibilidades. E que, na falta de uma expansão comunicacional como a moderna, a presença era um requisito. As sociedades locais vivem da abertura do real que outras sociedades trazem, pelo menos enquanto não se vive de acordo com o real — e isso requer mais aprimoramento do conhecimento técnico. E esse conhecimento só existe por contacto.\\n\\nNa cabeça de cada um só vive o que lá vive. É no pensamento do outro que está o interruptor da luz. A captura de mais potencialidades, a abertura do modo de ser à liberdade ontológica, deixa de ser necessária quando o conhecimento deixa de ser local. A homogeneidade das sociedades de hoje já não é o oposto da captação de potencialidades. A pólis tornou desnecessária a sociedade cosmopolita.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a formulação 'na falta de expansão comunicacional como a moderna' para 'na falta de uma expansão comunicacional como a moderna' por legibilidade mínima.\",\n    \"Regularizada a expressão 'As sociedades locais vivem da abertura do real que outras sociedades trazem' sem alterar a tese local.\",\n    \"Feita limpeza pontual de fluência em 'As sociedades de hoje'.\",\n    \"Mantida a divisão em dois parágrafos e a progressão argumentativa local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações densas e possivelmente dependentes de contexto mais amplo.\",\n    \"A passagem final sobre 'A pólis' e 'a sociedade cosmopolita' pode carregar compressão argumentativa não totalmente explicitada neste segmento.\",\n    \"Havia sinais de fusão e corte interno; a limpeza foi conservadora e não tentou preencher lacunas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:14:24+00:00",
+  "modelo": "gpt-5.4"
+}

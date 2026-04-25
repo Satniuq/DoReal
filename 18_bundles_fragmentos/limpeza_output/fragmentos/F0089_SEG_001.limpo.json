@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0089_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0089_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "definição de bom governante"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0089_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O bom governante é aquele que luta contra o constante mapeamento que o homem quer fazer da realidade, preservando a liberdade e a dignidade. É aquele que faz do governo o campo onde o homem pode atuar, restringindo apenas a ação na relação entre a liberdade e a dignidade de cada um.",
+    "resumo_alteracoes": [
+      "Substituição de 'sobre a realidade' por 'da realidade' para maior clareza sintática.",
+      "Preservação da estrutura definicional em duas frases.",
+      "Manutenção do léxico central: 'bom governante', 'mapeamento', 'realidade', 'liberdade', 'dignidade', 'governo', 'ação'."
+    ],
+    "notas_cautela": [
+      "O fragmento pode estar inserido numa continuidade argumentativa maior sobre leis e modos de ser.",
+      "A expressão 'restringindo apenas a ação na relação entre a liberdade e a dignidade de cada um' permanece algo densa, mas foi preservada para não alterar a tese local.",
+      "Há indicação de corte interno no material de origem; a limpeza não tentou preencher lacunas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0089_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O bom governante é aquele que luta contra o constante mapeamento que o homem quer fazer da realidade, preservando a liberdade e a dignidade. É aquele que faz do governo o campo onde o homem pode atuar, restringindo apenas a ação na relação entre a liberdade e a dignidade de cada um.\",\n  \"resumo_alteracoes\": [\n    \"Substituição de 'sobre a realidade' por 'da realidade' para maior clareza sintática.\",\n    \"Preservação da estrutura definicional em duas frases.\",\n    \"Manutenção do léxico central: 'bom governante', 'mapeamento', 'realidade', 'liberdade', 'dignidade', 'governo', 'ação'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode estar inserido numa continuidade argumentativa maior sobre leis e modos de ser.\",\n    \"A expressão 'restringindo apenas a ação na relação entre a liberdade e a dignidade de cada um' permanece algo densa, mas foi preservada para não alterar a tese local.\",\n    \"Há indicação de corte interno no material de origem; a limpeza não tentou preencher lacunas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:19:18+00:00",
+  "modelo": "gpt-5.4"
+}

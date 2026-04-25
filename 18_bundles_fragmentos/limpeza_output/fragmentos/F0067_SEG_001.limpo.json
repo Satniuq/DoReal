@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0067_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0067_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "significado vida, real, valor, liberdade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0067_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O significado da vida é contingente ao círculo em que se opera, não apenas no plano temporal, mas também no campo de possibilidades que emerge da mediação entre o eu e o real. A relação com o real incrementa-se continuamente: cada novo contacto é condicionado pelos anteriores. O simples existir do ser consciente impõe uma direção ao real, escrita no próprio real. É aí que se encontra o bem.\n\nErram todas as posições que afirmam não ser possível derivar valor do facto, porque tratam a liberdade como ausência de limites: como se tudo pudesse ser independentemente do que é, e como se o homem fosse um ser totalmente novo a cada segundo, sem continuidade entre pensamentos e ações.",
+    "resumo_alteracoes": [
+      "Ajuste pontual de formulações para maior clareza e fluidez sintática.",
+      "Substituição de construções ligeiramente orais ou pesadas por equivalentes mais diretos, sem alterar a tese local.",
+      "Preservação da divisão em dois parágrafos e da progressão argumentativa do fragmento."
+    ],
+    "notas_cautela": [
+      "O fragmento parece integrado numa sequência argumentativa maior e mantém dependência do desenvolvimento seguinte.",
+      "A formulação 'derivar valor do facto' foi preservada no essencial, apesar de poder remeter para discussão mais ampla não resolvida aqui."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0067_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O significado da vida é contingente ao círculo em que se opera, não apenas no plano temporal, mas também no campo de possibilidades que emerge da mediação entre o eu e o real. A relação com o real incrementa-se continuamente: cada novo contacto é condicionado pelos anteriores. O simples existir do ser consciente impõe uma direção ao real, escrita no próprio real. É aí que se encontra o bem.\\n\\nErram todas as posições que afirmam não ser possível derivar valor do facto, porque tratam a liberdade como ausência de limites: como se tudo pudesse ser independentemente do que é, e como se o homem fosse um ser totalmente novo a cada segundo, sem continuidade entre pensamentos e ações.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste pontual de formulações para maior clareza e fluidez sintática.\",\n    \"Substituição de construções ligeiramente orais ou pesadas por equivalentes mais diretos, sem alterar a tese local.\",\n    \"Preservação da divisão em dois parágrafos e da progressão argumentativa do fragmento.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece integrado numa sequência argumentativa maior e mantém dependência do desenvolvimento seguinte.\",\n    \"A formulação 'derivar valor do facto' foi preservada no essencial, apesar de poder remeter para discussão mais ampla não resolvida aqui.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:11:26+00:00",
+  "modelo": "gpt-5.4"
+}

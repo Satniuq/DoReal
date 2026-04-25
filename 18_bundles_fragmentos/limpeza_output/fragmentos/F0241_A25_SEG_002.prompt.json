@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A25_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A25_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A25\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"corpo, cognição e reflexividade\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"A questão é que eu não sei se síntese simbólica que se reconhece não é o mesmo que dizer síntese simbólica, porque para haver síntese simbólica já tem de haver reconhecimento, porque já tem de haver algo que sintetiza, algo que pode sequer sintetizar. Eh pá, eu não creio que um cão, quando vê e tem imagética na sua cabeça, portanto, faz 90% do que nós fazemos quando olhamos para uma coisa, que não conheça aquilo que está a ver e que está a representar. Agora, ele não conhece que conhece que está a ver e está a representar, mas isso também é porque ele não tem mãos, não tem pernas, não tem estrutura onde possa desenvolver uma fala, não pode construir, não pode fazer nada, isso é normal que não tenha.\\n\\nCuidado não! Cuidado não! Onde é que haveria de ser reflexivo sem um ser exploratório? Sem um ser que toca coisas, que apreende diretamente o local, o real? Não tenho a certeza que a experiência olfativa seja tão dada à relação com o real na sua boa descrição, que no fundo é isso que a consciência permite fazer, o ser conhecer-se a si no real, conhecendo o real, que pudesse alguma vez servir de fundamento para um ser reflexivo, se não existem. Também não tenho a certeza que apontar para, ah não, é a linguagem, ah não, não, o que é importante é a construção simbólica. Tá bem, mas existe porquê? Mas existe porquê? Existe que estava a estrutura, certo? Isso existe porque não ando com as quatro patas no chão, tenho dois livros para poder manusear o real.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0241_A25_SEG_001\\n- tema: ser, contexto, consciência\\n- preview: Porque eu estou em casa, estou com os meus amigos, estou a jogar rugby, estou a passear no parque, estou com os meus filhos, estou no trabalho, estou já com a repetição dos modos de ser naquele contexto que já foi e que está a ser e que vai ser. Por que é que somos diferentes quando estamos com os nossos pais? Porque estamos a ser num contexto onde fomos quando éramos crianças. Por que é que às vezes se sente melhor…\\n\\nFragmento seguinte:\\n- id: F0241_A25_SEG_003\\n- tema: autorreferência vs realidade\\n- preview: Os defensores da adequação sistemática, da adequação ao sistema que eles propõem, como ah não, esta pessoa é demasiado rude, esta pessoa não usa a linguagem que nós usamos, o que quer que seja, que não seja relativamente ao real, é autorreferencial, autossuficiente, relegando o real. E daí decorre o sentido, sentido não, mas daí decorre o facto de poderem ver várias opiniões. Ah, porque é que aquela pessoa disse ist…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A25_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A25",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "corpo, cognição e reflexividade",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "A questão é que eu não sei se síntese simbólica que se reconhece não é o mesmo que dizer síntese simbólica, porque para haver síntese simbólica já tem de haver reconhecimento, porque já tem de haver algo que sintetiza, algo que pode sequer sintetizar. Eh pá, eu não creio que um cão, quando vê e tem imagética na sua cabeça, portanto, faz 90% do que nós fazemos quando olhamos para uma coisa, que não conheça aquilo que está a ver e que está a representar. Agora, ele não conhece que conhece que está a ver e está a representar, mas isso também é porque ele não tem mãos, não tem pernas, não tem estrutura onde possa desenvolver uma fala, não pode construir, não pode fazer nada, isso é normal que não tenha.\n\nCuidado não! Cuidado não! Onde é que haveria de ser reflexivo sem um ser exploratório? Sem um ser que toca coisas, que apreende diretamente o local, o real? Não tenho a certeza que a experiência olfativa seja tão dada à relação com o real na sua boa descrição, que no fundo é isso que a consciência permite fazer, o ser conhecer-se a si no real, conhecendo o real, que pudesse alguma vez servir de fundamento para um ser reflexivo, se não existem. Também não tenho a certeza que apontar para, ah não, é a linguagem, ah não, não, o que é importante é a construção simbólica. Tá bem, mas existe porquê? Mas existe porquê? Existe que estava a estrutura, certo? Isso existe porque não ando com as quatro patas no chão, tenho dois livros para poder manusear o real.",
+    "contexto_local": "Fragmento anterior:\n- id: F0241_A25_SEG_001\n- tema: ser, contexto, consciência\n- preview: Porque eu estou em casa, estou com os meus amigos, estou a jogar rugby, estou a passear no parque, estou com os meus filhos, estou no trabalho, estou já com a repetição dos modos de ser naquele contexto que já foi e que está a ser e que vai ser. Por que é que somos diferentes quando estamos com os nossos pais? Porque estamos a ser num contexto onde fomos quando éramos crianças. Por que é que às vezes se sente melhor…\n\nFragmento seguinte:\n- id: F0241_A25_SEG_003\n- tema: autorreferência vs realidade\n- preview: Os defensores da adequação sistemática, da adequação ao sistema que eles propõem, como ah não, esta pessoa é demasiado rude, esta pessoa não usa a linguagem que nós usamos, o que quer que seja, que não seja relativamente ao real, é autorreferencial, autossuficiente, relegando o real. E daí decorre o sentido, sentido não, mas daí decorre o facto de poderem ver várias opiniões. Ah, porque é que aquela pessoa disse ist…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

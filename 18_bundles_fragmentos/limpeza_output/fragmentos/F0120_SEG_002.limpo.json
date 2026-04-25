@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0120_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0120_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "mal como má descrição"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0120_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Se eu devo ou não fazer algo depende de como descrevo o problema, para bem aplicar a solução. A descrição é a apreensão tornada explícita pela linguagem.\n\nA descrição é um fator fundacional humano, não ontológico. O fator fundacional ontológico é a representação. Bem descrever é bem apreender. E o melhor modo de apreender coisas complexas é pela descrição. Para o resto, para o automático da vida, não.\n\nNão há mal ontológico. O mal não existe como coisa. O que há é má descrição, má apreensão do que é, do que a pessoa é, do mundo em que está inserida, do que pode ou não fazer. O mal é não fazer o bem quando se poderia fazê-lo.\n\nPara fazer o bem, é preciso saber bem o que é possível fazer. Todo o real é um processo positivo de permanência.",
+    "resumo_alteracoes": [
+      "Pontuação ajustada para melhorar a legibilidade sem alterar a tese local.",
+      "Oralidade e redundâncias mínimas tratadas, preservando o léxico central do fragmento.",
+      "Ligação entre segmentos mantida sem reconstruir conteúdo ausente.",
+      "Pequenas reformulações gramaticais feitas para fluidez, como 'onde está inserida' para 'em que está inserida' e 'fazer o bem' para 'fazê-lo' numa ocorrência."
+    ],
+    "notas_cautela": [
+      "O fragmento parece integrar uma continuidade argumentativa maior sobre adequação e relação.",
+      "A passagem final sobre 'Todo o real é um processo positivo de permanência' foi preservada sem expansão, embora funcione como transição para o segmento seguinte.",
+      "Mantém-se uma distinção forte entre descrição, apreensão e representação que pode depender de contexto anterior para plena precisão."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0120_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Se eu devo ou não fazer algo depende de como descrevo o problema, para bem aplicar a solução. A descrição é a apreensão tornada explícita pela linguagem.\\n\\nA descrição é um fator fundacional humano, não ontológico. O fator fundacional ontológico é a representação. Bem descrever é bem apreender. E o melhor modo de apreender coisas complexas é pela descrição. Para o resto, para o automático da vida, não.\\n\\nNão há mal ontológico. O mal não existe como coisa. O que há é má descrição, má apreensão do que é, do que a pessoa é, do mundo em que está inserida, do que pode ou não fazer. O mal é não fazer o bem quando se poderia fazê-lo.\\n\\nPara fazer o bem, é preciso saber bem o que é possível fazer. Todo o real é um processo positivo de permanência.\",\n  \"resumo_alteracoes\": [\n    \"Pontuação ajustada para melhorar a legibilidade sem alterar a tese local.\",\n    \"Oralidade e redundâncias mínimas tratadas, preservando o léxico central do fragmento.\",\n    \"Ligação entre segmentos mantida sem reconstruir conteúdo ausente.\",\n    \"Pequenas reformulações gramaticais feitas para fluidez, como 'onde está inserida' para 'em que está inserida' e 'fazer o bem' para 'fazê-lo' numa ocorrência.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece integrar uma continuidade argumentativa maior sobre adequação e relação.\",\n    \"A passagem final sobre 'Todo o real é um processo positivo de permanência' foi preservada sem expansão, embora funcione como transição para o segmento seguinte.\",\n    \"Mantém-se uma distinção forte entre descrição, apreensão e representação que pode depender de contexto anterior para plena precisão.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:32:22+00:00",
+  "modelo": "gpt-5.4"
+}

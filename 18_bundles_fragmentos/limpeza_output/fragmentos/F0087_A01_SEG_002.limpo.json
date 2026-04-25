@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0087_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0087_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crítica: objeto e método"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0087_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A crítica, quando deve ser feita, deve ser feita perguntando apenas: o que é que se está a dizer sobre o que é, neste livro, nesta ideia, neste artigo, nesta opinião? Porque os seres humanos vivem, de facto, nos seus círculos locais; cabe à filosofia percorrer todo o espaço.\n\nAntes de prescrever valores, a filosofia deveria olhar para o real e descrevê-lo com precisão: não apenas que há objetos, mas que objetos; não apenas que há relações, mas que tipos de relações; quantas relações correlacionadas existem; que tipos e modos de ser já descobrimos existir e conseguimos identificar como integrados na realidade.\n\nIsso não existe. E, por isso, a crítica tem de começar por perguntar o que é que esta pessoa achava daquilo de que falava — o que é, no fundo, insistir em olhar para as estrelas.",
+    "resumo_alteracoes": [
+      "Preservada a ordem argumentativa local em três momentos: método da crítica, tarefa descritiva da filosofia, conclusão sobre a insuficiência atual.",
+      "Ajustada pontuação para melhorar coesão entre frases e parágrafos.",
+      "Suavizada a oralidade mínima em 'daquilo sobre o que falava' para 'daquilo de que falava', sem alterar a tese.",
+      "Mantidas as repetições estruturais relevantes ('não apenas... mas...', 'o que é que...') por fazerem parte do movimento do argumento."
+    ],
+    "notas_cautela": [
+      "O enunciado 'Isso não existe' permanece potencialmente elíptico e pode depender do contexto anterior; foi mantido sem explicitação adicional.",
+      "O fragmento parece integrar uma continuidade argumentativa ativa com o segmento anterior e o seguinte.",
+      "Houve limpeza conservadora devido a sinais de fusão de parágrafos e possível corte interno."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0087_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A crítica, quando deve ser feita, deve ser feita perguntando apenas: o que é que se está a dizer sobre o que é, neste livro, nesta ideia, neste artigo, nesta opinião? Porque os seres humanos vivem, de facto, nos seus círculos locais; cabe à filosofia percorrer todo o espaço.\\n\\nAntes de prescrever valores, a filosofia deveria olhar para o real e descrevê-lo com precisão: não apenas que há objetos, mas que objetos; não apenas que há relações, mas que tipos de relações; quantas relações correlacionadas existem; que tipos e modos de ser já descobrimos existir e conseguimos identificar como integrados na realidade.\\n\\nIsso não existe. E, por isso, a crítica tem de começar por perguntar o que é que esta pessoa achava daquilo de que falava — o que é, no fundo, insistir em olhar para as estrelas.\",\n  \"resumo_alteracoes\": [\n    \"Preservada a ordem argumentativa local em três momentos: método da crítica, tarefa descritiva da filosofia, conclusão sobre a insuficiência atual.\",\n    \"Ajustada pontuação para melhorar coesão entre frases e parágrafos.\",\n    \"Suavizada a oralidade mínima em 'daquilo sobre o que falava' para 'daquilo de que falava', sem alterar a tese.\",\n    \"Mantidas as repetições estruturais relevantes ('não apenas... mas...', 'o que é que...') por fazerem parte do movimento do argumento.\"\n  ],\n  \"notas_cautela\": [\n    \"O enunciado 'Isso não existe' permanece potencialmente elíptico e pode depender do contexto anterior; foi mantido sem explicitação adicional.\",\n    \"O fragmento parece integrar uma continuidade argumentativa ativa com o segmento anterior e o seguinte.\",\n    \"Houve limpeza conservadora devido a sinais de fusão de parágrafos e possível corte interno.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:18:14+00:00",
+  "modelo": "gpt-5.4"
+}

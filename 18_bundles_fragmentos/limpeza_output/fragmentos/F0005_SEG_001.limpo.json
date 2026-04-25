@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0005_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0005_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "revisao_manual_prioritaria",
+      "confianca_segmentacao_baixa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "emoção, razão, utilidade, escala"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0005_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Mas, como é óbvio, nem todos os outros tipos de comportamento, que não são deste comportamento, se comportam de acordo com a verdade. Têm raiva, são agressivos, não pensam, tudo o que se queira. E é muitas vezes necessário, para chamar à calma o animal, não a razão, mas a emoção. Tudo tem o seu papel, e esse papel é muito importante. Mas o problema é que, em larga escala, os critérios da emoção, ou seja, os critérios não verdadeiros, mas úteis, de certo modo, esses não são necessários. Aliás, até são dispensáveis. E, em larga escala, também se pode incluir relações a... isso aí já vou...",
+    "resumo_alteracoes": [
+      "Reduzidas repetições redundantes sem alterar a tese local.",
+      "Ajustada a formulação inicial para maior legibilidade, preservando o sentido e o léxico central.",
+      "Removidas hesitações e duplicações orais mínimas.",
+      "Mantido o fecho interrompido por o fragmento aparentar estar truncado."
+    ],
+    "notas_cautela": [
+      "O início do fragmento mantém construção conceptual possivelmente instável devido à baixa confiança de segmentação.",
+      "O final permanece truncado e não foi completado para evitar introdução de conteúdo novo.",
+      "Pode haver dependência de contexto anterior para a referência a 'deste comportamento'."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0005_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Mas, como é óbvio, nem todos os outros tipos de comportamento, que não são deste comportamento, se comportam de acordo com a verdade. Têm raiva, são agressivos, não pensam, tudo o que se queira. E é muitas vezes necessário, para chamar à calma o animal, não a razão, mas a emoção. Tudo tem o seu papel, e esse papel é muito importante. Mas o problema é que, em larga escala, os critérios da emoção, ou seja, os critérios não verdadeiros, mas úteis, de certo modo, esses não são necessários. Aliás, até são dispensáveis. E, em larga escala, também se pode incluir relações a... isso aí já vou...\",\n  \"resumo_alteracoes\": [\n    \"Reduzidas repetições redundantes sem alterar a tese local.\",\n    \"Ajustada a formulação inicial para maior legibilidade, preservando o sentido e o léxico central.\",\n    \"Removidas hesitações e duplicações orais mínimas.\",\n    \"Mantido o fecho interrompido por o fragmento aparentar estar truncado.\"\n  ],\n  \"notas_cautela\": [\n    \"O início do fragmento mantém construção conceptual possivelmente instável devido à baixa confiança de segmentação.\",\n    \"O final permanece truncado e não foi completado para evitar introdução de conteúdo novo.\",\n    \"Pode haver dependência de contexto anterior para a referência a 'deste comportamento'.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:00:37+00:00",
+  "modelo": "gpt-5.4"
+}

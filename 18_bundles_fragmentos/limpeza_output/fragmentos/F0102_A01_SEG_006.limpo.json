@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0102_A01_SEG_006",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0102_A01_SEG_006",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "discurso e falsidade ontológica"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0102_A01_SEG_006",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A forma do discurso tida como verdadeira, no sentido corrente, é ainda assim falsa ontologicamente. Mesmo quando apresentada com rigor, eloquência ou sabedoria, qualquer proposição surge sempre na forma de “o que é que encaixa sobre isto”.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo de fluidez em \"do discurso tido\" para \"do discurso tida\".",
+      "Inserção de vírgulas leves para melhorar a legibilidade sem alterar a tese.",
+      "Preservação do léxico central: discurso, verdadeiro, sentido corrente, falsa ontologicamente, proposição."
+    ],
+    "notas_cautela": [
+      "O fragmento parece conceptual e legível, mas pode depender do contexto anterior para a plena determinação de \"isto\".",
+      "Manteve-se a formulação final entre aspas sem explicitação adicional para não introduzir conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0102_A01_SEG_006\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A forma do discurso tida como verdadeira, no sentido corrente, é ainda assim falsa ontologicamente. Mesmo quando apresentada com rigor, eloquência ou sabedoria, qualquer proposição surge sempre na forma de “o que é que encaixa sobre isto”.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo de fluidez em \\\"do discurso tido\\\" para \\\"do discurso tida\\\".\",\n    \"Inserção de vírgulas leves para melhorar a legibilidade sem alterar a tese.\",\n    \"Preservação do léxico central: discurso, verdadeiro, sentido corrente, falsa ontologicamente, proposição.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece conceptual e legível, mas pode depender do contexto anterior para a plena determinação de \\\"isto\\\".\",\n    \"Manteve-se a formulação final entre aspas sem explicitação adicional para não introduzir conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:24:46+00:00",
+  "modelo": "gpt-5.4"
+}

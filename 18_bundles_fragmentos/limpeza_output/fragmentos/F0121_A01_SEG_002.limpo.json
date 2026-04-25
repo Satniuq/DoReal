@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0121_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0121_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "colapso função interferência relação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0121_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O colapso da função é a interferência numa relação que, sem essa interferência, se manteria.",
+    "resumo_alteracoes": [
+      "Sem alterações substantivas; o fragmento já estava claro e coeso.",
+      "Preservado o léxico original, incluindo 'colapso da função', 'interferência' e 'relação'."
+    ],
+    "notas_cautela": [
+      "O fragmento é muito breve e pode depender de contexto adjacente para delimitar o sentido de 'função' e 'relação'.",
+      "Há continuidade local ativa no conjunto; a limpeza foi mantida no mínimo para não compensar possíveis lacunas com invenção."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0121_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O colapso da função é a interferência numa relação que, sem essa interferência, se manteria.\",\n  \"resumo_alteracoes\": [\n    \"Sem alterações substantivas; o fragmento já estava claro e coeso.\",\n    \"Preservado o léxico original, incluindo 'colapso da função', 'interferência' e 'relação'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento é muito breve e pode depender de contexto adjacente para delimitar o sentido de 'função' e 'relação'.\",\n    \"Há continuidade local ativa no conjunto; a limpeza foi mantida no mínimo para não compensar possíveis lacunas com invenção.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:32:37+00:00",
+  "modelo": "gpt-5.4"
+}

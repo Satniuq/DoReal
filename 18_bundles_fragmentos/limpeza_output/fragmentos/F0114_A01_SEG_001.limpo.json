@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0114_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0114_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "dever-ser no ser reflexivo"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0114_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Estava só a dizer que, antes do dever-ser, é necessário haver um poder-ser. Mas a fineza do nosso dever-ser — um dever-ser que mais nenhum animal tem, mesmo os de cérebro mais complexo — impõe, pelas suas próprias características, que o dever-ser esteja na descrição do ser, que inclui o poder-ser. É aí que ele está inscrito.\n\nEstá naquilo que é e naquilo que cada ser reflexivo vai achar que é, pela obrigatoriedade de ser, sendo um ser reflexivo, um ponto de localidade. Não são duas vertentes. São evidências daquilo que é, das atualizações que compõem o real.",
+    "resumo_alteracoes": [
+      "Ajustada a sintaxe da primeira frase para maior fluidez, sem alterar a tese local.",
+      "Mantida a distinção entre poder-ser, dever-ser e descrição do ser.",
+      "Reduzida a oralidade redundante e ligada a última frase ao período anterior para melhorar coesão.",
+      "Feita reconstrução mínima numa passagem sintaticamente tensa ('pela obrigatoriedade de ser...'), preservando o léxico central."
+    ],
+    "notas_cautela": [
+      "A formulação 'um ponto de localidade' permanece parcialmente opaca, mas foi preservada por parecer termo relevante do autor.",
+      "O segmento apresenta uma passagem possivelmente truncada ou comprimida na articulação entre 'ser reflexivo' e 'ponto de localidade'.",
+      "O texto foi limpo de forma conservadora, sem preencher eventuais lacunas argumentativas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0114_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Estava só a dizer que, antes do dever-ser, é necessário haver um poder-ser. Mas a fineza do nosso dever-ser — um dever-ser que mais nenhum animal tem, mesmo os de cérebro mais complexo — impõe, pelas suas próprias características, que o dever-ser esteja na descrição do ser, que inclui o poder-ser. É aí que ele está inscrito.\\n\\nEstá naquilo que é e naquilo que cada ser reflexivo vai achar que é, pela obrigatoriedade de ser, sendo um ser reflexivo, um ponto de localidade. Não são duas vertentes. São evidências daquilo que é, das atualizações que compõem o real.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a sintaxe da primeira frase para maior fluidez, sem alterar a tese local.\",\n    \"Mantida a distinção entre poder-ser, dever-ser e descrição do ser.\",\n    \"Reduzida a oralidade redundante e ligada a última frase ao período anterior para melhorar coesão.\",\n    \"Feita reconstrução mínima numa passagem sintaticamente tensa ('pela obrigatoriedade de ser...'), preservando o léxico central.\"\n  ],\n  \"notas_cautela\": [\n    \"A formulação 'um ponto de localidade' permanece parcialmente opaca, mas foi preservada por parecer termo relevante do autor.\",\n    \"O segmento apresenta uma passagem possivelmente truncada ou comprimida na articulação entre 'ser reflexivo' e 'ponto de localidade'.\",\n    \"O texto foi limpo de forma conservadora, sem preencher eventuais lacunas argumentativas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:29:36+00:00",
+  "modelo": "gpt-5.4"
+}

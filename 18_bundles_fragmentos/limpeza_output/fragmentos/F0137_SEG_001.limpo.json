@@ -1,0 +1,32 @@
+{
+  "fragment_id": "F0137_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0137_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "mecanismo de fluxo de informação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0137_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Eu só consigo saber o que há em Tóquio hoje porque há informação física, real; há atualizações, há uma ponte a atualizar qualquer coisa entre o que sai de Tóquio e o que eu estou a ver no telemóvel, em Portugal.",
+    "resumo_alteracoes": [
+      "Removida redundância de oralidade e ajustada a pontuação para maior legibilidade.",
+      "Mantida a tese local sobre a mediação física e real da informação.",
+      "Preservado o léxico central do fragmento, com reformulação mínima de \"uma coisa qualquer\" para \"qualquer coisa\"."
+    ],
+    "notas_cautela": [
+      "A expressão \"uma ponte a atualizar qualquer coisa\" permanece algo indeterminada no original; foi mantida com limpeza mínima para não introduzir conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0137_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Eu só consigo saber o que há em Tóquio hoje porque há informação física, real; há atualizações, há uma ponte a atualizar qualquer coisa entre o que sai de Tóquio e o que eu estou a ver no telemóvel, em Portugal.\",\n  \"resumo_alteracoes\": [\n    \"Removida redundância de oralidade e ajustada a pontuação para maior legibilidade.\",\n    \"Mantida a tese local sobre a mediação física e real da informação.\",\n    \"Preservado o léxico central do fragmento, com reformulação mínima de \\\"uma coisa qualquer\\\" para \\\"qualquer coisa\\\".\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão \\\"uma ponte a atualizar qualquer coisa\\\" permanece algo indeterminada no original; foi mantida com limpeza mínima para não introduzir conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:34:58+00:00",
+  "modelo": "gpt-5.4"
+}

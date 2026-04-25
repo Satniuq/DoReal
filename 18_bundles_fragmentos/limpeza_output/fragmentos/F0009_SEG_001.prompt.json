@@ -1,0 +1,64 @@
+{
+  "fragment_id": "F0009_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0009_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0009\",\n  \"header_original\": \"## F0009 — 2026-01-02\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"verdade, indivíduo, realidade, ação\",\n  \"motivos_estado\": [\n    \"integridade_semantica_baixa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"integridade_semantica_baixa\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Ou que tenha contaminado o resto da cultura com essas ideias. Tudo é um bocado a mesma coisa. Mas... Quanto mais do tipo da esquerda, mais a verdade vai ser abafada. Porque a verdade... Porque para alguém ser do tipo verdade, tem de ter tipos de pensamento recorrentes, pelo menos. Ou então de comportamentos inactos. Não é? Para... Para, para, para, para... Para compreender a realidade em que está inserido, compreender o exterior e compreender o interior a um nível mínimo. Chega-se lá através de várias maneiras. Cristianismo é uma delas. Qualquer sistema de crenças que tenha como uma das crenças principais ou importantes ou pelo menos consequentes nas outras crenças um modo de verdade. Há de ser sempre a colocação da realidade na realidade e do indivíduo no indivíduo. Portanto, a colocação da necessidade de mudança, não na realidade, mas sim no indivíduo. Porque isto, depois, por necessidade lógica de coerência e harmónica, leva à ação modificadora. Não só descoberta daquilo que é, compreensão daquilo que é, mas também aplicação do valor na medida em que vai trazer um melhor estado de coisas. Ou pelo menos à preservação, à preservação do estado de coisas. Portanto, o que é que eu estava a dizer? Ser deste tipo de pessoa, contrariamente a outro tipo de pessoa, que encontre uma qualquer justificação que seja minimamente apresentável pela mente que não envolva nenhum tipo de autoresponsabilidade. São questões básicas, questões elementares do comportamento humano, variados. Pela simples querer preservar a energia e preferir não fazer nada, a fazer algo. E depois, quando confrontado com a realidade e com os milhões...\",\n  \"contexto_local\": null,\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0009_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0009",
+    "header_original": "## F0009 — 2026-01-02",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "verdade, indivíduo, realidade, ação",
+    "motivos_estado": [
+      "integridade_semantica_baixa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "integridade_semantica_baixa"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Ou que tenha contaminado o resto da cultura com essas ideias. Tudo é um bocado a mesma coisa. Mas... Quanto mais do tipo da esquerda, mais a verdade vai ser abafada. Porque a verdade... Porque para alguém ser do tipo verdade, tem de ter tipos de pensamento recorrentes, pelo menos. Ou então de comportamentos inactos. Não é? Para... Para, para, para, para... Para compreender a realidade em que está inserido, compreender o exterior e compreender o interior a um nível mínimo. Chega-se lá através de várias maneiras. Cristianismo é uma delas. Qualquer sistema de crenças que tenha como uma das crenças principais ou importantes ou pelo menos consequentes nas outras crenças um modo de verdade. Há de ser sempre a colocação da realidade na realidade e do indivíduo no indivíduo. Portanto, a colocação da necessidade de mudança, não na realidade, mas sim no indivíduo. Porque isto, depois, por necessidade lógica de coerência e harmónica, leva à ação modificadora. Não só descoberta daquilo que é, compreensão daquilo que é, mas também aplicação do valor na medida em que vai trazer um melhor estado de coisas. Ou pelo menos à preservação, à preservação do estado de coisas. Portanto, o que é que eu estava a dizer? Ser deste tipo de pessoa, contrariamente a outro tipo de pessoa, que encontre uma qualquer justificação que seja minimamente apresentável pela mente que não envolva nenhum tipo de autoresponsabilidade. São questões básicas, questões elementares do comportamento humano, variados. Pela simples querer preservar a energia e preferir não fazer nada, a fazer algo. E depois, quando confrontado com a realidade e com os milhões...",
+    "contexto_local": null,
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

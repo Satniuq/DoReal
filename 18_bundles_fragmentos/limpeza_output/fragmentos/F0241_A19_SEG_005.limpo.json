@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0241_A19_SEG_005",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A19_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "substituição: pilotos por pensadores"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A19_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Os pretensos pilotos vivem... Pretensos? Já não há pilotos. Os pilotos foram substituídos pelos cientistas, pelos pensadores. Já não há filosofia.",
+    "resumo_alteracoes": [
+      "Preservado o texto praticamente intacto por ser muito curto e assertivo.",
+      "Mantida a repetição local por ter função enfática.",
+      "Mantida a elipse inicial por não haver base suficiente para reconstrução segura."
+    ],
+    "notas_cautela": [
+      "O fragmento começa com uma formulação possivelmente truncada ('vivem...').",
+      "Há indício de corte interno; o texto permanece parcial após a limpeza.",
+      "A relação entre 'pilotos', 'cientistas', 'pensadores' e 'filosofia' deve ser revista no conjunto, não isoladamente."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A19_SEG_005\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Os pretensos pilotos vivem... Pretensos? Já não há pilotos. Os pilotos foram substituídos pelos cientistas, pelos pensadores. Já não há filosofia.\",\n  \"resumo_alteracoes\": [\n    \"Preservado o texto praticamente intacto por ser muito curto e assertivo.\",\n    \"Mantida a repetição local por ter função enfática.\",\n    \"Mantida a elipse inicial por não haver base suficiente para reconstrução segura.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento começa com uma formulação possivelmente truncada ('vivem...').\",\n    \"Há indício de corte interno; o texto permanece parcial após a limpeza.\",\n    \"A relação entre 'pilotos', 'cientistas', 'pensadores' e 'filosofia' deve ser revista no conjunto, não isoladamente.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:53:45+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A03_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A03_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A03\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"processo de apreensão e destruição\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Por que é que as pessoas amadurecem? Por que é que se tornam adultas? Porque ultrapassam o processo de apreensão do real. Por que é que a escolaridade incide durante a juventude e não quando se é adulto? Por que é que é mais difícil aprender línguas quando se é adulto? Como é óbvio, porque o modo de apreensão do real está... é o dominante. Pois venha, pois venha a suavização, como é óbvio, pelo seu próprio.de vista no horizonte da apreensão, que é local, sempre, por isso é que é um horizonte. E isto é para dizer o quê? Para dizer que era para dizer... Ah, era isso. E depois, quando se já se tem a apreensão, não é? Quando já se tem o símbolo cristalizado, quando já se tem, sei lá, de qualquer maneira queremos olhar para isto, todas elas são meras descrições, parcas descrições, porque a descrição correta é ontológica. Portanto, quando a repetição de apreensões se tornou num modo de ser do processo do aprender, quando eu olhei muitas vezes para uma bola e agora eu já sei que é uma bola, não pela bola em si, não por eu em mim, mas pela relação que existe, que é expressada pela apreensão, pela mediação que incorpora tudo. Só que a mediação é restritiva, neste caso tudo incorpora tudo.\\n\\nEssa destruição depois é custosa, é custosa, claro, como é óbvio. Nós já não estamos no modo de cristalização da apreensão, mas já entramos agora na necessária destruição dos modos de ser, para ser outros modos de ser. Então isto leva à banalidade de que é tudo aquilo que se foi há um segundo atrás, como é óbvio, mas leva-nos também à conclusão de que, operando o ser consciente reflexivo num quadro em que ele é livre e pode escolher ou não, o caminho que o leva à melhor descrição do real manifesta-se como, depois, modo de ser que mal descrevem o real. Portanto, até um ponto em que, por exemplo, vivem mais no eu eu.\\n\\nA destruição é necessária. As atualizações que se sobrepõem nas relações em que o ser é levam sempre a destruições, podem não são destruições físicas, mas são destruições de tipos de relações, destruções de continuidades de relações, se esta relação se permanece neste estado, com estas características, com estas envolvências, e agora vem outra atualização malandra e está a impor-se, como qualquer coisa, como esta parede que não sai da minha frente, está bem? O braço vai-se partir se não for contra a parede. Há a destruição daquela continuidade daquela relação, que no fundo, em que no fundo o homem vive, na continuidade da relação anterior. Mas independentemente disso, a destruição é, quer dizer, faz parte, porque senão tudo seria como seria, cristalizado e imutável. Seria uma contradição nos próprios termos, o que sabemos não ser.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0241_A03_SEG_002\\n- tema: discurso sem referente real\\n- preview: o tipo de pensamentos que se têm, o tipo de proposições que se dizem, o tipo de justificações que se apresentam para a justificação dos modos eu-eu, do modo que relega o real, por definição, nunca é com referência ao real. E isso vê-se, creio que quase na maioria, quase na totalidade do discurso. Tanto discourse científico como público, como dos mídia, como das redes sociais, é relevante, muito relevante. Qualquer d…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A03_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A03",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "processo de apreensão e destruição",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Por que é que as pessoas amadurecem? Por que é que se tornam adultas? Porque ultrapassam o processo de apreensão do real. Por que é que a escolaridade incide durante a juventude e não quando se é adulto? Por que é que é mais difícil aprender línguas quando se é adulto? Como é óbvio, porque o modo de apreensão do real está... é o dominante. Pois venha, pois venha a suavização, como é óbvio, pelo seu próprio.de vista no horizonte da apreensão, que é local, sempre, por isso é que é um horizonte. E isto é para dizer o quê? Para dizer que era para dizer... Ah, era isso. E depois, quando se já se tem a apreensão, não é? Quando já se tem o símbolo cristalizado, quando já se tem, sei lá, de qualquer maneira queremos olhar para isto, todas elas são meras descrições, parcas descrições, porque a descrição correta é ontológica. Portanto, quando a repetição de apreensões se tornou num modo de ser do processo do aprender, quando eu olhei muitas vezes para uma bola e agora eu já sei que é uma bola, não pela bola em si, não por eu em mim, mas pela relação que existe, que é expressada pela apreensão, pela mediação que incorpora tudo. Só que a mediação é restritiva, neste caso tudo incorpora tudo.\n\nEssa destruição depois é custosa, é custosa, claro, como é óbvio. Nós já não estamos no modo de cristalização da apreensão, mas já entramos agora na necessária destruição dos modos de ser, para ser outros modos de ser. Então isto leva à banalidade de que é tudo aquilo que se foi há um segundo atrás, como é óbvio, mas leva-nos também à conclusão de que, operando o ser consciente reflexivo num quadro em que ele é livre e pode escolher ou não, o caminho que o leva à melhor descrição do real manifesta-se como, depois, modo de ser que mal descrevem o real. Portanto, até um ponto em que, por exemplo, vivem mais no eu eu.\n\nA destruição é necessária. As atualizações que se sobrepõem nas relações em que o ser é levam sempre a destruições, podem não são destruições físicas, mas são destruições de tipos de relações, destruções de continuidades de relações, se esta relação se permanece neste estado, com estas características, com estas envolvências, e agora vem outra atualização malandra e está a impor-se, como qualquer coisa, como esta parede que não sai da minha frente, está bem? O braço vai-se partir se não for contra a parede. Há a destruição daquela continuidade daquela relação, que no fundo, em que no fundo o homem vive, na continuidade da relação anterior. Mas independentemente disso, a destruição é, quer dizer, faz parte, porque senão tudo seria como seria, cristalizado e imutável. Seria uma contradição nos próprios termos, o que sabemos não ser.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0241_A03_SEG_002\n- tema: discurso sem referente real\n- preview: o tipo de pensamentos que se têm, o tipo de proposições que se dizem, o tipo de justificações que se apresentam para a justificação dos modos eu-eu, do modo que relega o real, por definição, nunca é com referência ao real. E isso vê-se, creio que quase na maioria, quase na totalidade do discurso. Tanto discourse científico como público, como dos mídia, como das redes sociais, é relevante, muito relevante. Qualquer d…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

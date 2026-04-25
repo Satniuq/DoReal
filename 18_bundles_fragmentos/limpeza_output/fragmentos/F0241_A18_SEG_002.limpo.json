@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A18_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A18_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "justificação sistémica atos destrutivos"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A18_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O homem faz, o homem tem comportamentos não bons para com outros seres, até comportamentos ativamente destrutivos, impeditivos do florescimento. Vai ser mau. Se o sistema onde ele estiver inserido, onde ele viver, o sistema em que ele operar, em que ele aprender, descrever e agir, é um que justifica as ações que se tomem, independentemente de ser bom ou mau, o critério não está no real, o critério não está nele próprio.\n\nSaber que o outro, com estatuto ontológico igual ao dele, que o contínuo das suas atualizações vai terminar, vai deixar de existir, vai deixar de estar enquadrado no potencial do ser, é justificado pela coerência interna de qualquer sistema. Quanto menos gravosos forem os meios usados, mais fácil é manter a coerência do sistema. Quanto mais gravosos, mais intrincada ela vai ser, porque está sempre afastada do real.",
+    "resumo_alteracoes": [
+      "Separei e reordenei minimamente segmentos fundidos para recuperar legibilidade sem mudar a progressão local.",
+      "Removi repetições orais e ajustei concordâncias sintáticas.",
+      "Reconstruí com cautela trechos claramente truncados ou corrompidos, como 'ações que se marrem' para 'ações que se tomem'.",
+      "Ajustei formulações para clarificar referentes, mantendo o léxico central: sistema, critério, real, coerência interna, estatuto ontológico."
+    ],
+    "notas_cautela": [
+      "O fragmento tem sinais de corte interno e fusão de parágrafos.",
+      "Há pontos de corrupção textual no original; a limpeza implicou reconstrução mínima para legibilidade.",
+      "A passagem final sobre gravosidade e coerência pode permanecer parcialmente truncada no original."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A18_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O homem faz, o homem tem comportamentos não bons para com outros seres, até comportamentos ativamente destrutivos, impeditivos do florescimento. Vai ser mau. Se o sistema onde ele estiver inserido, onde ele viver, o sistema em que ele operar, em que ele aprender, descrever e agir, é um que justifica as ações que se tomem, independentemente de ser bom ou mau, o critério não está no real, o critério não está nele próprio.\\n\\nSaber que o outro, com estatuto ontológico igual ao dele, que o contínuo das suas atualizações vai terminar, vai deixar de existir, vai deixar de estar enquadrado no potencial do ser, é justificado pela coerência interna de qualquer sistema. Quanto menos gravosos forem os meios usados, mais fácil é manter a coerência do sistema. Quanto mais gravosos, mais intrincada ela vai ser, porque está sempre afastada do real.\",\n  \"resumo_alteracoes\": [\n    \"Separei e reordenei minimamente segmentos fundidos para recuperar legibilidade sem mudar a progressão local.\",\n    \"Removi repetições orais e ajustei concordâncias sintáticas.\",\n    \"Reconstruí com cautela trechos claramente truncados ou corrompidos, como 'ações que se marrem' para 'ações que se tomem'.\",\n    \"Ajustei formulações para clarificar referentes, mantendo o léxico central: sistema, critério, real, coerência interna, estatuto ontológico.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento tem sinais de corte interno e fusão de parágrafos.\",\n    \"Há pontos de corrupção textual no original; a limpeza implicou reconstrução mínima para legibilidade.\",\n    \"A passagem final sobre gravosidade e coerência pode permanecer parcialmente truncada no original.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:53:00+00:00",
+  "modelo": "gpt-5.4"
+}

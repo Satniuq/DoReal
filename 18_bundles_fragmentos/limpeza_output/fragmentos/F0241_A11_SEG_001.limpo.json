@@ -1,0 +1,41 @@
+{
+  "fragment_id": "F0241_A11_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A11_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "consciência: localização e reificação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A11_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Por haver melhores e piores modos de descrição, não significa que se tenha de viver num melhor modo de descrição. Outra verdade inegociável. O ser reflexivo vai viver num funcionalismo regular das suas descrições locais, sem qualquer problema. E isto vai sempre existir, porque, senão, todos eram filósofos. Sei lá: outra, a consciência é no estabelecimento real, não é extra-real.\n\nQual é, afinal, o sentido do discurso de hoje em ter de fazer da consciência uma coisa? Depois colocam-na onde querem. Pois. Fundem-na, iluminam-na, colocam-na fora do real, ou como algo extra-físico, extra-local, com capacidade extra-local; como algo que é um, sei lá, alma de mentes, mentes daquele tipo de que falou o senhor Besso Alivis, Descartes, esse malandro.",
+    "resumo_alteracoes": [
+      "Corrigida pontuação para melhorar legibilidade e segmentação frásica.",
+      "Reduzidas hesitações e marcas de oralidade redundantes sem remover o tom autoral.",
+      "Ajustadas pequenas ligações sintáticas mínimas, como \"fazer da consciência uma coisa\".",
+      "Preservado o léxico central do fragmento, incluindo \"funcionalismo regular\", \"descrições locais\", \"extra-real\" e \"extra-local\".",
+      "Mantida a progressão local: modos de descrição, vida descritiva ordinária, localização da consciência no real, crítica à reificação da consciência."
+    ],
+    "notas_cautela": [
+      "O trecho contém oralidade densa e possíveis referências idiossincráticas cuja estabilização total arriscaria alterar a voz.",
+      "A expressão \"a consciência é no estabelecimento real\" foi preservada quase intacta por ser semanticamente central, embora permaneça elíptica.",
+      "A menção a \"Besso Alivis\" pode estar incorreta ou truncada na fonte; não foi normalizada para evitar introdução de conteúdo.",
+      "O fragmento pode continuar parcialmente truncado ou fusionado, apesar da limpeza."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A11_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Por haver melhores e piores modos de descrição, não significa que se tenha de viver num melhor modo de descrição. Outra verdade inegociável. O ser reflexivo vai viver num funcionalismo regular das suas descrições locais, sem qualquer problema. E isto vai sempre existir, porque, senão, todos eram filósofos. Sei lá: outra, a consciência é no estabelecimento real, não é extra-real.\\n\\nQual é, afinal, o sentido do discurso de hoje em ter de fazer da consciência uma coisa? Depois colocam-na onde querem. Pois. Fundem-na, iluminam-na, colocam-na fora do real, ou como algo extra-físico, extra-local, com capacidade extra-local; como algo que é um, sei lá, alma de mentes, mentes daquele tipo de que falou o senhor Besso Alivis, Descartes, esse malandro.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida pontuação para melhorar legibilidade e segmentação frásica.\",\n    \"Reduzidas hesitações e marcas de oralidade redundantes sem remover o tom autoral.\",\n    \"Ajustadas pequenas ligações sintáticas mínimas, como \\\"fazer da consciência uma coisa\\\".\",\n    \"Preservado o léxico central do fragmento, incluindo \\\"funcionalismo regular\\\", \\\"descrições locais\\\", \\\"extra-real\\\" e \\\"extra-local\\\".\",\n    \"Mantida a progressão local: modos de descrição, vida descritiva ordinária, localização da consciência no real, crítica à reificação da consciência.\"\n  ],\n  \"notas_cautela\": [\n    \"O trecho contém oralidade densa e possíveis referências idiossincráticas cuja estabilização total arriscaria alterar a voz.\",\n    \"A expressão \\\"a consciência é no estabelecimento real\\\" foi preservada quase intacta por ser semanticamente central, embora permaneça elíptica.\",\n    \"A menção a \\\"Besso Alivis\\\" pode estar incorreta ou truncada na fonte; não foi normalizada para evitar introdução de conteúdo.\",\n    \"O fragmento pode continuar parcialmente truncado ou fusionado, apesar da limpeza.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:49:38+00:00",
+  "modelo": "gpt-5.4"
+}

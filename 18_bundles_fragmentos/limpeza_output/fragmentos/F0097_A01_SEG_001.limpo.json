@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0097_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0097_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "afirmacao_curta",
+    "tema_dominante_provisorio": "defeito autoria filosofia"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0097_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O único defeito, se assim o quisermos pôr, da filosofia que tenho vindo a construir é que é feita por mim.",
+    "resumo_alteracoes": [
+      "Suavizada a oralidade redundante em 'se assim quisermos pôr' para 'se assim o quisermos pôr'.",
+      "Removido o pronome 'eu' em 'que eu tenho vindo a construir' para maior fluidez, sem alterar o sentido.",
+      "Mantida a formulação central sobre o defeito da filosofia ser feita pelo próprio autor."
+    ],
+    "notas_cautela": [
+      "Fragmento curto e potencialmente dependente da continuação local.",
+      "A afirmação pode funcionar como abertura de desenvolvimento argumentativo no fragmento seguinte."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0097_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O único defeito, se assim o quisermos pôr, da filosofia que tenho vindo a construir é que é feita por mim.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a oralidade redundante em 'se assim quisermos pôr' para 'se assim o quisermos pôr'.\",\n    \"Removido o pronome 'eu' em 'que eu tenho vindo a construir' para maior fluidez, sem alterar o sentido.\",\n    \"Mantida a formulação central sobre o defeito da filosofia ser feita pelo próprio autor.\"\n  ],\n  \"notas_cautela\": [\n    \"Fragmento curto e potencialmente dependente da continuação local.\",\n    \"A afirmação pode funcionar como abertura de desenvolvimento argumentativo no fragmento seguinte.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:22:14+00:00",
+  "modelo": "gpt-5.4"
+}

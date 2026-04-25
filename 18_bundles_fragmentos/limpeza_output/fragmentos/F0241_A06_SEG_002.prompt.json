@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A06_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A06_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A06\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"crise da filosofia contemporânea\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"A filosofia é tão fraca, tão carreirista, tão formalista, tão cheia de eu-ego, que nunca pensaria em colocar Thomas Sowell como filósofo. Porém, os mecanismos que ele descreve, um dos inúmeros exemplos, pelas simples frases, por exemplo, de que as pessoas não buscam a verdade, não a encontram relativamente a modos de ser do eu-ego, modos de ser do ser no real, na relação com o real, é absurdo no que a filosofia se tornou, ou no que nunca foi, no que deixou de ser depois de Aristóteles.\\n\\nSim, é bem visto. Sim, porque já não há filosofia, há só discurso sobre filosofia. Havia há uns tempos num programa qualquer, não sei se era o Pampleycast, em que eles gostavam de sempre fazer perguntas aos convidados, no fim, acho eu, no início, não tenho ideia já, o que é que para eles era a filosofia? E havia toda, ai, era uma prática, ai, era um conhecimento, ai, era um sei lá, o que é que eles diziam? Ai, a filosofia já não deve existir e deve ser absorvida pela ciência. Sei lá, coisas assim. E um de um lado e do outro. Então, o jogo do sistema é tão grande, eles vivem tanto no sistema que eles criaram, que nem descrever a sua própria atividade dentro desse sistema conseguem.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0241_A06_SEG_001\\n- tema: dignidade, liberdade, igualdade oportunidades\\n- preview: Todo este devaneio de viver no dever ser, viver na igualdade de resultados, em vez de na igualdade de oportunidades, ouvir uma verdade como querer ser julgado pelo conteúdo do caráter e não pelo conteúdo da cor, extraída aí de qualquer tipo de correção, engenharia, intervenção humana, criação de sistema sobre o ser, é não ver que dignidade e a liberdade são os pontos ontológicos, porque o homem é reflexivo, logo é l…\\n\\nFragmento seguinte:\\n- id: F0241_A06_SEG_003\\n- tema: aplicabilidade universal da adequação ao\\n- preview: E dá para tudo na vida, não é? Dá para qualquer coisa. A adequação ao real, a boa descrição do real, a verdade e o bem, são aplicáveis a todos os domínios, em última análise. Depois o que fazemos com eles é outro assunto, mas na posição de cada um relativamente à família, à casa onde está, ao país onde está inserido, ao trabalho que tem, às atividades que desenvolve, que faz, ao tempo que passa, tudo, aos pensamento…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A06_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A06",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crise da filosofia contemporânea",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "A filosofia é tão fraca, tão carreirista, tão formalista, tão cheia de eu-ego, que nunca pensaria em colocar Thomas Sowell como filósofo. Porém, os mecanismos que ele descreve, um dos inúmeros exemplos, pelas simples frases, por exemplo, de que as pessoas não buscam a verdade, não a encontram relativamente a modos de ser do eu-ego, modos de ser do ser no real, na relação com o real, é absurdo no que a filosofia se tornou, ou no que nunca foi, no que deixou de ser depois de Aristóteles.\n\nSim, é bem visto. Sim, porque já não há filosofia, há só discurso sobre filosofia. Havia há uns tempos num programa qualquer, não sei se era o Pampleycast, em que eles gostavam de sempre fazer perguntas aos convidados, no fim, acho eu, no início, não tenho ideia já, o que é que para eles era a filosofia? E havia toda, ai, era uma prática, ai, era um conhecimento, ai, era um sei lá, o que é que eles diziam? Ai, a filosofia já não deve existir e deve ser absorvida pela ciência. Sei lá, coisas assim. E um de um lado e do outro. Então, o jogo do sistema é tão grande, eles vivem tanto no sistema que eles criaram, que nem descrever a sua própria atividade dentro desse sistema conseguem.",
+    "contexto_local": "Fragmento anterior:\n- id: F0241_A06_SEG_001\n- tema: dignidade, liberdade, igualdade oportunidades\n- preview: Todo este devaneio de viver no dever ser, viver na igualdade de resultados, em vez de na igualdade de oportunidades, ouvir uma verdade como querer ser julgado pelo conteúdo do caráter e não pelo conteúdo da cor, extraída aí de qualquer tipo de correção, engenharia, intervenção humana, criação de sistema sobre o ser, é não ver que dignidade e a liberdade são os pontos ontológicos, porque o homem é reflexivo, logo é l…\n\nFragmento seguinte:\n- id: F0241_A06_SEG_003\n- tema: aplicabilidade universal da adequação ao\n- preview: E dá para tudo na vida, não é? Dá para qualquer coisa. A adequação ao real, a boa descrição do real, a verdade e o bem, são aplicáveis a todos os domínios, em última análise. Depois o que fazemos com eles é outro assunto, mas na posição de cada um relativamente à família, à casa onde está, ao país onde está inserido, ao trabalho que tem, às atividades que desenvolve, que faz, ao tempo que passa, tudo, aos pensamento…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

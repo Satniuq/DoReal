@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0064_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0064_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "bem verdade existência humana"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0064_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Isto constitui mais uma evidência de que o bem coincide com a verdade e que a verdade coincide com o bem, pois, sem homens — isto é, sem crianças que se tornam adultas e geram outras crianças —, não existe sequer a possibilidade do bem. O universo não necessita do homem; o homem não é especial. Poderia existir outro animal com pensamentos de segunda ordem. Não se trata de antropomorfismo, mas de descrição.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.",
+      "Feita uma regularização mínima de concordância em 'crianças que se tornam adultas'.",
+      "Preservada a sequência argumentativa original e o léxico central do fragmento."
+    ],
+    "notas_cautela": [
+      "O fragmento depende do contexto anterior para a passagem entre infância, adultez e possibilidade do bem.",
+      "A formulação 'sem homens' foi preservada, embora o desenvolvimento explicativo use 'crianças', por ser relevante para a voz autoral e para o contexto local.",
+      "O texto permanece localmente completo, mas inserido numa continuidade argumentativa ativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0064_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Isto constitui mais uma evidência de que o bem coincide com a verdade e que a verdade coincide com o bem, pois, sem homens — isto é, sem crianças que se tornam adultas e geram outras crianças —, não existe sequer a possibilidade do bem. O universo não necessita do homem; o homem não é especial. Poderia existir outro animal com pensamentos de segunda ordem. Não se trata de antropomorfismo, mas de descrição.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade sem alterar a tese local.\",\n    \"Feita uma regularização mínima de concordância em 'crianças que se tornam adultas'.\",\n    \"Preservada a sequência argumentativa original e o léxico central do fragmento.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento depende do contexto anterior para a passagem entre infância, adultez e possibilidade do bem.\",\n    \"A formulação 'sem homens' foi preservada, embora o desenvolvimento explicativo use 'crianças', por ser relevante para a voz autoral e para o contexto local.\",\n    \"O texto permanece localmente completo, mas inserido numa continuidade argumentativa ativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:10:19+00:00",
+  "modelo": "gpt-5.4"
+}

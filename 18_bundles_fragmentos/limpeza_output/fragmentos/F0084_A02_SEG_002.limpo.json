@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0084_A02_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0084_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "estrutura do ser e realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0084_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Há potencialidades atualizáveis: há uma célula num órgão, há o que fiz ontem, nem que seja pelo simples facto de que, se não tivesse conduzido para casa ontem, ainda estaria no trabalho. Daí a continuidade do ser e a sua estrutura relacional.\n\nAs ideias, enquanto modos de ser, existem na representação do ser (o que foi e o que é), no poder-ser (o que poderá ser ou poderia ter sido) e no dever-ser (como teria de ser para estarmos a falar da realidade e não apenas de uma receita de tartes).\n\nViver na representação de Kant ou no discurso de Wittgenstein é o que de facto fazemos, por ser essa a característica humana. Mas isso não pode servir de verdade, porque esquece o círculo maior. Ainda assim, é isso que somos: o animal que domina todos os nichos em que se encontra pela racionalização das parcas descrições do real.\n\nA descoberta do real traz consigo, à medida da sua atualização, o próprio modo de ser que vive nessa nova parte do mapa. Olhamos para o relevo que se revela e dizemos que são apenas categorias da consciência que permitem a revelação do real, e não o próprio ser. Mas isso ignora que o real se mantém descoberto pela sua própria estrutura, refletida em todas as ciências — ciências, não “ciências” — sem necessidade de perguntar como a mente concebe o real.",
+    "resumo_alteracoes": [
+      "Ajustei pontuação e encadeamento frásico para melhorar a legibilidade sem alterar a tese local.",
+      "Reduzi ligeiramente a oralidade e a redundância, preservando o léxico central do fragmento.",
+      "Fiz uma reconstrução mínima numa formulação truncada do último parágrafo para lhe dar continuidade sintática."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém densidade conceptual e alguns saltos argumentativos próprios do original.",
+      "Há sinais de corte interno e fusão prévia de parágrafos; a limpeza foi conservadora e não preenche lacunas de contexto.",
+      "A expressão \"o círculo maior\" permanece sem explicitação local e pode depender do contexto adjacente."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0084_A02_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Há potencialidades atualizáveis: há uma célula num órgão, há o que fiz ontem, nem que seja pelo simples facto de que, se não tivesse conduzido para casa ontem, ainda estaria no trabalho. Daí a continuidade do ser e a sua estrutura relacional.\\n\\nAs ideias, enquanto modos de ser, existem na representação do ser (o que foi e o que é), no poder-ser (o que poderá ser ou poderia ter sido) e no dever-ser (como teria de ser para estarmos a falar da realidade e não apenas de uma receita de tartes).\\n\\nViver na representação de Kant ou no discurso de Wittgenstein é o que de facto fazemos, por ser essa a característica humana. Mas isso não pode servir de verdade, porque esquece o círculo maior. Ainda assim, é isso que somos: o animal que domina todos os nichos em que se encontra pela racionalização das parcas descrições do real.\\n\\nA descoberta do real traz consigo, à medida da sua atualização, o próprio modo de ser que vive nessa nova parte do mapa. Olhamos para o relevo que se revela e dizemos que são apenas categorias da consciência que permitem a revelação do real, e não o próprio ser. Mas isso ignora que o real se mantém descoberto pela sua própria estrutura, refletida em todas as ciências — ciências, não “ciências” — sem necessidade de perguntar como a mente concebe o real.\",\n  \"resumo_alteracoes\": [\n    \"Ajustei pontuação e encadeamento frásico para melhorar a legibilidade sem alterar a tese local.\",\n    \"Reduzi ligeiramente a oralidade e a redundância, preservando o léxico central do fragmento.\",\n    \"Fiz uma reconstrução mínima numa formulação truncada do último parágrafo para lhe dar continuidade sintática.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém densidade conceptual e alguns saltos argumentativos próprios do original.\",\n    \"Há sinais de corte interno e fusão prévia de parágrafos; a limpeza foi conservadora e não preenche lacunas de contexto.\",\n    \"A expressão \\\"o círculo maior\\\" permanece sem explicitação local e pode depender do contexto adjacente.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:17:02+00:00",
+  "modelo": "gpt-5.4"
+}

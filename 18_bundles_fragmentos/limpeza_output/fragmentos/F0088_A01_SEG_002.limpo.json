@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0088_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0088_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "continuidade existência relacional local"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0088_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O contínuo da vida não é um espírito que nos percorre; é local. Não há corpo conjunto: se eu perder um braço, mais ninguém o perde. A dependência do ser no tempo — se quisermos ser místicos — e a consciência, percebida como contínua, não o são como substância, mas como relação. Não percebemos objetos, mas relações. É no pequeno-almoço que cada um comeu ontem, e não num pequeno-almoço comunal.",
+    "resumo_alteracoes": [
+      "Ajustada a coordenação da frase sobre dependência do ser no tempo e consciência para maior legibilidade.",
+      "Removida uma quebra sintática sem alterar a tese local.",
+      "Preservado o léxico central: local, corpo conjunto, substância, relação, objetos, pequeno-almoço comunal."
+    ],
+    "notas_cautela": [
+      "O fragmento parece integrar uma continuidade argumentativa maior e mantém formulações densas que foram preservadas por cautela.",
+      "A expressão final sobre o pequeno-almoço permanece deliberadamente concreta e contrastiva; não foi reinterpretada.",
+      "Houve limpeza mínima para não compensar possíveis cortes internos com reconstrução excessiva."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0088_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O contínuo da vida não é um espírito que nos percorre; é local. Não há corpo conjunto: se eu perder um braço, mais ninguém o perde. A dependência do ser no tempo — se quisermos ser místicos — e a consciência, percebida como contínua, não o são como substância, mas como relação. Não percebemos objetos, mas relações. É no pequeno-almoço que cada um comeu ontem, e não num pequeno-almoço comunal.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a coordenação da frase sobre dependência do ser no tempo e consciência para maior legibilidade.\",\n    \"Removida uma quebra sintática sem alterar a tese local.\",\n    \"Preservado o léxico central: local, corpo conjunto, substância, relação, objetos, pequeno-almoço comunal.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece integrar uma continuidade argumentativa maior e mantém formulações densas que foram preservadas por cautela.\",\n    \"A expressão final sobre o pequeno-almoço permanece deliberadamente concreta e contrastiva; não foi reinterpretada.\",\n    \"Houve limpeza mínima para não compensar possíveis cortes internos com reconstrução excessiva.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:18:40+00:00",
+  "modelo": "gpt-5.4"
+}

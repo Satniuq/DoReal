@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0121_A02_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0121_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "condições definição ser bom"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0121_A02_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Aquilo que define o que é ser bom não pode ser uma resposta a cenários que não pertencem aos comportamentos típicos do ser consciente reflexivo.",
+    "resumo_alteracoes": [
+      "Ajuste mínimo de fluidez com a inserção de 'uma' em 'não pode ser uma resposta'.",
+      "Preservação do léxico central: 'define', 'ser bom', 'cenários', 'comportamentos típicos', 'ser consciente reflexivo'.",
+      "Nenhuma mudança de tese local nem introdução de conteúdo novo."
+    ],
+    "notas_cautela": [
+      "Fragmento curto e dependente de continuidade local ativa.",
+      "O sentido parece parcial sem o segmento anterior, mas permanece legível após limpeza.",
+      "Não foram preenchidas lacunas argumentativas além do mínimo necessário."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0121_A02_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Aquilo que define o que é ser bom não pode ser uma resposta a cenários que não pertencem aos comportamentos típicos do ser consciente reflexivo.\",\n  \"resumo_alteracoes\": [\n    \"Ajuste mínimo de fluidez com a inserção de 'uma' em 'não pode ser uma resposta'.\",\n    \"Preservação do léxico central: 'define', 'ser bom', 'cenários', 'comportamentos típicos', 'ser consciente reflexivo'.\",\n    \"Nenhuma mudança de tese local nem introdução de conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"Fragmento curto e dependente de continuidade local ativa.\",\n    \"O sentido parece parcial sem o segmento anterior, mas permanece legível após limpeza.\",\n    \"Não foram preenchidas lacunas argumentativas além do mínimo necessário.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:32:56+00:00",
+  "modelo": "gpt-5.4"
+}

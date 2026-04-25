@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0111_A01_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0111_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "critério moral processo sistema"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0111_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "As manifestações em larga escala operam no quadro do processo. O que é bom, o que deve ser e o que não deve ser, quando desligado do real, passa a ser apenas ligação interna. Procura respostas nas regras do próprio círculo.\n\nAssim, o bem e o mal deixam de estar no ato e passam a estar no processo. Torna-se então necessário integrar o eu. O critério deixa de ser aquilo que é e passa a ser aquilo que o sistema impõe que seja.",
+    "resumo_alteracoes": [
+      "Removida a repetição redundante de \"interna, interna\", preservando a ideia de ligação interna.",
+      "Ajustada a enumeração inicial para melhorar a fluidez e a legibilidade.",
+      "Mantida a divisão em dois parágrafos para preservar a progressão argumentativa local."
+    ],
+    "notas_cautela": [
+      "O fragmento pode integrar uma continuidade argumentativa maior; a limpeza foi conservadora.",
+      "A expressão \"integrar o eu\" foi preservada sem reformulação por poder depender de contexto local ativo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0111_A01_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"As manifestações em larga escala operam no quadro do processo. O que é bom, o que deve ser e o que não deve ser, quando desligado do real, passa a ser apenas ligação interna. Procura respostas nas regras do próprio círculo.\\n\\nAssim, o bem e o mal deixam de estar no ato e passam a estar no processo. Torna-se então necessário integrar o eu. O critério deixa de ser aquilo que é e passa a ser aquilo que o sistema impõe que seja.\",\n  \"resumo_alteracoes\": [\n    \"Removida a repetição redundante de \\\"interna, interna\\\", preservando a ideia de ligação interna.\",\n    \"Ajustada a enumeração inicial para melhorar a fluidez e a legibilidade.\",\n    \"Mantida a divisão em dois parágrafos para preservar a progressão argumentativa local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode integrar uma continuidade argumentativa maior; a limpeza foi conservadora.\",\n    \"A expressão \\\"integrar o eu\\\" foi preservada sem reformulação por poder depender de contexto local ativo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:28:39+00:00",
+  "modelo": "gpt-5.4"
+}

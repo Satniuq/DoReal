@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0115_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0115_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "modos, existência, integração de relações"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0115_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Se não houvesse modos de operar, nada existiria. Pela identificação desses modos, os modos individuais tornam-se irrelevantes quando confrontados com a necessidade de integrar a relação.",
+    "resumo_alteracoes": [
+      "Mantido o texto praticamente intacto por já estar legível e coeso.",
+      "Preservada a formulação original para evitar alteração da tese local.",
+      "Não foram preenchidas possíveis lacunas implícitas entre as duas frases."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior para esclarecer a passagem entre 'modos de operar' e 'integrar a relação'.",
+      "Há continuidade local ativa; o sentido completo pode permanecer parcial sem o segmento adjacente.",
+      "Como houve corte interno assinalado nos metadados, evitou-se reconstrução interpretativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0115_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Se não houvesse modos de operar, nada existiria. Pela identificação desses modos, os modos individuais tornam-se irrelevantes quando confrontados com a necessidade de integrar a relação.\",\n  \"resumo_alteracoes\": [\n    \"Mantido o texto praticamente intacto por já estar legível e coeso.\",\n    \"Preservada a formulação original para evitar alteração da tese local.\",\n    \"Não foram preenchidas possíveis lacunas implícitas entre as duas frases.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior para esclarecer a passagem entre 'modos de operar' e 'integrar a relação'.\",\n    \"Há continuidade local ativa; o sentido completo pode permanecer parcial sem o segmento adjacente.\",\n    \"Como houve corte interno assinalado nos metadados, evitou-se reconstrução interpretativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:30:39+00:00",
+  "modelo": "gpt-5.4"
+}

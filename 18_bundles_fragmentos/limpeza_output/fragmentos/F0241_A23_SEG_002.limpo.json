@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A23_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A23_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "características do ser individual"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A23_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Como assim, de iniciação? As atualizações que existem no outro ser são dele. As relações que se atualizam naquilo que faz uma forma estável, que não se desintegra no segundo a seguir, são dele. O registo, o registo do contínuo do ser, da experiência que o eu tem, onde se enquadra a experiência que pode ter e que deve ter, isso é dele, partilhado no mesmo real onde ele age e, se se encontrar comigo, comigo.",
+    "resumo_alteracoes": [
+      "Regularizada a abertura interrogativa para maior legibilidade.",
+      "Corrigida a concordância verbal em \"As relações (...) são dele\".",
+      "Ajustada a ligação sintática em \"naquilo que faz uma forma estável\" sem alterar a tese local.",
+      "Reduzida pontuação redundante e suavizada a oralidade mínima, preservando a repetição enfática de \"o registo\" e \"comigo\"."
+    ],
+    "notas_cautela": [
+      "A expressão inicial \"de iniciação\" permanece incerta; foi mantida com ajuste mínimo por possível corte ou transcrição imperfeita.",
+      "O fecho \"e, se se encontrar comigo, comigo\" continua parcialmente truncado ou elíptico.",
+      "O fragmento parece depender de continuidade local anterior e posterior; não foram preenchidas lacunas argumentativas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A23_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Como assim, de iniciação? As atualizações que existem no outro ser são dele. As relações que se atualizam naquilo que faz uma forma estável, que não se desintegra no segundo a seguir, são dele. O registo, o registo do contínuo do ser, da experiência que o eu tem, onde se enquadra a experiência que pode ter e que deve ter, isso é dele, partilhado no mesmo real onde ele age e, se se encontrar comigo, comigo.\",\n  \"resumo_alteracoes\": [\n    \"Regularizada a abertura interrogativa para maior legibilidade.\",\n    \"Corrigida a concordância verbal em \\\"As relações (...) são dele\\\".\",\n    \"Ajustada a ligação sintática em \\\"naquilo que faz uma forma estável\\\" sem alterar a tese local.\",\n    \"Reduzida pontuação redundante e suavizada a oralidade mínima, preservando a repetição enfática de \\\"o registo\\\" e \\\"comigo\\\".\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão inicial \\\"de iniciação\\\" permanece incerta; foi mantida com ajuste mínimo por possível corte ou transcrição imperfeita.\",\n    \"O fecho \\\"e, se se encontrar comigo, comigo\\\" continua parcialmente truncado ou elíptico.\",\n    \"O fragmento parece depender de continuidade local anterior e posterior; não foram preenchidas lacunas argumentativas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:55:39+00:00",
+  "modelo": "gpt-5.4"
+}

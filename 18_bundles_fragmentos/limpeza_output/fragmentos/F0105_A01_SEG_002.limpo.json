@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0105_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0105_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "impacto comunicação ser-real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0105_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A comunicação em larga escala acelerou, mas aceleraria sempre. É também condição necessária para a degeneração normal da relação entre o eu e o real. Apelou ao modo default do ser: várias vozes, várias coisas ditas, todos podem ouvir.",
+    "resumo_alteracoes": [
+      "Suavizada a formulação \"sempre aceleraria\" para \"aceleraria sempre\" para maior fluidez, sem alterar a tese.",
+      "Mantida a ordem argumentativa local: aceleração da comunicação, condição para degeneração da relação, apelo ao modo default do ser.",
+      "Preservado o léxico central do fragmento, incluindo \"degeneração normal\", \"eu e o real\" e \"modo default do ser\"."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior para precisar o sentido de \"degeneração normal\".",
+      "A frase final mantém alguma compressão conceptual e pode permanecer parcial sem o segmento seguinte.",
+      "Há possível transição elíptica entre a aceleração da comunicação e o \"modo default do ser\"; não foi expandida para evitar introduzir conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0105_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A comunicação em larga escala acelerou, mas aceleraria sempre. É também condição necessária para a degeneração normal da relação entre o eu e o real. Apelou ao modo default do ser: várias vozes, várias coisas ditas, todos podem ouvir.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a formulação \\\"sempre aceleraria\\\" para \\\"aceleraria sempre\\\" para maior fluidez, sem alterar a tese.\",\n    \"Mantida a ordem argumentativa local: aceleração da comunicação, condição para degeneração da relação, apelo ao modo default do ser.\",\n    \"Preservado o léxico central do fragmento, incluindo \\\"degeneração normal\\\", \\\"eu e o real\\\" e \\\"modo default do ser\\\".\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior para precisar o sentido de \\\"degeneração normal\\\".\",\n    \"A frase final mantém alguma compressão conceptual e pode permanecer parcial sem o segmento seguinte.\",\n    \"Há possível transição elíptica entre a aceleração da comunicação e o \\\"modo default do ser\\\"; não foi expandida para evitar introduzir conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:26:19+00:00",
+  "modelo": "gpt-5.4"
+}

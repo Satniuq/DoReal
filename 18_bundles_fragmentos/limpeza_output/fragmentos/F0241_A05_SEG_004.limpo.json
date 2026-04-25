@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0241_A05_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A05_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "símbolos e apreensão do real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A05_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Os símbolos também são importantes. Claro que são. Como descrições regulares que se têm sobre eventos, dito assim de maneira muito rude, sobre atualizações, em sentido lato, daquilo que existe e que se apreende, das repetições do contínuo do ser, essas coisas malandras. O símbolo é aquilo que contém, se quiséssemos usar as palavras deste pessoal corrente, o facto e o valor; contém aquilo que é representado, se assim pudéssemos dizer, e aquilo que é encarnado na ação do ser. Os símbolos servem como, como é que eu hei de dizer, como o ponteiro na balança: pela maneira como quem os tem, dependendo de quem os simboliza, tem um ponteiro na balança que aponta mais para o eu-eu, mais para o eu real, como tudo na vida. E, quanto pior, quanto mais fraca, quanto mais desligada do real for a descrição, for este movimento de apreensão que o ser tem na relação com o real, menos ligada ao real estará, como é óbvio.",
+    "resumo_alteracoes": [
+      "Removidas repetições imediatas sem função, como 'contém, contém' e duplicações próximas.",
+      "Ajustada a pontuação para melhorar legibilidade e manter o encadeamento local.",
+      "Conservada a oralidade relevante do fragmento, incluindo expressões como 'dito assim de maneira muito rude', 'essas coisas malandras' e 'como é que eu hei de dizer'.",
+      "Feita reconstrução mínima de ligações sintáticas sem introduzir conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém alguma instabilidade sintática e lexical herdada do original.",
+      "A expressão 'eu-eu' foi preservada por cautela, apesar de poder depender de contexto mais amplo.",
+      "Há possível compressão conceptual em 'facto e valor' e na relação entre símbolo, representação e ação do ser; não foi expandida para evitar invenção.",
+      "O fragmento pode permanecer parcial devido à continuidade local ativa e ao corte interno assinalado."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A05_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Os símbolos também são importantes. Claro que são. Como descrições regulares que se têm sobre eventos, dito assim de maneira muito rude, sobre atualizações, em sentido lato, daquilo que existe e que se apreende, das repetições do contínuo do ser, essas coisas malandras. O símbolo é aquilo que contém, se quiséssemos usar as palavras deste pessoal corrente, o facto e o valor; contém aquilo que é representado, se assim pudéssemos dizer, e aquilo que é encarnado na ação do ser. Os símbolos servem como, como é que eu hei de dizer, como o ponteiro na balança: pela maneira como quem os tem, dependendo de quem os simboliza, tem um ponteiro na balança que aponta mais para o eu-eu, mais para o eu real, como tudo na vida. E, quanto pior, quanto mais fraca, quanto mais desligada do real for a descrição, for este movimento de apreensão que o ser tem na relação com o real, menos ligada ao real estará, como é óbvio.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições imediatas sem função, como 'contém, contém' e duplicações próximas.\",\n    \"Ajustada a pontuação para melhorar legibilidade e manter o encadeamento local.\",\n    \"Conservada a oralidade relevante do fragmento, incluindo expressões como 'dito assim de maneira muito rude', 'essas coisas malandras' e 'como é que eu hei de dizer'.\",\n    \"Feita reconstrução mínima de ligações sintáticas sem introduzir conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém alguma instabilidade sintática e lexical herdada do original.\",\n    \"A expressão 'eu-eu' foi preservada por cautela, apesar de poder depender de contexto mais amplo.\",\n    \"Há possível compressão conceptual em 'facto e valor' e na relação entre símbolo, representação e ação do ser; não foi expandida para evitar invenção.\",\n    \"O fragmento pode permanecer parcial devido à continuidade local ativa e ao corte interno assinalado.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:47:39+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0071_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0071_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "clivagem indivíduo coletivo"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0071_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Esta clivagem ajuda também a compreender a idolatria do indivíduo. Em vez de se pensarem os grupos como círculos maiores — abstrações reais que excedem o indivíduo — idolatra-se o homem singular, o líder, a figura humana. Sistemas de pensamento e modos de ser inteiros assentam nessa idolatria pessoal.\n\nA tradição cristã ilustra esta necessidade ao estruturar-se na trindade: preserva-se a semelhança humana de Cristo sem abdicar da divindade. Trata-se de manter a ponte entre o humano e o círculo maior, para possibilitar o melhor modo de ser.",
+    "resumo_alteracoes": [
+      "Ajustada a formulação de 'se pensar em grupos' para 'se pensarem os grupos' para maior clareza sintática.",
+      "Removida a vírgula em 'Cristo, sem abdicar' para melhorar o fluxo sem alterar o sentido.",
+      "Preservada a divisão em dois parágrafos e a progressão local do argumento."
+    ],
+    "notas_cautela": [
+      "O fragmento depende de contexto anterior para o sentido preciso de 'clivagem' e de 'círculo maior'.",
+      "A formulação sobre a tradição cristã foi mantida sem desenvolvimento adicional para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0071_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Esta clivagem ajuda também a compreender a idolatria do indivíduo. Em vez de se pensarem os grupos como círculos maiores — abstrações reais que excedem o indivíduo — idolatra-se o homem singular, o líder, a figura humana. Sistemas de pensamento e modos de ser inteiros assentam nessa idolatria pessoal.\\n\\nA tradição cristã ilustra esta necessidade ao estruturar-se na trindade: preserva-se a semelhança humana de Cristo sem abdicar da divindade. Trata-se de manter a ponte entre o humano e o círculo maior, para possibilitar o melhor modo de ser.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a formulação de 'se pensar em grupos' para 'se pensarem os grupos' para maior clareza sintática.\",\n    \"Removida a vírgula em 'Cristo, sem abdicar' para melhorar o fluxo sem alterar o sentido.\",\n    \"Preservada a divisão em dois parágrafos e a progressão local do argumento.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento depende de contexto anterior para o sentido preciso de 'clivagem' e de 'círculo maior'.\",\n    \"A formulação sobre a tradição cristã foi mantida sem desenvolvimento adicional para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:12:54+00:00",
+  "modelo": "gpt-5.4"
+}

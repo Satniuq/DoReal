@@ -1,0 +1,67 @@
+{
+  "fragment_id": "F0069_SEG_004",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0069_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0069\",\n  \"header_original\": \"## F0069 — Mediação, Kant, filosofia e a perda do real\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"fundamentação filosófica das ciências\",\n  \"motivos_estado\": [\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"houve_corte_interno\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"Percebe-se assim porque da filosofia resultam todas as ciências. Se as ciências são modos de conhecimento e se a filosofia é conhecimento do real, e se apenas o real pode ser conhecido, então todas as ciências derivam necessariamente da filosofia. Mais difícil de justificar é a autonomização de filosofias menores, compartimentalizações arbitrárias do real que operam como se fosse possível fazer apartheid ontológico.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0069_SEG_003\\n- tema: filosofia: descrição, ciclo, estagnação\\n- preview: A filosofia não é outra coisa senão a capacidade de descrever o real: apreender aquilo que é, descrevê-lo, e depois viver sobre essa descrição. Segue-se inevitavelmente uma decadência, até surgir uma nova e melhor descrição do real. Enquanto poucos alargam o campo das potencialidades, ligando novas luzes na sala, a maioria dos filósofos permanece em quartos restritos, estudando lâmpadas já iluminadas.\\n\\nFragmento seguinte:\\n- id: F0069_SEG_005\\n- tema: interconexão epistemologia-ontologia\\n- preview: O desconhecimento da epistemologia conduz inevitavelmente a más descrições ontológicas. Mas também não faz sentido separar epistemologia e ontologia, nem dar primazia a uma sobre a outra. Não se pode perguntar como se conhece o real sem reconhecer previamente que se é real. Caso contrário, abrem-se caminhos para proposições anti-eu e anti-real. Como se sabe que o real existe sem cair numa circularidade? Sabe-se porq…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0069_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0069",
+    "header_original": "## F0069 — Mediação, Kant, filosofia e a perda do real",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "fundamentação filosófica das ciências",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "houve_corte_interno"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "Percebe-se assim porque da filosofia resultam todas as ciências. Se as ciências são modos de conhecimento e se a filosofia é conhecimento do real, e se apenas o real pode ser conhecido, então todas as ciências derivam necessariamente da filosofia. Mais difícil de justificar é a autonomização de filosofias menores, compartimentalizações arbitrárias do real que operam como se fosse possível fazer apartheid ontológico.",
+    "contexto_local": "Fragmento anterior:\n- id: F0069_SEG_003\n- tema: filosofia: descrição, ciclo, estagnação\n- preview: A filosofia não é outra coisa senão a capacidade de descrever o real: apreender aquilo que é, descrevê-lo, e depois viver sobre essa descrição. Segue-se inevitavelmente uma decadência, até surgir uma nova e melhor descrição do real. Enquanto poucos alargam o campo das potencialidades, ligando novas luzes na sala, a maioria dos filósofos permanece em quartos restritos, estudando lâmpadas já iluminadas.\n\nFragmento seguinte:\n- id: F0069_SEG_005\n- tema: interconexão epistemologia-ontologia\n- preview: O desconhecimento da epistemologia conduz inevitavelmente a más descrições ontológicas. Mas também não faz sentido separar epistemologia e ontologia, nem dar primazia a uma sobre a outra. Não se pode perguntar como se conhece o real sem reconhecer previamente que se é real. Caso contrário, abrem-se caminhos para proposições anti-eu e anti-real. Como se sabe que o real existe sem cair numa circularidade? Sabe-se porq…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0074_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0074_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "adaptação humana: círculos e nichos"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0074_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Como é que o discurso lógico, que se quer como discurso filosófico, ou que quer que o discurso filosófico seja lógico, é levado a um tal ponto de formalidade e de vivência em círculos relativamente reduzidos? E como é que isso se associa às nossas funções biológicas, especialmente à obtenção de crenças, e ao facto de ser muito mais difícil destruir crenças por outras novas? Portanto, manter-se no mesmo passo, porque isso é feito para o ser humano se adaptar àquele círculo. É feito. O ser humano adapta-se àquele círculo.\n\nNão é natural no sentido trivial. O ser humano é o melhor a adaptar-se em todos os nichos. É isso que faz dele o melhor animal possível. Não tem um nicho: é um homem de todos os nichos. Mas isso não significa que se adapte a cada nicho em dois segundos, não. Adapta-se ao nicho da sua melhor insuficiência, digamos assim, ou da sua insuficiência harmoniosa.\n\nO que, quando não havia casas para viver, não obrigava o ser humano a ter um tipo de disposição que, aliás, fosse para julgar no lavabo. Procurar um sítio para construir uma casa, e depois tenho de construir a minha casa, e depois não posso sair daqui porque não vêm os animais. Certamente isto seria um tipo diferente, mas... que ridículo.",
+    "resumo_alteracoes": [
+      "Reorganizada a primeira frase para reduzir a oralidade e tornar a pergunta legível, sem alterar a tese local.",
+      "Mantidas as repetições com função enfática; removidas apenas redundâncias que dificultavam a leitura.",
+      "Corrigidas ligações sintáticas mínimas entre crenças, adaptação e círculo, preservando o léxico central.",
+      "Preservada a passagem final apesar da estranheza interna, com intervenção mínima por haver corte e fusão de material."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém sinais de corte interno e de fusão de parágrafos, sobretudo na transição para o último parágrafo.",
+      "A expressão 'julgar no lavabo' pode depender de contexto oral ou de formulação truncada; foi preservada por cautela.",
+      "A última sequência permanece parcialmente opaca e pode exigir revisão humana em confronto com o áudio ou fonte original."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0074_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Como é que o discurso lógico, que se quer como discurso filosófico, ou que quer que o discurso filosófico seja lógico, é levado a um tal ponto de formalidade e de vivência em círculos relativamente reduzidos? E como é que isso se associa às nossas funções biológicas, especialmente à obtenção de crenças, e ao facto de ser muito mais difícil destruir crenças por outras novas? Portanto, manter-se no mesmo passo, porque isso é feito para o ser humano se adaptar àquele círculo. É feito. O ser humano adapta-se àquele círculo.\\n\\nNão é natural no sentido trivial. O ser humano é o melhor a adaptar-se em todos os nichos. É isso que faz dele o melhor animal possível. Não tem um nicho: é um homem de todos os nichos. Mas isso não significa que se adapte a cada nicho em dois segundos, não. Adapta-se ao nicho da sua melhor insuficiência, digamos assim, ou da sua insuficiência harmoniosa.\\n\\nO que, quando não havia casas para viver, não obrigava o ser humano a ter um tipo de disposição que, aliás, fosse para julgar no lavabo. Procurar um sítio para construir uma casa, e depois tenho de construir a minha casa, e depois não posso sair daqui porque não vêm os animais. Certamente isto seria um tipo diferente, mas... que ridículo.\",\n  \"resumo_alteracoes\": [\n    \"Reorganizada a primeira frase para reduzir a oralidade e tornar a pergunta legível, sem alterar a tese local.\",\n    \"Mantidas as repetições com função enfática; removidas apenas redundâncias que dificultavam a leitura.\",\n    \"Corrigidas ligações sintáticas mínimas entre crenças, adaptação e círculo, preservando o léxico central.\",\n    \"Preservada a passagem final apesar da estranheza interna, com intervenção mínima por haver corte e fusão de material.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém sinais de corte interno e de fusão de parágrafos, sobretudo na transição para o último parágrafo.\",\n    \"A expressão 'julgar no lavabo' pode depender de contexto oral ou de formulação truncada; foi preservada por cautela.\",\n    \"A última sequência permanece parcialmente opaca e pode exigir revisão humana em confronto com o áudio ou fonte original.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:13:32+00:00",
+  "modelo": "gpt-5.4"
+}

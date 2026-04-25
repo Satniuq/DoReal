@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0113_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0113_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "revisao_manual_prioritaria",
+      "integridade_semantica_baixa",
+      "confianca_segmentacao_baixa",
+      "houve_fusao_de_paragrafos"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "representação impõe dever-ser"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0113_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Não há dever-ser onde não há representação. A representação impõe o dever-ser, porque o que se apreende não é o que é, mas o que as estruturas cognitivas impõem.\n\nEssas estruturas impõem o contínuo do ser. O ser continua. E, nessa continuidade, há avaliação, porque toda a focalidade do pensamento e da ação carrega estruturas biológicas, representações anteriores, ações passadas, tudo inscr...",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade.",
+      "Preservada a formulação central e a ordem local do argumento.",
+      "Mantido o fecho truncado com marca de interrupção, sem completar conteúdo em falta."
+    ],
+    "notas_cautela": [
+      "O fragmento termina de forma cortada e permanece semanticamente incompleto.",
+      "Há baixa confiança de segmentação e possível fusão de parágrafos na origem.",
+      "Não foi reconstruído o trecho final para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0113_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Não há dever-ser onde não há representação. A representação impõe o dever-ser, porque o que se apreende não é o que é, mas o que as estruturas cognitivas impõem.\\n\\nEssas estruturas impõem o contínuo do ser. O ser continua. E, nessa continuidade, há avaliação, porque toda a focalidade do pensamento e da ação carrega estruturas biológicas, representações anteriores, ações passadas, tudo inscr...\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade.\",\n    \"Preservada a formulação central e a ordem local do argumento.\",\n    \"Mantido o fecho truncado com marca de interrupção, sem completar conteúdo em falta.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento termina de forma cortada e permanece semanticamente incompleto.\",\n    \"Há baixa confiança de segmentação e possível fusão de parágrafos na origem.\",\n    \"Não foi reconstruído o trecho final para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:29:30+00:00",
+  "modelo": "gpt-5.4"
+}

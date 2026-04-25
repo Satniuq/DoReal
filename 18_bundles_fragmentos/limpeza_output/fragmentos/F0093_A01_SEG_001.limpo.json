@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0093_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0093_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "objecao_local",
+    "tema_dominante_provisorio": "crítica coerção ética social"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0093_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Estava a ouvir o Sam Harris, e a pergunta era se acabar com a guerra seria bom para todos e, logo, a coisa boa a fazer, porque somos seres conscientes e o que é bom para a sociedade é bom para o indivíduo. Quando questionado sobre se o indivíduo que quer continuar a produzir e vender armas estaria errado nas suas preferências, a resposta foi que sim, porque, visto de cima, a sociedade não está tão boa como podia estar. E, quando se pergunta o que fazer se esse indivíduo não quiser aderir à prescrição, responde-se que esse é um dos que se fecha da sociedade, indo mais longe ao dizer que, se houvesse uma máquina que mudasse o interruptor do homem para ele preferir estados alegres e bonitos, isso seria o que se deveria fazer.\n\nTantos erros em cada frase: suposições, egocentrismo, visão curta do campo das possibilidades, subjugação do real a um critério de verdade dependente da sociedade, afastando o homem do real e ficando apenas com o fluxo, com a encarnação de viver no processo.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade e separar melhor as etapas do argumento.",
+      "Feitas pequenas regularizações sintáticas e pronominais sem alterar a tese local.",
+      "Preservado o léxico central do fragmento, incluindo a enumeração final de críticas.",
+      "Mantida a progressão original: exposição do exemplo, resposta atribuída, consequência prática e juízo crítico final."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém um tom de objeção local e depende de contexto mais amplo para alguns alvos implícitos da crítica.",
+      "A expressão \"fecha da sociedade\" foi preservada quase integralmente por cautela, embora possa refletir formulação truncada ou oral.",
+      "Há compressão argumentativa na passagem final; não foram preenchidas lacunas para evitar introduzir conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0093_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Estava a ouvir o Sam Harris, e a pergunta era se acabar com a guerra seria bom para todos e, logo, a coisa boa a fazer, porque somos seres conscientes e o que é bom para a sociedade é bom para o indivíduo. Quando questionado sobre se o indivíduo que quer continuar a produzir e vender armas estaria errado nas suas preferências, a resposta foi que sim, porque, visto de cima, a sociedade não está tão boa como podia estar. E, quando se pergunta o que fazer se esse indivíduo não quiser aderir à prescrição, responde-se que esse é um dos que se fecha da sociedade, indo mais longe ao dizer que, se houvesse uma máquina que mudasse o interruptor do homem para ele preferir estados alegres e bonitos, isso seria o que se deveria fazer.\\n\\nTantos erros em cada frase: suposições, egocentrismo, visão curta do campo das possibilidades, subjugação do real a um critério de verdade dependente da sociedade, afastando o homem do real e ficando apenas com o fluxo, com a encarnação de viver no processo.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade e separar melhor as etapas do argumento.\",\n    \"Feitas pequenas regularizações sintáticas e pronominais sem alterar a tese local.\",\n    \"Preservado o léxico central do fragmento, incluindo a enumeração final de críticas.\",\n    \"Mantida a progressão original: exposição do exemplo, resposta atribuída, consequência prática e juízo crítico final.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém um tom de objeção local e depende de contexto mais amplo para alguns alvos implícitos da crítica.\",\n    \"A expressão \\\"fecha da sociedade\\\" foi preservada quase integralmente por cautela, embora possa refletir formulação truncada ou oral.\",\n    \"Há compressão argumentativa na passagem final; não foram preenchidas lacunas para evitar introduzir conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:20:35+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A16_SEG_005",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A16_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "aplicabilidade princípios jurisprudência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A16_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Agora vamos mudar isso. Lembro-me de um assistente administrativo que estava a fazer uma tese qualquer de doutoramento e estava muito chateado porque falava sobre a aplicabilidade direta dos princípios jurídicos, porque agora estavam consagrados no CPA e era toda uma coisa muito gira. Havia toda uma secção, um conjunto de artigos sobre os princípios, e ele estava muito chateado porque nunca tinha encontrado jurisprudência.",
+    "resumo_alteracoes": [
+      "Removidas interjeições e repetições orais iniciais.",
+      "Regularizada a expressão truncada para uma formulação mínima mais legível sem alterar a ideia central.",
+      "Ajustadas pequenas ligações sintáticas e preposições para melhorar coesão.",
+      "Preservado o léxico central: aplicabilidade direta dos princípios jurídicos, consagração no CPA e ausência de jurisprudência."
+    ],
+    "notas_cautela": [
+      "O segmento pode conter formulação oral originalmente truncada na identificação da pessoa referida.",
+      "Há continuidade local ativa e possível corte interno; o fragmento foi limpo sem tentar completar contexto ausente.",
+      "A expressão avaliativa coloquial foi preservada de forma próxima do original."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A16_SEG_005\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Agora vamos mudar isso. Lembro-me de um assistente administrativo que estava a fazer uma tese qualquer de doutoramento e estava muito chateado porque falava sobre a aplicabilidade direta dos princípios jurídicos, porque agora estavam consagrados no CPA e era toda uma coisa muito gira. Havia toda uma secção, um conjunto de artigos sobre os princípios, e ele estava muito chateado porque nunca tinha encontrado jurisprudência.\",\n  \"resumo_alteracoes\": [\n    \"Removidas interjeições e repetições orais iniciais.\",\n    \"Regularizada a expressão truncada para uma formulação mínima mais legível sem alterar a ideia central.\",\n    \"Ajustadas pequenas ligações sintáticas e preposições para melhorar coesão.\",\n    \"Preservado o léxico central: aplicabilidade direta dos princípios jurídicos, consagração no CPA e ausência de jurisprudência.\"\n  ],\n  \"notas_cautela\": [\n    \"O segmento pode conter formulação oral originalmente truncada na identificação da pessoa referida.\",\n    \"Há continuidade local ativa e possível corte interno; o fragmento foi limpo sem tentar completar contexto ausente.\",\n    \"A expressão avaliativa coloquial foi preservada de forma próxima do original.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:52:21+00:00",
+  "modelo": "gpt-5.4"
+}

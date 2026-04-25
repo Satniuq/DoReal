@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0060_A01_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0060_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "mal como falha ontológica do"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0060_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "4. Se algo é verdadeiro, como não será então bom? A distinção apresentada não faz sentido ontológico.\n\n5. O mal é simplesmente o ser que podia ser melhor descrito e melhor aplicado no dever-ser e não o faz. O erro é pensar que do céu cai ouro. O mal é esquecer que cada homem é o ser que olha para si mesmo.",
+    "resumo_alteracoes": [
+      "Mantida a estrutura em dois pontos numerados, preservando a ordem local.",
+      "Removida apenas uma aspereza gramatical em 'é o ser a olhar para si mesmo', ajustada para 'é o ser que olha para si mesmo'.",
+      "Preservado o léxico central: verdadeiro, bom, ontológico, mal, ser, dever-ser."
+    ],
+    "notas_cautela": [
+      "O fragmento pode permanecer parcialmente truncado na formulação 'podia ser melhor descrito e melhor aplicado no dever-ser'.",
+      "A relação entre a objeção do ponto 4 e a formulação do mal no ponto 5 foi preservada sem explicitação adicional.",
+      "A expressão 'do céu cai ouro' foi mantida por possível valor autoral, embora permaneça elíptica."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0060_A01_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"4. Se algo é verdadeiro, como não será então bom? A distinção apresentada não faz sentido ontológico.\\n\\n5. O mal é simplesmente o ser que podia ser melhor descrito e melhor aplicado no dever-ser e não o faz. O erro é pensar que do céu cai ouro. O mal é esquecer que cada homem é o ser que olha para si mesmo.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a estrutura em dois pontos numerados, preservando a ordem local.\",\n    \"Removida apenas uma aspereza gramatical em 'é o ser a olhar para si mesmo', ajustada para 'é o ser que olha para si mesmo'.\",\n    \"Preservado o léxico central: verdadeiro, bom, ontológico, mal, ser, dever-ser.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode permanecer parcialmente truncado na formulação 'podia ser melhor descrito e melhor aplicado no dever-ser'.\",\n    \"A relação entre a objeção do ponto 4 e a formulação do mal no ponto 5 foi preservada sem explicitação adicional.\",\n    \"A expressão 'do céu cai ouro' foi mantida por possível valor autoral, embora permaneça elíptica.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:08:31+00:00",
+  "modelo": "gpt-5.4"
+}

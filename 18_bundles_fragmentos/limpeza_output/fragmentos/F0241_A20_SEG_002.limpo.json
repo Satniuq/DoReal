@@ -1,0 +1,41 @@
+{
+  "fragment_id": "F0241_A20_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A20_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "propriedade e crítica ao relativismo"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A20_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E estava a pensar na questão jurídica, em como algo que os romanos já tinham descoberto, como sendo o domínio que o ser reflexivo tem pelo facto de existir localmente e se reconhecer a propriedade como o direito natural do homem sobre a coisa que domina, não necessitando, por ser contradescritivo, da subjetividade de quem domina, sabendo que só pelo simples facto de ser um ser reflexivo se domina, se tem, se acha propriedade. E, por exemplo, como hoje se vê nos tribunais, em que, operando sobre a propriedade uma função relativista, subjetivista, veem nela uma função social, pela necessidade de enquadrar qualquer evento na perspetiva do sujeito, como se a perspetiva do sujeito alterasse algo.\n\nAltera-se algo. Vê-se na propriedade, por exemplo, no dano pela ocupação ilícita, a exigência de, para haver reparação do dano, ter de se demonstrar a utilidade pretendida retirar do bem, ou de se verem as necessidades do ocupante, mandando tudo para a lama, para o meio da lama jergónica, onde se tiram os conceitos pertencentemente elevados somente para gerar o contrário da clarificação conceptual. O discurso de hoje é um discurso relativista, subjetivista; as normas vão sendo impregnadas com esse veneno.",
+    "resumo_alteracoes": [
+      "Removidas repetições imediatas redundantes, como em \"a propriedade, a propriedade\" e \"o direito, o direito natural\".",
+      "Ajustada a pontuação para separar melhor os encadeamentos e melhorar a legibilidade sem alterar a sequência local.",
+      "Regularizada a formulação de alguns trechos orais e truncados, com intervenção mínima.",
+      "Mantido o léxico central do fragmento, incluindo \"contradescritivo\", \"função social\", \"relativista\" e \"subjetivista\".",
+      "Preservada a passagem abrupta entre a formulação geral sobre propriedade e o exemplo jurídico contemporâneo."
+    ],
+    "notas_cautela": [
+      "O fragmento conserva zonas sintaticamente densas e parcialmente instáveis, sobretudo na primeira frase.",
+      "A expressão \"Altera-se algo\" foi mantida como reconstrução mínima de um trecho corrompido, mas o original aparenta corte ou erro de transcrição.",
+      "A formulação \"conceitos pertencentemente elevados\" foi preservada com mínima intervenção, embora permaneça pouco estável.",
+      "O texto continua a apresentar sinais de oralidade fundida e possível corte interno."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A20_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E estava a pensar na questão jurídica, em como algo que os romanos já tinham descoberto, como sendo o domínio que o ser reflexivo tem pelo facto de existir localmente e se reconhecer a propriedade como o direito natural do homem sobre a coisa que domina, não necessitando, por ser contradescritivo, da subjetividade de quem domina, sabendo que só pelo simples facto de ser um ser reflexivo se domina, se tem, se acha propriedade. E, por exemplo, como hoje se vê nos tribunais, em que, operando sobre a propriedade uma função relativista, subjetivista, veem nela uma função social, pela necessidade de enquadrar qualquer evento na perspetiva do sujeito, como se a perspetiva do sujeito alterasse algo.\\n\\nAltera-se algo. Vê-se na propriedade, por exemplo, no dano pela ocupação ilícita, a exigência de, para haver reparação do dano, ter de se demonstrar a utilidade pretendida retirar do bem, ou de se verem as necessidades do ocupante, mandando tudo para a lama, para o meio da lama jergónica, onde se tiram os conceitos pertencentemente elevados somente para gerar o contrário da clarificação conceptual. O discurso de hoje é um discurso relativista, subjetivista; as normas vão sendo impregnadas com esse veneno.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições imediatas redundantes, como em \\\"a propriedade, a propriedade\\\" e \\\"o direito, o direito natural\\\".\",\n    \"Ajustada a pontuação para separar melhor os encadeamentos e melhorar a legibilidade sem alterar a sequência local.\",\n    \"Regularizada a formulação de alguns trechos orais e truncados, com intervenção mínima.\",\n    \"Mantido o léxico central do fragmento, incluindo \\\"contradescritivo\\\", \\\"função social\\\", \\\"relativista\\\" e \\\"subjetivista\\\".\",\n    \"Preservada a passagem abrupta entre a formulação geral sobre propriedade e o exemplo jurídico contemporâneo.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento conserva zonas sintaticamente densas e parcialmente instáveis, sobretudo na primeira frase.\",\n    \"A expressão \\\"Altera-se algo\\\" foi mantida como reconstrução mínima de um trecho corrompido, mas o original aparenta corte ou erro de transcrição.\",\n    \"A formulação \\\"conceitos pertencentemente elevados\\\" foi preservada com mínima intervenção, embora permaneça pouco estável.\",\n    \"O texto continua a apresentar sinais de oralidade fundida e possível corte interno.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:54:02+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0021_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0021_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "voz_autor_extraida",
+      "houve_corte_interno",
+      "continuidade_local_ativa",
+      "material_dialogico_com_ia"
+    ],
+    "tipo_unidade": "resposta_local",
+    "tema_dominante_provisorio": "real, verdade, consciência, cérebro"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0021_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Ainda que assim seja, há o real, e esse é o ponto.\n\nSe os modelos buscam o que funciona, então buscam a verdade.\n\nNão tem de ser necessário. Os cães não devem ter consciência, e não é por isso que o corpo não se sabe autopreservar.\n\nNunca percebi isso de que “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas, quando eu penso de facto, penso sobre o que o meu cérebro determina. E, se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+    "resumo_alteracoes": [
+      "Removida a marca editorial de voz ('[Resposta do autor]') por redundância no corpo do fragmento.",
+      "Eliminada a numeração e convertidos os pontos em parágrafos corridos para melhorar a legibilidade.",
+      "Corrigida a pontuação e ajustadas pequenas estruturas orais sem alterar a tese local.",
+      "Preservado o léxico central do fragmento: real, verdade, consciência, corpo, cérebro, determinação."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações potencialmente ambíguas ('os cães não devem ter consciência', 'ordem de pensamento é superior') que foram preservadas para não alterar a posição do autor.",
+      "Há continuidade argumentativa com o fragmento anterior; esta limpeza não tentou completar lacunas nem fundir contexto externo.",
+      "Sendo material dialogal extraído, convém revisão humana se for necessário fixar com mais precisão o referente de 'isso' e de 'determinação'."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0021_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Ainda que assim seja, há o real, e esse é o ponto.\\n\\nSe os modelos buscam o que funciona, então buscam a verdade.\\n\\nNão tem de ser necessário. Os cães não devem ter consciência, e não é por isso que o corpo não se sabe autopreservar.\\n\\nNunca percebi isso de que “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas, quando eu penso de facto, penso sobre o que o meu cérebro determina. E, se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.\",\n  \"resumo_alteracoes\": [\n    \"Removida a marca editorial de voz ('[Resposta do autor]') por redundância no corpo do fragmento.\",\n    \"Eliminada a numeração e convertidos os pontos em parágrafos corridos para melhorar a legibilidade.\",\n    \"Corrigida a pontuação e ajustadas pequenas estruturas orais sem alterar a tese local.\",\n    \"Preservado o léxico central do fragmento: real, verdade, consciência, corpo, cérebro, determinação.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações potencialmente ambíguas ('os cães não devem ter consciência', 'ordem de pensamento é superior') que foram preservadas para não alterar a posição do autor.\",\n    \"Há continuidade argumentativa com o fragmento anterior; esta limpeza não tentou completar lacunas nem fundir contexto externo.\",\n    \"Sendo material dialogal extraído, convém revisão humana se for necessário fixar com mais precisão o referente de 'isso' e de 'determinação'.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:03:13+00:00",
+  "modelo": "gpt-5.4"
+}

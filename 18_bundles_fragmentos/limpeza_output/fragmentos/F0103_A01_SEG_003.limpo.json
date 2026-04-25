@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0103_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0103_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "conhecimento indireto da realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0103_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "É por isso que andamos todos na escola a aprender coisas: porque vivemos deste modo, em que temos de aprender temas para depois os conseguir aplicar. Porque nada faz sentido diretamente. Nada toca o real.\n\nSe o real pudesse ser conhecido pela própria apreensão do real, não seriam precisos vinte anos de escola.\n\nA matemática e a ciência são substitutos da descrição do real. Operam pela lógica do próprio sistema, não pela apreensão do real.",
+    "resumo_alteracoes": [
+      "Suavizada a oralidade redundante sem alterar a tese local.",
+      "Substituído 'temazinhos' por 'temas' para maior neutralidade e legibilidade.",
+      "Ajustada a pontuação para melhorar a coesão entre as frases.",
+      "Mantida a distinção entre aprendizagem escolar, mediação sistémica e apreensão do real."
+    ],
+    "notas_cautela": [
+      "O fragmento depende do contexto anterior para a ligação completa do 'É por isso'.",
+      "A formulação permanece deliberadamente forte e parcial; não foram preenchidas lacunas argumentativas.",
+      "Há continuidade local ativa com o fragmento anterior sobre sistemas e discurso."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0103_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"É por isso que andamos todos na escola a aprender coisas: porque vivemos deste modo, em que temos de aprender temas para depois os conseguir aplicar. Porque nada faz sentido diretamente. Nada toca o real.\\n\\nSe o real pudesse ser conhecido pela própria apreensão do real, não seriam precisos vinte anos de escola.\\n\\nA matemática e a ciência são substitutos da descrição do real. Operam pela lógica do próprio sistema, não pela apreensão do real.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a oralidade redundante sem alterar a tese local.\",\n    \"Substituído 'temazinhos' por 'temas' para maior neutralidade e legibilidade.\",\n    \"Ajustada a pontuação para melhorar a coesão entre as frases.\",\n    \"Mantida a distinção entre aprendizagem escolar, mediação sistémica e apreensão do real.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento depende do contexto anterior para a ligação completa do 'É por isso'.\",\n    \"A formulação permanece deliberadamente forte e parcial; não foram preenchidas lacunas argumentativas.\",\n    \"Há continuidade local ativa com o fragmento anterior sobre sistemas e discurso.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:25:16+00:00",
+  "modelo": "gpt-5.4"
+}

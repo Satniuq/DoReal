@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0074_A02_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0074_A02_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "adequação, erro e realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0074_A02_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E a questão era esta: proposições sábias. Sábias no sentido muito ático, como eu uso isto. Mas tentemos dizer assim: sábias no sentido de melhor adequadas à realidade, ou seja, proposições que melhor descrevem a realidade.\n\nE o erro mostra-se como desadequação daquilo que se está a propor. Não só da proposição, mas das correlações existentes, dos meios e dos fins. Envolve tudo. No fundo, envolve o ser.",
+    "resumo_alteracoes": [
+      "Removida oralidade redundante em \"Mas pronto, tentemos dizer assim\" para \"Mas tentemos dizer assim\".",
+      "Unidas frases muito próximas para melhorar continuidade sem alterar a tese local.",
+      "Ajustada a pontuação na enumeração final para dar mais coesão ao período.",
+      "Preservado o léxico central: \"proposições sábias\", \"adequadas à realidade\", \"erro\", \"desadequação\", \"correlações\", \"meios e fins\", \"ser\"."
+    ],
+    "notas_cautela": [
+      "O uso de \"sábias no sentido muito ático\" foi preservado por ser léxico autoral, embora permaneça dependente de contexto.",
+      "O fragmento parece localmente íntegro, mas está inserido em continuidade ativa com o anterior.",
+      "A expressão final \"envolve o ser\" foi mantida sem explicitação adicional para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0074_A02_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E a questão era esta: proposições sábias. Sábias no sentido muito ático, como eu uso isto. Mas tentemos dizer assim: sábias no sentido de melhor adequadas à realidade, ou seja, proposições que melhor descrevem a realidade.\\n\\nE o erro mostra-se como desadequação daquilo que se está a propor. Não só da proposição, mas das correlações existentes, dos meios e dos fins. Envolve tudo. No fundo, envolve o ser.\",\n  \"resumo_alteracoes\": [\n    \"Removida oralidade redundante em \\\"Mas pronto, tentemos dizer assim\\\" para \\\"Mas tentemos dizer assim\\\".\",\n    \"Unidas frases muito próximas para melhorar continuidade sem alterar a tese local.\",\n    \"Ajustada a pontuação na enumeração final para dar mais coesão ao período.\",\n    \"Preservado o léxico central: \\\"proposições sábias\\\", \\\"adequadas à realidade\\\", \\\"erro\\\", \\\"desadequação\\\", \\\"correlações\\\", \\\"meios e fins\\\", \\\"ser\\\".\"\n  ],\n  \"notas_cautela\": [\n    \"O uso de \\\"sábias no sentido muito ático\\\" foi preservado por ser léxico autoral, embora permaneça dependente de contexto.\",\n    \"O fragmento parece localmente íntegro, mas está inserido em continuidade ativa com o anterior.\",\n    \"A expressão final \\\"envolve o ser\\\" foi mantida sem explicitação adicional para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:14:00+00:00",
+  "modelo": "gpt-5.4"
+}

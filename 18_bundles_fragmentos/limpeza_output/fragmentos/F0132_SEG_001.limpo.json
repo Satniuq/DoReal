@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0132_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0132_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "desenvolvimento_curto",
+    "tema_dominante_provisorio": "pensamento, símbolos, repetição neuronal"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0132_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Da mesma maneira, como o pensamento é tido de um modo tão fraco, de um ponto tão fraco, tão circunscrito aos símbolos mais obscuros, como é óbvio, aos símbolos menos adequados, e não aos símbolos mais claros, mais finos, com mais fineza, isso envolve que tenha havido algum tipo de repetição neuronal relativamente a esse tipo de pensamento.",
+    "resumo_alteracoes": [
+      "Removidas hesitações e marcas de oralidade redundantes.",
+      "Corrigida a sintaxe para legibilidade sem alterar a tese local.",
+      "Consolidada a oposição entre símbolos mais obscuros/menos adequados e símbolos mais claros/mais finos.",
+      "Mantido o fecho sobre a repetição neuronal como consequência."
+    ],
+    "notas_cautela": [
+      "O segmento original apresenta formulação instável na passagem sobre o contraste entre símbolo confuso, complexo e símbolos mais claros; a limpeza preserva a direção geral sem reconstrução forte dessa zona.",
+      "A expressão 'repetição neuronal' foi preservada tal como está, sem clarificação adicional."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0132_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Da mesma maneira, como o pensamento é tido de um modo tão fraco, de um ponto tão fraco, tão circunscrito aos símbolos mais obscuros, como é óbvio, aos símbolos menos adequados, e não aos símbolos mais claros, mais finos, com mais fineza, isso envolve que tenha havido algum tipo de repetição neuronal relativamente a esse tipo de pensamento.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações e marcas de oralidade redundantes.\",\n    \"Corrigida a sintaxe para legibilidade sem alterar a tese local.\",\n    \"Consolidada a oposição entre símbolos mais obscuros/menos adequados e símbolos mais claros/mais finos.\",\n    \"Mantido o fecho sobre a repetição neuronal como consequência.\"\n  ],\n  \"notas_cautela\": [\n    \"O segmento original apresenta formulação instável na passagem sobre o contraste entre símbolo confuso, complexo e símbolos mais claros; a limpeza preserva a direção geral sem reconstrução forte dessa zona.\",\n    \"A expressão 'repetição neuronal' foi preservada tal como está, sem clarificação adicional.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:34:30+00:00",
+  "modelo": "gpt-5.4"
+}

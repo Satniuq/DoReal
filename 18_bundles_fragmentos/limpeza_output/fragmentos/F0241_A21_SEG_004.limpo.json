@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A21_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A21_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "ser reflexivo, ética, realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A21_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A relação com o ser reflexivo tem no real um espectador que intervém, anda, fala, salta, viaja, faz o que quiser, qualquer coisa. É nela, na relação que está, que teve, que vai ter, que está a ter, que reside a ética, o valor; é nela que o ser reflexivo está inserido.\n\nPorque, no modo de ser do ser reflexivo, que é um modo de ser que, antes de mais, apreende e pensa a si próprio e o que está a acontecer, apreende as suas regularidades, sempre com um ponto de vista, sempre com um ponto de vista contínuo, sempre com uma integração básica, simples, do uso de símbolos grandes e largos, e das próprias relações que esses símbolos, nas representações que fazem quando são manifestadas na própria apreensão real, concebem, não é? Concebe esse modo de ser e o real que é apreendido. E essa mistura de símbolos diferentes, na sua estrutura una, naquilo que é, pode ser e deve ser, une o eu num próprio ponto de vista.",
+    "resumo_alteracoes": [
+      "Removidas repetições orais redundantes como \"fala\" duplicado e \"qualquer coisa\" repetido.",
+      "Corrigidos pequenos problemas de ligação sintática e pontuação para melhorar legibilidade.",
+      "Ajustada a formulação \"ena\" para \"no\" por provável ruído de transcrição.",
+      "Mantido o léxico central do fragmento: ser reflexivo, real, ética, valor, apreensão, símbolos, ponto de vista.",
+      "Preservada a progressão local: relação no real, inserção ética, descrição do modo de ser reflexivo, unificação do eu no ponto de vista."
+    ],
+    "notas_cautela": [
+      "O fragmento permanece parcialmente truncado e com zonas sintaticamente instáveis, sobretudo na passagem sobre símbolos e representações.",
+      "A expressão \"símbolos grandes e largos\" foi preservada apesar de soar oral ou imprecisa, para não introduzir reformulação interpretativa.",
+      "Há possível corte interno no segundo parágrafo; a limpeza reconstruiu apenas o mínimo necessário."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A21_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A relação com o ser reflexivo tem no real um espectador que intervém, anda, fala, salta, viaja, faz o que quiser, qualquer coisa. É nela, na relação que está, que teve, que vai ter, que está a ter, que reside a ética, o valor; é nela que o ser reflexivo está inserido.\\n\\nPorque, no modo de ser do ser reflexivo, que é um modo de ser que, antes de mais, apreende e pensa a si próprio e o que está a acontecer, apreende as suas regularidades, sempre com um ponto de vista, sempre com um ponto de vista contínuo, sempre com uma integração básica, simples, do uso de símbolos grandes e largos, e das próprias relações que esses símbolos, nas representações que fazem quando são manifestadas na própria apreensão real, concebem, não é? Concebe esse modo de ser e o real que é apreendido. E essa mistura de símbolos diferentes, na sua estrutura una, naquilo que é, pode ser e deve ser, une o eu num próprio ponto de vista.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições orais redundantes como \\\"fala\\\" duplicado e \\\"qualquer coisa\\\" repetido.\",\n    \"Corrigidos pequenos problemas de ligação sintática e pontuação para melhorar legibilidade.\",\n    \"Ajustada a formulação \\\"ena\\\" para \\\"no\\\" por provável ruído de transcrição.\",\n    \"Mantido o léxico central do fragmento: ser reflexivo, real, ética, valor, apreensão, símbolos, ponto de vista.\",\n    \"Preservada a progressão local: relação no real, inserção ética, descrição do modo de ser reflexivo, unificação do eu no ponto de vista.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento permanece parcialmente truncado e com zonas sintaticamente instáveis, sobretudo na passagem sobre símbolos e representações.\",\n    \"A expressão \\\"símbolos grandes e largos\\\" foi preservada apesar de soar oral ou imprecisa, para não introduzir reformulação interpretativa.\",\n    \"Há possível corte interno no segundo parágrafo; a limpeza reconstruiu apenas o mínimo necessário.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:54:45+00:00",
+  "modelo": "gpt-5.4"
+}

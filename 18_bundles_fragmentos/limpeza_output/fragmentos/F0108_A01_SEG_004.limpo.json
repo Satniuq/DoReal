@@ -1,0 +1,35 @@
+{
+  "fragment_id": "F0108_A01_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0108_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "afirmacao_curta",
+    "tema_dominante_provisorio": "língua: ampliação representação local"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0108_A01_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Com a atualização da representação, a língua torna-se o único caminho para integrar a inteligibilidade da representação local e ampliá-la para fora dessa localidade.",
+    "resumo_alteracoes": [
+      "Simplificada a construção verbal, removendo 'que permite' sem alterar a tese local.",
+      "Preservado o léxico central: 'atualização da representação', 'língua', 'inteligibilidade', 'representação local' e 'localidade'."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior para precisar o sentido de 'atualização da representação' e de 'representação local'.",
+      "Mantida a formulação forte 'o único caminho' por pertencer à tese local, sem atenuação."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0108_A01_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Com a atualização da representação, a língua torna-se o único caminho para integrar a inteligibilidade da representação local e ampliá-la para fora dessa localidade.\",\n  \"resumo_alteracoes\": [\n    \"Simplificada a construção verbal, removendo 'que permite' sem alterar a tese local.\",\n    \"Preservado o léxico central: 'atualização da representação', 'língua', 'inteligibilidade', 'representação local' e 'localidade'.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior para precisar o sentido de 'atualização da representação' e de 'representação local'.\",\n    \"Mantida a formulação forte 'o único caminho' por pertencer à tese local, sem atenuação.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:27:34+00:00",
+  "modelo": "gpt-5.4"
+}

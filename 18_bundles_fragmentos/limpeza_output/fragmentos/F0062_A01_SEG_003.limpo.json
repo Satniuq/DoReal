@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0062_A01_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0062_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crítica à negação da realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0062_A01_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Contudo, viver sobre a representação do real, em larga escala, leva o sistema a viver sobre si próprio e a afirmar que a liberdade permite negar a realidade. Essa posição falha, pois ninguém existe sozinho: para um existir, tudo o resto tem de existir. Caso contrário, cai-se no absurdo de múltiplos sujeitos reivindicarem ser o critério último da realidade.\n\nEssa falha conduz a devaneios em que se afirma, por exemplo, que um homem é uma mulher apenas por se sentir como tal. O erro decorre do desconhecimento do próprio campo de potencialidades do ser consciente, que só pode ser conhecido por exploração efetiva, passo a passo.",
+    "resumo_alteracoes": [
+      "Mantida a estrutura em dois parágrafos e a progressão argumentativa local.",
+      "Feita limpeza mínima de formulação para maior fluidez, sem alterar a tese.",
+      "Ajustado 'reivindicarem ser critério último' para 'reivindicarem ser o critério último' por legibilidade gramatical.",
+      "Simplificado 'pela exploração efetiva' para 'por exploração efetiva' sem mudança de sentido."
+    ],
+    "notas_cautela": [
+      "O fragmento parece depender de contexto anterior para a referência a 'o sistema'.",
+      "Permanece um exemplo sensível e controverso do original; foi preservado por fazer parte da tese local.",
+      "Há continuidade argumentativa ativa com os fragmentos adjacentes."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0062_A01_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Contudo, viver sobre a representação do real, em larga escala, leva o sistema a viver sobre si próprio e a afirmar que a liberdade permite negar a realidade. Essa posição falha, pois ninguém existe sozinho: para um existir, tudo o resto tem de existir. Caso contrário, cai-se no absurdo de múltiplos sujeitos reivindicarem ser o critério último da realidade.\\n\\nEssa falha conduz a devaneios em que se afirma, por exemplo, que um homem é uma mulher apenas por se sentir como tal. O erro decorre do desconhecimento do próprio campo de potencialidades do ser consciente, que só pode ser conhecido por exploração efetiva, passo a passo.\",\n  \"resumo_alteracoes\": [\n    \"Mantida a estrutura em dois parágrafos e a progressão argumentativa local.\",\n    \"Feita limpeza mínima de formulação para maior fluidez, sem alterar a tese.\",\n    \"Ajustado 'reivindicarem ser critério último' para 'reivindicarem ser o critério último' por legibilidade gramatical.\",\n    \"Simplificado 'pela exploração efetiva' para 'por exploração efetiva' sem mudança de sentido.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece depender de contexto anterior para a referência a 'o sistema'.\",\n    \"Permanece um exemplo sensível e controverso do original; foi preservado por fazer parte da tese local.\",\n    \"Há continuidade argumentativa ativa com os fragmentos adjacentes.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:09:29+00:00",
+  "modelo": "gpt-5.4"
+}

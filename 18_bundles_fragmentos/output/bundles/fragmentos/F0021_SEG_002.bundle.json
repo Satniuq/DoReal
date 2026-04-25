@@ -1,0 +1,149 @@
+{
+  "identificacao": {
+    "fragment_id": "F0021_SEG_002",
+    "origem_id": "F0021",
+    "header_original": "## F0021 — 2026-01-02",
+    "ordem_no_ficheiro": 22,
+    "base_container_id": "F0021",
+    "tipo_material_fonte": "dialogo_com_ia"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0021",
+      "data": "2026-01-02",
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0021 — 2026-01-02",
+      "ordem_no_ficheiro": 22,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0021",
+          "paragrafos_origem": [
+            "F0021_P03"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "dialogo_com_ia",
+    "texto_fragmento": "[Resposta do autor]\n1. Ainda que assim seja, há o real e esse é o ponto.  \n2. Se os modelos buscam o que funciona, então buscam a verdade.  \n3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar.  \n4. Nunca percebi isso de “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas quando eu penso de facto, penso sobre o que o meu cérebro determina — e se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+    "texto_normalizado": "[Resposta do autor]\n1. Ainda que assim seja, há o real e esse é o ponto. \n2. Se os modelos buscam o que funciona, então buscam a verdade. \n3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar. \n4. Nunca percebi isso de “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas quando eu penso de facto, penso sobre o que o meu cérebro determina — e se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+    "texto_fonte_reconstituido": "[Resposta do autor]\n1. Ainda que assim seja, há o real e esse é o ponto.  \n2. Se os modelos buscam o que funciona, então buscam a verdade.  \n3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar.  \n4. Nunca percebi isso de “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas quando eu penso de facto, penso sobre o que o meu cérebro determina — e se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+    "texto_principal": "[Resposta do autor]\n1. Ainda que assim seja, há o real e esse é o ponto.  \n2. Se os modelos buscam o que funciona, então buscam a verdade.  \n3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar.  \n4. Nunca percebi isso de “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas quando eu penso de facto, penso sobre o que o meu cérebro determina — e se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+    "segmentacao": {
+      "tipo_unidade": "resposta_local",
+      "criterio_de_unidade": "continuidade_argumentativa",
+      "houve_fusao_de_paragrafos": false,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "resposta",
+    "tema_dominante_provisorio": "real, verdade, consciência, cérebro",
+    "conceitos_relevantes_provisorios": [
+      "realidade",
+      "verdade",
+      "modelos",
+      "consciência",
+      "determinação cerebral"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0021_SEG_001",
+      "fragmento_seguinte": null,
+      "continua_anterior": true,
+      "prepara_seguinte": false
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 01:11:33",
+      "hash_texto_normalizado": "615a929b30c24c0f4182a9d518eef015fb586dfeb29bc5013e6219efcc805aa1"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0021",
+    "container_origem": {
+      "base_container_id": "F0021",
+      "header": "## F0021 — 2026-01-02",
+      "data": "2026-01-02",
+      "texto_container": "[Questão do autor]\nO que a consciência faz é buscar a verdade, logo tem de haver verdade, porque é a realidade.\nMas os dados sensoriais são sempre referentes a qualquer coisa, que é a realidade.\nEra só para ir afinando as coisas: quais são os problemas que tenho então com a ciência do cérebro?\n\n[Entrada GPT]\n1. O problema da intencionalidade causal  \n2. O problema da correspondência (representação vs realidade)  \n3. O problema da consciência fenomenal  \n4. O problema da causalidade descendente  \n\n[Resposta do autor]\n1. Ainda que assim seja, há o real e esse é o ponto.  \n2. Se os modelos buscam o que funciona, então buscam a verdade.  \n3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar.  \n4. Nunca percebi isso de “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas quando eu penso de facto, penso sobre o que o meu cérebro determina — e se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+      "texto_container_preview": "[Questão do autor] O que a consciência faz é buscar a verdade, logo tem de haver verdade, porque é a realidade. Mas os dados sensoriais são sempre referentes a qualquer coisa, que é a realidade. Era só para ir afinando as coisas: quais são os problemas que tenho então com a ciência do cérebro? [Entrada GPT] 1. O problema da intencionalidade causal 2. O problema da correspondência (representação vs realidade) 3. O pr…",
+      "hash_texto_container": "364bf87faed02eb181933d2de87a95139352a1a2070ec7107b342c2fb02eba58"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": {
+      "fragment_id": "F0021_SEG_001",
+      "encontrado": true,
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "resposta",
+      "tema_dominante_provisorio": "problemas ciência cérebro",
+      "texto_preview": "[Questão do autor] O que a consciência faz é buscar a verdade, logo tem de haver verdade, porque é a realidade. Mas os dados sensoriais são sempre referentes a qualquer coisa, que é a realidade. Era só para ir afinando as coisas: quais são os problemas que tenho então com a ciência do cérebro? [Entrada GPT] 1. O problema da intencionalidade causal 2. O problema da correspondência (representação vs realidade) 3. O pr…"
+    },
+    "fragmento_seguinte": null
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "[Resposta do autor]\n1. Ainda que assim seja, há o real e esse é o ponto.  \n2. Se os modelos buscam o que funciona, então buscam a verdade.  \n3. Não tem de ser necessário; os cães não devem ter consciência e não é por isso que o corpo não se sabe autopreservar.  \n4. Nunca percebi isso de “o cérebro determina antes de nós”. Para coisas mundanas faz sentido, mas quando eu penso de facto, penso sobre o que o meu cérebro determina — e se eu estou acima dessa determinação, pelo menos a minha ordem de pensamento é superior.",
+    "fonte_texto_principal": "texto_autor_extraido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "voz_autor_extraida",
+      "houve_corte_interno",
+      "continuidade_local_ativa",
+      "material_dialogico_com_ia"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": "extrair_voz_autor",
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "57ef075e65c9f189823bceda17e52eb553dac06ac505505f78b42bb389156e37",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "separacao_de_vozes",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": false,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "houve_corte_interno",
+      "material_dialogico_com_ia",
+      "voz_autor_extraida"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:37+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "57ef075e65c9f189823bceda17e52eb553dac06ac505505f78b42bb389156e37",
+      "texto_normalizado": "615a929b30c24c0f4182a9d518eef015fb586dfeb29bc5013e6219efcc805aa1",
+      "texto_fonte_reconstituido": "57ef075e65c9f189823bceda17e52eb553dac06ac505505f78b42bb389156e37",
+      "texto_principal": "57ef075e65c9f189823bceda17e52eb553dac06ac505505f78b42bb389156e37"
+    }
+  }
+}

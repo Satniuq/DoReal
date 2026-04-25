@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0110_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0110_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "fragmento_intuitivo",
+    "tema_dominante_provisorio": "ser, potencialidade e actualização"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0110_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Vou tentar fazer uma súmula muito rude: a linguagem do real e de tudo o que com ele se pode relacionar. Do ser. Não ser, se ser é. Ser por ser potencial; senão, não ser sequer.\n\nSer sabendo que se é naquilo que pode ser. Ser sabendo com ser sabendo. Onde? Naquilo que é. Ser por não deixar de ser o que se tem vindo a ser. E ser sabendo no campo do podendo ser, sendo como sabendo que pode ser o que não tem vindo a ser.\n\nComo quebra da função. Como apreensão do contínuo do real, formando-se uma atualização. Isto é ontologia crua.",
+    "resumo_alteracoes": [
+      "Corrigida a formulação inicial para maior legibilidade, preservando o sentido local.",
+      "Ajustada pontuação e segmentação frásica para reduzir truncação e oralidade redundante.",
+      "Feita reconstrução mínima em 'de tudo o que com ele se pode relacionar' para tornar a frase utilizável sem acrescentar tese nova.",
+      "Mantido o léxico central do fragmento: ser, potencial, podendo ser, atualização, ontologia crua."
+    ],
+    "notas_cautela": [
+      "O fragmento permanece elíptico e parcialmente truncado em passagens como 'Não ser, se ser é' e 'Ser sabendo com ser sabendo'.",
+      "Há sinais de corte interno e fusão de parágrafos; a limpeza foi conservadora e não tentou fechar lacunas argumentativas.",
+      "A relação exata entre 'quebra da função' e 'atualização' continua apenas insinuada no texto."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0110_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Vou tentar fazer uma súmula muito rude: a linguagem do real e de tudo o que com ele se pode relacionar. Do ser. Não ser, se ser é. Ser por ser potencial; senão, não ser sequer.\\n\\nSer sabendo que se é naquilo que pode ser. Ser sabendo com ser sabendo. Onde? Naquilo que é. Ser por não deixar de ser o que se tem vindo a ser. E ser sabendo no campo do podendo ser, sendo como sabendo que pode ser o que não tem vindo a ser.\\n\\nComo quebra da função. Como apreensão do contínuo do real, formando-se uma atualização. Isto é ontologia crua.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a formulação inicial para maior legibilidade, preservando o sentido local.\",\n    \"Ajustada pontuação e segmentação frásica para reduzir truncação e oralidade redundante.\",\n    \"Feita reconstrução mínima em 'de tudo o que com ele se pode relacionar' para tornar a frase utilizável sem acrescentar tese nova.\",\n    \"Mantido o léxico central do fragmento: ser, potencial, podendo ser, atualização, ontologia crua.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento permanece elíptico e parcialmente truncado em passagens como 'Não ser, se ser é' e 'Ser sabendo com ser sabendo'.\",\n    \"Há sinais de corte interno e fusão de parágrafos; a limpeza foi conservadora e não tentou fechar lacunas argumentativas.\",\n    \"A relação exata entre 'quebra da função' e 'atualização' continua apenas insinuada no texto.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:28:02+00:00",
+  "modelo": "gpt-5.4"
+}

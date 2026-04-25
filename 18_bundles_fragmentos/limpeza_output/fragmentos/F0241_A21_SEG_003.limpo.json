@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A21_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A21_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "apreensão e adequação ao real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A21_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Porque, na apreensão, é no eu que a apreensão acontece, não é? É o eu que apreende. Os muitos eus, claro, com as suas localidades, cada um. Mas, sendo a consciência uma das partes da relação do eu no real, essa primoração da relação do eu no real, estruturada pela própria apreensão e limitada pelo próprio campo que a apreensão abre, e depois, como é óbvio, porque a apreensão inclui já a representação, mas também é exercida na ação e na descrição, o campo das potencialidades flutua à medida da finesa, ou não, da relação.\n\nE a finesa pode ser em estado simples, na experiência certa, e pode ser em estado longo e inteiramente introspectivo, mas pode também estar certa. É só mais rara. A adequação natural ao real é aquilo que permite sequer ao real interagir. Por isso, sim, na própria representação, não é? Saber como é que o real é, tanto que sabe que se consegue mexer.",
+    "resumo_alteracoes": [
+      "Removidas repetições imediatas e hesitações orais sem alterar a tese local.",
+      "Separada e rearticulada a frase inicial para melhorar legibilidade e coesão sintática.",
+      "Reconstruído de forma mínima o segmento truncado sobre o campo da apreensão: 'limitada pelo próprio campo que a apreensão abre'.",
+      "Preservado o léxico central do fragmento, incluindo 'eu', 'consciência', 'relação', 'apreensão', 'representação', 'ação', 'descrição', 'potencialidades', 'finesa' e 'adequação natural ao real'.",
+      "Mantida a progressão local: apreensão no eu -> relação do eu no real -> representação/ação/descrição -> finesa -> adequação ao real."
+    ],
+    "notas_cautela": [
+      "O termo 'primoração' foi preservado por poder ser uso autoral, embora permaneça pouco estável.",
+      "Há um corte interno no segmento central; a reconstrução foi mínima e apenas para legibilidade.",
+      "A formulação final continua parcialmente elíptica e pode requerer revisão humana se houver necessidade editorial mais firme."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A21_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Porque, na apreensão, é no eu que a apreensão acontece, não é? É o eu que apreende. Os muitos eus, claro, com as suas localidades, cada um. Mas, sendo a consciência uma das partes da relação do eu no real, essa primoração da relação do eu no real, estruturada pela própria apreensão e limitada pelo próprio campo que a apreensão abre, e depois, como é óbvio, porque a apreensão inclui já a representação, mas também é exercida na ação e na descrição, o campo das potencialidades flutua à medida da finesa, ou não, da relação.\\n\\nE a finesa pode ser em estado simples, na experiência certa, e pode ser em estado longo e inteiramente introspectivo, mas pode também estar certa. É só mais rara. A adequação natural ao real é aquilo que permite sequer ao real interagir. Por isso, sim, na própria representação, não é? Saber como é que o real é, tanto que sabe que se consegue mexer.\",\n  \"resumo_alteracoes\": [\n    \"Removidas repetições imediatas e hesitações orais sem alterar a tese local.\",\n    \"Separada e rearticulada a frase inicial para melhorar legibilidade e coesão sintática.\",\n    \"Reconstruído de forma mínima o segmento truncado sobre o campo da apreensão: 'limitada pelo próprio campo que a apreensão abre'.\",\n    \"Preservado o léxico central do fragmento, incluindo 'eu', 'consciência', 'relação', 'apreensão', 'representação', 'ação', 'descrição', 'potencialidades', 'finesa' e 'adequação natural ao real'.\",\n    \"Mantida a progressão local: apreensão no eu -> relação do eu no real -> representação/ação/descrição -> finesa -> adequação ao real.\"\n  ],\n  \"notas_cautela\": [\n    \"O termo 'primoração' foi preservado por poder ser uso autoral, embora permaneça pouco estável.\",\n    \"Há um corte interno no segmento central; a reconstrução foi mínima e apenas para legibilidade.\",\n    \"A formulação final continua parcialmente elíptica e pode requerer revisão humana se houver necessidade editorial mais firme.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:54:37+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,157 @@
+{
+  "identificacao": {
+    "fragment_id": "F0115_A01_SEG_003",
+    "origem_id": "F0115_A01",
+    "header_original": "## F0115",
+    "ordem_no_ficheiro": 142,
+    "base_container_id": "F0115",
+    "tipo_material_fonte": "fragmento_editorial"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0115_A01",
+      "data": null,
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0115",
+      "ordem_no_ficheiro": 142,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0115_A01",
+          "paragrafos_origem": [
+            "F0115_A01_P04",
+            "F0115_A01_P05",
+            "F0115_A01_P06"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "fragmento_editorial",
+    "texto_fragmento": "Imagino isto como uma linha vertical, de cima a baixo. E dessa linha saem para os lados as atualizações, como um sistema solar: o átomo, a molécula, o agregado, a célula, o tecido, o homem, a estrela, o campo. O centro é vazio. A maior parte é vazia. Mas é daí que saem os eventos da vida, porque não há atualização sem real, nem o real deixa de importar. É o que funda a relação.\n\nDepois tenta-se dizer: em cima disto há a consciência, com regras próprias, como se fosse uma coisa fora do eu. Trata-se a consciência como extra-real, trata-se o homem como fora do real. Quando essa ideia se espalha pelos círculos largos, isto torna-se inevitável.\n\nCria-se algo dito sui generis. Como se isso explicasse alguma coisa. Como se não fosse apenas o eu a tentar impor-se ao real. Um sistema tão especial, tão complexo, que precisa de anos para se perceber, mas que luta contra o real e molda o homem para caber nele.",
+    "texto_normalizado": "Imagino isto como uma linha vertical, de cima a baixo. E dessa linha saem para os lados as atualizações, como um sistema solar: o átomo, a molécula, o agregado, a célula, o tecido, o homem, a estrela, o campo. O centro é vazio. A maior parte é vazia. Mas é daí que saem os eventos da vida, porque não há atualização sem real, nem o real deixa de importar. É o que funda a relação.\n\nDepois tenta-se dizer: em cima disto há a consciência, com regras próprias, como se fosse uma coisa fora do eu. Trata-se a consciência como extra-real, trata-se o homem como fora do real. Quando essa ideia se espalha pelos círculos largos, isto torna-se inevitável.\n\nCria-se algo dito sui generis. Como se isso explicasse alguma coisa. Como se não fosse apenas o eu a tentar impor-se ao real. Um sistema tão especial, tão complexo, que precisa de anos para se perceber, mas que luta contra o real e molda o homem para caber nele.",
+    "texto_fonte_reconstituido": "Imagino isto como uma linha vertical, de cima a baixo. E dessa linha saem para os lados as atualizações, como um sistema solar: o átomo, a molécula, o agregado, a célula, o tecido, o homem, a estrela, o campo. O centro é vazio. A maior parte é vazia. Mas é daí que saem os eventos da vida, porque não há atualização sem real, nem o real deixa de importar. É o que funda a relação.\n\nDepois tenta-se dizer: em cima disto há a consciência, com regras próprias, como se fosse uma coisa fora do eu. Trata-se a consciência como extra-real, trata-se o homem como fora do real. Quando essa ideia se espalha pelos círculos largos, isto torna-se inevitável.\n\nCria-se algo dito sui generis. Como se isso explicasse alguma coisa. Como se não fosse apenas o eu a tentar impor-se ao real. Um sistema tão especial, tão complexo, que precisa de anos para se perceber, mas que luta contra o real e molda o homem para caber nele.",
+    "texto_principal": "Imagino isto como uma linha vertical, de cima a baixo. E dessa linha saem para os lados as atualizações, como um sistema solar: o átomo, a molécula, o agregado, a célula, o tecido, o homem, a estrela, o campo. O centro é vazio. A maior parte é vazia. Mas é daí que saem os eventos da vida, porque não há atualização sem real, nem o real deixa de importar. É o que funda a relação.\n\nDepois tenta-se dizer: em cima disto há a consciência, com regras próprias, como se fosse uma coisa fora do eu. Trata-se a consciência como extra-real, trata-se o homem como fora do real. Quando essa ideia se espalha pelos círculos largos, isto torna-se inevitável.\n\nCria-se algo dito sui generis. Como se isso explicasse alguma coisa. Como se não fosse apenas o eu a tentar impor-se ao real. Um sistema tão especial, tão complexo, que precisa de anos para se perceber, mas que luta contra o real e molda o homem para caber nele.",
+    "segmentacao": {
+      "tipo_unidade": "sequencia_argumentativa",
+      "criterio_de_unidade": "continuidade_argumentativa",
+      "houve_fusao_de_paragrafos": true,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "critica",
+    "tema_dominante_provisorio": "realidade, eu e consciência",
+    "conceitos_relevantes_provisorios": [
+      "real",
+      "atualização",
+      "vazio",
+      "consciência",
+      "eu"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0115_A01_SEG_002",
+      "fragmento_seguinte": "F0115_A01_SEG_004",
+      "continua_anterior": true,
+      "prepara_seguinte": true
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 02:10:20",
+      "hash_texto_normalizado": "2ec213987a5538ba5ea382a04f18847420c2c146b4d3750dbadd49d3bae0ebc1"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0115",
+    "container_origem": {
+      "base_container_id": "F0115",
+      "header": "## F0115",
+      "data": null,
+      "texto_container": "Ser um bom homem é ser o homem que se deveria ser. É ser aquilo que se é. Porque esse é o pressuposto daquilo que se pode ser e daquilo que se deve ser.\n\nMas o dever-ser não existe em lado nenhum. O dever-ser existe no futuro. Existe no contínuo da relação que permite a vida. É ali que se pode dar um nadinha na relação, porque olhamos para a relação.\n\nSe não for comédia, tem de ser drama. E o drama não existe no real. O drama é o eu. É sentimentalismo, demotivismo, o eu a querer prevalecer-se sobre a ontologia, a querer dobrar o real.\n\nImagino isto como uma linha vertical, de cima a baixo. E dessa linha saem para os lados as atualizações, como um sistema solar: o átomo, a molécula, o agregado, a célula, o tecido, o homem, a estrela, o campo. O centro é vazio. A maior parte é vazia. Mas é daí que saem os eventos da vida, porque não há atualização sem real, nem o real deixa de importar. É o que funda a relação.\n\nDepois tenta-se dizer: em cima disto há a consciência, com regras próprias, como se fosse uma coisa fora do eu. Trata-se a consciência como extra-real, trata-se o homem como fora do real. Quando essa ideia se espalha pelos círculos largos, isto torna-se inevitável.\n\nCria-se algo dito sui generis. Como se isso explicasse alguma coisa. Como se não fosse apenas o eu a tentar impor-se ao real. Um sistema tão especial, tão complexo, que precisa de anos para se perceber, mas que luta contra o real e molda o homem para caber nele.\n\nA discussão fica sempre no processo. Mas quase que isto se resolvia pela boa descrição do real. Pelo oferecer o caminho de encontro com o real.\n\nOs modos reais de ser já são conhecidos. Retirado o contexto possível, o homem continua a operar segundo esses modos. É isso que está no direito civil: a apreensão do modo de ser do homem, da família, da vila, da cidade, do Estado, da espécie.\n\nSe não houvesse modos de operar, nada existiria. Pela identificação desses modos, os modos individuais tornam-se irrelevantes quando confrontados com a necessidade de integrar a relação.\n\nAs relações que nascem da interação jurídico-factual são típicas ou atípicas, mas sempre humanas. Porque não somos cães. Somos humanos. É só isto.",
+      "texto_container_preview": "Ser um bom homem é ser o homem que se deveria ser. É ser aquilo que se é. Porque esse é o pressuposto daquilo que se pode ser e daquilo que se deve ser. Mas o dever-ser não existe em lado nenhum. O dever-ser existe no futuro. Existe no contínuo da relação que permite a vida. É ali que se pode dar um nadinha na relação, porque olhamos para a relação. Se não for comédia, tem de ser drama. E o drama não existe no real.…",
+      "hash_texto_container": "0e4bf1b456c6b348e08d8d6c50f86960013de393a320598eeb97fc9e27add6ef"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": {
+      "fragment_id": "F0115_A01_SEG_002",
+      "encontrado": true,
+      "tipo_unidade": "distincao_conceptual",
+      "funcao_textual_dominante": "definicao",
+      "tema_dominante_provisorio": "drama, eu, realidade",
+      "texto_preview": "Se não for comédia, tem de ser drama. E o drama não existe no real. O drama é o eu. É sentimentalismo, demotivismo, o eu a querer prevalecer-se sobre a ontologia, a querer dobrar o real."
+    },
+    "fragmento_seguinte": {
+      "fragment_id": "F0115_A01_SEG_004",
+      "encontrado": true,
+      "tipo_unidade": "desenvolvimento_medio",
+      "funcao_textual_dominante": "desenvolvimento",
+      "tema_dominante_provisorio": "modos de ser e direito",
+      "texto_preview": "A discussão fica sempre no processo. Mas quase que isto se resolvia pela boa descrição do real. Pelo oferecer o caminho de encontro com o real. Os modos reais de ser já são conhecidos. Retirado o contexto possível, o homem continua a operar segundo esses modos. É isso que está no direito civil: a apreensão do modo de ser do homem, da família, da vila, da cidade, do Estado, da espécie."
+    }
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "Imagino isto como uma linha vertical, de cima a baixo. E dessa linha saem para os lados as atualizações, como um sistema solar: o átomo, a molécula, o agregado, a célula, o tecido, o homem, a estrela, o campo. O centro é vazio. A maior parte é vazia. Mas é daí que saem os eventos da vida, porque não há atualização sem real, nem o real deixa de importar. É o que funda a relação.\n\nDepois tenta-se dizer: em cima disto há a consciência, com regras próprias, como se fosse uma coisa fora do eu. Trata-se a consciência como extra-real, trata-se o homem como fora do real. Quando essa ideia se espalha pelos círculos largos, isto torna-se inevitável.\n\nCria-se algo dito sui generis. Como se isso explicasse alguma coisa. Como se não fosse apenas o eu a tentar impor-se ao real. Um sistema tão especial, tão complexo, que precisa de anos para se perceber, mas que luta contra o real e molda o homem para caber nele.",
+    "fonte_texto_principal": "texto_fonte_reconstituido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": null,
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "2ec213987a5538ba5ea382a04f18847420c2c146b4d3750dbadd49d3bae0ebc1",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "estrutural",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": true,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "fragmento_com_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "houve_fusao_de_paragrafos"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:38+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "2ec213987a5538ba5ea382a04f18847420c2c146b4d3750dbadd49d3bae0ebc1",
+      "texto_normalizado": "2ec213987a5538ba5ea382a04f18847420c2c146b4d3750dbadd49d3bae0ebc1",
+      "texto_fonte_reconstituido": "2ec213987a5538ba5ea382a04f18847420c2c146b4d3750dbadd49d3bae0ebc1",
+      "texto_principal": "2ec213987a5538ba5ea382a04f18847420c2c146b4d3750dbadd49d3bae0ebc1"
+    }
+  }
+}

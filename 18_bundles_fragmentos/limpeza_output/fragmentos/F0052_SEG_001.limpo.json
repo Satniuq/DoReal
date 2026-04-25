@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0052_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0052_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "racionalidade, realidade e valor"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0052_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Preferir não ser racional equivale a preferir que a espécie humana nunca se tivesse desenvolvido. Dadas as características biológicas e ambientais que permitiram a emergência da consciência, a racionalidade era inevitável; mesmo que se desejasse que a consciência não tivesse surgido, ela surgiria.\n\nApreender é distinto de pensar: apreendem-se objetos, mas pensa-se sobre pensamentos. Pensar sobre um cão não é pensar sobre o cão visto por outro, mas isso não nega nem afirma a existência do cão; apenas mostra que toda a apreensão humana é mediada pela nossa inserção no real. Toda afirmação é, em última instância, sobre o real.\n\nO erro está em tratar o real como algo externo a nós. É da própria existência que se extrai a necessidade ontológica: saber que existimos no real implica saber que agir contra o real é mau. Para saber o que é bom, é necessário descrever corretamente o real, incluindo o campo das possibilidades. Dentro do poder-ser, agir a favor da realidade é bom, não apenas no plano descritivo, mas também no plano valorativo.",
+    "resumo_alteracoes": [
+      "Removida alguma oralidade implícita por compactação sintática e segmentação em parágrafos.",
+      "Corrigida a concordância em 'apreendem-se objetos' para maior clareza gramatical.",
+      "Substituído 'por estarmos inseridos no real' por 'pela nossa inserção no real' sem alterar a tese.",
+      "Mantida a ordem argumentativa local: racionalidade, distinção entre apreensão e pensamento, relação com o real, e passagem ao plano valorativo."
+    ],
+    "notas_cautela": [
+      "A passagem de 'existimos no real' para 'agir contra o real é mau' mantém um salto argumentativo forte já presente no original.",
+      "O termo 'poder-ser' foi preservado sem expansão interpretativa para evitar introdução de conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0052_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Preferir não ser racional equivale a preferir que a espécie humana nunca se tivesse desenvolvido. Dadas as características biológicas e ambientais que permitiram a emergência da consciência, a racionalidade era inevitável; mesmo que se desejasse que a consciência não tivesse surgido, ela surgiria.\\n\\nApreender é distinto de pensar: apreendem-se objetos, mas pensa-se sobre pensamentos. Pensar sobre um cão não é pensar sobre o cão visto por outro, mas isso não nega nem afirma a existência do cão; apenas mostra que toda a apreensão humana é mediada pela nossa inserção no real. Toda afirmação é, em última instância, sobre o real.\\n\\nO erro está em tratar o real como algo externo a nós. É da própria existência que se extrai a necessidade ontológica: saber que existimos no real implica saber que agir contra o real é mau. Para saber o que é bom, é necessário descrever corretamente o real, incluindo o campo das possibilidades. Dentro do poder-ser, agir a favor da realidade é bom, não apenas no plano descritivo, mas também no plano valorativo.\",\n  \"resumo_alteracoes\": [\n    \"Removida alguma oralidade implícita por compactação sintática e segmentação em parágrafos.\",\n    \"Corrigida a concordância em 'apreendem-se objetos' para maior clareza gramatical.\",\n    \"Substituído 'por estarmos inseridos no real' por 'pela nossa inserção no real' sem alterar a tese.\",\n    \"Mantida a ordem argumentativa local: racionalidade, distinção entre apreensão e pensamento, relação com o real, e passagem ao plano valorativo.\"\n  ],\n  \"notas_cautela\": [\n    \"A passagem de 'existimos no real' para 'agir contra o real é mau' mantém um salto argumentativo forte já presente no original.\",\n    \"O termo 'poder-ser' foi preservado sem expansão interpretativa para evitar introdução de conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:06:42+00:00",
+  "modelo": "gpt-5.4"
+}

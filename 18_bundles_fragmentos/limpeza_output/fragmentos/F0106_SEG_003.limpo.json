@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0106_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0106_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "apreensão local, verdade partilhada"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0106_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Não se trata de estar calado sobre o que não se pode dizer. Trata-se de saber se existe alguém que apreenda o real, para poder avaliar se o que é dito o descreve bem ou mal.\n\nPodes dizer o que quiseres. Eu posso dizer que está bem ou mal descrito. Porque o teu ponto de apreensão é local, assim como o meu. O critério da verdade não é nem o meu nem o teu; é aquilo que ambos estamos a descrever.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade e a articulação entre frases.",
+      "Feita uma reformulação mínima em 'descreve bem ou mal o real' para 'o descreve bem ou mal', sem alterar a tese local.",
+      "Preservada a distinção entre ponto de apreensão local e critério da verdade."
+    ],
+    "notas_cautela": [
+      "O fragmento parece completo no plano local, mas integra uma continuidade argumentativa ativa com o segmento anterior.",
+      "Foi mantida a formulação original o mais possível, sem preencher lacunas para além do necessário à legibilidade."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0106_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Não se trata de estar calado sobre o que não se pode dizer. Trata-se de saber se existe alguém que apreenda o real, para poder avaliar se o que é dito o descreve bem ou mal.\\n\\nPodes dizer o que quiseres. Eu posso dizer que está bem ou mal descrito. Porque o teu ponto de apreensão é local, assim como o meu. O critério da verdade não é nem o meu nem o teu; é aquilo que ambos estamos a descrever.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade e a articulação entre frases.\",\n    \"Feita uma reformulação mínima em 'descreve bem ou mal o real' para 'o descreve bem ou mal', sem alterar a tese local.\",\n    \"Preservada a distinção entre ponto de apreensão local e critério da verdade.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece completo no plano local, mas integra uma continuidade argumentativa ativa com o segmento anterior.\",\n    \"Foi mantida a formulação original o mais possível, sem preencher lacunas para além do necessário à legibilidade.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:26:51+00:00",
+  "modelo": "gpt-5.4"
+}

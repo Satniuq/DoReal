@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0111_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0111_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "distincao_conceptual",
+    "tema_dominante_provisorio": "ser do real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0111_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Não havendo a relação de onde emerge outra manifestação, não sendo a manifestação a relação manifestada — o copo em cima da mesa, e não a mesa e o copo. O vidro na sua estrutura, que não se quebra com o toque dos lábios. A coisa como é. O real que abraça toda a forma coerente.\n\nAo real não se pede que seja algo. Pede-se apenas que seja. Porque, sendo, é infinito, e é necessário que seja.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade.",
+      "Preservado o léxico central do fragmento.",
+      "Mantida a estrutura frásica e a progressão local sem completar lacunas argumentativas."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém formulações elípticas e imagens cuja ligação interna pode depender de contexto anterior.",
+      "Há possível corte interno; a limpeza não tentou reconstruir o que falta."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0111_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Não havendo a relação de onde emerge outra manifestação, não sendo a manifestação a relação manifestada — o copo em cima da mesa, e não a mesa e o copo. O vidro na sua estrutura, que não se quebra com o toque dos lábios. A coisa como é. O real que abraça toda a forma coerente.\\n\\nAo real não se pede que seja algo. Pede-se apenas que seja. Porque, sendo, é infinito, e é necessário que seja.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade.\",\n    \"Preservado o léxico central do fragmento.\",\n    \"Mantida a estrutura frásica e a progressão local sem completar lacunas argumentativas.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém formulações elípticas e imagens cuja ligação interna pode depender de contexto anterior.\",\n    \"Há possível corte interno; a limpeza não tentou reconstruir o que falta.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:28:22+00:00",
+  "modelo": "gpt-5.4"
+}

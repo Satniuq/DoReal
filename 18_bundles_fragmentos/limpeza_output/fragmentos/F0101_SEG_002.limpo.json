@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0101_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0101_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "ciência discurso ser dever-ser"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0101_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\n\nA ciência é representada no discurso, muitas vezes de forma incorreta, e, como não descreve o dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser, porque o ser é conhecido intuitivamente pelos símbolos do real.",
+    "resumo_alteracoes": [
+      "Ajustada pontuação para melhorar a legibilidade e a articulação sintática.",
+      "Preservada a divisão em dois parágrafos, mantendo a progressão local do argumento.",
+      "Mantido o léxico central do fragmento, com limpeza mínima de encadeamentos frásicos."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender de contexto anterior e seguinte para fixar plenamente a oposição entre descrição do real e dever-ser.",
+      "A formulação final sobre o ser conhecido intuitivamente pelos símbolos do real foi preservada sem expansão, por poder condensar um passo argumentativo elíptico."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0101_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A ciência é a descrição do real pelo processo, porque opera no físico, no apreensível. O discurso científico mistura-se com o discurso comum alargado, pois ambos operam no mesmo círculo. A distinção entre o académico, o eloquente e o corrente dissolve-se pela circulação do discurso científico, que é captado pelo discurso comum.\\n\\nA ciência é representada no discurso, muitas vezes de forma incorreta, e, como não descreve o dever-ser, abre espaço à manutenção do mesmo tipo de ser valorativo, que vive no dever-ser, porque o ser é conhecido intuitivamente pelos símbolos do real.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada pontuação para melhorar a legibilidade e a articulação sintática.\",\n    \"Preservada a divisão em dois parágrafos, mantendo a progressão local do argumento.\",\n    \"Mantido o léxico central do fragmento, com limpeza mínima de encadeamentos frásicos.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender de contexto anterior e seguinte para fixar plenamente a oposição entre descrição do real e dever-ser.\",\n    \"A formulação final sobre o ser conhecido intuitivamente pelos símbolos do real foi preservada sem expansão, por poder condensar um passo argumentativo elíptico.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:24:11+00:00",
+  "modelo": "gpt-5.4"
+}

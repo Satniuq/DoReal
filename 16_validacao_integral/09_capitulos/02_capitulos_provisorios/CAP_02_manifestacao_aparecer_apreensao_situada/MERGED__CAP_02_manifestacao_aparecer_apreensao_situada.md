@@ -1,8 +1,8 @@
 # MERGED — CAP_02_manifestacao_aparecer_apreensao_situada
 
-- Gerado em: `2026-04-16 17:58:38`
+- Gerado em: `2026-04-25 23:39:33`
 - Pasta local: `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada`
-- Ficheiros incluídos: `6`
+- Ficheiros incluídos: `8`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/MERGED__CAP_02_manifestacao_aparecer_apreensao_situada.md`
 
 ## Índice interno
@@ -13,6 +13,8 @@
 - [03_materiais_criticos](#cap-02-manifestacao-aparecer-apreensao-situada-03-materiais-criticos-md) — `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/03_materiais_criticos.md`
 - [04_lacunas_do_capitulo](#cap-02-manifestacao-aparecer-apreensao-situada-04-lacunas-do-capitulo-md) — `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/04_lacunas_do_capitulo.md`
 - [05_decisao_local_do_capitulo](#cap-02-manifestacao-aparecer-apreensao-situada-05-decisao-local-do-capitulo-md) — `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-md) — `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2](#cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap2-md) — `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2.md`
 
 ## Estatuto desta agregação
 
@@ -1837,3 +1839,964 @@ Porque:
 ## VIII. Fórmula final curta
 
 > **O Capítulo 2 já aguenta abrir como segunda peça do tronco positivo, mas só se permanecer baixo: dizer o aparecer situado do real antes da representação, e parar antes de vida, corpo e organismo se tornarem o seu centro.**
+
+<a id="cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-md"></a>
+## 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+## Capítulo 2 — Manifestação, aparecer e apreensão situada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma primeira versão controlada de escrita do **Capítulo 2 — Manifestação, aparecer e apreensão situada**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo já aguenta passagem a texto corrido sem perder:
+- o seu centro próprio;
+- a sua diferença relativamente ao prólogo;
+- a sua diferença relativamente ao Capítulo 1;
+- a sua fronteira com o Capítulo 3;
+- o travão contra fenomenologia soberana, sujeito fundador, consciência precoce, representação alta, epistemologia alta e antropologia pronta.
+
+### limite
+
+Esta versão não pode:
+- repetir o prólogo;
+- reabrir a fundação ontológica mínima do Capítulo 1;
+- transformar o aparecer em presença autoportante;
+- transformar o ente situado em sujeito soberano;
+- transformar a apreensão em consciência desenvolvida;
+- fazer da representação, da linguagem, da verdade ou do critério o centro do capítulo;
+- deixar corpo, organismo ou vida organizada ocuparem a cabeça do texto.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que o real, já sendo, aparece no interior do próprio real a um ente situado; e que essa apreensão situada precede a representação.
+
+---
+
+# Primeira versão controlada
+
+## 1. Depois do ser como inscrição no real
+
+O Capítulo 1 terminou onde tinha de terminar: o ser só é inteligível como inscrição determinada no real. Não como substância separada, não como coisa isolada, não como essência fora do mundo, mas como modo determinado de estar no real.
+
+Esse ganho não deve ser reaberto aqui.
+
+O Capítulo 2 começa precisamente porque esse ganho já está posto. Já não se pergunta agora em que condições algo pode ser ontologicamente inteligível. Já não se começa por distinção, estrutura, limite ou determinação. Essas condições são o chão que ficou conquistado.
+
+A pergunta muda.
+
+A pergunta agora é esta: **como é que o real, já sendo, aparece a um ente situado no interior dele?**
+
+Esta pergunta é delicada, porque pode ser facilmente mal aberta.
+
+Se se abrir por consciência, sobe cedo demais.  
+Se se abrir por sujeito, desloca o centro para uma instância que ainda não foi legitimada.  
+Se se abrir por representação, esquece que antes de representar já algo teve de aparecer.  
+Se se abrir por fenómeno soberano, faz do aparecer um plano autónomo, como se o real só começasse quando se mostra.
+
+Por isso, a primeira disciplina deste capítulo é negativa e positiva ao mesmo tempo: o aparecer não funda o real; o aparecer é um acontecimento intrarreal.
+
+O real não começa por aparecer. O real aparece porque já é.
+
+## 2. Aparecer intrarreal
+
+Dizer que algo aparece não é dizer que esse algo passou do nada ao ser. Também não é dizer que o seu aparecer o cria.
+
+O real não ganha existência por ser apreendido. Aquilo que aparece aparece porque há real, porque há determinação, porque há relações, porque há limites e porque há um ente situado a quem esse real pode surgir.
+
+O aparecer é, portanto, uma relação interna ao real.
+
+Isto impede dois erros.
+
+O primeiro erro seria tratar o aparecer como se fosse soberano: como se o fenómeno bastasse, como se a presença bastasse, como se aquilo que aparece esgotasse aquilo que é.
+
+O segundo erro seria negar o aparecer por medo de fenomenologia: como se, depois da ontologia mínima, não fosse necessário explicar que o real só se torna acessível a um ente situado através de algum modo de manifestação.
+
+Nenhum dos dois serve.
+
+O aparecer não é fundamento do real, mas também não é ilusão dispensável. É o modo como algo do real se torna dado a um ente que já está no real.
+
+Aparecer significa: o real torna-se presente para uma posição situada, sem deixar de exceder essa posição.
+
+Por isso, o capítulo não trata ainda de verdade. Também não trata ainda de representação. Trata do primeiro modo de acesso: antes de dizermos, antes de formularmos, antes de julgarmos, algo aparece.
+
+Mas aparece no real, a partir do real, e para um ente que não está fora dele.
+
+## 3. Ente situado
+
+Nada apreende de fora do real.
+
+Esta frase deve comandar o capítulo.
+
+O ente a quem o real aparece não ocupa um ponto exterior. Não observa o real de fora, como se pudesse comparar mundo e representação a partir de uma instância neutra. Também não funda o real a partir de si, como se o seu aparecimento fosse a origem daquilo que aparece.
+
+O ente situado está já no real.
+
+Isto significa que a sua relação ao que aparece é sempre uma relação interna. Ele é afetado pelo real porque pertence ao real. Ele apreende porque há uma determinação sua, um lugar seu, uma forma situada de estar em relação com aquilo que o excede.
+
+Ser situado não é um defeito. Não é uma limitação acidental que depois pudesse ser corrigida por um ponto de vista absoluto. É a condição real de qualquer apreensão.
+
+Se não houvesse situação, não haveria ponto de contacto.  
+Se não houvesse localidade, não haveria aparecimento para alguém.  
+Se não houvesse inscrição no real, não haveria sequer relação com aquilo que aparece.
+
+O erro está em querer transformar a localidade em fraqueza pura. A localidade limita, mas também permite. Impede o ponto de vista absoluto, mas torna possível a apreensão concreta.
+
+O real não aparece a uma consciência suspensa no vazio. Aparece a um ente situado.
+
+## 4. Localidade
+
+A localidade não deve ser entendida primeiro como coordenada geométrica.
+
+O capítulo não está a dizer apenas que um corpo ocupa um lugar no espaço. Isso será importante depois, quando o texto tiver de passar para corpo, organismo e vida organizada. Mas ainda não é esse o centro.
+
+Localidade, aqui, significa determinação situada de acesso.
+
+Um ente local não é o real inteiro. Está no real, mas não coincide com a totalidade do real. Apreende a partir de uma posição, de uma relação, de um campo limitado, de um conjunto de afetações possíveis e de impossibilidades próprias.
+
+Por isso, a localidade introduz uma assimetria decisiva: o real é partilhado, mas o acesso ao real é situado.
+
+Esta assimetria não destrói o real. Pelo contrário, protege-o.
+
+Se cada apreensão situada fosse o real inteiro, não haveria diferença entre ponto de vista e real.  
+Se cada apreensão situada fosse apenas subjetividade fechada, não haveria real partilhado.  
+A estrutura correta está entre estas duas falsas soluções: há real comum, mas há modos situados de aparecimento.
+
+É por isso que diferentes entes podem apreender o mesmo real de modos diferentes sem que isso faça do real uma criação privada de cada um.
+
+A diferença entre acessos não prova que não haja real. Prova apenas que o acesso ao real é local.
+
+A localidade é, portanto, condição da apreensão, não negação da verdade futura.
+
+## 5. Apreensão situada
+
+Apreender não é ainda representar.
+
+A apreensão é o primeiro contacto situado com o real. É a afetação pela qual algo do real se dá a um ente que nele está inscrito. Antes de haver conceito, antes de haver linguagem, antes de haver juízo, antes de haver critério explícito, há esta relação mais baixa: algo afeta, algo aparece, algo é recebido segundo uma posição situada.
+
+A apreensão não funda o real. Recebe-o.
+
+Mas também não é pura passividade vazia. Um ente só apreende segundo a sua própria estrutura, segundo o seu modo de estar no real, segundo a sua localidade e os seus limites. Apreender é sempre apreender a partir de uma determinação situada.
+
+Por isso, a apreensão tem duas faces inseparáveis:
+- é abertura ao real;
+- é abertura limitada por uma posição real.
+
+Se se esquecer a primeira face, cai-se em subjetivismo: tudo seria apenas modo interno do ente.  
+Se se esquecer a segunda, cai-se em ingenuidade: como se apreender fosse copiar o real inteiro sem mediação, sem posição, sem limite.
+
+A apreensão situada não é nenhuma destas coisas.
+
+É a forma mínima pela qual o real se torna acessível a um ente localizado, sem que o real se reduza a esse acesso e sem que o acesso se torne exterior ao real.
+
+O capítulo deve insistir nisto: a apreensão é anterior à representação, mas não é soberana sobre aquilo que apreende.
+
+## 6. Afetação real antes da representação
+
+A representação vem depois.
+
+Isto não significa que seja irrelevante. Não significa que a linguagem, o símbolo, a memória, o conceito ou a descrição sejam secundários no sentido fraco. Significa apenas que não podem ocupar aqui a primeira posição.
+
+Antes de representar, há algo apreendido.  
+Antes de dizer, há algo que se deu.  
+Antes de corrigir uma descrição, há relação com aquilo que pode ser mal ou bem descrito.  
+Antes de verdade e erro, há a possibilidade de algo aparecer a um ente situado.
+
+A representação organiza o apreendido. Fixa, estabiliza, compara, torna operável. Mas, precisamente por isso, pertence a uma camada posterior. A representação já trabalha sobre uma matéria que a antecede: a afetação real e a apreensão situada.
+
+Se esta ordem for invertida, tudo se perde.
+
+Quando a representação ocupa o primeiro lugar, parece que o real só existe enquanto é representado.  
+Quando a linguagem ocupa o primeiro lugar, parece que o ser depende do dizer.  
+Quando o critério ocupa o primeiro lugar, parece que o real só entra depois de haver tribunal de validação.  
+Quando a consciência ocupa o primeiro lugar, parece que o mundo nasce do interior.
+
+Este capítulo serve para impedir essa inversão.
+
+O real aparece antes de ser representado. A representação pode depois coincidir melhor ou pior com aquilo que foi apreendido, mas essa questão pertence a uma camada posterior.
+
+Aqui basta fixar a anterioridade: primeiro afetação, depois representação.
+
+## 7. Real partilhado e variação local
+
+A localidade explica a variação sem destruir a comunhão do real.
+
+Dois entes situados não apreendem necessariamente da mesma maneira. Não porque habitem realidades absolutamente privadas, mas porque ocupam posições diferentes no mesmo real. O que aparece a cada um depende da sua localidade, do seu campo de relação, dos seus limites, da sua constituição e da sua situação.
+
+Mas essa variação não autoriza concluir que não há real comum.
+
+Pelo contrário: só há variação de apreensão porque há algo partilhado relativamente ao qual as apreensões variam.
+
+Se nada fosse comum, não haveria sequer diferença comparável entre apreensões. Haveria apenas mundos fechados sem relação. Mas o próprio conflito, a divergência, a comparação e a possibilidade de correção futura pressupõem um real comum que excede cada apreensão local.
+
+Assim, a localidade não conduz ao relativismo absoluto.
+
+Conduz a uma tese mais fina: o real é comum, mas aparece localmente; a apreensão é situada, mas não por isso desligada do real; a diferença entre acessos não elimina a possibilidade de adequação futura.
+
+O capítulo ainda não precisa de desenvolver a verdade. Mas já prepara a sua condição: só poderá haver verdade se houver real partilhado e apreensões situadas que possam ser mais ou menos adequadas ao que aparece e resiste.
+
+## 8. O falso centro do fenómeno
+
+O maior perigo deste capítulo é transformar o aparecer em cabeça soberana.
+
+Isto acontece sempre que se trata o fenómeno como se bastasse por si. Como se aquilo que aparece já fosse a medida total do que é. Como se o aparecer dispensasse o real que aparece, a localidade de quem apreende e a diferença entre apreensão e representação.
+
+Mas o aparecer não é absoluto.
+
+O aparecer é dependente:
+- depende do real que aparece;
+- depende da determinação daquilo que aparece;
+- depende da situação do ente a quem aparece;
+- depende da relação entre ambos;
+- depende dos limites do campo em que a apreensão ocorre.
+
+O fenómeno, isolado desta estrutura, torna-se enganador. Parece primeiro, mas já depende de muito. Parece soberano, mas é relacional. Parece dado puro, mas ocorre num encontro situado.
+
+Por isso, a crítica deste capítulo não deve ser uma crítica tardia ao sistema, à cultura ou à linguagem. Deve ser uma crítica mais baixa e mais precisa: bloquear a falsa autonomia do aparecer.
+
+O aparecer é real. Mas não é o real inteiro.
+
+## 9. O falso centro do sujeito
+
+O segundo perigo é transformar o ente situado em sujeito fundador.
+
+É verdade que o real aparece a um ente. É verdade que esse ente apreende localmente. É verdade que a sua posição importa. Mas isso não faz dele a origem do real.
+
+O ente situado não constitui o real a partir do nada. Não produz, por soberania interior, aquilo que o afeta. Não é legislador primeiro do campo em que se encontra.
+
+O seu poder de apreender é já uma capacidade inscrita no real.
+
+Isto é decisivo: a apreensão não é exterioridade mental. É operação de um ente real, em relação com outros modos reais de determinação. O que apreende está já condicionado, limitado, afetado e sustentado por relações que não controla soberanamente.
+
+Por isso, o capítulo deve falar de ente situado, não de sujeito soberano.
+
+“Sujeito” poderá entrar depois, se for reinscrito e limitado. “Consciência” poderá entrar depois, se for dessubstancializada. “Representação” poderá entrar depois, se for subordinada ao apreendido. Mas aqui ainda não.
+
+Aqui há apenas o ponto baixo: um ente situado é afetado pelo real e apreende algo dele.
+
+## 10. O falso centro da consciência
+
+Também a consciência não pode ser cabeça deste capítulo.
+
+A consciência é demasiado alta para abrir esta zona. Já implica interioridade, reflexividade, estabilização, representação, talvez linguagem, talvez memória, talvez relação consigo. Tudo isso será necessário mais tarde, mas ainda não é o centro do Capítulo 2.
+
+Se a consciência entrar cedo demais, o aparecer deixa de ser intrarreal e passa a parecer um acontecimento interior.
+
+Mas o que o capítulo tem de fixar é anterior a isso: antes de uma consciência se tematizar como consciência, antes de um eu se reconhecer como eu, antes de haver representação explícita, há apreensão situada do real.
+
+A consciência, quando vier, terá de ser explicada a partir desta base. Não a base a partir da consciência.
+
+Por isso, a palavra “consciência” só pode aparecer aqui como perigo ou como sombra terminal. Não como cabeça positiva.
+
+O capítulo não pergunta ainda o que é a consciência. Pergunta o que tem de haver para que algo do real possa aparecer a um ente situado.
+
+## 11. A ponte baixa para o Capítulo 3
+
+O Capítulo 2 não pode fingir que a passagem para o Capítulo 3 se faz sozinha.
+
+Se há apreensão situada, há um ente que apreende. Se esse ente não é ponto abstrato, nem sujeito soberano, nem consciência suspensa, então a sua inscrição terá de ganhar espessura. Terá de haver uma forma de inserção mais concreta: adaptação, continuidade, vida organizada, corpo, organismo.
+
+Mas esta passagem deve permanecer terminal.
+
+O Capítulo 2 pode apenas preparar a necessidade da pergunta seguinte. Não pode ainda respondê-la.
+
+O seu fecho deve dizer: a apreensão situada exige uma inscrição real do ente que apreende; essa inscrição não pode permanecer abstrata; por isso, será necessário perguntar como se organiza o vivo capaz de ser afetado, de permanecer, de se adaptar e de apreender.
+
+Mas quando essa pergunta se torna central, o Capítulo 2 terminou.
+
+O Capítulo 3 começará quando a questão deixar de ser “como aparece o real a um ente situado?” e passar a ser “que tipo de inscrição viva, corporal e organizada torna possível essa apreensão situada?”.
+
+Essa é a ponte baixa `2→3`.
+
+Deve estar presente.  
+Mas não deve tomar a cabeça.
+
+## 12. Fecho do capítulo
+
+O Capítulo 2 fixa uma passagem estreita.
+
+Depois de saber que o ser é inscrição determinada no real, é necessário mostrar que esse real pode aparecer. Mas esse aparecer não é exterior ao real, nem soberano sobre ele. O real aparece no interior do real, a um ente também real, situado, localizado e limitado.
+
+A localidade não destrói o acesso; torna-o possível.  
+A apreensão não funda o real; recebe-o sob limite.  
+A representação não abre esta zona; vem depois da afetação real.  
+A consciência não é ainda centro; será explicada mais tarde a partir da inscrição situada.  
+O corpo e o organismo não entram ainda como cabeça; apenas pressionam o fecho para o capítulo seguinte.
+
+O resultado mínimo do capítulo é este:
+
+> o real, já sendo, aparece intrarrealmente a um ente situado; esse aparecer é apreensão local antes de ser representação, e essa localidade é condição de acesso, não defeito a eliminar.
+
+A partir daqui, a pergunta seguinte torna-se inevitável.
+
+Se a apreensão é situada, que tipo de ser situado apreende?  
+Se a afetação real ocorre num ente real, como se mantém esse ente?  
+Se há acesso local, que inscrição viva sustenta esse acesso?
+
+O Capítulo 2 deve parar antes de responder.
+
+O seu trabalho está feito quando entrega ao Capítulo 3 a necessidade de pensar vida organizada, corpo, organismo e continuidade encarnada — sem ter deixado que esses temas ocupassem antecipadamente o seu centro.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> real já posto e sem exterioridade → aparecer intrarreal → ente situado → localidade → apreensão situada → afetação real anterior à representação → ponte baixa `2→3`.
+
+### ganhos da versão
+
+A versão já consegue:
+- não repetir o prólogo;
+- não reabrir a ontologia mínima do Capítulo 1;
+- formular o aparecer como acontecimento intrarreal;
+- instalar o ente situado sem o transformar em sujeito;
+- formular localidade como condição de apreensão;
+- distinguir apreensão de representação;
+- preparar a ponte para o Capítulo 3 sem absorver corpo, organismo ou vida organizada.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão:
+- a formulação positiva de “aparecer intrarreal”, que deve ficar mais forte sem soar fenomenológica;
+- a distinção entre localidade ontológica e localização espacial;
+- a passagem entre apreensão situada e afetação real;
+- o uso mínimo da palavra “consciência”, que talvez deva ser ainda mais reduzido;
+- o fecho `2→3`, que tem de preparar corpo/vida sem iniciar já o Capítulo 3.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+- fenomenologia soberana;
+- sujeito fundador;
+- consciência como centro;
+- interioridade reflexiva;
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- mediação desenvolvida;
+- critério;
+- verdade;
+- erro e correção;
+- dever-ser;
+- dignidade;
+- responsabilidade;
+- sistema;
+- cultura;
+- instituição;
+- crítica tardia;
+- vida organizada como centro;
+- corpo e organismo como cabeça positiva;
+- continuidade encarnada desenvolvida.
+
+### fórmula final da versão
+
+> O Capítulo 2 fixa apenas isto: o real não aparece a partir de fora nem é fundado por aparecer; aparece no interior de si mesmo a um ente situado, cuja apreensão local precede qualquer representação e exige, apenas no fecho, a passagem prudente para a inscrição viva e corporal do Capítulo 3.
+
+<a id="cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap2-md"></a>
+## 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2
+
+**Ficheiro de origem:** `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2
+
+## Capítulo 2 — Manifestação, aparecer e apreensão situada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma versão controlada de escrita do **Capítulo 2 — Manifestação, aparecer e apreensão situada**, já ajustada ao confronto disciplinado entre o capítulo localmente aberto, a slice implícita reconstruída a partir das fontes canónicas e a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+
+- o centro próprio do Capítulo 2;
+- a diferença relativamente ao Prólogo;
+- a diferença relativamente ao Capítulo 1;
+- a fronteira com o Capítulo 3;
+- a secura do aparecer intrarreal;
+- o travão contra fenomenologia soberana, sujeito fundador, consciência precoce, representação alta, epistemologia alta e antropologia pronta;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+O confronto anterior confirmou que o capítulo não precisava de novo núcleo material. A tarefa desta versão, por isso, não é acrescentar temas.
+
+A Nota de Leitura também não reabre o capítulo. A sua incidência é apenas expositiva: tornar mais visível que o Capítulo 2 não trata “o fenómeno” em abstrato, nem uma teoria da experiência, nem uma teoria do sujeito, mas uma operação precisa: reconhecer o aparecer como ocorrência intrarreal, bloquear os modos falsos de o dizer e reinscrever o aparecer no real que aparece.
+
+A tarefa desta versão é, portanto, dupla:
+
+1. preservar a cadeia material já ganha;
+2. tornar explícito, sem mecanizar o texto, o movimento local de leitura:
+   - qual é o ser em causa;
+   - como ele pode ser mal dito;
+   - que erro nasce dessa má formulação;
+   - como o capítulo reconduz o dizer ao real.
+
+### limite
+
+Esta versão não pode:
+
+- repetir o Prólogo;
+- reabrir a fundação ontológica mínima do Capítulo 1;
+- transformar o aparecer em presença autoportante;
+- transformar a manifestação em fenómeno soberano;
+- transformar o ente situado em sujeito fundador;
+- transformar a localidade em experiência subjetiva do “aqui”;
+- transformar a apreensão em consciência desenvolvida;
+- fazer da representação, da linguagem, da verdade, do erro, da correção ou do critério o centro do capítulo;
+- abrir uma teoria geral do erro;
+- antecipar o Capítulo 6 ou o Capítulo 7;
+- deixar corpo, organismo ou vida organizada ocuparem a cabeça do texto;
+- transformar a ponte `2→3` em começo disfarçado do Capítulo 3;
+- transformar a Nota de Leitura em método soberano.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para que o aparecer seja pensado como aparecer intrarreal do real a um ente situado, sob localidade e apreensão anterior à representação.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar que real está a aparecer, como esse aparecer pode ser mal dito, que erro nasce desse falso dizer e como a formulação regressa ao real.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a função expositiva do capítulo.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O Prólogo fixou o chão soberano da obra: há real; não há exterioridade ao real; o humano entra apenas como ente situado; a apreensão precede a representação; e qualquer descrição só vale enquanto permanece submetida ao real.
+
+O Capítulo 1 fixou o primeiro corpo positivo desse chão: o ser não é substância separada, nem coisa isolada, nem essência acima do real. Ser é inscrição determinada no real. O real, por sua vez, não é bloco homogéneo nem soma atomística de coisas prontas; é continuidade estruturada de determinações sob limite.
+
+O Capítulo 2 não reabre nenhum destes dois ganhos.
+
+Não volta a provar que há real.  
+Não volta a deduzir distinção, estrutura, limite ou determinação.  
+Não volta a perguntar o que é o ser enquanto inscrição no real.
+
+Parte daí.
+
+A sua pergunta é outra:
+
+> se o real já é e se o ser já foi pensado como inscrição determinada no real, como é que esse real aparece a um ente situado?
+
+O **ser em causa** neste capítulo é, portanto, muito preciso.
+
+Não é o ser em abstrato.  
+Não é o fenómeno em abstrato.  
+Não é a consciência.  
+Não é a representação.  
+Não é o sujeito.  
+Não é a experiência subjetiva.  
+
+O ser em causa é o **aparecer intrarreal do real a um ente situado**.
+
+A palavra “aparecer” não deve ser lida aqui como soberania do fenómeno. O real não passa a ser porque aparece. O real já é. O aparecer é o modo como o real, já sendo, se dá localmente a um ente que também pertence ao real.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> real já posto → aparecer intrarreal → ente situado → localidade → apreensão situada → afetação real antes da representação → ponte baixa `2→3`.
+
+Este corredor é o limite da peça.
+
+Tudo o que exceda este percurso deve esperar.
+
+A pergunta transversal da Nota já começa a operar aqui, mas sem tomar o comando da peça:
+
+- o ser em causa é o aparecer intrarreal do real a um ente situado;
+- o falso dizer a bloquear é o aparecer como fenómeno soberano, presença autoportante, experiência subjetiva originária ou representação fundadora;
+- o erro local é descolar o aparecer do real que aparece;
+- a reinscrição consiste em reconduzir o aparecer ao real e ao ente situado que o apreende localmente.
+
+## 2. O real aparece porque já é
+
+O Capítulo 2 só pode começar depois de o real estar posto.
+
+Se o real dependesse do aparecer para ser, então o aparecer tornar-se-ia fundamento. Mas isso inverteria a ordem já ganha. O aparecer não funda o real. O real pode aparecer porque já é.
+
+A manifestação não acrescenta ser ao real. Também não abre um segundo plano. Não há, de um lado, o real em si, e, do outro, um aparecer separado que o duplicaria. Há real, e há modos intrarreais pelos quais o real se dá a um ente situado.
+
+Este ponto é decisivo.
+
+O aparecer não é exterior ao real.  
+O aparecer não é uma janela fora do real.  
+O aparecer não é um teatro em que o real se representa a partir de outro plano.  
+
+O aparecer acontece no real, por entes reais, em relações reais.
+
+O falso dizer desta zona é tratar o aparecer como presença autoportante. Como se houvesse primeiro um fenómeno puro, uma presença absoluta, uma experiência originária, e só depois se perguntasse se há real por trás disso.
+
+Mas o capítulo não pode seguir esse caminho.
+
+A presença não é soberana. O fenómeno não é fundamento. A experiência não é origem do real. Tudo isso já ocorre no interior do real.
+
+A primeira determinação do capítulo é esta:
+
+> o real não é fundado por aparecer; aparece porque já é.
+
+A reinscrição local é esta: o aparecer deve ser devolvido ao real, e não elevado a plano autónomo de manifestação.
+
+## 3. Aparecer intrarreal
+
+O aparecer de que este capítulo fala é intrarreal.
+
+Isto quer dizer que o aparecer não introduz uma duplicação ontológica. Não há um real verdadeiro, escondido, e um aparecer ilusório, separado. Também não há um aparecer soberano que absorva o real e o reduza a fenómeno.
+
+Há real que aparece.
+
+Mas aparece sempre de algum modo, a partir de alguma localização, sob alguma condição de receção. O aparecer não elimina a estrutura do real; manifesta-a localmente. O que aparece não deixa de pertencer ao real por aparecer. E o ente a quem aparece também não deixa de pertencer ao real por apreender.
+
+O falso dizer aqui é duplo.
+
+Por um lado, pode dizer-se o aparecer como se fosse pura aparência desligada do real. Nesse caso, o aparecer torna-se quase irreal, uma superfície sem força ontológica.
+
+Por outro lado, pode dizer-se o aparecer como se fosse tudo o que há. Nesse caso, o fenómeno absorve o real e transforma-se em soberania.
+
+Ambos os erros falham.
+
+O aparecer não é menos do que real.  
+Mas também não é mais originário do que o real.  
+
+É uma ocorrência intrarreal.
+
+A segunda determinação do capítulo é esta:
+
+> o aparecer é o real a dar-se intrarrealmente a um ente situado.
+
+A reinscrição local é esta: o aparecer deve ser dito como modo intrarreal de doação do real, não como aparência sem real nem como fenómeno soberano.
+
+## 4. Ente situado
+
+O real não aparece em abstrato.
+
+Aparece a um ente situado.
+
+Este ente não está fora do real. Não observa o real a partir de uma posição exterior. Não é instância soberana, nem tribunal absoluto, nem ponto de vista divino. É uma determinação do próprio real, localizada no real, afetável pelo real e limitada pelo real.
+
+A palavra “ente” é importante porque mantém o capítulo baixo. Ainda não se fala de sujeito em sentido forte. Ainda não se fala de consciência reflexiva como centro. Ainda não se fala de interioridade desenvolvida. Fala-se apenas de um ser real a quem algo do real pode aparecer.
+
+O falso dizer desta zona é converter o ente situado em sujeito fundador.
+
+Nesse erro, a localidade deixa de ser condição de apreensão e passa a parecer origem do campo. Como se o mundo aparecesse porque um sujeito o constitui. Como se a situação do ente fosse fonte soberana do real que se dá.
+
+Mas o ente situado não funda o real.  
+Está nele.  
+É afetado por ele.  
+Apreende a partir dele.  
+
+A sua localização é condição do acesso, não fundamento do ser.
+
+A terceira determinação do capítulo é esta:
+
+> o real aparece sempre a um ente que já pertence ao real.
+
+A reinscrição local é esta: o ente situado deve ser devolvido à sua pertença real, não elevado a sujeito fundador do aparecer.
+
+## 5. Localidade
+
+A localidade é a condição ontológica da apreensão.
+
+Não é defeito. Não é erro. Não é mera limitação psicológica. Também não é apenas localização espacial. A localidade, aqui, significa que qualquer ente que apreende está sempre situado no real e, por isso, apreende a partir de uma posição determinada.
+
+Apreender a partir de algum lugar não significa inventar o real. Significa aceder localmente a ele.
+
+A localidade impede duas tentações opostas.
+
+A primeira é a tentação do ponto de vista absoluto: como se fosse possível apreender o real sem posição, sem limite, sem situação, sem corpo futuro, sem inserção.
+
+A segunda é a tentação relativista: como se, por toda a apreensão ser local, deixasse de haver real comum.
+
+Ambas falham.
+
+Não há ponto de vista exterior ao real.  
+Mas também não há dissolução do real em pontos de vista.  
+
+A localidade limita o acesso sem destruir o real que se acede. A variação local das apreensões não prova que o real seja produzido pela perspetiva. Prova apenas que o acesso ao real ocorre por entes situados.
+
+O falso dizer desta zona é transformar localidade em subjetivismo.
+
+Nesse erro, o facto de o real aparecer localmente é convertido em tese de que o real depende da posição local para ser. Mas a posição local só condiciona o modo de acesso. Não cria o real que é acedido.
+
+A quarta determinação do capítulo é esta:
+
+> a localidade é condição da apreensão situada, não fundamento subjetivo do real.
+
+A reinscrição local é esta: a localidade deve ser dita como condição real de acesso, não como ponto de vista soberano nem como relativização do real comum.
+
+## 6. Apreensão situada
+
+Se o real aparece a um ente situado, então esse aparecer é apreendido situadamente.
+
+A apreensão é o primeiro contacto operativo do ente situado com o real que se lhe dá. Não é ainda representação. Não é ainda linguagem. Não é ainda símbolo. Não é ainda juízo de verdade. Não é ainda critério. É a receção situada do real por um ente que já está nele.
+
+A apreensão não funda o real. Também não o duplica. Ela dá ao ente situado uma relação local com aquilo que aparece.
+
+É por isso que a apreensão pertence ao centro deste capítulo.
+
+O capítulo não está ainda no plano da consciência reflexiva. Também não está ainda no plano da representação desenvolvida. Está num plano mais baixo: o real afeta, aparece, e é apreendido por um ente situado.
+
+O falso dizer desta zona é confundir apreensão com consciência já desenvolvida.
+
+Nesse erro, a receção situada do real é imediatamente inflacionada para interioridade, experiência subjetiva, reflexão, auto-observação ou representação de si. Mas isso antecipa capítulos posteriores.
+
+A apreensão situada é mais baixa do que a consciência reflexiva.  
+Mais baixa do que a linguagem.  
+Mais baixa do que a representação como corpo próprio.  
+Mais baixa do que a verdade e o critério.  
+
+É a condição local pela qual algo do real pode ser recebido antes de ser fixado, dito, julgado ou corrigido.
+
+A quinta determinação do capítulo é esta:
+
+> a apreensão é o modo situado pelo qual um ente real recebe o real que lhe aparece.
+
+A reinscrição local é esta: a apreensão deve ser devolvida à sua condição situada e intrarreal, não transformada em consciência soberana.
+
+## 7. Afetação real antes da representação
+
+A apreensão supõe afetação.
+
+O ente situado não começa por representar. Começa por ser afetado. Algo do real incide sobre ele, resiste-lhe, toca-o, condiciona-o, abre-lhe uma diferença local de relação. Só depois essa afetação pode ser estabilizada, organizada, retida, representada, nomeada ou dita.
+
+A ordem do capítulo é, portanto:
+
+> afetação real → apreensão situada → representação possível.
+
+A representação entra aqui apenas como limite negativo e como derivação ulterior. É preciso mencioná-la para não confundir apreensão com representação, mas não se pode fazer dela o centro.
+
+Representar é já fixar de algum modo o apreendido. Mas o que é fixado teve antes de ser dado. O que é representado teve antes de afetar. A representação não cria o real; trabalha sobre a apreensão situada de algo real.
+
+O falso dizer desta zona é antecipar a representação.
+
+Nesse erro, o capítulo deixa de falar do aparecer situado do real e passa a falar do modo como o ente organiza, simboliza, estabiliza ou valida aquilo que apreendeu. Isso já pertence a capítulos posteriores.
+
+Aqui basta dizer o mínimo:
+
+- primeiro há real;
+- esse real aparece intrarrealmente;
+- aparece a um ente situado;
+- esse ente é afetado e apreende;
+- só depois poderá representar.
+
+A sexta determinação do capítulo é esta:
+
+> a afetação real precede a representação; a representação é derivada e subordinada.
+
+A reinscrição local é esta: a representação deve ser devolvida ao seu lugar posterior, não promovida a origem da apreensão.
+
+## 8. O erro local do capítulo
+
+A Nota de Leitura obriga a tornar visível o erro próprio de cada capítulo. No Capítulo 2, esse erro não deve ser tratado como teoria geral do erro. Deve ser apenas reconhecido como risco local de mau dizer do aparecer.
+
+O erro local nasce quando o dizer do aparecer deixa de reconhecer o real que aparece.
+
+Esse erro pode tomar várias formas.
+
+Pode dizer o aparecer como fenómeno soberano.  
+Nesse caso, o real passa a depender do aparecer.
+
+Pode dizer o aparecer como presença autoportante.  
+Nesse caso, a presença substitui o real que se manifesta.
+
+Pode dizer o aparecer como experiência subjetiva originária.  
+Nesse caso, o sujeito começa a ocupar o lugar do real.
+
+Pode dizer a localidade como ponto de vista absoluto.  
+Nesse caso, a posição situada torna-se tribunal.
+
+Pode dizer a localidade como relativismo.  
+Nesse caso, a variação local dissolve indevidamente o real comum.
+
+Pode dizer a apreensão como consciência desenvolvida.  
+Nesse caso, a receção situada é inflacionada em reflexividade.
+
+Pode dizer a representação como origem.  
+Nesse caso, aquilo que vem depois passa a ocupar o lugar do que vem antes.
+
+Pode dizer a ponte `2→3` como começo do corpo.  
+Nesse caso, vida, corpo e organismo invadem o capítulo antes de terem estatuto próprio.
+
+Todos estes erros têm uma forma comum:
+
+> descolam o aparecer do real que aparece e substituem a ocorrência intrarreal por uma camada derivada.
+
+A sétima determinação do capítulo é esta:
+
+> o erro local do Capítulo 2 é substituir o aparecer intrarreal por fenómeno, sujeito, consciência, representação ou corpo antecipado.
+
+A reinscrição local é esta: cada falso dizer deve ser reconduzido à cadeia baixa do capítulo — real, ente situado, localidade, apreensão e afetação anterior à representação.
+
+## 9. Reinscrição do aparecer no real
+
+A correção local do Capítulo 2 não consiste em propor outra teoria do fenómeno.
+
+Consiste em devolver o aparecer ao real.
+
+O aparecer não deve ser negado. Deve ser situado. Não se trata de dizer que o aparecer é ilusório, secundário ou irrelevante. Trata-se de dizer que ele só é inteligível porque há real que aparece e porque há um ente real a quem aparece.
+
+A reinscrição correta tem quatro momentos.
+
+Primeiro: o real já é.  
+Segundo: o aparecer ocorre no interior do real.  
+Terceiro: o aparecer ocorre a um ente situado.  
+Quarto: esse ente apreende antes de representar.
+
+Esta sequência impede que o aparecer se autonomize.
+
+O real não fica atrás do aparecer como coisa inacessível.  
+Também não se dissolve no aparecer como fenómeno soberano.  
+O real aparece, mas aparece intrarrealmente.
+
+O ente situado não é espectador exterior.  
+Também não é criador do campo.  
+É ponto real de apreensão local.
+
+A apreensão não é consciência soberana.  
+Também não é representação já estabilizada.  
+É receção situada da afetação real.
+
+A representação não é excluída.  
+É apenas posta no seu lugar: depois.
+
+A oitava determinação do capítulo é esta:
+
+> reinscrever o aparecer é reconduzi-lo ao real que aparece, ao ente situado que apreende e à anterioridade da afetação sobre a representação.
+
+Esta é a correção local que o capítulo pode fazer.
+
+Nada mais.
+
+## 10. Fecho e ponte baixa `2→3`
+
+O Capítulo 2 deve terminar antes de mudar de centro.
+
+A sua pergunta foi: como aparece o real a um ente situado?
+
+A resposta mínima ficou ganha: o real aparece intrarrealmente a um ente que pertence ao real; esse ente apreende localmente; essa apreensão é afetação situada anterior à representação.
+
+Mas esta resposta abre uma nova pressão.
+
+Se há ente situado que apreende, então esse ente não pode permanecer como ponto abstrato de receção. A sua situação terá de ser pensada de modo mais encarnado. A apreensão não paira no vazio. Exige inscrição viva, continuidade mínima, adaptação, corpo, organismo, integração num campo de vida.
+
+Contudo, esta pressão ainda não pertence ao centro do Capítulo 2.
+
+Ela pertence à ponte terminal `2→3`.
+
+O capítulo pode entregar ao seguinte apenas isto:
+
+> a apreensão situada exige uma inscrição mais encarnada do ente que apreende.
+
+Esta entrega prepara o Capítulo 3 — Vida, organismo e corporeidade.
+
+Mas não o inicia ainda.
+
+O falso dizer da ponte é transformar esta passagem em absorção. Como se, por se falar de ente situado, já se pudesse falar plenamente de corpo; como se, por haver apreensão, já se pudesse abrir vida organizada; como se, por haver afetação, já se pudesse desenvolver organismo e continuidade encarnada.
+
+Esse salto seria indevido.
+
+O Capítulo 2 deve parar no bordo.
+
+A nona determinação do capítulo é esta:
+
+> a ponte `2→3` é obrigatória, mas apenas terminal: prepara corpo e vida organizada sem os fazer ocupar o centro do Capítulo 2.
+
+A reinscrição local é esta: a ponte deve ser devolvida ao seu estatuto de passagem, não convertida em cabeça antecipada do capítulo seguinte.
+
+## 11. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 2 pode ser condensado assim.
+
+### ser em causa
+
+O ser em causa é o **aparecer intrarreal do real a um ente situado**.
+
+Não é:
+
+- fenómeno soberano;
+- presença autoportante;
+- experiência subjetiva originária;
+- consciência;
+- representação;
+- sujeito;
+- corpo;
+- organismo;
+- teoria da perceção;
+- teoria da verdade.
+
+É o modo como o real, já sendo, aparece localmente a uma determinação real capaz de apreensão situada.
+
+### dizer do ser
+
+O aparecer pode ser dito erradamente como:
+
+- fenómeno em abstrato;
+- presença pura;
+- manifestação autoportante;
+- experiência subjetiva;
+- dado da consciência;
+- construção do sujeito;
+- representação originária;
+- ponto de vista absoluto;
+- relatividade local sem real comum;
+- começo imediato da vida corporal organizada.
+
+### erro local
+
+O erro local nasce quando a proposição sobre o aparecer deixa de reconhecer que o aparecer pertence ao real e substitui essa inscrição por uma camada derivada.
+
+As formas principais desse erro são:
+
+- fenomenologização soberana do aparecer;
+- subjetivação da localidade;
+- soberanização do ponto de vista;
+- antecipação da consciência;
+- antecipação da representação;
+- abertura prematura de verdade, critério, erro ou correção;
+- absorção precoce por corpo, vida organizada ou organismo.
+
+O erro não é ainda tratado aqui como corpo próprio. É apenas reconhecido como risco local de mau dizer do aparecer.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> o real aparece no interior do real a um ente situado; essa aparição é apreensão local e afetiva anterior à representação.
+
+A reinscrição não nega o aparecer.  
+Não nega a localidade.  
+Não nega a representação futura.  
+Não nega o corpo futuro.  
+
+Apenas põe cada uma dessas camadas no seu lugar.
+
+### entrega
+
+A entrega ao capítulo seguinte é precisa:
+
+> se o aparecer ocorre a um ente situado que apreende por afetação real, então é necessário perguntar que inscrição viva, corporal e organizada torna essa apreensão possível.
+
+O Capítulo 2 entrega a pergunta pelo corpo, pela vida organizada e pela corporeidade.
+
+Mas não entrega ainda uma teoria do corpo.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> real já posto → aparecer intrarreal → ente situado → localidade → apreensão situada → afetação real antes da representação → ponte baixa `2→3`.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que não havia núcleo estrutural admissível em falta.
+
+Por isso, esta reescrita não acrescenta novo centro, novo material tardio ou nova arquitetura interna.
+
+A intervenção feita foi apenas de disciplina expositiva:
+
+- tornar mais explícito o aparecer como ser em causa no capítulo;
+- reforçar que o real não é fundado por aparecer;
+- limpar a formulação de aparecer intrarreal;
+- apertar a passagem entre ente situado, localidade e apreensão situada;
+- reduzir a representação ao seu lugar subordinado;
+- nomear os falsos modos de dizer o aparecer;
+- identificar o erro local sem abrir teoria geral do erro;
+- reinscrever o aparecer no real;
+- endurecer a ponte terminal `2→3`.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada apenas como orientação de legibilidade.
+
+Por isso, esta versão:
+
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem transformar erro/correção em corpo próprio;
+- reinscreve o dizer do aparecer no real;
+- entrega ao capítulo seguinte apenas a necessidade de pensar a inscrição viva e corporal da apreensão.
+
+A Nota não altera o centro do capítulo.
+
+Apenas torna mais visível o modo como o leitor deve atravessar a peça.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+
+- fenomenologia soberana;
+- fenómeno como plano autónomo;
+- presença autoportante;
+- sujeito fundador;
+- consciência como centro;
+- interioridade reflexiva;
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- mediação desenvolvida;
+- adequação;
+- critério;
+- verdade;
+- erro e correção como corpo próprio;
+- dever-ser;
+- dignidade;
+- responsabilidade;
+- sistema;
+- cultura;
+- instituição;
+- crítica tardia;
+- vida organizada como centro;
+- corpo e organismo como cabeça positiva;
+- continuidade encarnada desenvolvida;
+- memória;
+- identidade temporal;
+- relação mínima consigo.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão futura:
+
+- a formulação positiva de “aparecer intrarreal”, que deve continuar a ficar forte sem soar fenomenológica;
+- a distinção entre localidade ontológica e localização espacial;
+- a passagem entre apreensão situada e afetação real;
+- o uso mínimo de termos como consciência, sujeito e experiência, que devem permanecer sobretudo como falsos centros a bloquear;
+- o fecho `2→3`, que tem de preparar corpo e vida sem iniciar o Capítulo 3;
+- o equilíbrio entre crítica local e centro positivo, para que o capítulo não pareça mais forte pelo que recusa do que pelo que afirma.
+
+### fórmula final da versão
+
+> O Capítulo 2 fixa apenas isto: o real não aparece a partir de fora nem é fundado por aparecer; aparece no interior de si mesmo a um ente situado, cuja apreensão local precede qualquer representação e exige, apenas no fecho, a passagem prudente para a inscrição viva e corporal do Capítulo 3.
+
+O capítulo deve terminar antes de o corpo se tornar centro.
+
+O que ficou ganho é o primeiro desdobramento do real já posto: não apenas há ser inscrito no real, mas esse real aparece intrarrealmente a um ente situado, por apreensão local anterior à representação.
+
+Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pela consciência reflexiva, nem pela linguagem, nem pela verdade, mas pela inscrição viva, corporal e organizada que torna essa apreensão situada possível.
+
+### fórmula axial de leitura local
+
+> **ser no real:** aparecer intrarreal do real a um ente situado;  
+> **dizer do ser:** fenómeno soberano, presença autoportante, experiência subjetiva, sujeito fundador, consciência precoce, representação originária ou corpo antecipado;  
+> **erro da proposição não real:** descolar o aparecer do real que aparece e substituir a ocorrência intrarreal por uma camada derivada;  
+> **reinscrição no real:** aparecer como doação intrarreal do real a um ente situado, sob localidade, apreensão e afetação anterior à representação.

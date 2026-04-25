@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0113_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0113_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "crítica, apreensão, o real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0113_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Toda a crítica é uma forma de apreensão, pelo homem, de qualquer coisa vinda de outro homem. É a apreensão, pelo eu, dos outros eus, daquilo que eles manifestam: pelas suas austeridades, pelas suas obras, pelos seus modos de ser.\n\nA crítica é a colocação do modo de ser que é apreendido relativamente ao modo de ser que é verdadeiro. Porque o objeto da apreensão ocupa sempre uma posição relativamente ao que o incorpora: o real.\n\nCada atualização contém a relação interna, a relação com o campo de potencialidades e a relação com outras atualizações. A obrigatoriedade de conceder passagem nasce quando outra atualização existe.\n\nA consciência reflexiva, pela sua localidade e pela capacidade de pensar o que pensa, o que o outro pensa, como ele é e como o outro é, impõe que o critério para qualquer coisa seja, antes de mais, o real.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade sem alterar a formulação central.",
+      "Removida uma vírgula desnecessária na enumeração sobre as relações de cada atualização.",
+      "Preservada a sequência local do argumento: crítica como apreensão, relação com o real, atualização, e critério da consciência reflexiva."
+    ],
+    "notas_cautela": [
+      "O fragmento pode conter transição interna abrupta entre a secção sobre crítica e a secção sobre atualização.",
+      "Mantida a formulação original mesmo onde a ligação argumentativa parece parcialmente truncada.",
+      "O texto permanece possivelmente parcial devido a corte interno e fusão prévia de parágrafos."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0113_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Toda a crítica é uma forma de apreensão, pelo homem, de qualquer coisa vinda de outro homem. É a apreensão, pelo eu, dos outros eus, daquilo que eles manifestam: pelas suas austeridades, pelas suas obras, pelos seus modos de ser.\\n\\nA crítica é a colocação do modo de ser que é apreendido relativamente ao modo de ser que é verdadeiro. Porque o objeto da apreensão ocupa sempre uma posição relativamente ao que o incorpora: o real.\\n\\nCada atualização contém a relação interna, a relação com o campo de potencialidades e a relação com outras atualizações. A obrigatoriedade de conceder passagem nasce quando outra atualização existe.\\n\\nA consciência reflexiva, pela sua localidade e pela capacidade de pensar o que pensa, o que o outro pensa, como ele é e como o outro é, impõe que o critério para qualquer coisa seja, antes de mais, o real.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade sem alterar a formulação central.\",\n    \"Removida uma vírgula desnecessária na enumeração sobre as relações de cada atualização.\",\n    \"Preservada a sequência local do argumento: crítica como apreensão, relação com o real, atualização, e critério da consciência reflexiva.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode conter transição interna abrupta entre a secção sobre crítica e a secção sobre atualização.\",\n    \"Mantida a formulação original mesmo onde a ligação argumentativa parece parcialmente truncada.\",\n    \"O texto permanece possivelmente parcial devido a corte interno e fusão prévia de parágrafos.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:29:14+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,36 @@
+{
+  "fragment_id": "F0085_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0085_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "contradição relativismo conhecimento"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0085_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "E depois há a contradição: dizer, ao mesmo tempo, que tudo é relativista, que só temos acesso ao que o cérebro permite, e depois afirmar que as drogas expandem a consciência e nos fazem conhecer melhor o Universo. Se conhecemos melhor o Universo, então há algo a ser conhecido. Não pode ser tudo apenas interno.",
+    "resumo_alteracoes": [
+      "Suavizada a oralidade redundante em \"dizer-se ao mesmo tempo\" para \"dizer, ao mesmo tempo\".",
+      "Ajustada a construção frásica para maior fluidez, sem alterar a tese local.",
+      "Mantido o encadeamento argumentativo original: enunciação da contradição, consequência epistemológica e conclusão."
+    ],
+    "notas_cautela": [
+      "O fragmento é localmente completo, mas integra uma continuidade argumentativa ativa.",
+      "Preservada a formulação forte \"tudo é relativista\" sem normalização conceptual, por cautela autoral."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0085_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"E depois há a contradição: dizer, ao mesmo tempo, que tudo é relativista, que só temos acesso ao que o cérebro permite, e depois afirmar que as drogas expandem a consciência e nos fazem conhecer melhor o Universo. Se conhecemos melhor o Universo, então há algo a ser conhecido. Não pode ser tudo apenas interno.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a oralidade redundante em \\\"dizer-se ao mesmo tempo\\\" para \\\"dizer, ao mesmo tempo\\\".\",\n    \"Ajustada a construção frásica para maior fluidez, sem alterar a tese local.\",\n    \"Mantido o encadeamento argumentativo original: enunciação da contradição, consequência epistemológica e conclusão.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento é localmente completo, mas integra uma continuidade argumentativa ativa.\",\n    \"Preservada a formulação forte \\\"tudo é relativista\\\" sem normalização conceptual, por cautela autoral.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:17:36+00:00",
+  "modelo": "gpt-5.4"
+}

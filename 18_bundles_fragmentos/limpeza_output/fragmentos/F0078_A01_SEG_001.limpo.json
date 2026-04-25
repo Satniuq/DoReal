@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0078_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0078_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "liberdade, trabalho, igualdade género"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0078_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Mas pode-se, porque, dentro do próprio sistema criado pelo facto de a liberdade do indivíduo derivar necessariamente da abertura a todo o ser humano — como é óbvio, incluindo as mulheres —, esse caminho de liberdade ativa, podemos dizer, de maneira muito imprecisa, como “entrar no mercado de trabalho”. Não: no fundo, é só conceder-lhes a liberdade. A liberdade de movimento. A liberdade de ser o que se é. Logo, a consequência seria sempre essa: a mãe poderia, assim como o pai, ter o mesmo grau de liberdade.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para clarificar o encadeamento da frase longa.",
+      "Mantida a formulação sobre “entrar no mercado de trabalho” como expressão imprecisa, apenas com leve reorganização sintática.",
+      "Reduzida a oralidade mínima em “Não, no fundo” para “Não: no fundo”, sem alterar o sentido.",
+      "Regularizada a expressão final para “ser o que se é”, preservando a tese local."
+    ],
+    "notas_cautela": [
+      "O fragmento começa já em andamento argumentativo (“Mas pode-se”), o que indica dependência do contexto anterior.",
+      "Há um corte interno ou compressão sintática na primeira frase; foi reconstruído apenas o mínimo para legibilidade.",
+      "O texto permanece localmente parcial e articula-se com o fragmento seguinte."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0078_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Mas pode-se, porque, dentro do próprio sistema criado pelo facto de a liberdade do indivíduo derivar necessariamente da abertura a todo o ser humano — como é óbvio, incluindo as mulheres —, esse caminho de liberdade ativa, podemos dizer, de maneira muito imprecisa, como “entrar no mercado de trabalho”. Não: no fundo, é só conceder-lhes a liberdade. A liberdade de movimento. A liberdade de ser o que se é. Logo, a consequência seria sempre essa: a mãe poderia, assim como o pai, ter o mesmo grau de liberdade.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para clarificar o encadeamento da frase longa.\",\n    \"Mantida a formulação sobre “entrar no mercado de trabalho” como expressão imprecisa, apenas com leve reorganização sintática.\",\n    \"Reduzida a oralidade mínima em “Não, no fundo” para “Não: no fundo”, sem alterar o sentido.\",\n    \"Regularizada a expressão final para “ser o que se é”, preservando a tese local.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento começa já em andamento argumentativo (“Mas pode-se”), o que indica dependência do contexto anterior.\",\n    \"Há um corte interno ou compressão sintática na primeira frase; foi reconstruído apenas o mínimo para legibilidade.\",\n    \"O texto permanece localmente parcial e articula-se com o fragmento seguinte.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:14:58+00:00",
+  "modelo": "gpt-5.4"
+}

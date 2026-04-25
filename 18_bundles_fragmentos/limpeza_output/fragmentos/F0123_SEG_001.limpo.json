@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0123_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0123_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "crítica compartimentalização filosófica"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0123_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Há uma unificação de toda a filosofia nas digressões a que ela foi levada pela compartimentalização e pela especialização necessárias quando se fala de seres conscientes a pensarem sobre tudo, e pelas barreiras que as linguagens técnicas criam.\n\nComo é possível alguém querer ser filósofo e não compreender isto? Não é não saber matemática, não é não saber todas as teorias de todos os autores. É não compreender o que isto é à luz das descobertas científicas. É pôr a ciência de lado e dizer que isso cabe à ciência e que à filosofia cabe pensar sobre isto, sem sequer saber o que uma compartimentalização diz sobre uma parte disto.\n\nÉ querer saber o todo sem saber as partes. É viver na metafísica. É pôr o eu à frente do real.",
+    "resumo_alteracoes": [
+      "Corrigida a formulação inicial para maior legibilidade, preservando a tese local.",
+      "Ajustadas construções gramaticais mínimas sem alterar a voz nem o encadeamento argumentativo.",
+      "Mantida a divisão em parágrafos e a progressão do argumento."
+    ],
+    "notas_cautela": [
+      "O início do fragmento continua denso e pode refletir formulação parcial ou compressão editorial anterior.",
+      "A expressão sobre o que uma compartimentalização diz sobre uma parte disto foi preservada quase intacta por cautela, embora permaneça ligeiramente áspera.",
+      "Há sinais de corte e fusão prévios; a limpeza evitou reconstruções além do mínimo necessário."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0123_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Há uma unificação de toda a filosofia nas digressões a que ela foi levada pela compartimentalização e pela especialização necessárias quando se fala de seres conscientes a pensarem sobre tudo, e pelas barreiras que as linguagens técnicas criam.\\n\\nComo é possível alguém querer ser filósofo e não compreender isto? Não é não saber matemática, não é não saber todas as teorias de todos os autores. É não compreender o que isto é à luz das descobertas científicas. É pôr a ciência de lado e dizer que isso cabe à ciência e que à filosofia cabe pensar sobre isto, sem sequer saber o que uma compartimentalização diz sobre uma parte disto.\\n\\nÉ querer saber o todo sem saber as partes. É viver na metafísica. É pôr o eu à frente do real.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida a formulação inicial para maior legibilidade, preservando a tese local.\",\n    \"Ajustadas construções gramaticais mínimas sem alterar a voz nem o encadeamento argumentativo.\",\n    \"Mantida a divisão em parágrafos e a progressão do argumento.\"\n  ],\n  \"notas_cautela\": [\n    \"O início do fragmento continua denso e pode refletir formulação parcial ou compressão editorial anterior.\",\n    \"A expressão sobre o que uma compartimentalização diz sobre uma parte disto foi preservada quase intacta por cautela, embora permaneça ligeiramente áspera.\",\n    \"Há sinais de corte e fusão prévios; a limpeza evitou reconstruções além do mínimo necessário.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:33:14+00:00",
+  "modelo": "gpt-5.4"
+}

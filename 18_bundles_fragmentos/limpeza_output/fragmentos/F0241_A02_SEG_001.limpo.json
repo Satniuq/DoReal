@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A02_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "apreensão do real e filosofia"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A02_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A minha posição é a minha posição; é a posição de cada um. Qualquer posição que mal descreva esta obrigatoriedade de perspetiva na apreensão — quer dizer, o próprio ato de apreender, o próprio poder apreender, o continuar a existir nessa relação com um real, com algo do real a apreender, com o real — é que...\n\nOs tipos de pensamento que se têm sobre isto, portanto, em cada tema — o que é que explica isto? Quando se faz uma súmula da história da filosofia pelos seus grandes movimentos conceptuais, pela correspondência que têm com o que se percebe ser, o ponto é que se pode admitir que, normalmente, por detrás disso há um já sentido do real, afirmado pela repetição durante milénios do ser que está a apreender, ou seja, do ser que está a ter essa ação na sua experiência repetida, moldada no canal de onde brota a consciência.\n\nE o pensamento, vamos chamar-lhe filosófico, pronto, é o pensamento que está a incidir sobre aquele tipo de objeto, sobre o que é, que está na pergunta, que está a trilhar a resposta; ou seja, está a pensar sobre a pergunta: o que é isto? E pronto, como já dissemos, Kant identifica aqui alguma estrutura, mas de modo muito fracamente descrito e, depois, como é óbvio, a descrição dele é consumida por aquilo que ele acha, em vez de ser por aquilo que é. Deixa de haver uma descrição do que é; passa a haver outra coisa qualquer, ou seja, aquilo em que o resto do discurso filosófico se torna.\n\nHipótese: a filosofia, para ser filosofia, se não for verdadeira, ou pelo menos a busca para que se diga aquilo que é verdade — e, se verdade é o que é real e o modo de a manifestar é através da melhor descrição do real —, então não há muita coisa que seja filosofia. Mas também não é suposto haver muita coisa que seja filosofia.",
+    "resumo_alteracoes": [
+      "Separei o texto em parágrafos para recuperar a progressão local do argumento.",
+      "Removi repetições orais e hesitações sem alterar a tese local.",
+      "Simplifiquei construções truncadas para melhorar legibilidade, preservando o léxico central: posição, perspetiva, apreensão, real, filosofia, verdade.",
+      "Mantive a referência a Kant e a crítica associada, apenas clarificando a sintaxe.",
+      "Conservei a elipse inicial e alguns pontos de suspensão argumentativa onde o fragmento permanece parcialmente cortado."
+    ],
+    "notas_cautela": [
+      "O fragmento apresenta corte interno visível na primeira unidade frásica ('é que...').",
+      "Há zonas de formulação originalmente truncada na passagem sobre a história da filosofia; a limpeza reconstruiu apenas o mínimo necessário.",
+      "O texto permanece parcial e pode depender de continuidade com segmentos adjacentes."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A02_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A minha posição é a minha posição; é a posição de cada um. Qualquer posição que mal descreva esta obrigatoriedade de perspetiva na apreensão — quer dizer, o próprio ato de apreender, o próprio poder apreender, o continuar a existir nessa relação com um real, com algo do real a apreender, com o real — é que...\\n\\nOs tipos de pensamento que se têm sobre isto, portanto, em cada tema — o que é que explica isto? Quando se faz uma súmula da história da filosofia pelos seus grandes movimentos conceptuais, pela correspondência que têm com o que se percebe ser, o ponto é que se pode admitir que, normalmente, por detrás disso há um já sentido do real, afirmado pela repetição durante milénios do ser que está a apreender, ou seja, do ser que está a ter essa ação na sua experiência repetida, moldada no canal de onde brota a consciência.\\n\\nE o pensamento, vamos chamar-lhe filosófico, pronto, é o pensamento que está a incidir sobre aquele tipo de objeto, sobre o que é, que está na pergunta, que está a trilhar a resposta; ou seja, está a pensar sobre a pergunta: o que é isto? E pronto, como já dissemos, Kant identifica aqui alguma estrutura, mas de modo muito fracamente descrito e, depois, como é óbvio, a descrição dele é consumida por aquilo que ele acha, em vez de ser por aquilo que é. Deixa de haver uma descrição do que é; passa a haver outra coisa qualquer, ou seja, aquilo em que o resto do discurso filosófico se torna.\\n\\nHipótese: a filosofia, para ser filosofia, se não for verdadeira, ou pelo menos a busca para que se diga aquilo que é verdade — e, se verdade é o que é real e o modo de a manifestar é através da melhor descrição do real —, então não há muita coisa que seja filosofia. Mas também não é suposto haver muita coisa que seja filosofia.\",\n  \"resumo_alteracoes\": [\n    \"Separei o texto em parágrafos para recuperar a progressão local do argumento.\",\n    \"Removi repetições orais e hesitações sem alterar a tese local.\",\n    \"Simplifiquei construções truncadas para melhorar legibilidade, preservando o léxico central: posição, perspetiva, apreensão, real, filosofia, verdade.\",\n    \"Mantive a referência a Kant e a crítica associada, apenas clarificando a sintaxe.\",\n    \"Conservei a elipse inicial e alguns pontos de suspensão argumentativa onde o fragmento permanece parcialmente cortado.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento apresenta corte interno visível na primeira unidade frásica ('é que...').\",\n    \"Há zonas de formulação originalmente truncada na passagem sobre a história da filosofia; a limpeza reconstruiu apenas o mínimo necessário.\",\n    \"O texto permanece parcial e pode depender de continuidade com segmentos adjacentes.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:46:10+00:00",
+  "modelo": "gpt-5.4"
+}

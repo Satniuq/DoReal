@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0078_A01_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0078_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "dinâmica liberdade necessidades existência"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0078_A01_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A questão não é essa. A questão é que, dentro do modo de viver, dentro do círculo mais abaixo do grande círculo da liberdade, temos de contar com outros círculos. Um deles é o que fazemos com a necessidade do ser humano de se auto-preservar e de não se extinguir, mas também com a necessidade de manter filhos conhecedores do conhecimento que o resto da humanidade lhes deu, e que só se mantém vivo porque há filhos.\n\nA resposta a esta evidência de múltiplas necessidades dos modos de ser, nos círculos em que se vive, tem de ser contrabalançada com a liberdade de que dispomos e com a obrigação moral — e completamente ontológica — da própria existência do ser: o ser tem de conhecer o que é. E eu não conheço o que sou se não for também um bocadinho do que já foi.\n\nÉ sobre os modos de ser — mais corretamente dito, os que contêm modos de pensar, modos de agir, modos de estar e modos relacionais com que nos relacionamos. E isto aplica-se universalmente, mas vai sempre depender da posição que cada um ocupa.",
+    "resumo_alteracoes": [
+      "Removida repetição pouco funcional em \"não só... mas também\" para melhorar fluidez sem alterar a tese.",
+      "Ajustada pontuação e segmentação frásica para recuperar legibilidade após fusão de parágrafos.",
+      "Feito ajuste mínimo na formulação final sobre \"modos de ser\" para reduzir oralidade e redundância preservando o léxico central."
+    ],
+    "notas_cautela": [
+      "O trecho final mantém uma construção parcialmente truncada ou oralizada em torno de \"É sobre os modos de ser\", porque reconstituir mais poderia introduzir conteúdo novo.",
+      "Há dependência de continuidade local do argumento sobre liberdade e existência; o fragmento foi limpo de modo conservador."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0078_A01_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A questão não é essa. A questão é que, dentro do modo de viver, dentro do círculo mais abaixo do grande círculo da liberdade, temos de contar com outros círculos. Um deles é o que fazemos com a necessidade do ser humano de se auto-preservar e de não se extinguir, mas também com a necessidade de manter filhos conhecedores do conhecimento que o resto da humanidade lhes deu, e que só se mantém vivo porque há filhos.\\n\\nA resposta a esta evidência de múltiplas necessidades dos modos de ser, nos círculos em que se vive, tem de ser contrabalançada com a liberdade de que dispomos e com a obrigação moral — e completamente ontológica — da própria existência do ser: o ser tem de conhecer o que é. E eu não conheço o que sou se não for também um bocadinho do que já foi.\\n\\nÉ sobre os modos de ser — mais corretamente dito, os que contêm modos de pensar, modos de agir, modos de estar e modos relacionais com que nos relacionamos. E isto aplica-se universalmente, mas vai sempre depender da posição que cada um ocupa.\",\n  \"resumo_alteracoes\": [\n    \"Removida repetição pouco funcional em \\\"não só... mas também\\\" para melhorar fluidez sem alterar a tese.\",\n    \"Ajustada pontuação e segmentação frásica para recuperar legibilidade após fusão de parágrafos.\",\n    \"Feito ajuste mínimo na formulação final sobre \\\"modos de ser\\\" para reduzir oralidade e redundância preservando o léxico central.\"\n  ],\n  \"notas_cautela\": [\n    \"O trecho final mantém uma construção parcialmente truncada ou oralizada em torno de \\\"É sobre os modos de ser\\\", porque reconstituir mais poderia introduzir conteúdo novo.\",\n    \"Há dependência de continuidade local do argumento sobre liberdade e existência; o fragmento foi limpo de modo conservador.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:15:05+00:00",
+  "modelo": "gpt-5.4"
+}

@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A22_SEG_005",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A22_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "derivação experiência consciente realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A22_SEG_005",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A cor que tu vês não é a cor que eu vejo. Como é que fazes a ligação? Não dá para derivar a experiência consciente, ou a experiência ponto final, da realidade. Não podemos: onde é que está o link causal?\n\nA cor que tu vês é o resultado da apreensão que tu desenvolveste do real. Se não fosse assim, nem haveria possibilidade de se ver cores diferentes, porque a cor é somente o resultado da refração da luz num objeto. É apenas a relação da atualização da luz noutras atualizações quaisquer, numa árvore, numa estrela, numa poeira, num canto virtual; é somente isso. A diferença de experiências que se têm existe tão só e somente porque, num real partilhado, cada experiência é local.",
+    "resumo_alteracoes": [
+      "Removidas interjeições, hesitações e repetições orais redundantes.",
+      "Separada a sequência em dois parágrafos para recuperar a transição entre objeção e formulação da tese local.",
+      "Ajustada a pontuação para clarificar perguntas e encadeamento argumentativo.",
+      "Reduzida repetição imediata de expressões sem alterar o léxico central do fragmento.",
+      "Mantida a formulação local sobre impossibilidade de derivar a experiência da realidade e sobre a localidade da experiência num real partilhado."
+    ],
+    "notas_cautela": [
+      "O fragmento parece conter registo oral e possível corte interno; a limpeza foi conservadora.",
+      "A expressão 'atualização da luz noutras atualizações quaisquer' foi preservada apesar da opacidade, para não introduzir reformulação interpretativa.",
+      "O início tinha marcas dialogais ('tu', perguntas diretas) cujo referente contextual permanece parcial."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A22_SEG_005\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A cor que tu vês não é a cor que eu vejo. Como é que fazes a ligação? Não dá para derivar a experiência consciente, ou a experiência ponto final, da realidade. Não podemos: onde é que está o link causal?\\n\\nA cor que tu vês é o resultado da apreensão que tu desenvolveste do real. Se não fosse assim, nem haveria possibilidade de se ver cores diferentes, porque a cor é somente o resultado da refração da luz num objeto. É apenas a relação da atualização da luz noutras atualizações quaisquer, numa árvore, numa estrela, numa poeira, num canto virtual; é somente isso. A diferença de experiências que se têm existe tão só e somente porque, num real partilhado, cada experiência é local.\",\n  \"resumo_alteracoes\": [\n    \"Removidas interjeições, hesitações e repetições orais redundantes.\",\n    \"Separada a sequência em dois parágrafos para recuperar a transição entre objeção e formulação da tese local.\",\n    \"Ajustada a pontuação para clarificar perguntas e encadeamento argumentativo.\",\n    \"Reduzida repetição imediata de expressões sem alterar o léxico central do fragmento.\",\n    \"Mantida a formulação local sobre impossibilidade de derivar a experiência da realidade e sobre a localidade da experiência num real partilhado.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento parece conter registo oral e possível corte interno; a limpeza foi conservadora.\",\n    \"A expressão 'atualização da luz noutras atualizações quaisquer' foi preservada apesar da opacidade, para não introduzir reformulação interpretativa.\",\n    \"O início tinha marcas dialogais ('tu', perguntas diretas) cujo referente contextual permanece parcial.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:55:25+00:00",
+  "modelo": "gpt-5.4"
+}

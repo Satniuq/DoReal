@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A18_SEG_004",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A18_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "relação real, verdade, ordenação"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A18_SEG_004",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Há sempre verdades; num processo de extração de verdades, há sempre verdade para aquilo sobre que se está a falar. Se não, estamos a falar de outra coisa qualquer, que não a relação com o real. Portanto, além das extrações de verdades, tem também de ser enquadrada a relação com o real na sua decomposição, em que a lógica será tentar descrever o que é o real, ao mesmo tempo que se tenta descrever como é que o homem pensante tem vindo a descrever o real, onde é que tem acertado, onde é que tem falhado e onde é que depois tem derivado para a sua busca contínua de sistemas autorreferenciais.\n\nE a questão é: isso tem logo de ser ordenado, não só como já está a ser na camada zero e na camada um, mas logo pelo objeto, na sequência, na sequência de o que é que isto diz, em que é que isto descreve o real, qualquer realidade que esteja a descrever, e como é que se tende a descrever isto, quais são os modos do ser que incidem sobre a relação e como isso são erros, desvios à naturalidade do ser no caminho da boa descrição para a verdade e para o bem.",
+    "resumo_alteracoes": [
+      "Reduzidas repetições e oralidade redundante sem alterar a tese local.",
+      "Ajustada a pontuação para melhorar a legibilidade e separar melhor as etapas do argumento.",
+      "Corrigido um lapso provável de formulação de 'sobre aquilo sobre aquilo' para 'sobre que'.",
+      "Corrigido um lapso provável de escrita de 'se pende a descrever' para 'se tende a descrever'.",
+      "Preservada a divisão em dois parágrafos e a progressão do argumento."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém densidade sintática elevada e possível compressão de passos argumentativos.",
+      "Há sinais de corte interno e fusão prévia de parágrafos; a limpeza não tentou reconstruir lacunas além do mínimo.",
+      "As expressões 'camada zero' e 'camada um' dependem de contexto local ativo não explicitado neste fragmento."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A18_SEG_004\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Há sempre verdades; num processo de extração de verdades, há sempre verdade para aquilo sobre que se está a falar. Se não, estamos a falar de outra coisa qualquer, que não a relação com o real. Portanto, além das extrações de verdades, tem também de ser enquadrada a relação com o real na sua decomposição, em que a lógica será tentar descrever o que é o real, ao mesmo tempo que se tenta descrever como é que o homem pensante tem vindo a descrever o real, onde é que tem acertado, onde é que tem falhado e onde é que depois tem derivado para a sua busca contínua de sistemas autorreferenciais.\\n\\nE a questão é: isso tem logo de ser ordenado, não só como já está a ser na camada zero e na camada um, mas logo pelo objeto, na sequência, na sequência de o que é que isto diz, em que é que isto descreve o real, qualquer realidade que esteja a descrever, e como é que se tende a descrever isto, quais são os modos do ser que incidem sobre a relação e como isso são erros, desvios à naturalidade do ser no caminho da boa descrição para a verdade e para o bem.\",\n  \"resumo_alteracoes\": [\n    \"Reduzidas repetições e oralidade redundante sem alterar a tese local.\",\n    \"Ajustada a pontuação para melhorar a legibilidade e separar melhor as etapas do argumento.\",\n    \"Corrigido um lapso provável de formulação de 'sobre aquilo sobre aquilo' para 'sobre que'.\",\n    \"Corrigido um lapso provável de escrita de 'se pende a descrever' para 'se tende a descrever'.\",\n    \"Preservada a divisão em dois parágrafos e a progressão do argumento.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém densidade sintática elevada e possível compressão de passos argumentativos.\",\n    \"Há sinais de corte interno e fusão prévia de parágrafos; a limpeza não tentou reconstruir lacunas além do mínimo.\",\n    \"As expressões 'camada zero' e 'camada um' dependem de contexto local ativo não explicitado neste fragmento.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:53:14+00:00",
+  "modelo": "gpt-5.4"
+}

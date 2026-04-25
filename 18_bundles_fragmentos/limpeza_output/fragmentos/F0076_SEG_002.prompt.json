@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0076_SEG_002",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0076_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0076\",\n  \"header_original\": \"## F0076 — Mistura de modos de ser, presença e continuidade da consciência\",\n  \"tipo_material_fonte\": \"fragmento_reflexivo\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"apreensão do ser do outro\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"O outro é o mesmo que eu: uma atualização no ser a conhecer o ser pela continuidade da relação. Apreender o outro como algo diferente de um ser é erro, porque não é real. É apenas evidência de que eu não existo só e de que a minha apreensão do real é local.\\n\\nHoje já não preciso de conhecer o outro pela presença; posso simplesmente conhecer o que ele diz, o que acaba por ser o mesmo que conhecer como ele é, sem estar ao pé dele. Como poderia ser diferente? Uma rocha de ferro e outra de cobre não vêm ambas das explosões das estrelas? Talvez da mesma.\",\n  \"contexto_local\": \"Fragmento anterior:\\n- id: F0076_SEG_001\\n- tema: conhecimento, sociedade, possibilidades\\n- preview: Estava a pensar em como a mistura de modos de ser é aquilo que leva à ampliação do campo das possibilidades. E que, na falta de expansão comunicacional como a moderna, a presença era um requisito. As sociedades locais vivem da abertura do real que outras sociedades trazem, pelo menos enquanto não se vive de acordo com o real — e isso requer mais aprimoramento do conhecimento técnico. E esse conhecimento só existe po…\\n\\nFragmento seguinte:\\n- id: F0076_SEG_003\\n- tema: consciência: definição e limites\\n- preview: Consciência é apenas o nome dado à apreensão do contínuo do estado do ser. É o mesmo que um sentimento complexo, um feedback representado de um estado de coisas qualquer. Gostava de ver a consciência surgir num ser sem olhos, ouvidos ou nariz. Aliás, gostava de ver um ser sem sensores existir.\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0076_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0076",
+    "header_original": "## F0076 — Mistura de modos de ser, presença e continuidade da consciência",
+    "tipo_material_fonte": "fragmento_reflexivo",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "apreensão do ser do outro",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "O outro é o mesmo que eu: uma atualização no ser a conhecer o ser pela continuidade da relação. Apreender o outro como algo diferente de um ser é erro, porque não é real. É apenas evidência de que eu não existo só e de que a minha apreensão do real é local.\n\nHoje já não preciso de conhecer o outro pela presença; posso simplesmente conhecer o que ele diz, o que acaba por ser o mesmo que conhecer como ele é, sem estar ao pé dele. Como poderia ser diferente? Uma rocha de ferro e outra de cobre não vêm ambas das explosões das estrelas? Talvez da mesma.",
+    "contexto_local": "Fragmento anterior:\n- id: F0076_SEG_001\n- tema: conhecimento, sociedade, possibilidades\n- preview: Estava a pensar em como a mistura de modos de ser é aquilo que leva à ampliação do campo das possibilidades. E que, na falta de expansão comunicacional como a moderna, a presença era um requisito. As sociedades locais vivem da abertura do real que outras sociedades trazem, pelo menos enquanto não se vive de acordo com o real — e isso requer mais aprimoramento do conhecimento técnico. E esse conhecimento só existe po…\n\nFragmento seguinte:\n- id: F0076_SEG_003\n- tema: consciência: definição e limites\n- preview: Consciência é apenas o nome dado à apreensão do contínuo do estado do ser. É o mesmo que um sentimento complexo, um feedback representado de um estado de coisas qualquer. Gostava de ver a consciência surgir num ser sem olhos, ouvidos ou nariz. Aliás, gostava de ver um ser sem sensores existir.",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

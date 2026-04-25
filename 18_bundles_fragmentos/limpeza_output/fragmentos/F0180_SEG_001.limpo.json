@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0180_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0180_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "dominância apreensão ser vs real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0180_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "E o querer: a esquerda embate numa questão. Por querer ser no ser, viver em todas as contingências possíveis e absolutas, viver no círculo da apreensão do ser, excluindo o real ou tendo-o muito pouco em conta, tende a tornar-se dominante. Isso acontece porque todos apreendemos através de uma relação local entre o eu e o real, vivendo num sistema de apreensão entre o eu sensor e o real, sendo aí que se incluem o ser, o dever-ser e o valor.",
+    "resumo_alteracoes": [
+      "Removidas hesitações, repetições e quebras de oralidade que prejudicavam a legibilidade.",
+      "Reconstruída a sintaxe mínima para tornar explícita a sequência argumentativa sem mudar a tese local.",
+      "Preservado o léxico central do fragmento: querer, ser, real, apreensão, eu, dever-ser, valor.",
+      "Mantida a progressão local: questão da esquerda, exclusão do real, tendência à dominância, explicação pela estrutura da relação entre eu e real."
+    ],
+    "notas_cautela": [
+      "A expressão inicial \"E o querer\" permanece elíptica e pode depender de contexto anterior ausente.",
+      "O segmento \"contingências possíveis e absolutas\" foi mantido quase intacto, embora a formulação permaneça semanticamente tensa no original."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0180_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"E o querer: a esquerda embate numa questão. Por querer ser no ser, viver em todas as contingências possíveis e absolutas, viver no círculo da apreensão do ser, excluindo o real ou tendo-o muito pouco em conta, tende a tornar-se dominante. Isso acontece porque todos apreendemos através de uma relação local entre o eu e o real, vivendo num sistema de apreensão entre o eu sensor e o real, sendo aí que se incluem o ser, o dever-ser e o valor.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações, repetições e quebras de oralidade que prejudicavam a legibilidade.\",\n    \"Reconstruída a sintaxe mínima para tornar explícita a sequência argumentativa sem mudar a tese local.\",\n    \"Preservado o léxico central do fragmento: querer, ser, real, apreensão, eu, dever-ser, valor.\",\n    \"Mantida a progressão local: questão da esquerda, exclusão do real, tendência à dominância, explicação pela estrutura da relação entre eu e real.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão inicial \\\"E o querer\\\" permanece elíptica e pode depender de contexto anterior ausente.\",\n    \"O segmento \\\"contingências possíveis e absolutas\\\" foi mantido quase intacto, embora a formulação permaneça semanticamente tensa no original.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:39:19+00:00",
+  "modelo": "gpt-5.4"
+}

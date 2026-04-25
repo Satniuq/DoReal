@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0117_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0117_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "fundamentação de sistemas na realidade"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0117_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Os sistemas são falsos, falíveis, exceto aqueles que dependem do real: os que colocam o eu na relação com o real — eu com eu, eu com eu com o real, tudo.\n\nNas estruturas que existem, como já sabemos de tudo o que temos falado, há a primazia da relação do eu com eu antes da relação do eu com o real, através da racionalização, da consciência, da representação da própria relação.\n\nMas, fora disso, quando entramos nos sistemas de racionalidade, o real é mandado para fora e entram princípios quaisquer tomados como primários. As proposições sobre o real são tão falsas quanto a sua descrição do real é parca. O bom princípio é apenas a melhor descrição do real.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para melhorar a legibilidade e separar melhor as enumerações e transições.",
+      "Feitas correções mínimas de construção frásica, preservando o léxico central e a tese local.",
+      "Mantida a sequência argumentativa original: exceção dos sistemas dependentes do real, primazia da relação eu com eu, crítica aos sistemas de racionalidade que expulsam o real."
+    ],
+    "notas_cautela": [
+      "A sequência \"eu com eu, eu com eu com o real, tudo\" foi preservada quase intacta por ser semanticamente densa e potencialmente elíptica.",
+      "O fragmento pode permanecer parcialmente elíptico em alguns encadeamentos, mas não foram fechadas lacunas com conteúdo novo.",
+      "A expressão \"como já sabemos de tudo o que temos falado\" foi mantida apesar da oralidade, por poder depender de continuidade local ativa."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0117_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Os sistemas são falsos, falíveis, exceto aqueles que dependem do real: os que colocam o eu na relação com o real — eu com eu, eu com eu com o real, tudo.\\n\\nNas estruturas que existem, como já sabemos de tudo o que temos falado, há a primazia da relação do eu com eu antes da relação do eu com o real, através da racionalização, da consciência, da representação da própria relação.\\n\\nMas, fora disso, quando entramos nos sistemas de racionalidade, o real é mandado para fora e entram princípios quaisquer tomados como primários. As proposições sobre o real são tão falsas quanto a sua descrição do real é parca. O bom princípio é apenas a melhor descrição do real.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para melhorar a legibilidade e separar melhor as enumerações e transições.\",\n    \"Feitas correções mínimas de construção frásica, preservando o léxico central e a tese local.\",\n    \"Mantida a sequência argumentativa original: exceção dos sistemas dependentes do real, primazia da relação eu com eu, crítica aos sistemas de racionalidade que expulsam o real.\"\n  ],\n  \"notas_cautela\": [\n    \"A sequência \\\"eu com eu, eu com eu com o real, tudo\\\" foi preservada quase intacta por ser semanticamente densa e potencialmente elíptica.\",\n    \"O fragmento pode permanecer parcialmente elíptico em alguns encadeamentos, mas não foram fechadas lacunas com conteúdo novo.\",\n    \"A expressão \\\"como já sabemos de tudo o que temos falado\\\" foi mantida apesar da oralidade, por poder depender de continuidade local ativa.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:31:14+00:00",
+  "modelo": "gpt-5.4"
+}

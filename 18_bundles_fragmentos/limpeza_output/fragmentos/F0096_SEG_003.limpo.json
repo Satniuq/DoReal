@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0096_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0096_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "representação distorce ideia original"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0096_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O efeito borboleta funciona como metáfora, mas quem vive na representação da ideia já não vive na ideia: vive na forma simplificada. Perdem-se as nuances; perde-se o resto daquilo que existe e que não está a ser considerado.\n\nO dever-ser torna-se prejudicial porque representa mal. Produz modos de pensar piores e modos de ser piores, por viver numa representação ridícula de uma ideia.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para clarificar a progressão das frases.",
+      "Mantida a ordem argumentativa local entre metáfora, simplificação e crítica ao dever-ser.",
+      "Preservado o léxico central do fragmento, com limpeza apenas estrutural."
+    ],
+    "notas_cautela": [
+      "O fragmento pode depender do contexto anterior para a ligação entre representação, dever-ser e erro de escala.",
+      "Há sinais de continuidade local ativa; a limpeza não tentou fechar lacunas argumentativas além do mínimo.",
+      "O texto permanece parcial enquanto segmento de uma sequência maior."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0096_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O efeito borboleta funciona como metáfora, mas quem vive na representação da ideia já não vive na ideia: vive na forma simplificada. Perdem-se as nuances; perde-se o resto daquilo que existe e que não está a ser considerado.\\n\\nO dever-ser torna-se prejudicial porque representa mal. Produz modos de pensar piores e modos de ser piores, por viver numa representação ridícula de uma ideia.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para clarificar a progressão das frases.\",\n    \"Mantida a ordem argumentativa local entre metáfora, simplificação e crítica ao dever-ser.\",\n    \"Preservado o léxico central do fragmento, com limpeza apenas estrutural.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento pode depender do contexto anterior para a ligação entre representação, dever-ser e erro de escala.\",\n    \"Há sinais de continuidade local ativa; a limpeza não tentou fechar lacunas argumentativas além do mínimo.\",\n    \"O texto permanece parcial enquanto segmento de uma sequência maior.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:22:05+00:00",
+  "modelo": "gpt-5.4"
+}

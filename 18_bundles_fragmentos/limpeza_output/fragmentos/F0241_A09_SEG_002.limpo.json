@@ -1,0 +1,38 @@
+{
+  "fragment_id": "F0241_A09_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A09_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "transicao_reflexiva",
+    "tema_dominante_provisorio": "crítica aplicação direta princípios"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A09_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Lembro-me de um assistente administrativo estar a fazer uma tese qualquer de doutoramento, e estava muito chateado porque falava sobre a aplicabilidade direta dos princípios jurídicos, porque agora estavam consagrados no CPA e era toda uma coisa muito gira. Havia toda uma secção, um conjunto de artigos para os princípios, e ele estava muito chateado porque nunca tinha encontrado jurisprudência. Desafiou-nos a encontrar jurisprudência, decisões que condenassem ou absolvessem diretamente por força do princípio, e não de uma regra qualquer. E agora, vendo isso, lembro-me: que parvoíce. Ainda bem que os tribunais nunca o fizeram. Isso seria aceitar que uma descrição parca e parcial do sistema pudesse alguma vez servir para a aplicação da justiça, que se define num caso concreto.",
+    "resumo_alteracoes": [
+      "Corrigida uma formulação evidentemente truncada no início para melhorar a legibilidade mínima.",
+      "Reduzida alguma oralidade redundante sem alterar a tese local.",
+      "Ajustada a pontuação e segmentação frásica para maior coesão.",
+      "Feita uma reconstrução mínima da frase final para resolver a quebra sintática sem introduzir conteúdo novo."
+    ],
+    "notas_cautela": [
+      "O início do fragmento parecia conter uma expressão corrompida ou mal transcrita ('endez administrativo assistente'); foi normalizada com intervenção mínima.",
+      "Há um corte interno ou instabilidade de formulação no fragmento, sobretudo na frase final; a limpeza procurou apenas restaurar legibilidade.",
+      "O texto permanece parcialmente dependente do contexto envolvente para pleno encaixe argumentativo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A09_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Lembro-me de um assistente administrativo estar a fazer uma tese qualquer de doutoramento, e estava muito chateado porque falava sobre a aplicabilidade direta dos princípios jurídicos, porque agora estavam consagrados no CPA e era toda uma coisa muito gira. Havia toda uma secção, um conjunto de artigos para os princípios, e ele estava muito chateado porque nunca tinha encontrado jurisprudência. Desafiou-nos a encontrar jurisprudência, decisões que condenassem ou absolvessem diretamente por força do princípio, e não de uma regra qualquer. E agora, vendo isso, lembro-me: que parvoíce. Ainda bem que os tribunais nunca o fizeram. Isso seria aceitar que uma descrição parca e parcial do sistema pudesse alguma vez servir para a aplicação da justiça, que se define num caso concreto.\",\n  \"resumo_alteracoes\": [\n    \"Corrigida uma formulação evidentemente truncada no início para melhorar a legibilidade mínima.\",\n    \"Reduzida alguma oralidade redundante sem alterar a tese local.\",\n    \"Ajustada a pontuação e segmentação frásica para maior coesão.\",\n    \"Feita uma reconstrução mínima da frase final para resolver a quebra sintática sem introduzir conteúdo novo.\"\n  ],\n  \"notas_cautela\": [\n    \"O início do fragmento parecia conter uma expressão corrompida ou mal transcrita ('endez administrativo assistente'); foi normalizada com intervenção mínima.\",\n    \"Há um corte interno ou instabilidade de formulação no fragmento, sobretudo na frase final; a limpeza procurou apenas restaurar legibilidade.\",\n    \"O texto permanece parcialmente dependente do contexto envolvente para pleno encaixe argumentativo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:49:03+00:00",
+  "modelo": "gpt-5.4"
+}

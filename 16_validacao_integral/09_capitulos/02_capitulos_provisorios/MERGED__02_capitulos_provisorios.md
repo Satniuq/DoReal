@@ -1,16 +1,22 @@
 # MERGED — 02_capitulos_provisorios
 
-- Gerado em: `2026-04-16 17:58:38`
-- Pasta: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios`
-- Pastas locais incluídas: `4`
-- Ficheiro gerado: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\MERGED__02_capitulos_provisorios.md`
+- Gerado em: `2026-04-25 23:39:33`
+- Pasta: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios`
+- Pastas locais incluídas: `10`
+- Ficheiro gerado: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\MERGED__02_capitulos_provisorios.md`
 
 ## Índice das pastas locais
 
 - [PROLOGO_submissao_ao_real](#capitulo-prologo-submissao-ao-real) — `4` ficheiro(s) — `PROLOGO_submissao_ao_real/MERGED__PROLOGO_submissao_ao_real.md`
-- [CAP_01_ser_real_unidade_diferenciada](#capitulo-cap-01-ser-real-unidade-diferenciada) — `6` ficheiro(s) — `CAP_01_ser_real_unidade_diferenciada/MERGED__CAP_01_ser_real_unidade_diferenciada.md`
-- [CAP_02_manifestacao_aparecer_apreensao_situada](#capitulo-cap-02-manifestacao-aparecer-apreensao-situada) — `6` ficheiro(s) — `CAP_02_manifestacao_aparecer_apreensao_situada/MERGED__CAP_02_manifestacao_aparecer_apreensao_situada.md`
-- [CAP_03_vida_organismo_corporeidade](#capitulo-cap-03-vida-organismo-corporeidade) — `6` ficheiro(s) — `CAP_03_vida_organismo_corporeidade/MERGED__CAP_03_vida_organismo_corporeidade.md`
+- [CAP_01_ser_real_unidade_diferenciada](#capitulo-cap-01-ser-real-unidade-diferenciada) — `8` ficheiro(s) — `CAP_01_ser_real_unidade_diferenciada/MERGED__CAP_01_ser_real_unidade_diferenciada.md`
+- [CAP_02_manifestacao_aparecer_apreensao_situada](#capitulo-cap-02-manifestacao-aparecer-apreensao-situada) — `8` ficheiro(s) — `CAP_02_manifestacao_aparecer_apreensao_situada/MERGED__CAP_02_manifestacao_aparecer_apreensao_situada.md`
+- [CAP_03_vida_organismo_corporeidade](#capitulo-cap-03-vida-organismo-corporeidade) — `8` ficheiro(s) — `CAP_03_vida_organismo_corporeidade/MERGED__CAP_03_vida_organismo_corporeidade.md`
+- [CAP_04_consciência, reflexividade e sujeito reinscritos](#capitulo-cap-04-consciencia-reflexividade-e-sujeito-reinscritos) — `8` ficheiro(s) — `CAP_04_consciência, reflexividade e sujeito reinscritos/MERGED__CAP_04_consciência, reflexividade e sujeito reinscritos.md`
+- [CAP_05_memoria_permanencia_interna_identidade_temporal](#capitulo-cap-05-memoria-permanencia-interna-identidade-temporal) — `8` ficheiro(s) — `CAP_05_memoria_permanencia_interna_identidade_temporal/MERGED__CAP_05_memoria_permanencia_interna_identidade_temporal.md`
+- [CAP_06_representacao_linguagem_simbolo_sentido](#capitulo-cap-06-representacao-linguagem-simbolo-sentido) — `8` ficheiro(s) — `CAP_06_representacao_linguagem_simbolo_sentido/MERGED__CAP_06_representacao_linguagem_simbolo_sentido.md`
+- [CAP_07_verdade_erro_criterio_correcao](#capitulo-cap-07-verdade-erro-criterio-correcao) — `8` ficheiro(s) — `CAP_07_verdade_erro_criterio_correcao/MERGED__CAP_07_verdade_erro_criterio_correcao.md`
+- [CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional](#capitulo-cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional) — `2` ficheiro(s) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/MERGED__CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional.md`
+- [Nota_Leitura](#capitulo-nota-leitura) — `1` ficheiro(s) — `Nota_Leitura/MERGED__Nota_Leitura.md`
 
 ## Estatuto desta agregação
 
@@ -1096,7 +1102,7 @@ O ficheiro seguinte (`04_lacunas_do_capitulo.md`) deve tratar explicitamente:
 ## CAP_01_ser_real_unidade_diferenciada
 
 - Pasta: `CAP_01_ser_real_unidade_diferenciada`
-- Ficheiros incluídos: `6`
+- Ficheiros incluídos: `8`
 
 ### Índice interno da pasta
 
@@ -1106,6 +1112,8 @@ O ficheiro seguinte (`04_lacunas_do_capitulo.md`) deve tratar explicitamente:
 - [03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2](#cap-01-ser-real-unidade-diferenciada-03-materiais-criticos-revisao-minima-segunda-varredura-v2-md) — `CAP_01_ser_real_unidade_diferenciada/03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2.md`
 - [04_lacunas_do_capitulo](#cap-01-ser-real-unidade-diferenciada-04-lacunas-do-capitulo-md) — `CAP_01_ser_real_unidade_diferenciada/04_lacunas_do_capitulo.md`
 - [05_decisao_local_do_capitulo](#cap-01-ser-real-unidade-diferenciada-05-decisao-local-do-capitulo-md) — `CAP_01_ser_real_unidade_diferenciada/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-01-ser-real-unidade-diferenciada-06-primeira-versao-controlada-de-escrita-md) — `CAP_01_ser_real_unidade_diferenciada/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO](#cap-01-ser-real-unidade-diferenciada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-md) — `CAP_01_ser_real_unidade_diferenciada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md`
 
 <a id="cap-01-ser-real-unidade-diferenciada-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -2814,11 +2822,667 @@ Porque:
 
 > **O Capítulo 1 já aguenta fixar o ser como inscrição determinada no real, mas ainda não aguenta falar como se daí já se abrisse todo o resto do livro.**
 
+<a id="cap-01-ser-real-unidade-diferenciada-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_01_ser_real_unidade_diferenciada/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+## Capítulo 1 — Ser, real e unidade diferenciada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma primeira versão controlada de escrita do **Capítulo 1 — Ser, real e unidade diferenciada**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo já aguenta passagem a texto corrido sem perder:
+- o seu centro ontológico baixo;
+- a sua sequência interna mínima;
+- a sua secura positiva;
+- os seus travões contra inflação metafísica, fenomenológica, epistemológica, ética ou sistémica.
+
+### limite
+
+Esta versão não pode:
+- transformar o capítulo numa ontologia total;
+- abrir por sujeito, consciência, linguagem, critério, verdade ou normatividade;
+- antecipar o capítulo do aparecer e da apreensão situada;
+- fazer do ser uma substância separada;
+- fazer do real um contentor de coisas prontas;
+- substituir o encadeamento interno por uma lista escolar de definições.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para que o ser possa ser pensado como inscrição determinada no real sob distinção, relação, estrutura e limite.
+
+---
+
+# Primeira versão controlada
+
+## 1. O início do capítulo
+
+O prólogo fixou o chão sem o qual nada pode começar: há real, não há exterioridade ao real, e qualquer descrição ocorre já no interior daquilo que pretende descrever.
+
+O primeiro capítulo não reabre esse chão. Parte dele.
+
+A pergunta agora já não é apenas se há real, nem se o humano está ou não inscrito nele. A pergunta é mais estreita e mais baixa: **em que condições algo pode ser inteligível como algo no real?**
+
+Esta pergunta é anterior ao aparecer, anterior à representação, anterior à verdade como critério explícito, anterior ao dever-ser e anterior a qualquer sistema. Antes de perguntar como algo aparece, como é conhecido, como é dito ou como deve ser tratado, é necessário perceber em que sentido algo é distinguível, determinável e inscrito no real.
+
+O capítulo começa, portanto, pelo mínimo: se há algo, há distinção.
+
+## 2. Distinção mínima
+
+Algo só pode ser algo se não for pura indistinção.
+
+Isto não quer dizer que o real comece como uma coleção de objetos separados. Também não quer dizer que a distinção seja uma operação mental acrescentada por um sujeito. A distinção de que aqui se trata é mais baixa do que a consciência e mais baixa do que a linguagem. É a condição mínima pela qual algo pode ser determinado sem se dissolver numa indiferença absoluta.
+
+Se nada se distinguisse de nada, não haveria sequer sentido em dizer que algo é. A afirmação de algo já envolve uma diferença mínima: este algo não é pura indistinção, não é ausência total de determinação, não é o vazio absoluto.
+
+Por isso, a distinção não é um luxo conceptual. É condição de inteligibilidade ontológica.
+
+Negar toda a distinção destruiria aquilo que a própria negação precisaria de conservar: a possibilidade de haver algo a negar, algo que se diga, algo que se diferencie minimamente da sua ausência.
+
+A primeira determinação do capítulo é esta: **não há algo inteligível sem distinção mínima**.
+
+## 3. Relacionalidade mínima
+
+Mas a distinção não fica sozinha.
+
+Dizer que algo é distinto implica já um mínimo de relação. Não ainda relação desenvolvida, não ainda causalidade, não ainda mediação simbólica, não ainda interação entre sujeitos. Apenas isto: se algo é distinguível, há um mínimo de diferença entre aquilo que é e aquilo que não é esse algo.
+
+A distinção implica um “entre”.
+
+Esse entre não é um espaço exterior ao real. Não é uma terceira coisa colocada entre duas substâncias isoladas. É apenas a não-identidade mínima que acompanha qualquer diferença. Se A é distinguível de B, então A e B não são pura fusão indiferenciada. Há uma relação mínima de diferença.
+
+Assim, o real não pode ser pensado nem como bloco homogéneo sem diferenciação, nem como conjunto de pontos isolados sem qualquer vínculo. A própria distinção exige um âmbito comum onde a diferença seja possível. Só há diferença se os termos diferenciados pertencem, de algum modo, ao mesmo real em que podem ser distinguidos.
+
+A segunda determinação do capítulo é esta: **não há distinção mínima sem relacionalidade mínima**.
+
+## 4. Estrutura
+
+A relacionalidade mínima exige ainda mais um passo.
+
+Se há distinções e se essas distinções não são exterioridades absolutas, então há algum modo de articulação entre elas. Não basta haver diferença; é necessário que essa diferença não colapse imediatamente em indeterminação. Para que algo se mantenha minimamente inteligível, tem de haver padrão, articulação, consistência suficiente.
+
+A isto chama-se estrutura.
+
+Estrutura não significa sistema fechado. Não significa esquema imposto de fora. Não significa ordem mental projetada sobre o real. Estrutura, aqui, quer dizer apenas articulação mínima de distinções sob relação.
+
+Sem estrutura, a diferença não teria estabilidade. Tudo poderia ser tudo, ou nada poderia ser dito como algo. A distinção ficaria sem consistência, a relação ficaria sem forma mínima, e o real tornar-se-ia indistinto na própria tentativa de o pensar.
+
+A estrutura não vem depois do real como uma moldura exterior. Ela é a forma mínima pela qual o real se mostra determinável. Não há algo determinado sem algum padrão de determinação. Não há diferença inteligível sem uma articulação que a sustente.
+
+A terceira determinação do capítulo é esta: **sem estrutura, não há determinabilidade estável**.
+
+## 5. Limite
+
+Mas a estrutura só é efetiva se houver limite.
+
+Ser algo é não ser tudo. Uma determinação só se mantém se houver uma diferença entre aquilo que é admissível naquela determinação e aquilo que nela não é admissível.
+
+O limite não é uma prisão acrescentada ao real. Não é uma restrição externa colocada sobre algo que, antes dela, seria absolutamente ilimitado. O limite é a condição pela qual algo pode ser algo. Sem limite, nada se fixa, nada se diferencia, nada se mantém como determinação.
+
+Dizer que uma coisa é isto é dizer também que ela não é aquilo. Esta exclusão não é defeito do real; é condição da determinação. A ausência absoluta de limite não libertaria o ser. Dissolvê-lo-ia.
+
+O limite introduz, por isso, uma primeira diferença entre o que pode ser e o que não pode ser naquela determinação. Nem tudo pode ser de qualquer modo. Há admissibilidades e inadmissibilidades reais.
+
+A quarta determinação do capítulo é esta: **sem limite, não há existência determinada**.
+
+## 6. Determinação
+
+A determinação é a estabilização relacional de uma distinção sob limite.
+
+Determinar não é transformar o real numa coisa rígida. Também não é fixar mentalmente um objeto por convenção. Determinar é reconhecer que algo só se torna inteligível quando uma distinção se estabiliza num campo de relações e sob um limite que a torna esta determinação e não outra qualquer.
+
+A determinação tem, por isso, três elementos inseparáveis:
+- diferença mínima;
+- relação mínima;
+- limite de admissibilidade.
+
+Quando estes elementos se articulam, algo pode ser dito como determinado. Não como substância isolada, não como ponto separado do real, não como objeto fechado sobre si, mas como modo estabilizado de estar no real.
+
+Determinação não é substancialização. É inscrição relacional sob limite.
+
+A quinta determinação do capítulo é esta: **algo é determinado quando a sua diferença se estabiliza relacionalmente sob limite**.
+
+## 7. Não-ser funcional
+
+Se há determinação, há exclusão.
+
+Aquilo que uma determinação é exclui aquilo que ela não é. Mas este não-ser não deve ser hipostasiado. Não é uma entidade rival do ser. Não é um mundo paralelo. Não é uma substância negativa. É apenas a função do limite vista pelo lado da exclusão.
+
+Quando algo é determinado, nem tudo permanece admissível para esse algo. O não-ser funcional nomeia essa inadmissibilidade. Não designa um nada absoluto com existência própria; designa o que fica excluído por uma determinação real.
+
+Assim, o capítulo não precisa de transformar o nada em tema metafísico. Basta-lhe fixar que o limite produz exclusão, e que essa exclusão é necessária para que algo seja determinado.
+
+O não-ser funcional protege a determinação contra dois erros opostos: por um lado, contra a ideia de que tudo pode ser tudo; por outro, contra a ideia de que o não-ser é uma realidade separada.
+
+A sexta determinação do capítulo é esta: **o não-ser entra apenas como exclusão funcional implicada pela determinação, não como entidade autónoma**.
+
+## 8. Real como continuidade estruturada
+
+Com distinção, relacionalidade, estrutura, limite, determinação e não-ser funcional, o real pode agora ser pensado sem cair nos dois erros extremos.
+
+O primeiro erro é pensar o real como bloco homogéneo. Nesse caso, a unidade apagaria a diferença. Tudo seria uma massa sem articulação interna. Não haveria distinção, nem determinação, nem ser inteligível.
+
+O segundo erro é pensar o real como soma atomística de coisas isoladas. Nesse caso, a diferença apagaria a unidade. Cada coisa seria uma ilha, e a relação surgiria depois, como ponte externa entre pontos já prontos.
+
+Nenhum destes caminhos serve.
+
+O real deve ser pensado como continuidade estruturada. Continuidade, porque não há exterioridade ao real nem ilhas ontológicas absolutamente separadas. Estruturada, porque essa continuidade não apaga distinções, relações, limites e determinações.
+
+O real é uno sem ser homogéneo. É diferenciado sem ser disperso. É contínuo sem ser indistinto. É articulado sem ser sistema fechado.
+
+Esta formulação permite guardar ao mesmo tempo a unidade e a multiplicidade: a unidade do real não elimina a diferença; a diferença interna do real não destrói a unidade.
+
+A sétima determinação do capítulo é esta: **o real é continuidade estruturada de determinações sob limite**.
+
+## 9. Ser como inscrição no real
+
+Só agora o capítulo pode falar de ser.
+
+Não se deve começar pelo ser em abstrato, porque isso facilmente o transforma numa substância soberana, num nome vazio ou numa essência separada. O ser tem de aparecer depois da distinção, da relacionalidade, da estrutura, do limite e da determinação.
+
+Ser não é estar fora do real. Ser não é pairar acima do real. Ser não é subsistir como essência separada. Ser é estar determinado no real.
+
+Isto exige uma formulação seca:
+
+> ser é inscrição determinada no real.
+
+A inscrição impede que o ser seja pensado como entidade solta. A determinação impede que seja pura indistinção. O real impede que seja deslocado para um fora, para uma essência separada ou para uma representação autónoma.
+
+O ser é, portanto, modo de estar no real. Não é coisa isolada, nem simples nome, nem substância primeira. É determinação inscrita numa continuidade estruturada.
+
+Por isso, o capítulo pode fechar o seu centro positivo: **não há ser sem real; não há ser sem determinação; não há determinação sem estrutura e limite; não há estrutura e limite sem distinção e relacionalidade mínima**.
+
+## 10. Travão final: o que ainda não começou
+
+Este capítulo não abriu ainda o problema do aparecer.
+
+Dizer que o ser é inscrição determinada no real não é ainda perguntar como o real aparece a um ente situado. Essa pergunta pertence ao capítulo seguinte.
+
+Também não se abriu ainda o problema da representação, da linguagem, da verdade, do erro, do critério, da ação ou do dever-ser. Todos esses planos dependem de um chão mais baixo: algo tem de ser determinável no real antes de poder aparecer, ser representado, ser dito, ser corrigido ou orientar uma ação.
+
+O primeiro capítulo deve parar aqui.
+
+Parar aqui não é insuficiência. É disciplina.
+
+O que ficou ganho é precisamente o que o capítulo devia ganhar: o ser não é substância separada, o real não é bloco homogéneo nem coleção de coisas isoladas, e a unidade do real só é pensável como continuidade estruturada de determinações sob limite.
+
+A partir daqui, já se pode perguntar como esse real aparece a um ente situado.
+
+Mas essa já é outra pergunta.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição no real.
+
+### ganhos da versão
+
+A versão já consegue:
+- abrir sem repetir o prólogo;
+- formular positivamente distinção e relacionalidade mínima;
+- articular estrutura e limite sem transformar estrutura em sistema;
+- formular o não-ser como função do limite;
+- formular o real como continuidade estruturada;
+- fechar o ser como inscrição determinada no real;
+- parar antes do aparecer.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão:
+- a secura da abertura por distinção mínima;
+- a passagem entre relacionalidade mínima e estrutura;
+- a formulação do real como continuidade estruturada, que ainda pode ser condensada;
+- o fecho do ser, que deve tornar-se mais memorável sem se tornar metafísico;
+- a última transição para o Capítulo 2, que deve preparar sem antecipar.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+- aparecer;
+- localidade;
+- apreensão situada;
+- representação;
+- linguagem;
+- símbolo;
+- critério;
+- verdade;
+- erro e correção como corpo próprio;
+- dever-ser;
+- valor;
+- dignidade;
+- responsabilidade;
+- cultura;
+- instituição;
+- sistema;
+- crítica tardia.
+
+### fórmula final da versão
+
+> O Capítulo 1 fixa apenas isto: há ser quando há determinação inscrita no real; e essa determinação só é inteligível porque o real comporta distinção, relacionalidade, estrutura e limite sem se desfazer nem em bloco homogéneo nem em dispersão atomística.
+
+O Capítulo 1 deve terminar antes do aparecer.
+
+O que ficou ganho é apenas o chão sem o qual o aparecer não poderia ser pensado sem erro: há real estruturado, há determinações sob limite, e o ser é inscrição nesse real.
+
+Só depois deste chão estar posto se torna legítima a pergunta seguinte — não ainda pela consciência, nem pela representação, nem pela experiência subjetiva, mas pelo modo como o real, já sendo, pode aparecer a um ente situado no interior dele.
+
+<a id="cap-01-ser-real-unidade-diferenciada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO
+
+**Ficheiro de origem:** `CAP_01_ser_real_unidade_diferenciada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO
+
+## Capítulo 1 — Ser, real e unidade diferenciada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma primeira versão controlada de escrita do **Capítulo 1 — Ser, real e unidade diferenciada**, já ajustada ao confronto entre o capítulo aberto, a slice implícita reconstruída a partir das fontes canónicas e a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+- o centro ontológico baixo;
+- a sequência interna mínima;
+- a secura positiva;
+- os travões contra inflação metafísica, fenomenológica, epistemológica, ética ou sistémica;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+O confronto anterior confirmou que o capítulo não precisava de novo núcleo material. A Nota de Leitura também não reabre o capítulo nem lhe acrescenta um novo centro. A sua incidência é apenas expositiva: tornar mais visível ao leitor que o capítulo não apresenta uma sequência abstrata de definições, mas uma operação disciplinada de reconhecimento do ser em causa, de bloqueio dos seus falsos modos de dizer e de reinscrição do dizer no real que pretendia reconhecer.
+
+A tarefa desta versão, por isso, não é acrescentar temas. É tornar mais contínua, mais seca e mais legível a cadeia já ganha.
+
+### limite
+
+Esta versão não pode:
+- transformar o capítulo numa ontologia total;
+- fazer do ser uma substância separada;
+- fazer do real um contentor de coisas prontas;
+- confundir estrutura com sistema;
+- antecipar aparecer, localidade ou apreensão situada como centro positivo;
+- abrir por sujeito, consciência, linguagem, critério, verdade, erro, correção ou normatividade;
+- introduzir dever-ser, dignidade, cultura, instituição, sistema ou crítica tardia;
+- transformar a Nota de Leitura em método soberano;
+- abrir uma teoria geral do erro dentro do Capítulo 1;
+- engrossar o capítulo por materiais apenas próximos verbalmente.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para que o ser possa ser pensado como inscrição determinada no real sob distinção, relacionalidade mínima, estrutura e limite.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar pelo ser em causa, mostrar o falso modo de o dizer, bloquear o erro dessa falsificação e reconduzir a formulação ao real.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a sua função expositiva.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O prólogo fixou o chão de abertura: há real; não há exterioridade ao real; qualquer negação, descrição ou pergunta ocorre já no interior daquilo que pretende negar, descrever ou perguntar.
+
+O primeiro capítulo não reabre esse chão. Parte dele.
+
+A sua pergunta é mais baixa do que a pergunta pelo aparecer, mais baixa do que a pergunta pelo conhecimento, mais baixa do que a pergunta pela verdade e mais baixa do que a pergunta pelo dever-ser. Antes de saber como algo aparece, como é representado, como é dito, como pode errar ou como deve orientar uma ação, é preciso perguntar em que condições algo pode ser inteligível como algo no real.
+
+O **ser em causa** neste capítulo é, portanto, muito preciso: não é o ser em abstrato, nem o ser como entidade separada, nem o ser como palavra alta da tradição metafísica. É o ser enquanto **determinação inscrita no real**.
+
+É este o objeto real do capítulo.
+
+O capítulo começa nesse ponto mínimo.
+
+Se há algo, esse algo não pode ser pura indistinção. Para ser algo, tem de se deixar distinguir minimamente. Não como objeto já pronto, não como substância isolada, não como coisa colocada num contentor chamado real. Apenas como diferença mínima suficiente para que não se confunda com a ausência absoluta de determinação.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> distinção → relacionalidade mínima → estrutura → limite → determinação / não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+
+Este corredor é o limite da peça. Tudo o que exceda este percurso deve esperar.
+
+A pergunta transversal da Nota já começa a operar aqui, mas sem tomar o comando da peça:
+
+- o ser em causa é a determinação inscrita no real;
+- o falso dizer a bloquear é o ser como coisa isolada, substância separada ou essência fora do real;
+- o erro local é substituir a inscrição real por uma imagem metafísica, subjetiva ou sistémica;
+- a reinscrição consiste em reconduzir o ser à sua condição mínima: determinação no real sob estrutura e limite.
+
+## 2. Distinção mínima
+
+Algo só é inteligível como algo se não colapsar numa indistinção absoluta.
+
+A distinção aqui não é psicológica. Não depende de um sujeito que separa, classifica ou nomeia. Também não é já a separação entre objetos feitos. É anterior a isso. É a condição mínima pela qual se pode dizer que algo é determinável em vez de se dissolver numa indiferença sem conteúdo.
+
+Dizer “algo” já implica que não se está perante o nada absoluto. Implica que há uma positividade mínima, mesmo que ainda não haja forma rica, objeto desenvolvido ou descrição completa. Essa positividade mínima só é pensável porque há diferença: aquilo que é afirmado como algo não é pura ausência, não é puro indistinto, não é o vazio sem qualquer possibilidade de determinação.
+
+É aqui que surge o primeiro risco de mau dizer.
+
+Pode dizer-se mal esta diferença de dois modos opostos. Pode dizer-se como se a distinção fosse uma operação subjetiva, criada por um sujeito que recorta o real a partir de fora. Ou pode dizer-se como se a distinção fosse já separação entre coisas isoladas, como se o real começasse por objetos prontos que depois se justapõem.
+
+Ambos os modos falham.
+
+A distinção mínima não é ato subjetivo nem coleção de objetos. É condição ontológica mínima. Pertence ao mínimo que torna inteligível a afirmação de que algo é.
+
+Negar toda a distinção destruiria as condições da própria negação. Para negar, teria de haver algo negado, algum ato de negação, alguma diferença entre afirmar e negar. A indistinção absoluta não permitiria sequer essa diferença.
+
+Assim, a primeira determinação do capítulo é esta:
+
+> não há algo inteligível sem distinção mínima.
+
+A reinscrição local é esta: a distinção deve ser devolvida ao real, e não ao sujeito que a nomeia nem ao objeto isolado que a imagem comum já supõe.
+
+## 3. Relacionalidade mínima
+
+A distinção não é solidão.
+
+Se algo é distinguível, é distinguível de algo que não é ele. Essa diferença introduz imediatamente uma relacionalidade mínima. Não se trata ainda de causalidade, interação, mediação, linguagem ou relação entre sujeitos. Trata-se apenas da não-identidade que acompanha qualquer distinção.
+
+Aquilo que é distinto não está simplesmente fechado sobre si. A sua diferença remete para aquilo de que se distingue. O distinto só se deixa pensar como distinto porque há um entre mínimo: uma distância estrutural, uma não-confusão, uma diferença que não precisa ainda de ser espacial, psicológica ou simbólica.
+
+Esse entre não é uma terceira coisa exterior ao real. Não é um espaço neutro colocado entre substâncias isoladas. É a própria forma mínima da diferença enquanto diferença. Se A é distinguível de B, então A não é B; e esta não-identidade já é uma relação mínima.
+
+O falso dizer desta zona é imaginar a relação como uma ponte acrescentada depois a termos já prontos. Primeiro haveria coisas isoladas; só depois surgiria relação entre elas. Mas isso inverte o problema. Se os termos fossem absolutamente isolados, nem sequer poderiam ser distinguidos no mesmo campo de inteligibilidade. A diferença já exige um mínimo de relação.
+
+Daqui resulta um travão duplo. O real não pode ser pensado como bloco homogéneo sem diferença, porque então nada seria distinguível. Mas também não pode ser pensado como coleção de pontos absolutamente isolados, porque então não haveria qualquer âmbito comum onde a diferença pudesse ser reconhecida como diferença.
+
+A distinção exige, portanto, um real comum onde os termos diferenciados possam ser diferenciados. A diferença só é possível porque não há exterioridade absoluta entre aquilo que se distingue e o real em que se distingue.
+
+A segunda determinação do capítulo é esta:
+
+> não há distinção mínima sem relacionalidade mínima.
+
+A reinscrição local é esta: a relação mínima não deve ser dita como ponte entre coisas isoladas, mas como condição interna da própria diferença.
+
+## 4. Estrutura
+
+A relacionalidade mínima exige articulação.
+
+Se há distinções e se essas distinções não são exterioridades absolutas, então elas não podem permanecer como ocorrências soltas, sem qualquer consistência. Uma diferença que não se conservasse minimamente como diferença desapareceria no instante em que fosse pensada. Para que algo seja determinável, é preciso que a distinção se mantenha sob algum padrão de articulação.
+
+A esse padrão mínimo chama-se estrutura.
+
+Estrutura não significa sistema. Não é uma totalidade fechada, não é uma ordem institucional, não é um esquema imposto de fora, nem uma forma mental projetada sobre o real. Neste nível, estrutura quer dizer apenas articulação mínima de distinções sob relacionalidade.
+
+Aqui o falso dizer é especialmente perigoso: confundir estrutura com sistema. Um sistema já é uma estabilização posterior, organizada, mediada, eventualmente simbólica ou institucional. Estrutura, neste capítulo, é muito mais baixa. É a articulação mínima sem a qual não haveria determinabilidade.
+
+Sem estrutura, a distinção ficaria sem estabilidade. A relacionalidade ficaria sem forma. Tudo poderia passar para tudo sem qualquer inteligibilidade. O real não seria diferenciado; seria apenas uma massa sem recorte ou uma dispersão sem consistência.
+
+A estrutura é, portanto, a condição mínima da determinabilidade. Não acrescenta ao real uma moldura exterior. Nomeia a articulação sem a qual o real não poderia ser inteligível como diferenciado.
+
+A terceira determinação do capítulo é esta:
+
+> sem estrutura, não há determinabilidade estável.
+
+A reinscrição local é esta: a estrutura deve ser reconduzida à articulação do real, não elevada a sistema, forma exterior ou esquema representacional.
+
+## 5. Limite
+
+Mas a estrutura só determina se houver limite.
+
+Ser algo é não ser tudo. Uma determinação não se mantém apenas por haver articulação; mantém-se porque há uma diferença entre o que pertence àquela determinação e o que fica excluído dela. O limite é essa diferença entre admissível e não-admissível.
+
+O limite não é uma prisão exterior. Não é uma força que cai sobre algo originalmente ilimitado. É condição interna da determinação. Sem limite, nada se fixa como isto; tudo poderia ser qualquer coisa; nenhuma diferença se manteria.
+
+O falso dizer do limite é tratá-lo como negação empobrecedora, como se o real fosse primeiro ilimitado e só depois fosse restringido por uma fronteira. Mas um ilimitado sem qualquer limite não seria plenitude. Seria indeterminação. Não haveria algo, porque nada se deixaria fixar como algo.
+
+Dizer que algo é isto implica que não é aquilo. Essa exclusão não empobrece o ser. Torna-o possível como determinação. Um real sem limite não seria mais rico; seria indeterminado. A ausência total de limite não libertaria a existência; dissolveria a sua inteligibilidade.
+
+Por isso, o limite é o ponto em que a estrutura se torna efetiva. A estrutura articula distinções; o limite recorta o que pode pertencer a uma determinação e o que nela não pode entrar.
+
+A quarta determinação do capítulo é esta:
+
+> sem limite, não há existência determinada.
+
+A reinscrição local é esta: o limite deve ser dito como condição ontológica da determinação, não como restrição exterior imposta sobre uma coisa já feita.
+
+## 6. Determinação e não-ser funcional
+
+A determinação é a estabilização relacional de uma distinção sob limite.
+
+Determinar não é transformar o real numa coisa rígida. Também não é fixar mentalmente um objeto por convenção. Determinar é reconhecer que algo só se torna inteligível quando uma diferença se estabiliza numa articulação relacional e sob um limite que a torna esta determinação, e não outra qualquer.
+
+A determinação reúne, portanto, três momentos inseparáveis:
+- diferença mínima;
+- relacionalidade mínima;
+- limite de admissibilidade.
+
+Quando estes momentos se articulam, algo pode ser dito determinado. Não como substância isolada, não como bloco fechado, não como ponto exterior ao real, mas como modo estabilizado de inscrição no real.
+
+É aqui que o não-ser entra, mas entra apenas funcionalmente.
+
+Aquilo que uma determinação é exclui aquilo que ela não é. Este não-ser não é uma entidade rival do ser. Não é mundo paralelo, substância negativa ou nada absoluto dotado de consistência própria. É apenas o nome da exclusão implicada por qualquer determinação.
+
+O falso dizer desta zona consiste em hipostasiar o negativo: fazer do não-ser uma espécie de coisa, de região ou de força oposta ao ser. Mas o não-ser funcional não é um segundo real. É apenas a diferença entre o admissível e o não-admissível vista a partir do limite.
+
+Se algo é determinado, nem tudo é admissível para esse algo. O não-ser funcional nomeia precisamente o que fica fora daquela determinação. Ele não acrescenta uma nova realidade ao lado do ser; mostra o lado negativo do limite.
+
+Assim, o capítulo não transforma o nada em tema metafísico. Basta-lhe fixar que o limite produz exclusão e que essa exclusão é necessária para que algo seja determinado.
+
+A quinta determinação do capítulo é esta:
+
+> determinação é diferença estabilizada sob relação e limite; o não-ser entra apenas como exclusão funcional implicada por essa determinação.
+
+A reinscrição local é esta: a determinação deve ser reconduzida à relação sob limite, e o não-ser deve ser reconduzido à função de exclusão que o limite torna necessária.
+
+## 7. Real como continuidade estruturada
+
+Com distinção, relacionalidade mínima, estrutura, limite, determinação e não-ser funcional, o real pode agora ser pensado sem cair nos dois erros que o deformam.
+
+O primeiro erro é o monismo indiferenciado. A unidade do real seria então pensada como bloco homogéneo. Tudo estaria fundido numa massa sem diferença interna. Mas, se assim fosse, não haveria distinção, determinação ou ser inteligível.
+
+O segundo erro é o atomismo dispersivo. A diferença interna do real seria então pensada como soma de unidades isoladas. Cada coisa seria uma ilha e a relação surgiria apenas depois, como ponte externa entre termos já prontos. Mas, se assim fosse, não haveria campo comum, continuidade ou pertença real partilhada.
+
+Nenhum dos dois caminhos serve.
+
+O real deve ser pensado como continuidade estruturada.
+
+Continuidade, porque não há exterioridade ao real e porque nenhuma determinação existe fora do campo real em que se inscreve. Estruturada, porque essa continuidade não apaga distinções, relações, limites e determinações.
+
+O falso dizer do real é duplo: ou se diz o real como totalidade compacta que apaga diferenças, ou se diz o real como contentor onde coisas isoladas estão colocadas. O primeiro erro dissolve a diferença. O segundo separa o que só é inteligível no mesmo real.
+
+A reinscrição correta recusa ambos. O real é uno sem ser homogéneo. É diferenciado sem ser disperso. É contínuo sem ser indistinto. É articulado sem ser sistema fechado.
+
+Esta é a formulação que o capítulo deve ganhar: a unidade do real não elimina a diferença; a diferença interna do real não destrói a unidade. O real não é contentor de coisas prontas, nem fusão sem recorte. É continuidade articulada de determinações sob limite.
+
+A sexta determinação do capítulo é esta:
+
+> o real é continuidade estruturada de determinações sob limite.
+
+A reinscrição local é esta: o real deve ser dito como campo contínuo e estruturado de determinações, não como bloco homogéneo nem como contentor atomístico.
+
+## 8. Ser como inscrição determinada no real
+
+Só agora o capítulo pode falar de ser.
+
+Se se começa pelo ser em abstrato, o risco é imediato: o ser parece uma substância soberana, um nome vazio, uma essência separada ou uma entidade anterior ao real. Por isso, o ser tem de vir depois da distinção, da relacionalidade mínima, da estrutura, do limite e da determinação.
+
+Ser não é estar fora do real. Não é pairar acima do real. Não é subsistir como essência separada. Não é uma coisa colocada dentro de um contentor. Ser é estar determinado no real.
+
+Este é o ponto em que a disciplina da Nota de Leitura se torna mais visível. O capítulo pergunta pelo ser; observa que ele pode ser mal dito como substância, coisa, essência ou presença separada; identifica o erro dessa proposição; e reconduz o dizer ao real.
+
+A formulação deve ficar seca:
+
+> ser é inscrição determinada no real.
+
+A palavra inscrição impede a exterioridade. O ser não vem de fora, não se acrescenta ao real, não flutua acima dele. A palavra determinação impede a indistinção. O ser não é puro indeterminado; é algo sob diferença, relação e limite. A referência ao real impede a substancialização. O ser não é mais originário do que o real; só é enquanto modo determinado do real.
+
+Dizer que algo é significa, neste capítulo, dizer que há uma determinação inscrita numa continuidade estruturada. O ser não é substância separada; é modo determinado de estar no real.
+
+Por isso, o fecho positivo do capítulo pode ser dito assim:
+
+> não há ser sem real; não há ser sem determinação; não há determinação sem estrutura e limite; não há estrutura e limite sem distinção e relacionalidade mínima.
+
+A reinscrição local é esta: o dizer do ser deve abandonar a imagem do ser como coisa separada e regressar ao ser como determinação inscrita no real.
+
+## 9. Fecho e fronteira com o Capítulo 2
+
+O primeiro capítulo deve parar aqui.
+
+Parar aqui não é fraqueza. É disciplina.
+
+O capítulo ainda não pergunta como o real aparece. Ainda não pergunta como um ente situado apreende. Ainda não pergunta como a representação fixa o apreendido, como a linguagem o diz, como a verdade o mede, como o erro se instala ou como a ação deve orientar-se.
+
+Todos esses planos dependem de um chão anterior: algo tem de ser determinável no real antes de poder aparecer, ser apreendido, representado, dito, corrigido ou tornado objeto de orientação prática.
+
+O que ficou ganho é precisamente isto: o ser não é substância separada; o real não é bloco homogéneo nem coleção de coisas isoladas; a unidade do real é continuidade estruturada; e qualquer ser só é inteligível como inscrição determinada nesse real.
+
+A pergunta seguinte já pode nascer, mas ainda não pertence a este capítulo.
+
+Depois de posto que o ser é inscrição determinada no real, torna-se legítimo perguntar como esse real, já sendo e já estruturado, aparece a um ente situado no interior dele.
+
+Essa é a pergunta do Capítulo 2.
+
+## 10. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 1 pode ser condensado assim:
+
+### ser em causa
+
+O ser em causa é o ser enquanto **determinação inscrita no real**.
+
+Não é o ser em abstrato, não é uma essência separada, não é uma coisa isolada, não é uma substância primeira, não é um tema metafísico autónomo.
+
+### dizer do ser
+
+O ser pode ser dito erradamente como:
+- substância separada;
+- coisa isolada;
+- essência fora do real;
+- presença autoportante;
+- elemento colocado num contentor chamado real;
+- efeito de uma distinção subjetiva;
+- unidade dissolvida num bloco homogéneo;
+- fragmento disperso numa coleção atomística.
+
+### erro local
+
+O erro local nasce quando a proposição sobre o ser deixa de reconhecer a sua inscrição real e substitui essa inscrição por uma imagem:
+
+- imagem substancialista;
+- imagem atomística;
+- imagem monista indiferenciada;
+- imagem representacional;
+- imagem sistémica;
+- imagem metafísica separada.
+
+O erro não é ainda tratado aqui como teoria geral do erro. É apenas reconhecido como risco local de mau dizer do ser.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> o ser é determinação inscrita no real sob distinção, relacionalidade mínima, estrutura e limite.
+
+### entrega
+
+A entrega ao capítulo seguinte é precisa:
+
+> se o ser é determinação inscrita no real, então pode agora perguntar-se como esse real aparece a um ente situado.
+
+O Capítulo 1 entrega o chão ontológico. Não entrega ainda a apreensão, a representação, a linguagem, a verdade, a correção ou a ação.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que não havia núcleo estrutural admissível em falta. Por isso, esta reescrita não acrescenta novo centro, novo material tardio ou nova arquitetura interna.
+
+A intervenção feita foi apenas de disciplina expositiva:
+- tornar a abertura por distinção mais afirmativa;
+- apertar a passagem de distinção para relacionalidade mínima;
+- encadear melhor relacionalidade, estrutura, limite e determinação;
+- limpar o não-ser funcional;
+- concentrar o real como continuidade estruturada;
+- fechar o ser como inscrição determinada no real;
+- endurecer a fronteira com o Capítulo 2.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada apenas como orientação de legibilidade.
+
+Por isso, esta versão:
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem transformar erro/correção em corpo próprio;
+- reinscreve o dizer do ser no real;
+- entrega ao capítulo seguinte apenas a pergunta pelo aparecer situado.
+
+A Nota não altera o centro do capítulo. Apenas torna mais visível o modo como o leitor deve atravessar a peça.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+- aparecer;
+- localidade como tema próprio;
+- apreensão situada;
+- ponto de vista;
+- representação;
+- linguagem;
+- símbolo;
+- critério;
+- verdade;
+- erro e correção como corpo próprio;
+- dever-ser;
+- valor;
+- dignidade;
+- responsabilidade;
+- cultura;
+- instituição;
+- sistema;
+- crítica tardia;
+- metacrítica filosófica.
+
+### fórmula final da versão
+
+> O Capítulo 1 fixa apenas isto: só há ser como determinação inscrita no real; e essa determinação só é inteligível porque o real comporta distinção, relacionalidade mínima, estrutura e limite sem se desfazer nem em bloco homogéneo nem em dispersão atomística.
+
+O capítulo deve terminar antes do aparecer.
+
+O que ficou ganho é o chão sem o qual o aparecer não poderia ser pensado sem erro: há real estruturado, há determinações sob limite, e o ser é inscrição nesse real.
+
+Só depois deste chão estar posto se torna legítima a pergunta seguinte — não ainda pela consciência, nem pela representação, nem pela experiência subjetiva, mas pelo modo como o real, já sendo, pode aparecer a um ente situado no interior dele.
+
+### fórmula axial de leitura local
+
+> **ser no real:** determinação inscrita no real;  
+> **dizer do ser:** substância, coisa, essência, contentor, bloco ou átomo isolado;  
+> **erro da proposição não real:** substituir a inscrição real por imagem substancialista, atomística, monista ou sistémica;  
+> **reinscrição no real:** ser como determinação inscrita numa continuidade estruturada sob limite.
+
 <a id="capitulo-cap-02-manifestacao-aparecer-apreensao-situada"></a>
 ## CAP_02_manifestacao_aparecer_apreensao_situada
 
 - Pasta: `CAP_02_manifestacao_aparecer_apreensao_situada`
-- Ficheiros incluídos: `6`
+- Ficheiros incluídos: `8`
 
 ### Índice interno da pasta
 
@@ -2828,6 +3492,8 @@ Porque:
 - [03_materiais_criticos](#cap-02-manifestacao-aparecer-apreensao-situada-03-materiais-criticos-md) — `CAP_02_manifestacao_aparecer_apreensao_situada/03_materiais_criticos.md`
 - [04_lacunas_do_capitulo](#cap-02-manifestacao-aparecer-apreensao-situada-04-lacunas-do-capitulo-md) — `CAP_02_manifestacao_aparecer_apreensao_situada/04_lacunas_do_capitulo.md`
 - [05_decisao_local_do_capitulo](#cap-02-manifestacao-aparecer-apreensao-situada-05-decisao-local-do-capitulo-md) — `CAP_02_manifestacao_aparecer_apreensao_situada/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-md) — `CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2](#cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap2-md) — `CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2.md`
 
 <a id="cap-02-manifestacao-aparecer-apreensao-situada-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -4647,11 +5313,972 @@ Porque:
 
 > **O Capítulo 2 já aguenta abrir como segunda peça do tronco positivo, mas só se permanecer baixo: dizer o aparecer situado do real antes da representação, e parar antes de vida, corpo e organismo se tornarem o seu centro.**
 
+<a id="cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+## Capítulo 2 — Manifestação, aparecer e apreensão situada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma primeira versão controlada de escrita do **Capítulo 2 — Manifestação, aparecer e apreensão situada**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo já aguenta passagem a texto corrido sem perder:
+- o seu centro próprio;
+- a sua diferença relativamente ao prólogo;
+- a sua diferença relativamente ao Capítulo 1;
+- a sua fronteira com o Capítulo 3;
+- o travão contra fenomenologia soberana, sujeito fundador, consciência precoce, representação alta, epistemologia alta e antropologia pronta.
+
+### limite
+
+Esta versão não pode:
+- repetir o prólogo;
+- reabrir a fundação ontológica mínima do Capítulo 1;
+- transformar o aparecer em presença autoportante;
+- transformar o ente situado em sujeito soberano;
+- transformar a apreensão em consciência desenvolvida;
+- fazer da representação, da linguagem, da verdade ou do critério o centro do capítulo;
+- deixar corpo, organismo ou vida organizada ocuparem a cabeça do texto.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que o real, já sendo, aparece no interior do próprio real a um ente situado; e que essa apreensão situada precede a representação.
+
+---
+
+# Primeira versão controlada
+
+## 1. Depois do ser como inscrição no real
+
+O Capítulo 1 terminou onde tinha de terminar: o ser só é inteligível como inscrição determinada no real. Não como substância separada, não como coisa isolada, não como essência fora do mundo, mas como modo determinado de estar no real.
+
+Esse ganho não deve ser reaberto aqui.
+
+O Capítulo 2 começa precisamente porque esse ganho já está posto. Já não se pergunta agora em que condições algo pode ser ontologicamente inteligível. Já não se começa por distinção, estrutura, limite ou determinação. Essas condições são o chão que ficou conquistado.
+
+A pergunta muda.
+
+A pergunta agora é esta: **como é que o real, já sendo, aparece a um ente situado no interior dele?**
+
+Esta pergunta é delicada, porque pode ser facilmente mal aberta.
+
+Se se abrir por consciência, sobe cedo demais.  
+Se se abrir por sujeito, desloca o centro para uma instância que ainda não foi legitimada.  
+Se se abrir por representação, esquece que antes de representar já algo teve de aparecer.  
+Se se abrir por fenómeno soberano, faz do aparecer um plano autónomo, como se o real só começasse quando se mostra.
+
+Por isso, a primeira disciplina deste capítulo é negativa e positiva ao mesmo tempo: o aparecer não funda o real; o aparecer é um acontecimento intrarreal.
+
+O real não começa por aparecer. O real aparece porque já é.
+
+## 2. Aparecer intrarreal
+
+Dizer que algo aparece não é dizer que esse algo passou do nada ao ser. Também não é dizer que o seu aparecer o cria.
+
+O real não ganha existência por ser apreendido. Aquilo que aparece aparece porque há real, porque há determinação, porque há relações, porque há limites e porque há um ente situado a quem esse real pode surgir.
+
+O aparecer é, portanto, uma relação interna ao real.
+
+Isto impede dois erros.
+
+O primeiro erro seria tratar o aparecer como se fosse soberano: como se o fenómeno bastasse, como se a presença bastasse, como se aquilo que aparece esgotasse aquilo que é.
+
+O segundo erro seria negar o aparecer por medo de fenomenologia: como se, depois da ontologia mínima, não fosse necessário explicar que o real só se torna acessível a um ente situado através de algum modo de manifestação.
+
+Nenhum dos dois serve.
+
+O aparecer não é fundamento do real, mas também não é ilusão dispensável. É o modo como algo do real se torna dado a um ente que já está no real.
+
+Aparecer significa: o real torna-se presente para uma posição situada, sem deixar de exceder essa posição.
+
+Por isso, o capítulo não trata ainda de verdade. Também não trata ainda de representação. Trata do primeiro modo de acesso: antes de dizermos, antes de formularmos, antes de julgarmos, algo aparece.
+
+Mas aparece no real, a partir do real, e para um ente que não está fora dele.
+
+## 3. Ente situado
+
+Nada apreende de fora do real.
+
+Esta frase deve comandar o capítulo.
+
+O ente a quem o real aparece não ocupa um ponto exterior. Não observa o real de fora, como se pudesse comparar mundo e representação a partir de uma instância neutra. Também não funda o real a partir de si, como se o seu aparecimento fosse a origem daquilo que aparece.
+
+O ente situado está já no real.
+
+Isto significa que a sua relação ao que aparece é sempre uma relação interna. Ele é afetado pelo real porque pertence ao real. Ele apreende porque há uma determinação sua, um lugar seu, uma forma situada de estar em relação com aquilo que o excede.
+
+Ser situado não é um defeito. Não é uma limitação acidental que depois pudesse ser corrigida por um ponto de vista absoluto. É a condição real de qualquer apreensão.
+
+Se não houvesse situação, não haveria ponto de contacto.  
+Se não houvesse localidade, não haveria aparecimento para alguém.  
+Se não houvesse inscrição no real, não haveria sequer relação com aquilo que aparece.
+
+O erro está em querer transformar a localidade em fraqueza pura. A localidade limita, mas também permite. Impede o ponto de vista absoluto, mas torna possível a apreensão concreta.
+
+O real não aparece a uma consciência suspensa no vazio. Aparece a um ente situado.
+
+## 4. Localidade
+
+A localidade não deve ser entendida primeiro como coordenada geométrica.
+
+O capítulo não está a dizer apenas que um corpo ocupa um lugar no espaço. Isso será importante depois, quando o texto tiver de passar para corpo, organismo e vida organizada. Mas ainda não é esse o centro.
+
+Localidade, aqui, significa determinação situada de acesso.
+
+Um ente local não é o real inteiro. Está no real, mas não coincide com a totalidade do real. Apreende a partir de uma posição, de uma relação, de um campo limitado, de um conjunto de afetações possíveis e de impossibilidades próprias.
+
+Por isso, a localidade introduz uma assimetria decisiva: o real é partilhado, mas o acesso ao real é situado.
+
+Esta assimetria não destrói o real. Pelo contrário, protege-o.
+
+Se cada apreensão situada fosse o real inteiro, não haveria diferença entre ponto de vista e real.  
+Se cada apreensão situada fosse apenas subjetividade fechada, não haveria real partilhado.  
+A estrutura correta está entre estas duas falsas soluções: há real comum, mas há modos situados de aparecimento.
+
+É por isso que diferentes entes podem apreender o mesmo real de modos diferentes sem que isso faça do real uma criação privada de cada um.
+
+A diferença entre acessos não prova que não haja real. Prova apenas que o acesso ao real é local.
+
+A localidade é, portanto, condição da apreensão, não negação da verdade futura.
+
+## 5. Apreensão situada
+
+Apreender não é ainda representar.
+
+A apreensão é o primeiro contacto situado com o real. É a afetação pela qual algo do real se dá a um ente que nele está inscrito. Antes de haver conceito, antes de haver linguagem, antes de haver juízo, antes de haver critério explícito, há esta relação mais baixa: algo afeta, algo aparece, algo é recebido segundo uma posição situada.
+
+A apreensão não funda o real. Recebe-o.
+
+Mas também não é pura passividade vazia. Um ente só apreende segundo a sua própria estrutura, segundo o seu modo de estar no real, segundo a sua localidade e os seus limites. Apreender é sempre apreender a partir de uma determinação situada.
+
+Por isso, a apreensão tem duas faces inseparáveis:
+- é abertura ao real;
+- é abertura limitada por uma posição real.
+
+Se se esquecer a primeira face, cai-se em subjetivismo: tudo seria apenas modo interno do ente.  
+Se se esquecer a segunda, cai-se em ingenuidade: como se apreender fosse copiar o real inteiro sem mediação, sem posição, sem limite.
+
+A apreensão situada não é nenhuma destas coisas.
+
+É a forma mínima pela qual o real se torna acessível a um ente localizado, sem que o real se reduza a esse acesso e sem que o acesso se torne exterior ao real.
+
+O capítulo deve insistir nisto: a apreensão é anterior à representação, mas não é soberana sobre aquilo que apreende.
+
+## 6. Afetação real antes da representação
+
+A representação vem depois.
+
+Isto não significa que seja irrelevante. Não significa que a linguagem, o símbolo, a memória, o conceito ou a descrição sejam secundários no sentido fraco. Significa apenas que não podem ocupar aqui a primeira posição.
+
+Antes de representar, há algo apreendido.  
+Antes de dizer, há algo que se deu.  
+Antes de corrigir uma descrição, há relação com aquilo que pode ser mal ou bem descrito.  
+Antes de verdade e erro, há a possibilidade de algo aparecer a um ente situado.
+
+A representação organiza o apreendido. Fixa, estabiliza, compara, torna operável. Mas, precisamente por isso, pertence a uma camada posterior. A representação já trabalha sobre uma matéria que a antecede: a afetação real e a apreensão situada.
+
+Se esta ordem for invertida, tudo se perde.
+
+Quando a representação ocupa o primeiro lugar, parece que o real só existe enquanto é representado.  
+Quando a linguagem ocupa o primeiro lugar, parece que o ser depende do dizer.  
+Quando o critério ocupa o primeiro lugar, parece que o real só entra depois de haver tribunal de validação.  
+Quando a consciência ocupa o primeiro lugar, parece que o mundo nasce do interior.
+
+Este capítulo serve para impedir essa inversão.
+
+O real aparece antes de ser representado. A representação pode depois coincidir melhor ou pior com aquilo que foi apreendido, mas essa questão pertence a uma camada posterior.
+
+Aqui basta fixar a anterioridade: primeiro afetação, depois representação.
+
+## 7. Real partilhado e variação local
+
+A localidade explica a variação sem destruir a comunhão do real.
+
+Dois entes situados não apreendem necessariamente da mesma maneira. Não porque habitem realidades absolutamente privadas, mas porque ocupam posições diferentes no mesmo real. O que aparece a cada um depende da sua localidade, do seu campo de relação, dos seus limites, da sua constituição e da sua situação.
+
+Mas essa variação não autoriza concluir que não há real comum.
+
+Pelo contrário: só há variação de apreensão porque há algo partilhado relativamente ao qual as apreensões variam.
+
+Se nada fosse comum, não haveria sequer diferença comparável entre apreensões. Haveria apenas mundos fechados sem relação. Mas o próprio conflito, a divergência, a comparação e a possibilidade de correção futura pressupõem um real comum que excede cada apreensão local.
+
+Assim, a localidade não conduz ao relativismo absoluto.
+
+Conduz a uma tese mais fina: o real é comum, mas aparece localmente; a apreensão é situada, mas não por isso desligada do real; a diferença entre acessos não elimina a possibilidade de adequação futura.
+
+O capítulo ainda não precisa de desenvolver a verdade. Mas já prepara a sua condição: só poderá haver verdade se houver real partilhado e apreensões situadas que possam ser mais ou menos adequadas ao que aparece e resiste.
+
+## 8. O falso centro do fenómeno
+
+O maior perigo deste capítulo é transformar o aparecer em cabeça soberana.
+
+Isto acontece sempre que se trata o fenómeno como se bastasse por si. Como se aquilo que aparece já fosse a medida total do que é. Como se o aparecer dispensasse o real que aparece, a localidade de quem apreende e a diferença entre apreensão e representação.
+
+Mas o aparecer não é absoluto.
+
+O aparecer é dependente:
+- depende do real que aparece;
+- depende da determinação daquilo que aparece;
+- depende da situação do ente a quem aparece;
+- depende da relação entre ambos;
+- depende dos limites do campo em que a apreensão ocorre.
+
+O fenómeno, isolado desta estrutura, torna-se enganador. Parece primeiro, mas já depende de muito. Parece soberano, mas é relacional. Parece dado puro, mas ocorre num encontro situado.
+
+Por isso, a crítica deste capítulo não deve ser uma crítica tardia ao sistema, à cultura ou à linguagem. Deve ser uma crítica mais baixa e mais precisa: bloquear a falsa autonomia do aparecer.
+
+O aparecer é real. Mas não é o real inteiro.
+
+## 9. O falso centro do sujeito
+
+O segundo perigo é transformar o ente situado em sujeito fundador.
+
+É verdade que o real aparece a um ente. É verdade que esse ente apreende localmente. É verdade que a sua posição importa. Mas isso não faz dele a origem do real.
+
+O ente situado não constitui o real a partir do nada. Não produz, por soberania interior, aquilo que o afeta. Não é legislador primeiro do campo em que se encontra.
+
+O seu poder de apreender é já uma capacidade inscrita no real.
+
+Isto é decisivo: a apreensão não é exterioridade mental. É operação de um ente real, em relação com outros modos reais de determinação. O que apreende está já condicionado, limitado, afetado e sustentado por relações que não controla soberanamente.
+
+Por isso, o capítulo deve falar de ente situado, não de sujeito soberano.
+
+“Sujeito” poderá entrar depois, se for reinscrito e limitado. “Consciência” poderá entrar depois, se for dessubstancializada. “Representação” poderá entrar depois, se for subordinada ao apreendido. Mas aqui ainda não.
+
+Aqui há apenas o ponto baixo: um ente situado é afetado pelo real e apreende algo dele.
+
+## 10. O falso centro da consciência
+
+Também a consciência não pode ser cabeça deste capítulo.
+
+A consciência é demasiado alta para abrir esta zona. Já implica interioridade, reflexividade, estabilização, representação, talvez linguagem, talvez memória, talvez relação consigo. Tudo isso será necessário mais tarde, mas ainda não é o centro do Capítulo 2.
+
+Se a consciência entrar cedo demais, o aparecer deixa de ser intrarreal e passa a parecer um acontecimento interior.
+
+Mas o que o capítulo tem de fixar é anterior a isso: antes de uma consciência se tematizar como consciência, antes de um eu se reconhecer como eu, antes de haver representação explícita, há apreensão situada do real.
+
+A consciência, quando vier, terá de ser explicada a partir desta base. Não a base a partir da consciência.
+
+Por isso, a palavra “consciência” só pode aparecer aqui como perigo ou como sombra terminal. Não como cabeça positiva.
+
+O capítulo não pergunta ainda o que é a consciência. Pergunta o que tem de haver para que algo do real possa aparecer a um ente situado.
+
+## 11. A ponte baixa para o Capítulo 3
+
+O Capítulo 2 não pode fingir que a passagem para o Capítulo 3 se faz sozinha.
+
+Se há apreensão situada, há um ente que apreende. Se esse ente não é ponto abstrato, nem sujeito soberano, nem consciência suspensa, então a sua inscrição terá de ganhar espessura. Terá de haver uma forma de inserção mais concreta: adaptação, continuidade, vida organizada, corpo, organismo.
+
+Mas esta passagem deve permanecer terminal.
+
+O Capítulo 2 pode apenas preparar a necessidade da pergunta seguinte. Não pode ainda respondê-la.
+
+O seu fecho deve dizer: a apreensão situada exige uma inscrição real do ente que apreende; essa inscrição não pode permanecer abstrata; por isso, será necessário perguntar como se organiza o vivo capaz de ser afetado, de permanecer, de se adaptar e de apreender.
+
+Mas quando essa pergunta se torna central, o Capítulo 2 terminou.
+
+O Capítulo 3 começará quando a questão deixar de ser “como aparece o real a um ente situado?” e passar a ser “que tipo de inscrição viva, corporal e organizada torna possível essa apreensão situada?”.
+
+Essa é a ponte baixa `2→3`.
+
+Deve estar presente.  
+Mas não deve tomar a cabeça.
+
+## 12. Fecho do capítulo
+
+O Capítulo 2 fixa uma passagem estreita.
+
+Depois de saber que o ser é inscrição determinada no real, é necessário mostrar que esse real pode aparecer. Mas esse aparecer não é exterior ao real, nem soberano sobre ele. O real aparece no interior do real, a um ente também real, situado, localizado e limitado.
+
+A localidade não destrói o acesso; torna-o possível.  
+A apreensão não funda o real; recebe-o sob limite.  
+A representação não abre esta zona; vem depois da afetação real.  
+A consciência não é ainda centro; será explicada mais tarde a partir da inscrição situada.  
+O corpo e o organismo não entram ainda como cabeça; apenas pressionam o fecho para o capítulo seguinte.
+
+O resultado mínimo do capítulo é este:
+
+> o real, já sendo, aparece intrarrealmente a um ente situado; esse aparecer é apreensão local antes de ser representação, e essa localidade é condição de acesso, não defeito a eliminar.
+
+A partir daqui, a pergunta seguinte torna-se inevitável.
+
+Se a apreensão é situada, que tipo de ser situado apreende?  
+Se a afetação real ocorre num ente real, como se mantém esse ente?  
+Se há acesso local, que inscrição viva sustenta esse acesso?
+
+O Capítulo 2 deve parar antes de responder.
+
+O seu trabalho está feito quando entrega ao Capítulo 3 a necessidade de pensar vida organizada, corpo, organismo e continuidade encarnada — sem ter deixado que esses temas ocupassem antecipadamente o seu centro.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> real já posto e sem exterioridade → aparecer intrarreal → ente situado → localidade → apreensão situada → afetação real anterior à representação → ponte baixa `2→3`.
+
+### ganhos da versão
+
+A versão já consegue:
+- não repetir o prólogo;
+- não reabrir a ontologia mínima do Capítulo 1;
+- formular o aparecer como acontecimento intrarreal;
+- instalar o ente situado sem o transformar em sujeito;
+- formular localidade como condição de apreensão;
+- distinguir apreensão de representação;
+- preparar a ponte para o Capítulo 3 sem absorver corpo, organismo ou vida organizada.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão:
+- a formulação positiva de “aparecer intrarreal”, que deve ficar mais forte sem soar fenomenológica;
+- a distinção entre localidade ontológica e localização espacial;
+- a passagem entre apreensão situada e afetação real;
+- o uso mínimo da palavra “consciência”, que talvez deva ser ainda mais reduzido;
+- o fecho `2→3`, que tem de preparar corpo/vida sem iniciar já o Capítulo 3.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+- fenomenologia soberana;
+- sujeito fundador;
+- consciência como centro;
+- interioridade reflexiva;
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- mediação desenvolvida;
+- critério;
+- verdade;
+- erro e correção;
+- dever-ser;
+- dignidade;
+- responsabilidade;
+- sistema;
+- cultura;
+- instituição;
+- crítica tardia;
+- vida organizada como centro;
+- corpo e organismo como cabeça positiva;
+- continuidade encarnada desenvolvida.
+
+### fórmula final da versão
+
+> O Capítulo 2 fixa apenas isto: o real não aparece a partir de fora nem é fundado por aparecer; aparece no interior de si mesmo a um ente situado, cuja apreensão local precede qualquer representação e exige, apenas no fecho, a passagem prudente para a inscrição viva e corporal do Capítulo 3.
+
+<a id="cap-02-manifestacao-aparecer-apreensao-situada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap2-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2
+
+**Ficheiro de origem:** `CAP_02_manifestacao_aparecer_apreensao_situada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2
+
+## Capítulo 2 — Manifestação, aparecer e apreensão situada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma versão controlada de escrita do **Capítulo 2 — Manifestação, aparecer e apreensão situada**, já ajustada ao confronto disciplinado entre o capítulo localmente aberto, a slice implícita reconstruída a partir das fontes canónicas e a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+
+- o centro próprio do Capítulo 2;
+- a diferença relativamente ao Prólogo;
+- a diferença relativamente ao Capítulo 1;
+- a fronteira com o Capítulo 3;
+- a secura do aparecer intrarreal;
+- o travão contra fenomenologia soberana, sujeito fundador, consciência precoce, representação alta, epistemologia alta e antropologia pronta;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+O confronto anterior confirmou que o capítulo não precisava de novo núcleo material. A tarefa desta versão, por isso, não é acrescentar temas.
+
+A Nota de Leitura também não reabre o capítulo. A sua incidência é apenas expositiva: tornar mais visível que o Capítulo 2 não trata “o fenómeno” em abstrato, nem uma teoria da experiência, nem uma teoria do sujeito, mas uma operação precisa: reconhecer o aparecer como ocorrência intrarreal, bloquear os modos falsos de o dizer e reinscrever o aparecer no real que aparece.
+
+A tarefa desta versão é, portanto, dupla:
+
+1. preservar a cadeia material já ganha;
+2. tornar explícito, sem mecanizar o texto, o movimento local de leitura:
+   - qual é o ser em causa;
+   - como ele pode ser mal dito;
+   - que erro nasce dessa má formulação;
+   - como o capítulo reconduz o dizer ao real.
+
+### limite
+
+Esta versão não pode:
+
+- repetir o Prólogo;
+- reabrir a fundação ontológica mínima do Capítulo 1;
+- transformar o aparecer em presença autoportante;
+- transformar a manifestação em fenómeno soberano;
+- transformar o ente situado em sujeito fundador;
+- transformar a localidade em experiência subjetiva do “aqui”;
+- transformar a apreensão em consciência desenvolvida;
+- fazer da representação, da linguagem, da verdade, do erro, da correção ou do critério o centro do capítulo;
+- abrir uma teoria geral do erro;
+- antecipar o Capítulo 6 ou o Capítulo 7;
+- deixar corpo, organismo ou vida organizada ocuparem a cabeça do texto;
+- transformar a ponte `2→3` em começo disfarçado do Capítulo 3;
+- transformar a Nota de Leitura em método soberano.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para que o aparecer seja pensado como aparecer intrarreal do real a um ente situado, sob localidade e apreensão anterior à representação.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar que real está a aparecer, como esse aparecer pode ser mal dito, que erro nasce desse falso dizer e como a formulação regressa ao real.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a função expositiva do capítulo.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O Prólogo fixou o chão soberano da obra: há real; não há exterioridade ao real; o humano entra apenas como ente situado; a apreensão precede a representação; e qualquer descrição só vale enquanto permanece submetida ao real.
+
+O Capítulo 1 fixou o primeiro corpo positivo desse chão: o ser não é substância separada, nem coisa isolada, nem essência acima do real. Ser é inscrição determinada no real. O real, por sua vez, não é bloco homogéneo nem soma atomística de coisas prontas; é continuidade estruturada de determinações sob limite.
+
+O Capítulo 2 não reabre nenhum destes dois ganhos.
+
+Não volta a provar que há real.  
+Não volta a deduzir distinção, estrutura, limite ou determinação.  
+Não volta a perguntar o que é o ser enquanto inscrição no real.
+
+Parte daí.
+
+A sua pergunta é outra:
+
+> se o real já é e se o ser já foi pensado como inscrição determinada no real, como é que esse real aparece a um ente situado?
+
+O **ser em causa** neste capítulo é, portanto, muito preciso.
+
+Não é o ser em abstrato.  
+Não é o fenómeno em abstrato.  
+Não é a consciência.  
+Não é a representação.  
+Não é o sujeito.  
+Não é a experiência subjetiva.  
+
+O ser em causa é o **aparecer intrarreal do real a um ente situado**.
+
+A palavra “aparecer” não deve ser lida aqui como soberania do fenómeno. O real não passa a ser porque aparece. O real já é. O aparecer é o modo como o real, já sendo, se dá localmente a um ente que também pertence ao real.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> real já posto → aparecer intrarreal → ente situado → localidade → apreensão situada → afetação real antes da representação → ponte baixa `2→3`.
+
+Este corredor é o limite da peça.
+
+Tudo o que exceda este percurso deve esperar.
+
+A pergunta transversal da Nota já começa a operar aqui, mas sem tomar o comando da peça:
+
+- o ser em causa é o aparecer intrarreal do real a um ente situado;
+- o falso dizer a bloquear é o aparecer como fenómeno soberano, presença autoportante, experiência subjetiva originária ou representação fundadora;
+- o erro local é descolar o aparecer do real que aparece;
+- a reinscrição consiste em reconduzir o aparecer ao real e ao ente situado que o apreende localmente.
+
+## 2. O real aparece porque já é
+
+O Capítulo 2 só pode começar depois de o real estar posto.
+
+Se o real dependesse do aparecer para ser, então o aparecer tornar-se-ia fundamento. Mas isso inverteria a ordem já ganha. O aparecer não funda o real. O real pode aparecer porque já é.
+
+A manifestação não acrescenta ser ao real. Também não abre um segundo plano. Não há, de um lado, o real em si, e, do outro, um aparecer separado que o duplicaria. Há real, e há modos intrarreais pelos quais o real se dá a um ente situado.
+
+Este ponto é decisivo.
+
+O aparecer não é exterior ao real.  
+O aparecer não é uma janela fora do real.  
+O aparecer não é um teatro em que o real se representa a partir de outro plano.  
+
+O aparecer acontece no real, por entes reais, em relações reais.
+
+O falso dizer desta zona é tratar o aparecer como presença autoportante. Como se houvesse primeiro um fenómeno puro, uma presença absoluta, uma experiência originária, e só depois se perguntasse se há real por trás disso.
+
+Mas o capítulo não pode seguir esse caminho.
+
+A presença não é soberana. O fenómeno não é fundamento. A experiência não é origem do real. Tudo isso já ocorre no interior do real.
+
+A primeira determinação do capítulo é esta:
+
+> o real não é fundado por aparecer; aparece porque já é.
+
+A reinscrição local é esta: o aparecer deve ser devolvido ao real, e não elevado a plano autónomo de manifestação.
+
+## 3. Aparecer intrarreal
+
+O aparecer de que este capítulo fala é intrarreal.
+
+Isto quer dizer que o aparecer não introduz uma duplicação ontológica. Não há um real verdadeiro, escondido, e um aparecer ilusório, separado. Também não há um aparecer soberano que absorva o real e o reduza a fenómeno.
+
+Há real que aparece.
+
+Mas aparece sempre de algum modo, a partir de alguma localização, sob alguma condição de receção. O aparecer não elimina a estrutura do real; manifesta-a localmente. O que aparece não deixa de pertencer ao real por aparecer. E o ente a quem aparece também não deixa de pertencer ao real por apreender.
+
+O falso dizer aqui é duplo.
+
+Por um lado, pode dizer-se o aparecer como se fosse pura aparência desligada do real. Nesse caso, o aparecer torna-se quase irreal, uma superfície sem força ontológica.
+
+Por outro lado, pode dizer-se o aparecer como se fosse tudo o que há. Nesse caso, o fenómeno absorve o real e transforma-se em soberania.
+
+Ambos os erros falham.
+
+O aparecer não é menos do que real.  
+Mas também não é mais originário do que o real.  
+
+É uma ocorrência intrarreal.
+
+A segunda determinação do capítulo é esta:
+
+> o aparecer é o real a dar-se intrarrealmente a um ente situado.
+
+A reinscrição local é esta: o aparecer deve ser dito como modo intrarreal de doação do real, não como aparência sem real nem como fenómeno soberano.
+
+## 4. Ente situado
+
+O real não aparece em abstrato.
+
+Aparece a um ente situado.
+
+Este ente não está fora do real. Não observa o real a partir de uma posição exterior. Não é instância soberana, nem tribunal absoluto, nem ponto de vista divino. É uma determinação do próprio real, localizada no real, afetável pelo real e limitada pelo real.
+
+A palavra “ente” é importante porque mantém o capítulo baixo. Ainda não se fala de sujeito em sentido forte. Ainda não se fala de consciência reflexiva como centro. Ainda não se fala de interioridade desenvolvida. Fala-se apenas de um ser real a quem algo do real pode aparecer.
+
+O falso dizer desta zona é converter o ente situado em sujeito fundador.
+
+Nesse erro, a localidade deixa de ser condição de apreensão e passa a parecer origem do campo. Como se o mundo aparecesse porque um sujeito o constitui. Como se a situação do ente fosse fonte soberana do real que se dá.
+
+Mas o ente situado não funda o real.  
+Está nele.  
+É afetado por ele.  
+Apreende a partir dele.  
+
+A sua localização é condição do acesso, não fundamento do ser.
+
+A terceira determinação do capítulo é esta:
+
+> o real aparece sempre a um ente que já pertence ao real.
+
+A reinscrição local é esta: o ente situado deve ser devolvido à sua pertença real, não elevado a sujeito fundador do aparecer.
+
+## 5. Localidade
+
+A localidade é a condição ontológica da apreensão.
+
+Não é defeito. Não é erro. Não é mera limitação psicológica. Também não é apenas localização espacial. A localidade, aqui, significa que qualquer ente que apreende está sempre situado no real e, por isso, apreende a partir de uma posição determinada.
+
+Apreender a partir de algum lugar não significa inventar o real. Significa aceder localmente a ele.
+
+A localidade impede duas tentações opostas.
+
+A primeira é a tentação do ponto de vista absoluto: como se fosse possível apreender o real sem posição, sem limite, sem situação, sem corpo futuro, sem inserção.
+
+A segunda é a tentação relativista: como se, por toda a apreensão ser local, deixasse de haver real comum.
+
+Ambas falham.
+
+Não há ponto de vista exterior ao real.  
+Mas também não há dissolução do real em pontos de vista.  
+
+A localidade limita o acesso sem destruir o real que se acede. A variação local das apreensões não prova que o real seja produzido pela perspetiva. Prova apenas que o acesso ao real ocorre por entes situados.
+
+O falso dizer desta zona é transformar localidade em subjetivismo.
+
+Nesse erro, o facto de o real aparecer localmente é convertido em tese de que o real depende da posição local para ser. Mas a posição local só condiciona o modo de acesso. Não cria o real que é acedido.
+
+A quarta determinação do capítulo é esta:
+
+> a localidade é condição da apreensão situada, não fundamento subjetivo do real.
+
+A reinscrição local é esta: a localidade deve ser dita como condição real de acesso, não como ponto de vista soberano nem como relativização do real comum.
+
+## 6. Apreensão situada
+
+Se o real aparece a um ente situado, então esse aparecer é apreendido situadamente.
+
+A apreensão é o primeiro contacto operativo do ente situado com o real que se lhe dá. Não é ainda representação. Não é ainda linguagem. Não é ainda símbolo. Não é ainda juízo de verdade. Não é ainda critério. É a receção situada do real por um ente que já está nele.
+
+A apreensão não funda o real. Também não o duplica. Ela dá ao ente situado uma relação local com aquilo que aparece.
+
+É por isso que a apreensão pertence ao centro deste capítulo.
+
+O capítulo não está ainda no plano da consciência reflexiva. Também não está ainda no plano da representação desenvolvida. Está num plano mais baixo: o real afeta, aparece, e é apreendido por um ente situado.
+
+O falso dizer desta zona é confundir apreensão com consciência já desenvolvida.
+
+Nesse erro, a receção situada do real é imediatamente inflacionada para interioridade, experiência subjetiva, reflexão, auto-observação ou representação de si. Mas isso antecipa capítulos posteriores.
+
+A apreensão situada é mais baixa do que a consciência reflexiva.  
+Mais baixa do que a linguagem.  
+Mais baixa do que a representação como corpo próprio.  
+Mais baixa do que a verdade e o critério.  
+
+É a condição local pela qual algo do real pode ser recebido antes de ser fixado, dito, julgado ou corrigido.
+
+A quinta determinação do capítulo é esta:
+
+> a apreensão é o modo situado pelo qual um ente real recebe o real que lhe aparece.
+
+A reinscrição local é esta: a apreensão deve ser devolvida à sua condição situada e intrarreal, não transformada em consciência soberana.
+
+## 7. Afetação real antes da representação
+
+A apreensão supõe afetação.
+
+O ente situado não começa por representar. Começa por ser afetado. Algo do real incide sobre ele, resiste-lhe, toca-o, condiciona-o, abre-lhe uma diferença local de relação. Só depois essa afetação pode ser estabilizada, organizada, retida, representada, nomeada ou dita.
+
+A ordem do capítulo é, portanto:
+
+> afetação real → apreensão situada → representação possível.
+
+A representação entra aqui apenas como limite negativo e como derivação ulterior. É preciso mencioná-la para não confundir apreensão com representação, mas não se pode fazer dela o centro.
+
+Representar é já fixar de algum modo o apreendido. Mas o que é fixado teve antes de ser dado. O que é representado teve antes de afetar. A representação não cria o real; trabalha sobre a apreensão situada de algo real.
+
+O falso dizer desta zona é antecipar a representação.
+
+Nesse erro, o capítulo deixa de falar do aparecer situado do real e passa a falar do modo como o ente organiza, simboliza, estabiliza ou valida aquilo que apreendeu. Isso já pertence a capítulos posteriores.
+
+Aqui basta dizer o mínimo:
+
+- primeiro há real;
+- esse real aparece intrarrealmente;
+- aparece a um ente situado;
+- esse ente é afetado e apreende;
+- só depois poderá representar.
+
+A sexta determinação do capítulo é esta:
+
+> a afetação real precede a representação; a representação é derivada e subordinada.
+
+A reinscrição local é esta: a representação deve ser devolvida ao seu lugar posterior, não promovida a origem da apreensão.
+
+## 8. O erro local do capítulo
+
+A Nota de Leitura obriga a tornar visível o erro próprio de cada capítulo. No Capítulo 2, esse erro não deve ser tratado como teoria geral do erro. Deve ser apenas reconhecido como risco local de mau dizer do aparecer.
+
+O erro local nasce quando o dizer do aparecer deixa de reconhecer o real que aparece.
+
+Esse erro pode tomar várias formas.
+
+Pode dizer o aparecer como fenómeno soberano.  
+Nesse caso, o real passa a depender do aparecer.
+
+Pode dizer o aparecer como presença autoportante.  
+Nesse caso, a presença substitui o real que se manifesta.
+
+Pode dizer o aparecer como experiência subjetiva originária.  
+Nesse caso, o sujeito começa a ocupar o lugar do real.
+
+Pode dizer a localidade como ponto de vista absoluto.  
+Nesse caso, a posição situada torna-se tribunal.
+
+Pode dizer a localidade como relativismo.  
+Nesse caso, a variação local dissolve indevidamente o real comum.
+
+Pode dizer a apreensão como consciência desenvolvida.  
+Nesse caso, a receção situada é inflacionada em reflexividade.
+
+Pode dizer a representação como origem.  
+Nesse caso, aquilo que vem depois passa a ocupar o lugar do que vem antes.
+
+Pode dizer a ponte `2→3` como começo do corpo.  
+Nesse caso, vida, corpo e organismo invadem o capítulo antes de terem estatuto próprio.
+
+Todos estes erros têm uma forma comum:
+
+> descolam o aparecer do real que aparece e substituem a ocorrência intrarreal por uma camada derivada.
+
+A sétima determinação do capítulo é esta:
+
+> o erro local do Capítulo 2 é substituir o aparecer intrarreal por fenómeno, sujeito, consciência, representação ou corpo antecipado.
+
+A reinscrição local é esta: cada falso dizer deve ser reconduzido à cadeia baixa do capítulo — real, ente situado, localidade, apreensão e afetação anterior à representação.
+
+## 9. Reinscrição do aparecer no real
+
+A correção local do Capítulo 2 não consiste em propor outra teoria do fenómeno.
+
+Consiste em devolver o aparecer ao real.
+
+O aparecer não deve ser negado. Deve ser situado. Não se trata de dizer que o aparecer é ilusório, secundário ou irrelevante. Trata-se de dizer que ele só é inteligível porque há real que aparece e porque há um ente real a quem aparece.
+
+A reinscrição correta tem quatro momentos.
+
+Primeiro: o real já é.  
+Segundo: o aparecer ocorre no interior do real.  
+Terceiro: o aparecer ocorre a um ente situado.  
+Quarto: esse ente apreende antes de representar.
+
+Esta sequência impede que o aparecer se autonomize.
+
+O real não fica atrás do aparecer como coisa inacessível.  
+Também não se dissolve no aparecer como fenómeno soberano.  
+O real aparece, mas aparece intrarrealmente.
+
+O ente situado não é espectador exterior.  
+Também não é criador do campo.  
+É ponto real de apreensão local.
+
+A apreensão não é consciência soberana.  
+Também não é representação já estabilizada.  
+É receção situada da afetação real.
+
+A representação não é excluída.  
+É apenas posta no seu lugar: depois.
+
+A oitava determinação do capítulo é esta:
+
+> reinscrever o aparecer é reconduzi-lo ao real que aparece, ao ente situado que apreende e à anterioridade da afetação sobre a representação.
+
+Esta é a correção local que o capítulo pode fazer.
+
+Nada mais.
+
+## 10. Fecho e ponte baixa `2→3`
+
+O Capítulo 2 deve terminar antes de mudar de centro.
+
+A sua pergunta foi: como aparece o real a um ente situado?
+
+A resposta mínima ficou ganha: o real aparece intrarrealmente a um ente que pertence ao real; esse ente apreende localmente; essa apreensão é afetação situada anterior à representação.
+
+Mas esta resposta abre uma nova pressão.
+
+Se há ente situado que apreende, então esse ente não pode permanecer como ponto abstrato de receção. A sua situação terá de ser pensada de modo mais encarnado. A apreensão não paira no vazio. Exige inscrição viva, continuidade mínima, adaptação, corpo, organismo, integração num campo de vida.
+
+Contudo, esta pressão ainda não pertence ao centro do Capítulo 2.
+
+Ela pertence à ponte terminal `2→3`.
+
+O capítulo pode entregar ao seguinte apenas isto:
+
+> a apreensão situada exige uma inscrição mais encarnada do ente que apreende.
+
+Esta entrega prepara o Capítulo 3 — Vida, organismo e corporeidade.
+
+Mas não o inicia ainda.
+
+O falso dizer da ponte é transformar esta passagem em absorção. Como se, por se falar de ente situado, já se pudesse falar plenamente de corpo; como se, por haver apreensão, já se pudesse abrir vida organizada; como se, por haver afetação, já se pudesse desenvolver organismo e continuidade encarnada.
+
+Esse salto seria indevido.
+
+O Capítulo 2 deve parar no bordo.
+
+A nona determinação do capítulo é esta:
+
+> a ponte `2→3` é obrigatória, mas apenas terminal: prepara corpo e vida organizada sem os fazer ocupar o centro do Capítulo 2.
+
+A reinscrição local é esta: a ponte deve ser devolvida ao seu estatuto de passagem, não convertida em cabeça antecipada do capítulo seguinte.
+
+## 11. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 2 pode ser condensado assim.
+
+### ser em causa
+
+O ser em causa é o **aparecer intrarreal do real a um ente situado**.
+
+Não é:
+
+- fenómeno soberano;
+- presença autoportante;
+- experiência subjetiva originária;
+- consciência;
+- representação;
+- sujeito;
+- corpo;
+- organismo;
+- teoria da perceção;
+- teoria da verdade.
+
+É o modo como o real, já sendo, aparece localmente a uma determinação real capaz de apreensão situada.
+
+### dizer do ser
+
+O aparecer pode ser dito erradamente como:
+
+- fenómeno em abstrato;
+- presença pura;
+- manifestação autoportante;
+- experiência subjetiva;
+- dado da consciência;
+- construção do sujeito;
+- representação originária;
+- ponto de vista absoluto;
+- relatividade local sem real comum;
+- começo imediato da vida corporal organizada.
+
+### erro local
+
+O erro local nasce quando a proposição sobre o aparecer deixa de reconhecer que o aparecer pertence ao real e substitui essa inscrição por uma camada derivada.
+
+As formas principais desse erro são:
+
+- fenomenologização soberana do aparecer;
+- subjetivação da localidade;
+- soberanização do ponto de vista;
+- antecipação da consciência;
+- antecipação da representação;
+- abertura prematura de verdade, critério, erro ou correção;
+- absorção precoce por corpo, vida organizada ou organismo.
+
+O erro não é ainda tratado aqui como corpo próprio. É apenas reconhecido como risco local de mau dizer do aparecer.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> o real aparece no interior do real a um ente situado; essa aparição é apreensão local e afetiva anterior à representação.
+
+A reinscrição não nega o aparecer.  
+Não nega a localidade.  
+Não nega a representação futura.  
+Não nega o corpo futuro.  
+
+Apenas põe cada uma dessas camadas no seu lugar.
+
+### entrega
+
+A entrega ao capítulo seguinte é precisa:
+
+> se o aparecer ocorre a um ente situado que apreende por afetação real, então é necessário perguntar que inscrição viva, corporal e organizada torna essa apreensão possível.
+
+O Capítulo 2 entrega a pergunta pelo corpo, pela vida organizada e pela corporeidade.
+
+Mas não entrega ainda uma teoria do corpo.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> real já posto → aparecer intrarreal → ente situado → localidade → apreensão situada → afetação real antes da representação → ponte baixa `2→3`.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que não havia núcleo estrutural admissível em falta.
+
+Por isso, esta reescrita não acrescenta novo centro, novo material tardio ou nova arquitetura interna.
+
+A intervenção feita foi apenas de disciplina expositiva:
+
+- tornar mais explícito o aparecer como ser em causa no capítulo;
+- reforçar que o real não é fundado por aparecer;
+- limpar a formulação de aparecer intrarreal;
+- apertar a passagem entre ente situado, localidade e apreensão situada;
+- reduzir a representação ao seu lugar subordinado;
+- nomear os falsos modos de dizer o aparecer;
+- identificar o erro local sem abrir teoria geral do erro;
+- reinscrever o aparecer no real;
+- endurecer a ponte terminal `2→3`.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada apenas como orientação de legibilidade.
+
+Por isso, esta versão:
+
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem transformar erro/correção em corpo próprio;
+- reinscreve o dizer do aparecer no real;
+- entrega ao capítulo seguinte apenas a necessidade de pensar a inscrição viva e corporal da apreensão.
+
+A Nota não altera o centro do capítulo.
+
+Apenas torna mais visível o modo como o leitor deve atravessar a peça.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+
+- fenomenologia soberana;
+- fenómeno como plano autónomo;
+- presença autoportante;
+- sujeito fundador;
+- consciência como centro;
+- interioridade reflexiva;
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- mediação desenvolvida;
+- adequação;
+- critério;
+- verdade;
+- erro e correção como corpo próprio;
+- dever-ser;
+- dignidade;
+- responsabilidade;
+- sistema;
+- cultura;
+- instituição;
+- crítica tardia;
+- vida organizada como centro;
+- corpo e organismo como cabeça positiva;
+- continuidade encarnada desenvolvida;
+- memória;
+- identidade temporal;
+- relação mínima consigo.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão futura:
+
+- a formulação positiva de “aparecer intrarreal”, que deve continuar a ficar forte sem soar fenomenológica;
+- a distinção entre localidade ontológica e localização espacial;
+- a passagem entre apreensão situada e afetação real;
+- o uso mínimo de termos como consciência, sujeito e experiência, que devem permanecer sobretudo como falsos centros a bloquear;
+- o fecho `2→3`, que tem de preparar corpo e vida sem iniciar o Capítulo 3;
+- o equilíbrio entre crítica local e centro positivo, para que o capítulo não pareça mais forte pelo que recusa do que pelo que afirma.
+
+### fórmula final da versão
+
+> O Capítulo 2 fixa apenas isto: o real não aparece a partir de fora nem é fundado por aparecer; aparece no interior de si mesmo a um ente situado, cuja apreensão local precede qualquer representação e exige, apenas no fecho, a passagem prudente para a inscrição viva e corporal do Capítulo 3.
+
+O capítulo deve terminar antes de o corpo se tornar centro.
+
+O que ficou ganho é o primeiro desdobramento do real já posto: não apenas há ser inscrito no real, mas esse real aparece intrarrealmente a um ente situado, por apreensão local anterior à representação.
+
+Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pela consciência reflexiva, nem pela linguagem, nem pela verdade, mas pela inscrição viva, corporal e organizada que torna essa apreensão situada possível.
+
+### fórmula axial de leitura local
+
+> **ser no real:** aparecer intrarreal do real a um ente situado;  
+> **dizer do ser:** fenómeno soberano, presença autoportante, experiência subjetiva, sujeito fundador, consciência precoce, representação originária ou corpo antecipado;  
+> **erro da proposição não real:** descolar o aparecer do real que aparece e substituir a ocorrência intrarreal por uma camada derivada;  
+> **reinscrição no real:** aparecer como doação intrarreal do real a um ente situado, sob localidade, apreensão e afetação anterior à representação.
+
 <a id="capitulo-cap-03-vida-organismo-corporeidade"></a>
 ## CAP_03_vida_organismo_corporeidade
 
 - Pasta: `CAP_03_vida_organismo_corporeidade`
-- Ficheiros incluídos: `6`
+- Ficheiros incluídos: `8`
 
 ### Índice interno da pasta
 
@@ -4661,6 +6288,8 @@ Porque:
 - [03_materiais_criticos](#cap-03-vida-organismo-corporeidade-03-materiais-criticos-md) — `CAP_03_vida_organismo_corporeidade/03_materiais_criticos.md`
 - [04_lacunas_do_capitulo](#cap-03-vida-organismo-corporeidade-04-lacunas-do-capitulo-md) — `CAP_03_vida_organismo_corporeidade/04_lacunas_do_capitulo.md`
 - [05_decisao_local_do_capitulo](#cap-03-vida-organismo-corporeidade-05-decisao-local-do-capitulo-md) — `CAP_03_vida_organismo_corporeidade/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-03-vida-organismo-corporeidade-06-primeira-versao-controlada-de-escrita-md) — `CAP_03_vida_organismo_corporeidade/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3](#cap-03-vida-organismo-corporeidade-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap3-md) — `CAP_03_vida_organismo_corporeidade/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3.md`
 
 <a id="cap-03-vida-organismo-corporeidade-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -6550,3 +8179,21786 @@ Porque:
 ## VIII. Fórmula final curta
 
 > **O Capítulo 3 já aguenta abrir como terceira peça do tronco positivo, mas só se permanecer no seu entremeio próprio: dizer a espessura do vivo organizado como solo da passagem à diferença reflexiva encarnada, e parar antes de memória, representação, mediação, consciência ou sujeito se tornarem a sua cabeça.**
+
+<a id="cap-03-vida-organismo-corporeidade-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_03_vida_organismo_corporeidade/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+## Capítulo 3 — Vida, organismo e corporeidade
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma primeira versão controlada de escrita do **Capítulo 3 — Vida, organismo e corporeidade**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo já aguenta passagem a texto corrido sem perder:
+- a mediação herdada do Capítulo 2;
+- o seu centro próprio;
+- a diferença entre vida organizada e consciência;
+- a diferença entre corpo e sujeito;
+- a diferença entre continuidade encarnada e memória;
+- a fronteira com o Capítulo 4.
+
+### limite
+
+Esta versão não pode:
+- transformar o capítulo numa biologia filosófica abstrata;
+- tratar vida, organismo e corpo como simples temas regionais;
+- abrir por consciência, sujeito, interioridade ou reflexividade soberana;
+- abrir por memória ou identidade temporal;
+- abrir por representação, mediação, linguagem, verdade ou critério;
+- absorver o Capítulo 4;
+- regressar ao Capítulo 2 como se a apreensão situada bastasse por si;
+- deixar a ponte `3→4` ocupar a cabeça do capítulo.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que, entre a apreensão situada e a reflexividade humana, há a espessura do vivo organizado: organismo, corpo, campo do vivo, continuidade encarnada, estabilização local e apreensão incorporada.
+
+---
+
+# Primeira versão controlada
+
+## 1. Depois da apreensão situada
+
+O Capítulo 2 terminou onde devia terminar: o real aparece intrarrealmente a um ente situado; essa apreensão é local, anterior à representação, e não funda o real que apreende.
+
+O Capítulo 3 começa porque essa formulação ainda não basta.
+
+Se há apreensão situada, há um ente que apreende. E esse ente não pode ser um ponto abstrato. Não pode ser apenas uma posição lógica. Não pode ser apenas uma abertura sem espessura. Também não pode ser já consciência, sujeito ou reflexividade constituída.
+
+Entre a apreensão situada e a consciência reflexiva há um chão intermédio que tem de ser pensado.
+
+Esse chão é o vivo organizado.
+
+A apreensão não ocorre no vazio. O real não aparece a uma pura coordenada. Aparece a um ente que se mantém, que responde, que se adapta, que conserva alguma continuidade, que sofre afetações, que se orienta num campo, que tem limites e que opera corporalmente no real.
+
+Por isso, o Capítulo 3 não pergunta ainda o que é a consciência.
+
+Pergunta antes: **que tipo de inscrição viva torna possível que um ente situado seja afetado pelo real, se mantenha nessa relação e prepare uma diferença reflexiva encarnada?**
+
+## 2. O vivo organizado
+
+Vida, aqui, não deve ser tomada como tema biológico solto.
+
+O capítulo não abre uma teoria geral da vida. Não enumera propriedades de organismos. Não substitui a ontologia pelo vocabulário das ciências biológicas. Também não transforma o vivo em substância especial, separada do resto do real.
+
+Vida organizada significa apenas isto: há modos de ser que não se limitam a estar determinados no real; persistem por organização interna, por relação com campo, por adaptação, por continuidade funcional e por capacidade de responder a afetações.
+
+O vivo é real organizado em manutenção.
+
+Não está fora do real. Não suspende as condições ontológicas já ganhas. Continua a depender de distinção, relação, estrutura, limite, determinação e atualização. Mas introduz uma forma nova de inscrição: uma determinação que se conserva operativamente, que responde ao que a afeta e que mantém uma relação dinâmica com o campo em que se encontra.
+
+O vivo organizado é, portanto, uma forma de continuidade sob tensão.
+
+Não é pura permanência.  
+Não é simples soma de partes.  
+Não é mecanismo morto.  
+Não é consciência.  
+Não é ainda sujeito.
+
+É organização real capaz de persistir na relação com aquilo que a atravessa.
+
+## 3. Organismo
+
+O organismo é a forma local dessa organização viva.
+
+Um organismo não é apenas um objeto entre objetos. É uma unidade funcional de relações, limites, dependências, equilíbrios, vulnerabilidades e respostas. Não existe como coisa isolada; existe como organização situada num campo.
+
+O organismo separa-se do meio, mas não se separa do real.
+
+Tem limite, mas esse limite não é fechamento absoluto. O limite orgânico permite diferenciação, proteção, troca, afetação, resposta. Se fosse completamente fechado, deixaria de viver; se fosse completamente aberto, dissolver-se-ia.
+
+Por isso, o organismo é uma determinação viva sob limite permeável.
+
+A sua unidade não é bloco. A sua pluralidade interna não é dispersão. O organismo permanece porque mantém relações internas e externas suficientemente estáveis para continuar a operar como este organismo.
+
+O organismo prepara a diferença reflexiva não por possuir já consciência, mas por instaurar uma forma de continuidade organizada na qual afetações podem ser recebidas, integradas e respondidas.
+
+O organismo é, por isso, o primeiro modo forte de dizer: a apreensão situada exige um ente vivo capaz de permanecer na relação.
+
+## 4. Corpo
+
+O corpo não é um invólucro da consciência.
+
+Esta frase é decisiva.
+
+Se o corpo for tratado como simples suporte exterior de uma interioridade futura, o capítulo já caiu no erro que devia impedir. O corpo não vem depois de um sujeito. O corpo é a própria inscrição concreta do vivo no real.
+
+O corpo é o modo como o organismo está exposto, limitado, afetado e operante.
+
+É pelo corpo que o real toca o vivo.  
+É pelo corpo que o vivo encontra resistência.  
+É pelo corpo que há orientação, pressão, necessidade, movimento, dor, fome, equilíbrio, cansaço, gesto, aproximação, afastamento.  
+É pelo corpo que o ente situado deixa de ser apenas posição e passa a ser vulnerabilidade organizada no real.
+
+Mas o corpo também não deve ser reduzido a matéria bruta.
+
+O corpo é estrutura viva em relação. É limite, campo, abertura e resistência. Não é sujeito; mas também não é coisa morta. É o lugar real em que a afetação deixa de ser abstração e ganha espessura.
+
+Por isso, o corpo é condição da apreensão incorporada.
+
+Antes de haver representação, há corpo afetado. Antes de haver pensamento reflexivo, há orientação corporal. Antes de haver sujeito, há uma forma viva de estar no real.
+
+## 5. Campo do vivo
+
+Nenhum organismo vive sem campo.
+
+O campo do vivo não é apenas espaço físico. Também não é ainda mundo simbólico, cultura ou sistema. É a configuração relacional em que um organismo se encontra, se orienta, recebe afetações, encontra possibilidades, resistências e limites.
+
+O organismo não está simplesmente dentro de um ambiente como um objeto dentro de uma caixa. O organismo vive em relação com um campo que o condiciona e que ele também transforma.
+
+Há alimento ou ausência dele.  
+Há abrigo ou exposição.  
+Há ameaça ou segurança.  
+Há proximidade ou distância.  
+Há compatibilidade ou incompatibilidade.  
+Há possibilidade de movimento e impossibilidade de movimento.  
+Há condições que sustentam a vida e condições que a degradam.
+
+O campo do vivo é, portanto, o conjunto relacional das condições em que a organização viva se mantém, se altera ou falha.
+
+É aqui que o Capítulo 3 começa a ganhar a sua diferença face ao Capítulo 2. No Capítulo 2, a localidade dizia a posição situada da apreensão. Aqui, a localidade ganha espessura orgânica: a posição é de um vivo que tem de se manter no real.
+
+Não basta aparecer.  
+Não basta apreender.  
+É preciso haver uma forma viva capaz de suportar a relação com aquilo que aparece.
+
+## 6. Continuidade encarnada
+
+A vida organizada exige continuidade.
+
+Mas esta continuidade não é ainda memória. Não é identidade narrativa. Não é consciência temporal. Não é retenção representacional. É mais baixa: continuidade encarnada.
+
+Continuidade encarnada significa que o organismo se mantém como o mesmo campo vivo de operação através de mudanças reais. Alimenta-se, desloca-se, sofre afetações, recompõe equilíbrios, perde e recupera energia, conserva formas, altera-se sem deixar imediatamente de ser aquele organismo.
+
+Esta continuidade não é rígida. É dinâmica.
+
+Um vivo que não se alterasse não responderia ao real.  
+Um vivo que se alterasse sem qualquer permanência deixaria de se manter.  
+A vida exige a composição difícil entre permanência e variação.
+
+É por isso que a continuidade encarnada é indispensável: ela permite que a afetação não se perca no instante, mas também não se converta ainda em memória como centro próprio.
+
+Há uma permanência mínima da relação viva.
+
+O organismo não é refeito do zero a cada afetação. O corpo não é pura sucessão de impactos. Há estabilidade suficiente para que as afetações tenham consequências, para que as respostas se organizem, para que a relação com o campo ganhe forma.
+
+Mas o capítulo deve parar antes de chamar a isto memória em sentido próprio.
+
+A continuidade encarnada prepara a memória. Não é ainda o capítulo da memória.
+
+## 7. Estabilização local
+
+O vivo organizado estabiliza localmente.
+
+Esta estabilização não é fechamento. Não é sistema autónomo. Não é identidade fixa. É apenas a capacidade de manter uma configuração funcional suficientemente estável para que a vida prossiga.
+
+A estabilização local permite que o organismo não seja arrastado por cada alteração do campo. Permite resposta, adaptação, aprendizagem elementar, repetição funcional, orientação. Permite que o vivo tenha uma forma própria de relação com o real.
+
+Mas essa forma continua submetida ao real.
+
+Quando o campo muda, a estabilização pode falhar.  
+Quando o limite é ultrapassado, a organização degrada-se.  
+Quando a resposta não corresponde à afetação, o organismo sofre dano, perda, desorientação ou morte.  
+Quando a escala muda, uma resposta adequada num campo pode ser inadequada noutro.
+
+Por isso, a estabilização local tem de ser lida sob campo, escala e limite.
+
+O Capítulo 3 não deve transformar a vida em auto-organização soberana. O vivo estabiliza-se, mas não cria o real que o sustenta. Organiza-se, mas dentro de limites que não domina. Persiste, mas só enquanto a sua forma de persistência permanecer compatível com o campo.
+
+A estabilização local é, assim, condição da passagem à diferença reflexiva encarnada, mas também já contém um travão: nenhuma organização viva é absoluta.
+
+## 8. Apreensão incorporada
+
+A apreensão situada do Capítulo 2 ganha aqui corpo.
+
+Apreender, no vivo organizado, não é apenas receber um dado. É ser afetado de modo incorporado por aquilo que importa para a manutenção, orientação e resposta de uma forma viva.
+
+O organismo não apreende como uma máquina neutra que regista informação exterior. Apreende segundo a sua forma de vida, os seus limites, as suas capacidades, as suas necessidades, o seu campo, o seu modo de vulnerabilidade e de resposta.
+
+Isto não quer dizer que a apreensão seja mera projeção interna. Quer dizer que a apreensão é sempre apreensão de um vivo situado.
+
+O real afeta.  
+O corpo recebe.  
+O organismo integra.  
+O campo orienta.  
+A continuidade permite conservar consequências.  
+A estabilização local permite responder.
+
+A apreensão incorporada é este primeiro cruzamento entre real e vida organizada.
+
+Ela ainda não é representação. Ainda não é linguagem. Ainda não é verdade. Ainda não é consciência reflexiva. Mas já é mais do que simples impacto: é afetação integrada numa forma viva de relação com o real.
+
+É neste ponto que o capítulo prepara a sua torção central.
+
+## 9. A diferença reflexiva encarnada
+
+A diferença reflexiva não aparece como milagre.
+
+Também não aparece como substância separada do vivo.
+
+Se vier a existir uma forma de reflexividade, ela tem de ser pensável a partir de uma organização viva que já suporta afetação, continuidade, estabilização, campo, orientação e apreensão incorporada.
+
+Mas isto não significa que a reflexividade seja apenas biologia.
+
+Aqui está a tensão central do capítulo.
+
+Por um lado, a diferença reflexiva não vem de fora do vivo. Não desce sobre o organismo como entidade espiritual. Não exige uma substância interior separada. Não funda um sujeito soberano.
+
+Por outro lado, também não se reduz a dizer “há corpo” ou “há organismo”. O corpo é condição, mas não é explicação total. O organismo é solo, mas não é fecho. A vida organizada prepara a diferença reflexiva, mas não a deve achatar numa mera função biológica indiferenciada.
+
+A diferença reflexiva encarnada é uma torção interna do vivo organizado.
+
+Ela torna-se pensável quando um ente vivo não apenas é afetado, mas conserva, integra, diferencia e orienta a sua relação com o real de tal modo que se abre a possibilidade de uma relação mais fina consigo e com aquilo que o afeta.
+
+Ainda não é sujeito constituído.  
+Ainda não é consciência plena.  
+Ainda não é representação mediada.  
+Ainda não é memória como centro próprio.
+
+É a possibilidade encarnada de uma diferença interna no vivo.
+
+O capítulo deve ficar neste ponto: mostrar que essa diferença é real, interna, corporal, situada e não soberana.
+
+## 10. Contra o dualismo
+
+O primeiro erro a bloquear é o dualismo.
+
+O dualismo surge quando a diferença reflexiva é lida como prova de uma exterioridade substancial. Como se, porque há algo no humano que não parece esgotar-se na descrição do corpo, fosse necessário introduzir outro plano separado.
+
+Mas esta conclusão é precipitada.
+
+A diferença reflexiva pode ser real sem ser exterior. Pode exceder uma descrição biologista pobre sem exigir uma substância separada. Pode introduzir uma nova forma de relação sem quebrar a inscrição no vivo organizado.
+
+O erro dualista está em confundir diferença com separação.
+
+O Capítulo 3 deve dizer o contrário: a diferença que interessa é diferença interna, encarnada e situada. Não há necessidade de a retirar do real, nem de a colocar acima do organismo, nem de a fazer depender de uma alma ou sujeito soberano.
+
+A reflexividade futura será tanto mais inteligível quanto menos for arrancada ao vivo que a prepara.
+
+## 11. Contra o reducionismo
+
+O segundo erro a bloquear é o reducionismo.
+
+O reducionismo surge quando se diz: se a diferença reflexiva depende de corpo, organismo, campo e continuidade, então nada há nela além desses elementos tomados no seu nível mais baixo.
+
+Mas isto também falha.
+
+Uma condição não é sempre uma explicação total. O facto de a diferença reflexiva exigir corpo não significa que o corpo, descrito isoladamente, diga tudo o que há a dizer sobre ela. O facto de exigir organismo não significa que a possamos achatar em funcionamento biológico. O facto de depender de continuidade encarnada não significa que seja apenas persistência orgânica.
+
+O erro reducionista está em confundir solo com fecho.
+
+O vivo organizado é necessário, mas não encerra por si a totalidade da passagem. Ele torna a diferença reflexiva possível, mas não autoriza apagá-la.
+
+Assim, o capítulo deve bloquear dois desvios simétricos:
+- contra o dualismo, a diferença reflexiva não vem de fora do vivo;
+- contra o reducionismo, a diferença reflexiva não se esgota no vivo tomado abstratamente.
+
+A solução é pensar a passagem: o vivo organizado torna inteligível uma diferença reflexiva encarnada.
+
+## 12. Campo, escala e limite como travão
+
+A passagem só é admissível se respeitar campo, escala e limite.
+
+Nem toda a descrição do corpo serve para explicar a reflexividade.  
+Nem toda a descrição da vida serve para explicar o humano.  
+Nem toda a continuidade é memória.  
+Nem toda a afetação é apreensão organizada.  
+Nem toda a estabilização é sujeito.  
+Nem toda a diferença interna é consciência.
+
+Cada termo tem campo próprio, escala própria e limite próprio.
+
+É por isso que o Capítulo 3 precisa de um travão. Sem ele, a escrita ou fica baixa demais, presa a vida e organismo em abstrato, ou sobe cedo demais para consciência, memória, representação e sujeito.
+
+Campo, escala e limite impedem essas duas fugas.
+
+O corpo entra como corpo vivo, não como sujeito.  
+A continuidade entra como continuidade encarnada, não como memória.  
+A estabilização entra como estabilização local, não como identidade narrativa.  
+A diferença reflexiva entra como torção encarnada, não como consciência soberana.  
+A ponte para o Capítulo 4 entra como preparação, não como abertura antecipada.
+
+Este travão é essencial para que o capítulo não perca a sua posição.
+
+## 13. A ponte baixa para o Capítulo 4
+
+O Capítulo 3 deve preparar o Capítulo 4, mas não o deve escrever.
+
+A pergunta do Capítulo 3 é: como é que o vivo organizado torna inteligível uma diferença reflexiva encarnada?
+
+A pergunta do Capítulo 4 será outra: como é que essa diferença encarnada se constitui, estabiliza, representa, medeia e pode tornar-se reflexividade humana sem se transformar em sujeito soberano?
+
+A passagem existe, mas deve ser terminal.
+
+O Capítulo 3 pode dizer que a diferença reflexiva encarnada exige continuação. Pode dizer que a apreensão incorporada prepara formas mais altas de estabilização. Pode dizer que haverá uma subida para memória, representação e mediação. Pode dizer que a consciência futura terá de ser reinscrita no corpo e no real.
+
+Mas não deve ainda desenvolver esses temas.
+
+Quando memória, representação, mediação e consciência se tornam centro, o Capítulo 3 terminou.
+
+O seu fecho deve entregar ao Capítulo 4 uma base limpa: o humano reflexivo não nasce como sujeito exterior; nasce de uma diferença interna ao vivo organizado, corporal, situada e limitada.
+
+## 14. Fecho do capítulo
+
+O Capítulo 3 fixa uma passagem necessária.
+
+Depois de mostrar que o real aparece a um ente situado, é preciso mostrar que esse ente situado não é abstração. É vivo organizado. É organismo. É corpo. Está em campo. Persiste por continuidade encarnada. Estabiliza localmente a sua relação ao real. Apreende incorporadamente aquilo que o afeta.
+
+Só neste solo se torna pensável uma diferença reflexiva encarnada.
+
+Essa diferença não vem de fora do vivo.  
+Também não se esgota no vivo tomado em abstrato.  
+Não é alma separada.  
+Não é pura biologia.  
+Não é sujeito.  
+Não é ainda consciência.  
+Não é ainda memória.  
+Não é ainda representação.
+
+É uma torção interna do vivo organizado que prepara a constituição reflexiva posterior.
+
+O resultado mínimo do capítulo é este:
+
+> entre o aparecer situado e a reflexividade humana há a espessura do vivo organizado; organismo, corpo, campo, continuidade encarnada, estabilização local e apreensão incorporada tornam inteligível uma diferença reflexiva encarnada sem dualismo nem reducionismo.
+
+A partir daqui, a pergunta seguinte torna-se inevitável.
+
+Se há diferença reflexiva encarnada, como se estabiliza essa relação?  
+Como se forma uma relação consigo sem sair do real?  
+Como entram memória, representação e mediação sem se tornarem soberanas?  
+Como pode surgir reflexividade sem sujeito separado?
+
+Essas perguntas já pertencem ao Capítulo 4.
+
+O Capítulo 3 deve parar antes de lhes responder.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> ponte baixa `2→3` → vivo organizado → organismo → corpo → campo do vivo → continuidade encarnada → estabilização local → apreensão incorporada → diferença reflexiva encarnada → travão por campo, escala e limite → entrega prudente ao Capítulo 4.
+
+### ganhos da versão
+
+A versão já consegue:
+- não regressar ao Capítulo 2;
+- não abrir por consciência;
+- não abrir por sujeito;
+- não abrir por memória;
+- não abrir por representação ou mediação;
+- dar corpo positivo a vida, organismo e corporeidade;
+- impedir que vida/organismo/corpo sejam tratados em abstrato;
+- formular a diferença reflexiva como encarnada e interna ao vivo;
+- bloquear dualismo e reducionismo;
+- preparar o Capítulo 4 sem o iniciar.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão:
+- a expressão “diferença reflexiva encarnada”, que é estruturalmente correta mas pode precisar de maior secura;
+- a distinção entre continuidade encarnada e memória;
+- a passagem entre estabilização local e apreensão incorporada;
+- a formulação do corpo como inscrição operativa sem parecer fenomenologia corporal;
+- o fecho `3→4`, que tem de preparar memória, representação e mediação sem as iniciar.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+- consciência como centro;
+- sujeito;
+- interioridade soberana;
+- memória como centro próprio;
+- identidade temporal;
+- representação;
+- mediação desenvolvida;
+- linguagem;
+- símbolo;
+- verdade;
+- critério;
+- erro e correção;
+- normatividade;
+- responsabilidade;
+- dignidade;
+- cultura;
+- instituição;
+- sistema;
+- crítica tardia;
+- antropologia pronta;
+- biologia filosófica regional.
+
+### fórmula final da versão
+
+> O Capítulo 3 fixa apenas isto: a apreensão situada exige a espessura de um vivo organizado, corporal e contínuo; e é nesse vivo, não fora dele nem reduzido a ele, que se torna pensável uma diferença reflexiva encarnada.
+
+<a id="cap-03-vida-organismo-corporeidade-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap3-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3
+
+**Ficheiro de origem:** `CAP_03_vida_organismo_corporeidade/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3
+
+## Capítulo 3 — Vida, organismo e corporeidade
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma versão reescrita pós-confronto da primeira versão controlada de escrita do **Capítulo 3 — Vida, organismo e corporeidade**, agora compatibilizada com a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+
+- a mediação herdada do Capítulo 2;
+- o seu centro próprio;
+- a passagem da apreensão situada para a espessura do vivo organizado;
+- a passagem do vivo organizado para a diferença reflexiva encarnada;
+- a hierarquia entre vida, organismo, corpo, campo, continuidade, estabilização local e apreensão incorporada;
+- a diferença entre corpo e sujeito;
+- a diferença entre continuidade encarnada e memória;
+- a diferença entre apreensão incorporada e representação;
+- a fronteira com o Capítulo 4;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+O confronto anterior confirmou que o capítulo não precisava de novo núcleo material. A tarefa desta versão, por isso, não é acrescentar temas.
+
+A Nota de Leitura também não reabre o capítulo. A sua incidência é apenas expositiva: tornar mais visível que o Capítulo 3 não trata “vida”, “organismo” ou “corpo” como temas regionais em abstrato, mas como o solo real sem o qual a diferença reflexiva encarnada não se torna inteligível.
+
+A tarefa desta versão é, portanto, dupla:
+
+1. preservar a cadeia material já ganha;
+2. tornar explícito, sem mecanizar o texto, o movimento local de leitura:
+   - qual é o ser em causa;
+   - como ele pode ser mal dito;
+   - que erro nasce dessa má formulação;
+   - como o capítulo reconduz o dizer ao real.
+
+### limite
+
+Esta versão não pode:
+
+- transformar o capítulo numa biologia filosófica abstrata;
+- tratar vida, organismo e corpo como simples temas regionais;
+- fazer do corpo uma substância alternativa ao sujeito;
+- abrir por consciência, sujeito, interioridade ou reflexividade soberana;
+- abrir por memória ou identidade temporal;
+- abrir por representação, mediação, linguagem, verdade, erro, correção ou critério;
+- transformar a diferença reflexiva encarnada em consciência pronta;
+- transformar a continuidade encarnada em memória;
+- transformar a apreensão incorporada em representação;
+- absorver o Capítulo 4;
+- antecipar o Capítulo 5;
+- regressar ao Capítulo 2 como se a apreensão situada bastasse por si;
+- deixar a ponte `3→4` ocupar a cabeça do capítulo;
+- transformar a Nota de Leitura em método soberano;
+- abrir uma teoria geral do erro dentro do Capítulo 3.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que, entre a apreensão situada e a reflexividade humana, há a espessura real do vivo organizado: vida, organismo, corpo, campo do vivo, continuidade encarnada, estabilização local e apreensão incorporada.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar que vivo real está em causa, como esse vivo pode ser mal dito, que erro nasce desse falso dizer e como a formulação regressa ao real corporal e organizado da passagem.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a função expositiva do capítulo.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O Capítulo 2 fixou que o real aparece intrarrealmente a um ente situado. Esse ente não apreende de fora do real. Está no real, é afetado pelo real e apreende localmente o real antes de o representar.
+
+Mas essa formulação ainda deixa uma pressão por resolver.
+
+Se há apreensão situada, então o ente que apreende não pode ser pensado como ponto abstrato de receção. Apreender não é estar matematicamente localizado num campo neutro. Apreender exige uma espessura real: algo tem de poder ser afetado, conservar uma diferença, responder, integrar, estabilizar e permanecer suficientemente organizado para que a afetação não se dissolva no instante.
+
+É aqui que começa o Capítulo 3.
+
+A sua pergunta não é: “o que é a vida em abstrato?”  
+Também não é: “o que é o corpo enquanto objeto biológico?”  
+Também não é: “como surge a consciência?”  
+Também não é: “como aparece o sujeito?”  
+
+A pergunta é mais precisa:
+
+> que inscrição viva, corporal e organizada torna possível que a apreensão situada do Capítulo 2 possa preparar uma diferença reflexiva encarnada?
+
+O **ser em causa** neste capítulo é, portanto, o **vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada**.
+
+Não se trata de vida como região temática.  
+Não se trata de organismo como máquina.  
+Não se trata de corpo como objeto exterior.  
+Não se trata de sujeito em formação soberana.  
+Não se trata de consciência escondida dentro do corpo.  
+
+Trata-se do vivo organizado como solo real da passagem.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> apreensão situada herdada → vida organizada → organismo → corpo → campo do vivo → continuidade encarnada → estabilização local → apreensão incorporada → diferença reflexiva encarnada → ponte baixa `3→4`.
+
+Este corredor é o limite da peça.
+
+A pergunta transversal da Nota já começa a operar aqui, mas sem tomar o comando do capítulo:
+
+- o ser em causa é o vivo organizado enquanto solo corporal da diferença reflexiva encarnada;
+- o falso dizer a bloquear é duplo: reduzir o vivo a biologia abstrata ou saltar dele para consciência, sujeito, memória ou representação;
+- o erro local é separar a diferença reflexiva do vivo ou achatá-la no organismo;
+- a reinscrição consiste em reconduzir essa diferença ao corpo vivo, ao organismo, ao campo, à continuidade encarnada e à apreensão incorporada.
+
+## 2. A apreensão situada exige espessura viva
+
+O Capítulo 2 terminou com a apreensão situada. Mas a apreensão situada, sozinha, ainda não basta.
+
+Apreender exige que algo seja afetável. Exige que a afetação encontre uma organização capaz de a receber. Exige que o ente situado não seja um ponto vazio, mas uma unidade viva de exposição, resposta e continuidade.
+
+O ente que apreende não está apenas localizado. Está vivo. Tem corpo. Persiste. Integra. Reage. Mantém relações internas e externas. Encontra-se num campo de forças, estímulos, resistências, necessidades e limites.
+
+A passagem para o Capítulo 3 nasce daqui.
+
+O falso dizer desta zona é tratar a apreensão situada como se ela pudesse ocorrer num ponto abstrato. Como se bastasse dizer “ente situado” para que a receção do real ficasse explicada. Como se a localidade fosse suficiente sem corpo, sem organização, sem continuidade e sem inscrição viva.
+
+Mas a localidade sem espessura viva é demasiado pobre.
+
+Um ponto abstrato pode ser localizado.  
+Mas não apreende.  
+Não é afetado.  
+Não integra.  
+Não responde.  
+Não se mantém como vivo perante o real.  
+
+Por isso, a primeira determinação do capítulo é esta:
+
+> a apreensão situada exige uma espessura viva, corporal e organizada.
+
+A reinscrição local é esta: a apreensão deve ser devolvida ao vivo que a suporta, e não mantida como posição abstrata de receção.
+
+## 3. Vida organizada
+
+A vida entra neste capítulo como organização real.
+
+Não entra como tema biológico regional. Não entra como vitalismo. Não entra como essência especial. Também não entra como metáfora. Entra porque, sem vida organizada, não há a espessura mínima que permita a um ente ser afetado, persistir, responder e integrar relações com o real.
+
+Vida organizada quer dizer, neste nível, uma forma real de continuidade operativa. Algo não apenas existe, mas mantém uma organização suficientemente estável para atravessar afetações, responder a diferenças e conservar uma unidade funcional mínima.
+
+Isto não torna a vida soberana.
+
+A vida não funda o real.  
+A vida não substitui a estrutura do real.  
+A vida não é exceção ao real.  
+A vida é uma forma organizada de inscrição no real.
+
+O falso dizer da vida é duplo.
+
+Por um lado, pode dizer-se a vida como região biológica fechada. Nesse caso, o capítulo degrada-se numa ontologia regional do vivo, como se bastasse falar de metabolismo, organismo ou função para resolver a passagem.
+
+Por outro lado, pode dizer-se a vida como mistério ou força especial. Nesse caso, a vida passa a parecer uma exceção à estrutura do real.
+
+Ambos os modos falham.
+
+A vida, aqui, não é nem uma biologia abstrata nem uma força separada. É organização real de continuidade, exposição e resposta.
+
+A segunda determinação do capítulo é esta:
+
+> a vida organizada é o primeiro solo real da apreensão incorporada.
+
+A reinscrição local é esta: a vida deve ser dita como organização real no interior do real, não como tema regional fechado nem como força exterior à estrutura.
+
+## 4. Organismo
+
+A vida organizada ganha figura no organismo.
+
+O organismo não é uma coisa isolada. Não é uma máquina fechada. Não é um recipiente da consciência futura. É uma organização viva de relações internas e externas, capaz de manter continuidade sob afetação e de responder ao real a partir da sua própria configuração.
+
+Um organismo é uma unidade real, mas não uma unidade absoluta. É unidade relacional. Mantém-se por diferenciações internas, por limites, por trocas, por integração, por respostas e por exposição a um campo.
+
+O falso dizer do organismo é tratá-lo como mecanismo fechado.
+
+Nesse erro, o organismo torna-se uma máquina biológica que apenas processa estímulos. Tudo nele se reduz a função, reação ou conservação mecânica. A passagem para diferença reflexiva encarnada fica então impossível ou desnecessária: impossível, porque nada no mecanismo abriria para diferença interna; desnecessária, porque tudo ficaria explicado por funcionamento.
+
+Mas o organismo não é mecanismo fechado. Também não é sujeito embrionário.
+
+O organismo é a forma viva pela qual uma determinação real mantém uma unidade operativa em relação com o seu meio. Ele não pensa ainda. Não representa ainda. Não é sujeito. Mas já organiza afetações, conserva continuidade, responde a diferenças e existe como corpo vivo em campo.
+
+A terceira determinação do capítulo é esta:
+
+> o organismo é unidade viva relacional, não mecanismo fechado nem sujeito antecipado.
+
+A reinscrição local é esta: o organismo deve ser devolvido à sua condição de organização viva em relação, sem ser achatado em máquina nem inflacionado em sujeito.
+
+## 5. Corpo
+
+O organismo é corpo vivo.
+
+O corpo não entra aqui como objeto entre objetos, nem como imagem fenomenológica do vivido, nem como suporte exterior de uma interioridade futura. O corpo entra como inscrição operativa do vivo no real.
+
+Ter corpo é estar exposto.  
+Ter corpo é poder ser afetado.  
+Ter corpo é ocupar um modo determinado de relação.  
+Ter corpo é ter limite.  
+Ter corpo é responder a partir de uma organização própria.  
+
+O corpo é, portanto, a forma concreta pela qual o vivo organizado está no real.
+
+É neste ponto que o capítulo deve ter muito cuidado.
+
+Se se diz demasiado pouco, o corpo parece apenas biologia.  
+Se se diz demasiado, o corpo começa a parecer sujeito, consciência ou experiência interior.  
+
+Nenhum dos dois caminhos serve.
+
+O corpo é mais do que uma coisa biológica isolada, porque é inscrição viva, relacional e afetável. Mas é menos do que consciência reflexiva, sujeito ou interioridade desenvolvida. Ele é o solo encarnado a partir do qual essas camadas poderão depois tornar-se pensáveis.
+
+O falso dizer do corpo assume duas formas.
+
+A primeira é objetivá-lo como simples corpo-coisa.  
+A segunda é subjetivá-lo como se nele já estivesse a consciência pronta.  
+
+A quarta determinação do capítulo é esta:
+
+> o corpo é a inscrição operativa do vivo organizado no real.
+
+A reinscrição local é esta: o corpo deve ser dito como corporeidade viva, relacional e afetável, não como coisa biológica isolada nem como sujeito já constituído.
+
+## 6. Campo do vivo
+
+O corpo vivo não existe no vazio.
+
+Existe em campo.
+
+Campo, neste capítulo, não quer dizer espaço geométrico nem ambiente externo simplesmente colocado à volta do organismo. Campo quer dizer configuração real de relações em que o vivo se encontra, se orienta, é afetado, responde e se mantém.
+
+O organismo é inseparável do campo em que opera. Não porque o campo o absorva, mas porque a sua organização só se torna inteligível em relações concretas de exposição, limite, resposta, necessidade, possibilidade e resistência.
+
+O falso dizer desta zona é imaginar primeiro o organismo isolado e depois acrescentar-lhe um meio.
+
+Nesse erro, o organismo parece ser uma unidade pronta que, por acaso, se encontra num exterior. Mas a vida organizada não funciona assim. O vivo é desde logo relação com campo. A sua unidade não é isolamento; é manutenção relacional.
+
+O campo do vivo impede também outro erro: transformar o corpo em centro absoluto.
+
+O corpo não é soberano.  
+O organismo não é soberano.  
+A vida não é soberana.  
+
+Todos existem no real, sob campo, escala, limite e relação.
+
+A quinta determinação do capítulo é esta:
+
+> o vivo organizado só é inteligível em campo.
+
+A reinscrição local é esta: o organismo deve ser devolvido ao campo real em que vive, em vez de ser imaginado como unidade isolada à qual depois se acrescenta exterioridade.
+
+## 7. Continuidade encarnada
+
+O vivo organizado exige continuidade.
+
+Sem continuidade, a afetação não se conserva. A resposta não se integra. O organismo não se mantém como unidade. A relação com o campo dissolve-se em instantes sem articulação.
+
+Mas a continuidade aqui ainda não é memória.
+
+A continuidade encarnada é mais baixa. É a permanência operativa do vivo enquanto corpo organizado. É a capacidade de manter uma unidade viva através de variação, afetação, resposta e alteração.
+
+O falso dizer desta zona é antecipar a memória.
+
+É tentador dizer: se há continuidade, há memória. Mas isso sobe demasiado cedo. A memória, enquanto estabilização temporal interna da relação apreendida, terá estatuto próprio mais tarde. Aqui basta uma continuidade mais baixa: a persistência encarnada do vivo organizado.
+
+A continuidade encarnada não arquiva ainda.  
+Não narra ainda.  
+Não representa ainda.  
+Não constitui identidade temporal reflexiva.  
+
+Apenas permite que o corpo vivo não seja dissolvido a cada afetação. Permite que haja permanência suficiente para que a relação ao real não desapareça no instante em que ocorre.
+
+A sexta determinação do capítulo é esta:
+
+> a continuidade encarnada é condição da apreensão incorporada, mas ainda não é memória.
+
+A reinscrição local é esta: a continuidade deve ser devolvida ao corpo vivo que persiste, sem ser promovida a memória ou identidade temporal.
+
+## 8. Estabilização local
+
+A continuidade encarnada permite estabilizações locais.
+
+Uma estabilização local não é fechamento absoluto. Não é sistema. Não é identidade fixa. É apenas uma organização suficientemente persistente para que o vivo se mantenha, responda e integre a sua relação com o campo.
+
+O vivo não é pura fluidez. Se fosse, nada nele se conservaria. Mas também não é rigidez fechada. Se fosse, não responderia ao campo, não se adaptaria, não integraria diferenças, não permaneceria vivo.
+
+A estabilização local nomeia este meio-termo: uma configuração operativa que se mantém sem se fechar absolutamente.
+
+O falso dizer da estabilização é transformá-la em sistema fechado.
+
+Nesse erro, a organização viva parece uma máquina total, fechada sobre as suas próprias regras. Mas a estabilização local do vivo é sempre exposta. Mantém-se em campo, sob afetação, sob resistência, sob possibilidade de variação e sob limite.
+
+A estabilização local é necessária porque a diferença reflexiva encarnada não pode nascer de pura dispersão. Mas ela é apenas condição. Não é ainda reflexividade. Não é representação. Não é memória. Não é linguagem. Não é sujeito.
+
+A sétima determinação do capítulo é esta:
+
+> a estabilização local dá consistência ao vivo sem o transformar em sistema fechado.
+
+A reinscrição local é esta: a estabilização deve ser dita como configuração viva e local de continuidade, não como fechamento sistémico nem como identidade reflexiva já pronta.
+
+## 9. Apreensão incorporada
+
+Depois da vida organizada, do organismo, do corpo, do campo, da continuidade encarnada e da estabilização local, torna-se possível formular o ponto próprio do capítulo: a apreensão situada é, no vivo, apreensão incorporada.
+
+A apreensão incorporada não é representação.  
+Não é linguagem.  
+Não é juízo.  
+Não é consciência reflexiva.  
+
+É a receção do real por um corpo vivo organizado, em campo, com continuidade e estabilização local suficientes para que a afetação seja integrada.
+
+A apreensão incorporada é mais rica do que a apreensão situada do Capítulo 2, porque agora já tem corpo. Mas ainda é mais baixa do que a representação, a memória como centro, a linguagem e a consciência reflexiva.
+
+O falso dizer desta zona é confundir incorporação com representação.
+
+Nesse erro, o facto de a apreensão ser integrada pelo corpo vivo é logo convertido em imagem interna, conteúdo mental, representação ou consciência. Mas isso antecipa capítulos posteriores.
+
+Apreender incorporadamente não é ainda representar. É ser afetado e integrar essa afetação segundo a organização viva do corpo em campo.
+
+A oitava determinação do capítulo é esta:
+
+> a apreensão incorporada é a apreensão situada enquanto recebida e integrada por um corpo vivo organizado.
+
+A reinscrição local é esta: a apreensão deve ser devolvida à corporeidade viva que a suporta, sem ser promovida a representação ou consciência.
+
+## 10. Diferença reflexiva encarnada
+
+Só agora o capítulo pode falar de diferença reflexiva encarnada.
+
+Mesmo aqui, deve fazê-lo com prudência.
+
+A diferença reflexiva encarnada não é ainda consciência reflexiva desenvolvida. Não é ainda sujeito. Não é ainda interioridade soberana. Não é ainda linguagem, representação ou memória como centros próprios.
+
+Ela é o ponto em que o vivo organizado torna pensável uma diferença interna mais alta do que a simples reação orgânica, mas ainda inscrita no corpo, no organismo, no campo e na continuidade encarnada.
+
+A fórmula deve ser seca:
+
+> a diferença reflexiva encarnada é uma torção interna do vivo organizado, não uma exterioridade ao vivo.
+
+Esta diferença não vem de fora. Não desce sobre o corpo como alma, sujeito ou consciência separada. Mas também não se dissolve na função biológica simples. Ela é interna ao vivo e depende do vivo; contudo, não se deixa reduzir a uma enumeração de processos orgânicos.
+
+É aqui que os dois erros principais do capítulo se tornam visíveis.
+
+O primeiro é o erro dualista: se há diferença reflexiva, então ela deve pertencer a outro plano, separado do corpo.
+
+O segundo é o erro reducionista: se a diferença reflexiva depende do vivo, então nada mais há a dizer para lá do vivo.
+
+Ambos falham.
+
+A diferença reflexiva encarnada é real porque pertence ao vivo organizado.  
+Mas não é redutível a uma biologia indiferenciada, porque introduz uma torção interna que prepara a reflexividade ulterior.  
+
+A nona determinação do capítulo é esta:
+
+> a diferença reflexiva encarnada não é nem exterior ao corpo nem redutível ao organismo como mecanismo.
+
+A reinscrição local é esta: a diferença reflexiva deve ser reconduzida ao vivo organizado que a torna possível, sem ser separada dele nem achatada nele.
+
+## 11. O erro local do capítulo
+
+A Nota de Leitura obriga a tornar visível o erro próprio de cada capítulo. No Capítulo 3, esse erro não deve ser tratado como teoria geral do erro. Deve ser reconhecido apenas como risco local de mau dizer do vivo organizado e da diferença reflexiva encarnada.
+
+O erro local tem uma forma dupla.
+
+A primeira forma é separar a diferença reflexiva do vivo organizado.
+
+Aqui a proposição diz mal o ser em causa porque toma a diferença reflexiva como se ela viesse de outro plano: consciência, alma, sujeito, interioridade, substância mental, presença de si ou instância superior. O corpo passa a ser suporte exterior; o organismo passa a ser instrumento; a vida passa a ser cenário; e a diferença reflexiva passa a parecer visitante no vivo.
+
+Esta forma é dualista.
+
+A segunda forma é achatar a diferença reflexiva no vivo organizado.
+
+Aqui a proposição diz mal o ser em causa porque toma vida, organismo e corpo como se bastassem para resolver tudo. O corpo torna-se biologia regional. O organismo torna-se mecanismo. A diferença reflexiva desaparece como torção própria. O vivo fica sem passagem, sem interioridade futura, sem preparação da reflexividade.
+
+Esta forma é reducionista.
+
+Há ainda falsos dizeres derivados:
+
+- dizer vida como força especial;
+- dizer organismo como máquina fechada;
+- dizer corpo como coisa;
+- dizer corpo como sujeito já pronto;
+- dizer continuidade como memória;
+- dizer estabilização local como sistema;
+- dizer apreensão incorporada como representação;
+- dizer diferença reflexiva encarnada como consciência desenvolvida.
+
+Todos estes erros partilham uma forma comum:
+
+> ou separam a diferença reflexiva do vivo, ou dissolvem a diferença reflexiva no vivo.
+
+A décima determinação do capítulo é esta:
+
+> o erro local do Capítulo 3 é separar ou achatar a diferença reflexiva encarnada relativamente ao vivo organizado que a torna possível.
+
+A reinscrição local é esta: cada falso dizer deve ser reconduzido à cadeia baixa do capítulo — vida organizada, organismo, corpo, campo, continuidade encarnada, estabilização local e apreensão incorporada.
+
+## 12. Reinscrição do vivo e da diferença reflexiva no real
+
+A correção local do Capítulo 3 não consiste em propor uma teoria da vida, uma teoria do corpo ou uma teoria da consciência.
+
+Consiste em devolver a passagem ao real que a torna possível.
+
+A diferença reflexiva encarnada deve ser reinscrita no vivo organizado.
+
+Isto exige quatro movimentos.
+
+Primeiro: a apreensão situada do Capítulo 2 é devolvida ao corpo vivo que apreende.  
+Segundo: o corpo vivo é devolvido ao organismo e à vida organizada.  
+Terceiro: o organismo é devolvido ao campo, à continuidade e à estabilização local.  
+Quarto: a diferença reflexiva é devolvida a essa cadeia, como torção interna e encarnada, não como salto exterior.
+
+Esta reinscrição não nega o corpo.  
+Não nega a vida.  
+Não nega o organismo.  
+Não nega a futura consciência.  
+Não nega a futura memória.  
+Não nega a futura representação.  
+
+Apenas põe cada camada no seu lugar.
+
+Vida organizada é solo.  
+Organismo é unidade viva relacional.  
+Corpo é inscrição operativa.  
+Campo é configuração real de relações.  
+Continuidade encarnada é permanência viva anterior à memória.  
+Estabilização local é consistência sem fechamento.  
+Apreensão incorporada é receção integrada antes da representação.  
+Diferença reflexiva encarnada é torção interna do vivo, ainda anterior à consciência desenvolvida.
+
+A décima primeira determinação do capítulo é esta:
+
+> reinscrever a diferença reflexiva é reconduzi-la ao corpo vivo organizado, em campo, sob continuidade encarnada e apreensão incorporada.
+
+Esta é a correção local que o capítulo pode fazer.
+
+Nada mais.
+
+## 13. Fecho e ponte baixa `3→4`
+
+O Capítulo 3 deve terminar antes de mudar de centro.
+
+A sua pergunta foi: que inscrição viva, corporal e organizada torna possível que a apreensão situada prepare uma diferença reflexiva encarnada?
+
+A resposta mínima ficou ganha: a apreensão situada exige vida organizada, organismo, corpo, campo, continuidade encarnada, estabilização local e apreensão incorporada; e é nessa espessura do vivo que a diferença reflexiva se torna pensável sem dualismo nem reducionismo.
+
+Mas esta resposta abre uma nova pressão.
+
+Se há diferença reflexiva encarnada, então será necessário perguntar como essa diferença se organiza como consciência, reflexividade e sujeito reinscritos no real.
+
+Contudo, essa pergunta ainda não pertence ao centro do Capítulo 3.
+
+Pertence à ponte terminal `3→4`.
+
+O capítulo pode entregar ao seguinte apenas isto:
+
+> a diferença reflexiva encarnada exige agora ser pensada como reflexividade situada, sem se separar do corpo vivo que a tornou possível.
+
+Esta entrega prepara o Capítulo 4 — Consciência, reflexividade e sujeito reinscritos.
+
+Mas não o inicia ainda.
+
+O falso dizer da ponte é transformar preparação em absorção. Como se, por se falar de diferença reflexiva encarnada, já se pudesse falar plenamente de consciência; como se, por haver corpo vivo, já houvesse sujeito; como se, por haver continuidade encarnada, já houvesse memória; como se, por haver apreensão incorporada, já houvesse representação.
+
+Esse salto seria indevido.
+
+O Capítulo 3 deve parar no bordo.
+
+A décima segunda determinação do capítulo é esta:
+
+> a ponte `3→4` é obrigatória, mas apenas terminal: prepara consciência, reflexividade e sujeito reinscritos sem os fazer ocupar o centro do Capítulo 3.
+
+A reinscrição local é esta: a ponte deve ser devolvida ao seu estatuto de passagem, não convertida em cabeça antecipada do capítulo seguinte.
+
+## 14. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 3 pode ser condensado assim.
+
+### ser em causa
+
+O ser em causa é o **vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada**.
+
+Não é:
+
+- vida em abstrato;
+- organismo como objeto regional;
+- corpo como coisa;
+- corpo como sujeito;
+- consciência;
+- interioridade soberana;
+- memória;
+- representação;
+- linguagem;
+- teoria biológica;
+- teoria da consciência;
+- teoria do sujeito.
+
+É o modo como a apreensão situada se torna corporalmente espessa e como, nessa espessura, se torna pensável uma diferença reflexiva encarnada.
+
+### dizer do ser
+
+O vivo organizado pode ser dito erradamente como:
+
+- biologia regional fechada;
+- força vital especial;
+- organismo-máquina;
+- corpo-coisa;
+- corpo-sujeito;
+- campo externo acrescentado ao organismo;
+- continuidade já memorial;
+- estabilização como sistema fechado;
+- apreensão incorporada como representação;
+- diferença reflexiva como consciência pronta;
+- diferença reflexiva como substância separada;
+- diferença reflexiva como simples função biológica.
+
+### erro local
+
+O erro local nasce quando a proposição sobre o vivo organizado deixa de reconhecer a passagem real que está em causa.
+
+As formas principais desse erro são:
+
+- dualismo da diferença reflexiva;
+- reducionismo biologista;
+- mecanização do organismo;
+- subjetivação precoce do corpo;
+- antecipação da consciência;
+- antecipação da memória;
+- antecipação da representação;
+- absorção por Capítulo 4;
+- absorção por Capítulo 5;
+- abstração regional de vida, organismo e corpo.
+
+O erro não é ainda tratado aqui como corpo próprio. É apenas reconhecido como risco local de mau dizer do vivo organizado e da diferença reflexiva encarnada.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> a diferença reflexiva encarnada só se torna pensável a partir do vivo organizado, corporal, em campo, contínuo, localmente estabilizado e capaz de apreensão incorporada.
+
+A reinscrição não nega o vivo.  
+Não nega a diferença reflexiva.  
+Não nega a futura consciência.  
+Não nega a futura memória.  
+Não nega a futura representação.  
+
+Apenas põe cada camada no seu lugar.
+
+### entrega
+
+A entrega ao capítulo seguinte é precisa:
+
+> se o vivo organizado torna pensável uma diferença reflexiva encarnada, então é necessário perguntar como essa diferença se constitui como consciência, reflexividade e sujeito reinscritos no real.
+
+O Capítulo 3 entrega a pergunta pela reflexividade situada.
+
+Mas não entrega ainda uma teoria da consciência.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> apreensão situada herdada → vida organizada → organismo → corpo → campo do vivo → continuidade encarnada → estabilização local → apreensão incorporada → diferença reflexiva encarnada → ponte baixa `3→4`.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que não havia núcleo estrutural admissível em falta.
+
+Por isso, esta reescrita não acrescenta novo centro, novo material tardio ou nova arquitetura interna.
+
+A intervenção feita foi apenas de disciplina expositiva:
+
+- tornar mais explícito o vivo organizado como ser em causa no capítulo;
+- reforçar que a apreensão situada exige espessura corporal e viva;
+- distinguir vida organizada de biologia regional ou vitalismo;
+- distinguir organismo de máquina e de sujeito antecipado;
+- distinguir corpo de coisa e de consciência;
+- distinguir continuidade encarnada de memória;
+- distinguir apreensão incorporada de representação;
+- formular a diferença reflexiva como encarnada e interna ao vivo;
+- nomear o erro local sem abrir teoria geral do erro;
+- reinscrever a diferença reflexiva no real vivo, corporal e organizado;
+- endurecer a ponte terminal `3→4`.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada apenas como orientação de legibilidade.
+
+Por isso, esta versão:
+
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem transformar erro/correção em corpo próprio;
+- reinscreve o dizer do vivo e da diferença reflexiva no real;
+- entrega ao capítulo seguinte apenas a necessidade de pensar consciência, reflexividade e sujeito reinscritos.
+
+A Nota não altera o centro do capítulo.
+
+Apenas torna mais visível o modo como o leitor deve atravessar a peça.
+
+### ganhos da versão
+
+A versão já consegue:
+
+- não regressar ao Capítulo 2;
+- não abrir por consciência;
+- não abrir por sujeito;
+- não abrir por memória;
+- não abrir por representação ou mediação;
+- dar corpo positivo a vida, organismo e corporeidade;
+- impedir que vida, organismo e corpo sejam tratados em abstrato;
+- formular a diferença reflexiva como encarnada e interna ao vivo;
+- bloquear dualismo e reducionismo;
+- preparar o Capítulo 4 sem o iniciar;
+- compatibilizar o capítulo com a chave da Nota sem converter a Nota em método soberano.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão futura:
+
+- a expressão “diferença reflexiva encarnada”, que é estruturalmente correta mas pode precisar de maior secura;
+- a distinção entre continuidade encarnada e memória;
+- a passagem entre estabilização local e apreensão incorporada;
+- a formulação do corpo como inscrição operativa sem parecer fenomenologia corporal;
+- o fecho `3→4`, que tem de preparar consciência e reflexividade sem as iniciar;
+- o equilíbrio entre crítica local e centro positivo, para que o capítulo não pareça mais forte pelo que recusa do que pelo que afirma.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+
+- consciência como centro;
+- sujeito;
+- interioridade soberana;
+- memória como centro próprio;
+- identidade temporal;
+- representação;
+- mediação desenvolvida;
+- linguagem;
+- símbolo;
+- verdade;
+- critério;
+- erro e correção como corpo próprio;
+- normatividade;
+- responsabilidade;
+- dignidade;
+- cultura;
+- instituição;
+- sistema;
+- crítica tardia;
+- antropologia pronta;
+- biologia filosófica regional;
+- fenomenologia do corpo como centro;
+- teoria da consciência.
+
+### fórmula final da versão
+
+> O Capítulo 3 fixa apenas isto: a apreensão situada exige a espessura de um vivo organizado, corporal, em campo, contínuo e localmente estabilizado; e é nesse vivo, não fora dele nem reduzido a ele, que se torna pensável uma diferença reflexiva encarnada.
+
+O capítulo deve terminar antes de a consciência se tornar centro.
+
+O que ficou ganho é a mediação baixa entre o aparecer situado e a reflexividade humana: o real não é apreendido por um ponto abstrato, mas por um corpo vivo organizado, capaz de integrar afetação e de preparar uma diferença interna superior sem abandonar o vivo que a suporta.
+
+Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pela linguagem, nem pela representação, nem pela verdade, mas pelo modo como a diferença reflexiva encarnada pode constituir consciência, reflexividade e sujeito reinscritos no real.
+
+### fórmula axial de leitura local
+
+> **ser no real:** vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada;  
+> **dizer do ser:** vida abstrata, organismo-máquina, corpo-coisa, corpo-sujeito, continuidade-memória, apreensão-representação, diferença reflexiva como consciência separada ou função biológica achatada;  
+> **erro da proposição não real:** separar a diferença reflexiva do vivo ou achatá-la numa biologia indiferenciada;  
+> **reinscrição no real:** diferença reflexiva como torção interna do vivo organizado, corporal, em campo, sob continuidade encarnada, estabilização local e apreensão incorporada.
+
+<a id="capitulo-cap-04-consciencia-reflexividade-e-sujeito-reinscritos"></a>
+## CAP_04_consciência, reflexividade e sujeito reinscritos
+
+- Pasta: `CAP_04_consciência, reflexividade e sujeito reinscritos`
+- Ficheiros incluídos: `8`
+
+### Índice interno da pasta
+
+- [00_estatuto_e_limites](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-00-estatuto-e-limites-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/00_estatuto_e_limites.md`
+- [01_estrutura_interna](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-01-estrutura-interna-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/01_estrutura_interna.md`
+- [02_materiais_positivos](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-02-materiais-positivos-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/02_materiais_positivos.md`
+- [03_materiais_criticos](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-03-materiais-criticos-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/03_materiais_criticos.md`
+- [04_lacunas_do_capitulo](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-04-lacunas-do-capitulo-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/04_lacunas_do_capitulo.md`
+- [05_decisao_local_do_capitulo](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-05-decisao-local-do-capitulo-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-06-primeira-versao-controlada-de-escrita-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap4-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4.md`
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-00-estatuto-e-limites-md"></a>
+### 00_estatuto_e_limites
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/00_estatuto_e_limites.md`
+
+# 00_estatuto_e_limites
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar o estatuto local do **Capítulo 4 — consciência, reflexividade e sujeito reinscritos** dentro da pasta de capítulos;
+- determinar o que este capítulo pode e não pode fazer no livro;
+- preservar a sua diferença relativamente ao **Capítulo 3**, ao limiar memorial ulterior do **Capítulo 5** e ao reaperto limítrofe do **Capítulo 8**;
+- impedir que a zona se reabra por consciência, sujeito, presença de si, memória autónoma, mediação soberana ou fecho epistemológico.
+
+### limite
+- este ficheiro não reabre nenhum `CF`;
+- não redecide a arquitetura total da obra;
+- não transforma o capítulo em teoria geral do sujeito;
+- não transforma o capítulo em fenomenologia da consciência;
+- não autoriza ainda redação corrida do capítulo;
+- não deixa memória, representação, linguagem, verdade, erro, correção, sistema ou crítica tardia ocuparem a sua abertura;
+- não deixa a função transmissiva da obra contaminar o critério ontológico do conteúdo.
+
+### valor metodológico
+- vale como abertura local disciplinada da pasta do `Capítulo 4`;
+- vale como travão contra crescimento indevido do capítulo;
+- vale como base para `01_estrutura_interna.md`, `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`;
+- vale como critério para decidir, mais tarde, se o capítulo está apenas ordenado, povoado parcialmente ou pronto para piloto.
+
+---
+
+## II. Estatuto local do capítulo
+
+### estado atual
+**libertável com mediação, em abertura local disciplinada**
+
+### estatuto próprio
+O `Capítulo 4` já não é o solo do vivo organizado do `Capítulo 3`, mas ainda não é o limiar memorial próprio do `Capítulo 5`.
+
+Também não é o reaperto limítrofe e crítico do `Capítulo 8`.
+
+A sua necessidade é esta:
+- abrir acima do vivo organizado e abaixo da consciência tomada em abstrato;
+- mostrar como a reflexividade humana ganha constituição própria sem soberania;
+- reinscrever interioridade, memória, representação e mediação no interior da relação ao real;
+- impedir que o capítulo seja capturado quer por psicologia da interioridade, quer por metafísica do sujeito, quer por epistemologia alta.
+
+### forma de uso
+O capítulo deve ser usado como:
+- peça de segunda onda do tronco positivo;
+- capítulo de constituição situada da reflexividade humana;
+- lugar onde o humano situado, a localidade e a apreensão comandam a entrada, e onde memória, representação e mediação entram apenas por ordem interna;
+- peça de passagem superior, mas ainda não de autonomização memorial nem de fecho epistemológico.
+
+Não deve ser usado como:
+- teoria da consciência em abstrato;
+- teoria do sujeito;
+- filosofia da presença de si;
+- psicologia da interioridade;
+- capítulo da memória como foco próprio;
+- capítulo da linguagem, do símbolo, da representação, do critério, da verdade, do erro ou da correção;
+- ensaio sobre crítica do fechamento simbólico.
+
+---
+
+## III. Centro próprio do capítulo
+
+### centro
+O centro próprio do `Capítulo 4` é este:
+
+> **humano situado, localidade, apreensão, constituição situada, memorial, representacional e mediada da reflexividade humana, consciência reinscrita, sujeito não soberano e interioridade não separada do real.**
+
+### desdobramento mínimo do centro
+1. o capítulo parte de um humano já situado e localizado no real;
+2. a apreensão continua ativa e anterior a qualquer soberania representacional;
+3. a relação apreendida não se extingue inteiramente no instante e deixa uma estabilização temporal interna ainda subordinada;
+4. essa estabilização pode fixar-se ulteriormente em forma representacional e mediacional operável;
+5. só neste encadeamento a reflexividade pode culminar como consciência reinscrita;
+6. o sujeito que aqui surge não é substância separada nem instância exterior ao real;
+7. a interioridade só é admissível enquanto interioridade reinscrita, não como fora íntimo soberano.
+
+### fórmula curta do centro
+O `Capítulo 4` abre abaixo da consciência: pelo humano situado que apreende localmente o real, conserva minimamente essa relação, fixa-a ulteriormente e só então pode tornar-se reflexivo sem se separar do real.
+
+---
+
+## IV. Falso centro dominante a bloquear
+
+### falso centro dominante principal
+O falso centro dominante principal a bloquear é este:
+
+> **transformar o capítulo numa abertura alta por consciência, autoconsciência, sujeito, presença de si ou reflexividade soberana, deixando depois memória, mediação e fecho epistemológico redistribuírem o caso.**
+
+### formas típicas do desvio
+- abrir por “consciência” como se já estivesse constituída;
+- abrir por “sujeito” como título suficiente do caso;
+- abrir por “presença de si” ou “autoconsciência” como origem imediata;
+- deixar `P25` tornar-se centro memorial autónomo;
+- deixar `P26` tomar a cabeça como mediação soberana;
+- deixar `P31/P34/P37` converterem o capítulo em pré-epistemologia;
+- usar o capítulo como licença para psicologia da interioridade, metafísica do eu ou crítica do sistema.
+
+### outros falsos centros a bloquear
+- memória como centro próprio;
+- identidade temporal;
+- representação soberana;
+- mediação soberana;
+- símbolo e linguagem;
+- critério, verdade, erro e correção;
+- vida no símbolo ou fechamento simbólico como novo centro positivo;
+- sistema, cultura, instituição e crítica tardia.
+
+---
+
+## V. Fronteira com o anterior
+
+### Capítulo 3
+O anterior imediato do `Capítulo 4` é o **`Capítulo 3 — vida, organismo e corporeidade`**.
+
+O `Capítulo 4` herda dele:
+- o solo já ganho do vivo organizado;
+- corpo, continuidade encarnada, estabilização local e apreensão enquanto condições de passagem;
+- a inteligibilidade da diferença reflexiva encarnada.
+
+Mas não pode reabrir como seu centro:
+- vida organizada;
+- organismo;
+- corpo;
+- campo do vivo;
+- continuidade encarnada;
+- estabilização local enquanto solo próprio do vivo.
+
+### a mediação `3→4` deixada por `Capítulo 3`
+A mediação `3→4` vale apenas como entrega terminal do capítulo anterior:
+- no `Capítulo 3`, a reflexividade só se torna inteligível;
+- no `Capítulo 4`, ela começa a ganhar constituição própria.
+
+Isto implica uma regra dura:
+- a entrega `3→4` não pode reocupar retroativamente o `Capítulo 3`;
+- mas também não pode ser perdida, sob pena de o `Capítulo 4` parecer salto abstrato para consciência.
+
+### a consolidação baixa já ganha em torno de `CF04/P25`
+O que já ficou consolidado em torno de `CF04/P25` é suficiente para uma abertura local legítima:
+- `P23/P24` como chão primário;
+- `P25` apenas como articulação memorial subordinada;
+- sem antecipar `P26` como cabeça;
+- sem entregar o caso ao `Capítulo 5`.
+
+Logo, a fronteira inferior do capítulo é esta:
+- já acima do vivo organizado;
+- ainda abaixo da memória autonomizada;
+- e já disciplinada por uma abertura baixa em humano situado / localidade / apreensão.
+
+---
+
+## VI. Fronteira com o seguinte
+
+### Capítulo 5
+O seguinte imediato é o **`Capítulo 5`**.
+
+O `Capítulo 4` ainda não é esse capítulo porque aqui:
+- a memória entra apenas como estabilização temporal interna subordinada à constituição da reflexividade;
+- a estabilização temporal interna não é ainda centro próprio;
+- o tempo não é ainda tematizado como permanência interna destacada;
+- identidade temporal, retenção forte e continuidade de si não podem abrir o caso.
+
+### memória como centro próprio
+A memória entra aqui porque sem um mínimo de inscrição temporal interna a relação apreendida apagar-se-ia de imediato e a reflexividade não teria sequer condição de consistência local.
+
+Mas ela não entra aqui como centro autónomo porque:
+- ainda serve a constituição situada da reflexividade;
+- ainda não recebeu recorte próprio;
+- ainda não pode mandar sobre representação, mediação ou consciência;
+- e ainda não se separou do chão `P23/P24`.
+
+### retenção / identidade temporal / permanência interna destacada
+Quando a estabilização temporal interna deixa de funcionar como articulação do caso e passa a ser o próprio foco do texto, o `Capítulo 4` terminou.
+
+A fronteira superior é, portanto, esta:
+- no `Capítulo 4`, `P25` serve a constituição situada da reflexividade;
+- no capítulo seguinte, a estabilização temporal interna passa a centro próprio.
+
+---
+
+## VII. Fronteira lateral obrigatória
+
+### Capítulo 8
+A fronteira lateral obrigatória é com o **`Capítulo 8`**, entendido como reaperto limítrofe da consciência reinscrita.
+
+### fecho limítrofe da consciência reinscrita
+O `Capítulo 4` não é ainda o lugar do reaperto limítrofe final:
+- não fecha a zona pela crítica terminal da vida no símbolo;
+- não converte a crítica da subjetivação indevida em novo centro positivo;
+- não assume ainda como cabeça a vigilância extrema contra fechamento simbólico.
+
+O seu trabalho é mais baixo:
+- constituir a reflexividade reinscrita;
+- não fechá-la ainda limítrofe ou criticamente.
+
+### anti-vida-no-símbolo / anti-fechamento simbólico
+Estes motivos podem entrar aqui apenas:
+- como bordo de vigilância;
+- como pressão crítica subordinada;
+- como sinal de que a reflexividade pode degradar-se quando se autonomiza simbolicamente.
+
+Não podem entrar:
+- como abertura;
+- como tema soberano;
+- como redefinição crítica total do centro do capítulo.
+
+---
+
+## VIII. Hierarquia interna mínima a preservar
+
+### `P23/P24` como chão
+A abertura legítima do capítulo tem de começar por:
+- `P23` — nada apreende de fora do real;
+- `P24` — o humano é ente situado e localizado no real.
+
+Sem este chão:
+- consciência sobe cedo demais;
+- memória flutua;
+- representação entra sem base;
+- e o sujeito regressa como instância implícita.
+
+### `P25` como articulação interna subordinada
+`P25` entra aqui apenas como:
+- estabilização temporal interna mínima da relação apreendida ao real;
+- articulação necessária para que a apreensão não se extinga no instante;
+- condição subordinada da constituição reflexiva.
+
+Não pode:
+- autonomizar-se;
+- tornar-se cabeça do capítulo;
+- ou deslocar o caso para identidade, tempo vivido ou memória como foco próprio.
+
+### `P26` como fixação ulterior
+`P26` entra depois, e só depois, como:
+- fixação representacional e mediacional do apreendido;
+- forma operável ulterior;
+- prolongamento da estabilização, não sua origem.
+
+Não pode:
+- subir à cabeça do caso;
+- reescrever o capítulo como mediação soberana;
+- antecipar `Capítulo 6`.
+
+### `P31/P34/P37` como bordo terminal
+`P31`, `P34` e `P37` pertencem ao bordo terminal do capítulo:
+- `P31` — possibilidade de ajustamento e desajustamento;
+- `P34` — verdade como adequação sob critério submetido ao real;
+- `P37` — correção como reinscrição no real.
+
+Entram aqui apenas:
+- como fecho;
+- como travão;
+- como reinscrição terminal.
+
+Não entram:
+- como abertura;
+- como corpo do capítulo;
+- como co-centros.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Fica especialmente proibido:
+1. abrir por consciência, sujeito ou presença de si;
+2. deixar `P25` tomar conta do caso;
+3. deixar `P26` tomar conta do caso;
+4. deixar `P31/P34/P37` reorganizarem a cabeça do capítulo;
+5. usar `F0276–F0278` como licença para abrir cedo demais em altitude.
+
+---
+
+## IX. Travões locais de crescimento
+
+### anti-consciência soberana
+Consciência não pode abrir o capítulo como se fosse instância dada, autoportante ou exteriorizante.
+
+### anti-sujeito
+O sujeito só é admissível aqui como sujeito reinscrito, não como substância interior separada.
+
+### anti-presença-de-si
+Presença de si não pode funcionar como nome originário da zona.
+
+### anti-memória autónoma
+`P25` não pode ser isolado nem elevado a centro próprio.
+
+### anti-mediação soberana
+`P26` não pode comandar a abertura nem transformar o caso em corpo mediacional.
+
+### anti-representação soberana
+Representação não pode aparecer como origem do que aqui se constitui.
+
+### anti-epistemologia alta
+Critério, verdade, erro e correção só entram no fecho terminal.
+
+### anti-fusão com `Capítulo 3`
+Vida organizada, corpo, organismo, campo do vivo, continuidade encarnada e estabilização local não podem reocupar a cabeça do capítulo.
+
+### anti-fusão com `Capítulo 5`
+Memória, retenção, permanência interna e identidade temporal não podem aparecer já como centro próprio.
+
+### anti-captura por `Capítulo 8`
+A crítica da vida no símbolo, do fechamento simbólico ou da subjetivação indevida não pode reescrever o capítulo como reaperto limítrofe tardio.
+
+### anti-contaminação por voz autoral transmissiva
+A função transmissiva da obra só pode reforçar:
+- clareza;
+- transmissibilidade;
+- responsabilidade expositiva.
+
+Não pode introduzir:
+- voz paternal;
+- fala ao filho;
+- prefácio afetivo;
+- sentimentalização;
+- ou moralização da peça.
+
+---
+
+## X. Estatuto de abertura local
+
+### decisão
+**ordenável com restrições**
+
+### justificação
+Não basta dizer que o capítulo está apenas arquitetado, porque:
+- a arquitetura revista já reconhece cobertura média-alta para a zona;
+- a lacuna principal já está nomeada;
+- a pressão material `F0276–F0278` já foi reconhecida como suficiente para justificar abertura disciplinada da zona local;
+- e a decisão local do `Capítulo 3` já autoriza a passagem prudente para este ficheiro.
+
+Também não basta dizer que o capítulo está pronto para povoamento, porque:
+- a arquitetura continua a tratá-lo como **libertável com mediação**;
+- a cobertura ainda depende da mediação `3→4`;
+- a separação face a `3`, `5` e `8` ainda exige travão explícito;
+- e os materiais altos ainda podem reocupar mal a cabeça do caso.
+
+### consequência
+O capítulo pode já ser aberto localmente nesta fase:
+- para fixação do seu estatuto;
+- para ordenação do seu centro;
+- para preparação da sua estrutura interna;
+- e para seleção disciplinada de materiais.
+
+Mas ainda não pode ser tratado como:
+- capítulo libertado sem mediação;
+- zona já pronta para crescimento livre;
+- ou capítulo já apto a redação corrida.
+
+---
+
+## XI. Fórmula estrutural curta
+
+> **humano situado / localidade / apreensão → estabilização temporal interna subordinada (`P25`) → fixação representacional e mediacional ulterior (`P26`) → culminação reinscrita da reflexividade → bordo terminal de ajustamento, verdade e correção (`P31/P34/P37`)**
+
+---
+
+## XII. Fórmula final curta
+
+> O `Capítulo 4` só pode abrir abaixo da consciência: pelo humano situado que apreende localmente o real, conserva minimamente essa relação, fixa-a ulteriormente e só depois pode tornar-se reflexivo, sem sujeito soberano, sem memória autónoma e sem entregar cedo o caso ao fecho epistemológico.
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-01-estrutura-interna-md"></a>
+### 01_estrutura_interna
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/01_estrutura_interna.md`
+
+# 01_estrutura_interna
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a estrutura interna mínima do **Capítulo 4 — consciência, reflexividade e sujeito reinscritos**;
+- distinguir as suas partes, subpartes e corredores internos sem o transformar nem em teoria soberana da consciência nem em capítulo da memória, da mediação ou da epistemologia;
+- preparar o povoamento local por materiais positivos e críticos;
+- impedir fusões indevidas com o **Capítulo 3**, com o **Capítulo 5**, com os capítulos mediacionais e epistemológicos e com o reaperto limítrofe do **Capítulo 8**.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não resume a Parte II inteira;
+- não reconduz o capítulo ao solo do vivo organizado do **Capítulo 3**;
+- não o converte em teoria do sujeito, fenomenologia da consciência, psicologia da interioridade ou filosofia da presença de si;
+- não autoriza ainda abertura por memória soberana, representação soberana, linguagem, critério, verdade, erro, correção ou crítica do fechamento simbólico;
+- não decide ainda a formulação corrida final da peça.
+
+### valor metodológico
+- vale como planta local do `Capítulo 4`;
+- vale como ordem mínima do seu futuro povoamento;
+- vale como travão contra subida precoce para consciência abstrata, sujeito substancializado, memória autónoma, mediação soberana e fecho epistemológico;
+- vale como regra de não-fusão entre a abertura baixa em humano situado / localidade / apreensão, a articulação memorial subordinada, a fixação mediacional ulterior, a culminação reinscrita da reflexividade e o seu fecho terminal sob submissão ao real.
+
+---
+
+## II. Forma geral do capítulo
+
+### estatuto formal
+O `Capítulo 4` deve permanecer o **quarto capítulo numerado do tronco positivo** e a primeira peça própria da **constituição situada da reflexividade humana reinscrita**.
+
+Não é:
+- continuação indiferente do `Capítulo 3`;
+- capítulo da memória como centro próprio;
+- capítulo da mediação ou da representação em sentido forte;
+- capítulo da linguagem ou do símbolo;
+- capítulo da verdade, do erro ou da correção;
+- reaperto crítico limítrofe da consciência contra o fechamento simbólico.
+
+### extensão relativa
+O capítulo deve ter corpo positivo real, mas permanecer fortemente travado.
+Deve ser:
+- mais desenvolvido do que a simples entrega `3→4`;
+- mais alto do que o solo do vivo organizado;
+- mais baixo do que o `Capítulo 5` enquanto capítulo da estabilização temporal tornada centro próprio;
+- mais baixo do que os `Capítulos 6` e `7` enquanto capítulos da mediação, da representação, da adequação, da verdade, do erro e da correção;
+- suficientemente denso para fixar humano situado, localidade, apreensão, estabilização temporal interna subordinada, fixação ulterior e culminação reinscrita da reflexividade;
+- suficientemente contido para parar antes de memória, mediação ou fecho epistemológico se tornarem cabeça soberana.
+
+### regra de composição
+A composição interna do capítulo deve obedecer a esta regra:
+
+> **abrir por humano situado, localidade e apreensão, fazer entrar depois `P25` como articulação memorial subordinada, deixar então `P26` surgir como fixação representacional e mediacional ulterior, só depois admitir a culminação reinscrita de consciência, reflexividade, interioridade e sujeito não soberano, e fechar terminalmente por `P31/P34/P37` sob submissão ao real, sem deixar esse fecho renomear o centro do caso.**
+
+---
+
+## III. Partes internas obrigatórias
+
+## Parte A — Abertura baixa: humano situado, localidade e apreensão
+
+### função local
+Abrir o capítulo pelo seu chão próprio: não consciência, nem sujeito, nem presença de si, mas o **humano situado** que já está no real, já está localizado e já apreende localmente o que lhe aparece.
+
+### conteúdo mínimo
+1. nada apreende de fora do real;
+2. o humano entra aqui como ente situado e localizado no real;
+3. localidade e apreensão continuam ativas, mas já não como centro soberano do `Capítulo 2`;
+4. a abertura do capítulo deve dizer: **a reflexividade humana só pode começar a constituir-se a partir deste chão, e não acima dele**.
+
+### travão interno
+Não deixar esta parte crescer para:
+- repetição do `Capítulo 2`;
+- teoria do aparecer situado como se o caso ainda fosse esse;
+- psicologia da experiência localizada;
+- abertura alta por consciência, ponto de vista, presença de si ou sujeito.
+
+---
+
+## Parte B — Articulação memorial subordinada (`P25`)
+
+### função local
+Fazer entrar `P25` no seu estatuto exato: **estabilização temporal interna mínima da relação apreendida ao real**, necessária para que a apreensão não se apague de imediato, mas ainda subordinada ao centro do capítulo.
+
+### conteúdo mínimo
+1. a relação apreendida não se extingue inteiramente no instante;
+2. há uma estabilização temporal interna mínima dessa relação;
+3. essa estabilização ainda não é memória como centro próprio;
+4. também não é arquivo neutro, identidade temporal, tempo vivido soberano ou representação enfraquecida;
+5. `P25` entra aqui apenas como primeira articulação interna da constituição reflexiva, e não como cabeça do caso.
+
+### travão interno
+Não transformar esta parte em:
+- começo do `Capítulo 5`;
+- capítulo do tempo vivido;
+- teoria da retenção;
+- teoria da identidade temporal;
+- autonomização memorial do caso.
+
+---
+
+## Parte C — Fixação representacional e mediacional ulterior (`P26`)
+
+### função local
+Dar o passo seguinte do corredor interno: o que foi apreendido e estabilizado minimamente pode agora ganhar **fixação representacional e mediacional operável**, mas ainda em regime derivado.
+
+### conteúdo mínimo
+1. `P26` só entra depois de `P23/P24` e `P25`;
+2. a fixação representacional e mediacional é ulterior à apreensão e à estabilização interna;
+3. essa fixação continua submetida ao real e não pode funcionar como origem soberana;
+4. `P26` não abre ainda símbolo, linguagem ou mediação como corpo próprio de capítulo;
+5. a função desta parte é tornar operável o apreendido, não substituir o real por representação.
+
+### travão interno
+Não transformar esta parte em:
+- começo do `Capítulo 6`;
+- teoria da mediação;
+- teoria da linguagem;
+- teoria do símbolo;
+- capítulo da representação em sentido forte.
+
+---
+
+## Parte D — Culminação reinscrita: consciência, reflexividade, interioridade e sujeito não soberano
+
+### função local
+Instalar o verdadeiro centro culminante do capítulo: a **reflexividade humana** torna-se agora inteligível e constituída, mas só como reflexividade **reinscrita**, situada, mediada e não soberana.
+
+### conteúdo mínimo
+1. consciência só pode aparecer depois do chão `P23/P24`, da articulação `P25` e da fixação `P26`;
+2. a reflexividade aqui não é exterior ao real nem instância fundadora do campo;
+3. a interioridade só é admissível enquanto interioridade reinscrita no real;
+4. o sujeito que aqui surge não é substância separada nem centro soberano, mas polo humano constituído no interior da relação ao real;
+5. presença de si, autoconsciência e autorrelação só podem entrar como culminação subordinada e não como primeira palavra do caso.
+
+### travão interno
+Não transformar esta parte em:
+- teoria geral da consciência;
+- teoria da autoconsciência;
+- metafísica do sujeito;
+- psicologia da interioridade;
+- filosofia da presença de si.
+
+---
+
+## Parte E — Fecho terminal: ajustamento, verdade e correção sob submissão ao real (`P31/P34/P37`)
+
+### função local
+Fechar o capítulo pelo seu bordo terminal legítimo: uma vez constituída a reflexividade reinscrita, pode aparecer terminalmente a diferença entre ajustamento e desajustamento, verdade sob critério submetido ao real e correção como reinscrição.
+
+### conteúdo mínimo
+1. `P31` entra como possibilidade terminal de ajustamento e desajustamento da fixação representacional ao real;
+2. `P34` entra como verdade em regime de adequação sob critério submetido ao real;
+3. `P37` entra como correção enquanto reinscrição de representação e ação no real;
+4. este fecho terminal testa e reaperta o caso, mas não substitui o seu centro antropológico-local;
+5. a proximidade com o corredor `P33_P37` e com o reaperto do `Capítulo 8` só pode funcionar aqui como vigilância terminal, nunca como nova abertura.
+
+### travão interno
+Não transformar o fecho em:
+- começo do `Capítulo 7`;
+- reocupação epistemológica do centro do capítulo;
+- reaperto crítico total da vida no símbolo;
+- substituição da constituição da reflexividade pelo seu tribunal corretivo final.
+
+---
+
+## IV. Ordem interna mínima obrigatória
+
+A ordem mínima do `Capítulo 4` deve ser esta:
+
+1. **`P23/P24` como chão: humano situado, localidade e apreensão**
+2. **`P25` como articulação memorial subordinada**
+3. **`P26` como fixação representacional e mediacional ulterior**
+4. **culminação reinscrita: consciência, reflexividade, interioridade e sujeito não soberano**
+5. **`P31/P34/P37` como fecho terminal de ajustamento, verdade e correção sob submissão ao real**
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente proibido:
+- abrir por consciência, sujeito, autoconsciência, reflexividade ou presença de si;
+- deixar `P25` tomar conta do caso;
+- deixar `P26` subir à cabeça do caso;
+- deixar `P31/P34/P37` reorganizarem o centro;
+- usar `F0276–F0278` como licença para abrir cedo demais em altitude;
+- converter a culminação reinscrita em teoria da interioridade separada.
+
+---
+
+## V. Minicapítulos internos provisórios
+
+Para efeitos de povoamento e futura redação, o `Capítulo 4` passa a trabalhar com estes minicapítulos provisórios:
+
+### M1 — Humano situado, localidade e apreensão como abertura baixa
+### M2 — `P25` como estabilização temporal interna subordinada
+### M3 — `P26` como fixação representacional e mediacional ulterior
+### M4 — Consciência, reflexividade, interioridade e sujeito reinscritos
+### M5 — `P31/P34/P37` como fecho terminal sob submissão ao real
+
+### nota de prudência
+`M2`, `M3`, `M4` e `M5` são os minicapítulos mais perigosos.
+
+- `M2` pode inflacionar rapidamente para memória soberana, identidade temporal ou pré-`Capítulo 5`;
+- `M3` pode inflacionar rapidamente para mediação, símbolo, linguagem ou pré-`Capítulo 6`;
+- `M4` pode inflacionar rapidamente para teoria da consciência, teoria do sujeito ou presença de si;
+- `M5` pode inflacionar rapidamente para `Capítulo 7` ou para reaperto crítico limítrofe próximo do `Capítulo 8`.
+
+Por isso, os quatro devem ser densos, curtos e fortemente travados.
+
+---
+
+## VI. Fronteiras de não-fusão
+
+### com o prólogo, o Capítulo 1 e o Capítulo 2
+O `Capítulo 4` não deve reabrir:
+- a abertura soberana por real e não-exterioridade;
+- a ontologia mínima de distinção, estrutura, limite, determinação e ser como inscrição no real;
+- o aparecer intrarreal como centro próprio;
+- a localidade e a apreensão situada como se ainda estivéssemos a abrir o `Capítulo 2`.
+
+O que herda legitimamente dessas peças é apenas isto:
+- há real;
+- não há exterioridade ao real;
+- o humano está situado no real;
+- a apreensão precede a representação;
+- a variação do acesso ao real não autoriza soberania subjetiva.
+
+### com o Capítulo 3
+O `Capítulo 4` herda legitimamente:
+- o solo já ganho do vivo organizado;
+- corpo, continuidade encarnada, estabilização local e apreensão enquanto condições de passagem;
+- a inteligibilidade da diferença reflexiva encarnada.
+
+Mas não pode reabrir como cabeça positiva:
+- vida organizada;
+- organismo;
+- corpo;
+- campo do vivo;
+- continuidade encarnada;
+- estabilização local enquanto solo próprio do vivo.
+
+No `Capítulo 3`, a reflexividade torna-se inteligível.
+No `Capítulo 4`, ela começa a ganhar constituição própria.
+
+### com o Capítulo 5
+O `Capítulo 4` pode tocar legitimamente:
+- estabilização temporal interna;
+- permanência mínima da relação apreendida;
+- condição temporal interna da constituição reflexiva.
+
+Mas não pode absorver:
+- memória como centro próprio;
+- tempo vivido soberano;
+- identidade temporal;
+- retenção forte;
+- continuidade de si.
+
+No `Capítulo 4`, `P25` serve a constituição situada da reflexividade.
+No `Capítulo 5`, a estabilização temporal interna passa a ser o próprio foco do texto.
+
+### com o Capítulo 6
+O `Capítulo 4` pode abrir ulteriormente para:
+- fixação representacional;
+- mediação operável;
+- preparação de uma camada simbólica ainda não tematizada.
+
+Mas não pode absorver:
+- símbolo;
+- linguagem;
+- mediação soberana;
+- representação como corpo próprio do capítulo.
+
+`P26` entra aqui apenas como derivação ulterior subordinada.
+Quando mediação e representação ganham corpo próprio, já se entrou no `Capítulo 6`.
+
+### com o Capítulo 7
+O `Capítulo 4` pode tocar terminalmente:
+- ajustamento / desajustamento;
+- verdade sob submissão ao real;
+- correção como reinscrição.
+
+Mas não pode absorver:
+- adequação como centro próprio;
+- critério;
+- verdade;
+- erro;
+- correção enquanto corpo dominante do capítulo.
+
+`P31/P34/P37` entram aqui apenas como fecho terminal.
+Quando esse regime passa a cabeça do texto, já se entrou no `Capítulo 7`.
+
+### com o Capítulo 8
+O `Capítulo 4` pode admitir apenas lateralmente:
+- vigilância contra vida no símbolo;
+- vigilância contra fechamento simbólico;
+- vigilância contra degradação reflexiva por autonomização simbólica.
+
+Mas não pode absorver:
+- reaperto crítico limítrofe da consciência reinscrita;
+- crítica do fechamento simbólico como novo centro positivo;
+- diagnóstico tardio do desvio como soberania sobre o capítulo.
+
+O `Capítulo 4` constitui a reflexividade reinscrita.
+O `Capítulo 8` reaperta limítrofe e criticamente aquilo que aqui apenas ganha forma.
+
+---
+
+## VII. Travões locais de crescimento
+
+### travão 1 — anti-consciência soberana
+Consciência não pode abrir o capítulo como instância dada, autoportante ou exteriorizante.
+
+### travão 2 — anti-sujeito
+O sujeito só é admissível aqui como sujeito reinscrito, não como substância interior separada.
+
+### travão 3 — anti-presença-de-si
+Presença de si, autoconsciência e autorrelação não podem funcionar como nome originário do caso.
+
+### travão 4 — anti-memória autónoma
+`P25` não pode ser isolado nem elevado a centro próprio.
+
+### travão 5 — anti-mediação e anti-representação soberanas
+`P26` não pode comandar a abertura nem transformar o capítulo em corpo mediacional.
+
+### travão 6 — anti-epistemologia alta
+Critério, verdade, erro e correção só entram no bordo terminal do capítulo.
+
+### travão 7 — anti-regresso ao aparecer situado
+Humano situado, localidade e apreensão não podem voltar a funcionar como centro soberano do `Capítulo 2`; entram aqui como chão da constituição reflexiva.
+
+### travão 8 — anti-fusão com o Capítulo 3
+Vida organizada, organismo, corpo, campo do vivo, continuidade encarnada e estabilização local não podem reocupar a cabeça do capítulo.
+
+### travão 9 — anti-fusão com o Capítulo 5
+Memória, retenção, permanência interna e identidade temporal não podem aparecer já como centro próprio.
+
+### travão 10 — anti-fusão com os Capítulos 6 e 7
+Mediação, linguagem, adequação, critério, verdade, erro e correção não podem passar de derivação ulterior e fecho terminal a corpo do capítulo.
+
+### travão 11 — anti-captura por `Capítulo 8`
+A crítica da vida no símbolo ou do fechamento simbólico não pode reescrever o capítulo como reaperto crítico tardio.
+
+### travão 12 — anti-planificação interna do corredor
+Chão, articulação memorial, fixação ulterior, culminação reinscrita e fecho terminal não podem ser achatados numa massa única e coigual.
+
+### travão 13 — anti-contaminação por voz autoral transmissiva
+A função transmissiva da obra só pode reforçar clareza, transmissibilidade e responsabilidade expositiva; não pode introduzir fala paternal, fala ao filho, sentimentalização ou moralização da peça.
+
+---
+
+## VIII. Fórmula estrutural curta
+
+> **humano situado / localidade / apreensão → estabilização temporal interna subordinada (`P25`) → fixação representacional e mediacional ulterior (`P26`) → culminação reinscrita de consciência, reflexividade, interioridade e sujeito não soberano → fecho terminal de ajustamento, verdade e correção (`P31/P34/P37`) sob submissão ao real**
+
+---
+
+## IX. Fórmula final curta
+
+> O quarto capítulo só pode dizer isto: a consciência não abre de cima, constitui-se a partir de um humano situado que apreende localmente o real, conserva minimamente essa relação, fixa-a ulteriormente e só então pode tornar-se reflexivo sem sujeito soberano, sem memória autónoma e sem entregar cedo o caso à mediação ou ao fecho epistemológico.
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-02-materiais-positivos-md"></a>
+### 02_materiais_positivos
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/02_materiais_positivos.md`
+
+# 02_materiais_positivos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais positivos mínimos** que já sustentam o povoamento local do **Capítulo 4 — consciência, reflexividade e sujeito reinscritos**;
+- distinguir entre materiais **nucleares**, **de apoio**, **de ponte** e **sob vigilância**;
+- impedir que o capítulo seja povoado por simples afinidade temática ou por materiais já demasiado altos;
+- preparar a abertura posterior de `03_materiais_criticos.md` e `04_lacunas_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não transforma o `Capítulo 4` em teoria soberana da consciência, teoria do sujeito, psicologia da interioridade ou fenomenologia da presença de si;
+- não reconduz o capítulo ao solo do vivo organizado do `Capítulo 3`;
+- não importa para a sua cabeça materiais já mais próprios de `Capítulo 5`, `Capítulo 6`, `Capítulo 7`, `Capítulo 8`, `Capítulo 10`, `Capítulo 11`, `L1` ou zonas críticas tardias;
+- não usa ainda materiais só porque falam de memória, representação, mediação, linguagem, verdade, erro, correção, sistema ou crítica;
+- não deixa `F0276–F0278` ocuparem a abertura positiva do capítulo.
+
+### regra decisiva
+> no `Capítulo 4`, só entra material que permita dizer a constituição situada da reflexividade humana a partir de **humano situado / localidade / apreensão**, fazendo entrar depois `P25` como estabilização temporal interna subordinada, `P26` como fixação representacional e mediacional ulterior, consciência e sujeito apenas como culminação reinscrita, e `P31/P34/P37` só como fecho terminal sob submissão ao real.
+
+---
+
+## II. Corredor positivo local do capítulo
+
+O corredor positivo local do `Capítulo 4` permanece este:
+
+1. **humano situado, localidade e apreensão**
+2. **`P25` como estabilização temporal interna subordinada**
+3. **`P26` como fixação representacional e mediacional ulterior**
+4. **consciência, reflexividade, interioridade e sujeito reinscritos**
+5. **`P31/P34/P37` como fecho terminal sob submissão ao real**
+
+### consequência de mapeamento
+Isto obriga a uma seleção dura:
+- o núcleo do capítulo deve ser carregado sobretudo por materiais de **humano situado**, **localidade da apreensão**, **continuidade interna mínima da relação apreendida**, **fixação representacional derivada** e **reinscrição não soberana da consciência**;
+- `P25` e `P26` têm de entrar sob forte apoio da **verdade local já estabilizada de `CF04`** e da hierarquia já ganha, porque a banda fragmentária aí é real mas mais perigosa e mais facilmente inflacionável;
+- materiais de verdade, erro e correção só entram em **regime terminal e travado**;
+- `F0276–F0278` dão peso real ao capítulo, mas devem funcionar apenas como **materiais fortes sob vigilância**, nunca como cabeça da abertura;
+- materiais de memória autónoma, linguagem, símbolo, mediação soberana, teoria do sujeito ou crítica do fechamento simbólico ficam fora da cabeça positiva.
+
+---
+
+## III. Materiais nucleares por minicapítulo interno
+
+## M1 — Humano situado, localidade e apreensão como abertura baixa
+
+### núcleo proposicional prioritário
+- **`P23`**
+- **`P24`**
+
+### fragmentos nucleares prioritários
+- `F0241_A23_SEG_001`
+- `F0076_SEG_002`
+- `F0039_SEG_001`
+- `F0121_A01_SEG_001`
+
+### papel estrutural
+- `F0241_A23_SEG_001` é o material mais importante para reinscrever o eu e a reflexividade como emergências locais de um organismo que apreende o real, bloqueando sujeito extra-real e consciência soberana.
+- `F0076_SEG_002` mostra que eu e outro pertencem ao mesmo plano ontológico e que a apreensão do real é local, não absoluta.
+- `F0039_SEG_001` reforça o humano como ente corporal integrado no real, útil para impedir consciência solta e interioridade separada.
+- `F0121_A01_SEG_001` ajuda a fixar permanência e adaptação do humano no contínuo do real, mantendo a consciência reflexiva no interior desse horizonte e não fora dele.
+
+### containers de referência
+- `F0241_A23`
+- `F0076`
+- `F0039`
+- `F0121_A01`
+
+### fórmula local de uso
+A abertura do capítulo só pode dizer isto: **a reflexividade humana não começa por consciência soberana, mas por um humano já situado no real, já localizado e já limitado pela forma local da sua apreensão**.
+
+---
+
+## M2 — `P25` como estabilização temporal interna subordinada
+
+### núcleo proposicional prioritário
+- **`P25`**
+
+### fragmentos nucleares prioritários
+- `F0241_A20_SEG_003`
+- `F0241_A24_SEG_003`
+- `F0141_SEG_001`
+
+### fragmentos de apoio
+- `F0241_A25_SEG_002`
+
+### papel estrutural
+- `F0241_A20_SEG_003` é o melhor material para sustentar que a apreensão atual pressupõe continuidade relacional anterior e não pode existir como instante solto.
+- `F0241_A24_SEG_003` ajuda a mostrar que a relação com o real continua a atualizar-se antes da consciência a tematizar, reforçando uma estabilização interna já em curso.
+- `F0141_SEG_001` dá espessura concreta ao ponto em que a apreensão prática depende de continuidade corporal e temporal, e se desorganiza quando essa continuidade se quebra.
+- `F0241_A25_SEG_002` pode entrar como apoio para mostrar que a reflexividade pressupõe um ser já exploratório e já em contacto direto com o real, e por isso não nasce do nada nem de uma síntese simbólica autónoma.
+
+### nota de prudência
+Neste minicapítulo, o apoio decisivo continua a ser mais **hierárquico e localmente estabilizado** do que **fragmentariamente seco**. Por isso, `P25` deve entrar como articulação interna do caso e não como memória já autonomizada.
+
+### containers de referência
+- `F0241_A20`
+- `F0241_A24`
+- `F0141`
+- `F0241_A25`
+
+### fórmula local de uso
+Esta banda só deve dizer o mínimo indispensável: **a relação apreendida não se extingue inteiramente no instante; conserva uma estabilização temporal interna ainda subordinada ao humano situado e ainda anterior a memória soberana, identidade temporal ou representação forte**.
+
+---
+
+## M3 — `P26` como fixação representacional e mediacional ulterior
+
+### núcleo proposicional prioritário
+- **`P26`**
+
+### fragmentos nucleares prioritários
+- `F0241_A12_SEG_003`
+- `F0136_SEG_001`
+- `F0195_SEG_001`
+
+### fragmentos de apoio
+- `F0203_SEG_001`
+- `F0241_A25_SEG_002`
+
+### papel estrutural
+- `F0241_A12_SEG_003` é muito importante para mostrar que “objeto” pertence já ao nível derivado da apreensão simbólica de estabilizações relacionais e não ao nível ontológico primário do real.
+- `F0136_SEG_001` ajuda a distinguir representação local de contacto efetivo com atualizações reais, evitando que o pensado seja confundido com o realmente tocado.
+- `F0195_SEG_001` liga apreensão e representação, mostrando que representar é um modo de tornar o apreendido operável, retomável e memorável.
+- `F0203_SEG_001` reforça que não há contacto direto entre consciências: há externalização, meio e nova representação situada, o que ajuda a fixar a mediação em regime ainda subordinado.
+- `F0241_A25_SEG_002` pode reaparecer aqui como apoio porque mostra que síntese simbólica e representação pressupõem já reconhecimento e apreensão prévias do real.
+
+### containers de referência
+- `F0241_A12`
+- `F0136`
+- `F0195`
+- `F0203`
+- `F0241_A25`
+
+### fórmula local de uso
+Esta banda só deve dizer isto: **o que foi apreendido e minimamente estabilizado pode fixar-se em forma representacional e mediacional operável; mas essa fixação continua derivada, localizada e submetida ao real, e não pode ainda abrir símbolo, linguagem ou mediação como capítulos soberanos**.
+
+---
+
+## M4 — Consciência, reflexividade, interioridade e sujeito reinscritos
+
+### núcleo proposicional prioritário
+- **verdade local estabilizada de `CF04`**
+- **sequência `P23/P24 → P25 → P26`**
+
+### fragmentos nucleares prioritários
+- `F0241_A25_SEG_002`
+- `F0224_SEG_001`
+- `F0097_A02_SEG_002`
+- `F0241_A23_SEG_001`
+
+### fragmentos de apoio
+- `F0090_A01_SEG_004`
+- `F0073_SEG_001`
+
+### papel estrutural
+- `F0241_A25_SEG_002` é o fragmento mais útil para mostrar que a reflexividade não nasce sem um ser exploratório, corporal e já em contacto direto com o real.
+- `F0224_SEG_001` distingue consciência em geral de consciência reflexiva-deliberativa e reinscreve ambas na apreensão local, impedindo mistificação da consciência.
+- `F0097_A02_SEG_002` reinscreve eu e consciência como atualizações locais do real e bloqueia qualquer autonomia ontológica do sujeito.
+- `F0241_A23_SEG_001` volta a ser central porque liga diretamente a emergência local da reflexividade à apreensão biológica e à automatização da experiência.
+- `F0090_A01_SEG_004` reforça que a consciência se forma corporalmente por desenvolvimento e inscrições reais, e não como instância extracorporal.
+- `F0073_SEG_001` ajuda a bloquear a leitura do ponto de vista subjetivo como prova de separação ontológica da consciência.
+
+### nota de prudência
+Este minicapítulo é o mais exposto ao falso centro lexical do capítulo. Por isso, estes materiais só podem ser usados para instalar uma **culminação reinscrita**, nunca para abrir alto por consciência, autoconsciência, sujeito ou presença de si.
+
+### containers de referência
+- `F0241_A25`
+- `F0224`
+- `F0097_A02`
+- `F0241_A23`
+- `F0090_A01`
+- `F0073`
+
+### fórmula local de uso
+O centro culminante do capítulo só pode ser formulado assim: **consciência, interioridade e sujeito tornam-se inteligíveis como reorganizações ulteriores de uma relação já situada, já estabilizada e já mediada com o real; por isso, não são origem soberana nem instância exterior ao real**.
+
+---
+
+## M5 — `P31/P34/P37` como fecho terminal sob submissão ao real
+
+### núcleo proposicional prioritário
+- **`P31`**
+- **`P34`**
+- **`P37`**
+
+### materiais de fecho sob vigilância
+- `F0241_A21_SEG_003`
+- `F0061_SEG_002`
+- `F0010_SEG_001`
+- `F0241_A10_SEG_001`
+
+### papel estrutural
+- `F0241_A21_SEG_003` é o melhor material para ligar eu, localidade, consciência e representação à possibilidade de adequação ao real.
+- `F0061_SEG_002` ajuda a subordinar verdadeiro e bom à descrição adequada do real, mantendo o humano limitado por corpo, meio e história.
+- `F0010_SEG_001` pode entrar como reforço do ponto em que a verdade se mede pela melhor descrição da realidade e o erro pede revisão.
+- `F0241_A10_SEG_001` é o material mais forte e ao mesmo tempo mais perigoso desta banda: ajuda a dizer que erro é desvio por não inclusão do real e que correção é retorno orientado pelo real, mas só pode entrar terminalmente e em regime prudencial.
+
+### nota de prudência
+Nenhum destes materiais pode funcionar como âncora soberana do capítulo. O seu lugar é **fechar**, **testar** e **reinscrever**, não reabrir o confronto como se ele já fosse primariamente epistemológico.
+
+### containers de referência
+- `F0241_A21`
+- `F0061`
+- `F0010`
+- `F0241_A10`
+
+### fórmula local de uso
+O fecho do capítulo só pode entregar isto: **uma vez constituída a reflexividade reinscrita, a representação pode ajustar-se ou desajustar-se ao real, a verdade pode aparecer como adequação sob critério submetido ao real, e a correção pode entrar como reinscrição terminal de representação e ação no real — mas nada disto pode reocupar o centro do capítulo**.
+
+---
+
+## IV. Materiais de apoio ou ponte que podem entrar, mas não governar
+
+### apoio baixo ainda legítimo
+- `F0090_A01_SEG_004`
+- `F0121_A01_SEG_001`
+- `F0039_SEG_001`
+- `F0220_SEG_001`
+
+### regra de uso
+Os materiais deste grupo:
+- podem densificar o capítulo;
+- não podem governar a sua cabeça sozinhos;
+- não podem reconduzir o capítulo ao solo do `Capítulo 3`;
+- não podem empurrá-lo cedo demais para teoria da consciência ou para capítulo da linguagem.
+
+### materiais fortes sob vigilância
+- `F0276`
+- `F0277`
+- `F0278`
+
+### nota de prudência
+Este é o grupo mais delicado do capítulo.
+Estes materiais dão peso real à zona, mas devem aparecer apenas para:
+- reforçar que pensamento, representação e fala não se separam do real;
+- bloquear subjetivismo interiorista e consciência sem sensor, estrutura ou relação;
+- impedir que o capítulo fique demasiado pobre na sua culminação reflexiva.
+
+Não podem:
+- abrir `M1` ou `M2`;
+- substituir a sequência `P23/P24 → P25 → P26`;
+- transformar o capítulo numa teoria da consciência já pronta;
+- antecipar `Capítulo 6`, `Capítulo 7` ou o reaperto crítico do `Capítulo 8`.
+
+### bordo terminal epistemológico sob vigilância
+- `F0241_A10_SEG_001`
+- `F0010_SEG_001`
+- `F0061_SEG_002`
+- `F0241_A21_SEG_003`
+
+### regra de uso
+Estes materiais:
+- podem aparecer para preparar e fechar `M5`;
+- não podem comandar a abertura do capítulo;
+- não podem transformar constituição da reflexividade em simples pré-capítulo da verdade, do erro e da correção;
+- não podem deixar o corredor `P33_P37` substituir o centro antropológico-local do caso.
+
+---
+
+## V. Materiais positivos que ficam fora da cabeça do capítulo
+
+### fora por permanecerem melhor no Capítulo 3
+- `F0241_A22_SEG_002`
+- `F0065_A01_SEG_001`
+- materiais cuja força dominante continue a ser:
+  - vivo organizado;
+  - adaptação;
+  - corpo;
+  - organismo;
+  - campo do vivo;
+  - continuidade encarnada;
+  - estabilização local como solo do vivo.
+
+### justificação
+O `Capítulo 4` recebe esse solo já preparado.
+Se o reabrir como cabeça positiva, perde o seu centro próprio e regressa ao problema do `Capítulo 3`.
+
+### fora por pertencerem melhor ao Capítulo 5
+- materiais cuja força dominante já seja:
+  - memória como centro próprio;
+  - permanência interna destacada;
+  - identidade temporal;
+  - retenção forte;
+  - continuidade de si.
+
+### justificação
+No `Capítulo 4`, `P25` entra apenas como estabilização temporal interna subordinada.
+Quando essa banda passa a centro próprio, o texto já pertence melhor ao capítulo seguinte.
+
+### fora por serem demasiado mediacionais ou simbólicos
+- `F0071_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0117_A01_SEG_002`
+- `F0119_A01_SEG_001`
+- `F0119_A01_SEG_002`
+- `F0129_SEG_001`
+- `F0137_SEG_001`
+
+### justificação
+Todos estes materiais já puxam para:
+- símbolo;
+- linguagem;
+- mediação em sentido forte;
+- representação soberanizada;
+- comunicação simbólica como corpo próprio.
+
+Isso pertence melhor a `Capítulo 6`, não ao corpo positivo do `Capítulo 4`.
+
+### fora por serem demasiado epistemológicos
+- `F0074_A02_SEG_003`
+- `F0160_SEG_001`
+- `F0241_A14_SEG_001`
+- `F0241_A14_SEG_003`
+
+### justificação
+Estes materiais já puxam para:
+- adequação;
+- verdade;
+- erro;
+- correção;
+- avaliação do símbolo, da instituição ou do sistema pela sua proximidade ao real.
+
+No `Capítulo 4`, tudo isso só pode entrar terminalmente e sob travão.
+Como corpo positivo próprio, pertencem melhor a `Capítulo 7` e ao reaperto crítico ulterior.
+
+### fora por serem já éticos, práticos ou sistémicos
+- `F0004_SEG_001`
+- `F0006_SEG_001`
+- `F0008_SEG_001`
+- `F0009_SEG_001`
+- `F0007_SEG_001`
+- `F0013_SEG_001`
+- `F0015_SEG_001`
+- `F0089_SEG_002`
+- `F0098_A03_SEG_001`
+
+### justificação
+Todos estes materiais já puxam para:
+- normatividade derivada;
+- responsabilidade;
+- sedimentação do comum;
+- cultura;
+- direito / instituição;
+- crítica de sistema.
+
+No `Capítulo 4`, entram demasiado cedo e deslocam a constituição situada da reflexividade para bandas práticas ou críticas.
+
+---
+
+## VI. Distribuição resumida dos materiais positivos do capítulo
+
+### núcleo proposicional local
+- `P23`
+- `P24`
+- `P25`
+- `P26`
+- `P31`
+- `P34`
+- `P37`
+
+### núcleo duro fragmentário
+- `F0241_A23_SEG_001`
+- `F0076_SEG_002`
+- `F0241_A20_SEG_003`
+- `F0241_A12_SEG_003`
+- `F0241_A25_SEG_002`
+- `F0224_SEG_001`
+
+### segunda cintura legítima
+- `F0039_SEG_001`
+- `F0121_A01_SEG_001`
+- `F0241_A24_SEG_003`
+- `F0141_SEG_001`
+- `F0136_SEG_001`
+- `F0195_SEG_001`
+- `F0203_SEG_001`
+- `F0097_A02_SEG_002`
+- `F0090_A01_SEG_004`
+- `F0241_A21_SEG_003`
+
+### materiais fortes sob vigilância
+- `F0276`
+- `F0277`
+- `F0278`
+- `F0241_A10_SEG_001`
+- `F0010_SEG_001`
+- `F0061_SEG_002`
+
+### excluídos da cabeça do capítulo
+- `F0241_A22_SEG_002`
+- `F0065_A01_SEG_001`
+- `F0071_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0117_A01_SEG_002`
+- `F0119_A01_SEG_001`
+- `F0119_A01_SEG_002`
+- `F0129_SEG_001`
+- `F0137_SEG_001`
+- `F0074_A02_SEG_003`
+- `F0160_SEG_001`
+- `F0241_A14_SEG_001`
+- `F0241_A14_SEG_003`
+- `F0004_SEG_001`
+- `F0006_SEG_001`
+- `F0008_SEG_001`
+- `F0009_SEG_001`
+- `F0007_SEG_001`
+- `F0013_SEG_001`
+- `F0015_SEG_001`
+- `F0089_SEG_002`
+- `F0098_A03_SEG_001`
+
+---
+
+## VII. Lacuna positiva remanescente do capítulo
+
+A principal lacuna positiva do `Capítulo 4` não está na possibilidade de travar a abertura alta por consciência, sujeito ou presença de si.
+Também não está na falta absoluta de materiais para humano situado, localidade, memória subordinada, representação ou fecho terminal.
+
+A lacuna principal está em duas tarefas conjugadas:
+
+1. **dizer com secura suficiente a passagem entre abertura baixa (`P23/P24`), estabilização interna (`P25`) e fixação ulterior (`P26`) sem deixar o texto oscilar entre regressão ao `Capítulo 3`, antecipação do `Capítulo 5` e antecipação dos capítulos mediacionais**;
+2. **dar corpo positivo à culminação reinscrita da consciência e do sujeito sem deixar `F0276–F0278` ou o bordo `P31/P34/P37` renomearem o capítulo por dentro**.
+
+### consequência
+Na abertura redacional futura do capítulo, será preciso:
+- usar a decisão já estabilizada de `CF04` para segurar a hierarquia `P23/P24 → P25 → P26 → culminação reinscrita → P31/P34/P37`;
+- manter os fragmentos como densificação e prova de não-desvio;
+- dar mais peso a `M1`, `M2`, `M3` e `M4` do que a `M5`;
+- e deixar `F0276–F0278` e o fecho epistemológico explicitamente subordinados, sem falso começo de `Capítulo 5`, `Capítulo 6`, `Capítulo 7` ou `Capítulo 8`.
+
+---
+
+## VIII. Fórmula final curta
+
+> O `Capítulo 4` já tem matéria bastante para abrir a constituição situada da reflexividade humana, mas o seu povoamento só é válido se permanecer disciplinado: humano situado, localidade e apreensão primeiro; `P25` e `P26` apenas em ordem interna subordinada; consciência, interioridade e sujeito só como culminação reinscrita; e adequação, verdade e correção apenas como fecho terminal sob submissão ao real.
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-03-materiais-criticos-md"></a>
+### 03_materiais_criticos
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/03_materiais_criticos.md`
+
+# 03_materiais_criticos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais críticos mínimos** que o `Capítulo 4` já pode usar sem perder o seu centro positivo;
+- distinguir entre crítica **interna necessária**, crítica **de bordo alto** e crítica **a excluir da cabeça do capítulo**;
+- bloquear os falsos centros que ameaçam a constituição situada, memorial, representacional e mediada da reflexividade humana;
+- preparar a passagem posterior a `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não transforma o `Capítulo 4` em capítulo crítico autónomo;
+- não substitui a matriz crítica transversal do livro;
+- não autoriza teoria da consciência, teoria do sujeito, teoria da memória, teoria da linguagem, epistemologia alta, ética, sistema ou crítica tardia como cabeça do capítulo;
+- não usa ainda o negativo para governar o corpo positivo da peça;
+- não confunde travão local com camada crítica soberana.
+
+### regra decisiva
+> no `Capítulo 4`, a crítica só entra para impedir abertura alta por consciência / sujeito, regressão ao solo de `Capítulo 3`, autonomização de `P25`, soberanização de `P26`, reocupação do centro por `P31/P34/P37` e captura limítrofe por `Capítulo 8`; não entra para substituir o centro antropológico-local do capítulo.
+
+---
+
+## II. Regime crítico próprio do capítulo
+
+### família crítica dominante
+A família crítica dominante do `Capítulo 4` é esta:
+- **limitação da reflexividade**;
+- **reinscrição da consciência no real**;
+- **dessubstancialização do eu e do sujeito**;
+- **distinção entre apreensão e representação**;
+- **submissão ao real**;
+- **bloqueio da memória autónoma**;
+- **bloqueio do fecho epistemológico prematuro**;
+- **travão limítrofe contra vida no símbolo e fechamento simbólico como cabeça do caso**.
+
+### erros principais a bloquear
+1. abrir por **consciência**, **autoconsciência**, **sujeito**, **presença de si** ou **reflexividade** como primeiras palavras soberanas;
+2. regressar ao solo de **vida organizada / organismo / corpo / campo / continuidade encarnada** como se o problema ainda fosse o do `Capítulo 3`;
+3. autonomizar `P25` como memória forte, retenção, permanência interna destacada ou identidade temporal;
+4. deixar `P26` subir à cabeça do caso e transformar o capítulo em mediação ou representação soberana;
+5. deixar `P31/P34/P37` ou o corredor `P33_P37` reocuparem o centro e converterem o caso em pré-epistemologia;
+6. deixar a crítica da **vida no símbolo** ou do **fechamento simbólico** reescrever o capítulo como fecho limítrofe tardio.
+
+### estatuto da crítica no capítulo
+A crítica entra aqui em regime de:
+- **travão interno de abertura**;
+- **disciplina da hierarquia interna do caso**;
+- **guarda de fronteira com `Capítulo 3`, `Capítulo 5` e `Capítulo 8`**;
+- **vigilância contra inflação lexical de consciência, sujeito, memória, mediação e correção**.
+
+Não entra ainda como:
+- crítica cultural;
+- crítica institucional;
+- crítica jurídica;
+- crítica do sistema;
+- capítulo da verdade e do erro;
+- teoria geral da linguagem;
+- teoria geral do sujeito;
+- reaperto crítico tardio da vida no símbolo.
+
+---
+
+## III. Materiais críticos internos já admissíveis
+
+## C1 — crítica contra abertura alta por consciência, sujeito e presença de si
+
+### materiais prioritários
+- verdade local estabilizada de `CF04`
+- `F0241_A23_SEG_001`
+- `F0097_A02_SEG_002`
+- `F0224_SEG_001`
+- `F0090_A01_SEG_004`
+
+### papel estrutural
+- a **verdade local estabilizada de `CF04`** fixa que o caso não abre por “consciência / sujeito”, mas por humano situado, localidade e apreensão;
+- `F0241_A23_SEG_001` reinscreve a emergência do eu e da reflexividade na apreensão biológica e local do real, impedindo consciência soberana;
+- `F0097_A02_SEG_002` reinscreve eu e consciência como atualizações locais do real e bloqueia autonomia ontológica do sujeito;
+- `F0224_SEG_001` distingue consciência em geral de consciência reflexiva-deliberativa e trava mistificação da consciência como algo místico ou separado;
+- `F0090_A01_SEG_004` impede extracorporalidade da consciência e reforça a sua formação incorporada e situada.
+
+### operação crítica dominante
+- anti-consciência soberana;
+- anti-sujeito dado;
+- dessubstancialização do eu;
+- reinscrição da consciência no real.
+
+### uso admissível
+Entram para proteger `M1` e `M4`.
+Não entram para abrir uma teoria da consciência, do sujeito ou da presença de si.
+
+---
+
+## C2 — crítica da regressão ao solo do `Capítulo 3`
+
+### materiais prioritários
+- verdade local estabilizada de `CF04`
+- `F0241_A22_SEG_002`
+- `F0065_A01_SEG_001`
+- `F0039_SEG_001`
+- `F0121_A01_SEG_001`
+
+### papel estrutural
+- a **verdade local estabilizada de `CF04`** fixa que o caso já não pertence ao solo próprio do vivo organizado;
+- `F0241_A22_SEG_002` e `F0065_A01_SEG_001` lembram que adaptação, inserção e começo do vivo organizado pertencem à mediação `2→3` e ao corpo do `Capítulo 3`, não ao centro de `Capítulo 4`;
+- `F0039_SEG_001` e `F0121_A01_SEG_001` continuam úteis para bloquear consciência solta, mas, se sobrecarregados, podem arrastar a cabeça do capítulo de volta para corporeidade e continuidade encarnada como falso centro suficiente.
+
+### operação crítica dominante
+- anti-fusão com `Capítulo 3`;
+- diferenciação de níveis;
+- travão contra regressão ao vivo organizado como cabeça do caso.
+
+### uso admissível
+Entram para guardar o bordo inferior do capítulo.
+Não entram para refundar a abertura positiva da peça.
+
+---
+
+## C3 — crítica da autonomização de `P25` e da captura por `Capítulo 5`
+
+### materiais prioritários
+- verdade local estabilizada de `CF04`
+- `F0241_A20_SEG_003`
+- `F0241_A24_SEG_003`
+- `F0141_SEG_001`
+
+### papel estrutural
+- a **verdade local estabilizada de `CF04`** recoloca `P25` como articulação interna subordinada e bloqueia a sua subida a centro próprio;
+- `F0241_A20_SEG_003` mostra que a apreensão atual supõe continuidade relacional anterior e, por isso, favorece estabilização mínima sem autorizar memória forte;
+- `F0241_A24_SEG_003` ajuda a mostrar que a relação ao real continua a atualizar-se antes de se tornar memória tematizada ou identidade temporal;
+- `F0141_SEG_001` dá espessura concreta à necessidade de continuidade interna sem a converter em permanência de si ou em memória soberana.
+
+### operação crítica dominante
+- anti-memória autónoma;
+- anti-identidade temporal precoce;
+- anti-captura por `Capítulo 5`.
+
+### uso admissível
+Entram para proteger `M2`.
+Não entram para abrir já tempo vivido, retenção, identidade narrativa ou permanência interna destacada.
+
+---
+
+## C4 — crítica da subida precoce para `P26`, representação e mediação soberanas
+
+### materiais prioritários
+- verdade local estabilizada de `CF04`
+- `F0241_A12_SEG_003`
+- `F0136_SEG_001`
+- `F0195_SEG_001`
+- `F0203_SEG_001`
+
+### papel estrutural
+- a **verdade local estabilizada de `CF04`** fixa que `P26` só entra como derivação ulterior da relação já apreendida e estabilizada;
+- `F0241_A12_SEG_003` mostra que “objeto” pertence já ao nível derivado da apreensão simbólica / representacional e, por isso, não pode abrir o caso;
+- `F0136_SEG_001` ajuda a distinguir representação local de contacto efetivo com atualizações reais, impedindo que o pensado substitua o real;
+- `F0195_SEG_001` mostra que a representação torna o apreendido operável e retomável, mas continua dependente dele;
+- `F0203_SEG_001` reforça que entre consciências há meio, exteriorização e nova representação situada, e não acesso direto nem interioridade soberana.
+
+### operação crítica dominante
+- distinção apreensão / representação;
+- anti-mediação soberana;
+- anti-representação soberana;
+- travão contra mini-`Capítulo 6` dentro do `Capítulo 4`.
+
+### uso admissível
+Entram para proteger `M3` e a passagem a `M4`.
+Não entram para abrir símbolo, linguagem, mediação ou representação como corpo próprio do capítulo.
+
+---
+
+## C5 — crítica da reocupação do centro por `P31/P34/P37` e pelo corredor `P33_P37`
+
+### materiais prioritários
+- verdade local estabilizada de `CF04`
+- `F0241_A21_SEG_003`
+- `F0061_SEG_002`
+- `F0010_SEG_001`
+- `F0241_A10_SEG_001`
+
+### papel estrutural
+- a **verdade local estabilizada de `CF04`** fixa que adequação, verdade e correção pertencem ao fecho terminal do caso e não à sua cabeça;
+- `F0241_A21_SEG_003` liga consciência, representação e localidade à possibilidade de ajustamento ou desajustamento perante o real;
+- `F0061_SEG_002` e `F0010_SEG_001` ajudam a reinscrever verdade e erro como medidos pela melhor descrição da realidade, sem lhes dar comando inaugural;
+- `F0241_A10_SEG_001` é o material mais forte e mais perigoso desta banda: ajuda a dizer que erro e correção dependem do real, mas só pode entrar como prudência terminal e nunca como âncora soberana.
+
+### operação crítica dominante
+- anti-epistemologia alta;
+- submissão ao real;
+- correção como reinscrição terminal;
+- travão contra captura pelo corredor `P33_P37`.
+
+### uso admissível
+Entram para fechar negativamente `M5`.
+Não entram para reorganizar a abertura do capítulo nem para o converter em pré-capítulo de verdade, erro e correção.
+
+---
+
+## C6 — crítica limítrofe contra interioridade desligada do real, vida no símbolo e captura por `Capítulo 8`
+
+### materiais prioritários
+- `F0277`
+- `F0276`
+- `F0278`
+
+### papel estrutural
+- `F0277` é o material crítico mais nítido contra subjetivismo interiorista, panpsiquismo frouxo e vida na representação simbólica do símbolo;
+- `F0276` ajuda a mostrar que pensamento, fala e estruturas representacionais só se tornam inteligíveis pela correspondência com o real e com o modo de ser situado;
+- `F0278` reinscreve a emergência da consciência em sensor, deteção, estrutura e relação, bloqueando consciência sem corpo relacional, sem deteção e sem real.
+
+### operação crítica dominante
+- anti-interioridade soberana;
+- anti-vida-no-símbolo;
+- anti-fechamento simbólico precoce;
+- travão limítrofe contra captura por `Capítulo 8`.
+
+### uso admissível
+Entram apenas no bordo superior do capítulo.
+Não podem:
+- abrir `M1` ou `M2`;
+- renomear o centro do caso;
+- transformar o `Capítulo 4` em reaperto crítico tardio;
+- substituir a culminação reinscrita por crítica da subjetivação ou do símbolo como nova cabeça positiva.
+
+---
+
+## IV. Materiais críticos de bordo que podem entrar, mas não governar
+
+### bordo inferior `3→4` sob vigilância de não-regressão
+- `F0241_A22_SEG_002`
+- `F0065_A01_SEG_001`
+
+### regra de uso
+Estes materiais:
+- podem aparecer como travão curto de fronteira;
+- podem reforçar a diferença entre solo do vivo e abertura antropológico-local de `Capítulo 4`;
+- não podem reabrir o capítulo por vida organizada, adaptação ou corpo como centro suficiente.
+
+### bordo limítrofe `4→8` sob vigilância
+- `F0276`
+- `F0277`
+- `F0278`
+
+### nota de prudência
+Este é o bordo mais delicado do capítulo.
+Estes materiais são muito úteis, mas devem aparecer apenas para:
+- bloquear interioridade separada do real;
+- impedir consciência sem sensor, estrutura ou relação;
+- vigiar a degradação simbólica da reflexividade.
+
+Não podem:
+- governar a cabeça crítica do capítulo;
+- abrir crítica do fechamento simbólico como corpo próprio;
+- reescrever o capítulo como fecho limítrofe do `Capítulo 8`.
+
+### bordo terminal epistemológico sob vigilância
+- `F0241_A10_SEG_001`
+- `F0010_SEG_001`
+- `F0061_SEG_002`
+- `F0241_A21_SEG_003`
+
+### regra de uso
+Estes materiais:
+- podem aparecer para preparar e fechar `M5`;
+- não podem comandar a abertura do capítulo;
+- não podem transformar a constituição situada da reflexividade em simples pré-capítulo da verdade, do erro e da correção;
+- não podem deixar o corredor `P33_P37` substituir o centro antropológico-local do caso.
+
+---
+
+## V. Materiais críticos que ficam fora do capítulo
+
+## fora por pertencerem melhor ao `Capítulo 3`
+- `F0241_A22_SEG_002`
+- `F0065_A01_SEG_001`
+- materiais cuja força dominante continue a ser:
+  - vivo organizado;
+  - adaptação;
+  - corpo;
+  - organismo;
+  - campo do vivo;
+  - continuidade encarnada;
+  - estabilização local como solo do vivo.
+
+### justificação
+O `Capítulo 4` recebe esse chão já preparado.
+Se o reabrir como cabeça crítica ou positiva, perde o seu centro próprio e regressa ao problema do capítulo anterior.
+
+## fora por pertencerem melhor ao `Capítulo 5`
+- materiais cuja força dominante já seja:
+  - memória como centro próprio;
+  - retenção forte;
+  - permanência interna destacada;
+  - identidade temporal;
+  - continuidade de si.
+
+### justificação
+No `Capítulo 4`, `P25` entra apenas como articulação subordinada.
+Quando a estabilização temporal interna passa a centro próprio, o texto já pertence melhor ao capítulo seguinte.
+
+## fora por pertencerem melhor aos `Capítulos 6` e `7`
+- `F0071_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0117_A01_SEG_002`
+- `F0119_A01_SEG_001`
+- `F0119_A01_SEG_002`
+- `F0129_SEG_001`
+- `F0137_SEG_001`
+- `F0074_A02_SEG_003`
+- `F0160_SEG_001`
+- `F0241_A14_SEG_001`
+- `F0241_A14_SEG_003`
+
+### justificação
+Todos estes materiais já puxam para:
+- símbolo;
+- linguagem;
+- mediação em sentido forte;
+- representação soberanizada;
+- adequação;
+- verdade;
+- erro;
+- correção.
+
+Isso pertence melhor a `Capítulo 6` e `Capítulo 7`, não ao corpo crítico próprio do `Capítulo 4`.
+
+## fora por serem já éticos, práticos ou crítico-sistémicos
+- `F0004_SEG_001`
+- `F0006_SEG_001`
+- `F0008_SEG_001`
+- `F0009_SEG_001`
+- `F0007_SEG_001`
+- `F0013_SEG_001`
+- `F0015_SEG_001`
+- `F0089_SEG_002`
+- `F0098_A03_SEG_001`
+
+### justificação
+Todos estes materiais já puxam para:
+- normatividade derivada;
+- responsabilidade;
+- sedimentação do comum;
+- cultura;
+- direito / instituição;
+- crítica de sistema.
+
+No `Capítulo 4`, entram demasiado cedo e deslocam a constituição situada da reflexividade para bandas práticas ou críticas tardias.
+
+---
+
+## VI. Distribuição resumida dos materiais críticos do capítulo
+
+### núcleo crítico interno
+- verdade local estabilizada de `CF04`
+- `F0241_A23_SEG_001`
+- `F0097_A02_SEG_002`
+- `F0241_A20_SEG_003`
+- `F0241_A12_SEG_003`
+- `F0224_SEG_001`
+
+### segunda cintura crítica legítima
+- `F0076_SEG_002`
+- `F0039_SEG_001`
+- `F0121_A01_SEG_001`
+- `F0241_A24_SEG_003`
+- `F0141_SEG_001`
+- `F0136_SEG_001`
+- `F0195_SEG_001`
+- `F0203_SEG_001`
+- `F0090_A01_SEG_004`
+- `F0073_SEG_001`
+
+### bordo superior sob vigilância
+- `F0276`
+- `F0277`
+- `F0278`
+- `F0241_A10_SEG_001`
+- `F0010_SEG_001`
+- `F0061_SEG_002`
+- `F0241_A21_SEG_003`
+
+### excluídos da cabeça crítica do capítulo
+- `F0241_A22_SEG_002`
+- `F0065_A01_SEG_001`
+- `F0276`
+- `F0277`
+- `F0278`
+- `F0241_A10_SEG_001`
+- `F0071_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0117_A01_SEG_002`
+- `F0119_A01_SEG_001`
+- `F0119_A01_SEG_002`
+- `F0129_SEG_001`
+- `F0137_SEG_001`
+- `F0074_A02_SEG_003`
+- `F0160_SEG_001`
+- `F0241_A14_SEG_001`
+- `F0241_A14_SEG_003`
+- `F0004_SEG_001`
+- `F0006_SEG_001`
+- `F0008_SEG_001`
+- `F0009_SEG_001`
+- `F0007_SEG_001`
+- `F0013_SEG_001`
+- `F0015_SEG_001`
+- `F0089_SEG_002`
+- `F0098_A03_SEG_001`
+
+---
+
+## VII. Lacuna crítica remanescente do capítulo
+
+A principal lacuna crítica do `Capítulo 4` já não está em saber **contra o quê** ele se tem de defender.
+Isso já está suficientemente claro.
+
+A lacuna principal está em duas tarefas conjugadas:
+
+1. **fechar com mais secura a diferença entre crítica contra abertura alta por consciência / sujeito, crítica contra memória autónoma, crítica contra mediação soberana e crítica contra fecho epistemológico, para que o capítulo não oscile entre falso centro alto e falso fecho terminal**;
+2. **regular melhor o uso do bordo limítrofe `4→8` e do bordo terminal `P31/P34/P37`, para que `F0276–F0278` e o material epistemológico útil não renomeiem o capítulo por dentro nem sobresegurem o seu fecho**.
+
+### consequência
+Na futura redação do capítulo, será preciso:
+- manter visível a diferença entre **abertura baixa**, **articulação interna memorial**, **fixação ulterior**, **culminação reinscrita** e **fecho terminal**;
+- usar a crítica só para travar regressões expositivas reais;
+- impedir que consciência alta, memória forte, mediação soberana ou correção terminal entrem como compensação redacional para falta de secura na formulação positiva do centro.
+
+---
+
+## VIII. Fórmula final curta
+
+> O `Capítulo 4` já sabe contra o que se tem de defender: não abrir por consciência ou sujeito, não regressar ao vivo organizado, não autonomizar `P25`, não soberanizar `P26`, e não deixar nem o fecho epistemológico nem o braço limítrofe de `Capítulo 8` roubarem a cabeça do caso.
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-04-lacunas-do-capitulo-md"></a>
+### 04_lacunas_do_capitulo
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/04_lacunas_do_capitulo.md`
+
+# 04_lacunas_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar as **lacunas reais ainda ativas** do **Capítulo 4 — consciência, reflexividade e sujeito reinscritos** depois do seu estatuto, estrutura interna, materiais positivos e materiais críticos já levantados;
+- distinguir entre:
+  - lacunas de **densificação positiva**,
+  - lacunas de **travão crítico**,
+  - lacunas de **fronteira**,
+  - e lacunas de **mediação interna e terminal**;
+- impedir que o capítulo pareça mais fechado do que realmente está;
+- preparar a passagem disciplinada a `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não reabre a arquitetura total da obra;
+- não altera o centro local já fixado para o capítulo;
+- não converte a enumeração das faltas em novo ensaio;
+- não autoriza ainda expansão para memória como centro próprio, identidade temporal, linguagem, símbolo, sistema, ética ou crítica tardia;
+- não autoriza que a fronteira `3→4` se transforme já em regressão ao `Capítulo 3`;
+- não autoriza que `P25` entregue cedo demais o caso ao `Capítulo 5`;
+- não autoriza que `P26` faça deste capítulo um falso começo dos `Capítulos 6` e `7`;
+- não autoriza que `P31/P34/P37` ou o bordo `4→8` convertam esta peça em reaperto epistemológico ou crítico terminal.
+
+### regra decisiva
+> neste capítulo, a lacuna principal já não é falta de matéria sobre humano situado, localidade, apreensão, memória subordinada, representação, mediação ou reflexividade reinscrita; é falta de secura bastante para manter visível a hierarquia `P23/P24 → P25 → P26 → culminação reinscrita → P31/P34/P37` sem regressão a `Capítulo 3`, sem deslizamento para `Capítulo 5` e sem captura pelos capítulos mediacionais, epistemológicos ou limítrofes.
+
+---
+
+## II. O que já está suficientemente ganho
+
+### ganho positivo real
+Já está suficientemente ganho, para este capítulo:
+- a abertura por **humano situado / localidade / apreensão** e não por consciência, sujeito ou presença de si;
+- a manutenção de `P23/P24` como chão primário do caso;
+- a entrada de `P25` como **estabilização temporal interna subordinada** e não como centro memorial autónomo;
+- a entrada de `P26` como **fixação representacional e mediacional ulterior** e não como abertura soberana;
+- a culminação de **consciência, reflexividade, interioridade e sujeito reinscritos** apenas depois do chão antropológico-local e das suas articulações internas;
+- a subordinação de `P31/P34/P37` a um regime terminal de ajustamento, verdade e correção sob submissão ao real;
+- os travões contra regressão ao `Capítulo 3`, contra captura por `Capítulo 5`, contra inflamação mediacional, contra epistemologia alta e contra reaperto crítico precoce por `Capítulo 8`.
+
+### consequência metodológica
+O `Capítulo 4` não sofre, neste momento, de falta de matéria mínima.
+O que lhe falta já não é “ter sobre o que falar”.
+O que lhe falta é:
+- maior secura positiva na abertura baixa;
+- encadeamento mais duro entre `P23/P24`, `P25` e `P26`;
+- melhor concentração da culminação reinscrita;
+- fecho terminal mais subordinado;
+- e fronteiras mais curtas com os capítulos vizinhos.
+
+---
+
+## III. Lacunas positivas ainda ativas
+
+## L1 — falta de formulação curta e seca para a abertura baixa em humano situado / localidade / apreensão
+
+### problema
+A abertura do capítulo já está corretamente recentrada, mas ainda pode soar demasiado programática ou demasiado dependente do bloqueio do falso centro antigo.
+Por vezes, “humano situado / localidade / apreensão” aparece mais como fórmula corretiva do que como cabeça positiva seca do caso.
+
+### o que falta
+Falta uma formulação mais curta e mais afirmativa de:
+- por que razão o capítulo começa num **ente humano já situado e localizado no real**;
+- por que razão a **apreensão local** continua a comandar a abertura;
+- e por que razão isto ainda não é consciência constituída, interioridade forte ou sujeito dado.
+
+### consequência
+Sem esta secura positiva, a abertura do capítulo pode parecer:
+- demasiado dependente da crítica ao velho centro de consciência / sujeito;
+- demasiado próxima da entrega `3→4`;
+- ou demasiado preparatória de `P25` em vez de afirmar o seu próprio chão.
+
+---
+
+## L2 — falta de encadeamento mais apertado entre `P23/P24` e `P25`
+
+### problema
+`P23/P24` e `P25` já estão corretamente hierarquizados, mas a transição entre ambos ainda pode parecer demasiado curta ou demasiado intuitiva.
+O risco é que `P25` surja como camada que simplesmente “entra” em vez de surgir como articulação interna necessária do próprio chão antropológico-local.
+
+### o que falta
+Falta uma ponte curta que diga:
+- o humano situado não apreende de fora do real;
+- a relação apreendida não se extingue inteiramente no instante;
+- essa persistência mínima é ainda subordinada à própria relação ao real;
+- e só por isso `P25` entra legitimamente sem se autonomizar.
+
+### consequência
+Sem esta ponte, `M1` e `M2` podem:
+- parecer apenas contíguos;
+- fazer `P25` soar já a memória forte;
+- ou deixar a passagem para `Capítulo 5` insinuar-se cedo demais.
+
+---
+
+## L3 — falta de formulação ainda mais seca para `P26` como derivação ulterior
+
+### problema
+`P26` já está bem disciplinado, mas continua a ser a zona mais delicada do capítulo.
+Se cresce demasiado, transforma-se facilmente em falso começo dos capítulos mediacionais; se fica demasiado curto, a culminação reinscrita parece saltar da estabilização interna para a reflexividade sem fixação operável intermédia.
+
+### o que falta
+Falta uma formulação mínima de `M3` que diga apenas:
+- a relação estabilizada pode fixar-se em forma operável;
+- essa fixação é representacional e mediacional;
+- ela continua dependente do apreendido;
+- e nada autoriza ainda linguagem, símbolo ou teoria da mediação como corpo próprio.
+
+### consequência
+Sem esta secura, `M3` pode:
+- inflacionar para `Capítulo 6`;
+- antecipar `Capítulo 7`;
+- ou, pelo contrário, desaparecer como mediação necessária dentro do próprio caso.
+
+---
+
+## L4 — falta de formulação positiva mais concentrada para a culminação reinscrita
+
+### problema
+O verdadeiro centro superior do capítulo já está reconhecido, mas ainda precisa de formulação mais dura.
+A passagem para consciência, reflexividade, interioridade e sujeito reinscritos continua vulnerável a dois excessos simétricos: ou regressa à velha linguagem alta de sujeito / presença de si, ou se dilui em memória e mediação sem culminação própria.
+
+### o que falta
+Falta uma formulação mínima que diga apenas isto:
+- a reflexividade não abre o caso;
+- ela culmina a partir de humano situado, estabilização interna e fixação operável;
+- a interioridade que aqui entra não é separada do real;
+- e o sujeito só é admissível como sujeito não soberano, reinscrito e corrigível.
+
+### consequência
+Sem esta secura, `M4` pode:
+- parecer ainda demasiado alto;
+- ficar dependente de nomes herdados do falso centro antigo;
+- ou perder nitidez própria entre `P26` e `P31/P34/P37`.
+
+---
+
+## L5 — falta de fecho terminal suficientemente baixo para `P31/P34/P37`
+
+### problema
+O fecho epistemológico do capítulo já está subordinado, mas ainda precisa de fórmula mais curta.
+O risco já não é a sua ausência; é a sua reocupação do centro por excesso de explicitação.
+
+### o que falta
+Falta uma formulação terminal que diga apenas:
+- a representação fixada admite ajustamento e desajustamento relativamente ao real;
+- verdade e correção entram aqui apenas como regime de teste e reinscrição;
+- `P31/P34/P37` pertencem ao fecho terminal;
+- e não podem renomear por dentro a cabeça antropológico-local do capítulo.
+
+### consequência
+Sem esta formulação baixa:
+- `M5` pode parecer co-centro do capítulo;
+- ou o caso pode deslizar para falso capítulo de adequação, verdade e correção.
+
+---
+
+## IV. Lacunas críticas ainda ativas
+
+## C1 — falta de separação crítica mais curta entre quatro desvios internos principais
+
+### problema
+O capítulo já sabe bem contra o que se tem de defender, mas a diferença entre quatro desvios ainda pode aparecer demasiado distribuída:
+- abertura alta por consciência / sujeito;
+- autonomização de `P25`;
+- subida de `P26`;
+- reocupação do centro por `P31/P34/P37`.
+
+### o que falta
+Falta uma regra crítica mais curta que diga claramente:
+- cada uma destas derivas pertence a um ponto interno diferente da hierarquia;
+- nenhuma pode ser usada para corrigir a falta de secura de outra;
+- e a crítica só vale se preservar a ordem interna do caso.
+
+### consequência
+Sem esta separação curta, o capítulo pode oscilar:
+- entre falso centro alto;
+- falso centro memorial;
+- falso centro mediacional;
+- e falso fecho epistemológico.
+
+---
+
+## C2 — falta de regulação mais dura do uso de `F0276–F0278`
+
+### problema
+`F0276–F0278` já aparecem corretamente como materiais fortes e perigosos.
+Mas o seu estatuto ainda precisa de formulação crítica mais seca para não parecerem licença para reabrir o caso por dentro com interioridade, pensamento, consciência ou crítica do símbolo.
+
+### o que falta
+Falta uma regra local mais dura sobre estes materiais:
+- podem entrar como bordo superior sob vigilância;
+- podem reforçar a reinscrição da consciência no real;
+- podem bloquear interioridade desligada do real e vida no símbolo;
+- mas não podem governar `M1`, `M2`, `M3` nem renomear `M4` como capítulo crítico do símbolo.
+
+### consequência
+Sem esta disciplina, o capítulo pode:
+- sobresegurar-se por bordo limítrofe;
+- antecipar `Capítulo 8`;
+- ou parecer mais forte pelo material perigoso do que pelo seu centro próprio.
+
+---
+
+## C3 — falta de separação crítica mais curta entre anti-mediação soberana e anti-epistemologia alta
+
+### problema
+O capítulo já trava bem a subida de `P26` e a reocupação terminal por `P31/P34/P37`, mas a linha entre estes dois desvios ainda pode ficar curta demais na redação futura.
+
+### o que falta
+Falta uma formulação que diga claramente:
+- mediação e representação ainda não são verdade nem critério;
+- fecho epistemológico não pode substituir a fixação mediacional;
+- e nenhum destes níveis pode abrir o texto nem corrigir por cima a sua abertura baixa.
+
+### consequência
+Sem esta diferenciação curta, o capítulo pode parecer ora mini-capítulo da mediação, ora mini-capítulo de adequação e correção.
+
+---
+
+## C4 — risco de o capítulo parecer forte sobretudo pelo que bloqueia
+
+### problema
+O `Capítulo 4` já tem travões bons e relativamente finos.
+Mas, se a formulação positiva não secar mais, o texto pode parecer mais robusto pelo negativo do que pela cabeça que afirma.
+
+### o que falta
+Falta que a crítica apareça claramente subordinada a uma cabeça positiva curta:
+- humano situado;
+- localidade;
+- apreensão;
+- estabilização temporal interna subordinada;
+- fixação ulterior;
+- culminação reinscrita.
+
+### consequência
+Sem isso, o capítulo fica protegido, mas ainda insuficientemente concentrado.
+
+---
+
+## V. Lacunas de fronteira e de mediação interna
+
+## F1 — fronteira ainda insuficientemente curta com o `Capítulo 3`
+
+### problema
+O capítulo herda legitimamente do anterior a inteligibilidade da passagem, mas ainda falta uma frase curta que impeça regressão ao solo de vida organizada, corpo, organismo, campo e continuidade encarnada.
+
+### o que falta
+Falta uma fronteira do tipo:
+- no `Capítulo 3`, a diferença reflexiva encarnada torna-se inteligível;
+- no `Capítulo 4`, ela começa a ganhar constituição situada, memorial, representacional e mediada.
+
+### consequência
+Sem esta fronteira curta, a abertura de `Capítulo 4` pode parecer ou baixa demais, ou simples prolongamento do capítulo anterior.
+
+---
+
+## F2 — fronteira ainda insuficientemente curta com o `Capítulo 5`
+
+### problema
+`P25` já entra legitimamente aqui, mas continua a ser a fronteira mais sensível do capítulo.
+O risco principal já não é a ausência de memória; é a sua subida a foco próprio por vizinhança.
+
+### o que falta
+Falta uma frase de fronteira do tipo:
+- no `Capítulo 4`, `P25` serve a constituição situada da reflexividade;
+- no `Capítulo 5`, a estabilização temporal interna passa a centro próprio.
+
+### consequência
+Sem esta fronteira, o capítulo pode entregar cedo demais o seu eixo superior ao limiar memorial.
+
+---
+
+## F3 — fronteira ainda insuficientemente curta com os `Capítulos 6` e `7`
+
+### problema
+`P26` e `P31/P34/P37` já pertencem legitimamente ao caso, mas sob estatuto restrito.
+Ainda falta, porém, uma regra curta que impeça que o capítulo seja lido como falso começo mediacional ou epistemológico.
+
+### o que falta
+Falta uma regra mais curta que diga:
+- a apreensão continua ativa;
+- a representação entra apenas como fixação ulterior;
+- adequação, verdade e correção entram apenas como fecho terminal;
+- e linguagem, símbolo, critério e teoria do erro continuam fora desta peça.
+
+### consequência
+Sem esta fronteira, o capítulo pode parecer mediação forte, proto-epistemologia ou antecâmara dos capítulos seguintes sob máscara reflexiva.
+
+---
+
+## F4 — fronteira ainda insuficientemente curta com o `Capítulo 8`
+
+### problema
+O bordo `4→8` já está identificado, mas ainda precisa de fórmula mais curta.
+O capítulo continua exposto ao risco de ser lido como se a sua verdade estivesse já no reaperto limítrofe da consciência reinscrita e da vida no símbolo.
+
+### o que falta
+Falta uma fórmula de fronteira do tipo:
+- no `Capítulo 4`, a reflexividade é constituída e reinscrita;
+- no `Capítulo 8`, a sua degradação simbólica e o seu reaperto limítrofe podem tornar-se tema próprio.
+
+### consequência
+Sem esta fronteira, o bordo superior pode parecer centro retrospectivo do próprio capítulo.
+
+---
+
+## F5 — falta de mediação interna mais curta entre `M4` e `M5`
+
+### problema
+A passagem da culminação reinscrita para o fecho terminal já é inteligível, mas ainda pode parecer brusca ou demasiado planificada.
+
+### o que falta
+Falta uma ponte curta que diga:
+- só uma reflexividade já reinscrita pode ser medida quanto ao seu ajustamento;
+- e o regime terminal de verdade / correção não funda essa reflexividade, apenas a testa e reinscreve.
+
+### consequência
+Sem esta ponte, o fecho terminal pode parecer acrescentado por fora ou demasiado cedo no percurso interno do capítulo.
+
+---
+
+## VI. O que continua fora
+
+Continuam fora, e devem permanecer fora nesta fase:
+- memória como centro próprio;
+- identidade temporal;
+- retenção forte ou permanência interna destacada;
+- linguagem, símbolo e mediação como corpo próprio do capítulo;
+- critério, verdade, erro e correção como cabeça soberana;
+- teoria do sujeito em abstrato;
+- psicologia da interioridade;
+- vida no símbolo e fechamento simbólico como tema central;
+- dever-ser, responsabilidade, dignidade, coordenação, cultura, instituição, sistema e crítica tardia;
+- ordem global do livro e voz autoral transmissiva como princípio de organização do conteúdo.
+
+### razão
+O `Capítulo 4` já é suficientemente forte sem estas camadas.
+Introduzi-las agora não o densificaria; desorganizá-lo-ia.
+
+---
+
+## VII. Núcleo das lacunas reais do capítulo
+
+O núcleo das lacunas reais do `Capítulo 4` é este:
+
+> **o capítulo já tem matéria bastante, mas ainda precisa de dizer com secura suficiente a constituição situada da reflexividade humana sem voltar à velha abertura alta por consciência / sujeito, sem deixar `P25` tornar-se centro próprio, sem deixar `P26` tornar-se mediação soberana, e sem deixar `P31/P34/P37` ou o bordo `4→8` roubarem o comando do caso.**
+
+### desdobramento do núcleo
+As lacunas reais concentram-se em cinco tarefas:
+1. secar a abertura baixa por humano situado, localidade e apreensão;
+2. apertar a passagem `P23/P24 → P25 → P26` sem planificação nem salto;
+3. fixar a culminação reinscrita como verdadeiro centro superior do capítulo;
+4. deixar `P31/P34/P37` explicitamente subordinados ao fecho terminal;
+5. marcar mais duramente as fronteiras com `Capítulo 3`, `Capítulo 5`, `Capítulos 6–7` e `Capítulo 8`.
+
+---
+
+## VIII. Prioridade local de preenchimento
+
+### prioridade 1
+Fixar a formulação positiva mais seca da abertura do capítulo:
+- humano situado;
+- localidade;
+- apreensão.
+
+### prioridade 2
+Fixar a ponte curta entre:
+- `P23/P24`;
+- `P25` como estabilização temporal interna subordinada;
+- `P26` como fixação ulterior.
+
+### prioridade 3
+Fixar a fórmula mínima da culminação central:
+- consciência reinscrita;
+- interioridade não separada do real;
+- sujeito não soberano.
+
+### prioridade 4
+Fixar a fronteira local com o `Capítulo 5`, com os `Capítulos 6–7` e com o `Capítulo 8`:
+- travão contra memória como centro;
+- travão contra mediação e epistemologia como falsa cabeça;
+- travão contra reaperto limítrofe precoce.
+
+### prioridade 5
+Fechar o estatuto exato dos materiais de bordo alto, para que `F0276–F0278` e o fecho epistemológico terminal não reocupem a cabeça do capítulo por afinidade verbal com pensamento, consciência, símbolo, verdade ou correção.
+
+---
+
+## IX. Efeito desta peça sobre o passo seguinte
+
+### o que esta peça já permite
+Esta peça já permite passar a `05_decisao_local_do_capitulo.md`.
+
+### porquê
+Porque as lacunas do `Capítulo 4`:
+- são reais;
+- mas não são impeditivas do seu uso local disciplinado.
+
+O capítulo já tem massa suficiente para decisão local.
+O que falta agora não é mais levantamento bruto.
+O que falta é:
+- decidir o uso máximo local admissível;
+- fixar o seu regime de povoamento válido;
+- e dizer se a sua abertura local fica preservada, preservada com restrições ou ainda sob reabertura.
+
+---
+
+## X. Fórmula curta
+
+> O `Capítulo 4` já tem chão bastante para entrar, mas ainda precisa de ganhar mais secura e hierarquia local: não voltar a abrir por consciência ou sujeito, não deixar `P25` virar centro próprio, não deixar `P26` ou `P31/P34/P37` reorganizarem a cabeça do caso, e manter a culminação reinscrita entre o chão antropológico-local e o fecho terminal sob submissão ao real.
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-05-decisao-local-do-capitulo-md"></a>
+### 05_decisao_local_do_capitulo
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/05_decisao_local_do_capitulo.md`
+
+# 05_decisao_local_do_capitulo
+
+## I. Estatuto da decisão
+
+### função
+- fixar o estatuto local atualmente admissível do **Capítulo 4 — consciência, reflexividade e sujeito reinscritos**;
+- decidir o que já pode ficar localmente preservado como ganho;
+- dizer o que ainda falta densificar, apertar ou travar;
+- impedir crescimento indevido para teoria da consciência, teoria do sujeito, capítulo da memória, teoria da mediação ou fecho epistemológico;
+- preparar a passagem prudente para uma primeira versão controlada de escrita, sem autorizar ainda redação corrida livre.
+
+### limite
+- esta decisão não reabre a arquitetura total;
+- não reabre `CF04`;
+- não transforma o capítulo em redação corrida;
+- não autoriza ainda escrita livre do capítulo;
+- não desloca o centro do capítulo para consciência, autoconsciência, sujeito, presença de si, memória autónoma, representação soberana, linguagem, verdade, erro, correção ou crítica do fechamento simbólico;
+- não decide ainda a forma final de redação do livro;
+- não liberta o capítulo sem mediação.
+
+### valor metodológico
+- vale como fecho local da primeira abertura disciplinada do `Capítulo 4`;
+- vale como critério de uso para esta pasta local;
+- vale como travão contra inflação de altitude;
+- vale como decisão de preservação condicionada do capítulo;
+- vale como autorização limitada para a futura peça `06_primeira_versao_controlada_de_escrita.md`.
+
+---
+
+## II. Base local considerada
+
+Esta decisão parte de:
+- `00_estatuto_e_limites.md`;
+- `01_estrutura_interna.md`;
+- `02_materiais_positivos.md`;
+- `03_materiais_criticos.md`;
+- `04_lacunas_do_capitulo.md`.
+
+E permanece subordinada:
+- à camada revista ativa da pasta `09_capitulos`;
+- à arquitetura provisória total revista;
+- à matriz crítica revista;
+- ao mapa de lacunas revisto;
+- ao mapeamento de containers e fragmentos;
+- ao fecho local prudencial de `CF04`;
+- à mediação obrigatória `3→4`;
+- à fronteira posterior `4→5`;
+- e ao princípio geral de submissão ao real.
+
+---
+
+## III. O que já ficou suficientemente ganho
+
+### centro já ganho
+Fica localmente ganho, com força bastante para preservação, este centro:
+
+> **o humano situado, localizado e apreensivo conserva minimamente a relação ao real, fixa-a ulteriormente em forma representacional e mediacional, e só depois pode culminar em consciência, reflexividade, interioridade e sujeito reinscritos no real.**
+
+### ordem interna já suficientemente suportada
+Fica também suficientemente suportada a ordem interna mínima:
+
+1. **`P23/P24`** — humano situado, localidade e apreensão;
+2. **`P25`** — estabilização temporal interna subordinada da relação apreendida;
+3. **`P26`** — fixação representacional e mediacional ulterior;
+4. **culminação reinscrita** — consciência, reflexividade, interioridade e sujeito não soberanos;
+5. **`P31/P34/P37`** — bordo terminal de ajustamento, verdade e correção sob submissão ao real.
+
+### estatuto do capítulo
+O capítulo fica, a partir de agora, com este estatuto:
+
+> **ordenável com restrições, localmente aberto e suficientemente povoado para preservação disciplinada, mas ainda dependente de mediação e ainda não pronto para redação corrida livre.**
+
+### o que esta decisão preserva
+Fica preservado:
+- a abertura baixa por humano situado, localidade e apreensão;
+- a subordinação de `P25`;
+- o carácter ulterior de `P26`;
+- a culminação reinscrita de consciência, reflexividade, interioridade e sujeito;
+- o fecho terminal de `P31/P34/P37`;
+- a distinção face ao `Capítulo 3`;
+- a distinção face ao `Capítulo 5`;
+- a distinção face aos capítulos mediacionais e epistemológicos;
+- a distinção face ao reaperto limítrofe do `Capítulo 8`.
+
+---
+
+## IV. O que ainda permanece sob restrição
+
+### restrições positivas ainda ativas
+Ainda faltam, antes de qualquer formulação corrida forte:
+
+- maior secura na abertura por humano situado, localidade e apreensão;
+- encadeamento mais apertado entre `P23/P24`, `P25` e `P26`;
+- formulação mais concentrada da culminação reinscrita;
+- fecho terminal mais claramente subordinado;
+- fronteira mais curta com `Capítulo 3`, `Capítulo 5`, `Capítulos 6–7` e `Capítulo 8`.
+
+### restrições negativas ainda ativas
+Continuam fora da cabeça do capítulo:
+
+- consciência em abstrato;
+- autoconsciência como primeira palavra;
+- sujeito como substância;
+- presença de si;
+- memória autónoma;
+- retenção forte;
+- permanência interna destacada;
+- identidade temporal;
+- representação soberana;
+- linguagem;
+- símbolo;
+- critério;
+- verdade;
+- erro;
+- correção como corpo próprio;
+- crítica da vida no símbolo;
+- fechamento simbólico;
+- cultura;
+- instituição;
+- sistema;
+- normatividade;
+- ética;
+- dignidade;
+- vida boa.
+
+### erro principal a evitar
+O erro principal a evitar continua a ser quádruplo:
+
+1. **subir cedo demais** para consciência, sujeito ou presença de si;
+2. **regredir** para o solo do `Capítulo 3`, como se o problema ainda fosse vida, corpo, organismo ou continuidade encarnada;
+3. **deslizar** para o `Capítulo 5`, deixando `P25` virar memória autónoma ou identidade temporal;
+4. **entregar** o capítulo cedo demais aos capítulos mediacionais, epistemológicos ou limítrofes, deixando `P26`, `P31/P34/P37` ou `Capítulo 8` reocuparem a cabeça do caso.
+
+---
+
+## V. Uso máximo local atualmente admissível
+
+### formulação máxima prudente
+A formulação máxima prudente atualmente admissível para o `Capítulo 4` é esta:
+
+> **A consciência reflexiva não é ponto de partida, substância interior nem sujeito soberano: emerge apenas quando um humano situado no real apreende localmente, conserva minimamente essa relação, a fixa ulteriormente em representação mediada e, só então, pode relacionar-se consigo mesmo como ser reflexivo reinscrito no real.**
+
+### estatuto desta formulação
+Esta formulação:
+- já diz mais do que um simples título;
+- já pode governar o povoamento local do capítulo;
+- já pode servir de critério de inclusão e exclusão de materiais;
+- já permite preparar uma versão controlada de escrita;
+- mas ainda não deve ser confundida com redação final do capítulo.
+
+### o que ela ainda não autoriza
+Ela ainda não autoriza:
+- desenvolvimento longo e livre do capítulo;
+- abertura direta por consciência ou sujeito;
+- psicologia da interioridade;
+- fenomenologia da autoconsciência;
+- teoria da memória;
+- teoria da representação;
+- teoria da linguagem;
+- teoria da verdade;
+- teoria geral do erro e da correção;
+- reaperto crítico tardio pela vida no símbolo;
+- passagem direta para `Capítulo 5` sem travão.
+
+---
+
+## VI. Regime local agora em vigor
+
+### estado do capítulo
+O `Capítulo 4` passa a ficar em estado de:
+
+> **preservar com restrições, manter aberto para densificação controlada e autorizar apenas escrita controlada.**
+
+### o que fica ativo
+Fica ativo:
+- o seu centro antropológico-reflexivo reinscrito;
+- a sua estrutura interna mínima;
+- o seu corpo positivo mínimo;
+- o uso disciplinado dos materiais `F0276`, `F0277`, `F0278` e materiais associados;
+- o travão crítico contra consciência soberana, sujeito dado, memória autónoma, mediação soberana e fecho epistemológico precoce;
+- a necessidade de preservar a hierarquia `P23/P24 → P25 → P26 → culminação reinscrita → P31/P34/P37`.
+
+### o que não fica ativo
+Não fica ativo:
+- redação corrida livre;
+- expansão ensaística;
+- capítulo da consciência em geral;
+- capítulo do sujeito;
+- capítulo da memória;
+- capítulo da representação;
+- capítulo da linguagem;
+- capítulo da verdade;
+- capítulo do erro;
+- capítulo da correção;
+- crítica tardia da cultura ou do sistema;
+- abertura do `Capítulo 5`.
+
+---
+
+## VII. Decisão sobre os materiais
+
+### materiais positivos admitidos como núcleo local
+Ficam admitidos, em regime disciplinado, os materiais que sustentam:
+
+1. **humano situado, localidade e apreensão**;
+2. **diferença interna encarnada e relação mínima consigo**;
+3. **estabilização temporal interna subordinada**;
+4. **fixação representacional ulterior**;
+5. **consciência e reflexividade como culminação reinscrita**.
+
+### estatuto de `F0276–F0278`
+`F0276`, `F0277` e `F0278` ficam reconhecidos como pressão material forte para o `Capítulo 4`.
+
+Mas o seu uso deve obedecer a três restrições:
+
+1. não podem transformar o capítulo em teoria da fala, do pensamento ou da representação;
+2. não podem entregar cedo o capítulo ao `Capítulo 8`;
+3. não podem substituir a abertura baixa por humano situado, localidade e apreensão.
+
+### materiais terminais sob travão
+Os materiais ligados a adequação, verdade, erro, critério e correção só podem entrar terminalmente, como bordo subordinado.
+
+Não podem:
+- governar o capítulo;
+- reabrir `Capítulo 7`;
+- fazer de `P31/P34/P37` corpo coigual a `P23/P24/P25/P26`;
+- converter a consciência reinscrita em problema epistemológico.
+
+### materiais críticos admitidos
+A crítica admissível é apenas crítica interna de proteção.
+
+Pode bloquear:
+- consciência soberana;
+- sujeito dado;
+- memória autónoma;
+- representação soberana;
+- mediação soberana;
+- fecho epistemológico precoce;
+- reaperto limítrofe por `Capítulo 8`.
+
+Não pode tornar-se:
+- crítica cultural;
+- crítica institucional;
+- crítica social;
+- crítica sistémica;
+- crítica geral da filosofia;
+- capítulo autónomo da vida no símbolo.
+
+---
+
+## VIII. Fronteiras locais obrigatórias
+
+### fronteira anterior — `Capítulo 3`
+O `Capítulo 4` pressupõe o ganho do `Capítulo 3`, mas não o repete.
+
+O que herda:
+- vida organizada;
+- corpo;
+- organismo;
+- campo do vivo;
+- continuidade encarnada;
+- torção antropológica encarnada.
+
+O que não pode fazer:
+- regressar à vida organizada como centro;
+- fazer do corpo o seu problema principal;
+- diluir a reflexividade na corporeidade;
+- tratar consciência como simples prolongamento biológico bruto.
+
+### fronteira posterior — `Capítulo 5`
+O `Capítulo 4` prepara o limiar memorial, mas não o abre como centro.
+
+O que pode admitir:
+- `P25` como estabilização temporal interna subordinada.
+
+O que não pode admitir:
+- memória como centro próprio;
+- retenção forte;
+- identidade temporal;
+- arquivo interno;
+- permanência interna destacada;
+- narrativa do sujeito.
+
+Quando `P25` passar a governar a peça como centro próprio, já se entrou no regime do `Capítulo 5`.
+
+### fronteira lateral — `Capítulos 6–7`
+O `Capítulo 4` toca representação, mediação, adequação, verdade e correção apenas enquanto derivados e terminais.
+
+O que pode admitir:
+- `P26` como fixação ulterior;
+- `P31/P34/P37` como fecho subordinado.
+
+O que não pode admitir:
+- linguagem como cabeça;
+- símbolo como cabeça;
+- representação como cabeça;
+- critério como tribunal;
+- verdade como centro;
+- erro e correção como corpo do capítulo.
+
+### fronteira limítrofe — `Capítulo 8`
+O `Capítulo 4` pode preparar o reaperto limítrofe da consciência reinscrita, mas não pode ser reescrito por ele.
+
+O que pode admitir:
+- sombra crítica contra vida no símbolo;
+- vigilância contra subjetivação indevida;
+- travão contra fechamento simbólico.
+
+O que não pode admitir:
+- crítica da vida no símbolo como centro;
+- fecho limítrofe como cabeça;
+- reaperto tardio a substituir a constituição local da reflexividade.
+
+---
+
+## IX. Decisão sobre escrita controlada
+
+### decisão
+Fica autorizada a passagem a:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+### condição de autorização
+A versão controlada só é admissível se obedecer a esta regra:
+
+> **escrever o capítulo a partir da abertura baixa por humano situado, localidade e apreensão; introduzir `P25` apenas como estabilização subordinada; introduzir `P26` apenas como fixação ulterior; fazer culminar a consciência e o sujeito apenas como reinscritos; e fechar terminalmente com `P31/P34/P37` sem transformar o capítulo em epistemologia.**
+
+### o que a versão controlada deve testar
+A futura versão deve testar se o capítulo já consegue:
+- abrir abaixo da consciência;
+- não repetir o `Capítulo 3`;
+- não antecipar o `Capítulo 5`;
+- não entregar o centro a representação ou verdade;
+- formular a consciência como processo reinscrito;
+- formular o sujeito como resultado local e não como substância;
+- parar antes do reaperto crítico limítrofe de `Capítulo 8`.
+
+### o que a versão controlada não pode fazer
+Não pode:
+- escrever em liberdade plena;
+- abrir por consciência;
+- abrir por sujeito;
+- abrir por interioridade;
+- abrir por memória;
+- abrir por representação;
+- abrir por linguagem;
+- abrir por verdade;
+- abrir por erro;
+- abrir por crítica do símbolo;
+- moralizar a consciência;
+- transformar a peça em teoria geral do humano.
+
+---
+
+## X. Próximo passo prudente
+
+### decisão
+O próximo passo prudente já não é nova revisão deste capítulo.
+
+O próximo passo prudente é:
+
+> **produzir a primeira versão controlada de escrita do `Capítulo 4 — consciência, reflexividade e sujeito reinscritos`.**
+
+### nome exato do próximo ficheiro
+`09_capitulos/02_capitulos_provisorios/CAP_04_consciência, reflexividade e sujeito reinscritos/06_primeira_versao_controlada_de_escrita.md`
+
+### justificação curta
+Porque:
+- o `Capítulo 4` já tem centro suficientemente fixado;
+- as suas lacunas já estão visíveis e nomeadas;
+- os materiais `F0276–F0278` já justificam abertura local disciplinada;
+- a hierarquia interna já está decidida;
+- e o problema remanescente é agora testar se a escrita consegue conservar a ordem sem subir cedo demais.
+
+---
+
+## XI. Fórmula estrutural curta
+
+> **humano situado / localidade / apreensão → `P25` subordinado → `P26` ulterior → consciência / reflexividade / sujeito reinscritos → `P31/P34/P37` terminal**
+
+---
+
+## XII. Fórmula final curta
+
+> **O Capítulo 4 já aguenta dizer que a consciência reflexiva e o sujeito só aparecem depois da apreensão situada, da estabilização mínima da relação ao real e da sua fixação mediada; mas ainda não aguenta falar como se consciência, memória, representação ou verdade fossem a sua cabeça.**
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+## Capítulo 4 — Consciência, reflexividade e sujeito reinscritos
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma primeira versão controlada de escrita do **Capítulo 4 — Consciência, reflexividade e sujeito reinscritos**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo já aguenta passagem a texto corrido sem perder:
+- a abertura baixa por humano situado, localidade e apreensão;
+- a fronteira com o Capítulo 3;
+- a subordinação de `P25`;
+- o carácter ulterior de `P26`;
+- a culminação reinscrita de consciência, reflexividade, interioridade e sujeito;
+- o fecho terminal de `P31/P34/P37`;
+- o travão contra consciência soberana, sujeito dado, memória autónoma, mediação soberana e epistemologia precoce.
+
+### limite
+
+Esta versão não pode:
+- abrir por consciência;
+- abrir por sujeito;
+- abrir por interioridade;
+- abrir por presença de si;
+- transformar `P25` em memória como centro próprio;
+- transformar `P26` em começo dos capítulos da representação, da mediação, do símbolo ou da linguagem;
+- transformar `P31/P34/P37` em capítulo de verdade, erro, critério e correção;
+- regressar ao Capítulo 3 como se o problema ainda fosse vida, corpo, organismo, campo ou continuidade encarnada;
+- antecipar o Capítulo 5;
+- antecipar os Capítulos 6 e 7;
+- antecipar o reaperto limítrofe do Capítulo 8.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que consciência, reflexividade, interioridade e sujeito não são pontos de partida, mas culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa ulteriormente em forma representacional e mediacional, e permanece corrigível pelo real.
+
+---
+
+# Primeira versão controlada
+
+## 1. Depois da diferença reflexiva encarnada
+
+O Capítulo 3 mostrou que a apreensão situada não pertence a um ponto abstrato. O ente que apreende é vivo organizado, corpo, organismo, continuidade encarnada, campo, estabilização local e apreensão incorporada. Nesse solo tornou-se pensável uma diferença reflexiva encarnada.
+
+O Capítulo 4 começa depois desse ganho.
+
+Não repete a vida organizada.  
+Não reabre o corpo como centro.  
+Não volta ao organismo, ao campo do vivo ou à continuidade encarnada como se ainda fossem o problema principal.  
+Também não sobe diretamente para consciência, sujeito ou presença de si.
+
+O ponto de partida é mais estreito.
+
+A diferença reflexiva encarnada, já tornada possível pelo vivo organizado, tem agora de ganhar constituição humana situada. Isto significa que o capítulo pergunta como um humano situado, localizado no real e afetado por ele, conserva minimamente a relação apreendida, a fixa ulteriormente e pode, só depois, relacionar-se consigo como ser reflexivo.
+
+A pergunta do capítulo não é ainda:
+
+> o que é a consciência?
+
+Também não é:
+
+> o que é o sujeito?
+
+A pergunta é anterior e mais disciplinada:
+
+> como é que uma relação humana situada ao real se estabiliza, se fixa e culmina em consciência, reflexividade, interioridade e sujeito sem sair do real?
+
+## 2. O humano situado
+
+O capítulo deve começar por aqui: há um humano situado no real.
+
+Este humano não é sujeito soberano. Não é interioridade separada. Não é consciência suspensa. Não é ponto de vista absoluto. É um ente real, localizado, limitado, afetável e apreensivo.
+
+O humano situado herda do Capítulo 3 a sua inscrição viva e corporal, mas já não é tratado apenas como organismo. A questão agora não é a manutenção da vida organizada. A questão é a constituição situada de uma relação reflexiva.
+
+O humano está no real antes de se representar a si mesmo.  
+Está no real antes de se nomear como sujeito.  
+Está no real antes de formar uma imagem de si.  
+Está no real antes de converter a sua relação ao mundo em linguagem, símbolo ou teoria.
+
+Por isso, consciência e sujeito não podem abrir o capítulo.
+
+A abertura legítima é mais baixa: um humano situado apreende localmente o real.
+
+## 3. Localidade humana
+
+A localidade humana não é defeito exterior à consciência.
+
+É condição da consciência futura.
+
+O humano não apreende o real a partir de todo o real. Apreende a partir de uma posição. Apreende desde um corpo, uma história mínima de afetações, uma orientação, um campo, uma situação, uma vulnerabilidade, uma capacidade limitada de receber e de responder.
+
+Mas esta localidade não fecha o humano numa bolha subjetiva.
+
+O humano é local porque está no real, não porque esteja fora dele. A sua localização limita o acesso, mas também o torna possível. Não há apreensão concreta sem ponto de incidência. Não há relação ao real sem uma posição a partir da qual algo possa afetar, resistir, aparecer e ser recebido.
+
+A localidade humana deve, portanto, ser lida de modo duplo:
+- limita a apreensão;
+- permite a apreensão.
+
+O erro seria transformar esta localidade em subjetivismo. Outro erro seria apagá-la em nome de uma falsa vista de nenhum lugar.
+
+O capítulo precisa de ambos os travões: o humano não funda o real; mas também não acede ao real senão situado.
+
+## 4. Apreensão local
+
+A apreensão local continua a comandar a abertura.
+
+Antes de haver consciência de si, há relação apreensiva ao real. Antes de haver representação de si, há algo que afeta. Antes de haver sujeito, há um humano situado em relação com aquilo que não depende dele.
+
+A apreensão não é ainda pensamento reflexivo. Não é ainda linguagem. Não é ainda juízo. Não é ainda critério. Não é ainda verdade formulada. É a relação primeira pela qual algo do real se dá a um humano localizado.
+
+Mas, neste capítulo, a apreensão já não é apenas o aparecer intrarreal do Capítulo 2 nem a apreensão incorporada do Capítulo 3. Ela é agora o chão da constituição reflexiva humana.
+
+Isto quer dizer: aquilo que é apreendido não fica simplesmente como impacto isolado. A relação apreendida começa a poder manter-se minimamente, diferenciar-se, fixar-se, tornar-se operável e regressar sobre o próprio humano que a vive.
+
+A consciência não nasce de fora desta relação.
+
+Nasce, se for esse o termo admissível, da sua estabilização, fixação e reinscrição.
+
+## 5. Relação mínima consigo
+
+A passagem decisiva do capítulo começa quando a relação ao real deixa de ser apenas relação externa apreendida e passa a admitir uma diferença interna mínima.
+
+O humano não apenas é afetado.  
+Não apenas responde.  
+Não apenas se orienta.  
+Começa também a poder manter uma relação mínima com a sua própria relação ao real.
+
+Esta relação mínima consigo não é ainda autoconsciência plena. Não é presença transparente de si a si. Não é sujeito constituído. Não é identidade narrativa. Não é memória desenvolvida.
+
+É apenas a primeira forma pela qual a relação apreensiva não se esgota inteiramente no contacto imediato com o real.
+
+O humano situado não se torna exterior ao real por se relacionar consigo. Pelo contrário: essa relação consigo é ainda um acontecimento no real. É uma dobra local de um ente que, estando no real, começa a poder reter minimamente a sua própria relação ao que o afeta.
+
+Aqui está o bordo baixo do Capítulo 4.
+
+Não há ainda sujeito.  
+Há relação mínima consigo no interior da relação ao real.
+
+## 6. `P25` — estabilização temporal interna subordinada
+
+A relação apreendida não se extingue inteiramente no instante.
+
+Se tudo se apagasse no mesmo momento em que aparece, não haveria constituição reflexiva possível. A afetação passaria, a orientação passaria, a diferença interna passaria, e nada poderia começar a estabilizar-se como relação do humano com aquilo que apreende.
+
+Por isso, entra aqui `P25`.
+
+Mas entra de modo estritamente subordinado.
+
+`P25` não entra como capítulo da memória. Não entra como identidade temporal. Não entra como retenção forte. Não entra como arquivo interno. Não entra como permanência destacada. Entra apenas como estabilização temporal interna mínima da relação apreendida.
+
+O ponto é simples:
+
+> a relação apreendida conserva um mínimo de continuidade interna para não se apagar imediatamente no instante da apreensão.
+
+Esse mínimo serve apenas para sustentar a constituição situada da reflexividade. Não tem ainda autonomia suficiente para governar o capítulo. Quando esta estabilização temporal passar a centro próprio, já não estaremos no Capítulo 4, mas no Capítulo 5.
+
+Aqui, `P25` serve apenas a passagem:
+- do humano situado;
+- à relação mínima consigo;
+- e daí à possibilidade de fixação ulterior.
+
+Por isso, deve ser dito com secura.
+
+A estabilização interna é necessária.  
+Mas não é soberana.
+
+## 7. Persistência mínima da relação ao real
+
+A estabilização temporal interna tem uma função precisa: permitir que a relação ao real tenha persistência mínima.
+
+O humano situado não é refeito do zero a cada apreensão. A relação com o real deixa traço suficiente para que uma afetação possa articular-se com outra, para que uma diferença interna possa não desaparecer, para que a orientação possa ganhar continuidade mínima.
+
+Mas esta persistência permanece subordinada ao real.
+
+Não se trata de fechar o humano dentro de uma memória. Não se trata de criar um interior autónomo. Não se trata de substituir o real pela permanência interna da sua apreensão.
+
+A persistência mínima só vale enquanto mantém a relação ao real suficientemente estável para permitir a sua fixação posterior.
+
+O real continua primeiro.  
+A apreensão continua situada.  
+A estabilização continua subordinada.  
+A interioridade ainda não é soberana.
+
+## 8. `P26` — fixação representacional e mediacional ulterior
+
+Só depois pode entrar `P26`.
+
+A relação apreendida, minimamente estabilizada, pode fixar-se em forma operável. Essa fixação é representacional e mediacional, mas ainda não pode transformar o capítulo em teoria da representação ou da mediação.
+
+A representação entra aqui como fixação ulterior do apreendido.
+
+Não é a origem do real.  
+Não é a origem da apreensão.  
+Não é a origem da consciência.  
+Não é ainda linguagem como corpo próprio.  
+Não é ainda símbolo como sistema.  
+Não é ainda critério de verdade.
+
+Representar é tornar operável uma relação apreendida e minimamente estabilizada. É permitir que aquilo que afetou o humano possa ser mantido, retomado, diferenciado, comparado e organizado.
+
+Mas a representação continua dependente do apreendido.
+
+Se se autonomiza, substitui o real.  
+Se se absolutiza, torna-se falso centro.  
+Se se confunde com verdade, sobe cedo demais.  
+Se se confunde com linguagem ou símbolo, entrega o capítulo aos capítulos seguintes.
+
+Por isso, `P26` entra apenas como fixação ulterior.
+
+A relação ao real é apreendida antes.  
+Estabiliza-se minimamente antes.  
+Só depois se fixa representacional e mediacionalmente.
+
+## 9. Mediação sem soberania
+
+A mediação é necessária, mas não é soberana.
+
+Ela permite que a relação apreendida se torne operável para um humano reflexivo. Permite distância mínima, retomada, comparação, orientação e organização interna. Mas a mediação não cria o real que medeia.
+
+O perigo desta zona é evidente: a mediação pode parecer tão decisiva que se torna cabeça do capítulo. Quando isso acontece, o Capítulo 4 deixa de tratar a constituição situada da reflexividade e passa a parecer começo dos capítulos da linguagem, do símbolo ou da representação.
+
+Esse desvio tem de ser bloqueado.
+
+A mediação pertence ao capítulo apenas enquanto instrumento interno da constituição reflexiva. Não enquanto sistema próprio. Não enquanto linguagem soberana. Não enquanto símbolo autonomizado. Não enquanto mundo substituto.
+
+A mediação deve ficar entre dois limites:
+- depende da apreensão situada;
+- prepara a reflexividade reinscrita.
+
+O seu lugar é intermédio. Não inaugural. Não terminal.
+
+## 10. Consciência reinscrita
+
+Só agora a palavra consciência pode entrar positivamente.
+
+Mesmo assim, entra com travão.
+
+Consciência não é ponto de partida. Não é substância interior. Não é câmara privada. Não é presença transparente. Não é origem do real. Não é soberania do sujeito.
+
+Consciência é o nome possível para uma culminação local: um humano situado, que apreende o real, conserva minimamente essa relação, a fixa em forma operável e pode, então, relacionar-se com aquilo que apreende e com a sua própria posição nessa relação.
+
+A consciência é, portanto, processo reinscrito no real.
+
+Não está fora do real a vê-lo.  
+Não paira sobre o corpo.  
+Não substitui a apreensão.  
+Não dispensa a mediação.  
+Não se torna critério absoluto de si própria.
+
+A consciência é real porque ocorre no real. Mas não é soberana porque depende de condições que a antecedem: humano situado, localidade, apreensão, estabilização interna e fixação mediacional.
+
+O capítulo deve insistir nisto: a consciência é resultado local, não fundamento absoluto.
+
+## 11. Reflexividade
+
+A reflexividade é mais específica do que a consciência tomada em abstrato.
+
+Refletir não é apenas ter estados internos. Também não é simplesmente estar consciente. Reflexividade é a possibilidade de uma relação voltar sobre si sem sair do real. É o humano poder relacionar-se com a sua própria relação ao real.
+
+Mas esta volta não é exterioridade.
+
+O humano reflexivo não salta para fora daquilo que apreende. Não se transforma em juiz absoluto do real. Não ocupa um ponto neutro. A reflexividade é uma dobra situada, não uma fuga.
+
+Ela depende:
+- da localidade humana;
+- da apreensão do real;
+- da estabilização mínima da relação apreendida;
+- da fixação representacional e mediacional;
+- da possibilidade de retomar essa relação como relação.
+
+Por isso, a reflexividade não abre o caso. Culmina-o.
+
+Ela é o ponto em que o humano situado já não está apenas afetado, nem apenas orientado, nem apenas estabilizado, nem apenas mediado. Está em relação com a própria relação que o liga ao real.
+
+Mas continua no real.
+
+## 12. Interioridade não separada
+
+A interioridade pode agora ser admitida, mas apenas reinscrita.
+
+Há interioridade se houver uma relação interna do humano consigo, com as suas apreensões, com as suas fixações, com as suas mediações e com a sua posição no real. Mas esta interioridade não é uma substância separada. Não é um mundo privado autossuficiente. Não é abrigo contra o real.
+
+A interioridade é a forma interna de uma relação externa e real.
+
+Isto é decisivo.
+
+O interior humano não nasce contra o real. Nasce da estabilização e mediação da relação ao real. Por isso, quanto mais se autonomiza como puro interior, mais se arrisca a perder aquilo que o torna inteligível.
+
+A interioridade é legítima enquanto:
+- conserva relação ao real;
+- permanece corrigível pelo real;
+- não se toma como fonte soberana da verdade;
+- não transforma a mediação em substituto do real;
+- não transforma o sujeito em substância.
+
+Esta interioridade é real. Mas não é separada.
+
+## 13. Sujeito reinscrito
+
+O sujeito só pode aparecer tarde.
+
+Se aparece cedo, falsifica o capítulo.
+
+O sujeito não é a primeira palavra da reflexividade. É uma estabilização local de um humano situado que apreende, conserva, fixa, medeia e se relaciona consigo no real.
+
+Isto não dissolve o sujeito. Também não o substancializa.
+
+O sujeito não é ficção vazia, porque há de facto uma organização reflexiva local. Mas também não é substância soberana, porque essa organização depende do real, do corpo, da localidade, da apreensão, da estabilização interna e da mediação.
+
+O sujeito é admissível apenas como sujeito reinscrito.
+
+Reinscrito quer dizer:
+- inscrito no real;
+- limitado pela sua localidade;
+- dependente da apreensão;
+- constituído por mediações que não são soberanas;
+- corrigível pelo real;
+- nunca exterior ao campo que descreve.
+
+Assim, o capítulo pode dizer sujeito sem regressar ao velho falso centro.
+
+Mas deve dizê-lo tarde, pouco e sob travão.
+
+## 14. O falso centro da consciência soberana
+
+O primeiro erro a bloquear é a consciência soberana.
+
+Este erro surge quando se começa pela consciência como se ela fosse imediatamente dada, transparente, fundadora e capaz de organizar o real a partir de si.
+
+Mas a consciência não pode ser a cabeça do capítulo porque depende de uma cadeia anterior. Depende do humano situado, da apreensão local, da estabilização mínima da relação apreendida e da fixação representacional e mediacional.
+
+Abrir por consciência é transformar em fundamento aquilo que ainda precisava de ser explicado.
+
+Por isso, sempre que a escrita parecer começar por consciência, deve descer.
+
+Descer para o humano situado.  
+Descer para a localidade.  
+Descer para a apreensão.  
+Descer para a relação mínima consigo.  
+Descer para a estabilização subordinada.  
+Descer para a fixação ulterior.
+
+Só depois se pode subir novamente.
+
+## 15. O falso centro da memória
+
+O segundo erro é deixar `P25` crescer demais.
+
+A estabilização temporal interna é indispensável, mas perigosa. Sem ela, a relação apreendida desapareceria no instante. Mas, se ela se autonomizar, o capítulo passa para outro regime.
+
+No Capítulo 4, `P25` serve a constituição situada da reflexividade.
+
+No Capítulo 5, `P25` poderá tornar-se centro próprio.
+
+Esta diferença tem de ficar nítida.
+
+Aqui, a estabilização temporal interna não é:
+- memória como tema;
+- identidade temporal;
+- retenção forte;
+- arquivo;
+- permanência destacada;
+- narrativa de si.
+
+É apenas o mínimo necessário para que a relação apreendida conserve continuidade suficiente para se fixar e para preparar a reflexividade.
+
+O capítulo deve usar `P25` sem lhe entregar o comando.
+
+## 16. O falso centro da mediação
+
+O terceiro erro é deixar `P26` subir.
+
+A fixação representacional e mediacional é necessária. Sem ela, a relação apreendida e estabilizada não se tornaria suficientemente operável para a reflexividade humana. Mas esta fixação não pode comandar o capítulo.
+
+Se a representação abrir o texto, perde-se a apreensão.  
+Se a mediação abrir o texto, perde-se o humano situado.  
+Se o símbolo abrir o texto, antecipa-se o Capítulo 6.  
+Se a linguagem abrir o texto, a reflexividade fica dependente de uma camada demasiado tardia.
+
+Por isso, `P26` entra apenas depois de `P25`, e continua dependente de `P23/P24`.
+
+A representação fixa.  
+A mediação opera.  
+Mas nenhuma delas funda o real nem funda sozinha a reflexividade.
+
+## 17. O falso centro epistemológico
+
+O quarto erro é deixar `P31/P34/P37` reocupar o centro.
+
+É verdade que uma consciência reinscrita pode ajustar-se ou desajustar-se ao real. É verdade que a representação mediada pode ser mais ou menos adequada. É verdade que a verdade e a correção terão de entrar. Mas entram apenas no bordo terminal.
+
+O capítulo não é ainda teoria da verdade.  
+Não é teoria do critério.  
+Não é teoria do erro.  
+Não é teoria da correção.
+
+`P31/P34/P37` entram apenas para dizer isto: uma reflexividade reinscrita não é soberana; pode ser testada, ajustada e corrigida pelo real.
+
+O fecho epistemológico não funda a consciência.  
+Não funda o sujeito.  
+Não funda a reflexividade.  
+Apenas testa e reinscreve aquilo que já se constituiu.
+
+Por isso, o capítulo deve fechar por verdade e correção apenas o suficiente para manter a submissão ao real.
+
+## 18. Fronteira com o Capítulo 3
+
+A fronteira com o Capítulo 3 deve ficar curta.
+
+No Capítulo 3, tornou-se inteligível a passagem do vivo organizado à diferença reflexiva encarnada.
+
+No Capítulo 4, essa diferença começa a ganhar constituição situada, estabilização interna, fixação representacional e mediação, até culminar em consciência, reflexividade, interioridade e sujeito reinscritos.
+
+Isto impede duas confusões:
+- o Capítulo 4 não regressa ao corpo como centro;
+- o Capítulo 3 não é suficiente para explicar a reflexividade humana constituída.
+
+O corpo prepara.  
+O humano situado abre.  
+A estabilização articula.  
+A fixação torna operável.  
+A reflexividade culmina.
+
+## 19. Fronteira com o Capítulo 5
+
+A fronteira com o Capítulo 5 é a mais sensível.
+
+No Capítulo 4, `P25` serve a constituição situada da reflexividade.
+
+No Capítulo 5, a estabilização temporal interna da relação ao real passará a centro próprio.
+
+Enquanto `P25` estiver subordinado à relação apreendida e à constituição reflexiva, permanece no Capítulo 4. Quando passar a comandar a peça como memória, permanência, retenção, identidade temporal ou regime próprio de continuidade interna, já se entrou no Capítulo 5.
+
+Esta fronteira deve ser repetida sempre que a escrita começar a engrossar a memória.
+
+No Capítulo 4, a memória não manda.  
+Serve.
+
+## 20. Fronteira com os Capítulos 6 e 7
+
+O Capítulo 4 toca representação, mediação, adequação, verdade e correção.
+
+Mas toca-as como derivados internos e fecho terminal.
+
+A representação entra apenas como fixação ulterior do apreendido. A mediação entra apenas como condição operável da reflexividade. A adequação, a verdade e a correção entram apenas como regime terminal de teste e reinscrição.
+
+Ficam fora como centros:
+- linguagem;
+- símbolo;
+- critério;
+- teoria do erro;
+- teoria da verdade;
+- teoria da correção.
+
+O Capítulo 4 não é começo disfarçado dos Capítulos 6 e 7. É o capítulo em que o humano situado se constitui como reflexividade reinscrita antes de linguagem, verdade e erro ganharem corpo próprio.
+
+## 21. Fronteira com o Capítulo 8
+
+O Capítulo 8 poderá reapertar a consciência reinscrita quando a vida no símbolo, o fechamento simbólico ou a substituição do real por mediações se tornarem tema próprio.
+
+Mas esse reaperto não deve comandar o Capítulo 4.
+
+No Capítulo 4, a reflexividade é constituída e reinscrita.
+
+No Capítulo 8, poderá ser criticada a sua degradação simbólica, a sua autonomização, a sua perda de submissão ao real.
+
+Se o Capítulo 4 for escrito já como crítica da vida no símbolo, perde o seu centro. Passa a explicar a patologia antes de explicar a constituição.
+
+Aqui, a crítica é apenas proteção interna.
+
+Ainda não é capítulo próprio.
+
+## 22. Fecho do capítulo
+
+O Capítulo 4 fixa uma passagem estreita e decisiva.
+
+Depois de o Capítulo 3 tornar pensável a diferença reflexiva encarnada, este capítulo mostra que essa diferença não começa por consciência ou sujeito. Começa por um humano situado, localizado no real, que apreende localmente.
+
+Essa relação apreendida não se extingue inteiramente no instante. Conserva uma estabilização temporal interna mínima, ainda subordinada à própria relação ao real. Essa estabilização permite uma fixação ulterior, representacional e mediacional, que torna a relação operável.
+
+Só então a consciência pode ser dita.
+
+E mesmo assim só pode ser dita como processo reinscrito no real. A reflexividade é uma dobra situada da relação ao real. A interioridade é forma interna dessa relação, não mundo separado. O sujeito é uma estabilização local, não substância soberana.
+
+O resultado mínimo do capítulo é este:
+
+> consciência, reflexividade, interioridade e sujeito não fundam o real nem abrem o humano; culminam numa relação humana situada ao real, estabilizada minimamente, fixada ulteriormente e sempre corrigível por aquilo que a excede.
+
+A partir daqui, a pergunta seguinte torna-se inevitável.
+
+Se a relação apreendida conserva estabilidade interna, em que sentido essa permanência se organiza?  
+Quando é que a estabilização temporal deixa de ser mero suporte da reflexividade e passa a centro próprio?  
+Como é que a relação ao real permanece, se transforma e se torna memória?
+
+Essas perguntas pertencem ao Capítulo 5.
+
+O Capítulo 4 deve parar antes de lhes responder.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> humano situado / localidade / apreensão → relação mínima consigo → `P25` subordinado → `P26` ulterior → consciência / reflexividade / interioridade / sujeito reinscritos → `P31/P34/P37` terminal.
+
+### ganhos da versão
+
+A versão já consegue:
+- não abrir por consciência;
+- não abrir por sujeito;
+- não regressar ao Capítulo 3;
+- introduzir `P25` sem o tornar centro memorial;
+- introduzir `P26` sem abrir representação, mediação, linguagem ou símbolo como capítulos próprios;
+- formular a consciência como processo reinscrito no real;
+- formular a reflexividade como relação situada consigo no interior da relação ao real;
+- formular a interioridade sem separação;
+- formular o sujeito como estabilização local não soberana;
+- fechar por verdade e correção apenas terminalmente;
+- preparar o Capítulo 5 sem o iniciar.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão:
+- a expressão “relação mínima consigo”, que deve continuar seca e não virar autoconsciência;
+- a passagem entre apreensão local e estabilização temporal interna;
+- o uso de `P25`, que deve permanecer mínimo;
+- o uso de `P26`, que pode crescer demasiado se a redação futura detalhar representação e mediação;
+- o fecho por `P31/P34/P37`, que tem de permanecer subordinado;
+- a fronteira com o Capítulo 8, porque os materiais `F0276–F0278` podem puxar o capítulo para pensamento, fala, símbolo ou vida simbólica.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+- consciência em abstrato;
+- autoconsciência como ponto de partida;
+- sujeito como substância;
+- presença de si;
+- memória como centro próprio;
+- retenção forte;
+- identidade temporal;
+- permanência interna destacada;
+- arquivo interno;
+- representação como cabeça;
+- mediação como corpo próprio;
+- linguagem;
+- símbolo;
+- critério;
+- verdade como centro;
+- erro como corpo próprio;
+- correção como corpo próprio;
+- vida no símbolo;
+- fechamento simbólico;
+- crítica cultural;
+- crítica institucional;
+- sistema;
+- normatividade;
+- ética;
+- dignidade;
+- vida boa.
+
+### fórmula final da versão
+
+> O Capítulo 4 fixa apenas isto: a consciência reflexiva e o sujeito não são começos soberanos, mas culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa ulteriormente em representação mediada e permanece submetido à correção do real.
+
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap4-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4
+
+## Capítulo 4 — Consciência, reflexividade e sujeito reinscritos
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma versão reescrita pós-confronto da primeira versão controlada de escrita do **Capítulo 4 — Consciência, reflexividade e sujeito reinscritos**, agora compatibilizada com a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+
+- a abertura baixa por humano situado, localidade e apreensão;
+- a fronteira com o Capítulo 3;
+- a subordinação de `P25`;
+- o carácter ulterior de `P26`;
+- a culminação reinscrita de consciência, reflexividade, interioridade e sujeito;
+- o fecho terminal de `P31/P34/P37`;
+- o travão contra consciência soberana, sujeito dado, interioridade originária, memória autónoma, mediação soberana e epistemologia precoce;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+O confronto anterior confirmou que o capítulo não precisava de novo núcleo material. A tarefa desta versão, por isso, não é acrescentar temas.
+
+A Nota de Leitura também não reabre o capítulo. A sua incidência é expositiva: tornar mais visível que o Capítulo 4 não trata “consciência”, “reflexividade” ou “sujeito” como dados primeiros, mas como culminações reinscritas de um processo real: humano situado, apreensão local, estabilização temporal interna, fixação representacional e mediacional, autorrelação reflexiva e corrigibilidade pelo real.
+
+A tarefa desta versão é, portanto, dupla:
+
+1. preservar a cadeia material já ganha;
+2. tornar explícito, sem mecanizar o texto, o movimento local de leitura:
+   - qual é o ser em causa;
+   - como ele pode ser mal dito;
+   - que erro nasce dessa má formulação;
+   - como o capítulo reconduz o dizer ao real.
+
+### limite
+
+Esta versão não pode:
+
+- abrir por consciência;
+- abrir por sujeito;
+- abrir por interioridade;
+- abrir por autoconsciência;
+- abrir por presença de si;
+- transformar consciência, reflexividade ou sujeito em substâncias;
+- transformar `P25` em memória como centro próprio;
+- transformar `P26` em começo do capítulo da representação, da mediação, do símbolo ou da linguagem;
+- transformar `P31/P34/P37` em capítulo de verdade, erro, critério e correção;
+- regressar ao Capítulo 3 como se o problema ainda fosse vida, corpo, organismo, campo ou continuidade encarnada;
+- antecipar o Capítulo 5;
+- antecipar o Capítulo 6;
+- antecipar o Capítulo 7;
+- transformar a Nota de Leitura em método soberano;
+- abrir uma teoria geral do erro dentro do Capítulo 4.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que consciência, reflexividade, interioridade e sujeito não são pontos de partida, mas culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa ulteriormente em forma representacional e mediacional, e permanece corrigível pelo real.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar que reflexividade real está em causa, como ela pode ser mal dita, que erro nasce desse falso dizer e como a formulação regressa ao humano situado no real.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a função expositiva do capítulo.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O Capítulo 3 mostrou que a apreensão situada não pertence a um ponto abstrato. O ente que apreende é vivo organizado, corpo, organismo, campo, continuidade encarnada, estabilização local e apreensão incorporada. Nesse solo tornou-se pensável uma diferença reflexiva encarnada.
+
+O Capítulo 4 começa depois desse ganho.
+
+Não repete a vida organizada.  
+Não reabre o corpo como centro.  
+Não volta ao organismo, ao campo do vivo ou à continuidade encarnada como se ainda fossem o problema principal.
+
+Mas também não sobe imediatamente para consciência, sujeito ou interioridade.
+
+A pergunta do Capítulo 4 é mais precisa:
+
+> como pode uma diferença reflexiva encarnada constituir-se como reflexividade humana situada, sem se separar do real, sem se substancializar como sujeito e sem se dissolver em representação ou mediação?
+
+O **ser em causa** neste capítulo é, portanto, a **reflexividade humana enquanto processo situado, memorial, representacional e mediado, reinscrito no real**.
+
+Não é consciência em abstrato.  
+Não é sujeito em abstrato.  
+Não é interioridade pura.  
+Não é autoconsciência originária.  
+Não é presença de si.  
+Não é pensamento separado do corpo e do real.  
+
+É o processo pelo qual um humano situado, que apreende localmente o real, conserva minimamente essa relação, a fixa representacionalmente, a medeia, se relaciona consigo nessa mediação e permanece corrigível pelo real.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> diferença reflexiva encarnada herdada → humano situado → localidade e apreensão → estabilização temporal interna subordinada → fixação representacional e mediacional → autorrelação reflexiva → consciência, interioridade e sujeito reinscritos → adequação, verdade e correção apenas como fecho terminal.
+
+Este corredor é o limite da peça.
+
+A pergunta transversal da Nota já começa a operar aqui, mas sem tomar o comando do capítulo:
+
+- o ser em causa é a reflexividade humana situada e reinscrita no real;
+- o falso dizer a bloquear é a consciência como instância soberana, o sujeito como substância, a interioridade como origem, a memória como centro autónomo, a representação como fundamento ou o critério como tribunal precoce;
+- o erro local é autonomizar uma camada derivada da reflexividade e deixá-la ocupar o lugar do processo real de constituição;
+- a reinscrição consiste em reconduzir consciência, reflexividade e sujeito à cadeia real que os torna possíveis.
+
+## 2. Do vivo organizado ao humano situado
+
+O Capítulo 3 preparou a diferença reflexiva encarnada. Mas prepará-la não é ainda constituí-la como consciência, interioridade ou sujeito.
+
+A diferença reflexiva encarnada é uma torção interna do vivo organizado. No Capítulo 4, essa torção passa a ser pensada como constituição humana situada.
+
+O humano não entra aqui como sujeito fundador. Entra como ente real, localizado, afetável, corporal, limitado e capaz de apreensão. A sua reflexividade não surge fora da sua inscrição no real. Surge no interior dela.
+
+O falso dizer desta zona é transformar o humano situado em sujeito soberano.
+
+Nesse erro, o humano deixa de ser uma determinação real localizada e passa a parecer origem do campo, medida do ser ou tribunal do real. O Capítulo 4 deve impedir essa subida.
+
+O humano situado não funda o real.  
+Não observa a partir de fora.  
+Não constitui soberanamente aquilo que apreende.  
+Não começa como consciência pura.  
+
+Está no real, é afetado por ele, apreende-o localmente e só depois pode organizar reflexivamente essa relação.
+
+A primeira determinação do capítulo é esta:
+
+> a reflexividade humana só pode começar a partir de um humano situado no real.
+
+A reinscrição local é esta: o humano deve ser devolvido à sua inscrição real, não elevado a sujeito fundador.
+
+## 3. Localidade e apreensão
+
+O humano situado apreende localmente.
+
+A localidade não é defeito subjetivo. É condição real de acesso. Um ente que apreende fá-lo sempre a partir de uma posição, de um corpo, de uma história mínima de afetações, de um campo e de limites.
+
+Mas, no Capítulo 4, a localidade já não é apenas o problema do aparecer, como no Capítulo 2. Também já não é apenas corpo vivo em campo, como no Capítulo 3. Aqui, a localidade começa a preparar a autorrelação reflexiva.
+
+Apreender localmente significa que a relação ao real nunca é absoluta. Há sempre diferença entre:
+
+- o real;
+- o modo como ele aparece;
+- a apreensão local desse aparecer;
+- a estabilização dessa relação;
+- a sua fixação representacional;
+- e a posterior retomada reflexiva.
+
+O falso dizer desta zona é esquecer essa distância e tratar a apreensão local como transparência imediata.
+
+Nesse erro, o humano passa a parecer imediatamente consciente de si, imediatamente dono da sua relação ao real, imediatamente transparente no seu acesso. Mas isso apaga a mediação interna do capítulo.
+
+Apreensão não é ainda consciência reflexiva.  
+Localidade não é ainda sujeito.  
+Afetação não é ainda autorrelação.  
+
+A segunda determinação do capítulo é esta:
+
+> a reflexividade humana pressupõe uma apreensão local do real, mas não se confunde com ela.
+
+A reinscrição local é esta: a apreensão deve permanecer situada e anterior à consciência reflexiva que dela deriva.
+
+## 4. Estabilização temporal interna subordinada
+
+A relação apreendida não desaparece simplesmente no instante.
+
+Se desaparecesse totalmente, não haveria continuidade suficiente para que o humano pudesse retomá-la, organizá-la ou relacionar-se consigo a partir dela. Alguma estabilização temporal interna é necessária.
+
+É aqui que entra `P25`.
+
+Mas entra sob subordinação.
+
+A estabilização temporal interna não é ainda memória como centro próprio. Não é arquivo, narrativa, identidade temporal ou permanência de si. É apenas a conservação mínima da relação apreendida para que ela possa ser fixada e retomada.
+
+O falso dizer desta zona é autonomizar `P25`.
+
+Nesse erro, a estabilização temporal interna passa a comandar o capítulo. A memória torna-se o centro do problema. A reflexão parece nascer de uma interioridade temporal já destacada. O Capítulo 4 começa então a ser capturado pelo Capítulo 5.
+
+Mas o Capítulo 4 não trata ainda da memória enquanto centro próprio.
+
+Aqui, a estabilização temporal interna serve apenas para que a relação apreendida não se apague imediatamente. Ela conserva uma continuidade mínima que permite passagem para a fixação representacional e mediacional.
+
+A terceira determinação do capítulo é esta:
+
+> `P25` entra como estabilização temporal interna subordinada da relação ao real, não como memória autónoma.
+
+A reinscrição local é esta: a memória deve ser devolvida ao seu estatuto de articulação subordinada, sem ocupar a cabeça do capítulo.
+
+## 5. A diferença entre estabilização e memória como centro
+
+É preciso insistir nesta diferença, porque ela protege a fronteira entre o Capítulo 4 e o Capítulo 5.
+
+No Capítulo 4, a relação apreendida conserva-se minimamente.
+
+No Capítulo 5, a memória tornar-se-á tema próprio: permanência interna, identidade temporal, duração, retenção e continuidade de si. Mas isso ainda não começou.
+
+Aqui, a estabilização temporal interna é funcional.
+
+Serve para que a apreensão local possa ser retomada.  
+Serve para que a diferença interna encarnada não se perca no instante.  
+Serve para que a relação ao real possa passar para fixação representacional.  
+Serve para que a reflexividade futura tenha matéria mínima de retorno.  
+
+Mas não serve para abrir uma teoria da memória.
+
+O falso dizer consiste em tomar a continuidade mínima como se já fosse memória plena. Esse salto faz o capítulo perder a sua função própria: mostrar a constituição situada da reflexividade.
+
+A quarta determinação do capítulo é esta:
+
+> a estabilização temporal interna é condição da reflexividade, mas ainda não é memória como centro.
+
+A reinscrição local é esta: o temporal deve ser mantido como articulação mínima da relação ao real, não como regime autónomo de identidade.
+
+## 6. Fixação representacional
+
+A relação apreendida e minimamente estabilizada pode então ser fixada.
+
+É aqui que entra `P26`.
+
+A representação fixa o apreendido em forma operável. Torna possível organizar, retomar, comparar, comunicar e trabalhar aquilo que foi apreendido. Sem fixação representacional, a relação ao real permaneceria demasiado imediata, instável ou fugidia para sustentar reflexividade.
+
+Mas a representação entra depois da apreensão e depois da estabilização temporal interna.
+
+Não entra como origem.
+
+O falso dizer desta zona é deixar a representação subir a fundamento.
+
+Nesse erro, o humano deixa de ser aquele que apreende localmente o real e passa a parecer aquele que constitui o real por representação. A representação deixa de fixar o apreendido e passa a substituir o real. O Capítulo 4 escorrega então para uma teoria da representação ou para um idealismo mediacional.
+
+Mas representar não é fundar o real.  
+Representar não é produzir aquilo que se apreende.  
+Representar não é garantir verdade.  
+Representar é fixar operativamente o que já foi apreendido.  
+
+A quinta determinação do capítulo é esta:
+
+> a representação fixa o apreendido em forma operável, mas não funda o real nem funda sozinha a reflexividade.
+
+A reinscrição local é esta: a representação deve ser devolvida à apreensão situada que a antecede e ao real que a mede.
+
+## 7. Mediação
+
+A fixação representacional é já mediação.
+
+A mediação torna a relação ao real operável, transmissível, comparável e retomável. Permite que aquilo que foi apreendido não fique preso ao instante da afetação. Mas, como a representação, a mediação não é soberana.
+
+O falso dizer desta zona é transformar mediação em origem.
+
+Nesse erro, símbolo, linguagem, imagem, conceito ou sistema passam a parecer o lugar onde o real nasce para o humano. A mediação deixa de mediar e começa a substituir. A reflexividade passa a depender de uma camada já demasiado tardia.
+
+O Capítulo 4 não pode seguir esse caminho.
+
+A mediação é necessária, mas derivada.  
+É operativa, mas subordinada.  
+É constitutiva da reflexividade humana, mas não é fundamento do real.  
+
+A mediação não substitui o real que pretende tornar operável. Se se fecha sobre si, já começa a preparar o erro que os capítulos posteriores terão de tematizar de modo mais próprio.
+
+A sexta determinação do capítulo é esta:
+
+> a mediação torna operável a relação apreendida, mas permanece subordinada ao real e à apreensão.
+
+A reinscrição local é esta: a mediação deve ser reconduzida à sua função de mediação, não elevada a campo soberano.
+
+## 8. Autorrelação reflexiva
+
+Só depois de humano situado, apreensão local, estabilização temporal interna, representação e mediação é que a autorrelação reflexiva se torna inteligível.
+
+O humano não apenas apreende.  
+Não apenas conserva minimamente a relação.  
+Não apenas fixa representacionalmente o apreendido.  
+Também pode relacionar-se com essa relação.  
+
+É este o ponto específico da reflexividade humana.
+
+A autorrelação reflexiva não é um espelho mágico nem uma substância interior. É uma dobra da relação ao real: o humano, já situado, pode retomar a sua própria apreensão, a sua representação, a sua mediação e o seu modo de estar perante o real.
+
+O falso dizer desta zona é transformar a autorrelação em presença pura de si.
+
+Nesse erro, a reflexividade parece uma interioridade autoevidente, transparente, primeira e suficiente. Mas a autorrelação não vem antes da relação ao real. Vem depois dela e dentro dela.
+
+A sétima determinação do capítulo é esta:
+
+> a autorrelação reflexiva é relação situada do humano com a sua própria relação ao real.
+
+A reinscrição local é esta: a reflexividade deve ser devolvida à relação ao real que a antecede, e não isolada como presença de si.
+
+## 9. Consciência reinscrita
+
+Só agora se pode falar de consciência.
+
+A consciência não é abertura soberana do capítulo. Não é luz interior originária. Não é substância mental. Não é instância exterior ao corpo, ao mundo ou ao real.
+
+A consciência é uma forma organizada de autorrelação situada.
+
+Ela depende de:
+
+- humano situado;
+- apreensão local;
+- estabilização temporal interna;
+- fixação representacional;
+- mediação;
+- possibilidade de retorno reflexivo sobre a própria relação ao real.
+
+Dizer isto não diminui a consciência. Reinscreve-a.
+
+O falso dizer da consciência é tratá-la como fundamento. Nesse erro, a consciência passa a ocupar o lugar do real, do corpo, da apreensão e da mediação que a tornaram possível. O capítulo ficaria invertido: começaria pelo resultado e apagaria a cadeia que o produziu.
+
+A consciência não funda o real.  
+Não cria a apreensão.  
+Não antecede a inscrição humana no real.  
+Não é exterior àquilo que conhece.  
+
+É processo real, situado e mediado.
+
+A oitava determinação do capítulo é esta:
+
+> consciência é autorrelação situada e mediada, reinscrita no real.
+
+A reinscrição local é esta: a consciência deve ser devolvida à cadeia real que a torna possível.
+
+## 10. Interioridade
+
+A interioridade também não pode ser ponto de partida.
+
+Ela aparece quando a relação ao real, estabilizada e mediada, pode ser retomada internamente por um humano situado. Mas essa interioridade não é um reino separado. Não é um dentro absoluto. Não é mundo privado soberano.
+
+A interioridade é uma forma interna de relação.
+
+Isto é decisivo: o interior não é contrário ao real. O interior também é real. Mas só é inteligível porque pertence a um ente que está no real e que conserva, fixa e retoma relações com o real.
+
+O falso dizer da interioridade é convertê-la em origem fechada.
+
+Nesse erro, a vida interior parece autossuficiente. O sujeito parece fundar-se de dentro para fora. A relação ao real passa a ser secundária ou incerta. A interioridade transforma-se em abrigo contra a correção.
+
+Mas a interioridade não dispensa o real.  
+É um modo de o humano estar consigo no interior da sua relação ao real.  
+
+A nona determinação do capítulo é esta:
+
+> a interioridade é a forma interna da relação situada do humano ao real, não um mundo separado.
+
+A reinscrição local é esta: a interioridade deve ser devolvida ao real, à apreensão e à mediação que a tornam possível.
+
+## 11. Sujeito reinscrito
+
+Só depois se pode falar de sujeito.
+
+O sujeito não é ponto inicial. Não é substância isolada. Não é proprietário soberano da consciência. Não é centro absoluto de constituição do mundo.
+
+O sujeito é uma estabilização reflexiva de um humano situado.
+
+Ele resulta de um processo:
+
+> humano situado → apreensão local → estabilização temporal interna → representação → mediação → autorrelação reflexiva → consciência/interioridade → sujeito reinscrito.
+
+O sujeito é real, mas não soberano.  
+É centro local de autorrelação, mas não fundamento do real.  
+É capaz de representar, julgar e agir, mas permanece situado, limitado e corrigível.  
+
+O falso dizer do sujeito é substancializá-lo.
+
+Nesse erro, o sujeito passa a ser uma coisa interior, uma entidade que teria consciência como propriedade e mundo como objeto exterior. Mas o Capítulo 4 deve impedir essa separação. O sujeito só é inteligível como resultado local de uma relação real, temporalmente estabilizada, representacionalmente fixada e mediacionalmente operável.
+
+A décima determinação do capítulo é esta:
+
+> o sujeito é estabilização reflexiva reinscrita no real, não substância soberana.
+
+A reinscrição local é esta: o sujeito deve ser devolvido ao humano situado e à cadeia real da sua constituição.
+
+## 12. O erro local do capítulo
+
+A Nota de Leitura obriga a tornar visível o erro próprio de cada capítulo. No Capítulo 4, esse erro não deve ser tratado como teoria geral do erro. Deve ser reconhecido apenas como risco local de mau dizer da reflexividade humana.
+
+O erro local consiste em autonomizar uma camada derivada da reflexividade e deixá-la ocupar o lugar do processo real de constituição.
+
+Esse erro pode assumir várias formas.
+
+Pode autonomizar a consciência.  
+Nesse caso, a consciência torna-se fundamento e apaga humano situado, apreensão, estabilização, representação e mediação.
+
+Pode autonomizar o sujeito.  
+Nesse caso, o sujeito torna-se substância interior e passa a parecer origem da relação ao real.
+
+Pode autonomizar a interioridade.  
+Nesse caso, o interior passa a parecer mundo separado e protegido contra a medida do real.
+
+Pode autonomizar a memória.  
+Nesse caso, `P25` captura o capítulo e desloca o centro para o Capítulo 5.
+
+Pode autonomizar a representação.  
+Nesse caso, `P26` passa a fundar aquilo que devia apenas fixar.
+
+Pode autonomizar a mediação.  
+Nesse caso, o mediado substitui o real e antecipa os capítulos da linguagem, do símbolo e do sentido.
+
+Pode autonomizar o critério, a verdade ou a correção.  
+Nesse caso, `P31/P34/P37` reocupam o centro e transformam o capítulo numa epistemologia precoce.
+
+Todos estes erros têm uma forma comum:
+
+> tomam por origem aquilo que só é legítimo como camada derivada.
+
+A décima primeira determinação do capítulo é esta:
+
+> o erro local do Capítulo 4 é soberanizar consciência, sujeito, memória, representação, mediação ou critério, apagando a constituição situada da reflexividade humana.
+
+A reinscrição local é esta: cada falso dizer deve ser reconduzido à cadeia baixa do capítulo — humano situado, apreensão local, estabilização temporal interna subordinada, fixação representacional e mediação.
+
+## 13. Reinscrição da reflexividade no real
+
+A correção local do Capítulo 4 não consiste em propor uma nova teoria da consciência.
+
+Consiste em devolver a consciência ao real.
+
+Consiste em devolver o sujeito ao humano situado.
+
+Consiste em devolver a interioridade à relação ao real.
+
+Consiste em devolver a memória ao seu papel subordinado de estabilização.
+
+Consiste em devolver a representação à apreensão.
+
+Consiste em devolver a mediação ao que ela medeia.
+
+A reinscrição correta tem seis movimentos.
+
+Primeiro: o humano está no real.  
+Segundo: apreende localmente o real.  
+Terceiro: conserva minimamente essa relação.  
+Quarto: fixa-a representacionalmente.  
+Quinto: medeia-a em forma operável.  
+Sexto: pode relacionar-se consigo enquanto relação ao real.  
+
+Só depois se pode falar de consciência, interioridade e sujeito.
+
+Esta reinscrição não nega a consciência.  
+Não nega o sujeito.  
+Não nega a interioridade.  
+Não nega a memória.  
+Não nega a representação.  
+Não nega a mediação.  
+
+Apenas põe cada camada no seu lugar.
+
+A décima segunda determinação do capítulo é esta:
+
+> reinscrever a reflexividade é reconduzir consciência, interioridade e sujeito à cadeia real da sua constituição situada, memorial, representacional e mediada.
+
+Esta é a correção local que o capítulo pode fazer.
+
+Nada mais.
+
+## 14. Adequação, verdade e correção como fecho terminal
+
+Uma reflexividade reinscrita no real pode ajustar-se ou desajustar-se.
+
+Por isso, `P31/P34/P37` entram no capítulo.
+
+Mas entram apenas no fecho.
+
+A representação mediada pode ser mais ou menos adequada ao real. A verdade exigirá adequação sob critério submetido ao real. A correção será reinscrição da representação e da ação na medida do real.
+
+Mas este capítulo não é ainda o capítulo da verdade, do erro, do critério e da correção.
+
+Aqui, o fecho epistemológico tem função precisa: impedir que a consciência, a representação ou o sujeito recém-reinscritos pareçam soberanos.
+
+A reflexividade é corrigível porque permanece no real.  
+A representação é corrigível porque não coincide automaticamente com o real.  
+O sujeito é corrigível porque não é medida absoluta do real.  
+
+O falso dizer desta zona é deixar o fecho terminal reocupar o centro.
+
+Nesse erro, o capítulo deixa de ser sobre constituição situada da reflexividade e passa a ser sobre verdade, erro e correção. Mas isso pertence ao Capítulo 7.
+
+A décima terceira determinação do capítulo é esta:
+
+> `P31/P34/P37` entram apenas como fecho terminal de corrigibilidade da reflexividade reinscrita.
+
+A reinscrição local é esta: o critério, a verdade e a correção devem ser devolvidos à sua função terminal, não promovidos a cabeça do Capítulo 4.
+
+## 15. Fronteira com o Capítulo 3
+
+A fronteira com o Capítulo 3 deve ficar curta e firme.
+
+O Capítulo 3 mostrou a passagem do vivo organizado à diferença reflexiva encarnada. O seu centro foi vida organizada, organismo, corpo, campo, continuidade encarnada, estabilização local, apreensão incorporada e torção interna do vivo.
+
+O Capítulo 4 começa já acima disso.
+
+Começa quando essa diferença reflexiva encarnada exige constituição humana situada: apreensão local, estabilização temporal interna, representação, mediação e autorrelação.
+
+A diferença é esta:
+
+- o Capítulo 3 prepara a possibilidade encarnada da reflexividade;
+- o Capítulo 4 constitui a reflexividade humana em cadeia situada, memorial, representacional e mediada.
+
+O falso dizer da fronteira é regressar ao corpo como se ele bastasse.
+
+Mas o corpo, aqui, já é pressuposto.  
+O organismo já é pressuposto.  
+O campo vivo já é pressuposto.  
+A continuidade encarnada já é pressuposta.  
+
+O problema agora é outro: como essa base permite que o humano se relacione reflexivamente com a sua própria relação ao real.
+
+A décima quarta determinação do capítulo é esta:
+
+> o Capítulo 4 não regressa ao corpo como centro; parte da diferença reflexiva encarnada para constituir reflexividade humana situada.
+
+A reinscrição local é esta: o corpo deve permanecer como solo herdado, não como centro reaberto.
+
+## 16. Fronteira com o Capítulo 5
+
+A fronteira com o Capítulo 5 também deve ficar firme.
+
+O Capítulo 4 usa `P25`. Mas usa-o sob subordinação.
+
+A estabilização temporal interna é necessária para que a relação apreendida possa ser retomada e fixada. Mas o Capítulo 4 não transforma essa estabilização em memória como centro próprio.
+
+O Capítulo 5 começará precisamente quando essa estabilização temporal interna deixar de ser mera articulação subordinada e passar a ser problema próprio: memória, permanência interna, identidade temporal, retenção, duração e continuidade de si.
+
+O falso dizer da fronteira é deixar `P25` capturar o capítulo.
+
+Nesse erro, a constituição da reflexividade humana fica subordinada à memória como se a memória já fosse o centro soberano. O Capítulo 4 deixa então de preparar o Capítulo 5 e passa a invadi-lo.
+
+A décima quinta determinação do capítulo é esta:
+
+> o Capítulo 4 usa `P25` apenas como articulação subordinada; a memória como centro pertence ao Capítulo 5.
+
+A reinscrição local é esta: a memória deve ser mantida como passagem, não como cabeça.
+
+## 17. Fronteira com os Capítulos 6 e 7
+
+O Capítulo 4 também prepara zonas posteriores.
+
+Prepara o Capítulo 6 porque a representação e a mediação abrirão depois para linguagem, símbolo e sentido.
+
+Prepara o Capítulo 7 porque a representação mediada pode ajustar-se ou desajustar-se ao real, exigindo verdade, erro, critério e correção.
+
+Mas preparar não é iniciar.
+
+O falso dizer desta fronteira é antecipar os capítulos posteriores.
+
+Se a linguagem entrar cedo demais, a consciência passa a depender de símbolo e sentido antes de estar constituída como reflexividade situada.
+
+Se o critério entrar cedo demais, o capítulo deixa de constituir a reflexividade e passa a julgá-la antes de a ter explicado.
+
+Se a verdade e o erro entrarem cedo demais, o Capítulo 4 é absorvido pelo Capítulo 7.
+
+Por isso, o Capítulo 4 deve fechar apenas com a possibilidade terminal de adequação e correção.
+
+A décima sexta determinação do capítulo é esta:
+
+> representação, mediação, adequação, verdade e correção entram no Capítulo 4 apenas em função da reflexividade reinscrita, não como centros próprios.
+
+A reinscrição local é esta: os capítulos posteriores devem ser preparados sem serem abertos.
+
+## 18. Fecho e ponte baixa `4→5`
+
+O Capítulo 4 deve terminar antes de mudar de centro.
+
+A sua pergunta foi: como pode a diferença reflexiva encarnada constituir consciência, reflexividade, interioridade e sujeito reinscritos no real?
+
+A resposta mínima ficou ganha: isso só é possível quando se parte de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e só depois se torna capaz de autorrelação reflexiva, consciência, interioridade e sujeito.
+
+Mas esta resposta abre uma nova pressão.
+
+Se a relação apreendida precisa de estabilização temporal interna, então essa estabilização terá de ser pensada em si mesma. Será preciso perguntar como a relação ao real permanece internamente, como se conserva, como retém, como permite identidade temporal e continuidade de si.
+
+Essa pergunta pertence ao Capítulo 5.
+
+O Capítulo 4 pode entregar ao seguinte apenas isto:
+
+> a reflexividade humana reinscrita pressupõe estabilização temporal interna da relação ao real; essa estabilização, ainda subordinada aqui, terá agora de ser pensada como memória.
+
+Esta entrega prepara o Capítulo 5 — Memória, permanência interna e identidade temporal.
+
+Mas não o inicia ainda.
+
+O falso dizer da ponte é transformar preparação em absorção. Como se, por `P25` entrar no Capítulo 4, a memória já pudesse ocupar o centro; como se, por haver autorrelação reflexiva, já houvesse identidade temporal plenamente desenvolvida; como se, por haver estabilização interna, já houvesse narrativa de si.
+
+Esse salto seria indevido.
+
+O Capítulo 4 deve parar no bordo.
+
+A décima sétima determinação do capítulo é esta:
+
+> a ponte `4→5` é obrigatória, mas apenas terminal: prepara memória e identidade temporal sem as fazer ocupar o centro do Capítulo 4.
+
+A reinscrição local é esta: a ponte deve ser devolvida ao seu estatuto de passagem, não convertida em cabeça antecipada do capítulo seguinte.
+
+## 19. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 4 pode ser condensado assim.
+
+### ser em causa
+
+O ser em causa é a **reflexividade humana enquanto processo situado, memorial, representacional e mediado, reinscrito no real**.
+
+Não é:
+
+- consciência em abstrato;
+- sujeito em abstrato;
+- interioridade pura;
+- autoconsciência originária;
+- presença de si;
+- memória como centro autónomo;
+- representação como fundamento;
+- mediação como origem;
+- critério como tribunal inicial;
+- verdade, erro e correção como corpo próprio.
+
+É o modo como um humano situado no real pode apreender localmente, conservar minimamente essa relação, fixá-la representacionalmente, mediá-la, retomar-se nela e permanecer corrigível pelo real.
+
+### dizer do ser
+
+A reflexividade humana pode ser dita erradamente como:
+
+- consciência soberana;
+- sujeito substancial;
+- interioridade originária;
+- presença imediata de si;
+- autoconsciência pura;
+- memória autónoma;
+- representação fundadora;
+- mediação soberana;
+- linguagem antecipada;
+- critério precoce;
+- verdade como tribunal da abertura;
+- correção como centro do capítulo.
+
+### erro local
+
+O erro local nasce quando a proposição sobre consciência, reflexividade ou sujeito deixa de reconhecer a cadeia real que os constitui.
+
+As formas principais desse erro são:
+
+- substancialização do sujeito;
+- soberanização da consciência;
+- autonomização da interioridade;
+- autonomização de `P25`;
+- subida de `P26` a cabeça do capítulo;
+- captura por linguagem, símbolo ou mediação;
+- captura por `P31/P34/P37`;
+- regressão ao corpo como centro;
+- antecipação do Capítulo 5;
+- antecipação dos Capítulos 6 e 7.
+
+O erro não é ainda tratado aqui como corpo próprio. É apenas reconhecido como risco local de mau dizer da reflexividade humana.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> consciência, reflexividade, interioridade e sujeito são culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e permanece corrigível pelo real.
+
+A reinscrição não nega a consciência.  
+Não nega o sujeito.  
+Não nega a interioridade.  
+Não nega a memória.  
+Não nega a representação.  
+Não nega a mediação.  
+Não nega a verdade futura.  
+Não nega a correção futura.  
+
+Apenas põe cada camada no seu lugar.
+
+### entrega
+
+A entrega ao capítulo seguinte é precisa:
+
+> se a reflexividade humana exige estabilização temporal interna da relação ao real, então é necessário perguntar como essa estabilização se constitui como memória, permanência interna e identidade temporal.
+
+O Capítulo 4 entrega a pergunta pela memória.
+
+Mas não entrega ainda uma teoria da memória.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> diferença reflexiva encarnada herdada → humano situado → localidade e apreensão → estabilização temporal interna subordinada → fixação representacional e mediacional → autorrelação reflexiva → consciência, interioridade e sujeito reinscritos → adequação, verdade e correção apenas como fecho terminal.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que não havia núcleo estrutural admissível em falta.
+
+Por isso, esta reescrita não acrescenta novo centro, novo material tardio ou nova arquitetura interna.
+
+A intervenção feita foi apenas de disciplina expositiva:
+
+- tornar mais explícita a reflexividade humana situada como ser em causa no capítulo;
+- reforçar que consciência, interioridade e sujeito não podem abrir;
+- manter `P23/P24` como chão primário;
+- manter `P25` como estabilização subordinada;
+- manter `P26` como fixação ulterior;
+- manter `P31/P34/P37` como fecho terminal de corrigibilidade;
+- nomear o erro local sem abrir teoria geral do erro;
+- reinscrever consciência, reflexividade e sujeito no real;
+- endurecer a ponte terminal `4→5`.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada apenas como orientação de legibilidade.
+
+Por isso, esta versão:
+
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem transformar erro/correção em corpo próprio;
+- reinscreve o dizer da consciência, da reflexividade, da interioridade e do sujeito no real;
+- entrega ao capítulo seguinte apenas a necessidade de pensar memória, permanência interna e identidade temporal.
+
+A Nota não altera o centro do capítulo.
+
+Apenas torna mais visível o modo como o leitor deve atravessar a peça.
+
+### ganhos da versão
+
+A versão já consegue:
+
+- não regressar ao Capítulo 3;
+- não abrir por consciência;
+- não abrir por sujeito;
+- não abrir por interioridade;
+- não autonomizar `P25`;
+- não deixar `P26` comandar;
+- não deixar `P31/P34/P37` capturar o centro;
+- formular consciência como autorrelação situada e mediada;
+- formular sujeito como estabilização reflexiva reinscrita no real;
+- bloquear substancialismo, discursivismo e epistemologia precoce;
+- preparar o Capítulo 5 sem o iniciar;
+- compatibilizar o capítulo com a chave da Nota sem converter a Nota em método soberano.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão futura:
+
+- a expressão “reflexividade humana situada”, que deve permanecer suficientemente baixa;
+- a distinção entre estabilização temporal interna subordinada e memória como centro próprio;
+- a passagem entre representação e mediação sem antecipar o Capítulo 6;
+- o uso de termos como consciência, interioridade e sujeito sem deixá-los soar a cabeças soberanas;
+- o fecho `P31/P34/P37`, que tem de manter a corrigibilidade sem abrir o Capítulo 7;
+- a ponte `4→5`, que deve preparar memória sem a iniciar;
+- o equilíbrio entre crítica local e centro positivo, para que o capítulo não pareça mais forte pelo que recusa do que pelo que afirma.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+
+- consciência como abertura soberana;
+- sujeito como substância;
+- interioridade como origem;
+- autoconsciência como dado primeiro;
+- presença de si como fundamento;
+- memória como centro próprio;
+- permanência interna destacada;
+- identidade temporal desenvolvida;
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- sentido;
+- teoria geral da mediação;
+- adequação como capítulo próprio;
+- critério como tribunal;
+- verdade como centro;
+- erro e correção como corpo próprio;
+- dever-ser;
+- dignidade;
+- responsabilidade;
+- cultura;
+- instituição;
+- sistema;
+- crítica tardia;
+- teoria geral da consciência;
+- teoria geral do sujeito.
+
+### fórmula final da versão
+
+> O Capítulo 4 fixa apenas isto: consciência, reflexividade, interioridade e sujeito não são começos soberanos, mas culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e permanece corrigível pela medida do real.
+
+O capítulo deve terminar antes de a memória se tornar centro.
+
+O que ficou ganho é a constituição situada da reflexividade humana: o ser humano não começa como sujeito soberano, mas como ente situado no real cuja relação apreendida pode estabilizar-se, fixar-se, mediar-se e retornar sobre si.
+
+Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pela linguagem, nem pelo critério, nem pela verdade como corpo próprio, mas pela memória enquanto estabilização temporal interna da relação ao real.
+
+### fórmula axial de leitura local
+
+> **ser no real:** reflexividade humana enquanto processo situado, memorial, representacional e mediado, reinscrito no real;  
+> **dizer do ser:** consciência soberana, sujeito substancial, interioridade originária, memória autónoma, representação fundadora, mediação soberana ou critério precoce;  
+> **erro da proposição não real:** autonomizar uma camada derivada da reflexividade e deixá-la ocupar o lugar da constituição situada real;  
+> **reinscrição no real:** consciência, interioridade e sujeito como culminações de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e permanece corrigível pelo real.
+
+<a id="capitulo-cap-05-memoria-permanencia-interna-identidade-temporal"></a>
+## CAP_05_memoria_permanencia_interna_identidade_temporal
+
+- Pasta: `CAP_05_memoria_permanencia_interna_identidade_temporal`
+- Ficheiros incluídos: `8`
+
+### Índice interno da pasta
+
+- [00_estatuto_e_limites](#cap-05-memoria-permanencia-interna-identidade-temporal-00-estatuto-e-limites-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/00_estatuto_e_limites.md`
+- [01_estrutura_interna](#cap-05-memoria-permanencia-interna-identidade-temporal-01-estrutura-interna-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/01_estrutura_interna.md`
+- [02_materiais_positivos](#cap-05-memoria-permanencia-interna-identidade-temporal-02-materiais-positivos-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/02_materiais_positivos.md`
+- [03_materiais_criticos](#cap-05-memoria-permanencia-interna-identidade-temporal-03-materiais-criticos-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/03_materiais_criticos.md`
+- [04_lacunas_do_capitulo](#cap-05-memoria-permanencia-interna-identidade-temporal-04-lacunas-do-capitulo-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/04_lacunas_do_capitulo.md`
+- [05_decisao_local_do_capitulo](#cap-05-memoria-permanencia-interna-identidade-temporal-05-decisao-local-do-capitulo-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-05-memoria-permanencia-interna-identidade-temporal-06-primeira-versao-controlada-de-escrita-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5](#cap-05-memoria-permanencia-interna-identidade-temporal-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap5-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5.md`
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-00-estatuto-e-limites-md"></a>
+### 00_estatuto_e_limites
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/00_estatuto_e_limites.md`
+
+# 00_estatuto_e_limites
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar o estatuto local do **Capítulo 5 — memória, permanência interna e identidade temporal mínima** dentro da pasta de capítulos;
+- determinar o que este capítulo pode e não pode fazer no livro;
+- preservar a sua diferença relativamente ao `Capítulo 4`, ao `Capítulo 6`, ao `Capítulo 7` e às peças laterais do sistema;
+- impedir que a memória seja reabsorvida por tempo vivido, consciência temporal, identidade narrativa, sujeito, representação, linguagem, verdade ou correção;
+- abrir localmente o capítulo sem o converter ainda em redação corrida.
+
+### limite
+- este ficheiro não reabre nenhum `CF`;
+- não redecide a arquitetura total da obra;
+- não transforma o capítulo em teoria geral da memória;
+- não autoriza ainda redação corrida do capítulo;
+- não usa `CF17` ou `CF18` como cabeça positiva da sua abertura;
+- não deixa tempo vivido, consciência temporal, identidade do sujeito, representação, mediação, linguagem, critério, verdade, erro ou correção ocuparem o lugar do seu centro próprio.
+
+### valor metodológico
+- vale como abertura local disciplinada da pasta do `Capítulo 5`;
+- vale como travão contra crescimento indevido do capítulo;
+- vale como base para `01_estrutura_interna.md`, `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`;
+- vale como critério para decidir, mais tarde, se o capítulo está apenas arquitetado, povoado parcialmente ou pronto para versão controlada de escrita.
+
+---
+
+## II. Estatuto local do capítulo
+
+### estado atual
+**aberto localmente com restrições**
+
+### estatuto próprio
+O `Capítulo 5` é o capítulo em que `P25` deixa de ser uma articulação subordinada da constituição situada da reflexividade e passa a ser centro próprio.
+
+Não é continuação indiferente do `Capítulo 4`.
+Não é capítulo do sujeito.
+Não é capítulo da consciência temporal.
+Não é capítulo da identidade narrativa.
+Não é capítulo da representação.
+Não é capítulo da linguagem.
+Não é capítulo da verdade ou da correção.
+
+A sua necessidade é esta:
+- fixar a memória como estabilização temporal interna da relação apreendida ao real;
+- mostrar que a relação apreendida não se extingue no instante;
+- distinguir memória de continuidade bruta, arquivo neutro, tempo vivido, identidade pessoal, reflexividade forte e representação;
+- preparar a passagem ulterior para representação e mediação sem a antecipar.
+
+### forma de uso
+O capítulo deve ser usado como:
+- capítulo de estabilização temporal interna;
+- capítulo de passagem entre apreensão situada e fixação representacional ulterior;
+- capítulo em que a permanência interna da relação ao real ganha centro próprio;
+- zona de proteção contra a dissolução de `P25` por baixo em continuidade bruta e por cima em sujeito, identidade ou representação.
+
+Não deve ser usado como:
+- psicologia da memória;
+- fenomenologia do tempo vivido;
+- teoria da identidade pessoal;
+- teoria da consciência temporal;
+- teoria da representação;
+- teoria da linguagem;
+- pré-capítulo da verdade;
+- crítica da cultura, do sistema ou do fechamento simbólico.
+
+---
+
+## III. Centro próprio do capítulo
+
+### centro
+O centro próprio do `Capítulo 5` é este:
+
+> **memória enquanto estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real num ente humano localizado.**
+
+### desdobramento mínimo do centro
+1. nada apreende de fora do real;
+2. o humano é ente situado e localizado no real;
+3. a apreensão é anterior à representação;
+4. a relação apreendida não se extingue inteiramente no instante;
+5. essa relação estabiliza-se internamente;
+6. essa estabilização é durável, operante e seletiva;
+7. a isso se chama aqui memória;
+8. só depois pode entrar `P26` como fixação representacional e mediacional ulterior;
+9. `P31/P34` só podem entrar terminalmente, como fecho subordinado de adequação e verdade, nunca como cabeça do capítulo.
+
+### fórmula curta do centro
+O `Capítulo 5` trata da memória como permanência interna eficaz da relação apreendida ao real, antes da representação plena, antes da linguagem, antes da identidade narrativa e antes da reflexividade forte.
+
+---
+
+## IV. Falso centro dominante a bloquear
+
+### falso centro dominante principal
+O falso centro dominante a bloquear é este:
+
+> **transformar a memória em tempo vivido, consciência temporal ou identidade do sujeito.**
+
+### formas típicas desse desvio
+- abrir por “tempo vivido” como se o problema fosse experiência temporal do sujeito;
+- abrir por “consciência temporal” como se já houvesse sujeito reflexivo constituído;
+- abrir por “identidade” como se a memória já fosse unidade narrativa de si;
+- tratar memória como arquivo interior;
+- tratar memória como retenção neutra de conteúdos;
+- tratar memória como representação enfraquecida;
+- tratar memória como reflexividade em miniatura;
+- deixar `P26` subir cedo demais a cabeça do caso;
+- deixar `P31/P34` converterem o capítulo em pré-epistemologia.
+
+### outros falsos centros a bloquear
+- sujeito;
+- presença de si;
+- autoconsciência;
+- interioridade soberana;
+- representação;
+- mediação;
+- linguagem;
+- símbolo;
+- critério;
+- verdade;
+- erro;
+- correção;
+- cultura;
+- sistema;
+- crítica do fechamento simbólico;
+- normatividade.
+
+---
+
+## V. Fronteira com o anterior
+
+### capítulo anterior
+O anterior imediato é:
+
+**`Capítulo 4 — consciência, reflexividade e sujeito reinscritos`**
+
+### o que o Capítulo 5 herda do Capítulo 4
+O `Capítulo 5` herda:
+- humano situado;
+- localidade;
+- apreensão;
+- relação ao real;
+- a necessidade de uma estabilização temporal interna para que a relação apreendida não se apague imediatamente;
+- a proibição de abrir por sujeito, consciência ou presença de si.
+
+### diferença decisiva face ao Capítulo 4
+No `Capítulo 4`, `P25` entrava apenas como articulação subordinada da constituição situada da reflexividade.
+
+No `Capítulo 5`, `P25` passa a centro próprio.
+
+A fronteira é esta:
+
+> enquanto a estabilização temporal interna serve outro centro, ainda se está no `Capítulo 4`; quando a estabilização temporal interna passa a comandar o confronto, já se está no `Capítulo 5`.
+
+### o que o Capítulo 5 não pode reabrir do anterior
+O `Capítulo 5` não pode reabrir:
+- consciência;
+- sujeito;
+- reflexividade constituída;
+- presença de si;
+- interioridade;
+- constituição situada da reflexividade como problema dominante.
+
+Esses elementos podem ser pressupostos como vizinhança anterior, mas não podem governar a cabeça deste capítulo.
+
+---
+
+## VI. Fronteira com o seguinte
+
+### capítulo seguinte
+O seguinte imediato é:
+
+**`Capítulo 6 — linguagem, símbolo e sentido`**
+
+ou, em formulação funcional:
+
+**capítulo da representação estabilizada, mediação simbólica, linguagem e sentido.**
+
+### o que o Capítulo 5 prepara legitimamente
+O `Capítulo 5` prepara:
+- a possibilidade de fixação representacional do apreendido;
+- a passagem para mediação;
+- a possibilidade de uma forma operável, transmissível e simbolizável da relação apreendida;
+- a entrada ulterior de `P26`.
+
+### o que o Capítulo 5 não pode absorver do seguinte
+O `Capítulo 5` não pode absorver:
+- representação como centro próprio;
+- mediação como cabeça;
+- símbolo;
+- linguagem;
+- sentido linguístico;
+- comunicação;
+- discurso;
+- sistema simbólico.
+
+### regra de não-fusão com o seguinte
+O capítulo deve parar antes do momento em que a permanência interna da relação apreendida passa a ser fixação mediada, simbólica ou linguística.
+
+A regra é:
+
+> `P26` pode ser preparado, mas não pode abrir nem comandar o `Capítulo 5`.
+
+---
+
+## VII. Fronteira lateral com o Capítulo 7
+
+### capítulo lateral relevante
+A fronteira lateral principal é com:
+
+**`Capítulo 7 — verdade, erro, critério e correção`**
+
+### o que pode entrar terminalmente
+Podem entrar terminalmente:
+- diferença entre ajustamento e desajustamento;
+- possibilidade de adequação;
+- verdade como adequação sob critério submetido ao real;
+- erro e correção apenas como horizonte terminal subordinado.
+
+### o que não pode comandar
+Não podem comandar:
+- `P31`;
+- `P34`;
+- `P37`;
+- critério;
+- verdade;
+- erro;
+- correção;
+- reinscrição epistemológica.
+
+### regra de não-fusão lateral
+O `Capítulo 5` ainda não é capítulo de verdade ou correção.
+
+A memória pode preparar condições para representação e para posterior avaliação da representação, mas não pode ser reescrita como problema epistemológico.
+
+---
+
+## VIII. Uso máximo local agora admissível
+
+### formulação positiva máxima admissível
+A formulação positiva máxima agora admissível para o `Capítulo 5` é esta:
+
+> num ente humano situado que apreende o real sem exterioridade, a relação apreendida não se extingue no instante; estabiliza-se internamente de modo durável, operante e seletivo, e essa estabilização temporal interna é o que aqui se chama memória.
+
+### sequência mínima já autorizada
+A sequência mínima já autorizada do capítulo é esta:
+
+1. `P23/P24` — humano situado, localidade e apreensão;
+2. `P25` — memória como estabilização temporal interna da relação apreendida ao real;
+3. distinções imediatas de proteção;
+4. `P26` apenas como derivação ulterior;
+5. `P31/P34` apenas como fecho terminal subordinado.
+
+### o que este uso máximo já permite
+Este uso máximo já permite:
+- abrir o capítulo por `P23/P24`;
+- fazer entrar `P25` como centro próprio;
+- nomear positivamente memória;
+- distinguir memória de continuidade bruta, arquivo, tempo vivido, identidade, reflexividade e representação;
+- preparar a estrutura interna do capítulo.
+
+### o que este uso máximo ainda não permite
+Este uso máximo ainda não permite:
+- redação corrida livre;
+- desenvolvimento psicológico da memória;
+- fenomenologia do tempo;
+- teoria da identidade;
+- abertura por sujeito;
+- desenvolvimento de `P26` como corpo próprio;
+- entrada forte de linguagem ou símbolo;
+- entrada forte de verdade, erro ou correção.
+
+---
+
+## IX. O que fica dentro e o que fica fora
+
+### fica dentro
+- humano situado;
+- localidade;
+- apreensão;
+- relação ao real;
+- persistência da relação apreendida;
+- estabilização temporal interna;
+- memória como permanência durável, operante e seletiva;
+- distinção entre memória e continuidade bruta;
+- distinção entre memória e arquivo neutro;
+- distinção entre memória e tempo vivido;
+- distinção entre memória e identidade pessoal;
+- distinção entre memória e reflexividade forte;
+- distinção entre memória e representação;
+- preparação subordinada de `P26`;
+- fecho terminal subordinado por `P31/P34`, se estritamente necessário.
+
+### fica fora
+- memória psicológica em sentido empírico;
+- arquivo mental;
+- retenção neutra;
+- teoria do tempo vivido;
+- consciência temporal;
+- identidade narrativa;
+- sujeito como centro;
+- presença de si;
+- reflexividade forte;
+- representação como cabeça;
+- mediação como cabeça;
+- linguagem;
+- símbolo;
+- critério;
+- verdade;
+- erro;
+- correção;
+- cultura;
+- instituição;
+- sistema;
+- crítica tardia;
+- normatividade.
+
+---
+
+## X. Travões locais obrigatórios
+
+### travão 1 — abertura baixa obrigatória
+O capítulo deve abrir por `P23/P24`, isto é, por humano situado, localidade e apreensão.
+
+Não pode abrir por memória em abstrato.
+
+### travão 2 — não deixar `P23/P24` cair para fundo tácito
+`P23/P24` não são moldura decorativa.
+São o chão ativo que impede `P25` de se transformar em psicologia, fenomenologia ou interioridade solta.
+
+### travão 3 — `P25` como centro próprio
+`P25` deve comandar o capítulo, mas apenas enquanto memória como estabilização temporal interna da relação ao real.
+
+Não pode ser dissolvido nem por baixo nem por cima.
+
+### travão 4 — anti-dissolução por baixo
+A memória não pode ser reduzida a:
+- continuidade bruta;
+- persistência indiferenciada;
+- rasto inerte;
+- arquivo neutro;
+- depósito passivo;
+- retenção sem operação.
+
+### travão 5 — anti-dissolução por cima
+A memória não pode ser absorvida por:
+- tempo vivido;
+- consciência temporal;
+- identidade do sujeito;
+- reflexividade forte;
+- representação antecipada;
+- pré-correção epistemológica.
+
+### travão 6 — `P26` subordinado
+`P26` não pode abrir o capítulo.
+
+Só pode entrar depois de `P25` estar preservado como `P25`.
+
+### travão 7 — `P31/P34` terminais
+`P31/P34` só entram como fecho terminal subordinado.
+
+Não podem reocupar o centro nem transformar o capítulo em pré-`Capítulo 7`.
+
+### travão 8 — anti-linguagem prematura
+Nada de símbolo, linguagem, sentido ou discurso como cabeça.
+
+### travão 9 — anti-sujeito
+O capítulo não pode usar a memória para reinstalar sujeito soberano, interioridade fechada ou identidade narrativa.
+
+### travão 10 — anti-sistema
+Nada de cultura, instituição, técnica, sistema ou crítica do fechamento simbólico.
+
+---
+
+## XI. Estatuto lateral de CF17 e CF18
+
+### CF17
+`CF17` permanece apenas como fronteira arquitetónica lateral.
+
+Pode funcionar como:
+- travão de ordem;
+- vigilância contra salto de camadas;
+- proteção contra reordenação global indevida.
+
+Não pode:
+- abrir o capítulo;
+- redefinir o centro de `P25`;
+- fornecer conteúdo positivo à memória.
+
+### CF18
+`CF18` permanece apenas como instrumento lateral de reconhecimento disciplinado.
+
+Pode funcionar como:
+- reconhecimento de objeto;
+- reconhecimento de nível;
+- reconhecimento de operação;
+- reconhecimento de desvio.
+
+Não pode:
+- decidir o centro do capítulo;
+- transformar reconhecimento em taxonomia;
+- substituir o juízo local estabilizado de `CF05`.
+
+---
+
+## XII. Fórmula estrutural curta
+
+> **P23/P24 → P25 → P26 subordinado → P31/P34 terminal**
+
+ou, em formulação conceptual:
+
+> **humano situado / localidade / apreensão → memória como estabilização temporal interna → fixação mediada ulterior → adequação e verdade apenas terminais**
+
+---
+
+## XIII. Fórmula final curta
+
+> O `Capítulo 5` só pode dizer isto: a relação apreendida por um humano situado não se apaga no instante; estabiliza-se internamente de modo durável, operante e seletivo, e é essa permanência da relação ao real — ainda anterior à representação, à linguagem e à identidade do sujeito — que aqui se chama memória.
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-01-estrutura-interna-md"></a>
+### 01_estrutura_interna
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/01_estrutura_interna.md`
+
+# 01_estrutura_interna
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a estrutura interna mínima do **Capítulo 5 — memória, permanência interna e identidade temporal mínima**;
+- distinguir as suas partes, subpartes e corredores internos sem o transformar em teoria geral da memória;
+- preparar o povoamento local por materiais positivos e críticos;
+- impedir fusões indevidas com o `Capítulo 4`, o `Capítulo 6`, o `Capítulo 7` e as peças laterais do sistema;
+- garantir que `P25` entra como centro próprio, mas sem se autonomizar em tempo vivido, identidade narrativa, sujeito, representação ou linguagem.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não reabre `CF05`;
+- não redecide `P25`;
+- não transforma o capítulo em fenomenologia da consciência temporal;
+- não transforma memória em identidade pessoal;
+- não antecipa `P26` como cabeça representacional;
+- não antecipa `P31/P34` como centro epistemológico;
+- não autoriza ainda redação corrida do capítulo.
+
+### valor metodológico
+- vale como planta local do `Capítulo 5`;
+- vale como ordem mínima do seu futuro povoamento;
+- vale como travão contra inflação, mistura de planos e crescimento indevido;
+- vale como base para `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+---
+
+## II. Forma geral do capítulo
+
+### estatuto formal
+O `Capítulo 5` deve funcionar como o capítulo em que a estabilização temporal interna da relação apreendida ao real ganha centro próprio.
+
+Não é capítulo da consciência.
+Não é capítulo do sujeito.
+Não é capítulo da identidade narrativa.
+Não é capítulo da linguagem.
+Não é capítulo da verdade.
+
+É capítulo da **memória enquanto permanência interna eficaz da relação apreendida ao real**.
+
+### extensão relativa
+O capítulo deve ser suficientemente denso para dar autonomia local a `P25`, mas não tão extenso que converta memória em teoria geral da temporalidade, da subjetividade ou da representação.
+
+Deve ter mais corpo do que a entrada subordinada de `P25` no `Capítulo 4`, mas menos desenvolvimento do que um capítulo mediacional ou epistemológico.
+
+### regra de composição
+A composição interna do capítulo deve obedecer a esta regra:
+
+> **abrir baixo por humano situado e apreensão; fazer entrar `P25` como centro próprio; distinguir imediatamente a memória dos seus falsos centros; preparar `P26` sem o deixar comandar; e fechar terminalmente antes de linguagem, verdade ou correção se tornarem corpo próprio.**
+
+---
+
+## III. Partes internas obrigatórias
+
+## Parte A — Abertura baixa: humano situado, localidade e apreensão
+
+### função local
+Fixar o chão ontológico-local sem o qual a memória se tornaria abstrata, psicológica ou subjetiva.
+
+### conteúdo mínimo
+1. nada apreende de fora do real;
+2. o humano é ente situado e localizado no real;
+3. a relação ao real é local;
+4. a apreensão precede a representação;
+5. a memória só pode surgir como permanência interna de uma relação já apreendida.
+
+### subparte A1 — humano situado
+- o humano não entra como sujeito temporal pronto;
+- o humano não entra como consciência de si já constituída;
+- o humano entra como ente localizado no real.
+
+### subparte A2 — localidade
+- a memória não pertence a um ponto de vista absoluto;
+- a estabilização temporal interna ocorre num ente situado;
+- a localidade impede que a memória se torne forma abstrata do tempo.
+
+### subparte A3 — apreensão
+- antes da memória há relação apreendida;
+- a memória não cria o real;
+- a memória conserva internamente uma relação que já ocorreu no real.
+
+### travão interno
+Não deixar esta parte crescer para repetição do `Capítulo 4`.
+
+A abertura deve ser suficiente para manter `P23/P24` ativos, mas curta o bastante para que `P25` possa entrar como centro próprio.
+
+---
+
+## Parte B — Persistência da relação apreendida
+
+### função local
+Mostrar o ponto de passagem entre apreensão situada e memória propriamente dita.
+
+### conteúdo mínimo
+1. a relação apreendida não se extingue inteiramente no instante;
+2. algo da relação ao real permanece internamente;
+3. essa permanência não é ainda representação plena;
+4. essa permanência não é ainda identidade temporal do sujeito;
+5. essa permanência abre a possibilidade de memória.
+
+### subparte B1 — não-extinção no instante
+- a apreensão não desaparece como se nunca tivesse ocorrido;
+- a relação ao real deixa inscrição interna mínima;
+- essa inscrição não é depósito neutro nem arquivo.
+
+### subparte B2 — primeira estabilização interna
+- a permanência começa como estabilização interna da relação;
+- não é continuidade bruta do ser;
+- não é simples sucessão temporal;
+- não é ainda consciência temporal.
+
+### travão interno
+Não deixar esta parte regressar ao regime subordinado de `P25` no `Capítulo 4`.
+
+Aqui já não se trata apenas de impedir o apagamento imediato da dobra reflexiva; trata-se de preparar a memória como centro próprio.
+
+---
+
+## Parte C — `P25` como centro próprio: memória
+
+### função local
+Formular o centro positivo do capítulo.
+
+### conteúdo mínimo
+1. a memória é estabilização temporal interna;
+2. essa estabilização é durável;
+3. é operante;
+4. é seletiva;
+5. conserva a relação apreendida ao real;
+6. condiciona apreensões ulteriores;
+7. permanece anterior à representação plena.
+
+### subparte C1 — estabilização temporal interna
+- a memória não é tempo abstrato;
+- é estabilização interna de uma relação apreendida;
+- o tempo entra reinscrito na relação ao real.
+
+### subparte C2 — durabilidade
+- a memória não se dissolve no instante;
+- há permanência interna da relação;
+- essa durabilidade não deve tornar-se identidade pessoal.
+
+### subparte C3 — operatividade
+- a memória não é depósito passivo;
+- condiciona novas apreensões;
+- permite retomabilidade mínima da relação ao real.
+
+### subparte C4 — seletividade
+- a memória não conserva tudo indistintamente;
+- estabiliza de forma diferencial;
+- a seletividade não deve ser convertida já em interpretação, linguagem ou critério.
+
+### travão interno
+Não transformar os qualificativos **durável**, **operante** e **seletiva** em subcentros autónomos.
+
+Eles densificam `P25`; não substituem `P25`.
+
+---
+
+## Parte D — Distinções imediatas de proteção
+
+### função local
+Proteger a memória contra dissoluções por baixo e capturas por cima.
+
+### conteúdo mínimo
+A memória deve ser distinguida de:
+1. continuidade bruta;
+2. rasto inerte;
+3. arquivo neutro;
+4. retenção mecânica;
+5. tempo vivido;
+6. consciência temporal;
+7. identidade do sujeito;
+8. reflexividade forte;
+9. representação plena;
+10. linguagem.
+
+### subparte D1 — memória não é continuidade bruta
+- nem tudo o que persiste é memória;
+- a memória exige estabilização interna operante;
+- continuidade sem inscrição diferenciada não basta.
+
+### subparte D2 — memória não é arquivo neutro
+- a memória não é depósito passivo;
+- não é mera conservação indiferenciada;
+- não é coleção de conteúdos guardados.
+
+### subparte D3 — memória não é tempo vivido
+- o capítulo não abre por experiência subjetiva do tempo;
+- o tempo entra apenas como dimensão interna da permanência da relação ao real;
+- a temporalidade não se autonomiza.
+
+### subparte D4 — memória não é identidade
+- a memória pode preparar identidade temporal, mas ainda não a constitui como centro;
+- identidade narrativa fica fora;
+- unidade pessoal do sujeito fica fora.
+
+### subparte D5 — memória não é representação
+- a memória prepara a fixação representacional;
+- mas não coincide com representação plena;
+- enquanto a representação passa a comandar, já se está no limiar do capítulo seguinte.
+
+### travão interno
+Estas distinções devem ser formuladas logo após a entrada positiva de `P25`.
+
+Não devem ser deixadas para o fim, porque são elas que impedem que o capítulo seja capturado pelos seus vizinhos.
+
+---
+
+## Parte E — `P26` como derivação ulterior
+
+### função local
+Preparar a passagem para fixação mediada do apreendido sem entregar o capítulo ao regime representacional.
+
+### conteúdo mínimo
+1. da estabilização temporal interna pode emergir uma fixação ulterior;
+2. essa fixação torna o apreendido mais retomável, operável e comunicável;
+3. essa fixação ainda deve permanecer subordinada a `P25`;
+4. `P26` não pode abrir o capítulo;
+5. `P26` não pode redefinir a memória retroativamente como representação.
+
+### subparte E1 — fixação mediada ulterior
+- a memória permite que algo do apreendido seja retomável;
+- essa retomabilidade pode abrir caminho à representação;
+- mas a representação ainda não ocupa o centro.
+
+### subparte E2 — forma operável do apreendido
+- o apreendido pode começar a ganhar forma;
+- essa forma ainda depende da estabilização memorial;
+- não se deve saltar para linguagem, símbolo ou sistema.
+
+### subparte E3 — fronteira com o Capítulo 6
+- quando símbolo, linguagem e mediação passarem a cabeça positiva, já se entrou no `Capítulo 6`;
+- `P26` só pode aparecer aqui como limiar;
+- `P27–P29` ficam fora da estrutura positiva do `Capítulo 5`.
+
+### travão interno
+`P26` deve entrar tarde, curto e subordinado.
+
+Se `P26` exigir desenvolvimento próprio, a estrutura já saiu do `Capítulo 5`.
+
+---
+
+## Parte F — Fecho terminal subordinado: `P31/P34`
+
+### função local
+Indicar apenas o horizonte terminal em que a memória, por preparar representação, também prepara a possibilidade futura de adequação ou desadequação.
+
+### conteúdo mínimo
+1. a representação futura poderá ajustar-se ou desajustar-se ao real;
+2. a verdade exigirá adequação sob critério submetido ao real;
+3. erro e correção pertencem a um regime posterior;
+4. `P31/P34` só entram como fecho terminal subordinado;
+5. o capítulo não se torna pré-`Capítulo 7`.
+
+### subparte F1 — possibilidade futura de ajustamento
+- a memória prepara a representação;
+- a representação futura poderá ser adequada ou inadequada;
+- esta possibilidade ainda não comanda o capítulo.
+
+### subparte F2 — verdade apenas terminal
+- a verdade não abre o `Capítulo 5`;
+- o critério não abre o `Capítulo 5`;
+- a correção não abre o `Capítulo 5`.
+
+### subparte F3 — entrega ao capítulo seguinte
+- o fecho deve entregar a sequência para representação, mediação, linguagem e sentido;
+- não deve fechar como se o capítulo já tivesse resolvido verdade, erro e correção.
+
+### travão interno
+Não transformar o fecho terminal em corpo epistemológico.
+
+`P31/P34` devem funcionar como bordo de passagem, não como culminação soberana.
+
+---
+
+## IV. Ordem interna mínima obrigatória
+
+A ordem mínima do `Capítulo 5` deve ser esta:
+
+1. **`P23/P24` — humano situado, localidade e apreensão**
+2. **persistência da relação apreendida**
+3. **`P25` — memória como estabilização temporal interna**
+4. **durabilidade, operatividade e seletividade**
+5. **distinções imediatas de proteção**
+6. **`P26` como derivação ulterior**
+7. **`P31/P34` como fecho terminal subordinado**
+8. **entrega ao `Capítulo 6`**
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente proibido:
+- abrir por memória em abstrato;
+- abrir por tempo vivido;
+- abrir por consciência temporal;
+- abrir por identidade;
+- abrir por sujeito;
+- abrir por representação;
+- abrir por linguagem;
+- abrir por verdade;
+- abrir por erro ou correção.
+
+---
+
+## V. Minicapítulos internos provisórios
+
+Para efeitos de povoamento e futura redação, o `Capítulo 5` passa a trabalhar com estes minicapítulos provisórios:
+
+### M1 — Humano situado, localidade e apreensão
+Função: reabrir baixo por `P23/P24` sem repetir o `Capítulo 4`.
+
+### M2 — Não-extinção da relação apreendida
+Função: mostrar que a apreensão deixa inscrição interna mínima.
+
+### M3 — Memória como estabilização temporal interna
+Função: fazer entrar `P25` como centro próprio do capítulo.
+
+### M4 — Durabilidade, operatividade e seletividade
+Função: densificar `P25` sem criar subcentros autónomos.
+
+### M5 — Distinções de proteção
+Função: distinguir memória de continuidade bruta, arquivo, tempo vivido, identidade, reflexividade forte e representação.
+
+### M6 — Limiar de `P26`
+Função: preparar a fixação mediada ulterior sem abrir o `Capítulo 6`.
+
+### M7 — Fecho terminal por `P31/P34`
+Função: nomear apenas o horizonte de adequação e verdade sem abrir o `Capítulo 7`.
+
+### nota de prudência
+`M4`, `M6` e `M7` são os minicapítulos mais perigosos.
+
+- `M4` pode autonomizar durabilidade, operatividade ou seletividade;
+- `M6` pode entregar cedo demais o capítulo à representação;
+- `M7` pode transformar o capítulo em pré-epistemologia.
+
+Devem ser curtos, subordinados e fortemente travados.
+
+---
+
+## VI. Fronteiras de não-fusão
+
+### não fundir com o Capítulo 4
+O `Capítulo 5` não deve regressar a:
+- constituição situada geral da reflexividade;
+- consciência;
+- sujeito;
+- presença de si;
+- autorrelação;
+- interioridade.
+
+A fronteira é esta:
+
+> no `Capítulo 4`, `P25` serve outro centro; no `Capítulo 5`, `P25` passa a comandar o capítulo.
+
+### não fundir com o Capítulo 6
+O `Capítulo 5` não deve absorver:
+- símbolo;
+- linguagem;
+- mediação como centro próprio;
+- representação estabilizada;
+- sentido linguístico;
+- comunicação.
+
+A fronteira é esta:
+
+> `P26` pode ser preparado, mas quando representação e mediação comandam, já não se está no `Capítulo 5`.
+
+### não fundir com o Capítulo 7
+O `Capítulo 5` não deve absorver:
+- critério;
+- verdade;
+- erro;
+- correção;
+- adequação como centro próprio;
+- regime epistemológico desenvolvido.
+
+A fronteira é esta:
+
+> `P31/P34` só podem entrar como fecho terminal subordinado.
+
+### não fundir com peças laterais
+O `Capítulo 5` não decide:
+- ordem global dos problemas;
+- reconhecimento filosófico disciplinado;
+- arquitetura total da obra;
+- crítica sistémica tardia.
+
+`CF17` e `CF18` só entram lateralmente como travões e instrumentos de reconhecimento, nunca como conteúdo positivo.
+
+---
+
+## VII. Travões locais de crescimento
+
+### travão 1 — anti-tempo vivido
+O capítulo não pode abrir por experiência subjetiva do tempo.
+
+### travão 2 — anti-identidade
+A memória não pode ser convertida em identidade narrativa, unidade do eu ou continuidade pessoal forte.
+
+### travão 3 — anti-arquivo
+A memória não pode ser reduzida a depósito passivo, arquivo neutro ou retenção mecânica.
+
+### travão 4 — anti-continuidade bruta
+Nem toda a permanência é memória.
+A memória exige estabilização interna operante da relação apreendida.
+
+### travão 5 — anti-representação precoce
+`P26` não pode abrir o capítulo nem redefinir retroativamente `P25`.
+
+### travão 6 — anti-linguagem
+Símbolo, linguagem, signo, sentido e comunicação ficam fora da cabeça do capítulo.
+
+### travão 7 — anti-epistemologia terminal inflacionada
+`P31/P34` só entram terminalmente.
+Não podem transformar o capítulo em teoria da verdade ou da correção.
+
+### travão 8 — anti-sujeito
+Nada de sujeito soberano, presença de si ou consciência temporal como centro.
+
+### travão 9 — anti-sistema
+Nada de cultura, instituição, técnica, sistema ou crítica do fechamento simbólico.
+
+---
+
+## VIII. Fórmula estrutural curta
+
+> **P23/P24 → persistência da relação apreendida → P25 → distinções de proteção → P26 subordinado → P31/P34 terminal**
+
+---
+
+## IX. Fórmula final curta
+
+> O `Capítulo 5` deve abrir pelo humano situado que apreende o real, mostrar que essa relação não se apaga no instante, fazer entrar a memória como estabilização temporal interna, durável, operante e seletiva dessa relação, protegê-la contra continuidade bruta, arquivo, tempo vivido, identidade e representação, e só depois preparar `P26` e `P31/P34` como derivações subordinadas.
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-02-materiais-positivos-md"></a>
+### 02_materiais_positivos
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/02_materiais_positivos.md`
+
+# 02_materiais_positivos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais positivos mínimos** que já sustentam o povoamento local do **Capítulo 5 — memória, permanência interna e identidade temporal mínima**;
+- distinguir entre materiais **nucleares**, **de apoio**, **de ponte** e **sob vigilância**;
+- impedir que o capítulo seja povoado por simples afinidade temática com tempo, consciência, sujeito, identidade, representação ou linguagem;
+- preparar a abertura posterior de `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não transforma o `Capítulo 5` em teoria geral da memória;
+- não transforma `P25` em psicologia, fenomenologia do tempo, identidade pessoal ou arquivo interior;
+- não importa para a cabeça do capítulo materiais que pertençam melhor ao `Capítulo 4`, ao `Capítulo 6`, ao `Capítulo 7` ou às peças laterais;
+- não usa materiais só porque falam de tempo, consciência, pensamento, símbolo, linguagem, verdade ou correção;
+- não autoriza ainda redação corrida.
+
+### regra decisiva
+> no `Capítulo 5`, só entra como material positivo aquilo que sustente a memória enquanto estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real num ente humano localizado.
+
+---
+
+## II. Corredor positivo local do capítulo
+
+O corredor positivo local do `Capítulo 5` permanece este:
+
+1. **`P23/P24` — humano situado, localidade e apreensão**
+2. **persistência da relação apreendida**
+3. **`P25` — memória como estabilização temporal interna**
+4. **durabilidade, operatividade e seletividade**
+5. **distinções imediatas de proteção**
+6. **`P26` como derivação ulterior**
+7. **`P31/P34` como fecho terminal subordinado**
+8. **entrega ao `Capítulo 6`**
+
+### consequência de mapeamento
+Isto obriga a uma seleção dura:
+- o núcleo positivo do capítulo deve ser carregado sobretudo por materiais de **humano situado**, **apreensão localizada**, **continuidade interna**, **inscrição durável**, **estabilização temporal** e **retomabilidade da relação ao real**;
+- materiais de representação, símbolo, linguagem, verdade, erro e correção só entram em **regime terminal, subordinado ou de ponte**;
+- materiais de tempo vivido, consciência temporal, identidade narrativa ou sujeito ficam fora da cabeça positiva, ainda que possam ser importantes como desvio a bloquear no ficheiro crítico.
+
+---
+
+## III. Materiais nucleares por minicapítulo interno
+
+## M1 — Humano situado, localidade e apreensão
+
+### materiais nucleares prioritários
+- `P23`
+- `P24`
+- materiais já estabilizados sobre humano como ente localizado no real;
+- materiais já estabilizados sobre apreensão situada;
+- materiais já estabilizados sobre não-exterioridade da apreensão.
+
+### fragmentos de apoio herdados da abertura baixa
+- `F0241_A23_SEG_001`
+- `F0076_SEG_002`
+- `F0121_A01_SEG_001`
+- `F0039_SEG_001`
+- `F0090_A01_SEG_004`
+
+### papel estrutural
+- `P23` fixa que nada apreende de fora do real;
+- `P24` fixa que o humano é ente situado e localizado no real;
+- os fragmentos de apoio herdados reforçam que o humano não entra como sujeito soberano, mas como ente situado, corporal, afetável e localizado;
+- estes materiais impedem que a memória apareça como faculdade interior abstrata ou como conteúdo psicológico solto.
+
+### fórmula local de uso
+Estes materiais devem suportar a abertura do capítulo:
+
+> a memória só pode ser pensada depois de haver um ente humano situado que apreende localmente o real.
+
+### regra de contenção
+`M1` deve ser curto.
+
+A função desta banda é abrir o chão ativo do capítulo, não repetir o `Capítulo 4` nem regressar ao `Capítulo 3`.
+
+---
+
+## M2 — Não-extinção da relação apreendida
+
+### materiais nucleares prioritários
+- `P25`
+- formulação consolidada da não-extinção da relação apreendida;
+- materiais sobre inscrição interna durável da relação com o real;
+- materiais sobre continuidade temporal interna da apreensão.
+
+### fragmentos de apoio direto
+- `F0086_SEG_002`
+- `F0097_A02_SEG_001`
+- `F0241_A24_SEG_003`
+- `F0241_A25_SEG_002`
+
+### papel estrutural
+Estes materiais sustentam o ponto de passagem entre a apreensão situada e a memória propriamente dita:
+
+- a apreensão não desaparece inteiramente no instante;
+- a relação apreendida deixa inscrição interna;
+- essa inscrição é temporalmente estável;
+- a estabilização ainda não é representação;
+- a estabilização ainda não é linguagem;
+- a estabilização ainda não é identidade narrativa.
+
+### fórmula local de uso
+Esta banda deve conseguir dizer:
+
+> aquilo que foi apreendido no real não se apaga como se nunca tivesse ocorrido; deixa uma permanência interna mínima que torna possível memória.
+
+### regra de contenção
+Não transformar esta parte em teoria do tempo.
+
+O tempo só entra enquanto dimensão da permanência interna da relação apreendida.
+
+---
+
+## M3 — `P25` como centro próprio: memória
+
+### materiais nucleares prioritários
+- `P25`
+- `D_MEMORIA`
+- `ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA`
+- formulação canónica do corredor `P25_P30`;
+- materiais de apoio final de `P25`.
+
+### fragmentos nucleares de apoio final
+- `F0086_SEG_002`
+- `F0097_A02_SEG_001`
+- `F0241_A24_SEG_003`
+- `F0241_A25_SEG_002`
+
+### papel estrutural
+Estes materiais são o centro positivo do capítulo.
+
+Devem sustentar que:
+- a memória é estabilização temporal interna;
+- essa estabilização incide sobre atualizações apreendidas;
+- a memória é inscrição durável da relação ao real;
+- a memória condiciona apreensões ulteriores;
+- a memória não é arquivo neutro;
+- a memória não é depósito passivo;
+- a memória não é representação já formada.
+
+### formulação positiva de uso
+A formulação positiva de trabalho é:
+
+> a memória é a estabilização temporal interna das atualizações apreendidas por um ente localizado: inscrição durável e operante da relação com o real, sem se reduzir a arquivo neutro e sem ainda coincidir com representação.
+
+### regra de contenção
+O centro é `P25`.
+
+Não deixar que:
+- `D_MEMORIA` se torne faculdade psicológica autónoma;
+- a inscrição durável se torne identidade pessoal;
+- a operatividade se torne representação;
+- a seletividade se torne interpretação linguística.
+
+---
+
+## M4 — Durabilidade, operatividade e seletividade
+
+### materiais nucleares prioritários
+- formulação canónica de `P25`;
+- `ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA`;
+- materiais de apoio final de `P25`;
+- materiais que sustentem a permanência interna sem a converter em arquivo.
+
+### fragmentos de apoio direto
+- `F0086_SEG_002`
+- `F0097_A02_SEG_001`
+- `F0241_A24_SEG_003`
+- `F0241_A25_SEG_002`
+
+### papel estrutural
+Esta banda densifica `P25`.
+
+A memória deve ser caracterizada como:
+
+#### durável
+- porque a relação apreendida não se extingue no instante;
+- porque deixa inscrição temporal interna;
+- porque permite continuidade da relação ao real.
+
+#### operante
+- porque condiciona apreensões ulteriores;
+- porque não é depósito passivo;
+- porque intervém no modo como o ente situado se relaciona novamente com o real.
+
+#### seletiva
+- porque não conserva tudo indistintamente;
+- porque estabiliza diferenças relevantes;
+- porque não equivale a permanência indiferenciada.
+
+### fórmula local de uso
+Esta banda deve servir para dizer:
+
+> a memória conserva operativamente algo da relação apreendida, mas conserva-o de modo seletivo e interno, não como arquivo total nem como representação pronta.
+
+### regra de contenção
+`durável`, `operante` e `seletiva` não são três centros.
+
+São três qualificações internas de `P25`.
+
+---
+
+## M5 — Distinções positivas de proteção
+
+### materiais nucleares prioritários
+- proteções internas de `P25`;
+- formulação canónica do corredor `P25_P30`;
+- distinções já estabilizadas contra arquivo, representação e identidade.
+
+### distinções positivas a fixar
+A memória deve ser distinguida de:
+
+1. **continuidade bruta**
+2. **rasto inerte**
+3. **arquivo neutro**
+4. **depósito passivo**
+5. **retenção mecânica**
+6. **tempo vivido**
+7. **consciência temporal**
+8. **identidade narrativa**
+9. **reflexividade forte**
+10. **representação plena**
+11. **linguagem**
+
+### papel estrutural
+Estas distinções não são ainda crítica desenvolvida.
+
+Funcionam como proteção positiva do centro:
+- mostram o que a memória é ao mostrar o que ela ainda não é;
+- impedem que o capítulo se dissolva por baixo em continuidade indiferenciada;
+- impedem que o capítulo suba por cima para sujeito, identidade, representação ou linguagem.
+
+### fórmula local de uso
+Esta banda deve conseguir dizer:
+
+> nem toda a permanência é memória, e nem toda a memória é representação, identidade ou consciência de si.
+
+### regra de contenção
+Não transformar as distinções em capítulo crítico.
+
+As distinções servem `P25`; não substituem `P25`.
+
+---
+
+## M6 — Limiar de `P26`
+
+### materiais de ponte admitidos
+- `P26`
+- formulação canónica de `P26`;
+- materiais do corredor `P25_P30` relativos à passagem de memória para representação;
+- fragmentos de apoio final de `P26`, apenas em regime de ponte.
+
+### fragmentos de apoio sob vigilância
+- `F0241_A25_SEG_002`
+- `F0108_A02_SEG_001`
+- `F0107_SEG_001`
+- `F0220_SEG_001`
+
+### papel estrutural
+Estes materiais podem entrar apenas para preparar a derivação ulterior:
+
+- a memória torna algo retomável;
+- essa retomabilidade prepara uma fixação mediada;
+- a fixação mediada do apreendido é já o regime de `P26`;
+- `P26` não pode redefinir a memória;
+- `P26` não pode abrir a cabeça do capítulo.
+
+### fórmula local de uso
+A fórmula admissível é:
+
+> só depois de a memória estar fixada como estabilização temporal interna é que se pode preparar a representação como fixação mediada do apreendido.
+
+### regra de contenção
+`P26` entra tarde, curto e subordinado.
+
+Se os materiais de `P26` começarem a exigir símbolo, linguagem, sistema ou mediação desenvolvida, saem do `Capítulo 5` e passam para o `Capítulo 6`.
+
+---
+
+## M7 — Fecho terminal por `P31/P34`
+
+### materiais de ponte admitidos
+- `P31`
+- `P34`
+- formulações canónicas mínimas sobre ajustamento, desajustamento e verdade;
+- materiais do corredor `P33_P37`, apenas como horizonte terminal subordinado.
+
+### papel estrutural
+Estes materiais podem entrar apenas para indicar que:
+
+- a memória prepara representação;
+- a representação futura poderá ajustar-se ou desajustar-se ao real;
+- a verdade só se tornará problema próprio quando houver representação sob critério;
+- o capítulo não é ainda capítulo da verdade, do erro ou da correção.
+
+### fórmula local de uso
+A fórmula admissível é:
+
+> a memória prepara a possibilidade futura de representação adequada ou inadequada, mas não decide ainda a verdade, o erro ou a correção.
+
+### regra de contenção
+`P31/P34` não podem ocupar o corpo do capítulo.
+
+Entram apenas como bordo terminal e entrega para os capítulos posteriores.
+
+---
+
+## IV. Materiais de apoio ou ponte que podem entrar, mas não governar
+
+### apoio baixo ainda legítimo
+- materiais de `P23/P24` sobre humano situado e apreensão localizada;
+- materiais de continuidade corporal e estabilização interna herdados do `Capítulo 3`;
+- materiais de abertura situada herdados do `Capítulo 4`, desde que rebaixados ao serviço de `P25`.
+
+### apoio de ponte para `P26`
+- materiais que mostrem que a memória torna possível retomabilidade;
+- materiais que preparem a fixação mediada;
+- materiais que distingam memória de representação.
+
+### apoio terminal para `P31/P34`
+- materiais que indiquem apenas a possibilidade futura de adequação ou desadequação;
+- materiais que mantenham a verdade subordinada a representação e critério;
+- materiais que não transformem o capítulo em epistemologia.
+
+### regra de uso
+Os materiais deste grupo:
+- podem densificar o capítulo;
+- não podem governar a sua cabeça;
+- não podem obrigar à subida para `Capítulo 6` ou `Capítulo 7`;
+- não podem transformar `P25` em simples passagem para outra coisa.
+
+---
+
+## V. Materiais positivos que ficam fora da cabeça do capítulo
+
+### fora por pertencerem melhor ao Capítulo 4
+- consciência;
+- sujeito;
+- reflexividade;
+- autorrelação;
+- presença de si;
+- constituição situada geral da reflexividade.
+
+### fora por pertencerem melhor ao Capítulo 6
+- símbolo;
+- linguagem;
+- mediação como centro próprio;
+- representação desenvolvida;
+- comunicação;
+- sistema simbólico;
+- sentido linguístico.
+
+### fora por pertencerem melhor ao Capítulo 7
+- adequação como corpo próprio;
+- critério;
+- verdade;
+- erro;
+- correção;
+- reinscrição epistemológica desenvolvida.
+
+### fora por serem demasiado fenomenológicos
+- tempo vivido;
+- consciência temporal;
+- experiência subjetiva do tempo;
+- fluxo interno do sujeito.
+
+### fora por serem demasiado identitários
+- identidade narrativa;
+- continuidade pessoal;
+- unidade do eu;
+- história de si;
+- sujeito temporal.
+
+### fora por serem demasiado críticos ou tardios
+- crítica sistémica;
+- cultura;
+- instituição;
+- tecnologia;
+- direito;
+- fechamento simbólico;
+- substituição do real por sistema.
+
+### justificação
+O `Capítulo 5` não é lugar para corpo positivo desenvolvido dessas zonas.
+
+Quando muito, prepara algumas delas.
+
+---
+
+## VI. Distribuição resumida dos materiais positivos do Capítulo 5
+
+### núcleo duro
+- `P23`
+- `P24`
+- `P25`
+- `D_MEMORIA`
+- `ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA`
+- formulação canónica de `P25`
+- fragmentos de apoio final de `P25`:
+  - `F0086_SEG_002`
+  - `F0097_A02_SEG_001`
+  - `F0241_A24_SEG_003`
+  - `F0241_A25_SEG_002`
+
+### segunda cintura legítima
+- materiais de humano situado e apreensão localizada:
+  - `F0241_A23_SEG_001`
+  - `F0076_SEG_002`
+  - `F0121_A01_SEG_001`
+  - `F0039_SEG_001`
+  - `F0090_A01_SEG_004`
+- materiais do corredor `P25_P30` que sustentem a precedência de memória face à representação.
+
+### ponte ulterior sob vigilância
+- `P26`
+- fragmentos de apoio final de `P26`:
+  - `F0241_A25_SEG_002`
+  - `F0108_A02_SEG_001`
+  - `F0107_SEG_001`
+  - `F0220_SEG_001`
+
+### bordo terminal sob forte vigilância
+- `P31`
+- `P34`
+- materiais mínimos de adequação e verdade;
+- materiais do corredor `P33_P37`, apenas em função terminal e subordinada.
+
+---
+
+## VII. Lacuna positiva remanescente do capítulo
+
+A principal lacuna positiva do `Capítulo 5` não é falta de formulação estrutural de `P25`.
+
+Essa formulação já existe e é forte.
+
+A lacuna principal está noutro ponto:
+
+> **como dar corpo suficiente à memória enquanto estabilização temporal interna sem a converter em tempo vivido, identidade narrativa, representação ou psicologia da memória.**
+
+### consequência
+Na próxima peça, será preciso vigiar especialmente:
+- a suficiência real dos fragmentos de apoio de `P25`;
+- a secura da passagem `P23/P24 → P25`;
+- a fronteira entre memória e continuidade bruta;
+- a fronteira entre memória e representação;
+- a tentação de deixar `P26` entrar cedo demais;
+- a tentação de deixar `P31/P34` fechar o capítulo como se já fosse capítulo da verdade.
+
+---
+
+## VIII. Fórmula final curta
+
+> O `Capítulo 5` já tem matéria positiva bastante para abrir por humano situado e apreensão localizada, fazer entrar `P25` como memória enquanto estabilização temporal interna, durável, operante e seletiva da relação ao real, e preparar apenas ulteriormente `P26` e `P31/P34`; mas o seu povoamento deve permanecer seco, porque qualquer excesso transforma memória em tempo vivido, identidade, representação ou verdade.
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-03-materiais-criticos-md"></a>
+### 03_materiais_criticos
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/03_materiais_criticos.md`
+
+# 03_materiais_criticos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais críticos** e os **travões de uso** do **Capítulo 5 — memória, permanência interna e identidade temporal mínima**;
+- identificar os falsos centros que ameaçam deslocar `P25`;
+- distinguir entre crítica interna legítima, materiais de fronteira e materiais que devem ficar fora do capítulo;
+- impedir que a memória seja capturada por tempo vivido, consciência temporal, identidade do sujeito, representação, linguagem, verdade, erro, correção ou crítica sistémica;
+- preparar a passagem a `04_lacunas_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige o capítulo;
+- não substitui `02_materiais_positivos.md`;
+- não transforma o capítulo em crítica da memória;
+- não transforma a memória em psicologia, fenomenologia, identidade narrativa ou teoria do sujeito;
+- não antecipa `Capítulo 6`;
+- não antecipa `Capítulo 7`;
+- não usa crítica sistémica tardia como centro;
+- não autoriza ainda redação corrida.
+
+### regra decisiva
+> no `Capítulo 5`, a crítica serve apenas para proteger `P25`: memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real num ente humano localizado.
+
+---
+
+## II. Núcleo crítico do capítulo
+
+O núcleo crítico do `Capítulo 5` é este:
+
+> **não deixar a memória dissolver-se por baixo em continuidade bruta, rasto inerte ou arquivo neutro; nem deixar a memória ser absorvida por cima em tempo vivido, consciência temporal, identidade narrativa, representação, linguagem ou verdade.**
+
+### dupla ameaça principal
+
+#### ameaça por baixo
+A memória pode ser reduzida a:
+- continuidade bruta;
+- permanência indiferenciada;
+- rasto inerte;
+- depósito passivo;
+- arquivo neutro;
+- retenção mecânica;
+- passado guardado;
+- simples não-extinção.
+
+#### ameaça por cima
+A memória pode ser absorvida por:
+- tempo vivido;
+- consciência temporal;
+- identidade do sujeito;
+- continuidade narrativa do eu;
+- presença de si;
+- reflexividade forte;
+- representação antecipada;
+- linguagem;
+- verdade;
+- erro;
+- correção.
+
+### consequência crítica
+O capítulo deve manter uma posição estreita:
+
+> **a memória é mais do que continuidade bruta e menos do que representação, identidade ou consciência temporal.**
+
+---
+
+## III. Falso centro dominante
+
+### falso centro principal
+O falso centro dominante é:
+
+> **tempo vivido / consciência temporal / identidade do sujeito.**
+
+### por que é falso
+É falso porque faz o capítulo começar alto demais.
+
+Quando o capítulo abre por tempo vivido, consciência temporal ou identidade, `P25` deixa de aparecer como estabilização temporal interna da relação ao real e passa a aparecer como:
+- experiência subjetiva do tempo;
+- consciência de si no tempo;
+- unidade narrativa do sujeito;
+- permanência do eu;
+- memória já convertida em identidade.
+
+### efeito sobre o capítulo
+Esse falso centro:
+- apaga `P23/P24`;
+- torna a abertura baixa dispensável;
+- pressupõe sujeito já constituído;
+- confunde memória com interioridade;
+- antecipa `Capítulo 4` por trás e `Capítulo 6` por cima;
+- transforma `P25` em camada derivada em vez de centro próprio.
+
+### fórmula crítica curta
+> O `Capítulo 5` não pergunta primeiro como o sujeito vive o tempo; pergunta como a relação apreendida ao real permanece internamente num ente situado.
+
+---
+
+## IV. Capturas críticas derivadas
+
+## 1. Captura por continuidade bruta
+
+### forma do desvio
+A memória é tratada como simples permanência.
+
+### sinais do desvio
+- falar de continuidade sem operação;
+- falar de rasto sem seletividade;
+- falar de duração sem relação apreendida;
+- falar de permanência sem ente localizado;
+- tratar o passado como depósito.
+
+### por que é erro
+Nem tudo o que permanece é memória.
+
+A memória exige:
+- inscrição interna;
+- relação ao real;
+- operação;
+- seletividade;
+- capacidade de condicionar apreensões ulteriores.
+
+### travão local
+> continuidade é condição de possibilidade; memória é estabilização temporal interna operante.
+
+---
+
+## 2. Captura por arquivo neutro
+
+### forma do desvio
+A memória é tratada como armazenamento.
+
+### sinais do desvio
+- depósito de conteúdos;
+- coleção de imagens internas;
+- arquivo mental;
+- conservação indiferenciada;
+- retenção mecânica.
+
+### por que é erro
+A memória não é um armazém interior.
+
+Ela não conserva simplesmente “coisas”.
+Ela estabiliza internamente relações apreendidas ao real.
+
+### travão local
+> a memória conserva operativamente a relação, não conteúdos mortos.
+
+---
+
+## 3. Captura por tempo vivido
+
+### forma do desvio
+A memória é reescrita como experiência subjetiva do tempo.
+
+### sinais do desvio
+- abertura por fluxo temporal;
+- abertura por vivência;
+- abertura por duração interior;
+- abertura por fenomenologia do tempo;
+- centralidade da experiência temporal do sujeito.
+
+### por que é erro
+O tempo relevante para o capítulo não é categoria fenomenológica autónoma.
+
+É a dimensão interna da permanência da relação apreendida ao real.
+
+### travão local
+> o tempo entra no capítulo apenas reinscrito na relação ao real.
+
+---
+
+## 4. Captura por consciência temporal
+
+### forma do desvio
+A memória é tratada como consciência de si no tempo.
+
+### sinais do desvio
+- consciência temporal como cabeça;
+- sujeito que se acompanha no tempo;
+- presença de si;
+- autorreconhecimento temporal;
+- interioridade temporalizada.
+
+### por que é erro
+Isto pressupõe tarde demais aquilo que o capítulo ainda está a preparar.
+
+O `Capítulo 5` não parte da consciência temporal; parte da estabilização temporal interna que pode, mais tarde, contribuir para formas reflexivas mais fortes.
+
+### travão local
+> a memória pode preparar consciência temporal, mas não começa como consciência temporal.
+
+---
+
+## 5. Captura por identidade narrativa
+
+### forma do desvio
+A memória é convertida em identidade pessoal.
+
+### sinais do desvio
+- unidade do eu;
+- história de si;
+- continuidade pessoal;
+- narrativa biográfica;
+- sujeito que se reconhece como o mesmo.
+
+### por que é erro
+A identidade narrativa já exige camadas de representação, linguagem e organização simbólica.
+
+Essas camadas pertencem a regimes posteriores.
+
+### travão local
+> o capítulo pode admitir identidade temporal mínima apenas como horizonte terminal fraco, nunca como centro.
+
+---
+
+## 6. Captura por reflexividade forte
+
+### forma do desvio
+A memória é reabsorvida pelo `Capítulo 4`.
+
+### sinais do desvio
+- memória como relação consigo;
+- memória como interioridade reflexiva;
+- memória como consciência de si;
+- memória como sujeito já estabilizado.
+
+### por que é erro
+No `Capítulo 4`, `P25` era subordinado à constituição situada da reflexividade.
+
+No `Capítulo 5`, `P25` deve comandar o capítulo como centro próprio.
+
+Mas isso não significa transformar memória em sujeito.
+
+### travão local
+> o `Capítulo 5` vem depois do `Capítulo 4`, mas não é continuação livre da teoria da consciência.
+
+---
+
+## 7. Captura por representação — `P26`
+
+### forma do desvio
+`P26` sobe cedo demais.
+
+### sinais do desvio
+- memória tratada como representação já formada;
+- fixação mediada a comandar o capítulo;
+- símbolo ou imagem a explicar a memória;
+- linguagem a entrar antes da estabilização temporal estar fixada;
+- retomabilidade confundida com representação plena.
+
+### por que é erro
+`P26` é derivação ulterior.
+
+Só pode entrar depois de `P25` estar positivamente fixado.
+
+### travão local
+> a memória torna possível fixação representacional ulterior; não é ainda essa fixação.
+
+---
+
+## 8. Captura por linguagem, símbolo e sentido
+
+### forma do desvio
+A memória é puxada para o `Capítulo 6`.
+
+### sinais do desvio
+- linguagem como forma de estabilização da memória;
+- símbolo como corpo principal;
+- sentido linguístico;
+- comunicação;
+- sistema simbólico;
+- mediação cultural.
+
+### por que é erro
+O `Capítulo 5` prepara a passagem para linguagem e símbolo, mas não os abre.
+
+Quando símbolo, linguagem e sentido comandam, já se saiu do `Capítulo 5`.
+
+### travão local
+> a memória antecede a linguagem enquanto estabilização interna; a linguagem é uma fixação ulterior.
+
+---
+
+## 9. Captura por verdade, erro e correção — `P31/P34`
+
+### forma do desvio
+`P31/P34` reocupam o centro.
+
+### sinais do desvio
+- adequação a comandar a memória;
+- verdade como finalidade do capítulo;
+- erro e correção a fecharem o capítulo por dentro;
+- critério como medida principal;
+- memória tratada como pré-epistemologia.
+
+### por que é erro
+A memória pode preparar representação futura, e a representação futura pode ser julgada por adequação.
+
+Mas esse julgamento pertence ao regime posterior da verdade, erro e correção.
+
+### travão local
+> `P31/P34` entram apenas terminalmente, como bordo subordinado, nunca como cabeça.
+
+---
+
+## 10. Captura por crítica sistémica tardia
+
+### forma do desvio
+A memória é usada para explicar cultura, sistema, instituição ou fechamento simbólico.
+
+### sinais do desvio
+- memória coletiva como sistema;
+- tradição;
+- cultura;
+- instituição;
+- direito;
+- técnica;
+- cristalização social;
+- substituição do real por sistema;
+- crítica do discurso dominante.
+
+### por que é erro
+Esses materiais podem ser importantes noutros capítulos.
+
+Mas entram demasiado tarde para o `Capítulo 5`.
+
+O `Capítulo 5` ainda está a fixar a permanência interna da relação apreendida ao real.
+
+### travão local
+> crítica sistémica tardia fica fora; aqui só há crítica interna de proteção de `P25`.
+
+---
+
+## V. Materiais críticos por zona interna
+
+## M1 — Abertura baixa sob risco
+
+### risco
+`P23/P24` podem cair para fundo tácito.
+
+### consequência
+Se isso acontecer, a memória fica abstrata.
+
+### travão
+A abertura deve recordar expressamente:
+- ente situado;
+- localidade;
+- apreensão;
+- relação ao real;
+- inexistência de exterioridade.
+
+### materiais críticos relevantes
+- verdade local estabilizada de `CF05`;
+- mapa mínimo de pré-exposição de `CF05`;
+- decisões das faixas `CF05/P23/P25`;
+- materiais que bloqueiam abertura por sujeito, identidade ou consciência temporal.
+
+### uso admissível
+Servem para obrigar a abertura baixa.
+
+Não servem para repetir o `Capítulo 4`.
+
+---
+
+## M2 — Persistência da relação apreendida sob risco
+
+### risco
+A persistência da relação apreendida pode parecer simples duração.
+
+### consequência
+A passagem para `P25` fica fraca.
+
+### travão
+Dizer claramente:
+- a relação apreendida não se extingue no instante;
+- mas essa não-extinção ainda não basta;
+- só há memória quando essa permanência se torna interna, operante e seletiva.
+
+### materiais críticos relevantes
+- materiais sobre continuidade;
+- materiais sobre estabilização;
+- materiais sobre inscrição durável;
+- materiais que poderiam puxar para continuidade bruta.
+
+### uso admissível
+Servem para distinguir condição de possibilidade e centro próprio.
+
+---
+
+## M3 — `P25` sob risco de inflação
+
+### risco
+`P25` pode ser inflacionado.
+
+### formas de inflação
+- memória como faculdade psicológica;
+- memória como arquivo;
+- memória como consciência temporal;
+- memória como identidade;
+- memória como representação;
+- memória como critério.
+
+### travão
+Manter `P25` na formulação estreita:
+
+> memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real.
+
+### materiais críticos relevantes
+- formulação canónica de `P25`;
+- `D_MEMORIA`;
+- materiais de apoio final de `P25`;
+- decisões de preservação do limite inicial de `CF05`.
+
+### uso admissível
+Servem para impedir que a palavra “memória” fique larga demais.
+
+---
+
+## M4 — Durabilidade, operatividade e seletividade sob risco
+
+### risco
+Os três qualificativos podem tornar-se subcentros autónomos.
+
+### formas do desvio
+- durabilidade vira identidade;
+- operatividade vira representação;
+- seletividade vira interpretação;
+- permanência vira narrativa;
+- relação conservada vira conteúdo guardado.
+
+### travão
+Os três termos devem funcionar como qualificação interna de `P25`.
+
+### uso admissível
+Servem para densificar memória, não para criar três teorias laterais.
+
+---
+
+## M5 — Distinções de proteção sob risco
+
+### risco
+As distinções podem transformar-se em crítica autónoma.
+
+### consequência
+O capítulo deixa de avançar positivamente.
+
+### travão
+As distinções devem ser curtas e instrumentais.
+
+Devem apenas impedir:
+- continuidade bruta;
+- arquivo neutro;
+- tempo vivido;
+- consciência temporal;
+- identidade narrativa;
+- reflexividade forte;
+- representação plena.
+
+### uso admissível
+São proteção do centro, não substituição do centro.
+
+---
+
+## M6 — `P26` sob vigilância forte
+
+### risco
+`P26` pode entrar cedo demais.
+
+### materiais sob vigilância
+- `P26`;
+- `D_REPRESENTACAO`;
+- materiais do corredor `P25_P30`;
+- fragmentos que tratem representação, fixação, símbolo, fala, linguagem ou mediação.
+
+### fragmentos de ponte sob vigilância
+- `F0241_A25_SEG_002`
+- `F0108_A02_SEG_001`
+- `F0107_SEG_001`
+- `F0220_SEG_001`
+
+### uso admissível
+Estes materiais só podem entrar para mostrar que a memória prepara uma fixação ulterior.
+
+### uso interdito
+Não podem:
+- abrir a cabeça do capítulo;
+- definir memória como representação;
+- puxar para símbolo;
+- puxar para linguagem;
+- iniciar `Capítulo 6`.
+
+---
+
+## M7 — `P31/P34` sob vigilância terminal
+
+### risco
+O fecho terminal pode crescer para epistemologia.
+
+### materiais sob vigilância
+- `P31`;
+- `P34`;
+- corredor `P33_P37`;
+- materiais de adequação;
+- materiais de verdade;
+- materiais de erro;
+- materiais de correção.
+
+### uso admissível
+Podem entrar apenas para dizer:
+
+> a memória prepara representação futura, e só a representação futura poderá ser julgada como adequada ou inadequada ao real.
+
+### uso interdito
+Não podem:
+- abrir o capítulo;
+- comandar o centro;
+- transformar memória em critério;
+- fazer do `Capítulo 5` uma antecâmara do `Capítulo 7`.
+
+---
+
+## VI. Materiais críticos que ficam fora do capítulo
+
+## fora por pertencerem melhor ao Capítulo 3
+
+### tipos de material
+- vivo organizado;
+- corpo;
+- organismo;
+- campo do vivo;
+- continuidade encarnada;
+- estabilização local como solo do vivo;
+- adaptação;
+- corporeidade;
+- diferença reflexiva apenas tornada possível.
+
+### justificação
+O `Capítulo 5` pressupõe esse chão.
+
+Não o reabre como centro.
+
+Quando a memória é reconduzida a continuidade corporal ou vital, o capítulo regressa por baixo e perde `P25`.
+
+### regra
+> o `Capítulo 3` prepara a possibilidade de estabilização; o `Capítulo 5` trata a estabilização temporal interna como memória.
+
+---
+
+## fora por pertencerem melhor ao Capítulo 4
+
+### tipos de material
+- consciência;
+- sujeito;
+- reflexividade;
+- relação consigo;
+- interioridade;
+- presença de si;
+- autoconsciência;
+- pensamento em ato;
+- fala enquanto expressão reflexiva.
+
+### materiais sob especial vigilância
+- `F0276`
+- `F0277`
+- `F0278`
+
+### justificação
+Estes materiais podem iluminar a fronteira, mas puxam facilmente para pensamento, fala, símbolo, consciência ou subjetividade.
+
+No `Capítulo 5`, só entram se forem rebaixados a travão contra a absorção da memória por reflexividade forte.
+
+### regra
+> o `Capítulo 5` não pode regressar à constituição situada do sujeito.
+
+---
+
+## fora por pertencerem melhor ao Capítulo 6
+
+### tipos de material
+- representação desenvolvida;
+- símbolo;
+- linguagem;
+- sentido;
+- mediação;
+- comunicação;
+- sistema simbólico;
+- fixação linguística.
+
+### materiais sob vigilância
+- materiais de `P26` quando deixam de ser ponte;
+- materiais de `D_REPRESENTACAO`;
+- materiais de `D_LINGUAGEM`;
+- materiais de mediação simbólica.
+
+### justificação
+A memória prepara a possibilidade de fixação representacional, mas ainda não é linguagem nem símbolo.
+
+### regra
+> quando a fixação mediada passa a mandar, o texto já pertence ao `Capítulo 6`.
+
+---
+
+## fora por pertencerem melhor ao Capítulo 7
+
+### tipos de material
+- adequação;
+- critério;
+- verdade;
+- erro;
+- correção;
+- desadequação;
+- reinscrição corretiva;
+- submissão epistemológica ao real.
+
+### materiais sob vigilância
+- `P31`
+- `P34`
+- `P33_P37`
+- materiais de `D_ADEQUACAO`
+- materiais de `D_CRITERIO`
+- materiais de `D_VERDADE`
+- materiais de `D_ERRO_ONTOLOGICO`
+- materiais de `D_CORRECAO`
+
+### justificação
+A memória não decide verdade.
+
+A memória apenas prepara condições remotas para que uma representação futura possa vir a ser adequada ou inadequada.
+
+### regra
+> verdade, erro e correção são bordo terminal; não são corpo de `Capítulo 5`.
+
+---
+
+## fora por serem já práticos, éticos ou crítico-sistémicos
+
+### materiais exemplares sob deslocamento
+- `F0004_SEG_001`
+- `F0005_SEG_001`
+- `F0006_SEG_001`
+- `F0007_SEG_001`
+- `F0008_SEG_001`
+- `F0009_SEG_001`
+- `F0012_SEG_001`
+- `F0013_SEG_001`
+- `F0015_SEG_001`
+
+### tipos de material
+- normatividade derivada;
+- dever-ser;
+- ação;
+- responsabilidade;
+- coordenação;
+- cultura;
+- direito;
+- instituição;
+- sistema;
+- crítica de pensamento dominante;
+- fechamento simbólico;
+- substituição do real por sistema.
+
+### justificação
+São materiais relevantes para zonas posteriores, mas entram demasiado tarde.
+
+No `Capítulo 5`, só criariam ruído.
+
+### regra
+> a memória não deve ser convertida em genealogia de cultura, sistema ou instituição.
+
+---
+
+## VII. Distribuição resumida dos materiais críticos do Capítulo 5
+
+### núcleo crítico interno
+- verdade local estabilizada de `CF05`;
+- mapa mínimo de pré-exposição de `CF05`;
+- ficha de gesto estrutural de `CF05`;
+- decisões das faixas expositivas `CF05/P23/P25`, `CF05/P25/P26` e `CF05/P26 estrito`;
+- distinção entre `P25` como centro próprio e `P26` como derivação ulterior;
+- distinção entre `P25` e `P31/P34`.
+
+### crítica de abertura
+- bloqueio de tempo vivido;
+- bloqueio de consciência temporal;
+- bloqueio de identidade do sujeito;
+- bloqueio de sujeito temporal;
+- bloqueio de reflexividade forte.
+
+### crítica de baixo
+- bloqueio de continuidade bruta;
+- bloqueio de rasto inerte;
+- bloqueio de arquivo neutro;
+- bloqueio de retenção mecânica;
+- bloqueio de depósito passivo.
+
+### crítica de cima
+- bloqueio de representação antecipada;
+- bloqueio de linguagem;
+- bloqueio de símbolo;
+- bloqueio de verdade;
+- bloqueio de erro e correção;
+- bloqueio de crítica sistémica tardia.
+
+### materiais de ponte sob vigilância
+- `P26`;
+- `F0241_A25_SEG_002`;
+- `F0108_A02_SEG_001`;
+- `F0107_SEG_001`;
+- `F0220_SEG_001`.
+
+### materiais terminais sob vigilância
+- `P31`;
+- `P34`;
+- corredor `P33_P37`;
+- materiais de adequação, verdade, erro e correção.
+
+---
+
+## VIII. Regra de uso dos materiais críticos
+
+### uso permitido
+Os materiais críticos podem ser usados para:
+- impedir abertura alta;
+- impedir dissolução de `P25`;
+- distinguir memória de continuidade bruta;
+- distinguir memória de arquivo;
+- distinguir memória de tempo vivido;
+- distinguir memória de identidade;
+- distinguir memória de representação;
+- impedir `P26` de subir cedo;
+- impedir `P31/P34` de reocupar o centro;
+- manter a fronteira com capítulos vizinhos.
+
+### uso proibido
+Os materiais críticos não podem ser usados para:
+- substituir a formulação positiva de `P25`;
+- transformar o capítulo em crítica da memória;
+- abrir por fenomenologia do tempo;
+- abrir por sujeito;
+- abrir por identidade;
+- abrir por linguagem;
+- abrir por verdade;
+- abrir por erro;
+- abrir por cultura ou sistema.
+
+### regra curta
+> a crítica só entra para proteger a memória enquanto memória.
+
+---
+
+## IX. Lacuna crítica remanescente
+
+A principal lacuna crítica do `Capítulo 5` não é saber quais são os perigos.
+
+Eles já estão suficientemente identificados.
+
+A lacuna crítica real é esta:
+
+> **formular com secura bastante a diferença entre memória, continuidade, arquivo, tempo vivido, identidade, representação e verdade, sem transformar essas distinções num capítulo crítico autónomo.**
+
+### consequência
+Na futura redação, será preciso:
+- abrir baixo;
+- fazer `P25` entrar depressa, mas não abstratamente;
+- distinguir memória de continuidade bruta;
+- distinguir memória de arquivo;
+- travar tempo vivido e consciência temporal;
+- impedir identidade narrativa;
+- deixar `P26` como derivação ulterior;
+- deixar `P31/P34` como fecho terminal;
+- não chamar cultura, sistema ou crítica tardia.
+
+---
+
+## X. Fórmula final curta
+
+> O `Capítulo 5` deve defender `P25` de duas perdas simétricas: por baixo, a memória não é continuidade bruta, rasto ou arquivo; por cima, não é tempo vivido, consciência temporal, identidade, representação, linguagem, verdade ou correção. É a estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real num ente humano situado.
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-04-lacunas-do-capitulo-md"></a>
+### 04_lacunas_do_capitulo
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/04_lacunas_do_capitulo.md`
+
+# 04_lacunas_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar as **lacunas reais ainda ativas** do **Capítulo 5 — memória, permanência interna e identidade temporal mínima** depois do seu estatuto, estrutura interna, materiais positivos e materiais críticos já levantados;
+- distinguir entre:
+  - lacunas de **densificação positiva**;
+  - lacunas de **travão crítico**;
+  - lacunas de **fronteira**;
+  - lacunas de **mediação interna e terminal**;
+  - lacunas de **material fragmentário**;
+- impedir que o capítulo pareça mais fechado do que realmente está;
+- preparar a passagem disciplinada a `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não reabre `CF05`;
+- não redecide o centro local de `P25`;
+- não transforma lacunas em novo centro;
+- não autoriza ainda redação corrida;
+- não permite que as lacunas sejam preenchidas por tempo vivido, consciência temporal, identidade narrativa, representação, linguagem, verdade, erro, correção ou crítica sistémica;
+- não usa falta de densidade como pretexto para regressar ao `Capítulo 4` ou saltar para o `Capítulo 6`.
+
+### regra decisiva
+> neste capítulo, a lacuna principal já não é falta de centro: é falta de densidade seca suficiente para fazer `P25` funcionar como centro próprio sem se dissolver por baixo em continuidade ou arquivo, nem subir por cima para tempo vivido, identidade, representação, linguagem ou verdade.
+
+---
+
+## II. O que já está suficientemente ganho
+
+### ganho positivo real
+Já está suficientemente ganho, para este capítulo:
+- a abertura por `P23/P24`;
+- a necessidade de começar por humano situado, localidade e apreensão;
+- a distinção face ao `Capítulo 4`;
+- a entrada de `P25` como centro próprio;
+- a definição de memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real;
+- a distinção inicial entre memória e continuidade bruta;
+- a distinção inicial entre memória e arquivo neutro;
+- a distinção inicial entre memória e tempo vivido;
+- a distinção inicial entre memória e identidade narrativa;
+- a distinção inicial entre memória e representação plena;
+- a entrada apenas ulterior e subordinada de `P26`;
+- a entrada apenas terminal e subordinada de `P31/P34`.
+
+### consequência metodológica
+O `Capítulo 5` não sofre, neste momento, de falta de orientação local.
+
+O que lhe falta não é descobrir o seu centro.
+
+O que lhe falta é:
+- tornar esse centro suficientemente espesso para sustentar capítulo;
+- impedir que a palavra “memória” fique demasiado ampla;
+- distinguir melhor memória de continuidade, arquivo, retenção, tempo vivido e identidade;
+- controlar a entrada de `P26`;
+- controlar o fecho por `P31/P34`;
+- e garantir que a passagem para `Capítulo 6` fica preparada sem ser antecipada.
+
+### fórmula do ganho já preservado
+> a relação apreendida por um humano situado não se apaga no instante; estabiliza-se internamente de modo durável, operante e seletivo, e essa estabilização temporal interna é aqui chamada memória.
+
+---
+
+## III. Lacuna principal do capítulo
+
+A lacuna principal do `Capítulo 5` é esta:
+
+> **como transformar a formulação forte de `P25` em corpo capitular suficiente sem converter memória em psicologia da memória, fenomenologia do tempo, identidade narrativa, representação antecipada ou pré-epistemologia.**
+
+### desdobramento da lacuna principal
+Esta lacuna divide-se em seis problemas:
+
+1. a passagem `P23/P24 → P25` ainda precisa de maior secura;
+2. a diferença entre não-extinção da relação apreendida e memória propriamente dita ainda precisa de ser apertada;
+3. os qualificativos **durável**, **operante** e **seletiva** ainda precisam de densificação sem autonomização;
+4. a distinção entre memória e continuidade bruta ainda precisa de formulação mais resistente;
+5. a entrada de `P26` ainda precisa de fronteira curta;
+6. o fecho por `P31/P34` ainda precisa de permanecer terminal, sem parecer culminação epistemológica do capítulo.
+
+---
+
+## IV. Lacunas positivas ainda ativas
+
+## L1 — falta de formulação mais seca da passagem `P23/P24 → P25`
+
+### problema
+O capítulo já sabe que deve abrir por `P23/P24`.
+
+Mas a passagem para `P25` ainda corre dois riscos:
+- ou fica demasiado rápida e faz a memória parecer abstração;
+- ou fica demasiado longa e regressa ao `Capítulo 4`, como se ainda estivéssemos a constituir a reflexividade situada.
+
+### o que falta
+Falta uma fórmula curta que diga, sem excesso:
+
+- há humano situado;
+- há apreensão localizada do real;
+- a relação apreendida não se extingue no instante;
+- essa não-extinção ganha estabilização interna;
+- essa estabilização é memória.
+
+### formulação candidata
+> Porque o humano apreende localmente o real, a relação apreendida não desaparece como se nunca tivesse ocorrido; permanece internamente de modo operante. Essa permanência estabilizada é a memória.
+
+### risco se a lacuna não for preenchida
+Se esta passagem não for seca:
+- `P25` parece surgir sem chão;
+- a memória parece faculdade psicológica;
+- a abertura baixa perde função;
+- ou o capítulo volta ao `Capítulo 4`.
+
+---
+
+## L2 — distinção ainda insuficiente entre não-extinção e memória
+
+### problema
+Nem toda a não-extinção é memória.
+
+A relação apreendida pode deixar rasto, continuidade, persistência ou efeito sem que isso baste para memória em sentido próprio.
+
+### o que falta
+Falta distinguir três níveis:
+
+1. **não-extinção mínima**  
+   algo da relação apreendida não desaparece imediatamente;
+
+2. **persistência interna**  
+   essa relação deixa marca interna no ente localizado;
+
+3. **memória propriamente dita**  
+   essa persistência torna-se estabilização temporal interna, durável, operante e seletiva.
+
+### perigo
+Sem esta distinção, a memória fica demasiado larga.
+
+Tudo o que continua passaria a ser memória.
+
+Isso destruiria o centro do capítulo, porque faria `P25` colapsar em continuidade bruta.
+
+### formulação candidata
+> A memória não é o simples facto de algo continuar; é a forma interna, operante e seletiva pela qual a relação apreendida continua a pesar na relação ulterior ao real.
+
+---
+
+## L3 — densificação insuficiente de “durável”
+
+### problema
+A durabilidade da memória ainda pode ser lida como simples duração.
+
+Mas duração não basta.
+
+### o que falta
+Falta explicar que “durável” quer dizer:
+- não dissolvida no instante;
+- temporalmente retida;
+- disponível para retomabilidade;
+- ainda inscrita na relação ao real;
+- não convertida em identidade narrativa.
+
+### risco
+Se “durável” for mal formulado, desliza para:
+- permanência indiferenciada;
+- identidade temporal;
+- continuidade do eu;
+- narrativa de si.
+
+### formulação candidata
+> A memória é durável não porque funde uma identidade do sujeito, mas porque conserva, para além do instante, a possibilidade de retomada de uma relação real já apreendida.
+
+---
+
+## L4 — densificação insuficiente de “operante”
+
+### problema
+A operatividade da memória ainda precisa de ser protegida contra duas reduções:
+- memória como depósito passivo;
+- memória como representação já formada.
+
+### o que falta
+Falta mostrar que a memória opera porque:
+- condiciona novas apreensões;
+- torna o real anteriormente apreendido relevante para novas relações;
+- modifica a forma de atenção, reconhecimento e resposta;
+- sem ainda se tornar linguagem, símbolo ou representação plena.
+
+### risco
+Se “operante” for mal formulado:
+- a memória vira mecanismo psicológico;
+- ou vira representação antecipada;
+- ou vira interpretação já linguística.
+
+### formulação candidata
+> A memória é operante porque aquilo que foi apreendido permanece capaz de orientar novas apreensões, sem que essa orientação seja ainda representação, linguagem ou juízo verdadeiro.
+
+---
+
+## L5 — densificação insuficiente de “seletiva”
+
+### problema
+A seletividade da memória é necessária, mas perigosa.
+
+Se for mal formulada, pode parecer:
+- escolha subjetiva;
+- interpretação;
+- filtro linguístico;
+- vontade;
+- critério de verdade.
+
+### o que falta
+Falta dizer que a seletividade é primeiro estrutural e relacional:
+- nem tudo permanece do mesmo modo;
+- nem tudo pesa igualmente;
+- a relação ao real deixa diferenciações internas;
+- essas diferenciações estabilizadas condicionam apreensões futuras.
+
+### risco
+Se “seletiva” não for disciplinada:
+- abre-se cedo demais para linguagem;
+- abre-se cedo demais para valor;
+- abre-se cedo demais para critério;
+- transforma-se a memória em operação já interpretativa.
+
+### formulação candidata
+> A memória é seletiva porque a relação apreendida não permanece como totalidade indiferenciada; permanece segundo relevâncias, diferenças e resistências que já pertenciam à própria relação ao real.
+
+---
+
+## V. Lacunas críticas ainda ativas
+
+## L6 — distinção entre memória e continuidade bruta ainda precisa de secura
+
+### problema
+A crítica já sabe que memória não é continuidade bruta.
+
+Mas a formulação ainda precisa de ser mais curta e utilizável em escrita.
+
+### o que falta
+Falta uma frase forte contra a equivalência:
+
+> continuar ≠ lembrar.
+
+### desenvolvimento necessário
+A memória exige:
+- relação apreendida;
+- inscrição interna;
+- estabilização temporal;
+- operação;
+- seletividade;
+- retomabilidade.
+
+A continuidade bruta pode existir sem isto.
+
+### risco
+Sem esta distinção, `P25` perde o seu nível próprio e regressa ao regime ontológico geral da continuidade.
+
+---
+
+## L7 — distinção entre memória e arquivo ainda precisa de formulação
+
+### problema
+A memória pode ser capturada pela imagem de arquivo.
+
+Essa imagem é intuitiva, mas perigosa.
+
+### o que falta
+Falta dizer claramente:
+- arquivo guarda conteúdos;
+- memória estabiliza relações;
+- arquivo sugere passividade;
+- memória é operante;
+- arquivo sugere neutralidade;
+- memória é seletiva.
+
+### formulação candidata
+> A memória não arquiva coisas mortas; conserva operativamente relações apreendidas.
+
+### risco
+Se a imagem de arquivo dominar:
+- a memória fica interiorizada;
+- o real desaparece;
+- a relação torna-se conteúdo;
+- a operação torna-se armazenamento.
+
+---
+
+## L8 — distinção entre memória e tempo vivido ainda precisa de limite
+
+### problema
+O falso centro principal já foi identificado: tempo vivido / consciência temporal / identidade do sujeito.
+
+Mas ainda falta uma formulação breve que impeça a recaída.
+
+### o que falta
+Falta distinguir:
+- tempo como dimensão interna da permanência da relação apreendida;
+- tempo vivido como experiência subjetiva tematizada.
+
+O `Capítulo 5` precisa do primeiro.
+Não pode abrir pelo segundo.
+
+### formulação candidata
+> O tempo que aqui interessa não é ainda o tempo vivido por um sujeito; é a duração interna da relação apreendida num ente situado.
+
+### risco
+Sem este travão:
+- o capítulo sobe para fenomenologia;
+- `P25` passa a parecer consciência temporal;
+- a memória transforma-se em experiência subjetiva do tempo.
+
+---
+
+## L9 — distinção entre memória e identidade narrativa ainda precisa de travão
+
+### problema
+A memória prepara identidade temporal mínima, mas não pode abrir como identidade.
+
+### o que falta
+Falta uma formulação que permita falar de permanência sem falar ainda de “eu narrativo”.
+
+### distinção necessária
+- memória: estabilização temporal interna da relação apreendida;
+- identidade narrativa: organização simbólica, linguística e reflexiva de uma continuidade de si.
+
+### formulação candidata
+> A memória permite que algo permaneça para o humano situado; não basta, por si só, para constituir uma narrativa de si.
+
+### risco
+Se esta lacuna não for fechada:
+- a memória vira sujeito;
+- a identidade ocupa o centro;
+- o capítulo regressa a consciência/reflexividade ou salta para linguagem.
+
+---
+
+## L10 — distinção entre memória e representação ainda precisa de fronteira curta
+
+### problema
+`P26` é necessário, mas perigoso.
+
+A memória prepara fixação representacional, mas não é ainda representação plena.
+
+### o que falta
+Falta formular a passagem para `P26` sem que `P26` roube a cabeça do capítulo.
+
+### formulação candidata
+> A memória torna possível que o apreendido seja retomado; a representação é já a fixação mediada dessa retomabilidade.
+
+### risco
+Se a fronteira não for curta:
+- o capítulo antecipa o `Capítulo 6`;
+- linguagem e símbolo entram cedo;
+- a memória passa a ser definida por aquilo que vem depois dela.
+
+---
+
+## L11 — distinção entre memória e verdade ainda precisa de limitação terminal
+
+### problema
+`P31/P34` podem entrar terminalmente, mas ainda ameaçam reocupar o centro.
+
+### o que falta
+Falta uma frase que diga:
+- a memória prepara representação;
+- a representação poderá ser adequada ou inadequada;
+- mas a verdade não é tema próprio deste capítulo.
+
+### formulação candidata
+> A memória prepara a possibilidade futura de uma representação avaliável, mas ainda não decide a verdade dessa representação.
+
+### risco
+Se isto não for travado:
+- o capítulo vira pré-`Capítulo 7`;
+- memória passa a ser critério;
+- adequação e correção deixam de ser bordo terminal.
+
+---
+
+## VI. Lacunas de fronteira
+
+## L12 — fronteira com o Capítulo 4 ainda precisa de fórmula curta
+
+### problema
+A fronteira com o `Capítulo 4` é decisiva.
+
+No `Capítulo 4`, `P25` era subordinado.
+No `Capítulo 5`, `P25` passa a centro próprio.
+
+Mas esta diferença ainda precisa de fórmula curta para escrita.
+
+### o que falta
+Falta dizer:
+
+> o `Capítulo 4` precisa da estabilização temporal para que a reflexividade situada não se apague; o `Capítulo 5` pergunta por essa estabilização em si mesma.
+
+### risco
+Sem esta fronteira:
+- o CAP_05 parece repetição do CAP_04;
+- ou o CAP_04 parece ter resolvido já a memória;
+- ou `P25` fica ambíguo entre articulação subordinada e centro próprio.
+
+---
+
+## L13 — fronteira com o Capítulo 3 ainda precisa de travão contra regressão
+
+### problema
+O `Capítulo 5` depende de continuidade, corpo, vivo organizado e estabilização.
+
+Mas não pode regressar a esse chão como centro.
+
+### o que falta
+Falta marcar que:
+- a continuidade corporal prepara;
+- a memória começa quando há estabilização temporal interna da relação apreendida;
+- o vivo organizado não é ainda memória em sentido próprio.
+
+### formulação candidata
+> A continuidade do vivo prepara a memória, mas só há memória quando a relação apreendida permanece internamente como relação operante ao real.
+
+### risco
+Sem este travão:
+- a memória dissolve-se em vida;
+- o capítulo regressa por baixo;
+- `P25` perde o seu estatuto antropológico-reflexivo.
+
+---
+
+## L14 — fronteira com o Capítulo 6 ainda precisa de paragem explícita
+
+### problema
+O `Capítulo 5` prepara `P26`.
+
+Mas a passagem para símbolo, linguagem e sentido pertence ao `Capítulo 6`.
+
+### o que falta
+Falta uma paragem explícita no fim do capítulo:
+
+> daqui em diante, aquilo que a memória torna retomável precisará de fixação representacional e mediacional; esse já é o problema seguinte.
+
+### risco
+Sem esta paragem:
+- `P26` cresce;
+- o capítulo fica demasiado mediacional;
+- linguagem entra como solução da memória.
+
+---
+
+## L15 — fronteira com o Capítulo 7 ainda precisa de contenção
+
+### problema
+A memória prepara condições remotas para adequação e erro.
+
+Mas o `Capítulo 7` é que trata verdade, erro, critério e correção como centro próprio.
+
+### o que falta
+Falta impedir que o fecho do CAP_05 seja escrito como:
+- “a memória permite verdade”;
+- “a memória corrige erro”;
+- “a memória funda critério”.
+
+A formulação correta é mais modesta:
+- a memória permite retomabilidade;
+- a retomabilidade permite representação;
+- a representação poderá depois ser avaliada.
+
+### risco
+Sem esta contenção:
+- o capítulo termina alto demais;
+- o fecho terminal passa a governar retroativamente a memória.
+
+---
+
+## VII. Lacunas de material fragmentário
+
+## L16 — apoio fragmentário de `P25` ainda é concentrado e exige uso seletivo
+
+### problema
+Há materiais positivos para `P25`, mas eles não devem ser sobrecarregados.
+
+Os fragmentos de apoio final ajudam a sustentar:
+- inscrição durável;
+- permanência interna;
+- continuidade da relação apreendida;
+- passagem para representação.
+
+Mas ainda não devem ser usados como se já dessem uma teoria completa da memória.
+
+### o que falta
+Falta usar esses materiais com parcimónia:
+- como apoio ao centro;
+- não como substitutos da formulação filosófica;
+- não como catálogo de exemplos;
+- não como autorização para psicologia da memória.
+
+### risco
+Se forem sobrecarregados:
+- a escrita fica dependente de material bruto;
+- a memória fica demasiado oral ou intuitiva;
+- a arquitetura deixa de comandar a exposição.
+
+---
+
+## L17 — materiais de ponte para `P26` continuam perigosos
+
+### problema
+Os materiais que ajudam a passar para `P26` têm utilidade real.
+
+Mas a utilidade deles é também o seu perigo.
+
+### o que falta
+Falta controlar quando entram:
+- depois de `P25`;
+- apenas como ponte;
+- nunca como corpo principal.
+
+### risco
+Se entrarem cedo:
+- representação substitui memória;
+- símbolo e linguagem aparecem antes de tempo;
+- o CAP_05 torna-se CAP_06 disfarçado.
+
+---
+
+## L18 — materiais terminais de `P31/P34` continuam demasiado fortes
+
+### problema
+Os materiais de adequação, verdade, erro e correção são estruturalmente fortes no projeto.
+
+Por isso, têm tendência a reocupar capítulos anteriores.
+
+### o que falta
+Falta uma regra de uso terminal:
+- entram só no fim;
+- entram pouco;
+- entram como horizonte futuro;
+- não reescrevem o capítulo.
+
+### risco
+Se forem usados com força:
+- a memória fica subordinada à verdade;
+- o capítulo vira preparação epistemológica;
+- perde-se o centro memorial próprio.
+
+---
+
+## VIII. Prioridade local de preenchimento
+
+### prioridade 1
+Fixar a passagem seca:
+
+> humano situado / localidade / apreensão → persistência interna da relação apreendida → memória.
+
+### prioridade 2
+Distinguir não-extinção, persistência e memória.
+
+Sem esta distinção, tudo o que continua parecerá memória.
+
+### prioridade 3
+Densificar “durável, operante e seletiva” sem criar três subteorias.
+
+### prioridade 4
+Formular os travões curtos:
+- memória não é continuidade bruta;
+- memória não é arquivo;
+- memória não é tempo vivido;
+- memória não é identidade;
+- memória não é representação;
+- memória não é verdade.
+
+### prioridade 5
+Fixar a fronteira com `Capítulo 4`:
+
+> em CAP_04, `P25` servia a constituição da reflexividade; em CAP_05, `P25` torna-se objeto próprio.
+
+### prioridade 6
+Fixar a fronteira com `Capítulo 6`:
+
+> `P26` é derivação ulterior, não cabeça do capítulo.
+
+### prioridade 7
+Fixar a fronteira com `Capítulo 7`:
+
+> `P31/P34` são bordo terminal, não culminação soberana.
+
+---
+
+## IX. O que ainda não deve ser feito
+
+### não escrever ainda em liberdade
+O capítulo ainda não deve ser escrito livremente.
+
+Pode ser preparado.
+Pode ser decidido localmente.
+Pode vir a receber uma versão controlada.
+
+Mas ainda não deve ser tratado como capítulo pronto para redação plena.
+
+### não aumentar artificialmente os materiais
+Não se deve preencher lacunas com:
+- psicologia;
+- fenomenologia do tempo;
+- identidade narrativa;
+- teoria da representação;
+- linguagem;
+- verdade;
+- erro;
+- crítica do sistema.
+
+### não resolver por subida de altitude
+A solução não é subir.
+
+A solução é ganhar secura no nível próprio de `P25`.
+
+### não resolver por regressão
+A solução também não é regressar ao corpo, ao organismo, à vida ou à continuidade geral.
+
+O capítulo está acima disso.
+
+### não resolver por terminalidade
+Também não se deve resolver o capítulo fechando-o por verdade ou correção.
+
+O fecho terminal deve ficar subordinado.
+
+---
+
+## X. Efeito desta peça sobre o passo seguinte
+
+### o que esta peça já permite
+Esta peça já permite passar a:
+
+`05_decisao_local_do_capitulo.md`
+
+### porquê
+Porque as lacunas do `Capítulo 5`:
+- são reais;
+- estão identificadas;
+- não põem em causa o centro do capítulo;
+- não exigem reabrir `CF05`;
+- não exigem reabrir a arquitetura;
+- não impedem uma decisão local prudente.
+
+### o que falta decidir no próximo ficheiro
+O próximo ficheiro deve decidir:
+- se o capítulo fica preservado com restrições;
+- qual é o uso máximo local atualmente admissível;
+- se já se pode preparar `06_primeira_versao_controlada_de_escrita.md`;
+- que condições devem travar essa eventual versão controlada.
+
+---
+
+## XI. Fórmula curta das lacunas
+
+> O `Capítulo 5` já sabe que o seu centro é `P25`: memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real. O que ainda lhe falta é transformar essa fórmula em corpo suficiente sem a deixar cair por baixo em continuidade ou arquivo, nem subir por cima para tempo vivido, identidade, representação, linguagem, verdade ou correção.
+
+---
+
+## XII. Fórmula final curta
+
+> A lacuna real do `Capítulo 5` não é falta de memória, mas excesso de perigos à volta da memória: ela tem de ser mais do que continuidade e menos do que identidade, mais do que arquivo e menos do que representação, mais do que duração e menos do que tempo vivido, mais do que retenção e menos do que verdade.
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-05-decisao-local-do-capitulo-md"></a>
+### 05_decisao_local_do_capitulo
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/05_decisao_local_do_capitulo.md`
+
+# 05_decisao_local_do_capitulo
+
+## I. Estatuto da decisão
+
+### função
+- fixar a decisão local atualmente admissível para o **Capítulo 5 — memória, permanência interna e identidade temporal mínima**;
+- decidir o que já fica preservado como ganho local;
+- determinar o uso máximo admissível do capítulo nesta fase;
+- estabelecer se o capítulo pode passar a primeira versão controlada de escrita;
+- impedir que a memória seja capturada por continuidade bruta, arquivo, tempo vivido, consciência temporal, identidade narrativa, representação, linguagem, verdade, erro, correção ou crítica sistémica.
+
+### limite
+- esta decisão não reabre `CF05`;
+- não reabre a arquitetura total;
+- não transforma o capítulo em redação corrida livre;
+- não autoriza teoria geral da memória;
+- não autoriza psicologia da memória;
+- não autoriza fenomenologia do tempo vivido;
+- não autoriza teoria da identidade pessoal;
+- não autoriza entrada plena de representação, linguagem, verdade ou correção;
+- não usa `CF17` ou `CF18` como cabeças positivas;
+- não altera o centro local já fixado em `P25`.
+
+### valor metodológico
+- vale como fecho local da abertura disciplinada do `Capítulo 5`;
+- vale como critério de uso para a pasta local;
+- vale como travão contra inflação de `P25`;
+- vale como autorização condicionada para `06_primeira_versao_controlada_de_escrita.md`;
+- vale como separação formal entre o estado arquitetado/povoado do capítulo e uma futura redação livre ainda não autorizada.
+
+---
+
+## II. Base local considerada
+
+Esta decisão parte de:
+
+- `00_estatuto_e_limites.md`;
+- `01_estrutura_interna.md`;
+- `02_materiais_positivos.md`;
+- `03_materiais_criticos.md`;
+- `04_lacunas_do_capitulo.md`.
+
+E permanece subordinada:
+
+- à meta-norma de continuidade e descida expositiva controlada;
+- ao README operativo dos capítulos;
+- à arquitetura provisória revista;
+- à matriz crítica transversal revista;
+- ao mapa de lacunas por capítulo;
+- aos dossiers estabilizados;
+- ao fecho local de `CF05`;
+- à consolidação das faixas expositivas de `CF05`;
+- e ao princípio geral de submissão ao real.
+
+---
+
+## III. Decisão local
+
+### decisão principal
+
+O `Capítulo 5` fica em estado de:
+
+> **preservar com restrições, manter localmente aberto para densificação controlada e autorizar primeira versão controlada de escrita.**
+
+### razão da decisão
+
+A razão é simples:
+
+- o centro local já está suficientemente fixado;
+- as lacunas já não põem em causa esse centro;
+- o risco principal já está identificado;
+- a ordem interna mínima já está estabilizada;
+- os materiais positivos bastam para uma primeira escrita controlada;
+- os materiais críticos bastam para travar os falsos centros principais;
+- o que falta agora é testar se a escrita consegue manter a secura da ordem local.
+
+### o que esta decisão não significa
+
+Esta decisão não significa:
+
+- capítulo pronto em redação final;
+- capítulo libertado para escrita livre;
+- capítulo consolidado plenamente;
+- capítulo disponível para expansão ensaística;
+- capítulo autorizado a absorver `Capítulo 6` ou `Capítulo 7`;
+- capítulo autorizado a desenvolver identidade, sujeito, linguagem ou verdade como corpos próprios.
+
+---
+
+## IV. Núcleo local preservado
+
+### chão primário preservado
+
+Fica preservado como chão primário:
+
+- `P23` — nada apreende de fora do real;
+- `P24` — o humano é ente situado e localizado no real.
+
+Estes passos não são moldura externa.
+São condição ativa para que a memória não apareça como faculdade psicológica solta, interioridade subjetiva ou temporalidade abstrata.
+
+### centro próprio preservado
+
+Fica preservado como centro próprio:
+
+- `P25` — memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real num ente humano situado.
+
+Aqui, `P25` já não vale como simples articulação subordinada de `Capítulo 4`.
+
+Vale como centro local próprio do `Capítulo 5`.
+
+### derivação ulterior preservada
+
+Fica preservado como derivação ulterior:
+
+- `P26` — representação como fixação mediada ulterior do apreendido.
+
+`P26` pode ser preparado, mas não pode comandar o capítulo.
+
+### fecho terminal preservado
+
+Ficam preservados como fecho terminal subordinado:
+
+- `P31` — possibilidade de ajustamento ou desajustamento da representação ao real;
+- `P34` — verdade como adequação sob critério submetido ao real.
+
+`P31/P34` só entram como bordo terminal.
+
+Não podem reocupar o centro.
+
+---
+
+## V. Formulação máxima local atualmente admissível
+
+### formulação máxima
+
+A formulação máxima local atualmente admissível é esta:
+
+> **Num ente humano situado, que apreende localmente o real sem exterioridade, a relação apreendida não se extingue no instante; estabiliza-se internamente de modo durável, operante e seletivo. Essa estabilização temporal interna da relação ao real é o que aqui se chama memória. Só depois dela pode começar a emergir uma fixação mediada do apreendido, e só muito terminalmente essa fixação poderá ser avaliada quanto à sua adequação ou desadequação ao real.**
+
+### estatuto desta formulação
+
+Esta formulação:
+
+- pode governar a primeira versão controlada;
+- pode servir de abertura disciplinada do capítulo;
+- pode estruturar a passagem interna `P23/P24 → P25 → P26 → P31/P34`;
+- pode apoiar a distinção face ao `Capítulo 4`;
+- pode preparar a entrega ao `Capítulo 6`.
+
+Mas ainda não é redação final.
+
+### o que ela ainda não autoriza
+
+Ela ainda não autoriza:
+
+- desenvolver teoria do tempo vivido;
+- desenvolver identidade narrativa;
+- desenvolver psicologia da memória;
+- desenvolver representação como corpo próprio;
+- desenvolver linguagem ou símbolo;
+- desenvolver verdade, erro ou correção;
+- converter memória em critério;
+- converter memória em sujeito.
+
+---
+
+## VI. Hierarquia local obrigatória
+
+A hierarquia local obrigatória fica fixada assim:
+
+1. **`P23/P24`** — humano situado, localidade e apreensão;
+2. **persistência da relação apreendida** — a relação não se apaga no instante;
+3. **`P25`** — memória como estabilização temporal interna;
+4. **durabilidade, operatividade e seletividade** — qualificações internas de `P25`;
+5. **distinções de proteção** — memória não é continuidade bruta, arquivo, tempo vivido, identidade ou representação;
+6. **`P26`** — fixação mediada ulterior, curta e subordinada;
+7. **`P31/P34`** — fecho terminal de adequação e verdade, sem comando do capítulo;
+8. **entrega ao `Capítulo 6`** — apenas depois de `P25` estar preservado.
+
+### regra de não-inversão
+
+Não inverter esta ordem.
+
+Especialmente, não abrir por:
+
+- memória em abstrato;
+- tempo vivido;
+- consciência temporal;
+- identidade;
+- sujeito;
+- representação;
+- linguagem;
+- verdade;
+- erro;
+- correção.
+
+---
+
+## VII. O que fica ganho
+
+### ganho 1 — diferença face ao Capítulo 4
+
+Fica ganho que o `Capítulo 5` não é continuação indiferente do `Capítulo 4`.
+
+A fronteira é esta:
+
+> no `Capítulo 4`, `P25` servia a constituição situada da reflexividade; no `Capítulo 5`, `P25` passa a comandar o capítulo como memória.
+
+### ganho 2 — diferença face à continuidade bruta
+
+Fica ganho que memória não é simples continuidade.
+
+A memória exige:
+
+- relação apreendida;
+- inscrição interna;
+- estabilização temporal;
+- operação;
+- seletividade;
+- retomabilidade mínima.
+
+### ganho 3 — diferença face ao arquivo
+
+Fica ganho que memória não é arquivo neutro.
+
+A fórmula curta é:
+
+> **a memória não arquiva coisas mortas; conserva operativamente relações apreendidas.**
+
+### ganho 4 — diferença face ao tempo vivido
+
+Fica ganho que o tempo relevante do capítulo não é ainda tempo vivido por um sujeito.
+
+É apenas:
+
+> **dimensão interna da permanência da relação apreendida ao real num ente situado.**
+
+### ganho 5 — diferença face à identidade narrativa
+
+Fica ganho que a memória pode preparar identidade temporal mínima, mas não a constitui ainda como centro.
+
+A identidade narrativa pertence a uma camada posterior, já dependente de representação, linguagem e organização simbólica.
+
+### ganho 6 — diferença face à representação
+
+Fica ganho que a memória prepara `P26`, mas não coincide com `P26`.
+
+A representação é fixação mediada ulterior.
+
+A memória é estabilização temporal interna anterior.
+
+### ganho 7 — diferença face à verdade
+
+Fica ganho que a memória prepara condições remotas de representação avaliável, mas não decide ainda a verdade.
+
+A verdade só entra terminalmente, quando a representação já puder ser julgada quanto à adequação ao real.
+
+---
+
+## VIII. Restrições remanescentes
+
+### restrições positivas
+
+Antes de qualquer redação livre, continuam necessárias:
+
+- formulação mais seca da passagem `P23/P24 → P25`;
+- distinção mais firme entre não-extinção, persistência e memória;
+- densificação controlada de “durável”, “operante” e “seletiva”;
+- ponte curta para `P26`;
+- fecho terminal muito contido por `P31/P34`;
+- fronteira explícita com `Capítulo 4`, `Capítulo 6` e `Capítulo 7`.
+
+### restrições negativas
+
+Continuam fora da cabeça do capítulo:
+
+- tempo vivido;
+- consciência temporal;
+- identidade do sujeito;
+- identidade narrativa;
+- presença de si;
+- reflexividade forte;
+- sujeito;
+- arquivo mental;
+- depósito passivo;
+- retenção mecânica;
+- representação plena;
+- mediação como centro;
+- símbolo;
+- linguagem;
+- adequação como corpo próprio;
+- critério;
+- verdade;
+- erro;
+- correção;
+- cultura;
+- sistema;
+- instituição;
+- crítica sistémica;
+- normatividade;
+- ética;
+- dignidade;
+- vida boa.
+
+---
+
+## IX. Uso dos materiais positivos
+
+### materiais nucleares
+
+Ficam admitidos como núcleo local:
+
+- `P23`;
+- `P24`;
+- `P25`;
+- `D_MEMORIA`;
+- `ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA`;
+- materiais de apoio final de `P25`;
+- formulações do corredor `P25_P30` apenas enquanto preservarem `P25` como centro.
+
+### materiais de apoio baixo
+
+Podem entrar, com brevidade:
+
+- humano situado;
+- localidade;
+- apreensão;
+- relação ao real;
+- persistência da relação apreendida.
+
+Mas estes materiais não podem reabrir o `Capítulo 4`.
+
+### materiais de ponte
+
+Podem entrar, sob vigilância:
+
+- `P26`;
+- materiais sobre fixação mediada do apreendido;
+- materiais sobre retomabilidade.
+
+Mas apenas como derivação ulterior.
+
+### materiais terminais
+
+Podem entrar, com forte contenção:
+
+- `P31`;
+- `P34`;
+- adequação;
+- verdade.
+
+Mas apenas como bordo terminal subordinado.
+
+---
+
+## X. Uso dos materiais críticos
+
+### crítica permitida
+
+A crítica permitida é interna e protetora.
+
+Serve para bloquear:
+
+- continuidade bruta;
+- arquivo neutro;
+- tempo vivido;
+- consciência temporal;
+- identidade narrativa;
+- reflexividade forte;
+- representação antecipada;
+- linguagem prematura;
+- verdade prematura;
+- correção prematura;
+- crítica sistémica tardia.
+
+### crítica proibida
+
+A crítica não pode transformar o capítulo em:
+
+- crítica da memória;
+- crítica da subjetividade;
+- crítica da identidade;
+- crítica da cultura;
+- crítica do sistema;
+- crítica da linguagem;
+- crítica da verdade;
+- crítica da modernidade;
+- crítica social ou política.
+
+### regra curta
+
+> **a crítica só entra para proteger `P25` enquanto `P25`.**
+
+---
+
+## XI. Fronteiras locais obrigatórias
+
+## 1. Fronteira com o Capítulo 3
+
+O `Capítulo 5` pressupõe:
+
+- vida organizada;
+- corpo;
+- organismo;
+- campo;
+- continuidade;
+- estabilização local;
+- apreensão.
+
+Mas não regressa a esses elementos como centro.
+
+### regra
+
+> A continuidade do vivo prepara a memória, mas só há memória quando a relação apreendida permanece internamente como relação operante ao real.
+
+---
+
+## 2. Fronteira com o Capítulo 4
+
+O `Capítulo 5` herda do `Capítulo 4`:
+
+- humano situado;
+- localidade;
+- apreensão;
+- reflexividade ainda não soberana;
+- `P25` como ponto de passagem sensível.
+
+Mas altera o estatuto de `P25`.
+
+### regra
+
+> Em `Capítulo 4`, `P25` serve a constituição da reflexividade; em `Capítulo 5`, `P25` torna-se objeto próprio.
+
+---
+
+## 3. Fronteira com o Capítulo 6
+
+O `Capítulo 5` prepara `P26`, mas não abre linguagem, símbolo ou mediação como centros.
+
+### regra
+
+> A memória torna possível que o apreendido seja retomado; a representação é já a fixação mediada dessa retomabilidade.
+
+Quando a fixação mediada passar a comandar, já se entrou no `Capítulo 6`.
+
+---
+
+## 4. Fronteira com o Capítulo 7
+
+O `Capítulo 5` pode admitir terminalmente que a representação futura será avaliável quanto à adequação ou desadequação.
+
+Mas não trata ainda verdade, erro, critério ou correção como centros próprios.
+
+### regra
+
+> A memória prepara a possibilidade futura de uma representação avaliável, mas ainda não decide a verdade dessa representação.
+
+---
+
+## XII. Decisão sobre escrita controlada
+
+### decisão
+
+Fica autorizada a passagem a:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+### condição de autorização
+
+A autorização é estritamente condicionada.
+
+A futura versão controlada deve obedecer a esta regra:
+
+> **abrir por humano situado, localidade e apreensão; fazer entrar `P25` como memória enquanto estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real; distinguir imediatamente memória de continuidade bruta, arquivo, tempo vivido, identidade e representação; introduzir `P26` apenas como derivação ulterior; e deixar `P31/P34` apenas como fecho terminal subordinado.**
+
+### o que a versão controlada deve testar
+
+A versão controlada deve testar se o capítulo consegue:
+
+- abrir sem psicologia da memória;
+- abrir sem fenomenologia do tempo vivido;
+- manter `P23/P24` ativos;
+- fazer `P25` entrar como centro próprio;
+- densificar “durável, operante e seletiva” sem criar subteorias;
+- distinguir memória de continuidade e arquivo;
+- distinguir memória de identidade e representação;
+- preparar `P26` sem abrir `Capítulo 6`;
+- fechar terminalmente por `P31/P34` sem abrir `Capítulo 7`.
+
+### o que a versão controlada não pode fazer
+
+Não pode:
+
+- abrir por memória em abstrato;
+- abrir por tempo vivido;
+- abrir por sujeito;
+- abrir por identidade;
+- abrir por representação;
+- abrir por linguagem;
+- abrir por verdade;
+- escrever em liberdade plena;
+- desenvolver psicologia da memória;
+- desenvolver fenomenologia da temporalidade;
+- desenvolver teoria da identidade;
+- desenvolver teoria da representação;
+- desenvolver teoria da linguagem;
+- desenvolver teoria da verdade ou da correção.
+
+---
+
+## XIII. Uso máximo local atualmente autorizado
+
+### uso máximo
+
+O uso máximo local atualmente autorizado é:
+
+1. abertura baixa por `P23/P24`;
+2. entrada positiva curta de `P25`;
+3. densificação controlada de durabilidade, operatividade e seletividade;
+4. distinções imediatas de proteção;
+5. ponte curta para `P26`;
+6. fecho terminal mínimo por `P31/P34`;
+7. paragem antes de linguagem, símbolo, verdade, erro e correção se tornarem corpos próprios.
+
+### limite do uso máximo
+
+O capítulo deixa de estar em regime admissível se:
+
+- a memória virar tempo vivido;
+- a memória virar identidade narrativa;
+- a memória virar arquivo;
+- a memória virar representação;
+- `P26` passar a comandar;
+- `P31/P34` passarem a comandar;
+- símbolo, linguagem ou mediação ocuparem a cabeça;
+- verdade, erro ou correção fecharem o capítulo como centro.
+
+---
+
+## XIV. Próximo passo prudente
+
+### próximo ficheiro
+
+O próximo ficheiro prudente é:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+### objetivo do próximo ficheiro
+
+O objetivo não será escrever o capítulo final.
+
+Será produzir uma primeira versão controlada que teste:
+
+- a secura da abertura;
+- a resistência de `P25`;
+- a força das distinções;
+- a brevidade da ponte para `P26`;
+- a subordinação do fecho por `P31/P34`.
+
+### razão
+
+Porque o `Capítulo 5` já não precisa de nova abertura local.
+
+Também não precisa, nesta fase, de novo levantamento de materiais.
+
+Precisa de testar se a sua formulação consegue sobreviver como escrita sem perder a ordem:
+
+> `P23/P24 → P25 → P26 → P31/P34`
+
+---
+
+## XV. Fórmula estrutural curta
+
+> **humano situado / localidade / apreensão → persistência da relação apreendida → memória como estabilização temporal interna → fixação mediada ulterior → adequação e verdade apenas terminais**
+
+---
+
+## XVI. Fórmula final curta
+
+> **O Capítulo 5 fica preservado com restrições: já pode dizer que a memória é a estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real num ente humano situado; mas ainda não pode deixar essa memória virar tempo vivido, identidade, representação, linguagem, verdade ou correção.**
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+# Capítulo 5 — Memória, permanência interna e identidade temporal mínima
+
+## I. Estatuto desta versão
+
+Esta é uma **primeira versão controlada de escrita** do `Capítulo 5`.
+
+Não é redação final.
+Não é ensaio livre.
+Não é ainda versão literária plena.
+Não é teoria geral da memória.
+Não é fenomenologia do tempo vivido.
+Não é teoria da identidade pessoal.
+Não é teoria da representação, da linguagem, da verdade ou da correção.
+
+A função desta versão é testar se o capítulo consegue ser escrito mantendo a ordem já decidida:
+
+> **humano situado / localidade / apreensão → persistência da relação apreendida → memória como estabilização temporal interna → fixação mediada ulterior → adequação e verdade apenas terminais**
+
+A regra de controlo é esta:
+
+> o capítulo deve abrir por `P23/P24`, fazer entrar `P25` como centro próprio, distinguir imediatamente memória de continuidade, arquivo, tempo vivido, identidade e representação, e só depois preparar `P26` e `P31/P34` em regime subordinado.
+
+---
+
+## II. Texto controlado
+
+## 1. A relação apreendida não começa fora do real
+
+A memória não pode ser pensada a partir de uma interioridade já pronta.
+
+Antes de haver memória, há real. E, no real, há um ente humano situado, localizado, limitado, afetável e capaz de apreensão. Esse ente não apreende de fora. Não possui uma posição exterior a partir da qual pudesse recolher conteúdos, guardá-los e depois administrá-los como se fossem objetos internos desligados do mundo.
+
+O humano apreende sempre no real e a partir do real.
+
+A sua apreensão é localizada. É uma relação situada com aquilo que o afeta, o limita, o solicita e o encontra. Por isso, a memória não deve ser entendida como faculdade fechada dentro de um sujeito, mas como uma forma ulterior de permanência dessa relação apreendida.
+
+Não há memória sem relação anterior ao real.
+
+Aquilo que se conserva não é primeiro uma imagem interior, nem um conteúdo mental abstrato, nem um ficheiro guardado num arquivo subjetivo. O que se conserva, em sentido primário, é uma relação: algo foi apreendido por um ente situado e essa apreensão não desapareceu inteiramente no mesmo instante em que ocorreu.
+
+A memória começa precisamente neste ponto.
+
+Não no sujeito soberano.
+Não na consciência temporal já constituída.
+Não na identidade narrativa.
+Não na representação.
+Não na linguagem.
+Mas na permanência interna de uma relação apreendida ao real.
+
+---
+
+## 2. A apreensão não se extingue inteiramente no instante
+
+A apreensão poderia desaparecer sem deixar nada.
+
+Se assim fosse, cada relação ao real seria pura ocorrência pontual, sem continuidade interna para o ente que apreende. O humano seria afetado, mas cada afetação cairia imediatamente no nada operativo. Nada do que tivesse sido apreendido poderia pesar sobre uma nova apreensão. Nada poderia ser retomado. Nada poderia orientar uma resposta futura. Nada poderia formar uma continuidade mínima de relação.
+
+Mas não é isso que acontece.
+
+A relação apreendida não se extingue inteiramente no instante. Algo dela permanece. Não como coisa separada do real, mas como inscrição interna da relação que ocorreu. O ente situado não fica simplesmente igual depois de apreender. O real apreendido deixa nele uma permanência mínima.
+
+Essa permanência ainda não é representação plena.
+
+Ainda não é linguagem.
+Ainda não é símbolo.
+Ainda não é juízo.
+Ainda não é verdade.
+Ainda não é identidade narrativa.
+
+É, antes, a continuação interna de uma relação efetivamente ocorrida.
+
+O que foi apreendido conserva uma eficácia mínima. Continua a poder pesar sobre a forma como o humano se encontra de novo com o real. A apreensão anterior torna-se retomável, ainda que não esteja já formulada, dita ou representada. O real apreendido não fica simplesmente para trás. Continua a operar na relação futura.
+
+É esta não-extinção operante que abre o campo da memória.
+
+---
+
+## 3. Memória como estabilização temporal interna
+
+A memória é a estabilização temporal interna da relação apreendida ao real.
+
+Esta formulação deve ser mantida com rigor.
+
+A memória não é o simples facto de algo continuar. Nem tudo o que continua é memória. Uma pedra continua, uma estrutura permanece, uma marca subsiste, um rasto pode ficar. Mas a memória exige mais do que permanência. Exige que a relação apreendida permaneça internamente de modo operante num ente que apreendeu.
+
+Também não é arquivo.
+
+Um arquivo guarda conteúdos. A memória, no sentido aqui decisivo, conserva relações apreendidas. O que nela permanece não é uma coisa morta depositada num espaço interior. É uma relação ao real que continua a poder orientar, afetar, condicionar ou modificar a relação ulterior ao real.
+
+Por isso, memória é estabilização.
+
+Não é pura duração. Não é mero rasto. Não é depósito. Não é imagem interior. Não é acumulação de passado. É estabilização temporal interna de uma relação que ocorreu no real e que continua, de modo mínimo mas eficaz, a contar para o ente que a apreendeu.
+
+Esta estabilização tem três traços indispensáveis:
+
+- é durável;
+- é operante;
+- é seletiva.
+
+Sem durabilidade, a apreensão desapareceria no instante.
+Sem operatividade, a memória seria depósito morto.
+Sem seletividade, tudo permaneceria do mesmo modo, sem diferença, sem relevo e sem eficácia.
+
+A memória é, portanto, a forma pela qual a relação apreendida permanece internamente de modo temporalmente eficaz.
+
+---
+
+## 4. Durabilidade: a relação não se perde no instante
+
+A memória é durável porque conserva a relação apreendida para além do momento da sua ocorrência.
+
+Mas esta durabilidade não deve ser confundida com identidade pessoal.
+
+Dizer que a memória dura não é ainda dizer que há um sujeito narrativamente idêntico a si mesmo. Também não é dizer que há uma história interior organizada, nem uma continuidade reflexiva plena do eu. Isso exigiria camadas posteriores: representação, linguagem, símbolo, narrativa, autorreconhecimento.
+
+Aqui, a durabilidade é mais baixa.
+
+Quer dizer apenas isto: aquilo que foi apreendido permanece internamente de modo suficiente para não se apagar no instante. O humano situado não recomeça absolutamente do zero a cada nova relação com o real. As relações anteriores conservam uma presença operante mínima.
+
+Essa presença pode ser fraca.
+Pode ser parcial.
+Pode ser fragmentária.
+Pode nem sequer estar explicitamente representada.
+
+Mas permanece.
+
+A memória dura enquanto mantém aberta a possibilidade de retomada daquilo que foi apreendido. Não como posse soberana do passado, mas como permanência interna de uma relação que continua a pesar no presente do ente situado.
+
+A memória é, assim, duração sem soberania.
+
+Dura, mas não funda ainda sujeito.
+Permanece, mas não constitui ainda narrativa.
+Conserva, mas não arquiva simplesmente.
+Retém, mas não transforma automaticamente o retido em representação verdadeira.
+
+---
+
+## 5. Operatividade: a memória não é depósito passivo
+
+A memória é operante porque aquilo que permanece não permanece morto.
+
+Uma relação apreendida que nada altera, nada condiciona e nada torna possível seria apenas um resto inerte. A memória, pelo contrário, intervém na forma como o ente situado volta a encontrar o real.
+
+Ela pode orientar uma nova apreensão.
+Pode tornar algo reconhecível.
+Pode permitir uma resposta mais rápida.
+Pode evitar repetição cega.
+Pode fazer com que o real anteriormente apreendido pese sobre o real novamente encontrado.
+
+Mas esta operatividade ainda não é linguagem.
+
+A memória opera antes de ser dita. Opera antes de ser formulada em juízo. Opera antes de ser fixada como proposição. Opera antes de poder ser avaliada como verdadeira ou falsa. A sua eficácia é anterior à expressão simbólica plena.
+
+Também não é representação plena.
+
+A memória torna possível que algo seja retomado; mas a representação é já uma fixação mediada dessa retomabilidade. Se a representação passa a comandar o capítulo, já se saiu da memória enquanto centro próprio e entrou-se noutra camada.
+
+Por isso, a operatividade da memória deve ser mantida num lugar preciso.
+
+Ela é mais do que depósito.
+Mas é menos do que representação.
+É mais do que rasto.
+Mas é menos do que linguagem.
+É mais do que continuidade.
+Mas é menos do que verdade.
+
+A memória opera porque conserva uma relação apreendida como possibilidade interna de orientação futura.
+
+---
+
+## 6. Seletividade: nem tudo permanece do mesmo modo
+
+A memória é seletiva porque a relação apreendida não permanece como totalidade indiferenciada.
+
+O real afeta de modos diferentes. Nem tudo pesa igualmente. Nem tudo se conserva com a mesma intensidade, com a mesma forma ou com o mesmo alcance. A apreensão deixa relevos, resistências, marcas, tensões e diferenças. A memória estabiliza essas diferenças de modo interno.
+
+Mas esta seletividade não deve ser confundida com escolha subjetiva soberana.
+
+A memória não seleciona porque um sujeito interior decide livremente guardar certas coisas e abandonar outras. Essa imagem já pressupõe uma consciência organizada, uma vontade reflexiva e uma representação de conteúdos disponíveis. O nível aqui é mais baixo.
+
+A seletividade é primeiro estrutural.
+
+Aquilo que permanece permanece segundo a força, a relevância, a resistência e a forma da relação apreendida. O que afetou de modo mais decisivo pode pesar mais. O que se repetiu pode estabilizar-se mais. O que feriu, orientou, salvou, ameaçou ou permitiu ação pode conservar maior eficácia.
+
+Isto não transforma a memória em critério de verdade.
+
+O que permanece na memória não é verdadeiro só porque permanece. A memória pode conservar relações apreendidas de modo parcial, deformado, insuficiente ou ainda não julgado. A sua seletividade não equivale a adequação. Não há, aqui, verdade ainda.
+
+Há permanência operante.
+Há diferenciação interna.
+Há retomabilidade.
+
+A memória conserva seletivamente a relação apreendida, mas essa conservação ainda terá de passar, mais tarde, por representação, descrição, comparação e critério se quiser ser julgada quanto à sua verdade.
+
+---
+
+## 7. Memória não é continuidade bruta
+
+A primeira confusão a bloquear é a redução da memória à continuidade.
+
+A continuidade é condição de possibilidade da memória, mas não é memória.
+
+Há continuidade no real.
+Há permanência de estruturas.
+Há duração de processos.
+Há repetição de padrões.
+Há conservação de relações.
+
+Mas memória exige uma forma determinada de permanência: a estabilização temporal interna de uma relação apreendida por um ente situado.
+
+Por isso, não basta dizer que algo continua para dizer que há memória.
+
+A memória exige que a relação ao real tenha sido apreendida e que essa apreensão permaneça internamente de modo operante. Se não houve apreensão, não há memória neste sentido. Se houve apenas permanência externa, não há memória. Se houve apenas rasto inerte, não há memória. Se houve apenas continuação indiferenciada, não há ainda memória.
+
+A memória é continuidade qualificada.
+
+Continuidade de uma relação apreendida.
+Continuidade interna.
+Continuidade operante.
+Continuidade seletiva.
+Continuidade capaz de tornar o apreendido retomável.
+
+A fórmula curta é esta:
+
+> **continuar não é ainda lembrar.**
+
+A memória começa quando a continuidade da relação apreendida ganha estabilização temporal interna.
+
+---
+
+## 8. Memória não é arquivo
+
+A segunda confusão a bloquear é a imagem da memória como arquivo.
+
+Esta imagem é tentadora porque parece simples: algo aconteceu, foi guardado, e depois pode ser recuperado. Mas essa imagem desloca o problema. Faz parecer que a memória é um depósito interior de conteúdos, quando o ponto decisivo é a permanência operante de uma relação ao real.
+
+A memória não guarda primeiro coisas.
+Guarda relações apreendidas.
+
+Mesmo esta palavra, “guardar”, deve ser usada com cautela. A memória não conserva como um armário conserva objetos. Conserva operativamente. Aquilo que nela permanece não está simplesmente parado à espera de ser retirado. Permanece influenciando, condicionando, estruturando ou tornando possível uma nova relação.
+
+O arquivo é passivo.
+A memória é operante.
+
+O arquivo é indiferente àquilo que guarda.
+A memória é seletiva.
+
+O arquivo separa o conteúdo do seu uso.
+A memória conserva o apreendido enquanto ainda pode pesar sobre a vida do ente que apreende.
+
+Por isso, a fórmula disciplinada é esta:
+
+> **a memória não arquiva coisas mortas; conserva operativamente relações apreendidas.**
+
+Esta distinção é decisiva para o capítulo.
+
+Sem ela, a memória regressa a uma imagem interiorizada e representacional. Com ela, a memória permanece ligada ao real, à apreensão situada e à continuidade operante da relação.
+
+---
+
+## 9. Memória não é tempo vivido
+
+A terceira confusão a bloquear é a identificação da memória com tempo vivido.
+
+O capítulo não pergunta, em primeiro lugar, como o sujeito vive o tempo. Essa pergunta já começa demasiado alto. Pressupõe um sujeito que se acompanha, uma interioridade temporalizada e uma consciência que organiza a sua própria duração.
+
+Aqui, a questão é anterior.
+
+O problema é saber como a relação apreendida por um ente situado não se apaga no instante e permanece internamente como possibilidade de retomada.
+
+O tempo que interessa ao capítulo é, portanto, o tempo da permanência da relação apreendida.
+
+Não é ainda a vivência subjetiva do tempo.
+Não é ainda fluxo de consciência.
+Não é ainda duração interior tematizada.
+Não é ainda identidade temporal do eu.
+
+É apenas a dimensão temporal interna sem a qual a apreensão não poderia permanecer para o ente que apreendeu.
+
+A memória não nasce porque o sujeito vive o tempo.
+A memória nasce porque a relação apreendida não se perde no instante.
+
+Só mais tarde poderá haver experiência reflexiva do tempo. Só mais tarde poderá haver consciência temporal. Só mais tarde poderá haver narrativa de si. Mas essas camadas já pressupõem aquilo que este capítulo tenta fixar em baixo: a permanência interna, durável, operante e seletiva do apreendido.
+
+A fórmula curta é esta:
+
+> **o tempo que aqui interessa não é ainda o tempo vivido por um sujeito; é a duração interna da relação apreendida num ente situado.**
+
+---
+
+## 10. Memória não é identidade narrativa
+
+A memória também não pode ser confundida com identidade narrativa.
+
+É verdade que sem memória não há identidade temporal robusta. Mas isto não significa que memória e identidade sejam a mesma coisa.
+
+A identidade narrativa exige mais do que estabilização temporal interna. Exige que o ente situado possa representar-se, reconhecer-se, organizar acontecimentos, encadear continuidade, narrar uma vida e dizer de algum modo: “sou este que permanece através do tempo”.
+
+Nada disso está ainda no centro deste capítulo.
+
+O que aqui se fixa é mais baixo: a relação apreendida permanece internamente. Essa permanência pode preparar formas futuras de identidade, mas não as constitui ainda como centro próprio.
+
+A memória permite que algo permaneça para o humano situado.
+
+Mas permitir permanência não é ainda constituir uma narrativa de si.
+
+A memória pode ser condição de identidade temporal.
+Mas não é, por si só, identidade narrativa.
+
+Se a identidade passar a comandar o capítulo, então a memória já foi absorvida por uma camada posterior. O capítulo deixaria de tratar `P25` e passaria a tratar sujeito, história de si, linguagem e reflexividade forte.
+
+Por isso, a regra de contenção é esta:
+
+> **a memória prepara a identidade temporal mínima, mas não autoriza ainda uma teoria do sujeito idêntico a si mesmo.**
+
+---
+
+## 11. A memória prepara representação, mas não é ainda representação
+
+A memória torna o apreendido retomável.
+
+Esta retomabilidade prepara a representação. Aquilo que permanece internamente pode vir a ser fixado, organizado, explicitado, figurado, dito, simbolizado ou descrito. A memória cria, portanto, uma condição para que o apreendido possa ser posteriormente mediado.
+
+Mas esta passagem deve ser curta.
+
+A representação não pode reescrever a memória a partir de cima.
+
+A memória é estabilização temporal interna da relação apreendida.
+A representação é fixação mediada ulterior do apreendido.
+
+A diferença é decisiva.
+
+Enquanto a relação apreendida permanece internamente como orientação, estamos no campo da memória. Quando essa relação começa a ser fixada numa forma mediada, comunicável, simbólica ou linguística, entramos já no regime seguinte.
+
+Por isso, `P26` só pode entrar depois de `P25`.
+
+Não pode abrir o capítulo.
+Não pode definir retroativamente a memória.
+Não pode transformar a memória em representação fraca.
+Não pode puxar linguagem e símbolo para a cabeça do texto.
+
+A fórmula curta é esta:
+
+> **a memória torna possível que o apreendido seja retomado; a representação é já a fixação mediada dessa retomabilidade.**
+
+Esta frase é o limite do capítulo.
+
+Ela prepara o seguinte, mas não o abre por dentro.
+
+---
+
+## 12. A memória ainda não decide a verdade
+
+A memória também não decide a verdade.
+
+Aquilo que permanece internamente pode vir a ser representado. Essa representação poderá, mais tarde, ser adequada ou inadequada ao real. Poderá ser corrigida. Poderá ser comparada com aquilo a que pretende referir-se. Poderá entrar no regime da verdade, do erro e do critério.
+
+Mas esse ainda não é o centro do capítulo.
+
+A memória não é critério.
+Não é verdade.
+Não é correção.
+Não é adequação.
+
+A memória prepara condições remotas para que uma representação futura possa ser avaliada. Mas não basta lembrar para dizer verdadeiramente. O que se conserva pode conservar-se mal. Pode conservar-se parcialmente. Pode conservar-se de modo deformado. Pode permanecer sem estar ainda descrito. Pode orientar sem estar ainda justificado.
+
+O facto de algo permanecer não prova a sua verdade.
+
+A memória apenas conserva operativamente uma relação apreendida. A verdade só se tornará problema próprio quando houver representação, descrição e critério submetido ao real.
+
+Por isso, `P31/P34` só podem entrar como fecho terminal.
+
+A fórmula curta é esta:
+
+> **a memória prepara a possibilidade futura de uma representação avaliável, mas ainda não decide a verdade dessa representação.**
+
+---
+
+## 13. Fecho: a permanência interna da relação ao real
+
+O percurso deste capítulo pode agora ser comprimido.
+
+Há real.
+O humano está no real.
+Apreende localmente o real.
+A relação apreendida não se extingue inteiramente no instante.
+Essa relação permanece internamente.
+Essa permanência torna-se estabilização temporal.
+Essa estabilização é durável, operante e seletiva.
+A isso chamamos memória.
+
+A memória é, portanto, mais do que continuidade.
+Porque não é apenas permanência indiferenciada.
+
+É mais do que arquivo.
+Porque não é depósito passivo de conteúdos.
+
+É mais do que rasto.
+Porque opera.
+
+É menos do que tempo vivido.
+Porque ainda não parte da consciência temporal do sujeito.
+
+É menos do que identidade narrativa.
+Porque ainda não organiza uma história de si.
+
+É menos do que representação.
+Porque ainda não fixa mediacionalmente o apreendido.
+
+É menos do que verdade.
+Porque ainda não avalia a adequação da representação ao real.
+
+A memória ocupa, assim, uma posição estreita e decisiva.
+
+Ela impede que a apreensão se apague no instante.
+Ela impede que o humano situado recomece absolutamente do zero em cada encontro com o real.
+Ela permite que o real apreendido permaneça internamente e continue a pesar sobre novas relações.
+Ela prepara a representação sem ser representação.
+Ela prepara a avaliação futura sem ser critério de verdade.
+Ela prepara identidade temporal sem ser identidade narrativa.
+
+A memória é a permanência operante da relação apreendida.
+
+E é só depois desta permanência que se pode compreender a necessidade de fixar, mediar, representar e dizer aquilo que foi apreendido. Essa necessidade já pertence ao capítulo seguinte.
+
+---
+
+## III. Nota de controlo final
+
+Esta versão conserva a ordem local obrigatória:
+
+1. abertura por humano situado, localidade e apreensão;
+2. entrada da não-extinção da relação apreendida;
+3. fixação de `P25` como memória;
+4. densificação de durabilidade, operatividade e seletividade;
+5. distinção face a continuidade, arquivo, tempo vivido, identidade, representação e verdade;
+6. entrada curta de `P26`;
+7. fecho terminal mínimo por `P31/P34`;
+8. entrega ao capítulo seguinte.
+
+O texto deve permanecer sob controlo.
+
+Se for desenvolvido, o desenvolvimento deve reforçar `P25`, não deslocá-lo.
+Se for encurtado, o encurtamento deve preservar a sequência.
+Se for literariamente melhorado, a melhoria não pode introduzir psicologia, fenomenologia, identidade narrativa, linguagem ou epistemologia como centros próprios.
+
+---
+
+## IV. Fórmula curta da versão
+
+> A memória é a estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado: mais do que continuidade ou arquivo, menos do que tempo vivido, identidade, representação ou verdade.
+
+---
+
+## V. Fórmula de passagem para o Capítulo 6
+
+> Quando aquilo que a memória conserva se torna fixável, mediável, representável e comunicável, deixa de estar em causa apenas a permanência interna da relação apreendida; começa o problema da representação, da linguagem, do símbolo e do sentido.
+
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap5-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5
+
+## Capítulo 5 — Memória, permanência interna e identidade temporal mínima
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma versão reescrita pós-confronto da primeira versão controlada de escrita do **Capítulo 5 — Memória, permanência interna e identidade temporal mínima**, agora compatibilizada com a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+
+- a abertura baixa por humano situado, localidade e apreensão;
+- a diferença relativamente ao Capítulo 4;
+- a centralidade própria de `P25`;
+- a distinção entre memória e mera continuidade bruta;
+- a distinção entre memória e arquivo neutro;
+- a distinção entre memória e identidade narrativa;
+- a distinção entre memória e representação plena;
+- a subordinação de `P26`;
+- o fecho apenas terminal de `P31/P34`;
+- a fronteira com os Capítulos 6 e 7;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+O confronto anterior confirmou que o capítulo não precisava de novo núcleo material. A tarefa desta versão, por isso, não é acrescentar temas.
+
+A Nota de Leitura também não reabre o capítulo. A sua incidência é expositiva: tornar mais visível que o Capítulo 5 não trata “memória” como tema psicológico, arquivo de conteúdos, tempo vivido, identidade narrativa ou consciência temporal soberana, mas como estabilização temporal interna da relação apreendida ao real por um humano situado.
+
+A tarefa desta versão é, portanto, dupla:
+
+1. preservar a cadeia material já ganha;
+2. tornar explícito, sem mecanizar o texto, o movimento local de leitura:
+   - qual é o ser em causa;
+   - como ele pode ser mal dito;
+   - que erro nasce dessa má formulação;
+   - como o capítulo reconduz o dizer ao real.
+
+### limite
+
+Esta versão não pode:
+
+- abrir por tempo vivido;
+- abrir por identidade narrativa;
+- abrir por consciência temporal;
+- abrir por sujeito;
+- abrir por interioridade soberana;
+- abrir por representação;
+- abrir por linguagem;
+- abrir por símbolo;
+- abrir por verdade;
+- abrir por erro, critério ou correção;
+- reduzir a memória a continuidade bruta;
+- reduzir a memória a rasto, depósito, arquivo ou armazenamento passivo;
+- transformar a memória em representação plena;
+- transformar a memória em identidade pessoal desenvolvida;
+- deixar `P26` ocupar a cabeça do capítulo;
+- deixar `P31/P34` reocuparem o centro;
+- antecipar o Capítulo 6;
+- antecipar o Capítulo 7;
+- transformar a Nota de Leitura em método soberano;
+- abrir uma teoria geral do erro dentro do Capítulo 5.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que a memória é a estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar que memória real está em causa, como ela pode ser mal dita, que erro nasce desse falso dizer e como a formulação regressa à relação apreendida ao real.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a função expositiva do capítulo.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O Capítulo 4 mostrou que consciência, reflexividade, interioridade e sujeito não são pontos de partida soberanos. São culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e permanece corrigível pelo real.
+
+O Capítulo 5 começa no ponto em que uma dessas condições subordinadas passa a centro próprio.
+
+No Capítulo 4, `P25` entrou apenas como estabilização temporal interna subordinada. Servia para impedir que a relação apreendida se apagasse imediatamente no instante da apreensão.
+
+No Capítulo 5, `P25` sobe a centro próprio.
+
+A pergunta já não é apenas: como a reflexividade humana exige uma conservação mínima da relação apreendida?
+
+A pergunta agora é:
+
+> que é a memória enquanto permanência interna da relação apreendida ao real por um humano situado?
+
+O **ser em causa** neste capítulo é, portanto, muito preciso:
+
+> a memória enquanto estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado.
+
+Não é memória em sentido psicológico geral.  
+Não é arquivo de conteúdos.  
+Não é depósito passivo.  
+Não é passado guardado.  
+Não é tempo vivido como tema soberano.  
+Não é consciência temporal.  
+Não é identidade narrativa.  
+Não é representação plena.  
+Não é verdade, erro ou correção.  
+
+É a permanência interna, temporalmente estabilizada, pela qual uma relação apreendida ao real não desaparece sem resto e pode continuar a operar num humano situado.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> humano situado / localidade / apreensão → persistência da relação apreendida → memória como estabilização temporal interna → durabilidade → operatividade → seletividade → identidade temporal mínima → fixação mediada ulterior (`P26`) → adequação e verdade apenas terminais (`P31/P34`) → entrega ao Capítulo 6.
+
+Este corredor é o limite da peça.
+
+A pergunta transversal da Nota já começa a operar aqui, mas sem tomar o comando do capítulo:
+
+- o ser em causa é a memória como estabilização temporal interna da relação apreendida ao real;
+- o falso dizer a bloquear é duplo: reduzir a memória a continuidade bruta ou inflacioná-la em identidade, representação, consciência temporal ou verdade;
+- o erro local é deslocar `P25` do seu estatuto próprio;
+- a reinscrição consiste em reconduzir a memória ao humano situado que apreende o real e conserva internamente essa relação.
+
+## 2. Chão primário: humano situado, localidade e apreensão
+
+O Capítulo 5 não pode abrir por memória em abstrato.
+
+Se abrisse por memória em abstrato, perderia imediatamente o seu chão. A memória pareceria uma faculdade isolada, uma função psicológica, um arquivo mental ou uma estrutura temporal autónoma.
+
+Por isso, o capítulo deve abrir por baixo.
+
+Há um humano situado no real.  
+Esse humano não apreende de fora.  
+Apreende localmente.  
+A sua apreensão é relação ao real.  
+Essa relação pode persistir internamente.  
+
+É neste solo que a memória aparece.
+
+O falso dizer desta zona é tratar a memória como se pudesse ser compreendida sem humano situado, sem localidade e sem apreensão. Nesse erro, a memória torna-se um mecanismo solto, quase técnico, quase arquivístico, desligado da relação real que a originou.
+
+Mas a memória não começa como armazenamento.
+
+Começa porque uma relação apreendida ao real não se extingue simplesmente no instante.
+
+A primeira determinação do capítulo é esta:
+
+> a memória só é inteligível a partir de um humano situado que apreende localmente o real.
+
+A reinscrição local é esta: a memória deve ser devolvida ao humano situado e à relação apreendida ao real, não tratada como função isolada.
+
+## 3. Persistência da relação apreendida
+
+A apreensão não desaparece necessariamente no instante em que ocorre.
+
+Algo permanece.
+
+Mas este “algo” deve ser dito com cuidado. Não é ainda recordação desenvolvida. Não é narrativa. Não é imagem interna plenamente constituída. Não é identidade temporal de si. É apenas a persistência interna da relação apreendida.
+
+A relação ao real, uma vez apreendida, pode deixar traço operativo no humano situado. Esse traço não é mera marca morta. Também não é ainda representação plena. É a continuidade interna mínima que permite que aquilo que foi apreendido possa continuar a fazer diferença.
+
+O falso dizer desta zona é reduzir persistência a rasto inerte.
+
+Nesse erro, aquilo que permanece é pensado como simples marca, vestígio, impressão ou depósito. Mas uma memória meramente inerte não explicaria o que está em causa no capítulo: a continuidade operante da relação apreendida.
+
+A persistência relevante não é a de uma coisa guardada. É a de uma relação que permanece capaz de operar.
+
+A segunda determinação do capítulo é esta:
+
+> o que persiste na memória é a relação apreendida ao real, não um objeto morto guardado no interior.
+
+A reinscrição local é esta: a persistência deve ser reconduzida à relação ao real, não reduzida a rasto, marca ou depósito.
+
+## 4. Memória como estabilização temporal interna
+
+Só agora se pode formular o centro próprio do capítulo.
+
+A memória é a estabilização temporal interna da relação apreendida ao real.
+
+A palavra “estabilização” impede que a memória seja confundida com fluxo puro. Algo se fixa suficientemente para continuar a operar.
+
+A palavra “temporal” impede que essa fixação seja pensada como ponto imóvel. O que está em causa é uma permanência através da sucessão, da variação e da continuidade do viver.
+
+A palavra “interna” impede que a memória seja tratada como mera exterioridade funcional. A relação apreendida passa a ter uma permanência no modo de ser do humano situado.
+
+A referência à “relação apreendida ao real” impede que a memória se autonomize. O que se estabiliza não é um conteúdo fechado sobre si; é uma relação a algo real que foi apreendido.
+
+O falso dizer desta zona é transformar a memória numa faculdade soberana.
+
+Nesse erro, a memória parece possuir conteúdos por si, como se fosse uma instância interior que guarda o passado independentemente da relação viva ao real. Mas a memória, aqui, não é soberana. É estabilização de uma relação.
+
+A terceira determinação do capítulo é esta:
+
+> memória é estabilização temporal interna da relação apreendida ao real.
+
+A reinscrição local é esta: a memória deve ser dita como permanência interna de uma relação ao real, não como faculdade isolada.
+
+## 5. Durabilidade
+
+A memória implica durabilidade.
+
+Sem durabilidade, a relação apreendida não passaria de ocorrência instantânea. Seria afetar e desaparecer. Haveria contacto, mas não permanência interna. Haveria apreensão, mas não memória.
+
+Durabilidade não significa imutabilidade.
+
+Aquilo que permanece pode alterar-se, enfraquecer, reorganizar-se, ser retomado de modo diferente, perder força ou ganhar novas articulações. A durabilidade da memória não é a rigidez de uma coisa conservada intacta. É a permanência suficiente para que a relação apreendida continue a contar.
+
+O falso dizer da durabilidade é tratá-la como conservação literal.
+
+Nesse erro, a memória pareceria uma cópia preservada do passado, como se recordar fosse recuperar uma coisa intacta. Mas a memória não é cópia imóvel. É permanência operante de uma relação.
+
+A durabilidade relevante é a que permite continuidade funcional da relação apreendida, não a que promete conservação fotográfica.
+
+A quarta determinação do capítulo é esta:
+
+> a memória é durável porque conserva operativamente uma relação apreendida, não porque guarde intacto um conteúdo passado.
+
+A reinscrição local é esta: a durabilidade deve ser devolvida à permanência viva da relação ao real, não convertida em conservação literal.
+
+## 6. Operatividade
+
+A memória é operante.
+
+Isto significa que ela não se limita a estar armazenada. A relação apreendida que permanece pode orientar nova apreensão, nova resposta, nova expectativa, nova atenção, nova comparação e nova relação ao real.
+
+A memória intervém na forma como o humano situado continua a estar no real.
+
+Sem operatividade, a memória seria arquivo morto. Existiria talvez como marca, mas não como força real de orientação.
+
+A operatividade não faz da memória representação plena, nem critério, nem verdade. Apenas mostra que a memória tem eficácia interna: aquilo que foi apreendido continua a poder modificar o modo como o humano se relaciona com o real.
+
+O falso dizer desta zona é transformar a memória em arquivo neutro.
+
+Nesse erro, a memória parece uma sala de depósito interior. O passado ficaria guardado, mas sem exercer função na relação presente ao real. Isso não basta. A memória que interessa ao capítulo é memória porque permanece e opera.
+
+A quinta determinação do capítulo é esta:
+
+> a memória é operante porque a relação apreendida continua a influenciar a relação atual ao real.
+
+A reinscrição local é esta: a memória deve ser devolvida à sua função real de orientação, não reduzida a arquivo neutro.
+
+## 7. Seletividade
+
+A memória é seletiva.
+
+Nem tudo o que afeta permanece do mesmo modo. Nem tudo o que é apreendido ganha a mesma durabilidade. Nem toda relação ao real se estabiliza com igual força, igual clareza ou igual capacidade operativa.
+
+A seletividade não deve ser entendida aqui como escolha consciente soberana. Não é o sujeito a decidir livremente que relações permanecem e quais se apagam. A seletividade é uma consequência da estrutura situada, corporal, afetiva, relacional e temporal do humano.
+
+Algumas relações marcam mais.  
+Algumas integram-se mais.  
+Algumas repetem-se.  
+Algumas resistem.  
+Algumas tornam-se decisivas para orientação futura.  
+Outras dissipam-se.  
+
+O falso dizer da seletividade é psicologizá-la demasiado cedo.
+
+Nesse erro, a seletividade da memória passa a ser explicada por intenção, vontade, narrativa de si ou escolha subjetiva. Mas a seletividade que aqui interessa é mais baixa: é o modo como a relação ao real se estabiliza diferencialmente num humano situado.
+
+A sexta determinação do capítulo é esta:
+
+> a memória é seletiva porque nem toda a relação apreendida se estabiliza com a mesma força, duração ou operatividade.
+
+A reinscrição local é esta: a seletividade deve ser devolvida à estrutura situada da relação ao real, não transformada em escolha soberana do sujeito.
+
+## 8. Identidade temporal mínima
+
+A memória prepara identidade temporal, mas ainda não a desenvolve como narrativa de si.
+
+Se uma relação apreendida pode persistir, se essa persistência é durável, operante e seletiva, então o humano situado já não é apenas sucessão de instantes desligados. Há uma continuidade interna mínima.
+
+Essa continuidade interna mínima permite dizer que o humano mantém uma relação consigo através do tempo. Mas essa identidade ainda é mínima. Não é biografia, não é narrativa, não é identidade moral, não é sujeito plenamente articulado.
+
+É apenas a continuidade temporal mínima de um humano que conserva relações apreendidas ao real.
+
+O falso dizer desta zona é transformar identidade temporal mínima em identidade narrativa.
+
+Nesse erro, a memória torna-se imediatamente história de si, autobiografia, consciência temporal ou unidade pessoal desenvolvida. Mas isso é mais alto do que o capítulo deve abrir. O Capítulo 5 pode preparar essa possibilidade; não deve transformá-la em centro.
+
+A sétima determinação do capítulo é esta:
+
+> a memória permite identidade temporal mínima, mas ainda não identidade narrativa desenvolvida.
+
+A reinscrição local é esta: a identidade temporal deve ser mantida como consequência mínima da permanência interna da relação apreendida, não como sujeito narrativo já constituído.
+
+## 9. Distinção face à continuidade bruta
+
+A memória não é simples continuidade.
+
+Tudo o que persiste tem alguma continuidade. Mas nem toda continuidade é memória. Uma pedra pode permanecer. Uma estrutura pode durar. Um processo pode continuar. Isso não basta para haver memória no sentido próprio deste capítulo.
+
+A memória exige relação apreendida. Exige um humano situado. Exige que algo do real tenha sido recebido e que essa receção permaneça internamente de modo operante.
+
+A continuidade bruta é permanência.  
+A memória é permanência interna de relação apreendida.  
+
+O falso dizer por baixo é dissolver `P25` em continuidade geral.
+
+Nesse erro, a memória deixa de ter centro próprio. Torna-se apenas mais uma forma de duração ou persistência. Mas isso faria o Capítulo 5 regressar a níveis anteriores e perderia a especificidade memorial.
+
+A oitava determinação do capítulo é esta:
+
+> memória não é continuidade bruta; é continuidade interna e operante da relação apreendida ao real.
+
+A reinscrição local é esta: a continuidade deve ser reconhecida como pressuposto, não como substituto da memória.
+
+## 10. Distinção face ao arquivo
+
+A memória também não é arquivo.
+
+O arquivo guarda. A memória opera.
+
+O arquivo pode conservar sem integrar. A memória, no sentido deste capítulo, integra uma relação ao real no modo de ser do humano situado. Por isso, não basta dizer que algo fica depositado. É preciso dizer que aquilo que fica pode orientar, afetar, selecionar, abrir ou limitar novas relações ao real.
+
+O falso dizer arquivístico é muito forte porque parece intuitivo. Falar de memória como depósito, armazenamento, ficheiro ou reserva parece natural. Mas esta imagem é pobre. Faz da memória uma coisa dentro de outra coisa.
+
+A memória não é uma caixa.  
+Não é uma gaveta interior.  
+Não é uma lista de conteúdos.  
+Não é mera retenção passiva.  
+
+É permanência interna eficaz da relação apreendida.
+
+A nona determinação do capítulo é esta:
+
+> a memória não é arquivo neutro; é permanência operante da relação ao real.
+
+A reinscrição local é esta: a imagem de arquivo deve ser devolvida à relação viva que tenta empobrecidamente figurar.
+
+## 11. Distinção face ao tempo vivido e à consciência temporal
+
+A memória também não deve ser inflacionada em tempo vivido ou consciência temporal.
+
+É certo que a memória introduz temporalidade interna. Mas essa temporalidade não deve ser soberanizada. O que está em causa não é uma fenomenologia do tempo vivido. É a estabilização temporal interna da relação apreendida ao real.
+
+O falso dizer por cima é começar pelo tempo vivido.
+
+Nesse erro, o capítulo abre por experiência temporal, consciência do tempo, fluxo vivido, retenção, presença de si ou duração subjetiva. Mas isso sobe cedo demais. A memória ficaria logo capturada por um sujeito temporal que o capítulo ainda não deve pressupor como cabeça.
+
+A temporalidade relevante aqui é mais baixa:
+
+- algo foi apreendido;
+- essa relação não se perdeu;
+- permaneceu internamente;
+- continuou a operar;
+- organizou minimamente uma continuidade temporal do humano situado.
+
+A décima determinação do capítulo é esta:
+
+> a memória não é tempo vivido soberano; é temporalidade interna da relação apreendida ao real.
+
+A reinscrição local é esta: o tempo deve ser devolvido à relação ao real que se estabiliza, não autonomizado como experiência temporal.
+
+## 12. Distinção face à representação
+
+A memória abre para representação, mas não é ainda representação plena.
+
+Quando uma relação apreendida permanece internamente, ela pode ser fixada, organizada, evocada, comunicada, simbolizada e trabalhada. Esta possibilidade prepara `P26`.
+
+Mas a memória não deve ser confundida com essa fixação ulterior.
+
+A memória conserva e opera.  
+A representação fixa e torna mediável.  
+
+O falso dizer desta zona é deixar `P26` subir a cabeça do capítulo.
+
+Nesse erro, o que era permanência interna da relação apreendida passa a ser imediatamente forma representacional, imagem, conceito, símbolo ou linguagem. O Capítulo 5 seria então capturado pelo Capítulo 6.
+
+Mas a ordem deve manter-se:
+
+> apreensão → memória → representação.
+
+A décima primeira determinação do capítulo é esta:
+
+> a memória precede a representação plena; `P26` entra apenas como fixação mediada ulterior.
+
+A reinscrição local é esta: a representação deve ser devolvida ao seu lugar derivado, não promovida a origem da memória.
+
+## 13. Fixação mediada ulterior: entrada curta de `P26`
+
+`P26` entra porque a memória, ao conservar internamente a relação apreendida, torna possível uma fixação ulterior.
+
+Aquilo que permanece pode ser retomado.  
+Aquilo que é retomado pode ser fixado.  
+Aquilo que é fixado pode ser mediado.  
+Aquilo que é mediado pode tornar-se comunicável, simbólico, linguístico ou representacional.  
+
+Mas essa sequência ainda não é o centro do Capítulo 5.
+
+O Capítulo 5 só pode dizer o mínimo sobre `P26`: a memória abre para a fixação mediada do apreendido.
+
+Não deve desenvolver linguagem.  
+Não deve desenvolver símbolo.  
+Não deve desenvolver sentido.  
+Não deve desenvolver representação como corpo próprio.  
+
+O falso dizer consiste em ler a abertura para `P26` como autorização para já começar o Capítulo 6.
+
+Mas preparar não é iniciar.
+
+A décima segunda determinação do capítulo é esta:
+
+> `P26` é derivação imediata da memória, não centro do Capítulo 5.
+
+A reinscrição local é esta: a fixação mediada deve permanecer como consequência ulterior da memória, não como substituição do seu centro.
+
+## 14. Adequação e verdade como fecho terminal subordinado
+
+Uma relação apreendida, memorizada e ulteriormente representada pode ajustar-se ou desajustar-se ao real.
+
+Por isso, `P31/P34` podem entrar no fecho.
+
+Mas entram apenas terminalmente.
+
+A memória, por si, não garante verdade. Uma relação apreendida pode permanecer internamente e ainda assim ser mal fixada, mal interpretada, mal representada ou mal dita. A permanência não basta como critério de adequação.
+
+A verdade exige outro plano: representação, adequação, critério submetido ao real.
+
+O falso dizer desta zona é deixar `P31/P34` reocuparem o centro.
+
+Nesse erro, o Capítulo 5 deixa de tratar da memória como estabilização temporal interna e passa a tratar da verdade, do erro, do critério e da correção. Mas isso pertence ao Capítulo 7.
+
+Aqui basta dizer:
+
+- a memória conserva;
+- a representação fixa;
+- a adequação avalia;
+- a verdade exige critério submetido ao real.
+
+A décima terceira determinação do capítulo é esta:
+
+> `P31/P34` entram apenas como fecho terminal subordinado: a memória pode abrir para adequação e verdade, mas não as tem como centro.
+
+A reinscrição local é esta: verdade e critério devem ser devolvidos ao seu lugar posterior, não promovidos a cabeça do Capítulo 5.
+
+## 15. O erro local do capítulo
+
+A Nota de Leitura obriga a tornar visível o erro próprio de cada capítulo. No Capítulo 5, esse erro não deve ser tratado como teoria geral do erro. Deve ser reconhecido apenas como risco local de mau dizer da memória.
+
+O erro local tem duas formas principais.
+
+A primeira é dissolver a memória por baixo.
+
+Aqui a memória é reduzida a continuidade bruta, rasto, marca, arquivo, depósito, armazenamento ou mera não-extinção. O capítulo perde o que torna `P25` próprio: a estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real.
+
+A segunda é inflacionar a memória por cima.
+
+Aqui a memória é imediatamente tratada como tempo vivido, consciência temporal, identidade narrativa, sujeito, representação, linguagem, verdade, erro ou correção. O capítulo salta para camadas posteriores e pressupõe resolvido o que ainda estava a fixar.
+
+As duas formas parecem opostas, mas têm a mesma consequência:
+
+> deslocam a memória do seu estatuto próprio.
+
+Ou a tornam demasiado pobre, como rasto inerte; ou demasiado alta, como sujeito temporal, representação ou verdade.
+
+Há ainda erros derivados:
+
+- deixar `P23/P24` cair para fundo implícito;
+- deixar `P25` perder centralidade;
+- deixar `P26` comandar;
+- deixar `P31/P34` comandar;
+- confundir identidade temporal mínima com identidade narrativa;
+- confundir operatividade memorial com critério de verdade;
+- confundir seletividade com escolha soberana do sujeito;
+- confundir permanência interna com arquivo.
+
+A décima quarta determinação do capítulo é esta:
+
+> o erro local do Capítulo 5 é deslocar a memória do seu estatuto de estabilização temporal interna da relação apreendida ao real, reduzindo-a por baixo ou inflacionando-a por cima.
+
+A reinscrição local é esta: cada falso dizer deve ser reconduzido à cadeia baixa do capítulo — humano situado, apreensão local, persistência da relação apreendida, estabilização temporal interna, durabilidade, operatividade e seletividade.
+
+## 16. Reinscrição da memória no real
+
+A correção local do Capítulo 5 não consiste em propor uma psicologia da memória.
+
+Também não consiste em propor uma fenomenologia do tempo vivido.
+
+Também não consiste em propor uma teoria da identidade pessoal.
+
+Consiste em devolver a memória ao real.
+
+Essa reinscrição tem cinco movimentos.
+
+Primeiro: há humano situado no real.  
+Segundo: esse humano apreende localmente o real.  
+Terceiro: a relação apreendida não se extingue necessariamente no instante.  
+Quarto: essa relação pode estabilizar-se temporalmente de modo interno, durável, operante e seletivo.  
+Quinto: essa estabilização prepara fixação mediada ulterior, mas não se confunde com ela.
+
+Esta reinscrição não nega a memória.  
+Não nega a temporalidade.  
+Não nega a identidade temporal mínima.  
+Não nega a representação futura.  
+Não nega a verdade futura.  
+
+Apenas põe cada camada no seu lugar.
+
+A memória fica abaixo da representação plena, abaixo da consciência temporal soberana, abaixo da identidade narrativa e abaixo do regime próprio de verdade, erro, critério e correção.
+
+Mas fica acima da mera continuidade bruta, do rasto inerte e do arquivo neutro.
+
+A décima quinta determinação do capítulo é esta:
+
+> reinscrever a memória é reconduzi-la à permanência interna, durável, operante e seletiva da relação apreendida ao real por um humano situado.
+
+Esta é a correção local que o capítulo pode fazer.
+
+Nada mais.
+
+## 17. Fronteira com o Capítulo 4
+
+A fronteira com o Capítulo 4 deve ficar clara.
+
+No Capítulo 4, `P25` entrou subordinadamente. Servia para que a reflexividade humana pudesse constituir-se sem perder imediatamente a relação apreendida.
+
+No Capítulo 5, `P25` sobe a centro próprio.
+
+Esta diferença é decisiva.
+
+Enquanto a estabilização temporal interna serve apenas a constituição situada da reflexividade, estamos ainda no Capítulo 4. Quando essa estabilização passa a ser pensada em si mesma, como memória, permanência interna e identidade temporal mínima, entramos no Capítulo 5.
+
+O falso dizer da fronteira é tratar o Capítulo 5 como simples prolongamento do Capítulo 4.
+
+Mas o Capítulo 5 tem centro próprio.
+
+A sua pergunta não é já como se constitui a reflexividade humana situada. É como a relação apreendida ao real permanece internamente como memória.
+
+A décima sexta determinação do capítulo é esta:
+
+> o Capítulo 5 começa quando `P25` deixa de ser articulação subordinada da reflexividade e passa a centro próprio como memória.
+
+A reinscrição local é esta: a fronteira com o Capítulo 4 deve preservar a subida legítima de `P25`, sem regressar à reflexividade como centro.
+
+## 18. Fronteira com o Capítulo 6
+
+A fronteira com o Capítulo 6 também deve ficar clara.
+
+O Capítulo 5 prepara a representação, a linguagem, o símbolo e o sentido, mas não os inicia como centro próprio.
+
+A memória conserva internamente a relação apreendida. Essa conservação torna possível fixação mediada. A fixação mediada abrirá depois para representação, linguagem, símbolo e sentido.
+
+Mas, enquanto o problema for a permanência interna da relação apreendida, ainda estamos no Capítulo 5.
+
+Quando o problema passar a ser a forma pela qual essa relação conservada é fixada, mediada, representada, simbolizada e comunicada, começará o Capítulo 6.
+
+O falso dizer da fronteira é deixar `P26` capturar o capítulo.
+
+Nesse erro, a memória deixa de ser centro e passa a ser apenas preparação para representação. Mas a representação só entra porque a memória já fixou o seu centro próprio.
+
+A décima sétima determinação do capítulo é esta:
+
+> o Capítulo 5 entrega `P26`, mas não se deixa comandar por `P26`.
+
+A reinscrição local é esta: a representação deve ser preparada como passagem, não aberta como cabeça.
+
+## 19. Fronteira com o Capítulo 7
+
+O Capítulo 5 também prepara, muito indiretamente, o Capítulo 7.
+
+Uma memória pode conservar uma relação apreendida. Essa relação pode ser representada. A representação pode depois ser avaliada quanto à sua adequação ao real. Daí a possibilidade de verdade, erro, critério e correção.
+
+Mas isso ainda não é o centro do Capítulo 5.
+
+A memória não é verdadeira só por permanecer.  
+A memória não é critério só por operar.  
+A memória não corrige só por conservar.  
+
+Pode haver memória de uma apreensão parcial, deformada, mal fixada ou mal reinscrita. Por isso, a verdade exige plano próprio.
+
+O falso dizer da fronteira é confundir permanência com verdade.
+
+Nesse erro, aquilo que permanece internamente parece ganhar autoridade apenas por permanecer. Mas permanência não é critério último. O critério último continua a ser o real.
+
+A décima oitava determinação do capítulo é esta:
+
+> a memória pode preparar avaliação de adequação, mas não substitui o regime próprio de verdade, erro, critério e correção.
+
+A reinscrição local é esta: `P31/P34` devem permanecer como fecho terminal subordinado, não como abertura epistemológica.
+
+## 20. Fecho e ponte baixa `5→6`
+
+O Capítulo 5 deve terminar antes de mudar de centro.
+
+A sua pergunta foi: que é a memória enquanto permanência interna da relação apreendida ao real por um humano situado?
+
+A resposta mínima ficou ganha: a memória é estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real; é mais do que continuidade bruta ou arquivo neutro, mas menos do que representação plena, consciência temporal, identidade narrativa ou verdade.
+
+Mas esta resposta abre uma nova pressão.
+
+Se a memória conserva internamente a relação apreendida, então essa relação pode ser fixada, mediada, representada e comunicada. Aquilo que permanece pode receber forma. Aquilo que recebe forma pode tornar-se símbolo. Aquilo que se torna símbolo pode entrar em linguagem e sentido.
+
+Essa pergunta pertence ao Capítulo 6.
+
+O Capítulo 5 pode entregar ao seguinte apenas isto:
+
+> quando aquilo que a memória conserva se torna fixável, mediável, representável e comunicável, deixa de estar em causa apenas a permanência interna da relação apreendida; começa o problema da representação, da linguagem, do símbolo e do sentido.
+
+Esta entrega prepara o Capítulo 6.
+
+Mas não o inicia ainda.
+
+O falso dizer da ponte é transformar preparação em absorção. Como se, por a memória abrir para representação, já se pudesse tratar linguagem e símbolo; como se, por haver permanência interna, já houvesse sentido; como se, por haver identidade temporal mínima, já houvesse narrativa.
+
+Esse salto seria indevido.
+
+O Capítulo 5 deve parar no bordo.
+
+A décima nona determinação do capítulo é esta:
+
+> a ponte `5→6` é obrigatória, mas apenas terminal: prepara representação, linguagem, símbolo e sentido sem os fazer ocupar o centro do Capítulo 5.
+
+A reinscrição local é esta: a ponte deve ser devolvida ao seu estatuto de passagem, não convertida em cabeça antecipada do capítulo seguinte.
+
+## 21. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 5 pode ser condensado assim.
+
+### ser em causa
+
+O ser em causa é a **memória enquanto estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado**.
+
+Não é:
+
+- memória psicológica geral;
+- arquivo de conteúdos;
+- depósito passivo;
+- rasto inerte;
+- continuidade bruta;
+- passado guardado;
+- tempo vivido soberano;
+- consciência temporal;
+- identidade narrativa;
+- representação plena;
+- linguagem;
+- símbolo;
+- verdade;
+- erro;
+- critério;
+- correção.
+
+É o modo como a relação apreendida ao real permanece internamente num humano situado, com durabilidade, operatividade e seletividade suficientes para preparar fixação mediada ulterior.
+
+### dizer do ser
+
+A memória pode ser dita erradamente como:
+
+- simples continuidade;
+- rasto;
+- marca;
+- depósito;
+- arquivo;
+- armazenamento;
+- faculdade isolada;
+- tempo vivido;
+- fluxo subjetivo;
+- consciência temporal;
+- identidade do sujeito;
+- identidade narrativa;
+- representação enfraquecida;
+- linguagem interior;
+- critério de verdade;
+- garantia de adequação.
+
+### erro local
+
+O erro local nasce quando a proposição sobre a memória deixa de reconhecer o seu estatuto próprio.
+
+As formas principais desse erro são:
+
+- dissolver `P25` por baixo em continuidade bruta, rasto ou arquivo;
+- inflacionar `P25` por cima em tempo vivido, consciência temporal, identidade narrativa ou sujeito;
+- deixar `P26` comandar o capítulo;
+- deixar `P31/P34` comandarem o capítulo;
+- confundir permanência com verdade;
+- confundir operatividade com critério;
+- confundir identidade temporal mínima com identidade narrativa;
+- confundir seletividade com escolha soberana.
+
+O erro não é ainda tratado aqui como corpo próprio. É apenas reconhecido como risco local de mau dizer da memória.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> memória é estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado.
+
+A reinscrição não nega a continuidade.  
+Não nega a temporalidade.  
+Não nega a identidade temporal mínima.  
+Não nega a representação futura.  
+Não nega a verdade futura.  
+
+Apenas põe cada camada no seu lugar.
+
+### entrega
+
+A entrega ao capítulo seguinte é precisa:
+
+> se a memória conserva internamente a relação apreendida, então é necessário perguntar como essa relação conservada se fixa, se representa, se simboliza, se comunica e produz sentido.
+
+O Capítulo 5 entrega a pergunta pela representação, linguagem, símbolo e sentido.
+
+Mas não entrega ainda uma teoria da representação.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> humano situado / localidade / apreensão → persistência da relação apreendida → memória como estabilização temporal interna → durabilidade → operatividade → seletividade → identidade temporal mínima → fixação mediada ulterior (`P26`) → adequação e verdade apenas terminais (`P31/P34`) → entrega ao Capítulo 6.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que não havia núcleo estrutural admissível em falta.
+
+Por isso, esta reescrita não acrescenta novo centro, novo material tardio ou nova arquitetura interna.
+
+A intervenção feita foi apenas de disciplina expositiva:
+
+- tornar mais explícita a memória como ser em causa no capítulo;
+- reforçar a abertura por humano situado, localidade e apreensão;
+- fixar `P25` como centro próprio;
+- distinguir memória de continuidade bruta;
+- distinguir memória de arquivo neutro;
+- distinguir memória de tempo vivido e consciência temporal;
+- distinguir identidade temporal mínima de identidade narrativa;
+- manter `P26` como derivação ulterior;
+- manter `P31/P34` como fecho terminal subordinado;
+- nomear o erro local sem abrir teoria geral do erro;
+- reinscrever a memória no real;
+- endurecer a ponte terminal `5→6`.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada apenas como orientação de legibilidade.
+
+Por isso, esta versão:
+
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem transformar erro/correção em corpo próprio;
+- reinscreve o dizer da memória no real;
+- entrega ao capítulo seguinte apenas a necessidade de pensar representação, linguagem, símbolo e sentido.
+
+A Nota não altera o centro do capítulo.
+
+Apenas torna mais visível o modo como o leitor deve atravessar a peça.
+
+### ganhos da versão
+
+A versão já consegue:
+
+- não abrir por tempo vivido;
+- não abrir por identidade narrativa;
+- não abrir por consciência temporal;
+- não abrir por sujeito;
+- não abrir por representação;
+- não abrir por linguagem;
+- não abrir por verdade;
+- não dissolver `P25` por baixo;
+- não inflacionar `P25` por cima;
+- manter `P26` derivado;
+- manter `P31/P34` terminais;
+- formular a memória como centro próprio;
+- preparar o Capítulo 6 sem o iniciar;
+- compatibilizar o capítulo com a chave da Nota sem converter a Nota em método soberano.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão futura:
+
+- a expressão “identidade temporal mínima”, que deve permanecer mínima e não narrativa;
+- a distinção entre durabilidade e conservação literal;
+- a distinção entre operatividade e critério;
+- a distinção entre seletividade situada e escolha subjetiva;
+- a entrada curta de `P26`, que deve preparar a representação sem a abrir;
+- o fecho `P31/P34`, que deve manter a adequação e a verdade como terminais;
+- a ponte `5→6`, que deve preparar linguagem, símbolo e sentido sem os iniciar;
+- o equilíbrio entre crítica local e centro positivo, para que o capítulo não pareça mais forte pelo que recusa do que pelo que afirma.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+
+- tempo vivido como centro;
+- consciência temporal;
+- identidade narrativa;
+- sujeito como centro;
+- interioridade soberana;
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- sentido;
+- teoria geral da mediação;
+- adequação como capítulo próprio;
+- critério como tribunal;
+- verdade como centro;
+- erro e correção como corpo próprio;
+- dever-ser;
+- valor;
+- dignidade;
+- responsabilidade;
+- cultura;
+- instituição;
+- sistema;
+- crítica tardia;
+- teoria psicológica da memória;
+- fenomenologia do tempo;
+- teoria narrativa da identidade.
+
+### fórmula final da versão
+
+> O Capítulo 5 fixa apenas isto: a memória é a estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado; é mais do que continuidade bruta, rasto ou arquivo, e menos do que tempo vivido, identidade narrativa, representação plena, verdade ou correção.
+
+O capítulo deve terminar antes de a representação se tornar centro.
+
+O que ficou ganho é a centralidade própria de `P25`: a relação apreendida ao real pode permanecer internamente num humano situado, e essa permanência permite durabilidade, operatividade, seletividade e identidade temporal mínima sem ainda subir a representação, linguagem, verdade ou correção.
+
+Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pela verdade, nem pelo critério, nem pela correção como corpo próprio, mas pelo modo como aquilo que a memória conserva se fixa, se medeia, se representa, se simboliza e ganha sentido.
+
+### fórmula axial de leitura local
+
+> **ser no real:** memória enquanto estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado;  
+> **dizer do ser:** continuidade bruta, rasto, arquivo, depósito, tempo vivido, consciência temporal, identidade narrativa, representação, linguagem ou verdade;  
+> **erro da proposição não real:** deslocar `P25` do seu estatuto próprio, dissolvendo-o por baixo ou inflacionando-o por cima;  
+> **reinscrição no real:** memória como permanência interna eficaz da relação apreendida ao real, anterior à representação plena e ao regime próprio de verdade, erro, critério e correção.
+
+<a id="capitulo-cap-06-representacao-linguagem-simbolo-sentido"></a>
+## CAP_06_representacao_linguagem_simbolo_sentido
+
+- Pasta: `CAP_06_representacao_linguagem_simbolo_sentido`
+- Ficheiros incluídos: `8`
+
+### Índice interno da pasta
+
+- [00_estatuto_e_limites](#cap-06-representacao-linguagem-simbolo-sentido-00-estatuto-e-limites-md) — `CAP_06_representacao_linguagem_simbolo_sentido/00_estatuto_e_limites.md`
+- [01_estrutura_interna](#cap-06-representacao-linguagem-simbolo-sentido-01-estrutura-interna-md) — `CAP_06_representacao_linguagem_simbolo_sentido/01_estrutura_interna.md`
+- [02_materiais_positivos](#cap-06-representacao-linguagem-simbolo-sentido-02-materiais-positivos-md) — `CAP_06_representacao_linguagem_simbolo_sentido/02_materiais_positivos.md`
+- [03_materiais_criticos](#cap-06-representacao-linguagem-simbolo-sentido-03-materiais-criticos-md) — `CAP_06_representacao_linguagem_simbolo_sentido/03_materiais_criticos.md`
+- [04_lacunas_do_capitulo](#cap-06-representacao-linguagem-simbolo-sentido-04-lacunas-do-capitulo-md) — `CAP_06_representacao_linguagem_simbolo_sentido/04_lacunas_do_capitulo.md`
+- [05_decisao_local_do_capitulo](#cap-06-representacao-linguagem-simbolo-sentido-05-decisao-local-do-capitulo-md) — `CAP_06_representacao_linguagem_simbolo_sentido/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-06-representacao-linguagem-simbolo-sentido-06-primeira-versao-controlada-de-escrita-md) — `CAP_06_representacao_linguagem_simbolo_sentido/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6](#cap-06-representacao-linguagem-simbolo-sentido-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap6-md) — `CAP_06_representacao_linguagem_simbolo_sentido/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6.md`
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-00-estatuto-e-limites-md"></a>
+### 00_estatuto_e_limites
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/00_estatuto_e_limites.md`
+
+# 00_estatuto_e_limites
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar o estatuto local do **Capítulo 6 — representação, linguagem, símbolo e sentido** dentro da pasta de capítulos;
+- determinar o que este capítulo pode e não pode fazer no livro;
+- preservar a diferença entre memória, representação, linguagem, verdade, erro e crítica sistémica;
+- abrir localmente o capítulo sem o converter ainda em redação corrida;
+- impedir que linguagem, símbolo, representação ou sentido se tornem soberanos face ao real.
+
+### limite
+- este ficheiro não reabre nenhum `CF`;
+- não redecide a arquitetura total da obra;
+- não reabre o `Capítulo 5`;
+- não antecipa o `Capítulo 7`;
+- não transforma o capítulo em teoria geral da linguagem;
+- não transforma o capítulo em teoria do símbolo;
+- não transforma o capítulo em epistemologia plena;
+- não transforma representação em critério;
+- não transforma linguagem em mundo;
+- não transforma sentido em instância soberana;
+- não autoriza ainda redação corrida do capítulo.
+
+### valor metodológico
+- vale como abertura local disciplinada da pasta do `Capítulo 6`;
+- vale como travão contra crescimento indevido de `P26`;
+- vale como base para `01_estrutura_interna.md`, `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`;
+- vale como critério para decidir, mais tarde, se o capítulo está apenas arquitetado, povoado parcialmente ou pronto para primeira versão controlada de escrita.
+
+---
+
+## II. Estatuto local do capítulo
+
+### estado atual
+**aberto localmente com restrições**
+
+### estatuto próprio
+O `Capítulo 6` é o capítulo em que a relação apreendida e estabilizada internamente pela memória passa a poder ser **fixada, mediada, representada, simbolizada e comunicada**.
+
+Não é capítulo da memória.
+Não é capítulo da consciência.
+Não é capítulo do sujeito.
+Não é capítulo da verdade.
+Não é capítulo do erro.
+Não é capítulo da correção.
+Não é capítulo da cultura.
+Não é capítulo do sistema.
+
+É capítulo da **mediação representacional e simbólica do apreendido**, sempre submetida ao real.
+
+### forma de uso
+O capítulo deve ser usado como:
+- capítulo da passagem de `P25` para `P26`;
+- capítulo em que a representação ganha corpo próprio;
+- capítulo em que linguagem, símbolo e sentido entram como mediações reais;
+- capítulo em que se distingue apreensão, memória, representação, linguagem e verdade;
+- capítulo de travagem da soberania simbólica.
+
+Não deve ser usado como:
+- teoria linguística autónoma;
+- teoria semiótica autónoma;
+- hermenêutica geral;
+- teoria cultural;
+- teoria da verdade;
+- crítica do discurso;
+- crítica da ideologia;
+- crítica sistémica;
+- capítulo do erro e da correção.
+
+---
+
+## III. Centro próprio do capítulo
+
+### centro
+O centro próprio do `Capítulo 6` é este:
+
+> **representação, linguagem, símbolo e sentido enquanto formas mediadas de fixação, organização e comunicação do apreendido, sempre dependentes da apreensão situada, da memória e da submissão ao real.**
+
+### desdobramento mínimo do centro
+1. há real;
+2. o humano é ente situado no real;
+3. a apreensão precede a representação;
+4. a memória estabiliza internamente a relação apreendida;
+5. a representação fixa mediacionalmente o apreendido;
+6. a linguagem torna essa fixação articulável e comunicável;
+7. o símbolo permite estabilização e circulação de sentido;
+8. o sentido não é soberano: vale apenas enquanto remete, medeia ou organiza relação ao real;
+9. a verdade só pode entrar terminalmente, quando a representação for julgável pela sua adequação ao real.
+
+### fórmula curta do centro
+O `Capítulo 6` trata da passagem em que aquilo que foi apreendido e estabilizado internamente se torna representável, dizível, simbolizável e comunicável, sem deixar de estar submetido ao real.
+
+---
+
+## IV. Falso centro dominante a bloquear
+
+### falso centro dominante principal
+O falso centro dominante a bloquear é este:
+
+> **transformar linguagem, símbolo ou representação em instância soberana que substitui o real.**
+
+### formas típicas desse desvio
+- abrir por linguagem como se tudo começasse no dizer;
+- abrir por símbolo como se o símbolo fundasse o real;
+- abrir por sentido como se o sentido bastasse a si próprio;
+- tratar representação como cópia interior já verdadeira;
+- tratar linguagem como condição absoluta de existência do real;
+- transformar mediação em origem;
+- transformar comunicação em critério;
+- transformar coerência simbólica em verdade;
+- fazer do sistema de signos o lugar último da validade.
+
+### outros falsos centros a bloquear
+- consciência;
+- sujeito;
+- memória;
+- identidade narrativa;
+- verdade;
+- critério;
+- erro;
+- correção;
+- cultura;
+- instituição;
+- sistema;
+- crítica do fechamento simbólico;
+- normatividade;
+- vida boa.
+
+### fórmula crítica curta
+> A linguagem não funda o real; a linguagem fixa, organiza e comunica algo que só pode ser inteligível porque há real, apreensão e relação anterior ao dizer.
+
+---
+
+## V. Fronteira com o anterior
+
+### capítulo anterior
+O anterior imediato é:
+
+**`Capítulo 5 — memória, permanência interna e identidade temporal mínima`**
+
+### o que o Capítulo 6 herda do Capítulo 5
+O `Capítulo 6` herda:
+- humano situado;
+- localidade;
+- apreensão;
+- relação ao real;
+- memória como estabilização temporal interna;
+- retomabilidade do apreendido;
+- distinção entre memória e representação.
+
+### diferença decisiva face ao Capítulo 5
+No `Capítulo 5`, o centro era `P25`: memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real.
+
+No `Capítulo 6`, o centro desloca-se para `P26` e para as suas derivações mediacionais:
+
+> aquilo que a memória tornou retomável passa agora a poder ser fixado, representado, simbolizado e dito.
+
+### o que o Capítulo 6 não pode reabrir do anterior
+O `Capítulo 6` não pode reabrir como centro:
+- memória;
+- permanência interna;
+- identidade temporal mínima;
+- retenção;
+- arquivo;
+- tempo vivido;
+- consciência temporal.
+
+Esses elementos ficam pressupostos.
+
+Não governam o capítulo.
+
+### regra da fronteira anterior
+> O `Capítulo 5` explica como a relação apreendida permanece; o `Capítulo 6` explica como essa permanência se torna mediável, representável e dizível.
+
+---
+
+## VI. Fronteira com o seguinte
+
+### capítulo seguinte
+O seguinte imediato é:
+
+**`Capítulo 7 — verdade, erro, critério e correção`**
+
+### o que o Capítulo 6 prepara legitimamente
+O `Capítulo 6` prepara:
+- representação avaliável;
+- possibilidade de adequação;
+- possibilidade de desadequação;
+- necessidade futura de critério;
+- possibilidade estrutural do erro;
+- necessidade futura de correção.
+
+### o que o Capítulo 6 não pode absorver do seguinte
+O `Capítulo 6` não pode absorver como centro:
+- verdade;
+- critério;
+- erro;
+- correção;
+- adequação desenvolvida;
+- desadequação desenvolvida;
+- reinscrição corretiva;
+- epistemologia plena.
+
+### regra da fronteira posterior
+> A representação torna possível a verdade e o erro, mas ainda não é, por si só, o capítulo da verdade e do erro.
+
+### paragem obrigatória
+O capítulo deve parar no ponto em que se torna claro que a representação, por já poder ser comparada ao real, exigirá critério.
+
+Esse já é o problema do `Capítulo 7`.
+
+---
+
+## VII. Fronteira lateral com o Capítulo 4
+
+### capítulo lateral relevante
+O `Capítulo 4 — consciência, reflexividade e sujeito reinscritos` permanece como fronteira lateral.
+
+### o que pode ser pressuposto
+Pode ser pressuposto:
+- humano situado;
+- reflexividade não soberana;
+- consciência reinscrita no real;
+- sujeito não substancial;
+- pensamento como processo no real.
+
+### o que não pode comandar
+Não podem comandar o `Capítulo 6`:
+- consciência;
+- sujeito;
+- interioridade;
+- presença de si;
+- pensamento como cabeça;
+- reflexividade como origem da linguagem.
+
+### regra
+> A linguagem não nasce de um sujeito soberano; nasce de um ser situado que apreende, estabiliza e medeia a relação ao real.
+
+---
+
+## VIII. Fronteira lateral com crítica sistémica
+
+### zona crítica posterior
+A crítica sistémica, cultural, institucional ou tecnológica pertence a zonas posteriores.
+
+### o que o Capítulo 6 pode preparar
+O `Capítulo 6` pode preparar a possibilidade de:
+- estabilização simbólica;
+- circulação de representações;
+- sedimentação de sentidos;
+- futura cristalização cultural ou institucional.
+
+### o que não pode fazer
+Não pode ainda desenvolver:
+- cultura;
+- instituição;
+- sistema;
+- técnica;
+- direito;
+- ideologia;
+- fechamento simbólico;
+- substituição do real por sistema.
+
+### regra
+> O símbolo pode abrir a possibilidade futura de sistema; mas o `Capítulo 6` ainda não é crítica do sistema.
+
+---
+
+## IX. Uso máximo local agora admissível
+
+### formulação positiva máxima admissível
+A formulação positiva máxima atualmente admissível para o `Capítulo 6` é esta:
+
+> A relação apreendida, estabilizada internamente pela memória, pode ser fixada numa representação mediada; essa fixação permite organizar, simbolizar, dizer e comunicar o apreendido, mas só permanece legítima enquanto se mantiver subordinada ao real que a antecede, a limita e a poderá julgar.
+
+### sequência mínima autorizada
+A sequência mínima já autorizada do capítulo é esta:
+
+1. `P23/P24` — humano situado, localidade e apreensão;
+2. `P25` — memória pressuposta como estabilização interna já tratada;
+3. `P26` — representação como fixação mediada do apreendido;
+4. `P27/P28/P29` — linguagem, símbolo, sentido e mediação;
+5. `P31/P34` — adequação e verdade apenas terminais;
+6. entrega ao `Capítulo 7`.
+
+### o que este uso máximo já permite
+Este uso máximo já permite:
+- abrir o capítulo a partir da ponte com a memória;
+- fazer entrar `P26` como centro de passagem;
+- tratar linguagem e símbolo como mediações reais;
+- distinguir representação de apreensão;
+- distinguir representação de memória;
+- distinguir linguagem de verdade;
+- preparar o capítulo seguinte.
+
+### o que este uso máximo ainda não permite
+Este uso máximo ainda não permite:
+- redação corrida livre;
+- teoria geral da linguagem;
+- teoria geral do símbolo;
+- teoria geral da cultura;
+- teoria geral do sentido;
+- epistemologia plena;
+- crítica sistémica;
+- desenvolvimento autónomo de verdade, erro, critério ou correção.
+
+---
+
+## X. O que fica dentro e o que fica fora
+
+### fica dentro
+- humano situado;
+- localidade;
+- apreensão;
+- memória como pressuposto;
+- retomabilidade do apreendido;
+- representação como fixação mediada;
+- linguagem como articulação do apreendido;
+- símbolo como estabilização mediada;
+- sentido como organização relacional da representação;
+- comunicação enquanto circulação subordinada;
+- distinção entre apreensão e representação;
+- distinção entre memória e representação;
+- distinção entre linguagem e verdade;
+- adequação apenas terminal;
+- preparação para critério, erro e correção.
+
+### fica fora
+- memória como centro;
+- tempo vivido;
+- identidade narrativa;
+- consciência como cabeça;
+- sujeito como origem soberana;
+- linguagem como origem do real;
+- símbolo como mundo autónomo;
+- sentido como critério último;
+- verdade como centro próprio;
+- erro como corpo próprio;
+- correção como corpo próprio;
+- cultura;
+- instituição;
+- sistema;
+- técnica;
+- direito;
+- crítica do fechamento simbólico;
+- normatividade;
+- ética;
+- dignidade;
+- vida boa.
+
+---
+
+## XI. Travões locais obrigatórios
+
+### travão 1 — abertura baixa obrigatória
+O capítulo deve manter `P23/P24` como chão ativo.
+
+Não pode abrir por linguagem em abstrato.
+
+### travão 2 — `P25` apenas pressuposto
+A memória não deve ser novamente desenvolvida como centro.
+
+O capítulo parte da memória já estabilizada no `Capítulo 5`.
+
+### travão 3 — `P26` como centro de passagem
+`P26` deve entrar como fixação mediada do apreendido.
+
+Não pode ser reduzido a mera imagem mental nem elevado a critério de verdade.
+
+### travão 4 — representação não é apreensão
+A representação fixa o apreendido.
+
+Não o substitui.
+
+### travão 5 — linguagem não é real
+A linguagem ocorre no real, mas não é o real inteiro.
+
+### travão 6 — símbolo não é soberano
+O símbolo medeia, estabiliza e comunica.
+
+Não funda o real.
+
+### travão 7 — sentido não é critério último
+O sentido só vale enquanto organização mediada de relação ao real.
+
+Não vale como medida soberana de verdade.
+
+### travão 8 — `P31/P34` terminais
+Adequação e verdade só entram no fim, como bordo terminal.
+
+Não podem abrir o capítulo nem governar retroativamente a linguagem.
+
+### travão 9 — anti-sistema
+Nada de cultura, instituição, técnica, direito ou crítica sistémica como cabeça.
+
+### travão 10 — anti-epistemologia plena
+O capítulo prepara a verdade e o erro, mas não os desenvolve como corpo próprio.
+
+---
+
+## XII. Estatuto lateral de CF17 e CF18
+
+### CF17
+`CF17` permanece apenas como fronteira arquitetónica lateral.
+
+Pode funcionar como:
+- travão contra reordenação global;
+- vigilância contra inversões de sequência;
+- proteção contra usar linguagem ou símbolo como chave total do livro.
+
+Não pode:
+- abrir o capítulo;
+- reordenar a sequência local;
+- transformar o capítulo em teoria da ordem dos problemas.
+
+### CF18
+`CF18` permanece apenas como instrumento lateral de reconhecimento disciplinado.
+
+Pode funcionar como:
+- reconhecimento de objeto;
+- reconhecimento de nível;
+- reconhecimento de operação;
+- identificação de desvio.
+
+Não pode:
+- decidir o centro do capítulo;
+- transformar linguagem em categoria taxonómica;
+- substituir o juízo local do capítulo.
+
+---
+
+## XIII. Fórmula estrutural curta
+
+> **P23/P24 → P25 pressuposto → P26 → P27/P28/P29 → P31/P34 terminal**
+
+ou, em formulação conceptual:
+
+> **humano situado / apreensão / memória pressuposta → representação mediada → linguagem, símbolo e sentido → adequação e verdade apenas terminais**
+
+---
+
+## XIV. Fórmula final curta
+
+> O `Capítulo 6` só pode dizer isto: aquilo que foi apreendido e estabilizado internamente pode ser fixado, mediado, representado, simbolizado e comunicado; mas nenhuma dessas mediações — nem representação, nem linguagem, nem símbolo, nem sentido — possui soberania face ao real que a antecede, a limita e a pode julgar.
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-01-estrutura-interna-md"></a>
+### 01_estrutura_interna
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/01_estrutura_interna.md`
+
+# 01_estrutura_interna
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a estrutura interna mínima do **Capítulo 6 — representação, linguagem, símbolo e sentido**;
+- distinguir as suas partes, subpartes e corredores internos sem o transformar em teoria geral da linguagem;
+- preparar o povoamento local por materiais positivos e críticos;
+- impedir fusões indevidas com o `Capítulo 5`, o `Capítulo 7`, o `Capítulo 8` e as zonas críticas tardias;
+- garantir que símbolo, linguagem, representação e sentido entram como mediações subordinadas ao real.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não reabre `CF06`;
+- não redecide `P27/P28/P29`;
+- não transforma linguagem em fundamento do real;
+- não transforma símbolo em mundo autónomo;
+- não transforma sentido em critério último;
+- não antecipa `Capítulo 7`;
+- não antecipa crítica sistémica, cultura, instituição ou fechamento simbólico;
+- não autoriza ainda redação corrida do capítulo.
+
+### valor metodológico
+- vale como planta local do `Capítulo 6`;
+- vale como ordem mínima do seu futuro povoamento;
+- vale como travão contra inflação simbólica, linguística, epistemológica ou sistémica;
+- vale como base para `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+---
+
+## II. Forma geral do capítulo
+
+### estatuto formal
+O `Capítulo 6` deve funcionar como o capítulo em que a apreensão já estabilizada e retomável passa a poder receber **fixação mediada**, **forma simbólica**, **estabilização linguística** e **representação operável**.
+
+Não é capítulo da memória.
+Não é capítulo da consciência.
+Não é capítulo do sujeito.
+Não é capítulo da verdade.
+Não é capítulo do erro.
+Não é capítulo da correção.
+Não é capítulo da cultura.
+Não é capítulo do sistema.
+
+É capítulo da **mediação simbólico-linguística do apreendido sob submissão ao real**.
+
+### extensão relativa
+O capítulo deve ter corpo suficiente para:
+- fazer `P27` abrir como unidade operativa de mediação;
+- desenvolver `P28/P29` como corpo próprio;
+- mostrar que símbolo, linguagem e representação são reais enquanto mediações;
+- impedir que essas mediações se autonomizem.
+
+Mas deve parar antes de:
+- critério;
+- verdade;
+- erro;
+- correção;
+- cultura;
+- instituição;
+- sistema;
+- crítica do fechamento simbólico.
+
+### regra de composição
+A composição interna do capítulo deve obedecer a esta regra:
+
+> **partir da apreensão e da memória já ganhas; abrir propriamente em `P27` como símbolo/mediação; densificar em `P28/P29` como linguagem e representação operável; admitir `P30/P31/P34` apenas como fecho subordinado; e entregar ao `Capítulo 7` quando a representação exigir critério, verdade, erro e correção.**
+
+---
+
+## III. Partes internas obrigatórias
+
+## Parte A — Limiar herdado: apreensão, memória e fixação mediada mínima
+
+### função local
+Recordar o chão que permite abrir o `Capítulo 6`, sem regressar ao `Capítulo 5`.
+
+### conteúdo mínimo
+1. há real;
+2. o humano é ente situado no real;
+3. a apreensão precede a representação;
+4. a memória estabiliza internamente a relação apreendida;
+5. a memória torna o apreendido retomável;
+6. `P26` prepara a fixação mediada;
+7. quando essa fixação exige corpo simbólico-linguístico próprio, começa o `Capítulo 6`.
+
+### subparte A1 — chão real e humano situado
+- a linguagem não parte de fora do real;
+- o símbolo não tem exterioridade ao real;
+- a representação é produzida por um ente situado;
+- a mediação não elimina localidade.
+
+### subparte A2 — memória pressuposta
+- `P25` fica pressuposto;
+- a memória não volta a ser centro;
+- a retomabilidade do apreendido é condição para a representação;
+- não se reabre tempo vivido, identidade temporal ou arquivo.
+
+### subparte A3 — `P26` como limiar de passagem
+- `P26` não deve ser repetido como centro autónomo;
+- funciona como ponte entre memória e mediação;
+- a representação começa como fixação mediada do apreendido;
+- quando a fixação pede símbolo, linguagem e forma partilhável, a peça já entrou em `P27/P28/P29`.
+
+### travão interno
+Esta parte deve ser curta.
+
+A função dela é impedir que o `Capítulo 6` apareça sem chão, não voltar a escrever o `Capítulo 5`.
+
+---
+
+## Parte B — `P27`: símbolo como unidade operativa de mediação
+
+### função local
+Abrir o corpo próprio do `Capítulo 6`.
+
+### conteúdo mínimo
+1. o símbolo não funda o real;
+2. o símbolo fixa mediacionalmente algo apreendido;
+3. o símbolo estabiliza uma relação ao real em forma operável;
+4. o símbolo permite que algo do apreendido seja retomado de modo não puramente interno;
+5. o símbolo inaugura uma camada de partilha, mas não soberania.
+
+### subparte B1 — símbolo não soberano
+- o símbolo não cria aquilo que simboliza;
+- o símbolo não substitui o real;
+- o símbolo não é critério de verdade;
+- o símbolo vale pela relação que mantém com o real.
+
+### subparte B2 — símbolo como mediação
+- a mediação permite transformar apreensão em forma;
+- a forma simbólica dá consistência operável ao apreendido;
+- mas essa consistência continua dependente daquilo que foi apreendido no real.
+
+### subparte B3 — símbolo e estabilização
+- o símbolo estabiliza;
+- essa estabilização não é ainda cultura;
+- não é ainda instituição;
+- não é ainda sistema simbólico autónomo;
+- é apenas unidade operativa de mediação.
+
+### travão interno
+Não transformar `P27` em teoria geral do símbolo.
+
+O símbolo abre o caso como mediação subordinada, não como mundo próprio.
+
+---
+
+## Parte C — `P28`: linguagem como estabilização partilhável
+
+### função local
+Mostrar como a mediação simbólica ganha articulação linguística sem se tornar fundamento.
+
+### conteúdo mínimo
+1. a linguagem estabiliza formas simbólicas;
+2. torna o apreendido articulável;
+3. torna a representação comunicável;
+4. permite circulação de sentido;
+5. mantém dependência da apreensão e do real.
+
+### subparte C1 — linguagem como articulação
+- a linguagem dá forma articulada;
+- permite diferenciação interna;
+- permite encadeamento;
+- permite nomeação;
+- permite descrição.
+
+### subparte C2 — linguagem como partilha
+- a linguagem torna a representação comunicável;
+- abre espaço comum de referência;
+- permite que o apreendido circule entre seres situados;
+- mas não torna a comunidade critério último.
+
+### subparte C3 — linguagem sob submissão ao real
+- o dito é real enquanto ato;
+- mas o dito não é verdadeiro apenas por ser dito;
+- a linguagem pode dizer bem ou mal;
+- a linguagem pode aproximar ou afastar a representação do real.
+
+### travão interno
+Não abrir por linguagem.
+
+A linguagem entra depois do símbolo como mediação estabilizada, não como origem do real nem como fundamento do sentido.
+
+---
+
+## Parte D — `P29`: representação operável e mediação organizada
+
+### função local
+Fixar o ponto em que a apreensão, mediada simbolicamente e estabilizada linguisticamente, se torna representação operável.
+
+### conteúdo mínimo
+1. a representação organiza o apreendido;
+2. torna-o operável;
+3. permite descrição;
+4. permite comparação;
+5. permite comunicação mais estável;
+6. mas permanece exposta ao erro.
+
+### subparte D1 — representação como organização
+- a representação não é apreensão pura;
+- fixa, ordena e reconstrói o apreendido;
+- torna possível operar sobre aquilo que foi apreendido;
+- permite que o real seja dito e retomado.
+
+### subparte D2 — representação como mediação
+- a representação medeia a relação ao real;
+- não é o real;
+- não é simples imagem interior;
+- não é cópia garantidamente verdadeira;
+- é uma forma mediada que pode aproximar ou afastar.
+
+### subparte D3 — representação partilhável
+- a representação pode circular;
+- pode ser comunicada;
+- pode ser discutida;
+- pode ser corrigida;
+- mas essa possibilidade já prepara o `Capítulo 7`.
+
+### travão interno
+Não deixar `P29` subir para verdade.
+
+A representação torna possível a verdade e o erro, mas ainda não decide nenhum dos dois.
+
+---
+
+## Parte E — Sentido como organização relacional subordinada
+
+### função local
+Dar lugar ao sentido sem o deixar comandar o capítulo.
+
+### conteúdo mínimo
+1. o sentido surge como organização da mediação;
+2. depende de símbolo, linguagem e representação;
+3. não é critério último;
+4. não vale por coerência interna pura;
+5. só permanece legítimo se continuar ligado ao real que pretende mediar.
+
+### subparte E1 — sentido não soberano
+- o sentido não funda o real;
+- o sentido não substitui a apreensão;
+- o sentido não basta para verdade;
+- o sentido pode fechar-se sobre si e produzir desvio.
+
+### subparte E2 — sentido como relação
+- o sentido é relacional;
+- liga representação, símbolo, linguagem e real;
+- permite inteligibilidade partilhada;
+- mas permanece vulnerável a deslocamento.
+
+### subparte E3 — sentido e risco de fechamento
+- quanto mais o sentido circula, mais pode estabilizar-se;
+- quanto mais se estabiliza, mais pode parecer autónomo;
+- essa autonomia aparente é risco, não centro positivo.
+
+### travão interno
+Não abrir o capítulo por “sentido”.
+
+O próprio `CF06` bloqueia a reabertura por sentido como falso centro. O sentido entra como efeito organizado da mediação, não como fundamento.
+
+---
+
+## Parte F — Fecho subordinado: `P30/P31/P34`
+
+### função local
+Mostrar que a mediação não se basta a si mesma e que a representação, por ser representável e comunicável, abre a necessidade futura de adequação.
+
+### conteúdo mínimo
+1. a mediação não dispensa consciência localizada;
+2. a representação não se basta a si própria;
+3. a coerência simbólico-linguística não substitui adequação;
+4. `P31/P34` entram apenas como fecho corretivo subordinado;
+5. `P37` não entra ainda como peça estabilizada.
+
+### subparte F1 — `P30` como reinscrição reflexiva local
+- a representação ocorre num ser situado;
+- não há mediação sem localização;
+- a consciência não se torna soberana por representar;
+- a reflexividade continua reinscrita no real.
+
+### subparte F2 — `P31` como possibilidade de adequação/desadequação
+- a representação pode ajustar-se ou desajustar-se ao real;
+- esta possibilidade nasce da distância entre representação e real;
+- mas ainda não se desenvolve aqui como teoria do erro.
+
+### subparte F3 — `P34` como verdade apenas terminal
+- a verdade só entra enquanto horizonte terminal;
+- não abre o capítulo;
+- não governa o corpo simbólico-linguístico;
+- não transforma o CAP_06 em CAP_07.
+
+### travão interno
+`P31/P34` devem entrar tarde, curto e subordinados.
+
+Se passarem a comandar, o capítulo já foi capturado pelo `Capítulo 7`.
+
+---
+
+## Parte G — Entrega ao Capítulo 7
+
+### função local
+Parar no ponto certo.
+
+### conteúdo mínimo
+1. símbolo e linguagem tornaram o apreendido representável;
+2. a representação tornou-se operável e comunicável;
+3. por isso, tornou-se avaliável;
+4. a avaliação exige critério;
+5. o critério abre o problema da verdade, erro e correção;
+6. esse é o capítulo seguinte.
+
+### formulação de passagem
+> Quando a representação mediada já pode ser comparada ao real, a questão deixa de ser apenas linguagem, símbolo e sentido; passa a ser verdade, erro, critério e correção.
+
+### travão interno
+A entrega não deve resolver o `Capítulo 7`.
+
+Só deve prepará-lo.
+
+---
+
+## IV. Ordem interna mínima obrigatória
+
+A ordem mínima do `Capítulo 6` deve ser esta:
+
+1. **chão herdado** — real, humano situado, apreensão e memória pressuposta;
+2. **limiar de `P26`** — fixação mediada do apreendido;
+3. **`P27`** — símbolo como unidade operativa de mediação;
+4. **`P28`** — linguagem como estabilização articulada e partilhável;
+5. **`P29`** — representação operável e mediação organizada;
+6. **sentido** — organização relacional subordinada;
+7. **`P30/P31/P34`** — fecho corretivo subordinado;
+8. **entrega ao `Capítulo 7`**.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente proibido:
+- abrir por linguagem;
+- abrir por sentido;
+- abrir por consciência;
+- abrir por sujeito;
+- abrir por cultura;
+- abrir por sistema;
+- abrir por verdade;
+- abrir por erro;
+- abrir por correção;
+- abrir por crítica do símbolo.
+
+---
+
+## V. Minicapítulos internos provisórios
+
+Para efeitos de povoamento e futura redação, o `Capítulo 6` passa a trabalhar com estes minicapítulos provisórios:
+
+### M1 — Chão herdado: apreensão e memória pressuposta
+Função: recordar `P23/P24`, `P25` e `P26` sem reabrir o `Capítulo 5`.
+
+### M2 — Símbolo como mediação não soberana
+Função: abrir `P27` como unidade operativa de mediação.
+
+### M3 — Linguagem como estabilização articulada
+Função: desenvolver `P28` sem converter linguagem em fundamento.
+
+### M4 — Representação operável
+Função: desenvolver `P29` como forma mediada de organização e comunicação do apreendido.
+
+### M5 — Sentido como efeito relacional subordinado
+Função: dar lugar ao sentido sem deixar que ele substitua o real.
+
+### M6 — Fecho corretivo subordinado
+Função: permitir `P30/P31/P34` apenas como limite terminal.
+
+### M7 — Passagem para verdade, erro, critério e correção
+Função: entregar a necessidade futura do `Capítulo 7`.
+
+### nota de prudência
+`M3`, `M5` e `M6` são os minicapítulos mais perigosos.
+
+- `M3` pode transformar linguagem em centro soberano;
+- `M5` pode transformar sentido em fundamento;
+- `M6` pode entregar o capítulo cedo demais ao eixo corretivo.
+
+Devem ser densos o suficiente para funcionar, mas disciplinados o suficiente para não roubar o centro.
+
+---
+
+## VI. Fronteiras de não-fusão
+
+### não fundir com o Capítulo 5
+O `Capítulo 6` não deve regressar a:
+- memória;
+- permanência interna;
+- identidade temporal;
+- retenção;
+- arquivo;
+- tempo vivido.
+
+A fronteira é esta:
+
+> no `Capítulo 5`, a relação apreendida permanece internamente; no `Capítulo 6`, essa permanência torna-se mediável, representável, simbolizável e dizível.
+
+### não fundir com o Capítulo 7
+O `Capítulo 6` não deve absorver:
+- verdade como centro;
+- erro como centro;
+- critério como centro;
+- correção como centro;
+- adequação desenvolvida;
+- reinscrição corretiva plena.
+
+A fronteira é esta:
+
+> a representação mediada prepara a avaliação; a avaliação pertence ao `Capítulo 7`.
+
+### não fundir com o Capítulo 8
+O `Capítulo 6` não deve virar crítica da vida no símbolo.
+
+Pode preparar o risco.
+Não o deve desenvolver como centro.
+
+A fronteira é esta:
+
+> aqui o símbolo ainda é mediação; só mais tarde pode ser criticado como fechamento.
+
+### não fundir com cultura, instituição ou sistema
+O `Capítulo 6` não deve absorver:
+- cultura;
+- instituição;
+- técnica;
+- direito;
+- sistema simbólico estabilizado;
+- crítica sistémica;
+- substituição do real por sistema.
+
+A fronteira é esta:
+
+> linguagem e símbolo ainda não são cultura nem sistema; são mediações que podem, mais tarde, estabilizar-se nessa direção.
+
+---
+
+## VII. Travões locais de crescimento
+
+### travão 1 — anti-linguagem soberana
+A linguagem não funda o real.
+
+### travão 2 — anti-símbolo autónomo
+O símbolo não substitui aquilo que simboliza.
+
+### travão 3 — anti-sentido como cabeça
+O sentido não abre o capítulo.
+
+### travão 4 — anti-consciência alta
+A mediação não pode ser reconduzida a consciência soberana.
+
+### travão 5 — anti-memória regressiva
+O capítulo não pode voltar a desenvolver `P25`.
+
+### travão 6 — anti-verdade precoce
+`P31/P34` só entram como fecho subordinado.
+
+### travão 7 — anti-erro prematuro
+A possibilidade de erro pode ser preparada, mas não desenvolvida.
+
+### travão 8 — anti-correção prematura
+`P37` não deve ser tratado como peça já estabilizada.
+
+### travão 9 — anti-cultura
+Símbolo e linguagem ainda não são cultura.
+
+### travão 10 — anti-sistema
+Mediação não é sistema; sistema simbólico fica para zonas posteriores.
+
+---
+
+## VIII. Fórmula estrutural curta
+
+> **P23/P24 + P25 pressuposto → P26 limiar → P27 → P28/P29 → sentido subordinado → P30/P31/P34 terminal → Capítulo 7**
+
+---
+
+## IX. Fórmula final curta
+
+> O `Capítulo 6` deve mostrar como o apreendido, já estabilizado internamente, se fixa simbolicamente, se estabiliza linguisticamente e se torna representação operável e partilhável; mas deve impedir que símbolo, linguagem, sentido ou coerência interna substituam o real que continuam a dever mediar.
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-02-materiais-positivos-md"></a>
+### 02_materiais_positivos
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/02_materiais_positivos.md`
+
+# 02_materiais_positivos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais positivos mínimos** que já sustentam o povoamento local do **Capítulo 6 — representação, linguagem, símbolo e sentido**;
+- distinguir entre materiais **nucleares**, **de apoio**, **de ponte**, **terminais** e **sob vigilância**;
+- impedir que o capítulo seja povoado por simples afinidade temática com linguagem, símbolo, representação, sentido, cultura, sistema, verdade ou crítica;
+- preparar a abertura posterior de `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não transforma o `Capítulo 6` em teoria geral da linguagem;
+- não transforma o `Capítulo 6` em teoria geral do símbolo;
+- não transforma o `Capítulo 6` em hermenêutica do sentido;
+- não transforma representação em verdade;
+- não transforma mediação em fundamento;
+- não importa para a cabeça do capítulo materiais que pertençam melhor ao `Capítulo 5`, ao `Capítulo 7`, ao `Capítulo 8` ou às zonas críticas tardias;
+- não autoriza ainda redação corrida.
+
+### regra decisiva
+> no `Capítulo 6`, só entra como material positivo aquilo que sustente a passagem pela qual o apreendido, já estabilizado internamente, se fixa simbolicamente, se estabiliza linguisticamente e se torna representação operável e partilhável, sem soberania face ao real.
+
+---
+
+## II. Corredor positivo local do capítulo
+
+O corredor positivo local do `Capítulo 6` permanece este:
+
+1. **chão herdado** — real, humano situado, apreensão e memória pressuposta;
+2. **`P26` como limiar** — fixação mediada do apreendido;
+3. **`P27`** — símbolo como unidade operativa de mediação;
+4. **`P28`** — linguagem como estabilização articulada e partilhável;
+5. **`P29`** — representação operável e mediação organizada;
+6. **sentido subordinado** — organização relacional da mediação, não critério último;
+7. **`P30/P31/P34`** — fecho corretivo subordinado;
+8. **entrega ao `Capítulo 7`**.
+
+### consequência de mapeamento
+Isto obriga a uma seleção dura:
+- o núcleo positivo do capítulo deve ser carregado por materiais de **símbolo**, **linguagem**, **mediação**, **representação operável** e **submissão ao real**;
+- materiais de memória só entram como chão pressuposto;
+- materiais de verdade, erro, critério e correção só entram terminalmente;
+- materiais de cultura, instituição, sistema e crítica do fechamento simbólico ficam fora da cabeça positiva;
+- materiais de consciência e sujeito só entram, quando muito, como fundo lateral de reinscrição no real.
+
+---
+
+## III. Materiais nucleares por minicapítulo interno
+
+## M1 — Chão herdado: apreensão, memória e limiar de fixação mediada
+
+### materiais nucleares de apoio
+- `P23`
+- `P24`
+- `P25`, apenas como pressuposto já ganho no `Capítulo 5`;
+- `P26`, apenas como limiar de passagem para o regime mediacional.
+
+### materiais de apoio herdados
+- `F0241_A23_SEG_001`
+- `F0076_SEG_002`
+- `F0121_A01_SEG_001`
+- `F0090_A01_SEG_004`
+- `F0039_SEG_001`
+- `F0241_A25_SEG_002`
+- `F0108_A02_SEG_001`
+- `F0107_SEG_001`
+- `F0220_SEG_001`
+
+### papel estrutural
+Estes materiais não constituem o corpo próprio do `Capítulo 6`.
+
+Servem para lembrar que:
+- nada apreende de fora do real;
+- o humano é ente situado e localizado;
+- a apreensão precede a representação;
+- a memória já tornou o apreendido retomável;
+- `P26` abre a possibilidade de fixação mediada;
+- mas o capítulo só começa propriamente quando essa fixação pede corpo simbólico-linguístico.
+
+### fórmula local de uso
+> o `Capítulo 6` começa depois de a memória já ter tornado o apreendido retomável e quando essa retomabilidade passa a exigir símbolo, linguagem e representação operável.
+
+### regra de contenção
+`M1` deve ser curto.
+
+A sua função é impedir abertura sem chão, não repetir o `Capítulo 5`.
+
+---
+
+## M2 — `P27`: símbolo como unidade operativa de mediação
+
+### materiais nucleares prioritários
+- `P27`
+- `D_SIMBOLO`
+- `D_MEDIACAO`
+- `D_REPRESENTACAO`
+- `ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO`
+- `ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO`
+- `P_EIXO_SIMBOLICO_MEDIACIONAL`
+
+### fragmentos nucleares de apoio
+- `F0079_A01_SEG_001`
+- `F0079_A01_SEG_002`
+- `F0079_A01_SEG_003`
+- `F0079_A02_SEG_001`
+- `F0080_SEG_001`
+- `F0081_SEG_001`
+- `F0094_A01_SEG_001`
+- `F0095_SEG_001`
+- `F0097_A02_SEG_001`
+- `F0108_A02_SEG_001`
+- `F0111_A01_SEG_001`
+- `F0241_A14_SEG_003`
+- `F0241_A15_SEG_001`
+- `F0241_A25_SEG_002`
+
+### papel estrutural
+Estes materiais sustentam a abertura própria do capítulo.
+
+Devem permitir dizer:
+- o símbolo não funda o real;
+- o símbolo não substitui o real;
+- o símbolo fixa mediacionalmente algo apreendido;
+- o símbolo dá unidade operativa à mediação;
+- o símbolo permite retenção, retomada e transmissibilidade do apreendido;
+- o símbolo ainda não é linguagem como sistema;
+- o símbolo permanece subordinado ao real que medeia.
+
+### formulação positiva de uso
+> o símbolo é a unidade operativa pela qual a representação começa a fixar, retomar e tornar transmissível o apreendido, sem coincidir com o real apreendido nem se autonomizar como mundo próprio.
+
+### regra de contenção
+`P27` deve abrir o corpo do capítulo.
+
+Mas não pode transformar-se em teoria geral do símbolo.
+
+---
+
+## M3 — `P28`: linguagem como estabilização articulada e partilhável
+
+### materiais nucleares prioritários
+- `P28`
+- `D_LINGUAGEM`
+- `D_SIMBOLO`
+- `D_REPRESENTACAO`
+- `D_MEDIACAO`
+- `ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO`
+- `ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO`
+
+### fragmentos de apoio direto
+- `F0107_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0108_A01_SEG_002`
+- `F0108_A01_SEG_003`
+- `F0108_A02_SEG_001`
+- `F0109_SEG_001`
+- `F0110_A01_SEG_001`
+- `F0119_A01_SEG_001`
+- `F0119_A01_SEG_002`
+- `F0241_A10_SEG_001`
+- `F0241_A14_SEG_003`
+- `F0241_A14_SEG_004`
+- `F0241_A25_SEG_001`
+
+### papel estrutural
+Estes materiais sustentam que:
+- a linguagem estabiliza a fixação simbólica;
+- a linguagem articula o apreendido;
+- a linguagem torna a representação comunicável;
+- a linguagem permite circulação partilhável de sentido;
+- a linguagem não cria o real;
+- a linguagem não garante verdade só por estabilizar uma representação.
+
+### formulação positiva de uso
+> a linguagem é o sistema estabilizado de símbolos pelo qual a representação pode conservar-se, articular-se e circular de modo partilhável, sem se confundir com a apreensão imediata nem esgotar a mediação.
+
+### regra de contenção
+`P28` é forte, mas não soberano.
+
+A linguagem deve entrar depois de `P27`, não antes.
+
+---
+
+## M4 — `P29`: representação operável e mediação organizada
+
+### materiais nucleares prioritários
+- `P29`
+- `D_REPRESENTACAO`
+- `D_MEDIACAO`
+- `D_APREENSAO`
+- `ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO`
+- `ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL`
+- `ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO`
+
+### fragmentos de apoio direto
+- `F0058_SEG_001`
+- `F0058_SEG_002`
+- `F0058_SEG_003`
+- `F0059_SEG_001`
+- `F0060_A01_SEG_001`
+- `F0060_A01_SEG_002`
+- `F0078_A01_SEG_001`
+- `F0107_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0108_A02_SEG_001`
+- `F0116_SEG_001`
+- `F0117_A01_SEG_001`
+- `F0118_SEG_001`
+- `F0119_A01_SEG_001`
+- `F0120_SEG_001`
+- `F0241_A05_SEG_002`
+- `F0241_A06_SEG_001`
+- `F0241_A22_SEG_003`
+- `F0241_A23_SEG_001`
+- `F0241_A25_SEG_002`
+
+### papel estrutural
+Estes materiais sustentam que:
+- a representação organiza o apreendido;
+- a representação torna o apreendido operável;
+- a representação é mediada, não imediata;
+- a representação pode ser comunicada e discutida;
+- a representação abre possibilidade de adequação ou desadequação;
+- mas a representação ainda não é verdade.
+
+### formulação positiva de uso
+> a mediação é a transformação operativa pela qual a apreensão se converte em representação estabilizada e operável, sem se reduzir à linguagem já constituída nem à consciência reflexiva que ulteriormente a assume.
+
+### regra de contenção
+`P29` não pode subir para `P31/P34`.
+
+A representação torna possível a verdade e o erro, mas não os decide.
+
+---
+
+## M5 — Sentido como organização relacional subordinada
+
+### materiais positivos admitidos
+- materiais de `P27`;
+- materiais de `P28`;
+- materiais de `P29`;
+- materiais sobre circulação, articulação e organização da representação;
+- materiais que mostrem o sentido como efeito de mediação, não como fundamento.
+
+### fragmentos de apoio sob vigilância
+- `F0107_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0108_A02_SEG_001`
+- `F0119_A01_SEG_001`
+- `F0241_A10_SEG_001`
+- `F0241_A14_SEG_003`
+- `F0241_A25_SEG_001`
+
+### papel estrutural
+Estes materiais podem ajudar a mostrar que:
+- o sentido emerge na organização simbólico-linguística da representação;
+- o sentido é relacional;
+- o sentido circula;
+- o sentido permite inteligibilidade partilhada;
+- mas o sentido não funda o real;
+- o sentido não é critério último;
+- o sentido pode fechar-se sobre si e produzir desvio.
+
+### formulação positiva de uso
+> o sentido é a organização relacional que emerge quando o símbolo, a linguagem e a representação tornam o apreendido inteligível e partilhável, sem que essa inteligibilidade substitua o real que pretende mediar.
+
+### regra de contenção
+O capítulo não pode abrir por “sentido”.
+
+O sentido entra como efeito organizado da mediação, não como cabeça.
+
+---
+
+## M6 — Fecho subordinado: `P30/P31/P34`
+
+### materiais terminais admitidos
+- `P30`
+- `P31`
+- `P34`
+- `D_CONSCIENCIA_REFLEXIVA`, apenas como dobradiça local;
+- `D_ADEQUACAO`, apenas terminalmente;
+- `D_VERDADE`, apenas terminalmente;
+- `ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA`;
+- `ARG_ADEQUACAO_EXIGE_CRITERIO`;
+- `ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO`;
+- `ARG_VERDADE_EXIGE_SUBMISSAO_REAL`.
+
+### fragmentos de apoio terminal
+- `F0010_SEG_001`
+- `F0101_SEG_002`
+- `F0102_A01_SEG_001`
+- `F0102_A01_SEG_002`
+- `F0103_A01_SEG_001`
+- `F0104_A01_SEG_001`
+- `F0204_SEG_001`
+- `F0205_SEG_001`
+- `F0241_A02_SEG_001`
+- `F0241_A10_SEG_001`
+- `F0241_A21_SEG_001`
+- `F0241_A24_SEG_001`
+
+### papel estrutural
+Estes materiais podem entrar apenas para mostrar que:
+- a representação mediada não se basta a si mesma;
+- a consciência que representa continua localizada;
+- a representação pode adequar-se ou desadequar-se ao real;
+- a verdade exigirá adequação sob critério submetido ao real;
+- mas verdade, erro, critério e correção pertencem ao capítulo seguinte como centro próprio.
+
+### formulação positiva de uso
+> a representação mediada torna-se avaliável porque pode ajustar-se ou desajustar-se ao real, mas essa avaliação pertence apenas ao fecho subordinado do `Capítulo 6` e prepara o `Capítulo 7`.
+
+### regra de contenção
+`P30/P31/P34` entram tarde, pouco e subordinadamente.
+
+Não podem reordenar `P27/P28/P29`.
+
+---
+
+## M7 — Passagem para o Capítulo 7
+
+### materiais de ponte admitidos
+- `P31`
+- `P34`
+- `P35`
+- `P36`
+- `P37`, apenas como horizonte posterior;
+- materiais do corredor `P33_P37`, apenas enquanto indicam necessidade futura de critério, erro e correção.
+
+### papel estrutural
+Estes materiais não constituem corpo positivo do `Capítulo 6`.
+
+Servem apenas para entregar o problema seguinte:
+- a representação já está mediada;
+- por isso, pode ser comparada ao real;
+- essa comparação exige critério;
+- a diferença entre adequação e desadequação abre o problema da verdade e do erro;
+- a correção pertence ao capítulo seguinte.
+
+### formulação positiva de uso
+> quando a representação mediada já pode ser comparada ao real, a questão deixa de ser apenas linguagem, símbolo e sentido; passa a ser verdade, erro, critério e correção.
+
+### regra de contenção
+Não desenvolver `P35/P36/P37` no `Capítulo 6`.
+
+Eles pertencem ao `Capítulo 7`.
+
+---
+
+## IV. Materiais de apoio ou ponte que podem entrar, mas não governar
+
+### apoio baixo ainda legítimo
+- `P23/P24`;
+- materiais sobre humano situado;
+- materiais sobre apreensão localizada;
+- materiais sobre não-exterioridade;
+- materiais sobre memória como estabilização interna já tratada;
+- materiais de `P26` enquanto limiar de fixação mediada.
+
+### apoio mediacional nuclear
+- `P27`;
+- `P28`;
+- `P29`;
+- `D_SIMBOLO`;
+- `D_LINGUAGEM`;
+- `D_REPRESENTACAO`;
+- `D_MEDIACAO`;
+- `ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO`;
+- `ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO`.
+
+### apoio terminal
+- `P30`;
+- `P31`;
+- `P34`;
+- materiais de adequação e verdade;
+- materiais de critério apenas como pressão terminal.
+
+### apoios estruturais sob vigilância
+- `PN02`;
+- `PN03`;
+- `AC02`;
+- `CR02`;
+- `CR05`.
+
+### regra de uso
+Os materiais deste grupo:
+- podem densificar o capítulo;
+- não podem governar a cabeça;
+- não podem abrir por ciência cognitiva, linguagem soberana, sistema ou critério;
+- não podem transformar o capítulo em `Capítulo 7`;
+- não podem reabrir `Capítulo 5`.
+
+---
+
+## V. Materiais positivos que ficam fora da cabeça do capítulo
+
+### fora por pertencerem melhor ao Capítulo 5
+- memória como centro;
+- permanência interna;
+- identidade temporal mínima;
+- retenção;
+- arquivo;
+- tempo vivido;
+- consciência temporal.
+
+### fora por pertencerem melhor ao Capítulo 7
+- verdade como centro;
+- erro como centro;
+- critério como centro;
+- correção como centro;
+- adequação desenvolvida;
+- reinscrição corretiva plena;
+- corredor `P33_P37` como corpo próprio.
+
+### fora por pertencerem melhor ao Capítulo 8
+- vida no símbolo;
+- fechamento simbólico;
+- crítica da simbolização enquanto prisão;
+- substituição do real por sistema simbólico;
+- reaperto limítrofe da consciência no símbolo.
+
+### fora por serem demasiado sistémicos ou tardios
+- cultura;
+- instituição;
+- direito;
+- técnica;
+- sistema;
+- cristalização sistémica;
+- crítica da ideologia;
+- crítica cultural.
+
+### fora por serem demasiado antropológicos ou reflexivos
+- sujeito;
+- consciência como cabeça;
+- interioridade;
+- presença de si;
+- relação consigo;
+- autorreconhecimento reflexivo.
+
+### justificação
+O `Capítulo 6` ainda não é crítica de sistema, nem epistemologia plena, nem antropologia reflexiva.
+
+É o capítulo da mediação simbólico-linguística do apreendido sob submissão ao real.
+
+---
+
+## VI. Distribuição resumida dos materiais positivos do Capítulo 6
+
+### núcleo duro
+- `P27`
+- `P28`
+- `P29`
+- `D_SIMBOLO`
+- `D_LINGUAGEM`
+- `D_REPRESENTACAO`
+- `D_MEDIACAO`
+- `ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO`
+- `ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO`
+- `P_EIXO_SIMBOLICO_MEDIACIONAL`
+
+### fragmentos nucleares provisórios
+- `F0079_A01_SEG_001`
+- `F0079_A01_SEG_002`
+- `F0079_A01_SEG_003`
+- `F0080_SEG_001`
+- `F0081_SEG_001`
+- `F0094_A01_SEG_001`
+- `F0095_SEG_001`
+- `F0097_A02_SEG_001`
+- `F0107_SEG_001`
+- `F0108_A01_SEG_001`
+- `F0108_A02_SEG_001`
+- `F0119_A01_SEG_001`
+- `F0241_A05_SEG_002`
+- `F0241_A06_SEG_001`
+- `F0241_A10_SEG_001`
+- `F0241_A14_SEG_003`
+- `F0241_A14_SEG_004`
+- `F0241_A15_SEG_001`
+- `F0241_A22_SEG_003`
+- `F0241_A23_SEG_001`
+- `F0241_A25_SEG_001`
+- `F0241_A25_SEG_002`
+
+### segunda cintura legítima
+- `P23`
+- `P24`
+- `P25` apenas pressuposto;
+- `P26` como limiar;
+- `ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL`
+- `ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO`
+- `ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA`, apenas como fundo já tratado.
+
+### ponte terminal sob vigilância
+- `P30`
+- `P31`
+- `P34`
+- `D_ADEQUACAO`
+- `D_VERDADE`
+- `ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA`
+- `ARG_ADEQUACAO_EXIGE_CRITERIO`
+- `ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO`
+- `ARG_VERDADE_EXIGE_SUBMISSAO_REAL`
+
+### materiais a manter sob forte contenção
+- `P35`
+- `P36`
+- `P37`
+- materiais do corredor `P33_P37`;
+- materiais de erro, critério e correção;
+- materiais de crítica sistémica;
+- materiais de cultura, instituição, técnica e direito.
+
+---
+
+## VII. Lacuna positiva remanescente do capítulo
+
+A principal lacuna positiva do `Capítulo 6` não é falta de massa.
+
+Há massa fragmentária e conceptual forte.
+
+A lacuna principal é outra:
+
+> **como selecionar e ordenar essa massa sem deixar `P28` esmagar `P27`, sem deixar `P31/P34` anteciparem o `Capítulo 7`, e sem deixar linguagem, símbolo ou sentido parecerem soberanos face ao real.**
+
+### consequência
+Na próxima peça, será preciso vigiar especialmente:
+- a suficiência real de `P27` como abertura;
+- a tendência de `P28` para se tornar teoria geral da linguagem;
+- a tendência de `P29` para se tornar representação já avaliável;
+- a tentação de subir cedo para verdade, erro e correção;
+- a tentação de deslocar o capítulo para cultura, sistema ou crítica do fechamento simbólico;
+- a necessidade de manter o real como critério último da mediação.
+
+---
+
+## VIII. Fórmula final curta
+
+> O `Capítulo 6` já tem materiais positivos fortes para mostrar que o apreendido se fixa simbolicamente, se estabiliza linguisticamente e se torna representação operável e partilhável; mas o povoamento deve permanecer disciplinado, porque símbolo, linguagem, representação e sentido só entram legitimamente enquanto mediações subordinadas ao real, nunca como substitutos do real.
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-03-materiais-criticos-md"></a>
+### 03_materiais_criticos
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/03_materiais_criticos.md`
+
+# 03_materiais_criticos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais críticos** e os **travões de uso** do **Capítulo 6 — representação, linguagem, símbolo e sentido**;
+- identificar os falsos centros que ameaçam deslocar `P27/P28/P29`;
+- distinguir entre crítica interna legítima, materiais de fronteira e materiais que devem ficar fora do capítulo;
+- impedir que linguagem, símbolo, sentido, representação ou mediação se tornem soberanos face ao real;
+- impedir que `P31/P34`, `P37` ou `Capítulo 7` capturem a cabeça do capítulo;
+- preparar a passagem a `04_lacunas_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige o capítulo;
+- não substitui `02_materiais_positivos.md`;
+- não transforma o capítulo em crítica da linguagem;
+- não transforma o capítulo em crítica do símbolo;
+- não transforma o capítulo em epistemologia;
+- não transforma o capítulo em crítica cultural ou sistémica;
+- não antecipa `Capítulo 7`;
+- não antecipa `Capítulo 8`;
+- não autoriza ainda redação corrida.
+
+### regra decisiva
+> no `Capítulo 6`, a crítica serve apenas para proteger a mediação simbólico-linguística enquanto mediação subordinada ao real.
+
+---
+
+## II. Núcleo crítico do capítulo
+
+O núcleo crítico do `Capítulo 6` é este:
+
+> **não deixar que símbolo, linguagem, representação, sentido ou mediação substituam o real que deveriam mediar.**
+
+### dupla ameaça principal
+
+#### ameaça por baixo
+O capítulo pode regredir para:
+- memória;
+- permanência interna;
+- retomabilidade sem mediação;
+- `P25`;
+- `P26` ainda subordinado ao `Capítulo 5`;
+- apreensão sem fixação simbólica;
+- continuidade interna sem linguagem.
+
+#### ameaça por cima
+O capítulo pode subir cedo demais para:
+- verdade;
+- erro;
+- critério;
+- correção;
+- `P31/P34` como cabeça;
+- `P37` como clausura;
+- `Capítulo 7`;
+- crítica sistémica;
+- fechamento simbólico;
+- cultura;
+- instituição;
+- sistema.
+
+### ameaça interna específica
+A ameaça própria do capítulo é a soberanização da mediação:
+
+- linguagem como origem do real;
+- símbolo como mundo autónomo;
+- sentido como critério último;
+- representação como cópia verdadeira por si;
+- mediação como fundamento;
+- coerência simbólico-linguística como substituto da adequação.
+
+### consequência crítica
+O capítulo deve manter uma posição estreita:
+
+> **a linguagem e o símbolo são reais enquanto mediações, mas falsos enquanto soberanias.**
+
+---
+
+## III. Falso centro dominante
+
+### falso centro principal
+O falso centro dominante é:
+
+> **linguagem, símbolo ou sentido tratados como fundamento soberano do real, da consciência ou da representação.**
+
+### por que é falso
+É falso porque inverte a ordem real do capítulo.
+
+A ordem legítima é:
+
+> real → humano situado → apreensão → memória pressuposta → fixação mediada → símbolo → linguagem → representação operável → adequação apenas terminal.
+
+A ordem falsa seria:
+
+> linguagem / símbolo / sentido → real.
+
+Ou:
+
+> linguagem / símbolo / sentido → consciência → real.
+
+Ou ainda:
+
+> coerência simbólica → verdade.
+
+### efeito sobre o capítulo
+Esse falso centro:
+- apaga `P23/P24`;
+- apaga a precedência da apreensão;
+- torna `P25` dispensável;
+- transforma `P26` em mediação soberana;
+- faz `P27/P28/P29` parecerem fundamento e não mediação;
+- permite que `P31/P34` entrem cedo como tribunal;
+- prepara a substituição do real por sistema simbólico.
+
+### fórmula crítica curta
+> O `Capítulo 6` não pergunta como a linguagem cria o real; pergunta como o real apreendido pode ser fixado, simbolizado, dito e partilhado sem deixar de estar submetido ao real.
+
+---
+
+## IV. Capturas críticas derivadas
+
+## 1. Captura por linguagem soberana
+
+### forma do desvio
+A linguagem é tratada como origem do real, da consciência ou do sentido.
+
+### sinais do desvio
+- abrir por linguagem;
+- dizer que só há real enquanto dito;
+- fazer da gramática ou do discurso condição absoluta do ser;
+- tratar a comunicação como fundamento;
+- transformar linguagem em medida da verdade;
+- esquecer a apreensão anterior à representação.
+
+### por que é erro
+A linguagem ocorre no real e medeia o real.
+
+Não o funda.
+
+Ela estabiliza e articula algo que já foi apreendido, fixado ou tornado representável. Quando a linguagem é posta na origem, a cadeia fica invertida.
+
+### travão local
+> a linguagem articula o apreendido; não cria o real apreendido.
+
+---
+
+## 2. Captura por símbolo autónomo
+
+### forma do desvio
+O símbolo é tratado como mundo próprio.
+
+### sinais do desvio
+- símbolo como origem de sentido;
+- símbolo como substituto da coisa simbolizada;
+- símbolo como realidade autossuficiente;
+- símbolo como lugar de validade interna;
+- símbolo desligado da relação ao real.
+
+### por que é erro
+O símbolo é unidade operativa de mediação.
+
+Serve para fixar, estabilizar, retomar e transmitir algo do apreendido. Se se autonomiza, deixa de mediar e passa a substituir.
+
+### travão local
+> o símbolo só é legítimo enquanto conserva relação mediada com aquilo que simboliza.
+
+---
+
+## 3. Captura por sentido como fundamento
+
+### forma do desvio
+O sentido passa a abrir o capítulo.
+
+### sinais do desvio
+- abertura por “sentido”;
+- sentido como categoria primeira;
+- sentido como condição do real;
+- sentido como medida da verdade;
+- sentido como mundo partilhado suficiente;
+- sentido como substituto da adequação.
+
+### por que é erro
+O sentido é efeito organizado da mediação.
+
+Surge quando símbolo, linguagem e representação tornam algo inteligível, articulável e partilhável. Mas a inteligibilidade não substitui o real.
+
+### travão local
+> o sentido organiza a mediação; não funda aquilo que a mediação deve mediar.
+
+---
+
+## 4. Captura por representação como cópia ou tribunal
+
+### forma do desvio
+A representação é tratada como cópia garantida ou como critério de verdade.
+
+### sinais do desvio
+- representação como espelho fiel por defeito;
+- representação como verdade imediata;
+- representação como substituto da apreensão;
+- representação como critério autónomo;
+- representação sem possibilidade de erro.
+
+### por que é erro
+A representação é fixação mediada do apreendido.
+
+Por ser mediada, pode adequar-se ou desadequar-se. Por isso, prepara verdade e erro, mas não os decide.
+
+### travão local
+> a representação torna possível a comparação com o real; não é ainda a verdade dessa comparação.
+
+---
+
+## 5. Captura por mediação como fundamento
+
+### forma do desvio
+A mediação deixa de ser passagem e torna-se origem.
+
+### sinais do desvio
+- mediação como primeira palavra;
+- mediação sem apreensão anterior;
+- mediação sem memória pressuposta;
+- mediação sem real que a antecede;
+- mediação como sistema fechado.
+
+### por que é erro
+A mediação só é inteligível porque há algo mediado.
+
+Se não há apreensão, relação ao real e estabilização mínima do apreendido, a mediação fica vazia ou circular.
+
+### travão local
+> não há mediação sem real mediado.
+
+---
+
+## 6. Captura por consciência ou sujeito
+
+### forma do desvio
+A linguagem é reconduzida a sujeito soberano, consciência alta ou interioridade.
+
+### sinais do desvio
+- linguagem como expressão de sujeito pronto;
+- consciência como origem da mediação;
+- interioridade como fonte do sentido;
+- presença de si como fundamento do dizer;
+- pensamento como cabeça do capítulo.
+
+### por que é erro
+O `Capítulo 6` pressupõe a reinscrição do sujeito e da consciência no real.
+
+Não os reabre como origem da linguagem.
+
+A linguagem nasce de um ser situado que apreende, estabiliza e medeia a relação ao real.
+
+### travão local
+> a linguagem não nasce de um sujeito soberano; nasce de um ser situado no real.
+
+---
+
+## 7. Captura por memória regressiva
+
+### forma do desvio
+O capítulo volta a `P25`.
+
+### sinais do desvio
+- memória como centro;
+- permanência interna como corpo principal;
+- retomabilidade sem símbolo;
+- identidade temporal;
+- arquivo;
+- tempo vivido;
+- consciência temporal.
+
+### por que é erro
+O `Capítulo 5` já tratou a memória como centro próprio.
+
+O `Capítulo 6` parte da memória como pressuposto e abre quando o apreendido retomável exige fixação mediada, símbolo, linguagem e representação operável.
+
+### travão local
+> o `Capítulo 6` começa quando aquilo que a memória tornou retomável passa a exigir mediação simbólico-linguística.
+
+---
+
+## 8. Captura por `P31/P34`
+
+### forma do desvio
+Adequação e verdade entram cedo demais.
+
+### sinais do desvio
+- verdade como cabeça;
+- adequação como centro;
+- critério como tribunal;
+- linguagem avaliada antes de ser fixada como mediação;
+- representação tratada imediatamente pelo eixo corretivo.
+
+### por que é erro
+`P31/P34` só podem fechar subordinadamente o `Capítulo 6`.
+
+A sua função local é mostrar que a representação mediada não se basta a si mesma e que poderá vir a ser julgada pelo real.
+
+Mas quando adequação e verdade passam a comandar, já se está a abrir o `Capítulo 7`.
+
+### travão local
+> `P31/P34` fecham a mediação; não a fundam.
+
+---
+
+## 9. Captura por `P37`
+
+### forma do desvio
+A correção aparece como peça já estabilizada.
+
+### sinais do desvio
+- correção como culminação do capítulo;
+- reinscrição corretiva como solução interna;
+- erro já desenvolvido;
+- passagem direta para correção do símbolo ou da linguagem;
+- fecho corretivo pleno.
+
+### por que é erro
+`P37` ainda não é corpo próprio do `Capítulo 6`.
+
+Pode aparecer apenas como horizonte terminal em teste, porque a correção pertence ao regime seguinte: verdade, erro, critério e correção como centro próprio.
+
+### travão local
+> `P37` não fecha o `Capítulo 6`; apenas anuncia o problema posterior da correção.
+
+---
+
+## 10. Captura por crítica sistémica
+
+### forma do desvio
+O capítulo vira crítica da cultura, do sistema ou do fechamento simbólico.
+
+### sinais do desvio
+- sistema simbólico como centro;
+- cultura como destino natural da linguagem;
+- instituição;
+- técnica;
+- direito;
+- ideologia;
+- fechamento simbólico;
+- substituição do real por sistema;
+- crítica do discurso.
+
+### por que é erro
+O símbolo pode preparar a possibilidade futura de sistema.
+
+Mas o `Capítulo 6` ainda está a fixar o estatuto positivo da mediação simbólico-linguística. A crítica do fechamento simbólico pertence a zonas posteriores.
+
+### travão local
+> aqui o símbolo ainda é mediação; só mais tarde pode ser criticado como fechamento.
+
+---
+
+## V. Materiais críticos por zona interna
+
+## M1 — Chão herdado sob risco
+
+### risco
+O chão herdado pode cair para fundo tácito.
+
+### consequência
+Se isso acontecer:
+- a linguagem fica abstrata;
+- o símbolo parece autónomo;
+- a representação fica desligada da apreensão;
+- a mediação parece fundamento.
+
+### travão
+Recordar expressamente:
+- há real;
+- não há exterioridade ao real;
+- o humano é situado;
+- a apreensão precede a representação;
+- a memória fica pressuposta;
+- a mediação só entra depois.
+
+### uso admissível
+Estes materiais servem para manter a abertura baixa ativa.
+
+Não servem para reescrever o `Capítulo 5`.
+
+---
+
+## M2 — `P27` sob risco de apagamento
+
+### risco
+`P27` pode ser apagado pelo peso de `P28/P29`.
+
+### formas do desvio
+- começar diretamente por linguagem;
+- começar diretamente por representação operável;
+- tratar símbolo como etapa dispensável;
+- deixar o símbolo aparecer apenas como vocabulário auxiliar.
+
+### por que é grave
+`P27` é a abertura própria do `Capítulo 6`.
+
+Sem `P27`, a mediação simbólica perde a sua primeira unidade operativa e o capítulo fica inclinado para uma teoria da linguagem ou da representação.
+
+### travão
+> `P27` abre; `P28/P29` densificam.
+
+### uso admissível
+Materiais de linguagem e representação só podem entrar depois de `P27` estar preservado.
+
+---
+
+## M3 — `P28` sob risco de soberanização
+
+### risco
+`P28` pode transformar-se em filosofia da linguagem.
+
+### formas do desvio
+- linguagem como origem do sentido;
+- linguagem como origem do mundo comum;
+- linguagem como sistema fechado;
+- linguagem como critério;
+- linguagem como verdade comunitária;
+- linguagem como substituta da apreensão.
+
+### travão
+`P28` deve ser lido como:
+- estabilização articulada;
+- forma de partilha;
+- modo de comunicação;
+- mediação subordinada;
+- nunca fundamento.
+
+### uso admissível
+A linguagem pode densificar o capítulo enquanto estabilização simbólica partilhável.
+
+Não pode comandar a ontologia do capítulo.
+
+---
+
+## M4 — `P29` sob risco de epistemologização
+
+### risco
+`P29` pode fazer o capítulo saltar para verdade e erro.
+
+### formas do desvio
+- representação como verdade;
+- representação como descrição já validada;
+- representação como critério;
+- representação como campo do erro já desenvolvido;
+- representação como preparação demasiado explícita de `P31/P34`.
+
+### travão
+`P29` deve ser lido como:
+- representação operável;
+- organização mediada;
+- forma partilhável;
+- possibilidade de comparação futura;
+- não ainda verdade.
+
+### uso admissível
+Pode mostrar que a representação é avaliável.
+
+Não pode ainda desenvolver a avaliação.
+
+---
+
+## M5 — Sentido sob risco de falso centro
+
+### risco
+O sentido pode tornar-se cabeça.
+
+### formas do desvio
+- sentido como fundamento;
+- sentido como mundo próprio;
+- sentido como critério;
+- sentido como substituto do real;
+- sentido como explicação suficiente da linguagem.
+
+### travão
+O sentido só entra como organização relacional da mediação.
+
+### uso admissível
+Pode aparecer para mostrar que símbolo, linguagem e representação produzem inteligibilidade partilhável.
+
+Não pode abrir nem fechar soberanamente o capítulo.
+
+---
+
+## M6 — `P30/P31/P34` sob vigilância terminal
+
+### risco
+O fecho subordinado pode capturar o capítulo.
+
+### formas do desvio
+- consciência localizada reabre sujeito;
+- adequação passa a cabeça;
+- verdade passa a cabeça;
+- critério aparece como tribunal;
+- erro e correção entram antes de tempo.
+
+### travão
+`P30/P31/P34` entram apenas para mostrar:
+- a mediação não se basta;
+- a representação pode ajustar-se ou desajustar-se;
+- a verdade será tema próprio depois;
+- o capítulo deve entregar ao `Capítulo 7`.
+
+### uso admissível
+Fecho curto, subordinado e terminal.
+
+---
+
+## M7 — Passagem ao Capítulo 7 sob risco
+
+### risco
+A passagem pode resolver aquilo que só devia anunciar.
+
+### formas do desvio
+- desenvolver verdade;
+- desenvolver erro;
+- desenvolver critério;
+- desenvolver correção;
+- usar `P37` como clausura;
+- iniciar epistemologia plena.
+
+### travão
+A passagem deve apenas dizer:
+
+> quando a representação mediada já pode ser comparada ao real, abre-se o problema da verdade, do erro, do critério e da correção.
+
+### uso admissível
+Anunciar o capítulo seguinte.
+
+Não o escrever.
+
+---
+
+## VI. Materiais críticos que ficam fora do capítulo
+
+## fora por pertencerem melhor ao Capítulo 5
+
+### tipos de material
+- memória;
+- permanência interna;
+- identidade temporal mínima;
+- retenção;
+- arquivo;
+- tempo vivido;
+- consciência temporal;
+- `P25` como centro.
+
+### justificação
+O `Capítulo 6` pressupõe a memória.
+
+Não a reabre.
+
+### regra
+> a memória prepara a mediação; não é o corpo do capítulo mediacional.
+
+---
+
+## fora por pertencerem melhor ao Capítulo 7
+
+### tipos de material
+- verdade;
+- erro;
+- critério;
+- correção;
+- adequação desenvolvida;
+- desadequação desenvolvida;
+- `P35`;
+- `P36`;
+- `P37`;
+- corredor `P33_P37` como corpo próprio.
+
+### justificação
+O `Capítulo 6` só prepara a avaliabilidade da representação.
+
+O desenvolvimento da avaliação pertence ao capítulo seguinte.
+
+### regra
+> quando verdade, erro, critério ou correção passam a centro, já se saiu do `Capítulo 6`.
+
+---
+
+## fora por pertencerem melhor ao Capítulo 8
+
+### tipos de material
+- vida no símbolo;
+- aprisionamento simbólico;
+- crítica da simbolização;
+- substituição do real por sistema simbólico;
+- consciência fechada no símbolo;
+- reaperto limítrofe tardio.
+
+### justificação
+O `Capítulo 6` ainda deve preservar a função positiva da mediação.
+
+A crítica limítrofe do símbolo pertence a um momento posterior.
+
+### regra
+> primeiro é preciso compreender a mediação; só depois criticar o seu fechamento.
+
+---
+
+## fora por pertencerem a crítica sistémica tardia
+
+### tipos de material
+- cultura;
+- instituição;
+- direito;
+- técnica;
+- sistema;
+- ideologia;
+- cristalização sistémica;
+- autonomia institucional;
+- crítica da modernidade;
+- crítica cultural.
+
+### justificação
+A estabilização simbólica pode vir a sedimentar sistemas.
+
+Mas essa sedimentação não é ainda o objeto próprio do `Capítulo 6`.
+
+### regra
+> linguagem e símbolo ainda não são cultura nem sistema.
+
+---
+
+## fora por pertencerem à consciência reflexiva como centro
+
+### tipos de material
+- sujeito;
+- interioridade;
+- relação consigo;
+- presença de si;
+- pensamento como cabeça;
+- autorreconhecimento;
+- consciência como origem da linguagem.
+
+### justificação
+Esses materiais pertencem melhor ao `Capítulo 4` ou entram apenas lateralmente como travão.
+
+### regra
+> o sujeito não funda a linguagem; o ser situado medeia a relação ao real.
+
+---
+
+## VII. Materiais específicos sob vigilância
+
+### `F0276`
+Pode ser útil porque toca pensamento, fala, estruturas representacionais, simbólicas e correspondência ao real.
+
+Mas é perigoso porque pode:
+- reabrir pensamento como centro;
+- puxar a fala para consciência em ato;
+- fazer da fluidez da fala uma teoria da linguagem;
+- antecipar adequação;
+- misturar ação, símbolo, representação e vida no contínuo.
+
+Uso admissível:
+- apenas como apoio lateral à ideia de que estruturas representacionais e simbólicas operam em correspondência ao real;
+- nunca como cabeça do capítulo.
+
+### `F0277`
+Pode ser útil porque denuncia viver na representação simbólica do símbolo sem saber o que os símbolos representam.
+
+Mas é perigoso porque pode:
+- puxar para crítica do fechamento simbólico;
+- entrar cedo demais no `Capítulo 8`;
+- transformar o CAP_06 em crítica da simbolização;
+- deslocar o capítulo para denúncia.
+
+Uso admissível:
+- apenas como travão crítico contra símbolo autonomizado;
+- não como corpo positivo do capítulo.
+
+### `F0278`
+Pode ser útil por tocar a relação entre consciência, deteção, estrutura e real.
+
+Mas é perigoso porque pode:
+- reabrir consciência como problema principal;
+- regressar ao `Capítulo 4`;
+- deslocar a mediação para sensorialidade ou corpo;
+- impedir a entrada própria de `P27/P28/P29`.
+
+Uso admissível:
+- apenas como fronteira lateral de reinscrição da consciência no real;
+- não como material nuclear de CAP_06.
+
+### materiais de `P31/P34`
+Podem ser úteis como fecho.
+
+Mas são perigosos porque podem:
+- fazer do capítulo uma antecâmara forte do `Capítulo 7`;
+- transformar linguagem em verdade;
+- transformar representação em adequação;
+- deixar critério comandar a mediação.
+
+Uso admissível:
+- terminal, curto e subordinado.
+
+### materiais de `P37`
+Podem ser úteis como horizonte.
+
+Mas são perigosos porque podem:
+- introduzir correção antes da hora;
+- fechar o capítulo por reinscrição corretiva;
+- converter mediação em erro a corrigir.
+
+Uso admissível:
+- apenas como possibilidade posterior, não consolidada.
+
+---
+
+## VIII. Distribuição resumida dos materiais críticos do Capítulo 6
+
+### núcleo crítico interno
+- bloqueio da linguagem soberana;
+- bloqueio do símbolo autónomo;
+- bloqueio do sentido como fundamento;
+- bloqueio da representação como verdade;
+- bloqueio da mediação como origem;
+- bloqueio da consciência como fonte soberana da linguagem.
+
+### crítica de baixo
+- bloqueio da regressão a `P25`;
+- bloqueio da redução da mediação a memória;
+- bloqueio da abertura por `P26` ainda subordinado ao `Capítulo 5`;
+- bloqueio da reapertura do tempo vivido ou identidade temporal.
+
+### crítica interna
+- proteger `P27` contra apagamento por `P28/P29`;
+- proteger `P28` contra inflação linguística;
+- proteger `P29` contra epistemologização;
+- manter o sentido subordinado;
+- manter a mediação sob real.
+
+### crítica de cima
+- bloquear `P31/P34` como cabeça;
+- bloquear `P37` como clausura;
+- bloquear verdade, erro, critério e correção como corpo próprio;
+- bloquear `Capítulo 7` antes da hora.
+
+### crítica tardia excluída
+- bloquear cultura;
+- bloquear instituição;
+- bloquear sistema;
+- bloquear técnica;
+- bloquear direito;
+- bloquear crítica do fechamento simbólico;
+- bloquear substituição do real por sistema como corpo do capítulo.
+
+---
+
+## IX. Regra de uso dos materiais críticos
+
+### uso permitido
+Os materiais críticos podem ser usados para:
+- impedir abertura por linguagem soberana;
+- impedir abertura por sentido;
+- impedir símbolo autónomo;
+- distinguir símbolo de real;
+- distinguir linguagem de verdade;
+- distinguir representação de adequação;
+- manter `P27` como abertura;
+- manter `P28/P29` como corpo;
+- manter `P31/P34` como fecho terminal;
+- impedir `P37` de entrar cedo;
+- impedir crítica sistémica prematura.
+
+### uso proibido
+Os materiais críticos não podem ser usados para:
+- substituir a formulação positiva de `P27/P28/P29`;
+- transformar o capítulo em crítica da linguagem;
+- transformar o capítulo em teoria do símbolo;
+- transformar o capítulo em teoria do sentido;
+- transformar o capítulo em epistemologia;
+- abrir o `Capítulo 7`;
+- abrir o `Capítulo 8`;
+- transformar símbolo e linguagem em erro antes de os compreender como mediação.
+
+### regra curta
+> a crítica só entra para impedir que a mediação deixe de mediar.
+
+---
+
+## X. Lacuna crítica remanescente
+
+A principal lacuna crítica do `Capítulo 6` não é identificar os perigos.
+
+Eles já estão suficientemente visíveis.
+
+A lacuna crítica real é esta:
+
+> **formular com secura bastante a diferença entre mediação legítima e mediação soberanizada, sem transformar o capítulo numa crítica da linguagem ou numa antecipação do eixo verdade/erro/correção.**
+
+### consequência
+Na futura redação, será preciso:
+- abrir por `P27`, não por linguagem;
+- fazer `P28/P29` entrar como corpo, não como soberania;
+- distinguir símbolo de real simbolizado;
+- distinguir linguagem de verdade;
+- distinguir representação de adequação;
+- conter o sentido como efeito relacional;
+- conter `P31/P34` no fecho;
+- deixar `P37` e `Capítulo 7` para depois;
+- não chamar cultura, sistema ou crítica tardia.
+
+---
+
+## XI. Fórmula final curta
+
+> O `Capítulo 6` deve defender a mediação simbólico-linguística contra duas perdas: por baixo, não pode regressar à memória ou à apreensão sem símbolo; por cima, não pode subir para verdade, erro, critério, correção ou crítica sistémica. O símbolo, a linguagem, a representação e o sentido só entram legitimamente enquanto mediações subordinadas ao real.
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-04-lacunas-do-capitulo-md"></a>
+### 04_lacunas_do_capitulo
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/04_lacunas_do_capitulo.md`
+
+# 04_lacunas_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar as **lacunas reais ainda ativas** do **Capítulo 6 — representação, linguagem, símbolo e sentido** depois do seu estatuto, estrutura interna, materiais positivos e materiais críticos já levantados;
+- distinguir entre:
+  - lacunas de **densificação positiva**;
+  - lacunas de **travão crítico**;
+  - lacunas de **fronteira**;
+  - lacunas de **ordenação dos materiais**;
+  - lacunas de **fecho terminal**;
+- impedir que o capítulo pareça mais fechado do que realmente está;
+- preparar a passagem disciplinada a `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não reabre `CF06`;
+- não redecide o centro local do capítulo;
+- não transforma lacunas em novo centro;
+- não autoriza ainda redação corrida;
+- não permite preencher as lacunas com teoria geral da linguagem, teoria do símbolo, hermenêutica do sentido, epistemologia plena, crítica sistémica ou cultura;
+- não permite que `P31/P34`, `P37` ou `Capítulo 7` capturem a cabeça do capítulo.
+
+### regra decisiva
+> neste capítulo, a lacuna principal já não é falta de materiais: é falta de ordenação seca suficiente para fazer símbolo, linguagem, representação e sentido funcionarem como mediações subordinadas ao real, sem se autonomizarem e sem anteciparem verdade, erro, critério ou correção.
+
+---
+
+## II. O que já está suficientemente ganho
+
+### ganho positivo real
+Já está suficientemente ganho, para este capítulo:
+- o chão herdado de `P23/P24`;
+- a memória de `P25` apenas como pressuposto já tratado no `Capítulo 5`;
+- `P26` como limiar de fixação mediada;
+- `P27` como abertura própria do corpo mediacional;
+- `P28` como linguagem enquanto estabilização articulada e partilhável;
+- `P29` como representação operável e mediação organizada;
+- o sentido como organização relacional subordinada;
+- `P30/P31/P34` como fecho terminal e subordinado;
+- a entrega ao `Capítulo 7` apenas quando a representação mediada exige critério, verdade, erro e correção.
+
+### ganho crítico real
+Já está suficientemente ganho que o capítulo deve bloquear:
+- linguagem soberana;
+- símbolo autónomo;
+- sentido como fundamento;
+- representação como cópia verdadeira por si;
+- mediação como origem;
+- consciência ou sujeito como fonte soberana da linguagem;
+- regressão para memória;
+- subida prematura para verdade, erro, critério e correção;
+- deslocação para cultura, sistema, instituição ou crítica do fechamento simbólico.
+
+### consequência metodológica
+O `Capítulo 6` não sofre, neste momento, de falta de orientação local.
+
+O que lhe falta não é descobrir o seu centro.
+
+O que lhe falta é:
+- distribuir corretamente a massa positiva;
+- preservar `P27` contra o peso de `P28/P29`;
+- impedir que linguagem absorva símbolo;
+- impedir que representação absorva linguagem;
+- impedir que sentido absorva mediação;
+- impedir que verdade, erro e correção entrem cedo demais;
+- e preparar o `Capítulo 7` sem o escrever.
+
+### fórmula do ganho já preservado
+> aquilo que foi apreendido e estabilizado internamente pode ser fixado, mediado, simbolizado, dito e tornado representável; mas nenhuma dessas mediações possui soberania face ao real que a antecede, limita e pode julgar.
+
+---
+
+## III. Lacuna principal do capítulo
+
+A lacuna principal do `Capítulo 6` é esta:
+
+> **como transformar a massa forte de materiais sobre símbolo, linguagem, representação e sentido em corpo capitular disciplinado sem converter a mediação em fundamento, a linguagem em mundo, o sentido em critério ou a representação em verdade.**
+
+### desdobramento da lacuna principal
+Esta lacuna divide-se em sete problemas:
+
+1. a passagem `P25/P26 → P27` ainda precisa de maior secura;
+2. `P27` ainda precisa de corpo suficiente para não ser apagado por `P28/P29`;
+3. `P28` ainda precisa de contenção para não virar teoria geral da linguagem;
+4. `P29` ainda precisa de fronteira para não virar epistemologia;
+5. o sentido ainda precisa de estatuto subordinado claro;
+6. `P31/P34` ainda precisam de fecho terminal curto;
+7. `P37` e o `Capítulo 7` ainda precisam de ficar fora como regime próprio posterior.
+
+---
+
+## IV. Lacunas positivas ainda ativas
+
+## L1 — passagem `Capítulo 5 → Capítulo 6` ainda precisa de fórmula seca
+
+### problema
+O `Capítulo 5` terminou na memória como estabilização temporal interna da relação apreendida.
+
+O `Capítulo 6` começa quando essa estabilização já não basta e o apreendido retomável exige fixação mediada.
+
+Mas esta passagem ainda pode ficar ambígua:
+- ou regressa à memória;
+- ou salta diretamente para linguagem;
+- ou trata `P26` como se já fosse o corpo inteiro do capítulo.
+
+### o que falta
+Falta uma fórmula curta que diga:
+
+- a memória torna o apreendido retomável;
+- a retomabilidade exige fixação;
+- a fixação mediada abre representação;
+- a representação precisa de unidade simbólica;
+- aí começa o corpo próprio do `Capítulo 6`.
+
+### formulação candidata
+> A memória conserva internamente o apreendido; a mediação começa quando essa conservação se torna fixável numa forma simbólica, articulável e partilhável.
+
+### risco se a lacuna não for preenchida
+Se esta passagem não for disciplinada:
+- o capítulo regressa ao `Capítulo 5`;
+- `P27` entra sem chão;
+- a linguagem aparece cedo demais;
+- ou `P26` fica inflacionado como se fosse o centro todo.
+
+---
+
+## L2 — `P27` ainda precisa de densidade própria
+
+### problema
+`P27` deve abrir o corpo do capítulo.
+
+Mas corre o risco de ser apenas uma passagem breve para linguagem e representação.
+
+### o que falta
+Falta dar ao símbolo estatuto suficiente como unidade operativa de mediação:
+
+- o símbolo fixa;
+- estabiliza;
+- permite retomada não puramente interna;
+- torna transmissível algo do apreendido;
+- inicia a exteriorização mediada sem substituir o real.
+
+### perigo
+Sem densidade própria de `P27`:
+- o capítulo abre de facto por linguagem;
+- `P28` absorve o símbolo;
+- a mediação perde a sua primeira unidade operativa;
+- o capítulo vira teoria da linguagem.
+
+### formulação candidata
+> O símbolo é a primeira unidade operativa da mediação: fixa algo do apreendido numa forma retomável e partilhável, sem coincidir com aquilo que simboliza.
+
+---
+
+## L3 — `P28` ainda precisa de contenção contra inflação linguística
+
+### problema
+`P28` tem muita força material.
+
+A linguagem é um dos núcleos mais ricos do capítulo, mas precisamente por isso ameaça tornar-se cabeça soberana.
+
+### o que falta
+Falta uma formulação que deixe claro que linguagem é:
+
+- estabilização articulada;
+- forma de partilha;
+- meio de comunicação;
+- organização simbólica;
+- mediação subordinada.
+
+E não:
+
+- origem do real;
+- condição absoluta do mundo;
+- critério de verdade;
+- fundamento da consciência;
+- sistema soberano.
+
+### perigo
+Se `P28` crescer sem contenção:
+- linguagem substitui apreensão;
+- discurso substitui real;
+- comunidade substitui critério;
+- sentido partilhado substitui verdade;
+- o capítulo deixa de ser mediação submetida ao real.
+
+### formulação candidata
+> A linguagem estabiliza e articula o símbolo, tornando a representação partilhável; mas aquilo que se torna dizível não é verdadeiro apenas por ter sido dito.
+
+---
+
+## L4 — `P29` ainda precisa de fronteira com epistemologia
+
+### problema
+`P29` torna a representação operável.
+
+Mas representação operável aproxima imediatamente o capítulo da adequação, da verdade, do erro e do critério.
+
+### o que falta
+Falta distinguir:
+
+- representação como forma mediada operável;
+- representação como descrição avaliável;
+- verdade como adequação sob critério;
+- erro como desadequação;
+- correção como reinscrição.
+
+No `Capítulo 6`, só o primeiro ponto é corpo próprio.
+
+Os restantes são fecho ou capítulo seguinte.
+
+### perigo
+Sem esta fronteira:
+- `P29` salta para `P31/P34`;
+- a representação vira verdade;
+- a avaliabilidade vira avaliação;
+- o capítulo vira antecâmara forte do `Capítulo 7`.
+
+### formulação candidata
+> A representação torna o apreendido operável e comparável, mas a comparação efetiva com o real já pertence ao regime da verdade e do erro.
+
+---
+
+## L5 — o sentido ainda precisa de estatuto subordinado
+
+### problema
+O sentido é necessário, mas perigoso.
+
+Se entrar como categoria forte demais, pode comandar o capítulo.
+
+### o que falta
+Falta fixar o sentido como:
+
+- organização relacional da mediação;
+- efeito de símbolo, linguagem e representação;
+- condição de inteligibilidade partilhável;
+- não fundamento;
+- não critério;
+- não verdade.
+
+### perigo
+Se o sentido comandar:
+- o capítulo abre por hermenêutica;
+- a mediação vira mundo de sentido;
+- coerência interna substitui adequação;
+- o real passa a depender da inteligibilidade simbólica.
+
+### formulação candidata
+> O sentido é a organização relacional que torna a mediação inteligível; não é o fundamento daquilo que a mediação pretende dizer.
+
+---
+
+## L6 — `P30` ainda precisa de uso local limitado
+
+### problema
+`P30` pode reabrir a consciência ou a reflexividade como centro.
+
+Mas o `Capítulo 6` não é o capítulo da consciência.
+
+### o que falta
+Falta formular `P30` como dobradiça local:
+
+- a representação ocorre num ser situado;
+- a consciência que representa continua reinscrita no real;
+- a mediação não cria sujeito soberano;
+- a linguagem não nasce de interioridade absoluta.
+
+### perigo
+Sem esta contenção:
+- `P30` reabre o `Capítulo 4`;
+- sujeito e consciência voltam à cabeça;
+- a linguagem passa a parecer expressão de interioridade soberana;
+- a mediação deixa de ser relacional e situada.
+
+### formulação candidata
+> A representação é assumida por um ser situado, mas essa assunção não torna a consciência origem soberana da linguagem.
+
+---
+
+## L7 — `P31/P34` ainda precisam de fecho terminal curto
+
+### problema
+`P31/P34` são necessários porque a representação mediada é avaliável.
+
+Mas a sua força é demasiado grande.
+
+### o que falta
+Falta uma fórmula terminal que diga apenas:
+
+- a representação pode adequar-se ou desadequar-se;
+- a verdade exigirá adequação sob critério;
+- mas esse desenvolvimento pertence ao capítulo seguinte.
+
+### perigo
+Se `P31/P34` crescerem:
+- o capítulo termina como epistemologia;
+- verdade reordena retroativamente linguagem e símbolo;
+- `P27/P28/P29` ficam meras preparações do critério;
+- o `Capítulo 7` invade o `Capítulo 6`.
+
+### formulação candidata
+> A representação mediada torna-se avaliável, mas o capítulo da mediação deve parar antes de transformar essa avaliabilidade em teoria da verdade.
+
+---
+
+## V. Lacunas críticas ainda ativas
+
+## L8 — distinção entre mediação legítima e mediação soberanizada ainda precisa de secura
+
+### problema
+A crítica já sabe que mediação não pode substituir o real.
+
+Mas falta uma fórmula curta, repetível e operacional.
+
+### o que falta
+Falta distinguir:
+
+- mediação legítima: representa, articula e comunica o apreendido;
+- mediação soberanizada: substitui o real por coerência interna, linguagem, símbolo ou sistema.
+
+### formulação candidata
+> A mediação é legítima enquanto reconduz ao real; torna-se falsa quando passa a valer por si.
+
+### risco
+Sem esta distinção:
+- linguagem e símbolo parecem suspeitos por si mesmos;
+- ou, pelo contrário, parecem soberanos;
+- o capítulo oscila entre crítica da mediação e glorificação da mediação.
+
+---
+
+## L9 — distinção entre símbolo e real simbolizado ainda precisa de travão
+
+### problema
+O símbolo pode ser confundido com aquilo que simboliza.
+
+### o que falta
+Falta dizer:
+- o símbolo é real enquanto símbolo;
+- mas não é o real simbolizado;
+- o símbolo vale pela relação mediadora;
+- quando corta essa relação, converte-se em substituto.
+
+### formulação candidata
+> O símbolo é real enquanto mediação, mas falso enquanto substituto daquilo que simboliza.
+
+### risco
+Sem esta distinção:
+- o símbolo vira mundo autónomo;
+- ou é reduzido a ilusão;
+- perde-se o seu estatuto mediacional próprio.
+
+---
+
+## L10 — distinção entre linguagem e verdade ainda precisa de limite
+
+### problema
+A linguagem permite dizer.
+
+Mas dizer não é ainda dizer verdadeiramente.
+
+### o que falta
+Falta fixar a diferença entre:
+- realidade do ato de dizer;
+- estabilidade linguística do dito;
+- verdade do que é dito.
+
+### formulação candidata
+> O dizer é real enquanto ato; o dito só é verdadeiro se se adequar ao real que pretende dizer.
+
+### risco
+Sem este limite:
+- linguagem vira critério;
+- discurso vira verdade;
+- consenso ou circulação simbólica substituem submissão ao real.
+
+---
+
+## L11 — distinção entre representação e adequação ainda precisa de formulação curta
+
+### problema
+A representação é condição da adequação, mas não é adequação.
+
+### o que falta
+Falta uma frase que impeça a fusão:
+
+> representar ≠ adequar.
+
+### desenvolvimento necessário
+A representação:
+- fixa;
+- organiza;
+- torna operável;
+- torna comparável.
+
+A adequação:
+- compara a representação com o real;
+- exige critério;
+- pode falhar.
+
+### formulação candidata
+> A representação abre a possibilidade da adequação; a adequação mede a representação pelo real.
+
+### risco
+Sem esta distinção:
+- o capítulo passa a ser `Capítulo 7`;
+- o erro entra antes da hora;
+- a correção aparece como necessidade interna do `Capítulo 6`.
+
+---
+
+## L12 — distinção entre sentido e coerência interna ainda precisa de proteção
+
+### problema
+O sentido pode parecer suficiente porque dá inteligibilidade.
+
+Mas inteligibilidade não é verdade.
+
+### o que falta
+Falta dizer:
+- o sentido pode organizar;
+- pode tornar compreensível;
+- pode circular;
+- pode estabilizar-se;
+- mas pode também fechar-se sobre si.
+
+### formulação candidata
+> Um sentido pode ser inteligível e ainda assim desadequado ao real.
+
+### risco
+Sem este travão:
+- o capítulo legitima coerência simbólica como se fosse adequação;
+- o sistema de sentido substitui a resistência do real;
+- abre-se cedo demais a crítica sistémica.
+
+---
+
+## VI. Lacunas de fronteira
+
+## L13 — fronteira com o Capítulo 5 ainda precisa de paragem explícita
+
+### problema
+O `Capítulo 6` parte da memória, mas não deve reabrir a memória.
+
+### o que falta
+Falta uma frase de fronteira:
+
+> a memória conserva; a mediação fixa em forma partilhável.
+
+### risco
+Sem esta fronteira:
+- o capítulo regressa a `P25`;
+- permanência interna substitui mediação simbólica;
+- a linguagem parece mero prolongamento da memória.
+
+---
+
+## L14 — fronteira com o Capítulo 7 ainda precisa de contenção
+
+### problema
+O `Capítulo 6` prepara o `Capítulo 7`, mas não o contém.
+
+### o que falta
+Falta uma paragem explícita:
+
+> quando a representação passa a ser julgada pela adequação ao real, começa outro capítulo.
+
+### risco
+Sem esta paragem:
+- o fecho vira desenvolvimento;
+- verdade, erro e correção entram cedo;
+- o `Capítulo 6` perde o seu centro mediacional.
+
+---
+
+## L15 — fronteira com o Capítulo 8 ainda precisa de travão
+
+### problema
+O `Capítulo 6` toca o risco do fechamento simbólico.
+
+Mas o `Capítulo 8` é que deve reapertar esse risco.
+
+### o que falta
+Falta dizer:
+- aqui o símbolo é ainda mediação positiva;
+- o fechamento simbólico é risco posterior;
+- a crítica do símbolo não pode anteceder a compreensão do símbolo.
+
+### formulação candidata
+> Antes de criticar o fechamento simbólico, é preciso compreender o símbolo como mediação real.
+
+### risco
+Sem este travão:
+- o capítulo vira crítica da linguagem;
+- `F0277` e materiais semelhantes capturam a cabeça;
+- a função positiva da mediação desaparece.
+
+---
+
+## L16 — fronteira com crítica sistémica ainda precisa de delimitação
+
+### problema
+Linguagem e símbolo podem sedimentar cultura, instituição e sistema.
+
+Mas essa sedimentação não é ainda o corpo do `Capítulo 6`.
+
+### o que falta
+Falta marcar:
+- símbolo não é ainda sistema simbólico;
+- linguagem não é ainda cultura;
+- comunicação não é ainda instituição;
+- estabilização não é ainda fechamento.
+
+### formulação candidata
+> O sistema pode nascer da estabilização simbólica, mas a estabilização simbólica ainda não é sistema.
+
+### risco
+Sem isto:
+- cultura e instituição entram cedo;
+- o capítulo se torna crítica social;
+- a mediação positiva desaparece em favor da crítica tardia.
+
+---
+
+## L17 — fronteira com o Capítulo 4 ainda precisa de limite contra sujeito
+
+### problema
+A linguagem pode parecer expressão da consciência ou do sujeito.
+
+### o que falta
+Falta dizer:
+- a consciência está reinscrita no real;
+- o sujeito não é origem soberana da linguagem;
+- a linguagem é mediação de um ser situado;
+- não emanação de interioridade pura.
+
+### formulação candidata
+> Quem fala é um ser situado no real, não uma consciência exterior que cria o mundo pelo dizer.
+
+### risco
+Sem este limite:
+- o capítulo regressa ao `Capítulo 4`;
+- linguagem vira expressão de subjetividade;
+- representação vira interioridade organizada.
+
+---
+
+## VII. Lacunas de material fragmentário
+
+## L18 — massa fragmentária forte, mas dispersa
+
+### problema
+O `Capítulo 6` tem massa fragmentária abundante.
+
+Mas essa abundância é também perigo.
+
+### o que falta
+Falta selecionar os materiais segundo função:
+- núcleo de `P27`;
+- corpo de `P28/P29`;
+- apoio de `P26`;
+- fecho de `P31/P34`;
+- travões laterais;
+- exclusões para capítulos posteriores.
+
+### risco
+Se a massa for usada sem filtragem:
+- o capítulo cresce demais;
+- linguagem absorve tudo;
+- representação vira epistemologia;
+- crítica sistémica entra antes da hora.
+
+---
+
+## L19 — materiais de `P28` podem esmagar `P27`
+
+### problema
+Os materiais de linguagem são mais intuitivos e numerosos.
+
+### o que falta
+Falta proteger `P27` como abertura própria.
+
+### risco
+Sem isto:
+- o símbolo desaparece como unidade operativa;
+- a linguagem entra sem mediação simbólica prévia;
+- o capítulo perde a sequência `P27 → P28/P29`.
+
+---
+
+## L20 — materiais de `P31/P34` continuam fortes demais
+
+### problema
+Os materiais de adequação e verdade são estruturalmente fortes em todo o projeto.
+
+### o que falta
+Falta uso terminal estrito:
+- pouco;
+- tarde;
+- sem desenvolvimento;
+- sem critério autónomo;
+- sem correção.
+
+### risco
+Se forem usados com força:
+- o capítulo vira preparação epistemológica;
+- o `Capítulo 7` começa antes da hora;
+- os materiais mediacionais ficam subordinados em excesso.
+
+---
+
+## L21 — `F0276–F0278` exigem uso muito vigiado
+
+### problema
+`F0276`, `F0277` e `F0278` são materialmente ricos, mas instáveis para o CAP_06.
+
+### o que falta
+Falta decidir o seu uso com precisão:
+
+- `F0276` pode apoiar estruturas representacionais e simbólicas em correspondência com o real;
+- `F0277` pode funcionar como travão contra viver na representação simbólica do símbolo;
+- `F0278` pode funcionar como fronteira lateral da consciência e deteção no real.
+
+### risco
+Se forem usados como núcleo:
+- `F0276` puxa para pensamento/fala/ação;
+- `F0277` puxa para crítica do fechamento simbólico;
+- `F0278` puxa para consciência/corpo/deteção;
+- o CAP_06 perde o seu centro mediacional próprio.
+
+### regra candidata
+> `F0276–F0278` podem vigiar o capítulo, mas não devem comandá-lo.
+
+---
+
+## VIII. Prioridade local de preenchimento
+
+### prioridade 1
+Fixar a passagem seca:
+
+> memória pressuposta → fixação mediada → símbolo.
+
+### prioridade 2
+Dar corpo suficiente a `P27` antes de deixar `P28/P29` avançarem.
+
+### prioridade 3
+Conter `P28`:
+
+> linguagem como estabilização articulada e partilhável, não como origem do real.
+
+### prioridade 4
+Conter `P29`:
+
+> representação como forma mediada operável, não como verdade.
+
+### prioridade 5
+Subordinar o sentido:
+
+> sentido como organização relacional da mediação, não como fundamento.
+
+### prioridade 6
+Fechar `P31/P34` terminalmente:
+
+> representação avaliável, mas ainda sem desenvolver avaliação.
+
+### prioridade 7
+Impedir entrada forte de:
+- `P35`;
+- `P36`;
+- `P37`;
+- crítica sistémica;
+- cultura;
+- instituição;
+- sistema;
+- fechamento simbólico.
+
+---
+
+## IX. O que ainda não deve ser feito
+
+### não escrever ainda em liberdade
+O capítulo ainda não deve ser escrito livremente.
+
+Pode ser preparado.
+Pode ser decidido localmente.
+Pode vir a receber uma versão controlada.
+
+Mas ainda não deve ser tratado como capítulo pronto para redação plena.
+
+### não abrir por linguagem
+A linguagem é corpo importante, mas não abertura.
+
+A abertura própria é `P27`: símbolo/mediação.
+
+### não abrir por sentido
+O sentido é efeito organizado da mediação.
+
+Não é centro originário.
+
+### não abrir por verdade
+A verdade pertence ao fecho terminal e ao capítulo seguinte.
+
+### não resolver por crítica sistémica
+O fechamento simbólico, a cultura e o sistema pertencem a zonas posteriores.
+
+### não resolver por sujeito
+A linguagem não deve ser reconduzida a sujeito soberano, consciência ou interioridade.
+
+### não resolver por excesso de materiais
+A abundância fragmentária não deve substituir a ordem local.
+
+---
+
+## X. Efeito desta peça sobre o passo seguinte
+
+### o que esta peça já permite
+Esta peça já permite passar a:
+
+`05_decisao_local_do_capitulo.md`
+
+### porquê
+Porque as lacunas do `Capítulo 6`:
+- são reais;
+- estão identificadas;
+- não põem em causa o centro do capítulo;
+- não exigem reabrir `CF06`;
+- não exigem reabrir a arquitetura;
+- não impedem uma decisão local prudente.
+
+### o que falta decidir no próximo ficheiro
+O próximo ficheiro deve decidir:
+- se o capítulo fica preservado com restrições;
+- qual é o uso máximo local atualmente admissível;
+- se já se pode preparar `06_primeira_versao_controlada_de_escrita.md`;
+- que condições devem travar essa eventual versão controlada;
+- qual é a fórmula máxima autorizada para a passagem `P27/P28/P29 → P31/P34`.
+
+---
+
+## XI. Fórmula curta das lacunas
+
+> O `Capítulo 6` já sabe que o seu centro está na mediação simbólico-linguística do apreendido: símbolo, linguagem, representação e sentido. O que ainda lhe falta é ordenar essa força sem deixar que a mediação se torne fundamento, que a linguagem substitua o real, que o sentido vire critério ou que a representação se transforme já em verdade.
+
+---
+
+## XII. Fórmula final curta
+
+> A lacuna real do `Capítulo 6` não é falta de símbolo, linguagem ou representação; é o excesso de potência dessas mediações. O capítulo tem de mostrar que elas são necessárias para fixar e comunicar o apreendido, mas falsas sempre que deixam de mediar o real e passam a substituí-lo.
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-05-decisao-local-do-capitulo-md"></a>
+### 05_decisao_local_do_capitulo
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/05_decisao_local_do_capitulo.md`
+
+# 05_decisao_local_do_capitulo
+
+## I. Estatuto da decisão
+
+### função
+- fixar a decisão local atualmente admissível para o **Capítulo 6 — representação, linguagem, símbolo e sentido**;
+- decidir o que já fica preservado como ganho local;
+- determinar o uso máximo admissível do capítulo nesta fase;
+- estabelecer se o capítulo pode passar a primeira versão controlada de escrita;
+- impedir que símbolo, linguagem, representação, sentido ou mediação se tornem soberanos face ao real;
+- impedir que verdade, erro, critério, correção, cultura, sistema ou crítica do fechamento simbólico capturem a cabeça do capítulo.
+
+### limite
+- esta decisão não reabre `CF06`;
+- não reabre a arquitetura total;
+- não transforma o capítulo em redação corrida livre;
+- não autoriza teoria geral da linguagem;
+- não autoriza teoria geral do símbolo;
+- não autoriza hermenêutica do sentido;
+- não autoriza epistemologia plena;
+- não autoriza crítica sistémica;
+- não autoriza desenvolvimento autónomo de `P35/P36/P37`;
+- não deixa `P31/P34` comandarem retroativamente `P27/P28/P29`;
+- não usa `CF17` ou `CF18` como cabeças positivas.
+
+### valor metodológico
+- vale como fecho local da abertura disciplinada do `Capítulo 6`;
+- vale como critério de uso para a pasta local;
+- vale como travão contra inflação de linguagem, símbolo, sentido e representação;
+- vale como autorização condicionada para `06_primeira_versao_controlada_de_escrita.md`;
+- vale como separação formal entre o estado arquitetado/povoado do capítulo e uma futura redação livre ainda não autorizada.
+
+---
+
+## II. Base local considerada
+
+Esta decisão parte de:
+
+- `00_estatuto_e_limites.md`;
+- `01_estrutura_interna.md`;
+- `02_materiais_positivos.md`;
+- `03_materiais_criticos.md`;
+- `04_lacunas_do_capitulo.md`.
+
+E permanece subordinada:
+
+- à meta-norma de continuidade e descida expositiva controlada;
+- ao README operativo dos capítulos;
+- à arquitetura provisória revista;
+- à matriz crítica transversal revista;
+- ao mapa de lacunas por capítulo;
+- aos dossiers estabilizados;
+- ao fecho local de `CF06`;
+- às faixas expositivas de `CF06`;
+- ao princípio geral de submissão ao real;
+- e à separação entre `Capítulo 5`, `Capítulo 6`, `Capítulo 7` e `Capítulo 8`.
+
+---
+
+## III. Decisão local
+
+### decisão principal
+
+O `Capítulo 6` fica em estado de:
+
+> **preservar com restrições, manter localmente aberto para densificação controlada e autorizar primeira versão controlada de escrita.**
+
+### razão da decisão
+
+A razão é esta:
+
+- o centro local já está suficientemente fixado;
+- `P27` já pode abrir o corpo próprio do capítulo;
+- `P28/P29` já têm massa bastante para densificação;
+- `P30/P31/P34` já podem funcionar como fecho subordinado;
+- as lacunas já não põem em causa o centro;
+- os riscos principais estão identificados;
+- a massa fragmentária é forte, mas precisa de ordenação;
+- o que falta agora é testar se a escrita consegue conservar a mediação como mediação, sem a deixar soberanizar-se.
+
+### o que esta decisão não significa
+
+Esta decisão não significa:
+
+- capítulo pronto em redação final;
+- capítulo libertado para escrita livre;
+- capítulo consolidado plenamente;
+- capítulo disponível para expansão ensaística;
+- capítulo autorizado a absorver o `Capítulo 7`;
+- capítulo autorizado a absorver o `Capítulo 8`;
+- capítulo autorizado a desenvolver cultura, sistema, instituição ou crítica do fechamento simbólico.
+
+---
+
+## IV. Núcleo local preservado
+
+### chão primário preservado
+
+Fica preservado como chão primário:
+
+- `P23` — nada apreende de fora do real;
+- `P24` — o humano é ente situado e localizado no real.
+
+Estes passos não são o centro do capítulo, mas continuam a ser o chão ativo sem o qual linguagem, símbolo e representação pareceriam operar de fora do real.
+
+### pressuposto memorial preservado
+
+Fica preservado como pressuposto, não como centro:
+
+- `P25` — memória como estabilização temporal interna da relação apreendida ao real.
+
+No `Capítulo 6`, `P25` já não deve ser desenvolvido como corpo próprio.
+
+A sua função é apenas permitir que o apreendido já esteja minimamente retomável.
+
+### limiar mediacional preservado
+
+Fica preservado como limiar:
+
+- `P26` — fixação mediada do apreendido.
+
+`P26` prepara a entrada do capítulo, mas não o esgota.
+
+O capítulo começa propriamente quando essa fixação ganha corpo simbólico-linguístico em `P27/P28/P29`.
+
+### centro próprio preservado
+
+Ficam preservados como centro próprio:
+
+- `P27` — símbolo como unidade operativa de mediação;
+- `P28` — linguagem como estabilização articulada e partilhável;
+- `P29` — representação operável e mediação organizada.
+
+Esta tríade constitui o corpo próprio do `Capítulo 6`.
+
+### fecho terminal preservado
+
+Ficam preservados como fecho terminal subordinado:
+
+- `P30` — consciência reflexiva localizada perante a mediação;
+- `P31` — possibilidade de ajustamento ou desajustamento da representação ao real;
+- `P34` — verdade como adequação sob critério submetido ao real.
+
+Estes passos só entram no fim.
+
+Não podem reordenar o capítulo a partir de cima.
+
+---
+
+## V. Formulação máxima local atualmente admissível
+
+### formulação máxima
+
+A formulação máxima local atualmente admissível é esta:
+
+> **Aquilo que foi apreendido e estabilizado internamente pela memória pode tornar-se fixável numa mediação simbólica; essa mediação permite que o apreendido seja articulado linguisticamente, organizado como representação operável e tornado partilhável como sentido. Mas símbolo, linguagem, representação e sentido só são legítimos enquanto permanecem subordinados ao real que os antecede, limita e pode julgar.**
+
+### estatuto desta formulação
+
+Esta formulação:
+
+- pode governar a primeira versão controlada;
+- pode servir de abertura disciplinada do capítulo;
+- pode estruturar a passagem `P26 → P27 → P28/P29 → P31/P34`;
+- pode apoiar a distinção face ao `Capítulo 5`;
+- pode preparar a entrega ao `Capítulo 7`.
+
+Mas ainda não é redação final.
+
+### o que ela ainda não autoriza
+
+Ela ainda não autoriza:
+
+- abrir por linguagem em abstrato;
+- abrir por sentido;
+- abrir por verdade;
+- abrir por erro;
+- abrir por critério;
+- abrir por correção;
+- desenvolver teoria geral da linguagem;
+- desenvolver teoria geral do símbolo;
+- desenvolver crítica do sistema;
+- desenvolver cultura ou instituição;
+- transformar mediação em fundamento.
+
+---
+
+## VI. Hierarquia local obrigatória
+
+A hierarquia local obrigatória fica fixada assim:
+
+1. **`P23/P24`** — real, humano situado, localidade e apreensão;
+2. **`P25` pressuposto** — memória como estabilização interna já tratada;
+3. **`P26` limiar** — fixação mediada do apreendido;
+4. **`P27`** — símbolo como unidade operativa de mediação;
+5. **`P28`** — linguagem como estabilização articulada e partilhável;
+6. **`P29`** — representação operável e mediação organizada;
+7. **sentido subordinado** — organização relacional da mediação;
+8. **`P30/P31/P34`** — fecho terminal de consciência localizada, adequação e verdade;
+9. **entrega ao `Capítulo 7`** — apenas quando a representação exige critério, verdade, erro e correção.
+
+### regra de não-inversão
+
+Não inverter esta ordem.
+
+Especialmente, não abrir por:
+
+- linguagem;
+- sentido;
+- consciência;
+- sujeito;
+- verdade;
+- erro;
+- critério;
+- correção;
+- cultura;
+- sistema;
+- crítica do símbolo.
+
+---
+
+## VII. O que fica ganho
+
+### ganho 1 — diferença face ao Capítulo 5
+
+Fica ganho que o `Capítulo 6` não é continuação memorial.
+
+A fronteira é esta:
+
+> no `Capítulo 5`, a relação apreendida permanece internamente; no `Capítulo 6`, essa permanência torna-se fixável, simbolizável, dizível e representável.
+
+### ganho 2 — `P27` como abertura própria
+
+Fica ganho que `P27` não é ornamento nem passagem dispensável.
+
+A fórmula curta é:
+
+> **o símbolo é a primeira unidade operativa da mediação.**
+
+Sem `P27`, o capítulo desliza para teoria da linguagem.
+
+### ganho 3 — `P28` como corpo, não como fundamento
+
+Fica ganho que a linguagem é central, mas não soberana.
+
+A linguagem:
+- estabiliza;
+- articula;
+- comunica;
+- torna partilhável.
+
+Mas não:
+- cria o real;
+- funda o sentido;
+- decide a verdade;
+- substitui a apreensão.
+
+### ganho 4 — `P29` como representação operável, não como verdade
+
+Fica ganho que a representação torna o apreendido operável e comparável.
+
+Mas a representação ainda não é adequação.
+
+A fórmula curta é:
+
+> **representar não é ainda adequar.**
+
+### ganho 5 — sentido subordinado
+
+Fica ganho que o sentido pode entrar, mas apenas como organização relacional da mediação.
+
+O sentido não é:
+- fundamento;
+- critério último;
+- verdade;
+- mundo autónomo.
+
+### ganho 6 — `P31/P34` terminais
+
+Fica ganho que adequação e verdade só entram no fecho.
+
+A fórmula curta é:
+
+> **a representação mediada torna-se avaliável, mas o capítulo da mediação deve parar antes de desenvolver a avaliação.**
+
+### ganho 7 — `P37` fora
+
+Fica ganho que `P37` não deve fechar o `Capítulo 6`.
+
+A correção pertence ao regime seguinte.
+
+Aqui só pode aparecer como horizonte posterior, não como corpo local.
+
+---
+
+## VIII. Restrições remanescentes
+
+### restrições positivas
+
+Antes de qualquer redação livre, continuam necessárias:
+
+- formulação mais seca da passagem `Capítulo 5 → Capítulo 6`;
+- proteção de `P27` contra apagamento por `P28/P29`;
+- contenção de `P28` contra inflação linguística;
+- fronteira firme entre `P29` e epistemologia;
+- estatuto subordinado do sentido;
+- fecho terminal curto por `P31/P34`;
+- exclusão de `P37` como clausura;
+- fronteira explícita com `Capítulo 7` e `Capítulo 8`.
+
+### restrições negativas
+
+Continuam fora da cabeça do capítulo:
+
+- memória como centro;
+- permanência interna;
+- tempo vivido;
+- identidade temporal;
+- sujeito;
+- consciência como origem da linguagem;
+- linguagem soberana;
+- símbolo autónomo;
+- sentido como fundamento;
+- representação como verdade;
+- critério como tribunal;
+- erro como corpo próprio;
+- correção como corpo próprio;
+- cultura;
+- instituição;
+- técnica;
+- direito;
+- sistema;
+- crítica do fechamento simbólico;
+- normatividade;
+- ética;
+- dignidade;
+- vida boa.
+
+---
+
+## IX. Uso dos materiais positivos
+
+### materiais nucleares
+
+Ficam admitidos como núcleo local:
+
+- `P27`;
+- `P28`;
+- `P29`;
+- `D_SIMBOLO`;
+- `D_LINGUAGEM`;
+- `D_REPRESENTACAO`;
+- `D_MEDIACAO`;
+- `ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO`;
+- `ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO`;
+- materiais do `P_EIXO_SIMBOLICO_MEDIACIONAL`.
+
+### materiais de apoio baixo
+
+Podem entrar, com brevidade:
+
+- `P23`;
+- `P24`;
+- `P25` pressuposto;
+- `P26` como limiar;
+- humano situado;
+- apreensão;
+- memória já estabilizada;
+- fixação mediada inicial.
+
+Mas estes materiais não podem reabrir o `Capítulo 5`.
+
+### materiais de corpo mediacional
+
+Devem entrar como corpo próprio:
+
+- símbolo;
+- linguagem;
+- representação;
+- mediação;
+- sentido subordinado;
+- articulação;
+- transmissibilidade;
+- partilha;
+- organização relacional da representação.
+
+### materiais terminais
+
+Podem entrar, com forte contenção:
+
+- `P30`;
+- `P31`;
+- `P34`;
+- consciência localizada;
+- adequação;
+- verdade.
+
+Mas apenas como fecho terminal subordinado.
+
+---
+
+## X. Uso dos materiais críticos
+
+### crítica permitida
+
+A crítica permitida é interna e protetora.
+
+Serve para bloquear:
+
+- linguagem soberana;
+- símbolo autónomo;
+- sentido como fundamento;
+- representação como verdade imediata;
+- mediação como origem;
+- consciência como fonte soberana da linguagem;
+- regressão para memória;
+- antecipação de verdade, erro, critério e correção;
+- deslocação para cultura, sistema ou fechamento simbólico.
+
+### crítica proibida
+
+A crítica não pode transformar o capítulo em:
+
+- crítica da linguagem;
+- crítica do símbolo;
+- crítica do sentido;
+- crítica da representação;
+- crítica da cultura;
+- crítica do sistema;
+- crítica da modernidade;
+- crítica da verdade;
+- capítulo do erro;
+- capítulo da correção.
+
+### regra curta
+
+> **a crítica só entra para impedir que a mediação deixe de mediar.**
+
+---
+
+## XI. Fronteiras locais obrigatórias
+
+## 1. Fronteira com o Capítulo 5
+
+O `Capítulo 6` pressupõe:
+
+- apreensão;
+- memória;
+- estabilização temporal interna;
+- retomabilidade do apreendido.
+
+Mas não reabre estes elementos como centro.
+
+### regra
+
+> A memória conserva; a mediação fixa em forma simbólica, articulável e partilhável.
+
+---
+
+## 2. Fronteira com o Capítulo 7
+
+O `Capítulo 6` prepara:
+
+- representação avaliável;
+- possibilidade de adequação;
+- possibilidade de desadequação;
+- necessidade futura de critério.
+
+Mas não desenvolve ainda:
+
+- verdade;
+- erro;
+- critério;
+- correção.
+
+### regra
+
+> Quando a representação passa a ser julgada pela adequação ao real, começa outro capítulo.
+
+---
+
+## 3. Fronteira com o Capítulo 8
+
+O `Capítulo 6` toca o risco do símbolo se fechar sobre si.
+
+Mas não desenvolve ainda:
+
+- vida no símbolo;
+- prisão simbólica;
+- substituição do real por sistema simbólico;
+- crítica do fechamento.
+
+### regra
+
+> Antes de criticar o fechamento simbólico, é preciso compreender o símbolo como mediação real.
+
+---
+
+## 4. Fronteira com crítica sistémica
+
+O `Capítulo 6` pode preparar a futura sedimentação simbólica.
+
+Mas não trata ainda:
+
+- cultura;
+- instituição;
+- técnica;
+- direito;
+- sistema;
+- cristalização sistémica.
+
+### regra
+
+> O sistema pode nascer da estabilização simbólica, mas a estabilização simbólica ainda não é sistema.
+
+---
+
+## XII. Decisão sobre escrita controlada
+
+### decisão
+
+Fica autorizada a passagem a:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+### condição de autorização
+
+A autorização é estritamente condicionada.
+
+A futura versão controlada deve obedecer a esta regra:
+
+> **abrir por mediação simbólica do apreendido, com chão explícito em real, humano situado, apreensão e memória pressuposta; fazer `P27` entrar como símbolo enquanto unidade operativa de mediação; densificar `P28/P29` como linguagem e representação operável; manter o sentido como organização relacional subordinada; e fechar apenas terminalmente por `P30/P31/P34`, sem desenvolver `P35/P36/P37` nem abrir o `Capítulo 7`.**
+
+### o que a versão controlada deve testar
+
+A versão controlada deve testar se o capítulo consegue:
+
+- abrir sem teoria geral da linguagem;
+- preservar `P27` antes de `P28/P29`;
+- fazer a linguagem entrar como estabilização articulada, não como fundamento;
+- fazer a representação entrar como operável, não como verdade;
+- subordinar o sentido;
+- preparar a avaliabilidade sem desenvolver avaliação;
+- fechar por `P31/P34` sem entrar em `P37`;
+- entregar ao `Capítulo 7` sem o escrever;
+- impedir cultura, sistema e crítica simbólica de ocuparem a cabeça.
+
+### o que a versão controlada não pode fazer
+
+Não pode:
+
+- abrir por linguagem;
+- abrir por sentido;
+- abrir por verdade;
+- abrir por erro;
+- abrir por critério;
+- abrir por correção;
+- abrir por crítica do símbolo;
+- escrever em liberdade plena;
+- desenvolver hermenêutica;
+- desenvolver teoria geral da representação;
+- desenvolver teoria geral da verdade;
+- desenvolver crítica sistémica;
+- desenvolver cultura, instituição, técnica ou direito.
+
+---
+
+## XIII. Uso máximo local atualmente autorizado
+
+### uso máximo
+
+O uso máximo local atualmente autorizado é:
+
+1. reentrada breve no chão real e situado;
+2. memória apenas pressuposta;
+3. `P26` como limiar de fixação mediada;
+4. `P27` como abertura positiva;
+5. `P28/P29` como corpo mediacional;
+6. sentido subordinado;
+7. `P30/P31/P34` como fecho terminal;
+8. entrega ao `Capítulo 7`.
+
+### limite do uso máximo
+
+O capítulo deixa de estar em regime admissível se:
+
+- `P28` apagar `P27`;
+- linguagem passar a fundamento;
+- símbolo passar a mundo autónomo;
+- sentido passar a critério;
+- representação passar a verdade;
+- `P31/P34` passarem a comandar;
+- `P37` passar a fecho do capítulo;
+- cultura, sistema ou crítica simbólica entrarem como corpo próprio.
+
+---
+
+## XIV. Próximo passo prudente
+
+### próximo ficheiro
+
+O próximo ficheiro prudente é:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+### objetivo do próximo ficheiro
+
+O objetivo não será escrever o capítulo final.
+
+Será produzir uma primeira versão controlada que teste:
+
+- a secura da passagem `Capítulo 5 → Capítulo 6`;
+- a resistência de `P27`;
+- a densidade de `P28/P29`;
+- a subordinação do sentido;
+- a contenção de `P31/P34`;
+- a exclusão de `P37`;
+- a passagem prudente para `Capítulo 7`.
+
+### razão
+
+Porque o `Capítulo 6` já não precisa de nova abertura local.
+
+Também não precisa, nesta fase, de novo levantamento de materiais.
+
+Precisa de testar se a sua formulação consegue sobreviver como escrita sem perder a ordem:
+
+> `P26 → P27 → P28/P29 → P31/P34 → Capítulo 7`
+
+---
+
+## XV. Fórmula estrutural curta
+
+> **P23/P24 + P25 pressuposto → P26 limiar → P27 → P28/P29 → sentido subordinado → P30/P31/P34 terminal → Capítulo 7**
+
+---
+
+## XVI. Fórmula final curta
+
+> **O Capítulo 6 fica preservado com restrições: já pode dizer que o apreendido se fixa simbolicamente, se estabiliza linguisticamente e se torna representação operável e partilhável; mas ainda não pode deixar símbolo, linguagem, representação ou sentido substituir o real, nem pode deixar verdade, erro, critério, correção ou crítica sistémica comandarem o capítulo.**
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+# Capítulo 6 — Representação, linguagem, símbolo e sentido
+
+## I. Estatuto desta versão
+
+Esta é uma **primeira versão controlada de escrita** do `Capítulo 6`.
+
+Não é redação final.
+Não é ensaio livre.
+Não é teoria geral da linguagem.
+Não é teoria geral do símbolo.
+Não é hermenêutica do sentido.
+Não é epistemologia plena.
+Não é ainda crítica do sistema simbólico.
+Não é o capítulo da verdade, do erro, do critério ou da correção.
+
+A função desta versão é testar se o capítulo consegue ser escrito mantendo a ordem já decidida:
+
+> **humano situado / apreensão / memória pressuposta → fixação mediada → símbolo → linguagem → representação operável → sentido subordinado → adequação e verdade apenas terminais**
+
+A regra de controlo é esta:
+
+> o capítulo deve mostrar como aquilo que foi apreendido e estabilizado internamente se torna fixável, simbolizável, dizível, representável e partilhável, sem permitir que linguagem, símbolo, representação ou sentido substituam o real que continuam a dever mediar.
+
+---
+
+## II. Texto controlado
+
+## 1. O apreendido torna-se retomável antes de se tornar dizível
+
+A linguagem não é a primeira relação ao real.
+
+Antes de haver linguagem, há real. Antes de haver símbolo, há apreensão. Antes de haver representação organizada, há uma relação situada com aquilo que aparece, afeta, limita e resiste. E, antes de essa relação poder ser dita, ela tem de poder permanecer minimamente para o ente que a apreendeu.
+
+O capítulo anterior fixou este ponto: a memória é a estabilização temporal interna da relação apreendida ao real. Aquilo que foi apreendido não desaparece inteiramente no instante. Permanece internamente de modo durável, operante e seletivo. Torna-se, por isso, retomável.
+
+Mas a retomabilidade ainda não é linguagem.
+
+O facto de algo poder permanecer internamente não significa que já esteja simbolizado, nomeado, descrito ou comunicado. A memória conserva a relação apreendida. A mediação começa quando essa relação conservada pode receber forma.
+
+É aqui que o `Capítulo 6` começa.
+
+Não começa com o sujeito a falar.
+Não começa com a consciência a criar sentido.
+Não começa com uma comunidade linguística a instituir mundo.
+Não começa com um sistema simbólico já constituído.
+
+Começa no ponto em que aquilo que foi apreendido e estabilizado internamente passa a poder ser fixado numa forma mediada.
+
+A memória conserva.
+A mediação fixa.
+O símbolo torna essa fixação operável.
+A linguagem articula-a.
+A representação organiza-a.
+O sentido torna-a inteligível e partilhável.
+
+Mas em nenhum destes momentos a mediação deixa de dever algo ao real que a antecede.
+
+---
+
+## 2. A mediação não nasce fora do real
+
+A mediação não é um segundo mundo.
+
+Tudo o que medeia ocorre no real. A representação é real enquanto ato, enquanto forma, enquanto operação de um ser situado. A linguagem é real enquanto gesto, som, escrita, prática e circulação. O símbolo é real enquanto marca, sinal, figura, palavra, imagem ou forma estabilizada. Mas nenhum deles é soberano face ao real.
+
+Esta distinção é decisiva.
+
+Dizer que a linguagem é real não é dizer que a linguagem funda o real. Dizer que o símbolo existe não é dizer que o símbolo substitui aquilo que simboliza. Dizer que a representação opera não é dizer que ela já coincide com aquilo que representa.
+
+A mediação só é inteligível porque há algo mediado.
+
+Se não houvesse apreensão, a representação seria vazia. Se não houvesse relação ao real, o símbolo não mediaria nada. Se não houvesse algo que resistisse ao dizer, a linguagem poderia circular indefinidamente sem medida externa, fechada apenas sobre a sua própria coerência.
+
+Por isso, a mediação tem um estatuto duplo.
+
+Por um lado, é necessária. Sem mediação, o apreendido permaneceria apenas internamente estabilizado, sem forma partilhável, sem articulação, sem transmissão e sem descrição explícita.
+
+Por outro lado, é perigosa. A mediação pode começar a parecer suficiente. Pode deixar de se reconhecer como ponte e passar a comportar-se como origem. Pode converter-se em sistema. Pode confundir inteligibilidade interna com verdade. Pode substituir o real por um conjunto de signos que já não remetem para aquilo que deveriam mediar.
+
+A regra do capítulo é, portanto, estreita:
+
+> a mediação é legítima enquanto reconduz ao real; torna-se falsa quando passa a valer por si.
+
+---
+
+## 3. O símbolo como primeira unidade operativa da mediação
+
+O símbolo é a primeira unidade operativa pela qual o apreendido pode ganhar uma forma mediada.
+
+Ele não é ainda linguagem plenamente articulada.
+Não é ainda sistema simbólico.
+Não é ainda cultura.
+Não é ainda instituição.
+Não é ainda critério.
+Não é ainda verdade.
+
+É uma unidade de fixação.
+
+O símbolo permite que algo da relação apreendida seja estabilizado fora da pura interioridade memorial. Aquilo que antes permanecia apenas como relação internamente operante passa a poder ter uma forma retomável, reconhecível, repetível e transmissível.
+
+Mas o símbolo não cria aquilo que simboliza.
+
+O símbolo de uma coisa não é a coisa. A palavra não é o objeto. A imagem não é o real que nela se representa. A marca não é a relação inteira que a originou. O símbolo é real enquanto símbolo, mas não é o real simbolizado.
+
+Daí o seu valor e o seu perigo.
+
+O seu valor está em permitir fixação e retomada. Sem símbolo, a relação apreendida ficaria dependente da memória interna do ente situado. O símbolo exterioriza, estabiliza, torna operável e permite que aquilo que foi apreendido possa ser partilhado.
+
+O seu perigo está em poder parecer autónomo. Quanto mais o símbolo se estabiliza, mais facilmente passa a circular como se bastasse. Pode ser usado sem retorno ao real. Pode ser repetido sem apreensão. Pode ser reconhecido formalmente sem que se saiba já o que representa.
+
+É nesse ponto que o símbolo deixa de mediar e começa a substituir.
+
+Por isso, a formulação disciplinada é esta:
+
+> o símbolo é real enquanto mediação, mas falso enquanto substituto daquilo que simboliza.
+
+O capítulo deve guardar esta diferença. Sem ela, a linguagem futura nascerá já como fechamento.
+
+---
+
+## 4. A linguagem estabiliza e articula o símbolo
+
+A linguagem nasce quando a mediação simbólica ganha articulação.
+
+O símbolo, isoladamente, fixa. A linguagem articula. Permite ordenar, distinguir, encadear, repetir, transmitir, corrigir e comunicar. Faz com que o apreendido mediado possa deixar de ser apenas uma marca ou uma figura e passe a integrar uma rede de diferenças, relações e usos.
+
+A linguagem torna a representação partilhável.
+
+Com ela, o que foi apreendido por um ser situado pode ser dito a outro ser situado. A relação local ao real pode adquirir forma comum. O mundo apreendido por um humano pode ser comunicado, discutido, transmitido e retomado por outro humano. A linguagem abre, assim, um espaço de circulação.
+
+Mas a circulação não é verdade.
+
+Uma frase pode circular e ser falsa.
+Uma crença pode ser partilhada e estar desadequada.
+Uma tradição pode conservar sentido e já não corresponder ao real.
+Uma comunidade pode falar de modo coerente e, ainda assim, falar mal do que é.
+
+A linguagem é poderosíssima porque estabiliza. Mas exatamente por isso é perigosa: aquilo que se estabiliza linguisticamente ganha aparência de realidade própria. O dito pode substituir o visto. O nome pode substituir a coisa. A categoria pode substituir a relação concreta. A gramática pode impor-se como se fosse estrutura do real.
+
+A linguagem deve, portanto, ser mantida no seu lugar.
+
+Ela articula o apreendido.
+Não cria o real apreendido.
+
+Ela comunica a representação.
+Não garante a verdade da representação.
+
+Ela permite sentido.
+Não funda, por si só, a adequação.
+
+A fórmula curta é esta:
+
+> o dizer é real enquanto ato; o dito só é verdadeiro se se adequar ao real que pretende dizer.
+
+---
+
+## 5. A representação organiza o apreendido
+
+A representação é a forma mediada pela qual o apreendido se torna operável.
+
+Ela não é apreensão pura. Apreender é ser afetado ou encontrar o real a partir de uma localidade. Representar é já fixar, organizar e tornar manejável aquilo que foi apreendido. A representação introduz distância. Permite que o apreendido seja retomado não apenas como memória interna, mas como forma organizada.
+
+Esta organização é necessária.
+
+Sem representação, a relação ao real ficaria menos transmissível, menos comparável, menos descritível. A representação permite construir uma figura, uma imagem, uma palavra, um conceito, um enunciado, um modelo, uma descrição. Permite que o real apreendido entre numa forma operativa.
+
+Mas representação não é adequação.
+
+Representar não é ainda representar bem. Uma representação pode aproximar-se do real ou afastar-se dele. Pode explicitar ou deformar. Pode simplificar legitimamente ou reduzir falsamente. Pode revelar uma estrutura ou impor uma grelha. Pode ajudar a ver ou impedir a visão.
+
+Por isso, o capítulo deve distinguir com rigor:
+
+- a apreensão é o contacto situado com o real;
+- a memória estabiliza internamente a relação apreendida;
+- o símbolo fixa mediacionalmente algo dessa relação;
+- a linguagem articula essa fixação;
+- a representação organiza o apreendido numa forma operável;
+- a verdade só surgirá depois, se essa representação for adequada ao real sob critério válido.
+
+A representação abre a possibilidade da verdade.
+
+Mas abrir possibilidade não é decidir o resultado.
+
+A fórmula curta é esta:
+
+> a representação abre a possibilidade da adequação; a adequação mede a representação pelo real.
+
+---
+
+## 6. O sentido como organização relacional da mediação
+
+O sentido não vem antes da mediação.
+
+O sentido emerge quando símbolo, linguagem e representação se articulam de modo suficientemente estável para tornar algo inteligível. Há sentido quando uma forma mediada deixa de ser pura marca e passa a ocupar um lugar numa rede de relações: remete, diferencia, aponta, evoca, organiza, liga e permite reconhecimento.
+
+O sentido é, por isso, relacional.
+
+Uma palavra tem sentido porque se distingue de outras, porque remete para algo, porque opera num uso, porque participa numa forma de vida, porque se inscreve numa história de relações e porque, em última instância, pretende ainda dizer algo do real ou da relação humana ao real.
+
+Mas o sentido não é fundamento.
+
+A inteligibilidade não basta. Um sentido pode ser claro e falso. Pode ser rico e desadequado. Pode ser coerente e desligado. Pode ser partilhado e ilusório. Pode circular durante séculos e, ainda assim, ter-se afastado do real que dizia mediar.
+
+É aqui que surge uma das tentações mais fortes da linguagem: confundir sentido com verdade.
+
+Quando algo faz sentido, parece bastar. Quando encaixa numa narrativa, parece real. Quando se repete dentro de um sistema, parece evidente. Quando tem força simbólica, parece necessário. Mas o sentido só é legítimo enquanto continuar a poder ser reconduzido ao real.
+
+A fórmula disciplinada é esta:
+
+> o sentido é a organização relacional que torna a mediação inteligível; não é o fundamento daquilo que a mediação pretende dizer.
+
+O sentido deve, portanto, entrar no capítulo, mas subordinado.
+
+Não abre o capítulo.
+Não governa a representação.
+Não substitui a adequação.
+Não decide a verdade.
+
+---
+
+## 7. A comunicação não transforma a linguagem em critério
+
+A linguagem torna possível comunicar.
+
+Essa possibilidade é decisiva, porque o humano não é um ente isolado que apenas guarda internamente as suas apreensões. O humano comunica, aprende, recebe, transmite, corrige, herda e entrega. A linguagem permite que uma relação local ao real seja posta em comum.
+
+Mas o comum não é, por si só, verdadeiro.
+
+Uma comunidade pode estabilizar uma linguagem.
+Pode produzir consensos.
+Pode repetir fórmulas.
+Pode criar hábitos de descrição.
+Pode conservar símbolos.
+Pode instituir sentidos.
+
+Nada disso basta.
+
+A estabilidade comum de uma representação não prova a sua adequação ao real. O facto de muitos dizerem o mesmo não torna o dito verdadeiro. O facto de uma linguagem funcionar socialmente não a torna ontologicamente suficiente. O facto de um sentido ser partilhado não o torna verdadeiro.
+
+A comunicação aumenta a força da mediação, mas também aumenta o risco da sua autonomização.
+
+Quanto mais uma linguagem circula, mais pode parecer independente da apreensão inicial. Quanto mais um símbolo é partilhado, mais pode sobreviver sem referência viva ao que simbolizava. Quanto mais uma representação se torna comum, mais pode proteger-se por consenso, autoridade ou hábito.
+
+Por isso, a comunicação deve permanecer submetida à mesma regra:
+
+> a mediação não se valida pela sua circulação; valida-se pela sua recondução ao real.
+
+O capítulo não deve transformar a linguagem em critério comunitário.
+
+Deve apenas mostrar que a linguagem torna possível a partilha da representação, e que essa partilha só permanece legítima se não cortar a sua dependência do real.
+
+---
+
+## 8. O símbolo pode fechar-se sobre si
+
+O símbolo é necessário, mas não é inocente.
+
+Sempre que uma mediação estabiliza, nasce a possibilidade de fechamento. Aquilo que começou por mediar pode começar a circular sem retorno. A palavra pode manter-se depois de a coisa ter sido esquecida. A imagem pode sobreviver depois de a relação ao real se ter perdido. A forma pode ser preservada depois de o conteúdo se ter deslocado.
+
+Este risco ainda não é o centro do capítulo.
+
+A crítica plena do fechamento simbólico pertence a uma zona posterior. Aqui, o símbolo ainda deve ser compreendido positivamente como mediação real. Mas o capítulo não pode deixar de assinalar o risco mínimo: toda a mediação que ganha forma pode, mais tarde, autonomizar-se.
+
+O símbolo fixa.
+A fixação permite repetição.
+A repetição permite circulação.
+A circulação permite sedimentação.
+A sedimentação pode parecer autoridade.
+E a autoridade simbólica pode esconder a perda de relação ao real.
+
+Este movimento ainda não deve ser desenvolvido como crítica do sistema.
+
+Não é ainda cultura.
+Não é ainda instituição.
+Não é ainda técnica.
+Não é ainda direito.
+Não é ainda ideologia.
+Não é ainda sistema fechado.
+
+Mas a possibilidade já está inscrita na própria mediação.
+
+Por isso, a prudência do capítulo é dupla: compreender a necessidade do símbolo e impedir a sua soberania.
+
+A fórmula curta é esta:
+
+> antes de criticar o fechamento simbólico, é preciso compreender o símbolo como mediação real.
+
+---
+
+## 9. A consciência não funda a linguagem
+
+Quem fala é um ser situado.
+
+A linguagem não nasce de uma consciência exterior ao real. Não nasce de um sujeito soberano que, de fora, nomeia o mundo. Não nasce de uma interioridade pura que projeta sentido sobre uma matéria muda. Nasce de um ente humano localizado, afetado, corporal, memorial, representacional e operante no real.
+
+Isto impede duas confusões.
+
+A primeira é pensar a linguagem como pura expressão interior. Se a linguagem fosse apenas exteriorização de uma subjetividade já pronta, o real apareceria como matéria secundária de uma vida interna soberana. Mas o humano não está fora do real. O que diz, diz a partir de uma inserção.
+
+A segunda é pensar a linguagem como sistema autónomo sem sujeito situado. Se a linguagem fosse apenas estrutura impessoal de signos, perder-se-ia a localidade concreta da apreensão, da memória, da representação e da correção. Mas a linguagem é usada por seres reais, em situações reais, diante de resistências reais.
+
+A linguagem exige um meio-termo disciplinado:
+
+- não é emanação de um sujeito soberano;
+- não é sistema autónomo sem mundo;
+- não é pura convenção;
+- não é pura cópia;
+- não é critério final.
+
+É mediação situada.
+
+Um ser situado apreende.
+A relação apreendida permanece.
+A permanência torna-se fixável.
+A fixação torna-se símbolo.
+O símbolo torna-se linguagem.
+A linguagem torna possível representação partilhável.
+
+Mas, em cada passo, o real permanece anterior, interior e julgador.
+
+---
+
+## 10. A mediação abre a possibilidade da verdade
+
+Quando há representação mediada, há finalmente possibilidade de comparação explícita.
+
+A representação pode agora ser confrontada com aquilo que pretende representar. O dito pode ser confrontado com aquilo que pretende dizer. O símbolo pode ser reconduzido àquilo que simboliza. O sentido pode ser testado pela relação ao real que organiza.
+
+É aqui que a verdade começa a tornar-se problema.
+
+Mas o `Capítulo 6` ainda não é o capítulo da verdade.
+
+Ele apenas prepara a sua possibilidade. Mostra que, a partir do momento em que o apreendido é simbolizado, articulado linguisticamente e organizado como representação operável, essa representação deixa de ser apenas relação interna ou forma mediada: torna-se avaliável.
+
+Pode ajustar-se ao real.
+Pode desajustar-se.
+Pode dizer melhor.
+Pode dizer pior.
+Pode orientar corretamente.
+Pode desviar.
+
+A verdade exigirá mais: exigirá adequação sob critério submetido ao real.
+
+O erro exigirá mais: exigirá compreender como a representação se desadequa.
+
+A correção exigirá mais: exigirá reinscrever representação e ação na medida do real.
+
+Essas questões pertencem ao capítulo seguinte.
+
+Aqui, a função é parar no limiar.
+
+A fórmula terminal é esta:
+
+> a representação mediada torna-se avaliável, mas o capítulo da mediação deve parar antes de desenvolver a avaliação.
+
+---
+
+## 11. Fecho: mediação sem soberania
+
+O percurso deste capítulo pode agora ser comprimido.
+
+Há real.
+O humano está no real.
+O humano apreende localmente.
+A relação apreendida permanece internamente pela memória.
+Essa permanência torna o apreendido retomável.
+A retomabilidade exige forma.
+A forma começa por símbolo.
+O símbolo ganha articulação na linguagem.
+A linguagem torna a representação partilhável.
+A representação organiza o apreendido.
+O sentido emerge como organização relacional dessa mediação.
+E, por fim, a representação torna-se avaliável quanto à sua adequação ao real.
+
+Mas nada disto funda o real.
+
+O símbolo não funda o real.
+A linguagem não funda o real.
+A representação não funda o real.
+O sentido não funda o real.
+A comunicação não funda o real.
+A coerência interna não funda o real.
+
+Tudo isto ocorre no real e só vale enquanto permanece capaz de mediar o real.
+
+O erro mais próprio deste capítulo seria esquecer isto. Seria fazer da linguagem a origem do mundo, do símbolo um mundo próprio, do sentido um critério último, da representação uma verdade automática ou da mediação um sistema soberano.
+
+Contra esse erro, a regra final é simples:
+
+> a mediação não substitui o real; ou medeia o real, ou deixa de ser verdadeira mediação.
+
+O capítulo seguinte começa precisamente quando esta mediação já pode ser julgada. Quando a representação pode ser medida pelo real, já não está em causa apenas símbolo, linguagem e sentido. Está em causa verdade, erro, critério e correção.
+
+---
+
+## III. Nota de controlo final
+
+Esta versão conserva a ordem local obrigatória:
+
+1. reentrada breve pelo chão do real, humano situado, apreensão e memória pressuposta;
+2. passagem de `P26` como fixação mediada do apreendido;
+3. abertura própria por `P27`, símbolo como unidade operativa da mediação;
+4. densificação por `P28`, linguagem como estabilização articulada e partilhável;
+5. densificação por `P29`, representação como organização operável;
+6. sentido como organização relacional subordinada;
+7. `P30` apenas como reinscrição do ser situado que representa;
+8. `P31/P34` apenas como fecho terminal;
+9. entrega ao `Capítulo 7`, sem desenvolver `P35/P36/P37`.
+
+O texto deve permanecer sob controlo.
+
+Se for desenvolvido, o desenvolvimento deve reforçar a mediação enquanto mediação, não libertá-la como soberania.
+Se for encurtado, o encurtamento deve preservar `P27` antes de `P28/P29`.
+Se for literariamente melhorado, a melhoria não pode introduzir linguagem, sentido, cultura, sistema, verdade, erro ou correção como centros próprios.
+
+---
+
+## IV. Fórmula curta da versão
+
+> O `Capítulo 6` mostra que o apreendido, já estabilizado internamente, pode ser fixado simbolicamente, articulado linguisticamente e organizado como representação operável e partilhável; mas símbolo, linguagem, representação e sentido só são legítimos enquanto mediações subordinadas ao real.
+
+---
+
+## V. Fórmula de passagem para o Capítulo 7
+
+> Quando a representação mediada já pode ser comparada ao real, a questão deixa de ser apenas como o apreendido se simboliza, se diz e se organiza; passa a ser se essa representação é adequada ou inadequada, verdadeira ou errada, corrigível ou fechada sobre si.
+
+<a id="cap-06-representacao-linguagem-simbolo-sentido-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap6-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6
+
+## Capítulo 6 — Representação, linguagem, símbolo e sentido
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma versão reescrita pós-confronto da primeira versão controlada de escrita do **Capítulo 6 — Representação, linguagem, símbolo e sentido**, agora compatibilizada com a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+
+- o chão herdado dos capítulos anteriores;
+- a diferença relativamente ao Capítulo 5;
+- a entrada própria de `P26` como limiar de fixação mediada;
+- a abertura efetiva em `P27`;
+- o corpo próprio em `P28/P29`;
+- o estatuto subordinado de sentido;
+- o fecho apenas terminal em `P30/P31/P34`;
+- a exclusão de `P37` como centro;
+- a fronteira com o Capítulo 7;
+- a proibição de transformar representação, linguagem, símbolo ou sentido em instâncias soberanas;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+O confronto anterior confirmou que o capítulo não precisava de novo núcleo material. A tarefa desta versão, por isso, não é acrescentar temas.
+
+A Nota de Leitura também não reabre o capítulo. A sua incidência é expositiva: tornar mais visível que o Capítulo 6 não trata “linguagem” como tema autónomo, nem “símbolo” como mundo próprio, nem “sentido” como fundamento. Trata da mediação simbólico-linguística pela qual a relação apreendida e estabilizada se torna representável, articulável, comunicável e partilhável, permanecendo submetida ao real.
+
+A tarefa desta versão é, portanto, dupla:
+
+1. preservar a cadeia material já ganha;
+2. tornar explícito, sem mecanizar o texto, o movimento local de leitura:
+   - qual é o ser em causa;
+   - como ele pode ser mal dito;
+   - que erro nasce dessa má formulação;
+   - como o capítulo reconduz o dizer ao real.
+
+### limite
+
+Esta versão não pode:
+
+- abrir por linguagem em abstrato;
+- abrir por símbolo em abstrato;
+- abrir por sentido em abstrato;
+- abrir por hermenêutica;
+- abrir por teoria semiótica;
+- abrir por cultura;
+- abrir por sistema simbólico estabilizado;
+- abrir por crítica do discurso;
+- abrir por verdade, erro, critério ou correção;
+- transformar representação em verdade;
+- transformar linguagem em origem do real;
+- transformar símbolo em mundo autónomo;
+- transformar sentido em fundamento;
+- transformar mediação em critério;
+- transformar coerência interna em adequação;
+- deixar `P31/P34` comandarem o capítulo;
+- deixar `P37` antecipar o Capítulo 7;
+- antecipar crítica sistémica, cultura, instituição ou fechamento simbólico tardio;
+- transformar a Nota de Leitura em método soberano;
+- abrir uma teoria geral do erro dentro do Capítulo 6.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que representação, linguagem, símbolo e sentido são formas mediadas de fixação, organização e comunicação da relação apreendida ao real, sem adquirirem soberania sobre o real.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar que mediação real está em causa, como ela pode ser mal dita, que erro nasce desse falso dizer e como a formulação regressa à relação apreendida ao real.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a função expositiva do capítulo.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O Capítulo 5 fixou que a memória é estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado.
+
+Essa estabilização não é ainda representação plena. Não é ainda linguagem. Não é ainda símbolo. Não é ainda sentido. Mas prepara a possibilidade de uma fixação mediada ulterior.
+
+O Capítulo 6 começa nesse ponto.
+
+A sua pergunta não é: “o que é a linguagem em abstrato?”  
+Não é: “como o símbolo cria mundo?”  
+Não é: “como nasce o sentido soberano?”  
+Não é: “como uma representação se torna verdadeira?”  
+Não é ainda: “como se corrige o erro?”  
+
+A pergunta é mais precisa:
+
+> como é que a relação apreendida, estabilizada internamente pela memória, se torna fixável, representável, simbolizável, linguisticamente articulável, comunicável e partilhável, sem deixar de estar submetida ao real?
+
+O **ser em causa** neste capítulo é, portanto, a **fixação mediada, simbólica, linguística e partilhável da relação apreendida ao real**.
+
+Ou, em fórmula mais seca:
+
+> mediação simbólico-linguística da representação, subordinada ao real.
+
+Não se trata de linguagem enquanto sistema autónomo.  
+Não se trata de símbolo enquanto mundo separado.  
+Não se trata de sentido enquanto fonte originária.  
+Não se trata de representação como verdade.  
+Não se trata ainda de erro e correção como corpo próprio.  
+
+Trata-se da passagem em que o apreendido, já estabilizado internamente, ganha forma mediada e partilhável.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> chão herdado `P23/P24` → memória pressuposta `P25` → limiar de fixação `P26` → mediação simbólica `P27` → linguagem e representação operável `P28/P29` → sentido subordinado → consciência localizada / representação julgável `P30/P31/P34` apenas terminais → entrega ao Capítulo 7.
+
+Este corredor é o limite da peça.
+
+A pergunta transversal da Nota já começa a operar aqui, mas sem tomar o comando do capítulo:
+
+- o ser em causa é a mediação simbólico-linguística da relação apreendida ao real;
+- o falso dizer a bloquear é a autonomização da linguagem, do símbolo, da representação ou do sentido;
+- o erro local é deixar a mediação substituir aquilo que devia mediar;
+- a reinscrição consiste em reconduzir representação, linguagem, símbolo e sentido à sua função subordinada de fixar, articular, estabilizar e comunicar o apreendido.
+
+## 2. Chão herdado: real, humano situado, apreensão e memória
+
+O Capítulo 6 não começa do nada.
+
+Tem atrás de si um chão inteiro.
+
+Há real.  
+O humano é ente situado no real.  
+A apreensão precede a representação.  
+A relação apreendida pode estabilizar-se internamente como memória.  
+Só depois se torna possível fixá-la mediacionalmente.  
+
+Este chão deve permanecer ativo, mesmo quando o capítulo começa a falar de representação, linguagem, símbolo e sentido.
+
+O falso dizer desta zona é esquecer o chão e abrir diretamente por linguagem.
+
+Nesse erro, a linguagem parece aparecer como primeiro lugar da relação ao real. A representação parece vir antes da apreensão. O símbolo parece gerar aquilo que deveria apenas mediar. O sentido parece fundar o campo.
+
+Mas a linguagem não vem primeiro.
+
+Antes dela há real.  
+Há humano situado.  
+Há apreensão.  
+Há memória.  
+Há relação apreendida que pode ser fixada.  
+
+A primeira determinação do capítulo é esta:
+
+> representação, linguagem, símbolo e sentido só são inteligíveis a partir de uma relação apreendida e estabilizada ao real.
+
+A reinscrição local é esta: a mediação deve ser devolvida ao chão real, situado e memorial que a torna possível.
+
+## 3. `P26` como limiar de fixação mediada
+
+O Capítulo 5 entregou `P26` apenas como derivação ulterior.
+
+No Capítulo 6, esse limiar torna-se operativo.
+
+A relação apreendida e estabilizada internamente pode ser fixada em forma mediada. Essa fixação permite que o apreendido deixe de permanecer apenas como permanência interna e passe a ser organizado em forma operável.
+
+Mas `P26` ainda deve ser dito com prudência.
+
+A fixação mediada não é ainda linguagem desenvolvida. Não é ainda símbolo pleno. Não é ainda sistema de sentido. É o limiar em que a relação apreendida começa a receber forma.
+
+O falso dizer desta zona é transformar `P26` em representação plena logo à entrada.
+
+Nesse erro, aquilo que era passagem passa a ser resultado completo. A fixação mediada pareceria já conter toda a representação, toda a linguagem e todo o sentido. Mas isso apaga a diferença entre limiar, mediação, linguagem e representação partilhável.
+
+A segunda determinação do capítulo é esta:
+
+> `P26` é o limiar em que a relação apreendida e memorizada se torna fixável em forma mediada.
+
+A reinscrição local é esta: a fixação deve permanecer dependente da relação apreendida ao real, não converter-se em produção autónoma de objeto.
+
+## 4. Representação
+
+A representação é a fixação operável do apreendido.
+
+Representar não é criar o real.  
+Não é substituir o real.  
+Não é garantir verdade.  
+Não é produzir automaticamente adequação.  
+
+Representar é dar forma mediada àquilo que foi apreendido, de modo que possa ser retomado, comparado, comunicado, trabalhado e eventualmente julgado.
+
+A representação é necessária porque a apreensão, por si, é local e situada; e a memória, por si, conserva internamente. A representação torna essa relação operável.
+
+Mas esta necessidade não dá soberania à representação.
+
+O falso dizer da representação é tomá-la por realidade suficiente.
+
+Nesse erro, a imagem, o conceito, a formulação ou a estrutura representacional passam a ocupar o lugar do real. O representado já não remete para aquilo que representa; passa a circular como se bastasse.
+
+A representação torna-se então substituto.
+
+A terceira determinação do capítulo é esta:
+
+> a representação fixa o apreendido em forma operável, mas permanece subordinada ao real que pretende representar.
+
+A reinscrição local é esta: a representação deve ser devolvida à sua função de mediação do apreendido, não elevada a realidade autónoma.
+
+## 5. `P27` como unidade operativa de mediação
+
+O Capítulo 6 abre efetivamente quando a fixação mediada ganha unidade operativa.
+
+É aqui que `P27` assume a sua função.
+
+`P27` não deve ser tratado como teoria geral do símbolo nem como sistema linguístico já desenvolvido. É a primeira unidade operativa pela qual a relação apreendida pode ser mediada, estabilizada e posta em circulação.
+
+A mediação não é acidente exterior. Sem algum modo de mediação, a relação apreendida não se tornaria representável e partilhável. Mas mediação também não é soberania.
+
+O falso dizer desta zona é tratar a mediação como novo fundamento.
+
+Nesse erro, o mediado passa a valer mais do que o real mediado. A forma de mediação deixa de servir a relação ao real e passa a substituí-la. A mediação começa então a funcionar como filtro fechado, imagem autojustificada ou estrutura independente.
+
+A quarta determinação do capítulo é esta:
+
+> `P27` abre a mediação como unidade operativa de fixação do apreendido, não como fundamento autónomo.
+
+A reinscrição local é esta: a mediação deve ser reconduzida à relação apreendida ao real que a torna necessária.
+
+## 6. Símbolo
+
+O símbolo estabiliza uma relação.
+
+Não cria o real a que se refere.  
+Não cria por si o sentido que deve mediar.  
+Não é mundo autónomo.  
+Não é objeto mágico.  
+Não é garantia de verdade.  
+
+O símbolo permite que uma relação apreendida ao real seja condensada, retida, transmitida, reconhecida e posta em circulação.
+
+Por isso, o símbolo tem força. Mas a sua força é mediacional, não fundadora.
+
+O falso dizer do símbolo é autonomizá-lo.
+
+Nesse erro, o símbolo deixa de apontar, condensar ou mediar uma relação ao real e passa a comportar-se como se fosse a própria realidade. O símbolo já não serve a apreensão; captura-a. Já não abre relação; fecha-a. Já não medeia; substitui.
+
+É aqui que começa a possibilidade futura de fechamento simbólico, mas essa possibilidade ainda não deve transformar o Capítulo 6 em crítica sistémica.
+
+A quinta determinação do capítulo é esta:
+
+> o símbolo estabiliza e torna circulável uma relação ao real, mas não possui autonomia ontológica.
+
+A reinscrição local é esta: o símbolo deve ser devolvido à relação real que simboliza, não tratado como mundo separado.
+
+## 7. Linguagem
+
+A linguagem articula e partilha.
+
+Ela permite que a representação deixe de ser apenas forma interna ou operação isolada e passe a poder circular entre humanos situados.
+
+A linguagem dá estrutura comunicável à mediação. Permite nomear, distinguir, ordenar, transmitir, discutir, corrigir e sedimentar relações apreendidas.
+
+Mas a linguagem também não é soberana.
+
+A linguagem não cria o real.  
+Não cria a apreensão.  
+Não cria a relação que pretende dizer.  
+Não cria a verdade por simples enunciação.  
+
+A linguagem dá forma partilhável ao que já depende de uma relação ao real.
+
+O falso dizer da linguagem é tratá-la como fundamento.
+
+Nesse erro, porque tudo nos chega discursivamente ou porque tudo pode ser formulado linguisticamente, conclui-se indevidamente que tudo depende da linguagem para ser. Mas isso inverte a cadeia. A linguagem pode organizar o dizer do real; não funda o real.
+
+A sexta determinação do capítulo é esta:
+
+> a linguagem articula e comunica a representação do apreendido, mas permanece dependente do real, da apreensão e da memória.
+
+A reinscrição local é esta: a linguagem deve ser devolvida à sua função de articulação e comunicação, não elevada a origem do ser ou do sentido.
+
+## 8. `P28/P29` como corpo efetivo do capítulo
+
+O corpo efetivo do Capítulo 6 ganha-se em `P28/P29`.
+
+É aí que a mediação simbólica se densifica em linguagem e representação operável. O apreendido já não está apenas estabilizado internamente. Já não está apenas fixado de modo mínimo. Passa a poder ser organizado em forma partilhável, transmissível e utilizável.
+
+Mas `P28/P29` não devem ser inflacionados.
+
+Não são tese geral sobre linguagem.  
+Não são teoria completa da representação.  
+Não são filosofia da cultura.  
+Não são sistema simbólico estabilizado.  
+Não são ainda verdade, erro ou correção.  
+
+São o corpo local da mediação: representação operável e linguagem partilhável, sob submissão ao real.
+
+O falso dizer desta zona é deixar `P28/P29` crescerem para teoria geral.
+
+Nesse erro, o capítulo deixa de fazer a passagem controlada entre memória, representação, símbolo e linguagem, e passa a querer explicar toda a linguagem, todo o sentido e todo o mundo simbólico.
+
+A sétima determinação do capítulo é esta:
+
+> `P28/P29` dão corpo à mediação representacional e linguística do apreendido, sem converter linguagem ou representação em centros soberanos.
+
+A reinscrição local é esta: o corpo representacional-linguístico deve permanecer local e subordinado, não transformar-se em sistema geral.
+
+## 9. Sentido subordinado
+
+O sentido entra porque a representação mediada e a linguagem articulada tornam algo inteligível para um humano situado.
+
+Mas o sentido não é fundamento.
+
+O sentido é efeito mediacional de uma relação organizada. Surge quando o apreendido, estabilizado e representado, pode ser reconhecido, articulado e comunicado.
+
+O falso dizer do sentido é tratá-lo como origem.
+
+Nesse erro, o sentido parece vir antes do real, antes da apreensão, antes da representação e antes da linguagem. O mundo tornar-se-ia dependente do sentido que lhe damos. Mas o Capítulo 6 não pode autorizar essa inversão.
+
+O sentido não funda o real.  
+Não substitui a apreensão.  
+Não garante adequação.  
+Não dispensa critério.  
+
+O sentido apenas torna operável e partilhável uma relação mediada ao real.
+
+A oitava determinação do capítulo é esta:
+
+> o sentido é efeito subordinado da mediação representacional e linguística da relação ao real.
+
+A reinscrição local é esta: o sentido deve ser devolvido à relação mediada que o produz, não elevado a fundamento do real.
+
+## 10. Partilha
+
+A linguagem e o símbolo tornam a representação partilhável.
+
+Isto é decisivo para o Capítulo 6.
+
+A relação ao real deixa de estar apenas no nível da apreensão individual, da memória interna ou da fixação isolada. Pode circular entre humanos situados. Pode ser ensinada, discutida, estabilizada, transmitida e retomada por outros.
+
+Mas a partilha também não garante verdade.
+
+Uma representação pode ser partilhada e ser inadequada.  
+Uma linguagem pode ser comum e ser pobre.  
+Um símbolo pode circular e falsear.  
+Um sentido pode estabilizar-se socialmente e descolar-se do real.  
+
+O falso dizer da partilha é confundir circulação com validação.
+
+Nesse erro, aquilo que é partilhado parece válido por ser partilhado. A comunidade, a tradição, o uso ou a repetição passam a substituir a adequação ao real.
+
+Este risco prepara problemas posteriores, mas aqui deve ser apenas assinalado.
+
+A nona determinação do capítulo é esta:
+
+> a partilha simbólico-linguística torna a representação comunicável, mas não a torna verdadeira por si.
+
+A reinscrição local é esta: a circulação partilhada deve permanecer submetida ao real, não convertida em critério autónomo.
+
+## 11. Coerência interna e risco de fechamento
+
+A mediação simbólico-linguística tende a organizar-se.
+
+Uma linguagem pode ganhar coerência. Um sistema de símbolos pode estabilizar usos. Uma representação pode encaixar noutras representações. Um campo de sentido pode tornar-se internamente consistente.
+
+Isto é necessário. Sem alguma coerência interna, a mediação seria caótica.
+
+Mas a coerência interna não basta.
+
+O falso dizer desta zona é confundir coerência com adequação.
+
+Nesse erro, o sistema simbólico parece válido porque se mantém coeso. A linguagem parece correta porque funciona internamente. A representação parece verdadeira porque encaixa numa rede de outras representações.
+
+Mas a coerência interna pode fechar-se sobre si. Pode continuar a circular mesmo quando já não está adequadamente submetida ao real.
+
+O Capítulo 6 não deve ainda desenvolver crítica sistémica. Mas deve deixar claro o travão:
+
+> mediação coerente não é mediação verdadeira só por ser coerente.
+
+A décima determinação do capítulo é esta:
+
+> a coerência simbólico-linguística é necessária à circulação da representação, mas não substitui adequação ao real.
+
+A reinscrição local é esta: a coerência deve ser devolvida ao real que a testa, não transformada em critério soberano.
+
+## 12. Fronteira com cultura e sistema
+
+O Capítulo 6 não é ainda capítulo da cultura nem do sistema.
+
+É verdade que linguagem, símbolo e sentido podem sedimentar-se culturalmente. Podem formar tradições, instituições, sistemas simbólicos, narrativas comuns e formas estabilizadas de vida.
+
+Mas esse desenvolvimento ainda não é o centro deste capítulo.
+
+Aqui, o símbolo e a linguagem entram como mediações da representação. Ainda não entram como cultura, instituição ou sistema estabilizado.
+
+O falso dizer da fronteira é deixar a linguagem transformar-se cedo demais em sistema cultural.
+
+Nesse erro, o Capítulo 6 deixa de tratar da mediação simbólico-linguística da relação ao real e passa a tratar da estabilização social dos sistemas de sentido. Isso pertence a zonas posteriores.
+
+A décima primeira determinação do capítulo é esta:
+
+> linguagem e símbolo, no Capítulo 6, são mediações representacionais; ainda não são cultura nem sistema simbólico estabilizado.
+
+A reinscrição local é esta: a dimensão cultural futura deve permanecer como derivação posterior, não como cabeça do capítulo.
+
+## 13. Consciência localizada e `P30`
+
+A mediação simbólico-linguística não dispensa consciência localizada.
+
+`P30` pode entrar para impedir que a representação pareça circular sem sujeito situado, sem localidade, sem relação ao real e sem possibilidade de retorno reflexivo.
+
+Mas `P30` também não deve reabrir o Capítulo 4.
+
+A consciência aqui não volta como centro. Entra apenas para lembrar que a representação é produzida, usada e retomada por humanos situados.
+
+O falso dizer desta zona é deixar a consciência reocupar a cabeça.
+
+Nesse erro, o capítulo deixaria de tratar da mediação representacional e simbólica e regressaria à constituição da consciência ou do sujeito.
+
+Mas isso já foi tratado antes.
+
+Aqui basta dizer: a mediação representacional é operada por consciência localizada e situada, não por linguagem sem humano nem por símbolo sem relação ao real.
+
+A décima segunda determinação do capítulo é esta:
+
+> `P30` entra apenas como fecho de localização da mediação, não como reabertura da consciência.
+
+A reinscrição local é esta: a consciência deve permanecer situada e subordinada à operação mediacional em curso.
+
+## 14. Adequação e verdade como fecho terminal: `P31/P34`
+
+Uma representação mediada pode ajustar-se ou desajustar-se ao real.
+
+Por isso, `P31/P34` entram no fecho do Capítulo 6.
+
+Mas entram apenas terminalmente.
+
+O capítulo deve poder dizer que a representação simbólico-linguística não se basta a si mesma. Deve poder dizer que a mediação precisa de ser julgável pela sua adequação ao real. Deve poder dizer que a coerência interna não substitui a submissão ao real.
+
+Mas não deve desenvolver o regime próprio da verdade, do erro, do critério e da correção.
+
+O falso dizer desta zona é deixar `P31/P34` redefinirem o centro.
+
+Nesse erro, o Capítulo 6 passaria de mediação simbólico-linguística para epistemologia. A verdade e o critério ocupariam a cabeça. O Capítulo 7 começaria antes da hora.
+
+A décima terceira determinação do capítulo é esta:
+
+> `P31/P34` entram apenas como fecho terminal de julgabilidade da representação mediada, não como centro do Capítulo 6.
+
+A reinscrição local é esta: adequação e verdade devem permanecer como travão terminal, não como regime positivo já aberto.
+
+## 15. `P37` e correção fora do centro
+
+A correção pertence ao Capítulo 7.
+
+O Capítulo 6 pode preparar a sua necessidade. Pode mostrar que uma representação mediada pode desalinhar-se do real. Pode mostrar que linguagem, símbolo e sentido podem circular inadequadamente. Pode mostrar que a coerência interna não basta.
+
+Mas corrigir, em sentido próprio, já exige outro corpo.
+
+`P37` não deve entrar como peça estável do centro do Capítulo 6. No máximo, permanece como possibilidade terminal admissível: se a representação se pode desadequar, será preciso corrigi-la. Mas esse regime pertence ao capítulo seguinte.
+
+O falso dizer desta fronteira é antecipar a correção.
+
+Nesse erro, o Capítulo 6 deixa de mostrar a mediação e começa a organizar a sua correção. Mas essa organização já pertence ao Capítulo 7.
+
+A décima quarta determinação do capítulo é esta:
+
+> `P37` fica fora do centro do Capítulo 6; a correção só entra como pressão terminal para o Capítulo 7.
+
+A reinscrição local é esta: a correção deve ser preparada, não iniciada.
+
+## 16. O erro local do capítulo
+
+A Nota de Leitura obriga a tornar visível o erro próprio de cada capítulo. No Capítulo 6, esse erro não deve ser tratado como teoria geral do erro. Deve ser reconhecido apenas como risco local de mau dizer da mediação simbólico-linguística.
+
+O erro local consiste em autonomizar a mediação.
+
+Essa autonomização pode assumir várias formas.
+
+Pode autonomizar a representação.  
+Nesse caso, o representado passa a valer como substituto do real.
+
+Pode autonomizar o símbolo.  
+Nesse caso, o símbolo transforma-se em mundo próprio.
+
+Pode autonomizar a linguagem.  
+Nesse caso, a linguagem passa a parecer origem do real, do sentido ou da verdade.
+
+Pode autonomizar o sentido.  
+Nesse caso, o sentido ocupa o lugar da relação ao real.
+
+Pode autonomizar a partilha.  
+Nesse caso, a circulação comunitária passa a parecer validação.
+
+Pode autonomizar a coerência interna.  
+Nesse caso, o sistema de mediações passa a bastar-se a si mesmo.
+
+Pode autonomizar o critério terminal.  
+Nesse caso, `P31/P34` capturam o capítulo e antecipam o Capítulo 7.
+
+Todas estas formas têm a mesma estrutura:
+
+> aquilo que devia mediar o real passa a substituir o real.
+
+A décima quinta determinação do capítulo é esta:
+
+> o erro local do Capítulo 6 é a autonomização da mediação simbólico-linguística até ela deixar de mediar o real e passar a substituí-lo.
+
+A reinscrição local é esta: cada falso dizer deve ser reconduzido à cadeia baixa do capítulo — apreensão, memória, fixação mediada, símbolo, linguagem, representação e submissão ao real.
+
+## 17. Reinscrição da mediação no real
+
+A correção local do Capítulo 6 não consiste em propor uma nova teoria da linguagem.
+
+Também não consiste em propor uma semiótica geral.  
+Também não consiste em propor uma hermenêutica.  
+Também não consiste em abrir uma crítica cultural.  
+Também não consiste ainda em desenvolver o regime da verdade, do erro e da correção.  
+
+Consiste em devolver a mediação ao real.
+
+Essa reinscrição tem seis movimentos.
+
+Primeiro: há real.  
+Segundo: o humano situado apreende localmente o real.  
+Terceiro: a relação apreendida pode estabilizar-se internamente como memória.  
+Quarto: essa relação pode fixar-se mediacionalmente como representação.  
+Quinto: a representação pode estabilizar-se simbolicamente e articular-se linguisticamente.  
+Sexto: essa mediação deve permanecer julgável pela sua submissão ao real.
+
+Esta reinscrição não nega a representação.  
+Não nega a linguagem.  
+Não nega o símbolo.  
+Não nega o sentido.  
+Não nega a partilha.  
+Não nega a coerência interna.  
+Não nega a futura verdade.  
+Não nega a futura correção.  
+
+Apenas põe cada camada no seu lugar.
+
+Representação é fixação operável.  
+Símbolo é estabilização mediacional.  
+Linguagem é articulação comunicável.  
+Sentido é inteligibilidade subordinada.  
+Partilha é circulação situada.  
+Adequação é travão terminal.  
+Correção pertence ao capítulo seguinte.
+
+A décima sexta determinação do capítulo é esta:
+
+> reinscrever a mediação é reconduzir representação, linguagem, símbolo e sentido à sua função de fixar, articular, estabilizar e comunicar a relação apreendida ao real.
+
+Esta é a correção local que o capítulo pode fazer.
+
+Nada mais.
+
+## 18. Fronteira com o Capítulo 5
+
+A fronteira com o Capítulo 5 deve ficar clara.
+
+O Capítulo 5 tratou da memória como estabilização temporal interna da relação apreendida ao real. O seu centro foi `P25`.
+
+O Capítulo 6 começa quando aquilo que a memória conserva passa a poder ser fixado, mediado, representado, simbolizado e comunicado.
+
+A diferença é esta:
+
+- o Capítulo 5 trata da permanência interna da relação apreendida;
+- o Capítulo 6 trata da forma mediada e partilhável dessa relação.
+
+O falso dizer da fronteira é reduzir o Capítulo 6 a prolongamento da memória.
+
+Mas a mediação tem centro próprio. A representação não é apenas memória mais clara. A linguagem não é apenas memória comunicada. O símbolo não é apenas memória condensada. O sentido não é apenas memória partilhada.
+
+São mediações derivadas da relação memorizada, mas têm corpo próprio no Capítulo 6.
+
+A décima sétima determinação do capítulo é esta:
+
+> o Capítulo 6 começa quando a relação apreendida e estabilizada internamente se torna fixável, representável, simbolizável e comunicável.
+
+A reinscrição local é esta: a memória deve permanecer como pressuposto ativo, não como centro reaberto.
+
+## 19. Fronteira com o Capítulo 7
+
+A fronteira com o Capítulo 7 deve ser ainda mais firme.
+
+O Capítulo 6 termina quando mostra que a representação mediada não se basta a si mesma. A linguagem pode dizer mal. O símbolo pode estabilizar falsamente. O sentido pode descolar-se do real. A coerência interna pode substituir a adequação.
+
+Isto prepara o Capítulo 7.
+
+Mas o Capítulo 7 só começa quando o centro deixa de ser a mediação e passa a ser o regime próprio de:
+
+- verdade;
+- erro;
+- critério;
+- correção;
+- reinscrição da representação e da ação no real.
+
+O falso dizer da fronteira é deixar o travão terminal tornar-se centro.
+
+Nesse erro, o Capítulo 6 deixa de ser capítulo da mediação simbólico-linguística e passa a ser capítulo da adequação, do erro e da correção.
+
+A décima oitava determinação do capítulo é esta:
+
+> o Capítulo 6 prepara o Capítulo 7 ao mostrar que a mediação é julgável pelo real, mas não abre ainda o regime próprio da verdade, erro, critério e correção.
+
+A reinscrição local é esta: `P31/P34` devem fechar o capítulo, não governá-lo; `P37` deve ficar para o seguinte.
+
+## 20. Fecho e ponte baixa `6→7`
+
+O Capítulo 6 deve terminar antes de mudar de centro.
+
+A sua pergunta foi: como é que a relação apreendida e estabilizada internamente se torna representação mediada, simbólica, linguística, partilhável e dotada de sentido, sem se autonomizar do real?
+
+A resposta mínima ficou ganha: a relação apreendida pode ser fixada em representação, estabilizada simbolicamente, articulada linguisticamente e comunicada como sentido partilhável; mas essa mediação permanece dependente da apreensão, da memória e da submissão ao real.
+
+Mas esta resposta abre uma nova pressão.
+
+Se a representação mediada pode dizer o real, também pode dizê-lo mal.  
+Se o símbolo pode estabilizar sentido, também pode estabilizar falsidade.  
+Se a linguagem pode comunicar, também pode circular erro.  
+Se a coerência interna pode organizar, também pode fechar-se sobre si.  
+
+Essa pressão pertence ao Capítulo 7.
+
+O Capítulo 6 pode entregar ao seguinte apenas isto:
+
+> quando a mediação simbólico-linguística se torna julgável pela sua adequação ou desadequação ao real, começa o problema da verdade, do erro, do critério e da correção.
+
+Esta entrega prepara o Capítulo 7.
+
+Mas não o inicia ainda.
+
+O falso dizer da ponte é transformar preparação em absorção. Como se, por a representação ser julgável, já estivéssemos no regime da verdade; como se, por a linguagem poder errar, já estivéssemos no capítulo do erro; como se, por a coerência interna não bastar, já se tivesse aberto a teoria da correção.
+
+Esse salto seria indevido.
+
+O Capítulo 6 deve parar no bordo.
+
+A décima nona determinação do capítulo é esta:
+
+> a ponte `6→7` é obrigatória, mas apenas terminal: prepara verdade, erro, critério e correção sem os fazer ocupar o centro do Capítulo 6.
+
+A reinscrição local é esta: a ponte deve ser devolvida ao seu estatuto de passagem, não convertida em cabeça antecipada do capítulo seguinte.
+
+## 21. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 6 pode ser condensado assim.
+
+### ser em causa
+
+O ser em causa é a **fixação mediada, simbólica, linguística e partilhável da relação apreendida ao real**.
+
+Ou:
+
+> mediação simbólico-linguística da representação, subordinada ao real.
+
+Não é:
+
+- linguagem em abstrato;
+- símbolo em abstrato;
+- sentido soberano;
+- hermenêutica geral;
+- teoria semiótica;
+- teoria cultural;
+- sistema simbólico estabilizado;
+- crítica do discurso;
+- crítica da ideologia;
+- verdade como centro;
+- erro como centro;
+- critério como tribunal;
+- correção como corpo próprio.
+
+É o modo como aquilo que foi apreendido e estabilizado internamente se torna fixável, representável, simbolizável, linguisticamente articulável, comunicável e partilhável.
+
+### dizer do ser
+
+A mediação pode ser dita erradamente como:
+
+- representação suficiente;
+- linguagem fundadora;
+- símbolo autónomo;
+- sentido originário;
+- partilha como validação;
+- coerência interna como verdade;
+- mediação como critério;
+- cultura como cabeça precoce;
+- sistema simbólico como mundo;
+- crítica da linguagem como centro;
+- adequação, verdade ou correção como abertura.
+
+### erro local
+
+O erro local nasce quando a proposição sobre representação, linguagem, símbolo ou sentido deixa de reconhecer que essas camadas são mediações subordinadas.
+
+As formas principais desse erro são:
+
+- autonomização da representação;
+- autonomização do símbolo;
+- autonomização da linguagem;
+- autonomização do sentido;
+- confusão entre circulação e validação;
+- confusão entre coerência interna e adequação;
+- antecipação de cultura ou sistema;
+- antecipação de `P31/P34`;
+- antecipação de `P37`;
+- absorção pelo Capítulo 7.
+
+O erro não é ainda tratado aqui como corpo próprio. É apenas reconhecido como risco local de mau dizer da mediação.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> representação, linguagem, símbolo e sentido são formas mediadas de fixação, articulação, estabilização e comunicação da relação apreendida ao real, e só permanecem legítimos enquanto não substituem o real que mediam.
+
+A reinscrição não nega a linguagem.  
+Não nega o símbolo.  
+Não nega a representação.  
+Não nega o sentido.  
+Não nega a partilha.  
+Não nega a coerência.  
+Não nega a verdade futura.  
+Não nega a correção futura.  
+
+Apenas põe cada camada no seu lugar.
+
+### entrega
+
+A entrega ao capítulo seguinte é precisa:
+
+> se a mediação simbólico-linguística pode adequar-se ou desadequar-se ao real, então é necessário perguntar pelo regime próprio da verdade, do erro, do critério e da correção.
+
+O Capítulo 6 entrega a pergunta pela verdade e pelo erro.
+
+Mas não entrega ainda uma teoria da verdade nem uma teoria da correção.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> chão herdado `P23/P24` → memória pressuposta `P25` → limiar de fixação `P26` → mediação simbólica `P27` → linguagem e representação operável `P28/P29` → sentido subordinado → consciência localizada / representação julgável `P30/P31/P34` apenas terminais → entrega ao Capítulo 7.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que não havia núcleo estrutural admissível em falta.
+
+Por isso, esta reescrita não acrescenta novo centro, novo material tardio ou nova arquitetura interna.
+
+A intervenção feita foi apenas de disciplina expositiva:
+
+- tornar mais explícita a mediação simbólico-linguística como ser em causa no capítulo;
+- reforçar o chão herdado de apreensão e memória;
+- fixar `P26` como limiar;
+- preservar `P27` como abertura própria;
+- preservar `P28/P29` como corpo efetivo;
+- subordinar sentido;
+- manter `P30/P31/P34` como fecho terminal;
+- manter `P37` fora do centro;
+- nomear o erro local sem abrir teoria geral do erro;
+- reinscrever representação, linguagem, símbolo e sentido no real;
+- endurecer a ponte terminal `6→7`.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada apenas como orientação de legibilidade.
+
+Por isso, esta versão:
+
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem transformar erro/correção em corpo próprio;
+- reinscreve o dizer da mediação no real;
+- entrega ao capítulo seguinte apenas a necessidade de pensar verdade, erro, critério e correção.
+
+A Nota não altera o centro do capítulo.
+
+Apenas torna mais visível o modo como o leitor deve atravessar a peça.
+
+### ganhos da versão
+
+A versão já consegue:
+
+- não abrir por linguagem em abstrato;
+- não abrir por símbolo soberano;
+- não abrir por sentido como fundamento;
+- não abrir por cultura ou sistema;
+- não abrir por verdade, erro, critério ou correção;
+- preservar a diferença entre memória, representação, linguagem e verdade;
+- formular `P26` como limiar de fixação mediada;
+- formular `P27` como unidade operativa de mediação;
+- formular `P28/P29` como corpo representacional-linguístico;
+- subordinar sentido;
+- bloquear a autonomização da mediação;
+- manter `P31/P34` terminais;
+- manter `P37` fora do centro;
+- preparar o Capítulo 7 sem o iniciar;
+- compatibilizar o capítulo com a chave da Nota sem converter a Nota em método soberano.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão futura:
+
+- a distinção entre representação operável e verdade;
+- a formulação de símbolo sem parecer teoria semiótica;
+- a formulação de linguagem sem parecer filosofia da linguagem autónoma;
+- a noção de sentido subordinado, que deve ficar suficientemente forte sem se tornar fundamento;
+- a fronteira entre linguagem/símbolo e cultura/sistema;
+- o fecho `P31/P34`, que deve manter a julgabilidade da representação sem abrir o Capítulo 7;
+- a exclusão de `P37`, que deve permanecer clara;
+- o equilíbrio entre crítica local e centro positivo, para que o capítulo não pareça mais forte pelo que recusa do que pelo que afirma.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+
+- linguagem como origem do real;
+- símbolo como mundo autónomo;
+- sentido como fundamento;
+- hermenêutica geral;
+- teoria semiótica;
+- teoria cultural;
+- sistema simbólico estabilizado;
+- cultura como centro;
+- instituição;
+- crítica do discurso;
+- crítica da ideologia;
+- crítica sistémica;
+- verdade como centro próprio;
+- erro como corpo próprio;
+- critério como tribunal;
+- correção como regime próprio;
+- `P37` como peça estabilizada;
+- dever-ser;
+- valor;
+- dignidade;
+- responsabilidade;
+- direito;
+- tecnologia;
+- sistema;
+- fechamento simbólico tardio.
+
+### fórmula final da versão
+
+> O Capítulo 6 fixa apenas isto: aquilo que foi apreendido e estabilizado internamente pode tornar-se representação mediada, símbolo, linguagem e sentido partilhável; mas essa mediação só permanece legítima enquanto fixa, articula e comunica a relação ao real sem a substituir.
+
+O capítulo deve terminar antes de a verdade, o erro e a correção se tornarem centro.
+
+O que ficou ganho é a centralidade própria da mediação simbólico-linguística: a representação torna o apreendido operável, o símbolo estabiliza essa mediação, a linguagem torna-a articulável e comunicável, e o sentido emerge subordinadamente como inteligibilidade partilhável da relação ao real.
+
+Só depois deste ganho se torna legítima a pergunta seguinte — não já pela linguagem, nem pelo símbolo, nem pelo sentido, mas pelo modo como a representação mediada pode adequar-se ou desadequar-se ao real, exigindo verdade, erro, critério e correção.
+
+### fórmula axial de leitura local
+
+> **ser no real:** fixação mediada, simbólica, linguística e partilhável da relação apreendida ao real;  
+> **dizer do ser:** representação suficiente, linguagem fundadora, símbolo autónomo, sentido originário, partilha como validação, coerência interna como verdade, mediação como critério;  
+> **erro da proposição não real:** autonomizar a mediação simbólico-linguística até ela deixar de mediar o real e passar a substituí-lo;  
+> **reinscrição no real:** representação, linguagem, símbolo e sentido como formas subordinadas de fixar, articular, estabilizar e comunicar a relação apreendida ao real, permanecendo julgáveis pela sua submissão ao real.
+
+<a id="capitulo-cap-07-verdade-erro-criterio-correcao"></a>
+## CAP_07_verdade_erro_criterio_correcao
+
+- Pasta: `CAP_07_verdade_erro_criterio_correcao`
+- Ficheiros incluídos: `8`
+
+### Índice interno da pasta
+
+- [00_estatuto_e_limites](#cap-07-verdade-erro-criterio-correcao-00-estatuto-e-limites-md) — `CAP_07_verdade_erro_criterio_correcao/00_estatuto_e_limites.md`
+- [01_estrutura_interna](#cap-07-verdade-erro-criterio-correcao-01-estrutura-interna-md) — `CAP_07_verdade_erro_criterio_correcao/01_estrutura_interna.md`
+- [02_materiais_positivos](#cap-07-verdade-erro-criterio-correcao-02-materiais-positivos-md) — `CAP_07_verdade_erro_criterio_correcao/02_materiais_positivos.md`
+- [03_materiais_criticos](#cap-07-verdade-erro-criterio-correcao-03-materiais-criticos-md) — `CAP_07_verdade_erro_criterio_correcao/03_materiais_criticos.md`
+- [04_lacunas_do_capitulo](#cap-07-verdade-erro-criterio-correcao-04-lacunas-do-capitulo-md) — `CAP_07_verdade_erro_criterio_correcao/04_lacunas_do_capitulo.md`
+- [05_decisao_local_do_capitulo](#cap-07-verdade-erro-criterio-correcao-05-decisao-local-do-capitulo-md) — `CAP_07_verdade_erro_criterio_correcao/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-07-verdade-erro-criterio-correcao-06-primeira-versao-controlada-de-escrita-md) — `CAP_07_verdade_erro_criterio_correcao/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7](#cap-07-verdade-erro-criterio-correcao-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap7-md) — `CAP_07_verdade_erro_criterio_correcao/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7.md`
+
+<a id="cap-07-verdade-erro-criterio-correcao-00-estatuto-e-limites-md"></a>
+### 00_estatuto_e_limites
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/00_estatuto_e_limites.md`
+
+# 00_estatuto_e_limites
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar o estatuto local do **Capítulo 7 — verdade, erro, critério e correção** dentro da pasta de capítulos;
+- determinar o que este capítulo pode e não pode fazer no livro;
+- preservar a diferença entre representação mediada, adequação, critério, verdade, erro e correção;
+- abrir localmente o capítulo sem o converter ainda em redação corrida;
+- impedir que verdade, critério, erro ou correção se tornem instâncias soberanas face ao real;
+- impedir que o capítulo seja absorvido por epistemologia abstrata, linguagem, sistema, cultura ou crítica tardia.
+
+### limite
+- este ficheiro não reabre `CF07`;
+- não redecide a arquitetura total da obra;
+- não reabre o `Capítulo 6`;
+- não transforma o capítulo em teoria geral da verdade;
+- não transforma o capítulo em teoria geral do erro;
+- não transforma o capítulo em teoria geral do critério;
+- não transforma o capítulo em epistemologia autónoma;
+- não transforma correção em reajuste interno de sistema;
+- não antecipa ética, normatividade, cultura, instituição ou crítica sistémica;
+- não autoriza ainda redação corrida do capítulo.
+
+### valor metodológico
+- vale como abertura local disciplinada da pasta do `Capítulo 7`;
+- vale como travão contra autonomização epistemológica;
+- vale como base para `01_estrutura_interna.md`, `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`;
+- vale como critério para decidir, mais tarde, se o capítulo está apenas arquitetado, povoado parcialmente ou pronto para primeira versão controlada de escrita.
+
+---
+
+## II. Estatuto local do capítulo
+
+### estado atual
+**aberto localmente com restrições**
+
+### estatuto próprio
+O `Capítulo 7` é o capítulo em que a representação mediada, já fixada, simbolizada, articulada e tornada operável no `Capítulo 6`, passa a poder ser julgada quanto à sua relação com o real.
+
+Não é capítulo da linguagem.
+Não é capítulo do símbolo.
+Não é capítulo do sentido.
+Não é capítulo da memória.
+Não é capítulo da consciência.
+Não é capítulo da cultura.
+Não é capítulo do sistema.
+Não é capítulo da normatividade.
+
+É capítulo da **submissão da representação ao real**, enquanto condição de inteligibilidade de adequação, critério, verdade, erro e correção.
+
+### forma de uso
+O capítulo deve ser usado como:
+- capítulo da representação avaliável;
+- capítulo da adequação e desadequação da representação ao real;
+- capítulo do critério enquanto medida operativa submetida ao real;
+- capítulo da verdade enquanto adequação da representação ao real;
+- capítulo do erro enquanto desadequação ao real;
+- capítulo da correção enquanto reinscrição da representação e da ação na medida do real.
+
+Não deve ser usado como:
+- epistemologia abstrata;
+- teoria do conhecimento autónoma;
+- teoria formal da verdade;
+- teoria lógica do erro;
+- crítica geral da linguagem;
+- crítica da cultura;
+- crítica do sistema;
+- passagem direta para ética ou normatividade.
+
+---
+
+## III. Centro próprio do capítulo
+
+### centro
+O centro próprio do `Capítulo 7` é este:
+
+> **a representação situada e mediada só se torna julgável enquanto permanece submetida ao real; é essa submissão que permite distinguir adequação, verdade, erro, critério e correção.**
+
+### desdobramento mínimo do centro
+1. há real;
+2. o humano é ente situado no real;
+3. a apreensão precede a representação;
+4. a memória estabiliza internamente a relação apreendida;
+5. a mediação simbólico-linguística torna o apreendido representável e comunicável;
+6. a representação, por ser mediada, pode ajustar-se ou desajustar-se ao real;
+7. a adequação exige critério;
+8. o critério tem de permanecer submetido ao real;
+9. a verdade é adequação da representação ao real sob critério válido;
+10. o erro é desadequação ao real sob critério válido;
+11. corrigir é reinscrever representação e ação na medida do real.
+
+### fórmula curta do centro
+O `Capítulo 7` trata do momento em que a representação deixa de ser apenas mediação e passa a ser medida pelo real que pretende dizer.
+
+---
+
+## IV. Falso centro dominante a bloquear
+
+### falso centro dominante principal
+O falso centro dominante a bloquear é este:
+
+> **abrir por verdade, critério, erro ou correção em abstrato, como se o regime epistemológico pudesse fundar-se sem apreensão, memória, representação situada e submissão ao real.**
+
+### formas típicas desse desvio
+- abrir por “o que é a verdade?” em abstrato;
+- abrir por critério como tribunal formal;
+- abrir por erro como falha lógica ou psicológica;
+- abrir por correção como reajuste interno de sistema;
+- tratar a verdade como coerência interna;
+- tratar o critério como convenção;
+- tratar o erro como simples incoerência;
+- tratar a correção como substituição de uma formulação por outra;
+- fazer da epistemologia uma camada soberana acima do real;
+- permitir que linguagem, símbolo ou sistema decidam a verdade por si mesmos.
+
+### outros falsos centros a bloquear
+- linguagem soberana;
+- símbolo autónomo;
+- sentido como critério último;
+- coerência interna;
+- consenso;
+- autoridade;
+- forma;
+- sistema;
+- cultura;
+- instituição;
+- técnica;
+- direito;
+- normatividade;
+- dever-ser;
+- dignidade;
+- vida boa;
+- crítica sistémica;
+- fechamento simbólico.
+
+### fórmula crítica curta
+> A verdade não começa num tribunal abstrato do pensamento; começa quando uma representação situada é medida pelo real que pretende dizer.
+
+---
+
+## V. Fronteira com o anterior
+
+### capítulo anterior
+O anterior imediato é:
+
+**`Capítulo 6 — representação, linguagem, símbolo e sentido`**
+
+### o que o Capítulo 7 herda do Capítulo 6
+O `Capítulo 7` herda:
+- representação mediada;
+- símbolo;
+- linguagem;
+- sentido subordinado;
+- comunicação;
+- partilha;
+- representação operável;
+- possibilidade de comparação entre representação e real.
+
+### diferença decisiva face ao Capítulo 6
+No `Capítulo 6`, o centro era a mediação simbólico-linguística do apreendido.
+
+No `Capítulo 7`, o centro passa a ser a avaliação dessa mediação pelo real.
+
+A fronteira é esta:
+
+> no `Capítulo 6`, a representação torna-se mediada, articulada e partilhável; no `Capítulo 7`, essa representação passa a ser julgável quanto à sua adequação ou desadequação ao real.
+
+### o que o Capítulo 7 não pode reabrir do anterior
+O `Capítulo 7` não pode reabrir como centro:
+- símbolo;
+- linguagem;
+- sentido;
+- mediação;
+- comunicação;
+- representação enquanto mera forma operável.
+
+Esses elementos ficam pressupostos.
+
+Não governam o capítulo.
+
+### regra da fronteira anterior
+> A mediação prepara a avaliação; a avaliação começa quando a representação é medida pelo real.
+
+---
+
+## VI. Fronteira com o seguinte
+
+### capítulo seguinte
+O capítulo seguinte ainda não deve ser aberto por esta peça.
+
+A sequência posterior poderá encaminhar a obra para ação, normatividade derivada, responsabilidade, coordenação, cultura, sistema ou crítica tardia.
+
+Mas o `Capítulo 7` não pode antecipar esses regimes.
+
+### o que o Capítulo 7 prepara legitimamente
+O `Capítulo 7` prepara:
+- a passagem de descrição adequada para orientação;
+- a diferença entre erro descritivo e erro prático;
+- a possibilidade de reinscrever representação e ação na medida do real;
+- a futura passagem para agir situado e normatividade derivada.
+
+### o que o Capítulo 7 não pode absorver do seguinte
+O `Capítulo 7` não pode absorver:
+- ação como centro próprio;
+- dano real como centro próprio;
+- bem e mal;
+- normatividade;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- cultura;
+- instituição;
+- sistema;
+- crítica sistémica.
+
+### regra da fronteira posterior
+> A correção pode preparar a ação, mas o capítulo da verdade, erro, critério e correção ainda não é capítulo da ética, da normatividade ou do sistema.
+
+---
+
+## VII. Fronteira lateral com o Capítulo 6
+
+### zona de risco
+A fronteira lateral com o `Capítulo 6` continua ativa porque linguagem, símbolo, sentido e representação podem tentar reocupar o centro.
+
+### o que pode ser pressuposto
+Pode ser pressuposto:
+- símbolo como mediação;
+- linguagem como estabilização articulada;
+- representação como forma operável;
+- sentido como organização relacional subordinada.
+
+### o que não pode comandar
+Não podem comandar:
+- linguagem;
+- símbolo;
+- sentido;
+- mediação;
+- coerência simbólico-linguística;
+- consenso comunicativo.
+
+### regra
+> A linguagem pode dizer; só o real pode medir se o dito é verdadeiro.
+
+---
+
+## VIII. Fronteira lateral com crítica sistémica
+
+### zona crítica posterior
+A crítica sistémica, cultural, institucional ou tecnológica pertence a zonas posteriores.
+
+### o que o Capítulo 7 pode preparar
+O `Capítulo 7` pode preparar a possibilidade de:
+- identificar coerência interna desligada do real;
+- mostrar que um critério puramente interno degrada-se;
+- distinguir sistema funcional de sistema adequado;
+- preparar a crítica futura do fechamento simbólico.
+
+### o que não pode fazer
+Não pode ainda desenvolver:
+- cultura;
+- instituição;
+- sistema;
+- técnica;
+- direito;
+- ideologia;
+- fechamento simbólico;
+- substituição do real por sistema;
+- crítica da modernidade;
+- crítica social ou política.
+
+### regra
+> O critério desligado do real prepara a crítica do sistema, mas o `Capítulo 7` ainda não é crítica sistémica.
+
+---
+
+## IX. Uso máximo local agora admissível
+
+### formulação positiva máxima admissível
+A formulação positiva máxima atualmente admissível para o `Capítulo 7` é esta:
+
+> A representação mediada, por não coincidir automaticamente com o real que pretende dizer, pode ajustar-se ou desajustar-se a esse real; por isso exige critério operativo submetido ao próprio real. Quando há adequação sob esse critério, há verdade; quando há desadequação, há erro; e corrigir é reinscrever representação e ação na medida do real.
+
+### sequência mínima autorizada
+A sequência mínima já autorizada do capítulo é esta:
+
+1. `P24/P25/P26` — humano situado, memória e representação operável como chão pressuposto;
+2. `P30/P31/P32` — consciência localizada, possibilidade de ajustamento/desajustamento e exigência de critério;
+3. `P33` — critério desligado do real degrada-se em coerência interna, convenção ou fechamento;
+4. `P34` — verdade como adequação da representação ao real sob critério operativo submetido ao real;
+5. `P35` — verdade e erro são co-originários;
+6. `P36` — erro como desadequação ao real sob critério válido;
+7. `P37` — correção como reinscrição da representação e da ação na medida do real.
+
+### o que este uso máximo já permite
+Este uso máximo já permite:
+- abrir o capítulo a partir da representação avaliável;
+- fazer entrar adequação e desadequação;
+- explicar a necessidade de critério;
+- submeter o critério ao real;
+- formular verdade como adequação;
+- formular erro como desadequação;
+- formular correção como reinscrição no real.
+
+### o que este uso máximo ainda não permite
+Este uso máximo ainda não permite:
+- redação corrida livre;
+- epistemologia abstrata;
+- teoria geral da verdade;
+- teoria geral do erro;
+- teoria geral do critério;
+- crítica sistémica;
+- ética;
+- normatividade;
+- teoria da ação;
+- cultura, instituição, técnica ou direito como corpos próprios.
+
+---
+
+## X. O que fica dentro e o que fica fora
+
+### fica dentro
+- humano situado como chão pressuposto;
+- apreensão situada;
+- memória pressuposta;
+- representação mediada;
+- representação avaliável;
+- ajustamento e desajustamento;
+- adequação;
+- critério operativo;
+- submissão do critério ao real;
+- verdade como adequação;
+- erro como desadequação;
+- distinção entre erro, ilusão, insuficiência epistémica e dano, apenas quando necessário;
+- correção como reinscrição da representação e da ação no real;
+- bloqueio de coerência interna, consenso, autoridade e forma como substitutos do real.
+
+### fica fora
+- linguagem como centro;
+- símbolo como centro;
+- sentido como critério último;
+- mediação como fundamento;
+- verdade em abstrato;
+- critério autónomo;
+- erro psicológico;
+- erro moral;
+- correção como simples coerentização interna;
+- ação como centro próprio;
+- dano como centro próprio;
+- ética;
+- dever-ser;
+- dignidade;
+- vida boa;
+- cultura;
+- instituição;
+- sistema;
+- técnica;
+- direito;
+- crítica do fechamento simbólico como corpo próprio.
+
+---
+
+## XI. Travões locais obrigatórios
+
+### travão 1 — não abrir por verdade abstrata
+A verdade não pode ser a primeira palavra do capítulo.
+
+A primeira palavra local deve ser a representação situada já mediada e agora avaliável.
+
+### travão 2 — não abrir por critério autónomo
+O critério não é tribunal exterior ao real.
+
+Só entra como medida operativa submetida ao real.
+
+### travão 3 — não abrir por erro
+O erro não é centro psicológico, lógico ou moral.
+
+Só entra como desadequação da representação ao real sob critério válido.
+
+### travão 4 — não abrir por correção
+A correção não é cabeça inicial.
+
+Só fecha o capítulo como reinscrição da representação e da ação na medida do real.
+
+### travão 5 — representação não é verdade
+A representação torna possível a verdade, mas não é ainda verdade.
+
+### travão 6 — linguagem não é critério
+O dito não é verdadeiro por ser dito.
+
+A linguagem é mediação; o real é medida.
+
+### travão 7 — coerência interna não basta
+Coerência interna, convenção, consenso, autoridade ou forma podem estabilizar um sistema, mas não bastam para verdade.
+
+### travão 8 — não antecipar crítica sistémica
+O capítulo pode mostrar o risco de critério desligado do real.
+
+Mas não deve transformar-se ainda em crítica da cultura, da instituição ou do sistema.
+
+### travão 9 — não antecipar ética
+A correção pode preparar a passagem para ação.
+
+Mas ação, dano, dever-ser, dignidade e vida boa ficam fora da cabeça do capítulo.
+
+### travão 10 — manter submissão ao real
+Tudo no capítulo deve permanecer submetido ao real:
+- representação;
+- critério;
+- verdade;
+- diagnóstico do erro;
+- correção.
+
+---
+
+## XII. Estatuto lateral de CF17 e CF18
+
+### CF17
+`CF17` permanece apenas como fronteira arquitetónica lateral.
+
+Pode funcionar como:
+- travão contra reordenação global;
+- vigilância contra inversões de sequência;
+- proteção contra usar critério, verdade ou correção como chave total do livro.
+
+Não pode:
+- abrir o capítulo;
+- reordenar a sequência local;
+- transformar o capítulo em teoria da ordem dos problemas.
+
+### CF18
+`CF18` permanece apenas como instrumento lateral de reconhecimento disciplinado.
+
+Pode funcionar como:
+- reconhecimento de objeto;
+- reconhecimento de nível;
+- reconhecimento de operação;
+- identificação de desvio;
+- distinção entre centro, apoio, travão e falso centro.
+
+Não pode:
+- decidir o centro do capítulo;
+- transformar verdade, erro ou critério em categorias taxonómicas soberanas;
+- substituir o juízo local do capítulo.
+
+---
+
+## XIII. Fórmula estrutural curta
+
+> **P24/P25/P26 pressupostos → P30/P31/P32 → P33 → P34 → P35 → P36 → P37**
+
+ou, em formulação conceptual:
+
+> **humano situado / memória / representação operável → representação avaliável → critério submetido ao real → verdade como adequação → erro como desadequação → correção como reinscrição no real**
+
+---
+
+## XIV. Fórmula final curta
+
+> O `Capítulo 7` só pode dizer isto: uma representação mediada só é verdadeira se se adequar ao real sob critério submetido ao próprio real; quando se desadequa, há erro; quando esse erro é enfrentado, corrigir é reinscrever representação e ação na medida do real.
+
+<a id="cap-07-verdade-erro-criterio-correcao-01-estrutura-interna-md"></a>
+### 01_estrutura_interna
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/01_estrutura_interna.md`
+
+# 01_estrutura_interna
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a estrutura interna mínima do **Capítulo 7 — verdade, erro, critério e correção**;
+- distinguir as suas partes, subpartes e corredores internos sem o transformar em epistemologia abstrata;
+- preparar o povoamento local por materiais positivos e críticos;
+- impedir fusões indevidas com o `Capítulo 6`, com capítulos práticos posteriores, com crítica sistémica e com ética/normatividade;
+- garantir que verdade, erro, critério e correção entram sempre como modos de submissão da representação ao real.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não reabre `CF07`;
+- não redecide o corredor `P33–P37`;
+- não transforma o capítulo em teoria geral da verdade;
+- não transforma o capítulo em teoria geral do erro;
+- não transforma o capítulo em teoria autónoma do critério;
+- não transforma correção em mera coerentização interna;
+- não antecipa ética, normatividade, cultura, instituição, sistema ou crítica tardia;
+- não autoriza ainda redação corrida do capítulo.
+
+### valor metodológico
+- vale como planta local do `Capítulo 7`;
+- vale como ordem mínima do seu futuro povoamento;
+- vale como travão contra inflação epistemológica, moral, sistémica ou crítica;
+- vale como base para `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+---
+
+## II. Forma geral do capítulo
+
+### estatuto formal
+O `Capítulo 7` deve funcionar como o capítulo em que a representação mediada, já tornada operável no `Capítulo 6`, passa a ser **medida pelo real**.
+
+Não é capítulo da linguagem.
+Não é capítulo do símbolo.
+Não é capítulo do sentido.
+Não é capítulo da mediação enquanto tal.
+Não é capítulo da cultura.
+Não é capítulo do sistema.
+Não é capítulo da ética.
+
+É capítulo da **representação avaliável sob submissão ao real**.
+
+### extensão relativa
+O capítulo deve ter corpo suficiente para:
+- mostrar por que a representação pode adequar-se ou desadequar-se;
+- introduzir a necessidade de critério;
+- mostrar que o critério só é legítimo se permanecer submetido ao real;
+- formular verdade como adequação;
+- formular erro como desadequação;
+- formular correção como reinscrição no real.
+
+Mas deve parar antes de:
+- ação como centro próprio;
+- dano real como centro próprio;
+- normatividade;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- cultura;
+- instituição;
+- sistema;
+- crítica do fechamento simbólico.
+
+### regra de composição
+A composição interna do capítulo deve obedecer a esta regra:
+
+> **partir da representação mediada já ganha; mostrar que ela é avaliável; introduzir adequação, desadequação e critério; submeter o critério ao real; formular verdade e erro como pares estruturais; e fechar por correção como reinscrição da representação e da ação na medida do real.**
+
+---
+
+## III. Partes internas obrigatórias
+
+## Parte A — Chão herdado: representação mediada e avaliável
+
+### função local
+Recordar o que vem do `Capítulo 6`, sem regressar à linguagem, ao símbolo ou à mediação como centros.
+
+### conteúdo mínimo
+1. há real;
+2. o humano é ente situado no real;
+3. a apreensão precede a representação;
+4. a memória estabiliza internamente a relação apreendida;
+5. símbolo e linguagem tornam o apreendido mediável e partilhável;
+6. a representação organiza o apreendido;
+7. a representação, por ser mediada, pode ser comparada ao real.
+
+### subparte A1 — representação já mediada
+- a representação já não é apreensão imediata;
+- já passou por fixação, símbolo, linguagem e sentido;
+- por isso, pode ser formulada, comunicada e retomada;
+- mas ainda não é verdadeira por esse facto.
+
+### subparte A2 — avaliabilidade
+- uma representação mediada pode ser confrontada com aquilo que pretende dizer;
+- pode aproximar-se ou afastar-se do real;
+- pode ser suficiente ou insuficiente;
+- pode orientar ou desviar.
+
+### subparte A3 — passagem do Capítulo 6 para o Capítulo 7
+- no `Capítulo 6`, a questão era: como o apreendido se fixa, se simboliza, se diz e se organiza;
+- no `Capítulo 7`, a questão é: se essa representação se adequa ou se desadequa ao real.
+
+### travão interno
+Esta parte deve ser curta.
+
+A função dela é impedir que o `Capítulo 7` apareça sem chão, não voltar a escrever o `Capítulo 6`.
+
+---
+
+## Parte B — Representação, adequação e desadequação
+
+### função local
+Mostrar que a representação mediada abre uma diferença estrutural entre adequação e desadequação.
+
+### conteúdo mínimo
+1. a representação não coincide automaticamente com o real;
+2. a representação pode corresponder suficientemente ao real;
+3. a representação pode falhar essa correspondência;
+4. adequação e desadequação só são inteligíveis porque há real resistente;
+5. esta diferença exige critério.
+
+### subparte B1 — representação não é verdade
+- representar não é ainda adequar;
+- dizer não é ainda dizer verdadeiramente;
+- comunicar não é ainda validar;
+- estabilizar simbolicamente não é ainda corresponder ao real.
+
+### subparte B2 — adequação
+- adequação é coincidência operativa entre representação e real sob limite;
+- não é fusão com o real;
+- não é identidade entre pensamento e coisa;
+- é correspondência suficiente para que a representação seja medida pelo real que pretende dizer.
+
+### subparte B3 — desadequação
+- desadequação é falha da representação perante o real;
+- pode ser parcial, categorial, escalar, descritiva ou operacional;
+- ainda não deve ser tratada como erro moral ou dano;
+- é primeiro falha da representação enquanto representação.
+
+### travão interno
+Não transformar esta parte em teoria geral da verdade.
+
+Ela deve apenas preparar a necessidade de critério.
+
+---
+
+## Parte C — Exigência de critério
+
+### função local
+Introduzir o critério como condição operativa da diferença entre adequação e desadequação.
+
+### conteúdo mínimo
+1. sem critério, adequação e desadequação ficam indistintas;
+2. o critério não é exterior ao real;
+3. o critério não é convenção soberana;
+4. o critério não é consenso;
+5. o critério deve medir a representação pelo real.
+
+### subparte C1 — por que há necessidade de critério
+- uma representação pode parecer plausível;
+- pode ser coerente;
+- pode ser aceite;
+- pode ser útil;
+- pode circular;
+- mas isso não basta para saber se é adequada ao real.
+
+### subparte C2 — critério operativo
+- o critério opera como medida;
+- permite distinguir suficiente de insuficiente;
+- permite distinguir descrever de projetar;
+- permite distinguir adequar de apenas coerentizar.
+
+### subparte C3 — critério submetido ao real
+- o critério não se valida por si;
+- não é tribunal autónomo;
+- não é regra interna de sistema;
+- só é critério legítimo enquanto permanece submetido ao real.
+
+### travão interno
+Não abrir por critério em abstrato.
+
+O critério entra porque a representação mediada se tornou avaliável.
+
+---
+
+## Parte D — `P33`: critério desligado do real
+
+### função local
+Bloquear o falso critério.
+
+### conteúdo mínimo
+1. um critério desligado do real degrada-se;
+2. essa degradação pode assumir a forma de coerência interna;
+3. pode assumir a forma de convenção;
+4. pode assumir a forma de consenso;
+5. pode assumir a forma de fechamento sistémico;
+6. nenhum destes substitui a submissão ao real.
+
+### subparte D1 — coerência interna
+- a coerência é necessária, mas insuficiente;
+- uma representação pode ser coerente e falsa;
+- um sistema pode ser ordenado e desadequado;
+- a coerência interna só vale se permanecer reconduzível ao real.
+
+### subparte D2 — convenção
+- a convenção pode estabilizar uso;
+- pode facilitar comunicação;
+- pode permitir operação;
+- mas não decide a verdade da representação.
+
+### subparte D3 — fechamento sistémico
+- quando o critério se fecha no sistema, deixa de medir pelo real;
+- passa a medir pela sua própria reprodução;
+- esta possibilidade prepara crítica sistémica posterior;
+- mas ainda não deve transformar o capítulo em crítica do sistema.
+
+### travão interno
+`P33` não é ainda crítica sistémica.
+
+É o bloqueio epistemológico mínimo do critério desligado do real.
+
+---
+
+## Parte E — `P34`: verdade como adequação sob critério submetido ao real
+
+### função local
+Formular o centro positivo do capítulo.
+
+### conteúdo mínimo
+1. verdade não é coerência interna;
+2. verdade não é consenso;
+3. verdade não é força simbólica;
+4. verdade não é utilidade local;
+5. verdade é adequação da representação ao real;
+6. essa adequação exige critério operativo;
+7. esse critério tem de estar submetido ao real.
+
+### subparte E1 — verdade como adequação
+- a verdade acontece no plano da representação;
+- a representação é verdadeira enquanto se adequa ao real que pretende dizer;
+- essa adequação é operativa, não mística;
+- a verdade exige correspondência suficiente entre dito e real.
+
+### subparte E2 — verdade e representação
+- não há verdade sem representação avaliável;
+- a apreensão pura ainda não é verdade proposicional;
+- a linguagem permite formular;
+- mas só a adequação ao real permite verdade.
+
+### subparte E3 — verdade e critério
+- a verdade exige critério;
+- mas o critério não funda a verdade de modo autónomo;
+- o critério serve a adequação;
+- e a adequação é medida pelo real.
+
+### travão interno
+Não transformar `P34` em teoria formal da verdade.
+
+A formulação deve ser firme e local:
+
+> verdade é adequação da representação ao real sob critério operativo submetido ao real.
+
+---
+
+## Parte F — `P35`: co-originariedade de verdade e erro
+
+### função local
+Mostrar que a inteligibilidade da verdade exige a possibilidade estrutural do erro.
+
+### conteúdo mínimo
+1. só há verdade onde pode haver desadequação;
+2. se a representação coincidisse automaticamente com o real, não haveria erro;
+3. sem possibilidade de erro, a verdade tornar-se-ia trivial;
+4. verdade e erro aparecem no mesmo regime: o da representação avaliável.
+
+### subparte F1 — contra infalibilismo
+- a representação não é infalível;
+- a linguagem não garante o dito;
+- a consciência não garante a verdade;
+- o sistema não garante adequação.
+
+### subparte F2 — verdade exige possibilidade de falha
+- a verdade é significativa porque a representação pode falhar;
+- a representação verdadeira distingue-se da falsa porque é medida pelo real;
+- a distinção verdade/erro nasce da mesma estrutura avaliativa.
+
+### subparte F3 — erro como possibilidade estrutural
+- o erro não é acidente exterior;
+- é possibilidade interna da mediação representacional;
+- nasce da distância entre representação e real.
+
+### travão interno
+Não transformar `P35` em tese psicológica sobre falibilidade humana.
+
+O ponto é estrutural: representação mediada implica possibilidade de verdade e erro.
+
+---
+
+## Parte G — `P36`: erro como desadequação ao real
+
+### função local
+Definir o erro em sentido próprio e distingui-lo de fenómenos próximos.
+
+### conteúdo mínimo
+1. erro é desadequação ao real sob critério válido;
+2. não é simples incoerência;
+3. não é apenas ilusão;
+4. não é mera insuficiência epistémica;
+5. não é ainda dano;
+6. pode assumir formas descritivas, categoriais e escalares.
+
+### subparte G1 — erro descritivo
+- ocorre quando a representação descreve mal o real;
+- o problema real é mal posto;
+- a solução pode ser mal aplicada porque a descrição falhou;
+- este erro prepara falhas práticas posteriores, mas ainda não é ética.
+
+### subparte G2 — erro categorial
+- ocorre quando se confunde nível, campo ou regime;
+- por exemplo, tomar linguagem por real, símbolo por coisa, critério por real, utilidade por verdade;
+- é uma forma de desadequação porque aplica uma categoria onde ela não pertence.
+
+### subparte G3 — erro de escala
+- ocorre quando algo válido localmente é generalizado indevidamente;
+- ou quando um critério útil numa escala é feito critério universal;
+- mostra que adequação depende também de campo, escala e limite.
+
+### subparte G4 — distinções negativas
+O erro deve ser distinguido de:
+- ilusão;
+- ignorância;
+- insuficiência epistémica;
+- incompletude;
+- dano;
+- mal moral;
+- desacordo;
+- incoerência formal.
+
+### travão interno
+Não transformar o erro em capítulo autónomo total.
+
+O erro aqui entra para servir a cadeia:
+
+> representação avaliável → critério → verdade/erro → correção.
+
+---
+
+## Parte H — `P37`: correção como reinscrição no real
+
+### função local
+Fechar o capítulo mostrando que a resposta ao erro não é rearranjo interno, mas retorno operativo ao real.
+
+### conteúdo mínimo
+1. corrigir não é apenas trocar uma representação por outra;
+2. corrigir não é apenas coerentizar o sistema;
+3. corrigir não é apenas melhorar a formulação;
+4. corrigir é reinscrever representação e ação na medida do real;
+5. a correção prepara a passagem para ação, mas ainda não é capítulo da ação.
+
+### subparte H1 — correção da representação
+- a representação falhada deve ser reconduzida ao real;
+- a descrição deve ser ajustada;
+- o critério deve ser revalidado pela resistência do real;
+- a linguagem deve voltar a mediar em vez de substituir.
+
+### subparte H2 — correção da ação
+- uma má representação pode orientar uma má ação;
+- corrigir representação pode exigir corrigir o agir;
+- mas o capítulo não deve ainda desenvolver ação, dano, responsabilidade ou normatividade.
+
+### subparte H3 — correção contra coerentização interna
+- um sistema pode corrigir-se internamente sem voltar ao real;
+- isso não basta;
+- a correção verdadeira exige reinscrição real;
+- não basta compatibilizar signos, conceitos ou normas.
+
+### travão interno
+`P37` é fecho do capítulo, não abertura de normatividade.
+
+A correção prepara a passagem seguinte, mas não autoriza ainda ética, dever-ser ou vida boa.
+
+---
+
+## Parte I — Entrega ao capítulo seguinte
+
+### função local
+Parar no ponto certo.
+
+### conteúdo mínimo
+1. a representação pode ser verdadeira ou errada;
+2. o erro pode exigir correção;
+3. a correção pode tocar a ação;
+4. quando a ação passa a centro, já se entrou noutro regime;
+5. o capítulo seguinte só pode abrir se a correção epistemológica preparar o agir situado sem transformar verdade em moral autónoma.
+
+### formulação de passagem
+> Quando corrigir já não significa apenas ajustar a representação ao real, mas também reinscrever o agir naquilo que o real permite, exige ou impede, começa o problema prático seguinte.
+
+### travão interno
+A entrega não deve resolver a ética.
+
+Só deve preparar a passagem do erro/correção para ação e normatividade derivada.
+
+---
+
+## IV. Ordem interna mínima obrigatória
+
+A ordem mínima do `Capítulo 7` deve ser esta:
+
+1. **chão herdado** — real, humano situado, apreensão, memória e representação mediada;
+2. **representação avaliável** — a representação pode ser comparada ao real;
+3. **adequação/desadequação** — a representação pode ajustar-se ou falhar;
+4. **exigência de critério** — a diferença exige medida;
+5. **`P33`** — critério desligado do real degrada-se em coerência interna, convenção ou fechamento;
+6. **`P34`** — verdade como adequação da representação ao real sob critério submetido ao real;
+7. **`P35`** — verdade e erro como co-originários;
+8. **`P36`** — erro como desadequação ao real sob critério válido;
+9. **`P37`** — correção como reinscrição da representação e da ação na medida do real;
+10. **entrega ao regime prático posterior**.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente proibido:
+- abrir por verdade em abstrato;
+- abrir por critério autónomo;
+- abrir por erro;
+- abrir por correção;
+- abrir por ética;
+- abrir por sistema;
+- abrir por cultura;
+- abrir por crítica do fechamento simbólico.
+
+---
+
+## V. Minicapítulos internos provisórios
+
+Para efeitos de povoamento e futura redação, o `Capítulo 7` passa a trabalhar com estes minicapítulos provisórios:
+
+### M1 — Representação mediada como representação avaliável
+Função: recuperar o ganho do `Capítulo 6` sem o reabrir.
+
+### M2 — Adequação e desadequação
+Função: mostrar que a representação mediada pode ajustar-se ou falhar perante o real.
+
+### M3 — Necessidade de critério
+Função: explicar por que a diferença adequação/desadequação exige medida operativa.
+
+### M4 — Critério submetido ao real
+Função: desenvolver `P33`, bloqueando coerência interna, convenção, consenso e fechamento.
+
+### M5 — Verdade como adequação
+Função: desenvolver `P34` sem transformar o capítulo em teoria formal da verdade.
+
+### M6 — Verdade e erro
+Função: desenvolver `P35`, mostrando a co-originariedade verdade/erro.
+
+### M7 — Erro como desadequação
+Função: desenvolver `P36`, distinguindo erro, ilusão, insuficiência epistémica, dano, erro descritivo, categorial e escalar.
+
+### M8 — Correção como reinscrição
+Função: desenvolver `P37`, distinguindo correção real de reajuste interno.
+
+### M9 — Passagem controlada para ação
+Função: preparar o regime prático posterior sem abrir ética ou normatividade autónoma.
+
+### nota de prudência
+`M4`, `M7` e `M8` são os minicapítulos mais perigosos.
+
+- `M4` pode transformar o capítulo em teoria geral do critério;
+- `M7` pode transformar o capítulo em teoria total do erro;
+- `M8` pode antecipar ação, ética e normatividade.
+
+Devem ser densos o suficiente para funcionar, mas disciplinados o suficiente para não roubar o centro.
+
+---
+
+## VI. Fronteiras de não-fusão
+
+### não fundir com o Capítulo 6
+O `Capítulo 7` não deve regressar a:
+- linguagem;
+- símbolo;
+- sentido;
+- mediação;
+- representação como simples forma operável;
+- comunicação;
+- partilha simbólica.
+
+A fronteira é esta:
+
+> no `Capítulo 6`, a representação torna-se mediada e partilhável; no `Capítulo 7`, essa representação passa a ser medida pelo real.
+
+### não fundir com crítica sistémica
+O `Capítulo 7` não deve absorver:
+- cultura;
+- instituição;
+- sistema;
+- técnica;
+- direito;
+- ideologia;
+- fechamento simbólico;
+- substituição do real por sistema.
+
+A fronteira é esta:
+
+> o critério desligado do real prepara a crítica do sistema, mas ainda não é crítica sistémica.
+
+### não fundir com ética ou normatividade
+O `Capítulo 7` não deve absorver:
+- dever-ser;
+- dignidade;
+- vida boa;
+- bem;
+- mal;
+- dano;
+- responsabilidade;
+- coordenação prática.
+
+A fronteira é esta:
+
+> a correção pode preparar a ação, mas a ação ainda não é o centro deste capítulo.
+
+### não fundir com teoria formal da verdade
+O `Capítulo 7` não deve tornar-se:
+- teoria lógica da verdade;
+- teoria formal da correspondência;
+- teoria semântica;
+- teoria analítica do erro;
+- epistemologia autónoma.
+
+A fronteira é esta:
+
+> a verdade é tratada aqui só enquanto adequação da representação ao real sob critério submetido ao real.
+
+---
+
+## VII. Travões locais de crescimento
+
+### travão 1 — anti-verdade abstrata
+A verdade não abre o capítulo.
+
+A representação avaliável abre o capítulo.
+
+### travão 2 — anti-critério soberano
+O critério não é tribunal exterior.
+
+É medida operativa submetida ao real.
+
+### travão 3 — anti-coerência interna
+Coerência interna pode ser necessária, mas não basta para verdade.
+
+### travão 4 — anti-consenso
+Consenso, circulação ou aceitação não validam por si uma representação.
+
+### travão 5 — anti-linguagem
+A linguagem diz; o real mede.
+
+### travão 6 — anti-sistema
+Sistema funcional não equivale a sistema verdadeiro.
+
+### travão 7 — anti-erro psicológico
+O erro não deve ser reduzido a falha psicológica, ilusão subjetiva ou ignorância individual.
+
+### travão 8 — anti-erro moral
+O erro epistemológico não deve ser imediatamente moralizado.
+
+### travão 9 — anti-correção interna
+Corrigir não é apenas tornar um sistema mais coerente.
+
+### travão 10 — anti-ética prematura
+A correção prepara ação, mas não abre ainda normatividade, dever-ser ou vida boa.
+
+---
+
+## VIII. Fórmula estrutural curta
+
+> **representação mediada → representação avaliável → adequação/desadequação → critério submetido ao real → verdade → erro → correção → passagem prática posterior**
+
+---
+
+## IX. Fórmula final curta
+
+> O `Capítulo 7` deve mostrar como uma representação mediada se torna avaliável pelo real: se se adequa sob critério submetido ao real, há verdade; se se desadequa, há erro; e corrigir é reconduzir representação e ação à medida do real, não apenas reajustar internamente um sistema.
+
+<a id="cap-07-verdade-erro-criterio-correcao-02-materiais-positivos-md"></a>
+### 02_materiais_positivos
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/02_materiais_positivos.md`
+
+# 02_materiais_positivos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais positivos mínimos** que já sustentam o povoamento local do **Capítulo 7 — verdade, erro, critério e correção**;
+- distinguir entre materiais **nucleares**, **de apoio**, **de passagem**, **terminais** e **sob vigilância**;
+- impedir que o capítulo seja povoado por simples afinidade temática com verdade, erro, critério, correção, linguagem, sistema, ética ou crítica;
+- preparar a abertura posterior de `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não transforma o `Capítulo 7` em epistemologia abstrata;
+- não transforma verdade em teoria formal da correspondência;
+- não transforma erro em psicologia, ilusão, ignorância ou moralização;
+- não transforma critério em tribunal autónomo;
+- não transforma correção em coerentização interna;
+- não importa para a cabeça do capítulo materiais que pertençam melhor ao `Capítulo 6`, aos capítulos práticos posteriores, à crítica sistémica ou à normatividade;
+- não autoriza ainda redação corrida.
+
+### regra decisiva
+> no `Capítulo 7`, só entra como material positivo aquilo que sustente a passagem pela qual uma representação mediada se torna avaliável pelo real: adequação, critério submetido ao real, verdade, erro e correção.
+
+---
+
+## II. Corredor positivo local do capítulo
+
+O corredor positivo local do `Capítulo 7` permanece este:
+
+1. **chão herdado** — real, humano situado, apreensão, memória e representação mediada;
+2. **representação avaliável** — a representação pode ser comparada ao real;
+3. **adequação/desadequação** — a representação pode ajustar-se ou falhar;
+4. **exigência de critério** — a diferença entre adequação e desadequação exige medida;
+5. **`P33`** — critério desligado do real degrada-se em coerência interna, convenção ou fechamento;
+6. **`P34`** — verdade como adequação da representação ao real sob critério submetido ao real;
+7. **`P35`** — verdade e erro como co-originários;
+8. **`P36`** — erro como desadequação ao real sob critério válido;
+9. **`P37`** — correção como reinscrição da representação e da ação na medida do real;
+10. **entrega ao regime prático posterior**.
+
+### consequência de mapeamento
+Isto obriga a uma seleção dura:
+- o núcleo positivo do capítulo deve ser carregado por materiais de **adequação**, **critério submetido ao real**, **verdade**, **erro** e **correção**;
+- materiais de linguagem, símbolo e mediação entram apenas como chão já tratado no `Capítulo 6`;
+- materiais de ética, normatividade, dano, responsabilidade, dignidade e vida boa ficam fora da cabeça positiva;
+- materiais de cultura, instituição, sistema e crítica do fechamento simbólico entram apenas como risco lateral ou travão, nunca como corpo do capítulo.
+
+---
+
+## III. Materiais nucleares por minicapítulo interno
+
+## M1 — Chão herdado: representação mediada como representação avaliável
+
+### materiais nucleares de apoio
+- `P24`
+- `P25`
+- `P26`
+- `P27`
+- `P28`
+- `P29`
+- `P30`
+- `D_REPRESENTACAO`
+- `D_MEDIACAO`
+- `D_LINGUAGEM`
+- `D_SIMBOLO`
+- `D_CONSCIENCIA_REFLEXIVA`
+
+### papel estrutural
+Estes materiais não constituem o corpo próprio do `Capítulo 7`.
+
+Servem para lembrar que:
+- a representação não aparece do nada;
+- há humano situado;
+- há apreensão;
+- há memória;
+- há fixação mediada;
+- há símbolo, linguagem e representação operável;
+- há consciência localizada que assume a mediação;
+- e só por isso a representação se torna avaliável.
+
+### fórmula local de uso
+> o `Capítulo 7` começa quando a representação mediada, já operável e partilhável, passa a poder ser medida pelo real.
+
+### regra de contenção
+`M1` deve ser curto.
+
+A sua função é impedir que o `Capítulo 7` apareça sem chão, não repetir o `Capítulo 6`.
+
+---
+
+## M2 — Representação avaliável
+
+### materiais nucleares prioritários
+- `P31`
+- `D_REPRESENTACAO`
+- `D_ADEQUACAO`
+- `ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA`
+- `ARG_ADEQUACAO_EXIGE_CRITERIO`
+
+### fragmentos de apoio admissíveis
+- `F0101_SEG_002`
+- `F0102_A01_SEG_001`
+- `F0102_A01_SEG_002`
+- `F0103_A01_SEG_001`
+- `F0104_A01_SEG_001`
+- `F0204_SEG_001`
+- `F0205_SEG_001`
+- `F0241_A02_SEG_001`
+- `F0241_A10_SEG_001`
+- `F0241_A21_SEG_001`
+- `F0241_A24_SEG_001`
+
+### papel estrutural
+Estes materiais sustentam a passagem da mediação para a avaliação.
+
+Devem permitir dizer:
+- a representação não coincide automaticamente com o real;
+- pode ajustar-se ou desajustar-se;
+- pode dizer bem ou mal;
+- pode orientar ou desviar;
+- pode ser suficiente ou insuficiente;
+- esta diferença exige medida.
+
+### formulação positiva de uso
+> a representação mediada torna-se avaliável quando pode ser comparada ao real que pretende dizer.
+
+### regra de contenção
+`P31` não deve transformar-se ainda em `P34`.
+
+Antes de falar de verdade, é preciso mostrar a diferença entre ajustamento e desajustamento da representação.
+
+---
+
+## M3 — Adequação e desadequação
+
+### materiais nucleares prioritários
+- `D_ADEQUACAO`
+- `D_REPRESENTACAO`
+- `D_REAL`
+- `D_LIMITE`
+- `ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA`
+- `ARG_ADEQUACAO_EXIGE_CRITERIO`
+
+### fragmentos de apoio direto
+- `F0241_A25_SEG_003`
+- `F0241_A02_SEG_002`
+- `F0160_SEG_001`
+- `F0101_SEG_002`
+- `F0102_A01_SEG_002`
+- `F0103_A01_SEG_001`
+
+### papel estrutural
+Estes materiais sustentam que:
+- adequação é relação entre representação e real;
+- a adequação não é fusão;
+- não é identidade entre pensamento e coisa;
+- não é coerência interna;
+- não é consenso;
+- não é utilidade local;
+- a desadequação é falha dessa relação perante o real.
+
+### formulação positiva de uso
+> adequação é coincidência operativa entre representação e real sob limite estrutural; desadequação é a falha dessa coincidência.
+
+### regra de contenção
+A adequação deve ser tratada como relação operativa, não como teoria formal da verdade.
+
+---
+
+## M4 — Exigência de critério
+
+### materiais nucleares prioritários
+- `P32`
+- `P33`
+- `D_CRITERIO`
+- `D_ADEQUACAO`
+- `D_REAL`
+- `ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE`
+- `ARG_ADEQUACAO_EXIGE_CRITERIO`
+
+### fragmentos de apoio direto
+- `F0005_SEG_001`
+- `F0008_SEG_001`
+- `F0101_SEG_002`
+- `F0102_A01_SEG_001`
+- `F0241_A02_SEG_001`
+- `F0241_A10_SEG_001`
+
+### papel estrutural
+Estes materiais sustentam que:
+- sem critério, adequação e desadequação não se distinguem suficientemente;
+- o critério é necessário para avaliar a representação;
+- o critério não é autónomo;
+- o critério deve ser fixado sob limite;
+- o critério tem de permanecer submetido ao real.
+
+### formulação positiva de uso
+> o critério é a medida operativa que permite distinguir representação adequada e representação desadequada, desde que essa medida permaneça submetida ao real.
+
+### regra de contenção
+O capítulo não pode abrir por critério.
+
+O critério entra porque a representação se tornou avaliável.
+
+---
+
+## M5 — `P33`: critério desligado do real
+
+### materiais nucleares prioritários
+- `P33`
+- `D_CRITERIO`
+- `D_REAL`
+- `D_SISTEMA`
+- `D_ADEQUACAO`
+- `ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE`
+- materiais sobre coerência interna, convenção, consenso e fechamento.
+
+### fragmentos de apoio admissíveis
+- `F0005_SEG_001`
+- `F0008_SEG_001`
+- `F0241_A02_SEG_002`
+- `F0241_A10_SEG_001`
+- `F0160_SEG_001`
+
+### papel estrutural
+Estes materiais sustentam o bloqueio de falso critério:
+- coerência interna não basta;
+- convenção não basta;
+- consenso não basta;
+- autoridade não basta;
+- forma não basta;
+- funcionamento de sistema não basta;
+- o critério desligado do real degrada-se.
+
+### formulação positiva de uso
+> um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.
+
+### regra de contenção
+`P33` não deve ser transformado em crítica sistémica desenvolvida.
+
+Aqui ainda é bloqueio epistemológico mínimo, não capítulo de sistema.
+
+---
+
+## M6 — `P34`: verdade como adequação sob critério submetido ao real
+
+### materiais nucleares prioritários
+- `P34`
+- `D_VERDADE`
+- `D_ADEQUACAO`
+- `D_CRITERIO`
+- `D_REAL`
+- `D_REPRESENTACAO`
+- `ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO`
+- `ARG_VERDADE_EXIGE_SUBMISSAO_REAL`
+
+### fragmentos de apoio direto
+- `F0241_A25_SEG_003`
+- `F0241_A02_SEG_002`
+- `F0160_SEG_001`
+- `F0101_SEG_002`
+- `F0102_A01_SEG_001`
+- `F0102_A01_SEG_002`
+- `F0204_SEG_001`
+- `F0205_SEG_001`
+
+### papel estrutural
+Estes materiais sustentam o centro positivo epistemológico do capítulo:
+- verdade é adequação;
+- adequação é da representação ao real;
+- a representação precisa de critério;
+- o critério precisa de submissão ao real;
+- verdade não é coerência interna;
+- verdade não é consenso;
+- verdade não é utilidade;
+- verdade não é elegância simbólica.
+
+### formulação positiva de uso
+> a verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.
+
+### regra de contenção
+`P34` é central, mas não pode abrir abstratamente o capítulo.
+
+Deve surgir depois de representação avaliável, adequação/desadequação e exigência de critério.
+
+---
+
+## M7 — `P35`: verdade e erro como co-originários
+
+### materiais nucleares prioritários
+- `P35`
+- `D_VERDADE`
+- `D_ERRO_ONTOLOGICO`
+- `D_REPRESENTACAO`
+- `D_ADEQUACAO`
+- materiais do corredor `P33_P37`
+
+### fragmentos de apoio admissíveis
+- `F0241_A25_SEG_003`
+- `F0241_A18_SEG_003`
+- `F0241_A19_SEG_003`
+- `F0101_SEG_003`
+- `F0102_A01_SEG_002`
+
+### papel estrutural
+Estes materiais sustentam que:
+- a verdade só é inteligível onde o erro é possível;
+- a representação mediada pode falhar;
+- se não pudesse falhar, a verdade seria trivial;
+- verdade e erro pertencem ao mesmo regime de representação avaliável.
+
+### formulação positiva de uso
+> a distinção entre verdade e erro é co-originária: sem possibilidade de erro, não há inteligibilidade da verdade.
+
+### regra de contenção
+`P35` não deve virar tese psicológica sobre falibilidade humana.
+
+O ponto é estrutural: representação mediada implica possibilidade de adequação e desadequação.
+
+---
+
+## M8 — `P36`: erro como desadequação ao real
+
+### materiais nucleares prioritários
+- `P36`
+- `P36_SP01`
+- `D_ERRO_ONTOLOGICO`
+- `D_ADEQUACAO`
+- `D_CRITERIO`
+- `D_REAL`
+- `D_REPRESENTACAO`
+- `ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO`
+- `ARG_CORRECAO_EXIGE_REINSCRICAO_REAL`
+
+### fragmentos de apoio direto
+- `F0241_A25_SEG_003`
+- `F0241_A19_SEG_003`
+- `F0241_A18_SEG_003`
+- `F0241_A18_SEG_002`
+- `F0241_A10_SEG_001`
+- `F0241_A02_SEG_002`
+- `F0185_SEG_001`
+- `F0181_SEG_001`
+- `F0167_SEG_001`
+- `F0108_A02_SEG_002`
+- `F0102_A01_SEG_002`
+- `F0101_SEG_003`
+
+### papel estrutural
+Estes materiais sustentam que:
+- erro é desadequação ao real sob critério válido;
+- erro não é simples incoerência;
+- erro não é apenas ilusão;
+- erro não é insuficiência epistémica;
+- erro não é dano;
+- erro pode assumir formas descritivas, categoriais e escalares.
+
+### formulação positiva de uso
+> o erro deve ser definido primariamente como desadequação ao real sob critério válido, distinguindo-se da ilusão, da insuficiência epistémica e do dano, embora possa assumir formas descritivas, categoriais e escalares.
+
+### regra de contenção
+`P36` pode ter densidade própria, mas não pode transformar o capítulo numa taxonomia total do erro.
+
+---
+
+## M9 — `P37`: correção como reinscrição no real
+
+### materiais nucleares prioritários
+- `P37`
+- `D_CORRECAO`
+- `D_ERRO_ONTOLOGICO`
+- `D_ADEQUACAO`
+- `D_REAL`
+- `D_REPRESENTACAO`
+- `D_ATUALIZACAO`
+- `ARG_CORRECAO_EXIGE_REINSCRICAO_REAL`
+- `ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO`
+
+### fragmentos de apoio direto
+- `F0241_A10_SEG_001`
+- `F0241_A26_SEG_004`
+- `F0142_SEG_001`
+- `F0064_A02_SEG_001`
+
+### papel estrutural
+Estes materiais sustentam o fecho positivo do capítulo:
+- corrigir não é apenas alterar uma formulação;
+- corrigir não é apenas coerentizar um sistema;
+- corrigir não é trocar uma representação por outra;
+- corrigir é reinscrever representação e ação na medida do real;
+- a correção fecha o capítulo e prepara a passagem ao agir.
+
+### formulação positiva de uso
+> corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.
+
+### regra de contenção
+`P37` fecha o capítulo.
+
+Não deve abrir diretamente ética, normatividade, dever-ser, responsabilidade, dignidade ou vida boa.
+
+---
+
+## IV. Materiais de apoio ou ponte que podem entrar, mas não governar
+
+### apoio baixo ainda legítimo
+- `P23`
+- `P24`
+- `P25`
+- `P26`
+- `P27`
+- `P28`
+- `P29`
+- `P30`
+
+Estes materiais servem para mostrar que a representação avaliável tem chão:
+- humano situado;
+- apreensão;
+- memória;
+- representação;
+- símbolo;
+- linguagem;
+- mediação;
+- consciência localizada.
+
+Não podem reabrir o `Capítulo 6`.
+
+### apoio epistemológico nuclear
+- `P31`
+- `P32`
+- `P33`
+- `P34`
+- `P35`
+- `P36`
+- `P37`
+- `D_ADEQUACAO`
+- `D_CRITERIO`
+- `D_VERDADE`
+- `D_ERRO_ONTOLOGICO`
+- `D_CORRECAO`
+
+Estes materiais constituem o corpo próprio do capítulo.
+
+### apoio terminal para passagem prática
+- materiais que mostrem que a correção da representação pode implicar correção da ação;
+- materiais que preparem ação situada;
+- materiais que preparem orientação prática;
+- materiais que indiquem que agir mal pode nascer de descrever mal.
+
+Estes materiais entram apenas como ponte terminal.
+
+### regra de uso
+Os materiais deste grupo:
+- podem densificar o capítulo;
+- não podem governar a cabeça;
+- não podem transformar o capítulo em ética;
+- não podem transformar o capítulo em crítica sistémica;
+- não podem transformar a correção em moralização.
+
+---
+
+## V. Materiais positivos que ficam fora da cabeça do capítulo
+
+### fora por pertencerem melhor ao Capítulo 6
+- símbolo como centro;
+- linguagem como centro;
+- sentido como centro;
+- mediação como centro;
+- representação como mera forma operável;
+- comunicação;
+- circulação simbólica.
+
+### fora por pertencerem melhor ao regime prático posterior
+- ação como centro próprio;
+- dano real como centro próprio;
+- bem;
+- mal;
+- direção prática;
+- normatividade;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa.
+
+### fora por pertencerem melhor à crítica sistémica
+- sistema;
+- cultura;
+- instituição;
+- técnica;
+- direito;
+- ideologia;
+- fechamento simbólico;
+- substituição do real por sistema;
+- crítica da modernidade;
+- crítica social ou política.
+
+### fora por serem demasiado formais
+- teoria lógica da verdade;
+- teoria semântica da verdade;
+- epistemologia formal autónoma;
+- teoria geral da justificação;
+- teoria psicológica do erro;
+- teoria formal da correção.
+
+### justificação
+O `Capítulo 7` ainda não é ética, crítica sistémica, teoria formal da verdade ou teoria geral do conhecimento.
+
+É o capítulo da representação mediada quando passa a ser medida pelo real.
+
+---
+
+## VI. Distribuição resumida dos materiais positivos do Capítulo 7
+
+### núcleo duro
+- `P33`
+- `P34`
+- `P35`
+- `P36`
+- `P37`
+- `P36_SP01`
+- `D_ADEQUACAO`
+- `D_CRITERIO`
+- `D_VERDADE`
+- `D_ERRO_ONTOLOGICO`
+- `D_CORRECAO`
+- `ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE`
+- `ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA`
+- `ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO`
+- `ARG_VERDADE_EXIGE_SUBMISSAO_REAL`
+- `ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO`
+- `ARG_CORRECAO_EXIGE_REINSCRICAO_REAL`
+
+### segunda cintura legítima
+- `P30`
+- `P31`
+- `P32`
+- `D_REPRESENTACAO`
+- `D_MEDIACAO`
+- `D_CONSCIENCIA_REFLEXIVA`
+- materiais sobre representação avaliável;
+- materiais sobre diferença entre ajustamento e desajustamento;
+- materiais sobre consciência localizada perante a representação.
+
+### chão pressuposto
+- `P24`
+- `P25`
+- `P26`
+- `P27`
+- `P28`
+- `P29`
+- humano situado;
+- memória;
+- fixação mediada;
+- símbolo;
+- linguagem;
+- representação operável.
+
+### fragmentos nucleares provisórios
+- `F0241_A25_SEG_003`
+- `F0241_A19_SEG_003`
+- `F0241_A18_SEG_003`
+- `F0241_A18_SEG_002`
+- `F0241_A10_SEG_001`
+- `F0241_A02_SEG_002`
+- `F0185_SEG_001`
+- `F0181_SEG_001`
+- `F0167_SEG_001`
+- `F0108_A02_SEG_002`
+- `F0102_A01_SEG_002`
+- `F0101_SEG_003`
+- `F0160_SEG_001`
+- `F0142_SEG_001`
+- `F0064_A02_SEG_001`
+- `F0241_A26_SEG_004`
+
+### fragmentos de apoio e ponte
+- `F0005_SEG_001`
+- `F0006_SEG_001`
+- `F0008_SEG_001`
+- `F0101_SEG_002`
+- `F0102_A01_SEG_001`
+- `F0103_A01_SEG_001`
+- `F0104_A01_SEG_001`
+- `F0204_SEG_001`
+- `F0205_SEG_001`
+- `F0241_A21_SEG_001`
+- `F0241_A24_SEG_001`
+
+### materiais a manter sob forte contenção
+- materiais de `P40` e dano real;
+- materiais de `P42–P48`;
+- materiais de normatividade, dever-ser, bem e mal;
+- materiais de crítica sistémica;
+- materiais de cultura, instituição, técnica e direito;
+- materiais de fechamento simbólico.
+
+---
+
+## VII. Lacuna positiva remanescente do capítulo
+
+A principal lacuna positiva do `Capítulo 7` não é falta de corredor.
+
+O corredor `P33–P37` está suficientemente fechado.
+
+A lacuna principal é outra:
+
+> **como usar a força positiva do corredor epistemológico sem deixar o capítulo abrir por epistemologia abstrata, sem apagar o chão da representação situada e sem antecipar ética ou crítica sistémica.**
+
+### consequência
+Na próxima peça, será preciso vigiar especialmente:
+- a suficiência da passagem entre representação avaliável e critério;
+- a distinção entre adequação e verdade;
+- a distinção entre critério operativo e critério soberano;
+- a distinção entre erro, ilusão, insuficiência epistémica e dano;
+- a distinção entre correção real e coerentização interna;
+- a fronteira com o regime prático posterior;
+- a fronteira com crítica sistémica.
+
+---
+
+## VIII. Fórmula final curta
+
+> O `Capítulo 7` já tem materiais positivos fortes para mostrar que uma representação mediada pode ser medida pelo real: se se adequa sob critério submetido ao real, há verdade; se se desadequa, há erro; e corrigir é reinscrever representação e ação na medida do real. Mas estes materiais só podem entrar legitimamente se continuarem subordinados ao chão da representação situada, e não como epistemologia abstrata, ética antecipada ou crítica sistémica.
+
+<a id="cap-07-verdade-erro-criterio-correcao-03-materiais-criticos-md"></a>
+### 03_materiais_criticos
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/03_materiais_criticos.md`
+
+# 03_materiais_criticos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais críticos** e os **travões de uso** do **Capítulo 7 — verdade, erro, critério e correção**;
+- identificar os falsos centros que ameaçam deslocar o corredor `P33–P37`;
+- impedir que verdade, erro, critério ou correção se autonomizem face ao real;
+- distinguir crítica interna legítima de crítica sistémica tardia;
+- impedir que o capítulo seja capturado por epistemologia abstrata, linguagem, sistema, ética, normatividade ou crítica cultural;
+- preparar a passagem a `04_lacunas_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige o capítulo;
+- não substitui `02_materiais_positivos.md`;
+- não transforma o capítulo em teoria geral da verdade;
+- não transforma o capítulo em teoria geral do erro;
+- não transforma o capítulo em teoria autónoma do critério;
+- não transforma a correção em ética;
+- não transforma a crítica do critério desligado do real em crítica sistémica plena;
+- não antecipa capítulos práticos posteriores;
+- não autoriza ainda redação corrida.
+
+### regra decisiva
+> no `Capítulo 7`, a crítica serve apenas para proteger a representação avaliável, a adequação, o critério, a verdade, o erro e a correção enquanto modos de submissão ao real.
+
+---
+
+## II. Núcleo crítico do capítulo
+
+O núcleo crítico do `Capítulo 7` é este:
+
+> **não deixar que a verdade, o critério, o erro ou a correção se tornem instâncias soberanas separadas do real que devem medir, reconhecer ou reinscrever.**
+
+### dupla ameaça principal
+
+#### ameaça por baixo
+O capítulo pode regredir para:
+- linguagem;
+- símbolo;
+- mediação;
+- representação como forma operável;
+- sentido;
+- comunicação;
+- coerência simbólico-linguística;
+- consenso discursivo.
+
+#### ameaça por cima
+O capítulo pode subir cedo demais para:
+- ação como centro próprio;
+- dano real como centro próprio;
+- bem e mal;
+- normatividade;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- cultura;
+- sistema;
+- instituição;
+- crítica sistémica;
+- fechamento simbólico.
+
+### ameaça interna específica
+A ameaça própria do capítulo é a autonomização epistemológica:
+
+- verdade como abstração;
+- critério como tribunal formal;
+- erro como defeito psicológico;
+- correção como ajuste interno;
+- coerência como substituto da adequação;
+- consenso como substituto do real;
+- forma como substituto da verdade.
+
+### consequência crítica
+O capítulo deve manter uma posição estreita:
+
+> **a verdade não paira acima do real; o critério não julga de fora; o erro não é mero defeito subjetivo; e a correção não é rearranjo interno de um sistema.**
+
+---
+
+## III. Falso centro dominante
+
+### falso centro principal
+O falso centro dominante é:
+
+> **abrir por verdade, critério, erro ou correção em abstrato, como se a epistemologia pudesse fundar-se antes da representação situada e da submissão ao real.**
+
+### por que é falso
+É falso porque inverte a ordem do capítulo.
+
+A ordem legítima é:
+
+> representação mediada → representação avaliável → adequação/desadequação → critério submetido ao real → verdade → erro → correção.
+
+A ordem falsa seria:
+
+> verdade → critério → real.
+
+Ou:
+
+> critério → representação → real.
+
+Ou ainda:
+
+> sistema coerente → verdade.
+
+### efeito sobre o capítulo
+Esse falso centro:
+- apaga o chão herdado de `P23/P24`;
+- esquece que a apreensão precede a representação;
+- transforma a representação em problema secundário;
+- faz do critério tribunal soberano;
+- transforma verdade em conceito abstrato;
+- reduz erro a falha psicológica, lógica ou moral;
+- converte correção em ajuste interno;
+- prepara a substituição do real por sistema.
+
+### fórmula crítica curta
+> O `Capítulo 7` não pergunta primeiro “o que é a verdade?”; pergunta quando e como uma representação mediada pode ser medida pelo real que pretende dizer.
+
+---
+
+## IV. Capturas críticas derivadas
+
+## 1. Captura por verdade abstrata
+
+### forma do desvio
+A verdade é tratada como conceito autónomo, desligado da representação situada.
+
+### sinais do desvio
+- abrir por definição geral de verdade;
+- discutir verdade sem representação;
+- discutir verdade sem adequação;
+- discutir verdade sem critério;
+- discutir verdade sem real resistente;
+- tratar verdade como categoria formal.
+
+### por que é erro
+A verdade entra no capítulo apenas porque uma representação mediada se torna avaliável.
+
+Sem representação avaliável, não há verdade no sentido próprio deste capítulo.
+
+### travão local
+> a verdade só entra depois de haver representação que possa ser medida pelo real.
+
+---
+
+## 2. Captura por critério soberano
+
+### forma do desvio
+O critério é tratado como tribunal autónomo.
+
+### sinais do desvio
+- critério como primeira palavra;
+- critério como regra formal autossuficiente;
+- critério como convenção válida por si;
+- critério como consenso;
+- critério como método separado da resistência do real;
+- critério como sistema interno de validação.
+
+### por que é erro
+O critério só é legítimo se permanecer submetido ao real.
+
+Um critério que já não mede a representação pelo real degenera em coerência interna, convenção ou fechamento.
+
+### travão local
+> o critério é medida operativa submetida ao real, não tribunal exterior ao real.
+
+---
+
+## 3. Captura por coerência interna
+
+### forma do desvio
+A coerência interna é confundida com verdade.
+
+### sinais do desvio
+- sistema coerente tomado como verdadeiro;
+- ausência de contradição tomada como adequação;
+- elegância conceptual tomada como prova;
+- consistência discursiva tomada como submissão ao real;
+- funcionamento interno tomado como validação.
+
+### por que é erro
+Uma representação pode ser coerente e falsa.
+
+Um sistema pode funcionar internamente e estar desligado do real.
+
+### travão local
+> a coerência pode ajudar uma representação; não a mede definitivamente.
+
+---
+
+## 4. Captura por consenso ou autoridade
+
+### forma do desvio
+A verdade é substituída por aceitação coletiva, autoridade ou repetição.
+
+### sinais do desvio
+- “é verdadeiro porque todos dizem”;
+- “é verdadeiro porque funciona socialmente”;
+- “é verdadeiro porque foi estabilizado institucionalmente”;
+- “é verdadeiro porque a autoridade o reconheceu”;
+- “é verdadeiro porque circula”.
+
+### por que é erro
+Consenso, autoridade e circulação são factos reais, mas não bastam para verdade.
+
+A verdade exige adequação da representação ao real.
+
+### travão local
+> o consenso pode estabilizar uma representação; não a torna verdadeira por si.
+
+---
+
+## 5. Captura por linguagem ou sentido
+
+### forma do desvio
+A linguagem ou o sentido reocupam a cabeça do capítulo.
+
+### sinais do desvio
+- o dito vale por ser dito;
+- a inteligibilidade substitui a adequação;
+- o sentido substitui o real;
+- a linguagem passa a critério;
+- a representação é julgada pelo sistema de signos e não pelo real.
+
+### por que é erro
+A linguagem pertence ao capítulo anterior como mediação.
+
+No `Capítulo 7`, a linguagem já está pressuposta; agora o que importa é se o que foi dito se adequa ao real.
+
+### travão local
+> a linguagem diz; o real mede.
+
+---
+
+## 6. Captura por representação como verdade
+
+### forma do desvio
+A representação é tratada como verdadeira só por estar estabilizada.
+
+### sinais do desvio
+- representação como espelho automático;
+- representação como descrição já validada;
+- representação como presença do real;
+- representação como critério de si mesma;
+- representação como verdade por clareza interna.
+
+### por que é erro
+A representação é condição da verdade, mas não é a verdade.
+
+A verdade exige adequação sob critério submetido ao real.
+
+### travão local
+> representar não é ainda adequar.
+
+---
+
+## 7. Captura por erro psicológico
+
+### forma do desvio
+O erro é reduzido a falha subjetiva, ignorância, confusão mental ou ilusão individual.
+
+### sinais do desvio
+- erro como fraqueza psicológica;
+- erro como ignorância individual;
+- erro como falha de atenção;
+- erro como estado interno;
+- erro como problema de maturidade ou disposição subjetiva.
+
+### por que é erro
+O erro, neste capítulo, é primeiro estrutural: nasce da possibilidade de a representação se desadequar ao real.
+
+Pode ter manifestações psicológicas, mas não se define por elas.
+
+### travão local
+> o erro não é primeiro um estado da mente; é desadequação da representação ao real.
+
+---
+
+## 8. Captura por erro moral
+
+### forma do desvio
+O erro epistemológico é moralizado cedo demais.
+
+### sinais do desvio
+- erro como culpa;
+- erro como mal;
+- erro como falha moral;
+- erro como irresponsabilidade já ética;
+- erro como vício;
+- erro como dano.
+
+### por que é erro
+O erro pode produzir dano e pode exigir responsabilidade, mas isso pertence a um regime posterior.
+
+Aqui, o erro deve ser definido primariamente como desadequação ao real sob critério válido.
+
+### travão local
+> nem todo o erro epistemológico é ainda erro moral.
+
+---
+
+## 9. Captura por dano ou ação
+
+### forma do desvio
+A estrutura do erro é imediatamente deslocada para a ação e para o dano.
+
+### sinais do desvio
+- começar por dano real;
+- tratar erro como má ação;
+- tratar erro como produção de mal;
+- passar de descrição falsa para responsabilidade sem mediação;
+- converter correção em obrigação prática.
+
+### por que é erro
+O `Capítulo 7` prepara a passagem para a ação, mas ainda não é capítulo da ação.
+
+A correção pode tocar a ação, mas o seu centro local continua a ser a reinscrição da representação na medida do real.
+
+### travão local
+> a correção pode preparar a ação; não abre ainda o capítulo da ação.
+
+---
+
+## 10. Captura por correção interna
+
+### forma do desvio
+Corrigir é tratado como tornar um sistema internamente mais coerente.
+
+### sinais do desvio
+- corrigir como reformular;
+- corrigir como ajustar termos;
+- corrigir como harmonizar conceitos;
+- corrigir como atualizar sistema;
+- corrigir como substituir uma teoria por outra sem retorno ao real.
+
+### por que é erro
+A correção verdadeira exige reinscrição no real.
+
+Não basta que o sistema fique mais coerente.
+
+### travão local
+> corrigir não é apenas coerentizar; é reconduzir representação e ação à medida do real.
+
+---
+
+## 11. Captura por crítica sistémica
+
+### forma do desvio
+O capítulo passa a tratar cultura, instituição, técnica, direito ou sistema.
+
+### sinais do desvio
+- critério desligado do real convertido em crítica da cultura;
+- verdade substituída por crítica do discurso;
+- erro transformado em ideologia;
+- correção transformada em crítica institucional;
+- sistema simbólico como corpo principal.
+
+### por que é erro
+`P33` pode preparar a crítica do critério fechado.
+
+Mas o desenvolvimento de cultura, instituição, técnica, direito e sistema pertence a zonas posteriores.
+
+### travão local
+> o critério desligado do real prepara a crítica sistémica, mas ainda não é crítica sistémica.
+
+---
+
+## 12. Captura por normatividade prematura
+
+### forma do desvio
+A correção é transformada em dever-ser autónomo.
+
+### sinais do desvio
+- passar de verdade para dever;
+- passar de erro para obrigação moral;
+- passar de correção para norma;
+- abrir dignidade, responsabilidade ou vida boa;
+- fazer do capítulo uma ponte ética já consumada.
+
+### por que é erro
+O capítulo ainda está no regime epistemológico-corretivo.
+
+A normatividade derivada só pode entrar depois de a ação, o dano e o dever-ser terem o seu chão próprio.
+
+### travão local
+> a verdade pode preparar orientação; não é ainda normatividade.
+
+---
+
+## V. Materiais críticos por zona interna
+
+## M1 — Chão herdado sob risco
+
+### risco
+O capítulo pode parecer começar já no plano abstrato da verdade.
+
+### consequência
+Se isso acontecer:
+- a representação situada desaparece;
+- o real torna-se objeto teórico;
+- o critério torna-se tribunal;
+- a verdade parece conceito autónomo.
+
+### travão
+Recordar expressamente:
+- há real;
+- o humano é situado;
+- a apreensão precede a representação;
+- a representação é mediada;
+- a representação torna-se avaliável.
+
+### uso admissível
+Estes materiais servem para manter o chão ativo.
+
+Não servem para reabrir o `Capítulo 6`.
+
+---
+
+## M2 — Representação avaliável sob risco
+
+### risco
+A avaliabilidade pode ser confundida com avaliação já feita.
+
+### formas do desvio
+- representação avaliável tratada como verdade;
+- possibilidade de adequação tratada como adequação;
+- comparabilidade tratada como correspondência efetiva.
+
+### travão
+Dizer com secura:
+
+> a representação torna-se avaliável antes de ser avaliada.
+
+### uso admissível
+Esta zona deve apenas preparar adequação/desadequação.
+
+---
+
+## M3 — Adequação/desadequação sob risco
+
+### risco
+A adequação pode subir cedo demais para teoria formal da verdade.
+
+### formas do desvio
+- adequação como fusão pensamento-real;
+- adequação como identidade;
+- adequação como certeza;
+- desadequação como mera incoerência.
+
+### travão
+A adequação deve permanecer como relação operativa:
+
+> coincidência suficiente entre representação e real sob limite estrutural.
+
+### uso admissível
+Serve para mostrar por que é preciso critério.
+
+---
+
+## M4 — Critério sob risco de autonomia
+
+### risco
+O critério pode ser soberanizado.
+
+### formas do desvio
+- critério como regra independente;
+- critério como método absoluto;
+- critério como consenso;
+- critério como convenção;
+- critério como estabilidade interna.
+
+### travão
+O critério só vale enquanto mede pelo real.
+
+### uso admissível
+O critério entra para distinguir adequação e desadequação, não para substituir o real.
+
+---
+
+## M5 — `P33` sob risco de crítica sistémica
+
+### risco
+`P33` pode crescer para crítica do sistema.
+
+### formas do desvio
+- coerência interna vira sistema;
+- convenção vira cultura;
+- fechamento vira instituição;
+- crítica do critério vira crítica social.
+
+### travão
+`P33` deve ser lido como bloqueio epistemológico mínimo:
+
+> critério desligado do real degrada-se em coerência interna, convenção ou fechamento.
+
+### uso admissível
+Pode mostrar o risco de fechamento.
+
+Não pode desenvolver ainda cultura, sistema ou instituição.
+
+---
+
+## M6 — `P34` sob risco de abstração
+
+### risco
+`P34` pode abrir por verdade abstrata.
+
+### formas do desvio
+- definição formal de verdade;
+- teoria da correspondência como sistema;
+- verdade sem representação situada;
+- verdade sem critério;
+- verdade sem real resistente.
+
+### travão
+`P34` deve surgir apenas depois da cadeia:
+
+> representação avaliável → adequação/desadequação → critério submetido ao real.
+
+### uso admissível
+Formular verdade como adequação da representação ao real sob critério operativo submetido ao próprio real.
+
+---
+
+## M7 — `P35` sob risco de psicologização
+
+### risco
+A co-originariedade verdade/erro pode virar tese sobre falibilidade subjetiva.
+
+### formas do desvio
+- “os humanos erram” como tese central;
+- erro como fraqueza mental;
+- verdade como superação psicológica da falha;
+- falibilidade como tema antropológico dominante.
+
+### travão
+O ponto é estrutural:
+
+> onde há representação mediada, há possibilidade de adequação e desadequação.
+
+### uso admissível
+`P35` deve mostrar que verdade e erro pertencem ao mesmo regime avaliativo.
+
+---
+
+## M8 — `P36` sob risco de taxonomia total
+
+### risco
+O erro pode tornar-se capítulo autónomo.
+
+### formas do desvio
+- longas classificações de erro;
+- erro psicológico;
+- erro moral;
+- erro social;
+- erro político;
+- erro cultural;
+- erro institucional;
+- dano.
+
+### travão
+`P36` deve manter o centro:
+
+> erro como desadequação ao real sob critério válido.
+
+### uso admissível
+Pode distinguir erro de ilusão, insuficiência epistémica e dano.
+
+Pode admitir erro descritivo, categorial e escalar.
+
+Mas não deve construir teoria total do erro.
+
+---
+
+## M9 — `P37` sob risco de ética prematura
+
+### risco
+A correção pode abrir normatividade.
+
+### formas do desvio
+- correção como dever;
+- correção como responsabilidade;
+- correção como vida boa;
+- correção como obrigação moral;
+- correção como ação correta já desenvolvida.
+
+### travão
+`P37` fecha o capítulo enquanto reinscrição no real.
+
+### uso admissível
+Pode preparar a passagem prática, mas sem a escrever.
+
+---
+
+## VI. Materiais críticos que ficam fora do capítulo
+
+## fora por pertencerem melhor ao Capítulo 6
+
+### tipos de material
+- símbolo;
+- linguagem;
+- sentido;
+- mediação;
+- comunicação;
+- representação enquanto forma operável;
+- circulação simbólica.
+
+### justificação
+O `Capítulo 7` pressupõe esses materiais.
+
+Não os reabre.
+
+### regra
+> o `Capítulo 6` torna a representação mediada; o `Capítulo 7` mede essa representação pelo real.
+
+---
+
+## fora por pertencerem melhor ao regime prático posterior
+
+### tipos de material
+- ação;
+- dano;
+- bem;
+- mal;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- normatividade;
+- liberdade situada.
+
+### justificação
+A correção pode preparar a ação, mas o centro do capítulo ainda é epistemológico-corretivo.
+
+### regra
+> a passagem para ação só começa depois de a correção da representação ter sido fixada.
+
+---
+
+## fora por pertencerem melhor à crítica sistémica tardia
+
+### tipos de material
+- cultura;
+- instituição;
+- sistema;
+- técnica;
+- direito;
+- ideologia;
+- fechamento simbólico;
+- substituição do real por sistema;
+- crítica da modernidade;
+- crítica social ou política.
+
+### justificação
+`P33` só bloqueia o critério desligado do real.
+
+Não desenvolve ainda a crítica do sistema.
+
+### regra
+> aqui há risco de fechamento; ainda não há crítica sistémica como corpo próprio.
+
+---
+
+## fora por serem demasiado formais
+
+### tipos de material
+- teoria lógica da verdade;
+- teoria semântica da verdade;
+- teoria formal da correspondência;
+- teoria geral da justificação;
+- teoria analítica do erro;
+- teoria formal da correção;
+- epistemologia autónoma.
+
+### justificação
+O capítulo não é tratado como sistema epistemológico independente.
+
+É uma peça subordinada à ontologia do real e à representação situada.
+
+### regra
+> a forma só vale enquanto ajuda a medir pelo real; não substitui a medida real.
+
+---
+
+## VII. Materiais específicos sob vigilância
+
+### `F0004`
+Pode ser útil porque liga verdade, comportamento e preservação real.
+
+Mas é perigoso porque pode:
+- puxar cedo demais para moral;
+- transformar verdade em valor;
+- abrir normatividade;
+- misturar preservação, homeostasia e ética antes da hora.
+
+Uso admissível:
+- apenas como material de fronteira posterior;
+- útil para mostrar que a verdade poderá preparar regimes práticos;
+- não como núcleo do CAP_07.
+
+### `F0005`
+Pode ser útil porque distingue critérios emocionalmente úteis de critérios verdadeiros em larga escala.
+
+Mas é perigoso porque pode:
+- moralizar emoção e razão;
+- deslocar o capítulo para antropologia;
+- transformar escala em tema central;
+- abrir crítica social.
+
+Uso admissível:
+- como travão contra utilidade local convertida em critério geral;
+- especialmente em `P33` e na distinção entre critério real e critério funcional.
+
+### `F0006`
+Pode ser útil porque liga má descrição do problema a má aplicação da solução.
+
+Mas é perigoso porque pode:
+- puxar para normatividade;
+- puxar para mini-sistemas sociais;
+- transformar erro descritivo em erro prático antes da hora;
+- abrir ação e dever-ser.
+
+Uso admissível:
+- como apoio lateral a `P36`;
+- como ponte terminal para `P37`;
+- nunca como centro positivo.
+
+### `F0008`
+Pode ser útil porque subordina juízos valorativos à verdade do problema descrito e da solução proposta.
+
+Mas é perigoso porque pode:
+- abrir ética ontológica cedo demais;
+- transformar o capítulo em teoria do valor;
+- fazer do valor o centro da verdade;
+- deslocar o corredor `P33–P37` para `P46–P48`.
+
+Uso admissível:
+- apenas como material de passagem posterior;
+- não como núcleo do capítulo.
+
+### `F0276`
+Pode ser útil porque fala de estruturas representacionais e simbólicas em correspondência com o real.
+
+Mas é perigoso porque pode:
+- reabrir pensamento, fala e ação;
+- puxar para fluidez da fala;
+- regressar ao `Capítulo 6`;
+- antecipar adequação de modo demasiado misto.
+
+Uso admissível:
+- apenas como apoio lateral à relação representação/real;
+- nunca como cabeça de verdade.
+
+### `F0277`
+Pode ser útil porque denuncia viver na representação simbólica do símbolo sem saber o que os símbolos representam.
+
+Mas é perigoso porque pode:
+- puxar para crítica do fechamento simbólico;
+- abrir `Capítulo 8`;
+- transformar o CAP_07 em crítica da simbolização;
+- deslocar a verdade para denúncia cultural.
+
+Uso admissível:
+- como travão contra critério simbólico desligado do real;
+- não como corpo do capítulo.
+
+### `F0278`
+Pode ser útil como fronteira de reinscrição da consciência no real.
+
+Mas é perigoso porque pode:
+- reabrir consciência;
+- regressar ao `Capítulo 4`;
+- deslocar o problema para deteção, corpo ou subjetividade;
+- enfraquecer o corredor epistemológico.
+
+Uso admissível:
+- apenas lateralmente, se necessário;
+- não como material nuclear.
+
+### materiais de `P40` e `P42–P48`
+Podem ser úteis porque a correção prepara o agir e a normatividade derivada.
+
+Mas são perigosos porque podem:
+- abrir dano real;
+- abrir bem e mal;
+- abrir dever-ser;
+- abrir responsabilidade;
+- abrir dignidade e vida boa.
+
+Uso admissível:
+- apenas como horizonte posterior;
+- não como corpo do `Capítulo 7`.
+
+---
+
+## VIII. Distribuição resumida dos materiais críticos do Capítulo 7
+
+### núcleo crítico interno
+- bloqueio da verdade abstrata;
+- bloqueio do critério soberano;
+- bloqueio da coerência interna como verdade;
+- bloqueio do consenso como verdade;
+- bloqueio da linguagem como critério;
+- bloqueio da representação como adequação automática;
+- bloqueio da correção como coerentização interna.
+
+### crítica de baixo
+- impedir regressão para `Capítulo 6`;
+- impedir que linguagem, símbolo, sentido ou mediação voltem a comandar;
+- impedir que a representação seja tratada apenas como forma operável.
+
+### crítica interna
+- proteger `P33` contra crítica sistémica prematura;
+- proteger `P34` contra abstração formal;
+- proteger `P35` contra psicologização;
+- proteger `P36` contra taxonomia total;
+- proteger `P37` contra ética prematura.
+
+### crítica de cima
+- bloquear ação como centro;
+- bloquear dano como centro;
+- bloquear normatividade;
+- bloquear dever-ser;
+- bloquear responsabilidade;
+- bloquear dignidade;
+- bloquear vida boa.
+
+### crítica tardia excluída
+- bloquear cultura;
+- bloquear sistema;
+- bloquear instituição;
+- bloquear técnica;
+- bloquear direito;
+- bloquear crítica do fechamento simbólico;
+- bloquear substituição do real por sistema como corpo do capítulo.
+
+---
+
+## IX. Regra de uso dos materiais críticos
+
+### uso permitido
+Os materiais críticos podem ser usados para:
+- impedir abertura por verdade abstrata;
+- impedir critério soberano;
+- distinguir coerência interna de verdade;
+- distinguir consenso de adequação;
+- distinguir linguagem de critério;
+- distinguir representação de verdade;
+- distinguir erro epistemológico de erro moral;
+- distinguir correção real de coerentização interna;
+- impedir ética prematura;
+- impedir crítica sistémica prematura.
+
+### uso proibido
+Os materiais críticos não podem ser usados para:
+- substituir a formulação positiva de `P33–P37`;
+- transformar o capítulo em crítica da epistemologia;
+- transformar o capítulo em crítica da linguagem;
+- transformar o capítulo em crítica da cultura;
+- transformar o capítulo em teoria formal da verdade;
+- transformar o capítulo em teoria total do erro;
+- abrir normatividade;
+- abrir sistema;
+- abrir crítica tardia.
+
+### regra curta
+> a crítica só entra para garantir que verdade, erro, critério e correção continuam submetidos ao real.
+
+---
+
+## X. Lacuna crítica remanescente
+
+A principal lacuna crítica do `Capítulo 7` não é identificar os perigos.
+
+Eles já estão suficientemente visíveis.
+
+A lacuna crítica real é esta:
+
+> **formular com secura bastante a diferença entre verdade como adequação ao real e todos os seus substitutos funcionais: coerência interna, consenso, linguagem, utilidade, autoridade, sistema e moralização.**
+
+### consequência
+Na futura redação, será preciso:
+- abrir por representação avaliável, não por verdade abstrata;
+- fazer o critério entrar só depois da adequação/desadequação;
+- submeter sempre o critério ao real;
+- distinguir erro de ilusão, ignorância, dano e culpa;
+- fechar por correção como reinscrição no real;
+- não abrir ainda ética;
+- não abrir ainda crítica sistémica;
+- não deixar linguagem ou sentido voltarem a comandar.
+
+---
+
+## XI. Fórmula final curta
+
+> O `Capítulo 7` deve defender o corredor `P33–P37` contra todas as suas falsas soberanias: verdade sem real, critério sem real, erro psicologizado, correção interna, coerência como substituto da adequação, consenso como substituto da verdade, sistema como substituto do real e moralização prematura da correção. A verdade só vale como adequação da representação ao real; o erro só vale como desadequação; a correção só vale como reinscrição no real.
+
+<a id="cap-07-verdade-erro-criterio-correcao-04-lacunas-do-capitulo-md"></a>
+### 04_lacunas_do_capitulo
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/04_lacunas_do_capitulo.md`
+
+# 04_lacunas_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar as **lacunas reais ainda ativas** do **Capítulo 7 — verdade, erro, critério e correção** depois do seu estatuto, estrutura interna, materiais positivos e materiais críticos já levantados;
+- distinguir entre:
+  - lacunas de **densificação positiva**;
+  - lacunas de **travão crítico**;
+  - lacunas de **fronteira**;
+  - lacunas de **ordenação dos materiais**;
+  - lacunas de **passagem para o regime prático posterior**;
+- impedir que o capítulo pareça mais fechado do que realmente está;
+- preparar a passagem disciplinada a `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não reabre `CF07`;
+- não reabre o corredor `P33–P37`;
+- não redecide `P36_SP01`;
+- não transforma lacunas em novo centro;
+- não autoriza ainda redação corrida;
+- não permite preencher as lacunas com epistemologia abstrata, teoria formal da verdade, teoria total do erro, ética, normatividade, cultura, sistema ou crítica tardia;
+- não permite que `P37` se converta em abertura do regime prático posterior.
+
+### regra decisiva
+> neste capítulo, a lacuna principal já não é falta de corredor: é falta de escrita disciplinada suficiente para fazer a cadeia `representação avaliável → critério submetido ao real → verdade → erro → correção` funcionar sem autonomizar verdade, critério, erro ou correção face ao real.
+
+---
+
+## II. O que já está suficientemente ganho
+
+### ganho positivo real
+Já está suficientemente ganho, para este capítulo:
+- a representação mediada como chão pressuposto;
+- a representação avaliável como abertura própria do capítulo;
+- a diferença entre representação e verdade;
+- a diferença entre adequação e desadequação;
+- a necessidade de critério;
+- a submissão do critério ao real;
+- `P33` como bloqueio do critério desligado do real;
+- `P34` como verdade enquanto adequação da representação ao real sob critério submetido ao real;
+- `P35` como co-originariedade de verdade e erro;
+- `P36` como erro enquanto desadequação ao real sob critério válido;
+- `P36_SP01` como mediação intra-passo entre erro, ilusão, insuficiência epistémica e dano;
+- `P37` como correção enquanto reinscrição da representação e da ação na medida do real.
+
+### ganho crítico real
+Já está suficientemente ganho que o capítulo deve bloquear:
+- verdade abstrata;
+- critério soberano;
+- coerência interna como substituto da verdade;
+- consenso como substituto da adequação;
+- linguagem como critério;
+- representação como verdade automática;
+- erro psicológico como centro;
+- erro moral como centro;
+- correção como coerentização interna;
+- crítica sistémica prematura;
+- ética prematura.
+
+### consequência metodológica
+O `Capítulo 7` não sofre, neste momento, de falta de orientação.
+
+O que lhe falta não é descobrir o seu centro.
+
+O que lhe falta é:
+- fazer a entrada pela representação avaliável de modo suficientemente seco;
+- distinguir adequação, critério e verdade sem parecer teoria formal;
+- dar corpo a `P36` sem transformar o capítulo em taxonomia total do erro;
+- fazer `P37` fechar o capítulo sem abrir ainda normatividade;
+- usar os materiais críticos sem converter o capítulo em crítica da epistemologia, do sistema ou da cultura.
+
+### fórmula do ganho já preservado
+> uma representação mediada só pode ser verdadeira se se adequar ao real sob critério submetido ao próprio real; quando se desadequa, há erro; quando esse erro é enfrentado, corrigir é reinscrever representação e ação na medida do real.
+
+---
+
+## III. Lacuna principal do capítulo
+
+A lacuna principal do `Capítulo 7` é esta:
+
+> **como transformar o corredor fechado `P33–P37` em corpo capitular suficiente sem abrir por verdade abstrata, sem deixar o critério tornar-se tribunal autónomo, sem transformar o erro em taxonomia total e sem fazer da correção uma passagem ética prematura.**
+
+### desdobramento da lacuna principal
+Esta lacuna divide-se em sete problemas:
+
+1. a passagem `Capítulo 6 → Capítulo 7` ainda precisa de formulação seca;
+2. a representação avaliável ainda precisa de corpo próprio antes de se falar de verdade;
+3. a diferença entre adequação e verdade ainda precisa de maior nitidez;
+4. o critério ainda precisa de ser apresentado como medida submetida ao real, não como método soberano;
+5. `P33` ainda precisa de impedir fechamento sem virar crítica sistémica;
+6. `P36` ainda precisa de distribuir erro descritivo, categorial e de escala sem se tornar taxonomia total;
+7. `P37` ainda precisa de fechar por reinscrição no real sem abrir ética, dever-ser, responsabilidade ou vida boa.
+
+---
+
+## IV. Lacunas positivas ainda ativas
+
+## L1 — passagem `Capítulo 6 → Capítulo 7` ainda precisa de fórmula seca
+
+### problema
+O `Capítulo 6` fechou com representação mediada, símbolo, linguagem e sentido subordinados ao real.
+
+O `Capítulo 7` começa quando essa representação mediada já pode ser medida pelo real.
+
+Mas a passagem ainda corre três riscos:
+- repetir linguagem, símbolo e sentido;
+- abrir diretamente por verdade;
+- fazer a mediação parecer já avaliação.
+
+### o que falta
+Falta uma fórmula curta que diga:
+
+- a linguagem tornou o apreendido representável;
+- a representação tornou-se operável;
+- por isso, tornou-se avaliável;
+- a avaliação só começa quando essa representação é medida pelo real.
+
+### formulação candidata
+> A mediação torna o apreendido representável; a verdade só se torna problema quando essa representação pode ser medida pelo real que pretende dizer.
+
+### risco se a lacuna não for preenchida
+Se esta passagem não for disciplinada:
+- o capítulo regressa ao `Capítulo 6`;
+- a linguagem volta a comandar;
+- ou a verdade aparece abstratamente, sem representação situada.
+
+---
+
+## L2 — representação avaliável ainda precisa de corpo próprio
+
+### problema
+A representação avaliável é a abertura correta do capítulo.
+
+Mas pode ficar demasiado breve, como simples passagem para verdade.
+
+### o que falta
+Falta mostrar que a representação avaliável é uma zona própria:
+- a representação já foi mediada;
+- já foi fixada;
+- já pode ser retomada;
+- já pode ser comunicada;
+- já pode ser comparada ao real;
+- mas ainda não foi julgada.
+
+### distinção necessária
+É preciso distinguir:
+
+1. **representação operável**  
+   forma mediada do apreendido;
+
+2. **representação avaliável**  
+   representação que pode ser confrontada com o real;
+
+3. **representação verdadeira ou errada**  
+   representação já medida quanto à sua adequação ou desadequação.
+
+### formulação candidata
+> A representação torna-se avaliável antes de ser verdadeira ou falsa: primeiro pode ser medida; só depois se decide se se adequa ou se falha.
+
+### risco
+Sem esta zona intermédia:
+- a verdade entra cedo demais;
+- a representação parece automaticamente avaliada;
+- o capítulo fica epistemologicamente brusco.
+
+---
+
+## L3 — distinção entre adequação e verdade ainda precisa de nitidez
+
+### problema
+A adequação e a verdade estão intimamente ligadas, mas não devem colapsar.
+
+A adequação é a relação operativa entre representação e real.
+A verdade é o estatuto da representação adequada sob critério válido.
+
+### o que falta
+Falta formular melhor:
+- adequação como relação;
+- verdade como juízo ou estatuto dessa relação sob critério;
+- desadequação como falha dessa relação;
+- erro como desadequação já reconhecida no regime criterial.
+
+### formulação candidata
+> A adequação é a relação pela qual a representação corresponde suficientemente ao real; a verdade é o reconhecimento dessa adequação sob critério submetido ao real.
+
+### risco
+Se esta distinção falhar:
+- a verdade aparece como mera correspondência bruta;
+- ou a adequação aparece como teoria formal da verdade;
+- ou o critério entra sem função própria.
+
+---
+
+## L4 — necessidade de critério ainda precisa de mediação curta
+
+### problema
+O critério é indispensável, mas perigoso.
+
+Se entrar cedo demais, parece soberano.
+Se entrar tarde demais, a diferença adequação/desadequação fica sem medida.
+
+### o que falta
+Falta formular a necessidade do critério sem autonomizá-lo:
+
+- a representação pode ajustar-se ou falhar;
+- essa diferença exige medida;
+- a medida não pode ser interna ao sistema;
+- o critério só vale enquanto mede pelo real.
+
+### formulação candidata
+> O critério é necessário porque a representação pode parecer adequada sem o ser; mas o critério só é legítimo se ele próprio permanecer medido pelo real.
+
+### risco
+Sem esta mediação:
+- critério vira método;
+- método vira tribunal;
+- tribunal substitui o real;
+- o capítulo degrada-se em epistemologia formal.
+
+---
+
+## L5 — `P33` ainda precisa de não crescer para crítica sistémica
+
+### problema
+`P33` é forte porque bloqueia coerência interna, convenção e fechamento.
+
+Mas essa força puxa imediatamente para cultura, sistema, instituição e crítica do fechamento simbólico.
+
+### o que falta
+Falta manter `P33` no seu estatuto preciso:
+- bloqueio epistemológico mínimo;
+- não crítica sistémica desenvolvida.
+
+### formulação candidata
+> O critério desligado do real já anuncia o risco de sistema fechado, mas aqui esse risco serve apenas para mostrar que a coerência interna não basta para verdade.
+
+### risco
+Se `P33` crescer demais:
+- o capítulo vira crítica do sistema;
+- cultura e instituição entram cedo;
+- o eixo epistemológico perde a sua secura local;
+- `P34–P37` ficam subordinados a uma crítica tardia que ainda não deve governar.
+
+---
+
+## L6 — `P34` ainda precisa de formulação firme, mas não formalista
+
+### problema
+`P34` é o centro positivo do capítulo.
+
+Mas pode cair em dois desvios:
+- ficar demasiado formal, como teoria abstrata da verdade;
+- ficar demasiado intuitivo, como mera “correspondência” não explicada.
+
+### o que falta
+Falta formular `P34` em regime local:
+
+- representação;
+- real;
+- adequação;
+- critério operativo;
+- submissão do critério ao real.
+
+### formulação candidata
+> A verdade consiste na adequação da representação ao real, mas essa adequação só é verdadeiramente reconhecível sob critério operativo que continua submetido ao próprio real.
+
+### risco
+Sem esta formulação:
+- verdade vira fórmula vazia;
+- ou vira teoria da correspondência sem chão;
+- ou vira critério formal sem resistência do real.
+
+---
+
+## L7 — `P35` ainda precisa de não virar psicologia da falibilidade
+
+### problema
+A co-originariedade de verdade e erro é estrutural.
+
+Mas pode ser mal lida como tese psicológica:
+- os humanos erram;
+- a mente é falível;
+- a consciência é limitada;
+- logo há verdade e erro.
+
+### o que falta
+Falta formular a tese em termos representacionais, não psicológicos:
+
+- há representação mediada;
+- representação mediada pode adequar-se ou desadequar-se;
+- por isso, onde há verdade possível, há erro possível.
+
+### formulação candidata
+> Verdade e erro são co-originários não porque o sujeito seja psicologicamente fraco, mas porque a representação mediada pode tanto adequar-se como desadequar-se ao real.
+
+### risco
+Se esta lacuna não for fechada:
+- o capítulo regressa à consciência;
+- o erro vira fraqueza subjetiva;
+- a estrutura epistemológica fica psicologizada.
+
+---
+
+## L8 — `P36` ainda precisa de distribuição interna sem taxonomia total
+
+### problema
+`P36` é o ponto mais denso e mais perigoso do capítulo.
+
+O corredor já decidiu que o erro deve ser definido como desadequação ao real sob critério válido, distinguindo-se da ilusão, da insuficiência epistémica e do dano.
+
+Mas ainda falta distribuir internamente, em escrita capitular, as formas do erro:
+- erro descritivo;
+- erro categorial;
+- erro de escala.
+
+### o que falta
+Falta uma distribuição curta:
+
+1. **erro descritivo**  
+   a representação diz mal o real;
+
+2. **erro categorial**  
+   a representação aplica a categoria errada ao campo errado;
+
+3. **erro de escala**  
+   a representação generaliza ou reduz indevidamente uma validade local.
+
+### formulação candidata
+> O erro pode descrever mal, categorizar mal ou escalar mal; em todos os casos, o seu núcleo continua a ser a desadequação da representação ao real sob critério válido.
+
+### risco
+Sem esta distribuição:
+- o erro fica abstrato demais;
+- ou fica largo demais;
+- ou a escrita cresce para teoria total do erro;
+- ou o capítulo não aproveita bem a força fragmentária já existente.
+
+---
+
+## L9 — `P36_SP01` ainda precisa de integração discreta
+
+### problema
+`P36_SP01` foi aprovado como mediação intra-passo.
+
+A sua função é distinguir erro próprio de:
+- ilusão;
+- insuficiência epistémica;
+- dano.
+
+Mas, se for destacado demais, pode parecer subcapítulo autónomo.
+
+### o que falta
+Falta integrá-lo como clarificação interna de `P36`, não como nova cabeça.
+
+### formulação candidata
+> A ilusão pode induzir erro, a insuficiência epistémica pode suspender o juízo, e o dano pode resultar de erro; mas só há erro em sentido próprio quando a representação se desadequa ao real sob critério válido.
+
+### risco
+Se `P36_SP01` crescer demais:
+- o capítulo vira taxonomia;
+- dano entra cedo;
+- insuficiência epistémica vira teoria do conhecimento;
+- ilusão vira psicologia da perceção.
+
+---
+
+## L10 — `P37` ainda precisa de fecho sem ética prematura
+
+### problema
+`P37` fecha o capítulo: corrigir é reinscrever representação e ação na medida do real.
+
+Mas a palavra “ação” torna esta zona perigosa.
+
+### o que falta
+Falta deixar claro que:
+- a correção pode tocar a ação;
+- mas o centro local continua a ser a correção da representação e do juízo;
+- a passagem prática fica apenas preparada.
+
+### formulação candidata
+> Corrigir é reconduzir representação e ação à medida do real; mas, neste capítulo, a ação entra apenas como alcance terminal da correção, não como novo centro.
+
+### risco
+Se esta contenção falhar:
+- abre-se dano;
+- abre-se responsabilidade;
+- abre-se dever-ser;
+- abre-se dignidade;
+- abre-se vida boa;
+- o `Capítulo 7` transforma-se em ponte ética consumada.
+
+---
+
+## V. Lacunas críticas ainda ativas
+
+## L11 — distinção entre verdade e substitutos funcionais ainda precisa de fórmula curta
+
+### problema
+O capítulo já sabe bloquear coerência, consenso, autoridade, utilidade e linguagem.
+
+Mas ainda falta uma fórmula breve que os reúna sem transformar o capítulo em crítica total.
+
+### substitutos a distinguir
+- coerência interna;
+- consenso;
+- autoridade;
+- utilidade;
+- circulação linguística;
+- elegância formal;
+- estabilidade institucional;
+- funcionamento sistémico.
+
+### formulação candidata
+> Uma representação pode ser coerente, aceite, útil, elegante ou estável, e ainda assim ser falsa se não se adequar ao real.
+
+### risco
+Sem esta fórmula:
+- os travões ficam dispersos;
+- a escrita repete bloqueios;
+- a crítica cresce mais do que o centro positivo.
+
+---
+
+## L12 — distinção entre linguagem e verdade ainda precisa de secura terminal
+
+### problema
+A linguagem foi tratada no `Capítulo 6`.
+
+Mas a sua sombra continua a ameaçar o `Capítulo 7`.
+
+### o que falta
+Falta uma frase seca:
+
+> dizer não é ainda dizer verdadeiramente.
+
+### desenvolvimento mínimo
+- o ato de dizer é real;
+- o dito é representação;
+- a verdade do dito depende da adequação ao real;
+- a linguagem não mede a si própria.
+
+### risco
+Sem isto:
+- linguagem volta a comandar;
+- sentido substitui adequação;
+- consenso discursivo substitui verdade.
+
+---
+
+## L13 — distinção entre correção real e correção interna ainda precisa de travão
+
+### problema
+A correção pode ser entendida como:
+- ajustar termos;
+- reorganizar conceitos;
+- harmonizar sistema;
+- melhorar coerência.
+
+Mas isso não basta.
+
+### o que falta
+Falta reforçar que:
+- um sistema pode corrigir-se internamente e continuar falso;
+- uma linguagem pode tornar-se mais elegante e continuar desadequada;
+- uma teoria pode resolver contradições internas e continuar desligada do real.
+
+### formulação candidata
+> A correção interna só é verdadeira correção se reconduzir a representação ao real; sem isso, é apenas rearranjo.
+
+### risco
+Sem esta distinção:
+- `P37` perde força;
+- correção vira técnica formal;
+- reintegração no real desaparece.
+
+---
+
+## L14 — crítica de sistema ainda precisa de ficar como sombra, não corpo
+
+### problema
+O capítulo toca inevitavelmente o risco de fechamento sistémico.
+
+Mas ainda não é capítulo da crítica sistémica.
+
+### o que falta
+Falta distinguir:
+- critério fechado como erro epistemológico local;
+- sistema fechado como problema crítico posterior.
+
+### formulação candidata
+> O fechamento sistémico aparece aqui apenas como consequência possível de um critério desligado do real, não como objeto próprio do capítulo.
+
+### risco
+Sem esta distinção:
+- `P33` cresce demais;
+- o capítulo abre cultura, técnica, direito e instituição;
+- a crítica tardia reordena retroativamente o eixo epistemológico.
+
+---
+
+## VI. Lacunas de fronteira
+
+## L15 — fronteira com o Capítulo 6 ainda precisa de frase fixa
+
+### problema
+O `Capítulo 7` depende do `Capítulo 6`, mas não pode reabri-lo.
+
+### o que falta
+Falta uma frase de fronteira:
+
+> o `Capítulo 6` torna a representação mediada; o `Capítulo 7` mede essa representação pelo real.
+
+### risco
+Sem esta frase:
+- linguagem, símbolo e sentido voltam ao centro;
+- representação fica tratada apenas como mediação;
+- a avaliação perde o seu estatuto próprio.
+
+---
+
+## L16 — fronteira com o regime prático posterior ainda precisa de contenção
+
+### problema
+`P37` fala de representação e ação.
+
+Isto prepara o regime prático, mas não o abre.
+
+### o que falta
+Falta uma fronteira:
+
+> quando a correção da representação passa a exigir orientação da ação como centro próprio, já se entrou no capítulo seguinte.
+
+### risco
+Sem esta fronteira:
+- ação ocupa o fecho;
+- dano real entra cedo;
+- normatividade deriva antes do tempo;
+- o `Capítulo 7` deixa de ser epistemológico-corretivo.
+
+---
+
+## L17 — fronteira com ética e normatividade ainda precisa de travão
+
+### problema
+Os materiais de valor, dever-ser, responsabilidade e dignidade são fortes no projeto.
+
+Muitos deles pressupõem verdade, erro e correção.
+
+Mas ainda não pertencem à cabeça do `Capítulo 7`.
+
+### o que falta
+Falta uma regra de exclusão:
+
+> a verdade pode orientar; a correção pode preparar; mas o dever-ser ainda não começou.
+
+### risco
+Sem esta exclusão:
+- o capítulo passa a ética;
+- o erro é moralizado;
+- a correção vira obrigação;
+- a dignidade entra antes do seu chão próprio.
+
+---
+
+## L18 — fronteira com crítica sistémica tardia ainda precisa de delimitação
+
+### problema
+Critério desligado do real, coerência interna e fechamento são materiais que também pertencem à crítica sistémica.
+
+### o que falta
+Falta delimitar:
+- aqui: fechamento como risco epistemológico mínimo;
+- depois: fechamento como estrutura sistémica, cultural, institucional ou técnica.
+
+### formulação candidata
+> Neste capítulo, o fechamento é sinal de critério degradado; só mais tarde se tornará problema próprio de sistemas, instituições e cultura.
+
+### risco
+Sem esta delimitação:
+- o capítulo deixa de ser local;
+- cultura e sistema invadem;
+- a crítica passa a comandar a verdade.
+
+---
+
+## VII. Lacunas de material fragmentário
+
+## L19 — massa forte, mas com risco de sobreposição
+
+### problema
+O `Capítulo 7` tem massa fragmentária forte.
+
+Mas essa massa toca frequentemente:
+- verdade;
+- erro;
+- correção;
+- normatividade;
+- ação;
+- sistema;
+- crítica da cultura;
+- crítica da linguagem.
+
+### o que falta
+Falta selecionar os materiais segundo função:
+- núcleo epistemológico-corretivo;
+- apoio de critério;
+- apoio de erro;
+- ponte terminal para ação;
+- exclusão para capítulos posteriores.
+
+### risco
+Se a massa for usada sem filtragem:
+- o capítulo cresce demais;
+- erro vira crítica social;
+- correção vira ética;
+- critério vira sistema.
+
+---
+
+## L20 — materiais de erro e correção são fortes, mas podem comandar demais
+
+### problema
+O mapeamento já mostra força em erro e correção.
+
+Mas a força desses materiais pode fazer o capítulo parecer capítulo do erro e da correção, e não capítulo do eixo completo:
+
+> representação avaliável → critério → verdade → erro → correção.
+
+### o que falta
+Falta equilibrar:
+- `P33` e `P34` antes de `P36/P37`;
+- verdade antes de erro;
+- critério antes de correção.
+
+### risco
+Sem esse equilíbrio:
+- o capítulo abre por erro;
+- verdade fica residual;
+- critério fica apenas instrumento de correção;
+- a exposição perde a ordem do corredor.
+
+---
+
+## L21 — materiais de `P33` podem puxar para crítica do coerentismo fechado
+
+### problema
+Os materiais sobre coerência interna e sistema fechado são úteis.
+
+Mas podem tornar-se demasiado polémicos ou críticos.
+
+### o que falta
+Falta usá-los como exemplos controlados:
+- coerência interna não basta;
+- consenso não basta;
+- sistema não basta.
+
+### risco
+Se forem usados como corpo:
+- o capítulo vira crítica da filosofia académica;
+- ou crítica cultural;
+- ou crítica do discurso;
+- e a verdade deixa de ser formulada positivamente.
+
+---
+
+## L22 — materiais de ponte ética devem continuar sob vigilância
+
+### problema
+`F0004`, `F0006`, `F0008`, `F0009` e materiais semelhantes são úteis para a passagem futura.
+
+Mas ainda são perigosos para o CAP_07.
+
+### o que falta
+Falta fixar que estes materiais só podem entrar:
+- terminalmente;
+- como indicação de que a correção prepara o agir;
+- nunca como corpo do capítulo.
+
+### risco
+Se entrarem cedo:
+- normatividade ocupa o centro;
+- dever-ser invade;
+- verdade e correção tornam-se moralizadas;
+- o CAP_07 deixa de ter fecho epistemológico próprio.
+
+---
+
+## VIII. Prioridade local de preenchimento
+
+### prioridade 1
+Fixar a passagem seca:
+
+> representação mediada → representação avaliável.
+
+### prioridade 2
+Distinguir:
+
+> representação avaliável → adequação/desadequação → critério.
+
+### prioridade 3
+Formular `P34` com força, mas sem formalismo:
+
+> verdade como adequação da representação ao real sob critério operativo submetido ao real.
+
+### prioridade 4
+Proteger `P35` contra psicologização:
+
+> verdade e erro são co-originários porque a representação mediada pode adequar-se ou desadequar-se.
+
+### prioridade 5
+Distribuir `P36` com parcimónia:
+- erro descritivo;
+- erro categorial;
+- erro de escala;
+- distinção face a ilusão, insuficiência epistémica e dano.
+
+### prioridade 6
+Fechar `P37` sem abrir ética:
+
+> correção como reinscrição no real, não como normatividade ainda.
+
+### prioridade 7
+Manter fora:
+- cultura;
+- sistema;
+- instituição;
+- técnica;
+- direito;
+- dano;
+- bem;
+- mal;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa.
+
+---
+
+## IX. O que ainda não deve ser feito
+
+### não escrever ainda em liberdade
+O capítulo ainda não deve ser escrito livremente.
+
+Pode ser preparado.
+Pode ser decidido localmente.
+Pode vir a receber uma versão controlada.
+
+Mas ainda não deve ser tratado como capítulo pronto para redação plena.
+
+### não abrir por verdade abstrata
+A verdade é central, mas não é abertura.
+
+A abertura própria é a representação mediada que se tornou avaliável.
+
+### não abrir por critério
+O critério entra porque há diferença entre adequação e desadequação.
+
+Não entra como tribunal autónomo.
+
+### não abrir por erro
+O erro é estruturalmente decisivo, mas não é cabeça.
+
+A cabeça é a representação avaliável submetida ao real.
+
+### não abrir por correção
+A correção fecha.
+
+Não abre.
+
+### não resolver por ética
+O capítulo deve parar antes de dever-ser, responsabilidade, dignidade e vida boa.
+
+### não resolver por crítica sistémica
+Coerência interna e fechamento entram como travões epistemológicos, não como crítica de cultura, sistema ou instituição.
+
+---
+
+## X. Efeito desta peça sobre o passo seguinte
+
+### o que esta peça já permite
+Esta peça já permite passar a:
+
+`05_decisao_local_do_capitulo.md`
+
+### porquê
+Porque as lacunas do `Capítulo 7`:
+- são reais;
+- estão identificadas;
+- não põem em causa o centro do capítulo;
+- não exigem reabrir `CF07`;
+- não exigem reabrir o corredor `P33–P37`;
+- não exigem nova arquitetura;
+- não impedem uma decisão local prudente.
+
+### o que falta decidir no próximo ficheiro
+O próximo ficheiro deve decidir:
+- se o capítulo fica preservado com restrições;
+- qual é o uso máximo local atualmente admissível;
+- se já se pode preparar `06_primeira_versao_controlada_de_escrita.md`;
+- que condições devem travar essa eventual versão controlada;
+- qual é a fórmula máxima autorizada para a passagem:
+  - representação avaliável;
+  - critério submetido ao real;
+  - verdade;
+  - erro;
+  - correção.
+
+---
+
+## XI. Fórmula curta das lacunas
+
+> O `Capítulo 7` já sabe que o seu centro está no corredor `P33–P37`: critério submetido ao real, verdade como adequação, erro como desadequação e correção como reinscrição no real. O que ainda lhe falta é transformar esse corredor fechado em escrita disciplinada sem deixar que verdade vire abstração, critério vire tribunal, erro vire taxonomia, correção vire ética ou fechamento vire crítica sistémica.
+
+---
+
+## XII. Fórmula final curta
+
+> A lacuna real do `Capítulo 7` não é falta de verdade, erro, critério ou correção; é o excesso de força dessas categorias. O capítulo tem de mostrar que elas só valem enquanto modos de submissão da representação ao real: verdade como adequação, erro como desadequação e correção como reinscrição, nunca como soberanias abstratas.
+
+<a id="cap-07-verdade-erro-criterio-correcao-05-decisao-local-do-capitulo-md"></a>
+### 05_decisao_local_do_capitulo
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/05_decisao_local_do_capitulo.md`
+
+# 05_decisao_local_do_capitulo
+
+## I. Estatuto da decisão
+
+### função
+- fixar a decisão local atualmente admissível para o **Capítulo 7 — verdade, erro, critério e correção**;
+- decidir o que já fica preservado como ganho local;
+- determinar o uso máximo admissível do capítulo nesta fase;
+- estabelecer se o capítulo pode passar a primeira versão controlada de escrita;
+- impedir que verdade, erro, critério ou correção se tornem instâncias soberanas face ao real;
+- impedir que o capítulo seja capturado por epistemologia abstrata, linguagem, sistema, ética, normatividade ou crítica sistémica.
+
+### limite
+- esta decisão não reabre `CF07`;
+- não reabre o corredor `P33–P37`;
+- não redecide `P36_SP01`;
+- não reabre a arquitetura total;
+- não transforma o capítulo em redação corrida livre;
+- não autoriza teoria geral da verdade;
+- não autoriza teoria geral do erro;
+- não autoriza teoria autónoma do critério;
+- não autoriza ética, normatividade, cultura, sistema ou crítica tardia como corpo do capítulo;
+- não deixa `P37` abrir já o regime prático posterior;
+- não altera o centro local já fixado: representação avaliável submetida ao real.
+
+### valor metodológico
+- vale como fecho local da abertura disciplinada do `Capítulo 7`;
+- vale como critério de uso para a pasta local;
+- vale como travão contra inflação epistemológica, moral, sistémica ou crítica;
+- vale como autorização condicionada para `06_primeira_versao_controlada_de_escrita.md`;
+- vale como separação formal entre capítulo localmente preservado e redação livre ainda não autorizada.
+
+---
+
+## II. Base local considerada
+
+Esta decisão parte de:
+
+- `00_estatuto_e_limites.md`;
+- `01_estrutura_interna.md`;
+- `02_materiais_positivos.md`;
+- `03_materiais_criticos.md`;
+- `04_lacunas_do_capitulo.md`.
+
+E permanece subordinada:
+
+- à meta-norma de continuidade e descida expositiva controlada;
+- ao README operativo dos capítulos;
+- ao prólogo soberano de submissão ao real;
+- à grelha mínima de reconhecimento disciplinado;
+- à arquitetura provisória revista;
+- à matriz crítica transversal revista;
+- ao mapa de lacunas por capítulo;
+- ao mapeamento fragmentário;
+- aos dossiers estabilizados;
+- ao fecho local de `CF07`;
+- ao corredor canónico `P33–P37`;
+- ao princípio geral de submissão da representação, do critério, da verdade, do erro e da correção ao real.
+
+---
+
+## III. Decisão local
+
+### decisão principal
+
+O `Capítulo 7` fica em estado de:
+
+> **preservar com restrições, manter localmente aberto para densificação controlada e autorizar primeira versão controlada de escrita.**
+
+### razão da decisão
+
+A razão é esta:
+
+- o centro local já está suficientemente fixado;
+- o corredor `P33–P37` está fechado;
+- `P36_SP01` está integrado como mediação intra-passo, não como novo centro;
+- as lacunas remanescentes não põem em causa a estrutura do capítulo;
+- os materiais positivos são fortes;
+- os materiais críticos já identificam os riscos principais;
+- o que falta agora é testar se a escrita consegue conservar a ordem sem abrir por verdade abstrata, critério soberano, erro total, correção ética ou crítica sistémica.
+
+### o que esta decisão não significa
+
+Esta decisão não significa:
+
+- capítulo pronto em redação final;
+- capítulo libertado para escrita livre;
+- capítulo autorizado a expandir-se como epistemologia geral;
+- capítulo autorizado a absorver ética, dano, normatividade, responsabilidade, dignidade ou vida boa;
+- capítulo autorizado a absorver cultura, instituição, técnica, direito ou sistema;
+- capítulo autorizado a transformar a crítica do critério desligado do real em crítica sistémica plena.
+
+---
+
+## IV. Núcleo local preservado
+
+### chão pressuposto preservado
+
+Fica preservado como chão pressuposto:
+
+- real;
+- humano situado;
+- apreensão;
+- memória;
+- representação mediada;
+- linguagem e símbolo já tratados no `Capítulo 6`.
+
+Este chão não deve ser reaberto como corpo próprio.
+
+A sua função é impedir que verdade, erro, critério e correção apareçam como conceitos abstratos sem representação situada.
+
+### abertura própria preservada
+
+Fica preservada como abertura própria do capítulo:
+
+> **representação mediada tornada avaliável.**
+
+O capítulo não deve abrir por “verdade”.
+Não deve abrir por “critério”.
+Não deve abrir por “erro”.
+Não deve abrir por “correção”.
+
+Deve abrir pelo momento em que a representação, já mediada, pode ser comparada ao real que pretende dizer.
+
+### centro epistemológico-corretivo preservado
+
+Fica preservado como centro local:
+
+- `P33` — critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico;
+- `P34` — verdade como adequação da representação ao real sob critério operativo submetido ao próprio real;
+- `P35` — verdade e erro como co-originários;
+- `P36` — erro como desadequação ao real sob critério válido;
+- `P37` — correção como reinscrição da representação e da ação na medida do real.
+
+### estatuto de `P36_SP01`
+
+`P36_SP01` fica preservado apenas como mediação intra-passo de `P36`.
+
+A sua função é distinguir erro de:
+- ilusão;
+- insuficiência epistémica;
+- dano.
+
+Não pode:
+- abrir subcapítulo autónomo;
+- transformar o capítulo em taxonomia total do erro;
+- antecipar dano, responsabilidade ou normatividade;
+- deslocar `P36` do seu centro: erro como desadequação ao real sob critério válido.
+
+---
+
+## V. Formulação máxima local atualmente admissível
+
+### formulação máxima
+
+A formulação máxima local atualmente admissível é esta:
+
+> **A representação mediada, por poder ser comparada ao real que pretende dizer, torna-se avaliável. Se se adequa ao real sob critério operativo submetido ao próprio real, há verdade; se se desadequa, há erro. Como a representação pode falhar, a correção consiste em reinscrever representação e ação na medida do real, não em reajustar internamente um sistema.**
+
+### estatuto desta formulação
+
+Esta formulação:
+
+- pode governar a primeira versão controlada;
+- pode servir de abertura disciplinada do capítulo;
+- pode estruturar a passagem `representação avaliável → critério → verdade → erro → correção`;
+- pode apoiar a distinção face ao `Capítulo 6`;
+- pode preparar a passagem posterior ao regime prático sem o abrir.
+
+Mas ainda não é redação final.
+
+### o que ela ainda não autoriza
+
+Ela ainda não autoriza:
+
+- teoria formal da verdade;
+- teoria geral do erro;
+- teoria autónoma do critério;
+- epistemologia abstrata;
+- crítica da linguagem;
+- crítica da cultura;
+- crítica do sistema;
+- ética;
+- normatividade;
+- teoria da ação;
+- dano, responsabilidade, dignidade ou vida boa como centros próprios.
+
+---
+
+## VI. Hierarquia local obrigatória
+
+A hierarquia local obrigatória fica fixada assim:
+
+1. **chão herdado** — real, humano situado, apreensão, memória e representação mediada;
+2. **representação avaliável** — a representação pode ser comparada ao real;
+3. **adequação/desadequação** — a representação pode ajustar-se ou falhar;
+4. **exigência de critério** — a diferença entre adequação e desadequação exige medida;
+5. **`P33`** — critério desligado do real degrada-se em coerência interna, convenção ou fechamento;
+6. **`P34`** — verdade como adequação da representação ao real sob critério submetido ao real;
+7. **`P35`** — verdade e erro como co-originários;
+8. **`P36`** — erro como desadequação ao real sob critério válido;
+9. **`P36_SP01`** — distinção interna entre erro, ilusão, insuficiência epistémica e dano;
+10. **`P37`** — correção como reinscrição da representação e da ação na medida do real;
+11. **passagem posterior** — ação, dano, normatividade e crítica sistémica ficam fora.
+
+### regra de não-inversão
+
+Não inverter esta ordem.
+
+Especialmente, não abrir por:
+
+- verdade;
+- critério;
+- erro;
+- correção;
+- sistema;
+- cultura;
+- ética;
+- normatividade;
+- dano;
+- responsabilidade;
+- dignidade;
+- vida boa.
+
+---
+
+## VII. O que fica ganho
+
+### ganho 1 — diferença face ao Capítulo 6
+
+Fica ganho que o `Capítulo 7` não é continuação mediacional.
+
+A fronteira é esta:
+
+> no `Capítulo 6`, a representação torna-se mediada, simbólica, linguística e operável; no `Capítulo 7`, essa representação passa a ser medida pelo real.
+
+### ganho 2 — representação avaliável como abertura correta
+
+Fica ganho que a abertura correta não é “verdade”, mas:
+
+> **representação mediada tornada avaliável.**
+
+Isto impede que o capítulo comece alto demais.
+
+### ganho 3 — adequação antes de verdade
+
+Fica ganho que a verdade não aparece sem adequação.
+
+A adequação é a relação operativa entre representação e real.
+
+A verdade é o estatuto da representação adequada sob critério válido.
+
+### ganho 4 — critério submetido ao real
+
+Fica ganho que o critério é necessário, mas não soberano.
+
+A fórmula curta é:
+
+> **o critério mede a representação pelo real; não mede o real por si próprio.**
+
+### ganho 5 — verdade como adequação
+
+Fica ganho que a verdade não é coerência interna, consenso, autoridade, utilidade, elegância formal ou circulação simbólica.
+
+A verdade é:
+
+> **adequação da representação ao real sob critério operativo submetido ao próprio real.**
+
+### ganho 6 — verdade e erro como co-originários
+
+Fica ganho que o erro não é acidente exterior.
+
+A verdade é inteligível porque a representação pode falhar.
+
+### ganho 7 — erro como desadequação
+
+Fica ganho que o erro, em sentido próprio, é:
+
+> **desadequação da representação ao real sob critério válido.**
+
+E pode assumir formas:
+- descritivas;
+- categoriais;
+- escalares.
+
+### ganho 8 — correção como reinscrição no real
+
+Fica ganho que corrigir não é:
+- reformular apenas;
+- harmonizar conceitos;
+- tornar um sistema mais coerente;
+- substituir uma representação por outra.
+
+Corrigir é:
+
+> **reinscrever representação e ação na medida do real.**
+
+---
+
+## VIII. Restrições remanescentes
+
+### restrições positivas
+
+Antes de qualquer redação livre, continuam necessárias:
+
+- formulação mais seca da passagem `Capítulo 6 → Capítulo 7`;
+- entrada pela representação avaliável, não pela verdade abstrata;
+- distinção firme entre adequação e verdade;
+- entrada gradual do critério como medida submetida ao real;
+- contenção de `P33` para não virar crítica sistémica;
+- formulação forte mas não formalista de `P34`;
+- formulação estrutural, não psicológica, de `P35`;
+- distribuição parcimoniosa de `P36`;
+- integração discreta de `P36_SP01`;
+- fecho de `P37` sem abertura ética.
+
+### restrições negativas
+
+Continuam fora da cabeça do capítulo:
+
+- linguagem como centro;
+- símbolo como centro;
+- sentido como critério último;
+- mediação como fundamento;
+- verdade abstrata;
+- critério soberano;
+- coerência interna como verdade;
+- consenso como verdade;
+- autoridade como verdade;
+- utilidade como verdade;
+- erro psicológico como centro;
+- erro moral como centro;
+- dano como centro;
+- ação como centro;
+- correção como dever-ser;
+- normatividade;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- cultura;
+- sistema;
+- instituição;
+- técnica;
+- direito;
+- crítica do fechamento simbólico.
+
+---
+
+## IX. Uso dos materiais positivos
+
+### materiais nucleares
+
+Ficam admitidos como núcleo local:
+
+- `P33`;
+- `P34`;
+- `P35`;
+- `P36`;
+- `P36_SP01`;
+- `P37`;
+- `D_ADEQUACAO`;
+- `D_CRITERIO`;
+- `D_VERDADE`;
+- `D_ERRO_ONTOLOGICO`;
+- `D_CORRECAO`;
+- `ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE`;
+- `ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA`;
+- `ARG_VERDADE_COMO_ADEQUACAO_SOB_CRITERIO`;
+- `ARG_VERDADE_EXIGE_SUBMISSAO_REAL`;
+- `ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO`;
+- `ARG_CORRECAO_EXIGE_REINSCRICAO_REAL`.
+
+### materiais de apoio baixo
+
+Podem entrar, com brevidade:
+
+- humano situado;
+- apreensão;
+- memória;
+- representação mediada;
+- linguagem e símbolo como pressupostos já tratados;
+- consciência localizada apenas como dobradiça.
+
+Mas estes materiais não podem reabrir o `Capítulo 6`.
+
+### materiais de corpo epistemológico-corretivo
+
+Devem entrar como corpo próprio:
+
+- representação avaliável;
+- adequação;
+- desadequação;
+- critério submetido ao real;
+- verdade;
+- erro;
+- correção.
+
+### materiais de ponte terminal
+
+Podem entrar, sob forte vigilância:
+
+- correção da ação;
+- erro descritivo com efeito prático;
+- passagem futura para ação;
+- passagem futura para normatividade derivada.
+
+Mas apenas como horizonte terminal.
+
+Não podem abrir ação, dano, ética, dever-ser ou responsabilidade.
+
+---
+
+## X. Uso dos materiais críticos
+
+### crítica permitida
+
+A crítica permitida é interna e protetora.
+
+Serve para bloquear:
+
+- verdade abstrata;
+- critério soberano;
+- coerência interna como verdade;
+- consenso como verdade;
+- linguagem como critério;
+- representação como verdade automática;
+- erro psicológico;
+- erro moral;
+- correção interna;
+- ética prematura;
+- crítica sistémica prematura.
+
+### crítica proibida
+
+A crítica não pode transformar o capítulo em:
+
+- crítica da epistemologia;
+- crítica da linguagem;
+- crítica da cultura;
+- crítica do sistema;
+- crítica da modernidade;
+- teoria formal da verdade;
+- teoria total do erro;
+- teoria geral da correção;
+- capítulo ético;
+- capítulo normativo.
+
+### regra curta
+
+> **a crítica só entra para garantir que verdade, erro, critério e correção continuam submetidos ao real.**
+
+---
+
+## XI. Fronteiras locais obrigatórias
+
+## 1. Fronteira com o Capítulo 6
+
+O `Capítulo 7` pressupõe:
+
+- símbolo;
+- linguagem;
+- mediação;
+- sentido;
+- representação operável;
+- comunicação.
+
+Mas não reabre estes elementos como centro.
+
+### regra
+
+> O `Capítulo 6` torna a representação mediada; o `Capítulo 7` mede essa representação pelo real.
+
+---
+
+## 2. Fronteira com o regime prático posterior
+
+O `Capítulo 7` prepara:
+
+- correção da ação;
+- passagem da descrição adequada para orientação;
+- ligação futura entre erro e ação mal orientada.
+
+Mas não desenvolve ainda:
+
+- ação como centro;
+- dano real como centro;
+- bem e mal;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa.
+
+### regra
+
+> Quando a correção da representação passa a exigir orientação da ação como centro próprio, já se entrou noutro regime.
+
+---
+
+## 3. Fronteira com ética e normatividade
+
+O capítulo pode mostrar que verdade e correção têm consequências práticas.
+
+Mas não pode transformar essas consequências em normatividade desenvolvida.
+
+### regra
+
+> A verdade pode orientar; a correção pode preparar; mas o dever-ser ainda não começou.
+
+---
+
+## 4. Fronteira com crítica sistémica tardia
+
+O capítulo pode mostrar que um critério desligado do real degrada-se em coerência interna, convenção ou fechamento.
+
+Mas não pode desenvolver ainda:
+
+- cultura;
+- instituição;
+- sistema;
+- técnica;
+- direito;
+- ideologia;
+- crítica do fechamento simbólico.
+
+### regra
+
+> Neste capítulo, o fechamento é sinal de critério degradado; só mais tarde se tornará problema próprio de sistemas, instituições e cultura.
+
+---
+
+## XII. Decisão sobre escrita controlada
+
+### decisão
+
+Fica autorizada a passagem a:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+### condição de autorização
+
+A autorização é estritamente condicionada.
+
+A futura versão controlada deve obedecer a esta regra:
+
+> **abrir por representação mediada tornada avaliável; mostrar que a representação pode adequar-se ou desadequar-se ao real; introduzir o critério como medida operativa submetida ao real; formular verdade como adequação; formular erro como desadequação; integrar `P36_SP01` apenas para distinguir erro, ilusão, insuficiência epistémica e dano; e fechar por correção como reinscrição da representação e da ação na medida do real, sem abrir ética, normatividade ou crítica sistémica.**
+
+### o que a versão controlada deve testar
+
+A versão controlada deve testar se o capítulo consegue:
+
+- abrir sem verdade abstrata;
+- manter a representação avaliável como entrada;
+- formular adequação antes de verdade;
+- introduzir critério sem soberania;
+- formular `P33` sem crítica sistémica;
+- formular `P34` sem formalismo;
+- formular `P35` sem psicologização;
+- formular `P36` sem taxonomia total;
+- integrar `P36_SP01` sem abrir dano;
+- fechar `P37` sem abrir ética.
+
+### o que a versão controlada não pode fazer
+
+Não pode:
+
+- abrir por verdade;
+- abrir por critério;
+- abrir por erro;
+- abrir por correção;
+- abrir por sistema;
+- abrir por ética;
+- escrever em liberdade plena;
+- desenvolver teoria geral da verdade;
+- desenvolver teoria total do erro;
+- desenvolver teoria autónoma do critério;
+- desenvolver crítica sistémica;
+- desenvolver normatividade;
+- desenvolver dano, dever-ser, responsabilidade, dignidade ou vida boa.
+
+---
+
+## XIII. Uso máximo local atualmente autorizado
+
+### uso máximo
+
+O uso máximo local atualmente autorizado é:
+
+1. reentrada breve no chão real e situado;
+2. representação mediada pressuposta;
+3. representação avaliável como abertura;
+4. adequação e desadequação como diferença inicial;
+5. critério operativo submetido ao real;
+6. `P33` como bloqueio do critério desligado do real;
+7. `P34` como centro positivo da verdade;
+8. `P35` como co-originariedade verdade/erro;
+9. `P36` como erro em sentido próprio;
+10. `P36_SP01` como distinção intra-passo;
+11. `P37` como fecho corretivo;
+12. paragem antes do regime prático posterior.
+
+### limite do uso máximo
+
+O capítulo deixa de estar em regime admissível se:
+
+- a verdade abrir abstratamente;
+- o critério virar tribunal autónomo;
+- a coerência interna substituir a adequação;
+- a linguagem voltar a comandar;
+- o erro virar psicologia;
+- o erro virar moral;
+- `P36_SP01` virar subcapítulo autónomo;
+- `P37` abrir normatividade;
+- cultura, sistema ou crítica tardia tomarem o corpo do capítulo.
+
+---
+
+## XIV. Próximo passo prudente
+
+### próximo ficheiro
+
+O próximo ficheiro prudente é:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+### objetivo do próximo ficheiro
+
+O objetivo não será escrever o capítulo final.
+
+Será produzir uma primeira versão controlada que teste:
+
+- a secura da passagem `Capítulo 6 → Capítulo 7`;
+- a entrada por representação avaliável;
+- a força de `P33/P34`;
+- a passagem de verdade para erro;
+- a integração de `P36_SP01`;
+- a contenção de `P37`;
+- a paragem antes de ética, normatividade e crítica sistémica.
+
+### razão
+
+Porque o `Capítulo 7` já não precisa de nova abertura local.
+
+Também não precisa, nesta fase, de novo levantamento de materiais.
+
+Precisa de testar se a sua formulação consegue sobreviver como escrita sem perder a ordem:
+
+> `representação avaliável → critério submetido ao real → verdade → erro → correção`
+
+---
+
+## XV. Fórmula estrutural curta
+
+> **representação mediada → representação avaliável → adequação/desadequação → critério submetido ao real → verdade → erro → correção → passagem prática posterior apenas preparada**
+
+---
+
+## XVI. Fórmula final curta
+
+> **O Capítulo 7 fica preservado com restrições: já pode dizer que uma representação mediada é verdadeira quando se adequa ao real sob critério submetido ao próprio real, errada quando se desadequa, e corrigida quando é reinscrita na medida do real; mas ainda não pode transformar verdade em abstração, critério em tribunal, erro em taxonomia, correção em ética ou fechamento em crítica sistémica.**
+
+<a id="cap-07-verdade-erro-criterio-correcao-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+# Capítulo 7 — Verdade, erro, critério e correção
+
+## I. Estatuto desta versão
+
+Esta é uma **primeira versão controlada de escrita** do `Capítulo 7`.
+
+Não é redação final.
+Não é ensaio livre.
+Não é teoria geral da verdade.
+Não é teoria geral do erro.
+Não é teoria autónoma do critério.
+Não é epistemologia abstrata.
+Não é crítica sistémica.
+Não é ainda capítulo da ação, do dano, da responsabilidade, da dignidade ou da vida boa.
+
+A função desta versão é testar se o capítulo consegue ser escrito mantendo a ordem já decidida:
+
+> **representação mediada → representação avaliável → adequação/desadequação → critério submetido ao real → verdade → erro → correção**
+
+A regra de controlo é esta:
+
+> o capítulo deve abrir pela representação mediada que se torna avaliável, e não pela verdade em abstrato; deve introduzir o critério apenas como medida submetida ao real; deve definir verdade como adequação, erro como desadequação e correção como reinscrição no real, sem antecipar ética, normatividade ou crítica sistémica.
+
+---
+
+## II. Texto controlado
+
+## 1. A representação mediada torna-se avaliável
+
+A verdade não é a primeira palavra deste capítulo.
+
+Antes da verdade há representação. E antes da representação há apreensão, memória, símbolo, linguagem e mediação. O capítulo anterior mostrou que aquilo que foi apreendido e estabilizado internamente pode ser fixado simbolicamente, articulado linguisticamente e organizado como representação operável. Essa representação permite dizer, comunicar, transmitir e tornar partilhável algo do apreendido.
+
+Mas representar não é ainda dizer verdadeiramente.
+
+Uma representação pode existir.
+Pode circular.
+Pode ser compreensível.
+Pode fazer sentido.
+Pode ser aceite por muitos.
+Pode ser útil em certos contextos.
+Pode ser linguisticamente estável.
+Pode até parecer evidente.
+
+Nada disso basta.
+
+A representação torna-se problema próprio deste capítulo quando deixa de estar em causa apenas a sua formação mediada e passa a estar em causa a sua relação com o real que pretende dizer. O ponto decisivo já não é apenas que o apreendido foi simbolizado ou dito. O ponto decisivo é saber se aquilo que foi dito se adequa ao real.
+
+A representação mediada torna-se então avaliável.
+
+Isto quer dizer: pode ser comparada com aquilo que pretende representar. Pode ser medida pela resistência do real. Pode ser julgada quanto à sua suficiência ou insuficiência. Pode aproximar-se ou afastar-se do que é. Pode orientar ou desviar.
+
+É aqui que começa o `Capítulo 7`.
+
+Não começa pela pergunta abstrata “o que é a verdade?”.
+Começa pela situação mais baixa e mais rigorosa:
+
+> há uma representação mediada que pretende dizer algo do real; essa representação pode agora ser medida pelo real que pretende dizer.
+
+---
+
+## 2. A representação não coincide automaticamente com o real
+
+A representação é necessária porque o humano não possui o real por fusão.
+
+O humano está no real, apreende o real, estabiliza relações ao real e representa aquilo que apreende. Mas essa representação não é o real inteiro, nem coincide automaticamente com aquilo que representa. Entre o real e a representação existe uma distância mediacional.
+
+Essa distância não é defeito acidental.
+
+É a própria condição da representação. Representar é fixar, organizar, selecionar, explicitar e tornar operável algo do apreendido. Mas, ao fazê-lo, a representação pode preservar a relação ao real ou pode deformá-la.
+
+Pode dizer suficientemente.
+Pode dizer insuficientemente.
+Pode dizer mal.
+Pode dizer parcialmente.
+Pode aplicar uma categoria errada.
+Pode generalizar uma validade local.
+Pode confundir o símbolo com a coisa.
+Pode confundir a coerência do discurso com a adequação ao real.
+
+Por isso, representar não é ainda adequar.
+
+A representação abre a possibilidade da verdade, mas também abre a possibilidade do erro. Se a representação coincidisse automaticamente com o real, não haveria erro. Mas também não haveria verdade em sentido forte, porque nada teria de ser medido, confrontado ou corrigido.
+
+A verdade só se torna inteligível porque a representação pode falhar.
+
+A primeira consequência é esta:
+
+> a representação mediada é avaliável porque pode adequar-se ou desadequar-se ao real.
+
+---
+
+## 3. Adequação e desadequação
+
+A adequação é a relação pela qual uma representação corresponde suficientemente ao real que pretende dizer.
+
+Não é fusão com o real.
+Não é identidade absoluta entre pensamento e coisa.
+Não é presença imediata do objeto na consciência.
+Não é simples clareza interna.
+Não é coerência formal.
+Não é consenso.
+Não é utilidade.
+
+É uma coincidência operativa entre representação e real sob limite estrutural.
+
+A representação é adequada quando consegue dizer o real de modo suficientemente fiel ao que o real permite, mostra, resiste ou impõe. Essa suficiência pode variar conforme o campo, a escala, o objeto e a finalidade da descrição. Uma descrição pode ser adequada para uma operação local e insuficiente para uma explicação mais ampla. Pode ser verdadeira dentro de certo campo e errada se for estendida para além dele.
+
+A desadequação é a falha dessa relação.
+
+A representação desadequa-se quando diz o real de modo insuficiente, deslocado, exagerado, reduzido, invertido ou categorialmente errado. Desadequa-se quando se orienta mais pela sua própria forma do que pelo objeto que pretende dizer. Desadequa-se quando substitui resistência real por coerência interna.
+
+Esta diferença entre adequação e desadequação é o primeiro núcleo do capítulo.
+
+Mas ainda não basta.
+
+Para distinguir adequação e desadequação, é preciso uma medida. Não basta sentir que uma representação parece plausível. Não basta que seja elegante. Não basta que funcione numa comunidade. Não basta que seja útil. É necessário um critério.
+
+---
+
+## 4. A necessidade de critério
+
+O critério entra porque a representação pode parecer adequada sem o ser.
+
+Uma representação pode ser convincente.
+Pode estar bem formulada.
+Pode usar uma linguagem forte.
+Pode encaixar numa tradição.
+Pode responder a necessidades emocionais.
+Pode ser funcional num sistema.
+Pode ser socialmente útil.
+Pode ser repetida durante muito tempo.
+
+E, ainda assim, pode estar desadequada ao real.
+
+Por isso, a diferença entre adequação e desadequação exige critério.
+
+O critério é a medida operativa que permite avaliar se a representação corresponde ao real que pretende dizer. Mas esta medida não pode ser soberana. Não pode funcionar como tribunal exterior. Não pode impor-se ao real a partir de fora. Não pode validar a representação apenas porque a representação cumpre uma regra interna.
+
+O critério só é legítimo se permanecer submetido ao real.
+
+Isto é decisivo. O critério não mede o real como se o real tivesse de obedecer ao critério. O critério mede a representação pelo real. Serve para verificar se o dito, a descrição, a imagem, a tese ou o conceito se ajustam àquilo que pretendem dizer.
+
+Quando o critério esquece esta subordinação, deixa de ser critério de verdade e torna-se mecanismo de fechamento.
+
+A fórmula curta é esta:
+
+> o critério é necessário porque a representação pode falhar; mas só é legítimo enquanto permanece medido pelo real.
+
+---
+
+## 5. O critério desligado do real
+
+Um critério desligado do real degrada-se.
+
+Pode degradar-se em coerência interna. Nesse caso, a representação é considerada válida porque não contradiz o sistema onde circula. Mas um sistema pode ser coerente e falso. A ausência de contradição interna não basta para garantir adequação ao real.
+
+Pode degradar-se em convenção. Nesse caso, a representação é aceite porque se convencionou dizê-la assim. Mas uma convenção pode estabilizar usos sem dizer verdadeiramente o real.
+
+Pode degradar-se em consenso. Nesse caso, a representação parece verdadeira porque muitos a aceitam. Mas a aceitação coletiva é um facto social, não um critério último de verdade.
+
+Pode degradar-se em autoridade. Nesse caso, a representação vale porque uma instância reconhecida a sustenta. Mas a autoridade pode errar, repetir, conservar e impor.
+
+Pode degradar-se em fechamento sistémico. Nesse caso, o sistema já não mede as suas representações pelo real, mas pela sua própria reprodução. Passa a perguntar apenas se a representação é compatível com o sistema, não se é adequada ao real.
+
+Este é o risco que `P33` fixa.
+
+Mas este capítulo ainda não deve transformar esse risco em crítica sistémica plena. A cultura, a instituição, a técnica, o direito e o sistema pertencem a zonas posteriores. Aqui, o que importa é mais estrito: impedir que um critério desligado do real ocupe o lugar do real.
+
+A fórmula disciplinada é esta:
+
+> um critério desligado do real degrada-se em coerência interna, convenção ou fechamento.
+
+---
+
+## 6. Verdade como adequação da representação ao real
+
+A verdade entra apenas depois disto.
+
+Há representação mediada.
+Essa representação é avaliável.
+Pode adequar-se ou desadequar-se.
+A diferença exige critério.
+O critério tem de estar submetido ao real.
+
+Só então se pode falar de verdade.
+
+A verdade consiste na adequação da representação ao real sob critério operativo submetido ao próprio real.
+
+Esta formulação deve ser mantida inteira.
+
+Se faltar representação, a verdade fica sem objeto.
+Se faltar adequação, a verdade vira coerência interna.
+Se faltar critério, a verdade vira impressão, hábito ou autoridade.
+Se faltar submissão ao real, o critério torna-se soberano.
+Se faltar o real, tudo se fecha num sistema de signos.
+
+A verdade não é apenas aquilo que é dito.
+O dito é real enquanto ato, mas não é verdadeiro só por existir.
+
+A verdade também não é apenas aquilo que faz sentido.
+Um sentido pode ser inteligível e falso.
+
+A verdade também não é apenas aquilo que funciona.
+Algo pode funcionar localmente e desadequar-se numa escala mais ampla.
+
+A verdade também não é consenso.
+O consenso pode estabilizar uma representação, mas não substitui a adequação ao real.
+
+A verdade também não é elegância formal.
+Uma formulação pode ser bela, coerente e falsa.
+
+A verdade é mais dura do que tudo isso.
+
+É a representação submetida ao real, medida por critério que não se autonomiza face ao próprio real.
+
+Por isso, a fórmula curta do capítulo é:
+
+> verdade é adequação da representação ao real sob critério submetido ao real.
+
+---
+
+## 7. Verdade e erro são co-originários
+
+A verdade não aparece sozinha.
+
+Onde há representação avaliável, há possibilidade de adequação e de desadequação. Isto significa que verdade e erro pertencem ao mesmo regime. Não porque tenham o mesmo valor, mas porque surgem da mesma estrutura: a representação mediada pode ou não pode adequar-se ao real.
+
+Se a representação não pudesse falhar, a verdade seria trivial.
+
+Não haveria distinção entre dizer e dizer verdadeiramente. Não haveria necessidade de critério. Não haveria correção. Não haveria diferença entre descrição suficiente e descrição falsa.
+
+A verdade é significativa porque o erro é possível.
+
+Isto não é uma tese psicológica sobre a fraqueza humana. O ponto não é simplesmente que os humanos se enganam. O ponto é mais estrutural: qualquer representação mediada, por não coincidir automaticamente com o real, abre simultaneamente a possibilidade de adequação e de desadequação.
+
+A linguagem não garante a verdade.
+A consciência não garante a verdade.
+O sistema não garante a verdade.
+A intenção não garante a verdade.
+A utilidade não garante a verdade.
+
+Só a adequação ao real sob critério submetido ao real permite verdade.
+
+A fórmula disciplinada é esta:
+
+> a distinção entre verdade e erro é co-originária: sem possibilidade de erro não há inteligibilidade da verdade.
+
+---
+
+## 8. O erro como desadequação ao real
+
+O erro não é primeiro um estado da mente.
+
+Pode haver confusão mental.
+Pode haver ignorância.
+Pode haver ilusão.
+Pode haver precipitação.
+Pode haver incapacidade.
+Pode haver má-fé.
+Pode haver interesse.
+Pode haver medo.
+Pode haver desejo.
+
+Mas o erro, em sentido próprio neste capítulo, não se define por isso.
+
+Define-se pela desadequação da representação ao real sob critério válido.
+
+Errar é representar de modo desajustado ao real que se pretende dizer. É formular o problema de tal maneira que a descrição não corresponde ao que está em causa. É aplicar uma categoria que não pertence ao campo. É tomar uma escala por outra. É aceitar como suficiente uma representação que o real desmente.
+
+Isto distingue erro de mera ignorância.
+
+Quem ignora pode simplesmente não saber.
+Quem erra afirma, supõe, representa ou atua com base numa representação desadequada.
+
+Também distingue erro de ilusão.
+
+A ilusão pode produzir erro, mas não é ainda o erro em sentido pleno. A ilusão pode afetar a apreensão ou a perceção. O erro começa quando a representação que daí resulta é tomada como adequada ao real sem o ser.
+
+Também distingue erro de dano.
+
+O dano pode resultar do erro. Uma má representação pode orientar uma má ação e produzir consequências reais. Mas o dano pertence a um regime posterior. Aqui, o erro é ainda definido no plano da representação: desadequação ao real sob critério válido.
+
+A fórmula curta é esta:
+
+> o erro é a desadequação da representação ao real sob critério válido.
+
+---
+
+## 9. Erro descritivo, erro categorial e erro de escala
+
+O erro pode assumir várias formas.
+
+A primeira é o erro descritivo.
+
+Há erro descritivo quando a representação descreve mal o real. O problema é mal visto, mal nomeado ou mal formulado. A descrição não corresponde suficientemente ao que está em causa. Quando isto acontece, qualquer solução construída sobre essa descrição fica fragilizada, porque responde a um problema que não foi corretamente descrito.
+
+A segunda é o erro categorial.
+
+Há erro categorial quando se aplica a um campo uma categoria que pertence a outro. Isto acontece quando se toma linguagem por real, símbolo por coisa, utilidade por verdade, consenso por critério, emoção local por validade geral, sistema por mundo, ou valor por descrição já verdadeira. O erro categorial não consiste apenas em formular mal; consiste em deslocar o nível do objeto.
+
+A terceira é o erro de escala.
+
+Há erro de escala quando algo que pode ser adequado num campo local é generalizado indevidamente. Um critério pode ser útil numa situação pequena e falhar em larga escala. Uma resposta pode funcionar numa relação imediata e tornar-se falsa quando aplicada como regra geral. Uma descrição pode captar um fragmento do real e falhar quando pretende explicar o todo.
+
+Estas três formas não são capítulos autónomos.
+
+Servem apenas para mostrar que a desadequação pode ocorrer de modos diferentes:
+
+- dizer mal o objeto;
+- aplicar a categoria errada;
+- deslocar a escala de validade.
+
+Em todos os casos, o núcleo mantém-se:
+
+> o erro é desadequação ao real sob critério válido.
+
+---
+
+## 10. Ilusão, insuficiência epistémica e dano
+
+É preciso ainda distinguir o erro de três figuras próximas.
+
+A ilusão pode induzir erro, mas não coincide necessariamente com ele. A ilusão pertence ao modo como algo aparece ou é apreendido. Pode haver ilusão sem que tenha ainda havido uma representação julgada como verdadeira. O erro começa quando essa aparência é assumida como representação adequada do real.
+
+A insuficiência epistémica também não é ainda erro em sentido pleno. Não saber bastante, não ter dados suficientes, não conseguir ainda decidir, ou estar diante de um campo incompleto não equivale automaticamente a errar. Pode exigir suspensão, prudência ou investigação. O erro começa quando a insuficiência é tratada como suficiência.
+
+O dano, por sua vez, pertence já ao plano das consequências reais da ação ou da atualização. Uma representação errada pode produzir dano, mas o dano não define por si a estrutura do erro. O dano será decisivo depois, quando estiver em causa a ação e a normatividade derivada. Aqui, permanece apenas como horizonte posterior.
+
+Esta distinção é importante porque impede três desvios:
+
+- psicologizar o erro como ilusão;
+- reduzir o erro a ignorância;
+- moralizar o erro como dano.
+
+A fórmula disciplinada é esta:
+
+> a ilusão pode induzir erro, a insuficiência epistémica pode suspender o juízo, e o dano pode resultar de erro; mas só há erro em sentido próprio quando a representação se desadequa ao real sob critério válido.
+
+---
+
+## 11. Corrigir não é apenas substituir uma representação por outra
+
+A correção aparece porque o erro é possível.
+
+Se uma representação pode desadequar-se ao real, então deve poder ser revista, reajustada, reconduzida e reinscrita. Mas a correção não consiste apenas em trocar uma formulação por outra. Também não consiste apenas em tornar um sistema mais coerente.
+
+Um sistema pode corrigir-se internamente e continuar falso.
+Uma teoria pode resolver contradições internas e continuar desadequada.
+Uma linguagem pode tornar-se mais elegante e continuar a dizer mal.
+Uma instituição pode adaptar os seus procedimentos e continuar desligada do real.
+Uma pessoa pode mudar de justificação e manter a mesma fuga ao real.
+
+Corrigir exige mais.
+
+Exige regressar ao real que resistiu à representação. Exige deixar que o real desminta, limite, reordene e reoriente aquilo que foi dito. Exige reinscrever a representação na medida daquilo que ela pretendia dizer.
+
+Por isso, a correção é mais do que coerentização.
+
+É reinscrição.
+
+Reinscrever é voltar a colocar a representação sob a medida do real. É permitir que a descrição seja corrigida pelo objeto. É abandonar a soberania do sistema, da linguagem, do interesse ou do hábito. É aceitar que a representação só vale enquanto consegue responder ao real.
+
+A fórmula curta é esta:
+
+> corrigir não é apenas coerentizar; é reconduzir a representação à medida do real.
+
+---
+
+## 12. Correção da representação e alcance sobre a ação
+
+A correção começa na representação, mas pode tocar a ação.
+
+Isto acontece porque o humano não representa apenas para contemplar. Representa para orientar-se, responder, agir, escolher, evitar, construir, preservar, modificar. Uma má representação pode conduzir a uma má ação. Uma descrição errada do problema pode produzir uma solução errada. Uma categoria errada pode justificar uma prática errada. Um erro de escala pode transformar uma utilidade local numa regra destrutiva.
+
+Por isso, corrigir uma representação pode exigir corrigir também a ação que dela depende.
+
+Mas este capítulo deve parar antes de transformar esta consequência em ética desenvolvida.
+
+A ação ainda não é o centro.
+O dano ainda não é o centro.
+O dever-ser ainda não é o centro.
+A responsabilidade ainda não é o centro.
+A dignidade ainda não é o centro.
+A vida boa ainda não é o centro.
+
+O que aqui se fixa é apenas a ponte terminal:
+
+> quando a representação errada orienta a ação, a correção da representação prepara a correção do agir.
+
+Mas a estrutura própria deste capítulo continua a ser epistemológico-corretiva.
+
+O seu fecho é `P37`:
+
+> corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.
+
+---
+
+## 13. Fecho: a medida do real
+
+O percurso deste capítulo pode agora ser comprimido.
+
+A representação mediada torna-se avaliável.
+Avaliável porque pode ser comparada ao real.
+Comparável porque pretende dizer algo que não coincide automaticamente consigo.
+Ao ser comparada, pode adequar-se ou desadequar-se.
+Essa diferença exige critério.
+O critério só é legítimo se permanecer submetido ao real.
+Quando há adequação sob esse critério, há verdade.
+Quando há desadequação, há erro.
+Quando há erro, a correção exige reinscrição no real.
+
+A verdade não é soberana face ao real.
+O critério não é soberano face ao real.
+A correção não é soberana face ao real.
+Nenhuma representação se salva por coerência interna, consenso, utilidade, elegância formal ou autoridade simbólica.
+
+O real mede.
+
+Esta é a disciplina do capítulo.
+
+A representação deve responder ao real.
+O critério deve permanecer submetido ao real.
+A verdade deve consistir na adequação ao real.
+O erro deve ser reconhecido como desadequação ao real.
+A correção deve reconduzir representação e ação ao real.
+
+O capítulo seguinte só pode começar depois disto.
+
+Quando já não estiver apenas em causa corrigir a representação, mas orientar a ação no real a partir dessa correção, abre-se outro regime. Aí poderá entrar dano, agir, responsabilidade, normatividade derivada e vida boa. Mas isso ainda não pertence ao centro deste capítulo.
+
+Aqui, a última palavra continua a ser:
+
+> verdade, erro, critério e correção só valem enquanto permanecem modos de submissão ao real.
+
+---
+
+## III. Nota de controlo final
+
+Esta versão conserva a ordem local obrigatória:
+
+1. reentrada breve pelo chão do real, humano situado, apreensão e representação mediada;
+2. abertura própria por representação avaliável;
+3. distinção entre representação, adequação e desadequação;
+4. introdução do critério como medida operativa submetida ao real;
+5. `P33` como bloqueio do critério desligado do real;
+6. `P34` como verdade enquanto adequação da representação ao real sob critério submetido ao próprio real;
+7. `P35` como co-originariedade de verdade e erro;
+8. `P36` como erro enquanto desadequação ao real sob critério válido;
+9. `P36_SP01` integrado discretamente como distinção entre erro, ilusão, insuficiência epistémica e dano;
+10. `P37` como correção enquanto reinscrição da representação e da ação na medida do real;
+11. paragem antes de ação, dano, normatividade, responsabilidade, dignidade, vida boa, cultura, sistema e crítica sistémica.
+
+O texto deve permanecer sob controlo.
+
+Se for desenvolvido, o desenvolvimento deve reforçar a submissão ao real, não libertar verdade, critério, erro ou correção como instâncias soberanas.
+Se for encurtado, o encurtamento deve preservar a ordem `representação avaliável → critério → verdade → erro → correção`.
+Se for literariamente melhorado, a melhoria não pode introduzir epistemologia abstrata, ética, crítica cultural, sistema ou normatividade como centros próprios.
+
+---
+
+## IV. Fórmula curta da versão
+
+> O `Capítulo 7` mostra que uma representação mediada só é verdadeira se se adequar ao real sob critério submetido ao próprio real; quando se desadequa, há erro; e corrigir é reinscrever representação e ação na medida do real, não apenas reajustar internamente um sistema.
+
+---
+
+## V. Fórmula de passagem para o regime seguinte
+
+> Quando a correção deixa de incidir apenas sobre a representação e começa a exigir orientação do agir no real, a questão já não é apenas verdade, erro, critério e correção; passa a ser ação, consequência, dano, responsabilidade e normatividade derivada.
+
+<a id="cap-07-verdade-erro-criterio-correcao-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap7-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7
+
+## Capítulo 7 — Verdade, erro, critério e correção
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro produz uma versão reescrita pós-confronto da primeira versão controlada de escrita do **Capítulo 7 — Verdade, erro, critério e correção**, agora compatibilizada com a **Nota de leitura dos capítulos — ser, dizer, erro, reinscrição**.
+
+Não é ainda redação final do capítulo.
+
+A sua função é testar se o capítulo aguenta passagem a texto corrido sem perder:
+
+- o chão herdado do Capítulo 6;
+- a diferença entre representação mediada e representação avaliável;
+- a entrada por adequação/desadequação, e não por verdade abstrata;
+- o critério como critério submetido ao real, e não tribunal soberano;
+- a verdade como adequação da representação ao real sob critério válido;
+- o erro como desadequação ao real;
+- a distinção entre erro, ilusão, insuficiência epistémica, dano e erro moral;
+- a correção como reinscrição da representação e da ação na medida do real;
+- a paragem antes da ação, do dano, da liberdade, da normatividade e da ética como centros próprios;
+- a legibilidade expositiva segundo a disciplina transversal: **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**.
+
+Nos capítulos anteriores, a Nota de Leitura entrava sobretudo como camada de orientação expositiva. No Capítulo 7, a sua incidência é mais sensível, porque o próprio capítulo trata do ponto em que o dizer se torna julgável como verdadeiro ou errado.
+
+Por isso, esta versão deve incorporar a Nota com máxima contenção.
+
+A Nota não pode transformar o Capítulo 7 numa repetição da chave transversal da obra. Também não pode fazer o capítulo subir para uma teoria geral do erro, da verdade, do critério ou da correção.
+
+A tarefa desta versão é, portanto, dupla:
+
+1. preservar a cadeia material já ganha;
+2. tornar explícito, sem duplicar a Nota, o movimento local:
+   - qual é o ser em causa;
+   - como ele é dito representacionalmente;
+   - que erro nasce quando o dizer se autonomiza;
+   - como a representação é reinscrita no real.
+
+### limite
+
+Esta versão não pode:
+
+- abrir por verdade em abstrato;
+- abrir por erro em abstrato;
+- abrir por critério como tribunal soberano;
+- abrir por correção como técnica geral;
+- transformar o capítulo em epistemologia autónoma;
+- transformar o capítulo em teoria geral da verdade;
+- transformar o capítulo em teoria geral do erro;
+- transformar o capítulo em teoria geral do critério;
+- transformar a correção em reajuste interno de sistema;
+- reduzir o erro a falha psicológica;
+- reduzir o erro a falha moral;
+- reduzir a verdade a coerência interna;
+- reduzir a verdade a consenso;
+- reduzir a verdade a utilidade;
+- reduzir a verdade a autoridade;
+- deixar linguagem, símbolo ou sistema comandarem o capítulo;
+- antecipar ação, dano, liberdade, normatividade, dever-ser, dignidade ou vida boa;
+- antecipar cultura, instituição, direito ou crítica sistémica tardia;
+- transformar a Nota de Leitura em método soberano.
+
+### regra de escrita
+
+A regra desta versão é simples:
+
+> escrever apenas o necessário para mostrar que uma representação mediada é julgável como verdadeira ou errada apenas pela sua adequação ou desadequação ao real sob critério submetido ao próprio real.
+
+A regra de leitura incorporada é igualmente simples:
+
+> em cada passo, perguntar que representação real está em causa, como ela se diz, onde ela se descola do real e como pode ser corrigida por reinscrição no real.
+
+Esta segunda regra não altera a cadeia dedutiva. Apenas torna explícita a função expositiva do capítulo.
+
+---
+
+# Primeira versão controlada — reescrita pós-confronto com compatibilização da Nota de Leitura
+
+## 1. Entrada do capítulo
+
+O Capítulo 6 mostrou que a relação apreendida e estabilizada internamente pode tornar-se representação mediada, símbolo, linguagem e sentido partilhável.
+
+Mas essa mediação não se basta a si mesma.
+
+Uma representação pode circular.  
+Pode ser linguisticamente articulada.  
+Pode ser simbolicamente estabilizada.  
+Pode produzir sentido.  
+Pode ser partilhada por muitos.  
+Pode tornar-se coerente dentro de um sistema.  
+
+Nada disso basta ainda para a tornar verdadeira.
+
+É aqui que começa o Capítulo 7.
+
+A sua pergunta não é: “o que é a verdade em abstrato?”  
+Também não é: “o que é o erro em abstrato?”  
+Também não é: “qual é o critério soberano?”  
+Também não é: “como se corrige um sistema?”  
+
+A pergunta é mais baixa e mais precisa:
+
+> quando uma representação mediada diz o real, em que condições pode ser julgada como adequada ou desadequada ao real que pretende dizer?
+
+O **ser em causa** neste capítulo é, portanto, a **representação mediada de um humano situado enquanto julgável pela sua adequação ou desadequação ao real**.
+
+Ou, em fórmula mais seca:
+
+> representação julgável sob critério submetido ao real.
+
+Não é a verdade como entidade abstrata.  
+Não é o erro como categoria psicológica.  
+Não é o critério como tribunal exterior.  
+Não é a correção como técnica interna de coerência.  
+
+É a relação entre representação e real quando essa relação se torna avaliável.
+
+A partir daqui abre-se o corredor do capítulo:
+
+> representação mediada → representação avaliável → adequação/desadequação → critério submetido ao real → verdade → erro → distinções internas do erro → correção → passagem prática posterior apenas preparada.
+
+Este corredor é o limite da peça.
+
+A pergunta transversal da Nota já opera aqui de modo mais interno do que nos capítulos anteriores:
+
+- o ser em causa é a representação mediada julgável;
+- o dizer do ser é a proposição, descrição, teoria, linguagem ou sistema que pretende dizer o real;
+- o erro local nasce quando a representação se toma por medida de si mesma e deixa de responder ao real;
+- a reinscrição consiste em devolver representação, critério, verdade, erro e correção à medida do real.
+
+## 2. Chão herdado: apreensão, memória, representação e mediação
+
+O Capítulo 7 não começa sozinho.
+
+Tem atrás de si uma cadeia inteira:
+
+- há real;
+- o humano está situado no real;
+- o real é apreendido localmente;
+- a relação apreendida pode estabilizar-se internamente como memória;
+- essa relação pode fixar-se em representação;
+- a representação pode tornar-se simbólica, linguística e partilhável.
+
+O Capítulo 7 só começa porque esta cadeia já existe.
+
+Sem apreensão, não haveria relação originária ao real.  
+Sem memória, a relação apreendida não teria permanência interna.  
+Sem representação, a relação não se tornaria operável.  
+Sem mediação, a representação não se tornaria comunicável, articulável e partilhável.  
+
+Mas sem adequação ao real, a representação mediada ainda não seria verdadeira.
+
+O falso dizer desta zona é esquecer esta cadeia e abrir diretamente por verdade, erro ou critério.
+
+Nesse erro, a verdade parece uma entidade lógica, o erro parece uma falha mental, o critério parece uma regra exterior, e a correção parece um procedimento técnico. Mas o capítulo não pode começar por aí.
+
+A primeira determinação do capítulo é esta:
+
+> a verdade e o erro só são inteligíveis depois de haver representação mediada de uma relação apreendida ao real.
+
+A reinscrição local é esta: verdade, erro, critério e correção devem ser devolvidos à representação situada que os torna possíveis, e não tratados como instâncias abstratas.
+
+## 3. Representação avaliável
+
+A representação mediada torna o apreendido operável.
+
+Mas, quando representa, a representação também se expõe a avaliação.
+
+Enquanto a apreensão é contacto situado com o real, e a memória é permanência interna dessa relação, a representação já fixa algo de modo que pode ser retomado, comparado, comunicado e julgado.
+
+Isto torna possível a pergunta: aquilo que a representação diz corresponde suficientemente ao real que pretende dizer?
+
+A representação torna-se avaliável porque não coincide automaticamente com o real. Se coincidisse, não haveria problema de verdade. Se estivesse totalmente desligada, não haveria sequer possibilidade de adequação. O capítulo nasce nesse intervalo: a representação refere-se ao real, mas não é o real.
+
+O falso dizer desta zona é confundir representação com presença imediata do real.
+
+Nesse erro, representar pareceria já possuir o real que representa. A imagem, a descrição, a teoria ou a proposição passariam a valer como se fossem a coisa. Mas isso apaga a diferença decisiva entre o ato de representar e o real representado.
+
+A segunda determinação do capítulo é esta:
+
+> uma representação é julgável porque pretende dizer o real sem coincidir automaticamente com ele.
+
+A reinscrição local é esta: a representação deve ser mantida como mediação avaliável, não como substituto do real.
+
+## 4. Dizer real e dito verdadeiro
+
+O dizer é real enquanto ato.
+
+Quando alguém fala, descreve, formula, escreve, ensina, julga ou teoriza, esse ato acontece no real. É uma atualização real de um humano situado.
+
+Mas o dito não é verdadeiro apenas por ter sido dito.
+
+Esta distinção é decisiva para o Capítulo 7.
+
+Uma proposição falsa também existe.  
+Um discurso ilusório também é real enquanto discurso.  
+Uma teoria errada também circula no real.  
+Um sistema fechado também opera realmente.  
+Uma crença inadequada também pode orientar ações reais.  
+
+Mas a realidade do ato de dizer não garante a verdade do conteúdo dito.
+
+O falso dizer desta zona é confundir existência factual do discurso com validade descritiva.
+
+Nesse erro, porque uma proposição existe, circula, funciona, convence, estabiliza identidades ou produz efeitos, passa-se a tratá-la como verdadeira. Mas isto troca de nível: da realidade do ato passa-se indevidamente à verdade do conteúdo.
+
+A terceira determinação do capítulo é esta:
+
+> todo o dizer é real enquanto ato, mas o dito só é verdadeiro se se adequar ao real que pretende dizer.
+
+A reinscrição local é esta: a proposição deve ser julgada pela sua relação ao real, e não apenas pela sua existência, circulação ou eficácia.
+
+## 5. Adequação e desadequação
+
+A representação mediada pode adequar-se ou desadequar-se ao real.
+
+Adequação não significa fusão entre pensamento e coisa. Não significa transparência absoluta. Não significa posse total do real. Significa coincidência operativa suficiente entre aquilo que a representação diz e aquilo que o real permite, mostra, resiste ou confirma.
+
+Desadequação, inversamente, não significa apenas falta de informação. Significa que a representação falha na sua relação ao real. Pode dizer demais, dizer de menos, dizer fora de escala, confundir categorias, substituir o objeto por uma imagem, ou deixar um sistema interno ocupar o lugar do real.
+
+A adequação é relacional.
+
+Está entre representação e real.  
+Não está só na representação.  
+Não está só na coerência do discurso.  
+Não está só na intenção do sujeito.  
+Não está só na aceitação comunitária.  
+
+A quarta determinação do capítulo é esta:
+
+> adequação é coincidência operativa suficiente entre representação e real sob limite.
+
+A reinscrição local é esta: a adequação deve ser devolvida à relação representação-real, não transformada em propriedade interna da representação.
+
+## 6. Critério submetido ao real
+
+Para distinguir adequação e desadequação, é necessário critério.
+
+Sem critério, a diferença entre melhor e pior descrição dissolve-se. Tudo poderia valer por impressão, gosto, hábito, autoridade, convenção, pertença, utilidade ou coerência interna.
+
+Mas o critério também não pode ser soberano.
+
+O critério não é uma régua exterior ao real. Não é tribunal colocado fora do mundo. Não é decisão arbitrária de um sistema. Não é autoridade institucional. Não é consenso estabilizado. Não é utilidade local.
+
+O critério só é legítimo se permanecer submetido ao real.
+
+Isto significa que o critério deve medir a representação pelo real a que ela se refere, e não fechar-se sobre a sua própria regra. Um critério desligado do real degrada-se em coerência interna, convenção ou fechamento sistémico.
+
+O falso dizer desta zona é autonomizar o critério.
+
+Nesse erro, o critério passa a valer por si. O sistema decide o que conta como válido, a comunidade decide o que conta como verdadeiro, a autoridade decide o que conta como aceitável, ou a utilidade decide o que conta como suficiente. Mas nada disso basta se o critério não responder ao real.
+
+A quinta determinação do capítulo é esta:
+
+> o critério só é válido enquanto critério submetido ao real.
+
+A reinscrição local é esta: o critério deve ser reconduzido à sua função de medir a representação pelo real, não elevado a tribunal autónomo.
+
+## 7. Verdade
+
+Só agora se pode falar de verdade.
+
+A verdade não deve abrir o capítulo. Deve nascer da cadeia já percorrida.
+
+Há representação mediada.  
+Essa representação pretende dizer o real.  
+Pode adequar-se ou desadequar-se.  
+A diferença entre adequação e desadequação exige critério.  
+Esse critério tem de estar submetido ao real.  
+
+A verdade é a representação adequada ao real sob critério válido.
+
+Não é coerência interna.  
+Não é consenso.  
+Não é autoridade.  
+Não é utilidade.  
+Não é elegância simbólica.  
+Não é força institucional.  
+Não é mera estabilidade cultural.  
+
+A verdade é adequação da representação ao real.
+
+O falso dizer da verdade é tratá-la como propriedade interna de uma proposição ou de um sistema. Nesse erro, basta que uma proposição seja coerente com outras proposições, aceite por uma comunidade ou funcional dentro de um regime para ser tomada por verdadeira.
+
+Mas a verdade não é uma medalha interna do discurso. É a qualidade relacional de uma representação que responde ao real.
+
+A sexta determinação do capítulo é esta:
+
+> verdade é adequação da representação ao real sob critério operativo submetido ao próprio real.
+
+A reinscrição local é esta: a verdade deve ser devolvida à relação entre representação e real, não instalada como valor interno de um sistema discursivo.
+
+## 8. Co-originariedade de verdade e erro
+
+A possibilidade da verdade implica a possibilidade do erro.
+
+Se a representação pode adequar-se, é porque também pode desadequar-se. Se não houvesse possibilidade de desadequação, a verdade seria trivial. Não haveria diferença real entre dizer bem e dizer mal, entre representar adequadamente e representar inadequadamente.
+
+A verdade não precisa do erro como rival metafísico. Mas a inteligibilidade da verdade exige a possibilidade do erro.
+
+Isto não quer dizer que o erro seja tão valioso quanto a verdade. Quer dizer apenas que, no plano representacional, a distinção entre verdade e erro nasce da mesma estrutura: a representação mede-se pelo real e pode falhar nessa medida.
+
+O falso dizer desta zona é imaginar uma verdade sem risco de erro.
+
+Nesse erro, a verdade aparece como posse imediata, evidência autoportante, certeza institucional ou revelação infalível. Mas, se a representação fosse infalível por natureza, deixaria de ser necessário medir, corrigir ou submeter ao real.
+
+A sétima determinação do capítulo é esta:
+
+> sem possibilidade de erro, a verdade não é inteligível como adequação.
+
+A reinscrição local é esta: verdade e erro devem ser reconduzidos à mesma estrutura relacional entre representação e real.
+
+## 9. Erro em sentido próprio
+
+O erro, em sentido próprio, não é simplesmente “não saber”.
+
+Também não é simples ilusão psicológica, simples engano subjetivo, simples falha moral ou simples dano.
+
+O erro próprio deste capítulo é desadequação da representação ao real sob critério válido.
+
+Há erro quando uma representação pretende dizer o real e falha nessa relação. A falha pode ter várias formas:
+
+- erro descritivo;
+- erro categorial;
+- erro de escala;
+- erro por autonomização da mediação;
+- erro por critério soberano;
+- erro por substituição do real por sistema.
+
+Mas todas estas formas têm um núcleo comum:
+
+> a representação deixa de responder adequadamente ao real que pretendia dizer.
+
+O falso dizer do erro é reduzi-lo a acidente subjetivo ou defeito moral.
+
+Nesse erro, o problema passa a ser a mente, a intenção, o caráter ou a ignorância de alguém. Mas isso é demasiado estreito. O erro pode ser individual, mas também pode ser sistémico, linguístico, categorial, institucional ou cultural. O seu núcleo, porém, permanece o mesmo: desadequação ao real.
+
+A oitava determinação do capítulo é esta:
+
+> o erro é desadequação da representação ao real sob critério válido.
+
+A reinscrição local é esta: o erro deve ser devolvido à relação representação-real, não reduzido a psicologia, moralidade ou falha interna de coerência.
+
+## 10. Distinções internas do erro
+
+É preciso distinguir o erro de fenómenos próximos.
+
+### erro e ilusão
+
+A ilusão pode ser uma aparência enganadora, uma forma de apreensão distorcida ou uma configuração percetiva que induz uma representação falsa.
+
+Mas a ilusão só se torna erro em sentido próprio quando é assumida representacionalmente como descrição adequada do real.
+
+A ilusão pertence ao modo como algo se dá ou é apreendido.  
+O erro pertence à representação que toma esse dado como verdadeiro sem adequada submissão ao real.
+
+### erro e insuficiência epistémica
+
+A insuficiência epistémica é falta, limitação ou incompletude de conhecimento.
+
+Nem toda insuficiência é erro.
+
+Posso não saber. Posso saber pouco. Posso estar em investigação. Posso não ter ainda os dados necessários. Isso não é ainda erro em sentido próprio.
+
+O erro surge quando, apesar dessa insuficiência, uma representação é tomada como adequada ao real sem o ser.
+
+### erro e dano
+
+O dano é efeito real negativo.
+
+Pode decorrer de erro, mas não é idêntico ao erro. Um erro pode causar dano; um dano pode revelar erro; mas dano e erro pertencem a planos diferentes.
+
+O erro é desadequação representacional.  
+O dano é lesão, degradação ou perda real.  
+
+Confundi-los faria o capítulo subir cedo demais para o regime prático e normativo.
+
+### erro e erro moral
+
+O erro moral pertence a um plano posterior, em que ação, dano, responsabilidade, dever-ser e valor já se tornaram centrais.
+
+No Capítulo 7, ainda não se trata disso.
+
+O que está em causa é a condição epistemológica mínima sem a qual o regime prático posterior não pode abrir limpo: antes de perguntar como agir, é preciso perguntar se a representação que orienta a ação está submetida ao real.
+
+A nona determinação do capítulo é esta:
+
+> ilusão, insuficiência epistémica, dano e erro moral podem relacionar-se com o erro, mas não são o erro em sentido próprio deste capítulo.
+
+A reinscrição local é esta: cada fenómeno deve ser devolvido ao seu plano próprio para que o erro representacional não seja confundido com psicologia, ignorância, dano ou moralidade.
+
+## 11. Falsos critérios
+
+O Capítulo 7 deve bloquear os falsos critérios que tendem a substituir a submissão ao real.
+
+### coerência interna
+
+A coerência interna é necessária, mas não suficiente.
+
+Uma teoria incoerente dificilmente pode ser verdadeira. Mas uma teoria coerente pode continuar falsa se a sua coerência não responder ao real.
+
+O falso dizer coerentista é este:
+
+> se o sistema é internamente coerente, então basta.
+
+Não basta.
+
+A coerência organiza. O real mede.
+
+### consenso
+
+O consenso pode ter valor social, deliberativo ou prático. Mas consenso não é verdade.
+
+Muitas pessoas podem repetir a mesma representação inadequada. Uma comunidade pode estabilizar um erro. Uma tradição pode conservar um falso centro. Uma academia pode circular uma linguagem que se legitima internamente.
+
+O falso dizer consensual é este:
+
+> se muitos aceitam, então é verdadeiro.
+
+Não basta.
+
+O consenso circula. O real confirma ou desmente.
+
+### autoridade
+
+A autoridade pode orientar, ensinar ou conservar conhecimento. Mas autoridade não é critério último.
+
+Uma autoridade pode errar. Uma instituição pode fechar-se. Um prestígio pode proteger uma descrição inadequada.
+
+O falso dizer autoritário é este:
+
+> se vem de instância reconhecida, então vale.
+
+Não basta.
+
+A autoridade transmite. O real mede.
+
+### utilidade
+
+A utilidade pode ser real. Uma representação pode funcionar localmente, acalmar, organizar, estabilizar, mobilizar ou produzir efeitos úteis.
+
+Mas utilidade não é verdade.
+
+Uma representação pode ser útil e falsa. Pode funcionar numa escala e falhar noutra. Pode servir um sistema e desadequar-se ao real.
+
+O falso dizer pragmático é este:
+
+> se funciona, então é verdadeiro.
+
+Não basta.
+
+A utilidade opera. O real julga.
+
+### linguagem ou sistema
+
+A linguagem pode articular. O sistema pode organizar. Mas nenhum deles é critério último.
+
+O falso dizer sistémico é este:
+
+> se a linguagem ou o sistema conseguem integrar a proposição, então a proposição está validada.
+
+Não basta.
+
+A linguagem diz. O sistema estabiliza. O real permanece a medida.
+
+A décima determinação do capítulo é esta:
+
+> coerência, consenso, autoridade, utilidade, linguagem e sistema podem apoiar a avaliação, mas não substituem o critério submetido ao real.
+
+A reinscrição local é esta: todos os critérios derivados devem ser reconduzidos ao real, e não autorizados a ocupar o seu lugar.
+
+## 12. Correção
+
+A correção nasce porque a representação pode errar.
+
+Corrigir não é apenas trocar uma frase por outra.  
+Não é apenas ajustar um sistema para que volte a ser coerente.  
+Não é apenas salvar uma teoria por remendo interno.  
+Não é apenas mudar de linguagem.  
+Não é apenas substituir uma interpretação por outra mais aceitável.  
+
+Corrigir é reinscrever a representação na medida do real.
+
+Isto significa que a correção deve fazer a representação regressar ao objeto que pretendia dizer. Deve devolver a proposição àquilo que lhe resiste, a limita, a confirma ou a desmente.
+
+A correção pode exigir reformular conceitos, abandonar categorias, ajustar escala, rever critérios, abandonar autoridades, desfazer sistemas fechados ou alterar práticas. Mas a sua direção é sempre a mesma: voltar ao real.
+
+A correção não é, portanto, soberania do critério. É submissão renovada ao real.
+
+O falso dizer da correção é tratá-la como reajuste interno.
+
+Nesse erro, corrige-se apenas para manter o sistema a funcionar. A representação é arrumada de modo mais coerente, mais aceitável, mais elegante ou mais eficiente, mas continua sem se submeter ao real.
+
+Isso não é correção em sentido forte. É reorganização interna.
+
+A décima primeira determinação do capítulo é esta:
+
+> corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.
+
+A reinscrição local é esta: a correção deve ser devolvida ao real que corrige, não ao sistema que se autopreserva.
+
+## 13. Ação apenas como pressão terminal
+
+A correção já toca a ação.
+
+Uma representação corrigida pode orientar uma prática melhor. Uma representação errada pode conduzir a ação inadequada. Uma descrição falsa do problema pode produzir uma solução mal aplicada.
+
+Mas o Capítulo 7 ainda não é o capítulo da ação.
+
+A ação entra apenas como pressão terminal, porque a representação julgável e corrigível prepara o regime prático posterior.
+
+Antes de perguntar o que deve ser feito, é necessário perguntar se a representação do real a partir da qual se age está adequada. Agir sobre erro é atualizar desadequação no real.
+
+Mas desenvolver ação, dano, liberdade, responsabilidade, dever-ser ou normatividade já pertence a outro plano.
+
+O falso dizer desta ponte é deixar a correção abrir imediatamente ética.
+
+Nesse erro, porque a correção toca a ação, o capítulo passa logo para dever-ser, responsabilidade, bem, mal ou vida boa. Isso seria salto indevido.
+
+A décima segunda determinação do capítulo é esta:
+
+> o Capítulo 7 prepara a prática porque torna a representação julgável e corrigível, mas ainda não abre a ação como centro.
+
+A reinscrição local é esta: a ação deve permanecer como entrega posterior, não como absorção do capítulo.
+
+## 14. O erro local do capítulo
+
+A Nota de Leitura obriga a tornar visível o erro próprio de cada capítulo. No Capítulo 7, essa exigência é particularmente delicada, porque o próprio capítulo trata do erro.
+
+Por isso, é preciso distinguir:
+
+- o erro como tema próprio do capítulo;
+- o erro local que ameaça a escrita do capítulo.
+
+O erro local do Capítulo 7 consiste em autonomizar o regime epistemológico.
+
+Isto acontece quando verdade, erro, critério ou correção deixam de ser pensados a partir da representação situada submetida ao real e passam a funcionar como instâncias soberanas.
+
+Esse erro pode assumir várias formas.
+
+Pode autonomizar a verdade.  
+Nesse caso, a verdade torna-se entidade abstrata, desligada da cadeia real da representação.
+
+Pode autonomizar o critério.  
+Nesse caso, o critério torna-se tribunal exterior ou sistema fechado.
+
+Pode autonomizar o erro.  
+Nesse caso, o erro torna-se categoria geral, psicologia, moral ou taxonomia.
+
+Pode autonomizar a correção.  
+Nesse caso, corrigir torna-se técnica interna de reajuste e não retorno ao real.
+
+Pode autonomizar a representação.  
+Nesse caso, a representação passa a valer por si e substitui o real.
+
+Pode autonomizar a linguagem.  
+Nesse caso, o dizer passa a valer pela sua forma, circulação ou prestígio.
+
+Pode autonomizar o sistema.  
+Nesse caso, coerência interna, autoridade, consenso ou utilidade substituem a adequação ao real.
+
+Todas estas formas têm uma estrutura comum:
+
+> aquilo que devia medir a representação pelo real passa a funcionar como substituto do real.
+
+A décima terceira determinação do capítulo é esta:
+
+> o erro local do Capítulo 7 é autonomizar verdade, erro, critério ou correção até os separar da representação situada e do real que os mede.
+
+A reinscrição local é esta: cada falso centro deve ser reconduzido à cadeia baixa do capítulo — representação mediada, adequação, critério submetido ao real, verdade, erro e correção por reinscrição.
+
+## 15. Reinscrição do dizer no real
+
+A correção local do Capítulo 7 não consiste em propor outra epistemologia.
+
+Consiste em devolver o dizer ao real.
+
+Essa reinscrição tem seis movimentos.
+
+Primeiro: há representação mediada de uma relação apreendida ao real.  
+Segundo: essa representação é julgável porque não coincide automaticamente com o real.  
+Terceiro: a sua avaliação exige adequação ou desadequação ao real.  
+Quarto: essa avaliação exige critério submetido ao real.  
+Quinto: verdade e erro nascem dessa relação avaliável.  
+Sexto: corrigir é reinscrever a representação e a ação na medida do real.
+
+Esta reinscrição não nega a verdade.  
+Não nega o critério.  
+Não nega o erro.  
+Não nega a correção.  
+Não nega a linguagem.  
+Não nega a representação.  
+Não nega a utilidade local.  
+Não nega a autoridade legítima.  
+Não nega o consenso enquanto fenómeno social.  
+
+Apenas põe cada camada no seu lugar.
+
+A verdade pertence à adequação.  
+O erro pertence à desadequação.  
+O critério pertence à medição submetida ao real.  
+A correção pertence ao retorno ao real.  
+A linguagem pertence ao dizer.  
+O sistema pertence à organização derivada.  
+O real permanece a medida.
+
+A décima quarta determinação do capítulo é esta:
+
+> reinscrever o dizer é reconduzir representação, critério, verdade, erro e correção à submissão ao real.
+
+Esta é a correção local que o capítulo pode fazer.
+
+Nada mais.
+
+## 16. Fronteira com o Capítulo 6
+
+A fronteira com o Capítulo 6 deve ficar clara.
+
+O Capítulo 6 tratou da mediação simbólico-linguística da representação. O seu centro foi a passagem pela qual aquilo que foi apreendido e estabilizado internamente se tornou representação, símbolo, linguagem e sentido partilhável.
+
+O Capítulo 7 começa quando essa representação mediada se torna julgável pela sua adequação ou desadequação ao real.
+
+A diferença é esta:
+
+- o Capítulo 6 trata da formação mediada da representação;
+- o Capítulo 7 trata da avaliação da representação segundo o real.
+
+O falso dizer da fronteira é deixar linguagem, símbolo ou sentido continuar a comandar.
+
+Nesse erro, o Capítulo 7 seria reduzido a prolongamento da mediação. A verdade passaria a depender da linguagem, o erro da falha simbólica, o critério da coerência mediacional, e a correção da reorganização do discurso.
+
+Mas o centro já mudou.
+
+A pergunta agora não é como a representação se forma e circula.  
+É se aquilo que ela diz se adequa ao real.
+
+A décima quinta determinação do capítulo é esta:
+
+> o Capítulo 7 começa quando a representação mediada se torna representação avaliável sob critério submetido ao real.
+
+A reinscrição local é esta: a mediação deve permanecer como chão herdado, não como centro reaberto.
+
+## 17. Fronteira com o regime prático posterior
+
+A fronteira posterior deve ser igualmente clara.
+
+O Capítulo 7 torna a representação julgável e corrigível. Isso prepara necessariamente a prática.
+
+Mas ainda não a abre.
+
+A prática exigirá perguntar:
+
+- como age um ser reflexivo situado;
+- como a ação atualiza efeitos reais;
+- como há dano real;
+- como nem toda trajetória é indiferente;
+- como liberdade e responsabilidade se articulam;
+- como o dever-ser se subordina ao poder-ser real;
+- como normatividade, valor e vida boa podem ser pensados sem autonomia moral abstrata.
+
+Nada disso deve ocupar o centro do Capítulo 7.
+
+O falso dizer da fronteira é transformar correção em ética.
+
+Nesse erro, corrigir uma representação passaria logo a significar agir bem, cumprir dever, assumir responsabilidade ou realizar valor. Mas o Capítulo 7 só prepara esse plano. Não o desenvolve.
+
+A décima sexta determinação do capítulo é esta:
+
+> o Capítulo 7 entrega a prática apenas depois de fixar que nenhuma ação deve nascer de representação não julgada ou não corrigível pelo real.
+
+A reinscrição local é esta: a prática deve ser preparada como consequência posterior da representação corrigível, não aberta como centro do capítulo.
+
+## 18. Fecho e ponte baixa posterior
+
+O Capítulo 7 deve terminar antes de mudar de centro.
+
+A sua pergunta foi: em que condições uma representação mediada pode ser julgada como verdadeira ou errada relativamente ao real?
+
+A resposta mínima ficou ganha: uma representação mediada só vale como verdadeira se se adequar ao real sob critério submetido ao próprio real; quando se desadequa, há erro; e corrigir é reinscrever a representação e a ação na medida do real.
+
+Mas esta resposta abre uma nova pressão.
+
+Se a representação pode orientar ação, e se pode estar adequada ou desadequada ao real, então a ação que dela deriva também poderá ser adequada ou desadequada. Uma descrição errada do problema pode gerar uma solução errada. Uma representação falsa pode atualizar dano. Uma correção real pode exigir mudança prática.
+
+Essa pressão pertence ao regime posterior.
+
+O Capítulo 7 pode entregar ao seguinte apenas isto:
+
+> a prática humana não deve nascer de representação não julgada; deve nascer de representação submetida ao real, corrigível pelo real e reinscrita na medida do real.
+
+Esta entrega prepara ação, dano, liberdade, responsabilidade e normatividade derivada.
+
+Mas não os inicia ainda.
+
+O falso dizer da ponte é transformar preparação em absorção. Como se, por haver correção, já houvesse ética; como se, por haver erro, já houvesse culpa; como se, por haver desadequação, já houvesse dano; como se, por haver verdade, já houvesse dever-ser.
+
+Esse salto seria indevido.
+
+O Capítulo 7 deve parar no bordo.
+
+A décima sétima determinação do capítulo é esta:
+
+> a ponte posterior é obrigatória, mas apenas terminal: prepara o regime prático sem o fazer ocupar o centro do Capítulo 7.
+
+A reinscrição local é esta: a ponte deve ser devolvida ao seu estatuto de passagem, não convertida em cabeça antecipada do capítulo seguinte.
+
+## 19. Fórmula de leitura interna do capítulo
+
+Lido segundo a Nota de Leitura, o Capítulo 7 pode ser condensado assim.
+
+### ser em causa
+
+O ser em causa é a **representação mediada de um humano situado enquanto julgável pela sua adequação ou desadequação ao real**.
+
+Ou:
+
+> representação julgável sob critério submetido ao real.
+
+Não é:
+
+- verdade em abstrato;
+- erro em abstrato;
+- critério como tribunal soberano;
+- correção como técnica interna;
+- epistemologia autónoma;
+- linguagem como fundamento;
+- sistema como medida;
+- consenso como verdade;
+- utilidade como critério;
+- autoridade como garantia;
+- ação, dano ou normatividade como centro.
+
+É o modo como uma representação mediada, que pretende dizer o real, pode ser avaliada, distinguida, corrigida e reinscrita no real.
+
+### dizer do ser
+
+A representação julgável pode ser dita erradamente como:
+
+- representação suficiente por si;
+- verdade garantida pela coerência interna;
+- verdade garantida pelo consenso;
+- verdade garantida pela autoridade;
+- verdade garantida pela utilidade;
+- critério soberano;
+- linguagem fundadora;
+- sistema validante;
+- erro psicológico;
+- erro moral;
+- correção como reajuste interno;
+- correção como técnica de preservação do sistema.
+
+### erro local
+
+O erro local nasce quando a proposição sobre verdade, erro, critério ou correção deixa de reconhecer a relação representação-real que os torna inteligíveis.
+
+As formas principais desse erro são:
+
+- autonomização da verdade;
+- autonomização do critério;
+- autonomização do erro;
+- autonomização da correção;
+- confusão entre dizer real e dito verdadeiro;
+- confusão entre coerência interna e adequação;
+- confusão entre consenso e validade;
+- confusão entre utilidade e verdade;
+- confusão entre autoridade e critério;
+- confusão entre ilusão, insuficiência epistémica, dano, erro moral e erro representacional;
+- antecipação da prática, da ética ou da normatividade.
+
+O erro não é aqui apenas risco lateral. É também objeto positivo do capítulo. Mas deve permanecer rigorosamente definido: desadequação da representação ao real sob critério válido.
+
+### reinscrição no real
+
+A correção local consiste em reconduzir o dizer ao que este capítulo pode legitimamente dizer:
+
+> uma representação mediada só vale como verdadeira se se adequar ao real sob critério submetido ao real; quando se desadequa, há erro; corrigir é reinscrever representação e ação na medida do real.
+
+A reinscrição não nega a verdade.  
+Não nega o erro.  
+Não nega o critério.  
+Não nega a correção.  
+Não nega a representação.  
+Não nega a linguagem.  
+Não nega a mediação.  
+
+Apenas põe cada camada no seu lugar.
+
+### entrega
+
+A entrega ao plano seguinte é precisa:
+
+> se a representação pode ser verdadeira ou errada, adequada ou desadequada, corrigida ou não corrigida, então a ação que dela nasce também terá de ser pensada sob a medida do real.
+
+O Capítulo 7 entrega a pergunta pela prática.
+
+Mas não entrega ainda uma teoria da ação.
+
+---
+
+## II. Controlo de integridade da versão
+
+### centro preservado
+
+Esta versão preserva o centro local do capítulo:
+
+> representação mediada → representação avaliável → adequação/desadequação → critério submetido ao real → verdade → erro → distinções internas do erro → correção → passagem prática posterior apenas preparada.
+
+### efeito do confronto incorporado
+
+O confronto confirmou que o Capítulo 7 já tinha o seu centro material estabilizado.
+
+Por isso, esta reescrita não acrescenta novo centro, nova arquitetura ou novo material tardio.
+
+A intervenção feita foi de disciplina expositiva e contenção:
+
+- tornar mais explícita a representação julgável como ser em causa;
+- distinguir dizer real e dito verdadeiro;
+- impedir abertura por verdade abstrata;
+- impedir abertura por erro abstrato;
+- impedir critério soberano;
+- impedir correção como técnica interna;
+- fixar adequação como relação representação-real;
+- fixar verdade como adequação sob critério submetido ao real;
+- fixar erro como desadequação ao real;
+- distinguir erro, ilusão, insuficiência epistémica, dano e erro moral;
+- reinscrever correção no real;
+- parar antes da prática.
+
+### efeito da Nota de Leitura incorporado
+
+A Nota de Leitura é incorporada com contenção.
+
+Por isso, esta versão:
+
+- explicita qual é o ser em causa no capítulo;
+- nomeia os modos errados de dizer esse ser;
+- identifica o erro local sem duplicar a Nota;
+- reinscreve o dizer no real;
+- entrega ao plano seguinte apenas a necessidade de pensar a prática sob representação julgada e corrigível.
+
+A Nota não altera o centro do capítulo.
+
+Mas, neste caso, obriga a especial prudência, porque o seu esquema toca diretamente o próprio objeto do Capítulo 7.
+
+### ganhos da versão
+
+A versão já consegue:
+
+- não abrir por verdade abstrata;
+- não abrir por erro abstrato;
+- não abrir por critério soberano;
+- não abrir por correção como técnica;
+- não regressar ao Capítulo 6 como teoria da linguagem;
+- não transformar coerência, consenso, autoridade ou utilidade em critério último;
+- distinguir realidade do dizer e verdade do dito;
+- formular adequação e desadequação com secura;
+- definir o erro como desadequação ao real sob critério válido;
+- integrar as distinções internas do erro sem transformar `P36_SP01` em subcapítulo autónomo;
+- formular correção como reinscrição;
+- preparar a prática sem a iniciar;
+- compatibilizar o capítulo com a Nota sem converter a Nota em conteúdo repetido.
+
+### pontos ainda frágeis
+
+Ainda podem exigir nova revisão futura:
+
+- a distinção entre erro representacional e erro moral;
+- a extensão exata da secção sobre falsos critérios;
+- o risco de a correção parecer já prática normativa;
+- o equilíbrio entre definição do erro e taxonomia do erro;
+- o uso de “critério” sem o fazer soar a tribunal;
+- a fronteira com Capítulo 6, para não reabrir linguagem e símbolo;
+- a fronteira posterior, para não abrir ação, dano e normatividade cedo demais;
+- o equilíbrio entre crítica local e centro positivo, para que o capítulo não pareça apenas uma lista de falsos critérios.
+
+### materiais e zonas que continuam fora
+
+Continuam fora desta versão:
+
+- linguagem como centro;
+- símbolo como centro;
+- sentido como fundamento;
+- mediação soberana;
+- consenso como critério;
+- autoridade como critério;
+- utilidade como verdade;
+- coerência interna como critério suficiente;
+- erro psicológico como centro;
+- erro moral como centro;
+- dano como centro;
+- ação como centro;
+- liberdade como centro;
+- dever-ser;
+- bem e mal;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- cultura;
+- instituição;
+- sistema;
+- direito;
+- crítica sistémica tardia.
+
+### fórmula final da versão
+
+> O Capítulo 7 fixa apenas isto: uma representação mediada só vale como verdadeira se se adequar ao real sob critério submetido ao próprio real; quando se desadequa, há erro; e corrigir é reinscrever representação e ação na medida do real.
+
+O capítulo deve terminar antes da ação, do dano e da normatividade como centros próprios.
+
+O que ficou ganho é o chão sem o qual o regime prático posterior não poderia abrir sem erro: a prática humana não deve nascer de representação não julgada, mas de representação submetida ao real, corrigível pelo real e reinscrita na medida do real.
+
+Só depois deste ganho se torna legítima a pergunta seguinte — não já pela verdade, pelo erro ou pelo critério, mas pelo modo como uma ação situada atualiza consequências reais a partir de representações mais ou menos adequadas ao real.
+
+### fórmula axial de leitura local
+
+> **ser no real:** representação mediada de um humano situado enquanto julgável pela sua adequação ou desadequação ao real;  
+> **dizer do ser:** proposição, descrição, teoria, linguagem ou sistema que pretende dizer o real;  
+> **erro da proposição não real:** confundir a realidade do dizer com a verdade do dito, ou substituir a adequação ao real por coerência interna, consenso, autoridade, utilidade, linguagem ou sistema;  
+> **reinscrição no real:** representação verdadeira como adequação ao real sob critério submetido ao real; erro como desadequação; correção como reinscrição da representação e da ação na medida do real.
+
+<a id="capitulo-cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional"></a>
+## CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional
+
+- Pasta: `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional`
+- Ficheiros incluídos: `2`
+
+### Índice interno da pasta
+
+- [00_estatuto_e_limites](#cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-00-estatuto-e-limites-md) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/00_estatuto_e_limites.md`
+- [01_estrutura_interna](#cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-01-estrutura-interna-md) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/01_estrutura_interna.md`
+
+<a id="cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-00-estatuto-e-limites-md"></a>
+### 00_estatuto_e_limites
+
+**Ficheiro de origem:** `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/00_estatuto_e_limites.md`
+
+# 00_estatuto_e_limites
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar o estatuto local do **Capítulo 8 — consciência reinscrita e fecho limítrofe do bloco mediacional** dentro da pasta de capítulos;
+- determinar o que este capítulo pode e não pode fazer no livro;
+- preservar a sua condição de **minicapítulo / fecho limítrofe**, e não de capítulo pleno;
+- reapertar, depois de linguagem, símbolo, representação, verdade, erro e correção, a consciência reflexiva enquanto consciência situada e submetida ao real;
+- impedir que a consciência, a representação, a linguagem, o símbolo ou o sentido se autonomizem como mundo próprio;
+- preparar a passagem para a torção prática sem abrir ainda ação, dano, liberdade, normatividade ou ética.
+
+### limite
+- este ficheiro não reabre `CF08`;
+- não reabre `CF04`, `CF06` ou `CF07`;
+- não reabre a arquitetura total da obra;
+- não transforma o `Capítulo 8` em capítulo pleno;
+- não autoriza redação corrida livre;
+- não autoriza teoria geral da consciência;
+- não autoriza teoria geral da linguagem;
+- não autoriza crítica sistémica desenvolvida;
+- não autoriza crítica da cultura, da instituição, da técnica ou do direito;
+- não autoriza ainda abertura do `Capítulo 9`;
+- não transforma `F0276`, `F0277` ou `F0278` em cabeças positivas do capítulo.
+
+### valor metodológico
+- vale como abertura local disciplinada e ultra-restrita do `Capítulo 8`;
+- vale como peça de fecho limítrofe do bloco mediacional-epistemológico;
+- vale como travão contra a vida no símbolo, a representação da representação e a consciência desligada do real;
+- vale como base para `01_estrutura_interna.md`, `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`;
+- não vale como libertação plena nem como autorização automática de `06_primeira_versao_controlada_de_escrita.md`.
+
+---
+
+## II. Estatuto local do capítulo
+
+### estado atual
+**aberto localmente como minicapítulo limítrofe, com restrições máximas**
+
+### estatuto próprio
+O `Capítulo 8` não é um novo centro positivo da obra.
+
+É uma peça de reaperto.
+
+A sua função é fechar a banda mediacional-epistemológica depois de:
+- `Capítulo 6` — representação, linguagem, símbolo e sentido;
+- `Capítulo 7` — verdade, erro, critério e correção.
+
+Mas esse fecho não é novo sistema.
+Não é nova epistemologia.
+Não é nova teoria da linguagem.
+Não é nova filosofia da consciência.
+
+É o ponto em que se recorda, de modo limítrofe, que:
+- a consciência continua reinscrita no real;
+- a representação continua medida pelo real;
+- o símbolo continua mediação e não mundo;
+- a linguagem continua dizer e não fundamento;
+- a verdade e a correção só valem enquanto reinscrição no real.
+
+### forma de uso
+O capítulo deve ser usado como:
+- fecho limítrofe do bloco mediacional;
+- reaperto da consciência reinscrita;
+- travão contra vida no símbolo;
+- travão contra representação autonomizada;
+- travão contra linguagem e símbolo como pseudo-real;
+- ponte negativa para a ação situada.
+
+Não deve ser usado como:
+- capítulo pleno de consciência;
+- capítulo pleno de subjetividade;
+- capítulo pleno de linguagem;
+- crítica cultural;
+- crítica sistémica;
+- teoria do discurso;
+- teoria da ideologia;
+- capítulo da ação;
+- capítulo da ética.
+
+---
+
+## III. Centro próprio do capítulo
+
+### centro
+O centro próprio do `Capítulo 8` é este:
+
+> **reapertar a consciência reflexiva, já mediada por representação, linguagem, símbolo, verdade, erro e correção, mostrando que ela continua situada no real e que se degrada quando passa a viver na representação simbólica do símbolo em vez de se reconduzir ao real.**
+
+### desdobramento mínimo do centro
+1. há real;
+2. não há exterioridade ao real;
+3. o humano é ente situado no real;
+4. a consciência não funda o real;
+5. a representação não substitui o real;
+6. a linguagem não cria o real;
+7. o símbolo não é mundo autónomo;
+8. a verdade e a correção só valem enquanto submissão ao real;
+9. quando a consciência vive na representação simbólica do símbolo, perde a relação disciplinada com o real;
+10. o fecho limítrofe consiste em reinscrever a consciência, a representação e o símbolo no real antes da passagem para a ação.
+
+### fórmula curta do centro
+O `Capítulo 8` trata da consciência reinscrita no real depois da mediação: não como origem soberana, mas como lugar limítrofe onde o símbolo pode ainda mediar o real ou começar a substituí-lo.
+
+---
+
+## IV. Falso centro dominante a bloquear
+
+### falso centro principal
+O falso centro dominante é:
+
+> **transformar o Capítulo 8 em teoria da consciência, crítica da linguagem ou crítica sistémica plena.**
+
+### formas típicas desse desvio
+- abrir por consciência em abstrato;
+- abrir por subjetividade;
+- abrir por experiência interna;
+- abrir por linguagem;
+- abrir por símbolo;
+- abrir por crítica cultural;
+- abrir por sistema simbólico;
+- abrir por fechamento simbólico como tema principal;
+- abrir por erro social;
+- abrir por crítica da ideologia;
+- abrir por ação, dano ou responsabilidade.
+
+### desvio interno mais perigoso
+O desvio interno mais perigoso é este:
+
+> **confundir fecho limítrofe com novo capítulo positivo.**
+
+O `Capítulo 8` não deve crescer por inércia depois do `Capítulo 7`.
+
+Ele existe apenas para fechar uma zona perigosa: a zona em que a consciência, já atravessada por símbolo, linguagem e verdade, pode esquecer que tudo isso continua a depender do real.
+
+### fórmula crítica curta
+> O `Capítulo 8` não abre uma nova soberania da consciência; fecha a possibilidade de a consciência se perder na representação simbólica da própria representação.
+
+---
+
+## V. Fronteira com o anterior
+
+### capítulo anterior imediato
+O anterior imediato é:
+
+**`Capítulo 7 — verdade, erro, critério e correção`**
+
+### o que o Capítulo 8 herda do Capítulo 7
+O `Capítulo 8` herda:
+- representação avaliável;
+- critério submetido ao real;
+- verdade como adequação;
+- erro como desadequação;
+- correção como reinscrição no real.
+
+### diferença decisiva face ao Capítulo 7
+No `Capítulo 7`, o centro era a representação mediada medida pelo real.
+
+No `Capítulo 8`, o centro não é continuar a epistemologia.
+
+O centro é perguntar:
+
+> depois de a representação ter sido medida pelo real, como impedir que a consciência volte a viver na mediação como se a mediação bastasse?
+
+### o que o Capítulo 8 não pode reabrir do anterior
+Não pode reabrir como centro:
+- verdade;
+- erro;
+- critério;
+- correção;
+- adequação;
+- desadequação;
+- teoria do erro;
+- teoria da correção.
+
+Esses elementos ficam pressupostos.
+
+### regra da fronteira anterior
+> O `Capítulo 7` mede a representação pelo real; o `Capítulo 8` reaperta a consciência para que ela não transforme essa representação medida num novo mundo simbólico autónomo.
+
+---
+
+## VI. Fronteira lateral com o Capítulo 6
+
+### capítulo lateral relevante
+O `Capítulo 6 — representação, linguagem, símbolo e sentido` permanece como fronteira lateral decisiva.
+
+### o que pode ser pressuposto
+Pode ser pressuposto:
+- representação;
+- linguagem;
+- símbolo;
+- sentido;
+- mediação;
+- comunicação;
+- partilha simbólica.
+
+### o que não pode comandar
+Não podem comandar:
+- linguagem como centro;
+- símbolo como mundo próprio;
+- sentido como fundamento;
+- mediação como sistema autónomo;
+- comunicação como critério.
+
+### regra
+> O `Capítulo 6` mostrou a função positiva da mediação; o `Capítulo 8` vigia o ponto em que a mediação deixa de mediar e começa a substituir.
+
+---
+
+## VII. Fronteira lateral com o Capítulo 4
+
+### capítulo lateral relevante
+O `Capítulo 4 — consciência, reflexividade e sujeito reinscritos` é a outra fronteira decisiva.
+
+### o que pode ser pressuposto
+Pode ser pressuposto:
+- humano situado;
+- localidade;
+- apreensão;
+- estabilização interna subordinada;
+- representação ulterior;
+- culminação em consciência, reflexividade e sujeito reinscritos.
+
+### o que não pode comandar
+Não podem comandar:
+- consciência em abstrato;
+- sujeito;
+- interioridade;
+- presença de si;
+- subjetividade;
+- autorrelação;
+- psicologia da consciência.
+
+### regra
+> O `Capítulo 4` constituiu a consciência reinscrita; o `Capítulo 8` reaperta essa consciência depois de ela ter atravessado símbolo, linguagem, verdade, erro e correção.
+
+---
+
+## VIII. Fronteira com o seguinte
+
+### capítulo seguinte
+O seguinte é:
+
+**`Capítulo 9 — ação e liberdade situada`**
+
+### o que o Capítulo 8 prepara legitimamente
+O `Capítulo 8` prepara:
+- passagem da representação corrigida para ação;
+- passagem da consciência reinscrita para agir situado;
+- passagem da mediação disciplinada para atualização prática;
+- vigilância contra agir a partir de símbolos desligados do real.
+
+### o que o Capítulo 8 não pode absorver do seguinte
+Não pode absorver:
+- ação como centro;
+- liberdade como centro;
+- dano real;
+- bem;
+- mal;
+- dever-ser;
+- responsabilidade;
+- normatividade;
+- dignidade;
+- vida boa.
+
+### regra da fronteira posterior
+> O `Capítulo 8` prepara a ação apenas negativamente: impede que a ação nasça de uma consciência fechada no símbolo; não desenvolve ainda a ação situada.
+
+---
+
+## IX. Fronteira com crítica sistémica
+
+### zona crítica posterior
+A crítica sistémica, cultural, institucional ou tecnológica pertence a zonas posteriores e reservadas.
+
+### o que o Capítulo 8 pode tocar
+Pode tocar apenas:
+- risco de fechamento simbólico;
+- risco de viver na representação da representação;
+- risco de critério interno;
+- risco de sistema simbólico autorreferencial.
+
+### o que não pode desenvolver
+Não pode desenvolver:
+- cultura;
+- instituição;
+- direito;
+- técnica;
+- tecnologia;
+- ideologia;
+- crítica social;
+- crítica política;
+- crítica da modernidade;
+- sistema como cristalização de mediações.
+
+### regra
+> O `Capítulo 8` identifica o risco limítrofe do símbolo; não desenvolve ainda a crítica tardia dos sistemas simbólicos.
+
+---
+
+## X. Uso máximo local agora admissível
+
+### formulação positiva máxima admissível
+A formulação positiva máxima atualmente admissível para o `Capítulo 8` é esta:
+
+> Depois de a representação, a linguagem, o símbolo, a verdade, o erro e a correção terem sido submetidos ao real, é necessário reapertar a consciência reflexiva: ela continua a ser consciência situada no real, e degrada-se sempre que passa a viver na representação simbólica do símbolo como se essa representação substituísse o real que deveria mediar.
+
+### sequência mínima autorizada
+A sequência mínima admissível é esta:
+
+1. `P23/P24` pressupostos — humano situado, localidade e apreensão;
+2. `P27/P28/P29` pressupostos — símbolo, linguagem e representação mediada;
+3. `P33/P34/P36/P37` pressupostos — critério, verdade, erro e correção sob submissão ao real;
+4. consciência reinscrita;
+5. risco de vida no símbolo;
+6. travão contra representação da representação;
+7. fecho limítrofe;
+8. entrega negativa ao `Capítulo 9`.
+
+### o que este uso máximo já permite
+Este uso máximo já permite:
+- abrir o capítulo como fecho limítrofe;
+- falar de consciência reinscrita sem reabrir teoria da consciência;
+- usar `F0276`, `F0277` e `F0278` como materiais de vigilância;
+- nomear a vida no símbolo como risco;
+- preparar a passagem para ação situada.
+
+### o que este uso máximo ainda não permite
+Este uso máximo ainda não permite:
+- redação corrida livre;
+- capítulo pleno;
+- teoria geral da consciência;
+- crítica desenvolvida da linguagem;
+- crítica sistémica;
+- crítica cultural;
+- abertura de ação;
+- abertura de normatividade;
+- abertura de responsabilidade ou dignidade.
+
+---
+
+## XI. O que fica dentro e o que fica fora
+
+### fica dentro
+- consciência reinscrita;
+- consciência situada;
+- representação já mediada;
+- símbolo já disciplinado;
+- linguagem já subordinada;
+- verdade e correção já pressupostas;
+- vida no símbolo como risco;
+- representação da representação como desvio;
+- crítica limítrofe contra interioridade soberana;
+- crítica limítrofe contra símbolo autonomizado;
+- travão contra fechamento simbólico precoce;
+- preparação negativa da ação situada.
+
+### fica fora
+- consciência como substância;
+- sujeito como centro;
+- interioridade soberana;
+- psicologia da consciência;
+- fenomenologia da experiência interna;
+- linguagem como mundo;
+- símbolo como sistema autónomo;
+- sentido como fundamento;
+- verdade como tribunal;
+- erro como taxonomia;
+- correção como ética;
+- ação como centro;
+- dano;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- cultura;
+- instituição;
+- direito;
+- técnica;
+- sistema;
+- crítica sistémica desenvolvida.
+
+---
+
+## XII. Travões locais obrigatórios
+
+### travão 1 — minicapítulo
+O `Capítulo 8` deve permanecer minicapítulo / fecho limítrofe.
+
+Não pode crescer como capítulo pleno.
+
+### travão 2 — anti-consciência soberana
+A consciência não abre como substância, origem ou tribunal.
+
+Entra apenas como consciência reinscrita depois da mediação.
+
+### travão 3 — anti-linguagem soberana
+A linguagem não volta a comandar.
+
+Já foi tratada no `Capítulo 6`.
+
+### travão 4 — anti-epistemologia repetida
+Verdade, erro, critério e correção não voltam a comandar.
+
+Já foram tratados no `Capítulo 7`.
+
+### travão 5 — anti-vida-no-símbolo
+A consciência não pode viver legitimamente na representação simbólica do símbolo.
+
+O símbolo medeia ou substitui.
+Se substitui, degenera.
+
+### travão 6 — anti-fechamento simbólico precoce
+O capítulo pode assinalar o risco de fechamento simbólico.
+
+Não pode desenvolver crítica sistémica.
+
+### travão 7 — anti-ação prematura
+A passagem para ação é apenas preparada.
+
+A ação não entra como corpo.
+
+### travão 8 — anti-moralização
+A crítica da vida no símbolo não pode virar lição moral, dever-ser, responsabilidade ou dignidade.
+
+### travão 9 — anti-cultura
+Cultura, instituição, sistema e técnica ficam fora.
+
+### travão 10 — submissão ao real
+Tudo o que entra deve ser reconduzido ao real:
+- consciência;
+- pensamento;
+- fala;
+- representação;
+- símbolo;
+- correção;
+- futura ação.
+
+---
+
+## XIII. Estatuto dos materiais `F0276–F0278`
+
+### `F0276`
+Pode entrar como apoio limítrofe.
+
+Função admissível:
+- mostrar pensamento, fala e estruturas representacionais como acontecimentos situados;
+- mostrar que a fluidez simbólica só é inteligível por correspondência com o real e com um modo de ser situado;
+- impedir que pensamento e fala pareçam operações interiores soberanas.
+
+Limite:
+- não pode abrir teoria do pensamento;
+- não pode abrir teoria da fala;
+- não pode reabrir `Capítulo 4`;
+- não pode transformar o `Capítulo 8` em capítulo da representação.
+
+### `F0277`
+Pode entrar como apoio crítico principal.
+
+Função admissível:
+- bloquear subjetivismo interiorista;
+- bloquear experiência interna abstrata;
+- bloquear vida na representação simbólica do símbolo;
+- mostrar que escrever mal ou simbolizar mal é perder o real que o símbolo deveria representar.
+
+Limite:
+- não pode transformar o capítulo em crítica cultural;
+- não pode abrir crítica sistémica plena;
+- não pode tornar a denúncia do símbolo o centro positivo do capítulo.
+
+### `F0278`
+Pode entrar como apoio limítrofe de reinscrição.
+
+Função admissível:
+- mostrar que consciência exige sensor, deteção, estrutura e relação;
+- bloquear consciência sem corpo relacional;
+- bloquear consciência sem real;
+- apoiar a fronteira entre consciência reinscrita e consciência abstrata.
+
+Limite:
+- não pode regressar ao `Capítulo 3`;
+- não pode reabrir o corpo como centro;
+- não pode transformar o capítulo em teoria da deteção ou da perceção.
+
+### regra comum de uso
+`F0276–F0278` podem vigiar o capítulo.
+
+Não podem comandá-lo.
+
+---
+
+## XIV. Estatuto lateral de CF17 e CF18
+
+### CF17
+`CF17` permanece apenas como fronteira arquitetónica lateral.
+
+Pode funcionar como:
+- travão de ordem;
+- vigilância contra inflação do minicapítulo;
+- bloqueio contra transformar fecho limítrofe em novo centro da obra.
+
+Não pode:
+- abrir o capítulo;
+- transformar o capítulo em teoria da ordem dos problemas;
+- fornecer conteúdo positivo.
+
+### CF18
+`CF18` permanece apenas como instrumento lateral de reconhecimento disciplinado.
+
+Pode funcionar como:
+- reconhecimento do objeto;
+- reconhecimento do nível;
+- reconhecimento da operação;
+- reconhecimento do desvio.
+
+Não pode:
+- decidir o centro do capítulo;
+- transformar a peça em taxonomia;
+- substituir o juízo local.
+
+---
+
+## XV. Fórmula estrutural curta
+
+> **humano situado pressuposto → mediação simbólico-linguística pressuposta → verdade/erro/correção pressupostos → consciência reinscrita → risco de vida no símbolo → fecho limítrofe → passagem negativa para ação situada**
+
+---
+
+## XVI. Fórmula final curta
+
+> O `Capítulo 8` só pode dizer isto: depois da mediação e da verdade, a consciência tem de ser reapertada no real, porque a representação, a linguagem e o símbolo deixam de cumprir a sua função quando a consciência passa a viver na representação simbólica do símbolo em vez de se reconduzir ao real que deveria mediar.
+
+<a id="cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-01-estrutura-interna-md"></a>
+### 01_estrutura_interna
+
+**Ficheiro de origem:** `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/01_estrutura_interna.md`
+
+# 01_estrutura_interna
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a estrutura interna mínima do **Capítulo 8 — consciência reinscrita e fecho limítrofe do bloco mediacional**;
+- preservar o estatuto do capítulo como **minicapítulo / fecho limítrofe**, e não como capítulo pleno;
+- ordenar internamente o reaperto da consciência depois de representação, linguagem, símbolo, verdade, erro e correção;
+- preparar o povoamento local por materiais positivos, críticos e limítrofes;
+- impedir fusões indevidas com o `Capítulo 4`, o `Capítulo 6`, o `Capítulo 7`, o `Capítulo 9` e a crítica sistémica tardia.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não transforma o `Capítulo 8` em teoria da consciência;
+- não transforma o capítulo em teoria da linguagem;
+- não transforma o capítulo em crítica sistémica plena;
+- não reabre `Capítulo 4`, `Capítulo 6` ou `Capítulo 7`;
+- não autoriza ainda redação corrida livre;
+- não abre ainda ação, liberdade, dano, responsabilidade, normatividade, dignidade ou vida boa;
+- não transforma `F0276`, `F0277` ou `F0278` em centros positivos.
+
+### valor metodológico
+- vale como planta local ultra-restrita do `Capítulo 8`;
+- vale como ordem mínima do seu futuro povoamento;
+- vale como travão contra inflação de consciência, símbolo, linguagem, sistema ou ação;
+- vale como base para `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+---
+
+## II. Forma geral do capítulo
+
+### estatuto formal
+O `Capítulo 8` deve funcionar como **fecho limítrofe** do bloco mediacional-epistemológico.
+
+Não é capítulo pleno.
+Não é novo bloco positivo.
+Não é nova teoria da consciência.
+Não é crítica desenvolvida do sistema.
+
+É a peça que reaperta a consciência depois de ela ter atravessado:
+- representação;
+- símbolo;
+- linguagem;
+- sentido;
+- verdade;
+- erro;
+- critério;
+- correção.
+
+### extensão relativa
+O capítulo deve ser mais curto do que os capítulos 6 e 7.
+
+Deve ter corpo suficiente para:
+- reapertar a consciência no real;
+- nomear o risco de vida no símbolo;
+- distinguir mediação legítima de substituição simbólica;
+- preparar negativamente a ação situada.
+
+Mas deve parar antes de:
+- cultura;
+- sistema;
+- instituição;
+- técnica;
+- direito;
+- ação;
+- liberdade;
+- dano;
+- normatividade;
+- responsabilidade;
+- dignidade;
+- vida boa.
+
+### regra de composição
+A composição interna do capítulo deve obedecer a esta regra:
+
+> **partir do bloco mediacional e epistemológico já ganho; reapertar a consciência como situada; identificar o risco de viver na representação simbólica do símbolo; impedir que o símbolo substitua o real; e entregar negativamente ao capítulo da ação situada.**
+
+---
+
+## III. Partes internas obrigatórias
+
+## Parte A — Chão pressuposto: humano situado, mediação e correção já ganhas
+
+### função local
+Relembrar o chão mínimo sem reabrir capítulos anteriores.
+
+### conteúdo mínimo
+1. há real;
+2. o humano é ente situado no real;
+3. a apreensão precede a representação;
+4. a memória tornou o apreendido retomável;
+5. a representação, a linguagem e o símbolo já foram tratados;
+6. a verdade, o erro e a correção já foram submetidos ao real;
+7. o `Capítulo 8` só entra depois desta cadeia.
+
+### subparte A1 — humano situado pressuposto
+- o humano não volta a entrar como sujeito soberano;
+- a consciência não aparece como cabeça inicial;
+- o ponto de partida continua a ser o ente situado no real.
+
+### subparte A2 — mediação pressuposta
+- símbolo, linguagem e representação ficam pressupostos;
+- não são reabertos como corpo próprio;
+- entram apenas como aquilo que agora tem de ser vigiado.
+
+### subparte A3 — correção pressuposta
+- verdade, erro, critério e correção ficam pressupostos;
+- não são reescritos;
+- entram apenas como condição para o reaperto limítrofe.
+
+### travão interno
+Esta parte deve ser curta.
+
+A sua função é dar chão ao reaperto, não repetir os capítulos 6 e 7.
+
+---
+
+## Parte B — Consciência reinscrita depois da mediação
+
+### função local
+Fixar o centro positivo mínimo do capítulo: a consciência só pode aparecer como consciência reinscrita no real depois da mediação.
+
+### conteúdo mínimo
+1. a consciência não funda o real;
+2. a consciência não existe fora do real;
+3. a consciência não é tribunal exterior;
+4. a consciência atravessa representação, símbolo e linguagem;
+5. por isso, pode perder-se neles;
+6. o capítulo reaperta a consciência contra essa perda.
+
+### subparte B1 — consciência não soberana
+- a consciência não é origem do mundo;
+- não é origem da linguagem;
+- não é origem da verdade;
+- não é centro absoluto de si.
+
+### subparte B2 — consciência mediada
+- a consciência reflexiva opera através de representação;
+- fala, pensa e simboliza;
+- mas a mediação não a liberta do real;
+- pelo contrário, aumenta a necessidade de reinscrição.
+
+### subparte B3 — consciência como ponto limítrofe
+- a consciência pode reconhecer o real através da mediação;
+- ou pode viver na mediação como se ela fosse real;
+- o capítulo existe para vigiar esta fronteira.
+
+### travão interno
+Não transformar esta parte em teoria geral da consciência.
+
+O capítulo não pergunta “o que é a consciência?”.
+Pergunta como impedir que a consciência mediada se desligue do real.
+
+---
+
+## Parte C — Pensamento, fala e representação como acontecimentos situados
+
+### função local
+Usar, com contenção, a intuição de que pensamento, fala, símbolo e representação são acontecimentos reais situados, não operações exteriores.
+
+### conteúdo mínimo
+1. o pensamento acontece no ato de pensar;
+2. a fala acontece no ato de falar;
+3. pensamento e fala não vêm de um fora do real;
+4. estruturas representacionais e simbólicas operam porque têm correspondência real;
+5. a fluidez da fala não prova soberania interior;
+6. prova antes a inscrição situada de estruturas já estabilizadas.
+
+### subparte C1 — pensamento em ato
+- pensar não é necessariamente escolher soberanamente um pensamento;
+- há encadeamento situado;
+- o pensamento acontece como modo de ser em situação.
+
+### subparte C2 — fala em ato
+- a fala fluida não exige uma consciência exterior a controlar cada palavra;
+- mostra que a estrutura simbólica pode operar situada e incorporadamente;
+- isto não autoriza autonomia da linguagem.
+
+### subparte C3 — correspondência com o real
+- estruturas representacionais e simbólicas só funcionam porque se estabilizaram em relação com o real;
+- quando perdem essa relação, deixam de mediar;
+- tornam-se ruído simbólico ou substituição.
+
+### travão interno
+Esta parte não pode abrir teoria do pensamento, da fala ou da linguagem.
+
+Serve apenas para mostrar que pensamento e fala também precisam de reinscrição no real.
+
+---
+
+## Parte D — Vida na representação simbólica do símbolo
+
+### função local
+Nomear o risco crítico principal do capítulo.
+
+### conteúdo mínimo
+1. a representação pode representar o real;
+2. mas pode também representar apenas outra representação;
+3. o símbolo pode mediar o real;
+4. mas pode também circular sem saber o que simboliza;
+5. a consciência pode viver nessa circulação;
+6. isso é vida no símbolo desligado do real.
+
+### subparte D1 — representação da representação
+- a consciência pode deixar de lidar com o real;
+- pode passar a lidar apenas com imagens, nomes, categorias e símbolos;
+- nesse caso, já não mede a representação pelo real;
+- mede-a por outra representação.
+
+### subparte D2 — símbolo sem representado
+- o símbolo pode continuar a circular depois de perdida a relação com aquilo que simbolizava;
+- pode parecer inteligível;
+- pode parecer culturalmente reconhecido;
+- pode parecer filosoficamente sofisticado;
+- mas já não reconduz ao real.
+
+### subparte D3 — escrever mal como perder o real
+- escrever mal não é apenas escrever de modo feio;
+- é dizer de modo que a linguagem substitui o objeto;
+- é usar símbolos sem saber o que representam;
+- é deixar a mediação ocupar o lugar da relação.
+
+### travão interno
+Esta parte é crítica, mas não pode virar crítica cultural ou crítica sistémica plena.
+
+O foco é local:
+
+> impedir que a consciência viva na representação simbólica do símbolo.
+
+---
+
+## Parte E — Sensor, deteção, estrutura e real
+
+### função local
+Reinscrever a consciência na relação efetiva com o real, bloqueando consciência abstrata, interioridade pura e experiência subjetiva solta.
+
+### conteúdo mínimo
+1. sem relação ao real, não há consciência em sentido relevante;
+2. sem deteção, não há apreensão;
+3. sem sensor, corpo ou estrutura relacional, a consciência fica abstrata;
+4. a consciência depende de modos reais de relação;
+5. logo, não pode ser pensada como interioridade sem mundo.
+
+### subparte E1 — consciência e deteção
+- a consciência não é pura luz interna;
+- exige relação, deteção, afetação, diferença;
+- não se constitui como ponto isolado.
+
+### subparte E2 — consciência e corpo relacional
+- não se deve regressar ao corpo como centro;
+- mas também não se pode expulsar a consciência das condições reais da sua ocorrência;
+- o corpo, o sensor e a deteção funcionam como travões contra abstração.
+
+### subparte E3 — consciência e estrutura
+- a consciência só é inteligível em estrutura;
+- onde não há relação, limite, deteção ou diferença, não há consciência situada;
+- a consciência reinscrita é consciência estruturada no real.
+
+### travão interno
+Esta parte não pode reabrir o `Capítulo 3`.
+
+O corpo e a deteção entram apenas como travão contra consciência abstrata.
+
+---
+
+## Parte F — Mediação legítima e substituição simbólica
+
+### função local
+Formular o núcleo limítrofe do capítulo: a diferença entre mediação que reconduz ao real e mediação que substitui o real.
+
+### conteúdo mínimo
+1. mediação legítima reconduz ao real;
+2. substituição simbólica fecha-se sobre si;
+3. a linguagem pode mediar ou substituir;
+4. o símbolo pode mediar ou substituir;
+5. a representação pode mediar ou substituir;
+6. a consciência deve reconhecer esta diferença.
+
+### subparte F1 — mediação legítima
+- o símbolo ajuda a retomar o apreendido;
+- a linguagem ajuda a dizer o apreendido;
+- a representação ajuda a organizar o apreendido;
+- a verdade mede essa representação pelo real;
+- a correção reconduz a representação ao real.
+
+### subparte F2 — substituição simbólica
+- a mediação substitui quando já não reconduz;
+- quando se mede por coerência interna;
+- quando se valida por circulação;
+- quando se protege por autoridade;
+- quando se fecha em sistema;
+- quando já não aceita a resistência do real.
+
+### subparte F3 — consciência perante a substituição
+- a consciência mediada deve poder reconhecer quando a mediação deixou de mediar;
+- esta é a sua tarefa limítrofe antes da ação;
+- agir a partir de substituição simbólica é abrir o erro prático.
+
+### travão interno
+Não desenvolver ainda crítica sistémica.
+
+Esta parte apenas fixa a diferença local entre mediação e substituição.
+
+---
+
+## Parte G — Fecho limítrofe do bloco mediacional
+
+### função local
+Fechar o bloco mediacional-epistemológico sem criar novo capítulo positivo.
+
+### conteúdo mínimo
+1. a consciência foi reinscrita;
+2. a mediação foi vigiada;
+3. a vida no símbolo foi bloqueada;
+4. a representação da representação foi identificada como risco;
+5. a ação ainda não foi aberta;
+6. o capítulo termina como fecho e ponte negativa.
+
+### subparte G1 — o que fica fechado
+- consciência soberana;
+- linguagem soberana;
+- símbolo autónomo;
+- representação sem real;
+- verdade sem correção;
+- correção sem reinscrição.
+
+### subparte G2 — o que fica apenas preparado
+- ação situada;
+- liberdade situada;
+- dano real;
+- responsabilidade;
+- normatividade derivada;
+- vida boa.
+
+### subparte G3 — paragem obrigatória
+- o capítulo deve terminar antes de transformar a crítica da vida no símbolo em programa prático;
+- deve apenas dizer que a ação não pode nascer de consciência simbolicamente fechada.
+
+### travão interno
+O fecho não pode ser expansão.
+
+Este capítulo deve terminar precisamente quando a tentação de continuar cresce.
+
+---
+
+## Parte H — Entrega negativa ao Capítulo 9
+
+### função local
+Preparar a passagem para ação e liberdade situada sem abrir ainda esse regime.
+
+### conteúdo mínimo
+1. a consciência não deve agir a partir de símbolo desligado do real;
+2. a representação corrigida prepara ação;
+3. a mediação disciplinada prepara atualização prática;
+4. mas a ação tem centro próprio;
+5. a liberdade tem centro próprio;
+6. o dano e a responsabilidade têm centro próprio.
+
+### formulação de passagem
+> Quando a consciência, já reapertada no real, passa da representação corrigida para a atualização efetiva, deixa de estar em causa apenas mediação; começa o problema da ação situada.
+
+### travão interno
+A entrega ao `Capítulo 9` deve ser negativa e preparatória.
+
+Não deve desenvolver a ação.
+
+---
+
+## IV. Ordem interna mínima obrigatória
+
+A ordem mínima do `Capítulo 8` deve ser esta:
+
+1. **chão pressuposto** — humano situado, mediação simbólico-linguística e verdade/correção já tratadas;
+2. **consciência reinscrita** — consciência depois da mediação, sem soberania;
+3. **pensamento, fala e representação como acontecimentos situados**;
+4. **vida na representação simbólica do símbolo**;
+5. **sensor, deteção, estrutura e real como travões à consciência abstrata**;
+6. **mediação legítima versus substituição simbólica**;
+7. **fecho limítrofe do bloco mediacional**;
+8. **entrega negativa ao `Capítulo 9`**.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente proibido:
+- abrir por consciência em abstrato;
+- abrir por linguagem;
+- abrir por símbolo;
+- abrir por sistema;
+- abrir por crítica cultural;
+- abrir por ação;
+- abrir por dano;
+- abrir por normatividade;
+- abrir por responsabilidade;
+- abrir por vida boa.
+
+---
+
+## V. Minicapítulos internos provisórios
+
+Para efeitos de povoamento e futura redação, o `Capítulo 8` passa a trabalhar com estes minicapítulos provisórios:
+
+### M1 — Chão pressuposto do bloco mediacional-epistemológico
+Função: recordar, em poucas linhas, que mediação, verdade e correção já foram tratadas.
+
+### M2 — Consciência reinscrita depois da mediação
+Função: reapertar a consciência como situada, não soberana e não exterior ao real.
+
+### M3 — Pensamento e fala como acontecimentos reais
+Função: usar o material de pensamento/fala apenas para mostrar correspondência situada com o real.
+
+### M4 — Vida na representação simbólica do símbolo
+Função: nomear o risco central: viver no símbolo sem saber o que o símbolo representa.
+
+### M5 — Deteção, sensor e estrutura
+Função: bloquear consciência abstrata através da reinscrição em relação, deteção e real.
+
+### M6 — Mediação ou substituição
+Função: distinguir mediação legítima de substituição simbólica do real.
+
+### M7 — Fecho limítrofe
+Função: encerrar o bloco mediacional sem abrir crítica sistémica.
+
+### M8 — Passagem negativa para ação situada
+Função: preparar o `Capítulo 9` sem o escrever.
+
+### nota de prudência
+`M3`, `M4` e `M6` são os minicapítulos mais perigosos.
+
+- `M3` pode virar teoria do pensamento e da fala;
+- `M4` pode virar crítica cultural ou sistémica;
+- `M6` pode virar crítica geral da linguagem.
+
+Devem ser curtos, subordinados e limítrofes.
+
+---
+
+## VI. Fronteiras de não-fusão
+
+### não fundir com o Capítulo 4
+O `Capítulo 8` não deve regressar a:
+- constituição da consciência;
+- sujeito;
+- reflexividade;
+- presença de si;
+- interioridade;
+- psicologia da consciência.
+
+A fronteira é esta:
+
+> no `Capítulo 4`, a consciência é constituída como reinscrita; no `Capítulo 8`, essa consciência é reapertada depois de atravessar símbolo, linguagem, verdade e correção.
+
+### não fundir com o Capítulo 6
+O `Capítulo 8` não deve reabrir:
+- linguagem;
+- símbolo;
+- representação;
+- mediação;
+- sentido;
+- comunicação.
+
+A fronteira é esta:
+
+> no `Capítulo 6`, a mediação é constituída positivamente; no `Capítulo 8`, vigia-se o ponto em que a mediação deixa de mediar.
+
+### não fundir com o Capítulo 7
+O `Capítulo 8` não deve reabrir:
+- verdade;
+- erro;
+- critério;
+- correção;
+- adequação;
+- desadequação.
+
+A fronteira é esta:
+
+> no `Capítulo 7`, a representação é medida pelo real; no `Capítulo 8`, a consciência é reapertada para não transformar a representação medida num mundo simbólico autónomo.
+
+### não fundir com o Capítulo 9
+O `Capítulo 8` não deve abrir:
+- ação;
+- liberdade;
+- atualização prática;
+- dano;
+- responsabilidade.
+
+A fronteira é esta:
+
+> o `Capítulo 8` prepara a ação apenas negativamente: impede que ela nasça de uma consciência fechada no símbolo.
+
+### não fundir com crítica sistémica tardia
+O `Capítulo 8` não deve desenvolver:
+- cultura;
+- instituição;
+- técnica;
+- direito;
+- sistema;
+- ideologia;
+- fechamento simbólico como estrutura social.
+
+A fronteira é esta:
+
+> aqui o fechamento simbólico é risco limítrofe; só mais tarde será crítica sistémica desenvolvida.
+
+---
+
+## VII. Travões locais de crescimento
+
+### travão 1 — anti-capítulo pleno
+O `Capítulo 8` deve permanecer minicapítulo.
+
+### travão 2 — anti-consciência soberana
+A consciência não pode voltar a ser origem, substância ou tribunal.
+
+### travão 3 — anti-linguagem soberana
+A linguagem não pode regressar como centro.
+
+### travão 4 — anti-símbolo autónomo
+O símbolo só entra como risco de substituição, não como mundo próprio.
+
+### travão 5 — anti-representação da representação
+A representação não pode passar a medir-se por outra representação.
+
+### travão 6 — anti-crítica cultural
+A vida no símbolo não pode virar crítica da cultura.
+
+### travão 7 — anti-sistema
+Fechamento simbólico não pode virar sistema, instituição, técnica ou direito.
+
+### travão 8 — anti-ação prematura
+A ação é apenas preparada negativamente.
+
+### travão 9 — anti-moralização
+A crítica da vida no símbolo não é lição moral.
+
+### travão 10 — submissão ao real
+Tudo o que entrar deve ser reconduzido ao real:
+- consciência;
+- pensamento;
+- fala;
+- símbolo;
+- linguagem;
+- representação;
+- verdade;
+- correção;
+- futura ação.
+
+---
+
+## VIII. Estatuto local dos materiais `F0276–F0278`
+
+### `F0276` — pensamento, fala e correspondência
+Uso estrutural:
+- apoio a `M3`;
+- mostra pensamento e fala como acontecimentos situados;
+- ajuda a ligar estruturas representacionais e simbólicas à correspondência real.
+
+Uso proibido:
+- teoria do pensamento;
+- teoria da fala;
+- reabertura do `Capítulo 4`;
+- reabertura do `Capítulo 6`.
+
+### `F0277` — vida no símbolo
+Uso estrutural:
+- apoio principal a `M4`;
+- formula o risco de viver na representação simbólica do símbolo;
+- bloqueia subjetivismo interiorista e simbolização sem representado.
+
+Uso proibido:
+- crítica cultural;
+- crítica sistémica;
+- denúncia autónoma da linguagem;
+- moralização do símbolo.
+
+### `F0278` — sensor, deteção e consciência
+Uso estrutural:
+- apoio a `M5`;
+- reinscreve consciência em sensor, deteção, relação e estrutura;
+- bloqueia consciência abstrata.
+
+Uso proibido:
+- regressão ao `Capítulo 3`;
+- teoria do corpo;
+- teoria da perceção;
+- reabertura plena da consciência.
+
+### regra comum
+`F0276–F0278` servem para vigiar a fronteira.
+
+Não servem para comandar o capítulo.
+
+---
+
+## IX. Fórmula estrutural curta
+
+> **mediação e correção pressupostas → consciência reinscrita → pensamento/fala situados → risco de vida no símbolo → mediação versus substituição → fecho limítrofe → passagem negativa para ação situada**
+
+---
+
+## X. Fórmula final curta
+
+> O `Capítulo 8` deve reapertar a consciência depois da mediação: mostrar que pensar, falar, representar e simbolizar só são legítimos enquanto continuam reconduzidos ao real, e que a consciência se perde quando passa a viver na representação simbólica do símbolo em vez de deixar o símbolo mediar aquilo que é.
+
+<a id="capitulo-nota-leitura"></a>
+## Nota_Leitura
+
+- Pasta: `Nota_Leitura`
+- Ficheiros incluídos: `1`
+
+### Índice interno da pasta
+
+- [NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO](#nota-leitura-nota-de-leitura-dos-capitulos-ser-dizer-erro-reinscricao-md) — `Nota_Leitura/NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO.md`
+
+<a id="nota-leitura-nota-de-leitura-dos-capitulos-ser-dizer-erro-reinscricao-md"></a>
+### NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO
+
+**Ficheiro de origem:** `Nota_Leitura/NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO.md`
+
+# NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO
+
+## I. Estatuto da nota
+
+### função
+
+Esta nota fixa uma chave de leitura transversal dos capítulos.
+
+A sua função não é acrescentar um novo capítulo, nem substituir o prólogo, nem transformar a grelha de reconhecimento em texto para o leitor. A sua função é mais precisa: tornar legível, para quem entra na obra, a disciplina recorrente que governa cada capítulo.
+
+Essa disciplina pode ser dita assim:
+
+> em cada capítulo, primeiro pergunta-se pelo ser em causa no real; depois observa-se como esse ser é dito, representado ou estabilizado; depois identifica-se o erro que surge quando essa proposição se separa do real; por fim, reconduz-se o dizer ao ser que pretendia dizer.
+
+A nota serve, portanto, para ensinar o leitor a atravessar a obra sem a confundir com sistema fechado, manual moral, crítica cultural, exposição académica ou mera sequência de temas.
+
+### lugar na obra
+
+Esta nota deve ser colocada depois do **Prólogo — submissão ao real** e antes do **Capítulo 1 — Ser, real e unidade diferenciada**.
+
+Não deve vir antes do prólogo, porque pressupõe o chão que o prólogo fixa: real, não-exterioridade, inserção humana situada, apreensão, representação, adequação, verdade, erro e correção sob submissão ao real.
+
+Também não deve ser absorvida pela grelha de reconhecimento, porque a grelha é instrumento de leitura disciplinada do projeto, enquanto esta nota é peça de orientação expositiva para o leitor.
+
+### limite
+
+Esta nota não:
+
+- reabre nenhum `CF`;
+- reordena a arquitetura dos capítulos;
+- substitui o prólogo soberano;
+- substitui a grelha mínima de reconhecimento;
+- transforma o livro em método;
+- transforma a crítica em cabeça da obra;
+- cria uma teoria geral do erro;
+- antecipa o capítulo da verdade, do critério ou da correção;
+- faz da ciência a medida de todos os discursos;
+- faz da religião, da política, da moral ou da cultura exceções à verdade;
+- moraliza o leitor;
+- converte a obra em manual de conduta.
+
+### valor metodológico
+
+Esta nota vale como peça lateral de transmissão expositiva.
+
+O seu valor é tornar a arquitetura legível sem alterar a sua ordem interna. Ela não muda o conteúdo; muda a forma como o leitor é preparado para o reconhecer.
+
+---
+
+## II. O que esta nota pressupõe
+
+### real
+
+A obra pressupõe que há real.
+
+Não se abre por consciência, linguagem, sistema, valor, cultura, instituição, religião, política ou ciência. Todas essas camadas só são inteligíveis porque já há real: algo existe, se determina, resiste, aparece, pode ser apreendido, pode ser dito e pode ser mal dito.
+
+### não-exterioridade
+
+Não há exterioridade ao real.
+
+Nenhum sujeito, discurso, sistema, método, comunidade, tradição, crença ou ciência fala a partir de fora do real. Mesmo a negação do real, a dúvida sobre o real ou a tentativa de provar o real já ocorrem no real.
+
+### humano situado
+
+O humano entra como ser situado no real.
+
+Não é origem soberana do campo, nem medida absoluta do que é. É um ente localizado, afetável, limitado, corporal, reflexivo e operante. Pode apreender, representar, dizer e corrigir, mas sempre a partir de localidade.
+
+### apreensão e representação
+
+A apreensão precede a representação.
+
+Primeiro há contacto situado com o real; depois há fixação, imagem, linguagem, conceito, proposição, teoria, símbolo, instituição ou sistema. A representação torna operável o apreendido, mas também introduz a possibilidade de desvio.
+
+### verdade, erro e correção
+
+A verdade torna-se inteligível quando uma representação ou descrição se mostra adequada ao real sob critério submetido ao próprio real.
+
+O erro torna-se possível porque a representação não coincide automaticamente com o real. O dizer é real enquanto ato, mas o dito não é verdadeiro só por ter sido dito.
+
+A correção não é simples substituição de uma formulação por outra. Corrigir é reinscrever a representação, o juízo ou a prática no real que lhes resiste.
+
+---
+
+## III. Tese central da nota
+
+A tese desta nota é a seguinte:
+
+> o erro não é um acidente exterior ao pensamento; nasce da própria condição reflexiva do ser humano.
+
+O eu está no real, mas não é o real inteiro. Apreende localmente, representa, estabiliza, fala, julga e age. Por isso, pode adequar-se ao real, mas também pode substituir o real por aquilo que diz do real.
+
+Saber não é tornar-se a coisa sabida. Saber é estabelecer uma relação adequada com aquilo que é.
+
+O ser que sabe continua situado, limitado e diferente do real que apreende. Não há fusão entre sujeito e real. Há relação, aproximação, correção e reinscrição.
+
+Por isso, o filósofo não é aquele que sai da condição humana situada. É aquele que tenta levar essa condição ao maior grau possível de adequação ao real.
+
+---
+
+## IV. A estrutura recorrente dos capítulos
+
+Cada capítulo deve ser lido por quatro movimentos.
+
+---
+
+### 1. O ser em causa
+
+A primeira pergunta de cada capítulo é:
+
+> o que está aqui realmente em causa no real?
+
+Não se começa pelo tema alto. Não basta dizer: linguagem, consciência, religião, política, ética, ciência, cultura, direito, verdade, erro ou dignidade.
+
+A pergunta é mais baixa:
+
+- que determinação real está em causa?
+- que relação está a ser descrita?
+- que limite está a operar?
+- que mediação aparece?
+- que modo de ser se manifesta?
+- que atualização ou resistência do real obriga a pensar?
+
+O capítulo só pode abrir legitimamente quando identifica o ser em causa, e não apenas o nome pelo qual esse ser costuma circular.
+
+---
+
+### 2. O que se diz que é
+
+Depois pergunta-se:
+
+> como é que esse ser é dito, representado, nomeado ou estabilizado?
+
+Aqui entra a proposição.
+
+Uma proposição é sempre uma forma de dizer algo. Pode dizer melhor ou pior. Pode reconhecer o ser no real, ou pode substituí-lo por uma imagem, tradição, teoria, moral, crença, sistema, instituição, ideologia ou linguagem de prestígio.
+
+Este segundo movimento mostra que o problema filosófico não está apenas no ser, mas também no modo como o ser é dito.
+
+Há sempre distância entre:
+
+- o ser em causa;
+- a apreensão desse ser;
+- a representação desse ser;
+- a proposição que tenta dizê-lo;
+- e o sistema onde essa proposição passa a circular.
+
+É nessa distância que a verdade pode ser procurada, mas também é aí que o erro se instala.
+
+---
+
+### 3. O erro da proposição não real
+
+O terceiro movimento pergunta:
+
+> onde é que a proposição deixou de reconhecer o ser no real?
+
+O erro não começa apenas quando alguém diz algo factualmente errado. Há uma forma mais funda de erro: a proposição deixa de pôr o ser no real e passa a inventar um substituto do ser.
+
+Isto acontece quando:
+
+- a representação se toma por origem;
+- a linguagem se toma por fundamento;
+- o sistema se toma por real;
+- a moral se toma por estrutura autónoma;
+- a ciência se toma por única forma legítima de verdade;
+- a religião reclama imunidade ao real;
+- a política transforma adesão local em verdade;
+- a cultura confunde estabilização simbólica com realidade;
+- o direito ou a instituição se autonomizam da vida real que deviam ordenar;
+- o sujeito se toma por medida soberana;
+- a academia toma a sua circulação interna por critério de validade.
+
+Quando a proposição já não reconhece o ser no real, inventa um substituto e chama-lhe verdade.
+
+Este é o erro que a obra deve tornar visível a cada passo.
+
+---
+
+### 4. A reinscrição no real
+
+O quarto movimento pergunta:
+
+> como é que o capítulo reconduz o dizer ao real que devia dizer?
+
+Corrigir não é apenas propor outra teoria. Também não é escolher outro vocabulário, outra tradição ou outro sistema. Corrigir é repor a proposição perante o ser que pretendia dizer.
+
+A reinscrição no real pode assumir várias formas:
+
+- voltar do nome ao ser;
+- voltar da representação ao real;
+- voltar do sistema à relação que o originou;
+- voltar da moral autónoma ao ser e ao poder-ser;
+- voltar da cultura à vida real que ela estabiliza;
+- voltar da linguagem ao que nela se tenta dizer;
+- voltar da política à realidade do comum, da ação e do dano;
+- voltar da religião à verdade da proposição que ela afirma;
+- voltar da ciência à sua condição filosófica de adequação ao real;
+- voltar do discurso académico ao objeto real que devia reconhecer.
+
+A fórmula recorrente é esta:
+
+> o capítulo não deve terminar apenas por explicar; deve reconduzir.
+
+---
+
+## V. Contra a exceção do não-científico
+
+### falso dilema
+
+Um dos falsos dilemas mais persistentes é imaginar que só a ciência está obrigada a adequar-se ao real, enquanto religião, política, moral, cultura, direito, teoria social ou discurso académico pertenceriam a outro regime, no qual bastariam sentido, pertença, tradição, reconhecimento comunitário, coerência interna ou utilidade local.
+
+Esse dilema é falso.
+
+A diferença real não é entre ciência e tudo o resto. A diferença real é entre:
+
+- proposições submetidas ao real;
+- e proposições que reclamam uma exceção ao real.
+
+### ciência e verdade
+
+A ciência não cria a obrigação de verdade.
+
+A ciência é uma forma rigorosa, localizada e metodicamente disciplinada de testar certas proposições perante o real. Usa observação, medição, experimentação, modelação, repetição, cálculo e revisão. Mas tudo isso já pressupõe algo anterior: que há real, que há diferença entre o que se diz e o que é, que o erro é possível e que a correção é necessária.
+
+Antes da ciência está a exigência filosófica de compreender o que significa uma proposição ser verdadeira.
+
+A régua mede porque há algo que não depende da régua. O laboratório testa porque há algo que não depende do laboratório. A teoria científica corrige-se porque há um real que pode desmentir, resistir ou exigir reformulação.
+
+A ciência não inventa a submissão ao real. Explicita-a num regime próprio.
+
+### religião, política, moral e cultura
+
+Uma proposição religiosa não tem de ser científica para ter de ser verdadeira.
+
+Se diz algo sobre Deus, o mundo, o homem, a morte, a criação, o bem, o sentido ou a salvação, então diz algo que pretende valer. E se pretende valer, não pode reclamar imunidade perante o real.
+
+Uma proposição política não tem de ser laboratorial para ter de responder ao real. Se diz algo sobre justiça, liberdade, poder, sociedade, dano, igualdade, autoridade ou bem comum, então não pode valer apenas por adesão coletiva, força institucional ou utilidade estratégica.
+
+Uma proposição moral não tem de ser medida com instrumentos para ter de se submeter ao real. Se diz algo sobre o bem, o mal, o dever, a dignidade, o dano ou o valor, então deve responder ao ser, ao poder-ser, aos limites e às consequências reais da ação.
+
+Uma proposição cultural não é verdadeira só porque uma comunidade a estabilizou. Pode ter função simbólica, identitária ou histórica, mas se pretende dizer o que é, tem de responder ao real.
+
+### regimes diferentes, mesmo real
+
+Não há um único método para todos os objetos. Seria erro de escala exigir que toda a proposição fosse testada como uma proposição laboratorial.
+
+Mas também é erro inverso concluir que, por não serem laboratoriais, certas proposições ficam dispensadas do real.
+
+Há diferentes objetos, diferentes escalas, diferentes regimes e diferentes formas de adequação. Não há diferentes reais.
+
+A ciência, a religião, a política, a moral, a cultura, o direito e a filosofia não têm o mesmo método. Mas qualquer uma delas, quando pretende dizer o que é, tem de responder ao real.
+
+### voz local e verdade comum
+
+Muitos sistemas locais produzem a aparência de verdade.
+
+Uma comunidade fala de certo modo; uma academia estabiliza um vocabulário; uma instituição repete uma fórmula; uma tradição conserva uma imagem; uma ideologia organiza afetos; uma moral local distribui aprovação e culpa; uma linguagem de prestígio circula como se fosse explicação.
+
+Com o tempo, a voz local passa a ter voz comum.
+
+O erro acontece quando essa circulação é tomada por verdade. O discurso já não pergunta o que é; pergunta apenas o que é admissível dizer naquele sistema. Deixa de reconhecer o ser no real e passa a proteger a estabilidade do seu próprio modo de falar.
+
+A obra deve combater precisamente essa substituição.
+
+---
+
+## VI. O eu reflexivo e a necessidade do erro
+
+### o eu está no real, mas não é o real inteiro
+
+O eu reflexivo está no real.
+
+Não é exterior, não é absoluto, não é transparente a si mesmo, não é medida soberana do que é. É um ser situado que apreende, representa, diz, recorda, imagina, julga e age.
+
+O erro é possível porque o eu não coincide com o real inteiro. Está no real, mas só acede localmente ao real.
+
+### saber é relação adequada, não fusão
+
+Saber é relação, não fusão.
+
+Quem sabe não se torna a coisa sabida. Continua a ser quem é: um ser situado, finito, corporal, afetável, com memória, linguagem, representação e ponto de vista.
+
+Por isso, o saber não elimina o risco de erro. Apenas permite trabalhar esse risco por aproximação, distinção, correção e submissão ao real.
+
+### erro reflexivo
+
+O erro torna-se mais intenso no ser reflexivo porque o ser reflexivo não apenas é afetado pelo real: ele também representa a sua própria afetação.
+
+Pode, por isso:
+
+- errar sobre o objeto;
+- errar sobre a relação ao objeto;
+- errar sobre o próprio modo como está a representar;
+- errar sobre o estatuto da sua proposição;
+- tomar a sua imagem por realidade;
+- tomar a sua linguagem por fundamento;
+- tomar a sua teoria por mundo;
+- tomar a sua comunidade por medida do ser.
+
+O erro reflexivo é a possibilidade de a representação se fechar sobre si e continuar a circular como se ainda estivesse submetida ao real.
+
+### filósofo
+
+O filósofo não é o sábio exterior ao real.
+
+É o ser situado que tenta tornar explícita a sua própria relação ao real e levar essa relação ao maior grau possível de adequação.
+
+O filósofo não se distingue por deixar de poder errar. Distingue-se por não aceitar que o seu erro fique protegido por sistema, prestígio, tradição, linguagem ou comunidade.
+
+---
+
+## VII. Como ler cada capítulo
+
+O leitor deve atravessar cada capítulo com as seguintes perguntas:
+
+1. **Que ser está aqui em causa?**  
+   Qual é a determinação real que o capítulo tenta reconhecer?
+
+2. **Como esse ser é dito?**  
+   Que proposição, linguagem, tradição, imagem ou sistema tenta nomeá-lo?
+
+3. **Que falso centro ameaça ocupar o lugar do ser?**  
+   Consciência, linguagem, ciência, religião, política, moral, cultura, direito, sistema, sujeito, critério ou instituição?
+
+4. **Que erro nasce dessa substituição?**  
+   Erro categorial, erro de escala, erro descritivo, autonomização da mediação, autonomização do critério, autonomização da normatividade ou substituição do real por sistema?
+
+5. **Como o capítulo reinscreve o dizer no real?**  
+   Que operação corretiva devolve a proposição ao ser que devia dizer?
+
+6. **Que passagem fica preparada?**  
+   Que novo plano se torna possível depois de esse ser ter sido reconhecido?
+
+Estas perguntas não devem transformar a leitura em tabela. Devem apenas orientar o olhar.
+
+---
+
+## VIII. Relação com a crítica
+
+A crítica não é exterior à obra.
+
+Ela entra porque o real pode ser mal dito. Mas a crítica não deve ocupar o lugar do real. Primeiro mostra-se o ser em causa; depois mostra-se como ele pode ser falsificado.
+
+Há três modos principais de crítica:
+
+### crítica interna do capítulo
+
+Mostra o falso centro que ameaça aquele capítulo.
+
+Por exemplo: abrir por consciência quando ainda se devia abrir por corpo; abrir por linguagem quando ainda se devia abrir por apreensão; abrir por moral quando ainda se devia abrir por ação, dano e poder-ser.
+
+### crítica transversal
+
+Acompanha a obra inteira como higiene de leitura.
+
+Mostra, a cada passo, como uma descrição aparentemente plausível se pode descolar do real por erro categorial, erro de escala, mediação autonomizada, critério soberanizado ou falsa fundação.
+
+### crítica tardia de sistema
+
+Entra apenas quando o sistema, a cultura, a instituição, a técnica, o direito ou a academia já puderem ser pensados como estabilizações derivadas.
+
+A crítica tardia mostra como a coerência interna pode substituir a adequação ao real, e como uma mediação pode deixar de mediar para passar a usurpar.
+
+### regra
+
+A obra não começa pela crítica.
+
+Começa pelo real, pelo ser em causa, pela descrição e pela diferenciação dos níveis. A crítica vem depois, como reconhecimento do modo como o falso se instala.
+
+---
+
+## IX. Regra para a futura escrita dos capítulos
+
+A nota não impõe uma forma rígida a todos os capítulos. Mas autoriza uma estrutura recorrente de escrita.
+
+Cada capítulo deve poder conter, de modo expresso ou implícito, cinco momentos:
+
+### 1. chão positivo
+
+O que há aqui no real?
+
+### 2. dizer do ser
+
+Como isso é dito, representado ou estabilizado?
+
+### 3. falso centro
+
+Que camada derivada tenta ocupar o lugar do centro?
+
+### 4. erro e correção
+
+Que erro nasce daí e como é reinscrito no real?
+
+### 5. entrega
+
+Que possibilidade se abre para o capítulo seguinte?
+
+Esta estrutura não deve tornar os capítulos mecânicos. Deve apenas impedir que se percam no tema, no sistema, na erudição, na crítica ou na voz local.
+
+---
+
+## X. Travões de leitura
+
+### não transformar a nota em método soberano
+
+Esta nota é uma chave de leitura, não um sistema acima da obra.
+
+### não transformar o livro em manual
+
+A obra pode orientar, mas só orienta descrevendo melhor o real.
+
+### não transformar a crítica em acusação
+
+A crítica não nasce de indignação. Nasce da diferença entre o que é e o que é mal dito.
+
+### não transformar o erro em defeito moral
+
+O erro é estruturalmente possível porque o ser reflexivo é situado, representacional e limitado.
+
+### não transformar a ciência em único modelo da verdade
+
+A ciência é um regime forte de adequação ao real, não o fundamento de toda a verdade.
+
+### não transformar religião, política ou moral em zonas imunes ao real
+
+Não serem ciência não as dispensa da verdade quando fazem proposições sobre o que é.
+
+### não transformar filosofia em sistema fechado
+
+A filosofia não deve substituir o real por arquitetura. Deve manter a arquitetura submetida ao real.
+
+### não transformar o filósofo em sábio fora do real
+
+O filósofo continua situado. A sua tarefa não é sair do real, mas descrever e corrigir melhor a sua relação ao real.
+
+---
+
+## XI. Fórmula final curta
+
+Em cada capítulo, a obra pergunta primeiro pelo ser que está em causa no real; depois observa como esse ser é dito, representado ou estabilizado; depois mostra o erro que nasce quando essa proposição se separa do real; por fim, reconduz o dizer ao ser que pretendia dizer.
+
+É assim que o leitor deve atravessar a obra: não como quem recebe um sistema, mas como quem aprende a distinguir, em cada zona, o real dos seus substitutos.
+
+A fórmula axial é:
+
+> **ser no real → dizer do ser → erro da proposição não real → reinscrição no real**
+
+Ou ainda:
+
+> **o que é → o que se diz que é → como se falsifica → como se reconduz ao real**
+
+Não há discursos dispensados do real. Há apenas diferentes modos de responder ao real.

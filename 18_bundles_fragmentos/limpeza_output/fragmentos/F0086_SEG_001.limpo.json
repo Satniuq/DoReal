@@ -1,0 +1,37 @@
+{
+  "fragment_id": "F0086_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0086_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "conhecimento complexo e simplicidade conceptual"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0086_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Sabe-se hoje tanto sobre o mundo, sobre o pormenor das regularidades do modo de ser — a única coisa que permite um contínuo com estruturas complexas —, que esse mesmo conhecimento difunde e dificulta a ligação entre a apreensão natural do homem e símbolos simples, curtos, gramaticalmente leves, que abarquem a realidade de forma inteligível.\n\nA falha não está no modo de ser, que é o que é, mas na falta de conceitos simples que expliquem o mundo. Não preciso de saber matemática nem de refazer o caminho de Einstein para perceber que objetos com massa têm energia e que distorcem o espaço por existirem.",
+    "resumo_alteracoes": [
+      "Ajustada a pontuação para tornar mais legível o encaixe da oração entre travessões.",
+      "Corrigida a fluidez sintática com inserção mínima de preposição em 'nem de refazer'.",
+      "Preservado o léxico central e a oposição entre complexidade do conhecimento e necessidade de conceitos simples."
+    ],
+    "notas_cautela": [
+      "O segmento pode depender do contexto seguinte para explicitar melhor a crítica em curso.",
+      "A expressão 'permite um contínuo com estruturas complexas' foi preservada apesar de alguma densidade, para evitar alteração de tese local."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0086_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Sabe-se hoje tanto sobre o mundo, sobre o pormenor das regularidades do modo de ser — a única coisa que permite um contínuo com estruturas complexas —, que esse mesmo conhecimento difunde e dificulta a ligação entre a apreensão natural do homem e símbolos simples, curtos, gramaticalmente leves, que abarquem a realidade de forma inteligível.\\n\\nA falha não está no modo de ser, que é o que é, mas na falta de conceitos simples que expliquem o mundo. Não preciso de saber matemática nem de refazer o caminho de Einstein para perceber que objetos com massa têm energia e que distorcem o espaço por existirem.\",\n  \"resumo_alteracoes\": [\n    \"Ajustada a pontuação para tornar mais legível o encaixe da oração entre travessões.\",\n    \"Corrigida a fluidez sintática com inserção mínima de preposição em 'nem de refazer'.\",\n    \"Preservado o léxico central e a oposição entre complexidade do conhecimento e necessidade de conceitos simples.\"\n  ],\n  \"notas_cautela\": [\n    \"O segmento pode depender do contexto seguinte para explicitar melhor a crítica em curso.\",\n    \"A expressão 'permite um contínuo com estruturas complexas' foi preservada apesar de alguma densidade, para evitar alteração de tese local.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:17:47+00:00",
+  "modelo": "gpt-5.4"
+}

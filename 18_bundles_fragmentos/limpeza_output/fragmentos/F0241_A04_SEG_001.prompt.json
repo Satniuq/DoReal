@@ -1,0 +1,70 @@
+{
+  "fragment_id": "F0241_A04_SEG_001",
+  "system": "Tu limpas fragmentos filosóficos do projeto DoReal sem acrescentar conteúdo novo, sem subir a altitude filosófica e sem alterar a tese local. Preserva a voz autoral, a ordem argumentativa local quando ela exista, e limita-te a tornar o texto mais claro, coeso e utilizável. Responde apenas em JSON válido.",
+  "user": "Limpa o fragmento abaixo e devolve apenas JSON válido com exatamente estes campos:\n{\n  \"fragment_id\": string,\n  \"estado_origem\": string,\n  \"regime_limpeza\": string,\n  \"texto_limpo\": string,\n  \"resumo_alteracoes\": [string],\n  \"notas_cautela\": [string],\n  \"preservou_ordem_argumentativa_local\": boolean,\n  \"sinalizar_revisao_humana\": boolean\n}\n\nPayload do fragmento:\n{\n  \"fragment_id\": \"F0241_A04_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"origem_id\": \"F0241_A04\",\n  \"header_original\": \"## F0241\",\n  \"tipo_material_fonte\": \"fragmento_editorial\",\n  \"tipo_unidade\": \"sequencia_argumentativa\",\n  \"tema_dominante_provisorio\": \"justificação, realidade e apreensão\",\n  \"motivos_estado\": [\n    \"houve_fusao_de_paragrafos\",\n    \"houve_corte_interno\",\n    \"continuidade_local_ativa\"\n  ],\n  \"instrucao_bundle\": {\n    \"modo_limpeza\": \"estrutural\",\n    \"preservar_voz_autoral\": true,\n    \"preservar_ordem_argumentativa_local\": true,\n    \"nao_subir_altitude_filosofica\": true,\n    \"nao_introduzir_conteudo_novo\": true,\n    \"nao_unificar_vozes_distintas\": true,\n    \"tratar_oralidade\": true,\n    \"tratar_repeticao\": true,\n    \"tratar_cortes_e_elipses\": true,\n    \"observacoes_especificas\": [\n      \"continuidade_local_ativa\",\n      \"fragmento_com_corte_interno\",\n      \"fragmento_com_fusao_de_paragrafos\",\n      \"houve_corte_interno\",\n      \"houve_fusao_de_paragrafos\"\n    ],\n    \"estado_bundle_destino\": \"limpavel_com_cautela\"\n  },\n  \"regras_gerais\": [\n    \"Não introduzir exemplos novos.\",\n    \"Não corrigir a filosofia para outra filosofia.\",\n    \"Não resumir em vez de limpar.\",\n    \"Não transformar em ensaio académico.\",\n    \"Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.\",\n    \"Preservar o léxico importante do fragmento.\",\n    \"Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.\",\n    \"Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.\",\n    \"Aqui tens de ser conservador.\",\n    \"Preserva mais da ordem original.\",\n    \"Não feches lacunas argumentativas com conteúdo novo.\",\n    \"Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.\",\n    \"Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'.\"\n  ],\n  \"texto_a_limpar\": \"2 + 2 igual a 4 funciona como sua própria justificação, mas ainda se pode ir a elementos mais básicos, mais profundos, aos elementos axiomáticos de um sistema, e depois diz-se que ah, não, não há, porque a derivação é infinita. Claro, claro. Claro que sim, como é óbvio. Porque a domização de 2 + 2 ser 4 não é aquilo que compõe o 2 e o 2 e o 4 que faz com que seja verdade, mas é o facto de o 2 e o 2 serem 4, essa relação que existe, continuar a permanecer no contínuo da existência dentro do sistema que diz que 2 + 2 é 4, existe, é real, representa a realidade.\\n\\nporque pende para encontrar as... pende não, faz parte, não é? Encontra-se as justificações, os axiomas, os fundamentos de uma qualquer proposição apenas em dois lados. São os únicos lados possíveis assim que algo existe, ou seja, assim que há. E esses dois lados são ou naquilo que há, na realidade, naquilo que é, ou então pela localidade de todos os seres reflexivos, é pela perspectiva em que está inserido e é por essa imposição de derivação do eu para o real que a comparação entre qualquer tipo de critério ou a justaposição entre qualquer tipo de critério dentro do quadro da apreensão do real pelo eu é no eu que reside a base, é no eu que reside o quadro lógico. Portanto, é normal, seja em um eu, é normal. Não assim assim tinha sido descoberta assim que o homem começou a pensar, não foi assim. É uma luta constante na apreensão, na boa apreensão do real, que obriga, como é óbvio, também à descrição do real. A apreensão por si só é pouca se não houver descrição energética, descrição ou representação, não houver representação, a representação não pode ser algo muito interno e descrição contém um interno e um externo, na relação entre o que existe.\",\n  \"contexto_local\": \"Fragmento seguinte:\\n- id: F0241_A04_SEG_002\\n- tema: relações, potencialidade, dinâmica\\n- preview: o nada nem sequer é o espaço do detrás onde o universo se expande pela manutenção das suas próprias relações, no contínuo do ser, no movimento do ser. Nem sequer é isto, porque se fosse algo, seria algo. O nada é a pura não existência, onde só aí é que se poderia criar campo de existência, o campo das virtualidades, o campo das potencialidades do ser. O campo magnético não actua como causa eficiente sobre o electrão…\",\n  \"formato_de_saida\": {\n    \"fragment_id\": \"string\",\n    \"estado_origem\": \"string\",\n    \"regime_limpeza\": \"string\",\n    \"texto_limpo\": \"string\",\n    \"resumo_alteracoes\": [\n      \"string\"\n    ],\n    \"notas_cautela\": [\n      \"string\"\n    ],\n    \"preservou_ordem_argumentativa_local\": \"boolean\",\n    \"sinalizar_revisao_humana\": \"boolean\"\n  }\n}",
+  "payload": {
+    "fragment_id": "F0241_A04_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "origem_id": "F0241_A04",
+    "header_original": "## F0241",
+    "tipo_material_fonte": "fragmento_editorial",
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "justificação, realidade e apreensão",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "instrucao_bundle": {
+      "modo_limpeza": "estrutural",
+      "preservar_voz_autoral": true,
+      "preservar_ordem_argumentativa_local": true,
+      "nao_subir_altitude_filosofica": true,
+      "nao_introduzir_conteudo_novo": true,
+      "nao_unificar_vozes_distintas": true,
+      "tratar_oralidade": true,
+      "tratar_repeticao": true,
+      "tratar_cortes_e_elipses": true,
+      "observacoes_especificas": [
+        "continuidade_local_ativa",
+        "fragmento_com_corte_interno",
+        "fragmento_com_fusao_de_paragrafos",
+        "houve_corte_interno",
+        "houve_fusao_de_paragrafos"
+      ],
+      "estado_bundle_destino": "limpavel_com_cautela"
+    },
+    "regras_gerais": [
+      "Não introduzir exemplos novos.",
+      "Não corrigir a filosofia para outra filosofia.",
+      "Não resumir em vez de limpar.",
+      "Não transformar em ensaio académico.",
+      "Remover oralidade redundante, hesitações e repetições inúteis só quando isso não altera o conteúdo.",
+      "Preservar o léxico importante do fragmento.",
+      "Se houver elipses ou cortes, reconstruir apenas o mínimo necessário para a legibilidade sem inventar teses novas.",
+      "Se o fragmento estiver realmente partido, assinalar cautela em vez de compensar com invenção.",
+      "Aqui tens de ser conservador.",
+      "Preserva mais da ordem original.",
+      "Não feches lacunas argumentativas com conteúdo novo.",
+      "Se houver contexto local ativo, usa-o apenas para evitar truncação e não para fundir fragmentos.",
+      "Se o texto permanecer parcial após limpeza, assinala isso em 'notas_cautela'."
+    ],
+    "texto_a_limpar": "2 + 2 igual a 4 funciona como sua própria justificação, mas ainda se pode ir a elementos mais básicos, mais profundos, aos elementos axiomáticos de um sistema, e depois diz-se que ah, não, não há, porque a derivação é infinita. Claro, claro. Claro que sim, como é óbvio. Porque a domização de 2 + 2 ser 4 não é aquilo que compõe o 2 e o 2 e o 4 que faz com que seja verdade, mas é o facto de o 2 e o 2 serem 4, essa relação que existe, continuar a permanecer no contínuo da existência dentro do sistema que diz que 2 + 2 é 4, existe, é real, representa a realidade.\n\nporque pende para encontrar as... pende não, faz parte, não é? Encontra-se as justificações, os axiomas, os fundamentos de uma qualquer proposição apenas em dois lados. São os únicos lados possíveis assim que algo existe, ou seja, assim que há. E esses dois lados são ou naquilo que há, na realidade, naquilo que é, ou então pela localidade de todos os seres reflexivos, é pela perspectiva em que está inserido e é por essa imposição de derivação do eu para o real que a comparação entre qualquer tipo de critério ou a justaposição entre qualquer tipo de critério dentro do quadro da apreensão do real pelo eu é no eu que reside a base, é no eu que reside o quadro lógico. Portanto, é normal, seja em um eu, é normal. Não assim assim tinha sido descoberta assim que o homem começou a pensar, não foi assim. É uma luta constante na apreensão, na boa apreensão do real, que obriga, como é óbvio, também à descrição do real. A apreensão por si só é pouca se não houver descrição energética, descrição ou representação, não houver representação, a representação não pode ser algo muito interno e descrição contém um interno e um externo, na relação entre o que existe.",
+    "contexto_local": "Fragmento seguinte:\n- id: F0241_A04_SEG_002\n- tema: relações, potencialidade, dinâmica\n- preview: o nada nem sequer é o espaço do detrás onde o universo se expande pela manutenção das suas próprias relações, no contínuo do ser, no movimento do ser. Nem sequer é isto, porque se fosse algo, seria algo. O nada é a pura não existência, onde só aí é que se poderia criar campo de existência, o campo das virtualidades, o campo das potencialidades do ser. O campo magnético não actua como causa eficiente sobre o electrão…",
+    "formato_de_saida": {
+      "fragment_id": "string",
+      "estado_origem": "string",
+      "regime_limpeza": "string",
+      "texto_limpo": "string",
+      "resumo_alteracoes": [
+        "string"
+      ],
+      "notas_cautela": [
+        "string"
+      ],
+      "preservou_ordem_argumentativa_local": "boolean",
+      "sinalizar_revisao_humana": "boolean"
+    }
+  }
+}

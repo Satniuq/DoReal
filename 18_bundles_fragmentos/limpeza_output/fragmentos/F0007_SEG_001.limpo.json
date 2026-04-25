@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0007_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0007_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "comportamento dominante e esforço"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0007_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "Vai sempre haver esse comportamento como necessidade do próprio sistema. O problema surge quando esse tipo de comportamento é dominante. Porque, quando esse tipo de comportamento — ou seja, esse tipo de pessoa, que pode ser qualquer tipo de personalidade — se torna dominante, o tipo torna-se o tipo. Neste caso da esquerda, o tipo que bifurca para a estrada da esquerda torna-se dominante. Porquê? Porque, como dizia Jung, pensar é difícil. Por isso é que a maior parte das pessoas julga. E, quando esse tipo se torna dominante, domina quase totalmente pelo simples facto de requerer menos esforço, como justificação de um modo de existir, de viver, do que um que nos obrigue a despender energia.",
+    "resumo_alteracoes": [
+      "Removidas hesitações, repetições e marcas de oralidade redundantes.",
+      "Recomposta a sintaxe para maior legibilidade sem alterar a tese local.",
+      "Preservada a progressão argumentativa: necessidade sistémica, problema da dominância, exemplo da esquerda, justificação pelo menor esforço.",
+      "Corrigido 'destar energia' para 'despender energia' como ajuste mínimo de legibilidade."
+    ],
+    "notas_cautela": [
+      "A expressão 'o tipo torna-se o tipo' foi preservada por parecer ter função enfática autoral, embora permaneça semanticamente tensa.",
+      "A referência a 'neste caso da esquerda' depende de contexto ausente, mas não foi compensada com explicação adicional."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0007_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"Vai sempre haver esse comportamento como necessidade do próprio sistema. O problema surge quando esse tipo de comportamento é dominante. Porque, quando esse tipo de comportamento — ou seja, esse tipo de pessoa, que pode ser qualquer tipo de personalidade — se torna dominante, o tipo torna-se o tipo. Neste caso da esquerda, o tipo que bifurca para a estrada da esquerda torna-se dominante. Porquê? Porque, como dizia Jung, pensar é difícil. Por isso é que a maior parte das pessoas julga. E, quando esse tipo se torna dominante, domina quase totalmente pelo simples facto de requerer menos esforço, como justificação de um modo de existir, de viver, do que um que nos obrigue a despender energia.\",\n  \"resumo_alteracoes\": [\n    \"Removidas hesitações, repetições e marcas de oralidade redundantes.\",\n    \"Recomposta a sintaxe para maior legibilidade sem alterar a tese local.\",\n    \"Preservada a progressão argumentativa: necessidade sistémica, problema da dominância, exemplo da esquerda, justificação pelo menor esforço.\",\n    \"Corrigido 'destar energia' para 'despender energia' como ajuste mínimo de legibilidade.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão 'o tipo torna-se o tipo' foi preservada por parecer ter função enfática autoral, embora permaneça semanticamente tensa.\",\n    \"A referência a 'neste caso da esquerda' depende de contexto ausente, mas não foi compensada com explicação adicional.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:00:51+00:00",
+  "modelo": "gpt-5.4"
+}

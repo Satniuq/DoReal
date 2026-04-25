@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A20_SEG_003",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A20_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "apreensão e continuidade relacional"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A20_SEG_003",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "A apreensão, como repetição do modo de ser na relação com o real, é a coerência, a regularidade do modo de ser no real, na relação com o real. A apreensão, assim dita, não é? Algo assim parecido. E, por isso mesmo, impõe que, antes de haver esta relação de apreensão com o real que eu estou a ter agora — a ver uma coisa qualquer, a ouvir uma coisa qualquer, a pensar uma coisa qualquer —, tive outra antes, não é? Permitindo isso, não é?\n\nPorque, sei lá, se eu tivesse tido relações que me moldassem todo para a esquerda, mas houvesse um canto que, quando eu quisesse ir, fosse para a direita, não batia certo, não é? Não haveria continuidade na relação naquela direção.",
+    "resumo_alteracoes": [
+      "Reorganizei a primeira frase para reduzir repetição imediata e melhorar a legibilidade.",
+      "Mantive a oralidade relevante, removendo apenas redundâncias mínimas.",
+      "Reconstruí pontuação e encaixes sintáticos no trecho com enumeração de exemplos perceptivos e mentais.",
+      "Ajustei 'tive outra atrás' para 'tive outra antes' por maior clareza sem alterar a tese local.",
+      "Intervim minimamente no segundo parágrafo para tornar a imagem mais compreensível, preservando o exemplo e a direção argumentativa."
+    ],
+    "notas_cautela": [
+      "O fragmento mantém marcas de oralidade e alguma indeterminação conceptual ('algo assim parecido'), preservadas por fazerem parte da formulação original.",
+      "Há um ponto possivelmente corrompido em 'mas houvesse um canto', que permanece parcialmente opaco mesmo após limpeza conservadora.",
+      "O texto continua parcialmente elíptico; não foram fechadas lacunas argumentativas com conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A20_SEG_003\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"A apreensão, como repetição do modo de ser na relação com o real, é a coerência, a regularidade do modo de ser no real, na relação com o real. A apreensão, assim dita, não é? Algo assim parecido. E, por isso mesmo, impõe que, antes de haver esta relação de apreensão com o real que eu estou a ter agora — a ver uma coisa qualquer, a ouvir uma coisa qualquer, a pensar uma coisa qualquer —, tive outra antes, não é? Permitindo isso, não é?\\n\\nPorque, sei lá, se eu tivesse tido relações que me moldassem todo para a esquerda, mas houvesse um canto que, quando eu quisesse ir, fosse para a direita, não batia certo, não é? Não haveria continuidade na relação naquela direção.\",\n  \"resumo_alteracoes\": [\n    \"Reorganizei a primeira frase para reduzir repetição imediata e melhorar a legibilidade.\",\n    \"Mantive a oralidade relevante, removendo apenas redundâncias mínimas.\",\n    \"Reconstruí pontuação e encaixes sintáticos no trecho com enumeração de exemplos perceptivos e mentais.\",\n    \"Ajustei 'tive outra atrás' para 'tive outra antes' por maior clareza sem alterar a tese local.\",\n    \"Intervim minimamente no segundo parágrafo para tornar a imagem mais compreensível, preservando o exemplo e a direção argumentativa.\"\n  ],\n  \"notas_cautela\": [\n    \"O fragmento mantém marcas de oralidade e alguma indeterminação conceptual ('algo assim parecido'), preservadas por fazerem parte da formulação original.\",\n    \"Há um ponto possivelmente corrompido em 'mas houvesse um canto', que permanece parcialmente opaco mesmo após limpeza conservadora.\",\n    \"O texto continua parcialmente elíptico; não foram fechadas lacunas argumentativas com conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:54:10+00:00",
+  "modelo": "gpt-5.4"
+}

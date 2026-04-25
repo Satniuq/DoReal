@@ -1,0 +1,130 @@
+{
+  "identificacao": {
+    "fragment_id": "F0117_A02_SEG_001",
+    "origem_id": "F0117_A02",
+    "header_original": "## F0117",
+    "ordem_no_ficheiro": 146,
+    "base_container_id": "F0117",
+    "tipo_material_fonte": "misto"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0117_A02",
+      "data": null,
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0117",
+      "ordem_no_ficheiro": 146,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0117_A02",
+          "paragrafos_origem": [
+            "F0117_A02_P01"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "misto",
+    "texto_fragmento": "É o eu real e o eu-eu. É próprio do ser consciente reflexivo, numa sociedade aberta com dissipação de círculos, que haja mais expressão do eu-eu.",
+    "texto_normalizado": "É o eu real e o eu-eu. É próprio do ser consciente reflexivo, numa sociedade aberta com dissipação de círculos, que haja mais expressão do eu-eu.",
+    "texto_fonte_reconstituido": "É o eu real e o eu-eu. É próprio do ser consciente reflexivo, numa sociedade aberta com dissipação de círculos, que haja mais expressão do eu-eu.",
+    "texto_principal": "É o eu real e o eu-eu. É próprio do ser consciente reflexivo, numa sociedade aberta com dissipação de círculos, que haja mais expressão do eu-eu.",
+    "segmentacao": {
+      "tipo_unidade": "distincao_conceptual",
+      "criterio_de_unidade": "continuidade_definicional",
+      "houve_fusao_de_paragrafos": false,
+      "houve_corte_interno": false,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "distincao",
+    "tema_dominante_provisorio": "expressão eu-eu sociedade aberta",
+    "conceitos_relevantes_provisorios": [
+      "eu real",
+      "eu-eu",
+      "sociedade aberta",
+      "dissipação de círculos"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": null,
+      "fragmento_seguinte": null,
+      "continua_anterior": false,
+      "prepara_seguinte": false
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 02:12:31",
+      "hash_texto_normalizado": "3b24373d82c7dfa28a53cfea565451b01f656556e52cf6173934a5ef2c08a167"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0117",
+    "container_origem": {
+      "base_container_id": "F0117",
+      "header": "## F0117",
+      "data": null,
+      "texto_container": "Os sistemas são falsos, falíveis, exceto aqueles que dependem do real — os que colocam o eu na relação com o real, eu com eu, eu com eu com o real, tudo.\n\nNas estruturas que existem, como já sabemos de tudo o que temos falado, há a primazia da relação eu com eu antes do eu com o real, através da racionalização, da consciência, da representação da própria relação.\n\nMas fora disso, quando entramos nos sistemas de racionalidade, o real é mandado para fora e entram princípios quaisquer tomados como primários. As proposições sobre o real são tão falsas quanto a sua descrição é parca do real. O bom princípio é apenas a melhor descrição do real.\n\nPensar é representar. Representar sobre símbolos, com ou sem imagética. A imagética não é algo misterioso: existe até nos cães. O homem começa quando há acumulação de representação e desbloqueio do pensamento de segunda ordem — pensar sobre o que se pensa, representar sobre o que está representado.\n\nA história do eu é a integração do real em símbolos explícitos, curtos, encapsulantes de eventos, normalizados pela repetição. Se uma árvore se mexesse, o símbolo teria de ser outro.\n\nO ser no ser é parco pela parca descrição.  \nO ser no poder-ser é o verdadeiro processo ontológico pela apreensão do ser no contínuo do real.  \nO ser no dever-ser é viver na descrição limitada do ser e não no poder-ser.\n\nA verdadeira aprendizagem é a que coloca o ser no poder-ser. Viver nas potencialidades conduz às atualizações.\n\nHoje, em larga escala, o poder-ser é postergado. Ao homem cabe apenas caminhar no contínuo traçado pela engenharia dos sistemas que ele próprio cria. O poder-ser desaparece, fica a apreensão limitada e o mero desejo.\n\nÉ o eu real e o eu-eu. É próprio do ser consciente reflexivo, numa sociedade aberta com dissipação de círculos, que haja mais expressão do eu-eu.",
+      "texto_container_preview": "Os sistemas são falsos, falíveis, exceto aqueles que dependem do real — os que colocam o eu na relação com o real, eu com eu, eu com eu com o real, tudo. Nas estruturas que existem, como já sabemos de tudo o que temos falado, há a primazia da relação eu com eu antes do eu com o real, através da racionalização, da consciência, da representação da própria relação. Mas fora disso, quando entramos nos sistemas de racion…",
+      "hash_texto_container": "8a0873a7f6ee945f69884458ee7c934870ce6c04dc4170126415a5eecef96d1c"
+    },
+    "continuidade_ativa": false,
+    "fragmento_anterior": null,
+    "fragmento_seguinte": null
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "É o eu real e o eu-eu. É próprio do ser consciente reflexivo, numa sociedade aberta com dissipação de círculos, que haja mais expressão do eu-eu.",
+    "fonte_texto_principal": "texto_fonte_reconstituido",
+    "estado_bundle": "limpavel",
+    "motivos_estado": [],
+    "tem_contexto_local": false,
+    "modo_dialogo_aplicado": null,
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "3b24373d82c7dfa28a53cfea565451b01f656556e52cf6173934a5ef2c08a167",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "conservadora",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": false,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [],
+    "estado_bundle_destino": "limpavel"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:38+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "3b24373d82c7dfa28a53cfea565451b01f656556e52cf6173934a5ef2c08a167",
+      "texto_normalizado": "3b24373d82c7dfa28a53cfea565451b01f656556e52cf6173934a5ef2c08a167",
+      "texto_fonte_reconstituido": "3b24373d82c7dfa28a53cfea565451b01f656556e52cf6173934a5ef2c08a167",
+      "texto_principal": "3b24373d82c7dfa28a53cfea565451b01f656556e52cf6173934a5ef2c08a167"
+    }
+  }
+}

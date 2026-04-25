@@ -1,0 +1,34 @@
+{
+  "fragment_id": "F0237_SEG_001",
+  "estado_origem": "limpavel",
+  "regime_limpeza": "direto",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0237_SEG_001",
+    "estado_origem": "limpavel",
+    "motivos_estado": [],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "descrição, ser, bem-estar"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0237_SEG_001",
+    "estado_origem": "limpavel",
+    "regime_limpeza": "direto",
+    "texto_limpo": "O foco na desigualdade, na pobreza, em estados, em modos de ser e em modos de existir que produzem o bem, ou mais bem do que outros, é tudo a mesma coisa, porque a descrição é o elo necessário da própria apreensão do real. E depois, como é óbvio, cria-se todo um modo de ser que coloca o bem-estar, a riqueza e a boa ocupação do tempo, em que o ser faz com que haja tempo para o ser ser.",
+    "resumo_alteracoes": [
+      "Reduzi repetições e enumerações redundantes, mantendo os termos centrais.",
+      "Ajustei a sintaxe para maior legibilidade sem mudar a tese local.",
+      "Corrigi ligações frásicas quebradas no segmento sobre 'o bem' e 'mais bem do que outros'.",
+      "Mantive a formulação final 'o ser ser', por parecer léxico autoral relevante."
+    ],
+    "notas_cautela": [
+      "A expressão 'mais bem do que outros' permanece algo instável, mas foi apenas minimamente regularizada para evitar introdução de conteúdo novo.",
+      "O fecho 'o ser faz com que haja tempo para o ser ser' pode conter condensação conceptual ou oralidade autoral; foi preservado."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": false
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0237_SEG_001\",\n  \"estado_origem\": \"limpavel\",\n  \"regime_limpeza\": \"direto\",\n  \"texto_limpo\": \"O foco na desigualdade, na pobreza, em estados, em modos de ser e em modos de existir que produzem o bem, ou mais bem do que outros, é tudo a mesma coisa, porque a descrição é o elo necessário da própria apreensão do real. E depois, como é óbvio, cria-se todo um modo de ser que coloca o bem-estar, a riqueza e a boa ocupação do tempo, em que o ser faz com que haja tempo para o ser ser.\",\n  \"resumo_alteracoes\": [\n    \"Reduzi repetições e enumerações redundantes, mantendo os termos centrais.\",\n    \"Ajustei a sintaxe para maior legibilidade sem mudar a tese local.\",\n    \"Corrigi ligações frásicas quebradas no segmento sobre 'o bem' e 'mais bem do que outros'.\",\n    \"Mantive a formulação final 'o ser ser', por parecer léxico autoral relevante.\"\n  ],\n  \"notas_cautela\": [\n    \"A expressão 'mais bem do que outros' permanece algo instável, mas foi apenas minimamente regularizada para evitar introdução de conteúdo novo.\",\n    \"O fecho 'o ser faz com que haja tempo para o ser ser' pode conter condensação conceptual ou oralidade autoral; foi preservado.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": false\n}",
+  "gerado_em_utc": "2026-04-24T23:45:12+00:00",
+  "modelo": "gpt-5.4"
+}

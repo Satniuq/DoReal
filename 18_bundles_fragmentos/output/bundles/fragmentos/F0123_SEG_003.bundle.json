@@ -1,0 +1,145 @@
+{
+  "identificacao": {
+    "fragment_id": "F0123_SEG_003",
+    "origem_id": "F0123",
+    "header_original": "## F0123",
+    "ordem_no_ficheiro": 154,
+    "base_container_id": "F0123",
+    "tipo_material_fonte": "fragmento_editorial"
+  },
+  "unidade_base": {
+    "origem": {
+      "ficheiro": "fragmentos.md",
+      "origem_id": "F0123",
+      "data": null,
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0123",
+      "ordem_no_ficheiro": 154,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0123",
+          "paragrafos_origem": [
+            "F0123_P08"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "fragmento_editorial",
+    "texto_fragmento": "Os círculos são apenas o símbolo da relação incorporada. O bom é ser o bom pai, o bom filho, o bom irmão, o bom cidadão, a boa pessoa.",
+    "texto_normalizado": "Os círculos são apenas o símbolo da relação incorporada. O bom é ser o bom pai, o bom filho, o bom irmão, o bom cidadão, a boa pessoa.",
+    "texto_fonte_reconstituido": "Os círculos são apenas o símbolo da relação incorporada. O bom é ser o bom pai, o bom filho, o bom irmão, o bom cidadão, a boa pessoa.",
+    "texto_principal": "Os círculos são apenas o símbolo da relação incorporada. O bom é ser o bom pai, o bom filho, o bom irmão, o bom cidadão, a boa pessoa.",
+    "segmentacao": {
+      "tipo_unidade": "bloco_unico",
+      "criterio_de_unidade": "continuidade_tematica",
+      "houve_fusao_de_paragrafos": false,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "afirmacao",
+    "tema_dominante_provisorio": "manifestação do bom",
+    "conceitos_relevantes_provisorios": [
+      "círculos",
+      "relação",
+      "bom",
+      "papéis sociais",
+      "pessoa"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0123_SEG_002",
+      "fragmento_seguinte": null,
+      "continua_anterior": true,
+      "prepara_seguinte": false
+    },
+    "estado_revisao": "segmentado_auto",
+    "sinalizador_para_cadencia": {
+      "pronto_para_extrator_cadencia": true,
+      "requer_revisao_manual_prioritaria": false
+    },
+    "metadados_segmentador": {
+      "modelo": "models/gemini-2.5-flash",
+      "versao_segmentador": "resegmentador_semantico_v4_1_duas_fases",
+      "timestamp": "2026-03-11 02:16:56",
+      "hash_texto_normalizado": "c27917b72b2ef7ae2ec1afc479084437d97dc7457c036aee54be14d436638295"
+    }
+  },
+  "contexto_local_imediato": {
+    "join_origem_resolvido": true,
+    "base_container_id": "F0123",
+    "container_origem": {
+      "base_container_id": "F0123",
+      "header": "## F0123",
+      "data": null,
+      "texto_container": "Há uma unificação de toda a filosofia nos digresses a que ela se levou pela compartimentalização e especialização necessárias quando se fala de seres conscientes a pensarem sobre tudo, e pelas barreiras que as linguagens técnicas criam.\n\nComo é possível alguém querer ser filósofo e não compreender isto? Não é não saber matemática, não é não saber todas as teorias de todos os autores. É não compreender o que isto é à luz das descobertas científicas. É pôr a ciência de lado e dizer que isso cabe à ciência e que à filosofia cabe pensar sobre isto, sem sequer saber o que uma compartimentalização diz sobre uma parte disto.\n\nÉ querer saber o todo sem saber as partes. É viver na metafísica. É pôr o eu à frente do real.\n\nO discurso revela um modo de ser. Discursar sobre o discurso ou discursar sobre o que é obriga a pensar sobre o discurso ou sobre o que é, isto é, a integrar o real. Ser, pensar e dizer andam juntos.\n\nO estudo do pensamento filosófico torna-se necessário ao verdadeiro pensamento filosófico. Isso implica admitir que Aristóteles tinha razão na potencialidade. Implica rejeitar as finalidades. Platão tinha razão ao dizer que há algo entre o eu e o real, mas confundiu isso com o real quando era o símbolo.\n\nKant percebeu que a estrutura da consciência condiciona o que se apreende, falhando em tudo o resto. Wittgenstein modernizou a analítica da apreensão e falhou em tudo o resto. Heidegger continuou e falhou em tudo o resto.\n\nA temática tem sido falhar em tudo o resto, até que o que permaneceu a insistir ressoou hoje em dia em falhar em tudo.\n\nOs círculos são apenas o símbolo da relação incorporada. O bom é ser o bom pai, o bom filho, o bom irmão, o bom cidadão, a boa pessoa.",
+      "texto_container_preview": "Há uma unificação de toda a filosofia nos digresses a que ela se levou pela compartimentalização e especialização necessárias quando se fala de seres conscientes a pensarem sobre tudo, e pelas barreiras que as linguagens técnicas criam. Como é possível alguém querer ser filósofo e não compreender isto? Não é não saber matemática, não é não saber todas as teorias de todos os autores. É não compreender o que isto é à…",
+      "hash_texto_container": "9a034e6c8a7bd8c295ef86a65289408199da6a51d12b7094d58a568fe5f03e21"
+    },
+    "continuidade_ativa": true,
+    "fragmento_anterior": {
+      "fragment_id": "F0123_SEG_002",
+      "encontrado": true,
+      "tipo_unidade": "sequencia_argumentativa",
+      "funcao_textual_dominante": "exploracao",
+      "tema_dominante_provisorio": "filosofia, apreensão, limites, falha",
+      "texto_preview": "O discurso revela um modo de ser. Discursar sobre o discurso ou discursar sobre o que é obriga a pensar sobre o discurso ou sobre o que é, isto é, a integrar o real. Ser, pensar e dizer andam juntos. O estudo do pensamento filosófico torna-se necessário ao verdadeiro pensamento filosófico. Isso implica admitir que Aristóteles tinha razão na potencialidade. Implica rejeitar as finalidades. Platão tinha razão ao dizer…"
+    },
+    "fragmento_seguinte": null
+  },
+  "bundle_runtime": {
+    "texto_principal_escolhido": "Os círculos são apenas o símbolo da relação incorporada. O bom é ser o bom pai, o bom filho, o bom irmão, o bom cidadão, a boa pessoa.",
+    "fonte_texto_principal": "texto_fonte_reconstituido",
+    "estado_bundle": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tem_contexto_local": true,
+    "modo_dialogo_aplicado": null,
+    "divergencia_textual_relevante": false,
+    "join_origem_resolvido": true,
+    "hash_texto_principal": "c27917b72b2ef7ae2ec1afc479084437d97dc7457c036aee54be14d436638295",
+    "similaridade_texto_reconstituido_vs_fragmento": 1.0
+  },
+  "instrucao_de_limpeza_minima": {
+    "modo_limpeza": "conservadora",
+    "preservar_voz_autoral": true,
+    "preservar_ordem_argumentativa_local": false,
+    "nao_subir_altitude_filosofica": true,
+    "nao_introduzir_conteudo_novo": true,
+    "nao_unificar_vozes_distintas": true,
+    "tratar_oralidade": true,
+    "tratar_repeticao": true,
+    "tratar_cortes_e_elipses": true,
+    "observacoes_especificas": [
+      "continuidade_local_ativa",
+      "fragmento_com_corte_interno",
+      "houve_corte_interno"
+    ],
+    "estado_bundle_destino": "limpavel_com_cautela"
+  },
+  "rastreabilidade": {
+    "script": "gerar_bundles_fragmentos_v1.py",
+    "schema_version": "1.1.0",
+    "gerado_em_utc": "2026-04-16T23:15:38+00:00",
+    "ficheiros_fonte": {
+      "project_root": ".",
+      "fragmentos_resegmentados": "13_Meta_Indice\\cadência\\01_segmentar_fragmentos\\fragmentos_resegmentados.json",
+      "fragmentos_md": "02_bruto\\fragmentos.md",
+      "fragmentos_nao_processados": "02_bruto\\fragmentos_nao_processados.md",
+      "fragmentos_ja_processados": "02_bruto\\fragmentos_ja_processados.md",
+      "script_dir": "18_bundles_fragmentos",
+      "output_dir": "18_bundles_fragmentos\\output"
+    },
+    "hashes_textuais": {
+      "texto_fragmento": "c27917b72b2ef7ae2ec1afc479084437d97dc7457c036aee54be14d436638295",
+      "texto_normalizado": "c27917b72b2ef7ae2ec1afc479084437d97dc7457c036aee54be14d436638295",
+      "texto_fonte_reconstituido": "c27917b72b2ef7ae2ec1afc479084437d97dc7457c036aee54be14d436638295",
+      "texto_principal": "c27917b72b2ef7ae2ec1afc479084437d97dc7457c036aee54be14d436638295"
+    }
+  }
+}

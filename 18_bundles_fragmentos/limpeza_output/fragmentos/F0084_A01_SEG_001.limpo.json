@@ -1,0 +1,39 @@
+{
+  "fragment_id": "F0084_A01_SEG_001",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0084_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "desenvolvimento_medio",
+    "tema_dominante_provisorio": "atualização do poder-ser"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0084_A01_SEG_001",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "Imagino isto mais como uma tela branca cheia de pulsões, como o campo subatómico virtual, o campo do poder-ser, que se vai pintando e compondo pelas relações que a tela e a tinta permitem. Como um átomo, uma molécula, uma estrutura atualizada, sempre limitada pelo que pode ser, até que o que pode ser passa a ver o próprio poder-ser e a entrar no dever-ser.\n\nAs ideias que temos, os pensamentos, refletem-se em ideias coletivas, claro; mas os modos de pensar e os modos de ser que encarnamos dependem, em larga escala, do campo das possibilidades. E isto é real. Não há potencialidades não atualizáveis porque, sendo o ser contínuo, nem que seja pela simples expressão do movimento e pela estabilidade estrutural dos objetos que compõem o mundo — isto é, das relações que propiciam a aparência e a atualidade das coisas —, temos já uma alegoria.",
+    "resumo_alteracoes": [
+      "Suavizada a oralidade inicial com 'Imagino isto mais' para maior clareza.",
+      "Corrigida a repetição/forma 'o próprio pode-ser' para 'o próprio poder-ser', preservando o léxico central do fragmento.",
+      "Ajustada a pontuação em períodos longos para melhorar legibilidade sem alterar a tese local.",
+      "Mantida a sequência argumentativa entre campo do poder-ser, atualização estrutural e campo das possibilidades."
+    ],
+    "notas_cautela": [
+      "O fecho com 'temos já uma alegoria' permanece parcialmente abrupto e pode depender de contexto anterior ou seguinte.",
+      "Há uma passagem metafórica densa entre a imagem da tela e a atualização de estruturas; foi preservada sem explicitação adicional.",
+      "Fragmento pode continuar a carregar marcas de fusão interna, mas não foi compensado com conteúdo novo."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0084_A01_SEG_001\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"Imagino isto mais como uma tela branca cheia de pulsões, como o campo subatómico virtual, o campo do poder-ser, que se vai pintando e compondo pelas relações que a tela e a tinta permitem. Como um átomo, uma molécula, uma estrutura atualizada, sempre limitada pelo que pode ser, até que o que pode ser passa a ver o próprio poder-ser e a entrar no dever-ser.\\n\\nAs ideias que temos, os pensamentos, refletem-se em ideias coletivas, claro; mas os modos de pensar e os modos de ser que encarnamos dependem, em larga escala, do campo das possibilidades. E isto é real. Não há potencialidades não atualizáveis porque, sendo o ser contínuo, nem que seja pela simples expressão do movimento e pela estabilidade estrutural dos objetos que compõem o mundo — isto é, das relações que propiciam a aparência e a atualidade das coisas —, temos já uma alegoria.\",\n  \"resumo_alteracoes\": [\n    \"Suavizada a oralidade inicial com 'Imagino isto mais' para maior clareza.\",\n    \"Corrigida a repetição/forma 'o próprio pode-ser' para 'o próprio poder-ser', preservando o léxico central do fragmento.\",\n    \"Ajustada a pontuação em períodos longos para melhorar legibilidade sem alterar a tese local.\",\n    \"Mantida a sequência argumentativa entre campo do poder-ser, atualização estrutural e campo das possibilidades.\"\n  ],\n  \"notas_cautela\": [\n    \"O fecho com 'temos já uma alegoria' permanece parcialmente abrupto e pode depender de contexto anterior ou seguinte.\",\n    \"Há uma passagem metafórica densa entre a imagem da tela e a atualização de estruturas; foi preservada sem explicitação adicional.\",\n    \"Fragmento pode continuar a carregar marcas de fusão interna, mas não foi compensado com conteúdo novo.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:16:31+00:00",
+  "modelo": "gpt-5.4"
+}

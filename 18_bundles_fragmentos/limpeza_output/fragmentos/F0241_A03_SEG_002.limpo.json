@@ -1,0 +1,40 @@
+{
+  "fragment_id": "F0241_A03_SEG_002",
+  "estado_origem": "limpavel_com_cautela",
+  "regime_limpeza": "cautela",
+  "resultado": "api_ok",
+  "input_bundle_minimo": {
+    "fragment_id": "F0241_A03_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "motivos_estado": [
+      "houve_fusao_de_paragrafos",
+      "houve_corte_interno",
+      "continuidade_local_ativa"
+    ],
+    "tipo_unidade": "sequencia_argumentativa",
+    "tema_dominante_provisorio": "discurso sem referente real"
+  },
+  "output_limpeza": {
+    "fragment_id": "F0241_A03_SEG_002",
+    "estado_origem": "limpavel_com_cautela",
+    "regime_limpeza": "cautela",
+    "texto_limpo": "O tipo de pensamentos que se têm, o tipo de proposições que se dizem, o tipo de justificações que se apresentam para a justificação dos modos eu-eu, do modo que relega o real, por definição, nunca é com referência ao real. E isso vê-se, creio, quase na maioria, quase na totalidade do discurso. Tanto o discurso científico como o público, como o dos média, como o das redes sociais, é relevante, muito relevante: qualquer discurso que se estenda para além, que tenha a virtude de se estender para além do raio de ação do meu grito, o discurso que paira, que toca e que é tocado por círculos exteriores ao meu círculo vocal.\n\nE a justificação, como é óbvio, desse tipo de modo de ser, por não ser referente ao real, é sempre insípida, rude, sempre dependente do eu que está a propor, de uma experiência qualquer que o eu tem, ou de uma tentativa fraca de articulação do tipo de apreensão que se tem, envolvendo o discurso todo nessa bolha que sustenta o sistema do eu-eu e que, porque é opaca, esconde o real.",
+    "resumo_alteracoes": [
+      "Corrigidas concordâncias e pequenas falhas gramaticais sem alterar a tese local.",
+      "Reduzidas hesitações e oralidade redundante, preservando o tom autoral.",
+      "Reorganizada pontuação para tornar mais legível a enumeração inicial e a passagem sobre os tipos de discurso.",
+      "Normalizada a grafia de expressões como \"eu-eu\" e \"média\".",
+      "Mantida a ordem argumentativa: caracterização do discurso sem referência ao real, extensão social desse discurso, e crítica à sua justificação."
+    ],
+    "notas_cautela": [
+      "O segmento contém formulações possivelmente truncadas ou pouco estabilizadas, como \"justificações que se apresentam para a justificação dos modos eu-eu\", que foram preservadas com intervenção mínima.",
+      "A expressão \"quase na maioria, quase na totalidade\" foi mantida por cautela, apesar da tensão interna, para não redefinir a intensidade do enunciado.",
+      "Há sinais de fusão de material e de corte interno; o texto foi apenas estabilizado localmente, sem preencher lacunas argumentativas."
+    ],
+    "preservou_ordem_argumentativa_local": true,
+    "sinalizar_revisao_humana": true
+  },
+  "raw_output_text": "{\n  \"fragment_id\": \"F0241_A03_SEG_002\",\n  \"estado_origem\": \"limpavel_com_cautela\",\n  \"regime_limpeza\": \"cautela\",\n  \"texto_limpo\": \"O tipo de pensamentos que se têm, o tipo de proposições que se dizem, o tipo de justificações que se apresentam para a justificação dos modos eu-eu, do modo que relega o real, por definição, nunca é com referência ao real. E isso vê-se, creio, quase na maioria, quase na totalidade do discurso. Tanto o discurso científico como o público, como o dos média, como o das redes sociais, é relevante, muito relevante: qualquer discurso que se estenda para além, que tenha a virtude de se estender para além do raio de ação do meu grito, o discurso que paira, que toca e que é tocado por círculos exteriores ao meu círculo vocal.\\n\\nE a justificação, como é óbvio, desse tipo de modo de ser, por não ser referente ao real, é sempre insípida, rude, sempre dependente do eu que está a propor, de uma experiência qualquer que o eu tem, ou de uma tentativa fraca de articulação do tipo de apreensão que se tem, envolvendo o discurso todo nessa bolha que sustenta o sistema do eu-eu e que, porque é opaca, esconde o real.\",\n  \"resumo_alteracoes\": [\n    \"Corrigidas concordâncias e pequenas falhas gramaticais sem alterar a tese local.\",\n    \"Reduzidas hesitações e oralidade redundante, preservando o tom autoral.\",\n    \"Reorganizada pontuação para tornar mais legível a enumeração inicial e a passagem sobre os tipos de discurso.\",\n    \"Normalizada a grafia de expressões como \\\"eu-eu\\\" e \\\"média\\\".\",\n    \"Mantida a ordem argumentativa: caracterização do discurso sem referência ao real, extensão social desse discurso, e crítica à sua justificação.\"\n  ],\n  \"notas_cautela\": [\n    \"O segmento contém formulações possivelmente truncadas ou pouco estabilizadas, como \\\"justificações que se apresentam para a justificação dos modos eu-eu\\\", que foram preservadas com intervenção mínima.\",\n    \"A expressão \\\"quase na maioria, quase na totalidade\\\" foi mantida por cautela, apesar da tensão interna, para não redefinir a intensidade do enunciado.\",\n    \"Há sinais de fusão de material e de corte interno; o texto foi apenas estabilizado localmente, sem preencher lacunas argumentativas.\"\n  ],\n  \"preservou_ordem_argumentativa_local\": true,\n  \"sinalizar_revisao_humana\": true\n}",
+  "gerado_em_utc": "2026-04-24T23:46:43+00:00",
+  "modelo": "gpt-5.4"
+}
