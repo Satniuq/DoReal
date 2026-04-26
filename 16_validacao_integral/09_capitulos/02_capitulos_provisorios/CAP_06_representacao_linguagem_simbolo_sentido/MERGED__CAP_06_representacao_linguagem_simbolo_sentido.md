@@ -1,6 +1,6 @@
 # MERGED — CAP_06_representacao_linguagem_simbolo_sentido
 
-- Gerado em: `2026-04-25 23:39:33`
+- Gerado em: `2026-04-26 16:31:42`
 - Pasta local: `02_capitulos_provisorios/CAP_06_representacao_linguagem_simbolo_sentido`
 - Ficheiros incluídos: `8`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_06_representacao_linguagem_simbolo_sentido/MERGED__CAP_06_representacao_linguagem_simbolo_sentido.md`

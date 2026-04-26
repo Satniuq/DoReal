@@ -1,6 +1,6 @@
 # MERGED — CAP_02_manifestacao_aparecer_apreensao_situada
 
-- Gerado em: `2026-04-25 23:39:33`
+- Gerado em: `2026-04-26 16:31:41`
 - Pasta local: `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada`
 - Ficheiros incluídos: `8`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_02_manifestacao_aparecer_apreensao_situada/MERGED__CAP_02_manifestacao_aparecer_apreensao_situada.md`

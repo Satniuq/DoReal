@@ -1,6 +1,6 @@
 # MERGED — CAP_04_consciência, reflexividade e sujeito reinscritos
 
-- Gerado em: `2026-04-25 23:39:33`
+- Gerado em: `2026-04-26 16:31:41`
 - Pasta local: `02_capitulos_provisorios/CAP_04_consciência, reflexividade e sujeito reinscritos`
 - Ficheiros incluídos: `8`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_04_consciência, reflexividade e sujeito reinscritos/MERGED__CAP_04_consciência, reflexividade e sujeito reinscritos.md`
