@@ -1,6 +1,6 @@
 # MERGED — CAP_09_acao_liberdade_situada
 
-- Gerado em: `2026-04-26 16:31:42`
+- Gerado em: `2026-04-26 23:28:52`
 - Pasta local: `02_capitulos_provisorios/CAP_09_acao_liberdade_situada`
 - Ficheiros incluídos: `3`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_09_acao_liberdade_situada/MERGED__CAP_09_acao_liberdade_situada.md`

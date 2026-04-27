@@ -1,6 +1,6 @@
 # MERGED — CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional
 
-- Gerado em: `2026-04-26 16:31:42`
+- Gerado em: `2026-04-26 23:28:52`
 - Pasta local: `02_capitulos_provisorios/CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional`
 - Ficheiros incluídos: `8`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/MERGED__CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional.md`

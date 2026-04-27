@@ -1,6 +1,6 @@
 # MERGED — CAP_01_ser_real_unidade_diferenciada
 
-- Gerado em: `2026-04-26 16:31:41`
+- Gerado em: `2026-04-26 23:28:52`
 - Pasta local: `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada`
 - Ficheiros incluídos: `9`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/MERGED__CAP_01_ser_real_unidade_diferenciada.md`

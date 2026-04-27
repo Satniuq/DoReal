@@ -1,6 +1,6 @@
 # MERGED — Auditoria_pos_confronto
 
-- Gerado em: `2026-04-26 16:31:42`
+- Gerado em: `2026-04-26 23:28:52`
 - Pasta local: `02_capitulos_provisorios/Auditoria_pos_confronto`
 - Ficheiros incluídos: `1`
 - Ficheiro gerado: `02_capitulos_provisorios/Auditoria_pos_confronto/MERGED__Auditoria_pos_confronto.md`

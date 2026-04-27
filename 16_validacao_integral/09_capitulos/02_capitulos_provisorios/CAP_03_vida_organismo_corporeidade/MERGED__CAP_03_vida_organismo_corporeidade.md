@@ -1,6 +1,6 @@
 # MERGED — CAP_03_vida_organismo_corporeidade
 
-- Gerado em: `2026-04-26 16:31:41`
+- Gerado em: `2026-04-26 23:28:52`
 - Pasta local: `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade`
 - Ficheiros incluídos: `9`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_03_vida_organismo_corporeidade/MERGED__CAP_03_vida_organismo_corporeidade.md`
