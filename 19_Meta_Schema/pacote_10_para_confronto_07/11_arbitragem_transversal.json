@@ -1,0 +1,916 @@
+{
+  "arbitragem_transversal": [
+    {
+      "id": "ARB_TRAT_F0001_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0001_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "analitica_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "F0001_SEG_001 já integra base, cadência, impacto, árvore e limpeza, mas continua sem tratamento filosófico canónico.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+      }
+    },
+    {
+      "id": "ARB_TRAT_F0002_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0002_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "analitica_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "F0002_SEG_001 já integra base, cadência, impacto, árvore e limpeza, mas continua sem tratamento filosófico canónico.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+      }
+    },
+    {
+      "id": "ARB_TRAT_F0003_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0003_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "analitica_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "F0003_SEG_001 já integra base, cadência, impacto, árvore e limpeza, mas continua sem tratamento filosófico canónico.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+      }
+    },
+    {
+      "id": "ARB_LIMP_F0018_A01_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0018_A01_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "textual_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "prevalece_empirica_base",
+      "justificacao": "F0018_A01_SEG_001 permanece sem camada textual derivada nesta instância larga.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+      }
+    },
+    {
+      "id": "ARB_LIMP_F0018_A01_SEG_002",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0018_A01_SEG_002"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "textual_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "prevalece_empirica_base",
+      "justificacao": "F0018_A01_SEG_002 permanece sem camada textual derivada nesta instância larga.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+      }
+    },
+    {
+      "id": "ARB_LIMP_F0018_A02_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0018_A02_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "textual_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "prevalece_empirica_base",
+      "justificacao": "F0018_A02_SEG_001 permanece sem camada textual derivada nesta instância larga.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+      }
+    },
+    {
+      "id": "ARB_VAL_F0013_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0013_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "analitica_derivada",
+        "estrutural_canonica"
+      ],
+      "tipo_de_conflito": "excecao_ativa",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "suspender_automatismo",
+      "justificacao": "F0013_SEG_001 surge na árvore com validação base problemática e deve manter travão de uso estrutural.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      }
+    },
+    {
+      "id": "ARB_VAL_F0083_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0083_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "analitica_derivada",
+        "estrutural_canonica"
+      ],
+      "tipo_de_conflito": "excecao_ativa",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "suspender_automatismo",
+      "justificacao": "F0083_SEG_001 surge na árvore com validação base problemática e deve manter travão de uso estrutural.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      }
+    },
+    {
+      "id": "ARB_VAL_F0135_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0135_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "analitica_derivada",
+        "estrutural_canonica"
+      ],
+      "tipo_de_conflito": "excecao_ativa",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "suspender_automatismo",
+      "justificacao": "F0135_SEG_001 surge na árvore com validação base problemática e deve manter travão de uso estrutural.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      }
+    },
+    {
+      "id": "ARB_VAL_F0241_A10_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0241_A10_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "analitica_derivada",
+        "estrutural_canonica"
+      ],
+      "tipo_de_conflito": "excecao_ativa",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "suspender_automatismo",
+      "justificacao": "F0241_A10_SEG_001 surge na árvore com validação base problemática e deve manter travão de uso estrutural.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      }
+    },
+    {
+      "id": "ARB_R001_ARGUMENTO",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0001"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "RA_0001 ficou sem argumento na revisão restritiva, mas a adjudicação API posterior manteve ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE como dominante; a instância preserva a decisão final, sem apagar o conflito anterior.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_RELATORIO_REVISAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_P25_FAIXA",
+      "alvo": {
+        "tipo_entidade": "faixa_expositiva",
+        "id": "FAIXA_01_ABERTURA_BLOCO2_CF04_P25"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "expositiva_governativa"
+      ],
+      "tipo_de_conflito": "conflito_expositivo",
+      "regra_de_prevalencia_aplicada": "RP_004",
+      "decisao": "prevalece_expositiva_governativa",
+      "justificacao": "Apesar da pressão estrutural de P25 para prolongamento, a faixa 01 fixa uso mínimo extremo subordinado a CF04 e bloqueia antecipação de P26 e CF05.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_FAIXA_01"
+      }
+    },
+    {
+      "id": "ARB_CRITICA_SEM_CAPITULO",
+      "alvo": {
+        "tipo_entidade": "percurso",
+        "id": "P_CRITICA_SISTEMICA_E_REINTEGRACAO_ONTOLOGICA"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "expositiva_governativa"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "suspender_automatismo",
+      "justificacao": "A crítica sistémica tardia já tem massa analítica e estrutural na instância larga, mas continua sem capítulo local explicitamente aberto neste recorte.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_MAPEAMENTO_CAPITULOS"
+      }
+    },
+    {
+      "id": "ARB_CRIT_F0130_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0130_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "analitica_derivada",
+        "expositiva_governativa"
+      ],
+      "tipo_de_conflito": "conflito_expositivo",
+      "regra_de_prevalencia_aplicada": "RP_004",
+      "decisao": "prevalece_expositiva_governativa",
+      "justificacao": "F0130_SEG_001 aponta para crítica sistémica/reintegração ontológica e deve entrar tardiamente, sem reordenar o tronco positivo.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_NOTA_DESTINACAO"
+      }
+    },
+    {
+      "id": "ARB_CRIT_F0132_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0132_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "analitica_derivada",
+        "expositiva_governativa"
+      ],
+      "tipo_de_conflito": "conflito_expositivo",
+      "regra_de_prevalencia_aplicada": "RP_004",
+      "decisao": "prevalece_expositiva_governativa",
+      "justificacao": "F0132_SEG_001 aponta para crítica sistémica/reintegração ontológica e deve entrar tardiamente, sem reordenar o tronco positivo.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_NOTA_DESTINACAO"
+      }
+    },
+    {
+      "id": "ARB_CRIT_F0241_A16_SEG_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0241_A16_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "analitica_derivada",
+        "expositiva_governativa"
+      ],
+      "tipo_de_conflito": "conflito_expositivo",
+      "regra_de_prevalencia_aplicada": "RP_004",
+      "decisao": "prevalece_expositiva_governativa",
+      "justificacao": "F0241_A16_SEG_001 aponta para crítica sistémica/reintegração ontológica e deve entrar tardiamente, sem reordenar o tronco positivo.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_NOTA_DESTINACAO"
+      }
+    },
+    {
+      "id": "ARB_TRAT_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0001_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "analitica_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "O fragmento existe na base empírica, tem cadência e impacto, mas falta tratamento filosófico estável.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      }
+    },
+    {
+      "id": "ARB_TRAT_002",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0002_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "analitica_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "O fragmento existe na base empírica, tem cadência e impacto, mas falta tratamento filosófico estável.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      }
+    },
+    {
+      "id": "ARB_TRAT_003",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0003_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "analitica_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "O fragmento existe na base empírica, tem cadência e impacto, mas falta tratamento filosófico estável.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      }
+    },
+    {
+      "id": "ARB_TEXT_001",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0018_A01_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "textual_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "O fragmento ficou em so_auditoria e não recebeu texto limpo.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+      }
+    },
+    {
+      "id": "ARB_TEXT_002",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0018_A01_SEG_002"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "textual_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "O fragmento ficou em so_auditoria e não recebeu texto limpo.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+      }
+    },
+    {
+      "id": "ARB_TEXT_003",
+      "alvo": {
+        "tipo_entidade": "fragmento",
+        "id": "F0018_A02_SEG_001"
+      },
+      "camadas_em_tensao": [
+        "empirica_base",
+        "textual_derivada"
+      ],
+      "tipo_de_conflito": "cobertura_insuficiente",
+      "regra_de_prevalencia_aplicada": "RP_001",
+      "decisao": "suspender_automatismo",
+      "justificacao": "O fragmento ficou em so_auditoria e não recebeu texto limpo.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0001",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0001"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apenas o argumento ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE expressa fortemente a função estrutural dominante e é compatível estruturalmente; os outros são incompatíveis localmente e operam em níveis e partes diferentes.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0002",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0002"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Mantém-se um único argumento operacional meta-dedutivo alinhado com a função dominante do ramo, evitando heterogeneidade excessiva e incompatibilidades estruturais.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0003",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0003"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apenas ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL expressa forte compatibilidade estrutural e função dominante do ramo; os demais são incompatíveis e geram heterogeneidade excessiva.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0005",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0005"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apesar da forte compatibilidade estrutural e alta confiança individual, a presença de três argumentos igualmente fortes e compatíveis gera heterogeneidade excessiva e impede a seleção restritiva de um ou dois argumentos. A prudência recomenda manter_0 para evitar inflacão argumentativa e garantir revisão futura.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0007",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0007"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Dois argumentos epistemológicos meta-dedutivos são estruturalmente compatíveis e expressam claramente a função dominante do ramo, justificando exceção para manter ambos; o terceiro argumento é incompatível e excluído.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0008",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0008"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apesar da forte compatibilidade estrutural dos três argumentos com a função dominante, a heterogeneidade excessiva e a presença de mais de dois argumentos impedem a manutenção restritiva de qualquer argumento isolado ou dupla excepcional.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0011",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0011"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Três argumentos fortes e compatíveis, mas excesso de argumentos e heterogeneidade indicam inflação argumentativa; prudência recomenda manter nenhum e revisão humana.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0012",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0012"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apenas o argumento ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL expressa fortemente a função estrutural dominante e é compatível estruturalmente; os outros são incompatíveis e operam em níveis distintos, inviabilizando manter mais de um.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0013",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0013"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Dois argumentos epistemológicos são estruturalmente compatíveis e fortemente sustentados, justificando exceção para manter ambos; o terceiro é incompatível e excluído.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0014",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0014"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "revisao_humana",
+      "justificacao": "Três argumentos fortes e estruturalmente compatíveis, mas excesso de candidatos e heterogeneidade excessiva impedem decisão restritiva automática; revisão humana necessária para escolha prudente.",
+      "necessita_revisao_humana": true,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0015",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0015"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Dois argumentos epistemológicos e estruturais são fortemente compatíveis e expressam a função dominante do ramo, justificando exceção para manter ambos; o terceiro é incompatível e excluído.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0016",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Mantém-se um único argumento que expressa a função estrutural dominante com compatibilidade moderada, evitando inflacionar com argumentos incompatíveis e associação fraca.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0017",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Três argumentos fortes e compatíveis, mas excesso de heterogeneidade e dispersão impede manter mais de um; ausência de dominância clara recomenda manter_0 para prudência.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0020",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apenas o argumento ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO expressa fortemente a função estrutural dominante e é estruturalmente compatível, enquanto os outros apresentam incompatibilidades de parte.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0021",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Dois argumentos epistemológicos meta-dedutivos são fortemente compatíveis estruturalmente e expressam a função dominante do ramo, justificando exceção para manter ambos; o terceiro é incompatível e excluído.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0026",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apesar da forte compatibilidade estrutural e fundamentação dos três argumentos, a presença simultânea de mais de dois argumentos compatíveis e a heterogeneidade excessiva indicam inflação argumentativa. Sem argumento dominante claro, a decisão prudente é não manter argumentos automaticamente.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0029",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Três argumentos fortes mas incompatíveis localmente, sem dominância clara e com heterogeneidade excessiva; decisão restritiva mantém nenhum argumento para evitar inflação argumentativa.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0032",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Nenhum argumento expressa adequadamente a função dominante do ramo; incompatibilidades estruturais e heterogeneidade excessiva impedem manutenção restritiva.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0033",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apesar da heterogeneidade e incompatibilidades, o argumento ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL expressa a função dominante do ramo com compatibilidade moderada e maior confiança, justificando sua manutenção isolada.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0035",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apesar da forte compatibilidade estrutural e fundamentação dos três argumentos, a presença simultânea de mais de dois argumentos viáveis e a heterogeneidade excessiva indicam sobreoferta sem redução prudente automática, sem argumento único dominante claro, recomendando não manter nenhum argumento automaticamente.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0043",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apesar da forte compatibilidade e fundamentação dos três argumentos, a presença de mais de dois argumentos compatíveis e a ausência de dominância clara indicam prudência em não manter nenhum argumento automaticamente.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0049",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Apenas o argumento ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL expressa fortemente a função dominante do ramo e é estruturalmente compatível; os outros são incompatíveis e não podem ser mantidos juntos.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0057",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Três argumentos são todos relevantes e alinhados à função dominante, mas incompatíveis entre si em parte e nível de operação, sem dominância clara. Dado o conflito estrutural e a ausência de menção específica no relatório, a decisão restritiva é não manter nenhum argumento para evitar inflação argumentativa.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0059",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Dois argumentos fortes e estruturalmente compatíveis expressam a função dominante epistemológica, justificando exceção para manter ambos; o terceiro é incompatível e excluído.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0061",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Três argumentos fortes e estruturalmente compatíveis, mas excesso de candidatos impede exceção binária prudente; sem dominância clara, opta-se por manter_0 para evitar inflação argumentativa.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    },
+    {
+      "id": "ARB_R_RA_0066",
+      "alvo": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "camadas_em_tensao": [
+        "estrutural_canonica",
+        "arbitragem_transversal"
+      ],
+      "tipo_de_conflito": "divergencia_estrutural",
+      "regra_de_prevalencia_aplicada": "RP_005",
+      "decisao": "prevalece_estrutural_canonica",
+      "justificacao": "Dois argumentos principais são fortemente compatíveis, estruturais e operacionais, expressando a função dominante e percurso; terceiro argumento é menos central e compatível moderadamente, justificando exclusão para evitar inflação argumentativa.",
+      "necessita_revisao_humana": false,
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      }
+    }
+  ]
+}

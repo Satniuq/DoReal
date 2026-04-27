@@ -1,0 +1,5689 @@
+{
+  "parte": 57,
+  "total_partes": 57,
+  "offset_inicio": 28000,
+  "offset_fim_exclusivo": 28299,
+  "arestas_tipadas": [
+    {
+      "id": "AR_028001",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0015"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P22"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028002",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0015"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028003",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0015"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028004",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0015"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028005",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028006",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028007",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CRITERIO_COMO_FIXACAO_OPERATIVA_SOB_LIMITE"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028008",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028009",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028010",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028011",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P31"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028012",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028013",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0016"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P34"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028014",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_ESCALA_E_ERRO_DE_ESCALA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028015",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028016",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ERRO_COMO_DESALINHAMENTO_OPERATIVO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028017",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ERRO_DE_ESCALA_COMO_COLAPSO_DE_NIVEIS"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028018",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028019",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028020",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028021",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028022",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0017"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P38"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028023",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0018"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_ONTOLOGICO_NUCLEAR"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028024",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0018"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_REAL_COMO_CONTINUIDADE_ESTRUTURADA"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028025",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0018"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_SER_COMO_MODO_DE_ESTAR_NO_REAL"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028026",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0018"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P04"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028027",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0018"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P11"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028028",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0018"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P12"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028029",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0019"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028030",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0019"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028031",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0019"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P30"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028032",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028033",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028034",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028035",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028036",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028037",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028038",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028039",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028040",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0020"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P01"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028041",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028042",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ADEQUACAO_COMO_RELACAO_DE_CORRESPONDENCIA_SITUADA"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028043",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ADEQUACAO_EXIGE_CRITERIO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028044",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028045",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P47"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028046",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P17"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028047",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028048",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028049",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0021"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028050",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0022"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028051",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0022"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P34"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028052",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0022"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028053",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0022"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P44"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028054",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0023"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_ONTOLOGICO_NUCLEAR"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028055",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0023"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_DISTINCAO_MINIMA"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028056",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0023"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_RELACIONALIDADE_MINIMA"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028057",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0023"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P01"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028058",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0023"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P09"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028059",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0023"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P10"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028060",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0023"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P12"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028061",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0024"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028062",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0024"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028063",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0024"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P46"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028064",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0024"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P06"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028065",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0024"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P22"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028066",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0024"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028067",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0025"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028068",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0025"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ESTABILIDADE_COMO_REPETICAO_COMPATIVEL_NO_CAMPO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028069",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0025"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P04"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028070",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0025"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P11"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028071",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028072",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028073",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028074",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028075",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028076",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028077",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P29"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028078",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P34"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028079",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0026"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028080",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028081",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028082",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028083",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P22"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028084",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028085",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028086",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028087",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0028"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P34"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028088",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_SIMBOLICO_MEDIACIONAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028089",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028090",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_DIGNIDADE_COMO_LIMITE_NORMATIVO_DA_MEDIACAO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028091",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028092",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P13"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028093",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P44"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028094",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P49"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028095",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P12"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028096",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0029"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028097",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0030"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_PERCURSO_INTEGRAL_DO_REAL_A_VIDA_BOA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028098",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0030"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028099",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0030"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P29"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028100",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0030"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P47"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028101",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0031"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P40"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028102",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0031"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P45"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028103",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0031"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P49"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028104",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028105",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028106",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028107",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ERRO_CATEGORIAL_COMO_SUBSTITUICAO_DE_REGIME"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028108",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P20"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028109",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P22"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028110",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028111",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028112",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0032"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028113",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028114",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028115",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028116",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028117",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028118",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028119",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028120",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028121",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0033"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028122",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0034"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P16"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028123",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028124",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028125",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028126",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_IMAGINACAO_COMO_PROJECAO_SITUADA_NAO_ATUALIZACAO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028127",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028128",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028129",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P47"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028130",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028131",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0035"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028132",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0036"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028133",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0037"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028134",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0038"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P43"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028135",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0038"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P47"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028136",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0038"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P48"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028137",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0038"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P50"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028138",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0039"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028139",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0039"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_DEVER_SER_COMO_DERIVACAO_DA_DIGNIDADE"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028140",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0039"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028141",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0039"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028142",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0039"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028143",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0039"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028144",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0039"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028145",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0040"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P49"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028146",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0040"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P51"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028147",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0041"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028148",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0041"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028149",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0041"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028150",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028151",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028152",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_DIREITO_COMO_DESCRICAO_OPERATIVA_DO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028153",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028154",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028155",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028156",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028157",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028158",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0043"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P29"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028159",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0044"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028160",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0044"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P46"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028161",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0045"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028162",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0045"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028163",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0045"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P37"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028164",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0046"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_ONTOLOGICO_NUCLEAR"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028165",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0046"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P12"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028166",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0046"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P15"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028167",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0046"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P18"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028168",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_ONTOLOGICO_NUCLEAR"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028169",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_DISTINCAO_MINIMA"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028170",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_RELACIONALIDADE_MINIMA"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028171",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028172",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028173",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028174",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028175",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0047"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P01"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028176",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0048"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P22"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028177",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0048"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028178",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0048"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028179",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0048"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028180",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0048"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028181",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028182",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028183",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028184",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028185",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028186",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028187",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P15"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028188",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028189",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0049"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P31"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028190",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0051"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028191",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0051"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028192",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0051"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028193",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0051"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028194",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0051"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028195",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0051"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028196",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0052"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P46"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028197",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0052"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P47"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028198",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0052"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P48"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028199",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0053"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028200",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0053"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028201",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0053"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P34"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028202",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0053"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P44"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028203",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028204",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_REPRESENTACAO_COMO_FIXACAO_MEDIADA_DA_APREENSAO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028205",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_SIMBOLO_COMO_UNIDADE_OPERATIVA_DE_MEDIACAO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028206",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028207",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P13"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028208",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P27"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028209",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028210",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0054"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P29"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028211",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0055"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P46"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028212",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0055"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P47"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028213",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0055"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P48"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028214",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0056"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028215",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0056"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_ESCALA_ONTOLOGICA_COMO_NAO_COLAPSO_DE_NIVEIS"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028216",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0056"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P09"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028217",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0056"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P13"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028218",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0056"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P14"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028219",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0056"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P15"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028220",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0056"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P18"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028221",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028222",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028223",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028224",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028225",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028226",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028227",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P21"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028228",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028229",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0057"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028230",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0058"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_PERCURSO_DA_VIDA_BOA_FILOSOFICA_ESPIRAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028231",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0058"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P12"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028232",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028233",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CORRECAO_COMO_AJUSTE_DE_CRITERIO_E_ESCALA"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028234",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CORRECAO_COMO_REINSCRICAO_NO_REAL"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028235",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_BEM_COMO_ADEQUACAO_DA_ATUALIZACAO_AO_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028236",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028237",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028238",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028239",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028240",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0059"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P31"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028241",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028242",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028243",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_AUTORREFERENCIALIDADE_COMO_RISCO_DE_FECHAMENTO"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028244",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CONSCIENCIA_REFLEXIVA_COMO_CAPACIDADE_LOCALIZADA"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028245",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028246",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P26"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028247",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028248",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028249",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0061"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P11"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028250",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_EIXO_EPISTEMOLOGICO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028251",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_CULTURA_COMO_SISTEMA_SIMBOLICO_ESTABILIZADO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028252",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_FECHAMENTO_SIMBOLICO_E_RISCO_DE_ERRO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028253",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P22"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028254",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028255",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028256",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028257",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0062"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P46"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028258",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0063"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P32"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028259",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0063"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028260",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0063"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028261",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0063"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P40"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028262",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0063"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P44"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028263",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0065"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_ESTRUTURA_OPERACIONAL_DO_REAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028264",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0065"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P14"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028265",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0065"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P15"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028266",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0065"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P18"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028267",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "percurso",
+        "id": "P_TRANSICAO_ANTROPOLOGICA_ONTOLOGICA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "explicita",
+      "justificacao": "Percurso estabilizado do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028268",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_APREENSAO_COMO_CONTATO_SITUADO_COM_O_REAL"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028269",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_LOCALIDADE_COMO_CONDICAO_DE_APREENSAO"
+      },
+      "tipo_de_relacao": "fundamenta",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento mantido após adjudicação.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028270",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "argumento",
+        "id": "ARG_MEMORIA_COMO_ESTABILIZACAO_TEMPORAL_INTERNA"
+      },
+      "tipo_de_relacao": "entra_em_tensao_com",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "arbitragem",
+      "justificacao": "Argumento excluído na adjudicação do ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028271",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P28"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028272",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P23"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028273",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P25"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028274",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P24"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028275",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0066"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P30"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028276",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0067"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P20"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028277",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0067"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P33"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028278",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0067"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P34"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028279",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0067"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P36"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028280",
+      "origem": {
+        "tipo_entidade": "ramo",
+        "id": "RA_0067"
+      },
+      "destino": {
+        "tipo_entidade": "proposicao",
+        "id": "P37"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "medio",
+      "efeito_principal": "explicita",
+      "justificacao": "Passo do mapa associado ao ramo.",
+      "fonte": {
+        "fonte_id": "SRC_ARVORE_PENSAMENTO"
+      },
+      "confianca": "media"
+    },
+    {
+      "id": "AR_028281",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF01"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_01_SER_REAL_UNIDADE_DIFERENCIADA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028282",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF02"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_02_MANIFESTACAO_APARECER_APREENSAO_SITUADA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028283",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF03"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_03_VIDA_ORGANISMO_CORPOREIDADE"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028284",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF04"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_04_CONSCIENCIA_REFLEXIVIDADE_SUJEITO_REINSCRITOS"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028285",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF06"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_06_LINGUAGEM_SIMBOLO_SENTIDO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028286",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF07"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_07_VERDADE_ERRO_CRITERIO_CORRECAO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028287",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF08"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_07_VERDADE_ERRO_CRITERIO_CORRECAO"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028288",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF09"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_09_ACAO_LIBERDADE_SITUADA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028289",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF10"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_10_DANO_BEM_MAL_NORMATIVIDADE_DERIVADA"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028290",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF11"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_11_RESPONSABILIDADE_DIGNIDADE_VIDA_BOA_PRUDENCIAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028291",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF12"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_11_RESPONSABILIDADE_DIGNIDADE_VIDA_BOA_PRUDENCIAL"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028292",
+      "origem": {
+        "tipo_entidade": "cf",
+        "id": "CF13"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_12_BOOK_PLACEHOLDER"
+      },
+      "tipo_de_relacao": "participa_em",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Caso filosófico associado ao capítulo provisório.",
+      "fonte": {
+        "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028293",
+      "origem": {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_PROLOGO_SOBERANO"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_01_SER_REAL_UNIDADE_DIFERENCIADA"
+      },
+      "tipo_de_relacao": "governa",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Peça governativa comanda a camada expositiva correspondente.",
+      "fonte": {
+        "fonte_id": "SRC_README_FINAL_METODO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028294",
+      "origem": {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_GRELHA_RECONHECIMENTO"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_01_SER_REAL_UNIDADE_DIFERENCIADA"
+      },
+      "tipo_de_relacao": "governa",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Peça governativa comanda a camada expositiva correspondente.",
+      "fonte": {
+        "fonte_id": "SRC_README_FINAL_METODO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028295",
+      "origem": {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_README_FINAL_METODO"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_01_SER_REAL_UNIDADE_DIFERENCIADA"
+      },
+      "tipo_de_relacao": "governa",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Peça governativa comanda a camada expositiva correspondente.",
+      "fonte": {
+        "fonte_id": "SRC_README_FINAL_METODO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028296",
+      "origem": {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_FAIXA_01_CF04_P25"
+      },
+      "destino": {
+        "tipo_entidade": "faixa_expositiva",
+        "id": "FAIXA_01_ABERTURA_BLOCO2_CF04_P25"
+      },
+      "tipo_de_relacao": "governa",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Peça governativa comanda a camada expositiva correspondente.",
+      "fonte": {
+        "fonte_id": "SRC_README_FINAL_METODO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028297",
+      "origem": {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_NOTA_DESTINACAO_DA_OBRA"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_11_RESPONSABILIDADE_DIGNIDADE_VIDA_BOA_PRUDENCIAL"
+      },
+      "tipo_de_relacao": "governa",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Peça governativa comanda a camada expositiva correspondente.",
+      "fonte": {
+        "fonte_id": "SRC_README_FINAL_METODO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028298",
+      "origem": {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_NOTA_LEITURA_CAPITULOS"
+      },
+      "destino": {
+        "tipo_entidade": "capitulo",
+        "id": "CAP_01_SER_REAL_UNIDADE_DIFERENCIADA"
+      },
+      "tipo_de_relacao": "governa",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Peça governativa comanda a camada expositiva correspondente.",
+      "fonte": {
+        "fonte_id": "SRC_README_FINAL_METODO"
+      },
+      "confianca": "alta"
+    },
+    {
+      "id": "AR_028299",
+      "origem": {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_MERGED_DESCIDA_FAIXAS"
+      },
+      "destino": {
+        "tipo_entidade": "faixa_expositiva",
+        "id": "FAIXA_14_CF12"
+      },
+      "tipo_de_relacao": "governa",
+      "grau_de_relevancia": "alto",
+      "efeito_principal": "governo",
+      "justificacao": "Peça governativa comanda a camada expositiva correspondente.",
+      "fonte": {
+        "fonte_id": "SRC_README_FINAL_METODO"
+      },
+      "confianca": "alta"
+    }
+  ]
+}

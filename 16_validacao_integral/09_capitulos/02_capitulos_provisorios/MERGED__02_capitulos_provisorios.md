@@ -1,22 +1,24 @@
 # MERGED — 02_capitulos_provisorios
 
-- Gerado em: `2026-04-26 23:28:52`
-- Pasta: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios`
-- Pastas locais incluídas: `12`
-- Ficheiro gerado: `C:\Users\vanes\DoReal_Casa_Local\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\MERGED__02_capitulos_provisorios.md`
+- Gerado em: `2026-04-27 19:39:44`
+- Pasta: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios`
+- Pastas locais incluídas: `14`
+- Ficheiro gerado: `C:\Users\JoseVitorinoQuintas\DoReal\16_validacao_integral\09_capitulos\02_capitulos_provisorios\MERGED__02_capitulos_provisorios.md`
 
 ## Índice das pastas locais
 
 - [PROLOGO_submissao_ao_real](#capitulo-prologo-submissao-ao-real) — `4` ficheiro(s) — `PROLOGO_submissao_ao_real/MERGED__PROLOGO_submissao_ao_real.md`
 - [CAP_01_ser_real_unidade_diferenciada](#capitulo-cap-01-ser-real-unidade-diferenciada) — `9` ficheiro(s) — `CAP_01_ser_real_unidade_diferenciada/MERGED__CAP_01_ser_real_unidade_diferenciada.md`
 - [CAP_02_manifestacao_aparecer_apreensao_situada](#capitulo-cap-02-manifestacao-aparecer-apreensao-situada) — `9` ficheiro(s) — `CAP_02_manifestacao_aparecer_apreensao_situada/MERGED__CAP_02_manifestacao_aparecer_apreensao_situada.md`
-- [CAP_03_vida_organismo_corporeidade](#capitulo-cap-03-vida-organismo-corporeidade) — `9` ficheiro(s) — `CAP_03_vida_organismo_corporeidade/MERGED__CAP_03_vida_organismo_corporeidade.md`
-- [CAP_04_consciência, reflexividade e sujeito reinscritos](#capitulo-cap-04-consciencia-reflexividade-e-sujeito-reinscritos) — `8` ficheiro(s) — `CAP_04_consciência, reflexividade e sujeito reinscritos/MERGED__CAP_04_consciência, reflexividade e sujeito reinscritos.md`
-- [CAP_05_memoria_permanencia_interna_identidade_temporal](#capitulo-cap-05-memoria-permanencia-interna-identidade-temporal) — `8` ficheiro(s) — `CAP_05_memoria_permanencia_interna_identidade_temporal/MERGED__CAP_05_memoria_permanencia_interna_identidade_temporal.md`
-- [CAP_06_representacao_linguagem_simbolo_sentido](#capitulo-cap-06-representacao-linguagem-simbolo-sentido) — `8` ficheiro(s) — `CAP_06_representacao_linguagem_simbolo_sentido/MERGED__CAP_06_representacao_linguagem_simbolo_sentido.md`
-- [CAP_07_verdade_erro_criterio_correcao](#capitulo-cap-07-verdade-erro-criterio-correcao) — `9` ficheiro(s) — `CAP_07_verdade_erro_criterio_correcao/MERGED__CAP_07_verdade_erro_criterio_correcao.md`
-- [CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional](#capitulo-cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional) — `8` ficheiro(s) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/MERGED__CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional.md`
-- [CAP_09_acao_liberdade_situada](#capitulo-cap-09-acao-liberdade-situada) — `3` ficheiro(s) — `CAP_09_acao_liberdade_situada/MERGED__CAP_09_acao_liberdade_situada.md`
+- [CAP_03_vida_organismo_corporeidade](#capitulo-cap-03-vida-organismo-corporeidade) — `10` ficheiro(s) — `CAP_03_vida_organismo_corporeidade/MERGED__CAP_03_vida_organismo_corporeidade.md`
+- [CAP_04_consciência, reflexividade e sujeito reinscritos](#capitulo-cap-04-consciencia-reflexividade-e-sujeito-reinscritos) — `9` ficheiro(s) — `CAP_04_consciência, reflexividade e sujeito reinscritos/MERGED__CAP_04_consciência, reflexividade e sujeito reinscritos.md`
+- [CAP_05_memoria_permanencia_interna_identidade_temporal](#capitulo-cap-05-memoria-permanencia-interna-identidade-temporal) — `9` ficheiro(s) — `CAP_05_memoria_permanencia_interna_identidade_temporal/MERGED__CAP_05_memoria_permanencia_interna_identidade_temporal.md`
+- [CAP_06_representacao_linguagem_simbolo_sentido](#capitulo-cap-06-representacao-linguagem-simbolo-sentido) — `9` ficheiro(s) — `CAP_06_representacao_linguagem_simbolo_sentido/MERGED__CAP_06_representacao_linguagem_simbolo_sentido.md`
+- [CAP_07_verdade_erro_criterio_correcao](#capitulo-cap-07-verdade-erro-criterio-correcao) — `10` ficheiro(s) — `CAP_07_verdade_erro_criterio_correcao/MERGED__CAP_07_verdade_erro_criterio_correcao.md`
+- [CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional](#capitulo-cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional) — `9` ficheiro(s) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/MERGED__CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional.md`
+- [CAP_09_acao_liberdade_situada](#capitulo-cap-09-acao-liberdade-situada) — `9` ficheiro(s) — `CAP_09_acao_liberdade_situada/MERGED__CAP_09_acao_liberdade_situada.md`
+- [CAP_10_dano_bem_mal_normatividade_derivada](#capitulo-cap-10-dano-bem-mal-normatividade-derivada) — `9` ficheiro(s) — `CAP_10_dano_bem_mal_normatividade_derivada/MERGED__CAP_10_dano_bem_mal_normatividade_derivada.md`
+- [CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial](#capitulo-cap-11-responsabilidade-dignidade-e-vida-boa-prudencial) — `2` ficheiro(s) — `CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial/MERGED__CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial.md`
 - [Auditoria_pos_confronto](#capitulo-auditoria-pos-confronto) — `1` ficheiro(s) — `Auditoria_pos_confronto/MERGED__Auditoria_pos_confronto.md`
 - [Nota_Leitura](#capitulo-nota-leitura) — `1` ficheiro(s) — `Nota_Leitura/MERGED__Nota_Leitura.md`
 
@@ -3500,7 +3502,7 @@ Não é ainda a redação final publicada do capítulo. A sua função é conver
 
 O capítulo deve continuar a dizer primeiro o que é: o ser enquanto determinação inscrita no real. Só depois deve mostrar que modos de dizer ficam bloqueados, por que razão ficam bloqueados, que pressupostos errados os sustentam, e como devem ser reinscritos no real.
 
-A crítica aqui não é uma segunda peça ao lado da exposição. É uma função acompanhante da escrita. Entra para proteger a determinação positiva contra os seus falsos substitutos: substância separada, coisa isolada, essência fora do real, contentor neutro, bloco homogéneo, átomo disperso, ato subjetivo ou sistema fechado.
+A crítica aqui não é uma segunda peça ao lado da exposição. É uma função acompanhante da escrita. Entra para proteger a determinação positiva contra os seus falsos substitutos: substância separada, coisa isolada, essência fora do real, contentor neutro, bloco homogéneo, átomo disperso, ato subjetivo, sistema fechado ou indeterminação absoluta.
 
 ### limite
 
@@ -3523,7 +3525,7 @@ O `07` não reabre essa decisão. Não acrescenta novo núcleo material. Não mu
 
 O que este ficheiro faz é preparar a escrita final, tornando mais explícito o modo como a crítica acompanha a exposição positiva. O capítulo deve continuar a avançar pela cadeia:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser como inscrição determinada no real.
 
 A diferença está no grau de integração crítica: cada passo deve dizer o real e, logo depois, mostrar o falso dizer que esse passo impede.
 
@@ -3551,7 +3553,7 @@ Esta fórmula deve comandar todo o capítulo. Nada deve deslocá-la para ser com
 
 A cadeia positiva a preservar é:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser como inscrição determinada no real.
 
 Esta cadeia não é uma lista de definições. É um avanço interno. Cada passo exige o seguinte:
 
@@ -3560,7 +3562,7 @@ Esta cadeia não é uma lista de definições. É um avanço interno. Cada passo
 - se há relacionalidade mínima, há articulação estrutural;
 - se há estrutura, há limite;
 - se há limite, há determinação;
-- se há determinação, há exclusão funcional;
+- se há determinação, há exclusão funcional e inadmissibilidade;
 - se há determinações sob limite, o real é continuidade estruturada;
 - se o real é continuidade estruturada de determinações, o ser é inscrição determinada no real.
 
@@ -3570,7 +3572,7 @@ A fórmula axial do Capítulo 1 é:
 
 - **ser no real:** determinação inscrita no real;
 - **dizer do ser:** substância, coisa, essência, contentor, bloco ou átomo isolado;
-- **erro da proposição não real:** substituir a inscrição real por imagem substancialista, atomística, monista, subjetivista ou sistémica;
+- **erro da proposição não real:** substituir a inscrição real por imagem substancialista, atomística, monista, subjetivista, negativista ou sistémica;
 - **reinscrição no real:** ser como determinação inscrita numa continuidade estruturada sob limite.
 
 Esta fórmula deve permanecer como grelha interna de escrita, não como fórmula repetida mecanicamente a cada parágrafo.
@@ -3589,13 +3591,13 @@ Esta fórmula deve permanecer como grelha interna de escrita, não como fórmula
 
 #### Ponto crítico 2 — relacionalidade
 
-- **passo positivo:** a distinção implica relacionalidade mínima; distinguir é já afirmar uma não-identidade e, portanto, um entre mínimo.
+- **passo positivo:** a distinção implica relacionalidade mínima; distinguir é já afirmar uma não-identidade e, portanto, um entre mínimo no interior de um campo real comum.
 - **posição-tipo bloqueada:** diferença como atomismo, isto é, como soma de entidades absolutamente isoladas.
 - **acerto local da posição:** vê corretamente que a diferença é real e que a unidade do real não pode apagar determinações.
 - **deslocação:** isola os termos antes da relação e trata a relação como adição posterior.
 - **pressuposto errado:** pressupõe que algo possa estar determinado primeiro como ilha ontológica e só depois entrar em relação.
 - **crítica curta:** uma diferença sem qualquer relação, nem sequer relação de não-identidade, deixa de ser diferença inteligível.
-- **reinscrição:** a relacionalidade mínima é a não-identidade implicada pela distinção; não é causalidade, mediação, interação psicológica ou sistema.
+- **reinscrição:** a relacionalidade mínima é a não-identidade implicada pela distinção no campo comum do real; não é causalidade, mediação, interação psicológica ou sistema.
 
 #### Ponto crítico 3 — estrutura
 
@@ -3617,15 +3619,15 @@ Esta fórmula deve permanecer como grelha interna de escrita, não como fórmula
 - **crítica curta:** sem limite não há determinação mais rica, mas indistinção; o ilimitado absoluto não liberta o ser, dissolve-o.
 - **reinscrição:** limite é diferenciação estrutural entre admissível e não-admissível no interior do real.
 
-#### Ponto crítico 5 — determinação e não-ser funcional
+#### Ponto crítico 5 — determinação, não-ser funcional e inadmissibilidade
 
-- **passo positivo:** determinação é estabilização relacional de distinções sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação.
+- **passo positivo:** determinação é estabilização relacional de distinções sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação, e a inadmissibilidade como aquilo que o limite torna impossível naquela determinação.
 - **posição-tipo bloqueada:** determinação como substância rígida; não-ser como entidade negativa, região oposta ou força rival do ser.
 - **acerto local da posição:** vê corretamente que a determinação exige estabilidade e que determinar implica excluir.
 - **deslocação:** reifica a estabilidade como coisa e hipostasia a exclusão como entidade.
 - **pressuposto errado:** pressupõe que só uma substância pode ser estável e que toda exclusão precisa de um domínio próprio.
 - **crítica curta:** a determinação não precisa de ser substância para ser estável; e o não-ser não precisa de existir como entidade para funcionar como exclusão.
-- **reinscrição:** determinar é fixar relacionalmente sob limite; não-ser é o nome funcional do que fica excluído por essa fixação.
+- **reinscrição:** determinar é fixar relacionalmente sob limite; não-ser é o nome funcional do que fica excluído por essa fixação; inadmissibilidade é o nome do que o limite real não permite naquele campo determinado.
 
 #### Ponto crítico 6 — real como continuidade estruturada
 
@@ -3659,6 +3661,8 @@ O Capítulo 1 deve bloquear, de forma curta e funcional, as seguintes posições
 6. **Limite como restrição exterior** — o limite é pensado como empobrecimento imposto a algo que seria primeiro ilimitado.
 7. **Não-ser como entidade negativa** — o não-ser é pensado como região, força ou entidade oposta ao ser.
 8. **Distinção como ato subjetivo** — a distinção é pensada como operação do sujeito que recorta o real.
+9. **Relação como ponte posterior** — a relação é pensada como ligação externa entre termos já previamente isolados.
+10. **Continuidade estruturada como aparecer** — a estrutura ontológica do real é confundida com a sua manifestação a um ente situado.
 
 Estas posições não são tratadas como escolas históricas a comentar. São operações típicas de substituição do real por imagem.
 
@@ -3674,6 +3678,8 @@ O capítulo deve ser justo. Uma posição só é criticada corretamente quando s
 - **Posições negativistas** veem corretamente que determinar exclui; deslocam-se quando transformam a exclusão funcional em entidade negativa.
 - **Posições que falam de limite como perda** veem corretamente que o limite exclui; deslocam-se quando esquecem que essa exclusão é condição interna da determinação.
 - **Posições que falam do real como contentor** veem corretamente que há um âmbito comum; deslocam-se quando tratam esse âmbito como recipiente exterior às próprias determinações reais.
+- **Posições que falam de relação como ligação posterior** veem corretamente que as determinações podem relacionar-se de modos diversos; deslocam-se quando ignoram que já há relacionalidade mínima na própria distinção.
+- **Posições que confundem estrutura com aparecer** veem corretamente que o real pode aparecer; deslocam-se quando antecipam para este capítulo a teoria da apreensão situada.
 
 A crítica deve operar neste ponto: reconhecer o acerto parcial, isolar o deslocamento e reinscrever a intuição no real.
 
@@ -3755,7 +3761,7 @@ O capítulo começa aqui porque qualquer começo mais alto já pressuporia aquil
 
 A sua cadeia é esta:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser como inscrição determinada no real.
 
 A crítica entrará em cada passo apenas para impedir o desvio. Primeiro será dito o positivo; depois será mostrado o falso modo de o dizer; por fim, esse falso dizer será reinscrito no real.
 
@@ -3787,13 +3793,15 @@ Dizer que algo é distinguível implica já uma relação mínima. Não se trata
 
 Esse entre não é uma terceira coisa colocada entre duas substâncias. Não é um espaço exterior ao real. Não é uma ponte construída depois entre ilhas já prontas. É a forma mínima pela qual a distinção é inteligível: uma diferença só é diferença porque há não-identidade.
 
+Mas esta não-identidade também não paira no vazio. Ela só é inteligível no campo comum do real. A relação mínima não vem juntar termos previamente isolados. Ela exprime que a distinção só pode ser inteligível num mesmo real em que algo se distingue de algo. O distinto não é ilha; é diferença inscrita no campo real em que pode ser distinguida.
+
 O falso modo de dizer a diferença é o atomismo. A posição atomística vê corretamente que a diferença é real. Recusa, com razão, uma unidade que apagaria todas as determinações. Mas desloca esse acerto quando imagina que os termos distintos estão primeiro isolados e só depois entram em relação.
 
 O pressuposto errado é que algo pode ser plenamente o que é antes de qualquer relação mínima. Mas uma diferença absolutamente sem relação não seria sequer diferença. Se nada liga A e B nem sequer como não-identidade, então não há critério mínimo para dizer que A é distinto de B.
 
 A crítica curta é esta: não há distinção sem relacionalidade mínima; uma diferença sem qualquer entre desfaz-se como diferença.
 
-A reinscrição correta não transforma esta relacionalidade em sistema, mediação ou causalidade. Mantém-na baixa: relacionalidade mínima é apenas a não-identidade implicada pela distinção. O capítulo precisa dela para impedir dois erros simétricos: o bloco homogéneo, que apaga diferença, e o atomismo absoluto, que perde o campo comum da diferença.
+A reinscrição correta não transforma esta relacionalidade em sistema, mediação ou causalidade. Mantém-na baixa: relacionalidade mínima é apenas a não-identidade implicada pela distinção no campo comum do real. O capítulo precisa dela para impedir dois erros simétricos: o bloco homogéneo, que apaga diferença, e o atomismo absoluto, que perde o campo comum da diferença.
 
 A segunda determinação positiva fica assim:
 
@@ -3841,7 +3849,7 @@ A quarta determinação positiva fica assim:
 
 > sem limite, não há existência determinada.
 
-### 6. Determinação e não-ser funcional
+### 6. Determinação, não-ser funcional e inadmissibilidade
 
 Determinação é a estabilização relacional de uma distinção sob limite.
 
@@ -3855,19 +3863,21 @@ O pressuposto errado é que só uma substância pode permanecer determinada. Mas
 
 Da determinação decorre o não-ser funcional. Aquilo que uma determinação é exclui aquilo que ela não é. Mas essa exclusão não deve ser transformada em entidade. O não-ser, aqui, não é região, força, substância negativa ou mundo rival. É apenas o nome funcional do que fica excluído pelo limite de uma determinação.
 
+Entra aqui também a inadmissibilidade. Se há limite, nem tudo é admissível naquela determinação. O nada absoluto não é uma alternativa ontológica ao real; e o não-admissível não é um segundo mundo. É aquilo que, naquele recorte determinado, o limite real não permite. A determinação não abre apenas uma identidade; abre também um campo de exclusões reais.
+
 A posição que hipostasia o não-ser vê corretamente que determinar implica excluir. Mas desloca esse acerto quando dá à exclusão estatuto próprio, como se o que não é precisasse de existir como domínio oposto ao ser.
 
 A crítica curta é esta: determinar é excluir, mas a exclusão não é uma entidade.
 
-A reinscrição correta mantém determinação e não-ser no real. Determinação é fixação relacional sob limite. Não-ser funcional é a exclusão implicada por essa fixação. A determinação não é substância; o não-ser não é coisa negativa.
+A reinscrição correta mantém determinação, não-ser e inadmissibilidade no real. Determinação é fixação relacional sob limite. Não-ser funcional é a exclusão implicada por essa fixação. Inadmissibilidade é o que o limite não permite naquela determinação. A determinação não é substância; o não-ser não é coisa negativa; a inadmissibilidade não é outro domínio.
 
 A quinta determinação positiva fica assim:
 
-> determinar é estabilizar relacionalmente sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação.
+> determinar é estabilizar relacionalmente sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação, e a inadmissibilidade como limite real do que pode caber nela.
 
 ### 7. Real como continuidade estruturada
 
-Com distinção, relacionalidade mínima, estrutura, limite, determinação e não-ser funcional, já se pode dizer o real de modo mais preciso.
+Com distinção, relacionalidade mínima, estrutura, limite, determinação, não-ser funcional e inadmissibilidade, já se pode dizer o real de modo mais preciso.
 
 O real não é bloco homogéneo. Se fosse bloco homogéneo, a unidade apagaria distinção, limite e determinação. Nada seria inteligível como algo. A unidade seria obtida à custa da diferença.
 
@@ -3885,7 +3895,7 @@ A crítica curta é esta: a unidade do real não apaga diferença; a diferença 
 
 A reinscrição correta é a continuidade estruturada.
 
-O real é continuidade porque não há exterioridade ao real e porque nenhuma determinação existe fora do campo real em que se inscreve. É estruturado porque essa continuidade não apaga distinções, relações, limites e determinações. É uno sem ser homogéneo. É diferenciado sem ser disperso. É articulado sem ser sistema fechado.
+O real é continuidade porque não há exterioridade ao real e porque nenhuma determinação existe fora do campo real em que se inscreve. É estruturado porque essa continuidade não apaga distinções, relações, limites, determinações e inadmissibilidades. É uno sem ser homogéneo. É diferenciado sem ser disperso. É articulado sem ser sistema fechado.
 
 Esta formulação é o ponto de equilíbrio do capítulo. Ela impede o bloco homogéneo e impede a coleção atomística. Permite dizer que o real permanece um, mas uma unidade diferenciada; e permite dizer que há diferença, mas diferença inscrita numa continuidade comum.
 
@@ -3897,7 +3907,9 @@ A sexta determinação positiva fica assim:
 
 Só agora o capítulo pode dizer o ser.
 
-Se o capítulo começasse pelo ser em abstrato, abriria imediatamente o risco de o transformar em substância, essência separada, entidade superior, presença autoportante ou palavra vazia. Por isso, o ser deve vir depois da cadeia que o torna inteligível: distinção, relacionalidade mínima, estrutura, limite, determinação, não-ser funcional e real como continuidade estruturada.
+Se o capítulo começasse pelo ser em abstrato, abriria imediatamente o risco de o transformar em substância, essência separada, entidade superior, presença autoportante ou palavra vazia. Por isso, o ser deve vir depois da cadeia que o torna inteligível: distinção, relacionalidade mínima, estrutura, limite, determinação, não-ser funcional, inadmissibilidade e real como continuidade estruturada.
+
+Se o real é continuidade estruturada de determinações sob limite, então ser não pode significar subsistir fora dessa continuidade. Ser é estar determinado nela. O ser não vem antes do real para depois nele entrar. Também não paira acima do real como fundamento separado. Ser é modo determinado de estar no real.
 
 Ser não é estar fora do real. Não é vir antes do real. Não é subsistir acima da relação, do limite e da determinação. Não é coisa colocada dentro de um contentor. Ser é determinação inscrita no real.
 
@@ -3929,6 +3941,8 @@ O capítulo ainda não pergunta como o real aparece. Ainda não pergunta como um
 
 Todos esses planos dependem de um chão anterior: algo tem de ser determinável no real antes de poder aparecer, ser apreendido, representado, dito, corrigido ou tornado objeto de orientação prática.
 
+Por isso, é preciso travar uma última confusão. A relação estrutural que torna algo determinável ainda não é o aparecer desse algo. A continuidade estruturada do real não é ainda experiência do real. É apenas o chão sem o qual o aparecer poderá depois ser pensado.
+
 O que ficou ganho é precisamente isto: o ser não é substância separada; o real não é bloco homogéneo nem contentor de coisas isoladas; a unidade do real é continuidade estruturada; e qualquer ser só é inteligível como determinação inscrita nesse real.
 
 A entrega ao capítulo seguinte deve ser mínima e explícita:
@@ -3947,10 +3961,13 @@ Essa pergunta já não pertence ao Capítulo 1. Pertence ao Capítulo 2.
 | real como contentor | vê que há um âmbito comum onde as determinações aparecem | transforma o real em recipiente neutro para coisas já feitas | o real estaria exterior às suas determinações | real como continuidade estruturada de determinações |
 | unidade como bloco | vê que o real não é pura dispersão | apaga distinção, limite e diferença | unidade verdadeira exige homogeneidade | unidade do real como continuidade diferenciada |
 | diferença como atomismo | vê que há diferença real | isola entidades antes de qualquer relação mínima | algo pode ser determinado sem relação | diferença como distinção inscrita em relacionalidade mínima |
+| relação como ponte posterior | vê que determinações podem relacionar-se | trata a relação como ligação externa entre termos já prontos | primeiro há ilhas ontológicas, só depois há relação | relacionalidade mínima como não-identidade implicada pela distinção |
 | estrutura como sistema | vê que há articulação necessária | transforma articulação mínima em sistema fechado ou esquema imposto | só há estrutura onde há sistema | estrutura como articulação mínima de distinções sob relação |
 | limite como restrição exterior | vê que o limite exclui | interpreta a exclusão como empobrecimento externo | o ser seria primeiro ilimitado e só depois restringido | limite como condição interna da determinação |
 | não-ser como entidade negativa | vê que determinar implica excluir | hipostasia a exclusão como região ou força oposta ao ser | toda exclusão precisa de domínio próprio | não-ser como exclusão funcional implicada pelo limite |
+| inadmissibilidade como outro domínio | vê que há impossibilidades reais | transforma o não-admissível em região separada | o que não cabe numa determinação teria estatuto próprio fora dela | inadmissibilidade como efeito interno do limite real |
 | distinção como ato subjetivo | vê que sujeitos apreendem e nomeiam distinções | faz da apreensão subjetiva a origem da distinção | o real seria indiferenciado até ser recortado pelo sujeito | distinção mínima como condição ontológica da determinabilidade |
+| continuidade estruturada como aparecer | vê que o real pode aparecer | antecipa a teoria da apreensão situada | estrutura ontológica e aparecer seriam o mesmo problema | continuidade estruturada como chão anterior ao aparecer |
 
 ---
 
@@ -3968,9 +3985,18 @@ O ficheiro não deslocou o capítulo para aparecer, consciência, linguagem, ver
 
 A cadeia preservada é:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser.
 
 A cadeia foi mantida como avanço interno. A crítica não alterou a ordem; apenas acompanhou cada passo para bloquear o falso dizer correspondente.
+
+### apertos integrados nesta versão
+
+Esta versão integrou quatro apertos locais:
+
+1. **não-ser / inadmissibilidade** — o não-ser funcional deixou de ser apenas exclusão lógica e passou a aparecer como exclusão/inadmissibilidade real sob limite;
+2. **campo comum** — a relacionalidade mínima foi explicitada como não-identidade inscrita no campo comum do real, não como ponte posterior entre ilhas;
+3. **fronteira relação/aparecer** — o fecho deixa claro que relação estrutural e continuidade estruturada ainda não são aparecer nem experiência;
+4. **ponte continuidade → ser** — a passagem para ser como inscrição ficou mais explícita: se o real é continuidade estruturada de determinações, ser é estar determinado nela.
 
 ### crítica subordinada
 
@@ -3996,10 +4022,13 @@ Foram bloqueadas:
 - real como contentor;
 - unidade homogénea;
 - atomismo da diferença;
+- relação como ponte posterior;
 - estrutura como sistema;
 - limite como restrição exterior;
 - não-ser como entidade negativa;
-- distinção como ato subjetivo.
+- inadmissibilidade como outro domínio;
+- distinção como ato subjetivo;
+- confusão entre continuidade estruturada e aparecer.
 
 Cada posição foi reconhecida no seu acerto parcial antes de ser reinscrita.
 
@@ -4033,7 +4062,7 @@ A única abertura terminal é a pergunta que entrega o Capítulo 2, sem desenvol
 
 ### fórmula final
 
-> O Capítulo 1 fixa o chão ontológico mínimo: só há ser como determinação inscrita no real; e só há determinação porque o real comporta distinção, relacionalidade, estrutura e limite sem se tornar bloco homogéneo nem dispersão atomística.
+> O Capítulo 1 fixa o chão ontológico mínimo: só há ser como determinação inscrita no real; e só há determinação porque o real comporta distinção, relacionalidade, estrutura, limite e inadmissibilidade sem se tornar bloco homogéneo, contentor neutro ou dispersão atomística.
 
 <a id="capitulo-cap-02-manifestacao-aparecer-apreensao-situada"></a>
 ## CAP_02_manifestacao_aparecer_apreensao_situada
@@ -7368,7 +7397,7 @@ Todos estes planos podem tornar-se necessários mais tarde. Nenhum deles ocupa a
 ## CAP_03_vida_organismo_corporeidade
 
 - Pasta: `CAP_03_vida_organismo_corporeidade`
-- Ficheiros incluídos: `9`
+- Ficheiros incluídos: `10`
 
 ### Índice interno da pasta
 
@@ -7380,6 +7409,7 @@ Todos estes planos podem tornar-se necessários mais tarde. Nenhum deles ocupa a
 - [05_decisao_local_do_capitulo](#cap-03-vida-organismo-corporeidade-05-decisao-local-do-capitulo-md) — `CAP_03_vida_organismo_corporeidade/05_decisao_local_do_capitulo.md`
 - [06_primeira_versao_controlada_de_escrita](#cap-03-vida-organismo-corporeidade-06-primeira-versao-controlada-de-escrita-md) — `CAP_03_vida_organismo_corporeidade/06_primeira_versao_controlada_de_escrita.md`
 - [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3](#cap-03-vida-organismo-corporeidade-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap3-md) — `CAP_03_vida_organismo_corporeidade/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-03-vida-organismo-corporeidade-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_03_vida_organismo_corporeidade/07_escrita_final_preparada_com_critica_acompanhante.md`
 - [06pos_reescrita_grau2](#cap-03-vida-organismo-corporeidade-06pos-reescrita-grau2-md) — `CAP_03_vida_organismo_corporeidade/06pos_reescrita_grau2.md`
 
 <a id="cap-03-vida-organismo-corporeidade-00-estatuto-e-limites-md"></a>
@@ -10384,6 +10414,644 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pel
 > **erro da proposição não real:** separar a diferença reflexiva do vivo ou achatá-la numa biologia indiferenciada;  
 > **reinscrição no real:** diferença reflexiva como torção interna do vivo organizado, corporal, em campo, sob continuidade encarnada, estabilização local e apreensão incorporada.
 
+<a id="cap-03-vida-organismo-corporeidade-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_03_vida_organismo_corporeidade/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 3 — Vida, organismo e corporeidade
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 3 — Vida, organismo e corporeidade**.
+
+Não é ainda a redação final publicada do capítulo. A sua função é tornar a escrita final possível, sem reabrir o centro já estabilizado e sem transformar a crítica em cabeça do texto.
+
+O capítulo deve dizer positivamente o vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada. A crítica acompanha esse dizer apenas para mostrar que modos de formulação ficam bloqueados, por que razão ficam bloqueados, que pressupostos errados mobilizam e como devem ser reinscritos no real.
+
+O ficheiro cumpre, por isso, duas tarefas:
+
+1. explicita primeiro um esquema de escrita crítica integrada;
+2. produz depois uma versão de escrita mais próxima do capítulo final, já com a crítica local incorporada de modo natural.
+
+A crítica não entra como comentário externo. Entra como guarda da descrição positiva.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 3;
+- transformar o capítulo em biologia filosófica regional;
+- transformar o capítulo em fenomenologia do corpo;
+- abrir consciência, sujeito, memória, representação, linguagem, verdade, erro ou normatividade como centros;
+- antecipar o Capítulo 4;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo.
+
+Também não pode fazer depender o capítulo de afinidade verbal com fragmentos. A regra continua a ser: **os fragmentos validam a estrutura, não a estrutura os fragmentos**. Só entram materiais fragmentários quando tornam mais legível o centro próprio do Capítulo 3 ou quando bloqueiam directamente um falso dizer que ameace esse centro.
+
+### relação com o 06
+
+O `06` testou se o capítulo aguentava passagem a texto corrido sem perder centro, sequência, travões e reinscrição.
+
+Esse teste confirmou a suficiência estrutural do capítulo: o vivo organizado, o organismo, o corpo, o campo do vivo, a continuidade encarnada, a estabilização local e a apreensão incorporada já sustentam a passagem à diferença reflexiva encarnada.
+
+A auditoria posterior identificou, porém, uma microausência real de legibilidade: a passagem entre `apreensão incorporada` e `diferença reflexiva encarnada` ainda podia ficar demasiado declarativa.
+
+O `07` deve corrigir essa fragilidade sem alterar a arquitectura. Deve tornar visível a mediação:
+
+> estabilização local + apreensão incorporada → integração da afetação → diferença interna não redutível à reação → possibilidade de reflexividade encarnada.
+
+Essa mediação entra aqui como ponto explícito do esquema inicial e como parte natural da escrita preparada.
+
+### regra da crítica acompanhante
+
+A regra da crítica acompanhante é:
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+O capítulo deve dizer primeiro o que é. Só depois deve mostrar o que esse dizer impede.
+
+A forma recorrente deve ser:
+
+1. dizer positivamente o vivo organizado;
+2. indicar o falso modo de dizer vida, organismo, corpo ou diferença reflexiva;
+3. identificar a posição-tipo que pensa mal esse ponto;
+4. mostrar o pressuposto errado dessa posição;
+5. reinscrever a formulação no real vivo, corporal e organizado.
+
+A crítica não é história da filosofia desenvolvida. Não é comentário de autores. Incide apenas sobre operações de substituição do real.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+O centro positivo do capítulo é:
+
+> vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada.
+
+Esta fórmula deve comandar a escrita.
+
+O Capítulo 3 não pergunta simplesmente o que é a vida, o que é o organismo ou o que é o corpo. Pergunta que inscrição viva, corporal e organizada torna possível que a apreensão situada herdada do Capítulo 2 se torne apreensão incorporada e prepare uma diferença reflexiva encarnada.
+
+### 2. Cadeia positiva
+
+A cadeia positiva a preservar é:
+
+> apreensão situada herdada → vida organizada → organismo → corpo → campo do vivo → continuidade encarnada → estabilização local → apreensão incorporada → diferença reflexiva encarnada → ponte baixa `3→4`.
+
+No `07`, a cadeia deve ganhar uma mediação interna mais explícita entre apreensão incorporada e diferença reflexiva encarnada:
+
+> apreensão situada herdada → vida organizada → organismo → corpo → campo do vivo → continuidade encarnada → estabilização local → apreensão incorporada → integração da afetação → diferença interna não redutível à reação → diferença reflexiva encarnada → ponte baixa `3→4`.
+
+A cadeia longa não altera o centro. Apenas torna legível o elo que o `06` podia deixar demasiado declarativo.
+
+### 3. Fórmula axial do capítulo
+
+- **ser no real:** vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada;
+- **dizer do ser:** vida abstrata, organismo-máquina, corpo-coisa, corpo-sujeito, continuidade-memória, apreensão-representação, diferença reflexiva como consciência separada ou função biológica achatada;
+- **erro da proposição não real:** separar a diferença reflexiva do vivo ou achatá-la numa biologia indiferenciada;
+- **reinscrição no real:** diferença reflexiva como torção interna do vivo organizado, corporal, em campo, sob continuidade encarnada, estabilização local e apreensão incorporada.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — apreensão situada herdada
+
+- **passo positivo:** o capítulo herda a apreensão situada do Capítulo 2, mas deve reinscrevê-la numa espessura viva.
+- **posição-tipo bloqueada:** ente situado como ponto vazio de receção.
+- **acerto local da posição:** vê que a apreensão não ocorre de fora do real.
+- **deslocação:** trata a localidade como se bastasse por si, sem corpo vivo, organização, continuidade ou integração.
+- **pressuposto errado:** um ponto abstractamente situado poderia receber o real sem corporeidade organizada.
+- **crítica curta:** localização não é ainda apreensão incorporada.
+- **reinscrição:** a apreensão situada só ganha espessura como apreensão de um vivo organizado, corporal, afetável e persistente.
+
+#### Ponto crítico 2 — vida organizada
+
+- **passo positivo:** a vida organizada entra como primeira espessura real da apreensão incorporada.
+- **posição-tipo bloqueada:** vida como região biológica fechada; vida como força especial.
+- **acerto local da posição:** a primeira vê corretamente que a reflexividade depende do vivo; a segunda vê corretamente que a vida não é matéria indiferente.
+- **deslocação:** uma fecha a vida num domínio regional; a outra separa-a da estrutura comum do real.
+- **pressuposto errado:** a vida seria ou tema biológico isolado, ou princípio excepcional.
+- **crítica curta:** a vida organizada não é nem biologia abstracta nem exceção vital.
+- **reinscrição:** vida organizada é forma de inscrição real, continuidade operativa, exposição e resposta no real.
+
+#### Ponto crítico 3 — organismo
+
+- **passo positivo:** o organismo é unidade viva relacional em campo.
+- **posição-tipo bloqueada:** organismo como máquina; organismo como sujeito antecipado.
+- **acerto local da posição:** a posição mecanicista vê que há funcionamento; a posição subjetivante vê que o organismo não é massa indiferente.
+- **deslocação:** uma perde campo, continuidade e integração viva; a outra introduz consciência e interioridade antes do tempo.
+- **pressuposto errado:** unidade viva equivaleria a mecanismo fechado ou já conteria sujeito.
+- **crítica curta:** o organismo não é máquina isolada nem sujeito embrionário.
+- **reinscrição:** organismo é organização viva relacional, capaz de integrar afetações e responder em campo, ainda antes de consciência ou sujeito.
+
+#### Ponto crítico 4 — corpo
+
+- **passo positivo:** o corpo é inscrição operativa do vivo organizado no real.
+- **posição-tipo bloqueada:** corpo como coisa; corpo como sujeito.
+- **acerto local da posição:** a primeira vê a realidade física e limitada do corpo; a segunda vê que o corpo não é simples objeto exterior.
+- **deslocação:** uma reduz o corpo a objeto entre objetos; a outra transforma a corporeidade em consciência vivida já constituída.
+- **pressuposto errado:** o corpo seria ou coisa física muda, ou sujeito pleno.
+- **crítica curta:** corpo vivo não é coisa exterior nem consciência pronta.
+- **reinscrição:** corpo é corporeidade real, afetável, limitada, relacional e organizada, solo da diferença reflexiva, não ainda consciência reflexiva.
+
+#### Ponto crítico 5 — campo do vivo
+
+- **passo positivo:** o vivo organizado só é inteligível em campo.
+- **posição-tipo bloqueada:** campo como exterior acrescentado.
+- **acerto local da posição:** vê que há diferença entre organismo e meio.
+- **deslocação:** pensa o organismo primeiro como unidade isolada e só depois acrescenta exterioridade.
+- **pressuposto errado:** a relação ao campo seria acidente posterior à constituição do vivo.
+- **crítica curta:** o vivo não é primeiro fechado e depois colocado num meio.
+- **reinscrição:** campo do vivo é configuração real de relações em que o organismo se mantém, responde e se orienta.
+
+#### Ponto crítico 6 — continuidade encarnada
+
+- **passo positivo:** a continuidade encarnada é permanência operativa do corpo vivo.
+- **posição-tipo bloqueada:** continuidade encarnada como memória.
+- **acerto local da posição:** vê que o vivo não se dissolve em instantes separados.
+- **deslocação:** interpreta toda a permanência como retenção, arquivo, memória ou identidade temporal.
+- **pressuposto errado:** persistir já seria lembrar.
+- **crítica curta:** continuidade encarnada é mais baixa do que memória.
+- **reinscrição:** continuidade encarnada é persistência operativa anterior a arquivo, narração, representação ou identidade temporal.
+
+#### Ponto crítico 7 — estabilização local
+
+- **passo positivo:** a estabilização local dá consistência ao vivo sem o fechar.
+- **posição-tipo bloqueada:** estabilização como sistema fechado.
+- **acerto local da posição:** vê que o vivo precisa de alguma consistência e repetição operativa.
+- **deslocação:** transforma consistência local em fechamento sistémico.
+- **pressuposto errado:** estabilizar seria encerrar-se numa totalidade funcional autosuficiente.
+- **crítica curta:** estabilização local não é sistema soberano.
+- **reinscrição:** estabilização local é consistência viva, situada e exposta, suficiente para integração e resposta, sem fechamento absoluto.
+
+#### Ponto crítico 8 — apreensão incorporada
+
+- **passo positivo:** a apreensão incorporada é receção integrada da afetação por corpo vivo organizado.
+- **posição-tipo bloqueada:** apreensão incorporada como representação.
+- **acerto local da posição:** vê que a apreensão pode ser fixada e tornada operável posteriormente.
+- **deslocação:** faz da representação a origem da apreensão incorporada.
+- **pressuposto errado:** integrar uma afetação já seria formar imagem, conteúdo mental ou representação.
+- **crítica curta:** incorporação não é representação.
+- **reinscrição:** apreensão incorporada é afetação recebida e integrada pelo corpo vivo antes de representação, linguagem ou juízo.
+
+#### Ponto crítico 9 — torção interna do vivo organizado
+
+- **passo positivo:** estabilização local + apreensão incorporada → integração da afetação → diferença interna não redutível à reação → possibilidade de reflexividade encarnada.
+- **posição-tipo bloqueada:** reação orgânica como explicação suficiente; consciência pronta como explicação antecipada.
+- **acerto local da posição:** a primeira vê que há resposta do vivo; a segunda vê que a diferença reflexiva não é pura exterioridade muda.
+- **deslocação:** uma reduz a integração a reação; a outra sobe cedo demais para consciência.
+- **pressuposto errado:** entre reação e consciência não haveria nível intermédio real.
+- **crítica curta:** a torção interna não é mera reação, mas ainda não é consciência.
+- **reinscrição:** a afetação é integrada por um corpo vivo com campo, continuidade e estabilização local; essa integração distingue afetação recebida, resposta possível e manutenção da unidade viva, abrindo uma diferença interna que prepara a reflexividade encarnada.
+
+#### Ponto crítico 10 — diferença reflexiva encarnada
+
+- **passo positivo:** a diferença reflexiva encarnada é torção interna do vivo organizado.
+- **posição-tipo bloqueada:** diferença reflexiva como consciência separada; diferença reflexiva como função biológica achatada.
+- **acerto local da posição:** a posição dualista vê que há diferença reflexiva real; a posição biologista vê que essa diferença depende do vivo.
+- **deslocação:** uma separa a diferença do corpo; a outra dissolve a diferença no funcionamento orgânico.
+- **pressuposto errado:** o reflexivo teria de vir de fora do vivo ou nada mais seria do que reação complexa.
+- **crítica curta:** a diferença reflexiva depende do vivo, mas não se reduz ao vivo indiferenciado.
+- **reinscrição:** diferença reflexiva encarnada é torção interna do vivo organizado, corporal, em campo, sob continuidade encarnada, estabilização local e apreensão incorporada.
+
+#### Ponto crítico 11 — ponte baixa `3→4`
+
+- **passo positivo:** a ponte `3→4` entrega a pergunta pela consciência, reflexividade e sujeito reinscritos no real.
+- **posição-tipo bloqueada:** preparação como antecipação; ou recusa da passagem para conservar o capítulo em biologia baixa.
+- **acerto local da posição:** a antecipação vê que a diferença reflexiva pede desenvolvimento; a recusa vê que o capítulo não deve abrir consciência como centro.
+- **deslocação:** a primeira começa o Capítulo 4 dentro do Capítulo 3; a segunda impede a passagem necessária.
+- **pressuposto errado:** preparar seria já desenvolver, ou travar seria impedir a transição.
+- **crítica curta:** a ponte é obrigatória, mas apenas terminal.
+- **reinscrição:** o Capítulo 3 termina perguntando como a diferença reflexiva encarnada poderá constituir consciência, reflexividade e sujeito reinscritos no real, sem iniciar ainda esse capítulo.
+
+### 5. Posições-tipo bloqueadas
+
+O Capítulo 3 bloqueia, de modo curto e funcional, as seguintes posições-tipo:
+
+1. vida como região biológica fechada;
+2. vida como força especial;
+3. organismo como máquina;
+4. organismo como sujeito antecipado;
+5. corpo como coisa;
+6. corpo como sujeito;
+7. campo como exterior acrescentado;
+8. continuidade encarnada como memória;
+9. estabilização local como sistema;
+10. apreensão incorporada como representação;
+11. diferença reflexiva como consciência separada;
+12. diferença reflexiva como função biológica achatada.
+
+Todas estas posições erram de modo local porque substituem a cadeia viva e encarnada do capítulo por uma camada isolada, antecipada ou achatada.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+O `07` deve ser justo. Uma posição pode ver algo real e ainda assim deslocar esse real.
+
+- As posições biologistas veem corretamente que a reflexividade depende do vivo; deslocam-se quando reduzem a diferença reflexiva ao funcionamento orgânico.
+- As posições vitalistas veem corretamente que a vida não é matéria indiferente; deslocam-se quando fazem da vida uma força especial exterior ao real.
+- As posições mecanicistas veem corretamente que o organismo tem funcionamento; deslocam-se quando perdem relação, campo, continuidade e integração viva.
+- As posições que elevam o organismo a sujeito veem corretamente que o organismo não é coisa inerte; deslocam-se quando introduzem consciência antes de haver constituição reflexiva.
+- As posições objetivistas do corpo veem corretamente que o corpo é real, limitado e físico; deslocam-se quando o reduzem a coisa exterior.
+- As posições fenomenológicas do corpo veem corretamente que o corpo não é simples objeto; deslocam-se quando fazem do corpo já consciência vivida ou sujeito pleno.
+- As posições ambientalistas ou externalistas veem corretamente que há relação ao meio; deslocam-se quando fazem do campo um exterior acrescentado a uma unidade já pronta.
+- As posições memorialistas veem corretamente que há permanência; deslocam-se quando chamam memória a toda a continuidade encarnada.
+- As posições sistémicas veem corretamente que há estabilização; deslocam-se quando a estabilização local é tratada como sistema fechado.
+- As posições representacionalistas veem corretamente que a apreensão pode ser fixada; deslocam-se quando fazem da representação a origem da apreensão incorporada.
+- As posições dualistas veem corretamente que há diferença reflexiva; deslocam-se quando a separam do vivo organizado.
+- As posições reducionistas veem corretamente que a diferença reflexiva depende do corpo vivo; deslocam-se quando a achatam numa biologia indiferenciada.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições só podem entrar como exemplos laterais, nunca como eixo do capítulo.
+
+O capítulo não deve organizar-se por “Aristóteles”, “Descartes”, “Kant”, “Husserl”, “Merleau-Ponty”, “Bergson”, “Darwin”, “a biologia” ou qualquer outra tradição. O que importa aqui não é a história interna dessas posições. O que importa é a operação que cada posição-tipo realiza quando substitui o real vivo organizado por uma camada abstracta, separada, antecipada ou achatada.
+
+Formulação admissível, caso seja necessária em nota curta:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que reduzem o vivo a mecanismo, elevam a vida a princípio especial, fazem do corpo sujeito imediato ou separam a consciência do corpo. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: separar ou achatar a diferença reflexiva relativamente ao vivo organizado que a torna possível.
+
+Nesta versão, não é necessário usar notas de rodapé.
+
+### 8. Economia de notas
+
+As notas, se vierem a ser usadas na redação final, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo tem variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Neste ficheiro, a opção é não usar notas. Tudo o que é necessário para compreender o argumento fica no corpo do texto.
+
+### 9. Travões obrigatórios
+
+O Capítulo 3 deve manter os seguintes travões:
+
+- não regressar ao Capítulo 2;
+- não reduzir o capítulo a biologia;
+- não abrir vitalismo;
+- não abrir mecanismo;
+- não abrir fenomenologia do corpo;
+- não abrir consciência;
+- não abrir sujeito;
+- não abrir memória;
+- não abrir representação;
+- não abrir linguagem;
+- não abrir verdade/erro/correção;
+- não abrir ética;
+- não abrir crítica sistémica.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 3 não pergunta simplesmente: “o que é a vida?”.
+
+Também não pergunta simplesmente: “o que é o corpo?”.
+
+E não pergunta ainda: “como surge a consciência?”.
+
+Essas perguntas são demasiado largas ou demasiado altas para o ponto exacto em que o capítulo entra. A pergunta própria é esta:
+
+> que inscrição viva, corporal e organizada torna possível que a apreensão situada se torne apreensão incorporada e prepare uma diferença reflexiva encarnada?
+
+O ser em causa é o vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada.
+
+A cadeia do capítulo parte da apreensão situada herdada do Capítulo 2. Mas essa apreensão não pode ficar suspensa num ente sem corpo. Se há apreensão situada, há um vivo afetável, organizado, exposto, persistente e capaz de integrar afetações.
+
+Por isso, o Capítulo 3 começa no ponto em que a localidade deixa de bastar como posição e exige corporeidade viva. A apreensão situada só se torna pensável como apreensão incorporada se houver vida organizada, organismo, corpo, campo do vivo, continuidade encarnada e estabilização local.
+
+O falso dizer a bloquear aparece logo na entrada: ou se trata o vivo como tema regional, ou se salta directamente para consciência e sujeito. Ambos os caminhos falham. O primeiro fica baixo demais, porque não vê a torção reflexiva que se prepara no vivo. O segundo sobe cedo demais, porque toma como centro aquilo que só pode vir depois.
+
+A escrita deve manter o entremeio próprio do capítulo: nem biologia fechada, nem consciência pronta; antes, vivo organizado como solo corporal da diferença reflexiva encarnada.
+
+### 2. Apreensão situada e necessidade de espessura viva
+
+O Capítulo 2 fixou que o real aparece a um ente situado. Esse ente não apreende de fora do real. Está no real, é afetado pelo real e apreende localmente antes de representar.
+
+Mas a apreensão situada, por si só, ainda deixa uma pergunta em aberto: que tipo de ente pode ser afetado, integrar a afetação e manter-se como unidade suficientemente estável para que a apreensão não se dissolva no instante?
+
+Um ponto abstrato pode ser localizado. Não pode, por isso, apreender. Não é afetável. Não integra. Não responde. Não conserva uma unidade viva através da variação.
+
+A apreensão situada exige espessura viva.
+
+O falso dizer desta passagem consiste em imaginar um ente situado como ponto vazio de receção. Essa posição vê corretamente que a apreensão não ocorre fora do real; mas desloca-se quando pensa a localidade sem corporeidade organizada.
+
+A reinscrição é simples: a apreensão situada deve ser devolvida ao vivo que a suporta. Só um corpo vivo, organizado, exposto e persistente pode receber uma afetação como algo que se integra numa unidade real.
+
+Assim, a passagem `2→3` não deduz a vida a partir do aparecer. Reinscreve a apreensão situada numa condição mais espessa: vida organizada.
+
+### 3. Vida organizada
+
+A vida entra aqui como vida organizada.
+
+Não entra como domínio regional da biologia. Também não entra como força especial. Entra porque, sem uma organização viva, não há corpo afetável, continuidade operativa, resposta situada nem integração da afetação.
+
+Vida organizada quer dizer, neste nível, uma forma real de inscrição que se mantém em exposição. O vivo não é pura ocorrência passageira. Mantém uma unidade operativa, atravessa variações, responde a diferenças e conserva uma organização suficiente para continuar a existir em campo.
+
+A vida organizada é, portanto, continuidade operativa, exposição e resposta no real.
+
+A primeira posição-tipo bloqueada reduz a vida a objeto regional da biologia. Vê algo verdadeiro: a diferença reflexiva não paira fora do vivo. Mas erra quando fecha a vida como tema biológico isolado e perde a função que ela tem aqui: ser solo real da apreensão incorporada.
+
+A segunda posição-tipo eleva a vida a força especial. Também vê algo verdadeiro: a vida não é matéria indiferente. Mas erra quando faz da vida uma exceção ao real, como se a sua organização viesse de outro princípio.
+
+O capítulo bloqueia as duas posições pela mesma razão: vida organizada não é região fechada nem exceção vital. É uma forma de inscrição real. Pertence ao real, depende dele, opera nele e só nele torna possível a apreensão incorporada.
+
+A vida deve ser dita como organização real de continuidade, exposição e resposta.
+
+### 4. Organismo
+
+A vida organizada ganha figura em organismo.
+
+O organismo não é simples agregado físico. Também não é sujeito antecipado. É unidade viva relacional. Mantém relações internas e externas, integra afetações, responde ao campo e conserva continuidade sob variação.
+
+O organismo é unidade, mas não unidade absoluta. É unidade em relação. Mantém-se por organização, limite, troca, resposta e persistência. Não está primeiro fechado para depois entrar em contacto com o exterior. O seu modo de existir é já exposição organizada.
+
+A posição que diz o organismo como máquina vê corretamente que há funcionamento. O organismo tem processos, ritmos, respostas e dependências. Mas a posição desloca-se quando transforma esse funcionamento em mecanismo fechado de processamento e reação. O organismo deixa então de ser unidade viva em campo e passa a ser dispositivo isolado.
+
+A posição que trata o organismo como sujeito antecipado vê corretamente que o organismo não é coisa morta. Mas desloca-se quando introduz consciência, interioridade ou sujeito antes da passagem própria. O organismo ainda não é sujeito. É condição viva para que uma diferença reflexiva encarnada se torne pensável.
+
+A reinscrição é esta: organismo é organização viva relacional, capaz de integrar afetações e responder em campo, sem se reduzir a máquina e sem subir a sujeito.
+
+### 5. Corpo
+
+O organismo é corpo vivo.
+
+O corpo não entra como coisa física entre outras coisas. Também não entra como sujeito encarnado já constituído. Entra como inscrição operativa do vivo no real.
+
+Ter corpo é estar exposto. É poder ser afetado. É ter limite. É ocupar um modo determinado de relação. É responder a partir de uma organização própria. É não apreender de qualquer lado, mas a partir de uma corporeidade situada.
+
+O corpo é a forma concreta pela qual o vivo organizado está no real.
+
+A posição que diz o corpo como coisa vê corretamente que o corpo é real, limitado e físico. Mas desloca-se quando o reduz a objeto exterior, como se a sua realidade corporal não fosse já modo de exposição, afetação e resposta.
+
+A posição que diz o corpo como sujeito vê corretamente que o corpo não é simples coisa. Mas desloca-se quando faz da corporeidade uma consciência vivida ou uma interioridade já constituída.
+
+O corpo é mais do que coisa. É menos do que sujeito.
+
+A sua reinscrição correta é esta: corpo é corporeidade viva, afetável, relacional e limitada, inscrição operativa do vivo organizado no real. É solo da diferença reflexiva encarnada, não a própria consciência reflexiva.
+
+### 6. Campo do vivo
+
+O corpo vivo existe em campo.
+
+Campo não quer dizer exterior geométrico acrescentado ao organismo. Quer dizer configuração real de relações em que o vivo se mantém, responde e se orienta.
+
+O organismo não é primeiro uma unidade isolada e só depois uma unidade em meio. A sua unidade é relacional desde o início. Vive por exposição, limite, troca, resistência, possibilidade e resposta.
+
+A posição que pensa o campo como exterior acrescentado vê corretamente que há diferença entre o vivo e aquilo que o envolve ou afeta. Mas desloca-se quando imagina o organismo como se pudesse ser pensado primeiro em isolamento e só depois colocado num meio.
+
+Essa imagem falha porque o vivo organizado só é inteligível em campo. O seu corpo, a sua resposta, a sua continuidade e a sua estabilização dependem da configuração real de relações em que se encontra.
+
+A reinscrição é esta: campo do vivo é a estrutura relacional concreta em que o organismo vive, é afetado, responde, se orienta e se mantém. Não é suplemento exterior. É condição interna de inteligibilidade do vivo organizado.
+
+### 7. Continuidade encarnada
+
+O vivo organizado exige continuidade encarnada.
+
+Sem continuidade, a afetação não se integra. A resposta não se articula. O organismo não se mantém. O corpo vivo seria apenas sucessão dispersa de ocorrências.
+
+Continuidade encarnada é permanência operativa do corpo vivo através de variação. É a capacidade de uma unidade viva se manter enquanto é afetada, responde e se altera.
+
+Mas esta continuidade ainda não é memória.
+
+A posição que diz continuidade como memória vê corretamente que o vivo não se dissolve em instantes. Mas desloca-se quando identifica toda a permanência com arquivo, retenção, narração ou identidade temporal.
+
+Persistir não é ainda lembrar. Manter-se não é ainda representar o passado. Integrar variação não é ainda constituir memória.
+
+A reinscrição correta é esta: continuidade encarnada é persistência operativa do vivo, anterior à memória. Permite que o corpo vivo atravesse afetações sem se dissolver nelas. Prepara a possibilidade de camadas superiores, mas não as inaugura como centro próprio.
+
+### 8. Estabilização local
+
+A continuidade encarnada permite estabilização local.
+
+O vivo não é pura fluidez. Se fosse, nada nele se conservaria. Também não é fechamento rígido. Se fosse, não responderia ao campo nem integraria diferenças.
+
+A estabilização local nomeia a consistência suficiente do vivo organizado. É a configuração pela qual um corpo vivo se mantém, responde e integra afetações sem se fechar absolutamente.
+
+A posição que diz estabilização como sistema vê corretamente que há consistência. Mas desloca-se quando transforma essa consistência em sistema fechado, como se a organização viva fosse totalidade auto-suficiente.
+
+A estabilização local não é sistema. Não é identidade fixa. Não é fechamento. É estabilidade operativa sob exposição.
+
+A reinscrição é esta: estabilização local dá consistência ao vivo em campo. Permite integração da afetação e resposta possível, mas mantém o vivo aberto à variação, ao limite e à relação.
+
+### 9. Apreensão incorporada
+
+A apreensão situada torna-se, no vivo organizado, apreensão incorporada.
+
+Apreensão incorporada não é representação. Não é imagem interna. Não é linguagem. Não é juízo. Não é consciência reflexiva.
+
+É a receção integrada da afetação por corpo vivo organizado, em campo, sob continuidade encarnada e estabilização local.
+
+A apreensão incorporada é mais espessa do que a apreensão situada. Já não é apenas localidade de um ente no real. É afetação recebida por um corpo vivo que se mantém, integra e responde.
+
+A posição que diz apreensão incorporada como representação vê corretamente que uma apreensão pode mais tarde ser fixada, organizada e tornada operável. Mas desloca-se quando faz dessa fixação a origem da apreensão. Representação vem depois. Apreensão incorporada vem antes.
+
+A reinscrição é esta: apreensão incorporada é receção integrada da afetação pelo corpo vivo organizado. Ela prepara a representação, mas não é ainda representação. Prepara a consciência, mas não é ainda consciência.
+
+### 10. Da apreensão incorporada à diferença interna
+
+Este ponto deve ser escrito com especial clareza.
+
+O vivo organizado não apenas reage.
+
+A reação é resposta a uma afetação. Mas, no vivo organizado, a afetação não cai sobre uma superfície indiferente. É recebida por um corpo que já tem continuidade encarnada, campo, estabilização local e modo próprio de se manter.
+
+A afetação recebida é integrada.
+
+Integrar não quer dizer representar. Também não quer dizer deliberar. Quer dizer que a afetação passa pelo corpo vivo como diferença que tem de ser articulada com a conservação da unidade, com a resposta possível e com a orientação no campo.
+
+Daqui nasce uma diferença interna.
+
+Essa diferença interna não é consciência. Não é sujeito. Não é presença de si. Não é memória. Não é representação. Mas também não é mera reação orgânica.
+
+Ela surge porque o vivo organizado tem de distinguir, em si mesmo, pelo menos três ordens:
+
+- a afetação recebida;
+- a resposta possível;
+- a manutenção da sua unidade viva.
+
+Enquanto há apenas choque e descarga, não há ainda esta mediação interna. Mas quando a afetação é integrada por uma corporeidade viva que se mantém e responde em campo, há uma diferença real entre o que afeta, o modo como é recebido e o modo como o vivo conserva a sua própria continuidade enquanto responde.
+
+É esta diferença intermédia que torna pensável a diferença reflexiva encarnada.
+
+A posição reducionista tenta apagar este nível, dizendo que tudo é reação orgânica complexa. Vê corretamente que a diferença depende do vivo. Mas falha porque perde a integração interna da afetação.
+
+A posição antecipadora tenta subir logo para consciência. Vê corretamente que aqui já há diferença mais alta do que a reação. Mas falha porque transforma uma mediação interna ainda pré-reflexiva em sujeito ou interioridade.
+
+A reinscrição é esta:
+
+> a diferença reflexiva encarnada nasce quando a apreensão incorporada deixa de ser mera receção da afetação e passa a implicar integração interna dessa afetação por um vivo organizado que se mantém, responde e se diferencia no campo, ainda antes de consciência ou sujeito.
+
+A passagem pode então ser dita com rigor:
+
+> estabilização local + apreensão incorporada → integração da afetação → diferença interna não redutível à reação → possibilidade de reflexividade encarnada.
+
+Este é o elo que impede a diferença reflexiva encarnada de aparecer como declaração. A diferença reflexiva não surge de fora do vivo. Também não é simples nome para a reação. Surge como torção interna do vivo organizado quando a afetação incorporada é integrada numa unidade que se mantém e se diferencia em campo.
+
+### 11. Diferença reflexiva encarnada
+
+Só depois desta mediação se pode falar de diferença reflexiva encarnada.
+
+A diferença reflexiva encarnada é a torção interna do vivo organizado pela qual a apreensão incorporada, integrada numa unidade corporal em campo, torna possível uma diferença mais alta do que a simples reação.
+
+Ela ainda não é consciência reflexiva desenvolvida. Ainda não é sujeito. Ainda não é interioridade soberana. Ainda não é memória, representação ou linguagem.
+
+Mas também não é apenas funcionamento biológico.
+
+É diferença reflexiva porque há uma diferença interna que prepara relação consigo e reflexividade ulterior. É encarnada porque essa diferença não abandona corpo, organismo, campo, continuidade, estabilização local e apreensão incorporada.
+
+O primeiro falso dizer é dualista. Diz a diferença reflexiva como consciência, alma, sujeito ou interioridade vinda de fora do corpo. Vê corretamente que há diferença real, mas erra quando a separa do vivo organizado.
+
+O segundo falso dizer é reducionista. Diz a diferença reflexiva como função biológica achatada. Vê corretamente que a diferença depende do vivo, mas erra quando a dissolve no funcionamento orgânico.
+
+A reinscrição bloqueia ambos:
+
+> a diferença reflexiva encarnada é torção interna do vivo organizado, corporal, em campo, sob continuidade encarnada, estabilização local e apreensão incorporada.
+
+Ela depende do vivo. Não se dissolve nele.
+
+Prepara uma camada superior. Não abandona a sua inscrição corporal.
+
+### 12. Fecho e ponte baixa `3→4`
+
+O Capítulo 3 deve terminar antes de mudar de centro.
+
+O que ficou ganho é a mediação baixa entre apreensão situada e reflexividade humana: o real não é apreendido por um ponto abstrato, mas por um corpo vivo organizado, em campo, sob continuidade e estabilização local; e é nessa apreensão incorporada que se torna possível uma diferença reflexiva encarnada.
+
+Este ganho abre uma pergunta. Não abre ainda um novo centro dentro do mesmo capítulo.
+
+A pergunta é:
+
+> se a diferença reflexiva encarnada se torna possível no vivo organizado, como pode essa diferença constituir consciência, reflexividade e sujeito reinscritos no real?
+
+Esta pergunta pertence à ponte baixa `3→4`.
+
+O falso dizer da ponte é transformar preparação em absorção. Como se falar de diferença reflexiva encarnada autorizasse já uma teoria da consciência. Como se falar de corpo vivo autorizasse já uma teoria do sujeito. Como se continuidade encarnada autorizasse já memória. Como se apreensão incorporada autorizasse já representação.
+
+O capítulo deve parar antes de consciência, sujeito, interioridade, memória, representação e linguagem como centros.
+
+A ponte entrega apenas a possibilidade baixa de uma pergunta superior.
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| vida como região biológica fechada | Vê que a reflexividade depende do vivo. | Fecha a vida num domínio regional e isolado. | A vida bastaria como objeto biológico para explicar a passagem. | Vida organizada é solo real da apreensão incorporada, não tema biológico isolado. |
+| vida como força especial | Vê que a vida não é matéria indiferente. | Separa a vida da estrutura comum do real. | A vida seria princípio excepcional ou força exterior ao real. | Vida organizada é forma de inscrição real, continuidade operativa, exposição e resposta. |
+| organismo como máquina | Vê que o organismo tem funcionamento. | Reduz organização viva a processamento e reação. | Funcionamento organizado equivale a mecanismo fechado. | Organismo é unidade viva relacional, em campo, sob continuidade e integração. |
+| organismo como sujeito antecipado | Vê que o organismo não é coisa morta. | Introduz consciência, interioridade ou sujeito antes do tempo. | Toda unidade viva já conteria sujeito. | Organismo é condição viva da futura reflexividade encarnada, ainda não sujeito. |
+| corpo como coisa | Vê que o corpo é real, limitado e físico. | Reduz o corpo a objeto exterior entre objetos. | A realidade do corpo seria apenas materialidade objectiva. | Corpo é inscrição operativa do vivo no real, exposto, afetável, relacional e limitado. |
+| corpo como sujeito | Vê que o corpo não é simples objeto. | Faz da corporeidade consciência vivida ou sujeito pleno. | O corpo vivo já seria consciência reflexiva. | Corpo é solo da diferença reflexiva, não a própria consciência reflexiva. |
+| campo como exterior acrescentado | Vê que há diferença entre organismo e meio. | Imagina primeiro o organismo isolado e só depois o coloca num exterior. | A relação ao campo seria adição posterior. | O vivo organizado só é inteligível em campo; campo é configuração real de relações. |
+| continuidade encarnada como memória | Vê que o vivo não se dissolve em instantes. | Converte permanência operativa em retenção, arquivo ou identidade temporal. | Persistir já seria lembrar. | Continuidade encarnada é permanência operativa do corpo vivo, anterior à memória. |
+| estabilização local como sistema | Vê que há consistência e repetição operativa. | Transforma consistência local em fechamento sistémico. | Estabilizar seria fechar-se numa totalidade auto-suficiente. | Estabilização local dá consistência ao vivo sem fechamento absoluto. |
+| apreensão incorporada como representação | Vê que a apreensão pode ser fixada e tornada operável. | Faz da representação a origem da apreensão incorporada. | Integrar afetação já seria representar. | Apreensão incorporada é receção integrada por corpo vivo, anterior à representação. |
+| diferença reflexiva como consciência separada | Vê que há diferença reflexiva real. | Separa essa diferença do vivo organizado e do corpo. | O reflexivo teria de vir de outro plano. | Diferença reflexiva encarnada é torção interna do vivo organizado. |
+| diferença reflexiva como função biológica achatada | Vê que a diferença reflexiva depende do vivo. | Dissolve a diferença na reação ou no funcionamento orgânico. | Dependência do vivo implicaria redução ao biológico. | Diferença reflexiva depende do vivo, mas prepara camada superior sem abandonar inscrição corporal. |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro preservado continua a ser:
+
+> vivo organizado enquanto corporeidade real capaz de sustentar apreensão incorporada e preparar diferença reflexiva encarnada.
+
+O capítulo não trata vida, organismo ou corpo como temas regionais em abstrato. Trata-os como mediação real entre apreensão situada herdada e diferença reflexiva encarnada.
+
+### cadeia preservada
+
+A cadeia preservada é:
+
+> apreensão situada herdada → vida organizada → organismo → corpo → campo do vivo → continuidade encarnada → estabilização local → apreensão incorporada → diferença reflexiva encarnada → ponte baixa `3→4`.
+
+A versão preparada torna apenas mais explícito o elo interno:
+
+> apreensão incorporada → integração da afetação → diferença interna → diferença reflexiva encarnada.
+
+### microausência tratada
+
+Foi tratada a passagem:
+
+> apreensão incorporada → integração da afetação → diferença interna → diferença reflexiva encarnada.
+
+A secção **10. Da apreensão incorporada à diferença interna** mostra que a diferença reflexiva encarnada não é declarada de modo externo. A afetação recebida por um corpo vivo com campo, continuidade e estabilização local é integrada; essa integração distingue afetação recebida, resposta possível e manutenção da unidade viva; e essa diferença interna torna pensável a reflexividade encarnada sem abrir consciência ou sujeito.
+
+### crítica subordinada
+
+A crítica acompanha o positivo e não o substitui.
+
+Em cada passo, o texto diz primeiro o que o vivo organizado é naquele ponto. Só depois mostra o falso modo de dizer, identifica o pressuposto errado e reinscreve a formulação no real vivo, corporal e organizado.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas como operações filosóficas típicas, não como história da filosofia desenvolvida.
+
+O capítulo não foi transformado em comentário de autores, biologia filosófica, fenomenologia do corpo ou psicologia. As posições aparecem apenas enquanto modos de substituição do real:
+
+- regionalizar a vida;
+- excecionalizar a vida;
+- mecanizar o organismo;
+- subjetivar o organismo;
+- coisificar o corpo;
+- subjetivar o corpo;
+- exteriorizar o campo;
+- memorializar a continuidade;
+- fechar a estabilização;
+- representar a apreensão;
+- separar a diferença reflexiva;
+- achatar a diferença reflexiva.
+
+### notas sob controlo
+
+Não foram usadas notas de rodapé.
+
+Se vierem a ser usadas na redação final, só poderão localizar tradições, proteger contra simplificações ou remeter para crítica posterior. Não poderão carregar o argumento principal.
+
+### capítulos posteriores não abertos
+
+Ficaram fora:
+
+- consciência reflexiva como centro;
+- sujeito;
+- interioridade;
+- memória como centro próprio;
+- representação;
+- linguagem;
+- símbolo;
+- verdade;
+- erro;
+- correção;
+- normatividade;
+- crítica sistémica.
+
+A ponte baixa `3→4` entrega apenas a pergunta pela constituição ulterior de consciência, reflexividade e sujeito reinscritos no real.
+
+### fórmula final
+
+> O Capítulo 3 fixa a mediação baixa entre apreensão situada e reflexividade humana: o real não é apreendido por um ponto abstrato, mas por um corpo vivo organizado, em campo, sob continuidade e estabilização local; e é nessa apreensão incorporada que se torna possível uma diferença reflexiva encarnada, ainda anterior à consciência e ao sujeito.
+
 <a id="cap-03-vida-organismo-corporeidade-06pos-reescrita-grau2-md"></a>
 ### 06pos_reescrita_grau2
 
@@ -11099,7 +11767,7 @@ Ainda podem exigir vigilância futura:
 ## CAP_04_consciência, reflexividade e sujeito reinscritos
 
 - Pasta: `CAP_04_consciência, reflexividade e sujeito reinscritos`
-- Ficheiros incluídos: `8`
+- Ficheiros incluídos: `9`
 
 ### Índice interno da pasta
 
@@ -11111,6 +11779,7 @@ Ainda podem exigir vigilância futura:
 - [05_decisao_local_do_capitulo](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-05-decisao-local-do-capitulo-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/05_decisao_local_do_capitulo.md`
 - [06_primeira_versao_controlada_de_escrita](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-06-primeira-versao-controlada-de-escrita-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/06_primeira_versao_controlada_de_escrita.md`
 - [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap4-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-04-consciencia-reflexividade-e-sujeito-reinscritos-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_04_consciência, reflexividade e sujeito reinscritos/07_escrita_final_preparada_com_critica_acompanhante.md`
 
 <a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -14920,11 +15589,671 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pel
 > **erro da proposição não real:** autonomizar uma camada derivada da reflexividade e deixá-la ocupar o lugar da constituição situada real;  
 > **reinscrição no real:** consciência, interioridade e sujeito como culminações de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e permanece corrigível pelo real.
 
+<a id="cap-04-consciencia-reflexividade-e-sujeito-reinscritos-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_04_consciência, reflexividade e sujeito reinscritos/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 4 — Consciência, reflexividade e sujeito reinscritos
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 4 — Consciência, reflexividade e sujeito reinscritos**.
+
+Não é ainda a redação final publicada do capítulo. A sua função é aproximar a escrita do capítulo final sem reabrir o centro já estabilizado, sem deslocar a ordem local e sem transformar a crítica em cabeça do texto.
+
+O capítulo deve dizer positivamente consciência, reflexividade, interioridade e sujeito como culminações reinscritas de um humano situado. Deve mostrar que essas figuras não são pontos de partida soberanos, mas resultados de uma cadeia real: diferença reflexiva encarnada herdada, humano situado, localidade, apreensão, estabilização temporal interna mínima, fixação representacional, mediação, autorrelação reflexiva e corrigibilidade pelo real.
+
+A crítica acompanha este dizer apenas para proteger o positivo. Ela deve mostrar que modos de formulação ficam bloqueados, que pressupostos errados mobilizam e como cada falso dizer deve ser reinscrito no humano situado e no real.
+
+O ficheiro cumpre, por isso, duas tarefas:
+
+1. explicita primeiro um esquema de escrita crítica integrada;
+2. produz depois uma versão de escrita mais próxima do capítulo final, já com a crítica local incorporada de modo natural.
+
+A crítica não entra como comentário externo. Entra como guarda da descrição positiva.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 4;
+- transformar o capítulo em teoria geral da consciência;
+- transformar o capítulo em teoria geral do sujeito;
+- transformar o capítulo em fenomenologia da interioridade;
+- transformar o capítulo em psicologia;
+- abrir memória como centro;
+- abrir representação, linguagem, verdade, erro ou correção como centros próprios;
+- antecipar o Capítulo 5, 6 ou 7;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo.
+
+Também não pode deixar os materiais fragmentários comandarem a arquitetura. A regra continua a ser:
+
+> os fragmentos validam a estrutura, não a estrutura os fragmentos.
+
+Por isso, não basta haver afinidade verbal com consciência, pensamento, memória, representação, linguagem ou verdade. Só entram materiais fragmentários quando tornem mais legível o centro próprio do Capítulo 4 ou quando ajudem a bloquear diretamente um falso dizer que ameace esse centro.
+
+### relação com o 06
+
+O `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md` fixou o capítulo como estruturalmente suficiente.
+
+O `06` testou se a passagem a texto corrido preservava:
+
+- a entrada pela diferença reflexiva encarnada herdada;
+- a abertura baixa em humano situado, localidade e apreensão;
+- o uso subordinado de `P25`;
+- o carácter ulterior da fixação representacional e mediacional;
+- a autorrelação reflexiva como mediação para consciência, interioridade e sujeito;
+- o fecho terminal de adequação, verdade e correção;
+- a ponte baixa `4→5`.
+
+Esse teste confirmou que não há novo centro a acrescentar. O `07` não reabre a decisão. Apenas prepara a forma final de escrita e integra a crítica acompanhante no corpo da exposição.
+
+A tarefa deste ficheiro é, portanto, tornar mais disciplinado o modo como o capítulo diz o positivo e bloqueia os falsos centros: consciência soberana, sujeito substancial, interioridade originária, presença imediata de si, memória autónoma, representação fundadora, mediação soberana, critério precoce e regresso ao corpo como centro.
+
+### regra da crítica acompanhante
+
+A regra da crítica acompanhante é:
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+O capítulo deve dizer primeiro o que é. Só depois deve mostrar o que esse dizer impede.
+
+A forma recorrente deve ser:
+
+1. dizer positivamente a constituição situada da reflexividade;
+2. indicar o falso modo de dizer consciência, interioridade ou sujeito;
+3. identificar a posição-tipo que pensa mal esse ponto;
+4. mostrar o pressuposto errado dessa posição;
+5. reinscrever a formulação no humano situado e no real.
+
+A crítica não é história da filosofia desenvolvida. Não é comentário de autores. Incide apenas sobre operações de substituição do real.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+O centro positivo do capítulo é:
+
+> reflexividade humana enquanto processo situado, memorial mínimo, representacional e mediado, reinscrito no real.
+
+Esta fórmula deve comandar a escrita.
+
+O Capítulo 4 não pergunta simplesmente o que é a consciência, o que é o sujeito ou o que é a interioridade. Pergunta como uma diferença reflexiva encarnada pode constituir-se como reflexividade humana situada sem sair do real, sem se substancializar em sujeito e sem ser absorvida por memória, representação, mediação ou critério.
+
+### 2. Cadeia positiva
+
+A cadeia positiva a preservar é:
+
+> diferença reflexiva encarnada herdada → humano situado → localidade e apreensão → estabilização temporal interna subordinada → fixação representacional e mediacional → autorrelação reflexiva → consciência, interioridade e sujeito reinscritos → adequação, verdade e correção apenas como fecho terminal → ponte baixa `4→5`.
+
+Esta cadeia não pode ser invertida.
+
+Consciência, interioridade e sujeito entram tarde. Memória entra apenas como estabilização temporal interna subordinada. Representação e mediação entram como fixação e operação ulterior da relação apreendida. Adequação, verdade e correção entram apenas como fecho terminal de corrigibilidade.
+
+### 3. Fórmula axial do capítulo
+
+- **ser no real:** reflexividade humana enquanto processo situado, memorial mínimo, representacional e mediado, reinscrito no real;
+- **dizer do ser:** consciência soberana, sujeito substancial, interioridade originária, presença de si, memória autónoma, representação fundadora, mediação soberana ou critério precoce;
+- **erro da proposição não real:** autonomizar uma camada derivada da reflexividade e deixá-la ocupar o lugar da constituição situada real;
+- **reinscrição no real:** consciência, interioridade e sujeito como culminações de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e permanece corrigível pelo real.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — diferença reflexiva encarnada herdada
+
+- **passo positivo:** o capítulo recebe do Capítulo 3 uma diferença reflexiva encarnada, ainda enraizada no vivo organizado, mas já apta a preparar a constituição humana situada da reflexividade.
+- **posição-tipo bloqueada:** consciência pronta ou sujeito já dado no fim do Capítulo 3.
+- **acerto local da posição:** vê que a diferença reflexiva é real e não mero funcionamento mudo.
+- **deslocação:** converte a possibilidade encarnada de reflexividade em consciência já constituída.
+- **pressuposto errado:** se há diferença reflexiva, já há consciência ou sujeito.
+- **crítica curta:** diferença reflexiva encarnada não é ainda consciência.
+- **reinscrição:** o Capítulo 4 parte dessa diferença como herança baixa e pergunta como ela se constitui humanamente em cadeia situada.
+
+#### Ponto crítico 2 — humano situado
+
+- **passo positivo:** a reflexividade humana começa num humano situado, localizado, afetável, limitado e inscrito no real.
+- **posição-tipo bloqueada:** sujeito como substância ou origem do campo.
+- **acerto local da posição:** vê que há participação ativa do humano na sua relação ao real.
+- **deslocação:** transforma essa participação em fundamento soberano.
+- **pressuposto errado:** o humano só poderia ser reflexivo se fosse primeiro sujeito constituinte.
+- **crítica curta:** o humano situado não funda o real que apreende.
+- **reinscrição:** o humano é ente real situado que pode apreender, conservar, fixar, mediar e retomar a sua relação ao real.
+
+#### Ponto crítico 3 — localidade e apreensão
+
+- **passo positivo:** a reflexividade humana pressupõe localidade e apreensão; o real é apreendido a partir de posição, limite e relação.
+- **posição-tipo bloqueada:** transparência imediata da consciência a si mesma.
+- **acerto local da posição:** vê que há autorrelação.
+- **deslocação:** trata essa autorrelação como presença imediata, sem cadeia de apreensão, estabilização, fixação e mediação.
+- **pressuposto errado:** o humano estaria primeiro presente a si e só depois se relacionaria com o real.
+- **crítica curta:** a autorrelação não é origem transparente.
+- **reinscrição:** a autorrelação só se torna possível a partir da apreensão local do real e da sua posterior retomada.
+
+#### Ponto crítico 4 — estabilização temporal interna subordinada
+
+- **passo positivo:** a relação apreendida não se extingue inteiramente no instante; conserva uma estabilização temporal interna mínima, ainda subordinada à própria relação ao real e anterior à fixação representacional ou mediacional.
+- **posição-tipo bloqueada:** memória autónoma, tempo vivido soberano ou identidade temporal antecipada.
+- **acerto local da posição:** vê que a reflexividade exige alguma conservação da relação apreendida.
+- **deslocação:** transforma o mínimo temporal em memória plena, arquivo, narrativa de si ou identidade temporal.
+- **pressuposto errado:** toda a estabilização temporal interna já seria memória como centro próprio.
+- **crítica curta:** `P25` entra apenas como mínimo subordinado.
+- **reinscrição:** a estabilização temporal interna serve apenas para que a diferença interna encarnada e a relação mínima consigo não se apaguem imediatamente no instante da apreensão.
+
+#### Ponto crítico 5 — fixação representacional
+
+- **passo positivo:** a representação fixa o apreendido, tornando-o operável para a retomada reflexiva.
+- **posição-tipo bloqueada:** representação fundadora.
+- **acerto local da posição:** vê que a representação é necessária para estabilizar e operar o apreendido.
+- **deslocação:** faz da representação a origem da relação ao real.
+- **pressuposto errado:** o humano só teria relação ao real depois de o representar.
+- **crítica curta:** representar não funda apreender.
+- **reinscrição:** a representação é derivada da apreensão situada e permanece subordinada ao real que fixa.
+
+#### Ponto crítico 6 — mediação
+
+- **passo positivo:** a mediação torna a relação apreendida e fixada operável, transmissível e retomável sem se tornar soberana.
+- **posição-tipo bloqueada:** mediação soberana, linguagem precoce, símbolo precoce ou sistema mediacional.
+- **acerto local da posição:** vê que a reflexividade humana precisa de mediação.
+- **deslocação:** substitui o real pela mediação que devia operar sobre a relação ao real.
+- **pressuposto errado:** a consciência constituir-se-ia no símbolo, na linguagem ou no sistema mediacional como seu verdadeiro lugar.
+- **crítica curta:** mediação não substitui o real.
+- **reinscrição:** a mediação é operação necessária da reflexividade, mas permanece subordinada à apreensão, à representação derivada e ao real.
+
+#### Ponto crítico 7 — autorrelação reflexiva
+
+- **passo positivo:** a autorrelação reflexiva é a capacidade do humano situado se relacionar consigo enquanto relação ao real.
+- **posição-tipo bloqueada:** presença imediata de si, transparência pura ou autoconsciência originária.
+- **acerto local da posição:** vê que há retorno de si sobre si.
+- **deslocação:** ignora que esse retorno passa pela relação ao real, pela estabilização temporal interna, pela representação e pela mediação.
+- **pressuposto errado:** o si estaria dado antes da relação que o constitui.
+- **crítica curta:** o si reflexivo não é dado imediato.
+- **reinscrição:** a autorrelação é relação situada do humano com a sua própria relação ao real.
+
+#### Ponto crítico 8 — consciência reinscrita
+
+- **passo positivo:** a consciência é autorrelação situada e mediada, reinscrita no real.
+- **posição-tipo bloqueada:** consciência como ponto primeiro ou instância soberana.
+- **acerto local da posição:** vê que há uma forma reflexiva própria da experiência humana.
+- **deslocação:** faz dessa forma o começo ou o tribunal do real.
+- **pressuposto errado:** a consciência poderia julgar o real a partir de si, como se estivesse fora dele.
+- **crítica curta:** a consciência não funda o real.
+- **reinscrição:** a consciência surge depois de humano situado, apreensão local, estabilização mínima, representação, mediação e autorrelação reflexiva.
+
+#### Ponto crítico 9 — interioridade
+
+- **passo positivo:** a interioridade é forma interna da relação situada do humano ao real.
+- **posição-tipo bloqueada:** interioridade como origem fechada ou mundo privado soberano.
+- **acerto local da posição:** vê que há vida interna e relação consigo.
+- **deslocação:** separa essa vida interna da relação ao real que a constitui.
+- **pressuposto errado:** o interior seria primeiro e o exterior chegaria depois.
+- **crítica curta:** interioridade não é fora íntimo do real.
+- **reinscrição:** o interior também é real; é a forma interna de uma relação situada, temporalmente estabilizada, representacionalmente fixada e mediada.
+
+#### Ponto crítico 10 — sujeito reinscrito
+
+- **passo positivo:** o sujeito é estabilização reflexiva de um humano situado.
+- **posição-tipo bloqueada:** sujeito como substância, proprietário soberano da consciência ou entidade interior exterior ao real conhecido.
+- **acerto local da posição:** vê que a reflexividade humana ganha alguma unidade local.
+- **deslocação:** transforma essa unidade em substância fundadora.
+- **pressuposto errado:** para haver unidade reflexiva teria de haver sujeito substancial anterior.
+- **crítica curta:** o sujeito é culminação, não origem.
+- **reinscrição:** o sujeito é centro local de autorrelação, real mas não soberano, situado e corrigível.
+
+#### Ponto crítico 11 — corrigibilidade terminal
+
+- **passo positivo:** uma reflexividade reinscrita pode ajustar-se ou desajustar-se; por isso adequação, verdade e correção entram apenas como fecho terminal.
+- **posição-tipo bloqueada:** critério precoce ou epistemologia antecipada.
+- **acerto local da posição:** vê que consciência, representação e sujeito são corrigíveis.
+- **deslocação:** faz da verdade, do erro, do critério ou da correção o corpo próprio do Capítulo 4.
+- **pressuposto errado:** a constituição da reflexividade só seria inteligível se já se abrisse a epistemologia plena.
+- **crítica curta:** corrigibilidade não é ainda teoria do critério.
+- **reinscrição:** `P31/P34/P37` entram como bordo terminal que impede soberania da consciência e da representação, não como centro do capítulo.
+
+#### Ponto crítico 12 — ponte baixa `4→5`
+
+- **passo positivo:** a reflexividade humana exige estabilização temporal interna; essa exigência entrega a pergunta pela memória ao capítulo seguinte.
+- **posição-tipo bloqueada:** antecipação da memória, da permanência interna e da identidade temporal como centros do Capítulo 4.
+- **acerto local da posição:** vê que a memória terá de ser pensada.
+- **deslocação:** transforma a ponte em início prematuro do Capítulo 5.
+- **pressuposto errado:** se a reflexividade exige estabilização, então a memória plena já pode ocupar a cabeça.
+- **crítica curta:** preparar memória não é abrir memória.
+- **reinscrição:** a ponte `4→5` entrega apenas a pergunta por memória, permanência interna e identidade temporal mínima.
+
+### 5. Posições-tipo bloqueadas
+
+O Capítulo 4 bloqueia, de modo curto e funcional, as seguintes posições-tipo:
+
+1. **consciência como ponto primeiro:** a consciência é tomada como começo puro anterior à inscrição situada no real;
+2. **consciência como instância soberana:** a consciência é tratada como tribunal do real;
+3. **sujeito como substância:** o sujeito é pensado como entidade interior estável e proprietária da consciência;
+4. **interioridade como origem:** o interior é tomado como mundo primeiro que depois encontra o exterior;
+5. **presença imediata de si:** a autorrelação é pensada como transparência imediata;
+6. **memória autónoma:** a estabilização temporal interna é tratada como memória plena ou identidade temporal;
+7. **representação fundadora:** a representação é tomada como origem da relação ao real;
+8. **mediação soberana:** símbolo, linguagem ou mediação ocupam o lugar da constituição da consciência;
+9. **critério precoce:** adequação, verdade, erro ou correção entram cedo demais;
+10. **corpo como centro reaberto:** a consciência é explicada regressando ao corpo, organismo ou vida organizada como se o Capítulo 3 ainda estivesse aberto.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+O capítulo deve ser justo com as posições que bloqueia.
+
+- As posições da consciência veem corretamente que há autorrelação, mas erram quando fazem dela origem soberana.
+- As posições subjetivistas veem corretamente que o humano participa ativamente na sua relação ao real, mas erram quando fazem do sujeito fundamento do campo.
+- As posições da interioridade veem corretamente que há vida interna, mas erram quando a separam da relação ao real.
+- As posições memorialistas veem corretamente que a relação apreendida precisa de estabilização temporal, mas erram quando fazem da memória o centro deste capítulo.
+- As posições representacionalistas veem corretamente que a representação fixa e torna operável o apreendido, mas erram quando fazem dela origem.
+- As posições mediacionais veem corretamente que a reflexividade humana precisa de mediação, mas erram quando a mediação substitui o real.
+- As posições epistemológicas veem corretamente que consciência e representação são corrigíveis, mas erram quando antecipam verdade, erro, critério e correção como corpo próprio do Capítulo 4.
+- As posições corporeístas veem corretamente que a consciência não flutua fora do corpo, mas erram quando reabrem o Capítulo 3 e fazem da corporeidade o centro que já foi herdado.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições só podem entrar como exemplos laterais e nunca como eixo.
+
+O capítulo não deve começar por “Descartes diz”, “Kant diz”, “Hegel diz”, “Husserl diz”, “Heidegger diz”, “Sartre diz”, “a fenomenologia diz”, “o idealismo diz” ou formulações equivalentes.
+
+Quando for necessário localizar uma tradição, a formulação deve permanecer genérica:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que fazem da consciência, do sujeito, da interioridade, da presença de si ou da mediação o ponto de partida. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: tomar como origem aquilo que só é inteligível como culminação reinscrita de uma cadeia real.
+
+### 8. Economia de notas
+
+As notas de rodapé, se forem usadas, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo tem variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Se algo for necessário para compreender o argumento, deve ficar no corpo do texto.
+
+Este ficheiro não precisa de notas para carregar a exposição. A crítica local deve ser suficiente no texto principal.
+
+### 9. Travões obrigatórios
+
+O Capítulo 4 deve conservar os seguintes travões:
+
+- não regressar ao Capítulo 3 como centro;
+- não abrir consciência como origem;
+- não abrir sujeito como substância;
+- não abrir interioridade como mundo separado;
+- não abrir memória como centro;
+- não abrir representação como capítulo próprio;
+- não abrir linguagem;
+- não abrir verdade/erro/correção como corpos próprios;
+- não abrir ação;
+- não abrir normatividade;
+- não abrir crítica sistémica.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 4 não pergunta simplesmente “o que é a consciência?”, nem “o que é o sujeito?”, nem “o que é a interioridade?”.
+
+Essas perguntas são tardias quando tomadas como cabeças. Começam já demasiado alto. Fazem parecer que consciência, sujeito e interioridade estão disponíveis antes da cadeia real que os torna possíveis.
+
+A pergunta própria do capítulo é outra:
+
+> como pode uma diferença reflexiva encarnada constituir-se como reflexividade humana situada, sem se separar do real, sem se substancializar como sujeito e sem se dissolver em memória, representação ou mediação?
+
+O ser em causa é a reflexividade humana enquanto processo situado, memorial mínimo, representacional e mediado, reinscrito no real.
+
+Isto significa que o capítulo não começa por uma consciência que observa o mundo, nem por um sujeito que possui representações, nem por uma interioridade que depois se abre ao exterior. Começa por uma diferença reflexiva encarnada herdada do Capítulo 3 e pergunta como essa diferença ganha forma humana sem perder a sua inscrição real.
+
+A cadeia que deve comandar a escrita é esta:
+
+> diferença reflexiva encarnada herdada → humano situado → localidade e apreensão → estabilização temporal interna subordinada → fixação representacional e mediacional → autorrelação reflexiva → consciência, interioridade e sujeito reinscritos → adequação, verdade e correção apenas como fecho terminal → ponte baixa `4→5`.
+
+O falso modo de dizer esta zona é começar pelo resultado. Consciência, sujeito, interioridade, memória, representação, mediação e critério são todos reais, mas nenhum pode ocupar a primeira posição do capítulo. Cada um só se torna inteligível quando reinscrito na cadeia que o produz.
+
+### 2. Do vivo organizado ao humano situado
+
+O Capítulo 4 recebe do Capítulo 3 uma diferença reflexiva encarnada.
+
+Essa herança é decisiva. A reflexividade não cai do alto. Não vem de uma consciência separada, de uma alma, de uma substância pensante ou de uma interioridade sem corpo. Ela foi preparada no vivo organizado, no corpo, no campo, na continuidade encarnada, na estabilização local e na apreensão incorporada.
+
+Mas o Capítulo 4 não reabre esse solo como centro.
+
+O corpo é pressuposto. O organismo é pressuposto. A vida organizada é pressuposta. O problema agora já não é mostrar que há corporeidade real capaz de preparar diferença reflexiva encarnada. O problema é mostrar como essa diferença se constitui como reflexividade humana situada.
+
+O humano entra, por isso, como ente situado no real. Entra localizado, afetável, limitado, corporal, já exposto ao real e capaz de apreensão. Não entra como sujeito fundador. Não entra como origem do campo. Não entra como consciência pronta.
+
+A posição que pensa mal este passo vê corretamente que a reflexividade humana não é simples reação orgânica. Mas desloca-se quando transforma essa diferença em sujeito já dado ou consciência pronta. O pressuposto errado é que, para haver reflexividade, teria de haver desde o início uma instância interior proprietária da relação.
+
+O capítulo bloqueia esse salto.
+
+O humano situado não funda o real. Está nele. Não constitui soberanamente o campo. É constituído nele. Não começa por possuir consciência. Pode tornar-se consciente porque já apreende localmente o real e pode conservar, fixar, mediar e retomar essa relação.
+
+A reinscrição correta é esta: o humano é o lugar real em que a diferença reflexiva encarnada começa a ganhar constituição situada, sem deixar de pertencer ao real.
+
+### 3. Localidade e apreensão
+
+A reflexividade humana exige localidade.
+
+A localidade não é uma falha a ultrapassar por um ponto de vista absoluto. É a condição real de qualquer acesso. O humano apreende sempre a partir de posição, campo, limite e relação.
+
+Também exige apreensão. Antes de haver representação, linguagem, juízo, memória plena ou sujeito reflexivo, há relação situada ao real. Algo é apreendido a partir de um ponto real de contacto. Essa apreensão não funda o real, nem o esgota, nem coincide imediatamente com verdade. Mas dá a matéria sem a qual nada poderia ser fixado, mediado ou retomado.
+
+No Capítulo 4, esta localidade já não é apenas o aparecer situado do Capítulo 2. Também já não é apenas a apreensão incorporada do Capítulo 3. É a localidade do humano que pode vir a relacionar-se consigo enquanto relação ao real.
+
+O falso dizer deste passo é a transparência imediata da consciência a si mesma. A posição vê corretamente que há autorrelação, mas erra quando a toma como presença pura, como se o humano estivesse primeiro diante de si e só depois diante do real.
+
+Essa inversão apaga o caminho real da reflexividade.
+
+Apreensão local não é ainda consciência reflexiva. Afetação não é ainda autorrelação. Localidade não é ainda sujeito.
+
+A reinscrição correta é esta: a reflexividade nasce da apreensão local do real por um humano situado; a autorrelação só aparece quando essa relação pode ser conservada, fixada, mediada e retomada.
+
+### 4. Estabilização temporal interna subordinada
+
+A relação apreendida não se extingue inteiramente no instante.
+
+Se se extinguisse, não haveria consistência mínima para a retomada reflexiva. A diferença interna encarnada apagar-se-ia no próprio momento da afetação. O humano não poderia relacionar-se consigo enquanto relação ao real, porque a relação não conservaria sequer o mínimo necessário para ser retomada.
+
+É aqui que `P25` entra no Capítulo 4.
+
+Mas entra apenas em regime subordinado.
+
+A formulação máxima admissível é:
+
+> a relação apreendida não se extingue inteiramente no instante; conserva uma estabilização temporal interna mínima, ainda subordinada à própria relação ao real e ainda anterior à sua fixação representacional ou mediacional.
+
+E ainda:
+
+> esse mínimo serve apenas para que a diferença interna encarnada e a relação mínima consigo não se apaguem imediatamente no mesmo instante da apreensão.
+
+Nada mais deve ser aberto aqui.
+
+Esta estabilização temporal interna não é ainda memória como centro próprio. Não é arquivo. Não é narrativa. Não é identidade temporal. Não é permanência interna destacada. Não é retenção forte. É apenas o mínimo sem o qual a relação apreendida não poderia ser retomada reflexivamente.
+
+A posição memorialista vê algo verdadeiro: sem conservação temporal mínima não há reflexividade humana consistente. Mas desloca-se quando faz dessa conservação já uma memória plena. O pressuposto errado é que todo o mínimo temporal interno já seria memória.
+
+O Capítulo 4 bloqueia esta antecipação.
+
+A reinscrição correta é esta: `P25` serve a constituição situada da reflexividade; não ocupa o centro do capítulo e não inicia ainda o Capítulo 5.
+
+### 5. Fixação representacional
+
+A relação apreendida, minimamente estabilizada, pode ser fixada.
+
+A representação entra como fixação operável do apreendido. Ela permite que o que foi apreendido não permaneça apenas afetação local e que possa ser organizado, retomado, comparado e usado na constituição da autorrelação.
+
+Mas a representação não funda a apreensão. Não funda o real. Não inaugura a relação ao real.
+
+O que ela faz é outro: fixa algo que já foi apreendido. Dá forma operável ao que já entrou na relação situada. Permite que a relação não se perca no fluxo imediato da afetação e da conservação mínima.
+
+O falso dizer deste passo é a representação fundadora. A posição vê corretamente que a representação tem função decisiva: sem ela, a reflexividade humana não teria forma operável estável. Mas erra quando faz da representação a origem da relação ao real.
+
+O pressuposto errado é que só há real para o humano quando há representação do real.
+
+O capítulo deve impedir essa inversão.
+
+Primeiro há relação situada e apreensão local. Depois há estabilização temporal interna mínima. Só então há fixação representacional.
+
+A reinscrição correta é esta: representação é derivação operativa da apreensão, não fundamento da apreensão nem substituto do real.
+
+### 6. Mediação
+
+A fixação representacional exige mediação.
+
+A mediação permite operar a relação apreendida e fixada. Permite retomá-la, articulá-la, ligá-la a outras relações, torná-la comunicável ou trabalhável. Sem mediação, a reflexividade humana ficaria estreita, pouco estável, sem capacidade de retorno organizado sobre si.
+
+Mas a mediação também não é soberana.
+
+Ela não substitui o real. Não substitui a apreensão. Não substitui a representação derivada. Não transforma símbolo, linguagem ou sistema no lugar verdadeiro da consciência.
+
+Neste capítulo, a mediação entra apenas enquanto operação necessária da constituição reflexiva. Ainda não é capítulo da linguagem. Ainda não é capítulo do símbolo. Ainda não é teoria do sentido. Ainda não é sistema mediacional.
+
+A posição mediacional vê corretamente que a reflexividade humana não se constitui sem mediação. Mas desloca-se quando a mediação deixa de operar a relação ao real e passa a ocupar o lugar do próprio real.
+
+O pressuposto errado é que a consciência se constitui no mediado enquanto tal, e não no humano situado que apreende o real, conserva minimamente essa relação, a fixa representacionalmente e a medeia.
+
+A reinscrição correta é esta: mediação é condição operativa da reflexividade humana, mas permanece subordinada ao real e à apreensão situada que a alimenta.
+
+### 7. Autorrelação reflexiva
+
+A autorrelação reflexiva não é presença imediata de si.
+
+O humano não começa por estar transparente a si mesmo. Começa por estar no real. Apreende localmente o real. Conserva minimamente essa relação. Fixa-a representacionalmente. Medeia-a. Só então pode voltar-se sobre essa relação e relacionar-se consigo nela.
+
+A autorrelação reflexiva é, portanto, relação do humano com a sua própria relação ao real.
+
+Isto é o ponto decisivo do capítulo.
+
+Não há autorrelação sem relação anterior ao real. Não há si reflexivo anterior ao processo que o estabiliza. Não há interioridade soberana que depois acrescenta mundo. O que há é uma retomada mediada da relação situada ao real.
+
+A posição da presença imediata de si vê corretamente que a reflexividade envolve um retorno do humano sobre si. Mas erra quando torna esse retorno imediato, transparente e originário.
+
+O pressuposto errado é que o si estaria dado antes da relação que o constitui.
+
+O Capítulo 4 reinscreve o si no processo real da sua formação: o humano só se relaciona consigo enquanto conserva, fixa e medeia a sua relação ao real.
+
+A autorrelação é real. Mas é tardia. É situada. É mediada. É corrigível.
+
+### 8. Consciência reinscrita
+
+Só agora se pode falar de consciência.
+
+A consciência não é a primeira palavra do capítulo. Não é luz interior originária. Não é substância mental. Não é ponto puro de presença. Não é tribunal do real.
+
+A consciência é autorrelação situada e mediada no real.
+
+Ela surge quando o humano situado pode retomar a sua relação ao real de forma reflexiva. Depende de localidade, apreensão, estabilização temporal interna mínima, fixação representacional, mediação e autorrelação.
+
+Dizer isto não diminui a consciência. Reinscreve-a.
+
+A posição que faz da consciência ponto primeiro vê corretamente que a consciência tem dignidade própria no humano. Vê que há uma forma de relação que não é simples reação, nem simples receção, nem simples representação solta. Mas desloca-se quando faz dessa consciência o começo puro.
+
+A posição que faz da consciência instância soberana vê corretamente que a consciência pode julgar, comparar e corrigir. Mas desloca-se quando a transforma em tribunal do real.
+
+O pressuposto errado das duas posições é o mesmo: a consciência poderia ocupar um lugar anterior ou exterior à cadeia que a constitui.
+
+O capítulo bloqueia isso.
+
+A consciência é processo real. Está no real. Surge de uma relação ao real. É mediada. É limitada. É corrigível pelo real.
+
+A reinscrição correta é esta: consciência é culminação situada da reflexividade humana, não fundamento soberano do campo.
+
+### 9. Interioridade
+
+A interioridade também não é origem.
+
+Ela aparece quando a relação ao real, estabilizada e mediada, pode ser retomada internamente por um humano situado. O interior não se opõe ao real. O interior também é real. Mas é real enquanto modo interno de uma relação situada.
+
+Por isso, a interioridade não deve ser pensada como mundo privado primeiro, como refúgio contra o real ou como esfera imune à correção. Ela não precede a relação ao real. Ela resulta da forma interna que essa relação ganha quando pode ser conservada, fixada, mediada e retomada.
+
+A posição da interioridade vê corretamente que há vida interna. Vê que o humano não é apenas exterioridade comportamental nem simples ponto de receção. Mas desloca-se quando faz da interioridade um mundo fechado que depois teria de encontrar um exterior.
+
+O pressuposto errado é que o dentro seria primeiro.
+
+O Capítulo 4 reinscreve a interioridade no real.
+
+Interioridade é o modo como o humano situado está consigo no interior da sua relação ao real. Não é exterioridade invertida. Não é origem separada. Não é soberania privada.
+
+A reinscrição correta é esta: a interioridade é forma interna da relação situada ao real.
+
+### 10. Sujeito reinscrito
+
+Só depois se pode falar de sujeito.
+
+O sujeito não é ponto inicial. Não é substância isolada. Não é proprietário soberano da consciência. Não é centro absoluto de constituição do mundo.
+
+O sujeito é estabilização reflexiva de um humano situado.
+
+Ele resulta de uma cadeia:
+
+> humano situado → apreensão local → estabilização temporal interna subordinada → fixação representacional e mediacional → autorrelação reflexiva → consciência e interioridade → sujeito reinscrito.
+
+O sujeito é real, mas não soberano. Tem unidade local, mas não é fundamento do real. Pode representar, julgar, corrigir e agir, mas permanece situado, limitado e exposto à medida do real.
+
+A posição subjetivista vê corretamente que a reflexividade humana ganha unidade e que o humano participa ativamente na sua relação ao real. Mas desloca-se quando transforma essa unidade em substância anterior.
+
+O pressuposto errado é que, para haver unidade reflexiva, teria de haver sujeito substancial primeiro.
+
+O capítulo bloqueia essa substancialização.
+
+A reinscrição correta é esta: sujeito é estabilização reflexiva reinscrita no real, não substância soberana.
+
+### 11. Adequação, verdade e correção como fecho terminal
+
+Uma reflexividade reinscrita no real pode ajustar-se ou desajustar-se.
+
+Por isso, adequação, verdade e correção entram no Capítulo 4. Mas entram apenas no fecho.
+
+A consciência é corrigível porque não é tribunal soberano. A representação é corrigível porque fixa o apreendido sem coincidir automaticamente com o real. O sujeito é corrigível porque não é medida absoluta do que é.
+
+Dizer isto é suficiente neste capítulo.
+
+Não é ainda preciso abrir a teoria do critério. Não é ainda preciso desenvolver a estrutura do erro. Não é ainda preciso fazer da verdade o centro próprio. Não é ainda preciso tratar a correção como regime autónomo.
+
+A posição epistemológica vê corretamente que consciência, representação e sujeito só são sérios se forem corrigíveis. Mas desloca-se quando faz dessa corrigibilidade o corpo principal do Capítulo 4.
+
+O pressuposto errado é que a constituição situada da reflexividade só ficaria inteligível se fosse imediatamente convertida em epistemologia.
+
+O capítulo deve parar antes disso.
+
+A reinscrição correta é esta: `P31/P34/P37` entram apenas como fecho terminal de corrigibilidade. Servem para impedir que consciência, representação e sujeito se tornem soberanos. Não comandam o capítulo.
+
+### 12. Fecho e ponte baixa `4→5`
+
+O Capítulo 4 fixa a constituição situada da reflexividade humana.
+
+Mostra que consciência, interioridade e sujeito não são começos soberanos, mas culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e pode relacionar-se consigo enquanto relação ao real.
+
+O capítulo deve parar aqui.
+
+Não deve abrir memória como centro próprio. Não deve desenvolver permanência interna, identidade temporal, retenção forte ou narrativa de si. Não deve passar para linguagem, símbolo, sentido, verdade, erro, correção, ação ou normatividade.
+
+Mas deve entregar uma pergunta ao Capítulo 5:
+
+> se a reflexividade humana exige estabilização temporal interna da relação ao real, como se constitui essa estabilização como memória, permanência interna e identidade temporal mínima?
+
+Esta pergunta é ponte, não novo centro.
+
+O falso dizer da ponte é transformar preparação em absorção. Como se, por `P25` entrar no Capítulo 4, a memória já pudesse ocupar a cabeça. Como se, por haver autorrelação reflexiva, já houvesse identidade temporal desenvolvida. Como se, por haver estabilização interna, já houvesse narrativa de si.
+
+O Capítulo 4 deve resistir a esse salto.
+
+A reinscrição correta é esta: a ponte `4→5` prepara a memória sem a iniciar.
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| consciência como ponto primeiro | vê que há consciência humana real | faz da consciência começo puro | a consciência poderia anteceder inscrição situada, apreensão e mediação | consciência surge depois de humano situado, apreensão local, estabilização mínima, representação, mediação e autorrelação |
+| consciência soberana | vê que a consciência pode julgar, comparar e corrigir | transforma-a em tribunal do real | a consciência poderia medir o real a partir de si | consciência é processo real, situado, mediado e corrigível pelo real |
+| sujeito como substância | vê que a reflexividade ganha unidade local | converte essa unidade em entidade interior estável | unidade reflexiva exige substância anterior | sujeito é estabilização reflexiva de um humano situado |
+| interioridade como origem | vê que há vida interna | separa o interior da relação ao real | o interior seria primeiro e o exterior posterior | interioridade é forma interna da relação situada ao real |
+| presença imediata de si | vê que há autorrelação | torna a autorrelação transparente e originária | o si estaria dado antes da relação que o constitui | autorrelação é retomada mediada da relação ao real |
+| memória autónoma | vê que a reflexividade exige conservação temporal | transforma estabilização mínima em memória plena | toda permanência interna já seria memória como centro | `P25` entra apenas como estabilização temporal interna subordinada |
+| representação fundadora | vê que a representação fixa e torna operável o apreendido | faz da representação origem da relação ao real | só haveria relação ao real depois de representação | representação fixa o apreendido; não funda a apreensão nem o real |
+| mediação soberana | vê que a reflexividade humana precisa de mediação | substitui o real pela mediação | símbolo, linguagem ou sistema seriam o lugar próprio da constituição | mediação é operação necessária, mas subordinada ao real e à apreensão |
+| critério precoce | vê que consciência, representação e sujeito são corrigíveis | antecipa verdade, erro, critério e correção como corpo do capítulo | a constituição da reflexividade exigiria epistemologia plena | adequação, verdade e correção entram apenas como fecho terminal |
+| corpo como centro reaberto | vê que a consciência não é separada do corpo | regressa ao Capítulo 3 como se o solo ainda fosse o centro | o corpo teria de explicar novamente a constituição reflexiva | corpo, organismo e vida organizada são solo herdado; o centro agora é reflexividade humana situada |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro preservado é:
+
+> reflexividade humana enquanto processo situado, memorial mínimo, representacional e mediado, reinscrito no real.
+
+O ficheiro não reabre consciência, sujeito ou interioridade como pontos de partida. Também não desloca o centro para memória, representação, mediação, verdade, erro ou correção.
+
+### cadeia preservada
+
+A cadeia preservada é:
+
+> diferença reflexiva encarnada herdada → humano situado → localidade e apreensão → estabilização temporal interna subordinada → fixação representacional e mediacional → autorrelação reflexiva → consciência, interioridade e sujeito reinscritos → adequação, verdade e correção apenas como fecho terminal → ponte baixa `4→5`.
+
+A ordem foi mantida. Nenhuma camada derivada foi autorizada a ocupar o início.
+
+### estatuto de P25 preservado
+
+`P25` entrou apenas como estabilização temporal interna subordinada, não como memória própria.
+
+A formulação manteve-se no limite admissível:
+
+> a relação apreendida não se extingue inteiramente no instante; conserva uma estabilização temporal interna mínima, ainda subordinada à própria relação ao real e ainda anterior à sua fixação representacional ou mediacional.
+
+E:
+
+> esse mínimo serve apenas para que a diferença interna encarnada e a relação mínima consigo não se apaguem imediatamente no mesmo instante da apreensão.
+
+Não foi desenvolvida a terceira frase de `P25`. `P26` não foi aberto como centro. O Capítulo 5 não foi iniciado.
+
+### crítica subordinada
+
+A crítica acompanha o positivo e não o substitui.
+
+Cada posição-tipo foi tratada apenas para proteger a descrição da constituição situada da reflexividade humana. A exposição positiva permanece dominante: humano situado, apreensão local, estabilização temporal interna mínima, representação, mediação, autorrelação, consciência, interioridade e sujeito reinscritos.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas sem transformar o capítulo em história da filosofia, teoria da consciência, teoria do sujeito ou fenomenologia.
+
+Não se abriu comentário de autores. Não se fez genealogia de tradições. Cada posição foi usada apenas como operação típica de substituição do real: começar pela consciência, substancializar o sujeito, fechar a interioridade, autonomizar a memória, fazer da representação origem, soberanizar a mediação, antecipar o critério ou regressar ao corpo como centro.
+
+### notas sob controlo
+
+Não foram usadas notas de rodapé para carregar o argumento.
+
+Se forem introduzidas mais tarde, devem limitar-se a localizar tradições, proteger contra simplificação ou remeter para críticas posteriores. O argumento principal deve continuar no corpo do texto.
+
+### capítulos posteriores não abertos
+
+Ficaram fora:
+
+- memória como centro próprio;
+- identidade temporal desenvolvida;
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- sentido;
+- verdade como centro;
+- erro como corpo próprio;
+- critério como tribunal;
+- correção como regime próprio;
+- ação;
+- normatividade;
+- responsabilidade;
+- crítica sistémica.
+
+Também ficou fora o regresso ao Capítulo 3 como centro. Corpo, organismo, vida organizada, campo e continuidade encarnada permanecem como solo herdado, não como problema principal reaberto.
+
+### fórmula final
+
+> O Capítulo 4 fixa que consciência, interioridade e sujeito não são começos soberanos, mas culminações reinscritas de um humano situado que apreende localmente o real, conserva minimamente essa relação, a fixa por representação e mediação, e pode relacionar-se consigo enquanto relação ao real, permanecendo corrigível pela medida do real.
+
 <a id="capitulo-cap-05-memoria-permanencia-interna-identidade-temporal"></a>
 ## CAP_05_memoria_permanencia_interna_identidade_temporal
 
 - Pasta: `CAP_05_memoria_permanencia_interna_identidade_temporal`
-- Ficheiros incluídos: `8`
+- Ficheiros incluídos: `9`
 
 ### Índice interno da pasta
 
@@ -14936,6 +16265,7 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pel
 - [05_decisao_local_do_capitulo](#cap-05-memoria-permanencia-interna-identidade-temporal-05-decisao-local-do-capitulo-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/05_decisao_local_do_capitulo.md`
 - [06_primeira_versao_controlada_de_escrita](#cap-05-memoria-permanencia-interna-identidade-temporal-06-primeira-versao-controlada-de-escrita-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/06_primeira_versao_controlada_de_escrita.md`
 - [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5](#cap-05-memoria-permanencia-interna-identidade-temporal-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap5-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-05-memoria-permanencia-interna-identidade-temporal-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_05_memoria_permanencia_interna_identidade_temporal/07_escrita_final_preparada_com_critica_acompanhante.md`
 
 <a id="cap-05-memoria-permanencia-interna-identidade-temporal-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -19605,11 +20935,665 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pel
 > **erro da proposição não real:** deslocar `P25` do seu estatuto próprio, dissolvendo-o por baixo ou inflacionando-o por cima;  
 > **reinscrição no real:** memória como permanência interna eficaz da relação apreendida ao real, anterior à representação plena e ao regime próprio de verdade, erro, critério e correção.
 
+<a id="cap-05-memoria-permanencia-interna-identidade-temporal-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_05_memoria_permanencia_interna_identidade_temporal/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 5 — Memória, permanência interna e identidade temporal mínima
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 5 — Memória, permanência interna e identidade temporal mínima**.
+
+Não é ainda a redação final publicada do capítulo. A sua função é aproximar a escrita do capítulo final sem reabrir o centro já estabilizado, sem deslocar a ordem local e sem transformar a crítica em cabeça do texto.
+
+O capítulo deve dizer positivamente a memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado. Deve mostrar que a relação apreendida não se apaga simplesmente no instante; permanece internamente, opera sobre novas relações, seleciona o que pode ser retomado e permite uma identidade temporal mínima sem ainda abrir representação plena, linguagem, verdade, erro, correção ou identidade narrativa como centros próprios.
+
+A crítica acompanha este dizer apenas para proteger o positivo. Ela deve mostrar que modos de formulação ficam bloqueados, que pressupostos errados mobilizam e como cada falso dizer deve ser reinscrito no humano situado e na relação ao real.
+
+O ficheiro cumpre, por isso, duas tarefas:
+
+1. explicita primeiro um esquema de escrita crítica integrada;
+2. produz depois uma versão de escrita mais próxima do capítulo final, já com a crítica local incorporada de modo natural.
+
+A crítica não entra como comentário externo. Entra como guarda da descrição positiva.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 5;
+- transformar o capítulo em psicologia da memória;
+- transformar o capítulo em fenomenologia do tempo vivido;
+- transformar o capítulo em teoria da identidade narrativa;
+- abrir representação como centro;
+- abrir linguagem, símbolo ou sentido como centros;
+- abrir verdade, erro, critério ou correção como corpos próprios;
+- antecipar o Capítulo 6 ou o Capítulo 7;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo.
+
+Também não pode deixar os materiais fragmentários comandarem a arquitetura. A regra continua a ser:
+
+> os fragmentos validam a estrutura, não a estrutura os fragmentos.
+
+Por isso, não basta haver afinidade verbal com memória, tempo, duração, identidade, representação, linguagem ou verdade. Só entram materiais fragmentários quando tornem mais legível o centro próprio do Capítulo 5 ou quando ajudem a bloquear diretamente um falso dizer que ameace esse centro.
+
+### relação com o 06
+
+O `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md` fixou o capítulo como estruturalmente suficiente.
+
+O `06` testou se a passagem a texto corrido preservava:
+
+- a abertura baixa por humano situado, localidade e apreensão;
+- a persistência da relação apreendida;
+- `P25` como centro próprio;
+- a memória como estabilização temporal interna, durável, operante e seletiva;
+- a distinção face à continuidade bruta;
+- a distinção face ao rasto, à marca inerte e ao arquivo;
+- a distinção face ao tempo vivido e à consciência temporal;
+- a distinção face à identidade narrativa;
+- a subordinação de `P26` como fixação mediada ulterior;
+- a entrada apenas terminal de `P31/P34`;
+- a ponte baixa `5→6`.
+
+Esse teste confirmou que não há novo centro a acrescentar. O `07` não reabre a decisão. Apenas prepara a forma final de escrita e integra a crítica acompanhante no corpo da exposição.
+
+A diferença deste ficheiro em relação ao `06` é de regime de escrita. O `06` comprovou a suficiência da sequência. O `07` pergunta como escrever essa sequência de modo mais próximo do capítulo final, mostrando positivamente o que a memória é e fazendo acompanhar cada passo pela crítica local estritamente necessária.
+
+### regra da crítica acompanhante
+
+A regra da crítica acompanhante é:
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+O capítulo deve dizer primeiro o que é. Só depois deve mostrar o que esse dizer impede.
+
+A forma recorrente deve ser:
+
+1. dizer positivamente a memória como permanência interna da relação apreendida;
+2. indicar o falso modo de dizer memória, continuidade, durabilidade, operatividade ou identidade temporal;
+3. identificar a posição-tipo que pensa mal esse ponto;
+4. mostrar o pressuposto errado dessa posição;
+5. reinscrever a formulação no humano situado e na relação ao real.
+
+A crítica não deve tornar o capítulo polémico. Não deve ridicularizar posições. Não deve fazer história da filosofia desenvolvida. Deve incidir sobre operações de substituição do real.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+O centro positivo do Capítulo 5 é:
+
+> memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado.
+
+Esta fórmula deve governar a escrita.
+
+A memória não entra como faculdade isolada. Não entra como arquivo de conteúdos. Não entra como tempo vivido soberano. Não entra como identidade narrativa. Entra como permanência interna eficaz de uma relação ao real que já foi apreendida por um humano situado.
+
+### 2. Cadeia positiva
+
+A cadeia positiva a preservar é:
+
+> humano situado / localidade / apreensão → persistência da relação apreendida → memória como estabilização temporal interna → durabilidade → operatividade → seletividade → identidade temporal mínima → fixação mediada ulterior (`P26`) → adequação e verdade apenas terminais (`P31/P34`) → ponte baixa `5→6`.
+
+Esta cadeia não pode ser invertida.
+
+Não se começa pela memória em abstrato. Começa-se por humano situado, localidade e apreensão. Não se começa por tempo vivido. Começa-se pela relação apreendida ao real. Não se começa por representação, linguagem ou verdade. Estas entram apenas depois, como derivação ulterior ou fecho terminal.
+
+### 3. Fórmula axial do capítulo
+
+- **ser no real:** memória enquanto estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado;
+- **dizer do ser:** continuidade bruta, rasto, arquivo, depósito, tempo vivido, consciência temporal, identidade narrativa, representação, linguagem ou verdade;
+- **erro da proposição não real:** deslocar `P25` do seu estatuto próprio, dissolvendo-o por baixo ou inflacionando-o por cima;
+- **reinscrição no real:** memória como permanência interna eficaz da relação apreendida ao real, anterior à representação plena e ao regime próprio de verdade, erro, critério e correção.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — humano situado / localidade / apreensão
+
+- **passo positivo:** a memória só se torna inteligível num humano situado que apreende localmente o real.
+- **posição-tipo bloqueada:** memória em abstrato, tratada como faculdade isolada.
+- **acerto local da posição:** vê que a memória tem uma função própria e não se reduz a perceção atual.
+- **deslocação:** retira a memória do solo real em que ela nasce: humano situado, localidade e apreensão.
+- **pressuposto errado:** a memória poderia ser pensada antes da relação apreendida ao real.
+- **crítica curta:** não há memória relevante sem relação apreendida que possa permanecer internamente.
+- **reinscrição:** a memória deve ser reconduzida ao humano situado que apreende o real sem exterioridade.
+
+#### Ponto crítico 2 — persistência da relação apreendida
+
+- **passo positivo:** a relação apreendida pode não se extinguir no instante da apreensão.
+- **posição-tipo bloqueada:** memória como rasto, marca ou simples efeito residual.
+- **acerto local da posição:** vê que algo do passado permanece.
+- **deslocação:** transforma essa permanência em resto inerte, sem operação interna.
+- **pressuposto errado:** permanecer seria apenas deixar marca.
+- **crítica curta:** a memória não é marca morta; é permanência interna de uma relação que continua a fazer diferença.
+- **reinscrição:** a persistência deve ser pensada como permanência operante da relação apreendida ao real.
+
+#### Ponto crítico 3 — memória como estabilização temporal interna
+
+- **passo positivo:** memória é estabilização temporal interna da relação apreendida ao real.
+- **posição-tipo bloqueada:** memória como arquivo, depósito ou faculdade soberana.
+- **acerto local da posição:** vê que a memória conserva.
+- **deslocação:** confunde conservar com guardar conteúdos num interior neutro.
+- **pressuposto errado:** o que permanece seria conteúdo armazenado, e não relação estabilizada.
+- **crítica curta:** a memória não arquiva coisas mortas; conserva operativamente relações apreendidas.
+- **reinscrição:** a memória deve ser dita como estabilização interna da relação ao real, não como depósito interior.
+
+#### Ponto crítico 4 — durabilidade
+
+- **passo positivo:** a memória implica durabilidade suficiente para que a relação apreendida não se apague imediatamente.
+- **posição-tipo bloqueada:** memória como conservação literal ou cópia intacta.
+- **acerto local da posição:** vê que a memória exige alguma permanência.
+- **deslocação:** transforma durabilidade em repetição fotográfica do passado.
+- **pressuposto errado:** durar seria conservar o mesmo conteúdo intacto.
+- **crítica curta:** a durabilidade memorial é permanência suficiente para operar, não cópia literal.
+- **reinscrição:** a relação apreendida dura enquanto permanece eficaz na continuidade interna do humano situado.
+
+#### Ponto crítico 5 — operatividade
+
+- **passo positivo:** a memória opera sobre novas apreensões, respostas, orientações e disponibilidades.
+- **posição-tipo bloqueada:** memória como arquivo neutro ou como critério por eficácia.
+- **acerto local da posição:** vê que a memória influencia o presente.
+- **deslocação:** ou reduz essa influência a consulta de arquivo, ou a transforma em critério de validade.
+- **pressuposto errado:** operar bastaria para garantir verdade ou adequação.
+- **crítica curta:** uma memória pode operar e ainda assim orientar mal.
+- **reinscrição:** a operatividade deve ser reconhecida como eficácia interna da relação apreendida, não como critério de verdade.
+
+#### Ponto crítico 6 — seletividade
+
+- **passo positivo:** a memória é seletiva porque nem toda afetação apreendida permanece do mesmo modo.
+- **posição-tipo bloqueada:** seletividade como escolha soberana do sujeito.
+- **acerto local da posição:** vê que a memória não conserva tudo indiferentemente.
+- **deslocação:** atribui a seleção a uma decisão livre e consciente já constituída.
+- **pressuposto errado:** o sujeito comandaria soberanamente o que permanece.
+- **crítica curta:** a seletividade memorial nasce da estrutura situada, corporal, afetiva, relacional e temporal do humano.
+- **reinscrição:** a seletividade deve ser pensada como estabilização diferencial da relação ao real num humano situado.
+
+#### Ponto crítico 7 — identidade temporal mínima
+
+- **passo positivo:** a memória permite identidade temporal mínima, porque conserva relações apreendidas através do tempo.
+- **posição-tipo bloqueada:** memória como identidade narrativa, biografia ou história de si.
+- **acerto local da posição:** vê que a memória contribui para continuidade do humano.
+- **deslocação:** antecipa uma identidade desenvolvida, narrativa e simbolicamente organizada.
+- **pressuposto errado:** toda permanência temporal do humano já seria história de si.
+- **crítica curta:** identidade temporal mínima não é identidade narrativa.
+- **reinscrição:** a identidade deve ficar como continuidade interna mínima de um humano que conserva relações apreendidas ao real.
+
+#### Ponto crítico 8 — fixação mediada ulterior (`P26`)
+
+- **passo positivo:** a memória prepara a fixação mediada ulterior do apreendido.
+- **posição-tipo bloqueada:** memória como representação plena.
+- **acerto local da posição:** vê que a memória abre para fixação, retomada e mediação.
+- **deslocação:** transforma a abertura para representação em representação já constituída.
+- **pressuposto errado:** só aquilo que está representado permanece.
+- **crítica curta:** a memória precede a representação plena; `P26` é derivação ulterior, não centro do Capítulo 5.
+- **reinscrição:** a fixação mediada deve ser pensada como consequência da permanência memorial, não como origem da memória.
+
+#### Ponto crítico 9 — adequação e verdade apenas terminais (`P31/P34`)
+
+- **passo positivo:** uma relação apreendida, memorizada e posteriormente representada pode ajustar-se ou desajustar-se ao real.
+- **posição-tipo bloqueada:** memória como critério de verdade.
+- **acerto local da posição:** vê que a memória pode vir a ser avaliada.
+- **deslocação:** toma a permanência ou a eficácia memorial como garantia de verdade.
+- **pressuposto errado:** aquilo que permanece internamente teria autoridade por permanecer.
+- **crítica curta:** permanência não é verdade; operatividade não é critério.
+- **reinscrição:** `P31/P34` entram apenas como fecho terminal subordinado, dependente de representação, adequação e critério submetido ao real.
+
+#### Ponto crítico 10 — ponte baixa `5→6`
+
+- **passo positivo:** se a memória conserva internamente a relação apreendida, torna-se possível perguntar como essa relação se fixa, representa, simboliza, comunica e ganha sentido.
+- **posição-tipo bloqueada:** transformação da ponte em absorção do Capítulo 6.
+- **acerto local da posição:** vê que memória abre para representação, linguagem, símbolo e sentido.
+- **deslocação:** faz da abertura uma autorização para mudar já o centro do capítulo.
+- **pressuposto errado:** preparar uma camada seria já tratar essa camada como centro próprio.
+- **crítica curta:** o Capítulo 5 prepara `P26`, mas não se deixa comandar por `P26`.
+- **reinscrição:** a ponte deve permanecer terminal: entrega a pergunta ao Capítulo 6 sem iniciar a sua resposta.
+
+### 5. Posições-tipo bloqueadas
+
+O Capítulo 5 bloqueia, de modo curto e funcional, as seguintes posições-tipo:
+
+1. **memória como continuidade bruta:** qualquer permanência seria já memória;
+2. **memória como rasto ou marca inerte:** memória seria apenas efeito deixado por afetação passada;
+3. **memória como arquivo:** memória seria depósito, armazenamento ou coleção interior de conteúdos;
+4. **memória como conservação literal:** recordar seria recuperar intactamente um conteúdo passado;
+5. **memória como tempo vivido soberano:** memória seria absorvida pela experiência subjetiva da duração;
+6. **memória como consciência temporal:** memória seria imediatamente consciência do tempo;
+7. **memória como identidade narrativa:** memória seria história de si, biografia ou identidade pessoal desenvolvida;
+8. **memória como representação:** permanência interna já seria representação plena;
+9. **memória como linguagem interior:** aquilo que permanece já seria discurso, símbolo ou sentido;
+10. **memória como critério de verdade:** aquilo que permanece teria autoridade por permanecer;
+11. **seletividade como escolha soberana:** o sujeito decidiria livremente o que a memória conserva;
+12. **operatividade como critério:** porque a memória orienta, ela bastaria como medida de verdade.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+O capítulo deve ser justo. Quando uma posição vê algo real, a escrita deve reconhecer esse acerto antes de mostrar a deslocação.
+
+- As posições da continuidade veem corretamente que a memória envolve permanência, mas erram quando tratam toda permanência como memória.
+- As posições do rasto veem corretamente que uma afetação pode deixar efeito, mas erram quando reduzem a memória a marca inerte.
+- As posições arquivísticas veem corretamente que algo se conserva, mas erram quando fazem dessa conservação depósito neutro.
+- As posições da conservação literal veem corretamente que a memória tem relação com o passado, mas erram quando confundem durabilidade com cópia intacta.
+- As posições fenomenológicas do tempo veem corretamente que a memória envolve temporalidade interna, mas erram quando fazem do tempo vivido o centro soberano.
+- As posições da consciência temporal veem corretamente que memória e tempo se implicam, mas erram quando sobem cedo demais para consciência do tempo.
+- As posições narrativas veem corretamente que a memória pode contribuir para identidade, mas erram quando antecipam identidade narrativa.
+- As posições representacionalistas veem corretamente que a memória abre para fixação, mas erram quando confundem memória com representação plena.
+- As posições linguísticas veem corretamente que a memória pode ser dita, simbolizada e comunicada, mas erram quando fazem da linguagem a sua origem.
+- As posições epistemológicas veem corretamente que a memória pode ser avaliada, mas erram quando fazem da permanência memorial critério de verdade.
+- As posições subjetivistas veem corretamente que a memória se dá num humano situado, mas erram quando fazem da seletividade escolha soberana do sujeito.
+- As posições pragmatistas da operatividade veem corretamente que a memória orienta, mas erram quando confundem orientação eficaz com verdade.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições só entram como exemplos laterais e nunca como eixo.
+
+O capítulo não deve começar por “Bergson diz”, “Husserl diz”, “Locke diz”, “Ricoeur diz”, “a fenomenologia diz”, “a psicologia diz” ou “a neurociência diz”.
+
+Uma formulação admissível, se for necessária, é apenas esta:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que pensam a memória como arquivo, duração subjetiva, consciência temporal, identidade narrativa ou representação. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: tomar como centro aquilo que, neste ponto, só pode entrar como camada derivada da permanência interna da relação apreendida ao real.
+
+Mas esta nota só deve ser usada se proteger contra simplificação. O corpo do capítulo não precisa dela para avançar.
+
+### 8. Economia de notas
+
+As notas, se forem usadas, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo tem variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Neste ficheiro não são necessárias notas de rodapé. Tudo o que é necessário para compreender o argumento fica no corpo do texto.
+
+### 9. Travões obrigatórios
+
+O Capítulo 5 deve conservar os seguintes travões:
+
+- não regressar ao Capítulo 4 como centro;
+- não reduzir memória a continuidade bruta;
+- não reduzir memória a arquivo;
+- não abrir tempo vivido como centro;
+- não abrir consciência temporal;
+- não abrir identidade narrativa;
+- não abrir representação como centro;
+- não abrir linguagem;
+- não abrir símbolo;
+- não abrir sentido;
+- não abrir verdade/erro/correção como corpos próprios;
+- não abrir normatividade;
+- não abrir crítica sistémica.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 5 não pergunta simplesmente “o que é a memória?”.
+
+Também não pergunta “o que é o tempo vivido?”.
+
+Também não pergunta “o que é a identidade pessoal?”.
+
+Essas perguntas são possíveis, mas não são a pergunta própria deste capítulo. Se o capítulo começasse por elas, subiria cedo demais. A memória apareceria logo como faculdade psicológica, experiência temporal, consciência de si ou história pessoal. O centro deslocar-se-ia antes de ser posto.
+
+A pergunta própria é mais baixa:
+
+> que é a memória enquanto permanência interna, temporalmente estabilizada, da relação apreendida ao real por um humano situado?
+
+O capítulo recebe do anterior um humano situado, capaz de relação mínima consigo enquanto relação ao real, já dependente de alguma estabilização temporal interna. Mas agora essa estabilização deixa de ser simples apoio subordinado da reflexividade. Passa a ser centro próprio.
+
+O que está em causa não é ainda o sujeito no tempo. É a relação apreendida que não se extingue no instante. O humano situado apreende o real; essa relação pode permanecer internamente; essa permanência pode durar, operar, selecionar e permitir identidade temporal mínima. A isso se chama memória neste capítulo.
+
+O primeiro falso dizer consiste em começar por memória em abstrato. Nesse erro, a memória parece uma faculdade pronta, instalada num sujeito já dado. Mas o capítulo não dispõe ainda desse sujeito como centro. Dispõe de humano situado, localidade, apreensão e permanência interna da relação ao real.
+
+A reinscrição inicial é, por isso, simples: a memória deve ser escrita a partir da relação apreendida, não a partir de uma interioridade já constituída.
+
+### 2. Chão primário: humano situado, localidade e apreensão
+
+A memória não começa como faculdade isolada.
+
+Começa num humano situado que apreende localmente o real. Este chão não é moldura externa. É condição ativa do capítulo. Nada apreende de fora do real; o humano que apreende já está inscrito no real, localizado, limitado, afetável e exposto. A memória só pode ser pensada nesse chão.
+
+Apreender é receber uma afetação real segundo uma posição. Essa receção não é ainda representação plena. Não é ainda linguagem. Não é ainda verdade. É relação situada ao real. Sem essa relação, nada haveria a permanecer internamente.
+
+A posição-tipo que o capítulo bloqueia aqui é a memória em abstrato: uma memória sem corpo situado, sem localidade, sem apreensão, sem relação real. Essa posição vê algo correto quando reconhece que a memória tem função própria. Mas desloca-se quando faz dessa função uma faculdade separada da cadeia real que a torna possível.
+
+O pressuposto errado é este: a memória poderia ser pensada antes da relação apreendida. Mas uma memória sem relação apreendida torna-se nome vazio. Ficaria apenas uma capacidade formal de conservar conteúdos que ainda não se sabe de onde vêm, por que permanecem, nem como operam.
+
+A memória deve ser reinscrita no humano situado. O capítulo começa aqui: um ente humano localizado apreende o real; a relação apreendida pode permanecer internamente; essa permanência é a zona própria da memória.
+
+### 3. Persistência da relação apreendida
+
+A relação apreendida pode não se extinguir no instante.
+
+Se tudo o que é apreendido se apagasse no mesmo momento em que é recebido, não haveria permanência interna. Cada relação ao real seria isolada, sem continuidade suficiente para orientar novas apreensões, respostas ou retomadas. O humano situado seria apenas ponto de afetações descontínuas.
+
+Mas a relação apreendida pode persistir. Persistir não significa ficar parada. Significa continuar a fazer diferença no modo como o humano situado se encontra, se orienta e se abre a novas relações ao real.
+
+O falso dizer deste ponto é pensar a persistência como rasto inerte ou marca morta. Esta posição vê corretamente que uma afetação deixa efeito. Mas desloca-se quando trata esse efeito como simples impressão passiva. Nessa formulação, a memória seria o vestígio de algo que passou, sem operação própria na relação atual ao real.
+
+A crítica deve ser curta: rasto não basta. Uma marca pode permanecer sem orientar. Um vestígio pode existir sem integrar. A memória relevante neste capítulo é mais do que isso. É permanência interna de uma relação apreendida que continua a poder operar.
+
+A reinscrição é: a persistência da relação apreendida deve ser pensada como permanência interna eficaz. Não há ainda arquivo, nem representação, nem linguagem. Há a não-extinção operativa de uma relação ao real.
+
+### 4. Memória como estabilização temporal interna
+
+A memória é a estabilização temporal interna da relação apreendida ao real.
+
+Esta é a formulação central do capítulo.
+
+A relação apreendida não se limita a ocorrer. Pode estabilizar-se. Essa estabilização é temporal porque conserva uma diferença entre o instante da apreensão e a continuidade interna que dela fica. É interna porque não é apenas continuidade exterior do real, nem mera duração de uma estrutura fora do humano. É da relação apreendida no humano situado. E é relação ao real porque aquilo que permanece não é conteúdo isolado, mas o modo como o real foi apreendido e integrado.
+
+O falso dizer mais imediato é tratar a memória como arquivo, depósito ou faculdade soberana. Esta posição vê corretamente que algo fica conservado. Mas desloca-se quando pensa essa conservação como armazenamento de conteúdos passados. A memória passa a parecer uma sala interior onde se guardam objetos mentais.
+
+O pressuposto errado é que conservar é guardar. Mas a memória, no sentido próprio deste capítulo, conserva operando. Não arquiva coisas mortas. Mantém viva, internamente, uma relação ao real que pode orientar novas relações.
+
+Por isso, a formulação deve manter-se seca:
+
+> memória é estabilização temporal interna da relação apreendida ao real.
+
+Esta formulação bloqueia a dissolução por baixo e a inflação por cima. Por baixo, impede que memória seja simples continuidade. Por cima, impede que memória seja já tempo vivido, sujeito temporal, representação plena ou narrativa de si.
+
+### 5. Durabilidade
+
+A memória implica durabilidade.
+
+Durabilidade não é eternidade. Não é conservação absoluta. Não é cópia intacta. É permanência suficiente para que a relação apreendida continue a poder operar depois do instante inicial.
+
+Uma relação apreendida que não dura minimamente não se torna memória. Desaparece como afetação sem inscrição interna. Mas uma relação que dura não se transforma por isso numa imagem congelada do passado. Dura enquanto permanece eficaz, enquanto pode ser retomada, enquanto condiciona ou abre nova relação ao real.
+
+O falso dizer da durabilidade é a conservação literal. Segundo essa posição, recordar seria recuperar intactamente um conteúdo passado. A posição vê corretamente que a memória não é puro desaparecimento. Mas desloca-se ao exigir identidade literal entre o que foi apreendido e o que permanece.
+
+O pressuposto errado é que a memória só seria fiel se preservasse o conteúdo como cópia. Mas isso já pressupõe um regime representacional e criterial que o capítulo ainda não abriu. A memória não é ainda verdade, nem representação avaliada, nem cópia adequada. É permanência interna da relação apreendida.
+
+A reinscrição da durabilidade é esta: a relação apreendida dura quando conserva eficácia interna suficiente para atravessar o tempo do humano situado. A durabilidade memorial não é fotografia do passado. É persistência operante da relação ao real.
+
+### 6. Operatividade
+
+A memória opera.
+
+Isto significa que aquilo que permanece internamente não fica neutro. A relação apreendida pode influenciar novas apreensões, afetar a atenção, preparar respostas, abrir ou fechar possibilidades de orientação, dispor o humano situado de certo modo perante o real.
+
+Sem operatividade, a memória seria apenas conservação vazia. Algo estaria guardado, mas nada faria. Isso seria arquivo, não memória no sentido próprio do capítulo.
+
+O falso dizer da operatividade tem duas formas. A primeira reduz a memória a arquivo consultável: algo fica guardado e depois é recuperado. A segunda infla a operatividade até critério: porque a memória orienta, pareceria bastar como medida de validade.
+
+Ambas deslocam o ponto. A primeira empobrece a memória. A segunda antecipa o Capítulo 7.
+
+Uma memória pode operar e ainda assim orientar mal. Pode conservar uma relação parcial, deformada, insuficiente ou mal integrada. A sua eficácia não garante a sua verdade. Operatividade não é critério. A memória pertence à permanência interna da relação; a verdade pertence à adequação da representação ao real sob critério submetido ao real.
+
+A reinscrição é: a memória opera enquanto relação apreendida estabilizada, mas essa operação ainda não decide a sua adequação. O capítulo deve afirmar a operatividade sem a tornar tribunal.
+
+### 7. Seletividade
+
+A memória é seletiva.
+
+Nem tudo o que afeta permanece. Nem tudo permanece com a mesma força. Nem tudo se conserva com o mesmo alcance. A relação apreendida estabiliza-se diferencialmente. Algumas relações duram, operam e podem ser retomadas; outras extinguem-se ou permanecem de modo fraco.
+
+A seletividade não é defeito acidental. Faz parte da memória enquanto estabilização interna. O humano situado não é superfície indiferente que conserva tudo. É ente localizado, limitado, afetável e temporal. A memória conserva segundo essa estrutura situada.
+
+O falso dizer da seletividade é tratá-la como escolha soberana do sujeito. Esta posição vê corretamente que a memória não é conservação total. Mas desloca-se quando atribui a seleção a uma decisão livre e consciente já constituída.
+
+O pressuposto errado é que há um sujeito soberano que escolhe o que guardar. Mas o Capítulo 5 não abre por sujeito. A seletividade nasce antes da escolha soberana. Nasce da estrutura situada, corporal, afetiva, relacional e temporal do humano. O que permanece depende de intensidade, repetição, relevância, afetação, campo, relação e integração interna.
+
+A reinscrição é: seletividade é estabilização diferencial da relação ao real num humano situado. Não é arbítrio interior. Não é vontade proprietária da memória. É modo baixo de permanência interna.
+
+### 8. Identidade temporal mínima
+
+A memória permite identidade temporal mínima.
+
+Um humano situado que nada conservasse internamente da sua relação ao real não teria continuidade mínima de si através das suas relações. Não se trata ainda de identidade narrativa. Não se trata de biografia. Não se trata de história de si. Trata-se apenas de uma continuidade interna mínima: aquilo que foi apreendido pode permanecer e, ao permanecer, ligar momentos que não se confundem num único instante.
+
+A identidade temporal mínima nasce da permanência interna da relação apreendida. Não nasce de relato. Não nasce de linguagem. Não nasce de consciência temporal desenvolvida. Não nasce de sujeito substancial. Nasce da estabilização de relações apreendidas que fazem com que o humano não seja apenas sequência descontínua de afetações.
+
+A posição-tipo que aqui se bloqueia é a memória como identidade narrativa. Esta posição vê corretamente que a memória pode contribuir para identidade. Mas desloca-se quando faz da identidade desenvolvida o centro do capítulo.
+
+O pressuposto errado é que toda permanência temporal do humano já seria história de si. Mas a história de si exige representação, linguagem, símbolo, sentido, seleção narrativa e autorrelação desenvolvida. Essas camadas ainda não comandam o Capítulo 5.
+
+A reinscrição é: identidade temporal mínima é consequência baixa da memória. A memória torna possível uma continuidade interna mínima do humano situado; não funda ainda uma identidade narrativa.
+
+### 9. Distinção face à continuidade bruta
+
+Nem toda continuidade é memória.
+
+Uma pedra pode permanecer. Uma estrutura pode durar. Um processo pode continuar. Um corpo pode manter-se. Nada disso basta para haver memória no sentido próprio deste capítulo.
+
+A continuidade bruta é condição geral de permanência. A memória é mais determinada: é continuidade interna e operante de uma relação apreendida ao real por um humano situado.
+
+A posição que reduz memória a continuidade bruta vê algo real: a memória depende de permanência. Mas erra quando apaga a diferença entre permanecer e memorizar. Se qualquer continuidade fosse memória, `P25` perderia centro próprio. O capítulo regressaria a um nível mais baixo e já não distinguiria memória de duração, estabilidade ou simples persistência.
+
+O pressuposto errado é que bastaria haver não-extinção. Mas a memória exige relação apreendida, inscrição interna, estabilização temporal, operatividade e seletividade. Sem estes elementos, há continuidade; não há ainda memória.
+
+A reinscrição é clara:
+
+> memória não é continuidade bruta; é continuidade interna e operante da relação apreendida ao real.
+
+A continuidade deve ficar como pressuposto. Não deve substituir o centro.
+
+### 10. Distinção face ao arquivo
+
+A memória não é arquivo.
+
+O arquivo guarda. A memória opera.
+
+O arquivo pode conservar sem integrar. Pode acumular conteúdos sem que esses conteúdos transformem a relação atual ao real. A memória, no sentido deste capítulo, não é uma coleção interior. É permanência eficaz da relação apreendida no modo de ser do humano situado.
+
+A posição arquivística vê corretamente que algo se conserva. Por isso, a crítica deve ser justa. Não se nega a conservação. O que se nega é a imagem de depósito neutro. A memória não é caixa, gaveta, lista, ficheiro ou armazém de conteúdos passados.
+
+O pressuposto errado é que a memória funciona como coisa dentro de coisa: conteúdos guardados dentro de uma interioridade. Mas o capítulo não abriu uma interioridade proprietária. Abriu humano situado, apreensão, persistência e estabilização interna da relação ao real.
+
+A memória conserva relações, não coisas mortas. O que fica não é apenas um conteúdo passado. É uma relação apreendida que continua a poder afetar, orientar, selecionar e preparar novas relações.
+
+A reinscrição é:
+
+> a memória não é arquivo neutro; é permanência operante da relação ao real.
+
+A imagem de arquivo só pode ficar como metáfora empobrecida. Não pode comandar a ontologia local do capítulo.
+
+### 11. Distinção face ao tempo vivido e à consciência temporal
+
+A memória envolve temporalidade.
+
+Mas não se identifica com tempo vivido soberano nem com consciência temporal.
+
+O tempo que entra aqui é baixo e interno: a relação apreendida não se extingue no instante; conserva-se temporalmente no humano situado. Isto não autoriza começar por experiência subjetiva do tempo, fluxo vivido, retenção consciente, duração interior ou presença temporal de si.
+
+A posição fenomenológica ou subjetivista do tempo vê corretamente que a memória não é intemporal. Vê que há temporalidade interna. Mas desloca-se quando faz dessa temporalidade o centro soberano. Nesse movimento, a memória fica capturada por uma consciência temporal já elevada.
+
+O pressuposto errado é que a temporalidade memorial só seria inteligível como tempo vivido por um sujeito. Mas o capítulo ainda não trabalha a consciência temporal como centro. Trabalha a permanência interna da relação apreendida ao real.
+
+Por isso, a formulação deve resistir à inflação:
+
+> a temporalidade memorial é estabilização interna da relação apreendida ao real.
+
+A memória não é tempo vivido soberano. Não é consciência do tempo. Não é fluxo subjetivo. É permanência temporal interna de uma relação ao real num humano situado.
+
+### 12. Distinção face à representação
+
+A memória abre para representação, mas não é representação plena.
+
+Quando uma relação apreendida permanece internamente, ela pode ser retomada. Aquilo que pode ser retomado pode ser fixado. Aquilo que é fixado pode ser mediado. A mediação abre depois para representação, símbolo, linguagem, comunicação e sentido.
+
+Esta sequência prepara `P26`.
+
+Mas preparar `P26` não é deixar `P26` comandar o Capítulo 5. A memória conserva e opera. A representação fixa e torna mediável. Se a representação subisse cedo demais, a memória passaria a ser apenas forma representacional enfraquecida. O Capítulo 5 seria capturado pelo Capítulo 6.
+
+A posição representacionalista vê corretamente que a memória pode tornar-se operável por fixação. Mas desloca-se quando toma essa fixação como origem. O pressuposto errado é que só permanece aquilo que já está representado. O capítulo diz o contrário: algo permanece internamente antes de ser plenamente fixado em representação.
+
+A ordem deve ficar seca:
+
+> apreensão → memória → representação.
+
+`P26` entra apenas como fixação mediada ulterior. Não é centro. Não é origem. Não é corpo próprio deste capítulo.
+
+A reinscrição é: a representação deve ser devolvida ao seu lugar derivado. A memória prepara a representação porque conserva internamente a relação apreendida; não depende de representação plena para ser memória.
+
+### 13. Adequação e verdade como fecho terminal subordinado
+
+Uma relação apreendida, memorizada e depois representada pode ajustar-se ou desajustar-se ao real.
+
+Por isso, adequação e verdade podem entrar no fecho do capítulo.
+
+Mas entram apenas como fecho terminal subordinado.
+
+A memória, por si, não garante verdade. Uma relação pode permanecer internamente e ainda assim ser parcial, deformada, insuficiente, mal fixada ou mal interpretada. A sua permanência não a torna verdadeira. A sua operatividade não a torna critério. A sua seletividade não a torna correção.
+
+A posição que faz da memória critério de verdade vê corretamente que a memória pode ser avaliada. Mas desloca-se quando antecipa a avaliação e transforma permanência em autoridade. O pressuposto errado é que aquilo que permanece teria validade por permanecer.
+
+Permanência não é verdade.
+
+Operatividade não é critério.
+
+Memória não é correção.
+
+Verdade exige representação, adequação e critério submetido ao real. Esse regime pertence ao Capítulo 7. Aqui, basta dizer que a memória pode preparar a possibilidade remota de avaliação, porque aquilo que permanece pode vir a ser representado, e aquilo que é representado pode vir a ser medido pela adequação ao real.
+
+A reinscrição é:
+
+> `P31/P34` entram apenas como fecho terminal subordinado; não comandam o Capítulo 5.
+
+### 14. Fecho e ponte baixa `5→6`
+
+O Capítulo 5 deve terminar antes de mudar de centro.
+
+A sua resposta ficou fixada: a memória é estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado. É mais do que continuidade bruta, rasto ou arquivo. É menos do que tempo vivido soberano, consciência temporal, identidade narrativa, representação plena, linguagem, verdade, erro ou correção.
+
+Mas esta resposta abre uma nova pressão.
+
+Se a memória conserva internamente a relação apreendida, então essa relação pode ser fixada, representada, simbolizada, comunicada e ganhar sentido. Aquilo que permanece pode receber forma. Aquilo que recebe forma pode tornar-se mediável. Aquilo que se torna mediável pode entrar em linguagem e sentido partilhável.
+
+Essa pergunta pertence ao Capítulo 6.
+
+A ponte deve entregar apenas isto:
+
+> se a memória conserva internamente a relação apreendida, como se fixa, representa, simboliza, comunica e ganha sentido aquilo que permanece?
+
+O falso dizer da ponte é transformar preparação em absorção. Como se, por a memória abrir para representação, o capítulo já pudesse tratar linguagem; como se, por haver permanência interna, já houvesse símbolo; como se, por haver identidade temporal mínima, já houvesse narrativa.
+
+Esse salto é indevido.
+
+O Capítulo 5 deve parar no bordo. Entrega a necessidade do Capítulo 6, mas não inicia o seu corpo próprio.
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| memória como continuidade bruta | Vê que a memória exige permanência. | Trata qualquer continuação como memória. | Permanecer já bastaria para memorizar. | Memória é continuidade interna e operante da relação apreendida ao real. |
+| memória como rasto | Vê que a afetação pode deixar efeito. | Reduz a memória a marca inerte. | O que fica seria apenas vestígio passivo. | Memória é permanência eficaz de uma relação apreendida. |
+| memória como arquivo | Vê que algo se conserva. | Faz da memória depósito ou armazenamento interior. | Conservar é guardar conteúdos. | Memória conserva operativamente relações apreendidas, não coisas mortas. |
+| memória como conservação literal | Vê que a memória tem relação com o passado. | Exige recuperação intacta do conteúdo passado. | Durabilidade é cópia literal. | Durabilidade memorial é permanência suficiente para operar. |
+| memória como tempo vivido soberano | Vê que a memória envolve temporalidade interna. | Faz do tempo vivido o centro do capítulo. | Temporalidade memorial só é inteligível como experiência subjetiva do tempo. | Temporalidade memorial é estabilização interna da relação apreendida ao real. |
+| memória como consciência temporal | Vê que memória e tempo se implicam. | Sobe cedo demais para consciência do tempo. | A permanência temporal interna já seria consciência temporal. | Aqui trata-se apenas da permanência interna da relação apreendida. |
+| memória como identidade narrativa | Vê que a memória contribui para continuidade do humano. | Antecipa biografia, história de si e identidade pessoal desenvolvida. | Toda continuidade temporal já é narrativa. | O capítulo admite apenas identidade temporal mínima. |
+| memória como representação | Vê que a memória abre para fixação. | Confunde permanência interna com representação plena. | Só permanece aquilo que já está representado. | Memória precede a representação; `P26` é fixação mediada ulterior. |
+| memória como linguagem interior | Vê que a memória pode ser dita, simbolizada e comunicada. | Faz da linguagem a forma originária da permanência interna. | O que permanece já seria discurso ou símbolo. | Linguagem, símbolo e sentido pertencem ao Capítulo 6. |
+| memória como critério de verdade | Vê que a memória pode vir a ser avaliada. | Toma permanência como autoridade epistémica. | Aquilo que permanece é verdadeiro por permanecer. | Verdade exige adequação ao real sob critério; `P31/P34` são terminais. |
+| seletividade como escolha soberana | Vê que a memória não conserva tudo indiferentemente. | Atribui a seleção a decisão livre do sujeito. | O sujeito já comanda soberanamente a memória. | Seletividade é estabilização diferencial num humano situado. |
+| operatividade como critério | Vê que a memória orienta e faz diferença. | Transforma eficácia em validade. | O que orienta basta como verdade. | Operatividade é eficácia memorial; não substitui critério de adequação. |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro continua a ser:
+
+> memória como estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado.
+
+O capítulo não foi deslocado para psicologia da memória, fenomenologia do tempo, teoria da identidade narrativa, representação, linguagem, verdade ou correção.
+
+### cadeia preservada
+
+A cadeia preservada é:
+
+> humano situado / localidade / apreensão → persistência da relação apreendida → memória como estabilização temporal interna → durabilidade → operatividade → seletividade → identidade temporal mínima → fixação mediada ulterior (`P26`) → adequação e verdade apenas terminais (`P31/P34`) → ponte baixa `5→6`.
+
+A ordem não foi invertida. `P23/P24` permanecem chão. `P25` permanece centro. `P26` permanece derivação ulterior. `P31/P34` permanecem fecho terminal subordinado.
+
+### estatuto de P25 preservado
+
+`P25` entrou como centro próprio do Capítulo 5.
+
+Mas entrou de modo baixo e disciplinado: memória como estabilização temporal interna da relação apreendida ao real. Não subiu a tempo vivido soberano, consciência temporal, identidade narrativa, representação plena, linguagem, verdade, erro ou correção.
+
+### estatuto de P26 preservado
+
+`P26` entrou apenas como fixação mediada ulterior.
+
+A representação foi preparada, mas não aberta como centro próprio. A sequência ficou preservada: apreensão, memória, representação.
+
+### estatuto de P31/P34 preservado
+
+Adequação e verdade entraram apenas como fecho terminal subordinado.
+
+A memória pode preparar a possibilidade remota de avaliação, mas não é critério de verdade. O capítulo não foi convertido em corpo epistemológico.
+
+### crítica subordinada
+
+A crítica acompanha o positivo e não o substitui.
+
+Em cada passo, o texto diz primeiro a memória, a persistência, a durabilidade, a operatividade, a seletividade ou a identidade temporal mínima. Só depois indica o falso dizer, identifica o pressuposto errado e reinscreve a formulação no real.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas como operações filosóficas típicas, não como história da filosofia.
+
+O capítulo não foi transformado em história da filosofia, fenomenologia do tempo, psicologia da memória ou teoria narrativa da identidade.
+
+### notas sob controlo
+
+Não foram usadas notas de rodapé.
+
+Se vierem a ser usadas na redação final, não devem carregar o argumento principal. Só poderão localizar tradições, proteger contra simplificações ou remeter para crítica posterior.
+
+### capítulos posteriores não abertos
+
+Ficaram fora como centros próprios:
+
+- representação como corpo próprio;
+- linguagem;
+- símbolo;
+- sentido;
+- verdade como centro;
+- erro como corpo próprio;
+- critério como tribunal;
+- correção como regime próprio;
+- ação;
+- normatividade;
+- responsabilidade;
+- crítica sistémica.
+
+O Capítulo 6 ficou apenas preparado pela pergunta sobre fixação, representação, símbolo, comunicação e sentido. O Capítulo 7 ficou apenas indicado no fecho terminal subordinado de adequação e verdade.
+
+### fórmula final
+
+> O Capítulo 5 fixa que a memória é a estabilização temporal interna, durável, operante e seletiva da relação apreendida ao real por um humano situado; é mais do que continuidade bruta, rasto ou arquivo, e menos do que tempo vivido, identidade narrativa, representação plena, verdade ou correção.
+
 <a id="capitulo-cap-06-representacao-linguagem-simbolo-sentido"></a>
 ## CAP_06_representacao_linguagem_simbolo_sentido
 
 - Pasta: `CAP_06_representacao_linguagem_simbolo_sentido`
-- Ficheiros incluídos: `8`
+- Ficheiros incluídos: `9`
 
 ### Índice interno da pasta
 
@@ -19621,6 +21605,7 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não ainda pel
 - [05_decisao_local_do_capitulo](#cap-06-representacao-linguagem-simbolo-sentido-05-decisao-local-do-capitulo-md) — `CAP_06_representacao_linguagem_simbolo_sentido/05_decisao_local_do_capitulo.md`
 - [06_primeira_versao_controlada_de_escrita](#cap-06-representacao-linguagem-simbolo-sentido-06-primeira-versao-controlada-de-escrita-md) — `CAP_06_representacao_linguagem_simbolo_sentido/06_primeira_versao_controlada_de_escrita.md`
 - [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6](#cap-06-representacao-linguagem-simbolo-sentido-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap6-md) — `CAP_06_representacao_linguagem_simbolo_sentido/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-06-representacao-linguagem-simbolo-sentido-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_06_representacao_linguagem_simbolo_sentido/07_escrita_final_preparada_com_critica_acompanhante.md`
 
 <a id="cap-06-representacao-linguagem-simbolo-sentido-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -24629,11 +26614,740 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não já pela 
 > **erro da proposição não real:** autonomizar a mediação simbólico-linguística até ela deixar de mediar o real e passar a substituí-lo;  
 > **reinscrição no real:** representação, linguagem, símbolo e sentido como formas subordinadas de fixar, articular, estabilizar e comunicar a relação apreendida ao real, permanecendo julgáveis pela sua submissão ao real.
 
+<a id="cap-06-representacao-linguagem-simbolo-sentido-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_06_representacao_linguagem_simbolo_sentido/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 6 — Representação, linguagem, símbolo e sentido
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 6 — Representação, linguagem, símbolo e sentido**.
+
+Não é ainda a redação final publicada do capítulo. A sua função é converter o ganho do `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md` numa forma mais próxima de capítulo final, integrando no próprio movimento expositivo a crítica acompanhante necessária.
+
+O capítulo deve dizer positivamente o seu centro: **a mediação simbólico-linguística da representação, subordinada ao real**. Deve mostrar como a relação apreendida e estabilizada internamente pela memória passa a poder ser fixada, representada, simbolizada, articulada linguisticamente, comunicada e partilhada sem se autonomizar face ao real que deve mediar.
+
+A crítica entra apenas para proteger esta afirmação positiva. Ela deve mostrar que posições ficam bloqueadas quando representação, linguagem, símbolo, sentido, partilha, coerência ou mediação tentam ocupar o lugar do real. Deve mostrar também o acerto parcial de cada posição, o seu deslocamento, o pressuposto errado que a sustenta e a reinscrição correta no real.
+
+O ficheiro cumpre, por isso, duas tarefas:
+
+1. explicita primeiro um esquema de escrita crítica integrada;
+2. produz depois uma versão de escrita mais próxima do capítulo final, já com a crítica local incorporada de modo natural.
+
+A crítica não é cabeça do capítulo. É guarda da mediação.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 6;
+- transformar o capítulo em teoria geral da representação;
+- transformar o capítulo em filosofia da linguagem;
+- transformar o capítulo em semiótica;
+- transformar o capítulo em hermenêutica;
+- transformar o capítulo em teoria da cultura;
+- abrir verdade, erro, critério ou correção como corpos próprios;
+- antecipar o Capítulo 7;
+- abrir crítica sistémica, cultura, instituição ou sistema como centro;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo.
+
+Também não pode deixar os materiais fragmentários comandarem a arquitetura. A regra continua a ser:
+
+> os fragmentos validam a estrutura, não a estrutura os fragmentos.
+
+Por isso, não basta haver afinidade verbal com linguagem, símbolo, representação, sentido, verdade, cultura ou sistema. Só entram materiais fragmentários quando tornam mais legível o centro próprio do Capítulo 6 ou quando ajudam a bloquear diretamente um falso dizer que ameace esse centro.
+
+### relação com o 06
+
+O `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md` fixou o capítulo como estruturalmente suficiente.
+
+O `06` testou se a passagem a texto corrido preservava:
+
+- o chão herdado de real, humano situado, apreensão e memória;
+- a diferença relativamente ao Capítulo 5;
+- `P26` como limiar de fixação mediada;
+- `P27` como unidade operativa inicial de mediação;
+- `P28/P29` como corpo efetivo da mediação representacional-linguística;
+- o sentido como efeito subordinado;
+- a partilha como circulação comunicável, não como validação;
+- a coerência interna como condição de circulação, não como verdade;
+- `P30/P31/P34` como fecho terminal de julgabilidade;
+- `P37` fora do centro;
+- a fronteira com cultura, sistema e crítica sistémica;
+- a ponte baixa `6→7`.
+
+Esse teste confirmou que não há novo centro a acrescentar. O `07` não reabre essa decisão. Apenas prepara a forma final de escrita e integra a crítica acompanhante de modo mais explícito, sem alterar a arquitetura.
+
+A diferença deste ficheiro em relação ao `06` é de regime de escrita. O `06` comprovou a suficiência da sequência. O `07` pergunta como escrever essa sequência de modo mais próximo do capítulo final: primeiro dizendo positivamente a mediação representacional, simbólica e linguística da relação apreendida ao real; depois mostrando que falsos modos de dizer essa mediação ficam bloqueados; por fim reinscrevendo cada desvio no real que a mediação deve servir.
+
+### regra da crítica acompanhante
+
+A regra da crítica acompanhante é:
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+O capítulo deve dizer primeiro o que é. Só depois deve mostrar o que esse passo impede.
+
+A forma recorrente deve ser:
+
+1. dizer positivamente a mediação representacional, simbólica e linguística;
+2. indicar o falso modo de dizer representação, linguagem, símbolo ou sentido;
+3. identificar a posição-tipo que pensa mal esse ponto;
+4. mostrar o pressuposto errado dessa posição;
+5. reinscrever a mediação no real que ela deve mediar.
+
+A crítica não deve tornar o capítulo polémico. Não deve ridicularizar posições. Não deve fazer história da filosofia desenvolvida. Deve incidir sobre operações de substituição do real.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+O centro positivo do Capítulo 6 é:
+
+> mediação simbólico-linguística da representação, subordinada ao real.
+
+Ou, em formulação mais desenvolvida:
+
+> aquilo que foi apreendido e estabilizado internamente pela memória pode tornar-se representação operável, símbolo, linguagem e sentido partilhável; mas essa mediação só permanece legítima enquanto fixa, articula e comunica a relação ao real sem a substituir.
+
+Esta fórmula deve governar a escrita.
+
+O capítulo não começa pela linguagem em abstrato. Não começa pelo símbolo como mundo próprio. Não começa pelo sentido como fundamento. Não começa pela verdade. Começa pela relação apreendida ao real, já estabilizada internamente, que passa a poder receber forma mediada.
+
+### 2. Cadeia positiva
+
+A cadeia positiva a preservar é:
+
+> chão herdado `P23/P24` → memória pressuposta `P25` → limiar de fixação `P26` → mediação simbólica `P27` → linguagem e representação operável `P28/P29` → sentido subordinado → consciência localizada / representação julgável `P30/P31/P34` apenas terminais → ponte baixa `6→7`.
+
+Esta cadeia não pode ser invertida.
+
+Não se começa por linguagem. Começa-se pelo chão herdado da apreensão e da memória. Não se começa por símbolo. Começa-se pelo limiar de fixação mediada. Não se começa por verdade. A verdade entra apenas terminalmente como possibilidade de julgamento da representação mediada. Não se começa por correção. `P37` fica fora do centro, como pressão para o capítulo seguinte.
+
+### 3. Fórmula axial do capítulo
+
+- **ser no real:** fixação mediada, simbólica, linguística e partilhável da relação apreendida ao real;
+- **dizer do ser:** representação suficiente, linguagem fundadora, símbolo autónomo, sentido originário, partilha como validação, coerência interna como verdade, mediação como critério;
+- **erro da proposição não real:** autonomizar a mediação simbólico-linguística até ela deixar de mediar o real e passar a substituí-lo;
+- **reinscrição no real:** representação, linguagem, símbolo e sentido como formas subordinadas de fixar, articular, estabilizar e comunicar a relação apreendida ao real, permanecendo julgáveis pela sua submissão ao real.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — chão herdado: apreensão e memória
+
+- **passo positivo:** o capítulo recebe a relação ao real já apreendida por um humano situado e estabilizada internamente pela memória.
+- **posição-tipo bloqueada:** abertura direta por linguagem, símbolo ou sentido.
+- **acerto local da posição:** vê que a reflexividade humana opera por mediações.
+- **deslocação:** transforma a mediação em começo, apagando apreensão e memória.
+- **pressuposto errado:** aquilo que permite articular o apreendido seria também aquilo que funda a relação ao real.
+- **crítica curta:** linguagem, símbolo e sentido não abrem a relação ao real; entram quando algo já foi apreendido e estabilizado.
+- **reinscrição:** a mediação nasce sobre o chão herdado da apreensão situada e da memória, não no lugar delas.
+
+#### Ponto crítico 2 — `P26` como limiar de fixação mediada
+
+- **passo positivo:** `P26` é o limiar em que a relação apreendida e memorizada se torna fixável em forma mediada.
+- **posição-tipo bloqueada:** fixação mediada como representação plena ou linguagem desenvolvida.
+- **acerto local da posição:** vê que a memória abre para uma forma operável.
+- **deslocação:** faz do limiar o corpo inteiro da mediação.
+- **pressuposto errado:** a passagem para a forma mediada já conteria, por si, linguagem, símbolo, sentido e verdade.
+- **crítica curta:** `P26` abre a fixação, mas não esgota a mediação.
+- **reinscrição:** `P26` deve permanecer passagem da memória para a forma mediada, ainda dependente da relação apreendida ao real.
+
+#### Ponto crítico 3 — representação
+
+- **passo positivo:** a representação fixa operativamente o apreendido, tornando-o retomável, organizável e utilizável.
+- **posição-tipo bloqueada:** representação como realidade suficiente ou como verdade por si.
+- **acerto local da posição:** vê que representar estabiliza e torna operável.
+- **deslocação:** faz da representação substituto do real representado ou garantia de verdade.
+- **pressuposto errado:** fixar algo em forma representacional bastaria para validar aquilo que é fixado.
+- **crítica curta:** representação não é real substituído, nem verdade já garantida.
+- **reinscrição:** representação é mediação avaliável da relação ao real, não duplicação soberana do real.
+
+#### Ponto crítico 4 — `P27` como unidade operativa de mediação
+
+- **passo positivo:** `P27` abre a mediação simbólica como unidade operativa de fixação do apreendido.
+- **posição-tipo bloqueada:** mediação como fundamento.
+- **acerto local da posição:** vê que a relação ao real precisa de unidades retomáveis.
+- **deslocação:** transforma a unidade de mediação em princípio soberano.
+- **pressuposto errado:** aquilo que torna a relação retomável poderia substituir a própria relação.
+- **crítica curta:** `P27` não funda o real; fixa uma relação já apreendida.
+- **reinscrição:** `P27` deve ser escrito como unidade operativa subordinada da mediação.
+
+#### Ponto crítico 5 — símbolo
+
+- **passo positivo:** o símbolo estabiliza e torna circulável uma relação ao real.
+- **posição-tipo bloqueada:** símbolo como mundo próprio.
+- **acerto local da posição:** vê que o símbolo tem eficácia, estabilidade e poder de circulação.
+- **deslocação:** faz da eficácia simbólica autonomia ontológica.
+- **pressuposto errado:** se o símbolo organiza a experiência humana, então cria ou domina o real que simboliza.
+- **crítica curta:** o símbolo opera sobre a relação ao real; não é o real em lugar dela.
+- **reinscrição:** símbolo é forma mediada de estabilização e circulação do apreendido.
+
+#### Ponto crítico 6 — linguagem
+
+- **passo positivo:** a linguagem articula, comunica e estabiliza partilhadamente a representação do apreendido.
+- **posição-tipo bloqueada:** linguagem como origem do real ou como mundo autónomo.
+- **acerto local da posição:** vê que a linguagem torna o apreendido comunicável e partilhável.
+- **deslocação:** identifica articulabilidade linguística com constituição do real.
+- **pressuposto errado:** o real só valeria enquanto linguisticamente constituído.
+- **crítica curta:** a linguagem articula a relação ao real; não funda o real nem a apreensão.
+- **reinscrição:** linguagem é operação de articulação e comunicação subordinada à relação apreendida ao real.
+
+#### Ponto crítico 7 — `P28/P29` como corpo efetivo do capítulo
+
+- **passo positivo:** `P28/P29` dão o corpo efetivo do capítulo: representação operável e linguagem partilhável.
+- **posição-tipo bloqueada:** teoria geral da linguagem, semiótica, hermenêutica, cultura ou sistema como corpo do capítulo.
+- **acerto local da posição:** vê que a linguagem e o símbolo podem crescer para sistemas complexos de sentido.
+- **deslocação:** antecipa camadas posteriores e perde a função local da mediação.
+- **pressuposto errado:** desenvolver a linguagem ou o símbolo exige já desenvolver cultura, sistema ou hermenêutica geral.
+- **crítica curta:** o corpo do capítulo é mediacional, não cultural, sistémico ou hermenêutico.
+- **reinscrição:** `P28/P29` devem ser tratados como organização local da mediação representacional-linguística do apreendido.
+
+#### Ponto crítico 8 — sentido subordinado
+
+- **passo positivo:** o sentido é inteligibilidade subordinada da relação mediada ao real.
+- **posição-tipo bloqueada:** sentido como fundamento ou origem.
+- **acerto local da posição:** vê que sem sentido a mediação não se torna inteligível para o humano.
+- **deslocação:** faz da inteligibilidade mediada a fonte do real.
+- **pressuposto errado:** aquilo que torna a relação compreensível seria condição soberana da relação.
+- **crítica curta:** o sentido não funda o real; emerge da mediação da relação ao real.
+- **reinscrição:** sentido é efeito relacional subordinado, não fundamento.
+
+#### Ponto crítico 9 — partilha
+
+- **passo positivo:** a mediação simbólico-linguística permite comunicar e partilhar a relação representada ao real.
+- **posição-tipo bloqueada:** partilha como validação.
+- **acerto local da posição:** vê que a circulação inter-humana estabiliza formas de representação.
+- **deslocação:** confunde circulação, repetição ou consenso com verdade.
+- **pressuposto errado:** o que é partilhado por muitos fica validado por ser partilhado.
+- **crítica curta:** partilha amplia a circulação da mediação, mas não substitui adequação ao real.
+- **reinscrição:** a partilha deve permanecer comunicação da relação representada, ainda julgável pelo real.
+
+#### Ponto crítico 10 — coerência interna e risco de fechamento
+
+- **passo positivo:** a mediação precisa de alguma coerência interna para circular, ser retomada e ser compreendida.
+- **posição-tipo bloqueada:** coerência interna como verdade.
+- **acerto local da posição:** vê que sem coerência a linguagem, o símbolo e a representação se desfazem.
+- **deslocação:** toma a consistência interna da mediação como critério suficiente.
+- **pressuposto errado:** um sistema simbólico coerente consigo mesmo já seria adequado ao real.
+- **crítica curta:** coerência organiza a mediação; não mede sozinha a sua adequação.
+- **reinscrição:** coerência interna é condição de circulação, não critério último de verdade.
+
+#### Ponto crítico 11 — fronteira com cultura e sistema
+
+- **passo positivo:** linguagem, símbolo e sentido podem, mais tarde, sedimentar-se em cultura, instituição ou sistema.
+- **posição-tipo bloqueada:** cultura ou sistema simbólico como cabeça precoce.
+- **acerto local da posição:** vê que mediações partilhadas podem estabilizar regimes coletivos.
+- **deslocação:** antecipa a sedimentação posterior antes de fixar a mediação local.
+- **pressuposto errado:** toda mediação simbólica já seria cultura ou sistema.
+- **crítica curta:** o Capítulo 6 ainda não trata de cultura nem de sistema; trata da mediação que os pode preparar.
+- **reinscrição:** cultura, instituição e sistema ficam como camadas posteriores, não como centro local.
+
+#### Ponto crítico 12 — `P31/P34` como fecho terminal
+
+- **passo positivo:** uma representação mediada pode vir a ajustar-se ou desajustar-se ao real.
+- **posição-tipo bloqueada:** verdade, erro, critério e correção como abertura do capítulo.
+- **acerto local da posição:** vê que a representação mediada é julgável.
+- **deslocação:** transforma a julgabilidade terminal em corpo epistemológico.
+- **pressuposto errado:** sempre que há representação julgável, já se deve abrir o regime completo da verdade e do erro.
+- **crítica curta:** `P31/P34` entram apenas como fecho terminal de julgabilidade.
+- **reinscrição:** o regime próprio de verdade, erro, critério e correção pertence ao Capítulo 7.
+
+#### Ponto crítico 13 — exclusão de `P37` como centro
+
+- **passo positivo:** a representação mediada prepara a possibilidade de correção, mas ainda não a desenvolve.
+- **posição-tipo bloqueada:** correção como regime próprio do Capítulo 6.
+- **acerto local da posição:** vê que a mediação pode falhar e exigir reinscrição.
+- **deslocação:** faz da correção já o fecho interno do capítulo.
+- **pressuposto errado:** preparar a possibilidade de correção equivale a instalar o seu regime.
+- **crítica curta:** `P37` pertence ao passo seguinte; aqui é apenas pressão terminal.
+- **reinscrição:** o Capítulo 6 termina antes da correção como corpo próprio.
+
+#### Ponto crítico 14 — ponte baixa `6→7`
+
+- **passo positivo:** quando a representação mediada é julgável, abre-se a pergunta pela verdade, pelo erro, pelo critério e pela correção.
+- **posição-tipo bloqueada:** passagem convertida em antecipação.
+- **acerto local da posição:** vê que Capítulo 6 e Capítulo 7 estão ligados.
+- **deslocação:** começa a resolver no Capítulo 6 o problema que só o Capítulo 7 deve tratar.
+- **pressuposto errado:** preparar uma pergunta equivale a respondê-la.
+- **crítica curta:** a ponte deve entregar, não antecipar.
+- **reinscrição:** o Capítulo 6 entrega apenas a pergunta pelo regime que permite distinguir verdade, erro, critério e correção.
+
+### 5. Posições-tipo bloqueadas
+
+O Capítulo 6 bloqueia, em formulação curta, as seguintes posições-tipo:
+
+1. **representação como realidade suficiente:** a representação ocupa o lugar do real representado.
+2. **representação como verdade:** a representação é tomada como verdadeira por estar formulada, estabilizada ou partilhada.
+3. **linguagem como origem do real:** o real só seria acessível ou legítimo enquanto linguisticamente constituído.
+4. **linguagem como mundo autónomo:** a linguagem passa a ser campo suficiente de sentido desligado do real.
+5. **símbolo como mundo próprio:** o símbolo ganha autonomia ontológica e parece criar o que simboliza.
+6. **sentido como fundamento:** o sentido é tratado como origem ou condição soberana da inteligibilidade do real.
+7. **partilha como validação:** circulação, repetição ou consenso passam a valer como verdade.
+8. **coerência interna como verdade:** a organização interna da mediação substitui a adequação ao real.
+9. **mediação como critério:** a mediação passa a determinar o que conta como real, verdadeiro ou admissível.
+10. **cultura ou sistema simbólico como cabeça precoce:** mediação local é imediatamente transformada em cultura, instituição ou sistema.
+11. **verdade, erro e correção como abertura:** a julgabilidade terminal da representação antecipa o regime próprio do Capítulo 7.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+O capítulo deve ser justo.
+
+As posições representacionalistas veem corretamente que a representação torna o apreendido operável. Deslocam-se quando fazem dela substituto do real ou garantia de verdade.
+
+As posições linguísticas veem corretamente que a linguagem articula e partilha o apreendido. Deslocam-se quando fazem da linguagem origem do real ou mundo suficiente.
+
+As posições simbólicas veem corretamente que o símbolo estabiliza e torna circulável uma relação. Deslocam-se quando fazem dele mundo próprio ou soberano.
+
+As posições hermenêuticas veem corretamente que o sentido é indispensável à inteligibilidade humana. Deslocam-se quando fazem do sentido fundamento ou origem.
+
+As posições comunitaristas ou consensuais veem corretamente que há partilha, repetição e circulação social. Deslocam-se quando fazem da partilha validação.
+
+As posições coerentistas veem corretamente que a mediação precisa de coerência interna. Deslocam-se quando fazem da coerência verdade.
+
+As posições sistémicas veem corretamente que linguagem, símbolo e sentido podem sedimentar regimes coletivos. Deslocam-se quando introduzem cultura, sistema ou crítica sistémica antes do seu lugar próprio.
+
+As posições epistemológicas veem corretamente que a representação mediada será julgável. Deslocam-se quando antecipam o Capítulo 7.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições só podem entrar como exemplos laterais e nunca como eixo do capítulo.
+
+O capítulo não deve começar por autores. Não deve estruturar-se por “a filosofia da linguagem diz”, “a hermenêutica diz”, “a semiótica diz”, “o idealismo diz”, “a teoria do símbolo diz” ou fórmulas equivalentes.
+
+Se uma tradição for mencionada, a menção deve ser curta e funcional:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que fazem da linguagem, do símbolo, do sentido, da mediação ou do sistema simbólico o lugar primeiro da inteligibilidade. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: transformar a mediação em fundamento ou substituto do real.
+
+Essa formulação não deve crescer para exegese.
+
+### 8. Economia de notas
+
+As notas de rodapé, se forem usadas, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo tem variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Se algo for necessário para compreender o argumento, deve ficar no corpo do texto.
+
+Este ficheiro não precisa de notas para cumprir a sua função.
+
+### 9. Travões obrigatórios
+
+O Capítulo 6 deve obedecer aos seguintes travões:
+
+- não regressar ao Capítulo 5 como centro;
+- não transformar memória em linguagem;
+- não transformar representação em verdade;
+- não transformar linguagem em origem;
+- não transformar símbolo em mundo autónomo;
+- não transformar sentido em fundamento;
+- não transformar partilha em validação;
+- não transformar coerência interna em adequação;
+- não abrir cultura ou sistema como centro;
+- não abrir verdade, erro, critério ou correção como corpos próprios;
+- não abrir `P37`;
+- não abrir ética ou normatividade;
+- não abrir crítica sistémica tardia.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 6 não pergunta simplesmente “o que é a linguagem?”, nem “o que é o símbolo?”, nem “o que é o sentido?”, nem “o que é a verdade?”.
+
+Essas perguntas são demasiado altas ou demasiado deslocadas para este ponto da obra. A linguagem já pressupõe uma relação apreendida que pode ser articulada. O símbolo já pressupõe algo estabilizável em forma mediada. O sentido já pressupõe uma organização relacional que pode ser reconhecida. A verdade já pressupõe representação julgável e critério de adequação ao real.
+
+A pergunta própria do Capítulo 6 é outra:
+
+> como é que a relação apreendida e estabilizada internamente pela memória se torna fixável, representável, simbolizável, linguisticamente articulável, comunicável e partilhável, sem deixar de estar submetida ao real?
+
+O ser em causa é, portanto, a fixação mediada, simbólica, linguística e partilhável da relação apreendida ao real.
+
+Ou, de modo mais seco:
+
+> mediação simbólico-linguística da representação, subordinada ao real.
+
+A primeira exigência do capítulo é manter esta subordinação. Representação, linguagem, símbolo e sentido não são falsos por existirem. Pelo contrário: são necessários para que o apreendido se torne operável, retomável e comunicável. O erro começa quando deixam de mediar a relação ao real e passam a ocupar o lugar do real.
+
+Daí a forma da escrita: dizer positivamente a mediação; bloquear o seu falso dizer soberano; reinscrever cada camada na relação ao real que a torna legítima.
+
+### 2. Chão herdado: apreensão, memória e relação ao real
+
+O Capítulo 6 começa com um chão já ganho.
+
+Há real. O humano está situado no real. A apreensão precede a representação. A relação apreendida ao real pode estabilizar-se internamente como memória. Só depois desse percurso se torna possível perguntar pela fixação mediada.
+
+A mediação não nasce fora do real. Também não nasce de uma linguagem sem chão, de um símbolo sem referente, de uma consciência soberana ou de um sentido originário. Nasce porque uma relação já apreendida e estabilizada pode receber forma.
+
+A posição que abre diretamente por linguagem, símbolo ou sentido vê algo real: a mediação é indispensável à vida reflexiva humana. Mas desloca o ponto de entrada. Toma como começo aquilo que só é inteligível depois de apreensão e memória.
+
+O pressuposto errado é pensar que o modo humano de articular o apreendido funda aquilo que é articulado. Mas a linguagem não cria a apreensão. O símbolo não cria a relação ao real. O sentido não inaugura o real.
+
+A reinscrição é simples: a mediação deve ser escrita como desenvolvimento da relação apreendida ao real, não como origem dessa relação.
+
+Por isso, o capítulo deve manter ativa a cadeia baixa:
+
+> humano situado → apreensão → memória pressuposta → fixação mediada.
+
+Este chão não deve crescer para novo capítulo sobre memória, nem regressar ao Capítulo 5. A memória entra aqui apenas como pressuposto: a relação apreendida não se apagou; por isso pode ser fixada em forma mediada.
+
+### 3. `P26` como limiar de fixação mediada
+
+`P26` é o limiar em que a relação apreendida e memorizada se torna fixável em forma mediada.
+
+A sua função é de passagem. O apreendido, que não se extinguiu no instante porque permaneceu internamente, começa agora a poder receber uma forma retomável. Essa forma não é ainda teoria da linguagem, sistema simbólico ou verdade. É a abertura de uma operação: fixar o apreendido de modo que possa ser retomado, articulado, organizado e comunicado.
+
+A posição que transforma `P26` em representação plena vê corretamente que há aqui uma mudança real. A memória, sozinha, não basta para tornar a relação operável em regime mediado. É preciso fixação. Mas essa posição desloca-se quando trata o limiar como se já fosse o corpo inteiro da representação, do símbolo, da linguagem e do sentido.
+
+O pressuposto errado é tomar a passagem pela conclusão. Como se, ao tornar a relação fixável, já se tivesse explicado toda a sua mediação.
+
+A crítica curta é esta: `P26` abre a fixação, mas não a esgota.
+
+A reinscrição correta é manter `P26` como limiar. A relação apreendida e estabilizada internamente começa a receber forma mediada. Essa forma só ganhará corpo quando se explicitar a representação, o símbolo, a linguagem e o sentido subordinado.
+
+### 4. Representação
+
+A representação fixa operativamente o apreendido.
+
+Representar não é criar o real representado. Não é substituir o real por uma imagem interna. Não é garantir verdade apenas por haver forma representacional. Representar é estabilizar o apreendido numa forma que possa ser retomada, organizada e utilizada por um humano situado.
+
+A representação torna a relação ao real operável. O que foi apreendido já não permanece apenas como afetação ou como memória interna. Passa a poder ser figurado, retido em forma, articulado com outras formas e orientado para nova relação.
+
+A posição que faz da representação uma realidade suficiente vê corretamente que a representação tem eficácia. Sem representação, a relação apreendida não se tornaria suficientemente disponível para certas operações humanas. Mas essa posição desloca-se quando faz da representação o lugar onde o real se decide.
+
+O pressuposto falso é pensar que a fixação representacional basta para substituir a realidade representada.
+
+A crítica é firme: representação não é real substituído. Também não é verdade por si. Uma representação pode organizar, estabilizar e orientar; ainda assim pode desadequar-se ao real.
+
+A reinscrição correta é tratar a representação como mediação avaliável. Ela fixa o apreendido, mas permanece dependente do real que representa e do modo como esse real foi apreendido.
+
+### 5. `P27` como unidade operativa de mediação
+
+`P27` abre a mediação simbólica como unidade operativa de fixação do apreendido.
+
+O capítulo precisa deste ponto porque a representação não opera apenas como imagem solta. Ela ganha unidades retomáveis. O símbolo é essa unidade de mediação que permite que uma relação ao real se fixe, se reconheça, se retome e comece a circular.
+
+O símbolo não é ainda cultura. Não é ainda sistema simbólico estabilizado. Não é ainda semiótica geral. É a forma operativa pela qual uma relação apreendida pode ser estabilizada numa unidade mediada.
+
+A posição que faz da mediação fundamento vê corretamente que a relação humana ao real não permanece muda, dispersa ou puramente imediata. Há unidades mediacionais. Mas desloca-se quando faz dessas unidades a origem do real ou da sua inteligibilidade absoluta.
+
+O pressuposto errado é pensar que aquilo que torna uma relação retomável é também aquilo que a funda.
+
+A crítica curta é esta: `P27` fixa uma relação já apreendida; não cria a relação nem o real.
+
+A reinscrição deve preservar a função local do símbolo: unidade operativa de mediação, subordinada ao apreendido e ao real.
+
+### 6. Símbolo
+
+O símbolo estabiliza e torna circulável uma relação ao real.
+
+Ele permite que a relação apreendida não fique apenas como ocorrência interna. Dá-lhe uma forma que pode ser reconhecida, retomada e partilhada. Por isso, o símbolo tem uma eficácia real no modo humano de se orientar, comunicar e transmitir.
+
+Mas essa eficácia não é soberania.
+
+A posição que trata o símbolo como mundo próprio vê corretamente que símbolos não são ornamentos exteriores. Eles organizam relações, tornam-nas disponíveis, permitem reconhecimento e circulação. Mas desloca-se quando transforma essa eficácia numa autonomia ontológica.
+
+O pressuposto falso é pensar que, porque o símbolo estrutura a relação humana ao real, então o símbolo cria ou substitui o real simbolizado.
+
+Esse é o erro local: confundir mediação eficaz com mundo autónomo.
+
+A reinscrição é esta: o símbolo vale enquanto estabiliza uma relação ao real. A sua legitimidade depende da função mediadora. Quando se fecha sobre si, deixa de mediar e passa a substituir aquilo que devia tornar acessível.
+
+### 7. Linguagem
+
+A linguagem articula e comunica a representação do apreendido.
+
+A linguagem permite estabilizar relações em formas partilháveis. Permite ordenar símbolos, ligar representações, distinguir, nomear, transmitir e retomar. Sem linguagem, grande parte da mediação humana permaneceria instável, privada, descontínua ou pouco operável.
+
+Mas a linguagem não é origem do real.
+
+A posição que faz da linguagem o lugar primeiro da inteligibilidade vê corretamente que não há vida reflexiva humana desenvolvida sem articulação linguística. Vê também que o real, para nós, se torna muitas vezes comunicável por linguagem. Mas desloca-se quando identifica comunicabilidade linguística com constituição do real.
+
+O pressuposto errado é pensar que aquilo que é articulado linguisticamente só existe, ou só vale, enquanto produto dessa articulação.
+
+A crítica curta é esta: a linguagem articula a relação ao real; não funda o real nem funda a apreensão.
+
+A reinscrição correta é manter a linguagem como operação subordinada de articulação e comunicação. Ela torna a relação apreendida dizível e partilhável, mas continua obrigada ao real que essa relação pretende dizer.
+
+### 8. `P28/P29` como corpo efetivo do capítulo
+
+`P28/P29` dão o corpo efetivo do Capítulo 6.
+
+Aqui a mediação deixa de estar apenas no limiar. Ganha densidade como representação operável e linguagem partilhável. O apreendido, já fixado, simbolizado e articulado, pode ser organizado em formas transmissíveis. Pode circular entre humanos situados. Pode ser retomado e ligado a novas apreensões.
+
+Este é o corpo do capítulo. Mas o corpo não deve crescer para teoria geral da linguagem, teoria do símbolo, hermenêutica, semiótica, cultura ou sistema.
+
+A posição que infla `P28/P29` vê corretamente que linguagem e representação podem formar estruturas complexas. Vê que a mediação se organiza e que essa organização pode sedimentar regimes mais vastos. Mas desloca-se quando confunde o corpo local da mediação com todas as suas derivações posteriores.
+
+O pressuposto falso é pensar que explicar a linguagem e a representação neste ponto exige já explicar cultura, instituição, sistema ou crítica simbólica.
+
+A crítica curta é: o Capítulo 6 trata da mediação representacional-linguística do apreendido, não da totalidade dos regimes simbólicos humanos.
+
+A reinscrição é manter `P28/P29` no seu lugar: corpo local da mediação, ainda submetido ao real e ainda anterior às camadas culturais e sistémicas posteriores.
+
+### 9. Sentido subordinado
+
+O sentido emerge como inteligibilidade subordinada da relação mediada ao real.
+
+Não há mediação humana plena sem sentido. Uma representação que não se articula em sentido fica muda ou inoperante. Um símbolo sem sentido não orienta. Uma linguagem sem sentido não comunica. O sentido é, portanto, necessário.
+
+Mas não é fundamento.
+
+A posição que faz do sentido origem vê corretamente que a inteligibilidade humana não é uma simples soma de sinais. Há organização, direção, relação e apreensão articulada. Mas desloca-se quando faz dessa inteligibilidade o lugar originário do real.
+
+O pressuposto errado é pensar que, porque o real só se torna inteligível para nós por sentido, então o sentido é a fonte do real ou o critério soberano da sua validade.
+
+A crítica é simples: o sentido organiza a mediação; não funda aquilo que é mediado.
+
+A reinscrição correta é tratar o sentido como efeito relacional subordinado. O sentido nasce da mediação da relação ao real. Deve permanecer dependente dessa relação e corrigível por ela.
+
+### 10. Partilha
+
+A mediação simbólico-linguística torna a relação representada comunicável e partilhável.
+
+Isto é um ganho real. O que foi apreendido por um humano situado pode ser transmitido a outro. Pode estabilizar-se numa comunidade de linguagem. Pode ser retomado, repetido, discutido e aperfeiçoado. A partilha amplia a vida da representação.
+
+Mas partilha não é validação.
+
+A posição que faz da partilha critério vê corretamente que o humano não vive a representação apenas de modo privado. Há circulação, confirmação mútua, transmissão e sedimentação. Mas desloca-se quando confunde circulação com verdade.
+
+O pressuposto falso é pensar que aquilo que muitos partilham, repetem ou estabilizam socialmente fica por isso adequado ao real.
+
+A crítica curta é esta: a partilha aumenta a circulação da mediação, não a sua verdade.
+
+A reinscrição correta é manter a partilha como comunicação. Uma representação partilhada continua julgável. Pode circular amplamente e continuar desadequada ao real. O seu valor não vem da circulação, mas da sua possível adequação ao real.
+
+### 11. Coerência interna e risco de fechamento
+
+A mediação precisa de alguma coerência interna.
+
+Sem coerência, a linguagem não comunica. O símbolo não se reconhece. A representação não se retoma. O sentido desfaz-se. A coerência organiza a circulação da mediação e permite que ela seja estabilizada.
+
+Mas coerência interna não é verdade.
+
+A posição coerentista vê corretamente que uma mediação inteiramente incoerente não cumpre a sua função. O capítulo deve admitir isso. Mas a posição desloca-se quando toma a coerência interna como critério suficiente.
+
+O pressuposto falso é pensar que um sistema simbólico bem organizado consigo mesmo já está adequado ao real.
+
+A crítica é decisiva para este capítulo: a mediação pode tornar-se internamente coerente e, ainda assim, substituir o real. Pode produzir linguagem consistente, símbolos estáveis, sentidos circuláveis e representações partilhadas sem manter relação adequada com aquilo que pretende dizer.
+
+A reinscrição correta é distinguir função e critério. A coerência interna é condição de circulação e inteligibilidade da mediação. O critério último da sua legitimidade continua a ser a submissão ao real.
+
+### 12. Fronteira com cultura e sistema
+
+Linguagem, símbolo e sentido podem sedimentar-se em cultura, instituição e sistema.
+
+Mas isso ainda não é o centro do Capítulo 6.
+
+O capítulo está num ponto anterior. Trata da mediação pela qual o apreendido se torna representação, símbolo, linguagem e sentido partilhável. A cultura e o sistema exigem outra camada: sedimentação, repetição social, regularidade institucional, fechamento possível, autorreferência e crítica sistémica. Esses temas pertencem a zonas posteriores.
+
+A posição que antecipa cultura ou sistema vê algo real: mediações partilhadas podem formar regimes coletivos. O erro está em antecipar essa camada antes de fixar a mediação local.
+
+O pressuposto falso é pensar que toda linguagem já é cultura como centro, que todo símbolo já é sistema simbólico estabilizado, que todo sentido já é hermenêutica ou crítica cultural.
+
+A crítica curta é esta: o Capítulo 6 prepara a possibilidade dessas camadas, mas não as desenvolve.
+
+A reinscrição correta é manter cultura, instituição, sistema e crítica simbólica como posteriores. Aqui, o ponto é mais baixo: como se fixa, articula e comunica a relação apreendida ao real.
+
+### 13. `P31/P34` como fecho terminal
+
+Uma representação mediada pode ajustar-se ou desajustar-se ao real.
+
+O Capítulo 6 deve dizer isto apenas no fim e apenas o bastante para abrir a passagem ao Capítulo 7.
+
+A representação tornou-se operável. O símbolo estabilizou. A linguagem articulou e comunicou. O sentido organizou a relação mediada. A partilha tornou-a circulável. A coerência permitiu alguma estabilidade interna. A partir daqui, torna-se inevitável perguntar se essa mediação corresponde ao real que pretende dizer.
+
+Mas essa pergunta já não pertence ao corpo próprio do Capítulo 6.
+
+A posição epistemológica que quer abrir verdade, erro e critério neste ponto vê corretamente que a mediação representacional é julgável. Sem julgabilidade, o capítulo ficaria suspenso numa mediação sem medida. Mas a posição desloca-se quando faz da julgabilidade terminal o centro do capítulo.
+
+O pressuposto falso é pensar que, sempre que se pode perguntar pela adequação, já se deve desenvolver todo o regime da verdade, do erro, do critério e da correção.
+
+A crítica curta é: `P31/P34` entram apenas como fecho terminal.
+
+A reinscrição correta é esta: a representação mediada pode ser julgada pela sua submissão ao real, mas o regime próprio desse julgamento pertence ao Capítulo 7.
+
+`P30`, quando aparece, deve aparecer como consciência localizada ou representação já tornada localmente retomável. Não deve comandar. Não deve reabrir teoria da consciência. Serve apenas para indicar que a mediação já chegou ao ponto em que pode ser referida, retomada e julgada.
+
+### 14. `P37` fora do centro
+
+`P37` fica fora do centro do Capítulo 6.
+
+A correção só entra aqui como pressão terminal. A mediação simbólico-linguística pode falhar; pode desadequar-se; pode fechar-se internamente; pode substituir o real. Mas desenvolver a correção enquanto reinscrição da representação e da ação na medida do real já pertence ao Capítulo 7.
+
+A posição que quer fechar o Capítulo 6 por correção vê corretamente que a mediação sem possibilidade de correção ficaria perigosa. Mas desloca-se quando trata a possibilidade de correção como regime já instalado.
+
+O pressuposto falso é pensar que preparar a necessidade de correção equivale a desenvolvê-la.
+
+A crítica curta é esta: `P37` não é peça estável do Capítulo 6.
+
+A reinscrição correta é manter `P37` como horizonte. O capítulo deve preparar a pergunta pela correção; não deve responder por ela.
+
+### 15. Fecho e ponte baixa `6→7`
+
+O Capítulo 6 deve terminar antes de verdade, erro, critério e correção se tornarem corpos próprios.
+
+O seu ganho é suficiente e deve ser preservado com secura: aquilo que foi apreendido e estabilizado internamente pode tornar-se representação mediada, símbolo, linguagem e sentido partilhável. Essa mediação é necessária à vida reflexiva humana. Mas só permanece legítima enquanto fixa, articula e comunica a relação ao real sem a substituir.
+
+A ponte para o capítulo seguinte é baixa e precisa:
+
+> se a representação mediada pode adequar-se ou desadequar-se ao real, que regime permite distinguir verdade, erro, critério e correção?
+
+A entrega é apenas esta.
+
+Não se entrega uma teoria da verdade. Não se entrega uma teoria do erro. Não se entrega uma teoria do critério. Não se entrega uma teoria da correção. Entrega-se a necessidade de perguntar por elas.
+
+Assim, o Capítulo 6 fecha a mediação sem a soberanizar e abre o Capítulo 7 sem o antecipar.
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| representação como realidade suficiente | Vê que a representação fixa e torna o apreendido operável. | Faz da representação substituto do real representado. | Fixar algo em forma representacional bastaria para ocupar o lugar da realidade. | Representação é mediação avaliável da relação ao real, não real substituído. |
+| representação como verdade | Vê que a representação pode vir a ser julgada. | Toma a representação por verdadeira por estar formulada, estabilizada ou partilhada. | Formulação ou estabilidade interna bastariam para garantir verdade. | A representação só é julgável pela sua adequação ao real; o regime próprio disso pertence ao Capítulo 7. |
+| linguagem como origem do real | Vê que a linguagem articula e comunica o apreendido. | Faz da linguagem condição originária do real ou da apreensão. | O real só valeria enquanto linguisticamente constituído. | Linguagem articula e comunica a relação apreendida; não funda o real nem a apreensão. |
+| linguagem como mundo autónomo | Vê que há campo linguístico de sentido e circulação. | Desliga esse campo da relação ao real. | A linguagem poderia bastar-se como mundo de inteligibilidade. | A linguagem permanece mediação subordinada ao real que pretende dizer. |
+| símbolo como mundo próprio | Vê que o símbolo estabiliza e torna circulável uma relação. | Faz da eficácia simbólica autonomia ontológica. | O símbolo criaria ou dominaria o real simbolizado. | Símbolo é unidade operativa de mediação da relação ao real. |
+| sentido como fundamento | Vê que sem sentido a mediação não se torna inteligível. | Faz do sentido origem ou critério soberano. | A inteligibilidade humana seria fonte do real. | Sentido é efeito relacional subordinado da mediação da relação ao real. |
+| partilha como validação | Vê que a mediação circula e se estabiliza inter-humanamente. | Confunde circulação, repetição ou consenso com verdade. | O que é partilhado fica validado por ser partilhado. | Partilha comunica a mediação; não substitui adequação ao real. |
+| coerência interna como verdade | Vê que a mediação precisa de consistência interna. | Faz da coerência critério suficiente. | Um sistema coerente consigo mesmo já seria verdadeiro. | Coerência é condição de circulação, não critério último. |
+| mediação como critério | Vê que não há relação humana desenvolvida sem mediação. | Faz da mediação instância que decide o real e a verdade. | O meio de fixar e articular poderia governar aquilo que medeia. | Mediação fixa, articula e comunica a relação ao real; permanece submetida a esse real. |
+| cultura ou sistema simbólico como cabeça precoce | Vê que mediações partilhadas podem sedimentar regimes coletivos. | Antecipa cultura, instituição ou sistema antes do seu lugar próprio. | Toda mediação simbólica já seria sistema simbólico estabilizado. | Cultura e sistema ficam como camadas posteriores; aqui trata-se ainda da mediação local do apreendido. |
+| verdade, erro e correção como abertura | Vê que a representação mediada será julgável. | Transforma a julgabilidade terminal no corpo do capítulo. | Preparar a pergunta pela verdade já equivaleria a desenvolver o seu regime. | `P31/P34` são fecho terminal; `P37` fica fora; o Capítulo 7 recebe o regime próprio. |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro continua a ser:
+
+> mediação simbólico-linguística da representação, subordinada ao real.
+
+Também fica preservada a formulação desenvolvida:
+
+> aquilo que foi apreendido e estabilizado internamente pela memória pode tornar-se representação operável, símbolo, linguagem e sentido partilhável; mas essa mediação só permanece legítima enquanto fixa, articula e comunica a relação ao real sem a substituir.
+
+### cadeia preservada
+
+A cadeia preservada é:
+
+> chão herdado `P23/P24` → memória pressuposta `P25` → limiar de fixação `P26` → mediação simbólica `P27` → linguagem e representação operável `P28/P29` → sentido subordinado → consciência localizada / representação julgável `P30/P31/P34` apenas terminais → ponte baixa `6→7`.
+
+A cadeia não foi invertida.
+
+### estatuto de P26 preservado
+
+`P26` entrou apenas como limiar de fixação mediada.
+
+Não entrou como representação plena, linguagem desenvolvida, símbolo completo, sistema de sentido ou verdade.
+
+### estatuto de P27 preservado
+
+`P27` entrou como unidade operativa de mediação.
+
+Não entrou como teoria geral do símbolo, semiótica, cultura ou sistema simbólico.
+
+### estatuto de P28/P29 preservado
+
+`P28/P29` deram corpo à mediação representacional-linguística.
+
+Não viraram filosofia geral da linguagem, hermenêutica, teoria da cultura ou sistema.
+
+### estatuto de P31/P34 preservado
+
+`P31/P34` entraram apenas como fecho terminal de julgabilidade.
+
+Não comandaram o capítulo e não transformaram a mediação em epistemologia plena.
+
+### estatuto de P37 preservado
+
+`P37` ficou fora do centro.
+
+A correção apareceu apenas como pressão terminal para o Capítulo 7, não como regime próprio do Capítulo 6.
+
+### crítica subordinada
+
+A crítica acompanha o positivo e não o substitui.
+
+Cada crítica local foi usada para proteger a mediação subordinada ao real contra a sua autonomização:
+
+- representação como substituto do real;
+- linguagem como origem;
+- símbolo como mundo próprio;
+- sentido como fundamento;
+- partilha como validação;
+- coerência interna como verdade;
+- mediação como critério;
+- cultura ou sistema como cabeça precoce;
+- verdade, erro e correção como abertura indevida.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas funcionalmente.
+
+Não houve história da filosofia desenvolvida. Não houve comentário de autores. Não houve transformação do capítulo em semiótica, hermenêutica, teoria da linguagem, epistemologia ou crítica cultural.
+
+As posições foram reconhecidas pelo que veem corretamente e bloqueadas no ponto em que substituem o real por mediação autonomizada.
+
+### notas sob controlo
+
+Este ficheiro não usa notas de rodapé.
+
+Se forem usadas mais tarde, não devem carregar o argumento principal. Devem apenas localizar tradições, proteger contra simplificação ou remeter para crítica posterior.
+
+### capítulos posteriores não abertos
+
+Ficaram fora como centros próprios:
+
+- verdade como centro;
+- erro como corpo próprio;
+- critério como tribunal;
+- correção como regime próprio;
+- cultura;
+- instituição;
+- sistema;
+- crítica sistémica;
+- ação;
+- normatividade;
+- responsabilidade;
+- dever-ser.
+
+Também ficou fora a tentativa de transformar linguagem, símbolo, sentido ou coerência em substitutos do real.
+
+### fórmula final
+
+> O Capítulo 6 fixa que aquilo que foi apreendido e estabilizado internamente pode tornar-se representação mediada, símbolo, linguagem e sentido partilhável; mas essa mediação só permanece legítima enquanto fixa, articula e comunica a relação ao real sem a substituir.
+
 <a id="capitulo-cap-07-verdade-erro-criterio-correcao"></a>
 ## CAP_07_verdade_erro_criterio_correcao
 
 - Pasta: `CAP_07_verdade_erro_criterio_correcao`
-- Ficheiros incluídos: `9`
+- Ficheiros incluídos: `10`
 
 ### Índice interno da pasta
 
@@ -24645,6 +27359,7 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não já pela 
 - [05_decisao_local_do_capitulo](#cap-07-verdade-erro-criterio-correcao-05-decisao-local-do-capitulo-md) — `CAP_07_verdade_erro_criterio_correcao/05_decisao_local_do_capitulo.md`
 - [06_primeira_versao_controlada_de_escrita](#cap-07-verdade-erro-criterio-correcao-06-primeira-versao-controlada-de-escrita-md) — `CAP_07_verdade_erro_criterio_correcao/06_primeira_versao_controlada_de_escrita.md`
 - [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7](#cap-07-verdade-erro-criterio-correcao-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap7-md) — `CAP_07_verdade_erro_criterio_correcao/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-07-verdade-erro-criterio-correcao-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_07_verdade_erro_criterio_correcao/07_escrita_final_preparada_com_critica_acompanhante.md`
 - [06pos_reescrita_grau2](#cap-07-verdade-erro-criterio-correcao-06pos-reescrita-grau2-md) — `CAP_07_verdade_erro_criterio_correcao/06pos_reescrita_grau2.md`
 
 <a id="cap-07-verdade-erro-criterio-correcao-00-estatuto-e-limites-md"></a>
@@ -30138,6 +32853,753 @@ Só depois deste ganho se torna legítima a pergunta seguinte — não já pela 
 > **erro da proposição não real:** confundir a realidade do dizer com a verdade do dito, ou substituir a adequação ao real por coerência interna, consenso, autoridade, utilidade, linguagem ou sistema;  
 > **reinscrição no real:** representação verdadeira como adequação ao real sob critério submetido ao real; erro como desadequação; correção como reinscrição da representação e da ação na medida do real.
 
+<a id="cap-07-verdade-erro-criterio-correcao-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_07_verdade_erro_criterio_correcao/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 7 — Verdade, erro, critério e correção
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 7 — Verdade, erro, critério e correção**.
+
+Não é ainda a redação final publicada do capítulo. A sua função é converter o ganho do `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md` numa forma mais próxima de capítulo final, incorporando no próprio movimento expositivo a crítica local necessária.
+
+O capítulo deve dizer positivamente o seu centro: **representação mediada julgável sob critério submetido ao real**. Só depois deve mostrar que modos de dizer ficam bloqueados, por que razão ficam bloqueados, que pressupostos errados os sustentam, e como devem ser reinscritos no real.
+
+No Capítulo 7, a chave transversal **ser no real → dizer do ser → erro da proposição não real → reinscrição no real** toca diretamente o centro local, porque o próprio capítulo trata de representação, adequação, critério, verdade, erro e correção. Por isso, essa chave deve ser incorporada com máxima contenção. Ela deve orientar a escrita. Não deve duplicar-se como teoria geral, nem ocupar o lugar do capítulo.
+
+A crítica aqui não é uma peça separada da exposição. É uma função acompanhante da escrita. Entra para proteger a representação avaliável contra falsos critérios: representação autossuficiente, dizer tomado por verdade, coerência interna, consenso, autoridade, utilidade, linguagem, sistema, critério soberano, erro psicologizado, erro moralizado e correção como reajuste interno.
+
+O `07` pergunta, portanto, como escrever o Capítulo 7 de modo a dizer positivamente verdade, erro, critério e correção como momentos da representação mediada julgável pelo real e, ao mesmo tempo, mostrar que posições ficam bloqueadas, porquê, com que pressupostos errados, e como são reinscritas no real.
+
+A regra de fundo permanece ativa: **os fragmentos validam a estrutura, não a estrutura os fragmentos**. Por isso, este ficheiro não usa afinidade verbal como prova. Materiais fragmentários só entram enquanto ajudam a tornar mais legível o centro próprio do capítulo ou enquanto travam diretamente um falso dizer que ameaça esse centro.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 7;
+- transformar o capítulo em epistemologia abstrata;
+- transformar o capítulo em teoria geral da verdade;
+- transformar o capítulo em teoria geral do erro;
+- transformar o capítulo em teoria geral do critério;
+- transformar o capítulo em teoria geral da correção;
+- abrir ação, dano, liberdade, responsabilidade, dever-ser ou normatividade como centros;
+- antecipar capítulos posteriores;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo;
+- transformar a Nota de Leitura em conteúdo repetido.
+
+O capítulo continua a ser estreito. Não decide a teoria geral da verdade. Não decide a teoria geral do erro. Não decide a legitimidade de sistemas, instituições, culturas ou regimes de conhecimento. Não decide ainda a ética, a normatividade, a responsabilidade ou a vida boa. Fixa apenas o regime baixo em que uma representação mediada pode ser julgada verdadeira ou errada pela sua adequação ou desadequação ao real sob critério submetido ao próprio real.
+
+### relação com o 06
+
+O `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md` fixou o capítulo como estruturalmente suficiente. O corredor `P33–P37` ficou preservado: critério submetido ao real, verdade como adequação, co-originariedade de verdade e erro, erro como desadequação sob critério válido, correção como reinscrição da representação e da ação na medida do real.
+
+A auditoria posterior identificou, contudo, uma microausência de legibilidade: o texto bloqueava bem coerência interna, consenso, autoridade, utilidade, linguagem e sistema como falsos critérios soberanos, mas ainda precisava de mostrar melhor como esses falsos critérios se formam.
+
+O `07` não reabre a decisão local. Prepara a forma final de escrita e incorpora esta mediação curta:
+
+> apoio local legítimo → autonomização → generalização indevida de escala → substituição do real como medida.
+
+E também:
+
+> má descrição do objeto → má formulação do problema → solução deslocada → critério falso estabilizado.
+
+A função desta mediação não é abrir crítica sistémica, sociologia do consenso, teoria da autoridade ou pragmatismo. É apenas mostrar, com secura, que um falso critério raramente nasce como erro explícito. Normalmente nasce de uma função local legítima que se autonomiza e passa a ocupar o lugar do real.
+
+### regra da crítica acompanhante
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+A exposição deve dizer primeiro o que é: representação mediada, avaliável, adequada ou desadequada ao real, sob critério submetido ao real. Só depois deve mostrar o que esse passo impede.
+
+A crítica não deve comandar a ordem do capítulo. Deve acompanhar cada determinação positiva e reconduzir o falso dizer ao real que pretendia medir.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+> representação mediada julgável sob critério submetido ao real.
+
+Formulação desenvolvida:
+
+> uma representação mediada, simbólica e linguística, que pretende dizer o real, só vale como verdadeira se se adequar ao real sob critério submetido ao próprio real; quando se desadequa, há erro; corrigir é reinscrever a representação e a ação na medida do real.
+
+### 2. Cadeia positiva
+
+> representação mediada → representação avaliável → dizer real / dito verdadeiro → adequação/desadequação → critério submetido ao real → génese dos falsos critérios → verdade → co-originariedade de verdade e erro → erro → distinções internas do erro → falsos critérios → correção → ação apenas como pressão terminal.
+
+### 3. Fórmula axial do capítulo
+
+- **ser no real:** representação mediada de um humano situado enquanto julgável pela sua adequação ou desadequação ao real;
+- **dizer do ser:** proposição, descrição, teoria, linguagem ou sistema que pretende dizer o real;
+- **erro da proposição não real:** confundir a realidade do dizer com a verdade do dito, ou substituir a adequação ao real por coerência interna, consenso, autoridade, utilidade, linguagem ou sistema;
+- **reinscrição no real:** representação verdadeira como adequação ao real sob critério submetido ao real; erro como desadequação; correção como reinscrição da representação e da ação na medida do real.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — representação mediada herdada
+
+- **passo positivo:** o capítulo recebe do Capítulo 6 a representação mediada, simbólica e linguística, já operável e partilhável.
+- **posição-tipo bloqueada:** regressão à linguagem, ao símbolo ou ao sentido como centros.
+- **acerto local da posição:** vê corretamente que a representação chega ao Capítulo 7 por mediação simbólico-linguística.
+- **deslocação:** faz da mediação o centro do juízo, em vez de a tratar como chão herdado.
+- **pressuposto errado:** supõe que aquilo que media também pode medir soberanamente.
+- **crítica curta:** a linguagem diz; o símbolo estabiliza; o sentido torna inteligível; mas nenhum deles decide por si a verdade.
+- **reinscrição:** a mediação entra como condição da representação julgável, não como critério último.
+
+#### Ponto crítico 2 — representação avaliável
+
+- **passo positivo:** uma representação torna-se avaliável porque pretende dizer o real sem coincidir automaticamente com ele.
+- **posição-tipo bloqueada:** representação como verdade por si ou realidade suficiente.
+- **acerto local da posição:** vê corretamente que a representação fixa algo e torna o apreendido operável.
+- **deslocação:** transforma a fixação em posse do real.
+- **pressuposto errado:** supõe que representar já é ter o real representado.
+- **crítica curta:** a representação vale como mediação avaliável, não como substituto do real.
+- **reinscrição:** a representação deve ser julgada pela relação ao real que pretende dizer.
+
+#### Ponto crítico 3 — dizer real / dito verdadeiro
+
+- **passo positivo:** todo o dizer é real enquanto ato, mas o dito só é verdadeiro se se adequar ao real que pretende dizer.
+- **posição-tipo bloqueada:** dizer real como dito verdadeiro.
+- **acerto local da posição:** vê corretamente que o discurso, a proposição e a teoria existem no real e produzem efeitos reais.
+- **deslocação:** passa da realidade factual do ato de dizer para a verdade do conteúdo dito.
+- **pressuposto errado:** supõe que a existência de uma formulação garante a validade daquilo que formula.
+- **crítica curta:** uma proposição falsa também existe; a sua existência não a torna verdadeira.
+- **reinscrição:** o dito deve ser medido pelo real que pretende descrever, não pela simples realidade do dizer.
+
+#### Ponto crítico 4 — adequação/desadequação
+
+- **passo positivo:** a representação pode ajustar-se ou falhar relativamente ao real que pretende dizer.
+- **posição-tipo bloqueada:** adequação como propriedade interna da representação.
+- **acerto local da posição:** vê corretamente que uma representação deve possuir alguma forma, consistência e estabilidade para ser julgável.
+- **deslocação:** localiza a adequação dentro da representação ou do sistema representacional.
+- **pressuposto errado:** supõe que a relação ao real pode ser substituída pela estrutura interna do dizer.
+- **crítica curta:** adequação não é coerência interna; é coincidência operativa suficiente entre representação e real sob limite.
+- **reinscrição:** a adequação deve permanecer uma relação representação-real.
+
+#### Ponto crítico 5 — critério submetido ao real
+
+- **passo positivo:** a distinção entre adequação e desadequação exige critério, mas o critério só é legítimo se estiver submetido ao real.
+- **posição-tipo bloqueada:** critério como tribunal soberano.
+- **acerto local da posição:** vê corretamente que sem critério não há distinção entre melhor e pior descrição.
+- **deslocação:** faz do critério uma régua autónoma, exterior ao real ou fechada no sistema.
+- **pressuposto errado:** supõe que a medida pode valer sem ser medida pelo próprio real.
+- **crítica curta:** critério desligado do real degrada-se em coerência interna, convenção, autoridade, consenso, utilidade ou fechamento sistémico.
+- **reinscrição:** o critério deve ser operação de medição submetida ao real.
+
+#### Ponto crítico 6 — génese dos falsos critérios
+
+- **passo positivo:** falsos critérios nascem frequentemente de funções locais legítimas que se autonomizam.
+- **posição-tipo bloqueada:** coerência, consenso, autoridade, utilidade, linguagem ou sistema como critérios soberanos.
+- **acerto local da posição:** cada um vê uma função real: a coerência organiza; o consenso estabiliza circulação; a autoridade transmite; a utilidade resolve localmente; a linguagem articula; o sistema conserva.
+- **deslocação:** a função local passa a medir tudo.
+- **pressuposto errado:** supõe que uma função válida numa escala pode ser generalizada como medida do real em todas as escalas.
+- **crítica curta:** o falso critério forma-se quando há apoio local legítimo, autonomização, generalização indevida de escala e substituição do real como medida.
+- **reinscrição:** cada apoio deve voltar ao seu estatuto: apoio local da avaliação, nunca critério último.
+
+A segunda sequência a integrar é esta:
+
+> má descrição do objeto → má formulação do problema → solução deslocada → critério falso estabilizado.
+
+Isto deve impedir que a crítica pareça apenas lista de falsos critérios. O erro não começa sempre na conclusão. Começa muitas vezes no primeiro gesto de descrição.
+
+#### Ponto crítico 7 — verdade
+
+- **passo positivo:** verdade é adequação da representação ao real sob critério operativo submetido ao próprio real.
+- **posição-tipo bloqueada:** verdade como coerência, consenso, autoridade, utilidade, elegância simbólica, estabilidade cultural ou sucesso interno.
+- **acerto local da posição:** cada falso substituto toca algo real no funcionamento da representação.
+- **deslocação:** confunde condição de circulação, organização ou eficácia com verdade.
+- **pressuposto errado:** supõe que a verdade pode ser decidida sem retorno ao real.
+- **crítica curta:** nenhuma instância derivada pode ocupar o lugar da medida real.
+- **reinscrição:** a verdade deve ser devolvida à adequação representação-real.
+
+#### Ponto crítico 8 — co-originariedade de verdade e erro
+
+- **passo positivo:** sem possibilidade de erro, a verdade não é inteligível como adequação.
+- **posição-tipo bloqueada:** verdade infalível, posse imediata, evidência autoportante ou certeza institucional.
+- **acerto local da posição:** vê corretamente que a verdade exige força, estabilidade e resistência à arbitrariedade.
+- **deslocação:** transforma essa força em impossibilidade de falha.
+- **pressuposto errado:** supõe que a verdade é posse e não adequação medida.
+- **crítica curta:** se a representação não pudesse falhar, não haveria juízo de adequação.
+- **reinscrição:** verdade e erro pertencem à mesma estrutura representacional julgável; não são simétricos em valor, mas são co-originários enquanto possibilidades da representação.
+
+#### Ponto crítico 9 — erro
+
+- **passo positivo:** erro é desadequação da representação ao real sob critério válido.
+- **posição-tipo bloqueada:** erro como falha psicológica ou falha moral.
+- **acerto local da posição:** vê corretamente que o erro pode envolver ilusão, ignorância, intenção, desatenção ou consequências práticas.
+- **deslocação:** identifica o erro com uma dessas dimensões e perde o núcleo representacional.
+- **pressuposto errado:** supõe que errar é primariamente defeito subjetivo ou culpa.
+- **crítica curta:** o erro pode passar pela mente ou pela ação, mas o seu núcleo aqui é a desadequação da representação ao real.
+- **reinscrição:** o erro deve ser reconduzido à relação representação-real.
+
+#### Ponto crítico 10 — distinções internas do erro
+
+- **passo positivo:** o capítulo distingue erro de ilusão, insuficiência epistémica, dano, erro moral e mera incoerência interna.
+- **posição-tipo bloqueada:** taxonomia total do erro ou dissolução de todo o erro em um só tipo.
+- **acerto local da posição:** vê corretamente que o erro aparece sob formas diferentes.
+- **deslocação:** faz da distinção uma teoria total ou confunde planos distintos.
+- **pressuposto errado:** supõe que distinguir exige autonomizar cada distinção como corpo próprio.
+- **crítica curta:** as distinções servem para manter o erro no seu plano, não para abrir subcapítulos independentes.
+- **reinscrição:** erro descritivo, categorial, escalar, linguístico, sistémico ou criterial devem regressar ao núcleo comum: desadequação ao real.
+
+#### Ponto crítico 11 — falsos critérios
+
+- **passo positivo:** coerência, consenso, autoridade, utilidade, linguagem e sistema podem apoiar a avaliação, mas não substituem o real.
+- **posição-tipo bloqueada:** falsos critérios soberanos.
+- **acerto local da posição:** cada falso critério possui função local real.
+- **deslocação:** deixa de apoiar a submissão ao real e passa a substituir o real.
+- **pressuposto errado:** supõe que a estabilização interna equivale a validade real.
+- **crítica curta:** coerência organiza, consenso circula, autoridade transmite, utilidade opera, linguagem diz, sistema estabiliza; o real mede.
+- **reinscrição:** todos os apoios derivados devem permanecer subordinados ao critério submetido ao real.
+
+#### Ponto crítico 12 — correção
+
+- **passo positivo:** corrigir é reinscrever representação e ação na medida do real.
+- **posição-tipo bloqueada:** correção como reajuste interno.
+- **acerto local da posição:** vê corretamente que corrigir pode exigir reorganizar termos, conceitos, linguagem e sistema.
+- **deslocação:** trata a reorganização interna como suficiente.
+- **pressuposto errado:** supõe que salvar a coerência do sistema é corrigir.
+- **crítica curta:** reorganizar internamente pode conservar o erro se não houver retorno ao real.
+- **reinscrição:** correção é retorno da representação ao objeto real que pretendia dizer.
+
+#### Ponto crítico 13 — ação apenas como pressão terminal
+
+- **passo positivo:** uma representação verdadeira ou errada pode orientar ação; por isso a correção toca terminalmente a ação.
+- **posição-tipo bloqueada:** correção como ética antecipada.
+- **acerto local da posição:** vê corretamente que representações têm consequências práticas.
+- **deslocação:** passa imediatamente de correção representacional para dever-ser, responsabilidade, bem, mal ou normatividade.
+- **pressuposto errado:** supõe que tocar a ação já é abrir o regime da ação.
+- **crítica curta:** a ação entra apenas como pressão terminal, não como centro do Capítulo 7.
+- **reinscrição:** a correção prepara o regime prático posterior, mas o capítulo permanece centrado na representação julgável.
+
+#### Ponto crítico 14 — ponte baixa posterior
+
+- **passo positivo:** o capítulo entrega apenas a pergunta pelo regime prático que se abre quando representações corrigidas ou erradas orientam atualizações reais.
+- **posição-tipo bloqueada:** passagem direta para dano, liberdade, responsabilidade, dever-ser, normatividade ou vida boa.
+- **acerto local da posição:** vê corretamente que verdade e erro não são indiferentes para a ação.
+- **deslocação:** transforma a consequência terminal em novo centro antes do tempo.
+- **pressuposto errado:** supõe que a passagem prática já está contida de modo desenvolvido na correção.
+- **crítica curta:** o Capítulo 7 termina no limiar; não atravessa o limiar.
+- **reinscrição:** a ponte posterior deve ficar como pergunta: que ação situada se segue quando a representação já pode ser verdadeira, errada e corrigível?
+
+### 5. Posições-tipo bloqueadas
+
+1. **Representação como verdade por si:** a representação seria verdadeira por estar formada, estabilizada, formulada ou partilhada.
+2. **Dizer real como dito verdadeiro:** a realidade do ato de dizer garantiria a verdade do conteúdo dito.
+3. **Coerência interna como verdade:** a consistência de uma teoria, linguagem ou sistema bastaria como critério.
+4. **Consenso como validação:** aquilo que muitos aceitam ou repetem seria verdadeiro.
+5. **Autoridade como garantia:** uma proposição valeria por vir de instituição, tradição, autor, ciência, academia, religião, Estado, maioria ou prestígio.
+6. **Utilidade como verdade:** aquilo que funciona localmente seria verdadeiro em geral.
+7. **Linguagem como fundamento:** a linguagem decidiria ou constituiria o real e a verdade.
+8. **Sistema como medida:** o sistema decidiria internamente o que conta como verdadeiro ou corrigível.
+9. **Critério como tribunal soberano:** o critério seria norma autónoma ou régua exterior ao real.
+10. **Erro como falha psicológica:** o erro seria distração, ignorância, ilusão subjetiva, défice individual ou falha mental.
+11. **Erro como falha moral:** o erro seria culpa, má vontade, mal moral ou falha ética.
+12. **Correção como reajuste interno:** corrigir seria reorganizar sistema, linguagem ou teoria para recuperar coerência.
+13. **Correção como ética antecipada:** porque a correção toca a ação, o capítulo já deveria abrir responsabilidade, dever-ser ou normatividade.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+- Posições coerentistas veem corretamente que uma representação precisa de consistência, mas erram quando fazem da coerência a verdade.
+- Posições consensuais veem corretamente que a verdade circula socialmente e precisa de partilha, mas erram quando fazem da aceitação validação.
+- Posições institucionalistas veem corretamente que autoridades podem conservar e transmitir conhecimento, mas erram quando fazem da autoridade critério último.
+- Posições pragmatistas veem corretamente que a verdade pode ter efeitos práticos, mas erram quando identificam funcionamento local e verdade.
+- Posições linguísticas veem corretamente que o real é dito por linguagem, mas erram quando fazem da linguagem fundamento ou medida.
+- Posições sistémicas veem corretamente que o conhecimento se organiza em sistemas, mas erram quando deixam o sistema medir-se a si mesmo.
+- Posições psicologistas veem corretamente que há ilusões, enganos e limitações cognitivas, mas erram quando reduzem o erro à mente individual.
+- Posições moralizantes veem corretamente que o erro pode ter consequências práticas, mas erram quando transformam erro representacional em culpa moral precoce.
+- Posições formalistas do critério veem corretamente que é preciso medida, mas erram quando tornam a medida exterior ao real.
+- Posições corretivas internas veem corretamente que corrigir exige reorganizar representações, mas erram quando não regressam ao objeto real.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições só podem entrar como exemplos laterais, nunca como eixo do capítulo.
+
+Formulação admissível:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que fazem da coerência, do consenso, da utilidade, da autoridade, da linguagem, do sistema ou do critério o lugar decisivo da verdade. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: substituir a medida do real por uma instância derivada.
+
+Não se deve iniciar o capítulo por autores. Não se deve organizar o texto por escolas. Não se deve transformar a crítica local em história da filosofia.
+
+### 8. Economia de notas
+
+As notas, se forem usadas, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo possui variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Se algo for necessário para compreender o argumento, deve ficar no corpo do texto.
+
+### 9. Travões obrigatórios
+
+- não regressar ao Capítulo 6 como centro;
+- não transformar mediação em verdade;
+- não transformar representação em realidade suficiente;
+- não transformar coerência em adequação;
+- não transformar consenso em validação;
+- não transformar autoridade em garantia;
+- não transformar utilidade local em verdade;
+- não transformar linguagem em fundamento;
+- não transformar sistema em medida;
+- não transformar critério em tribunal soberano;
+- não reduzir erro a psicologia;
+- não reduzir erro a moral;
+- não transformar correção em ética;
+- não abrir ação, dano, liberdade, responsabilidade, dever-ser ou normatividade como centros;
+- não abrir crítica sistémica tardia.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 7 não pergunta simplesmente “o que é a verdade?”.
+
+Também não pergunta, em primeiro lugar, “o que é o erro?”, “o que é o critério?” ou “como se corrige?”. Essas perguntas só são legítimas depois de estar determinado o ser em causa no capítulo.
+
+O ser em causa é mais baixo:
+
+> em que condições uma representação mediada, que pretende dizer o real, pode ser julgada como adequada ou desadequada ao real que pretende dizer?
+
+O Capítulo 6 deixou constituída a mediação simbólico-linguística da representação. A relação apreendida e estabilizada pode tornar-se forma operável, símbolo, linguagem e sentido partilhável. Mas uma representação mediada não se torna verdadeira por ser mediada. Não se torna verdadeira por circular. Não se torna verdadeira por ser compreensível, coerente, aceite ou útil.
+
+A partir do momento em que pretende dizer o real, a representação torna-se julgável. Pode ajustar-se ao real. Pode falhar. Pode ser corrigida.
+
+O centro do Capítulo 7 é, portanto:
+
+> representação mediada julgável sob critério submetido ao real.
+
+A crítica local começa aqui, mas não comanda a exposição. O capítulo diz primeiro a estrutura positiva: há representação mediada; essa representação pretende dizer o real; por isso pode ser avaliada pela sua relação ao real. Só depois mostra o que fica bloqueado: representação como verdade por si, dizer como garantia do dito, critério como tribunal, coerência como verdade, consenso como validação, autoridade como garantia, utilidade como verdade, linguagem ou sistema como medida.
+
+O capítulo não abre por verdade abstrata. Abre pela representação julgável.
+
+### 2. Chão herdado: representação mediada
+
+O Capítulo 7 pressupõe o Capítulo 6.
+
+Isto significa que já não é preciso reconstruir a linguagem, o símbolo, o sentido ou a mediação como centros próprios. A representação já foi fixada como mediação operável do apreendido. A linguagem já apareceu como articulação comunicável. O símbolo já apareceu como estabilização transmissível. O sentido já apareceu como inteligibilidade subordinada da relação mediada ao real.
+
+Mas esse chão herdado não pode ocupar a cabeça do novo capítulo.
+
+A mediação prepara a julgabilidade. Não decide a verdade. A linguagem diz. Não mede por si. O símbolo estabiliza. Não garante. O sentido torna inteligível. Não substitui o real. A partilha circula. Não valida por si.
+
+O falso modo de abrir o Capítulo 7 seria prolongar o Capítulo 6 e fazer depender a verdade da linguagem, do símbolo, do sentido, da coerência mediacional ou da circulação partilhada. Essa posição vê corretamente que a verdade humana passa por mediações. Mas desloca-se quando deixa a mediação ocupar o lugar do real.
+
+A reinscrição é simples: a mediação permanece como chão herdado; o centro agora é a sua avaliação pelo real.
+
+### 3. Representação avaliável
+
+A representação torna o apreendido operável. Permite retomar, comparar, comunicar, orientar, formular e estabilizar. Mas, precisamente por isso, expõe-se a juízo.
+
+Uma representação é avaliável porque não coincide automaticamente com o real. Se coincidisse, a verdade seria desnecessária. Se estivesse totalmente desligada do real, a adequação seria impossível. O capítulo nasce neste intervalo: a representação pretende dizer o real, mas não é o real.
+
+O falso modo de dizer esta zona é tratar a representação como realidade suficiente. A imagem passa a valer pela coisa. A descrição passa a valer pelo objeto. A teoria passa a valer pelo campo que pretende descrever. A formulação passa a parecer verdade apenas por estar estabilizada.
+
+Essa posição vê algo real: sem representação não há operação mediada do apreendido. Mas erra quando transforma mediação em posse. O seu pressuposto falso é que fixar o real representacionalmente equivale a ter o real em si mesmo.
+
+A reinscrição é esta: a representação é uma mediação avaliável. Vale pela relação que mantém com o real que pretende dizer.
+
+### 4. Dizer real e dito verdadeiro
+
+Todo o dizer é real enquanto ato.
+
+Uma proposição falsa existe. Um discurso inadequado acontece. Uma teoria errada circula. Uma linguagem fechada opera. Um sistema simbólico produz efeitos. Tudo isso pertence ao real enquanto atualização de humanos situados, mediações, instituições ou práticas.
+
+Mas a realidade do ato de dizer não garante a verdade do que é dito.
+
+Esta distinção é indispensável. Sem ela, confunde-se existência factual com validade descritiva. Porque algo é dito, passa a parecer verdadeiro. Porque circula, parece confirmado. Porque produz efeitos, parece medido. Porque estabiliza uma comunidade, parece ter vencido a prova do real.
+
+O falso modo de dizer esta zona é identificar dizer real e dito verdadeiro. A posição vê corretamente que nenhum discurso ocorre fora do real. Mas erra quando toma essa inscrição ontológica do ato por validação epistemológica do conteúdo.
+
+O pressuposto errado é este: se algo existe como discurso, então o seu conteúdo participa da verdade do real. Não participa. O ato pertence ao real; o dito deve ainda responder ao real.
+
+A reinscrição é esta: a proposição, a descrição, a teoria, a linguagem ou o sistema devem ser julgados pelo real que pretendem dizer, não apenas pela sua existência, circulação ou eficácia.
+
+### 5. Adequação e desadequação
+
+A representação mediada pode adequar-se ou desadequar-se ao real.
+
+Adequação não significa fusão. Não significa posse total. Não significa transparência absoluta. Significa coincidência operativa suficiente entre o que a representação diz e aquilo que o real permite, mostra, resiste, confirma ou desmente sob limite.
+
+Desadequação não é apenas falta de informação. Pode haver desadequação quando a representação diz demais, diz de menos, troca categorias, muda indevidamente de escala, confunde o objeto com a sua forma linguística, toma um apoio local por medida geral ou deixa um sistema interno ocupar o lugar do real.
+
+A adequação é relacional. Não está só na representação. Não está só na coerência do discurso. Não está só na intenção do sujeito. Não está só na aceitação comunitária. Não está só no funcionamento local. Está na relação entre representação e real.
+
+O falso modo de dizer a adequação é tratá-la como propriedade interna da representação. Essa posição vê corretamente que uma representação precisa de forma e consistência. Mas erra quando converte forma e consistência em medida suficiente.
+
+O pressuposto falso é que a boa organização interna equivale a ajustamento ao real. Não equivale. Pode haver organização perfeita de uma descrição errada.
+
+A reinscrição é esta: adequação é coincidência operativa suficiente entre representação e real sob limite; desadequação é falha dessa coincidência.
+
+### 6. Critério submetido ao real
+
+A diferença entre adequação e desadequação exige critério.
+
+Sem critério, não se distingue melhor e pior descrição. Tudo poderia valer por impressão, gosto, hábito, autoridade, pertença, utilidade, consenso ou coerência interna.
+
+Mas o critério não é soberano.
+
+O critério não é régua exterior ao real. Não é tribunal situado fora do mundo. Não é decisão arbitrária de uma comunidade. Não é garantia institucional. Não é forma lógica independente. Não é utilidade local elevada a verdade. Não é sistema a medir-se a si mesmo.
+
+O critério é necessário porque a representação precisa de medida. Mas só é legítimo enquanto se conserva submetido ao real que mede.
+
+Um critério desligado do real degrada-se. Pode degradar-se em coerência interna, convenção, consenso, autoridade, utilidade, linguagem ou fechamento sistémico. A degradação acontece quando o critério deixa de ser operação de medição da representação pelo real e passa a ser instância que decide internamente o que deve contar como real.
+
+O falso modo de dizer o critério é tratá-lo como tribunal soberano. Essa posição vê corretamente que sem medida não há julgamento. Mas erra quando separa a medida do campo que a deve regular.
+
+O pressuposto falso é que a medida pode validar-se a si mesma. Não pode. O critério deve permanecer medido pelo real.
+
+A reinscrição é esta: critério é operação de medição submetida ao real, não soberania sobre o real.
+
+### 7. A génese do falso critério
+
+Um falso critério raramente nasce como erro explícito.
+
+Normalmente nasce de uma função local legítima.
+
+A coerência organiza. Uma representação que se contradiz internamente perde força operativa. O consenso estabiliza circulação. Uma proposição isolada dificilmente se torna comunicável sem partilha. A autoridade transmite. Nem cada humano recomeça sozinho a prova de tudo. A utilidade resolve localmente. Certas formulações orientam práticas eficazes num campo limitado. A linguagem articula. Sem forma linguística, o dizer humano não se torna comunicável. O sistema conserva. Sem alguma estabilidade, não há continuidade operativa de conhecimento, prática ou transmissão.
+
+Nada disto é falso por si.
+
+O falso critério nasce quando uma destas funções deixa de servir a submissão ao real e passa a substituir o real como medida. A sequência é curta:
+
+> apoio local legítimo → autonomização → generalização indevida de escala → substituição do real como medida.
+
+Primeiro, uma função ajuda localmente. Depois, autonomiza-se. A seguir, é aplicada fora da escala em que era legítima. Por fim, passa a medir aquilo que apenas devia ajudar a medir.
+
+Assim se forma o falso critério.
+
+A coerência deixa de organizar a representação e passa a decidir a verdade. O consenso deixa de estabilizar circulação e passa a validar. A autoridade deixa de transmitir e passa a garantir. A utilidade deixa de resolver localmente e passa a substituir a adequação. A linguagem deixa de articular e passa a fundar. O sistema deixa de conservar e passa a medir-se a si mesmo.
+
+Há ainda outra génese, mais baixa e muitas vezes anterior:
+
+> má descrição do objeto → má formulação do problema → solução deslocada → critério falso estabilizado.
+
+O erro não começa sempre na conclusão. Começa frequentemente no primeiro gesto de descrição. Quando o objeto é mal descrito, o problema é mal formulado. Quando o problema é mal formulado, a solução já nasce deslocada. Quando essa solução se estabiliza, pode criar um critério interno aparentemente rigoroso, mas já desligado do real.
+
+Isto explica por que a correção não pode limitar-se a trocar um critério interno por outro. É preciso regressar ao objeto real. É preciso redescrever o que foi mal descrito, reformular o problema e só então avaliar a solução.
+
+Esta microsecção não abre crítica cultural, sociologia do consenso, teoria da autoridade ou crítica sistémica tardia. Serve apenas para mostrar que falsos critérios nascem por deslocação de funções reais. O capítulo bloqueia-os sem negar o que veem corretamente.
+
+A reinscrição é esta: cada apoio local deve regressar ao seu lugar. Coerência organiza; consenso circula; autoridade transmite; utilidade opera; linguagem diz; sistema estabiliza; o real mede.
+
+### 8. Verdade
+
+Só agora se pode falar de verdade.
+
+A verdade não deve abrir o capítulo. Ela nasce da cadeia:
+
+> representação mediada → representação avaliável → adequação/desadequação → critério submetido ao real.
+
+Verdade é a adequação da representação ao real sob critério operativo submetido ao próprio real.
+
+Esta formulação impede duas deformações.
+
+A primeira deformação é fazer da verdade uma propriedade interna da proposição. Nesse caso, basta que a proposição seja coerente, elegante, clara, formalmente bem construída ou integrada num sistema. Mas uma proposição pode ser formalmente exemplar e descrever mal o real.
+
+A segunda deformação é fazer da verdade uma validação externa ao real: consenso, autoridade, circulação, utilidade, tradição, prestígio, instituição, linguagem ou sistema. Mas nenhuma destas instâncias substitui a adequação.
+
+Cada posição vê algo verdadeiro. A coerência protege contra contradição. O consenso permite partilha. A autoridade pode conservar conhecimento. A utilidade mostra efeitos. A linguagem articula. O sistema preserva regularidades. Mas todas se deslocam quando deixam de servir o retorno ao real.
+
+A verdade não é coerência interna. Não é consenso. Não é autoridade. Não é utilidade. Não é elegância simbólica. Não é estabilidade cultural. Não é sucesso interno.
+
+A reinscrição é esta: verdade é adequação da representação ao real sob critério submetido ao real.
+
+### 9. Co-originariedade de verdade e erro
+
+A possibilidade da verdade implica a possibilidade do erro.
+
+Se a representação pode adequar-se, é porque também pode desadequar-se. Se não pudesse falhar, não haveria propriamente verdade como adequação. Haveria coincidência necessária, posse imediata ou infalibilidade. Mas a representação mediada não é posse imediata do real.
+
+Verdade e erro não são simétricos em valor. A verdade vale pela adequação; o erro vale apenas como falha dessa adequação. Mas ambos nascem da mesma estrutura: uma representação pretende dizer o real e pode ser medida por ele.
+
+O falso modo de dizer esta zona é imaginar uma verdade sem risco de erro: certeza institucional, evidência autoportante, posse subjetiva transparente, linguagem que se legitima a si mesma ou sistema que decide internamente a sua validade.
+
+Essa posição vê corretamente que a verdade precisa de estabilidade e resistência. Mas erra quando transforma estabilidade em infalibilidade.
+
+O pressuposto falso é que a verdade, para ser forte, deve excluir a possibilidade de falhar. A força da verdade está no contrário: poder ser medida pelo real e resistir a essa medida.
+
+A reinscrição é esta: sem possibilidade de erro, a verdade não é inteligível como adequação.
+
+### 10. Erro
+
+Erro, em sentido próprio neste capítulo, é desadequação da representação ao real sob critério válido.
+
+Não é simples ilusão. Não é simples ignorância. Não é simples insuficiência epistémica. Não é dano. Não é culpa. Não é mal moral. Não é mera incoerência interna.
+
+Há erro quando uma representação pretende dizer o real e falha nessa relação. A falha pode ser descritiva, categorial, escalar, linguística, sistémica, institucional ou criterial. Pode nascer por má descrição do objeto, por má formulação do problema, por generalização de uma função local, por autonomização da mediação ou por substituição do real por sistema.
+
+Mas o núcleo permanece um:
+
+> a representação deixa de responder adequadamente ao real que pretendia dizer.
+
+O falso modo de dizer o erro é reduzi-lo a falha psicológica. Essa posição vê corretamente que há enganos, ilusões, distrações e limites cognitivos. Mas erra quando confunde o plano subjetivo com a estrutura do erro representacional.
+
+Outro falso modo é reduzi-lo a falha moral. Essa posição vê corretamente que o erro pode ter consequências práticas graves. Mas erra quando transforma desadequação representacional em culpa precoce.
+
+A reinscrição é esta: o erro deve ser devolvido à relação representação-real. Só a partir daí poderá, em capítulos posteriores, tocar ação, dano, responsabilidade ou normatividade.
+
+### 11. Distinções internas do erro
+
+As distinções internas servem para impedir confusões. Não servem para abrir uma taxonomia total.
+
+**Erro e ilusão.** A ilusão pode ser aparência enganadora, configuração percetiva distorcida ou modo de apreensão que induz falsa representação. Mas só se torna erro em sentido próprio quando é assumida representacionalmente como descrição adequada do real.
+
+**Erro e insuficiência epistémica.** Não saber ainda não é errar. Saber pouco ainda não é errar. Estar em investigação ainda não é errar. O erro surge quando, apesar da insuficiência, se toma por adequada uma representação que não se adequa.
+
+**Erro e dano.** Dano é efeito real negativo. Pode decorrer de erro e pode revelar erro, mas não é idêntico ao erro. O erro é desadequação representacional. O dano pertence ao regime prático posterior.
+
+**Erro e erro moral.** O erro moral exige ação, responsabilidade, dever-ser e normatividade. Estes centros ainda não abriram. O Capítulo 7 fixa apenas a condição representacional sem a qual o regime moral se sujaria à partida.
+
+**Erro descritivo.** Ocorre quando o objeto é mal descrito.
+
+**Erro categorial.** Ocorre quando se aplica a um objeto uma categoria que não lhe pertence.
+
+**Erro de escala.** Ocorre quando uma função, solução ou critério válido num campo local é generalizado indevidamente.
+
+**Erro por autonomização da mediação.** Ocorre quando linguagem, símbolo, representação ou sistema deixam de mediar o real e passam a substituí-lo.
+
+**Erro por critério soberano.** Ocorre quando a medida deixa de estar submetida ao real.
+
+**Erro por substituição do real por sistema.** Ocorre quando o sistema conserva a sua coerência interna contra aquilo que o real mostra, limita ou desmente.
+
+A reinscrição é esta: todas estas formas regressam ao núcleo comum — desadequação da representação ao real sob critério válido.
+
+### 12. Falsos critérios
+
+Coerência, consenso, autoridade, utilidade, linguagem e sistema têm funções legítimas.
+
+A crítica não as ridiculariza. Não as nega. Não as elimina.
+
+Apenas as impede de ocupar o lugar do real.
+
+A coerência organiza. Uma representação sem mínima consistência interna perde capacidade de dizer. Mas a coerência não é verdade. Uma teoria pode ser coerente e falsa.
+
+O consenso circula. Permite partilha, transmissão e coordenação. Mas consenso não é validação. Uma comunidade inteira pode estabilizar erro.
+
+A autoridade transmite. Conserva trabalho, experiência e saber acumulado. Mas autoridade não é garantia. Uma instituição pode conservar uma descrição inadequada.
+
+A utilidade opera. Pode resolver localmente, orientar uma prática, acalmar um conflito, produzir efeitos eficazes. Mas utilidade local não é validade geral. O que funciona numa escala pode falhar noutra.
+
+A linguagem diz. Sem linguagem, a representação não se articula humanamente em forma comunicável. Mas linguagem não funda o real. Também pode dizer mal.
+
+O sistema estabiliza. Permite continuidade, organização e conservação. Mas sistema não mede por si. Um sistema pode conservar o erro que o mantém.
+
+A forma recorrente do falso critério é sempre a mesma:
+
+> uma função local legítima autonomiza-se, generaliza-se indevidamente e substitui o real como medida.
+
+Por isso, a fórmula disciplinar deve permanecer curta:
+
+> coerência organiza; consenso circula; autoridade transmite; utilidade opera; linguagem diz; sistema estabiliza; o real mede.
+
+A reinscrição é esta: todos os falsos critérios devem voltar ao seu estatuto de apoios subordinados da avaliação, nunca de critérios últimos.
+
+### 13. Correção
+
+A correção nasce porque a representação pode errar.
+
+Corrigir não é apenas trocar uma formulação por outra. Não é apenas tornar a teoria mais elegante. Não é apenas preservar a coerência de um sistema. Não é apenas mudar a linguagem. Não é apenas remendar uma categoria para salvar a arquitetura interna.
+
+Corrigir é regressar ao real.
+
+A correção exige que a representação volte ao objeto que pretendia dizer. Exige que se reconheça onde a descrição falhou, onde a categoria foi mal aplicada, onde a escala foi generalizada indevidamente, onde a linguagem substituiu o real, onde o sistema se protegeu de ser medido.
+
+Quando o erro começou por má descrição do objeto, a correção começa pela redescrição. Quando a má descrição gerou má formulação do problema, a correção exige reformular o problema. Quando a solução nasceu deslocada, a correção exige rever a solução. Quando essa solução estabilizou um critério falso, a correção exige desativar esse critério e regressar ao real.
+
+Por isso, a formulação obrigatória deve permanecer no corpo do texto:
+
+> corrigir é reinscrever representação e ação na medida do real, e não apenas reajustar um sistema interno.
+
+A ação aparece aqui apenas porque representações orientam práticas. Uma representação corrigida pode exigir correção da ação que dela depende. Mas o centro do capítulo continua a ser a representação julgável, não o agir.
+
+O falso modo de dizer a correção é tratá-la como reajuste interno. Essa posição vê corretamente que corrigir muitas vezes exige reorganizar elementos internos. Mas erra quando toma a reorganização por retorno ao real.
+
+A reinscrição é esta: correção é reinscrição da representação no real que a mede.
+
+### 14. Ação apenas como pressão terminal
+
+Uma representação verdadeira ou errada pode orientar ação.
+
+A descrição errada de um problema pode produzir uma solução errada. Uma categoria errada pode justificar uma prática errada. Um erro de escala pode transformar uma utilidade local numa regra destrutiva. Uma linguagem autónoma pode orientar ação desligada do objeto real. Um sistema pode conservar práticas por critérios internos que já não respondem ao real.
+
+Por isso, a correção da representação toca terminalmente a ação.
+
+Mas o Capítulo 7 não abre ainda a ação como centro.
+
+A ação ainda não é o centro. O dano ainda não é o centro. A liberdade ainda não é o centro. A responsabilidade ainda não é o centro. O dever-ser ainda não é o centro. A normatividade ainda não é o centro. O bem, o mal, a dignidade e a vida boa ainda não são centros próprios.
+
+O falso modo de dizer esta passagem é transformar correção em ética antecipada. A posição vê corretamente que verdade e erro não são indiferentes para a prática. Mas erra quando passa imediatamente de correção representacional para norma, culpa, dever ou responsabilidade.
+
+A reinscrição é esta: a ação entra apenas como pressão terminal. O capítulo fixa a condição representacional do regime prático posterior, mas não o desenvolve.
+
+### 15. Fecho e ponte baixa posterior
+
+O percurso do Capítulo 7 pode ser comprimido.
+
+A representação mediada torna-se avaliável porque pretende dizer o real sem coincidir com ele. Ao ser avaliável, pode adequar-se ou desadequar-se. Essa diferença exige critério. O critério só é legítimo se estiver submetido ao real. Quando há adequação sob esse critério, há verdade. Quando há desadequação, há erro. Quando o erro é enfrentado, a correção exige reinscrição da representação no real.
+
+A verdade não é soberana face ao real. O critério não é soberano face ao real. O erro não é categoria psicológica ou moral como centro próprio. A correção não é técnica interna de preservação do sistema.
+
+O real mede.
+
+O capítulo deve parar antes da ação, dano, liberdade, responsabilidade, dever-ser, normatividade e vida boa como centros próprios.
+
+A entrega é apenas a pergunta:
+
+> se a representação pode orientar ação e pode estar adequada ou desadequada ao real, como deve ser pensada a ação situada que atualiza consequências reais?
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| representação como verdade por si | vê que a representação fixa e torna operável o apreendido | transforma fixação em verdade | representar já possuiria o real representado | representação é mediação avaliável pelo real |
+| dizer real como dito verdadeiro | vê que todo o dizer é ato real | confunde existência factual do dizer com validade do dito | o discurso existente garantiria o conteúdo verdadeiro | o ato é real; o dito deve adequar-se ao real |
+| coerência interna como verdade | vê que a representação precisa de consistência | faz da consistência critério suficiente | organização interna equivaleria a adequação | coerência organiza; o real mede |
+| consenso como validação | vê que a verdade circula e precisa de partilha | toma aceitação por verdade | estabilização social substituiria a medida do real | consenso circula; o real confirma ou desmente |
+| autoridade como garantia | vê que a autoridade pode transmitir saber | faz da fonte garantia última | autoridade reconhecida não poderia falhar | autoridade transmite; o real mede |
+| utilidade como verdade | vê que representações têm efeitos práticos | identifica funcionamento local e validade geral | funcionar bastaria para ser verdadeiro | utilidade opera localmente; verdade exige adequação ao real |
+| linguagem como fundamento | vê que o real humano é dito por linguagem | faz da linguagem origem ou medida | aquilo que a linguagem articula seria o limite do real | linguagem diz; o real não é fundado por ela |
+| sistema como medida | vê que o conhecimento se organiza em sistemas | deixa o sistema medir-se a si mesmo | coerência e conservação sistémica bastariam | sistema estabiliza; o real mede o sistema |
+| critério como tribunal soberano | vê que sem critério não há julgamento | separa o critério do real | a medida poderia validar-se a si própria | critério é operação submetida ao real |
+| erro como falha psicológica | vê que há ilusão, engano, distração e limite cognitivo | reduz o erro à mente individual | erro seria defeito subjetivo | erro é desadequação da representação ao real |
+| erro como falha moral | vê que o erro pode ter consequências práticas | transforma erro representacional em culpa | falhar no dizer já seria falhar moralmente | erro moral pertence a plano posterior; aqui há desadequação representacional |
+| correção como reajuste interno | vê que corrigir pode exigir reorganização | toma coerentização por retorno ao real | salvar o sistema seria corrigir | corrigir é reinscrever representação e ação na medida do real |
+| correção como ética antecipada | vê que correção toca a ação | abre dever-ser, responsabilidade e normatividade cedo demais | tocar ação já seria fundar ética | ação entra apenas como pressão terminal posterior |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro continua a ser:
+
+> representação mediada julgável sob critério submetido ao real.
+
+### cadeia preservada
+
+A cadeia preservada é:
+
+> representação mediada → representação avaliável → dizer real / dito verdadeiro → adequação/desadequação → critério submetido ao real → génese dos falsos critérios → verdade → co-originariedade de verdade e erro → erro → distinções internas do erro → falsos critérios → correção → ação apenas como pressão terminal.
+
+### microausência tratada
+
+Foi tratada a génese dos falsos critérios:
+
+> apoio local legítimo → autonomização → generalização indevida de escala → substituição do real como medida.
+
+E:
+
+> má descrição do objeto → má formulação do problema → solução deslocada → critério falso estabilizado.
+
+A microsecção foi mantida curta, estrutural e subordinada ao centro. Não abriu história da filosofia, crítica cultural, sociologia do consenso, teoria da autoridade, pragmatismo, crítica da academia ou crítica sistémica tardia.
+
+### estatuto de P33 preservado
+
+`P33` entrou como fixação do critério submetido ao real.
+
+O critério é necessário, mas não soberano. Quando se desliga do real, degrada-se em coerência interna, convenção, consenso, autoridade, utilidade, linguagem ou fechamento sistémico.
+
+### estatuto de P34 preservado
+
+`P34` entrou como verdade:
+
+> adequação da representação ao real sob critério submetido ao real.
+
+A verdade não foi reduzida a coerência interna, consenso, autoridade, utilidade, elegância simbólica, linguagem ou estabilidade cultural.
+
+### estatuto de P35 preservado
+
+`P35` entrou como co-originariedade de verdade e erro no plano da representação julgável.
+
+Verdade e erro não foram tratados como simétricos em valor. Foram tratados como possibilidades da mesma estrutura: a representação pode adequar-se ou desadequar-se ao real.
+
+### estatuto de P36 preservado
+
+`P36` entrou como erro:
+
+> desadequação da representação ao real sob critério válido.
+
+O erro foi distinguido de ilusão, insuficiência epistémica, dano, erro moral e mera incoerência interna. As distinções internas foram mantidas sob controlo, sem transformar o capítulo em taxonomia total.
+
+### estatuto de P37 preservado
+
+`P37` entrou como correção:
+
+> reinscrição da representação e da ação na medida do real.
+
+A ação apareceu apenas como pressão terminal. Não foram abertos ética, dano, liberdade, responsabilidade, dever-ser ou normatividade como centros.
+
+### crítica subordinada
+
+A crítica acompanha o positivo e não o substitui.
+
+Cada posição-tipo foi tratada segundo a ordem:
+
+1. determinação positiva;
+2. falso modo de dizer;
+3. acerto local da posição;
+4. deslocação;
+5. pressuposto falso;
+6. reinscrição no real.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas como operações filosóficas típicas, não como história da filosofia.
+
+O capítulo não se transformou em epistemologia abstrata, teoria geral da verdade, teoria geral do erro, teoria geral do critério, crítica cultural, crítica sistémica, sociologia do conhecimento ou comentário de autores.
+
+### notas sob controlo
+
+Não foram usadas notas de rodapé.
+
+Se vierem a ser usadas na escrita final, devem apenas localizar tradições, indicar variações internas, proteger contra simplificação ou remeter para crítica posterior. Não podem carregar o argumento principal.
+
+### capítulos posteriores não abertos
+
+Ficaram fora:
+
+- ação como centro;
+- dano;
+- liberdade;
+- responsabilidade;
+- dever-ser;
+- normatividade;
+- dignidade;
+- vida boa;
+- cultura;
+- instituição;
+- sistema como objeto crítico próprio;
+- crítica sistémica tardia.
+
+### fórmula final
+
+> O Capítulo 7 fixa que uma representação mediada só vale como verdadeira se se adequar ao real sob critério submetido ao próprio real; quando se desadequa, há erro; e corrigir é reinscrever a representação e a ação na medida do real, sem substituir essa medida por coerência interna, consenso, autoridade, utilidade, linguagem ou sistema.
+
 <a id="cap-07-verdade-erro-criterio-correcao-06pos-reescrita-grau2-md"></a>
 ### 06pos_reescrita_grau2
 
@@ -30853,7 +34315,7 @@ Ainda podem exigir vigilância futura:
 ## CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional
 
 - Pasta: `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional`
-- Ficheiros incluídos: `8`
+- Ficheiros incluídos: `9`
 
 ### Índice interno da pasta
 
@@ -30865,6 +34327,7 @@ Ainda podem exigir vigilância futura:
 - [05_decisao_local_do_capitulo](#cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-05-decisao-local-do-capitulo-md) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/05_decisao_local_do_capitulo.md`
 - [06_primeira_versao_controlada_de_escrita](#cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-06-primeira-versao-controlada-de-escrita-md) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/06_primeira_versao_controlada_de_escrita.md`
 - [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP8](#cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap8-md) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP8.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/07_escrita_final_preparada_com_critica_acompanhante.md`
 
 <a id="cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -35936,17 +39399,548 @@ O que ficou ganho é apenas o chão negativo sem o qual o Capítulo 9 não poder
 > **reinscrição no real:** consciência, pensamento, fala, linguagem, símbolo, representação e sentido só permanecem legítimos enquanto reconduzidos ao real;  
 > **entrega:** a ação situada só pode abrir depois deste reaperto, e apenas se não nascer de uma consciência fechada no símbolo.
 
+<a id="cap-08-consciencia-reinscrita-fecho-limitrofe-bloco-mediacional-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 8 — Consciência reinscrita e fecho limítrofe do bloco mediacional
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 8 — Consciência reinscrita e fecho limítrofe do bloco mediacional**.
+
+Não é ainda a redação final publicada do capítulo. A sua função é converter o ganho do `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP8.md` numa forma mais próxima de peça final, incorporando no próprio movimento expositivo a crítica local necessária.
+
+O Capítulo 8 não abre uma nova região positiva. É um **minicapítulo / fecho limítrofe**. A sua tarefa é reapertar a consciência depois da mediação, da representação, do símbolo, da linguagem, da verdade, do erro e da correção. O capítulo deve mostrar que pensar, falar, representar e simbolizar são operações legítimas apenas enquanto reconduzem ao real. Quando a consciência passa a viver na representação simbólica do símbolo, a mediação deixa de mediar e começa a substituir aquilo que deveria deixar aparecer, dizer ou corrigir.
+
+O `07` pergunta, portanto, como escrever o Capítulo 8 de modo a reapertar consciência, pensamento, fala, representação, símbolo e linguagem no real e, ao mesmo tempo, mostrar que posições ficam bloqueadas, porquê, com que pressupostos errados, e como são reinscritas no real.
+
+A regra de fundo permanece ativa: **os fragmentos validam a estrutura, não a estrutura os fragmentos**. Por isso, este ficheiro não usa afinidade verbal como prova. `F0276`, `F0277` e `F0278` entram apenas quando ajudam a tornar mais legível o centro próprio do Capítulo 8 ou quando bloqueiam diretamente um falso dizer que ameaça esse centro. Não comandam o capítulo.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 8;
+- transformar o capítulo em capítulo pleno;
+- transformar o capítulo em teoria geral da consciência;
+- transformar o capítulo em teoria do pensamento;
+- transformar o capítulo em teoria da fala;
+- transformar o capítulo em filosofia da linguagem;
+- transformar o capítulo em semiótica;
+- transformar o capítulo em repetição do Capítulo 6;
+- transformar o capítulo em repetição do Capítulo 7;
+- abrir ação, dano, liberdade, responsabilidade, dever-ser ou normatividade como centros;
+- antecipar o Capítulo 9;
+- abrir crítica cultural, institucional, tecnológica ou sistémica;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo.
+
+O capítulo continua curto, limítrofe e negativo na sua passagem. Ele não decide a teoria da consciência, da linguagem, do símbolo, da cultura, do sistema ou da ação. Apenas fecha a banda mediacional-epistemológica, impedindo que a consciência mediada perca o real que a mede.
+
+### relação com o 06
+
+O `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP8.md` fixou o capítulo como fecho limítrofe estruturalmente suficiente.
+
+O `07` não reabre essa decisão. Não transforma o minicapítulo em capítulo pleno. Não acrescenta nova região. Apenas prepara a forma final de escrita e integra a crítica acompanhante, tornando mais explícita a economia local:
+
+> chão mediacional e corretivo já tratado → consciência reinscrita → pensamento e fala situados → risco de vida na representação simbólica do símbolo → travões contra consciência abstrata → mediação legítima versus substituição simbólica → fecho limítrofe → entrega negativa ao Capítulo 9.
+
+O ponto que exige maior legibilidade é a diferença entre **reaperto** e **crítica desenvolvida**. Reapertar a consciência no real não é ainda criticar cultura, sistema, instituição, técnica ou linguagem como regimes históricos. É apenas impedir que a consciência, depois de toda a mediação, passe a viver na mediação como se ela fosse o real.
+
+### regra da crítica acompanhante
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+A exposição deve dizer primeiro o que é: consciência reinscrita no real depois da mediação. Só depois deve mostrar o que esse passo impede.
+
+A crítica não deve comandar a ordem do capítulo. Deve acompanhar cada determinação positiva e reconduzir o falso dizer ao real que a mediação deveria servir.
+
+### regra de minicapítulo
+
+> o Capítulo 8 deve terminar precisamente quando a tentação de continuar cresce.
+
+O fecho não pode ser expansão. A escrita deve parar antes de ação, liberdade, dano, responsabilidade, normatividade, cultura, instituição, sistema ou crítica sistémica se tornarem corpos próprios.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+> consciência reinscrita no real e fecho limítrofe do bloco mediacional.
+
+Formulação desenvolvida:
+
+> a consciência humana, depois de representação, linguagem, símbolo, verdade, erro e correção terem sido disciplinados, não pode ser pensada como ponto puro, interioridade soberana, linguagem fechada ou vida no símbolo; deve ser reapertada no real como consciência situada, mediada, simbólica, representacional e corrigível.
+
+Formulação operacional:
+
+> mediação e correção pressupostas → consciência reinscrita → pensamento/fala situados → risco de vida no símbolo → mediação versus substituição → fecho limítrofe → passagem negativa para ação situada.
+
+### 2. Cadeia positiva
+
+> chão pressuposto — humano situado, mediação simbólico-linguística e verdade/correção já tratadas → consciência reinscrita → pensamento, fala e representação como acontecimentos situados → vida na representação simbólica do símbolo → sensor, deteção, estrutura e real como travões à consciência abstrata → mediação legítima versus substituição simbólica → fecho limítrofe do bloco mediacional → entrega negativa ao Capítulo 9.
+
+### 3. Fórmula axial do capítulo
+
+- **ser no real:** consciência reinscrita no real depois da mediação, da representação, da linguagem e da correção terem sido disciplinadas;
+- **dizer do ser:** consciência pura, pensamento desencarnado, fala desligada do ser, símbolo autónomo, linguagem como mundo suficiente, representação simbólica do símbolo, mediação substitutiva, sistema reflexivo fechado;
+- **erro da proposição não real:** deixar a consciência viver numa mediação que já não medeia o real, mas se substitui ao real por representação, símbolo, linguagem, coerência interna ou circulação;
+- **reinscrição no real:** consciência, pensamento, fala, símbolo, linguagem e representação como operações situadas, mediadas e corrigíveis, legítimas apenas enquanto reconduzem ao real.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — chão pressuposto
+
+- **passo positivo:** o capítulo recebe como chão já tratado o humano situado, a mediação simbólico-linguística e o regime de verdade, erro, critério e correção submetido ao real.
+- **posição-tipo bloqueada:** repetição do Capítulo 6 ou do Capítulo 7.
+- **acerto local da posição:** vê corretamente que consciência, linguagem, símbolo, representação, verdade e correção estão implicados no fecho do bloco.
+- **deslocação:** reabre esses elementos como se ainda fossem centros por constituir.
+- **pressuposto errado:** supõe que o fecho exige repetir a constituição da mediação ou da verdade.
+- **crítica curta:** o Capítulo 8 não reconstrói a mediação nem a correção; pressupõe-nas para reapertar a consciência no real.
+- **reinscrição:** linguagem, símbolo, representação, verdade e correção entram apenas como chão herdado do fecho limítrofe.
+
+#### Ponto crítico 2 — consciência reinscrita
+
+- **passo positivo:** a consciência que chega aqui já é situada, mediada, simbólica, representacional e corrigível.
+- **posição-tipo bloqueada:** consciência como ponto puro ou presença imediata de si.
+- **acerto local da posição:** vê corretamente que há autorrelação e vida consciente.
+- **deslocação:** transforma a consciência em começo limpo, tribunal ou interioridade soberana.
+- **pressuposto errado:** supõe que a consciência pode ser pensada antes da cadeia real que a torna possível.
+- **crítica curta:** não se nega a consciência; nega-se a sua pureza soberana.
+- **reinscrição:** a consciência é reapertada no real como processo situado, mediado e corrigível.
+
+#### Ponto crítico 3 — pensamento, fala e representação como acontecimentos situados
+
+- **passo positivo:** pensar, falar e representar acontecem no real como modos situados de ser, apoiados por estruturas representacionais e simbólicas que só valem enquanto mantêm correspondência com o real.
+- **posição-tipo bloqueada:** pensamento desencarnado e fala desligada do ser.
+- **acerto local da posição:** vê corretamente que pensamento e fala têm ordem própria e podem operar com fluidez.
+- **deslocação:** retira essa operação do modo situado de ser em que ocorre.
+- **pressuposto errado:** supõe que pensar ou falar são operações puras, separáveis da situação real de quem pensa e fala.
+- **crítica curta:** a fluidez do pensamento ou da fala não prova soberania interior; mostra operação situada de estruturas mediacionais.
+- **reinscrição:** `F0276` só entra para mostrar pensamento e fala como acontecimentos situados, sem teoria do pensamento ou da fala.
+
+#### Ponto crítico 4 — vida na representação simbólica do símbolo
+
+- **passo positivo:** o risco central é que a consciência deixe de viver na relação ao real e passe a viver na representação simbólica do símbolo.
+- **posição-tipo bloqueada:** símbolo autónomo, linguagem como mundo suficiente e simbolização sem representado.
+- **acerto local da posição:** vê corretamente que o humano opera por símbolos e que os símbolos estabilizam relações.
+- **deslocação:** o símbolo deixa de mediar o real e passa a remeter para outro símbolo, depois para outro, até a mediação se fechar em si.
+- **pressuposto errado:** supõe que a circulação simbólica basta para manter a relação ao que é.
+- **crítica curta:** viver na representação simbólica do símbolo é perder a relação entre símbolo e real.
+- **reinscrição:** `F0277` entra como diagnóstico crítico local, não como denúncia cultural, crítica da linguagem ou moralização.
+
+#### Ponto crítico 5 — sensor, deteção, estrutura e real como travões
+
+- **passo positivo:** consciência sem relação, deteção, diferença, afetação ou estrutura fica abstrata.
+- **posição-tipo bloqueada:** consciência abstrata sem sensor, sem deteção, sem relação e sem real.
+- **acerto local da posição:** vê corretamente que a consciência possui interioridade e capacidade de autorrelação.
+- **deslocação:** remove as condições reais de ocorrência dessa interioridade e dessa autorrelação.
+- **pressuposto errado:** supõe que a consciência pode subsistir como pura interioridade formal.
+- **crítica curta:** sem relação ao real, deteção e estrutura, a consciência perde condição real de ocorrência.
+- **reinscrição:** `F0278` só entra como travão contra consciência abstrata, sem reabrir corpo, perceção ou vida organizada.
+
+#### Ponto crítico 6 — mediação legítima versus substituição simbólica
+
+- **passo positivo:** a mediação é legítima quando reconduz ao real; torna-se substituição quando passa a medir-se por si mesma.
+- **posição-tipo bloqueada:** mediação substitutiva.
+- **acerto local da posição:** vê corretamente que representação, símbolo e linguagem organizam, estabilizam, articulam e comunicam.
+- **deslocação:** faz dessas operações a medida do real.
+- **pressuposto errado:** supõe que coerência interna, circulação, autoridade ou utilidade bastam para validar a mediação.
+- **crítica curta:** a mediação ainda medeia quando reconduz ao real; torna-se substituição quando a consciência passa a mover-se apenas entre símbolos, representações e signos que já não respondem ao real.
+- **reinscrição:** mediação, linguagem, símbolo e representação regressam ao seu estatuto local: operações subordinadas ao real.
+
+#### Ponto crítico 7 — fecho limítrofe do bloco mediacional
+
+- **passo positivo:** o capítulo fecha a banda mediacional-epistemológica, sem criar novo capítulo positivo.
+- **posição-tipo bloqueada:** fechamento mediacional como crítica sistémica antecipada.
+- **acerto local da posição:** vê corretamente que há risco de fechamento simbólico.
+- **deslocação:** transforma o risco local em crítica cultural, institucional, tecnológica ou sistémica desenvolvida.
+- **pressuposto errado:** supõe que identificar o risco já autoriza analisar os regimes sociais de cristalização desse risco.
+- **crítica curta:** reapertar não é ainda criticar o sistema; é impedir que a mediação se comporte como sistema antes de agir.
+- **reinscrição:** o fecho limítrofe encerra consciência soberana, linguagem soberana, símbolo autónomo, representação sem real, verdade sem correção e correção sem reinscrição.
+
+#### Ponto crítico 8 — entrega negativa ao Capítulo 9
+
+- **passo positivo:** o Capítulo 8 prepara a ação apenas negativamente: a ação não deve nascer de uma consciência fechada no símbolo.
+- **posição-tipo bloqueada:** ação como conclusão imediata.
+- **acerto local da posição:** vê corretamente que consciência, representação e correção podem orientar ação.
+- **deslocação:** transforma a passagem em abertura de ação, liberdade, dano, responsabilidade ou normatividade.
+- **pressuposto errado:** supõe que representação corrigida produz automaticamente ação situada.
+- **crítica curta:** a ação não é simples produto da representação; abre plano próprio de atualização efetiva no real.
+- **reinscrição:** o capítulo entrega apenas a pergunta do Capítulo 9, sem a responder.
+
+### 5. Posições-tipo bloqueadas
+
+1. **Consciência como ponto puro:** a consciência é pensada como começo limpo, primeiro, interior ou exterior à cadeia real.
+2. **Consciência como presença imediata de si:** a autorrelação é tratada como posse transparente de si.
+3. **Pensamento desencarnado:** pensar é separado do ato situado de ser no real.
+4. **Fala desligada do ser:** a fala é tratada como discurso solto, exterior ao modo de ser em que ocorre.
+5. **Símbolo autónomo:** o símbolo dispensa aquilo que simboliza.
+6. **Linguagem como mundo suficiente:** a linguagem torna-se mundo próprio onde o real se dissolve.
+7. **Vida na representação simbólica do símbolo:** a consciência vive já não no real, nem sequer no símbolo como mediação do real, mas na representação simbólica do próprio símbolo.
+8. **Mediação substitutiva:** representação, símbolo e linguagem deixam de reconduzir ao real e passam a medir-se por coerência interna, circulação, autoridade ou utilidade.
+9. **Consciência abstrata sem sensor/deteção/relação:** a consciência é pensada sem relação real, deteção, afetação ou estrutura.
+10. **Fechamento mediacional como crítica sistémica antecipada:** a crítica da vida no símbolo é transformada em crítica cultural, institucional, tecnológica ou sistémica.
+11. **Ação como conclusão imediata:** o reaperto da consciência é tomado como autorização para abrir ação, liberdade, dano, responsabilidade ou normatividade.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+- Posições da consciência veem corretamente que há autorrelação, mas erram quando fazem dela ponto puro.
+- Posições da linguagem veem corretamente que pensar e falar são mediacionais, mas erram quando fazem da linguagem mundo suficiente.
+- Posições simbólicas veem corretamente que o símbolo estabiliza e orienta, mas erram quando desligam o símbolo do representado.
+- Posições representacionalistas veem corretamente que a consciência opera por representação, mas erram quando a representação se torna representação de representação sem real.
+- Posições do sistema veem corretamente que mediações podem estabilizar coerência, mas erram quando fazem da coerência interna medida suficiente.
+- Posições críticas da cultura veem corretamente que há fechamento simbólico, mas erram quando antecipam uma crítica sistémica que o Capítulo 8 ainda não pode desenvolver.
+- Posições práticas veem corretamente que a consciência orienta ação, mas erram quando fazem da ação simples consequência da representação corrigida.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições só entram, se entrarem, como exemplos discretos de posições-tipo. Nunca podem ser eixo do capítulo.
+
+Formulação admissível:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que fazem da consciência, da linguagem, do símbolo, da mediação ou do sistema reflexivo o lugar primeiro da inteligibilidade. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: transformar uma mediação derivada em ponto puro, mundo suficiente ou substituto do real.
+
+Na versão preparada, não há necessidade de nota histórica. O argumento principal deve ficar no corpo do texto.
+
+### 8. Economia de notas
+
+As notas, se forem usadas em redação final, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo tem variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Neste ficheiro, as notas são dispensadas. Tudo o que é necessário para compreender o argumento fica no corpo do texto.
+
+### 9. Travões obrigatórios
+
+- não regressar ao Capítulo 4 como teoria da consciência;
+- não regressar ao Capítulo 6 como teoria da linguagem/símbolo;
+- não repetir o Capítulo 7 como verdade/erro/correção;
+- não transformar consciência em ponto puro;
+- não transformar pensamento em operação desencarnada;
+- não transformar fala em discurso solto;
+- não transformar símbolo em mundo autónomo;
+- não transformar linguagem em mundo suficiente;
+- não transformar mediação em substituto do real;
+- não abrir crítica sistémica;
+- não abrir ação;
+- não abrir normatividade;
+- não moralizar a vida no símbolo.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 8 não pergunta simplesmente “o que é a consciência?”, “o que é a linguagem?”, “o que é o símbolo?” ou “o que é a ação?”. Essas perguntas já pertencem a regiões diferentes ou a capítulos que não devem ser reabertos aqui.
+
+A pergunta própria é mais estreita:
+
+> depois de a mediação, a representação, a linguagem, o símbolo, a verdade, o erro e a correção terem sido disciplinados, que resta dizer da consciência antes de passar à ação?
+
+A resposta mínima é esta:
+
+> a consciência deve ser reapertada no real para não viver na representação simbólica do símbolo.
+
+O capítulo nasce, portanto, depois de muito já ter sido tratado. Não funda a consciência. Não funda a linguagem. Não funda o símbolo. Não funda o critério. Não funda a correção. Recebe tudo isso como chão disciplinado e pergunta apenas se a consciência, ao atravessar essa mediação, permanece reconduzida ao real ou se começa a viver na mediação como se a mediação bastasse.
+
+Este é o seu estatuto: fecho limítrofe. Não crescimento. Não nova cabeça. Não teoria. Um reaperto.
+
+### 2. Chão pressuposto: mediação e correção já tratadas
+
+O Capítulo 8 pressupõe os ganhos dos capítulos anteriores do bloco mediacional. A representação já foi pensada como fixação mediada do apreendido. O símbolo já foi pensado como unidade operativa de mediação. A linguagem já foi pensada como articulação e comunicação do apreendido. A verdade, o erro, o critério e a correção já foram reinscritos no real.
+
+Por isso, o capítulo não pode reabrir linguagem, símbolo, representação, verdade ou correção como centros. Quando o faz, perde o seu estatuto. Repete o Capítulo 6, se regressa à constituição da mediação. Repete o Capítulo 7, se regressa ao regime da verdade e do erro. Abre indevidamente o Capítulo 9, se transforma correção em ação.
+
+O chão herdado tem uma função simples: permitir que a consciência seja vista depois da mediação. A consciência que chega aqui não é pura. Chega já atravessada por representação, símbolo, linguagem, verdade e correção. A crítica local bloqueia a tentação de fazer desse atravessamento uma soberania nova. O que já foi mediado deve continuar submetido ao real.
+
+Assim, o capítulo começa por uma disciplina negativa: não reabrir aquilo que já foi constituído. A mediação fica pressuposta. A correção fica pressuposta. O que se escreve agora é o reaperto da consciência que as atravessa.
+
+### 3. Consciência reinscrita
+
+A consciência humana já não pode ser pensada como ponto puro. O caminho anterior tornou isso impossível.
+
+A consciência que este capítulo recebe é consciência situada, mediada, simbólica, representacional e corrigível. Ela não está fora do real. Não fala de fora do real. Não julga o real a partir de uma posição exterior. Também não é apenas fluxo interior fechado sobre si. É um modo reflexivo situado que se tornou capaz de representar, simbolizar, falar, julgar e corrigir, mas só permanece legítimo enquanto essas operações se mantêm reconduzidas ao real.
+
+A posição que faz da consciência um ponto puro vê algo real: há autorrelação, há vida consciente, há capacidade de pensamento e de retorno sobre o que se pensa. Mas desloca esse acerto quando transforma a consciência em começo absoluto. Faz começar cedo demais aquilo que, no percurso, só pode aparecer depois de corpo herdado, apreensão, memória, representação, linguagem, símbolo, verdade e correção.
+
+A consciência não é negada. É negada a sua pureza soberana.
+
+Reinscrita no real, a consciência torna-se mais exigente, não menos. Ela já não pode refugiar-se numa interioridade limpa. O que pensa deve poder responder ao real. O que fala deve poder reconduzir-se ao ser efetivo em que a fala ocorre. O que simboliza deve poder remeter para aquilo que simboliza. O que corrige deve poder voltar ao real e não apenas ao sistema interno das suas representações.
+
+### 4. O falso ponto puro da consciência
+
+Dizer que a consciência não é ponto puro bloqueia uma família de posições.
+
+Essas posições podem tomar formas diferentes. Podem tratar a consciência como começo limpo. Podem tratá-la como interioridade transparente. Podem tratá-la como presença imediata de si. Podem tratá-la como tribunal exterior. Podem tratá-la como origem do campo onde o real depois aparece.
+
+O problema não é reconhecer a consciência. O problema é fazê-la começar cedo demais. Quando a consciência é colocada na cabeça da cadeia, tudo o que a constitui passa a parecer derivado dela: corpo, apreensão, memória, representação, linguagem, símbolo, verdade, erro e correção. O percurso fica invertido. A mediação deixa de ser condição real situada e passa a ser produto de uma consciência suposta pura.
+
+O Capítulo 8 corrige essa inversão sem fazer uma teoria da consciência. Ele apenas recorda a ordem que já foi ganha: a consciência chega depois de localidade, apreensão, corporeidade herdada, estabilização, representação, mediação, linguagem, símbolo, verdade e correção. Não está fora disso. Não domina isso a partir de cima. É nessa cadeia que se tornou possível.
+
+Por isso, a crítica local não é anti-consciência. É anti-soberania da consciência.
+
+A fórmula é seca:
+
+> não se nega a consciência; nega-se a sua pureza soberana.
+
+### 5. Pensamento, fala e representação como acontecimentos situados
+
+Pensar e falar acontecem no real. Não são operações suspensas num espaço puro. Quando alguém pensa, esse pensamento ocorre como modo situado de ser. Quando alguém fala, essa fala ocorre num corpo, numa situação, numa relação, numa cadeia de representação e símbolo que não se inventa a si mesma a partir do nada.
+
+`F0276` apoia este ponto apenas nesta medida: ajuda a mostrar que pensamento e fala não precisam de ser tratados como atos soberanos de uma interioridade limpa. A fala pode ser fluida porque estruturas representacionais e simbólicas operam situadamente. O pensamento pode acompanhar a fala porque há correspondência real suficiente entre essas estruturas e o modo de ser em que ocorrem. Mas este apoio não autoriza teoria do pensamento, teoria da fala, teoria da linguagem ou teoria da ação.
+
+A posição do pensamento desencarnado vê corretamente que pensar tem ordem própria. A posição da fala desligada do ser vê corretamente que a fala pode ganhar autonomia formal. Mas ambas se deslocam quando separam pensamento e fala do modo situado de ser em que acontecem.
+
+Pensar não prova uma interioridade soberana. Falar não prova um discurso solto. Representar não prova posse do real. Pensamento, fala e representação são acontecimentos situados que só conservam legitimidade enquanto respondem ao real que neles se pensa, se diz ou se representa.
+
+Deste modo, a consciência é reapertada: não basta que pense; importa que o pensamento permaneça em relação ao real. Não basta que fale; importa que a fala não se solte do ser efetivo de quem fala e daquilo que tenta dizer. Não basta que represente; importa que a representação não passe a representar apenas outras representações.
+
+### 6. Vida na representação simbólica do símbolo
+
+O risco central do Capítulo 8 é este:
+
+> a consciência perde-se quando deixa de viver na relação ao real e passa a viver na representação simbólica do símbolo.
+
+`F0277` dá o apoio principal a esta formulação. O seu valor não está em abrir crítica cultural, nem em denunciar a linguagem, nem em moralizar o símbolo. O seu valor é mais baixo e mais preciso: mostrar o risco de usar símbolos sem saber o que representam, de escrever mal o real, de substituir a realidade fáctica pela circulação interna da mediação.
+
+O símbolo é legítimo enquanto media. A linguagem é legítima enquanto articula. A representação é legítima enquanto fixa o apreendido. O sentido é legítimo enquanto torna comunicável uma relação ao real. Mas todos estes elementos se tornam perigosos quando a consciência deixa de perguntar pelo real que neles devia ser retomado.
+
+A posição simbólica vê corretamente que o humano não vive apenas por contacto imediato. Vive também por representação, símbolo, linguagem e sentido. O erro começa quando esses meios deixam de ser meios. O símbolo passa a remeter para outro símbolo. A linguagem passa a circular como mundo próprio. A representação passa a duplicar-se em representação de representação. A consciência passa então a mover-se num espaço mediacional que conserva forma, circulação e aparente inteligibilidade, mas perdeu o representado.
+
+Não é preciso moralizar este risco. Não se trata de acusar quem usa símbolos. A vida humana precisa deles. O problema é outro: quando a mediação deixa de mediar o real, a consciência pode permanecer ativa e, ainda assim, estar desligada daquilo que pretende dizer.
+
+Viver na representação simbólica do símbolo é perder a relação entre símbolo e real.
+
+### 7. Sensor, deteção, estrutura e real como travões à consciência abstrata
+
+A consciência sem relação, deteção, diferença, afetação ou estrutura fica abstrata. Pode conservar o nome de consciência, mas perde as condições reais da sua ocorrência.
+
+`F0278` entra apenas como travão contra essa abstração. A referência a sensor e deteção não abre uma teoria do corpo. Não regressa ao Capítulo 3. Não faz da perceção o centro do fecho. Serve apenas para impedir que a consciência seja pensada como interioridade sem relação real.
+
+A consciência não é puro ponto que se acende. Ela exige relação. Exige diferença. Exige algo que afete, algo que seja detetável, algo que faça resistência, algo que dê estrutura à ocorrência consciente. Sem isso, a consciência torna-se nome vazio para uma interioridade desligada.
+
+A posição da presença imediata de si vê corretamente que a consciência se relaciona consigo. Mas erra quando pensa essa relação como transparência sem mundo. A posição da consciência abstrata vê corretamente que há dimensão interna. Mas erra quando separa essa dimensão das condições reais de deteção, relação e estrutura.
+
+Reinscrever a consciência no real é dizer apenas isto: a consciência só é inteligível como consciência em relação. Sensor, deteção, estrutura e real bloqueiam a fantasia de uma consciência pura desligada do mundo.
+
+Este travão deve permanecer curto. Se crescer, abre corpo, perceção ou biologia da consciência. Isso pertence a outro lugar. Aqui serve apenas para reapertar.
+
+### 8. Mediação legítima versus substituição simbólica
+
+A diferença decisiva do Capítulo 8 é a diferença entre mediação legítima e substituição simbólica.
+
+Mediação legítima:
+
+- o símbolo ajuda a retomar o apreendido;
+- a linguagem ajuda a dizer o apreendido;
+- a representação ajuda a organizar o apreendido;
+- a verdade mede a representação pelo real;
+- a correção reconduz a representação ao real.
+
+Substituição simbólica:
+
+- a mediação já não reconduz;
+- mede-se por coerência interna;
+- valida-se por circulação;
+- protege-se por autoridade;
+- justifica-se por utilidade;
+- fecha-se em sistema;
+- já não aceita a resistência do real.
+
+A posição mediacional vê corretamente que a consciência humana precisa de representação, símbolo e linguagem. Mas desloca-se quando transforma a mediação em critério. O símbolo deixa de servir aquilo que simboliza. A linguagem deixa de dizer o real e passa a dizer apenas o seu próprio jogo. A representação deixa de poder ser corrigida pelo real e passa a procurar apenas estabilidade interna.
+
+A crítica local é firme, mas curta: a mediação ainda medeia quando reconduz ao real; torna-se substituição quando a consciência passa a mover-se apenas entre símbolos, representações e signos que já não respondem ao real.
+
+Reapertar a consciência é obrigar a mediação a regressar à sua função. Não se elimina a mediação. Não se elimina o símbolo. Não se elimina a linguagem. Elimina-se apenas a sua pretensão de bastar.
+
+Não desenvolver aqui crítica sistémica. Quando coerência interna, circulação, autoridade, utilidade e sistema se tornarem objetos próprios, estaremos numa zona posterior. Neste capítulo, eles aparecem só como sinais de substituição simbólica.
+
+### 9. Fecho limítrofe do bloco mediacional
+
+O que fica fechado no Capítulo 8 não é o uso da consciência, da linguagem, do símbolo ou da representação. Fica fechada a sua soberania.
+
+Ficam bloqueados:
+
+- consciência soberana;
+- linguagem soberana;
+- símbolo autónomo;
+- representação sem real;
+- verdade sem correção;
+- correção sem reinscrição;
+- pensamento sem situação;
+- fala sem modo de ser;
+- mediação que se mede a si mesma;
+- ação futura a partir de símbolo desligado do real.
+
+O fecho deve ser real. Não basta dizer que o bloco termina. É preciso mostrar por que termina: termina quando a consciência reconhece que linguagem, símbolo, representação, verdade e correção só valem enquanto continuam a reconduzir ao real.
+
+O que fica preparado não entra ainda como corpo:
+
+- ação situada;
+- liberdade situada;
+- dano real;
+- responsabilidade;
+- normatividade derivada;
+- vida boa.
+
+O fecho não pode ser expansão. Se a escrita começa a desenvolver ação, já saiu do Capítulo 8. Se começa a desenvolver cultura, instituição ou sistema, também saiu. Se começa a desenvolver uma teoria da consciência, regressou ao Capítulo 4. Se começa a desenvolver linguagem e símbolo, regressou ao Capítulo 6. Se começa a desenvolver verdade e erro, regressou ao Capítulo 7.
+
+O capítulo deve terminar precisamente quando a tentação de continuar cresce.
+
+### 10. Entrega negativa ao Capítulo 9
+
+A passagem para o Capítulo 9 é negativa e preparatória.
+
+O Capítulo 8 só entrega uma condição: a consciência não deve agir a partir de símbolo desligado do real. A representação corrigida pode preparar ação. A mediação disciplinada pode preparar atualização prática. Mas a ação não é simples consequência da representação corrigida. A ação tem centro próprio.
+
+Por isso, o fecho deve parar antes de liberdade, dano, responsabilidade, normatividade e dever-ser. Esses planos exigem outra pergunta.
+
+A pergunta entregue é esta:
+
+> quando a consciência, já reapertada no real, passa da representação corrigida para a atualização efetiva, deixa de estar em causa apenas mediação; começa o problema da ação situada.
+
+A posição prática vê corretamente que consciência, representação e correção orientam a ação. Erra quando faz da ação mera conclusão do bloco mediacional. Agir não é apenas representar bem. É atualizar efetivamente no real, com consequências reais. Esse é o começo do Capítulo 9.
+
+O Capítulo 8 termina antes disso. Fecha o bloco mediacional. Entrega a ação apenas como problema seguinte.
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| consciência como ponto puro | há consciência e autorrelação | transforma a consciência em começo limpo | a consciência pode ser pensada antes da cadeia real que a torna possível | consciência situada, mediada, representacional, simbólica e corrigível |
+| consciência como presença imediata de si | há relação consigo | converte autorrelação em transparência soberana | relação consigo dispensa mediação e relação ao real | autorrelação situada no interior da relação ao real |
+| pensamento desencarnado | pensar tem ordem própria | separa o pensamento do acontecimento situado de pensar | pensar é operação pura | pensamento como acontecimento situado em correspondência possível com o real |
+| fala desligada do ser | a fala possui articulação própria | trata a fala como discurso solto | falar não depende do modo de ser em que ocorre | fala como acontecimento situado e mediado |
+| símbolo autónomo | o símbolo estabiliza e retoma | dispensa o representado | o símbolo basta por si | símbolo como mediação que reconduz ao real |
+| linguagem como mundo suficiente | a linguagem articula e comunica | transforma linguagem em mundo próprio | o real só vale no interior da linguagem | linguagem como articulação subordinada da relação ao real |
+| vida na representação simbólica do símbolo | a consciência opera por mediações simbólicas | passa a viver em mediações que já não sabem o que representam | circulação simbólica equivale a relação real | mediação simbólica reconduzida ao representado real |
+| mediação substitutiva | representação, símbolo e linguagem organizam | fazem da organização interna medida suficiente | coerência, circulação, autoridade ou utilidade validam a mediação | mediação legítima apenas enquanto submissa ao real |
+| consciência abstrata sem sensor/deteção/relação | há interioridade consciente | remove condições reais de ocorrência | consciência pode subsistir sem relação real | consciência em relação: deteção, estrutura e real como travões |
+| fechamento mediacional como crítica sistémica antecipada | há risco de fechamento simbólico | desenvolve cultura, instituição, técnica ou sistema | identificar o risco autoriza crítica sistémica | risco limítrofe apenas; crítica sistémica fica para zona posterior |
+| ação como conclusão imediata | consciência corrigida pode orientar ação | faz da ação produto da representação corrigida | agir é consequência direta do representar bem | ação situada como plano próprio do Capítulo 9 |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro continua a ser:
+
+> consciência reinscrita no real e fecho limítrofe do bloco mediacional.
+
+Este centro não foi deslocado para teoria da consciência, filosofia da linguagem, semiótica, crítica cultural, crítica sistémica ou ação.
+
+### estatuto de minicapítulo preservado
+
+O Capítulo 8 permaneceu **minicapítulo / fecho limítrofe**.
+
+A escrita preparada não lhe deu estatuto de capítulo pleno. O desenvolvimento serve o fecho, não cria nova região positiva.
+
+### cadeia preservada
+
+A cadeia preservada é:
+
+> chão pressuposto → consciência reinscrita → pensamento/fala situados → vida na representação simbólica do símbolo → sensor/deteção/estrutura/real como travões → mediação legítima versus substituição → fecho limítrofe → entrega negativa ao Capítulo 9.
+
+### estatuto dos materiais F0276–F0278 preservado
+
+- `F0276` entrou apenas como apoio a pensamento/fala situados.
+- `F0277` entrou apenas como apoio ao risco de vida no símbolo.
+- `F0278` entrou apenas como apoio a sensor/deteção/consciência.
+- Nenhum deles comandou o capítulo.
+
+Os três materiais vigiam a fronteira. Não reordenam a estrutura.
+
+### crítica subordinada
+
+A crítica acompanha o positivo e não o substitui.
+
+O capítulo diz primeiro a consciência reinscrita e só depois mostra os falsos modos de a dizer: consciência pura, pensamento desencarnado, fala solta, símbolo autónomo, linguagem suficiente, mediação substitutiva, consciência abstrata e ação imediata.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas sem transformar o capítulo em história da filosofia, teoria da consciência, teoria da linguagem, semiótica ou crítica cultural.
+
+Não houve comentário de autores. Não houve história da filosofia desenvolvida. A crítica incidiu sobre operações de substituição do real.
+
+### notas sob controlo
+
+Não foram usadas notas de rodapé.
+
+Se vierem a ser usadas na redação final, não devem carregar o argumento principal nem criar um segundo livro dentro do livro.
+
+### capítulos anteriores não reabertos
+
+Não foram reabertos:
+
+- Capítulo 4 como teoria da consciência;
+- Capítulo 6 como teoria da linguagem, símbolo ou sentido;
+- Capítulo 7 como teoria da verdade, erro, critério ou correção.
+
+Esses capítulos entraram apenas como chão pressuposto.
+
+### capítulos posteriores não abertos
+
+Ficaram fora:
+
+- ação como centro;
+- liberdade;
+- dano;
+- responsabilidade;
+- dever-ser;
+- normatividade;
+- dignidade;
+- vida boa;
+- cultura;
+- instituição;
+- sistema como objeto crítico próprio;
+- crítica sistémica tardia.
+
+A passagem para o Capítulo 9 ficou negativa e preparatória.
+
+### fórmula final
+
+> O Capítulo 8 fixa apenas isto: depois de mediação, representação, linguagem, símbolo, verdade, erro e correção terem sido disciplinados, a consciência deve ser reapertada no real; pensar, falar e simbolizar só são legítimos enquanto reconduzem ao real, e a consciência perde-se quando passa a viver na representação simbólica do símbolo em vez de deixar o símbolo mediar aquilo que é.
+
 <a id="capitulo-cap-09-acao-liberdade-situada"></a>
 ## CAP_09_acao_liberdade_situada
 
 - Pasta: `CAP_09_acao_liberdade_situada`
-- Ficheiros incluídos: `3`
+- Ficheiros incluídos: `9`
 
 ### Índice interno da pasta
 
 - [00_estatuto_e_limites](#cap-09-acao-liberdade-situada-00-estatuto-e-limites-md) — `CAP_09_acao_liberdade_situada/00_estatuto_e_limites.md`
 - [01_estrutura_interna](#cap-09-acao-liberdade-situada-01-estrutura-interna-md) — `CAP_09_acao_liberdade_situada/01_estrutura_interna.md`
 - [02_materiais_positivos](#cap-09-acao-liberdade-situada-02-materiais-positivos-md) — `CAP_09_acao_liberdade_situada/02_materiais_positivos.md`
+- [03_materiais_criticos](#cap-09-acao-liberdade-situada-03-materiais-criticos-md) — `CAP_09_acao_liberdade_situada/03_materiais_criticos.md`
+- [04_lacunas_do_capitulo](#cap-09-acao-liberdade-situada-04-lacunas-do-capitulo-md) — `CAP_09_acao_liberdade_situada/04_lacunas_do_capitulo.md`
+- [05_decisao_local_do_capitulo](#cap-09-acao-liberdade-situada-05-decisao-local-do-capitulo-md) — `CAP_09_acao_liberdade_situada/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-09-acao-liberdade-situada-06-primeira-versao-controlada-de-escrita-md) — `CAP_09_acao_liberdade_situada/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP9](#cap-09-acao-liberdade-situada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap9-md) — `CAP_09_acao_liberdade_situada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP9.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-09-acao-liberdade-situada-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_09_acao_liberdade_situada/07_escrita_final_preparada_com_critica_acompanhante.md`
 
 <a id="cap-09-acao-liberdade-situada-00-estatuto-e-limites-md"></a>
 ### 00_estatuto_e_limites
@@ -37044,6 +41038,12528 @@ Regra final:
 **Ficheiro de origem:** `CAP_09_acao_liberdade_situada/02_materiais_positivos.md`
 
 
+
+<a id="cap-09-acao-liberdade-situada-03-materiais-criticos-md"></a>
+### 03_materiais_criticos
+
+**Ficheiro de origem:** `CAP_09_acao_liberdade_situada/03_materiais_criticos.md`
+
+# 03_materiais_criticos
+
+## I. Estatuto do ficheiro
+
+### função
+- identificar os materiais, desvios e riscos críticos que podem deformar o **Capítulo 9 — Ação e liberdade situada**;
+- impedir que o povoamento positivo do capítulo seja inflacionado por afinidade temática;
+- bloquear a transformação da ação situada em liberdade abstrata, vontade soberana, moral pronta, normatividade desenvolvida ou crítica sistémica;
+- separar materiais aproveitáveis sob vigilância de materiais que devem ser deslocados para capítulos posteriores;
+- preparar `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige o capítulo;
+- não reabre os Capítulos 1 a 8;
+- não reescreve o Capítulo 8;
+- não antecipa o Capítulo 10;
+- não converte crítica em centro positivo;
+- não transforma materiais críticos em nova estrutura interna;
+- não usa os riscos identificados como razão para bloquear a abertura do Capítulo 9.
+
+### valor metodológico
+- vale como peça de vigilância;
+- vale como filtro de uso dos fragmentos;
+- vale como travão contra inflação;
+- vale como proteção da fragilidade estrutural do capítulo;
+- vale como preparação para a decisão local.
+
+### regra decisiva
+> os materiais críticos do Capítulo 9 não bloqueiam a sua abertura; bloqueiam apenas a sua inflação.
+
+---
+
+## II. Veredito crítico geral
+
+### veredito
+O Capítulo 9 pode abrir.
+
+Mas só pode abrir sob vigilância reforçada.
+
+### razão
+O capítulo tem centro suficiente:
+- ação como atualização real situada;
+- liberdade situada;
+- assimetria entre trajetórias;
+- dano real;
+- mínimo negativo objetivo;
+- erro como disciplina crítica subordinada;
+- possível real como limite terminal.
+
+Mas a sua massa positiva é estreita e instável.
+
+### consequência crítica
+A fragilidade principal não está na inexistência de centro.
+
+Está no risco de o capítulo procurar compensar a sua estreiteza por excesso de conceitos laterais:
+- liberdade;
+- vontade;
+- escolha;
+- moral;
+- bem;
+- mal;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- cultura;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+### regra de contenção
+Sempre que um material parecer útil por falar de ação, liberdade, dano, valor, verdade, comportamento ou sistema, deve perguntar-se primeiro:
+
+> isto ajuda a descrever a ação como atualização real situada, ou já desloca o capítulo para outro centro?
+
+---
+
+## III. Risco crítico dominante
+
+### risco principal
+O risco crítico dominante é:
+
+> transformar o Capítulo 9 numa teoria geral da liberdade.
+
+### forma do erro
+O erro ocorre quando a sequência correta:
+
+> ação situada → liberdade situada → assimetria entre trajetórias
+
+é substituída por:
+
+> liberdade → vontade → escolha → ação
+
+### consequência do erro
+Se isto acontecer:
+- a ação deixa de ser atualização real situada;
+- a liberdade passa a parecer soberana;
+- o real torna-se campo posterior da vontade;
+- as consequências reais tornam-se secundárias;
+- o capítulo perde o seu centro próprio.
+
+### travão
+A liberdade nunca pode comandar o capítulo.
+
+Só pode entrar como nome subordinado de um modo de atualização no campo real de possibilidades.
+
+---
+
+## IV. Desvios críticos estruturais
+
+## 1. Desvio por liberdade abstrata
+
+### forma típica
+- abrir por liberdade;
+- abrir por livre-arbítrio;
+- abrir por vontade;
+- abrir por escolha;
+- abrir por autonomia;
+- abrir por sujeito agente.
+
+### problema
+Estes termos parecem próximos do Capítulo 9, mas são perigosos porque fazem a ação nascer de uma instância interior soberana.
+
+### efeito deformador
+A ação passa a parecer:
+- expressão de vontade;
+- exteriorização de decisão;
+- execução de representação;
+- manifestação de sujeito.
+
+### correção
+O capítulo deve dizer antes:
+- a ação é atualização real situada;
+- a liberdade só é inteligível dentro de um campo real de possibilidades;
+- a escolha não é soberana face ao real;
+- agir é produzir diferença no real sob limite e consequência.
+
+### decisão crítica
+Liberdade abstrata fica fora.
+
+Liberdade situada fica dentro.
+
+---
+
+## 2. Desvio por derivação representacional
+
+### forma típica
+- fazer da ação uma consequência da representação corrigida;
+- fazer do Capítulo 9 simples prolongamento do Capítulo 8;
+- tratar agir como aplicação prática de uma ideia;
+- fazer da mediação disciplinada a causa suficiente da ação.
+
+### problema
+O Capítulo 8 preparou apenas negativamente o Capítulo 9.
+
+Não o gerou positivamente.
+
+### efeito deformador
+Se a ação for lida como consequência da representação:
+- a passagem deixa de ser prática;
+- o capítulo permanece mediacional;
+- a atualização real não aparece com autonomia local;
+- a ação fica reduzida a execução.
+
+### correção
+A passagem correta é:
+
+> depois de a consciência mediada ter sido reapertada no real, começa o problema da atualização prática.
+
+### decisão crítica
+A representação corrigida fica como pressuposto.
+
+Não fica como motor da ação.
+
+---
+
+## 3. Desvio por moralização imediata
+
+### forma típica
+- passar de assimetria entre trajetórias para moral pronta;
+- passar de dano real para mal;
+- passar de mínimo negativo objetivo para dever-ser;
+- passar de não-indiferença para juízo moral completo.
+
+### problema
+O Capítulo 9 ainda não é o capítulo da normatividade.
+
+A sua tarefa é apenas mostrar que a ação não é indiferente porque atualiza o real e pode produzir dano real.
+
+### efeito deformador
+Se a moral entrar cedo:
+- `P39` deixa de ser não-indiferença mínima;
+- `P40` deixa de ser dano real e passa a teoria do mal;
+- `P41` deixa de ser mínimo negativo objetivo e passa a sistema moral;
+- o Capítulo 10 é absorvido prematuramente.
+
+### correção
+No Capítulo 9:
+- dano é consequência real;
+- assimetria é diferença mínima entre trajetórias;
+- mínimo negativo objetivo bloqueia a indiferença total;
+- bem, mal e dever-ser ficam para depois.
+
+### decisão crítica
+Moralização imediata fica fora.
+
+Não-indiferença prática mínima fica dentro.
+
+---
+
+## 4. Desvio por epistemologia soberana
+
+### forma típica
+- abrir por erro;
+- abrir por verdade;
+- abrir por critério;
+- abrir por correção;
+- fazer de `P36` a cabeça do capítulo.
+
+### problema
+`P36` pertence estruturalmente ao corredor da verdade, erro, critério e correção.
+
+No Capítulo 9, só pode entrar como disciplina crítica do agir.
+
+### efeito deformador
+Se `P36` comandar:
+- o Capítulo 9 regride para o Capítulo 7;
+- a ação deixa de ser centro;
+- o erro passa a ser corpo próprio;
+- a crítica do agir substitui a descrição do agir.
+
+### correção
+`P36` só deve mostrar que:
+- má descrição da situação pode gerar má aplicação prática;
+- desadequação ao real pode tornar a ação falhada;
+- erro prático é desajuste operativo ao real.
+
+### decisão crítica
+Erro como cabeça fica fora.
+
+Erro como disciplina crítica subordinada fica dentro.
+
+---
+
+## 5. Desvio por normatividade antecipada
+
+### forma típica
+- importar `P46`;
+- importar `P47`;
+- usar `P48` cedo demais;
+- abrir por dever-ser;
+- falar de dever impossível antes de a ação estar descrita;
+- transformar o possível real em critério normativo completo.
+
+### problema
+O Capítulo 9 só prepara a normatividade.
+
+Não a desenvolve.
+
+### efeito deformador
+Se a normatividade entrar cedo:
+- o Capítulo 10 é absorvido;
+- a ação fica subordinada ao dever;
+- o dano deixa de ser consequência e passa a fundamento moral;
+- o possível real deixa de ser limite terminal e torna-se governo do capítulo.
+
+### correção
+`P48` entra apenas no fecho.
+
+A sua função é dizer que a ação situada encontra o limite do possível real.
+
+### decisão crítica
+Normatividade desenvolvida fica fora.
+
+Limite terminal do possível real fica dentro.
+
+---
+
+## 6. Desvio por sistema
+
+### forma típica
+- usar materiais sobre cultura, direito, instituição ou política;
+- usar exemplos sistémicos para engrossar o capítulo;
+- transformar ação situada em crítica social;
+- transformar trajetórias individuais ou locais em diagnóstico de sistema.
+
+### problema
+A crítica sistémica é posterior.
+
+O Capítulo 9 deve permanecer no plano da atualização prática situada.
+
+### efeito deformador
+Se sistema entrar cedo:
+- a ação situada dissolve-se em sociologia filosófica;
+- a assimetria entre trajetórias passa a crítica cultural;
+- o dano real passa a diagnóstico social;
+- o capítulo perde a sua escala própria.
+
+### correção
+O sistema só pode aparecer, no máximo, como horizonte futuro ou caso deslocado.
+
+Não pode organizar o capítulo.
+
+### decisão crítica
+Sistema fica fora.
+
+Ação situada fica dentro.
+
+---
+
+## V. Materiais positivos sob vigilância crítica
+
+## 1. `F0003_SEG_001`
+
+### utilidade
+É útil porque aproxima:
+- realidade objetiva;
+- objetos e relações;
+- capacidade humana de produzir mudança;
+- diferença mínima entre trajetórias.
+
+### risco
+O fragmento é exploratório, oral e instável.
+
+Tem força intuitiva, mas não tem fecho dedutivo suficiente.
+
+### desvio possível
+Pode induzir:
+- divisão moral prematura;
+- oposição simplificada entre caminhos;
+- moralização de trajetórias;
+- leitura política ou psicológica do agir.
+
+### uso crítico permitido
+Usar apenas para apoiar:
+- `P38`;
+- `P39`;
+- `P41`.
+
+### uso proibido
+Não usar para:
+- abrir por dois caminhos morais;
+- criar tipologia de pessoas;
+- fundar teoria da liberdade;
+- fundar teoria do bem e do mal.
+
+### decisão
+Material aproveitável.
+
+Mas só como apoio controlado.
+
+---
+
+## 2. `F0120_SEG_001`
+
+### utilidade
+É útil porque mostra que a adequação do agir depende da relação concreta.
+
+### risco
+Pode puxar o capítulo para teoria relacional mais ampla.
+
+### desvio possível
+- transformar ação em ética da relação;
+- antecipar responsabilidade;
+- antecipar vida boa;
+- fazer da relação o centro do capítulo.
+
+### uso crítico permitido
+Usar para mostrar que a ação é situada e que a sua adequação depende do campo relacional concreto.
+
+### uso proibido
+Não usar para desenvolver:
+- deveres relacionais;
+- responsabilidade intersubjetiva;
+- dignidade;
+- coordenação.
+
+### decisão
+Material bom, mas estreito.
+
+Deve ficar subordinado a `P38`.
+
+---
+
+## 3. `F0208_SEG_001`
+
+### utilidade
+É útil porque mostra que contrato, promessa ou expectativa não devem ser tratados como normatividade autónoma, mas como derivados de ações situadas entre agentes reais.
+
+### risco
+Puxa imediatamente para:
+- promessa;
+- expectativa legítima;
+- contrato;
+- direito;
+- instituição;
+- coordenação intersubjetiva.
+
+### desvio possível
+Transformar o Capítulo 9 em pré-capítulo jurídico ou institucional.
+
+### uso crítico permitido
+Usar apenas como exemplo mínimo de que certas vinculações derivam de ações reais situadas.
+
+### uso proibido
+Não desenvolver:
+- promessa;
+- contrato;
+- expectativa legítima;
+- juridicidade;
+- instituição;
+- obrigação.
+
+### decisão
+Material sob vigilância forte.
+
+Preferir reservar para capítulos posteriores, salvo necessidade local.
+
+---
+
+## 4. `F0065_A01_SEG_002`
+
+### utilidade
+É útil porque pode mostrar que certas atualizações preservam ou reduzem possibilidades reais de resposta.
+
+### risco
+Puxa para campo social, continuidade intersubjetiva ou coordenação.
+
+### desvio possível
+- antecipar Capítulo 12;
+- transformar possibilidade real em estrutura social;
+- fazer da resposta coletiva o centro.
+
+### uso crítico permitido
+Usar apenas para ilustrar que uma ação pode estreitar ou ampliar possibilidades reais.
+
+### uso proibido
+Não usar para desenvolver:
+- sociedade;
+- comum;
+- coordenação;
+- instituição;
+- política.
+
+### decisão
+Material aproveitável, mas apenas como apoio lateral.
+
+---
+
+## 5. `F0135_SEG_001`
+
+### utilidade
+É útil para a passagem entre mediação disciplinada e ação situada.
+
+### risco
+Pode reabrir o bloco mediacional.
+
+### desvio possível
+- voltar à apreensão;
+- voltar à representação;
+- voltar ao Capítulo 8;
+- transformar a ação em consequência da mediação.
+
+### uso crítico permitido
+Usar apenas como ponte curta:
+- a ação parte de um ser situado;
+- a leitura do real condiciona a ação;
+- mas agir já não é representar.
+
+### uso proibido
+Não usar para desenvolver:
+- consciência;
+- símbolo;
+- linguagem;
+- representação;
+- mediação.
+
+### decisão
+Material de ponte.
+
+Não é material de corpo.
+
+---
+
+## 6. `F0241_A08_SEG_001`
+
+### utilidade
+É útil porque reforça que a avaliação prática não pode depender de critério interno ao sistema.
+
+### risco
+Pode puxar para ética, critério ou normatividade.
+
+### desvio possível
+- regressão ao Capítulo 7;
+- antecipação do Capítulo 10;
+- transformação do dano em critério moral;
+- crítica de sistema.
+
+### uso crítico permitido
+Usar apenas no terminal ou no travão:
+- o agir deve permanecer submetido ao real;
+- critério interno não basta para validar atualização prática.
+
+### uso proibido
+Não usar como eixo do capítulo.
+
+### decisão
+Material terminal subordinado.
+
+---
+
+## VI. Materiais críticos deslocados
+
+## 1. `F0004_SEG_001`
+
+### razão de deslocação
+O fragmento trabalha sobretudo:
+- valor moral;
+- comportamento necessário;
+- verdade e valor;
+- preservação;
+- homeostasia;
+- dever-ser limitado pelo que é e pode ser.
+
+### problema para o Capítulo 9
+É demasiado normativo.
+
+Apesar de tocar dano, possibilidade e preservação, pertence mais diretamente à passagem para o Capítulo 10.
+
+### risco se usado no Capítulo 9
+- antecipar normatividade derivada;
+- fazer o capítulo falar de valor moral;
+- transformar dano em necessidade moral;
+- introduzir bem/mal antes da hora.
+
+### decisão
+Não usar como material positivo principal do Capítulo 9.
+
+Reservar para Capítulo 10.
+
+---
+
+## 2. `F0006_SEG_001`
+
+### razão de deslocação
+O fragmento contém dois núcleos:
+- subordinação da normatividade ao real;
+- má descrição do problema que conduz a má aplicação da solução.
+
+### parte aproveitável
+Apenas a segunda:
+- má descrição;
+- má aplicação;
+- erro prático.
+
+### parte perigosa
+A primeira:
+- necessidade moral;
+- utilidade sistémica;
+- objetos do sistema;
+- normatividade derivada.
+
+### risco se usado sem corte
+- antecipar Capítulo 10;
+- abrir por normatividade;
+- puxar para sistema;
+- fazer de `P36` cabeça do capítulo.
+
+### decisão
+Aproveitar só a fórmula crítica mínima:
+
+> quem descreve mal o problema aplica mal a solução.
+
+Tudo o resto deve ficar sob reserva.
+
+---
+
+## 3. `F0008_SEG_001`
+
+### razão de deslocação
+O fragmento trabalha:
+- proposição valorativa;
+- bondade;
+- verdade do problema;
+- verdade da solução;
+- valor incluído no real.
+
+### problema para o Capítulo 9
+É material de transição para normatividade, não de abertura da ação.
+
+### risco se usado
+- transformar o capítulo em ética do valor;
+- fazer da verdade do problema o centro;
+- transformar a ação em solução proposta;
+- reabsorver ação por critério.
+
+### decisão
+Reservar para Capítulo 10 ou para zona de ligação entre epistemologia e ética.
+
+Não usar no corpo principal do Capítulo 9.
+
+---
+
+## 4. `F0009_SEG_001`
+
+### razão de deslocação
+O fragmento aproxima:
+- verdade;
+- mudança do indivíduo;
+- ação modificadora;
+- preservação;
+- melhor estado de coisas;
+- autoresponsabilidade.
+
+### problema para o Capítulo 9
+Embora toque ação, já puxa para responsabilidade, vida boa e transformação de si.
+
+### risco se usado
+- antecipar Capítulo 11;
+- transformar ação situada em dever de mudança pessoal;
+- introduzir autoresponsabilidade antes da hora;
+- moralizar trajetórias.
+
+### decisão
+Fora do Capítulo 9 como material de corpo.
+
+Pode ficar como reserva posterior para responsabilidade ou vida boa.
+
+---
+
+## 5. `F0015_SEG_001`
+
+### razão de deslocação
+O fragmento tende para efeitos reais do mercado, sistema social ou crítica sistémica.
+
+### problema para o Capítulo 9
+É demasiado sistémico.
+
+### risco se usado
+- transformar ação situada em crítica social;
+- introduzir mercado, sociedade ou sistema como centro;
+- deslocar o capítulo para zonas reservadas;
+- fazer da assimetria entre trajetórias um diagnóstico político.
+
+### decisão
+Fora do Capítulo 9.
+
+Reservar para crítica sistémica posterior.
+
+---
+
+## VII. Crítica da sequência interna possível
+
+### risco na passagem `P38 → liberdade situada`
+A passagem pode parecer natural, mas é perigosa.
+
+Se for mal feita, a liberdade passa a comandar a ação.
+
+### travão
+A liberdade deve ser apresentada como consequência descritiva da ação situada, não como fundamento da ação.
+
+### fórmula admissível
+> a liberdade só se torna inteligível quando a atualização ocorre num campo real de possibilidades.
+
+### fórmula proibida
+> o sujeito livre escolhe e depois age.
+
+---
+
+### risco na passagem `P39 → P40`
+A não-indiferença das atualizações pode ser confundida com moralização.
+
+### travão
+A passagem deve ser estritamente real:
+- trajetórias diferentes produzem efeitos diferentes;
+- alguns efeitos podem degradar condições reais;
+- isso basta para introduzir dano.
+
+### fórmula admissível
+> algumas atualizações produzem dano real.
+
+### fórmula proibida
+> algumas ações são más.
+
+---
+
+### risco na passagem `P40 → P41`
+O dano real pode ser convertido em sistema moral completo.
+
+### travão
+`P41` só fixa o mínimo negativo objetivo.
+
+### fórmula admissível
+> se há dano real, a equivalência total entre trajetórias fica bloqueada.
+
+### fórmula proibida
+> se há dano real, já sabemos o dever moral completo.
+
+---
+
+### risco na entrada de `P36`
+`P36` pode reabrir a epistemologia.
+
+### travão
+Entrar apenas depois de ação, dano e assimetria já estarem fixados.
+
+### fórmula admissível
+> agir pode falhar por descrever mal a situação.
+
+### fórmula proibida
+> o capítulo deve agora explicar a verdade, o erro e a correção.
+
+---
+
+### risco na entrada de `P48`
+`P48` pode entrar cedo e reorganizar o capítulo.
+
+### travão
+Entrar apenas no fecho.
+
+### fórmula admissível
+> a ação situada encontra limite no possível real.
+
+### fórmula proibida
+> o dever-ser é desde logo subordinado ao poder-ser.
+
+---
+
+## VIII. Falsas soluções a bloquear
+
+### solução falsa 1 — engrossar por liberdade
+Não resolver a estreiteza do capítulo aumentando o discurso sobre liberdade.
+
+Resultado proibido:
+- capítulo aparentemente forte;
+- centro real deslocado;
+- ação subordinada à vontade.
+
+### solução falsa 2 — engrossar por moral
+Não resolver a fragilidade do capítulo introduzindo bem, mal e dever-ser.
+
+Resultado proibido:
+- Capítulo 10 absorvido;
+- dano convertido em teoria do mal;
+- mínimo negativo convertido em moral pronta.
+
+### solução falsa 3 — engrossar por erro
+Não resolver a fragilidade do capítulo recorrendo ao vocabulário já estabilizado de verdade, erro e correção.
+
+Resultado proibido:
+- Capítulo 7 reaberto;
+- `P36` tornado cabeça;
+- ação transformada em caso da epistemologia.
+
+### solução falsa 4 — engrossar por sistema
+Não resolver a escassez de material prático com crítica social ou sistémica.
+
+Resultado proibido:
+- capítulo deslocado para cultura, instituição ou política;
+- ação situada perdida;
+- escala errada.
+
+### solução falsa 5 — engrossar por responsabilidade
+Não resolver a transição prática antecipando responsabilidade, dignidade ou vida boa.
+
+Resultado proibido:
+- Capítulo 11 absorvido;
+- moralização da ação;
+- perda do caráter mínimo do Capítulo 9.
+
+---
+
+## IX. Objeções críticas a bloquear
+
+### objeção 1
+> Se o capítulo fala de ação, deve falar primeiro de liberdade.
+
+### resposta
+Não.
+
+A ação é o centro porque é atualização real situada.
+
+A liberdade só é inteligível depois, como modo situado dessa atualização.
+
+---
+
+### objeção 2
+> Se há dano real, então o capítulo já deve desenvolver o mal.
+
+### resposta
+Não.
+
+O dano entra aqui apenas como consequência real.
+
+A teoria do mal pertence ao Capítulo 10.
+
+---
+
+### objeção 3
+> Se nem tudo vale do mesmo modo, então já há dever-ser.
+
+### resposta
+Não.
+
+Há apenas bloqueio da indiferença total.
+
+A derivação do dever-ser é posterior.
+
+---
+
+### objeção 4
+> Se a ação pode falhar por má descrição, então o erro deve comandar o capítulo.
+
+### resposta
+Não.
+
+O erro disciplina o agir.
+
+Não substitui o agir.
+
+---
+
+### objeção 5
+> Se a ação ocorre entre pessoas, deve entrar responsabilidade.
+
+### resposta
+Não ainda.
+
+A relação entre pessoas pode estar pressuposta, mas responsabilidade como centro pertence a capítulo posterior.
+
+---
+
+### objeção 6
+> Se há consequências reais, deve entrar política ou sistema.
+
+### resposta
+Não.
+
+A consequência real da ação situada não autoriza salto para escala sistémica.
+
+---
+
+## X. Matriz crítica de uso dos materiais
+
+| Material | Pode entrar? | Como entra | Risco principal | Decisão |
+|---|---:|---|---|---|
+| `P38` | sim | abertura | virar teoria da agência | usar como centro de abertura |
+| `P39` | sim | corpo | moralização | usar como não-indiferença mínima |
+| `P40` | sim | corpo delicado | teoria do mal | usar só como dano real |
+| `P41` | sim | corpo/fecho interno | dever-ser precoce | usar como mínimo negativo objetivo |
+| `P36` | sim | travão subordinado | epistemologia soberana | usar só como disciplina crítica |
+| `P48` | sim | terminal | normatividade antecipada | usar só no fecho |
+| `F0003_SEG_001` | sim, com cuidado | apoio | divisão moral prematura | usar como apoio exploratório |
+| `F0120_SEG_001` | sim, com cuidado | relação concreta | ética relacional | usar subordinado a `P38` |
+| `F0208_SEG_001` | quase não | exemplo lateral | direito/instituição | usar só se necessário |
+| `F0065_A01_SEG_002` | sim, com cuidado | possibilidades reais | coordenação social | usar lateralmente |
+| `F0135_SEG_001` | sim, com cuidado | ponte | reabrir Capítulo 8 | usar só na transição |
+| `F0241_A08_SEG_001` | sim, terminal | travão | critério/ética | usar só no fim |
+| `F0004_SEG_001` | não, salvo reserva | deslocado | normatividade | reservar para Capítulo 10 |
+| `F0006_SEG_001` | parcialmente | fórmula crítica | normatividade/sistema | cortar e subordinar |
+| `F0008_SEG_001` | não | deslocado | valor/verdade | reservar |
+| `F0009_SEG_001` | não | deslocado | responsabilidade/vida boa | reservar |
+| `F0015_SEG_001` | não | deslocado | sistema/política | reservar |
+
+---
+
+## XI. Fragilidade crítica remanescente
+
+### fragilidade 1 — pouca massa própria da liberdade situada
+A liberdade situada é central no nome do capítulo, mas ainda tem pouca massa positiva própria.
+
+### consequência
+Não a desenvolver como teoria.
+
+Usá-la apenas como qualificação da ação situada.
+
+---
+
+### fragilidade 2 — passagem fina entre ação e assimetria
+A passagem de ação para não-indiferença ainda depende de formulação prudente.
+
+### consequência
+Não transformar a passagem em juízo moral.
+
+Manter a fórmula mínima:
+> trajetórias diferentes produzem diferenças reais.
+
+---
+
+### fragilidade 3 — dano real ainda puxa para Capítulo 10
+O dano é necessário no Capítulo 9, mas tende a abrir imediatamente bem, mal e dever-ser.
+
+### consequência
+Introduzir dano com contenção.
+
+Não desenvolver consequências normativas.
+
+---
+
+### fragilidade 4 — `P36` é forte demais se mal colocado
+`P36` tem estrutura própria já estabilizada noutro corredor.
+
+### consequência
+Colocá-lo tarde e subordinado.
+
+Não permitir que reorganize o capítulo.
+
+---
+
+### fragilidade 5 — `P48` é terminal, mas atrativo
+O possível real pode parecer solução final do capítulo.
+
+### consequência
+Usar apenas no fecho.
+
+Não abrir por ele.
+
+---
+
+## XII. Decisão crítica provisória
+
+### decisão
+Os materiais críticos não impedem a abertura do Capítulo 9.
+
+Confirmam, porém, que o capítulo deve ser escrito:
+- com prudência;
+- com baixa inflação conceptual;
+- com travões explícitos;
+- com fronteiras fortes;
+- sem moralização;
+- sem teoria geral da liberdade;
+- sem normatividade desenvolvida;
+- sem crítica sistémica;
+- sem responsabilidade ou dignidade.
+
+### fórmula da decisão crítica
+> O Capítulo 9 tem centro bastante para abrir, mas só permanece fiel ao seu centro se resistir a cinco tentações: começar pela liberdade, moralizar o dano, transformar a assimetria em dever-ser, fazer do erro a cabeça do agir e substituir a ação situada por sistema.
+
+---
+
+## XIII. Fórmula final curta
+
+> Os materiais críticos do Capítulo 9 não bloqueiam a abertura do capítulo; obrigam, antes, a escrevê-lo como capítulo frágil e controlado: ação primeiro, liberdade apenas situada, dano apenas como consequência real, mínimo negativo sem moral pronta, erro apenas como disciplina crítica, e possível real apenas no fecho terminal.
+
+<a id="cap-09-acao-liberdade-situada-04-lacunas-do-capitulo-md"></a>
+### 04_lacunas_do_capitulo
+
+**Ficheiro de origem:** `CAP_09_acao_liberdade_situada/04_lacunas_do_capitulo.md`
+
+# 04_lacunas_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- identificar as lacunas reais do **Capítulo 9 — Ação e liberdade situada**;
+- distinguir lacunas estruturais de simples limites deliberados;
+- separar falta de material positivo de exclusões metodológicas necessárias;
+- preparar a decisão local do capítulo em `05_decisao_local_do_capitulo.md`;
+- impedir que a fragilidade do capítulo seja compensada por inflação conceptual.
+
+### limite
+- este ficheiro não reabre os Capítulos 1 a 8;
+- não reescreve o Capítulo 8;
+- não altera o centro do Capítulo 9;
+- não produz ainda decisão local;
+- não redige ainda o capítulo;
+- não transforma lacunas em licença para importar liberdade abstrata, moral, normatividade, responsabilidade, dignidade, direito, política ou sistema;
+- não trata como lacuna aquilo que ficou legitimamente reservado para capítulos posteriores.
+
+### valor metodológico
+- vale como diagnóstico de insuficiências locais;
+- vale como filtro para a decisão local seguinte;
+- vale como travão contra duas respostas erradas:
+  - bloquear o capítulo por fragilidade;
+  - inflacionar o capítulo para esconder a fragilidade.
+
+### regra decisiva
+> A lacuna principal do Capítulo 9 não impede a abertura; obriga apenas a uma escrita curta, prudente e estruturalmente vigiada.
+
+---
+
+## II. Veredito geral das lacunas
+
+### veredito
+O Capítulo 9 tem lacunas reais, mas não tem lacuna impeditiva de abertura.
+
+### fórmula curta
+> O capítulo está autorizado, mas deve ser escrito sob regime de fragilidade estrutural controlada.
+
+### o que está suficientemente fixado
+Está suficientemente fixado:
+- o centro do capítulo;
+- a abertura por `P38`;
+- o corpo mínimo em `P39/P40/P41`;
+- o lugar subordinado de `P36`;
+- o lugar terminal de `P48`;
+- a fronteira negativa com o Capítulo 8;
+- a fronteira prudente com o Capítulo 10;
+- os falsos centros a bloquear.
+
+### o que permanece lacunar
+Permanece lacunar:
+- a massa positiva própria da liberdade situada;
+- a mediação fina entre ação e liberdade;
+- a mediação fina entre ação e assimetria;
+- a entrada do dano sem moralização;
+- a fixação do mínimo negativo objetivo sem dever-ser;
+- o uso de `P36` sem regressão epistemológica;
+- o uso de `P48` sem antecipação normativa;
+- a seleção de fragmentos sem deslocação para capítulos posteriores.
+
+### consequência
+O capítulo pode avançar para decisão local.
+
+Mas a decisão local não deve declarar o capítulo plenamente robusto.
+
+---
+
+## III. Lacuna principal
+
+### lacuna principal
+A lacuna principal é:
+
+> **massa positiva estreita para desenvolver ação, liberdade situada e assimetria entre trajetórias sem recorrer a materiais de moral, normatividade, responsabilidade ou sistema.**
+
+### natureza da lacuna
+É uma lacuna de densidade, não de centro.
+
+O capítulo sabe o que deve fazer.
+
+Ainda não tem material largo para o fazer com a mesma robustez dos capítulos mais fortes.
+
+### efeito no capítulo
+Esta lacuna torna perigoso:
+- desenvolver demasiado a liberdade;
+- desenvolver demasiado o dano;
+- desenvolver demasiado a assimetria;
+- importar normatividade para dar corpo;
+- importar responsabilidade para dar gravidade;
+- importar sistema para dar escala.
+
+### resposta metodológica correta
+A resposta correta não é engrossar.
+
+A resposta correta é escrever de forma curta e controlada.
+
+---
+
+## IV. Lacunas estruturais reais
+
+## 1. Lacuna da passagem do Capítulo 8 para o Capítulo 9
+
+### formulação da lacuna
+Ainda é delicada a passagem entre:
+- representação corrigida;
+- consciência mediada reapertada no real;
+- e atualização prática.
+
+### risco
+A ação pode parecer simples consequência da representação corrigida.
+
+### porque é lacuna real
+O Capítulo 8 preparou negativamente o Capítulo 9, mas não forneceu por si só a positividade da ação.
+
+É necessário dizer a passagem sem derivar a ação da mediação.
+
+### formulação mínima necessária
+> A representação corrigida não produz a ação; apenas remove a soberania simbólica que impediria reconhecer a ação como atualização real situada.
+
+### decisão provisória
+Lacuna real, mas corrigível por uma mediação curta na abertura.
+
+---
+
+## 2. Lacuna da ação como atualização real situada
+
+### formulação da lacuna
+`P38` está fixado como abertura, mas precisa de formulação suficientemente concreta para não parecer abstração.
+
+### risco
+A ação pode ficar demasiado formal:
+- atualização;
+- consequência;
+- campo;
+- possibilidade.
+
+Sem exemplos ou densidade mínima, pode parecer conceito técnico vazio.
+
+### porque é lacuna real
+O capítulo depende de `P38`.
+
+Se `P38` não ganhar corpo mínimo, todo o resto parece dedução externa.
+
+### formulação mínima necessária
+A ação deve ser descrita como:
+- ocorrência real;
+- alteração introduzida no campo;
+- atualização situada;
+- produção de consequências;
+- não mera intenção;
+- não mera representação;
+- não mera vontade.
+
+### decisão provisória
+Lacuna real de densificação.
+
+Não exige nova estrutura.
+
+Exige escrita precisa.
+
+---
+
+## 3. Lacuna da liberdade situada
+
+### formulação da lacuna
+A liberdade situada é central no nome do capítulo, mas ainda tem pouca massa própria.
+
+### risco
+Para preencher a lacuna, pode surgir a tentação de recorrer a:
+- livre-arbítrio;
+- vontade;
+- escolha;
+- autonomia;
+- sujeito agente.
+
+### porque é lacuna real
+A liberdade não pode desaparecer do capítulo.
+
+Mas também não pode comandá-lo.
+
+É preciso dar-lhe presença sem a transformar em centro soberano.
+
+### formulação mínima necessária
+A liberdade deve ser dita apenas como:
+- modo situado de atualização;
+- ação dentro de um campo real de possibilidades;
+- poder de atualização limitado;
+- liberdade sob consequência;
+- liberdade sem exterioridade ao real.
+
+### decisão provisória
+Lacuna real e sensível.
+
+Deve ser resolvida por subordinação explícita da liberdade à ação situada.
+
+---
+
+## 4. Lacuna da passagem de ação para não-indiferença
+
+### formulação da lacuna
+A passagem de `P38` para `P39` ainda precisa de mediação curta.
+
+### risco
+A não-indiferença pode parecer introduzida de fora.
+
+### porque é lacuna real
+Não basta dizer que agir atualiza o real.
+
+É necessário mostrar que atualizações diferentes produzem efeitos diferentes e, por isso, não são indiferentes.
+
+### formulação mínima necessária
+> Se agir é atualizar efetivamente o real, então trajetórias diferentes introduzem diferenças reais; e onde há diferenças reais de atualização, a indiferença total deixa de ser sustentável.
+
+### decisão provisória
+Lacuna real de mediação.
+
+Corrigível em redação controlada.
+
+---
+
+## 5. Lacuna do dano real
+
+### formulação da lacuna
+`P40` entra no capítulo, mas ainda tem de ser apresentado sem abrir teoria do mal.
+
+### risco
+O dano pode puxar imediatamente:
+- bem;
+- mal;
+- culpa;
+- responsabilidade;
+- reparação;
+- dever-ser.
+
+### porque é lacuna real
+O dano é necessário para mostrar que a não-indiferença das trajetórias não é apenas formal.
+
+Mas o seu desenvolvimento pertence sobretudo ao Capítulo 10.
+
+### formulação mínima necessária
+No Capítulo 9, dano deve significar apenas:
+- degradação real;
+- estreitamento de possibilidade;
+- quebra de condição;
+- diminuição de continuidade;
+- produção de consequência negativa no real.
+
+### decisão provisória
+Lacuna real de contenção.
+
+O dano entra, mas pouco.
+
+---
+
+## 6. Lacuna do mínimo negativo objetivo
+
+### formulação da lacuna
+`P41` fixa que, se há dano real, nem tudo vale do mesmo modo.
+
+Mas a fronteira entre mínimo negativo e normatividade desenvolvida ainda é delicada.
+
+### risco
+O mínimo negativo objetivo pode ser lido como:
+- dever-ser;
+- moral pronta;
+- escala completa de valores;
+- teoria normativa.
+
+### porque é lacuna real
+O capítulo precisa de bloquear a indiferença total.
+
+Mas não pode ainda dizer positivamente uma teoria do bem, do mal ou do dever.
+
+### formulação mínima necessária
+> O mínimo negativo objetivo não diz ainda o que deve ser feito em geral; diz apenas que a existência de dano real impede tratar todas as trajetórias como equivalentes.
+
+### decisão provisória
+Lacuna real de formulação.
+
+Deve ser resolvida por negatividade controlada.
+
+---
+
+## 7. Lacuna da entrada de `P36`
+
+### formulação da lacuna
+`P36` é forte demais para entrar sem risco.
+
+### risco
+O capítulo pode regressar ao Capítulo 7.
+
+### porque é lacuna real
+A ação pode falhar por má descrição da situação.
+
+Mas esse ponto não deve transformar o capítulo em teoria do erro.
+
+### formulação mínima necessária
+`P36` deve entrar apenas para dizer:
+- a ação depende de leitura da situação;
+- descrição errada pode conduzir a aplicação errada;
+- a ação falha quando se desalinha do real;
+- o erro prático é desadequação operativa, não simples incoerência.
+
+### decisão provisória
+Lacuna real de localização.
+
+`P36` deve entrar tarde e subordinado.
+
+---
+
+## 8. Lacuna da entrada de `P48`
+
+### formulação da lacuna
+`P48` é necessário como fecho terminal, mas perigoso se entrar cedo.
+
+### risco
+O possível real pode reorganizar o capítulo por dever-ser.
+
+### porque é lacuna real
+A ação situada exige limite.
+
+Mas o limite do possível real pertence ao terminal e prepara zonas posteriores.
+
+### formulação mínima necessária
+> A ação situada só pode atualizar possibilidades reais; por isso, o seu limite terminal é o possível real, sem que isto baste ainda para desenvolver normatividade.
+
+### decisão provisória
+Lacuna real de fecho.
+
+`P48` deve ser terminal e curto.
+
+---
+
+## V. Lacunas de materiais
+
+## 1. Poucos materiais nucleares diretos
+
+### diagnóstico
+Há poucos materiais que sustentem diretamente:
+- ação como atualização real situada;
+- liberdade situada;
+- assimetria entre trajetórias;
+- dano real;
+- mínimo negativo objetivo.
+
+### consequência
+Os materiais positivos disponíveis tendem a funcionar como:
+- apoio;
+- ponte;
+- intuição exploratória;
+- reserva sob vigilância.
+
+### risco
+Usar materiais laterais para fingir robustez.
+
+### resposta
+Assumir a estreiteza.
+
+Não multiplicar artificialmente materiais.
+
+---
+
+## 2. Fragmentos úteis mas instáveis
+
+### diagnóstico
+Alguns fragmentos úteis são orais, exploratórios ou incompletos.
+
+### exemplos de risco
+- `F0003_SEG_001` apoia ação e divisão mínima entre trajetórias, mas é exploratório;
+- `F0006_SEG_001` contém uma fórmula útil sobre descrição errada e aplicação errada, mas também puxa para normatividade e sistema;
+- `F0135_SEG_001` ajuda a ponte com o bloco mediacional, mas pode reabrir o Capítulo 8.
+
+### consequência
+O capítulo não deve depender excessivamente de nenhum destes fragmentos isoladamente.
+
+### resposta
+Usar como apoio, não como fundamento central.
+
+---
+
+## 3. Materiais deslocados para o Capítulo 10
+
+### diagnóstico
+Muitos materiais aparentemente úteis já pertencem melhor ao Capítulo 10.
+
+### materiais típicos
+- materiais sobre valor;
+- materiais sobre bem e mal;
+- materiais sobre dever-ser;
+- materiais sobre normatividade derivada;
+- materiais sobre preservação e não-degeneração como orientação prática.
+
+### risco
+Antecipar o Capítulo 10.
+
+### resposta
+No Capítulo 9, manter apenas:
+- dano como consequência;
+- assimetria como não-indiferença;
+- mínimo negativo como bloqueio da equivalência total.
+
+---
+
+## 4. Materiais deslocados para o Capítulo 11
+
+### diagnóstico
+Materiais sobre responsabilidade, dignidade, vida boa e mudança de si são relevantes, mas posteriores.
+
+### risco
+Converter ação situada em responsabilidade moral ou projeto de vida.
+
+### resposta
+Manter fora:
+- autoresponsabilidade;
+- dignidade;
+- vida boa;
+- melhor modo de ser;
+- dever de mudança pessoal.
+
+---
+
+## 5. Materiais deslocados para capítulos sociais e sistémicos
+
+### diagnóstico
+Materiais sobre sociedade, instituição, direito, política, mercado, cultura ou sistema podem parecer úteis porque tratam consequências reais.
+
+### risco
+Erro de escala.
+
+### resposta
+Manter fora:
+- coordenação intersubjetiva;
+- comum;
+- instituição;
+- direito;
+- política;
+- cultura;
+- crítica sistémica.
+
+---
+
+## VI. Lacunas de fronteira
+
+## 1. Fronteira com o Capítulo 8
+
+### lacuna
+É necessário impedir que o Capítulo 9 seja lido como continuação mediacional.
+
+### risco
+Ação como aplicação da representação corrigida.
+
+### regra
+O Capítulo 8 entrega apenas negativamente:
+- consciência reinscrita;
+- mediação disciplinada;
+- representação corrigida;
+- travão contra vida no símbolo.
+
+Não entrega ação como seu produto.
+
+### lacuna corrigível por fórmula
+> A ação começa quando já não está em causa apenas corrigir a representação, mas atualizar efetivamente algo no real.
+
+---
+
+## 2. Fronteira com o Capítulo 10
+
+### lacuna
+É necessário impedir que dano e mínimo negativo absorvam a normatividade derivada.
+
+### risco
+Capítulo 9 tornar-se Capítulo 10.
+
+### regra
+O Capítulo 9 prepara:
+- dano real;
+- não-indiferença;
+- mínimo negativo;
+- limite do possível.
+
+Mas não desenvolve:
+- bem;
+- mal;
+- dever-ser;
+- normatividade.
+
+### lacuna corrigível por fórmula
+> O Capítulo 9 termina precisamente onde começa a pergunta pela normatividade derivada.
+
+---
+
+## 3. Fronteira com o Capítulo 11
+
+### lacuna
+A ação situada tende a chamar responsabilidade.
+
+### risco
+Capítulo 9 tornar-se capítulo de imputação, dignidade ou vida boa.
+
+### regra
+A responsabilidade só pode entrar depois de ação, dano, bem, mal e normatividade derivada estarem suficientemente trabalhados.
+
+### decisão
+Manter responsabilidade fora.
+
+---
+
+## 4. Fronteira com capítulos sociais e sistémicos
+
+### lacuna
+A consequência real da ação pode parecer pedir escala coletiva.
+
+### risco
+Passar cedo para intersubjetividade, instituição, direito, política ou sistema.
+
+### regra
+A consequência real da ação não autoriza, por si só, salto de escala.
+
+### decisão
+Manter a escala do Capítulo 9 em ação situada.
+
+---
+
+## VII. Falsas lacunas
+
+## 1. Falta de teoria geral da liberdade
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+O capítulo não deve produzir teoria geral da liberdade.
+
+Deve apenas descrever liberdade situada.
+
+---
+
+## 2. Falta de teoria da vontade
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Abrir por vontade seria desvio.
+
+A vontade não é centro do capítulo.
+
+---
+
+## 3. Falta de teoria da escolha
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+A escolha soberana está bloqueada.
+
+A ação situada não deve ser reduzida a escolha.
+
+---
+
+## 4. Falta de moral pronta
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+A moral pronta pertence a uma inflação indevida.
+
+O capítulo só fixa não-indiferença mínima.
+
+---
+
+## 5. Falta de teoria do mal
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+O dano entra antes da teoria do mal.
+
+A teoria do mal pertence ao capítulo seguinte.
+
+---
+
+## 6. Falta de dever-ser
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+O dever-ser ainda não deve comandar.
+
+A normatividade derivada pertence ao Capítulo 10.
+
+---
+
+## 7. Falta de responsabilidade
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Responsabilidade como centro pertence ao Capítulo 11.
+
+---
+
+## 8. Falta de política ou sistema
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Política, instituição e sistema pertencem a camadas posteriores.
+
+---
+
+## VIII. Mapa das lacunas por zona interna
+
+| Zona interna | Lacuna real | Tipo de lacuna | Gravidade | Resposta |
+|---|---|---|---:|---|
+| Passagem do Capítulo 8 | ação pode parecer derivada da representação | mediação | alta | inserir fórmula curta de separação |
+| `P38` | ação pode ficar formal demais | densificação | média/alta | concretizar atualização e consequência |
+| liberdade situada | pouca massa própria | densidade | alta | subordinar à ação situada |
+| `P39` | passagem para não-indiferença ainda fina | mediação | média | explicar diferença real entre trajetórias |
+| `P40` | dano puxa para mal | contenção | alta | dano só como consequência real |
+| `P41` | mínimo negativo puxa dever-ser | formulação | alta | negatividade mínima, sem normatividade |
+| `P36` | regressão epistemológica | localização | média/alta | entrar tarde e subordinado |
+| `P48` | entrada prematura do possível real | fecho | média/alta | usar apenas terminalmente |
+| materiais fragmentários | poucos núcleos diretos | povoamento | alta | uso seletivo, sem inflação |
+| fronteira com Capítulo 10 | dano/não-indiferença puxam normatividade | fronteira | alta | terminar antes do dever-ser |
+
+---
+
+## IX. Lacunas que devem orientar o `05_decisao_local_do_capitulo.md`
+
+### lacuna a assumir
+A decisão local deve assumir explicitamente:
+
+> O Capítulo 9 está libertado para povoamento, mas estruturalmente frágil.
+
+### lacuna a não esconder
+A decisão local não deve esconder:
+- pouca massa positiva própria;
+- fragilidade da liberdade situada;
+- risco de moralização;
+- risco de absorção pelo Capítulo 10;
+- risco de regressão ao Capítulo 7;
+- risco de reabertura do Capítulo 8.
+
+### lacuna a resolver por travão
+A decisão local deve resolver por travão:
+- liberdade abstrata;
+- moralização;
+- normatividade antecipada;
+- epistemologia soberana;
+- sistema.
+
+### lacuna a resolver por redação
+A decisão local deve reservar para a futura versão controlada:
+- mediação curta entre Capítulo 8 e ação;
+- explicitação de ação como atualização real;
+- subordinação da liberdade à ação situada;
+- passagem curta de ação para não-indiferença;
+- entrada controlada do dano;
+- mínimo negativo objetivo sem dever-ser;
+- `P36` como disciplina crítica;
+- `P48` como fecho terminal.
+
+---
+
+## X. Decisão diagnóstica provisória
+
+### decisão
+As lacunas do Capítulo 9 são reais, mas não impedem a abertura.
+
+### grau da lacuna
+A lacuna é:
+- alta quanto à densidade positiva;
+- média/alta quanto às mediações;
+- alta quanto aos riscos de desvio;
+- não impeditiva quanto ao centro.
+
+### fórmula diagnóstica
+> O Capítulo 9 não precisa de novo centro; precisa de contenção, mediações curtas e aceitação explícita da sua fragilidade.
+
+### consequência para a fase seguinte
+O `05_decisao_local_do_capitulo.md` deve libertar o capítulo para escrita controlada, mas com restrições fortes.
+
+---
+
+## XI. Fórmula final curta
+
+> A lacuna do Capítulo 9 não é falta de centro, mas falta de massa positiva larga: a ação como atualização real situada está suficientemente autorizada, mas a liberdade situada, a assimetria entre trajetórias, o dano real e o mínimo negativo objetivo só podem ser escritos com prudência, sem moralização, sem normatividade antecipada, sem regressão epistemológica e sem salto para sistema.
+
+<a id="cap-09-acao-liberdade-situada-05-decisao-local-do-capitulo-md"></a>
+### 05_decisao_local_do_capitulo
+
+**Ficheiro de origem:** `CAP_09_acao_liberdade_situada/05_decisao_local_do_capitulo.md`
+
+# 05_decisao_local_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a decisão local sobre o estado do **Capítulo 9 — Ação e liberdade situada**;
+- decidir se o capítulo pode avançar para `06_primeira_versao_controlada_de_escrita.md`;
+- transformar o diagnóstico de materiais positivos, materiais críticos e lacunas em regra operativa de escrita;
+- preservar o centro próprio do capítulo sem inflacionar a sua fragilidade;
+- estabelecer as condições vinculantes para a primeira versão controlada.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não produz o `06_primeira_versao_controlada_de_escrita.md`;
+- não reabre os Capítulos 1 a 8;
+- não reescreve o Capítulo 8;
+- não antecipa o Capítulo 10;
+- não altera a arquitetura macro;
+- não converte fragilidade em bloqueio;
+- não converte autorização em robustez plena.
+
+### valor metodológico
+- vale como decisão local de passagem;
+- vale como norma imediata para o `06`;
+- vale como travão contra redação inflacionada;
+- vale como critério de controlo para posterior confronto;
+- vale como peça de estabilização provisória do Capítulo 9.
+
+---
+
+## II. Estado acumulado do capítulo
+
+### documentos locais já produzidos
+O Capítulo 9 já dispõe de:
+
+1. `00_estatuto_e_limites.md`;
+2. `01_estrutura_interna.md`;
+3. `02_materiais_positivos.md`;
+4. `03_materiais_criticos.md`;
+5. `04_lacunas_do_capitulo.md`.
+
+### resultado acumulado
+O trabalho local já permite afirmar:
+
+> o Capítulo 9 tem centro suficiente para abrir, mas não tem massa positiva larga.
+
+### estado local
+O estado local do capítulo é:
+
+> **libertado para escrita controlada, mas estruturalmente frágil.**
+
+### consequência
+O capítulo pode avançar para `06_primeira_versao_controlada_de_escrita.md`.
+
+Mas só pode avançar sob restrições fortes.
+
+---
+
+## III. Decisão local
+
+### decisão
+**Abrir o Capítulo 9 para primeira versão controlada de escrita.**
+
+### fórmula da decisão
+> O Capítulo 9 está autorizado a avançar para escrita controlada porque o seu centro está suficientemente definido: ação como atualização real situada, liberdade situada, assimetria entre trajetórias, dano real, mínimo negativo objetivo, erro como disciplina crítica subordinada e possível real como limite terminal.
+
+### qualificação da decisão
+A decisão é positiva, mas condicionada.
+
+Não é uma decisão de robustez plena.
+
+Não é uma decisão de expansão livre.
+
+Não é uma decisão de redação final.
+
+### estatuto operativo
+O capítulo deve ser tratado como:
+- legítimo;
+- necessário na sequência;
+- suficientemente centrado;
+- materialmente estreito;
+- exposto a desvios fortes;
+- dependente de escrita disciplinada.
+
+---
+
+## IV. Centro autorizado
+
+### centro local confirmado
+O centro autorizado do Capítulo 9 é:
+
+> **ação como atualização real situada, liberdade descrita e não moralizada, e início da assimetria entre trajetórias.**
+
+### fórmula governante
+> O Capítulo 9 abre pela ação como atualização real situada, ganha corpo na assimetria real entre trajetórias, no dano real e no mínimo negativo objetivo, admite o erro apenas como disciplina crítica do agir, e fecha terminalmente pelo limite do possível real, sem autonomizar normatividade, critério ou sistema.
+
+### o que esta decisão confirma
+Fica confirmado que:
+- a ação abre o capítulo;
+- a liberdade entra subordinadamente;
+- a assimetria entre trajetórias dá corpo;
+- o dano entra apenas como consequência real;
+- o mínimo negativo objetivo bloqueia a indiferença total;
+- `P36` entra apenas como disciplina crítica do agir;
+- `P48` entra apenas como limite terminal.
+
+### o que esta decisão não autoriza
+Esta decisão não autoriza:
+- teoria geral da liberdade;
+- filosofia da vontade;
+- teoria da escolha;
+- moral pronta;
+- teoria do mal;
+- dever-ser desenvolvido;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- direito;
+- política;
+- sistema.
+
+---
+
+## V. Ordem obrigatória para o `06`
+
+### sequência vinculante
+A primeira versão controlada deve respeitar esta ordem:
+
+1. passagem negativa desde o Capítulo 8;
+2. ação como atualização real situada — `P38`;
+3. liberdade situada, subordinada à ação;
+4. não-indiferença das atualizações — `P39`;
+5. dano real como consequência — `P40`;
+6. mínimo negativo objetivo — `P41`;
+7. erro como disciplina crítica do agir — `P36`;
+8. limite terminal do possível real — `P48`;
+9. fecho de entrega ao Capítulo 10.
+
+### fórmula curta da ordem
+> `P38 → liberdade situada subordinada → P39 → P40 → P41 → P36 subordinado → P48 terminal`.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente:
+- não abrir por liberdade;
+- não abrir por vontade;
+- não abrir por escolha;
+- não abrir por dano;
+- não abrir por erro;
+- não abrir por dever-ser;
+- não abrir por bem ou mal;
+- não abrir por responsabilidade;
+- não abrir por sistema.
+
+---
+
+## VI. Condições obrigatórias de escrita
+
+### condição 1 — abrir pela ação
+O capítulo deve começar pela ação como atualização real situada.
+
+A fórmula de abertura deve deixar claro que:
+- a representação corrigida não basta;
+- agir é atualizar;
+- atualizar é introduzir diferença no real;
+- a ação tem consequências;
+- a ação ocorre num campo situado.
+
+### condição 2 — subordinar a liberdade
+A liberdade deve entrar apenas depois de a ação estar fixada.
+
+A liberdade deve ser apresentada como:
+- liberdade situada;
+- liberdade no campo real de possibilidades;
+- liberdade sob limite;
+- liberdade com consequência;
+- liberdade sem soberania abstrata.
+
+### condição 3 — não moralizar a assimetria
+A assimetria entre trajetórias deve aparecer como diferença real entre atualizações.
+
+Ainda não deve aparecer como:
+- bem;
+- mal;
+- culpa;
+- mérito;
+- dever;
+- responsabilidade.
+
+### condição 4 — conter o dano
+O dano deve entrar apenas como consequência real possível da atualização.
+
+Deve ser descrito como:
+- degradação real;
+- estreitamento de possibilidade;
+- quebra de condição;
+- diminuição de continuidade;
+- efeito negativo no real.
+
+Não deve ser desenvolvido como teoria do mal.
+
+### condição 5 — fixar o mínimo negativo
+O mínimo negativo objetivo deve bloquear a equivalência total das trajetórias.
+
+Não deve produzir ainda:
+- sistema moral;
+- normatividade derivada;
+- dever-ser;
+- hierarquia completa de valores.
+
+### condição 6 — colocar `P36` tarde
+`P36` deve entrar depois da ação, da não-indiferença, do dano e do mínimo negativo.
+
+Deve entrar apenas para mostrar que:
+- uma ação pode falhar por má descrição da situação;
+- descrever mal o problema pode conduzir a aplicar mal a solução;
+- a ação deve permanecer submetida ao real.
+
+### condição 7 — fechar com `P48`
+`P48` deve entrar apenas no terminal.
+
+A sua função é fechar o capítulo pelo limite do possível real.
+
+Não deve abrir normatividade.
+
+Não deve antecipar o dever-ser.
+
+---
+
+## VII. Materiais autorizados
+
+### núcleo indispensável
+Devem ser usados como núcleo:
+- `P38`;
+- `P39`;
+- `P40`;
+- `P41`.
+
+### materiais subordinados
+Podem ser usados, mas subordinadamente:
+- `P36`;
+- `P48`.
+
+### fragmentos de apoio autorizados
+Podem ser usados com prudência:
+- `F0003_SEG_001`;
+- `F0120_SEG_001`;
+- `F0208_SEG_001`;
+- `F0065_A01_SEG_002`;
+- `F0135_SEG_001`;
+- `F0241_A08_SEG_001`.
+
+### condição de uso dos fragmentos
+Nenhum fragmento deve comandar o capítulo.
+
+Os fragmentos só podem:
+- apoiar formulações;
+- dar corpo mínimo;
+- fornecer transições;
+- disciplinar riscos.
+
+Não podem substituir a sequência estrutural.
+
+---
+
+## VIII. Materiais a manter fora
+
+### fora por antecipação do Capítulo 10
+Devem ficar fora como corpo principal:
+- materiais sobre bem;
+- materiais sobre mal;
+- materiais sobre dever-ser;
+- materiais sobre normatividade derivada;
+- materiais sobre valor moral;
+- materiais sobre teoria do dano.
+
+### fora por antecipação do Capítulo 11
+Devem ficar fora:
+- responsabilidade;
+- autoresponsabilidade;
+- dignidade;
+- vida boa;
+- melhor modo de ser;
+- mudança de si como dever.
+
+### fora por antecipação de capítulos sociais e sistémicos
+Devem ficar fora:
+- coordenação intersubjetiva;
+- comum;
+- cultura;
+- instituição;
+- direito;
+- política;
+- sistema;
+- crítica sistémica.
+
+### fora por regressão mediacional ou epistemológica
+Devem ficar fora como centro:
+- consciência;
+- linguagem;
+- símbolo;
+- representação;
+- verdade;
+- critério;
+- erro;
+- correção.
+
+---
+
+## IX. Tratamento das lacunas
+
+### lacuna principal assumida
+A decisão local assume a lacuna principal:
+
+> o capítulo tem massa positiva estreita para desenvolver ação, liberdade situada e assimetria entre trajetórias sem recorrer a materiais posteriores.
+
+### modo de resposta
+A lacuna deve ser respondida por:
+- escrita curta;
+- mediações explícitas;
+- travões fortes;
+- formulações negativas controladas;
+- não inflação.
+
+### lacunas a resolver no `06`
+O `06` deve resolver localmente:
+- passagem do Capítulo 8 para ação;
+- densificação mínima de `P38`;
+- entrada subordinada da liberdade situada;
+- passagem de ação para não-indiferença;
+- entrada contida do dano;
+- formulação negativa de `P41`;
+- entrada subordinada de `P36`;
+- fecho terminal por `P48`.
+
+### lacunas que não devem ser resolvidas no Capítulo 9
+Não resolver aqui:
+- teoria geral da liberdade;
+- teoria do mal;
+- normatividade derivada;
+- dever-ser;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+Essas não são lacunas do Capítulo 9.
+
+São fronteiras.
+
+---
+
+## X. Fronteiras vinculantes
+
+## 1. Fronteira com o Capítulo 8
+
+### regra
+O Capítulo 8 preparou o Capítulo 9 apenas negativamente.
+
+### o que pode ser herdado
+O Capítulo 9 pode pressupor:
+- consciência reinscrita;
+- mediação disciplinada;
+- representação corrigida;
+- submissão ao real;
+- bloqueio da vida na representação simbólica do símbolo.
+
+### o que não pode repetir
+Não deve repetir:
+- teoria da consciência;
+- teoria da linguagem;
+- teoria do símbolo;
+- teoria da representação;
+- crítica da substituição simbólica;
+- verdade, erro e correção como corpo próprio.
+
+### fórmula de passagem
+> Depois de a consciência mediada ter sido reapertada no real, já não se trata apenas de representar melhor, mas de atualizar efetivamente algo no real.
+
+---
+
+## 2. Fronteira com o Capítulo 10
+
+### regra
+O Capítulo 9 prepara o Capítulo 10, mas não o absorve.
+
+### o que pode preparar
+Pode preparar:
+- dano real;
+- não-indiferença;
+- mínimo negativo objetivo;
+- limite do possível real.
+
+### o que não pode desenvolver
+Não pode desenvolver:
+- bem;
+- mal;
+- dever-ser;
+- normatividade derivada;
+- teoria moral;
+- responsabilidade.
+
+### fórmula de entrega
+> O Capítulo 9 termina quando o dano real e o mínimo negativo objetivo tornam inevitável a pergunta seguinte pela normatividade derivada, mas antes de a responder.
+
+---
+
+## 3. Fronteira com o Capítulo 11
+
+### regra
+Responsabilidade, dignidade e vida boa não entram como centro.
+
+### razão
+Antes de responsabilidade, é necessário:
+- ação situada;
+- dano real;
+- bem e mal;
+- normatividade derivada.
+
+### decisão
+Manter Capítulo 11 fora.
+
+---
+
+## 4. Fronteira com capítulos sociais e sistémicos
+
+### regra
+A consequência real da ação não autoriza salto imediato para sistema.
+
+### decisão
+Manter fora:
+- comum;
+- cultura;
+- instituição;
+- direito;
+- política;
+- crítica sistémica.
+
+---
+
+## XI. Travões vinculantes para o `06`
+
+### travão anti-liberdade abstrata
+Não abrir por liberdade.
+
+Não usar liberdade como soberania da vontade.
+
+Não usar liberdade como escolha pura.
+
+### travão anti-vontade
+Não transformar ação em exteriorização de vontade interior.
+
+### travão anti-representação
+Não transformar ação em execução de representação corrigida.
+
+### travão anti-moralização
+Não transformar assimetria em moral pronta.
+
+Não transformar dano em mal.
+
+Não transformar mínimo negativo em dever-ser.
+
+### travão anti-epistemologia
+Não fazer de `P36` a cabeça do capítulo.
+
+Não regressar ao Capítulo 7.
+
+### travão anti-normatividade
+Não usar `P46/P47` como corpo do capítulo.
+
+Não deixar `P48` entrar antes do fecho.
+
+### travão anti-sistema
+Não importar cultura, instituição, direito, política ou crítica sistémica.
+
+### travão de fragilidade
+Não fazer o capítulo parecer mais forte do que é.
+
+---
+
+## XII. Forma esperada do `06`
+
+### extensão
+A primeira versão controlada deve ser moderada.
+
+Não deve ser demasiado longa.
+
+Não deve tentar resolver todos os problemas práticos da obra.
+
+### tom
+O tom deve ser:
+- disciplinado;
+- seco;
+- estrutural;
+- descritivo;
+- sem moralização;
+- sem retórica motivacional;
+- sem grandiloquência sobre liberdade.
+
+### organização provável
+A redação deve seguir aproximadamente esta sequência:
+
+1. **passagem desde o bloco mediacional**
+   - representação corrigida;
+   - ação ainda não aberta;
+   - necessidade de atualização prática.
+
+2. **ação como atualização real situada**
+   - agir é atualizar;
+   - atualizar tem consequências;
+   - ação não é representação.
+
+3. **liberdade situada**
+   - liberdade no campo do possível real;
+   - liberdade sem soberania;
+   - liberdade sob limite e consequência.
+
+4. **não-indiferença das trajetórias**
+   - trajetórias diferentes produzem diferenças reais;
+   - nem toda a atualização é indiferente.
+
+5. **dano real**
+   - existe dano real;
+   - dano como consequência, não teoria do mal.
+
+6. **mínimo negativo objetivo**
+   - se há dano real, nem tudo vale do mesmo modo;
+   - bloqueio da indiferença total.
+
+7. **erro como disciplina crítica do agir**
+   - má descrição;
+   - má aplicação;
+   - desadequação prática ao real.
+
+8. **possível real como fecho**
+   - a ação encontra o limite do possível real;
+   - entrega ao Capítulo 10.
+
+### fórmula de fecho do `06`
+O `06` deve terminar com uma entrega deste tipo:
+
+> A ação situada mostra que nem toda a atualização é indiferente; quando há dano real, a equivalência total entre trajetórias fica bloqueada. Mas a determinação do bem, do mal e da normatividade derivada pertence ao passo seguinte.
+
+---
+
+## XIII. Critério de suficiência do `06`
+
+### o `06` será suficiente se
+Será suficiente se:
+- abrir pela ação;
+- não fizer da liberdade a cabeça;
+- der corpo mínimo à atualização real;
+- introduzir assimetria sem moralizar;
+- introduzir dano sem teoria do mal;
+- fixar mínimo negativo sem dever-ser;
+- colocar `P36` subordinado;
+- colocar `P48` terminal;
+- entregar claramente ao Capítulo 10.
+
+### o `06` será insuficiente se
+Será insuficiente se:
+- abrir por liberdade;
+- abrir por vontade;
+- tratar ação como aplicação de representação;
+- transformar dano em mal;
+- desenvolver normatividade;
+- antecipar responsabilidade;
+- reabrir o Capítulo 7;
+- reabrir o Capítulo 8;
+- saltar para sistema;
+- parecer mais robusto do que é.
+
+---
+
+## XIV. Decisão final local
+
+### decisão final
+O Capítulo 9 fica:
+
+> **libertado para `06_primeira_versao_controlada_de_escrita.md`, com restrições fortes.**
+
+### estatuto final
+O estatuto final é:
+
+> **autorizado, mas frágil.**
+
+### motivo da autorização
+A autorização justifica-se porque:
+- o centro está claro;
+- a ordem interna está fixada;
+- os materiais positivos bastam para abertura mínima;
+- os materiais críticos estão identificados;
+- as lacunas são reais, mas não impeditivas;
+- as fronteiras estão suficientemente travadas.
+
+### motivo da restrição
+A restrição justifica-se porque:
+- a massa positiva é estreita;
+- a liberdade situada ainda tem pouco corpo próprio;
+- dano e mínimo negativo puxam para Capítulo 10;
+- `P36` pode reabrir o Capítulo 7;
+- `P48` pode antecipar normatividade;
+- materiais sociais e sistémicos podem deslocar a escala.
+
+### fórmula da decisão
+> O Capítulo 9 deve avançar para escrita controlada como capítulo de passagem prática: abre pela ação como atualização real situada, admite liberdade apenas como liberdade situada, ganha corpo na não-indiferença das trajetórias, toca o dano real e o mínimo negativo objetivo sem moralizar, usa o erro apenas como disciplina crítica do agir, e fecha pelo possível real antes de entregar ao Capítulo 10 a normatividade derivada.
+
+---
+
+## XV. Fórmula final curta
+
+> Decisão: abrir o Capítulo 9 para primeira versão controlada de escrita. A abertura é legítima, mas condicionada. O capítulo tem centro suficiente, mas massa positiva estreita; por isso deve ser escrito com prudência, começando pela ação situada, subordinando a liberdade, contendo o dano, evitando normatividade antecipada, colocando `P36` apenas como disciplina crítica e `P48` apenas como fecho terminal.
+
+<a id="cap-09-acao-liberdade-situada-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_09_acao_liberdade_situada/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+## I. Estatuto desta versão
+
+### função
+
+Este ficheiro apresenta a primeira versão controlada de escrita do **Capítulo 9 — Ação e liberdade situada**.
+
+Não é ainda redação final publicada.
+
+A sua função é testar, em forma já parcialmente corrida, se o capítulo consegue abrir e desenvolver o seu centro próprio sem se desviar para liberdade abstrata, moralização, normatividade antecipada, responsabilidade, sistema ou regressão mediacional.
+
+### limite
+
+Esta versão não deve ser lida como teoria geral da liberdade.
+
+Também não deve ser lida como teoria do bem, do mal, da responsabilidade ou da vida boa.
+
+O seu objeto é mais estreito:
+
+> a ação como atualização real situada, a liberdade como liberdade situada, a assimetria mínima entre trajetórias, o dano real como consequência possível da atualização, o mínimo negativo objetivo, o erro apenas como disciplina crítica do agir, e o possível real como limite terminal.
+
+### regra de controlo
+
+A ordem desta versão obedece à sequência:
+
+> `P38 → liberdade situada subordinada → P39 → P40 → P41 → P36 subordinado → P48 terminal`.
+
+---
+
+## II. Capítulo 9 — Ação e liberdade situada
+
+## 1. Da representação corrigida à atualização prática
+
+Nos capítulos anteriores, a consciência mediada foi reapertada no real.
+
+A representação deixou de poder funcionar como lugar autónomo.  
+A linguagem deixou de poder substituir o real que tenta dizer.  
+O símbolo deixou de poder transformar-se em mundo próprio.  
+A consciência deixou de poder tomar-se como exterioridade soberana.
+
+Este resultado era necessário.
+
+Enquanto a consciência vive na representação simbólica do símbolo, o real fica substituído por aquilo que dele se diz, imagina, estabiliza ou organiza. Enquanto a representação se toma por medida de si mesma, o erro pode conservar-se como coerência interna. Enquanto o símbolo deixa de mediar e passa a ocupar o lugar do real, a vida reflexiva perde o seu chão.
+
+Mas esse reaperto não basta.
+
+Corrigir a representação não é ainda agir.  
+Descrever melhor não é ainda atualizar.  
+Reinscrever o símbolo no real não é ainda produzir uma diferença prática no real.
+
+Depois de a mediação ter sido disciplinada, abre-se outro problema.
+
+O problema já não é apenas saber como o real é apreendido, representado, dito ou corrigido. O problema passa a ser saber o que acontece quando um ser situado atualiza efetivamente algo no real.
+
+É aqui que começa o Capítulo 9.
+
+A ação não é simples continuação da representação.  
+Não é mera aplicação de uma ideia.  
+Não é execução exterior de uma imagem interior.  
+Não é o movimento automático que se seguiria a uma consciência corrigida.
+
+A ação abre um plano próprio porque introduz atualização.
+
+Agir é fazer com que algo se atualize no real.  
+E aquilo que se atualiza no real deixa consequências no real.
+
+---
+
+## 2. Ação como atualização real situada
+
+A ação do ser reflexivo é atualização real com consequências.
+
+Esta é a abertura própria deste capítulo.
+
+Um ser reflexivo não existe apenas como ponto de apreensão, representação ou linguagem. Existe também como ser capaz de operar no real, de introduzir diferenças no campo em que está situado, de modificar relações, de interromper possibilidades, de conservar condições, de degradar situações, de criar continuidades ou de as quebrar.
+
+A ação não é apenas aquilo que um sujeito quer.  
+Não é apenas aquilo que imagina fazer.  
+Não é apenas aquilo que justifica para si.  
+Não é apenas aquilo que descreve depois de ter feito.
+
+A ação é o que se atualiza.
+
+O que conta, no plano agora aberto, é que a ação ocorre no real e, por isso, produz efeitos reais.
+
+Uma intenção pode permanecer interior.  
+Uma representação pode permanecer simbólica.  
+Uma justificação pode permanecer discursiva.  
+Mas uma ação, quando acontece, já está no campo das consequências.
+
+Isto não significa que toda a ação seja imediatamente clara para quem age. Também não significa que o agente domine inteiramente aquilo que atualiza. Pelo contrário, porque a ação é situada, ela ocorre sempre sob condições que excedem a pura intenção.
+
+Age-se num campo.  
+Age-se a partir de uma posição.  
+Age-se entre relações.  
+Age-se sob limites.  
+Age-se com informação parcial.  
+Age-se com efeitos que podem ultrapassar a intenção inicial.
+
+Por isso, a ação não deve ser pensada como projeção soberana de um interior livre sobre um exterior passivo.
+
+O real não é uma matéria neutra à espera da vontade.
+
+O real já tem estrutura, relações, limites e possibilidades. A ação entra nesse campo. Atualiza algo nele. E, ao atualizar, altera uma configuração real.
+
+A primeira tese prática é, por isso, baixa e descritiva:
+
+> agir é atualizar realmente algo numa situação real.
+
+Não há aqui ainda moral pronta.  
+Não há ainda dever-ser desenvolvido.  
+Não há ainda responsabilidade como centro.  
+Há apenas a fixação do plano próprio da ação: atualização situada com consequências.
+
+---
+
+## 3. Liberdade situada
+
+A liberdade não abre o capítulo.
+
+Se abrisse, o capítulo começaria no lugar errado.
+
+Começaria por uma abstração. Começaria por uma faculdade. Começaria por uma imagem de soberania. Começaria por um sujeito suposto como dono de si antes de se mostrar o campo real em que age.
+
+Mas a liberdade só é inteligível depois de a ação estar fixada como atualização real situada.
+
+A liberdade de que aqui se pode falar não é liberdade abstrata.  
+Não é vontade pura.  
+Não é escolha sem campo.  
+Não é autonomia desligada do real.  
+Não é poder de decidir fora das condições em que a decisão se atualiza.
+
+A liberdade que pode entrar neste capítulo é apenas liberdade situada.
+
+Isto significa que a liberdade não é exterior ao real. É modo de atualização dentro do real.
+
+Um ser reflexivo pode agir de modo diferente, mas não pode agir fora de toda a condição. Pode escolher entre trajetórias possíveis, mas não pode tornar possível aquilo que o real não permite atualizar. Pode projetar, imaginar, desejar ou decidir, mas a ação só se torna real quando encontra o campo em que pode ocorrer.
+
+A liberdade é, por isso, inseparável de três elementos:
+
+1. campo real de possibilidades;
+2. limite da atualização;
+3. consequência do que se atualiza.
+
+Sem campo, a liberdade torna-se palavra vazia.  
+Sem limite, torna-se fantasia de soberania.  
+Sem consequência, deixa de ser ação e passa a ser pura representação.
+
+A liberdade situada não diminui a ação. Torna-a inteligível.
+
+Porque agir livremente não é agir fora do real. É agir dentro de possibilidades reais, reconhecendo que a atualização escolhida não é indiferente ao campo onde acontece.
+
+Por isso, a liberdade neste capítulo não deve ser moralizada nem celebrada. Deve ser descrita.
+
+O ser reflexivo é livre apenas enquanto pode atualizar trajetórias no real, sob condições reais, com efeitos reais.
+
+Não há aqui ainda uma teoria da liberdade.  
+Há apenas a reinscrição da liberdade no plano da ação situada.
+
+---
+
+## 4. Nem toda a atualização é indiferente
+
+Se a ação atualiza o real, então nem toda a atualização é indiferente.
+
+Esta passagem é decisiva.
+
+Enquanto a ação fosse entendida apenas como intenção, poderia parecer que a diferença entre trajetórias se mede apenas pela interioridade de quem age. Enquanto fosse entendida como representação, poderia parecer que a diferença entre cursos de ação se decide apenas no plano das descrições. Mas, se a ação é atualização real, então trajetórias diferentes produzem diferenças reais.
+
+Uma atualização pode conservar uma condição.  
+Outra pode quebrá-la.  
+Uma pode abrir uma possibilidade.  
+Outra pode fechá-la.  
+Uma pode manter uma relação.  
+Outra pode degradá-la.  
+Uma pode responder ao que a situação pede.  
+Outra pode agravar a desadequação.
+
+Não é ainda preciso chamar a isto bem ou mal.
+
+Antes de qualquer moralização, há uma diferença mais baixa: nem todas as atualizações fazem o mesmo ao real.
+
+A não-indiferença começa aqui.
+
+Não começa como juízo moral pronto.  
+Não começa como código.  
+Não começa como dever.  
+Não começa como responsabilidade.  
+Começa como diferença real entre trajetórias de atualização.
+
+Se duas ações atualizam diferentemente o campo em que ocorrem, não podem ser tratadas como absolutamente equivalentes apenas porque ambas são possíveis, ambas foram escolhidas ou ambas pertencem ao mesmo agente.
+
+A possibilidade não basta para a equivalência.
+
+O facto de algo poder ser feito não significa que aquilo que se faz seja indiferente. Poder atualizar uma trajetória não significa que essa trajetória tenha o mesmo peso real que qualquer outra.
+
+A ação, por ocorrer no real, entra no regime da diferença.
+
+E a diferença entre trajetórias é o primeiro sinal de que o plano prático não pode ser reduzido a escolha subjetiva.
+
+---
+
+## 5. A assimetria entre trajetórias
+
+A não-indiferença das atualizações introduz uma assimetria mínima entre trajetórias.
+
+A palavra “assimetria” deve ser usada com prudência.
+
+Ela não significa ainda hierarquia moral completa.  
+Não significa teoria do valor.  
+Não significa que o capítulo já disponha de uma escala acabada do melhor e do pior.  
+Não significa que já exista aqui uma doutrina da vida boa.
+
+Significa apenas que trajetórias diferentes podem ter efeitos reais diferentes, e que essa diferença impede a equivalência total.
+
+O real não recebe todas as atualizações do mesmo modo.
+
+Há atualizações compatíveis com a continuidade de uma relação.  
+Há atualizações que a tornam mais frágil.  
+Há atualizações que preservam uma possibilidade.  
+Há atualizações que a encerram.  
+Há atualizações que respeitam a estrutura da situação.  
+Há atualizações que a descrevem mal e a atingem mal.
+
+A assimetria entre trajetórias nasce deste facto simples: aquilo que se atualiza não fica apenas no agente.
+
+A ação entra no real e passa a pertencer ao que aconteceu. A partir daí, pode produzir continuidade, rutura, degradação, abertura, bloqueio, preservação ou estreitamento.
+
+A assimetria não é ainda moral pronta.
+
+É o mínimo necessário para que a ação não seja pensada como campo indiferente de possibilidades equivalentes.
+
+Se há atualização real, há efeitos.  
+Se há efeitos diferentes, há trajetórias não equivalentes.  
+Se há trajetórias não equivalentes, a liberdade situada não pode ser confundida com indiferença soberana.
+
+---
+
+## 6. Dano real
+
+A partir daqui, torna-se possível introduzir o dano.
+
+Mas o dano deve entrar com contenção.
+
+No Capítulo 9, dano não é ainda teoria do mal.  
+Não é ainda culpa.  
+Não é ainda responsabilidade.  
+Não é ainda reparação.  
+Não é ainda fundamento completo da normatividade.
+
+Dano significa apenas que uma atualização pode degradar realmente uma condição, uma relação, uma possibilidade ou uma continuidade.
+
+Há dano quando a ação não apenas difere de outra, mas produz uma diminuição real.
+
+Essa diminuição pode assumir formas diversas:
+- estreitamento de possibilidade;
+- quebra de uma condição;
+- degradação de uma relação;
+- interrupção de uma continuidade;
+- bloqueio de um desenvolvimento possível;
+- produção de uma desadequação com efeitos reais.
+
+O ponto não é ainda classificar moralmente todos estes casos.
+
+O ponto é apenas reconhecer que o dano existe no real.
+
+E, se existe dano real, então a diferença entre trajetórias não é apenas uma diferença de gosto, de perspetiva ou de linguagem.
+
+Uma ação que conserva uma possibilidade e uma ação que a destrói não são simplesmente duas expressões equivalentes de liberdade.
+
+Uma ação que respeita uma condição real e uma ação que a degrada não se distinguem apenas por preferência subjetiva.
+
+Uma ação que mantém o campo aberto e uma ação que o fecha não podem ser tratadas como indiferentes sem apagar a diferença real que produziram.
+
+O dano real é, assim, o primeiro endurecimento da assimetria entre trajetórias.
+
+Enquanto se falava apenas de diferença entre atualizações, ainda se podia pensar numa não-indiferença mínima. Com o dano, essa não-indiferença ganha um limite negativo.
+
+Há atualizações que não apenas diferem.  
+Há atualizações que danificam.
+
+---
+
+## 7. Mínimo negativo objetivo
+
+Se há dano real, nem tudo vale do mesmo modo.
+
+Esta frase deve ser entendida no seu alcance mínimo.
+
+Ela não diz ainda o que é o bem.  
+Não diz ainda o que é o mal.  
+Não diz ainda qual é o dever.  
+Não diz ainda como se constrói uma normatividade derivada.  
+Não diz ainda como se distribui responsabilidade.
+
+Diz apenas isto:
+
+> a existência de dano real bloqueia a equivalência total entre trajetórias de ação.
+
+Este é o mínimo negativo objetivo.
+
+É negativo porque não constrói ainda uma doutrina positiva do bem.  
+É objetivo porque não depende apenas de preferência, vontade, discurso ou convenção.  
+É mínimo porque diz apenas o necessário para impedir a indiferença total.
+
+Se uma atualização produz dano real, essa atualização não pode ser tratada como equivalente a outra que não o produz, pelo menos nesse aspeto.
+
+Isto não resolve todos os problemas práticos.  
+Não decide automaticamente todos os conflitos.  
+Não elimina a dificuldade de descrever o dano.  
+Não elimina a necessidade de avaliar campo, escala, relação e limite.
+
+Mas fixa um ponto sem o qual a prática se tornaria ininteligível: nem tudo vale do mesmo modo quando há dano real.
+
+O mínimo negativo objetivo não é ainda moral pronta, mas impede o indiferentismo prático absoluto.
+
+A sua função é bloquear uma falsa neutralidade.
+
+Não basta dizer: “era possível”.  
+Não basta dizer: “foi escolhido”.  
+Não basta dizer: “era uma trajetória entre outras”.  
+Não basta dizer: “foi expressão de liberdade”.
+
+Se a trajetória atualizada produziu dano real, então a equivalência total já caiu.
+
+A partir daqui, poderá abrir-se a pergunta pela normatividade derivada. Mas essa pergunta ainda não deve comandar este capítulo.
+
+O Capítulo 9 deve parar antes de fazer do mínimo negativo uma teoria completa do dever.
+
+---
+
+## 8. O erro como disciplina crítica do agir
+
+O erro entra aqui apenas de modo subordinado.
+
+Não entra como cabeça do capítulo.  
+Não entra como tema próprio.  
+Não reabre a teoria da verdade, do critério e da correção.  
+Não transforma a ação num caso da epistemologia.
+
+Entra porque a ação situada pode falhar por desadequação ao real.
+
+Um ser reflexivo age a partir de uma leitura da situação. Essa leitura pode ser mais ou menos adequada. Pode reconhecer melhor ou pior o campo em que se encontra. Pode distinguir corretamente ou confundir os níveis. Pode perceber uma relação ou substituí-la por uma imagem. Pode tomar como possível aquilo que o real não permite. Pode tomar como indiferente aquilo que produz dano.
+
+Quando a situação é mal descrita, a solução tende a ser mal aplicada.
+
+Esta é a função local de `P36` no Capítulo 9.
+
+O erro não é aqui simples engano teórico.  
+Não é apenas incoerência interna.  
+Não é apenas ilusão subjetiva.  
+É desadequação prática quando a ação se orienta por uma descrição errada do real em que intervém.
+
+Uma ação pode ser danosa não porque o agente tenha querido o dano, mas porque descreveu mal a situação.
+
+Pode aplicar a solução errada porque identificou mal o problema.  
+Pode agir em escala errada porque confundiu o campo.  
+Pode tratar como equivalente aquilo que não era equivalente.  
+Pode converter a sua representação em substituto da situação real.
+
+Por isso, a crítica do agir exige submissão ao real.
+
+Não basta a intenção ser coerente.  
+Não basta o discurso justificar-se.  
+Não basta o sistema interno parecer arrumado.  
+Não basta a decisão ser sentida como livre.
+
+A ação deve ser confrontada com o real que atualiza.
+
+Este confronto não substitui a ação. Disciplina-a.
+
+Assim, o erro entra no Capítulo 9 como higiene prática: impedir que o agir se desligue da situação real que pretende atualizar.
+
+---
+
+## 9. O limite do possível real
+
+A ação situada encontra finalmente o limite do possível real.
+
+Este fecho deve ser terminal.
+
+Não pode entrar cedo.  
+Não pode abrir o capítulo.  
+Não pode transformar o Capítulo 9 em teoria do dever-ser.  
+Não pode substituir a análise da ação pela análise da normatividade.
+
+O que aqui se fixa é mais simples.
+
+A ação só pode atualizar aquilo que o real permite atualizar.
+
+Isto parece evidente, mas é decisivo.
+
+O ser reflexivo pode desejar mais do que pode.  
+Pode imaginar mais do que a situação permite.  
+Pode representar uma solução impossível.  
+Pode exigir de si ou dos outros aquilo que não cabe no campo real de possibilidades.  
+Pode construir deveres que ignoram o poder-ser real.
+
+Mas uma orientação prática que ignora o possível real perde contacto com a ação.
+
+A ação não ocorre no espaço ilimitado do imaginável. Ocorre no campo limitado do atualizável.
+
+Por isso, a liberdade situada não é diminuída pelo possível real. É definida por ele.
+
+Ser livre não é poder tudo.  
+É poder atualizar, dentro de um campo real, uma trajetória que não é indiferente e que produz consequências.
+
+O possível real fecha o capítulo porque impede duas ilusões opostas.
+
+A primeira ilusão é a da soberania: pensar que a vontade pode tudo porque decide.  
+A segunda é a da impotência abstrata: pensar que, porque não se pode tudo, nada se atualiza realmente.
+
+Contra ambas, a ação situada mostra uma zona intermédia e concreta: há possibilidades reais; nelas, o ser reflexivo pode agir; ao agir, atualiza; ao atualizar, produz consequências; e essas consequências não são indiferentes.
+
+Este é o limite terminal do Capítulo 9.
+
+---
+
+## 10. Entrega ao Capítulo 10
+
+O Capítulo 9 não deve resolver aquilo que apenas prepara.
+
+A ação situada mostrou que a representação corrigida não basta.  
+Mostrou que agir é atualizar o real.  
+Mostrou que a liberdade só pode ser descrita como liberdade situada.  
+Mostrou que trajetórias diferentes produzem diferenças reais.  
+Mostrou que existe dano real.  
+Mostrou que, se há dano real, nem tudo vale do mesmo modo.  
+Mostrou que o agir pode falhar por má descrição da situação.  
+Mostrou que toda a ação encontra o limite do possível real.
+
+Mas ainda não desenvolveu a normatividade.
+
+Ainda não explicou o bem.  
+Ainda não explicou o mal.  
+Ainda não derivou o dever-ser.  
+Ainda não tratou responsabilidade.  
+Ainda não tratou dignidade.  
+Ainda não tratou vida boa.  
+Ainda não tratou comum, instituição, direito, política ou sistema.
+
+Esses passos exigem outro capítulo.
+
+O que fica ganho aqui é apenas a condição prática mínima: a ação do ser reflexivo atualiza o real e, porque atualiza o real, não é indiferente. Quando essa atualização produz dano real, a equivalência total das trajetórias fica bloqueada. Mas o que se segue desse bloqueio ainda deve ser pensado.
+
+A passagem correta para o Capítulo 10 é esta:
+
+> depois de fixada a ação como atualização real situada e depois de reconhecido que há dano real e mínimo negativo objetivo, pode começar o problema da normatividade derivada.
+
+O Capítulo 9 termina antes da moral pronta.
+
+Termina no ponto em que a ação situada obriga a perguntar pelo dano, pelo bem, pelo mal e pelo dever-ser, mas ainda sem responder por eles.
+
+---
+
+## III. Fecho de controlo da versão
+
+### centro preservado
+Esta versão preserva o centro do capítulo:
+
+> ação como atualização real situada, liberdade descrita e não moralizada, e início da assimetria entre trajetórias.
+
+### travões respeitados
+Foram respeitados os seguintes travões:
+- não abrir por liberdade;
+- não abrir por vontade;
+- não abrir por escolha soberana;
+- não transformar ação em execução de representação;
+- não moralizar imediatamente a assimetria;
+- não transformar dano em teoria do mal;
+- não antecipar dever-ser;
+- não fazer de `P36` cabeça epistemológica;
+- não deixar `P48` entrar cedo;
+- não saltar para responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+### fragilidade remanescente
+A fragilidade permanece.
+
+A liberdade situada ainda tem desenvolvimento mínimo.  
+A assimetria entre trajetórias ainda é formulada de modo contido.  
+O dano real ainda é apenas introduzido.  
+O mínimo negativo objetivo ainda não recebe desenvolvimento normativo.  
+`P36` e `P48` entram apenas como travões e fechos subordinados.
+
+Esta fragilidade não invalida o capítulo.
+
+Ela confirma o seu estatuto:
+
+> capítulo autorizado, mas estruturalmente frágil.
+
+### fórmula final da versão controlada
+> O Capítulo 9 abriu pela ação como atualização real situada, subordinou a liberdade ao campo do possível real, fez surgir a assimetria entre trajetórias pela não-indiferença das atualizações, introduziu o dano real apenas como consequência, fixou o mínimo negativo objetivo sem normatividade desenvolvida, admitiu o erro apenas como disciplina crítica do agir, e fechou pelo possível real antes de entregar ao Capítulo 10 a pergunta pelo bem, pelo mal e pelo dever-ser.
+
+<a id="cap-09-acao-liberdade-situada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap9-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP9
+
+**Ficheiro de origem:** `CAP_09_acao_liberdade_situada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP9.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP9
+
+## I. Estatuto desta versão
+
+### função
+
+Este ficheiro apresenta a versão pós-confronto controlada do **Capítulo 9 — Ação e liberdade situada**.
+
+Substitui, para efeitos de trabalho local, o ficheiro:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+A reescrita não altera o centro do capítulo.
+
+A sua função é afinar a primeira versão controlada depois do confronto com a base, reforçando os travões que impedem:
+- abertura por liberdade abstrata;
+- transformação da ação em consequência da representação;
+- moralização da assimetria entre trajetórias;
+- conversão do dano em teoria do mal;
+- antecipação da normatividade derivada;
+- regressão para o capítulo da verdade, erro, critério e correção;
+- salto para responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+### limite
+
+Esta versão não é ainda redação final publicada.
+
+Também não é teoria geral da liberdade.
+
+Não é teoria da vontade.
+
+Não é teoria da escolha.
+
+Não é teoria do bem e do mal.
+
+Não é teoria da responsabilidade.
+
+Não é capítulo de normatividade desenvolvida.
+
+O seu objeto é mais estreito:
+
+> abrir a ação como atualização real situada, descrever a liberdade apenas como liberdade situada, introduzir a assimetria real entre trajetórias, reconhecer o dano real como consequência possível da atualização, fixar o mínimo negativo objetivo, admitir o erro apenas como disciplina crítica do agir, e fechar pelo limite do possível real.
+
+### regra de controlo pós-confronto
+
+A ordem desta versão é:
+
+> `P38 → liberdade situada subordinada → P39 → P40 → P41 → P36 subordinado → P48 terminal`.
+
+A decisão pós-confronto acrescenta quatro exigências:
+
+1. declarar que o Capítulo 8 entrega o Capítulo 9 apenas negativamente;
+2. impedir que liberdade ou escolha comandem a ação;
+3. tornar explícito que a assimetria é real antes de ser normativa;
+4. manter `P36` e `P48` como elementos subordinados e terminais, sem deixá-los reorganizar o capítulo.
+
+---
+
+## II. Capítulo 9 — Ação e liberdade situada
+
+## 1. A entrega negativa do Capítulo 8
+
+Nos capítulos anteriores, a consciência mediada foi reapertada no real.
+
+A representação deixou de poder funcionar como lugar autónomo.  
+A linguagem deixou de poder substituir o real que tenta dizer.  
+O símbolo deixou de poder transformar-se em mundo próprio.  
+A consciência deixou de poder tomar-se como exterioridade soberana.
+
+Esse resultado era necessário.
+
+Enquanto a consciência vive na representação simbólica do símbolo, o real fica substituído por aquilo que dele se diz, imagina, estabiliza ou organiza. Enquanto a representação se toma por medida de si mesma, o erro pode conservar-se como coerência interna. Enquanto o símbolo deixa de mediar e passa a ocupar o lugar do real, a vida reflexiva perde o seu chão.
+
+Mas este resultado não produz ainda a ação.
+
+O Capítulo 8 não gera positivamente o Capítulo 9.  
+Não transforma a representação corrigida em ação.  
+Não faz da consciência reinscrita a causa suficiente do agir.  
+Não converte a mediação disciplinada em atualização prática.
+
+O Capítulo 8 faz apenas uma entrega negativa: remove a soberania mediacional que impediria reconhecer a ação no seu plano próprio.
+
+Isto é decisivo.
+
+A ação não deve ser lida como simples consequência da representação corrigida.  
+Não deve ser lida como aplicação prática de uma ideia.  
+Não deve ser lida como execução exterior de uma imagem interior.  
+Não deve ser lida como prolongamento automático da consciência disciplinada.
+
+Depois de a mediação ter sido reapertada no real, começa outro problema.
+
+O problema já não é apenas saber como o real é apreendido, representado, dito ou corrigido. O problema passa a ser saber o que acontece quando um ser situado atualiza efetivamente algo no real.
+
+É aqui que começa o Capítulo 9.
+
+Corrigir a representação não é ainda agir.  
+Descrever melhor não é ainda atualizar.  
+Reinscrever o símbolo no real não é ainda produzir uma diferença prática no real.
+
+A ação abre um plano próprio porque introduz atualização.
+
+Agir é fazer com que algo se atualize no real.  
+E aquilo que se atualiza no real deixa consequências no real.
+
+Este capítulo não pretende resolver já a liberdade, a moral ou a normatividade. Pretende apenas abrir o plano mínimo da ação situada.
+
+---
+
+## 2. Ação como atualização real situada
+
+A ação do ser reflexivo é atualização real com consequências.
+
+Esta é a abertura própria do capítulo.
+
+Um ser reflexivo não existe apenas como ponto de apreensão, representação ou linguagem. Existe também como ser capaz de operar no real, de introduzir diferenças no campo em que está situado, de modificar relações, de conservar condições, de interromper possibilidades, de degradar situações, de criar continuidades ou de as quebrar.
+
+A ação não é apenas aquilo que alguém quer.  
+Não é apenas aquilo que imagina fazer.  
+Não é apenas aquilo que justifica para si.  
+Não é apenas aquilo que descreve depois de ter feito.
+
+A ação é o que se atualiza.
+
+O que conta, no plano agora aberto, é que a ação ocorre no real e, por isso, produz efeitos reais.
+
+Uma intenção pode permanecer interior.  
+Uma representação pode permanecer simbólica.  
+Uma justificação pode permanecer discursiva.  
+Mas uma ação, quando acontece, já está no campo das consequências.
+
+Isto não significa que toda a ação seja transparente para quem age. Também não significa que o agente domine inteiramente aquilo que atualiza.
+
+Porque a ação é situada, ela ocorre sempre sob condições que excedem a pura intenção.
+
+Age-se num campo.  
+Age-se a partir de uma posição.  
+Age-se entre relações.  
+Age-se sob limites.  
+Age-se com informação parcial.  
+Age-se com efeitos que podem ultrapassar a intenção inicial.
+
+Por isso, a ação não deve ser pensada como projeção soberana de um interior livre sobre um exterior passivo.
+
+O real não é matéria neutra à espera da vontade.
+
+O real já tem estrutura, relações, limites e possibilidades. A ação entra nesse campo. Atualiza algo nele. E, ao atualizar, altera uma configuração real.
+
+A primeira tese prática é, por isso, baixa e descritiva:
+
+> agir é atualizar realmente algo numa situação real.
+
+Não há aqui ainda moral pronta.  
+Não há ainda dever-ser desenvolvido.  
+Não há ainda responsabilidade como centro.  
+Não há ainda teoria geral da agência.
+
+Há apenas a fixação do plano próprio da ação: atualização situada com consequências.
+
+---
+
+## 3. Liberdade situada
+
+A liberdade não abre o capítulo.
+
+Se abrisse, o capítulo começaria no lugar errado.
+
+Começaria por uma abstração.  
+Começaria por uma faculdade.  
+Começaria por uma imagem de soberania.  
+Começaria por um sujeito suposto como dono de si antes de se mostrar o campo real em que age.
+
+Mas a liberdade só é inteligível depois de a ação estar fixada como atualização real situada.
+
+A liberdade de que aqui se pode falar não é liberdade abstrata.  
+Não é vontade pura.  
+Não é escolha sem campo.  
+Não é autonomia desligada do real.  
+Não é poder de decidir fora das condições em que a decisão se atualiza.
+
+A liberdade que pode entrar neste capítulo é apenas liberdade situada.
+
+Isto significa que a liberdade não é exterior ao real. É modo de atualização dentro do real.
+
+Um ser reflexivo pode atualizar trajetórias diferentes, mas não pode agir fora de toda a condição. Pode operar dentro de possibilidades reais, mas não pode tornar possível aquilo que o real não permite atualizar. Pode projetar, imaginar, desejar ou deliberar, mas a ação só se torna real quando encontra o campo em que pode ocorrer.
+
+Quando se fala aqui de escolha, não se fala de soberania interior.
+
+A escolha, neste capítulo, é apenas o modo reflexivo pelo qual uma trajetória possível é atualizada num campo real já limitado.
+
+A liberdade é, por isso, inseparável de três elementos:
+
+1. campo real de possibilidades;
+2. limite da atualização;
+3. consequência do que se atualiza.
+
+Sem campo, a liberdade torna-se palavra vazia.  
+Sem limite, torna-se fantasia de soberania.  
+Sem consequência, deixa de ser ação e passa a ser pura representação.
+
+A liberdade situada não diminui a ação. Torna-a inteligível.
+
+Porque agir livremente não é agir fora do real. É agir dentro de possibilidades reais, reconhecendo que a atualização escolhida não é indiferente ao campo onde acontece.
+
+Por isso, a liberdade neste capítulo não deve ser moralizada nem celebrada. Deve ser descrita.
+
+O ser reflexivo é livre apenas enquanto pode atualizar trajetórias no real, sob condições reais, com efeitos reais.
+
+Não há aqui ainda uma teoria da liberdade.
+
+Há apenas a reinscrição da liberdade no plano da ação situada.
+
+---
+
+## 4. Nem toda a atualização é indiferente
+
+Se a ação atualiza o real, então nem toda a atualização é indiferente.
+
+Esta passagem é decisiva.
+
+Enquanto a ação fosse entendida apenas como intenção, poderia parecer que a diferença entre trajetórias se mede apenas pela interioridade de quem age. Enquanto fosse entendida como representação, poderia parecer que a diferença entre cursos de ação se decide apenas no plano das descrições. Mas, se a ação é atualização real, então trajetórias diferentes produzem diferenças reais.
+
+Uma atualização pode conservar uma condição.  
+Outra pode quebrá-la.  
+Uma pode abrir uma possibilidade.  
+Outra pode fechá-la.  
+Uma pode manter uma relação.  
+Outra pode degradá-la.  
+Uma pode responder ao que a situação permite.  
+Outra pode agravar a desadequação.
+
+Não é ainda preciso chamar a isto bem ou mal.
+
+Antes de qualquer moralização, há uma diferença mais baixa: nem todas as atualizações fazem o mesmo ao real.
+
+A não-indiferença começa aqui.
+
+Não começa como juízo moral pronto.  
+Não começa como código.  
+Não começa como dever.  
+Não começa como responsabilidade.  
+Começa como diferença real entre trajetórias de atualização.
+
+A assimetria é real antes de ser normativa.
+
+Se duas ações atualizam diferentemente o campo em que ocorrem, não podem ser tratadas como absolutamente equivalentes apenas porque ambas são possíveis, ambas foram deliberadas ou ambas pertencem ao mesmo agente.
+
+A possibilidade não basta para a equivalência.
+
+O facto de algo poder ser feito não significa que aquilo que se faz seja indiferente. Poder atualizar uma trajetória não significa que essa trajetória tenha o mesmo peso real que qualquer outra.
+
+A ação, por ocorrer no real, entra no regime da diferença.
+
+E a diferença entre trajetórias é o primeiro sinal de que o plano prático não pode ser reduzido a escolha subjetiva.
+
+---
+
+## 5. Assimetria entre trajetórias
+
+A não-indiferença das atualizações introduz uma assimetria mínima entre trajetórias.
+
+A palavra “assimetria” deve ser usada com prudência.
+
+Ela não significa ainda hierarquia moral completa.  
+Não significa teoria do valor.  
+Não significa escala acabada do melhor e do pior.  
+Não significa doutrina da vida boa.  
+Não significa responsabilidade.  
+Não significa culpa ou mérito.
+
+Significa apenas que trajetórias diferentes podem ter efeitos reais diferentes, e que essa diferença impede a equivalência total.
+
+O real não recebe todas as atualizações do mesmo modo.
+
+Há atualizações compatíveis com a continuidade de uma relação.  
+Há atualizações que a tornam mais frágil.  
+Há atualizações que preservam uma possibilidade.  
+Há atualizações que a encerram.  
+Há atualizações que respeitam a estrutura da situação.  
+Há atualizações que a descrevem mal e a atingem mal.
+
+A assimetria entre trajetórias nasce deste facto simples: aquilo que se atualiza não fica apenas no agente.
+
+A ação entra no real e passa a pertencer ao que aconteceu. A partir daí, pode produzir continuidade, rutura, degradação, abertura, bloqueio, preservação ou estreitamento.
+
+A assimetria não é ainda moral pronta.
+
+É o mínimo necessário para que a ação não seja pensada como campo indiferente de possibilidades equivalentes.
+
+Se há atualização real, há efeitos.  
+Se há efeitos diferentes, há trajetórias não equivalentes.  
+Se há trajetórias não equivalentes, a liberdade situada não pode ser confundida com indiferença soberana.
+
+A liberdade situada não desaparece perante esta assimetria. Pelo contrário, torna-se mais exigente de descrever: porque aquilo que se atualiza livremente não fica sem peso no real.
+
+---
+
+## 6. Dano real
+
+A partir daqui, torna-se possível introduzir o dano.
+
+Mas o dano deve entrar com contenção.
+
+No Capítulo 9, dano não é ainda teoria do mal.  
+Não é ainda culpa.  
+Não é ainda responsabilidade.  
+Não é ainda reparação.  
+Não é ainda fundamento completo da normatividade.
+
+Dano significa apenas que uma atualização pode degradar realmente uma condição, uma relação, uma possibilidade ou uma continuidade.
+
+Há dano quando a ação não apenas difere de outra, mas produz uma diminuição real.
+
+Essa diminuição pode assumir formas diversas:
+- estreitamento de possibilidade;
+- quebra de uma condição;
+- degradação de uma relação;
+- interrupção de uma continuidade;
+- bloqueio de um desenvolvimento possível;
+- produção de uma desadequação com efeitos reais.
+
+O ponto não é ainda classificar moralmente todos estes casos.
+
+O ponto é apenas reconhecer que o dano existe no real.
+
+E, se existe dano real, então a diferença entre trajetórias não é apenas uma diferença de gosto, de perspetiva ou de linguagem.
+
+Uma ação que conserva uma possibilidade e uma ação que a destrói não são simplesmente duas expressões equivalentes de liberdade.
+
+Uma ação que respeita uma condição real e uma ação que a degrada não se distinguem apenas por preferência subjetiva.
+
+Uma ação que mantém o campo aberto e uma ação que o fecha não podem ser tratadas como indiferentes sem apagar a diferença real que produziram.
+
+O dano real é o ponto em que a assimetria entre trajetórias deixa de ser apenas diferença de efeitos e passa a impor um limite negativo mínimo.
+
+Há atualizações que não apenas diferem.  
+Há atualizações que danificam.
+
+Mas esta constatação ainda não desenvolve uma teoria do mal.
+
+A sua função é mais limitada: impedir que todas as trajetórias sejam tratadas como equivalentes perante o real.
+
+---
+
+## 7. Mínimo negativo objetivo
+
+Se há dano real, nem tudo vale do mesmo modo.
+
+Esta frase deve ser entendida no seu alcance mínimo.
+
+Ela não diz ainda o que é o bem.  
+Não diz ainda o que é o mal.  
+Não diz ainda qual é o dever.  
+Não diz ainda como se constrói uma normatividade derivada.  
+Não diz ainda como se distribui responsabilidade.  
+Não diz ainda o que deve uma vida boa.
+
+Diz apenas isto:
+
+> a existência de dano real bloqueia a equivalência total entre trajetórias de ação.
+
+Este é o mínimo negativo objetivo.
+
+É negativo porque não constrói ainda uma doutrina positiva do bem.  
+É objetivo porque não depende apenas de preferência, vontade, discurso ou convenção.  
+É mínimo porque diz apenas o necessário para impedir a indiferença total.
+
+Se uma atualização produz dano real, essa atualização não pode ser tratada como equivalente a outra que não o produz, pelo menos nesse aspeto.
+
+Isto não resolve todos os problemas práticos.  
+Não decide automaticamente todos os conflitos.  
+Não elimina a dificuldade de descrever o dano.  
+Não elimina a necessidade de avaliar campo, escala, relação e limite.
+
+Mas fixa um ponto sem o qual a prática se tornaria ininteligível: nem tudo vale do mesmo modo quando há dano real.
+
+O mínimo negativo objetivo não é ainda moral pronta, mas impede o indiferentismo prático absoluto.
+
+A sua função é bloquear uma falsa neutralidade.
+
+Não basta dizer: “era possível”.  
+Não basta dizer: “foi escolhido”.  
+Não basta dizer: “era uma trajetória entre outras”.  
+Não basta dizer: “foi expressão de liberdade”.
+
+Se a trajetória atualizada produziu dano real, então a equivalência total já caiu.
+
+A partir daqui, poderá abrir-se a pergunta pela normatividade derivada. Mas essa pergunta ainda não deve comandar este capítulo.
+
+O Capítulo 9 deve parar antes de fazer do mínimo negativo uma teoria completa do dever.
+
+---
+
+## 8. O erro como disciplina crítica do agir
+
+O erro entra aqui apenas de modo subordinado.
+
+Não entra como cabeça do capítulo.  
+Não entra como tema próprio.  
+Não reabre a teoria da verdade, do critério e da correção.  
+Não transforma a ação num caso da epistemologia.
+
+O erro não governa aqui o capítulo; apenas disciplina o agir.
+
+Entra porque a ação situada pode falhar por desadequação ao real.
+
+Um ser reflexivo age a partir de uma leitura da situação. Essa leitura pode ser mais ou menos adequada. Pode reconhecer melhor ou pior o campo em que se encontra. Pode distinguir corretamente ou confundir os níveis. Pode perceber uma relação ou substituí-la por uma imagem. Pode tomar como possível aquilo que o real não permite. Pode tomar como indiferente aquilo que produz dano.
+
+Quando a situação é mal descrita, a solução tende a ser mal aplicada.
+
+Esta é a função local de `P36` no Capítulo 9.
+
+O erro não é aqui simples engano teórico.  
+Não é apenas incoerência interna.  
+Não é apenas ilusão subjetiva.  
+É desadequação prática quando a ação se orienta por uma descrição errada do real em que intervém.
+
+Uma ação pode ser danosa não porque o agente tenha querido o dano, mas porque descreveu mal a situação.
+
+Pode aplicar a solução errada porque identificou mal o problema.  
+Pode agir em escala errada porque confundiu o campo.  
+Pode tratar como equivalente aquilo que não era equivalente.  
+Pode converter a sua representação em substituto da situação real.
+
+Por isso, a crítica do agir exige submissão ao real.
+
+Não basta a intenção ser coerente.  
+Não basta o discurso justificar-se.  
+Não basta o sistema interno parecer arrumado.  
+Não basta a decisão ser sentida como livre.
+
+A ação deve ser confrontada com o real que atualiza.
+
+Este confronto não substitui a ação. Disciplina-a.
+
+Assim, o erro entra no Capítulo 9 como higiene prática: impedir que o agir se desligue da situação real que pretende atualizar.
+
+---
+
+## 9. O limite do possível real
+
+A ação situada encontra finalmente o limite do possível real.
+
+Este fecho deve ser terminal.
+
+Não pode entrar cedo.  
+Não pode abrir o capítulo.  
+Não pode transformar o Capítulo 9 em teoria do dever-ser.  
+Não pode substituir a análise da ação pela análise da normatividade.
+
+O que aqui se fixa é mais simples.
+
+A ação só pode atualizar aquilo que o real permite atualizar.
+
+Isto parece evidente, mas é decisivo.
+
+O ser reflexivo pode desejar mais do que pode.  
+Pode imaginar mais do que a situação permite.  
+Pode representar uma solução impossível.  
+Pode exigir de si ou dos outros aquilo que não cabe no campo real de possibilidades.  
+Pode construir deveres que ignoram o poder-ser real.
+
+Mas uma orientação prática que ignora o possível real perde contacto com a ação.
+
+A ação não ocorre no espaço ilimitado do imaginável. Ocorre no campo limitado do atualizável.
+
+Por isso, a liberdade situada não é diminuída pelo possível real. É definida por ele.
+
+Ser livre não é poder tudo.  
+É poder atualizar, dentro de um campo real, uma trajetória que não é indiferente e que produz consequências.
+
+O possível real fecha o capítulo porque impede duas ilusões opostas.
+
+A primeira ilusão é a da soberania: pensar que a vontade pode tudo porque decide.  
+A segunda é a da impotência abstrata: pensar que, porque não se pode tudo, nada se atualiza realmente.
+
+Contra ambas, a ação situada mostra uma zona intermédia e concreta: há possibilidades reais; nelas, o ser reflexivo pode agir; ao agir, atualiza; ao atualizar, produz consequências; e essas consequências não são indiferentes.
+
+Este é o limite terminal do Capítulo 9.
+
+`P48` não abre aqui uma teoria da normatividade. Apenas fecha a ação situada no limite do possível real.
+
+---
+
+## 10. Entrega ao Capítulo 10
+
+O Capítulo 9 não deve resolver aquilo que apenas prepara.
+
+A ação situada mostrou que a representação corrigida não basta.  
+Mostrou que agir é atualizar o real.  
+Mostrou que a liberdade só pode ser descrita como liberdade situada.  
+Mostrou que trajetórias diferentes produzem diferenças reais.  
+Mostrou que existe dano real.  
+Mostrou que, se há dano real, nem tudo vale do mesmo modo.  
+Mostrou que o agir pode falhar por má descrição da situação.  
+Mostrou que toda a ação encontra o limite do possível real.
+
+Mas ainda não desenvolveu a normatividade.
+
+Ainda não explicou o bem.  
+Ainda não explicou o mal.  
+Ainda não derivou o dever-ser.  
+Ainda não tratou responsabilidade.  
+Ainda não tratou dignidade.  
+Ainda não tratou vida boa.  
+Ainda não tratou comum, instituição, direito, política ou sistema.
+
+Esses passos exigem outro capítulo.
+
+O que fica ganho aqui é apenas a condição prática mínima: a ação do ser reflexivo atualiza o real e, porque atualiza o real, não é indiferente. Quando essa atualização produz dano real, a equivalência total das trajetórias fica bloqueada. Mas o que se segue desse bloqueio ainda deve ser pensado.
+
+A passagem correta para o Capítulo 10 é esta:
+
+> depois de fixada a ação como atualização real situada e depois de reconhecido que há dano real e mínimo negativo objetivo, pode começar o problema da normatividade derivada.
+
+O Capítulo 9 termina antes da moral pronta.
+
+Termina no ponto em que a ação situada obriga a perguntar pelo dano, pelo bem, pelo mal e pelo dever-ser, mas ainda sem responder por eles.
+
+---
+
+## III. Fecho de controlo pós-confronto
+
+### centro preservado
+
+Esta versão preserva o centro do capítulo:
+
+> ação como atualização real situada, liberdade descrita e não moralizada, e início da assimetria entre trajetórias.
+
+### correções pós-confronto integradas
+
+Foram integradas as seguintes correções:
+
+1. a entrega do Capítulo 8 foi explicitada como entrega negativa;
+2. a ação foi separada da representação corrigida;
+3. a liberdade foi subordinada à ação situada;
+4. o vocabulário da escolha foi travado;
+5. a assimetria foi formulada como real antes de normativa;
+6. o dano foi contido como limite negativo mínimo;
+7. `P36` foi explicitamente subordinado;
+8. `P48` foi mantido apenas como fecho terminal;
+9. a fragilidade estrutural do capítulo foi assumida.
+
+### travões respeitados
+
+Foram respeitados os seguintes travões:
+- não abrir por liberdade;
+- não abrir por vontade;
+- não abrir por escolha soberana;
+- não transformar ação em execução de representação;
+- não transformar ação em consequência simples do Capítulo 8;
+- não moralizar imediatamente a assimetria;
+- não transformar dano em teoria do mal;
+- não antecipar dever-ser;
+- não fazer de `P36` cabeça epistemológica;
+- não deixar `P48` entrar cedo;
+- não saltar para responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+### fragilidade remanescente
+
+A fragilidade permanece.
+
+A liberdade situada ainda tem desenvolvimento mínimo.  
+A assimetria entre trajetórias ainda é formulada de modo contido.  
+O dano real ainda é apenas introduzido.  
+O mínimo negativo objetivo ainda não recebe desenvolvimento normativo.  
+`P36` e `P48` entram apenas como travões e fechos subordinados.
+
+Esta fragilidade não invalida o capítulo.
+
+Ela confirma o seu estatuto:
+
+> capítulo autorizado, mas estruturalmente frágil.
+
+### fórmula final da versão pós-confronto
+
+> O Capítulo 9 abre pela ação como atualização real situada, recebe do Capítulo 8 apenas a remoção da soberania mediacional, subordina a liberdade ao campo do possível real, faz surgir a assimetria entre trajetórias pela não-indiferença das atualizações, introduz o dano real apenas como consequência, fixa o mínimo negativo objetivo sem normatividade desenvolvida, admite o erro apenas como disciplina crítica do agir, e fecha pelo possível real antes de entregar ao Capítulo 10 a pergunta pelo bem, pelo mal e pelo dever-ser.
+
+<a id="cap-09-acao-liberdade-situada-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_09_acao_liberdade_situada/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 9 — Ação e liberdade situada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 9 — Ação e liberdade situada**.
+
+Não é ainda redação final publicada. A sua função é converter o ganho do `06_primeira_versao_controlada_de_escrita.md` e do confronto pós-`06` numa forma mais próxima do capítulo final, integrando no próprio movimento do texto a crítica acompanhante necessária.
+
+O Capítulo 9 é um capítulo de passagem prática. A sua função não é abrir uma teoria geral da liberdade, uma ética, uma teoria do mal, uma teoria da responsabilidade ou uma crítica social. A sua função é mais baixa: dizer que uma consciência situada, mediada e corrigível pode passar da representação corrigida para a atualização efetiva no real. Quando essa atualização ocorre, há ação. Quando a ação ocorre num campo real de possibilidades, pode falar-se de liberdade situada. Quando trajetórias diferentes produzem diferenças reais, a indiferença total fica bloqueada. Quando algumas atualizações degradam condições reais de existência, relação, continuidade ou possibilidade, aparece o dano real. Quando há dano real, há um mínimo negativo objetivo. Mas ainda não há moral pronta.
+
+O `07` pergunta, portanto, como escrever o Capítulo 9 de modo a dizer positivamente a ação como atualização real situada e a liberdade como liberdade situada e, ao mesmo tempo, mostrar que posições ficam bloqueadas, porquê, com que pressupostos errados, e como são reinscritas no real.
+
+A regra de fundo permanece ativa: **os fragmentos validam a estrutura, não a estrutura os fragmentos**. Por isso, nenhum fragmento com afinidade verbal com ação, liberdade, mudança, dano ou valor pode comandar o capítulo. `F0003_SEG_001` pode apoiar apenas a ideia de capacidade humana de produzir mudança real e de diferença mínima entre trajetórias. `F0065_A01_SEG_002`, `F0208_SEG_001`, `F0120_SEG_001`, `F0135_SEG_001` e `F0241_A08_SEG_001` só podem entrar como apoio, ponte ou travão. Nenhum deles substitui a sequência local.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 9;
+- transformar o capítulo em teoria geral da liberdade;
+- transformar o capítulo em ética;
+- transformar o capítulo em teoria do mal;
+- transformar o capítulo em filosofia política;
+- abrir responsabilidade, dignidade, vida boa, direito ou instituição como centros;
+- transformar dano em moral pronta;
+- transformar o mínimo negativo em sistema normativo;
+- reabrir o Capítulo 7 por erro, verdade, critério ou correção;
+- reabrir o Capítulo 8 por consciência, representação, linguagem, símbolo ou mediação;
+- abrir crítica social, cultural, institucional ou sistémica;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo.
+
+O capítulo deve permanecer estreito. A estreiteza não é defeito a esconder. É condição local de escrita. A sua força consiste em não prometer mais do que o seu centro permite: ação primeiro; liberdade apenas situada; trajetórias diferentes produzem diferenças reais; dano apenas como consequência real possível; mínimo negativo objetivo sem moral pronta; erro apenas como disciplina crítica do agir; possível real apenas no fecho terminal.
+
+### relação com o 06
+
+O `06_primeira_versao_controlada_de_escrita.md` fixou o capítulo como possível, mas frágil. O confronto pós-`06` confirmou que o centro estava certo e que não era necessária nova arquitetura. A correção exigida era de afinação disciplinar: reforçar a entrega negativa do Capítulo 8, vigiar o vocabulário da escolha, assumir mais explicitamente a fragilidade material do capítulo, tornar a assimetria claramente pré-normativa, conter o dano, travar `P36` e preservar `P48` como terminal.
+
+O `07` não reabre essa decisão. Apenas prepara a forma final de escrita e integra crítica acompanhante. A sua tarefa é tornar mais natural a passagem:
+
+> consciência reapertada no real → ação como atualização real situada → liberdade situada → não-indiferença das trajetórias → dano real → mínimo negativo objetivo → erro como disciplina crítica do agir → possível real terminal → entrega ao Capítulo 10.
+
+### regra da crítica acompanhante
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+A exposição deve dizer primeiro o que é: ação como atualização real situada e liberdade como liberdade situada. Só depois deve mostrar o que esse passo impede.
+
+A crítica não deve comandar a ordem do capítulo. Deve acompanhar cada determinação positiva, identificar a operação de substituição do real que a ameaça e reinscrever a formulação no real.
+
+### regra de fragilidade
+
+> a estreiteza do Capítulo 9 não deve ser compensada por inflação; deve ser governada por secura.
+
+O capítulo não deve parecer mais forte do que é. A sua suficiência é local, não expansiva. Ele deve abrir o plano prático mínimo e parar antes de bem, mal, dever-ser, normatividade derivada, responsabilidade, dignidade, direito, política, cultura ou sistema.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+> ação como atualização real situada e liberdade como liberdade situada.
+
+Formulação desenvolvida:
+
+> o ser reflexivo situado atualiza possibilidades no real; essa atualização produz consequências reais, abre trajetórias não indiferentes, pode produzir dano, revela um mínimo negativo objetivo, exige disciplina crítica do agir, e encontra o seu limite terminal no possível real.
+
+Formulação de prudência:
+
+> o capítulo não resolve ainda a liberdade, a moral ou a normatividade; abre apenas o plano mínimo da ação situada.
+
+### 2. Cadeia positiva
+
+> chão herdado — consciência reapertada no real e mediação disciplinada → ação como atualização real situada (`P38`) → liberdade situada subordinada → não-indiferença / assimetria real entre trajetórias (`P39`) → dano real como consequência possível (`P40`) → mínimo negativo objetivo (`P41`) → erro apenas como disciplina crítica do agir (`P36`) → possível real como limite terminal (`P48`) → entrega ao Capítulo 10.
+
+### 3. Fórmula axial do capítulo
+
+- **ser no real:** ação como atualização real situada de um ser reflexivo inscrito no real;
+- **dizer do ser:** liberdade absoluta, vontade soberana, escolha indiferente, ação como intenção interior, trajetórias equivalentes, dano moralizado, erro como cabeça epistemológica, possível real como dever-ser antecipado;
+- **erro da proposição não real:** separar a liberdade da situação real, tratar a ação como decisão sem mundo, tornar indiferentes trajetórias que produzem efeitos diferentes, moralizar cedo demais o dano ou substituir a ação situada por critério, sistema ou normatividade;
+- **reinscrição no real:** liberdade como margem situada de atualização de possibilidades reais; ação como atualização com consequências; assimetria como diferença real entre trajetórias; dano como degradação real possível; erro como disciplina crítica; possível real como limite terminal.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — chão herdado do Capítulo 8
+
+- **passo positivo:** o capítulo recebe uma consciência já reapertada no real, uma mediação já disciplinada e uma representação já submetida ao real.
+- **posição-tipo bloqueada:** ação como simples continuação da representação corrigida.
+- **acerto local da posição:** vê corretamente que o agir humano pressupõe mediação, representação, verdade, erro e correção.
+- **deslocação:** transforma esse pressuposto em origem suficiente da ação.
+- **pressuposto errado:** supõe que representar corretamente já equivale a atualizar o real.
+- **crítica curta:** o Capítulo 8 não produz a ação; apenas bloqueia a soberania mediacional que impediria reconhecê-la no seu plano próprio.
+- **reinscrição:** a mediação corrigida é chão herdado; a ação começa quando algo é efetivamente atualizado no real.
+
+#### Ponto crítico 2 — ação como atualização real situada (`P38`)
+
+- **passo positivo:** agir é atualizar algo no real por um ser situado, em campo, sob limite e com consequências.
+- **posição-tipo bloqueada:** ação como intenção interior, vontade abstrata ou decisão sem mundo.
+- **acerto local da posição:** vê corretamente que há interioridade, intenção e decisão implicadas em muitas ações humanas.
+- **deslocação:** confunde condições internas do agir com a ação enquanto atualização efetiva.
+- **pressuposto errado:** supõe que a ação começa no interior e só depois se acrescenta ao mundo.
+- **crítica curta:** intenção, decisão ou representação não bastam para haver ação; só há ação quando algo se atualiza no real.
+- **reinscrição:** ação é ocorrência real situada, alteração introduzida num campo de relações e limites.
+
+#### Ponto crítico 3 — liberdade situada subordinada
+
+- **passo positivo:** a liberdade é a margem situada de atualização de possibilidades reais por um agente inscrito no real.
+- **posição-tipo bloqueada:** liberdade absoluta, vontade soberana e escolha sem mundo.
+- **acerto local da posição:** vê corretamente que há margem real de atualização e que o agente não é mero ponto passivo.
+- **deslocação:** transforma essa margem em independência face ao real.
+- **pressuposto errado:** supõe que liberdade só é plena se for exterior às condições que a tornam possível.
+- **crítica curta:** liberdade fora do real é abstração; só há liberdade praticável onde há possibilidades reais atualizáveis.
+- **reinscrição:** liberdade é situada porque ocorre num campo real de possibilidades, sob limite, consequência e não-indiferença.
+
+#### Ponto crítico 4 — não-indiferença / assimetria entre trajetórias (`P39`)
+
+- **passo positivo:** trajetórias diferentes produzem diferenças reais.
+- **posição-tipo bloqueada:** indiferentismo prático.
+- **acerto local da posição:** vê corretamente que várias trajetórias podem ser possíveis.
+- **deslocação:** toma possibilidade por equivalência.
+- **pressuposto errado:** supõe que tudo o que pode ser feito vale do mesmo modo por ser possível.
+- **crítica curta:** a possibilidade não apaga a diferença real dos efeitos.
+- **reinscrição:** a assimetria é real antes de ser normativa: trajetórias diferentes atualizam o real de modos diferentes.
+
+#### Ponto crítico 5 — dano real como consequência possível (`P40`)
+
+- **passo positivo:** algumas atualizações podem degradar condições reais de existência, relação, continuidade ou possibilidade.
+- **posição-tipo bloqueada:** dano como mal moral imediato.
+- **acerto local da posição:** vê corretamente que o dano conta e que não é indiferente.
+- **deslocação:** converte a constatação do dano em teoria do mal, culpa ou dever violado.
+- **pressuposto errado:** supõe que reconhecer dano já equivale a possuir uma moral desenvolvida.
+- **crítica curta:** dano real é consequência negativa possível da atualização; ainda não é teoria moral do mal.
+- **reinscrição:** dano entra como limite negativo mínimo da equivalência entre trajetórias.
+
+#### Ponto crítico 6 — mínimo negativo objetivo (`P41`)
+
+- **passo positivo:** se há dano real, a equivalência total entre trajetórias fica bloqueada.
+- **posição-tipo bloqueada:** mínimo negativo como sistema moral.
+- **acerto local da posição:** vê corretamente que o dano introduz um limite objetivo à indiferença.
+- **deslocação:** transforma esse limite mínimo em normatividade completa.
+- **pressuposto errado:** supõe que negar a equivalência total já entrega o dever-ser inteiro.
+- **crítica curta:** o mínimo negativo não diz ainda o que deve ser feito em geral; diz apenas que nem tudo vale do mesmo modo.
+- **reinscrição:** mínimo negativo é bloqueio objetivo da indiferença total, não sistema moral.
+
+#### Ponto crítico 7 — erro como disciplina crítica do agir (`P36`)
+
+- **passo positivo:** agir pode falhar por descrever mal a situação, ler mal o campo ou aplicar mal a solução.
+- **posição-tipo bloqueada:** erro como cabeça do agir.
+- **acerto local da posição:** vê corretamente que a ação pode falhar por desadequação ao real.
+- **deslocação:** reabre verdade, erro, critério e correção como corpo próprio do capítulo.
+- **pressuposto errado:** supõe que toda falha prática exige regressar ao regime epistemológico completo.
+- **crítica curta:** o erro não governa aqui o capítulo; apenas disciplina o agir.
+- **reinscrição:** `P36` entra tarde e subordinado, como travão contra ação desligada do real que pretende atualizar.
+
+#### Ponto crítico 8 — possível real como limite terminal (`P48`)
+
+- **passo positivo:** a ação situada encontra limite no possível real.
+- **posição-tipo bloqueada:** possível real como dever-ser antecipado.
+- **acerto local da posição:** vê corretamente que a ação não pode exigir o impossível.
+- **deslocação:** converte o possível real em teoria normativa já desenvolvida.
+- **pressuposto errado:** supõe que conhecer o limite do possível basta para deduzir o dever.
+- **crítica curta:** o possível real limita a ação; ainda não formula a normatividade derivada.
+- **reinscrição:** `P48` entra apenas no fecho terminal como limite do agir, não como centro normativo.
+
+#### Ponto crítico 9 — entrega ao Capítulo 10
+
+- **passo positivo:** o Capítulo 9 entrega ação situada, não-indiferença, dano real, mínimo negativo e possível real como problema preparado.
+- **posição-tipo bloqueada:** absorção do Capítulo 10.
+- **acerto local da posição:** vê corretamente que dano e mínimo negativo pedem desenvolvimento posterior.
+- **deslocação:** começa já a desenvolver bem, mal, dever-ser, responsabilidade ou normatividade.
+- **pressuposto errado:** supõe que preparar a pergunta equivale a resolvê-la.
+- **crítica curta:** o capítulo termina precisamente antes da moral pronta.
+- **reinscrição:** entrega apenas a pergunta pela normatividade derivada, sem a responder.
+
+### 5. Posições-tipo bloqueadas
+
+1. **Liberdade absoluta:** liberdade como independência face ao real, à situação, ao corpo, ao campo, às consequências e aos limites.
+2. **Vontade soberana:** ação como exteriorização de uma vontade pura que escolhe e depois atua no mundo.
+3. **Ação como intenção interior:** agir como querer, decidir ou intencionar interiormente.
+4. **Mecanicismo forte:** ação como mero efeito mecânico de causas anteriores, sem agência situada relevante.
+5. **Indiferentismo prático:** todas as trajetórias seriam equivalentes desde que sejam possíveis.
+6. **Moralização precoce da assimetria:** não-indiferença das trajetórias já como teoria do bem e do mal.
+7. **Dano como mal moral:** dano real convertido imediatamente em culpa, pecado, injustiça ou dever violado.
+8. **Mínimo negativo como sistema moral:** bloqueio da indiferença total convertido em normatividade completa.
+9. **Erro como cabeça do agir:** ação pensada a partir de verdade, erro, critério e correção.
+10. **Possível real como dever-ser antecipado:** limite do possível usado para deduzir já o dever.
+11. **Ação como sistema social ou político:** ação situada absorvida por mercado, sociedade, instituição, Estado, política ou sistema.
+12. **Responsabilidade antecipada:** consequências reais convertidas imediatamente em responsabilidade.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+- As posições libertárias veem corretamente que há margem real de atualização, mas erram quando fazem da liberdade independência face ao real.
+- As posições voluntaristas veem corretamente que o agente participa na ação, mas erram quando fazem da vontade origem pura.
+- As posições mecanicistas veem corretamente que a ação ocorre sob condições reais, mas erram quando dissolvem a agência situada.
+- As posições consequencialistas veem corretamente que ações produzem efeitos, mas erram quando transformam já essa constatação numa teoria normativa completa.
+- As posições moralizantes veem corretamente que o dano conta, mas erram quando fazem do dano uma teoria do mal.
+- As posições epistemológicas veem corretamente que agir pode falhar por má descrição da situação, mas erram quando fazem do erro a cabeça do capítulo.
+- As posições normativas veem corretamente que a ação deve respeitar o possível, mas erram quando fazem do possível real já uma teoria do dever-ser.
+- As posições sociais ou sistémicas veem corretamente que ações se sedimentam em sistemas, mas erram quando fazem do sistema a cabeça do Capítulo 9.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições só podem entrar como localização breve de posições-tipo. Não podem estruturar o capítulo.
+
+Formulação admissível:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que fazem da liberdade vontade soberana, independência absoluta, necessidade mecânica ou fonte imediata do dever. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: pensar a ação fora da sua atualização situada no real.
+
+### 8. Economia de notas
+
+As notas de rodapé, se forem usadas, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo tem variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Se algo for necessário para compreender o argumento, deve ficar no corpo do texto.
+
+### 9. Travões obrigatórios
+
+- não regressar ao Capítulo 7 como centro;
+- não regressar ao Capítulo 8 como centro;
+- não abrir por liberdade abstrata;
+- não abrir por vontade soberana;
+- não transformar ação em intenção interior;
+- não dissolver agência em mecanicismo;
+- não moralizar a assimetria;
+- não transformar dano em mal;
+- não transformar mínimo negativo em sistema moral;
+- não transformar `P36` em epistemologia;
+- não transformar `P48` em dever-ser;
+- não abrir Capítulo 10;
+- não abrir responsabilidade, dignidade, vida boa, direito, política, cultura, instituição ou sistema;
+- não abrir crítica social, cultural, institucional ou sistémica;
+- não usar `F0003_SEG_001` como centro implícito;
+- não usar linguagem de dois caminhos, esquerda/direita, tipologia de pessoas ou bifurcação valorativa pronta.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 9 não pergunta simplesmente “o que é a liberdade?”, “o que é o bem?”, “o que é o dever?”, “o que é a responsabilidade?” ou “como deve agir o sujeito?”.
+
+Essas perguntas são fortes, mas ainda entram cedo demais. Se comandarem a abertura, a ação será pensada a partir da liberdade abstrata, da vontade, da escolha, da moral ou da responsabilidade. O capítulo perderá o seu chão próprio.
+
+A pergunta própria do Capítulo 9 é outra:
+
+> que acontece quando uma consciência situada, mediada e corrigível passa da representação para a atualização efetiva no real?
+
+A resposta mínima é:
+
+> há ação quando um ser situado atualiza algo no real.
+
+Esta resposta deve permanecer seca. O capítulo tem massa positiva estreita. Não pretende resolver a liberdade, a moral ou a normatividade. Pretende apenas abrir o plano mínimo da ação situada.
+
+Por isso, a ação entra antes da liberdade. A liberdade entra apenas como liberdade situada. A assimetria entra apenas como diferença real entre trajetórias. O dano entra apenas como consequência real possível. O mínimo negativo entra apenas como bloqueio da indiferença total. O erro entra apenas como disciplina crítica. O possível real entra apenas como limite terminal.
+
+Este é o ser em causa: não a vontade soberana, mas a atualização situada de algo no real.
+
+### 2. Chão herdado: consciência reapertada no real
+
+O Capítulo 9 pressupõe o fecho do Capítulo 8.
+
+A consciência já não é ponto puro. A mediação já foi disciplinada. A representação já foi submetida ao real. A verdade, o erro e a correção já foram pensados como modos de recondução da representação ao real. O símbolo e a linguagem já não podem funcionar como mundos próprios. A consciência já não pode viver na representação simbólica do símbolo.
+
+Mas esse fecho não produz a ação.
+
+O Capítulo 8 não produz a ação; apenas bloqueia a soberania mediacional que impediria reconhecê-la no seu plano próprio.
+
+Corrigir a representação não é ainda agir. Descrever melhor o real não é ainda atualizá-lo. Reinscrever a linguagem no real não é ainda produzir uma diferença prática no real. Uma representação pode estar mais adequada; uma proposição pode ter sido corrigida; uma descrição pode ter regressado ao seu objeto. Ainda assim, pode não haver ação.
+
+O Capítulo 9 começa quando já não está em causa apenas representar, dizer, simbolizar ou corrigir, mas atualizar efetivamente algo no real.
+
+Por isso, é falso dizer que a ação é simples continuação da representação corrigida. Essa posição vê algo verdadeiro: o agir humano não é cego à mediação, à descrição, ao símbolo ou à correção. Mas desloca-se quando faz da representação o motor suficiente da ação. O pressuposto errado é tomar a mediação corrigida por atualização efetiva.
+
+A reinscrição correta é baixa: a representação corrigida pode orientar, travar ou esclarecer; não é ainda ação. A ação abre um novo plano quando algo passa a acontecer no real por atualização situada.
+
+### 3. Ação como atualização real situada
+
+Agir é atualizar algo no real por um ser situado, em campo, sob limite e com consequências.
+
+Esta é a abertura própria do capítulo.
+
+A ação não é apenas intenção. Uma intenção pode permanecer interior. Não é apenas vontade. Uma vontade pode não chegar a atualizar nada. Não é apenas decisão. Uma decisão pode ficar suspensa. Não é apenas representação. Uma representação pode organizar o agir, mas não coincide com aquilo que se atualiza. Não é apenas justificação. Uma justificação pode acompanhar a ação sem a constituir.
+
+A ação é o que se atualiza.
+
+Quando há ação, algo passa a ocorrer no real. Uma relação é alterada. Uma condição é preservada ou quebrada. Uma possibilidade é aberta ou encerrada. Uma continuidade é mantida ou interrompida. Um campo de relações recebe uma diferença que antes não estava atualizada daquele modo.
+
+O agente não atualiza a partir de fora. Age situado. Age a partir de uma posição, num campo de relações, sob limites, com informação parcial, com possibilidades reais e com consequências que podem exceder a intenção inicial.
+
+Por isso, a ação não deve ser pensada como projeção soberana de um interior livre sobre uma exterioridade passiva. O real não é matéria neutra da vontade. O real já tem estrutura, relações, limites e possibilidades. Agir é entrar nesse campo e atualizar algo nele.
+
+A posição que reduz a ação a intenção interior vê corretamente que o agir humano envolve interioridade, orientação, antecipação e decisão. Erra quando faz desses momentos a própria ação. O pressuposto falso é que o núcleo da ação esteja antes do mundo e apenas se exteriorize depois.
+
+A ação deve ser reinscrita no real: só é ação enquanto atualização situada com consequências reais.
+
+### 4. Liberdade situada
+
+A liberdade só se torna inteligível quando a atualização ocorre num campo real de possibilidades.
+
+Por isso, a liberdade não abre o capítulo. Se abrisse, a ação apareceria como efeito posterior de uma faculdade soberana. O capítulo começaria por vontade, escolha, autonomia ou interioridade livre, e só depois acrescentaria mundo, limite e consequência. Essa ordem é falsa.
+
+A liberdade aqui admissível é liberdade situada.
+
+Liberdade situada não é independência face ao real. Não é livre-arbítrio abstrato. Não é soberania da vontade. Não é poder de escolher fora de toda a condição. Não é autonomia desligada do corpo, do campo, dos limites e das consequências.
+
+Liberdade é a margem situada de atualização de possibilidades reais por um agente inscrito no real.
+
+Um ser reflexivo pode atualizar trajetórias diferentes. Mas não pode atualizar o impossível. Pode orientar a sua ação. Mas não age fora de campo. Pode decidir. Mas a decisão só se torna ação quando encontra condições reais de atualização. Pode escolher entre trajetórias possíveis. Mas a escolha, aqui, não é soberania interior; é apenas o modo reflexivo pelo qual uma trajetória possível é atualizada num campo real já limitado.
+
+A posição da liberdade absoluta vê corretamente que o agente não é mero mecanismo passivo. Vê que há margem de atualização. Erra quando transforma essa margem em exterioridade ao real. O pressuposto falso é que a liberdade só seria real se não fosse situada.
+
+A reinscrição correta é inversa: a liberdade só é real porque é situada. Sem campo, não há possibilidade atualizável. Sem limite, não há determinação da ação. Sem consequência, a liberdade dissolve-se em representação vazia.
+
+O capítulo não desenvolve uma teoria geral da liberdade. Apenas fixa esta condição mínima: liberdade é modo situado de atualização no real.
+
+### 5. Não-indiferença das trajetórias
+
+Trajetórias diferentes produzem diferenças reais.
+
+Esta formulação deve permanecer no centro da passagem. Se a ação é atualização real situada, então atualizações diferentes não podem ser tratadas como absolutamente equivalentes apenas porque todas são possíveis ou porque todas podem ser escolhidas.
+
+Uma trajetória pode conservar uma condição. Outra pode quebrá-la. Uma pode abrir uma possibilidade. Outra pode encerrá-la. Uma pode manter uma relação. Outra pode degradá-la. Uma pode responder melhor ao campo real em que ocorre. Outra pode agravar a desadequação.
+
+Antes de qualquer moral pronta, há uma diferença mais baixa: nem todas as atualizações fazem o mesmo ao real.
+
+A assimetria é real antes de ser normativa.
+
+Isto significa que o capítulo ainda não diz quais ações são boas ou más. Ainda não formula deveres. Ainda não distribui culpa, mérito ou responsabilidade. Apenas recusa a equivalência total entre trajetórias quando elas produzem efeitos reais diferentes.
+
+O indiferentismo prático vê corretamente que há pluralidade de trajetórias possíveis. Erra quando passa da pluralidade para a equivalência. O pressuposto falso é que tudo o que é possível vale do mesmo modo por ser possível.
+
+A reinscrição correta é esta: a possibilidade não basta para equivalência. O real recebe atualizações diferentes de modos diferentes, porque essas atualizações alteram, preservam, degradam, abrem ou fecham condições reais. A não-indiferença nasce da própria atualização.
+
+### 6. Dano real como consequência possível
+
+Algumas atualizações podem degradar condições reais de existência, relação, continuidade ou possibilidade.
+
+É isto que, neste capítulo, se chama dano real.
+
+O dano não entra como teoria do mal. Não entra como culpa. Não entra como pecado. Não entra como injustiça já determinada. Não entra como dever violado. Entra apenas como consequência real possível da atualização.
+
+Uma ação pode estreitar possibilidades reais. Pode quebrar uma condição de continuidade. Pode degradar uma relação. Pode impedir uma resposta futura. Pode diminuir a capacidade de um ente ou de uma relação persistirem de modo adequado. Pode introduzir no campo uma alteração que torna o real menos habitável, menos íntegro, menos capaz de conservar certas possibilidades.
+
+Este ponto é necessário porque, sem dano, a não-indiferença poderia parecer apenas diferença formal entre efeitos. O dano mostra que algumas diferenças não são apenas diferentes: impõem um limite negativo mínimo.
+
+Mas a contenção é obrigatória.
+
+A posição que transforma dano em mal moral vê corretamente que o dano conta e que não deve ser tratado como indiferente. Erra quando faz da constatação do dano uma teoria moral completa. O pressuposto falso é que reconhecer degradação real já equivalha a possuir a norma inteira.
+
+A reinscrição correta é mais baixa: dano é degradação real possível produzida por uma atualização. Ele bloqueia a indiferença, mas ainda não entrega a teoria do bem, do mal, da responsabilidade ou da reparação.
+
+### 7. Mínimo negativo objetivo
+
+Se há dano real, a equivalência total entre trajetórias fica bloqueada.
+
+Este é o mínimo negativo objetivo do Capítulo 9.
+
+Ele não diz ainda o que deve ser feito em geral. Não define o bem. Não define o mal. Não estabelece uma escala completa de valores. Não produz código. Não produz dever-ser desenvolvido. Não abre responsabilidade, dignidade ou vida boa.
+
+Diz apenas isto: onde uma trajetória produz dano real e outra não o produz do mesmo modo, não é possível afirmar que ambas valem igualmente perante o real.
+
+O mínimo negativo é objetivo porque não depende apenas de desaprovação subjetiva. Depende da existência de uma degradação real, de uma quebra real, de um estreitamento real, de uma diminuição real de condição, relação, continuidade ou possibilidade.
+
+É mínimo porque não sobe ainda a sistema moral.
+
+É negativo porque funciona por bloqueio: impede a equivalência total. Não entrega ainda a positividade da vida boa.
+
+A posição que transforma o mínimo negativo em sistema moral vê corretamente que o dano impede a indiferença. Erra quando converte esse impedimento em doutrina completa. O pressuposto falso é que negar “tudo vale do mesmo modo” já equivale a saber “o que deve ser feito”.
+
+A reinscrição correta é disciplinada: o mínimo negativo objetivo prepara a normatividade derivada, mas não a substitui. O Capítulo 9 para neste ponto. O desenvolvimento do bem, do mal e do dever-ser pertence ao capítulo seguinte.
+
+### 8. Erro como disciplina crítica do agir
+
+O erro não governa aqui o capítulo; apenas disciplina o agir.
+
+Esta frase deve travar a reabertura do Capítulo 7.
+
+O Capítulo 9 não volta a explicar a verdade, o erro, o critério ou a correção como corpos próprios. Esses passos já foram tratados. Aqui, o erro entra apenas como uso subordinado: uma ação pode falhar por descrever mal a situação, ler mal o campo ou aplicar mal a solução.
+
+Agir não é apenas atualizar. É atualizar num campo que pode ser melhor ou pior compreendido. Quando a situação é mal descrita, a ação pode incidir sobre um problema mal formulado. Quando o problema é mal formulado, a solução pode nascer deslocada. Quando a solução é deslocada, a atualização prática pode degradar o real que pretendia melhorar, conservar ou reorganizar.
+
+Isto não transforma o capítulo em epistemologia. Apenas mostra que a ação situada continua submetida ao real.
+
+Uma posição epistemológica forte vê corretamente que agir pode falhar por desadequação entre representação e real. Erra quando faz dessa falha o centro do capítulo. O pressuposto falso é que a crítica do agir deva substituir a descrição do agir.
+
+A reinscrição correta é esta: o erro disciplina a ação, mas não a comanda. `P36` entra tarde, depois de ação, liberdade situada, não-indiferença, dano e mínimo negativo. A sua função é impedir que o agir se desligue do real que pretende atualizar.
+
+### 9. Possível real como limite terminal
+
+A ação situada encontra limite no possível real.
+
+Esta é a função terminal de `P48`.
+
+A ação não ocorre no espaço ilimitado do imaginável. O agente pode imaginar mais do que pode atualizar. Pode desejar mais do que o real permite. Pode formular deveres que ignoram condições reais. Pode projetar trajetórias sem campo de atualização. Mas aquilo que se atualiza só se atualiza se pertencer ao possível real.
+
+O possível real não abre o capítulo. Se abrisse, transformaria a ação situada numa teoria do dever possível. Também não reorganiza o capítulo. Não deduz ainda normatividade. Não diz ainda o que deve ser feito. Apenas fecha a ação no seu limite: só se pode agir atualizando possibilidades reais.
+
+A posição que transforma o possível real em dever-ser antecipado vê corretamente que nenhum dever pode exigir o impossível. Erra quando faz dessa verdade uma teoria normativa completa. O pressuposto falso é que o limite do agir já contenha, por si só, a determinação integral do dever.
+
+A reinscrição correta é terminal: o possível real limita a ação e prepara a pergunta seguinte, sem a responder.
+
+A liberdade situada fica, assim, duplamente protegida: não é soberania abstrata, porque só atualiza o possível; e não é impotência mecânica, porque há margem situada de atualização dentro do possível real.
+
+### 10. Fecho e entrega ao Capítulo 10
+
+O Capítulo 9 deve terminar antes de bem, mal, normatividade derivada, dever-ser, responsabilidade, dignidade, direito, política ou sistema se tornarem centros.
+
+O que este capítulo fixa é bastante para abrir o plano prático, mas não bastante para fechar a ética.
+
+Fica ganho que agir é atualizar algo no real por um ser situado. Fica ganho que a liberdade só é inteligível como liberdade situada no campo real de possibilidades. Fica ganho que trajetórias diferentes produzem diferenças reais. Fica ganho que algumas atualizações podem causar dano. Fica ganho que, se há dano, a equivalência total entre trajetórias fica bloqueada. Fica ganho que o erro disciplina o agir sem comandá-lo. Fica ganho que o possível real limita terminalmente qualquer orientação prática.
+
+Mas ainda não ficou ganho o bem. Ainda não ficou ganho o mal. Ainda não ficou ganho o dever-ser. Ainda não ficou ganha a normatividade derivada. Ainda não ficou ganha a responsabilidade. Ainda não ficou ganha a dignidade. Ainda não ficou ganha a vida boa. Ainda não ficaram ganhos direito, política, instituição, cultura ou crítica sistémica.
+
+A pergunta entregue ao Capítulo 10 é, por isso, limitada:
+
+> se há dano real e se a equivalência entre trajetórias fica bloqueada, como se pode pensar o bem, o mal e a normatividade derivada sem autonomizar a moral face ao real?
+
+O Capítulo 9 não responde a essa pergunta. Prepara-a.
+
+Termina onde a tentação de moralizar começa.
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| liberdade absoluta | vê que há margem real de atualização | transforma margem em independência face ao real | liberdade só seria plena se fosse exterior às condições | liberdade como margem situada de atualização de possibilidades reais |
+| vontade soberana | vê que o agente participa na ação | faz da vontade origem pura da ação | a ação nasce num interior que depois se exterioriza | ação como atualização real situada de um agente já inscrito no real |
+| ação como intenção interior | vê que intenção e decisão podem acompanhar o agir | confunde intenção com atualização | querer já equivaleria a agir | só há ação quando algo se atualiza no real |
+| mecanicismo forte | vê que a ação ocorre sob condições reais | dissolve a agência situada em causalidade mecânica | condição real elimina margem de atualização | agência situada é atualização sob condições, campo e limite |
+| indiferentismo prático | vê que há várias trajetórias possíveis | toma possibilidade por equivalência | tudo o que pode ser feito vale do mesmo modo | trajetórias diferentes produzem diferenças reais |
+| moralização precoce da assimetria | vê que as trajetórias não são indiferentes | transforma diferença real em moral pronta | não-indiferença já seria teoria do bem e do mal | assimetria real pré-normativa entre atualizações |
+| dano como mal moral | vê que o dano conta | converte dano em culpa, pecado, injustiça ou dever violado | reconhecer dano já entrega a norma inteira | dano como degradação real possível, ainda anterior à teoria do mal |
+| mínimo negativo como sistema moral | vê que dano bloqueia a equivalência total | transforma bloqueio em sistema normativo | negar a indiferença já define o dever-ser completo | mínimo negativo objetivo como limite da equivalência, não como moral pronta |
+| erro como cabeça do agir | vê que agir pode falhar por má descrição | reabre o Capítulo 7 como corpo do Capítulo 9 | toda falha prática deve ser pensada por epistemologia completa | erro apenas como disciplina crítica subordinada do agir |
+| possível real como dever-ser antecipado | vê que a ação não pode exigir o impossível | transforma limite terminal em teoria normativa | conhecer o possível basta para deduzir o dever | possível real como limite terminal da ação situada |
+| ação como sistema social ou político | vê que ações produzem efeitos coletivos e podem sedimentar-se | salta da ação situada para sociedade, instituição ou sistema | consequência real autoriza salto de escala | ação situada primeiro; sistemas posteriores ficam para outros capítulos |
+| responsabilidade antecipada | vê que a ação tem consequências | converte consequência em imputação moral imediata | consequência basta para responsabilidade plena | responsabilidade exige camadas posteriores; aqui há apenas atualização e não-indiferença |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro continua a ser:
+
+> ação como atualização real situada e liberdade como liberdade situada.
+
+A liberdade foi mantida como qualificação subordinada da ação situada, não como cabeça abstrata do capítulo.
+
+### fragilidade preservada
+
+A fragilidade do capítulo não foi escondida por inflação.
+
+O texto assumiu que o Capítulo 9 tem massa positiva estreita e que deve ser escrito por secura, travões e mediações curtas. Não se compensou a fragilidade com teoria geral da liberdade, ética, teoria do mal, responsabilidade, direito, política ou sistema.
+
+### cadeia preservada
+
+Foi preservada a cadeia:
+
+> chão herdado → ação como atualização real situada → liberdade situada subordinada → não-indiferença entre trajetórias → dano real → mínimo negativo objetivo → erro como disciplina crítica → possível real terminal → entrega ao Capítulo 10.
+
+### estatuto de P38 preservado
+
+`P38` abriu o capítulo como ação situada.
+
+A ação foi definida pela formulação:
+
+> agir é atualizar algo no real por um ser situado, em campo, sob limite e com consequências.
+
+Não foi reduzida a intenção, vontade, escolha, representação ou aplicação de ideia.
+
+### estatuto da liberdade preservado
+
+A liberdade entrou subordinada à ação situada e ao campo real de possibilidades.
+
+Foi preservada a fórmula:
+
+> a liberdade só se torna inteligível quando a atualização ocorre num campo real de possibilidades.
+
+A liberdade não foi tratada como soberania da vontade, livre-arbítrio abstrato, escolha pura ou independência face ao real.
+
+### estatuto de P39/P40/P41 preservado
+
+Foi confirmado que:
+
+- `P39` entrou como não-indiferença real;
+- `P40` entrou como dano real possível;
+- `P41` entrou como mínimo negativo objetivo;
+- nenhum deles foi convertido em moral pronta.
+
+A fórmula mínima foi preservada:
+
+> trajetórias diferentes produzem diferenças reais.
+
+E o dano foi mantido como:
+
+> degradação real possível de condições de existência, relação, continuidade ou possibilidade.
+
+### estatuto de P36 preservado
+
+`P36` entrou apenas como disciplina crítica do agir, sem reabrir o Capítulo 7.
+
+Foi preservada a formulação:
+
+> o erro não governa aqui o capítulo; apenas disciplina o agir.
+
+O erro foi usado apenas para mostrar que agir pode falhar por má descrição da situação, má leitura do campo ou má aplicação da solução.
+
+### estatuto de P48 preservado
+
+`P48` entrou apenas como fecho terminal do possível real, sem desenvolver dever-ser.
+
+Foi preservada a formulação:
+
+> a ação situada encontra limite no possível real.
+
+O possível real não abriu normatividade nem comandou o capítulo.
+
+### estatuto dos materiais fragmentários preservado
+
+Os materiais fragmentários entraram apenas como validação e vigilância de fronteira. `F0003_SEG_001` não comandou o capítulo e não introduziu linguagem de dois caminhos, esquerda/direita, tipologia de pessoas ou bifurcação moral pronta. Os materiais de apoio ou ponte foram mantidos sob contenção e não deslocaram o capítulo para crítica social, política, institucional, cultural ou sistémica.
+
+### crítica subordinada
+
+A crítica acompanhou o positivo e não o substituiu.
+
+Cada crítica local serviu para proteger a descrição da ação situada, da liberdade situada, da não-indiferença, do dano, do mínimo negativo, do erro subordinado e do possível real terminal.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas sem transformar o capítulo em história da filosofia, teoria da liberdade, ética, teoria do mal ou filosofia política.
+
+Não se fez comentário de autores. As posições foram lidas como operações de substituição do real:
+
+- substituir ação por vontade;
+- substituir liberdade situada por liberdade absoluta;
+- substituir diferença real por moral pronta;
+- substituir dano por mal moral;
+- substituir mínimo negativo por sistema normativo;
+- substituir disciplina crítica por epistemologia;
+- substituir possível real por dever-ser antecipado.
+
+### notas sob controlo
+
+Este ficheiro não usa notas de rodapé.
+
+Na redação final, se forem usadas, devem servir apenas para localização curta de tradições, proteção contra simplificação ou remissão para crítica posterior. Não devem carregar o argumento principal.
+
+### capítulos anteriores não reabertos
+
+Não foram reabertos:
+
+- Capítulo 7 como verdade, erro, critério e correção;
+- Capítulo 8 como consciência, linguagem, símbolo ou mediação.
+
+O Capítulo 8 entrou apenas como chão negativo herdado: consciência reapertada no real e mediação disciplinada. O Capítulo 7 entrou apenas como pressuposto remoto para o uso subordinado de `P36`.
+
+### capítulos posteriores não abertos
+
+Ficaram fora:
+
+- bem como centro;
+- mal como centro;
+- normatividade derivada;
+- dever-ser;
+- poder-ser como teoria normativa;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- direito;
+- política;
+- cultura;
+- instituição;
+- sistema;
+- crítica sistémica tardia.
+
+### fórmula final
+
+> O Capítulo 9 fixa apenas isto: agir é atualizar algo no real por um ser situado; a liberdade é a margem situada dessa atualização no campo real de possibilidades; trajetórias diferentes produzem diferenças reais; algumas podem causar dano; se há dano, a equivalência total entre trajetórias fica bloqueada; o erro disciplina o agir sem comandá-lo; e o possível real limita terminalmente qualquer orientação prática.
+
+<a id="capitulo-cap-10-dano-bem-mal-normatividade-derivada"></a>
+## CAP_10_dano_bem_mal_normatividade_derivada
+
+- Pasta: `CAP_10_dano_bem_mal_normatividade_derivada`
+- Ficheiros incluídos: `9`
+
+### Índice interno da pasta
+
+- [00_estatuto_e_limites](#cap-10-dano-bem-mal-normatividade-derivada-00-estatuto-e-limites-md) — `CAP_10_dano_bem_mal_normatividade_derivada/00_estatuto_e_limites.md`
+- [01_estrutura_interna](#cap-10-dano-bem-mal-normatividade-derivada-01-estrutura-interna-md) — `CAP_10_dano_bem_mal_normatividade_derivada/01_estrutura_interna.md`
+- [02_materiais_positivos](#cap-10-dano-bem-mal-normatividade-derivada-02-materiais-positivos-md) — `CAP_10_dano_bem_mal_normatividade_derivada/02_materiais_positivos.md`
+- [03_materiais_criticos](#cap-10-dano-bem-mal-normatividade-derivada-03-materiais-criticos-md) — `CAP_10_dano_bem_mal_normatividade_derivada/03_materiais_criticos.md`
+- [04_lacunas_do_capitulo](#cap-10-dano-bem-mal-normatividade-derivada-04-lacunas-do-capitulo-md) — `CAP_10_dano_bem_mal_normatividade_derivada/04_lacunas_do_capitulo.md`
+- [05_decisao_local_do_capitulo](#cap-10-dano-bem-mal-normatividade-derivada-05-decisao-local-do-capitulo-md) — `CAP_10_dano_bem_mal_normatividade_derivada/05_decisao_local_do_capitulo.md`
+- [06_primeira_versao_controlada_de_escrita](#cap-10-dano-bem-mal-normatividade-derivada-06-primeira-versao-controlada-de-escrita-md) — `CAP_10_dano_bem_mal_normatividade_derivada/06_primeira_versao_controlada_de_escrita.md`
+- [06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10](#cap-10-dano-bem-mal-normatividade-derivada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap10-md) — `CAP_10_dano_bem_mal_normatividade_derivada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10.md`
+- [07_escrita_final_preparada_com_critica_acompanhante](#cap-10-dano-bem-mal-normatividade-derivada-07-escrita-final-preparada-com-critica-acompanhante-md) — `CAP_10_dano_bem_mal_normatividade_derivada/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-00-estatuto-e-limites-md"></a>
+### 00_estatuto_e_limites
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/00_estatuto_e_limites.md`
+
+# 00_estatuto_e_limites
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar o estatuto local do **Capítulo 10 — Dano, bem, mal e normatividade derivada**;
+- determinar o que este capítulo pode e não pode fazer no livro;
+- receber o ganho do Capítulo 9 sem o repetir;
+- abrir a derivação normativa sem autonomizar a normatividade;
+- impedir que dano, bem, mal e dever-ser sejam tratados como moral pronta, teoria autónoma ou passagem imediata para responsabilidade, dignidade, direito, política ou sistema;
+- fixar os travões que devem governar o povoamento local posterior.
+
+### limite
+- este ficheiro não reabre os Capítulos 1 a 9;
+- não reescreve o Capítulo 9;
+- não transforma o Capítulo 10 em continuação do capítulo da ação situada;
+- não transforma o Capítulo 10 em teoria moral completa;
+- não transforma bem e mal em entidades autónomas;
+- não transforma normatividade em ordem separada do real;
+- não antecipa responsabilidade, dignidade ou vida boa;
+- não antecipa coordenação intersubjetiva, instituição, direito, história, política ou sistema;
+- não produz ainda `01_estrutura_interna.md`;
+- não produz ainda `02_materiais_positivos.md`;
+- não produz ainda `03_materiais_criticos.md`;
+- não produz ainda `04_lacunas_do_capitulo.md`;
+- não produz ainda `05_decisao_local_do_capitulo.md`;
+- não produz ainda `06_primeira_versao_controlada_de_escrita.md`.
+
+### valor metodológico
+- vale como abertura local disciplinada da pasta do Capítulo 10;
+- vale como critério de inclusão e exclusão dos materiais futuros;
+- vale como travão contra moralização e autonomização normativa;
+- vale como base para `01_estrutura_interna.md`, `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`;
+- vale como regra de separação entre Capítulo 9, Capítulo 10 e Capítulo 11.
+
+---
+
+## II. Estatuto local do Capítulo 10
+
+### estado atual
+**libertado para povoamento, com vigilância de sobreposição.**
+
+### estatuto próprio
+O Capítulo 10 é o lugar em que a obra pode abrir a **reinscrição normativa do agir no real**.
+
+Não é capítulo de ação em geral.  
+Não é capítulo de liberdade situada.  
+Não é capítulo de responsabilidade.  
+Não é capítulo de dignidade.  
+Não é capítulo de vida boa.  
+Não é capítulo de direito.  
+Não é capítulo de política.  
+Não é capítulo de sistema.
+
+O seu estatuto próprio é mais preciso:
+
+> mostrar que, a partir da não-indiferença real das atualizações, do dano real e de uma direção prática mínima, se podem explicitar bem e mal como adequação e desadequação operativa, e derivar normatividade sem a autonomizar.
+
+### forma de uso
+O capítulo deve ser usado como:
+- primeiro desenvolvimento normativo derivado;
+- passagem do mínimo negativo objetivo para uma orientação prática mais determinada;
+- lugar de explicitação de bem e mal como adequação e desadequação operativa;
+- lugar de derivação curta da normatividade;
+- lugar de subordinação do dever-ser ao real e ao possível real.
+
+Não deve ser usado como:
+- ética completa;
+- teoria geral do bem;
+- teoria geral do mal;
+- moral autónoma;
+- teoria da lei;
+- teoria da responsabilidade;
+- teoria da dignidade;
+- teoria da vida boa;
+- filosofia política;
+- crítica institucional;
+- crítica sistémica.
+
+---
+
+## III. Centro próprio do capítulo
+
+### centro
+O centro próprio do Capítulo 10 é:
+
+> **reinscrição normativa do agir no real.**
+
+Isto significa:
+- a normatividade não entra como ordem autónoma;
+- o dever-ser não entra como comando exterior;
+- bem e mal não entram como categorias metafísicas soltas;
+- a orientação prática nasce da estrutura real do agir, do dano, da adequação, da desadequação e do limite do possível real.
+
+### desdobramento mínimo do centro
+A ordem mínima do capítulo é:
+
+1. **`P39`** — nem toda a atualização é indiferente;
+2. **`P40`** — há dano real ancorado no real;
+3. **`P42`** — a ação pode orientar-se segundo vetores mínimos de preservação, correção e não-degeneração;
+4. **`P44`** — o bem como adequação operativa da atualização ao real;
+5. **`P45`** — o mal como desadequação, degeneração ou dano no regime da ação;
+6. **`P46`** — a normatividade do agir deriva da estrutura do real e da ação situada, não constituindo ordem separada;
+7. **`P47`** — o dever-ser deriva da subordinação operativa ao real;
+8. **`P48`** — o dever-ser é subordinado ao poder-ser real.
+
+### fórmula curta do centro
+> O Capítulo 10 abre pela não-indiferença real das atualizações, pelo dano real e por uma direção prática mínima ancorada no real; explicita bem e mal como adequação e desadequação operativa; deriva internamente a normatividade sem a autonomizar; e fecha terminalmente pelo limite do possível real.
+
+---
+
+## IV. Falso centro dominante a bloquear
+
+### falso centro dominante principal
+O falso centro dominante a bloquear é:
+
+> **a transformação do Capítulo 10 numa teoria moral autónoma.**
+
+Esse desvio ocorre quando bem, mal, normatividade ou dever-ser passam a comandar antes de serem derivados do real do agir.
+
+### formas típicas desse desvio
+- abrir por bem em abstrato;
+- abrir por mal em abstrato;
+- abrir por dever-ser;
+- abrir por valor;
+- abrir por moral;
+- abrir por normatividade pronta;
+- abrir por responsabilidade;
+- abrir por dignidade;
+- abrir por vida boa;
+- abrir por lei, instituição, história ou política;
+- fazer de `P46/P47/P48` a cabeça do capítulo;
+- fazer de `P44/P45` moral pronta;
+- usar dano real como teoria completa do mal;
+- usar mínimo negativo objetivo como sistema normativo.
+
+### outros falsos centros a bloquear
+Devem permanecer bloqueados:
+- ontologia fundacional remota como abertura;
+- `P04/P07/P08` como cabeça viva;
+- erro, critério, verdade ou correção em abstrato;
+- epistemologia alta;
+- normatividade autónoma;
+- moralismo extrínseco;
+- bem e mal como entidades independentes;
+- dever-ser impossível;
+- responsabilidade como centro;
+- dignidade como centro;
+- vida boa como centro;
+- direito;
+- política;
+- sistema;
+- crítica social ou institucional;
+- `PN01` como comando;
+- `PN04/PN05` como substitutos do problema local;
+- `AC01/AC03` como legitimações externas;
+- `CR01/CR04` como campos soberanos.
+
+---
+
+## V. Fronteira com o anterior
+
+### capítulo anterior
+O capítulo anterior é:
+
+**Capítulo 9 — Ação e liberdade situada.**
+
+### o que o Capítulo 10 herda
+O Capítulo 10 pode pressupor que o Capítulo 9 já deixou fixado:
+- ação como atualização real situada;
+- liberdade apenas como liberdade situada;
+- não-indiferença das trajetórias;
+- dano real como consequência possível da atualização;
+- mínimo negativo objetivo;
+- erro apenas como disciplina crítica do agir;
+- limite terminal do possível real.
+
+### o que o Capítulo 10 não pode repetir
+O Capítulo 10 não deve repetir:
+- teoria da ação;
+- teoria da liberdade situada;
+- passagem da representação corrigida para atualização prática;
+- disciplina crítica do agir por erro;
+- exposição do mínimo negativo objetivo como se ainda fosse o ponto final;
+- travões próprios do Capítulo 9 como corpo principal.
+
+Também não deve transformar o Capítulo 9 em simples preâmbulo descartável.
+
+### regra da passagem
+A passagem correta é:
+
+> depois de a ação situada ter mostrado que nem toda a atualização é indiferente e que há dano real, pode começar a derivação normativa curta a partir do real do agir.
+
+Isto significa:
+- o Capítulo 10 não nasce do nada;
+- nasce da não-indiferença real já aberta;
+- mas desloca o centro: já não pergunta apenas pela ação, pergunta pela orientação normativa derivada dessa ação.
+
+---
+
+## VI. Fronteira com o seguinte
+
+### capítulo seguinte
+O capítulo seguinte é:
+
+**Capítulo 11 — Responsabilidade, dignidade e vida boa prudencial.**
+
+### o que o Capítulo 10 prepara
+O Capítulo 10 prepara:
+- responsabilidade como resposta ulterior a dano, bem, mal e normatividade derivada;
+- dignidade como problema posterior;
+- vida boa prudencial como desenvolvimento posterior;
+- eventual coordenação prática intersubjetiva posterior;
+- uma passagem futura para responsabilidade sem a abrir ainda.
+
+### o que o Capítulo 10 não pode absorver
+O Capítulo 10 não pode absorver:
+- responsabilidade do ser reflexivo como centro;
+- imputação;
+- culpa;
+- mérito;
+- dignidade;
+- vida boa;
+- educação;
+- formação ética;
+- prudência existencial desenvolvida;
+- coordenação intersubjetiva;
+- comum;
+- instituição;
+- direito;
+- política.
+
+### regra da passagem
+O Capítulo 10 deve terminar antes de transformar normatividade derivada em responsabilidade reflexiva.
+
+A passagem legítima para o Capítulo 11 só ocorre quando:
+- dano real já foi reinscrito no agir;
+- bem e mal já foram explicitados como adequação e desadequação operativa;
+- a normatividade já foi derivada sem autonomização;
+- o dever-ser já foi subordinado ao real e ao possível real;
+- e ainda falta perguntar quem responde por isso, em que termos, e com que forma prudencial de vida.
+
+---
+
+## VII. O que fica dentro e o que fica fora
+
+### fica dentro
+Fica dentro do Capítulo 10:
+- não-indiferença real das atualizações;
+- dano real;
+- direção prática mínima;
+- vetores mínimos de preservação, correção e não-degeneração;
+- bem como adequação operativa da atualização ao real;
+- mal como desadequação, degeneração ou dano no regime da ação;
+- normatividade derivada;
+- dever-ser derivado da subordinação operativa ao real;
+- dever-ser limitado pelo poder-ser real;
+- `P39/P40/P42` como abertura;
+- `P44/P45` como corpo intermédio;
+- `P46/P47` como derivação interna curta e subordinada;
+- `P48` como fecho terminal;
+- `P04/P07/P08` apenas como fundo ontológico remoto;
+- `P43` apenas como densificação interna da direção prática situada, sem cabeça autónoma.
+
+### fica fora
+Fica fora do Capítulo 10:
+- ação como centro próprio;
+- liberdade situada como tema próprio;
+- teoria geral da liberdade;
+- vontade;
+- escolha soberana;
+- moral pronta;
+- teoria moral autónoma;
+- bem como entidade separada;
+- mal como entidade autónoma;
+- dever-ser como comando exterior;
+- dever-ser impossível;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- coordenação intersubjetiva;
+- comum;
+- cultura;
+- instituição;
+- direito;
+- história;
+- política;
+- sistema;
+- crítica sistémica;
+- erro, critério, verdade ou correção em abstrato;
+- `P46/P47/P48` como abertura;
+- `P44/P45` como moral pronta;
+- `PN01`, `PN04`, `PN05`, `AC01`, `AC03`, `CR01` e `CR04` como comandos estruturais do capítulo.
+
+---
+
+## VIII. Travões obrigatórios
+
+### travão anti-moral autónoma
+O capítulo não pode abrir por moral.
+
+A moral, se aparecer como palavra, deve ser imediatamente rebaixada ao seu estatuto derivado.
+
+A normatividade aqui não é fonte soberana.
+
+É derivação do real do agir.
+
+### travão anti-bem/mal abstratos
+O capítulo não pode abrir por bem e mal em abstrato.
+
+Bem e mal só entram depois de:
+- não-indiferença real;
+- dano real;
+- direção prática mínima.
+
+O bem entra como adequação operativa.
+
+O mal entra como desadequação, degeneração ou dano.
+
+### travão anti-normatividade antecipada
+`P46/P47` não podem abrir o capítulo.
+
+Entram apenas depois de `P39/P40/P42` e de `P44/P45`.
+
+A derivação normativa deve ser curta, interna e subordinada.
+
+Não deve tornar-se regime próprio desenvolvido.
+
+### travão anti-dever impossível
+`P48` não pode entrar cedo.
+
+O possível real fecha o capítulo.
+
+Não o abre.
+
+A função de `P48` é impedir que o dever-ser mande o impossível.
+
+### travão anti-epistemologia alta
+O capítulo não pode regressar ao Capítulo 7.
+
+Não abrir por:
+- verdade;
+- erro;
+- critério;
+- correção;
+- adequação epistemológica em abstrato.
+
+A adequação aqui só entra enquanto adequação operativa da atualização ao real.
+
+### travão anti-ontologia remota
+`P04/P07/P08` ficam como fundo remoto.
+
+Não podem comandar a abertura.
+
+O Capítulo 10 já não é capítulo de ontologia fundacional.
+
+É capítulo de derivação normativa do agir no real.
+
+### travão anti-Capítulo 11
+O capítulo não pode transformar normatividade derivada em responsabilidade, dignidade ou vida boa.
+
+Essas zonas só entram depois.
+
+### travão anti-instituição e sistema
+O capítulo não pode subir para:
+- lei;
+- direito;
+- instituição;
+- história;
+- política;
+- cultura;
+- sistema;
+- crítica social.
+
+Essas camadas pertencem a momentos posteriores.
+
+---
+
+## IX. Fórmula local final
+
+> O Capítulo 10 abre pela não-indiferença real das atualizações, pelo dano real e por uma direção prática mínima ancorada no real; ganha corpo em bem e mal como adequação e desadequação operativa; deriva internamente a normatividade sem a autonomizar; e fecha terminalmente pelo limite do possível real, sem passar ainda para responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-01-estrutura-interna-md"></a>
+### 01_estrutura_interna
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/01_estrutura_interna.md`
+
+# 01_estrutura_interna
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a estrutura interna mínima do **Capítulo 10 — Dano, bem, mal e normatividade derivada**;
+- determinar a ordem de entrada das suas partes sem transformar o capítulo em teoria moral autónoma;
+- preparar o povoamento local por materiais positivos e críticos;
+- impedir que o capítulo seja absorvido pelo Capítulo 9, pelo Capítulo 11 ou por camadas posteriores;
+- garantir que a normatividade entra apenas como derivação do real do agir, e não como ordem soberana.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não produz materiais positivos;
+- não produz materiais críticos;
+- não decide lacunas;
+- não produz ainda primeira versão controlada de escrita;
+- não reabre os Capítulos 1 a 9;
+- não reescreve o Capítulo 9;
+- não antecipa o Capítulo 11;
+- não transforma o capítulo em ética completa;
+- não transforma bem e mal em entidades autónomas;
+- não transforma dever-ser em comando exterior ao real;
+- não transforma normatividade em sistema próprio;
+- não sobe para lei, instituição, história, política ou crítica sistémica.
+
+### valor metodológico
+- vale como planta local do Capítulo 10;
+- vale como ordem mínima do seu futuro povoamento;
+- vale como travão contra moralização e autonomização normativa;
+- vale como critério de distribuição interna dos materiais;
+- vale como proteção da fronteira com os Capítulos 9 e 11.
+
+---
+
+## II. Forma geral do capítulo
+
+### estatuto formal
+O Capítulo 10 deve funcionar como **primeira derivação normativa curta a partir do real do agir**.
+
+A sua função não é repetir a ação situada do Capítulo 9.
+
+Também não é abrir já responsabilidade, dignidade ou vida boa.
+
+A sua forma correta é:
+
+> passagem do dano real e da não-indiferença das trajetórias para a normatividade derivada, sempre subordinada ao real e ao possível real.
+
+### extensão relativa
+O Capítulo 10 tem mais massa positiva do que o Capítulo 9.
+
+Mas essa força não autoriza inflação.
+
+O capítulo deve ser suficientemente desenvolvido para:
+- explicitar dano real;
+- introduzir direção prática mínima;
+- dizer bem e mal como adequação e desadequação operativa;
+- derivar normatividade;
+- subordinar dever-ser ao real;
+- fechar pelo possível real.
+
+Mas deve parar antes de:
+- responsabilidade;
+- dignidade;
+- vida boa;
+- coordenação intersubjetiva;
+- direito;
+- política;
+- sistema.
+
+### regra de composição
+A composição interna deve obedecer a esta regra:
+
+> abrir pela não-indiferença real do agir, passar pelo dano e pela direção prática mínima, explicitar bem e mal como adequação e desadequação operativa, derivar a normatividade sem a autonomizar, e fechar pelo limite do possível real.
+
+---
+
+## III. Ordem interna obrigatória
+
+A ordem interna mínima é:
+
+1. **não-indiferença real das atualizações** — `P39`;
+2. **dano real** — `P40`;
+3. **direção prática mínima** — `P42`;
+4. **bem como adequação operativa** — `P44`;
+5. **mal como desadequação, degeneração ou dano** — `P45`;
+6. **normatividade não autónoma** — `P46`;
+7. **dever-ser derivado da subordinação operativa ao real** — `P47`;
+8. **dever-ser subordinado ao poder-ser real** — `P48`.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente proibido:
+- abrir por bem;
+- abrir por mal;
+- abrir por dever-ser;
+- abrir por normatividade;
+- abrir por valor;
+- abrir por responsabilidade;
+- abrir por dignidade;
+- abrir por vida boa;
+- abrir por lei;
+- abrir por instituição;
+- abrir por política;
+- abrir por sistema;
+- abrir por `P46/P47/P48`;
+- abrir por `P04/P07/P08`;
+- abrir por erro, critério, verdade ou correção em abstrato.
+
+### fórmula de ordem
+A ordem mínima do capítulo é:
+
+> `P39/P40/P42 → P44/P45 → P46/P47 → P48 terminal`.
+
+---
+
+## IV. Partes internas obrigatórias
+
+## Parte A — Receção controlada do Capítulo 9
+
+### função local
+Receber o ganho do Capítulo 9 sem o repetir.
+
+O Capítulo 10 pode pressupor que já ficou estabelecido:
+- ação como atualização real situada;
+- liberdade apenas como liberdade situada;
+- não-indiferença das trajetórias;
+- dano real;
+- mínimo negativo objetivo;
+- limite do possível real.
+
+### conteúdo mínimo
+1. a ação já foi descrita como atualização real situada;
+2. o dano já foi introduzido como consequência possível da atualização;
+3. o mínimo negativo objetivo já bloqueou a equivalência total entre trajetórias;
+4. agora já não se trata apenas de dizer que nem tudo é indiferente;
+5. trata-se de explicitar o que se segue normativamente dessa não-indiferença, sem autonomizar a normatividade.
+
+### proposições pressupostas
+- `P39`;
+- `P40`;
+- `P41`;
+- `P48`, apenas como limite já assinalado pelo capítulo anterior.
+
+### travão interno
+Não repetir:
+- teoria da ação;
+- liberdade situada;
+- crítica da escolha soberana;
+- disciplina crítica do agir por erro;
+- estrutura própria do Capítulo 9.
+
+### formulação-guia
+> O Capítulo 10 começa onde o Capítulo 9 parou: não na ação enquanto tal, mas na pergunta pelo que se segue da não-indiferença real das ações danosas.
+
+---
+
+## Parte B — Não-indiferença real das atualizações
+
+### função local
+Reabrir `P39` como chão do capítulo, mas já não como descoberta inicial da ação situada.
+
+Aqui `P39` funciona como solo da derivação normativa.
+
+### conteúdo mínimo
+1. as atualizações não são equivalentes;
+2. trajetórias diferentes produzem efeitos diferentes;
+3. a diferença não é apenas subjetiva;
+4. a não-indiferença prática abre a possibilidade de orientação;
+5. a orientação ainda não é moral autónoma.
+
+### proposição dominante
+- `P39` — nem toda a atualização é indiferente.
+
+### travão interno
+Não fazer de `P39`:
+- moral pronta;
+- escala completa de valores;
+- teoria da vida boa;
+- responsabilidade;
+- culpa;
+- mérito.
+
+### formulação-guia
+> A normatividade só pode começar porque a ação real já não é indiferente; se todas as atualizações fossem equivalentes, nenhuma orientação prática poderia ser derivada.
+
+---
+
+## Parte C — Dano real
+
+### função local
+Fazer entrar `P40` como ponto de ancoragem objetiva da não-indiferença.
+
+O dano não é apenas diferença entre trajetórias.
+
+É a diferença enquanto degradação real.
+
+### conteúdo mínimo
+1. existe dano real;
+2. dano não é mera desaprovação subjetiva;
+3. dano não é ainda teoria do mal;
+4. dano é degradação, quebra, diminuição, bloqueio ou estreitamento real;
+5. o dano torna impossível tratar todas as atualizações como equivalentes.
+
+### proposição dominante
+- `P40` — há dano real ancorado no real.
+
+### travão interno
+Não transformar dano em:
+- teoria completa do mal;
+- culpa;
+- responsabilidade;
+- reparação;
+- sofrimento como centro;
+- política do dano;
+- crítica social.
+
+### formulação-guia
+> O dano real é o ponto em que a não-indiferença das trajetórias deixa de ser apenas diferença de efeitos e passa a exigir uma orientação mínima.
+
+---
+
+## Parte D — Direção prática mínima
+
+### função local
+Introduzir `P42` como passagem entre dano real e orientação prática.
+
+Esta parte é decisiva porque evita duas deformações:
+- parar no dano como negatividade muda;
+- saltar diretamente para dever-ser autónomo.
+
+### conteúdo mínimo
+1. se há dano real, a ação pode orientar-se minimamente;
+2. essa orientação não nasce de moral exterior;
+3. nasce de vetores reais de preservação, correção e não-degeneração;
+4. a direção prática é mínima e derivada;
+5. ainda não constitui sistema normativo completo.
+
+### proposição dominante
+- `P42` — a ação pode orientar-se segundo vetores mínimos de preservação, correção e não-degeneração.
+
+### travão interno
+Não transformar `P42` em:
+- código moral;
+- doutrina da preservação;
+- ética da conservação;
+- teleologia da vida boa;
+- responsabilidade;
+- política.
+
+### formulação-guia
+> A existência de dano real não entrega ainda uma moral completa, mas permite reconhecer uma direção prática mínima: preservar quando a atualização pode degradar, corrigir quando há desadequação, e impedir a degeneração quando a ação ameaça destruir condições reais.
+
+---
+
+## Parte E — Bem como adequação operativa
+
+### função local
+Introduzir `P44` como primeiro corpo intermédio do capítulo.
+
+O bem entra apenas depois de:
+- não-indiferença;
+- dano real;
+- direção prática mínima.
+
+### conteúdo mínimo
+1. o bem não entra como entidade metafísica separada;
+2. o bem não entra como valor autónomo;
+3. o bem não entra como ideal moral exterior;
+4. o bem entra como adequação operativa da atualização ao real;
+5. uma ação é boa, neste regime mínimo, quando atualiza de modo adequado ao campo real, às suas condições, limites e possibilidades.
+
+### proposição dominante
+- `P44` — o bem é adequação da atualização ao real.
+
+### travão interno
+Não transformar `P44` em:
+- teoria geral do bem;
+- bem supremo;
+- moral pronta;
+- perfeccionismo;
+- vida boa;
+- dignidade;
+- responsabilidade.
+
+### formulação-guia
+> O bem não é aqui uma entidade acima do real; é o nome da adequação operativa da atualização ao real em que ela se inscreve.
+
+---
+
+## Parte F — Mal como desadequação, degeneração ou dano
+
+### função local
+Introduzir `P45` como segundo corpo intermédio.
+
+O mal entra em paralelo com o bem, mas não como substância autónoma.
+
+### conteúdo mínimo
+1. o mal não entra como princípio metafísico;
+2. o mal não entra como categoria moral pronta;
+3. o mal não entra como culpa subjetiva;
+4. o mal entra como desadequação operativa;
+5. o mal pode aparecer como degeneração, dano, bloqueio ou destruição de condições reais.
+
+### proposição dominante
+- `P45` — o mal é desadequação, degeneração ou dano no regime da ação.
+
+### travão interno
+Não transformar `P45` em:
+- teoria metafísica do mal;
+- moralismo;
+- culpa;
+- responsabilidade;
+- punição;
+- antropologia pessimista;
+- crítica cultural.
+
+### formulação-guia
+> O mal, neste capítulo, não é uma entidade oposta ao bem; é o nome da desadequação operativa que danifica, degenera ou rompe condições reais da ação.
+
+---
+
+## Parte G — Normatividade não autónoma
+
+### função local
+Introduzir `P46` apenas depois de `P39/P40/P42` e `P44/P45`.
+
+A normatividade entra como derivação interna do real do agir.
+
+Não entra como cabeça do capítulo.
+
+### conteúdo mínimo
+1. se bem e mal são ancorados no real, a normatividade não é autónoma;
+2. a normatividade não cria o real;
+3. a normatividade não paira sobre a ação;
+4. a normatividade explicita a orientação já inscrita no modo como a ação se adequa ou desadequa ao real;
+5. a normatividade deve permanecer subordinada ao real que a torna inteligível.
+
+### proposição dominante
+- `P46` — a normatividade não é autónoma.
+
+### travão interno
+Não transformar `P46` em:
+- teoria normativa própria;
+- sistema moral;
+- lei;
+- obrigação jurídica;
+- instituição;
+- política;
+- dever-ser soberano.
+
+### formulação-guia
+> A normatividade não manda de fora; explicita, a jusante, que a ação já está medida pela sua adequação ou desadequação ao real.
+
+---
+
+## Parte H — Dever-ser derivado da subordinação operativa ao real
+
+### função local
+Introduzir `P47` como segunda parte da derivação normativa.
+
+O dever-ser não entra como comando exterior.
+
+Entra como forma derivada da subordinação do agir ao real.
+
+### conteúdo mínimo
+1. o dever-ser não é autónomo;
+2. o dever-ser deriva da estrutura real da ação;
+3. a ação deve orientar-se porque já há dano, adequação, desadequação e direção mínima;
+4. o dever-ser só é inteligível dentro do campo real em que a ação pode atualizar;
+5. o dever-ser permanece operativo, não soberano.
+
+### proposição dominante
+- `P47` — o dever-ser deriva da subordinação operativa ao real.
+
+### travão interno
+Não transformar `P47` em:
+- dever absoluto;
+- comando formal;
+- obrigação moral autónoma;
+- normatividade pura;
+- ética kantiana abstrata;
+- responsabilidade;
+- dignidade.
+
+### formulação-guia
+> O dever-ser deriva do ser e do modo como a ação pode ou não atualizar adequadamente o real; não o substitui nem o governa de fora.
+
+---
+
+## Parte I — Limite terminal do possível real
+
+### função local
+Fechar o capítulo por `P48`.
+
+`P48` entra apenas no terminal.
+
+Não pode abrir o capítulo.
+
+Não pode comandar a derivação.
+
+Não pode substituir `P39/P40/P42`, nem `P44/P45`, nem `P46/P47`.
+
+### conteúdo mínimo
+1. o dever-ser só pode exigir o que o real permite;
+2. não há dever impossível;
+3. o possível real limita a normatividade;
+4. a orientação prática só vale dentro do campo do atualizável;
+5. o capítulo fecha antes de responsabilidade, dignidade e vida boa.
+
+### proposição dominante
+- `P48` — o dever-ser é subordinado ao poder-ser real.
+
+### travão interno
+Não transformar `P48` em:
+- abertura;
+- critério soberano;
+- teoria geral do possível;
+- ética completa;
+- transição automática para responsabilidade;
+- política do possível.
+
+### formulação-guia
+> A normatividade derivada só permanece fiel ao real se terminar no limite do possível real: não há dever-ser que possa exigir aquilo que o real não permite atualizar.
+
+---
+
+## Parte J — Entrega controlada ao Capítulo 11
+
+### função local
+Fechar a estrutura deixando preparado o Capítulo 11 sem o absorver.
+
+### conteúdo mínimo
+O Capítulo 10 entrega ao Capítulo 11:
+- dano real reinscrito no agir;
+- bem como adequação operativa;
+- mal como desadequação ou degeneração;
+- normatividade derivada;
+- dever-ser subordinado ao real;
+- dever-ser limitado pelo possível real.
+
+Mas não entrega ainda:
+- responsabilidade desenvolvida;
+- dignidade;
+- vida boa prudencial;
+- educação;
+- formação ética;
+- coordenação intersubjetiva;
+- comum;
+- instituição;
+- direito;
+- política.
+
+### travão interno
+Não transformar a entrega em início de Capítulo 11.
+
+### formulação-guia
+> Depois de derivada a normatividade do real do agir, pode começar a pergunta por quem responde, como responde e que forma de vida se torna prudencialmente adequada; mas essa pergunta já pertence ao capítulo seguinte.
+
+---
+
+## V. Minicapítulos internos provisórios
+
+Para efeitos de povoamento e futura redação, o Capítulo 10 passa a trabalhar com os seguintes minicapítulos provisórios:
+
+### M1 — Do mínimo negativo à derivação normativa
+Função:
+- receber o Capítulo 9;
+- mostrar que a não-indiferença e o dano já pedem orientação;
+- deslocar o centro da ação para a normatividade derivada.
+
+Conteúdo:
+- dano real;
+- mínimo negativo objetivo;
+- passagem para orientação;
+- interrupção da indiferença.
+
+Proposições:
+- `P39`;
+- `P40`;
+- `P41` apenas como pressuposto herdado;
+- `P42`.
+
+Travão:
+- não repetir Capítulo 9;
+- não moralizar imediatamente.
+
+---
+
+### M2 — Direção prática mínima
+Função:
+- explicitar `P42`.
+
+Conteúdo:
+- preservação;
+- correção;
+- não-degeneração;
+- orientação mínima.
+
+Proposição:
+- `P42`.
+
+Travão:
+- não converter em código moral.
+
+---
+
+### M3 — Bem como adequação operativa
+Função:
+- introduzir `P44`.
+
+Conteúdo:
+- bem;
+- adequação;
+- atualização;
+- real;
+- operação situada.
+
+Proposição:
+- `P44`.
+
+Travão:
+- não fazer teoria geral do bem.
+
+---
+
+### M4 — Mal como desadequação, degeneração ou dano
+Função:
+- introduzir `P45`.
+
+Conteúdo:
+- mal;
+- desadequação;
+- degeneração;
+- dano;
+- bloqueio de condições reais.
+
+Proposição:
+- `P45`.
+
+Travão:
+- não fazer teoria metafísica do mal.
+
+---
+
+### M5 — Normatividade derivada
+Função:
+- introduzir `P46`.
+
+Conteúdo:
+- normatividade;
+- não autonomia;
+- derivação;
+- subordinação ao real.
+
+Proposição:
+- `P46`.
+
+Travão:
+- não criar sistema normativo autónomo.
+
+---
+
+### M6 — Dever-ser subordinado ao real
+Função:
+- introduzir `P47`.
+
+Conteúdo:
+- dever-ser;
+- subordinação operativa;
+- ação;
+- real;
+- orientação.
+
+Proposição:
+- `P47`.
+
+Travão:
+- não transformar dever-ser em comando exterior.
+
+---
+
+### M7 — Poder-ser real como limite terminal
+Função:
+- fechar o capítulo.
+
+Conteúdo:
+- possível real;
+- poder-ser;
+- limite;
+- dever impossível;
+- terminal.
+
+Proposição:
+- `P48`.
+
+Travão:
+- não deixar `P48` entrar cedo.
+
+---
+
+### M8 — Entrega ao Capítulo 11
+Função:
+- preparar responsabilidade, dignidade e vida boa sem as desenvolver.
+
+Conteúdo:
+- responsabilidade futura;
+- dignidade futura;
+- vida boa prudencial futura;
+- pergunta por quem responde.
+
+Travão:
+- não abrir o Capítulo 11 dentro do Capítulo 10.
+
+---
+
+## VI. Hierarquia das proposições
+
+### solo real de abertura
+`P39/P40/P42`
+
+Função:
+- abrir o capítulo;
+- fixar não-indiferença, dano e direção prática mínima;
+- impedir abertura por moral pronta ou normatividade autónoma.
+
+### corpo intermédio
+`P44/P45`
+
+Função:
+- explicitar bem e mal;
+- formular bem como adequação operativa;
+- formular mal como desadequação, degeneração ou dano;
+- impedir que bem e mal sejam tratados como entidades autónomas.
+
+### derivação normativa
+`P46/P47`
+
+Função:
+- mostrar que a normatividade não é autónoma;
+- mostrar que o dever-ser deriva da subordinação operativa ao real;
+- impedir moralismo extrínseco e dever-ser soberano.
+
+### fecho terminal
+`P48`
+
+Função:
+- limitar o dever-ser pelo poder-ser real;
+- impedir dever impossível;
+- fechar antes do Capítulo 11.
+
+### fundo ontológico remoto
+`P04/P07/P08`
+
+Função:
+- permanecer como fundo;
+- não abrir;
+- não comandar;
+- não substituir o solo próprio `P39/P40/P42`.
+
+### elementos subordinados ou suspensos
+- `P41` — pressuposto herdado do Capítulo 9, não centro do Capítulo 10;
+- `P43` — possível densificação interna da direção prática situada, sem cabeça autónoma;
+- `PN01` — suspensa;
+- `PN04/PN05` — subordinadas;
+- `AC01/AC03` — compatibilidades externas;
+- `CR01/CR04` — campos externos ao centro local.
+
+---
+
+## VII. Distribuição de funções internas
+
+### abertura
+Deve cumprir quatro funções:
+1. separar o capítulo do Capítulo 9;
+2. assumir o dano real e a não-indiferença como ganhos herdados;
+3. introduzir direção prática mínima;
+4. impedir moral pronta.
+
+### corpo
+Deve cumprir quatro funções:
+1. explicitar bem como adequação operativa;
+2. explicitar mal como desadequação, degeneração ou dano;
+3. impedir substancialização de bem e mal;
+4. preparar derivação normativa.
+
+### derivação
+Deve cumprir três funções:
+1. mostrar que a normatividade não é autónoma;
+2. derivar o dever-ser da subordinação ao real;
+3. impedir dever-ser exterior ou soberano.
+
+### fecho
+Deve cumprir três funções:
+1. subordinar dever-ser ao poder-ser real;
+2. impedir dever impossível;
+3. entregar ao Capítulo 11 apenas a pergunta por responsabilidade, dignidade e vida boa.
+
+---
+
+## VIII. Travões internos de composição
+
+### travão de abertura
+A primeira parte do capítulo não pode conter:
+- bem como abertura;
+- mal como abertura;
+- dever-ser como abertura;
+- normatividade como abertura;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- lei;
+- política.
+
+A primeira parte deve conter:
+- não-indiferença;
+- dano real;
+- direção prática mínima.
+
+### travão de corpo
+O corpo do capítulo não pode transformar:
+- bem em bem supremo;
+- mal em substância;
+- adequação em moral pronta;
+- desadequação em culpa;
+- dano em teoria completa do mal.
+
+### travão de derivação
+A derivação não pode transformar:
+- normatividade derivada em normatividade autónoma;
+- dever-ser operativo em comando exterior;
+- subordinação ao real em sistema moral;
+- orientação prática em lei ou instituição.
+
+### travão de fecho
+O fecho não pode:
+- abrir responsabilidade como centro;
+- abrir dignidade;
+- abrir vida boa;
+- abrir coordenação intersubjetiva;
+- abrir direito;
+- abrir política;
+- abrir sistema.
+
+### travão anti-rebaixamento
+O capítulo não deve ser rebaixado para mera continuação do Capítulo 9.
+
+O Capítulo 10 já não é só:
+- ação;
+- liberdade situada;
+- dano como consequência;
+- mínimo negativo.
+
+É derivação normativa curta.
+
+### travão anti-inflação
+O capítulo também não deve ser inflacionado para ética completa.
+
+O Capítulo 10 ainda não é:
+- responsabilidade;
+- dignidade;
+- vida boa;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+---
+
+## IX. Fronteiras internas
+
+### fronteira com o Capítulo 9
+O Capítulo 10 recebe do Capítulo 9:
+- ação situada;
+- não-indiferença;
+- dano real;
+- mínimo negativo objetivo;
+- limite do possível real já assinalado.
+
+Não recebe:
+- liberdade como centro;
+- teoria da ação;
+- erro como disciplina crítica;
+- crítica da escolha soberana;
+- repetição da passagem representação → ação.
+
+### fronteira com o Capítulo 11
+O Capítulo 10 prepara o Capítulo 11, mas não o abre.
+
+O Capítulo 11 ficará com:
+- responsabilidade;
+- dignidade;
+- vida boa prudencial;
+- resposta do ser reflexivo à normatividade derivada.
+
+O Capítulo 10 deve parar antes disso.
+
+### fronteira com capítulos sociais e sistémicos
+Ficam fora:
+- coordenação intersubjetiva;
+- comum;
+- cultura;
+- instituição;
+- direito;
+- história;
+- política;
+- sistema;
+- crítica sistémica.
+
+### fronteira com o eixo epistemológico
+Ficam fora como centro:
+- verdade;
+- erro;
+- critério;
+- correção;
+- adequação epistemológica em abstrato.
+
+A adequação aqui é apenas:
+- adequação operativa da atualização ao real.
+
+---
+
+## X. Fórmula estrutural final
+
+A estrutura interna do Capítulo 10 deve obedecer a esta sequência:
+
+> **da não-indiferença real das atualizações ao dano real; do dano real à direção prática mínima; da direção prática mínima à explicitação de bem e mal como adequação e desadequação operativa; daí à normatividade derivada e ao dever-ser subordinado ao real; e só terminalmente ao limite do possível real.**
+
+Fórmula curta:
+
+> `P39/P40/P42 → P44/P45 → P46/P47 → P48 terminal`.
+
+Regra final:
+
+> O Capítulo 10 só permanece fiel ao seu centro se abrir pelo dano real e pela direção prática mínima, e não por moral; se disser bem e mal como adequação e desadequação operativa, e não como entidades autónomas; se derivar a normatividade sem a autonomizar; e se fechar pelo possível real antes de passar para responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-02-materiais-positivos-md"></a>
+### 02_materiais_positivos
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/02_materiais_positivos.md`
+
+# 02_materiais_positivos
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar os **materiais positivos mínimos** que já sustentam o povoamento local do **Capítulo 10 — Dano, bem, mal e normatividade derivada**;
+- distinguir entre materiais **nucleares**, **de apoio**, **de ponte**, **terminais** e **sob vigilância**;
+- impedir que o capítulo seja povoado por simples afinidade temática com moral, valor, dever-ser, responsabilidade, dignidade, direito ou política;
+- preservar o centro do capítulo como **reinscrição normativa do agir no real**;
+- preparar a abertura posterior de `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não transforma o Capítulo 10 em teoria moral autónoma;
+- não transforma bem e mal em entidades separadas;
+- não transforma o dever-ser em comando exterior ao real;
+- não transforma a normatividade em sistema próprio;
+- não antecipa responsabilidade, dignidade ou vida boa;
+- não antecipa instituição, direito, história, política ou sistema;
+- não usa materiais deslocados para engrossar artificialmente o capítulo;
+- não autoriza ainda redação corrida.
+
+### regra decisiva
+> no Capítulo 10, só entra como material positivo aquilo que sustente a passagem da não-indiferença real das atualizações, do dano real e da direção prática mínima para bem, mal e normatividade derivada, sem autonomizar moral, dever-ser, responsabilidade, instituição ou sistema.
+
+---
+
+## II. Estado do povoamento positivo
+
+### veredito local
+O Capítulo 10 tem povoamento positivo **autorizado e relativamente forte**, mas com vigilância de sobreposição.
+
+Tem mais massa positiva do que o Capítulo 9.
+
+Mas essa massa toca frequentemente o Capítulo 11, porque muitos materiais que falam de normatividade derivada também puxam para:
+- responsabilidade;
+- dignidade;
+- liberdade ontológica;
+- vida boa;
+- dever de mudança de si;
+- direito;
+- instituição;
+- política.
+
+### estatuto do material positivo
+O material positivo já existente permite fixar:
+- não-indiferença real das atualizações;
+- dano real;
+- direção prática mínima;
+- bem como adequação operativa;
+- mal como desadequação, degeneração ou dano;
+- normatividade não autónoma;
+- dever-ser derivado da subordinação ao real;
+- dever-ser subordinado ao poder-ser real.
+
+Mas o material ainda exige vigilância porque pode facilmente converter-se em:
+- moral pronta;
+- teoria do bem;
+- teoria do mal;
+- teoria da responsabilidade;
+- teoria da dignidade;
+- teoria da vida boa;
+- teoria jurídica;
+- crítica sistémica.
+
+### consequência metodológica
+O povoamento deve ser afirmativo, mas hierarquizado.
+
+O Capítulo 10 já pode dizer mais do que o Capítulo 9.
+
+Mas não pode dizer tudo o que a zona ética posterior virá a exigir.
+
+---
+
+## III. Corredor positivo local do capítulo
+
+O corredor positivo local do Capítulo 10 é:
+
+1. **herança controlada do Capítulo 9** — ação situada, dano real e mínimo negativo objetivo já introduzidos;
+2. **`P39`** — nem toda a atualização é indiferente;
+3. **`P40`** — há dano real;
+4. **`P42`** — a ação pode orientar-se por vetores mínimos de preservação, correção e não-degeneração;
+5. **`P44`** — o bem é adequação operativa da atualização ao real;
+6. **`P45`** — o mal é desadequação, degeneração ou dano no regime da ação;
+7. **`P46`** — a normatividade do agir deriva da estrutura do real e da ação situada, não constituindo ordem separada;
+8. **`P47`** — o dever-ser deriva da subordinação operativa ao real;
+9. **`P48`** — o dever-ser é subordinado ao poder-ser real.
+
+### fórmula curta do corredor
+> não-indiferença real → dano real → direção prática mínima → bem como adequação → mal como desadequação → normatividade derivada → dever-ser subordinado ao real → poder-ser real terminal.
+
+### regra de não-inversão
+Não inverter o corredor.
+
+Especialmente:
+- não abrir por bem;
+- não abrir por mal;
+- não abrir por valor;
+- não abrir por dever-ser;
+- não abrir por normatividade;
+- não abrir por responsabilidade;
+- não abrir por dignidade;
+- não abrir por vida boa;
+- não abrir por lei;
+- não abrir por instituição;
+- não abrir por política;
+- não abrir por sistema.
+
+---
+
+## IV. Proposições positivas de governo
+
+## 1. `P39` — nem toda a atualização é indiferente
+
+### estatuto
+`P39` é chão herdado e reaberto.
+
+No Capítulo 9, `P39` serviu para mostrar que trajetórias de ação não são indiferentes.
+
+No Capítulo 10, serve como primeiro solo da derivação normativa.
+
+### função positiva
+Fixa que a normatividade só pode começar porque há diferenças reais entre atualizações.
+
+Se todas as atualizações fossem equivalentes, nenhuma orientação prática poderia ser derivada.
+
+### uso no capítulo
+Deve sustentar:
+- a passagem do agir situado para orientação prática;
+- a recusa da indiferença total;
+- a base não moralista da distinção posterior entre bem e mal.
+
+### formulação local admissível
+> A orientação prática só se torna inteligível porque as atualizações reais não são indiferentes.
+
+### travão de uso
+`P39` não autoriza ainda:
+- moral pronta;
+- teoria do valor;
+- culpa;
+- mérito;
+- responsabilidade;
+- vida boa.
+
+---
+
+## 2. `P40` — há dano real
+
+### estatuto
+`P40` é ponto de ancoragem objetiva.
+
+### função positiva
+Fixa que a não-indiferença não é apenas diferença formal entre trajetórias, mas pode assumir a forma de dano real.
+
+### uso no capítulo
+Deve sustentar:
+- o endurecimento da não-indiferença;
+- a passagem para direção prática mínima;
+- a futura distinção entre bem e mal;
+- a recusa da equivalência total entre atualizações.
+
+### formulação local admissível
+> O dano real é a forma negativa mínima pela qual uma atualização mostra que nem todas as trajetórias preservam, corrigem ou degradam do mesmo modo.
+
+### travão de uso
+`P40` não autoriza:
+- teoria completa do mal;
+- culpa;
+- responsabilidade;
+- reparação;
+- política do dano;
+- crítica social.
+
+---
+
+## 3. `P42` — direção prática mínima
+
+### estatuto
+`P42` é a primeira passagem positiva própria do Capítulo 10.
+
+### função positiva
+Fixa que, havendo dano real, a ação já pode ser orientada por vetores mínimos inscritos no real.
+
+Esses vetores são:
+- preservação;
+- correção;
+- não-degeneração.
+
+### uso no capítulo
+Deve sustentar:
+- a passagem do dano para orientação;
+- o bloqueio da moral exterior;
+- a preparação de bem e mal como adequação e desadequação;
+- a recusa de dever-ser autónomo.
+
+### formulação local admissível
+> Se a ação pode danificar o real, então há pelo menos uma direção prática mínima: preservar condições reais, corrigir desadequações e impedir degenerações.
+
+### travão de uso
+`P42` não autoriza:
+- código moral;
+- doutrina conservadora;
+- teoria da preservação como fim absoluto;
+- ética completa;
+- responsabilidade;
+- política.
+
+---
+
+## 4. `P44` — bem como adequação operativa
+
+### estatuto
+`P44` é corpo intermédio positivo.
+
+### função positiva
+Permite dizer o bem sem o autonomizar.
+
+O bem entra como adequação operativa da atualização ao real.
+
+### uso no capítulo
+Deve sustentar:
+- a explicitação local do bem;
+- a ligação entre orientação prática e adequação;
+- a recusa de bem como entidade metafísica;
+- a recusa de bem como valor exterior ao real.
+
+### formulação local admissível
+> O bem, neste regime, é a adequação operativa da atualização ao real em que ela ocorre.
+
+### travão de uso
+`P44` não autoriza:
+- bem supremo;
+- teoria geral do bem;
+- vida boa;
+- dignidade;
+- moral pronta;
+- perfeccionismo.
+
+---
+
+## 5. `P45` — mal como desadequação, degeneração ou dano
+
+### estatuto
+`P45` é corpo intermédio positivo, em paralelo com `P44`.
+
+### função positiva
+Permite dizer o mal sem o transformar em substância ou princípio autónomo.
+
+O mal entra como:
+- desadequação operativa;
+- degeneração;
+- dano;
+- bloqueio de condições reais.
+
+### uso no capítulo
+Deve sustentar:
+- a explicitação local do mal;
+- a ligação entre dano e desadequação;
+- a passagem para normatividade derivada;
+- a recusa de teoria metafísica do mal.
+
+### formulação local admissível
+> O mal, neste regime, não é entidade oposta ao bem; é desadequação operativa que danifica, degenera ou rompe condições reais.
+
+### travão de uso
+`P45` não autoriza:
+- teoria metafísica do mal;
+- culpa;
+- punição;
+- responsabilidade;
+- antropologia pessimista;
+- crítica cultural.
+
+---
+
+## 6. `P46` — normatividade não autónoma
+
+### estatuto
+`P46` entra como derivação interna curta.
+
+Não abre o capítulo.
+
+Não comanda antes de `P39/P40/P42` e `P44/P45`.
+
+### função positiva
+Fixa que a normatividade do agir não constitui ordem separada.
+
+A normatividade deriva da estrutura real da ação situada, do dano, da direção prática, da adequação e da desadequação.
+
+### uso no capítulo
+Deve sustentar:
+- a recusa de moral autónoma;
+- a reinscrição normativa no real;
+- a passagem de bem/mal para dever-ser;
+- o bloqueio de sistema normativo soberano.
+
+### formulação local admissível
+> A normatividade não manda a partir de fora; explicita que a ação já está medida pela sua adequação ou desadequação ao real.
+
+### travão de uso
+`P46` não autoriza:
+- teoria normativa autónoma;
+- sistema moral;
+- lei;
+- direito;
+- instituição;
+- política.
+
+---
+
+## 7. `P47` — dever-ser derivado da subordinação operativa ao real
+
+### estatuto
+`P47` é segunda derivação interna.
+
+### função positiva
+Fixa que o dever-ser deriva da subordinação operativa do agir ao real.
+
+Não é comando exterior.
+
+Não é norma autolegislada.
+
+Não é imposição formal desligada das condições reais.
+
+### uso no capítulo
+Deve sustentar:
+- a inteligibilidade do dever-ser;
+- a ligação entre dever-ser, dano e adequação;
+- a recusa de dever-ser autónomo;
+- a preparação do limite terminal de `P48`.
+
+### formulação local admissível
+> O dever-ser deriva do modo como a ação deve responder ao real que pode preservar, corrigir, danificar ou degenerar.
+
+### travão de uso
+`P47` não autoriza:
+- dever absoluto;
+- dever impossível;
+- obrigação formal autónoma;
+- responsabilidade como centro;
+- dignidade;
+- vida boa.
+
+---
+
+## 8. `P48` — dever-ser subordinado ao poder-ser real
+
+### estatuto
+`P48` entra apenas como fecho terminal.
+
+### função positiva
+Impede que o dever-ser exija o impossível.
+
+Fecha o capítulo pelo possível real.
+
+### uso no capítulo
+Deve sustentar:
+- o limite da normatividade;
+- a recusa de dever impossível;
+- a subordinação final do dever-ser ao poder-ser;
+- a passagem controlada para o Capítulo 11.
+
+### formulação local admissível
+> Nenhuma normatividade derivada permanece fiel ao real se exigir aquilo que o real não permite atualizar.
+
+### travão de uso
+`P48` não autoriza:
+- abertura por possível real;
+- teoria geral do possível;
+- ética completa;
+- transição automática para responsabilidade;
+- política do possível.
+
+---
+
+## V. Materiais fragmentários nucleares
+
+## 1. `F0120_SEG_002`
+
+### estatuto
+Material nuclear prioritário.
+
+### razão de entrada
+Sustenta que bem e mal práticos dependem da apreensão e descrição adequadas do real e do possível, e que o mal não deve ser tratado como entidade autónoma.
+
+### função no capítulo
+Apoia diretamente:
+- `P40`;
+- `P44`;
+- `P45`;
+- `P47`;
+- `P48`.
+
+### uso admissível
+Pode ser usado para formular:
+- bem como adequação operativa;
+- mal como desadequação;
+- ligação entre real, possível e orientação prática;
+- recusa de mal como substância separada.
+
+### travão
+Não converter este material em:
+- teoria geral do bem;
+- teoria geral do mal;
+- moral pronta;
+- vida boa;
+- responsabilidade.
+
+---
+
+## 2. `F0017_SEG_001`
+
+### estatuto
+Material nuclear prioritário.
+
+### razão de entrada
+Sustenta que o valor só é objetivamente defensável quando subordinado ao poder-ser real e não a um dever-ser autónomo.
+
+### função no capítulo
+Apoia:
+- `P44`;
+- `P46`;
+- `P47`;
+- `P48`.
+
+### uso admissível
+Pode ser usado para mostrar que o valor prático não paira acima do real, mas depende do que o real permite e do modo como a ação se adequa a esse campo.
+
+### travão
+Não transformar este material em:
+- teoria do valor autónomo;
+- axiologia geral;
+- dever-ser soberano;
+- ética completa.
+
+---
+
+## 3. `F0060_A01_SEG_001`
+
+### estatuto
+Material nuclear prioritário.
+
+### razão de entrada
+Sustenta que o dever-ser só é real enquanto subordinado ao poder-ser permitido pelo real, e que a normatividade não é autónoma.
+
+### função no capítulo
+Apoia:
+- `P44`;
+- `P46`;
+- `P47`;
+- `P48`.
+
+### uso admissível
+Pode ser usado para formular a dependência do dever-ser relativamente ao ser e ao poder-ser real.
+
+### travão
+Não usar para abrir o capítulo.
+
+Este material pertence à derivação e ao fecho, não à cabeça inicial.
+
+---
+
+## 4. `F0060_A01_SEG_004`
+
+### estatuto
+Material nuclear prioritário.
+
+### razão de entrada
+Sustenta que o dever-ser e o bem devem permanecer subordinados ao ser verdadeiro, e que o mal é desadequação, não entidade.
+
+### função no capítulo
+Apoia:
+- `P44`;
+- `P45`;
+- `P47`.
+
+### uso admissível
+Pode ser usado para explicitar:
+- bem como adequação;
+- mal como desadequação;
+- dever-ser como subordinado ao real.
+
+### travão
+Não deixar o vocabulário de “ser verdadeiro” puxar o capítulo para epistemologia alta.
+
+Aqui, a verdade só vale enquanto submissão operativa ao real do agir.
+
+---
+
+## 5. `F0004_SEG_001`
+
+### estatuto
+Material nuclear, mas instável.
+
+### razão de entrada
+Este fragmento foi deslocado do Capítulo 9 para o Capítulo 10 porque trabalha:
+- valor moral;
+- comportamento necessário;
+- verdade e valor;
+- preservação;
+- homeostasia;
+- dever-ser limitado pelo que é e pelo que pode ser.
+
+### função no capítulo
+Apoia:
+- `P40`;
+- `P46`;
+- `P47`;
+- `P48`.
+
+### uso admissível
+Pode ser usado como material de transição entre:
+- dano real;
+- preservação;
+- necessidade prática;
+- normatividade derivada;
+- dever-ser limitado pelo poder-ser.
+
+### travão
+É material oral e instável.
+
+Não deve ser usado como formulação final.
+
+Deve ser reconstruído em linguagem disciplinada.
+
+Não usar para moralizar o capítulo.
+
+---
+
+## 6. `F0241_A12_SEG_001`
+
+### estatuto
+Material nuclear de apoio direto.
+
+### razão de entrada
+Sustenta que a orientação final da liberdade reflexiva deve ser validada pela sua maior ou menor adequação ao real.
+
+### função no capítulo
+Apoia:
+- `P42`;
+- `P44`;
+- `P47`.
+
+### uso admissível
+Pode ser usado para ligar:
+- liberdade reflexiva;
+- orientação prática;
+- adequação ao real;
+- dever-ser derivado.
+
+### travão
+Não deixar este material regressar ao Capítulo 9 como liberdade situada.
+
+No Capítulo 10, ele só vale enquanto orientação normativa derivada.
+
+---
+
+## 7. `F0232_SEG_001`
+
+### estatuto
+Material nuclear prioritário.
+
+### razão de entrada
+Sustenta que o dever-ser não é autónomo, nasce do ser e do poder-ser, e o seu desajustamento mede-se pela relação ao real.
+
+### função no capítulo
+Apoia:
+- `P46`;
+- `P47`;
+- `P48`.
+
+### uso admissível
+Pode ser usado para formular:
+- dever-ser derivado;
+- dever-ser subordinado ao ser;
+- dever-ser limitado pelo poder-ser;
+- desajustamento normativo como desadequação ao real.
+
+### travão
+Não abrir por este material.
+
+Ele pertence à derivação e ao terminal, não à cabeça.
+
+---
+
+## 8. `F0119_A01_SEG_003`
+
+### estatuto
+Material nuclear prioritário.
+
+### razão de entrada
+Sustenta que o bom e o verdadeiro se medem pela preservação da relação real, e que destruir essa relação constitui falsidade e mal.
+
+### função no capítulo
+Apoia:
+- `P40`;
+- `P44`;
+- `P45`.
+
+### uso admissível
+Pode ser usado para ligar:
+- bem;
+- verdade operativa;
+- preservação da relação real;
+- mal como destruição ou degradação da relação.
+
+### travão
+Não deixar a fórmula “bom e verdadeiro” reabrir o Capítulo 7.
+
+No Capítulo 10, a verdade não é centro; serve apenas como fundo de adequação ao real.
+
+---
+
+## 9. `F0006_SEG_001`
+
+### estatuto
+Material nuclear sob vigilância.
+
+### razão de entrada
+Reconduz a necessidade moral à utilidade sistémica e liga erro de descrição a solução mal aplicada.
+
+### função no capítulo
+Apoia:
+- `P46`;
+- `P47`;
+- secundariamente `P36`, apenas como memória crítica do erro prático.
+
+### uso admissível
+Pode ser usado para:
+- negar necessidade moral autónoma;
+- mostrar que constrangimentos práticos emergem de objetos, relações e sistemas concretos;
+- ligar má descrição a má aplicação.
+
+### travão
+Usar com corte.
+
+A parte útil para o Capítulo 10 é:
+- normatividade não autónoma;
+- necessidade prática derivada;
+- solução desadequada quando o problema é mal descrito.
+
+A parte perigosa é:
+- sistema;
+- utilidade sistémica autónoma;
+- erro como cabeça;
+- moralização.
+
+---
+
+## VI. Materiais de apoio e ponte
+
+## 1. `F0241_A08_SEG_001`
+
+### estatuto
+Material de apoio forte.
+
+### razão de entrada
+Sustenta que o critério ético não pode ser interno ao sistema e deve estar submetido ao real.
+
+### função no capítulo
+Apoia:
+- `P40`;
+- `P44`;
+- `P47`.
+
+### uso admissível
+Pode ser usado para impedir que a orientação prática se autonomize como critério interno ou sistema moral fechado.
+
+### travão
+Não transformar em:
+- epistemologia do critério;
+- Capítulo 7 reaberto;
+- crítica sistémica;
+- teoria ética autónoma.
+
+---
+
+## 2. `F0226_SEG_001`
+
+### estatuto
+Material de apoio e ponte interna.
+
+### razão de entrada
+Sustenta que a passagem do ser e do poder-ser ao dever-ser exige mediação reflexiva subordinada aos limites do real.
+
+### função no capítulo
+Apoia:
+- `P46`;
+- `P47`;
+- `P48`.
+
+### uso admissível
+Pode ser usado para mostrar que a derivação do dever-ser não é salto direto, mas passagem mediada e subordinada.
+
+### travão
+Não desenvolver ainda:
+- responsabilidade;
+- dignidade;
+- vida boa;
+- mediação reflexiva como capítulo autónomo.
+
+---
+
+## 3. `F0075_SEG_003`
+
+### estatuto
+Material de apoio sob vigilância.
+
+### razão de entrada
+Sustenta que o comportamento e o bem exigem referência exterior e dependência estrutural; sem isso há dano e degeneração social.
+
+### função no capítulo
+Apoia:
+- `P40`;
+- `P46`;
+- `P47`.
+
+### uso admissível
+Pode ser usado para reforçar:
+- dano;
+- degeneração;
+- dependência estrutural do bem;
+- recusa de fechamento interno.
+
+### travão
+A expressão “degeneração social” pode puxar para crítica social ou sistema.
+
+No Capítulo 10, deve ser mantida em escala prática e não sistémica.
+
+---
+
+## 4. `F0241_A22_SEG_002`
+
+### estatuto
+Material de apoio com tendência para Capítulo 11.
+
+### razão de entrada
+Sustenta que o dever-ser e a vida bem vivida só são legítimos se apoiados no ser e nas relações reais.
+
+### função no capítulo
+Apoia:
+- `P40`;
+- `P44`;
+- ponte remota para `P47`.
+
+### uso admissível
+Pode ser usado apenas para reforçar que o dever-ser deve apoiar-se no ser e nas relações reais.
+
+### travão
+A expressão “vida bem vivida” puxa para Capítulo 11.
+
+No Capítulo 10, não desenvolver vida boa.
+
+---
+
+## VII. Materiais de ponte
+
+## 1. Ponte do Capítulo 9 para o Capítulo 10
+
+### materiais
+- `P39`;
+- `P40`;
+- `P41`;
+- `P42`;
+- `F0003_SEG_001`, apenas como memória remota da assimetria entre trajetórias;
+- materiais de dano e mínimo negativo já deslocados do Capítulo 9.
+
+### função
+Receber o Capítulo 9 sem o repetir.
+
+### uso admissível
+A ponte deve dizer apenas:
+- o Capítulo 9 fixou ação situada;
+- nem toda a atualização é indiferente;
+- há dano real;
+- o mínimo negativo bloqueou a equivalência total;
+- agora começa a derivação normativa curta.
+
+### travão
+Não repetir:
+- liberdade situada;
+- teoria da ação;
+- erro como disciplina crítica do agir;
+- crítica da escolha soberana.
+
+---
+
+## 2. Ponte interna de dano para bem/mal
+
+### materiais
+- `P40`;
+- `P42`;
+- `P44`;
+- `P45`;
+- `F0120_SEG_002`;
+- `F0119_A01_SEG_003`;
+- `F0060_A01_SEG_004`.
+
+### função
+Passar de dano real para bem e mal sem moral pronta.
+
+### uso admissível
+A ponte deve mostrar:
+- dano real exige direção;
+- direção mínima permite falar de preservação, correção e não-degeneração;
+- bem é adequação operativa;
+- mal é desadequação, degeneração ou dano.
+
+### travão
+Não transformar bem/mal em entidades autónomas.
+
+---
+
+## 3. Ponte interna de bem/mal para normatividade derivada
+
+### materiais
+- `P44`;
+- `P45`;
+- `P46`;
+- `P47`;
+- `F0017_SEG_001`;
+- `F0232_SEG_001`;
+- `F0004_SEG_001`;
+- `F0006_SEG_001`.
+
+### função
+Passar da explicitação de bem e mal para a normatividade derivada.
+
+### uso admissível
+A ponte deve mostrar:
+- se bem e mal estão ancorados no real, a normatividade não é autónoma;
+- o dever-ser deriva da subordinação operativa ao real;
+- a orientação prática não vem de fora da ação situada.
+
+### travão
+Não transformar derivação em sistema normativo completo.
+
+---
+
+## 4. Ponte terminal para o Capítulo 11
+
+### materiais
+- `P47`;
+- `P48`;
+- materiais com pressão para responsabilidade, dignidade e vida boa, mas ainda não usados como centro.
+
+### função
+Preparar a pergunta posterior:
+- quem responde;
+- como responde;
+- que dignidade está em causa;
+- que vida boa prudencial pode ser pensada.
+
+### uso admissível
+A ponte deve ser curta e negativa:
+- o Capítulo 10 deriva a normatividade;
+- não abre ainda responsabilidade;
+- não desenvolve dignidade;
+- não desenvolve vida boa.
+
+### travão
+Não deixar `F0009_SEG_001` ou materiais de vida boa comandarem o Capítulo 10.
+
+---
+
+## VIII. Materiais sob vigilância
+
+## 1. `F0009_SEG_001`
+
+### estatuto
+Material deslocado para o Capítulo 11.
+
+### razão
+Liga verdade, mudança de si e ação responsável.
+
+### utilidade indireta para o Capítulo 10
+Pode confirmar que a normatividade derivada prepara responsabilidade.
+
+### decisão de uso
+Não usar como material positivo principal do Capítulo 10.
+
+### travão
+Reservar para:
+- responsabilidade;
+- dignidade;
+- vida boa prudencial;
+- autoresponsabilidade;
+- mudança de si.
+
+---
+
+## 2. Materiais de dignidade e liberdade ontológica
+
+### materiais típicos
+- materiais que já falam de dignidade;
+- liberdade ontológica;
+- igualdade ontológica;
+- obrigação moral forte;
+- justificação prática da pessoa.
+
+### estatuto
+Fora do núcleo do Capítulo 10.
+
+### razão
+Pertencem melhor ao Capítulo 11.
+
+### decisão de uso
+Não usar para engrossar `P46/P47`.
+
+---
+
+## 3. Materiais jurídicos, institucionais e políticos
+
+### materiais típicos
+- `F0089_SEG_002`;
+- `F0098_A03_SEG_001`;
+- `F0024_SEG_001`;
+- materiais sobre lei, instituição, direito, sociedade, coordenação e política.
+
+### estatuto
+Fora do Capítulo 10 como núcleo positivo.
+
+### razão
+Pertencem a capítulos posteriores ou reservados.
+
+### decisão de uso
+Manter como materiais deslocados.
+
+### travão
+Não confundir normatividade derivada com normatividade jurídica.
+
+---
+
+## 4. Materiais crítico-sistémicos
+
+### materiais típicos
+- `F0007_SEG_001`;
+- `F0015_SEG_001`;
+- materiais sobre mercado, sistema social, cristalização, cultura e crítica sistémica.
+
+### estatuto
+Fora do Capítulo 10.
+
+### razão
+Pertencem a camada crítica tardia ou capítulos reservados.
+
+### decisão de uso
+Não usar no povoamento positivo.
+
+---
+
+## 5. Materiais epistemológicos fortes
+
+### materiais típicos
+- materiais centrados em verdade;
+- erro;
+- critério;
+- correção;
+- descrição verdadeira;
+- validade interna;
+- coerência sistémica.
+
+### estatuto
+Apenas apoio indireto, se subordinado.
+
+### razão
+O Capítulo 10 não é Capítulo 7.
+
+### decisão de uso
+Podem aparecer só quando servem:
+- adequação operativa;
+- subordinação ao real;
+- recusa de normatividade autónoma.
+
+### travão
+Não reabrir o eixo epistemológico.
+
+---
+
+## IX. Hierarquia de aproveitamento positivo
+
+### nível 1 — indispensável
+Usar sempre:
+- `P39`;
+- `P40`;
+- `P42`;
+- `P44`;
+- `P45`;
+- `P46`;
+- `P47`;
+- `P48`.
+
+Estes formam o corredor positivo completo do capítulo.
+
+### nível 2 — fragmentos nucleares prioritários
+Usar com destaque:
+- `F0120_SEG_002`;
+- `F0017_SEG_001`;
+- `F0060_A01_SEG_001`;
+- `F0060_A01_SEG_004`;
+- `F0241_A12_SEG_001`;
+- `F0232_SEG_001`;
+- `F0119_A01_SEG_003`.
+
+Estes dão corpo à derivação normativa sem autonomização.
+
+### nível 3 — fragmentos nucleares instáveis
+Usar com reconstrução:
+- `F0004_SEG_001`;
+- `F0006_SEG_001`.
+
+Têm força para o capítulo, mas exigem limpeza conceptual e corte de riscos.
+
+### nível 4 — apoios e pontes
+Usar com prudência:
+- `F0241_A08_SEG_001`;
+- `F0226_SEG_001`;
+- `F0075_SEG_003`;
+- `F0241_A22_SEG_002`.
+
+Servem para reforçar, não para comandar.
+
+### nível 5 — deslocados ou reservados
+Manter fora do corpo positivo:
+- `F0009_SEG_001`;
+- materiais de dignidade;
+- materiais de responsabilidade;
+- materiais de vida boa;
+- materiais jurídicos;
+- materiais políticos;
+- materiais sistémicos;
+- materiais de crítica cultural.
+
+---
+
+## X. O que estes materiais já permitem escrever
+
+### já permitem
+Os materiais positivos já permitem escrever, com segurança suficiente:
+- que a não-indiferença das atualizações abre orientação prática;
+- que há dano real;
+- que dano real permite direção prática mínima;
+- que preservação, correção e não-degeneração não são moral exterior, mas vetores mínimos derivados;
+- que bem pode ser dito como adequação operativa da atualização ao real;
+- que mal pode ser dito como desadequação, degeneração ou dano;
+- que a normatividade do agir não é autónoma;
+- que o dever-ser deriva da subordinação operativa ao real;
+- que o dever-ser não pode exigir o impossível;
+- que o poder-ser real fecha terminalmente o capítulo.
+
+### ainda não permitem
+Os materiais positivos ainda não devem ser usados para escrever:
+- teoria geral do bem;
+- teoria geral do mal;
+- teoria moral autónoma;
+- teoria completa da responsabilidade;
+- teoria da dignidade;
+- teoria da vida boa;
+- teoria jurídica;
+- teoria política;
+- crítica social;
+- crítica sistémica;
+- filosofia da instituição;
+- história da normatividade.
+
+---
+
+## XI. Suficiência e vigilância
+
+### suficiência
+Há suficiência para abrir o Capítulo 10 porque:
+- o centro está claro;
+- a ordem interna está estabilizada;
+- `P39/P40/P42` dão cabeça positiva;
+- `P44/P45` dão corpo intermédio;
+- `P46/P47` dão derivação interna;
+- `P48` dá fecho terminal;
+- há fragmentos nucleares suficientes para bem, mal, dever-ser e poder-ser;
+- o mapeamento confirma massa candidata forte.
+
+### vigilância
+A vigilância permanece porque:
+- muitos materiais positivos também puxam para o Capítulo 11;
+- bem e mal podem virar moral pronta;
+- dano pode virar teoria do mal;
+- dever-ser pode virar normatividade autónoma;
+- preservação pode virar ética conservadora;
+- poder-ser pode entrar cedo demais;
+- materiais jurídicos e institucionais podem invadir o capítulo.
+
+### consequência
+O Capítulo 10 deve ser escrito de modo mais afirmativo do que o Capítulo 9, mas ainda sob travões fortes.
+
+---
+
+## XII. Fórmula final curta
+
+> O Capítulo 10 já tem materiais positivos suficientes para abrir pela não-indiferença real das atualizações, pelo dano real e por uma direção prática mínima; para explicitar bem e mal como adequação e desadequação operativa; para derivar normatividade e dever-ser sem os autonomizar; e para fechar pelo poder-ser real. Mas esse povoamento deve permanecer protegido contra moral pronta, responsabilidade antecipada, dignidade, vida boa, direito, política e sistema.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-03-materiais-criticos-md"></a>
+### 03_materiais_criticos
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/03_materiais_criticos.md`
+
+# 03_materiais_criticos
+
+## I. Estatuto do ficheiro
+
+### função
+- identificar os materiais, desvios e riscos críticos que podem deformar o **Capítulo 10 — Dano, bem, mal e normatividade derivada**;
+- impedir que o povoamento positivo do capítulo seja inflacionado por moral pronta, dever-ser autónomo, responsabilidade, dignidade, direito, política ou sistema;
+- separar a derivação normativa curta de qualquer teoria moral completa;
+- bloquear a autonomização de bem, mal, normatividade e dever-ser;
+- preparar `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`.
+
+### limite
+- este ficheiro não redige o capítulo;
+- não reabre os Capítulos 1 a 9;
+- não reescreve o Capítulo 9;
+- não antecipa o Capítulo 11;
+- não transforma a crítica em novo centro positivo;
+- não usa os riscos identificados como razão para bloquear a abertura do Capítulo 10;
+- não faz da crítica moral uma substituição da derivação normativa.
+
+### valor metodológico
+- vale como peça de vigilância;
+- vale como filtro de uso dos fragmentos;
+- vale como travão contra moralização;
+- vale como proteção da fronteira superior com os Capítulos 11 e 12;
+- vale como preparação para a decisão local.
+
+### regra decisiva
+> os materiais críticos do Capítulo 10 não bloqueiam a derivação normativa; bloqueiam apenas a sua autonomização.
+
+---
+
+## II. Veredito crítico geral
+
+### veredito
+O Capítulo 10 pode avançar.
+
+Mas só pode avançar se mantiver a normatividade em regime derivado, curto e subordinado ao real.
+
+### razão
+O capítulo tem centro suficiente:
+- não-indiferença real das atualizações;
+- dano real;
+- direção prática mínima;
+- bem como adequação operativa;
+- mal como desadequação, degeneração ou dano;
+- normatividade não autónoma;
+- dever-ser derivado da subordinação ao real;
+- dever-ser limitado pelo poder-ser real.
+
+Mas estes mesmos materiais criam riscos fortes.
+
+### consequência crítica
+A dificuldade principal do Capítulo 10 não é falta de material.
+
+É excesso de atração por camadas superiores:
+- ética completa;
+- moral pronta;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- direito;
+- instituição;
+- política;
+- sistema.
+
+### regra de contenção
+Sempre que um material parecer útil por falar de bem, mal, valor, dever-ser ou normatividade, deve perguntar-se primeiro:
+
+> este material deriva a orientação prática do real do agir, ou já transforma a normatividade em centro soberano?
+
+---
+
+## III. Risco crítico dominante
+
+### risco principal
+O risco crítico dominante é:
+
+> transformar o Capítulo 10 numa teoria moral autónoma.
+
+### forma do erro
+O erro ocorre quando a sequência correta:
+
+> não-indiferença real → dano real → direção prática mínima → bem/mal como adequação/desadequação → normatividade derivada → dever-ser subordinado ao real → poder-ser real terminal
+
+é substituída por:
+
+> moral → bem/mal → dever → responsabilidade → sistema
+
+### consequência do erro
+Se isto acontecer:
+- o dano deixa de ser ancoragem real;
+- bem e mal tornam-se entidades soltas;
+- o dever-ser passa a comandar de fora;
+- a normatividade deixa de ser derivada;
+- o Capítulo 10 absorve o Capítulo 11;
+- o capítulo perde o seu centro próprio.
+
+### travão
+A normatividade nunca pode aparecer como fonte soberana.
+
+Só pode aparecer como derivação do real do agir.
+
+---
+
+## IV. Desvios críticos estruturais
+
+## 1. Desvio por normatividade autónoma
+
+### forma típica
+- abrir por normatividade;
+- abrir por dever-ser;
+- fazer de `P46/P47` a cabeça do capítulo;
+- tratar a norma como anterior ao dano;
+- tratar o dever como ordem separada do real.
+
+### problema
+O Capítulo 10 não funda uma ordem normativa autónoma.
+
+Deriva normatividade a partir de:
+- não-indiferença;
+- dano;
+- direção prática mínima;
+- adequação;
+- desadequação;
+- possível real.
+
+### efeito deformador
+A normatividade passa a parecer:
+- fonte exterior;
+- comando abstrato;
+- sistema moral;
+- tribunal da ação;
+- dever independente do real.
+
+### correção
+A normatividade deve entrar apenas depois de `P39/P40/P42` e `P44/P45`.
+
+### decisão crítica
+Normatividade autónoma fica fora.
+
+Normatividade derivada fica dentro.
+
+---
+
+## 2. Desvio por moral pronta
+
+### forma típica
+- abrir por moral;
+- usar bem e mal como categorias já dadas;
+- transformar o capítulo em ética completa;
+- reaproveitar esquemas morais tradicionais sem derivação local;
+- fazer do dano apenas ilustração de uma moral anterior.
+
+### problema
+O Capítulo 10 deve mostrar como bem, mal e dever-ser se tornam inteligíveis a partir do real do agir.
+
+Não deve pressupô-los como prontos.
+
+### efeito deformador
+Se a moral entrar pronta:
+- `P39` perde a função de não-indiferença real;
+- `P40` perde a função de dano ancorado no real;
+- `P42` perde a função de direção mínima;
+- `P44/P45` viram rótulos morais;
+- `P46/P47` tornam-se mera confirmação de moral prévia.
+
+### correção
+A moral não deve abrir.
+
+O capítulo deve abrir pela não-indiferença e pelo dano.
+
+### decisão crítica
+Moral pronta fica fora.
+
+Derivação ética mínima fica dentro.
+
+---
+
+## 3. Desvio por bem e mal abstratos
+
+### forma típica
+- abrir por bem;
+- abrir por mal;
+- tratar o bem como entidade metafísica;
+- tratar o mal como substância ou força;
+- separar bem e mal do dano real, da adequação e da desadequação.
+
+### problema
+No Capítulo 10, bem e mal só entram depois de:
+- dano real;
+- direção prática mínima;
+- preservação, correção e não-degeneração;
+- adequação e desadequação operativa.
+
+### efeito deformador
+Se bem e mal forem autonomizados:
+- o capítulo torna-se metafísica moral;
+- o dano real passa a ser secundário;
+- a adequação ao real deixa de comandar;
+- o mal deixa de ser desadequação e torna-se entidade;
+- o bem deixa de ser adequação e torna-se ideal exterior.
+
+### correção
+Bem deve ser dito como adequação operativa.
+
+Mal deve ser dito como desadequação, degeneração ou dano.
+
+### decisão crítica
+Bem/mal abstratos ficam fora.
+
+Bem/mal operativos ficam dentro.
+
+---
+
+## 4. Desvio por dever-ser impossível
+
+### forma típica
+- exigir o que o real não permite;
+- usar o dever-ser contra o poder-ser;
+- ignorar limite, campo e possibilidade;
+- deixar `P48` entrar como correção tardia insuficiente;
+- fazer do dever-ser ideal uma medida indiferente ao real.
+
+### problema
+O dever-ser do Capítulo 10 só é legítimo se for subordinado ao poder-ser real.
+
+### efeito deformador
+Se o dever-ser se autonomizar:
+- passa a exigir o impossível;
+- deixa de ser operativo;
+- perde submissão ao real;
+- transforma-se em moralismo;
+- abre caminho para culpa, acusação ou sistema normativo irreal.
+
+### correção
+`P48` deve fechar o capítulo.
+
+Deve impedir que qualquer dever-ser exceda o campo real do atualizável.
+
+### decisão crítica
+Dever-ser impossível fica fora.
+
+Dever-ser subordinado ao poder-ser real fica dentro.
+
+---
+
+## 5. Desvio por abertura tardia indevida
+
+### forma típica
+- abrir por `P46`;
+- abrir por `P47`;
+- abrir por `P48`;
+- abrir por dever-ser;
+- abrir por poder-ser;
+- abrir por limitação do dever antes de dano e bem/mal estarem explicitados.
+
+### problema
+`P46/P47/P48` são fortes, mas não podem comandar a abertura.
+
+O capítulo deve abrir por `P39/P40/P42`.
+
+### efeito deformador
+Se `P46/P47/P48` abrirem:
+- o capítulo começa no resultado;
+- a derivação fica sem solo;
+- o dano real torna-se decorativo;
+- bem e mal entram tarde demais ou já subordinados a um dever abstrato.
+
+### correção
+Manter a ordem:
+
+> `P39/P40/P42 → P44/P45 → P46/P47 → P48 terminal`.
+
+### decisão crítica
+Derivação sem solo fica fora.
+
+Derivação ordenada fica dentro.
+
+---
+
+## 6. Desvio por regressão epistemológica
+
+### forma típica
+- reabrir verdade, erro, critério e correção como corpo próprio;
+- fazer da adequação epistemológica o centro;
+- transformar bem em verdade;
+- transformar mal em erro;
+- fazer de `P36` ou `P37` cabeças ocultas do capítulo.
+
+### problema
+O Capítulo 10 não é o Capítulo 7.
+
+A adequação aqui é operativa, não epistemologia em abstrato.
+
+### efeito deformador
+Se o eixo epistemológico comandar:
+- o capítulo deixa de derivar normatividade;
+- volta a falar de critério;
+- bem e mal tornam-se meras extensões da verdade e do erro;
+- a ação é reabsorvida pela descrição.
+
+### correção
+Usar verdade, critério, erro e correção apenas como fundo subordinado, quando ajudam a dizer:
+- adequação operativa;
+- desadequação prática;
+- subordinação do dever-ser ao real.
+
+### decisão crítica
+Epistemologia soberana fica fora.
+
+Adequação operativa fica dentro.
+
+---
+
+## 7. Desvio por absorção do Capítulo 11
+
+### forma típica
+- passar diretamente de dever-ser para responsabilidade;
+- passar de normatividade para dignidade;
+- passar de bem/mal para vida boa;
+- transformar o capítulo em autoresponsabilidade;
+- desenvolver formação ética, prudência existencial ou modo de vida.
+
+### problema
+O Capítulo 10 prepara o Capítulo 11, mas não o absorve.
+
+### efeito deformador
+Se o Capítulo 11 entrar cedo:
+- a normatividade derivada deixa de ser o centro;
+- responsabilidade passa a comandar;
+- dignidade transforma-se em falso fecho;
+- vida boa moraliza retroativamente o capítulo.
+
+### correção
+Responsabilidade, dignidade e vida boa devem ficar apenas como entrega terminal futura.
+
+### decisão crítica
+Responsabilidade/dignidade/vida boa ficam fora.
+
+Preparação da sua possibilidade fica dentro.
+
+---
+
+## 8. Desvio por salto para coordenação, direito ou sistema
+
+### forma típica
+- transformar normatividade derivada em norma social;
+- passar diretamente para coordenação intersubjetiva;
+- falar de lei, contrato, instituição ou direito;
+- fazer da normatividade prática uma teoria social;
+- usar sistema, cultura ou política para dar corpo ao capítulo.
+
+### problema
+O Capítulo 10 ainda não é capítulo de coordenação, instituição, direito ou política.
+
+### efeito deformador
+Se estas camadas entrarem cedo:
+- o capítulo muda de escala;
+- o dever-ser derivado vira norma social;
+- a adequação operativa vira funcionalidade institucional;
+- o dano real vira problema político;
+- a crítica sistémica absorve a derivação local.
+
+### correção
+Manter a escala do capítulo em:
+- ação;
+- dano;
+- adequação;
+- desadequação;
+- normatividade derivada;
+- possível real.
+
+### decisão crítica
+Direito, política e sistema ficam fora.
+
+Normatividade prática derivada fica dentro.
+
+---
+
+## 9. Desvio por ontologia remota como abertura
+
+### forma típica
+- abrir por `P04`;
+- abrir por `P07`;
+- abrir por `P08`;
+- regressar a estrutura, limite, continuidade ou ontologia baixa como corpo próprio;
+- recomeçar a obra dentro do Capítulo 10.
+
+### problema
+O Capítulo 10 pressupõe o chão ontológico já ganho.
+
+Não deve reabrir esse chão como se a derivação normativa ainda precisasse de refundação local.
+
+### efeito deformador
+Se a ontologia remota abrir:
+- a progressão prática é interrompida;
+- o capítulo perde foco;
+- dano, bem, mal e dever-ser ficam adiados;
+- o texto parece procurar segurança regressiva em vez de avançar.
+
+### correção
+`P04/P07/P08` ficam como fundo remoto.
+
+Não entram como centro vivo.
+
+### decisão crítica
+Ontologia remota como abertura fica fora.
+
+Fundo ontológico pressuposto fica dentro.
+
+---
+
+## 10. Desvio por preservação absolutizada
+
+### forma típica
+- transformar preservação em fim absoluto;
+- confundir não-degeneração com conservação de tudo;
+- transformar correção em restauração de ordem prévia;
+- fazer de `P42` uma ética conservadora.
+
+### problema
+`P42` não estabelece uma doutrina da preservação.
+
+Fixa apenas vetores mínimos de orientação prática perante dano real.
+
+### efeito deformador
+Se a preservação for absolutizada:
+- a direção prática mínima vira programa moral;
+- mudança e atualização passam a parecer suspeitas;
+- bem torna-se conservação;
+- mal torna-se alteração;
+- a normatividade derivada fica empobrecida.
+
+### correção
+Preservação, correção e não-degeneração devem ser entendidas como vetores mínimos, situados e subordinados ao real.
+
+### decisão crítica
+Preservação absolutizada fica fora.
+
+Direção prática mínima fica dentro.
+
+---
+
+## V. Materiais positivos sob vigilância crítica
+
+## 1. `F0120_SEG_002`
+
+### utilidade
+É útil porque liga bem e mal práticos à apreensão e descrição adequadas do real e do possível, recusando o mal como entidade autónoma.
+
+### risco
+Pode reabrir epistemologia forte:
+- apreensão;
+- descrição;
+- verdade;
+- adequação;
+- erro.
+
+### desvio possível
+Transformar o Capítulo 10 em continuação do Capítulo 7.
+
+### uso crítico permitido
+Usar para:
+- bem como adequação operativa;
+- mal como desadequação;
+- dependência do real e do possível;
+- recusa de mal substancial.
+
+### uso proibido
+Não usar para:
+- abrir teoria da verdade;
+- fazer da descrição o centro;
+- transformar mal em erro epistemológico puro;
+- reabrir critério.
+
+### decisão
+Material nuclear aproveitável, com travão epistemológico.
+
+---
+
+## 2. `F0017_SEG_001`
+
+### utilidade
+É útil porque subordina valor ao poder-ser real.
+
+### risco
+Pode puxar para axiologia geral ou teoria do valor.
+
+### desvio possível
+Transformar o Capítulo 10 em teoria do valor objetivo.
+
+### uso crítico permitido
+Usar para:
+- subordinar valor ao real;
+- bloquear dever-ser autónomo;
+- reforçar `P46/P47/P48`.
+
+### uso proibido
+Não usar para:
+- abrir por valor;
+- desenvolver axiologia;
+- substituir dano, bem e mal por teoria geral do valor.
+
+### decisão
+Material forte, mas deve entrar apenas na derivação.
+
+---
+
+## 3. `F0060_A01_SEG_001`
+
+### utilidade
+É útil porque sustenta que o dever-ser só é real enquanto subordinado ao poder-ser permitido pelo real.
+
+### risco
+Pode fazer `P48` entrar cedo demais.
+
+### desvio possível
+Reorganizar o capítulo pelo dever-ser e pelo poder-ser, em vez de pelo dano e pela direção prática mínima.
+
+### uso crítico permitido
+Usar para:
+- `P46`;
+- `P47`;
+- `P48`;
+- fecho terminal.
+
+### uso proibido
+Não usar na abertura.
+
+### decisão
+Material nuclear terminal ou de derivação, não de cabeça.
+
+---
+
+## 4. `F0060_A01_SEG_004`
+
+### utilidade
+É útil porque liga dever-ser, bem, ser verdadeiro e mal como desadequação.
+
+### risco
+Pode reabrir a linguagem de verdade em sentido demasiado alto.
+
+### desvio possível
+Transformar bem/mal em continuação da verdade/erro.
+
+### uso crítico permitido
+Usar para:
+- bem como adequação;
+- mal como desadequação;
+- dever-ser subordinado ao real.
+
+### uso proibido
+Não usar para:
+- abrir por verdade;
+- fazer do “ser verdadeiro” o centro;
+- confundir adequação operativa com verdade epistemológica pura.
+
+### decisão
+Material nuclear, mas exige tradução operativa.
+
+---
+
+## 5. `F0004_SEG_001`
+
+### utilidade
+É útil porque contém a intuição de que certos comportamentos têm alcance moral por dependerem de condições reais de verdade, possibilidade, preservação e continuação.
+
+### risco
+É oral, instável e mistura planos.
+
+Pode puxar para:
+- moral pronta;
+- preservação absoluta;
+- homeostasia como fim;
+- pequena escala social;
+- dever-ser antes da mediação.
+
+### desvio possível
+Fazer do capítulo uma ética da preservação ou da homeostasia.
+
+### uso crítico permitido
+Usar apenas como material reconstruído para:
+- normatividade não autónoma;
+- necessidade prática derivada;
+- dever-ser limitado pelo que é e pelo que pode ser.
+
+### uso proibido
+Não usar como formulação direta.
+
+Não usar para moralizar.
+
+### decisão
+Material nuclear instável.
+
+Exige reescrita forte.
+
+---
+
+## 6. `F0241_A12_SEG_001`
+
+### utilidade
+É útil porque liga orientação da liberdade reflexiva à adequação ao real.
+
+### risco
+Pode reabrir o Capítulo 9 pela liberdade.
+
+### desvio possível
+Transformar o Capítulo 10 em continuação da liberdade situada.
+
+### uso crítico permitido
+Usar apenas para:
+- orientação prática;
+- adequação ao real;
+- passagem para dever-ser derivado.
+
+### uso proibido
+Não usar para:
+- teorizar liberdade;
+- reabrir escolha;
+- transformar liberdade em centro.
+
+### decisão
+Material útil, mas subordinado a `P42/P44/P47`.
+
+---
+
+## 7. `F0232_SEG_001`
+
+### utilidade
+É útil porque afirma a não autonomia do dever-ser e a sua dependência do ser e do poder-ser.
+
+### risco
+Pode deslocar o capítulo para `P46/P47/P48` cedo demais.
+
+### desvio possível
+Fazer o capítulo abrir pelo dever-ser derivado em vez de abrir pelo dano.
+
+### uso crítico permitido
+Usar para:
+- derivação interna;
+- limite do possível;
+- terminal.
+
+### uso proibido
+Não usar na abertura.
+
+### decisão
+Material forte, mas de segunda metade do capítulo.
+
+---
+
+## 8. `F0119_A01_SEG_003`
+
+### utilidade
+É útil porque liga bom, verdadeiro, preservação da relação real e mal como destruição da relação.
+
+### risco
+Pode fundir bem com verdade e mal com falsidade.
+
+### desvio possível
+Reabrir Capítulo 7 ou converter o Capítulo 10 em ética da verdade.
+
+### uso crítico permitido
+Usar para:
+- bem como preservação adequada da relação real;
+- mal como degradação ou destruição dessa relação;
+- adequação operativa.
+
+### uso proibido
+Não usar para:
+- transformar verdade em centro;
+- fazer do mal mera falsidade;
+- substituir dano real por erro descritivo.
+
+### decisão
+Material útil, com tradução prática obrigatória.
+
+---
+
+## 9. `F0006_SEG_001`
+
+### utilidade
+É útil porque recusa necessidade moral autónoma e reconduz constrangimentos práticos a objetos, relações e sistemas concretos.
+
+Também contém a fórmula crítica:
+> quem descreve mal o problema aplica mal a solução.
+
+### risco
+Mistura três planos:
+- normatividade;
+- sistema;
+- erro descritivo.
+
+### desvio possível
+- reabrir sistema;
+- reabrir Capítulo 7;
+- fazer do erro de descrição o centro;
+- transformar utilidade sistémica em fundamento suficiente da normatividade.
+
+### uso crítico permitido
+Usar apenas com corte:
+- recusa de moral autónoma;
+- constrangimento prático derivado;
+- má descrição como risco lateral.
+
+### uso proibido
+Não usar para:
+- abrir por sistema;
+- fazer da utilidade local critério normativo;
+- transformar o capítulo em crítica social;
+- fazer de `P36` cabeça oculta.
+
+### decisão
+Material aproveitável sob vigilância forte.
+
+---
+
+## 10. `F0241_A08_SEG_001`
+
+### utilidade
+É útil porque impede que o critério ético seja interno ao sistema.
+
+### risco
+Pode puxar para:
+- critério;
+- ética como tribunal;
+- crítica sistémica;
+- Capítulo 7.
+
+### desvio possível
+Transformar o Capítulo 10 em discussão de critério ético.
+
+### uso crítico permitido
+Usar para travar:
+- sistema moral fechado;
+- critério interno;
+- normatividade autorreferencial.
+
+### uso proibido
+Não usar como eixo do capítulo.
+
+### decisão
+Material de apoio crítico, não núcleo de corpo.
+
+---
+
+## 11. `F0226_SEG_001`
+
+### utilidade
+É útil porque ajuda a mediar a passagem de ser/poder-ser para dever-ser.
+
+### risco
+Pode puxar para mediação reflexiva e responsabilidade.
+
+### desvio possível
+Antecipar o Capítulo 11.
+
+### uso crítico permitido
+Usar apenas para mostrar que a derivação do dever-ser exige mediação subordinada ao real.
+
+### uso proibido
+Não usar para:
+- desenvolver sujeito responsável;
+- abrir dignidade;
+- abrir vida boa.
+
+### decisão
+Material de ponte interna, com fronteira superior forte.
+
+---
+
+## 12. `F0075_SEG_003`
+
+### utilidade
+É útil porque liga bem, comportamento, referência exterior, dano e degeneração.
+
+### risco
+Pode puxar para degeneração social e crítica sistémica.
+
+### desvio possível
+Transformar o Capítulo 10 em crítica social do dano.
+
+### uso crítico permitido
+Usar apenas para:
+- dano;
+- degeneração;
+- dependência do bem relativamente ao real.
+
+### uso proibido
+Não usar para:
+- sistema social;
+- política;
+- cultura;
+- crítica institucional.
+
+### decisão
+Material de apoio, não material de comando.
+
+---
+
+## 13. `F0241_A22_SEG_002`
+
+### utilidade
+É útil porque liga dever-ser e vida bem vivida ao ser e às relações reais.
+
+### risco
+Puxa diretamente para vida boa.
+
+### desvio possível
+Antecipar o Capítulo 11.
+
+### uso crítico permitido
+Usar apenas para reforçar que o dever-ser deve apoiar-se no ser e nas relações reais.
+
+### uso proibido
+Não desenvolver:
+- vida boa;
+- prudência;
+- educação;
+- dignidade;
+- responsabilidade.
+
+### decisão
+Material de fronteira.
+
+Preferir reservar para Capítulo 11, salvo uso muito curto.
+
+---
+
+## VI. Materiais críticos deslocados
+
+## 1. `F0009_SEG_001`
+
+### razão de deslocação
+O fragmento liga verdade, mudança de si e ação responsável.
+
+### problema para o Capítulo 10
+Toca normatividade, mas já puxa para:
+- autoresponsabilidade;
+- mudança do indivíduo;
+- vida boa;
+- responsabilidade ontológica.
+
+### risco se usado no Capítulo 10
+- antecipar Capítulo 11;
+- moralizar a derivação normativa;
+- converter dever-ser em exigência de mudança pessoal;
+- deslocar o centro para responsabilidade.
+
+### decisão
+Reservar para Capítulo 11.
+
+Não usar como material positivo de corpo no Capítulo 10.
+
+---
+
+## 2. Materiais de dignidade
+
+### razão de deslocação
+A dignidade exige:
+- responsabilidade já aberta;
+- paridade ontológica;
+- estatuto do ser reflexivo;
+- resposta prática do agente.
+
+### problema para o Capítulo 10
+Ainda não há, neste capítulo, centro em responsabilidade ou dignidade.
+
+### risco se usados
+- transformar normatividade derivada em dignidade;
+- fazer de dignidade fundamento da normatividade;
+- inverter a ordem da derivação.
+
+### decisão
+Manter fora.
+
+---
+
+## 3. Materiais de vida boa
+
+### razão de deslocação
+A vida boa exige:
+- normatividade derivada já estabilizada;
+- responsabilidade;
+- prudência;
+- orientação do ser reflexivo;
+- modo de vida.
+
+### problema para o Capítulo 10
+O capítulo ainda não pergunta como viver bem.
+
+Pergunta como a normatividade se deriva do real do agir.
+
+### risco se usados
+- transformar Capítulo 10 em ética existencial;
+- moralizar bem/mal;
+- passar cedo para prudência e formação.
+
+### decisão
+Reservar para Capítulo 11.
+
+---
+
+## 4. Materiais jurídicos e institucionais
+
+### razão de deslocação
+Lei, instituição e direito pertencem a escalas posteriores.
+
+### problema para o Capítulo 10
+Normatividade derivada não é ainda normatividade jurídica.
+
+### risco se usados
+- confundir dever-ser operativo com obrigação jurídica;
+- fazer do direito o exemplo governante;
+- introduzir instituição antes da coordenação intersubjetiva.
+
+### decisão
+Manter fora.
+
+---
+
+## 5. Materiais políticos e sistémicos
+
+### razão de deslocação
+Sistema, política, mercado, cultura e instituição pertencem a camadas posteriores ou críticas.
+
+### problema para o Capítulo 10
+A derivação normativa curta ainda opera no plano do agir, dano, adequação e possível real.
+
+### risco se usados
+- mudar a escala;
+- transformar dano em crítica social;
+- converter normatividade em programa político;
+- absorver a crítica sistémica antes da hora.
+
+### decisão
+Manter fora.
+
+---
+
+## 6. Materiais epistemológicos fortes
+
+### razão de deslocação
+Verdade, erro, critério e correção têm corpo próprio anterior.
+
+### problema para o Capítulo 10
+A adequação aqui é operativa, não epistemologia geral.
+
+### risco se usados
+- regressão ao Capítulo 7;
+- verdade como cabeça;
+- critério como tribunal;
+- erro como centro crítico.
+
+### decisão
+Usar apenas como fundo, nunca como eixo.
+
+---
+
+## VII. Crítica da sequência interna possível
+
+### risco na passagem `P39/P40 → P42`
+A passagem de dano real para direção prática mínima pode parecer salto normativo.
+
+### travão
+Mostrar que `P42` não cria moral exterior.
+
+A direção prática mínima nasce do próprio facto de haver dano real.
+
+### fórmula admissível
+> Se uma atualização pode danificar, há pelo menos uma orientação mínima para preservar, corrigir ou impedir degeneração.
+
+### fórmula proibida
+> Se há dano, já há uma moral completa.
+
+---
+
+### risco na passagem `P42 → P44/P45`
+A direção prática mínima pode converter-se em bem e mal abstratos.
+
+### travão
+Bem e mal devem ser apresentados apenas como nomes operativos:
+- bem = adequação;
+- mal = desadequação, degeneração ou dano.
+
+### fórmula admissível
+> O bem e o mal entram como modos de adequação ou desadequação da atualização ao real.
+
+### fórmula proibida
+> O bem e o mal são princípios independentes que governam a ação.
+
+---
+
+### risco na passagem `P44/P45 → P46`
+Bem e mal podem parecer suficientes para instaurar moral autónoma.
+
+### travão
+Mostrar que, precisamente por estarem ancorados no real, eles não autorizam autonomia normativa.
+
+### fórmula admissível
+> A normatividade não é autónoma porque bem e mal só são inteligíveis como adequação e desadequação ao real.
+
+### fórmula proibida
+> A partir de bem e mal, temos uma ordem moral soberana.
+
+---
+
+### risco na passagem `P46 → P47`
+A não autonomia da normatividade pode ser confundida com dever-ser já pronto.
+
+### travão
+`P47` deve ser derivação curta e subordinada.
+
+### fórmula admissível
+> O dever-ser deriva da subordinação operativa da ação ao real.
+
+### fórmula proibida
+> O dever-ser impõe-se independentemente do ser.
+
+---
+
+### risco na entrada de `P48`
+`P48` pode entrar cedo e reorganizar o capítulo.
+
+### travão
+`P48` deve aparecer apenas no fecho.
+
+### fórmula admissível
+> O dever-ser só permanece real se não exigir o impossível.
+
+### fórmula proibida
+> O possível real é a abertura do capítulo.
+
+---
+
+## VIII. Falsas soluções a bloquear
+
+### solução falsa 1 — engrossar por ética completa
+Não resolver a força do capítulo convertendo-o em ética geral.
+
+Resultado proibido:
+- moral pronta;
+- bem/mal abstratos;
+- dever-ser soberano;
+- perda da derivação real.
+
+### solução falsa 2 — engrossar por responsabilidade
+Não antecipar Capítulo 11 para dar gravidade ao Capítulo 10.
+
+Resultado proibido:
+- responsabilidade como centro;
+- culpa;
+- imputação;
+- dignidade;
+- vida boa.
+
+### solução falsa 3 — engrossar por direito
+Não usar lei, instituição ou direito como exemplos dirigentes.
+
+Resultado proibido:
+- normatividade jurídica antecipada;
+- escala errada;
+- instituição antes da coordenação.
+
+### solução falsa 4 — engrossar por sistema
+Não usar crítica social, política ou sistémica para dar corpo ao dano.
+
+Resultado proibido:
+- dano como crítica social;
+- política como falso centro;
+- sistema a substituir o real do agir.
+
+### solução falsa 5 — engrossar por verdade
+Não usar a força do Capítulo 7 para estabilizar o Capítulo 10.
+
+Resultado proibido:
+- bem como verdade;
+- mal como erro;
+- critério como tribunal;
+- regressão epistemológica.
+
+---
+
+## IX. Objeções críticas a bloquear
+
+### objeção 1
+> Se o capítulo fala de bem e mal, deve começar por eles.
+
+### resposta
+Não.
+
+Bem e mal só entram depois de dano real e direção prática mínima.
+
+---
+
+### objeção 2
+> Se há dever-ser, então há normatividade autónoma.
+
+### resposta
+Não.
+
+O dever-ser aqui deriva da subordinação operativa ao real.
+
+---
+
+### objeção 3
+> Se há dano, então já há teoria do mal.
+
+### resposta
+Não.
+
+O dano permite dizer o mal como desadequação ou degeneração, mas não autoriza teoria metafísica do mal.
+
+---
+
+### objeção 4
+> Se há bem, então já há vida boa.
+
+### resposta
+Não.
+
+O bem aqui é adequação operativa.
+
+A vida boa pertence ao Capítulo 11.
+
+---
+
+### objeção 5
+> Se há dever, então há responsabilidade.
+
+### resposta
+Não ainda.
+
+A responsabilidade exige novo centro: quem responde, como responde e em que estatuto.
+
+---
+
+### objeção 6
+> Se há normatividade, então há direito ou instituição.
+
+### resposta
+Não.
+
+Normatividade derivada não é ainda normatividade jurídica ou institucional.
+
+---
+
+### objeção 7
+> Se o dever-ser deriva do ser, então desaparece a diferença entre descrição e prescrição.
+
+### resposta
+Não.
+
+A diferença permanece.
+
+O que desaparece é a exterioridade soberana do dever-ser face ao real.
+
+---
+
+## X. Matriz crítica de uso dos materiais
+
+| Material | Pode entrar? | Como entra | Risco principal | Decisão |
+|---|---:|---|---|---|
+| `P39` | sim | abertura | moralização da não-indiferença | usar como solo |
+| `P40` | sim | abertura/corpo | teoria do mal | usar como dano real |
+| `P42` | sim | ponte interna | ética da preservação | usar como direção mínima |
+| `P44` | sim | corpo | bem abstrato | usar como adequação operativa |
+| `P45` | sim | corpo | mal substancial | usar como desadequação/dano |
+| `P46` | sim | derivação | normatividade autónoma | usar depois de `P44/P45` |
+| `P47` | sim | derivação | dever exterior | usar subordinado ao real |
+| `P48` | sim | terminal | entrada precoce | usar só no fecho |
+| `F0120_SEG_002` | sim | núcleo | regressão epistemológica | usar com tradução operativa |
+| `F0017_SEG_001` | sim | derivação | axiologia geral | usar subordinado |
+| `F0060_A01_SEG_001` | sim | derivação/fecho | `P48` precoce | usar tarde |
+| `F0060_A01_SEG_004` | sim | núcleo | verdade como centro | traduzir para adequação operativa |
+| `F0004_SEG_001` | sim, com cuidado | núcleo reconstruído | moralização/preservação absoluta | reescrever fortemente |
+| `F0241_A12_SEG_001` | sim, com cuidado | orientação | regressão à liberdade | subordinar a `P42/P44/P47` |
+| `F0232_SEG_001` | sim | derivação/fecho | dever-ser precoce | usar na segunda metade |
+| `F0119_A01_SEG_003` | sim, com cuidado | bem/mal | bem=verdade, mal=falsidade | traduzir para ação |
+| `F0006_SEG_001` | sim, com vigilância | derivação crítica | sistema/erro como centro | cortar e subordinar |
+| `F0241_A08_SEG_001` | sim, apoio | travão | critério/sistema | usar lateralmente |
+| `F0226_SEG_001` | sim, ponte | mediação | responsabilidade precoce | manter curto |
+| `F0075_SEG_003` | sim, apoio | dano/degeneração | crítica social | manter escala prática |
+| `F0241_A22_SEG_002` | quase não | fronteira | vida boa | reservar ou usar mínimo |
+| `F0009_SEG_001` | não | deslocado | responsabilidade/vida boa | reservar para Capítulo 11 |
+| materiais jurídicos | não | deslocados | direito/instituição | reservar |
+| materiais sistémicos | não | deslocados | política/sistema | reservar |
+
+---
+
+## XI. Fragilidade crítica remanescente
+
+### fragilidade 1 — bem e mal ainda puxam moral pronta
+O capítulo precisa de dizer bem e mal, mas deve impedi-los de aparecer como entidades autónomas.
+
+### consequência
+Usar sempre:
+- bem = adequação operativa;
+- mal = desadequação, degeneração ou dano.
+
+---
+
+### fragilidade 2 — dever-ser tende a autonomizar-se
+`P46/P47` são fortes e podem parecer cabeça do capítulo.
+
+### consequência
+Colocá-los apenas depois de dano, direção prática e bem/mal.
+
+---
+
+### fragilidade 3 — `P48` é terminal, mas atrativo
+O poder-ser real pode parecer solução geral do capítulo.
+
+### consequência
+Usar `P48` só no fim.
+
+Não abrir por ele.
+
+---
+
+### fragilidade 4 — materiais positivos puxam para Capítulo 11
+Muitos materiais sobre normatividade também falam de responsabilidade, dignidade ou vida boa.
+
+### consequência
+Separar:
+- derivação normativa curta;
+- responsabilidade posterior.
+
+---
+
+### fragilidade 5 — risco de escala social
+Dano, degeneração e normatividade podem puxar para direito, política ou sistema.
+
+### consequência
+Manter o capítulo no plano do agir e da normatividade derivada, não da instituição.
+
+---
+
+## XII. Decisão crítica provisória
+
+### decisão
+Os materiais críticos não impedem a abertura do Capítulo 10.
+
+Confirmam que o capítulo deve avançar com:
+- centro forte;
+- ordem rígida;
+- travões superiores;
+- separação clara entre derivação normativa e responsabilidade;
+- separação clara entre normatividade prática e normatividade jurídica;
+- separação clara entre dano real e crítica sistémica.
+
+### fórmula da decisão crítica
+> O Capítulo 10 tem massa positiva suficiente, mas só permanece fiel ao seu centro se resistir a cinco tentações: moralizar bem e mal, autonomizar o dever-ser, fazer do possível real uma abertura, subir cedo para responsabilidade/dignidade/vida boa, e saltar da normatividade derivada para direito, política ou sistema.
+
+---
+
+## XIII. Fórmula final curta
+
+> Os materiais críticos do Capítulo 10 não bloqueiam a derivação normativa; obrigam, antes, a mantê-la curta, interna e subordinada: dano real antes de bem e mal, bem e mal como adequação e desadequação operativa, normatividade sem autonomia, dever-ser subordinado ao real, poder-ser apenas no fecho, e responsabilidade, dignidade, vida boa, direito, política e sistema ainda fora.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-04-lacunas-do-capitulo-md"></a>
+### 04_lacunas_do_capitulo
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/04_lacunas_do_capitulo.md`
+
+# 04_lacunas_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- identificar as lacunas reais do **Capítulo 10 — Dano, bem, mal e normatividade derivada**;
+- distinguir lacunas estruturais de simples limites deliberados;
+- separar insuficiência de desenvolvimento interno de fronteiras corretamente preservadas;
+- preparar a decisão local do capítulo em `05_decisao_local_do_capitulo.md`;
+- impedir que as lacunas sejam resolvidas por moral pronta, normatividade autónoma, responsabilidade, dignidade, direito, política ou sistema.
+
+### limite
+- este ficheiro não reabre os Capítulos 1 a 9;
+- não reescreve o Capítulo 9;
+- não altera o centro do Capítulo 10;
+- não produz ainda decisão local;
+- não redige ainda o capítulo;
+- não transforma lacunas em licença para importar Capítulo 11;
+- não trata como lacuna aquilo que ficou legitimamente reservado para capítulos posteriores.
+
+### valor metodológico
+- vale como diagnóstico de insuficiências locais;
+- vale como filtro para a decisão local seguinte;
+- vale como travão contra duas respostas erradas:
+  - rebaixar o capítulo a repetição do Capítulo 9;
+  - inflacionar o capítulo para ética completa.
+
+### regra decisiva
+> A lacuna principal do Capítulo 10 não impede a escrita controlada; obriga apenas a manter a derivação normativa curta, interna e subordinada ao real.
+
+---
+
+## II. Veredito geral das lacunas
+
+### veredito
+O Capítulo 10 tem lacunas reais, mas não tem lacuna impeditiva de abertura.
+
+### fórmula curta
+> O capítulo está suficientemente autorizado para escrita controlada, mas não para desenvolvimento ético completo.
+
+### o que está suficientemente fixado
+Está suficientemente fixado:
+- o centro do capítulo;
+- a abertura por `P39/P40/P42`;
+- o corpo intermédio por `P44/P45`;
+- a derivação curta por `P46/P47`;
+- o fecho terminal por `P48`;
+- a fronteira inferior com o Capítulo 9;
+- a fronteira superior com o Capítulo 11;
+- os falsos centros a bloquear.
+
+### o que permanece lacunar
+Permanece lacunar:
+- a mediação fina entre dano real e direção prática mínima;
+- a formulação de `P42` sem ética da preservação;
+- a explicitação de bem como adequação operativa sem teoria geral do bem;
+- a explicitação de mal como desadequação, degeneração ou dano sem teoria metafísica do mal;
+- a passagem de bem/mal para normatividade derivada sem salto moral;
+- a passagem de normatividade derivada para dever-ser sem autonomização normativa;
+- o uso terminal de `P48` sem transformar o possível real em abertura;
+- a separação entre normatividade derivada e responsabilidade;
+- a seleção de materiais que puxam para Capítulo 11, direito, instituição ou sistema.
+
+### consequência
+O capítulo pode avançar para decisão local.
+
+Mas essa decisão deve ser positiva com restrições.
+
+---
+
+## III. Lacuna principal
+
+### lacuna principal
+A lacuna principal é:
+
+> **densificar a derivação normativa sem transformar a normatividade em ordem autónoma nem fazer do Capítulo 10 uma ética completa.**
+
+### natureza da lacuna
+É uma lacuna de mediação e contenção.
+
+Não é lacuna de centro.
+
+O capítulo sabe o que deve fazer.
+
+A dificuldade é fazê-lo sem:
+- moralizar;
+- autonomizar dever-ser;
+- antecipar responsabilidade;
+- subir para direito ou política;
+- reabrir epistemologia alta.
+
+### efeito no capítulo
+Esta lacuna torna perigoso:
+- desenvolver demasiado `P44/P45`;
+- desenvolver demasiado `P46/P47`;
+- usar `P48` como solução geral;
+- importar dignidade e vida boa para dar espessura;
+- importar direito ou instituição para dar concretude;
+- usar crítica sistémica para dar escala.
+
+### resposta metodológica correta
+A resposta correta não é engrossar.
+
+A resposta correta é:
+- ordenar;
+- limitar;
+- derivar;
+- interromper.
+
+---
+
+## IV. Lacunas estruturais reais
+
+## 1. Lacuna da passagem do Capítulo 9 para o Capítulo 10
+
+### formulação da lacuna
+É necessário deslocar o centro sem repetir o Capítulo 9.
+
+O Capítulo 9 deixou:
+- ação situada;
+- não-indiferença;
+- dano real;
+- mínimo negativo objetivo;
+- possível real terminal.
+
+O Capítulo 10 deve começar a derivação normativa sem voltar a explicar a ação situada.
+
+### risco
+O Capítulo 10 pode tornar-se:
+- repetição da ação situada;
+- desenvolvimento prolongado do dano como consequência;
+- extensão do mínimo negativo objetivo;
+- continuação do Capítulo 9 sob outro nome.
+
+### porque é lacuna real
+O Capítulo 10 depende do ganho do Capítulo 9, mas não se identifica com ele.
+
+É preciso dizer a passagem sem repetir o capítulo anterior.
+
+### formulação mínima necessária
+> O Capítulo 10 começa quando a não-indiferença e o dano real já não servem apenas para bloquear a equivalência total, mas para abrir uma direção normativa derivada.
+
+### decisão provisória
+Lacuna real de passagem.
+
+Corrigível por abertura curta.
+
+---
+
+## 2. Lacuna da passagem de dano real para direção prática mínima
+
+### formulação da lacuna
+`P40` e `P42` ainda exigem uma mediação clara.
+
+Não basta dizer que há dano real.
+
+É necessário mostrar por que o dano permite falar de vetores mínimos de orientação prática.
+
+### risco
+A passagem pode parecer salto ilegítimo de facto para norma.
+
+### porque é lacuna real
+O capítulo precisa evitar duas deformações:
+- dano como negatividade muda;
+- dever-ser como moral exterior.
+
+### formulação mínima necessária
+> Se uma atualização pode danificar condições reais, então há pelo menos uma orientação mínima para preservar condições, corrigir desadequações e impedir degenerações.
+
+### decisão provisória
+Lacuna real de mediação.
+
+Deve ser tratada logo no início do `06`.
+
+---
+
+## 3. Lacuna de `P42` — preservação, correção e não-degeneração
+
+### formulação da lacuna
+`P42` é necessário, mas perigoso.
+
+A direção prática mínima pode ser confundida com:
+- conservadorismo ontológico;
+- ética da preservação;
+- programa de manutenção;
+- proibição da mudança.
+
+### risco
+Preservação pode ser absolutizada.
+
+Correção pode virar restauração.
+
+Não-degeneração pode virar moral de pureza.
+
+### porque é lacuna real
+`P42` é o ponto que faz a passagem entre dano e bem/mal.
+
+Se for mal formulado, contamina todo o capítulo.
+
+### formulação mínima necessária
+Preservação, correção e não-degeneração devem ser ditas como:
+- vetores mínimos;
+- situados;
+- derivados do dano real;
+- subordinados ao real;
+- sem programa moral próprio.
+
+### decisão provisória
+Lacuna real de formulação.
+
+Requer travão explícito.
+
+---
+
+## 4. Lacuna do bem como adequação operativa
+
+### formulação da lacuna
+`P44` permite dizer o bem, mas ainda há risco de o bem aparecer como categoria autónoma.
+
+### risco
+O bem pode ser lido como:
+- bem supremo;
+- valor exterior;
+- ideal moral;
+- perfeição;
+- vida boa antecipada;
+- verdade epistemológica aplicada.
+
+### porque é lacuna real
+O Capítulo 10 precisa dizer o bem.
+
+Mas só pode dizê-lo como adequação operativa da atualização ao real.
+
+### formulação mínima necessária
+> O bem, neste capítulo, é apenas o nome da atualização que se adequa operativamente ao real, preservando, corrigindo ou não degenerando condições reais.
+
+### decisão provisória
+Lacuna real de contenção conceptual.
+
+Não impede escrita.
+
+---
+
+## 5. Lacuna do mal como desadequação, degeneração ou dano
+
+### formulação da lacuna
+`P45` permite dizer o mal, mas ainda há risco de o mal aparecer como substância, culpa ou mal moral pleno.
+
+### risco
+O mal pode ser lido como:
+- entidade metafísica;
+- força autónoma;
+- culpa subjetiva;
+- responsabilidade já aberta;
+- teoria do sofrimento;
+- fundamento de punição.
+
+### porque é lacuna real
+O Capítulo 10 deve ir além do dano como facto, mas não pode fazer teoria metafísica do mal.
+
+### formulação mínima necessária
+> O mal, neste capítulo, é desadequação operativa que danifica, degenera ou rompe condições reais da ação.
+
+### decisão provisória
+Lacuna real de formulação.
+
+Deve ser resolvida por definição curta e negativa.
+
+---
+
+## 6. Lacuna da passagem de bem/mal para normatividade
+
+### formulação da lacuna
+A passagem de `P44/P45` para `P46` ainda é sensível.
+
+É preciso mostrar que, se bem e mal são adequação e desadequação ao real, então a normatividade que daí resulta não é autónoma.
+
+### risco
+A partir de bem e mal, pode parecer que já há moral pronta.
+
+### porque é lacuna real
+`P46` só é legítimo se for derivado.
+
+Se aparecer cedo demais, o capítulo torna-se normativo de forma autónoma.
+
+### formulação mínima necessária
+> Precisamente porque bem e mal só são inteligíveis como adequação e desadequação ao real, a normatividade não pode constituir uma ordem separada.
+
+### decisão provisória
+Lacuna real de mediação.
+
+Deve ser resolvida antes de introduzir o dever-ser.
+
+---
+
+## 7. Lacuna do dever-ser derivado
+
+### formulação da lacuna
+`P47` afirma que o dever-ser deriva da subordinação operativa ao real.
+
+Mas a forma dessa derivação ainda precisa de cuidado.
+
+### risco
+O dever-ser pode parecer:
+- comando formal;
+- norma exterior;
+- obrigação moral autónoma;
+- simples extração direta do ser;
+- salto ilegítimo de facto para dever.
+
+### porque é lacuna real
+O Capítulo 10 quer justamente mostrar que o dever-ser não é arbitrário nem autónomo.
+
+Mas não pode apagar a diferença entre descrição e orientação prática.
+
+### formulação mínima necessária
+> O dever-ser não é extraído mecanicamente do ser; torna-se inteligível quando a ação, podendo adequar-se ou desadequar-se ao real, deve orientar-se segundo condições reais de preservação, correção e não-degeneração.
+
+### decisão provisória
+Lacuna real de derivação.
+
+Exige redação disciplinada.
+
+---
+
+## 8. Lacuna do possível real como fecho
+
+### formulação da lacuna
+`P48` é necessário como terminal, mas pode entrar cedo demais.
+
+### risco
+O possível real pode transformar-se em:
+- abertura do capítulo;
+- critério soberano;
+- teoria geral do dever;
+- argumento total contra qualquer exigência prática;
+- fecho prematuro da normatividade.
+
+### porque é lacuna real
+O Capítulo 10 deve fechar pelo possível real.
+
+Mas só depois de:
+- dano;
+- direção prática mínima;
+- bem/mal;
+- normatividade;
+- dever-ser derivado.
+
+### formulação mínima necessária
+> O dever-ser só permanece fiel ao real se não exigir aquilo que o real não permite atualizar.
+
+### decisão provisória
+Lacuna real de localização.
+
+`P48` deve ficar terminal.
+
+---
+
+## 9. Lacuna da fronteira com o Capítulo 11
+
+### formulação da lacuna
+A normatividade derivada tende naturalmente a chamar responsabilidade.
+
+### risco
+O Capítulo 10 pode começar a falar de:
+- quem responde;
+- culpa;
+- imputação;
+- dignidade;
+- vida boa;
+- autoresponsabilidade;
+- formação prudencial.
+
+### porque é lacuna real
+O Capítulo 10 prepara o Capítulo 11, mas ainda não o abre.
+
+A fronteira é sensível porque os materiais positivos do Capítulo 10 já tocam a zona da responsabilidade.
+
+### formulação mínima necessária
+> O Capítulo 10 termina quando torna inteligível a normatividade derivada; a pergunta por quem responde a essa normatividade pertence ao capítulo seguinte.
+
+### decisão provisória
+Lacuna real de fronteira.
+
+Resolver por interrupção explícita.
+
+---
+
+## 10. Lacuna da fronteira com direito, instituição e sistema
+
+### formulação da lacuna
+A palavra “normatividade” tende a puxar para:
+- regra social;
+- lei;
+- instituição;
+- direito;
+- política;
+- história;
+- sistema.
+
+### risco
+O Capítulo 10 pode mudar de escala.
+
+### porque é lacuna real
+A normatividade derivada ainda é normatividade do agir no real.
+
+Não é ainda normatividade institucional ou jurídica.
+
+### formulação mínima necessária
+> A normatividade derivada aqui tratada permanece anterior à sua sedimentação social, jurídica ou institucional.
+
+### decisão provisória
+Lacuna real de escala.
+
+Resolver por travão explícito.
+
+---
+
+## V. Lacunas de materiais
+
+## 1. Materiais fortes, mas com sobreposição
+
+### diagnóstico
+O Capítulo 10 tem material positivo suficiente.
+
+Mas muitos materiais úteis pertencem também a zonas próximas:
+- responsabilidade;
+- dignidade;
+- vida boa;
+- direito;
+- sistema;
+- crítica social.
+
+### consequência
+A lacuna não é ausência de material.
+
+É excesso de material com tendência de sobreposição.
+
+### resposta
+Usar hierarquia forte:
+- núcleo: `P39/P40/P42`;
+- corpo: `P44/P45`;
+- derivação: `P46/P47`;
+- terminal: `P48`;
+- tudo o que exceder isto fica em reserva.
+
+---
+
+## 2. Fragmentos nucleares instáveis
+
+### diagnóstico
+Alguns fragmentos nucleares são úteis, mas exigem reconstrução.
+
+### exemplos
+- `F0004_SEG_001` é forte para normatividade derivada, mas mistura verdade, valor, preservação, homeostasia e moral;
+- `F0006_SEG_001` é útil para recusar necessidade moral autónoma, mas mistura normatividade, sistema e erro descritivo.
+
+### consequência
+Estes fragmentos não devem ser citados como formulação pronta.
+
+### resposta
+Usar apenas a intuição reconstruída:
+- normatividade não autónoma;
+- dever-ser subordinado ao real;
+- necessidade prática derivada;
+- má descrição como risco lateral.
+
+---
+
+## 3. Materiais de verdade e adequação
+
+### diagnóstico
+Vários materiais falam de verdade, descrição, critério e adequação.
+
+### risco
+Reabrir o Capítulo 7.
+
+### resposta
+No Capítulo 10, “adequação” só deve valer como:
+- adequação operativa da atualização ao real;
+- não como teoria geral da verdade;
+- não como critério epistemológico desenvolvido.
+
+---
+
+## 4. Materiais de bem e vida boa
+
+### diagnóstico
+Alguns materiais que ajudam a dizer o bem já puxam para vida boa.
+
+### risco
+Antecipar o Capítulo 11.
+
+### resposta
+No Capítulo 10:
+- bem = adequação operativa;
+- vida boa = fora.
+
+---
+
+## 5. Materiais de dever-ser e responsabilidade
+
+### diagnóstico
+Materiais sobre dever-ser tendem a chamar responsabilidade.
+
+### risco
+Transformar derivação normativa em imputação.
+
+### resposta
+No Capítulo 10:
+- dever-ser = derivação operativa subordinada ao real;
+- responsabilidade = fora.
+
+---
+
+## 6. Materiais sociais, jurídicos e institucionais
+
+### diagnóstico
+Materiais de lei, instituição, direito ou sociedade são relevantes para a obra, mas não para o corpo próprio do Capítulo 10.
+
+### risco
+Erro de escala.
+
+### resposta
+Manter fora:
+- coordenação intersubjetiva;
+- regra social;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+---
+
+## VI. Lacunas de fronteira
+
+## 1. Fronteira com o Capítulo 9
+
+### lacuna
+É necessário impedir que o Capítulo 10 seja lido como prolongamento do Capítulo 9.
+
+### risco
+Ação situada e liberdade situada continuarem a comandar.
+
+### regra
+O Capítulo 9 preparou:
+- ação;
+- não-indiferença;
+- dano;
+- mínimo negativo;
+- possível real terminal.
+
+O Capítulo 10 desenvolve:
+- direção prática mínima;
+- bem/mal;
+- normatividade derivada;
+- dever-ser subordinado ao real.
+
+### lacuna corrigível por fórmula
+> O Capítulo 10 não volta a perguntar o que é agir; pergunta como a ação danosa ou adequada torna inteligível uma orientação normativa derivada.
+
+---
+
+## 2. Fronteira com o Capítulo 11
+
+### lacuna
+É necessário impedir que a normatividade derivada absorva responsabilidade, dignidade e vida boa.
+
+### risco
+Capítulo 10 tornar-se Capítulo 11.
+
+### regra
+O Capítulo 10 prepara:
+- a pergunta por responsabilidade;
+- a pergunta por dignidade;
+- a pergunta por vida boa.
+
+Mas não as responde.
+
+### lacuna corrigível por fórmula
+> A responsabilidade só começa depois de a normatividade derivada estar fixada; não é a cabeça do Capítulo 10.
+
+---
+
+## 3. Fronteira com o Capítulo 12 e seguintes
+
+### lacuna
+A normatividade pode parecer pedir coordenação, regra comum e instituição.
+
+### risco
+Passar cedo para intersubjetividade, direito ou política.
+
+### regra
+O Capítulo 10 ainda opera antes da coordenação institucionalizada.
+
+### lacuna corrigível por fórmula
+> A normatividade derivada do agir ainda não é normatividade social sedimentada.
+
+---
+
+## 4. Fronteira com o Capítulo 7
+
+### lacuna
+Bem como adequação e mal como desadequação podem reabrir o eixo verdade/erro/correção.
+
+### risco
+Capítulo 10 regressar a epistemologia.
+
+### regra
+Adequação entra aqui apenas como adequação operativa da atualização ao real.
+
+### lacuna corrigível por fórmula
+> A adequação do Capítulo 10 é prática e operativa, não epistemológica em abstrato.
+
+---
+
+## 5. Fronteira com crítica sistémica tardia
+
+### lacuna
+Degeneração e dano podem puxar para sistema.
+
+### risco
+Capítulo 10 tornar-se crítica cultural, institucional ou política.
+
+### regra
+Degeneração entra aqui apenas no regime da ação.
+
+### lacuna corrigível por fórmula
+> A degeneração tratada no Capítulo 10 é desadequação prática da atualização, não ainda cristalização sistémica.
+
+---
+
+## VII. Falsas lacunas
+
+## 1. Falta de teoria moral completa
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+O capítulo não deve produzir uma ética completa.
+
+Deve apenas derivar normatividade curta do real do agir.
+
+---
+
+## 2. Falta de teoria geral do bem
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+O bem entra apenas como adequação operativa.
+
+A teoria geral do bem ficaria inflacionada.
+
+---
+
+## 3. Falta de teoria metafísica do mal
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+O mal entra apenas como desadequação, degeneração ou dano.
+
+Não deve ser substancializado.
+
+---
+
+## 4. Falta de responsabilidade
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Responsabilidade pertence ao Capítulo 11.
+
+O Capítulo 10 só a prepara.
+
+---
+
+## 5. Falta de dignidade
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Dignidade pertence ao Capítulo 11.
+
+Não deve fundar a normatividade do Capítulo 10.
+
+---
+
+## 6. Falta de vida boa
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Vida boa prudencial pertence ao Capítulo 11.
+
+O bem do Capítulo 10 ainda não é vida boa.
+
+---
+
+## 7. Falta de direito ou instituição
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Direito e instituição pertencem a capítulos posteriores.
+
+A normatividade derivada ainda não é juridicidade.
+
+---
+
+## 8. Falta de política ou sistema
+
+### diagnóstico
+Não é lacuna.
+
+### razão
+Política e sistema pertencem a camadas posteriores ou críticas.
+
+Não devem entrar para dar corpo ao Capítulo 10.
+
+---
+
+## VIII. Mapa das lacunas por zona interna
+
+| Zona interna | Lacuna real | Tipo de lacuna | Gravidade | Resposta |
+|---|---|---|---:|---|
+| Passagem do Capítulo 9 | evitar repetição da ação situada | fronteira | média/alta | abertura curta de deslocação |
+| `P39/P40` | dano precisa de passagem para orientação | mediação | alta | ligar dano a direção mínima |
+| `P42` | risco de preservação absolutizada | formulação | alta | vetores mínimos, não ética conservadora |
+| `P44` | bem pode virar categoria autónoma | contenção | média/alta | bem = adequação operativa |
+| `P45` | mal pode virar substância/culpa | contenção | alta | mal = desadequação/dano |
+| `P44/P45 → P46` | passagem para normatividade pode soar moral pronta | mediação | alta | normatividade deriva porque bem/mal dependem do real |
+| `P46/P47` | dever-ser pode autonomizar-se | derivação | alta | subordinação operativa ao real |
+| `P48` | possível real pode entrar cedo demais | localização | média/alta | fecho terminal |
+| Fronteira com Capítulo 11 | responsabilidade chama cedo | fronteira | alta | interrupção explícita |
+| Materiais fragmentários | úteis mas sobrepostos | povoamento | média/alta | hierarquia seletiva |
+| Escala social/jurídica | normatividade puxa instituição | escala | alta | manter plano pré-institucional |
+
+---
+
+## IX. Lacunas que devem orientar o `05_decisao_local_do_capitulo.md`
+
+### lacuna a assumir
+A decisão local deve assumir explicitamente:
+
+> O Capítulo 10 está libertado para escrita controlada, mas apenas como derivação normativa curta, não como ética completa.
+
+### lacuna a não esconder
+A decisão local não deve esconder:
+- mediação delicada entre dano e direção prática;
+- risco de moralização de bem e mal;
+- risco de autonomização de `P46/P47`;
+- risco de entrada precoce de `P48`;
+- risco de absorção pelo Capítulo 11;
+- risco de salto para direito, política ou sistema.
+
+### lacuna a resolver por travão
+A decisão local deve resolver por travão:
+- moral pronta;
+- teoria normativa autónoma;
+- bem/mal abstratos;
+- dever-ser impossível;
+- responsabilidade antecipada;
+- sistema.
+
+### lacuna a resolver por redação
+A futura versão controlada deve resolver por redação:
+- a passagem de dano para direção prática mínima;
+- a definição de bem como adequação operativa;
+- a definição de mal como desadequação, degeneração ou dano;
+- a passagem de bem/mal para normatividade não autónoma;
+- a passagem de normatividade para dever-ser subordinado ao real;
+- o fecho por poder-ser real;
+- a entrega ao Capítulo 11 sem abertura do Capítulo 11.
+
+---
+
+## X. Decisão diagnóstica provisória
+
+### decisão
+As lacunas do Capítulo 10 são reais, mas não impedem a abertura.
+
+### grau da lacuna
+A lacuna é:
+- média/alta quanto às mediações;
+- alta quanto aos riscos de inflação;
+- média quanto à densidade positiva;
+- não impeditiva quanto ao centro.
+
+### fórmula diagnóstica
+> O Capítulo 10 não precisa de novo centro; precisa de derivação disciplinada, contenção de bem/mal, limitação do dever-ser e interrupção antes da responsabilidade.
+
+### consequência para a fase seguinte
+O `05_decisao_local_do_capitulo.md` deve libertar o capítulo para escrita controlada, mas com ordem rígida:
+
+> `P39/P40/P42 → P44/P45 → P46/P47 → P48 terminal`.
+
+---
+
+## XI. Fórmula final curta
+
+> A lacuna do Capítulo 10 não é falta de material, mas risco de excesso: há material suficiente para derivar normatividade do dano real, da direção prática mínima e da adequação/desadequação operativa; mas essa derivação só permanece fiel ao capítulo se não se transformar em moral pronta, teoria normativa autónoma, responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-05-decisao-local-do-capitulo-md"></a>
+### 05_decisao_local_do_capitulo
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/05_decisao_local_do_capitulo.md`
+
+# 05_decisao_local_do_capitulo
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a decisão local sobre o estado do **Capítulo 10 — Dano, bem, mal e normatividade derivada**;
+- decidir se o capítulo pode avançar para `06_primeira_versao_controlada_de_escrita.md`;
+- transformar o diagnóstico de materiais positivos, materiais críticos e lacunas em regra operativa de escrita;
+- preservar o centro próprio do capítulo sem o transformar em teoria moral autónoma;
+- estabelecer as condições vinculantes para a primeira versão controlada.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não produz o `06_primeira_versao_controlada_de_escrita.md`;
+- não reabre os Capítulos 1 a 9;
+- não reescreve o Capítulo 9;
+- não antecipa o Capítulo 11;
+- não altera a arquitetura macro;
+- não converte normatividade derivada em moral pronta;
+- não converte bem e mal em entidades autónomas;
+- não converte dever-ser em comando exterior ao real;
+- não converte responsabilidade, dignidade ou vida boa em centro do Capítulo 10;
+- não sobe para direito, instituição, política ou sistema.
+
+### valor metodológico
+- vale como decisão local de passagem;
+- vale como norma imediata para o `06`;
+- vale como travão contra redação inflacionada;
+- vale como critério de controlo para posterior confronto;
+- vale como peça de estabilização provisória do Capítulo 10.
+
+---
+
+## II. Estado acumulado do capítulo
+
+### documentos locais já produzidos
+O Capítulo 10 já dispõe de:
+
+1. `00_estatuto_e_limites.md`;
+2. `01_estrutura_interna.md`;
+3. `02_materiais_positivos.md`;
+4. `03_materiais_criticos.md`;
+5. `04_lacunas_do_capitulo.md`.
+
+### resultado acumulado
+O trabalho local já permite afirmar:
+
+> o Capítulo 10 tem centro suficiente, massa positiva bastante e corredor interno definido para avançar para escrita controlada.
+
+### estado local
+O estado local do capítulo é:
+
+> **libertado para escrita controlada, com vigilância de sobreposição.**
+
+### consequência
+O capítulo pode avançar para `06_primeira_versao_controlada_de_escrita.md`.
+
+Mas só pode avançar sob ordem rígida e travões fortes.
+
+---
+
+## III. Decisão local
+
+### decisão
+**Abrir o Capítulo 10 para primeira versão controlada de escrita.**
+
+### fórmula da decisão
+> O Capítulo 10 está autorizado a avançar para escrita controlada porque o seu centro está suficientemente definido: não-indiferença real das atualizações, dano real, direção prática mínima, bem como adequação operativa, mal como desadequação, degeneração ou dano, normatividade derivada, dever-ser subordinado ao real e limite terminal do possível real.
+
+### qualificação da decisão
+A decisão é positiva.
+
+Mas não é decisão de expansão livre.
+
+Não é decisão de redação final.
+
+Não é decisão de ética completa.
+
+Não é decisão de entrada em responsabilidade, dignidade ou vida boa.
+
+### estatuto operativo
+O capítulo deve ser tratado como:
+- legítimo;
+- necessário na sequência;
+- mais robusto do que o Capítulo 9;
+- ainda exposto a sobreposição com o Capítulo 11;
+- dependente de ordem interna rígida;
+- proibido de moralização autónoma.
+
+---
+
+## IV. Centro autorizado
+
+### centro local confirmado
+O centro autorizado do Capítulo 10 é:
+
+> **reinscrição normativa do agir no real.**
+
+### fórmula governante
+> O Capítulo 10 abre pela não-indiferença real das atualizações, pelo dano real e por uma direção prática mínima ancorada no real; ganha corpo em bem e mal como adequação e desadequação operativa; deriva internamente a normatividade sem a autonomizar; e fecha terminalmente pelo limite do possível real, sem passar ainda para responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+### o que esta decisão confirma
+Fica confirmado que:
+- o capítulo não reabre ação situada como centro;
+- a não-indiferença das atualizações serve de chão;
+- o dano real serve de ancoragem objetiva;
+- `P42` introduz direção prática mínima;
+- `P44` permite dizer o bem como adequação operativa;
+- `P45` permite dizer o mal como desadequação, degeneração ou dano;
+- `P46` fixa a não autonomia da normatividade;
+- `P47` deriva o dever-ser da subordinação operativa ao real;
+- `P48` fecha terminalmente pelo poder-ser real.
+
+### o que esta decisão não autoriza
+Esta decisão não autoriza:
+- teoria moral autónoma;
+- teoria geral do bem;
+- teoria metafísica do mal;
+- dever-ser soberano;
+- normatividade jurídica;
+- responsabilidade como centro;
+- dignidade;
+- vida boa;
+- coordenação intersubjetiva;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+---
+
+## V. Ordem obrigatória para o `06`
+
+### sequência vinculante
+A primeira versão controlada deve respeitar esta ordem:
+
+1. receção controlada do Capítulo 9;
+2. não-indiferença real das atualizações — `P39`;
+3. dano real — `P40`;
+4. direção prática mínima — `P42`;
+5. bem como adequação operativa — `P44`;
+6. mal como desadequação, degeneração ou dano — `P45`;
+7. normatividade não autónoma — `P46`;
+8. dever-ser derivado da subordinação operativa ao real — `P47`;
+9. dever-ser subordinado ao poder-ser real — `P48`;
+10. entrega controlada ao Capítulo 11.
+
+### fórmula curta da ordem
+> `P39/P40/P42 → P44/P45 → P46/P47 → P48 terminal`.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente:
+- não abrir por bem;
+- não abrir por mal;
+- não abrir por moral;
+- não abrir por valor;
+- não abrir por dever-ser;
+- não abrir por normatividade;
+- não abrir por responsabilidade;
+- não abrir por dignidade;
+- não abrir por vida boa;
+- não abrir por lei;
+- não abrir por instituição;
+- não abrir por política;
+- não abrir por sistema;
+- não abrir por `P46/P47/P48`.
+
+---
+
+## VI. Condições obrigatórias de escrita
+
+### condição 1 — receber o Capítulo 9 sem o repetir
+O `06` deve começar por reconhecer apenas o ganho necessário do Capítulo 9:
+- ação como atualização real situada;
+- não-indiferença das trajetórias;
+- dano real;
+- mínimo negativo objetivo;
+- possível real terminal.
+
+Mas não deve repetir:
+- teoria da ação;
+- liberdade situada;
+- crítica da escolha soberana;
+- erro como disciplina crítica do agir;
+- passagem da representação corrigida para a atualização prática.
+
+### condição 2 — abrir pela não-indiferença e pelo dano
+A abertura positiva do Capítulo 10 deve começar por:
+- `P39`;
+- `P40`;
+- `P42`.
+
+A função da abertura é mostrar que:
+- as atualizações reais não são indiferentes;
+- existe dano real;
+- o dano permite orientação prática mínima.
+
+### condição 3 — formular `P42` sem ética da preservação
+A direção prática mínima deve ser descrita por três vetores:
+- preservação;
+- correção;
+- não-degeneração.
+
+Mas estes vetores não podem tornar-se:
+- código moral;
+- ética da conservação;
+- programa político;
+- doutrina da ordem;
+- rejeição da mudança.
+
+### condição 4 — dizer o bem apenas como adequação operativa
+O bem deve entrar como:
+- adequação da atualização ao real;
+- coincidência operativa com condições, limites e possibilidades reais;
+- preservação ou correção adequada do campo em causa.
+
+Não deve entrar como:
+- bem supremo;
+- entidade metafísica;
+- ideal moral exterior;
+- vida boa;
+- dignidade;
+- perfeccionismo.
+
+### condição 5 — dizer o mal apenas como desadequação, degeneração ou dano
+O mal deve entrar como:
+- desadequação operativa;
+- dano;
+- degeneração;
+- rutura de condições reais;
+- bloqueio de possibilidades reais.
+
+Não deve entrar como:
+- substância metafísica;
+- culpa;
+- punição;
+- responsabilidade;
+- teoria do sofrimento;
+- mal absoluto.
+
+### condição 6 — derivar a normatividade sem a autonomizar
+`P46` deve mostrar que a normatividade não é autónoma.
+
+Deve ficar claro que:
+- a normatividade não manda de fora;
+- a normatividade não cria o real;
+- a normatividade explicita a medida prática já inscrita na adequação ou desadequação da ação ao real.
+
+### condição 7 — derivar o dever-ser sem salto moral
+`P47` deve entrar como derivação curta.
+
+O dever-ser deve ser apresentado como:
+- subordinado ao real;
+- operativo;
+- dependente da ação, do dano, da adequação e da desadequação;
+- não exterior ao campo do atualizável.
+
+### condição 8 — fechar por `P48`
+`P48` deve entrar apenas no terminal.
+
+A sua função é:
+- impedir dever impossível;
+- subordinar o dever-ser ao poder-ser real;
+- fechar a derivação normativa;
+- preparar, sem abrir, o Capítulo 11.
+
+---
+
+## VII. Materiais autorizados
+
+### núcleo indispensável
+Devem ser usados como núcleo:
+- `P39`;
+- `P40`;
+- `P42`;
+- `P44`;
+- `P45`;
+- `P46`;
+- `P47`;
+- `P48`.
+
+### materiais herdados apenas como pressuposto
+Podem ser pressupostos, mas não comandar:
+- `P38`;
+- `P41`;
+- `P36`;
+- fundo ontológico remoto de `P04/P07/P08`.
+
+### fragmentos nucleares autorizados
+Podem ser usados com destaque:
+- `F0120_SEG_002`;
+- `F0017_SEG_001`;
+- `F0060_A01_SEG_001`;
+- `F0060_A01_SEG_004`;
+- `F0241_A12_SEG_001`;
+- `F0232_SEG_001`;
+- `F0119_A01_SEG_003`.
+
+### fragmentos nucleares sob reconstrução
+Podem ser usados, mas apenas com reescrita disciplinada:
+- `F0004_SEG_001`;
+- `F0006_SEG_001`.
+
+### fragmentos de apoio e ponte
+Podem ser usados com prudência:
+- `F0241_A08_SEG_001`;
+- `F0226_SEG_001`;
+- `F0075_SEG_003`;
+- `F0241_A22_SEG_002`.
+
+### condição geral de uso dos fragmentos
+Nenhum fragmento deve comandar o capítulo.
+
+Os fragmentos só podem:
+- apoiar formulações;
+- dar corpo a transições;
+- densificar a derivação;
+- fornecer travões;
+- confirmar a subordinação da normatividade ao real.
+
+Não podem substituir a sequência estrutural.
+
+---
+
+## VIII. Materiais a manter fora
+
+### fora por antecipação do Capítulo 11
+Devem ficar fora como corpo principal:
+- responsabilidade;
+- autoresponsabilidade;
+- dignidade;
+- vida boa;
+- prudência existencial;
+- formação ética;
+- mudança de si;
+- melhor modo de ser.
+
+### fora por antecipação de capítulos sociais e institucionais
+Devem ficar fora:
+- coordenação intersubjetiva;
+- comum;
+- regra social;
+- instituição;
+- direito;
+- lei;
+- política;
+- história;
+- sistema.
+
+### fora por regressão epistemológica
+Devem ficar fora como centro:
+- verdade;
+- erro;
+- critério;
+- correção;
+- descrição verdadeira;
+- validade epistemológica;
+- coerência sistémica.
+
+Podem aparecer apenas como fundo subordinado de adequação operativa.
+
+### fora por regressão ontológica
+Devem ficar fora como cabeça:
+- ontologia fundacional;
+- estrutura;
+- limite;
+- não-ser;
+- continuidade;
+- real como abertura baixa.
+
+O Capítulo 10 pressupõe estes elementos.
+
+Não os reabre.
+
+---
+
+## IX. Tratamento das lacunas
+
+### lacuna principal assumida
+A decisão local assume a lacuna principal:
+
+> o Capítulo 10 precisa de densificar a derivação normativa sem transformar a normatividade em ordem autónoma nem fazer do capítulo uma ética completa.
+
+### modo de resposta
+A lacuna deve ser respondida por:
+- ordem rígida;
+- derivação curta;
+- definições operativas;
+- travões explícitos;
+- interrupção antes do Capítulo 11.
+
+### lacunas a resolver no `06`
+O `06` deve resolver localmente:
+- passagem do Capítulo 9 para o Capítulo 10;
+- passagem de dano para direção prática mínima;
+- formulação de `P42` sem ética da preservação;
+- definição de bem como adequação operativa;
+- definição de mal como desadequação, degeneração ou dano;
+- passagem de bem/mal para normatividade não autónoma;
+- passagem de normatividade para dever-ser subordinado ao real;
+- fecho por poder-ser real;
+- entrega ao Capítulo 11 sem abrir Capítulo 11.
+
+### lacunas que não devem ser resolvidas no Capítulo 10
+Não resolver aqui:
+- teoria geral do bem;
+- teoria metafísica do mal;
+- ética completa;
+- responsabilidade;
+- dignidade;
+- vida boa;
+- direito;
+- instituição;
+- política;
+- sistema.
+
+Essas não são lacunas do Capítulo 10.
+
+São fronteiras.
+
+---
+
+## X. Fronteiras vinculantes
+
+## 1. Fronteira com o Capítulo 9
+
+### regra
+O Capítulo 10 recebe o Capítulo 9, mas não o repete.
+
+### o que pode ser herdado
+O Capítulo 10 pode pressupor:
+- ação situada;
+- liberdade situada já subordinada;
+- não-indiferença das trajetórias;
+- dano real;
+- mínimo negativo objetivo;
+- possível real como limite terminal.
+
+### o que não pode repetir
+Não deve repetir:
+- abertura pela ação;
+- teoria da liberdade situada;
+- crítica da escolha soberana;
+- passagem da representação corrigida para atualização prática;
+- erro como disciplina crítica do agir.
+
+### fórmula de passagem
+> O Capítulo 10 começa quando a não-indiferença e o dano real já não servem apenas para bloquear a equivalência total, mas para abrir uma direção normativa derivada.
+
+---
+
+## 2. Fronteira com o Capítulo 11
+
+### regra
+O Capítulo 10 prepara o Capítulo 11, mas não o absorve.
+
+### o que pode preparar
+Pode preparar:
+- a pergunta por responsabilidade;
+- a pergunta por dignidade;
+- a pergunta por vida boa prudencial;
+- a necessidade de resposta do ser reflexivo à normatividade derivada.
+
+### o que não pode desenvolver
+Não pode desenvolver:
+- responsabilidade;
+- imputação;
+- culpa;
+- dignidade;
+- vida boa;
+- prudência;
+- educação;
+- autoresponsabilidade.
+
+### fórmula de entrega
+> O Capítulo 10 termina quando torna inteligível a normatividade derivada; a pergunta por quem responde a essa normatividade pertence ao capítulo seguinte.
+
+---
+
+## 3. Fronteira com capítulos sociais, jurídicos e sistémicos
+
+### regra
+A normatividade derivada não é ainda normatividade social, jurídica ou institucional.
+
+### o que fica fora
+Ficam fora:
+- coordenação intersubjetiva;
+- comum;
+- instituição;
+- direito;
+- lei;
+- política;
+- história;
+- sistema;
+- crítica sistémica.
+
+### fórmula de contenção
+> A normatividade derivada do agir ainda não é normatividade social sedimentada.
+
+---
+
+## 4. Fronteira com o Capítulo 7
+
+### regra
+Adequação, verdade, erro e critério não podem regressar como centro.
+
+### o que pode entrar
+Pode entrar apenas:
+- adequação operativa;
+- desadequação operativa;
+- subordinação ao real.
+
+### o que não pode entrar
+Não deve entrar:
+- teoria da verdade;
+- teoria do erro;
+- teoria do critério;
+- correção como corpo próprio.
+
+### fórmula de contenção
+> A adequação do Capítulo 10 é prática e operativa, não epistemológica em abstrato.
+
+---
+
+## XI. Travões vinculantes para o `06`
+
+### travão anti-moral autónoma
+Não abrir por moral.
+
+Não usar moral como cabeça.
+
+Não apresentar a normatividade como fonte soberana.
+
+### travão anti-bem/mal abstratos
+Não abrir por bem ou mal.
+
+Não substancializar o bem.
+
+Não substancializar o mal.
+
+### travão anti-normatividade antecipada
+Não abrir por `P46/P47`.
+
+A normatividade deve aparecer apenas depois de dano, direção prática e bem/mal operativos.
+
+### travão anti-dever impossível
+Não deixar o dever-ser exigir o que o real não permite.
+
+`P48` deve ser terminal.
+
+### travão anti-responsabilidade
+Não passar de dever-ser para responsabilidade dentro do corpo do capítulo.
+
+Responsabilidade fica para o Capítulo 11.
+
+### travão anti-dignidade e vida boa
+Não usar dignidade ou vida boa para dar corpo ao bem.
+
+Essas zonas são posteriores.
+
+### travão anti-direito e sistema
+Não transformar normatividade derivada em direito, instituição, política ou crítica sistémica.
+
+### travão anti-epistemologia
+Não fazer de verdade, erro, critério ou correção o centro oculto do capítulo.
+
+### travão anti-preservação absoluta
+Não transformar preservação, correção e não-degeneração em programa moral fechado.
+
+---
+
+## XII. Forma esperada do `06`
+
+### extensão
+A primeira versão controlada deve ser suficientemente desenvolvida.
+
+Deve ser mais afirmativa do que o Capítulo 9.
+
+Mas não deve ser tão ampla que absorva o Capítulo 11.
+
+### tom
+O tom deve ser:
+- disciplinado;
+- seco;
+- estrutural;
+- derivativo;
+- sem moralismo;
+- sem retórica ética;
+- sem linguagem de sermão;
+- sem grandiloquência sobre bem, mal ou dever.
+
+### organização provável
+A redação deve seguir aproximadamente esta sequência:
+
+1. **receção do Capítulo 9**
+   - ação situada já fixada;
+   - dano real já introduzido;
+   - mínimo negativo objetivo já estabelecido;
+   - passagem para normatividade derivada.
+
+2. **não-indiferença real e dano**
+   - nem toda a atualização é indiferente;
+   - há dano real;
+   - o dano bloqueia a neutralidade total.
+
+3. **direção prática mínima**
+   - preservação;
+   - correção;
+   - não-degeneração;
+   - orientação mínima sem moral autónoma.
+
+4. **bem como adequação operativa**
+   - bem não como entidade;
+   - bem como atualização adequada ao real.
+
+5. **mal como desadequação, degeneração ou dano**
+   - mal não como substância;
+   - mal como atualização desadequada, danosa ou degenerativa.
+
+6. **normatividade não autónoma**
+   - normatividade derivada;
+   - recusa de ordem normativa separada.
+
+7. **dever-ser subordinado ao real**
+   - dever-ser operativo;
+   - derivado da subordinação ao real;
+   - sem comando exterior.
+
+8. **poder-ser real como terminal**
+   - não há dever impossível;
+   - dever-ser limitado pelo real atualizável.
+
+9. **entrega ao Capítulo 11**
+   - responsabilidade futura;
+   - dignidade futura;
+   - vida boa futura;
+   - não desenvolver ainda.
+
+### fórmula de fecho do `06`
+O `06` deve terminar com uma entrega deste tipo:
+
+> Depois de derivada a normatividade do real do agir, abre-se a pergunta por quem responde a essa normatividade, em que termos e com que forma de vida; mas essa pergunta já pertence ao Capítulo 11.
+
+---
+
+## XIII. Critério de suficiência do `06`
+
+### o `06` será suficiente se
+Será suficiente se:
+- receber o Capítulo 9 sem o repetir;
+- abrir por não-indiferença e dano;
+- introduzir `P42` como direção prática mínima;
+- disser bem como adequação operativa;
+- disser mal como desadequação, degeneração ou dano;
+- derivar a normatividade sem a autonomizar;
+- derivar o dever-ser da subordinação operativa ao real;
+- fechar por `P48`;
+- entregar ao Capítulo 11 sem o abrir.
+
+### o `06` será insuficiente se
+Será insuficiente se:
+- abrir por moral;
+- abrir por bem ou mal em abstrato;
+- abrir por dever-ser;
+- abrir por normatividade;
+- abrir por responsabilidade;
+- transformar dano em teoria completa do mal;
+- transformar bem em vida boa;
+- transformar dever-ser em comando exterior;
+- deixar `P48` entrar cedo;
+- desenvolver dignidade;
+- desenvolver direito, política ou sistema;
+- regressar ao Capítulo 7.
+
+---
+
+## XIV. Decisão final local
+
+### decisão final
+O Capítulo 10 fica:
+
+> **libertado para `06_primeira_versao_controlada_de_escrita.md`, com ordem rígida e vigilância de sobreposição.**
+
+### estatuto final
+O estatuto final é:
+
+> **autorizado, relativamente forte, mas com fronteira superior sensível.**
+
+### motivo da autorização
+A autorização justifica-se porque:
+- o centro está claro;
+- a ordem interna está estabilizada;
+- os materiais positivos são suficientes;
+- os materiais críticos estão identificados;
+- as lacunas são reais, mas não impeditivas;
+- a fronteira com o Capítulo 9 está suficientemente travada;
+- a fronteira com o Capítulo 11 pode ser preservada.
+
+### motivo da restrição
+A restrição justifica-se porque:
+- bem e mal podem moralizar o capítulo;
+- `P46/P47` podem autonomizar a normatividade;
+- `P48` pode entrar cedo demais;
+- responsabilidade, dignidade e vida boa pressionam a fronteira superior;
+- direito, política e sistema podem invadir por afinidade com normatividade;
+- materiais epistemológicos podem reabrir Capítulo 7.
+
+### fórmula da decisão
+> O Capítulo 10 deve avançar para escrita controlada como capítulo de derivação normativa curta: abre pela não-indiferença real das atualizações, pelo dano real e por uma direção prática mínima; explicita bem e mal como adequação e desadequação operativa; deriva a normatividade sem a autonomizar; subordina o dever-ser ao real e ao poder-ser; e termina antes de responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+---
+
+## XV. Fórmula final curta
+
+> Decisão: abrir o Capítulo 10 para primeira versão controlada de escrita. A abertura é legítima e mais robusta do que a do Capítulo 9, mas condicionada por ordem rígida: dano e direção prática antes de bem/mal; bem/mal apenas como adequação/desadequação; normatividade apenas derivada; dever-ser apenas subordinado ao real; `P48` apenas terminal; responsabilidade, dignidade, vida boa, direito, política e sistema ainda fora.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-06-primeira-versao-controlada-de-escrita-md"></a>
+### 06_primeira_versao_controlada_de_escrita
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/06_primeira_versao_controlada_de_escrita.md`
+
+# 06_primeira_versao_controlada_de_escrita
+
+## I. Estatuto desta versão
+
+### função
+
+Este ficheiro apresenta a primeira versão controlada de escrita do **Capítulo 10 — Dano, bem, mal e normatividade derivada**.
+
+Não é ainda redação final publicada.
+
+A sua função é testar, em forma já parcialmente corrida, se o capítulo consegue desenvolver o seu centro próprio sem se desviar para moral autónoma, teoria geral do bem, teoria metafísica do mal, responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+O centro deste capítulo é:
+
+> reinscrição normativa do agir no real.
+
+### limite
+
+Esta versão não deve ser lida como ética completa.
+
+Também não deve ser lida como teoria geral do bem, teoria geral do mal, teoria da responsabilidade ou filosofia política.
+
+O seu objeto é mais estreito:
+
+> a passagem da não-indiferença real das atualizações e do dano real para uma direção prática mínima; a explicitação de bem e mal como adequação e desadequação operativa; a derivação da normatividade sem autonomização; e o fecho pelo limite do possível real.
+
+### regra de controlo
+
+A ordem desta versão obedece à sequência:
+
+> `P39/P40/P42 → P44/P45 → P46/P47 → P48 terminal`.
+
+Isto significa:
+- primeiro, não-indiferença real e dano;
+- depois, direção prática mínima;
+- depois, bem e mal em sentido operativo;
+- depois, normatividade derivada;
+- depois, dever-ser subordinado ao real;
+- por fim, poder-ser real como limite terminal.
+
+---
+
+## II. Capítulo 10 — Dano, bem, mal e normatividade derivada
+
+## 1. Do mínimo negativo à derivação normativa
+
+O Capítulo 9 abriu o plano da ação.
+
+A ação foi descrita como atualização real situada.  
+A liberdade foi mantida como liberdade situada.  
+A assimetria entre trajetórias foi introduzida sem moralização.  
+O dano real apareceu como consequência possível da atualização.  
+O mínimo negativo objetivo bloqueou a equivalência total entre trajetórias.
+
+Esse ganho não deve ser repetido aqui como se ainda estivesse por estabelecer.
+
+O Capítulo 10 começa depois disso.
+
+Já não se trata apenas de dizer que a ação atualiza o real.  
+Já não se trata apenas de dizer que trajetórias diferentes não são indiferentes.  
+Já não se trata apenas de dizer que há dano real.  
+Já não se trata apenas de impedir que todas as trajetórias sejam tratadas como equivalentes.
+
+Trata-se agora de perguntar o que se segue dessa não-indiferença.
+
+Se a ação atualiza o real, se nem toda a atualização é indiferente, se existe dano real e se o dano bloqueia a equivalência total, então começa a tornar-se inteligível uma orientação prática mínima.
+
+Mas esta orientação não pode entrar como moral pronta.
+
+Não se deve dizer: há dano, logo há imediatamente uma teoria completa do bem e do mal.
+
+Também não se deve dizer: há dano, logo há um dever-ser autónomo que passa a comandar a partir de fora.
+
+A passagem deve ser mais disciplinada.
+
+O Capítulo 10 abre quando o dano real e a não-indiferença das atualizações deixam de servir apenas para travar a equivalência total e começam a permitir uma derivação normativa curta.
+
+Essa derivação é curta porque não resolve tudo.
+
+Não resolve ainda responsabilidade.  
+Não resolve dignidade.  
+Não resolve vida boa.  
+Não resolve direito.  
+Não resolve política.  
+Não resolve instituição.  
+Não resolve sistema.
+
+Mas já permite dizer que a prática não é um campo neutro onde qualquer atualização vale do mesmo modo.
+
+O que está em causa é a passagem mínima de:
+
+> nem tudo é indiferente
+
+para:
+
+> há uma direção prática derivada do modo como a ação se adequa ou desadequa ao real.
+
+---
+
+## 2. Não-indiferença real e dano
+
+A orientação prática só se torna inteligível porque nem toda a atualização é indiferente.
+
+Se todas as atualizações fossem equivalentes, nenhuma direção poderia ser derivada. Nada permitiria distinguir entre preservar e degradar, corrigir e agravar, abrir e bloquear, adequar e desadequar.
+
+Mas a ação não ocorre num vazio.
+
+A ação entra num campo real.  
+Atualiza relações reais.  
+Modifica condições reais.  
+Afeta possibilidades reais.  
+Produz consequências reais.
+
+Por isso, quando uma atualização produz dano, a diferença entre trajetórias deixa de ser apenas uma diferença formal.
+
+O dano real é a forma negativa mínima da não-indiferença.
+
+Há dano quando uma atualização degrada, quebra, bloqueia, estreita ou rompe uma condição real de continuidade, relação ou possibilidade.
+
+Não é necessário, neste ponto, fazer teoria completa do mal.
+
+Basta reconhecer que o dano é real.
+
+Uma ação que preserva uma possibilidade e uma ação que a destrói não são equivalentes.  
+Uma ação que corrige uma desadequação e uma ação que a agrava não são equivalentes.  
+Uma ação que mantém uma condição real e uma ação que a quebra não são equivalentes.
+
+Esta não-equivalência não nasce de gosto subjetivo.
+
+Nasce do próprio modo como a atualização incide no real.
+
+O dano não é apenas aquilo de que alguém não gosta.  
+Não é apenas aquilo que um sistema condena.  
+Não é apenas aquilo que uma cultura nomeia como negativo.  
+Não é apenas aquilo que uma norma já codificou.
+
+O dano é uma alteração real que diminui, rompe ou degrada uma condição.
+
+Por isso, o dano tem função de ancoragem.
+
+Ele impede que a normatividade futura se solte no ar.
+
+A orientação prática não começa porque alguém declara um valor.  
+Começa porque a ação, ao atualizar o real, pode preservá-lo, corrigi-lo, degradá-lo ou destruí-lo em alguma das suas condições.
+
+É esta diferença que obriga o capítulo a avançar.
+
+---
+
+## 3. Direção prática mínima
+
+Se existe dano real, a ação pode orientar-se minimamente.
+
+Esta passagem deve ser formulada com cuidado.
+
+Não se trata de extrair uma moral completa do facto de haver dano.  
+Não se trata de transformar o dano em princípio soberano.  
+Não se trata de fazer da preservação uma doutrina total.  
+Não se trata de dizer que toda a mudança é suspeita ou que todo o estado existente deve ser mantido.
+
+A direção prática mínima é mais baixa.
+
+Ela indica apenas que, perante a possibilidade real de dano, há vetores mínimos de orientação do agir.
+
+Esses vetores são:
+- preservação;
+- correção;
+- não-degeneração.
+
+Preservar não significa conservar tudo.
+
+Significa não destruir condições reais que devem permanecer para que uma relação, possibilidade ou continuidade não seja danificada.
+
+Corrigir não significa impor uma forma ideal.
+
+Significa reinscrever uma ação, uma descrição ou uma solução na medida do real quando houve desadequação.
+
+Não-degenerar não significa impedir toda a transformação.
+
+Significa impedir que a atualização se converta em degradação, bloqueio ou rutura das condições que a tornam inteligível.
+
+Estes vetores não são ainda um código moral.
+
+São orientações mínimas derivadas da estrutura real da ação.
+
+Se uma ação pode danificar, então faz sentido orientar-se para não danificar quando a danificação rompe uma condição real relevante.
+
+Se uma ação pode agravar uma desadequação, então faz sentido orientar-se para corrigir a desadequação.
+
+Se uma ação pode degenerar uma relação ou possibilidade, então faz sentido orientar-se para impedir essa degeneração.
+
+Esta orientação não vem de fora do real.
+
+Vem do próprio facto de a ação ocorrer no real e produzir efeitos reais.
+
+A direção prática mínima é, por isso, a primeira forma positiva da não-indiferença.
+
+No Capítulo 9, bastava dizer que nem tudo vale do mesmo modo quando há dano real.
+
+No Capítulo 10, torna-se possível dizer mais:
+
+> se há dano real, então a ação já não é apenas não indiferente; ela deve ser pensada segundo vetores mínimos de preservação, correção e não-degeneração.
+
+Mas ainda não há aqui responsabilidade.
+
+Ainda não há dignidade.
+
+Ainda não há vida boa.
+
+Há apenas uma direção prática derivada do real do agir.
+
+---
+
+## 4. Bem como adequação operativa
+
+Só depois da não-indiferença, do dano e da direção prática mínima pode entrar o bem.
+
+O bem não deve abrir o capítulo.
+
+Se abrisse, entraria como conceito abstrato, ideal moral exterior ou entidade já dada. Isso inverteria a ordem correta.
+
+Aqui, o bem deve ser dito apenas no seu sentido operativo.
+
+O bem é a adequação da atualização ao real.
+
+Isto não significa que o bem seja uma coisa separada.  
+Não significa que o bem seja um objeto acima do real.  
+Não significa que o bem seja um ideal moral que paira sobre a ação.  
+Não significa que o bem seja ainda vida boa.  
+Não significa que o bem seja dignidade.  
+Não significa que o bem seja perfeição subjetiva ou espiritual.
+
+Significa apenas isto:
+
+> uma atualização é boa, neste regime mínimo, quando se adequa operativamente ao real em que ocorre.
+
+Adequar-se ao real não é repetir o que já existe.
+
+Uma ação pode adequar-se ao real conservando uma condição que deve permanecer.  
+Pode adequar-se corrigindo uma desadequação.  
+Pode adequar-se impedindo uma degeneração.  
+Pode adequar-se abrindo uma possibilidade que o campo real permitia e exigia.  
+Pode adequar-se interrompendo uma trajetória danosa.
+
+A adequação não é passividade.
+
+É correspondência operativa entre a ação e o campo real em que ela incide.
+
+Uma ação boa, neste sentido, não é boa porque uma norma exterior a declara boa. É boa porque atualiza de modo adequado uma possibilidade real, respeitando condições, relações, limites e consequências.
+
+O bem, aqui, é inseparável do real.
+
+Se se desligar do real, torna-se abstração.
+
+Se se desligar do campo de possibilidades, torna-se fantasia.
+
+Se se desligar das consequências, torna-se intenção vazia.
+
+Se se desligar da situação, torna-se moral geral sem incidência.
+
+Por isso, o bem do Capítulo 10 não é ainda o bem como vida boa.
+
+É bem como adequação operativa da atualização ao real.
+
+Esta formulação deve permanecer estreita.
+
+Ela serve para derivar a normatividade.
+
+Não serve para encerrar uma ética.
+
+---
+
+## 5. Mal como desadequação, degeneração ou dano
+
+O mal também não deve entrar como entidade autónoma.
+
+Não é uma substância.  
+Não é uma força.  
+Não é um princípio metafísico separado.  
+Não é ainda culpa.  
+Não é ainda responsabilidade.  
+Não é ainda punição.  
+Não é ainda teoria moral completa.
+
+No regime deste capítulo, o mal é desadequação operativa.
+
+Uma atualização é má quando, no modo como incide no real, danifica, degenera, rompe ou bloqueia condições reais relevantes.
+
+O mal aparece como:
+- desadequação ao campo;
+- degradação de uma condição;
+- rutura de uma relação;
+- bloqueio de uma possibilidade;
+- agravamento de uma desordem;
+- dano real produzido pela atualização.
+
+O mal não precisa de ser substancializado para ser real.
+
+Pelo contrário, quando é substancializado, corre-se o risco de o retirar do regime concreto da ação.
+
+O que interessa aqui não é perguntar se o mal existe como coisa.
+
+Interessa perguntar o que acontece quando uma atualização se desadequa ao real de tal modo que danifica, degenera ou rompe condições.
+
+Assim como o bem é adequação operativa, o mal é desadequação operativa.
+
+Esta simetria deve ser mantida com cuidado.
+
+O bem não é uma entidade acima do real.  
+O mal não é uma entidade contra o real.
+
+Ambos são nomes derivados do modo como a ação atualiza o real:
+- adequada ou desadequadamente;
+- preservando ou degradando;
+- corrigindo ou agravando;
+- abrindo possibilidade ou destruindo condição.
+
+O mal, portanto, não entra no Capítulo 10 para moralizar a ação.
+
+Entra para dar nome à desadequação danosa da atualização.
+
+E esta nomeação é necessária porque o dano real já mostrou que nem toda a atualização é indiferente.
+
+Sem este passo, o capítulo ficaria preso ao mínimo negativo.
+
+Com este passo, torna-se possível dizer que a prática tem uma direção: não porque a moral mande de fora, mas porque o real do agir já distingue adequação e desadequação.
+
+---
+
+## 6. Normatividade não autónoma
+
+A partir daqui, pode entrar a normatividade.
+
+Mas deve entrar apenas como derivada.
+
+A normatividade não é autónoma.
+
+Não cria o real.  
+Não funda o dano.  
+Não inventa o bem.  
+Não inventa o mal.  
+Não paira sobre a ação.  
+Não se impõe como sistema exterior.
+
+A normatividade só se torna inteligível porque a ação já se mostrou não indiferente, porque há dano real, porque há direção prática mínima, e porque bem e mal podem ser ditos como adequação e desadequação operativa.
+
+Se o bem é adequação ao real e o mal é desadequação danosa, então a orientação normativa não vem de uma ordem separada.
+
+Vem da própria estrutura da ação no real.
+
+Uma ação pode adequar-se ou desadequar-se.  
+Pode preservar ou degradar.  
+Pode corrigir ou agravar.  
+Pode impedir degeneração ou produzi-la.  
+Pode respeitar o campo real ou violentá-lo.  
+Pode reconhecer limites ou ignorá-los.
+
+A normatividade aparece quando estas diferenças deixam de ser apenas descrições neutras e passam a orientar o agir.
+
+Mas essa orientação continua subordinada ao real.
+
+A norma não é soberana.
+
+O que é soberano é o real a que a ação está submetida.
+
+Por isso, a normatividade do Capítulo 10 não deve ser entendida como moral exterior ao mundo.
+
+Deve ser entendida como explicitação da medida prática já inscrita no modo como a ação se atualiza no real.
+
+A normatividade não manda primeiro para que depois a ação se torne boa ou má.
+
+A ação atualiza o real de modos diferentes; alguns modos adequam-se, outros desadequam-se; alguns preservam, outros danificam; alguns corrigem, outros degeneram. A normatividade deriva dessa estrutura.
+
+Isto bloqueia duas posições erradas.
+
+A primeira é o indiferentismo: nada orienta, tudo vale, tudo é escolha, tudo é perspetiva.
+
+A segunda é o moralismo autónomo: a norma manda de fora, independentemente do real, do campo, do limite e do possível.
+
+O Capítulo 10 não aceita nenhuma das duas.
+
+Nem tudo é indiferente.
+
+Mas a normatividade também não é um reino separado.
+
+---
+
+## 7. Dever-ser derivado da subordinação ao real
+
+Depois da normatividade derivada pode entrar o dever-ser.
+
+Também aqui a ordem é decisiva.
+
+O dever-ser não abre o capítulo.  
+Não antecede o dano.  
+Não antecede o bem e o mal.  
+Não antecede a adequação e a desadequação.  
+Não antecede a normatividade derivada.
+
+O dever-ser entra como consequência interna da subordinação operativa da ação ao real.
+
+Isto deve ser dito sem simplificação.
+
+Não se trata de afirmar que o dever-ser é extraído mecanicamente do ser.
+
+A simples descrição de um facto não basta, por si só, para produzir uma ordem normativa completa.
+
+Mas também não se pode tratar o dever-ser como completamente exterior ao ser.
+
+O dever-ser torna-se inteligível quando a ação, ocorrendo no real, pode adequar-se ou desadequar-se; quando a desadequação pode produzir dano; quando o dano bloqueia a indiferença; quando a direção prática mínima permite preservar, corrigir e impedir degenerações.
+
+É neste ponto que se pode dizer:
+
+> o dever-ser deriva da subordinação operativa ao real.
+
+O dever-ser não substitui o real.
+
+Responde ao real.
+
+Não manda a partir de um fora.
+
+Nasce da necessidade de orientar a ação perante condições reais que podem ser preservadas, corrigidas, degradadas ou destruídas.
+
+Por isso, o dever-ser é operativo.
+
+Ele diz respeito ao modo como se deve agir perante um campo real determinado, com possibilidades, limites, relações e consequências.
+
+Não é dever-ser abstrato.  
+Não é dever-ser sem mundo.  
+Não é dever-ser sem campo.  
+Não é dever-ser sem dano.  
+Não é dever-ser sem poder-ser.  
+Não é dever-ser sem ação.
+
+O dever-ser do Capítulo 10 permanece baixo.
+
+Diz apenas que, se a ação se submete ao real, então não pode orientar-se indiferentemente perante aquilo que preserva ou danifica as condições reais em causa.
+
+Daí deriva a sua força mínima.
+
+Uma ação deve preservar quando a destruição da condição real seria dano.  
+Deve corrigir quando a desadequação agrava o erro prático.  
+Deve impedir degeneração quando a atualização conduz à rutura de uma possibilidade real relevante.
+
+Mas estas formulações ainda não são código.
+
+São a forma mínima da orientação prática derivada.
+
+A responsabilidade por esse dever-ser fica para depois.
+
+A dignidade que poderá ser implicada por ele fica para depois.
+
+A vida boa que poderá integrar esse regime fica para depois.
+
+Aqui fica apenas a derivação:
+
+> o dever-ser não é autónomo; é a forma prática da subordinação da ação ao real.
+
+---
+
+## 8. O limite do poder-ser real
+
+O dever-ser só permanece fiel ao real se for limitado pelo poder-ser real.
+
+Este é o fecho terminal do Capítulo 10.
+
+Não deve entrar antes.
+
+Se entrasse cedo, o capítulo abriria pelo limite e não pela derivação.  
+Se comandasse o corpo do capítulo, impediria a passagem por dano, direção, bem, mal e normatividade.  
+Se fosse tratado como critério único, poderia transformar-se numa teoria geral do possível.
+
+A sua função é mais precisa.
+
+O poder-ser real impede o dever impossível.
+
+Nenhuma orientação prática pode exigir aquilo que o real não permite atualizar.
+
+Isto não enfraquece o dever-ser.
+
+Purifica-o.
+
+Um dever-ser que exige o impossível deixa de estar submetido ao real. Transforma-se em moralismo, acusação, fantasia, abstração ou violência normativa.
+
+O dever-ser só é legítimo se disser respeito a uma atualização possível.
+
+A ação ocorre no campo do atualizável.
+
+Não ocorre no campo ilimitado do imaginável.  
+Não ocorre no campo ilimitado do desejável.  
+Não ocorre no campo ilimitado do idealizado.  
+Não ocorre no campo ilimitado do moralmente proclamado.
+
+Por isso, a normatividade derivada tem de terminar no poder-ser real.
+
+Pode haver uma direção prática mínima.  
+Pode haver bem como adequação.  
+Pode haver mal como desadequação.  
+Pode haver dever-ser derivado da subordinação ao real.
+
+Mas esse dever-ser não pode exigir uma atualização que o real não suporta.
+
+O possível real é o limite terminal da normatividade.
+
+Não é desculpa para inação.  
+Não é relativização de tudo.  
+Não é permissividade.  
+Não é recuo perante qualquer dificuldade.
+
+É apenas a condição de realidade do dever-ser.
+
+Aquilo que deve ser só pode ser exigido enquanto puder ser, segundo o campo real em causa.
+
+Esta fórmula não encerra a ética.
+
+Mas impede que a normatividade se torne falsa.
+
+---
+
+## 9. Entrega ao Capítulo 11
+
+O Capítulo 10 termina antes da responsabilidade.
+
+Este ponto deve ficar claro.
+
+O capítulo mostrou que:
+- nem toda a atualização é indiferente;
+- há dano real;
+- o dano permite uma direção prática mínima;
+- essa direção se exprime em preservação, correção e não-degeneração;
+- o bem pode ser dito como adequação operativa;
+- o mal pode ser dito como desadequação, degeneração ou dano;
+- a normatividade não é autónoma;
+- o dever-ser deriva da subordinação operativa ao real;
+- o dever-ser é limitado pelo poder-ser real.
+
+Mas ainda não mostrou quem responde por isso.
+
+Ainda não tratou:
+- responsabilidade;
+- culpa;
+- imputação;
+- dignidade;
+- vida boa;
+- prudência;
+- educação;
+- formação do agente;
+- coordenação intersubjetiva;
+- direito;
+- política;
+- instituição;
+- sistema.
+
+Essas zonas não são defeitos deste capítulo.
+
+São capítulos posteriores.
+
+O Capítulo 10 entrega ao Capítulo 11 um problema já preparado:
+
+> se há normatividade derivada do real do agir, então importa perguntar como o ser reflexivo responde por ela.
+
+Mas esta pergunta não deve ser respondida aqui.
+
+O Capítulo 10 não deve fechar com uma teoria da responsabilidade.
+
+Deve fechar com uma derivação suficientemente estabilizada para que a responsabilidade possa começar no capítulo seguinte sem ser arbitrária.
+
+A passagem correta é esta:
+
+> depois de derivada a normatividade do real do agir, abre-se a pergunta por quem responde a essa normatividade, em que termos e com que forma de vida; mas essa pergunta já pertence ao Capítulo 11.
+
+---
+
+## III. Fecho de controlo da versão
+
+### centro preservado
+
+Esta versão preserva o centro do capítulo:
+
+> reinscrição normativa do agir no real.
+
+### ordem respeitada
+
+A versão respeita a ordem:
+
+> `P39/P40/P42 → P44/P45 → P46/P47 → P48 terminal`.
+
+### travões respeitados
+
+Foram respeitados os seguintes travões:
+- não abrir por moral;
+- não abrir por bem ou mal em abstrato;
+- não abrir por dever-ser;
+- não abrir por normatividade autónoma;
+- não transformar dano em teoria completa do mal;
+- não transformar preservação em ética conservadora;
+- não transformar bem em vida boa;
+- não transformar mal em culpa;
+- não transformar normatividade em direito;
+- não antecipar responsabilidade;
+- não antecipar dignidade;
+- não antecipar política, instituição ou sistema;
+- não deixar `P48` entrar antes do terminal.
+
+### fragilidade remanescente
+
+A versão ainda deixa zonas que precisarão de confronto posterior:
+- a passagem de dano real para direção prática mínima;
+- a formulação de preservação, correção e não-degeneração sem programa moral;
+- a definição de bem como adequação operativa;
+- a definição de mal como desadequação, degeneração ou dano;
+- a passagem de bem/mal para normatividade derivada;
+- a passagem de normatividade para dever-ser sem salto moral;
+- a interrupção antes do Capítulo 11.
+
+Essas fragilidades não invalidam a versão.
+
+Indicam apenas que o capítulo deve ser confrontado com a base antes de receber redação posterior.
+
+### fórmula final da versão controlada
+
+> O Capítulo 10 recebeu do Capítulo 9 a ação situada, a não-indiferença e o dano real; abriu a direção prática mínima por preservação, correção e não-degeneração; disse o bem como adequação operativa e o mal como desadequação, degeneração ou dano; derivou a normatividade sem a autonomizar; subordinou o dever-ser ao real e ao poder-ser; e terminou antes de responsabilidade, dignidade, vida boa, direito, política ou sistema.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-06-primeira-versao-controlada-de-escrita-reescrita-pos-confronto-cap10-md"></a>
+### 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10.md`
+
+# 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10
+
+## I. Estatuto desta versão
+
+### função
+
+Este ficheiro apresenta a versão pós-confronto controlada do **Capítulo 10 — Dano, bem, mal e normatividade derivada**.
+
+Substitui, para efeitos de trabalho local, o ficheiro:
+
+`06_primeira_versao_controlada_de_escrita.md`
+
+A reescrita não altera o centro do capítulo.
+
+A sua função é afinar a primeira versão controlada depois do confronto com a base, reforçando quatro pontos:
+
+1. a entrada de `P43` como tradução operativa situada da direção prática;
+2. a distinção entre normatividade derivada e dever-ser determinado;
+3. o uso terminal de `P48`;
+4. a fronteira superior com responsabilidade, dignidade, vida boa, coordenação, direito, política e sistema.
+
+### limite
+
+Esta versão não é ainda redação final publicada.
+
+Também não é ética completa.
+
+Não é teoria geral do bem.
+
+Não é teoria metafísica do mal.
+
+Não é teoria da responsabilidade.
+
+Não é teoria da dignidade.
+
+Não é teoria da vida boa.
+
+Não é teoria do direito.
+
+Não é filosofia política.
+
+O seu objeto é mais estreito:
+
+> mostrar como, a partir da não-indiferença real das atualizações, do dano real e de uma direção prática mínima, se tornam inteligíveis bem e mal como adequação e desadequação operativa, e como daí se deriva normatividade sem a autonomizar, fechando terminalmente pelo limite do possível real.
+
+### regra de controlo pós-confronto
+
+A ordem desta versão é:
+
+> `P39/P40/P42/P43 → P44/P45 → P46/P47 → P48 terminal`.
+
+Esta ordem significa:
+
+- `P39/P40` dão o chão: nem toda a atualização é indiferente e há dano real;
+- `P42` introduz a direção prática mínima;
+- `P43` traduz essa direção em critérios e vetores situados;
+- `P44/P45` dizem bem e mal como adequação e desadequação operativa;
+- `P46` deriva a normatividade sem a autonomizar;
+- `P47` exprime o dever-ser como forma prática determinada da normatividade já derivada;
+- `P48` limita terminalmente a exigência prática ao possível real.
+
+### correções pós-confronto incorporadas
+
+A versão anterior estava estruturalmente correta, mas precisava de afinação.
+
+As correções incorporadas são estas:
+
+1. `P43` deixa de ficar implícito e passa a aparecer como momento próprio, embora subordinado, de tradução operativa;
+2. `P47` deixa de soar como derivação direta e simples do ser para o dever-ser;
+3. `P48` deixa de poder parecer fonte da normatividade e fica apenas como limite de incidência;
+4. a fronteira com o Capítulo 11 é reforçada;
+5. a fronteira com Capítulo 12, direito, política e sistema é explicitamente travada;
+6. a crítica do Capítulo 10 fica interna ao seu objeto, sem substituir o corpo positivo do capítulo.
+
+---
+
+## II. Capítulo 10 — Dano, bem, mal e normatividade derivada
+
+## 1. Receção controlada do Capítulo 9
+
+O Capítulo 9 abriu o plano da ação.
+
+A ação foi descrita como atualização real situada.  
+A liberdade foi mantida como liberdade situada.  
+A assimetria entre trajetórias foi introduzida sem moralização.  
+O dano real apareceu como consequência possível da atualização.  
+O mínimo negativo objetivo bloqueou a equivalência total entre trajetórias.  
+O possível real apareceu apenas como limite terminal da ação.
+
+Este ganho não deve ser repetido como se ainda estivesse por estabelecer.
+
+O Capítulo 10 começa depois disso.
+
+Já não se trata apenas de dizer que a ação atualiza o real.  
+Já não se trata apenas de dizer que trajetórias diferentes não são indiferentes.  
+Já não se trata apenas de dizer que há dano real.  
+Já não se trata apenas de impedir que todas as trajetórias sejam tratadas como equivalentes.
+
+Trata-se agora de perguntar o que se segue dessa não-indiferença.
+
+Se a ação atualiza o real, se nem toda a atualização é indiferente, se existe dano real e se o dano bloqueia a equivalência total, então começa a tornar-se inteligível uma orientação prática mínima.
+
+Mas essa orientação não pode entrar como moral pronta.
+
+Não se deve dizer: há dano, logo há imediatamente uma teoria completa do bem e do mal.
+
+Também não se deve dizer: há dano, logo há um dever-ser autónomo que passa a comandar a partir de fora.
+
+A passagem deve ser mais disciplinada.
+
+O Capítulo 10 abre quando o dano real e a não-indiferença das atualizações deixam de servir apenas para travar a equivalência total e começam a permitir uma derivação normativa curta.
+
+Essa derivação é curta porque não resolve tudo.
+
+Não resolve ainda responsabilidade.  
+Não resolve dignidade.  
+Não resolve vida boa.  
+Não resolve coordenação intersubjetiva.  
+Não resolve direito.  
+Não resolve política.  
+Não resolve instituição.  
+Não resolve sistema.
+
+Mas já permite dizer que a prática não é campo neutro onde qualquer atualização vale do mesmo modo.
+
+O que está em causa é a passagem mínima de:
+
+> nem tudo é indiferente
+
+para:
+
+> há uma direção prática derivada do modo como a ação se adequa ou desadequa ao real.
+
+---
+
+## 2. Não-indiferença real das atualizações
+
+A orientação prática só se torna inteligível porque nem toda a atualização é indiferente.
+
+Se todas as atualizações fossem equivalentes, nenhuma direção poderia ser derivada. Nada permitiria distinguir entre preservar e degradar, corrigir e agravar, abrir e bloquear, adequar e desadequar.
+
+Mas a ação não ocorre num vazio.
+
+A ação entra num campo real.  
+Atualiza relações reais.  
+Modifica condições reais.  
+Afeta possibilidades reais.  
+Produz consequências reais.
+
+Por isso, a não-indiferença das atualizações é o chão do capítulo.
+
+A ação não é apenas possível.
+
+Também é incidente.
+
+Ao incidir no real, produz efeitos que podem ser comparados, não por preferência subjetiva, mas pelo modo como atingem relações, condições, possibilidades e continuidades.
+
+Uma atualização pode conservar uma condição.  
+Outra pode degradá-la.  
+Uma pode corrigir uma desadequação.  
+Outra pode agravá-la.  
+Uma pode abrir uma possibilidade real.  
+Outra pode bloqueá-la.  
+Uma pode manter a continuidade de uma relação.  
+Outra pode quebrá-la.
+
+Esta diferença ainda não é moral pronta.
+
+É o chão real a partir do qual a moral autónoma fica bloqueada.
+
+A normatividade, se vier a entrar, não pode nascer do nada. Deve nascer deste ponto: há atualizações reais diferentes, com efeitos reais diferentes, e essas diferenças impedem a indiferença total.
+
+---
+
+## 3. Dano real
+
+O dano real é a forma negativa mínima da não-indiferença.
+
+Há dano quando uma atualização degrada, quebra, bloqueia, estreita ou rompe uma condição real de continuidade, relação ou possibilidade.
+
+Não é necessário, neste ponto, fazer teoria completa do mal.
+
+Basta reconhecer que o dano é real.
+
+Uma ação que preserva uma possibilidade e uma ação que a destrói não são equivalentes.  
+Uma ação que corrige uma desadequação e uma ação que a agrava não são equivalentes.  
+Uma ação que mantém uma condição real e uma ação que a quebra não são equivalentes.
+
+Esta não-equivalência não nasce de gosto subjetivo.
+
+Nasce do próprio modo como a atualização incide no real.
+
+O dano não é apenas aquilo de que alguém não gosta.  
+Não é apenas aquilo que um sistema condena.  
+Não é apenas aquilo que uma cultura nomeia como negativo.  
+Não é apenas aquilo que uma norma já codificou.
+
+O dano é uma alteração real que diminui, rompe ou degrada uma condição.
+
+Por isso, o dano tem função de ancoragem.
+
+Ele impede que a normatividade futura se solte no ar.
+
+A orientação prática não começa porque alguém declara um valor.  
+Começa porque a ação, ao atualizar o real, pode preservá-lo, corrigi-lo, degradá-lo ou destruí-lo em alguma das suas condições.
+
+É esta diferença que obriga o capítulo a avançar.
+
+O dano real não é ainda o mal em teoria plena.
+
+Mas sem dano real, a passagem para bem, mal e normatividade ficaria sem chão.
+
+---
+
+## 4. Direção prática mínima
+
+Se existe dano real, a ação pode orientar-se minimamente.
+
+Esta passagem deve ser formulada com cuidado.
+
+Não se trata de extrair uma moral completa do facto de haver dano.  
+Não se trata de transformar o dano em princípio soberano.  
+Não se trata de fazer da preservação uma doutrina total.  
+Não se trata de dizer que toda a mudança é suspeita ou que todo o estado existente deve ser mantido.
+
+A direção prática mínima é mais baixa.
+
+Ela indica apenas que, perante a possibilidade real de dano, há vetores mínimos de orientação do agir.
+
+Esses vetores são:
+
+- preservação;
+- correção;
+- não-degeneração.
+
+Preservar não significa conservar tudo.
+
+Significa não destruir condições reais que devem permanecer para que uma relação, possibilidade ou continuidade não seja danificada.
+
+Corrigir não significa impor uma forma ideal.
+
+Significa reinscrever uma ação, uma descrição ou uma solução na medida do real quando houve desadequação.
+
+Não-degenerar não significa impedir toda a transformação.
+
+Significa impedir que a atualização se converta em degradação, bloqueio ou rutura das condições que a tornam inteligível.
+
+Estes vetores não são ainda um código moral.
+
+São orientações mínimas derivadas da estrutura real da ação.
+
+Se uma ação pode danificar, então faz sentido orientar-se para não danificar quando a danificação rompe uma condição real relevante.
+
+Se uma ação pode agravar uma desadequação, então faz sentido orientar-se para corrigir a desadequação.
+
+Se uma ação pode degenerar uma relação ou possibilidade, então faz sentido orientar-se para impedir essa degeneração.
+
+Esta orientação não vem de fora do real.
+
+Vem do próprio facto de a ação ocorrer no real e produzir efeitos reais.
+
+A direção prática mínima é, por isso, a primeira forma positiva da não-indiferença.
+
+No Capítulo 9, bastava dizer que nem tudo vale do mesmo modo quando há dano real.
+
+No Capítulo 10, torna-se possível dizer mais:
+
+> se há dano real, então a ação já não é apenas não indiferente; ela deve ser pensada segundo vetores mínimos de preservação, correção e não-degeneração.
+
+Mas ainda não há aqui responsabilidade.
+
+Ainda não há dignidade.
+
+Ainda não há vida boa.
+
+Há apenas uma direção prática derivada do real do agir.
+
+---
+
+## 5. Tradução operativa em critérios e vetores situados
+
+A direção prática mínima ainda precisa de tradução operativa.
+
+Este é o lugar subordinado de `P43`.
+
+Não basta dizer que a ação deve orientar-se por preservação, correção e não-degeneração. É necessário mostrar que essa orientação só se torna prática quando é traduzida em critérios e vetores de ação situados.
+
+Isto impede dois erros.
+
+O primeiro erro seria deixar a direção prática em abstrato.
+
+Nesse caso, preservação, correção e não-degeneração seriam palavras gerais, sem incidência sobre situações reais.
+
+O segundo erro seria transformar esses vetores em código moral fixo.
+
+Nesse caso, a direção prática deixaria de responder ao campo real e passaria a impor uma forma pronta sobre situações diferentes.
+
+A tradução operativa evita ambos.
+
+Um critério prático situado pergunta:
+- que condição real está em causa?
+- que relação pode ser danificada?
+- que possibilidade está a ser preservada ou bloqueada?
+- que desadequação precisa de correção?
+- que forma de degeneração se iniciou ou pode iniciar-se?
+- que ação é realmente possível neste campo?
+
+Um vetor de ação situado não é uma regra universal aplicada cegamente.
+
+É uma orientação concreta dentro de campo, escala e limite.
+
+A preservação pode exigir manter.  
+Pode exigir interromper.  
+Pode exigir transformar.  
+Pode exigir proteger uma condição contra uma trajetória danosa.
+
+A correção pode exigir ajustar a descrição.  
+Pode exigir mudar a aplicação.  
+Pode exigir reconhecer que o problema foi mal situado.  
+Pode exigir abandonar uma solução que só era coerente internamente.
+
+A não-degeneração pode exigir travar uma rutura.  
+Pode exigir impedir que uma desadequação se estabilize.  
+Pode exigir conservar uma possibilidade real antes de ela se perder.
+
+Assim, `P43` não cria uma nova teoria.
+
+Também não substitui `P42`.
+
+A sua função é tornar operável aquilo que `P42` introduziu.
+
+A direção prática mínima só é verdadeira quando consegue descer ao campo em causa. Se não desce, fica abstrata. Se desce mal, torna-se moralismo, técnica cega ou aplicação indevida.
+
+Por isso, a passagem correta é:
+
+> dano real → direção prática mínima → tradução operativa situada.
+
+Só depois se pode dizer bem e mal com mais precisão.
+
+---
+
+## 6. Bem como adequação operativa
+
+Só depois da não-indiferença, do dano, da direção prática mínima e da sua tradução operativa situada pode entrar o bem.
+
+O bem não deve abrir o capítulo.
+
+Se abrisse, entraria como conceito abstrato, ideal moral exterior ou entidade já dada. Isso inverteria a ordem correta.
+
+Aqui, o bem deve ser dito apenas no seu sentido operativo.
+
+O bem é a adequação da atualização ao real.
+
+Isto não significa que o bem seja uma coisa separada.  
+Não significa que o bem seja um objeto acima do real.  
+Não significa que o bem seja um ideal moral que paira sobre a ação.  
+Não significa que o bem seja ainda vida boa.  
+Não significa que o bem seja dignidade.  
+Não significa que o bem seja perfeição subjetiva ou espiritual.
+
+Significa apenas isto:
+
+> uma atualização é boa, neste regime mínimo, quando se adequa operativamente ao real em que ocorre.
+
+Adequar-se ao real não é repetir o que já existe.
+
+Uma ação pode adequar-se ao real conservando uma condição que deve permanecer.  
+Pode adequar-se corrigindo uma desadequação.  
+Pode adequar-se impedindo uma degeneração.  
+Pode adequar-se abrindo uma possibilidade que o campo real permitia e exigia.  
+Pode adequar-se interrompendo uma trajetória danosa.
+
+A adequação não é passividade.
+
+É correspondência operativa entre a ação e o campo real em que ela incide.
+
+Uma ação boa, neste sentido, não é boa porque uma norma exterior a declara boa. É boa porque atualiza de modo adequado uma possibilidade real, respeitando condições, relações, limites e consequências.
+
+O bem, aqui, é inseparável do real.
+
+Se se desligar do real, torna-se abstração.
+
+Se se desligar do campo de possibilidades, torna-se fantasia.
+
+Se se desligar das consequências, torna-se intenção vazia.
+
+Se se desligar da situação, torna-se moral geral sem incidência.
+
+Por isso, o bem do Capítulo 10 não é ainda o bem como vida boa.
+
+É bem como adequação operativa da atualização ao real.
+
+Esta formulação deve permanecer estreita.
+
+Ela serve para derivar a normatividade.
+
+Não serve para encerrar uma ética.
+
+---
+
+## 7. Mal como desadequação, degeneração ou dano
+
+O mal também não deve entrar como entidade autónoma.
+
+Não é uma substância.  
+Não é uma força.  
+Não é um princípio metafísico separado.  
+Não é ainda culpa.  
+Não é ainda responsabilidade.  
+Não é ainda punição.  
+Não é ainda teoria moral completa.
+
+No regime deste capítulo, o mal é desadequação operativa.
+
+Uma atualização é má quando, no modo como incide no real, danifica, degenera, rompe ou bloqueia condições reais relevantes.
+
+O mal aparece como:
+- desadequação ao campo;
+- degradação de uma condição;
+- rutura de uma relação;
+- bloqueio de uma possibilidade;
+- agravamento de uma desordem;
+- estabilização de uma degeneração;
+- dano real produzido pela atualização.
+
+O mal não precisa de ser substancializado para ser real.
+
+Pelo contrário, quando é substancializado, corre-se o risco de o retirar do regime concreto da ação.
+
+O que interessa aqui não é perguntar se o mal existe como coisa.
+
+Interessa perguntar o que acontece quando uma atualização se desadequa ao real de tal modo que danifica, degenera ou rompe condições.
+
+Assim como o bem é adequação operativa, o mal é desadequação operativa.
+
+Esta simetria deve ser mantida com cuidado.
+
+O bem não é uma entidade acima do real.  
+O mal não é uma entidade contra o real.
+
+Ambos são nomes derivados do modo como a ação atualiza o real:
+- adequada ou desadequadamente;
+- preservando ou degradando;
+- corrigindo ou agravando;
+- abrindo possibilidade ou destruindo condição;
+- impedindo degeneração ou estabilizando-a.
+
+O mal, portanto, não entra no Capítulo 10 para moralizar a ação.
+
+Entra para dar nome à desadequação danosa da atualização.
+
+E esta nomeação é necessária porque o dano real já mostrou que nem toda a atualização é indiferente.
+
+Sem este passo, o capítulo ficaria preso ao mínimo negativo.
+
+Com este passo, torna-se possível dizer que a prática tem uma direção: não porque a moral mande de fora, mas porque o real do agir já distingue adequação e desadequação.
+
+---
+
+## 8. Normatividade derivada e não autónoma
+
+A partir daqui, pode entrar a normatividade.
+
+Mas deve entrar apenas como derivada.
+
+A normatividade não é autónoma.
+
+Não cria o real.  
+Não funda o dano.  
+Não inventa o bem.  
+Não inventa o mal.  
+Não paira sobre a ação.  
+Não se impõe como sistema exterior.  
+Não se autolegitima por coerência interna.
+
+A normatividade só se torna inteligível porque a ação já se mostrou não indiferente, porque há dano real, porque há direção prática mínima, porque essa direção exige tradução operativa situada, e porque bem e mal podem ser ditos como adequação e desadequação operativa.
+
+Se o bem é adequação ao real e o mal é desadequação danosa, então a orientação normativa não vem de uma ordem separada.
+
+Vem da própria estrutura da ação no real.
+
+Uma ação pode adequar-se ou desadequar-se.  
+Pode preservar ou degradar.  
+Pode corrigir ou agravar.  
+Pode impedir degeneração ou produzi-la.  
+Pode respeitar o campo real ou violentá-lo.  
+Pode reconhecer limites ou ignorá-los.
+
+A normatividade aparece quando estas diferenças deixam de ser apenas descrições neutras e passam a orientar o agir.
+
+Mas essa orientação continua subordinada ao real.
+
+A norma não é soberana.
+
+O que é soberano é o real a que a ação está submetida.
+
+Por isso, a normatividade do Capítulo 10 não deve ser entendida como moral exterior ao mundo.
+
+Deve ser entendida como explicitação da medida prática já inscrita no modo como a ação se atualiza no real.
+
+A normatividade não manda primeiro para que depois a ação se torne boa ou má.
+
+A ação atualiza o real de modos diferentes; alguns modos adequam-se, outros desadequam-se; alguns preservam, outros danificam; alguns corrigem, outros degeneram. A normatividade deriva dessa estrutura.
+
+Isto bloqueia duas posições erradas.
+
+A primeira é o indiferentismo: nada orienta, tudo vale, tudo é escolha, tudo é perspetiva.
+
+A segunda é o moralismo autónomo: a norma manda de fora, independentemente do real, do campo, do limite e do possível.
+
+O Capítulo 10 não aceita nenhuma das duas.
+
+Nem tudo é indiferente.
+
+Mas a normatividade também não é um reino separado.
+
+---
+
+## 9. Dever-ser como forma prática determinada da normatividade derivada
+
+Depois da normatividade derivada pode entrar o dever-ser.
+
+Também aqui a ordem é decisiva.
+
+O dever-ser não abre o capítulo.  
+Não antecede o dano.  
+Não antecede a direção prática mínima.  
+Não antecede a tradução operativa situada.  
+Não antecede o bem e o mal.  
+Não antecede a normatividade derivada.
+
+O dever-ser entra como forma prática determinada da normatividade do agir já derivada do real e da ação situada.
+
+Isto deve ser dito com rigor.
+
+Não se trata de afirmar que o dever-ser é extraído mecanicamente do ser.
+
+A simples descrição de um facto não basta, por si só, para produzir uma ordem normativa completa.
+
+Mas também não se pode tratar o dever-ser como completamente exterior ao ser.
+
+O dever-ser torna-se inteligível quando a ação, ocorrendo no real, pode adequar-se ou desadequar-se; quando a desadequação pode produzir dano; quando o dano bloqueia a indiferença; quando a direção prática mínima permite preservar, corrigir e impedir degenerações; quando essa direção é traduzida em critérios e vetores situados; e quando a normatividade já foi reconhecida como derivada e não autónoma.
+
+É neste ponto que se pode dizer:
+
+> o dever-ser exprime, em forma prática determinada, a normatividade do agir já derivada do real e da ação situada.
+
+O dever-ser não substitui o real.
+
+Responde ao real.
+
+Não manda a partir de um fora.
+
+Não funda a normatividade.
+
+Exprime-a no plano prático.
+
+Por isso, o dever-ser é operativo.
+
+Ele diz respeito ao modo como se deve agir perante um campo real determinado, com possibilidades, limites, relações e consequências.
+
+Não é dever-ser abstrato.  
+Não é dever-ser sem mundo.  
+Não é dever-ser sem campo.  
+Não é dever-ser sem dano.  
+Não é dever-ser sem poder-ser.  
+Não é dever-ser sem ação.
+
+O dever-ser do Capítulo 10 permanece baixo.
+
+Diz apenas que, se a ação se submete ao real, então não pode orientar-se indiferentemente perante aquilo que preserva ou danifica as condições reais em causa.
+
+Daí deriva a sua força mínima.
+
+Uma ação deve preservar quando a destruição da condição real seria dano.  
+Deve corrigir quando a desadequação agrava o erro prático.  
+Deve impedir degeneração quando a atualização conduz à rutura de uma possibilidade real relevante.
+
+Mas estas formulações ainda não são código.
+
+São a forma mínima da orientação prática determinada.
+
+A responsabilidade por esse dever-ser fica para depois.
+
+A dignidade que poderá ser implicada por ele fica para depois.
+
+A vida boa que poderá integrar esse regime fica para depois.
+
+Aqui fica apenas a determinação prática:
+
+> a normatividade derivada assume forma de dever-ser quando se torna orientação determinada do agir perante o real.
+
+---
+
+## 10. O limite do poder-ser real
+
+O dever-ser só permanece fiel ao real se for limitado pelo poder-ser real.
+
+Este é o fecho terminal do Capítulo 10.
+
+Não deve entrar antes.
+
+Se entrasse cedo, o capítulo abriria pelo limite e não pela derivação.  
+Se comandasse o corpo do capítulo, impediria a passagem por dano, direção, bem, mal e normatividade.  
+Se fosse tratado como critério único, poderia transformar-se numa teoria geral do possível.
+
+A sua função é mais precisa.
+
+O poder-ser real impede o dever impossível.
+
+Nenhuma orientação prática pode exigir aquilo que o real não permite atualizar.
+
+Isto não enfraquece o dever-ser.
+
+Purifica-o.
+
+Um dever-ser que exige o impossível deixa de estar submetido ao real. Transforma-se em moralismo, acusação, fantasia, abstração ou violência normativa.
+
+O dever-ser só é legítimo se disser respeito a uma atualização possível.
+
+A ação ocorre no campo do atualizável.
+
+Não ocorre no campo ilimitado do imaginável.  
+Não ocorre no campo ilimitado do desejável.  
+Não ocorre no campo ilimitado do idealizado.  
+Não ocorre no campo ilimitado do moralmente proclamado.
+
+Por isso, a normatividade derivada tem de terminar no poder-ser real.
+
+Pode haver uma direção prática mínima.  
+Pode haver critérios e vetores de ação situados.  
+Pode haver bem como adequação.  
+Pode haver mal como desadequação.  
+Pode haver normatividade derivada.  
+Pode haver dever-ser como forma prática determinada dessa normatividade.
+
+Mas esse dever-ser não pode exigir uma atualização que o real não suporta.
+
+O possível real é o limite terminal da normatividade.
+
+Não é desculpa para inação.  
+Não é relativização de tudo.  
+Não é permissividade.  
+Não é recuo perante qualquer dificuldade.
+
+É apenas a condição de realidade da exigência prática.
+
+Aquilo que deve ser só pode ser exigido enquanto puder ser, segundo o campo real em causa.
+
+Esta fórmula não encerra a ética.
+
+Mas impede que a normatividade se torne falsa.
+
+---
+
+## 11. Entrega ao Capítulo 11
+
+O Capítulo 10 termina antes da responsabilidade.
+
+Este ponto deve ficar claro.
+
+O capítulo mostrou que:
+- nem toda a atualização é indiferente;
+- há dano real;
+- o dano permite uma direção prática mínima;
+- essa direção se exprime em preservação, correção e não-degeneração;
+- essa direção precisa de tradução operativa em critérios e vetores situados;
+- o bem pode ser dito como adequação operativa;
+- o mal pode ser dito como desadequação, degeneração ou dano;
+- a normatividade não é autónoma;
+- o dever-ser exprime em forma prática determinada a normatividade já derivada;
+- o dever-ser é limitado pelo poder-ser real.
+
+Mas ainda não mostrou quem responde por isso.
+
+Ainda não tratou:
+- responsabilidade;
+- culpa;
+- imputação;
+- dignidade;
+- vida boa;
+- prudência;
+- educação;
+- formação do agente;
+- coordenação intersubjetiva;
+- direito;
+- política;
+- instituição;
+- sistema.
+
+Essas zonas não são defeitos deste capítulo.
+
+São capítulos posteriores.
+
+O Capítulo 10 entrega ao Capítulo 11 um problema já preparado:
+
+> se há normatividade derivada do real do agir, então importa perguntar como o ser reflexivo responde por ela.
+
+Mas esta pergunta não deve ser respondida aqui.
+
+O Capítulo 10 não deve fechar com uma teoria da responsabilidade.
+
+Deve fechar com uma derivação suficientemente estabilizada para que a responsabilidade possa começar no capítulo seguinte sem ser arbitrária.
+
+A passagem correta é esta:
+
+> depois de derivada a normatividade do real do agir, abre-se a pergunta por quem responde a essa normatividade, em que termos e com que forma de vida; mas essa pergunta já pertence ao Capítulo 11.
+
+---
+
+## 12. Travão contra salto para coordenação, direito, política ou sistema
+
+A normatividade derivada ainda não é normatividade social sedimentada.
+
+Este travão é necessário.
+
+A palavra “normatividade” pode chamar imediatamente:
+- regra comum;
+- expectativa intersubjetiva;
+- coordenação;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+Mas essa subida ainda não está autorizada.
+
+No Capítulo 10, a normatividade permanece no plano do agir.
+
+Trata-se de mostrar que a ação, por poder adequar-se ou desadequar-se ao real, pode ser orientada por direção prática mínima, critérios situados e dever-ser derivado.
+
+Ainda não se trata de mostrar como vários seres reflexivos coordenam expectativas.
+
+Ainda não se trata de mostrar como uma regra comum se estabiliza.
+
+Ainda não se trata de mostrar como o direito positiva uma descrição do real.
+
+Ainda não se trata de mostrar como uma instituição conserva ou deforma uma normatividade.
+
+Ainda não se trata de mostrar como um sistema se fecha sobre si.
+
+Essas questões são posteriores.
+
+Se entrassem aqui, o capítulo mudaria de escala.
+
+A normatividade derivada do agir seria confundida com normatividade social, jurídica ou institucional.
+
+Esse erro destruiria a sequência.
+
+O Capítulo 10 deve, por isso, terminar com dupla contenção:
+
+1. entrega ao Capítulo 11 da pergunta pela responsabilidade, dignidade e vida boa;
+2. bloqueio da passagem direta para coordenação, direito, política e sistema.
+
+A derivação normativa fica feita.
+
+A sua resposta pelo ser reflexivo fica para o capítulo seguinte.
+
+A sua sedimentação intersubjetiva, institucional ou sistémica fica para capítulos posteriores.
+
+---
+
+## III. Fecho de controlo pós-confronto
+
+### centro preservado
+
+Esta versão preserva o centro do capítulo:
+
+> reinscrição normativa do agir no real.
+
+### ordem respeitada
+
+A versão respeita a ordem pós-confronto:
+
+> `P39/P40/P42/P43 → P44/P45 → P46/P47 → P48 terminal`.
+
+### correções pós-confronto integradas
+
+Foram integradas as seguintes correções:
+
+1. o Capítulo 9 foi recebido sem ser repetido;
+2. `P39/P40` foram mantidos como chão de não-indiferença e dano;
+3. `P42` foi formulado como direção prática mínima;
+4. `P43` foi integrado como tradução operativa em critérios e vetores situados;
+5. `P44` foi mantido como bem enquanto adequação operativa;
+6. `P45` foi mantido como mal enquanto desadequação, degeneração ou dano;
+7. `P46` foi formulado como normatividade derivada e não autónoma;
+8. `P47` foi afinado como forma prática determinada da normatividade já derivada;
+9. `P48` foi mantido apenas como terminal, limitando a exigência prática ao possível real;
+10. a fronteira com o Capítulo 11 foi reforçada;
+11. a passagem direta para Capítulo 12, direito, política e sistema foi bloqueada.
+
+### travões respeitados
+
+Foram respeitados os seguintes travões:
+- não abrir por moral;
+- não abrir por bem ou mal em abstrato;
+- não abrir por dever-ser;
+- não abrir por normatividade autónoma;
+- não transformar dano em teoria completa do mal;
+- não transformar preservação em ética conservadora;
+- não transformar `P43` em código moral;
+- não transformar bem em vida boa;
+- não transformar mal em culpa;
+- não transformar normatividade em direito;
+- não antecipar responsabilidade;
+- não antecipar dignidade;
+- não antecipar coordenação intersubjetiva;
+- não antecipar política, instituição ou sistema;
+- não deixar `P48` entrar antes do terminal.
+
+### fragilidade remanescente
+
+A versão ainda deixa zonas que precisarão de confronto posterior:
+- a passagem de dano real para direção prática mínima;
+- a formulação de preservação, correção e não-degeneração sem programa moral;
+- a tradução operativa de `P43` sem queda em código;
+- a definição de bem como adequação operativa;
+- a definição de mal como desadequação, degeneração ou dano;
+- a passagem de bem/mal para normatividade derivada;
+- a passagem de normatividade para dever-ser sem salto moral;
+- a interrupção antes do Capítulo 11;
+- a contenção antes de coordenação, direito, política e sistema.
+
+Essas fragilidades não invalidam a versão.
+
+Confirmam apenas que o capítulo deve permanecer sob vigilância de sobreposição.
+
+### fórmula final da versão pós-confronto
+
+> O Capítulo 10 recebe do Capítulo 9 a ação situada, a não-indiferença e o dano real; abre a direção prática mínima por preservação, correção e não-degeneração; traduz essa direção em critérios e vetores situados; diz o bem como adequação operativa e o mal como desadequação, degeneração ou dano; deriva a normatividade sem a autonomizar; determina o dever-ser como forma prática dessa normatividade já derivada; subordina a exigência prática ao poder-ser real; e termina antes de responsabilidade, dignidade, vida boa, coordenação, direito, política ou sistema.
+
+<a id="cap-10-dano-bem-mal-normatividade-derivada-07-escrita-final-preparada-com-critica-acompanhante-md"></a>
+### 07_escrita_final_preparada_com_critica_acompanhante
+
+**Ficheiro de origem:** `CAP_10_dano_bem_mal_normatividade_derivada/07_escrita_final_preparada_com_critica_acompanhante.md`
+
+# 07_escrita_final_preparada_com_critica_acompanhante
+
+## Capítulo 10 — Dano, bem, mal e normatividade derivada
+
+## I. Estatuto deste ficheiro
+
+### função
+
+Este ficheiro prepara a escrita final do **Capítulo 10 — Dano, bem, mal e normatividade derivada**.
+
+Não é ainda a redação final publicada do capítulo. A sua função é converter o ganho do `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10.md` numa forma mais próxima de capítulo final, integrando no próprio movimento expositivo a crítica acompanhante necessária.
+
+O capítulo deve continuar a dizer primeiro o seu centro positivo: **a reinscrição normativa do agir no real**. Só depois deve mostrar que falsos modos de dizer dano, bem, mal, normatividade e dever-ser ficam bloqueados, que pressupostos errados os sustentam, e como cada um deve ser reinscrito no real do agir.
+
+A pergunta que governa este ficheiro é:
+
+> como escrever o Capítulo 10 de modo a dizer positivamente dano, bem, mal e normatividade derivada a partir do real do agir, e, ao mesmo tempo, mostrar que posições ficam bloqueadas, porquê, com que pressupostos errados, e como são reinscritas no real?
+
+O `07` não aumenta artificialmente o capítulo. O Capítulo 10 tem massa positiva suficiente, mas essa suficiência depende de uma ordem rígida: dano e direção prática antes de bem e mal; bem e mal apenas como adequação e desadequação operativa; normatividade apenas derivada; dever-ser apenas subordinado ao real; `P48` apenas terminal; responsabilidade, dignidade, vida boa, direito, política e sistema ainda fora.
+
+A regra de fundo permanece ativa: **os fragmentos validam a estrutura, não a estrutura os fragmentos**. Por isso, nenhum fragmento com afinidade verbal com bem, mal, valor, dever, dano, preservação ou possibilidade pode comandar o capítulo. Os materiais fragmentários do Capítulo 10 só entram como confirmação subordinada do corredor já decidido, como densificação pontual de uma passagem ou como travão contra falso centro. Não entram por afinidade verbal. Não abrem o Capítulo 11 dentro do Capítulo 10.
+
+### limite
+
+Este ficheiro não pode:
+
+- reabrir o centro do Capítulo 10;
+- transformar o capítulo em teoria moral completa;
+- transformar o capítulo em teoria geral do bem;
+- transformar o capítulo em teoria geral do mal;
+- transformar o capítulo em metafísica do valor;
+- abrir responsabilidade, dignidade ou vida boa como centros;
+- abrir direito, instituição, política ou sistema;
+- transformar dano em mal moral pronto;
+- transformar o mínimo normativo em sistema moral;
+- reabrir o Capítulo 9 como ação e liberdade situada;
+- reabrir o Capítulo 7 como verdade, erro, critério e correção;
+- abrir crítica social, cultural, institucional ou sistémica;
+- transformar crítica em cabeça;
+- fazer de autores o eixo do capítulo.
+
+O capítulo continua a ser baixo no seu regime prático. Não decide ainda a responsabilidade do agente, a dignidade do ser reflexivo, a vida boa prudencial, a coordenação intersubjetiva, o direito, a instituição, a política, a cultura ou a crítica sistémica. O seu lugar é mais estreito: mostrar como, a partir do dano real e da não-indiferença das trajetórias, bem, mal, normatividade e dever-ser se tornam inteligíveis apenas enquanto derivados do real do agir.
+
+### relação com o 06
+
+O `06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10.md` fixou o capítulo como estruturalmente suficiente, mas dependente de ordem rígida.
+
+A versão pós-confronto afinou quatro pontos decisivos:
+
+1. `P43` passou a aparecer como tradução operativa situada da direção prática;
+2. `P47` deixou de soar como salto simples do ser para o dever-ser;
+3. `P48` ficou apenas como limite terminal do poder-ser real;
+4. a fronteira superior com responsabilidade, dignidade, vida boa, coordenação, direito, política e sistema foi reforçada.
+
+O `07` não reabre essa decisão. Não altera o centro. Não muda a cadeia. Não substitui a sequência do `06` por outra tese. Apenas prepara a forma final de escrita, integrando melhor a crítica acompanhante e a fronteira superior com o Capítulo 11.
+
+### regra da crítica acompanhante
+
+A regra da crítica acompanhante é:
+
+> crítica suficiente para proteger o positivo; nunca crítica bastante para substituir o positivo.
+
+O capítulo deve dizer primeiro o que é. Só depois deve mostrar o que esse passo impede.
+
+A forma recorrente deve ser:
+
+1. dizer positivamente o dano, a direção prática, o bem, o mal, a normatividade derivada e o dever-ser subordinado;
+2. indicar o falso modo de dizer cada um desses passos;
+3. identificar a posição-tipo que pensa mal esse ponto;
+4. mostrar o pressuposto errado dessa posição;
+5. reinscrever a formulação no real.
+
+A crítica não deve tornar o capítulo polémico. Não deve ridicularizar posições. Não deve fazer história da filosofia desenvolvida. Deve incidir sobre operações de substituição do real.
+
+### regra de fronteira superior
+
+A regra de fronteira superior é:
+
+> o Capítulo 10 deve terminar precisamente antes de responsabilidade, dignidade e vida boa começarem a exigir corpo próprio.
+
+Responsabilidade, dignidade e vida boa não são erros. São camadas posteriores. Tornam-se erro apenas quando entram cedo demais e ocupam o lugar da derivação normativa baixa que pertence ao Capítulo 10.
+
+---
+
+## II. Esquema inicial de escrita crítica integrada
+
+### 1. Centro positivo
+
+O centro positivo do Capítulo 10 é:
+
+> reinscrição normativa do agir no real.
+
+Ou, em formulação mais desenvolvida:
+
+> dano real, bem/mal operativos e normatividade derivada como consequências do agir situado sob limite do possível real.
+
+Isto significa que o capítulo não abre por moral, norma, dever, bem abstrato ou mal substancial. Abre pelo real do agir: uma atualização situada pode produzir dano; se pode produzir dano, as trajetórias deixam de ser equivalentes; dessa não-equivalência nasce uma direção prática mínima; só depois se tornam inteligíveis bem, mal, normatividade e dever-ser.
+
+### 2. Cadeia positiva
+
+A cadeia positiva a preservar é:
+
+> herança do Capítulo 9 → dano real → direção prática mínima (`P42`) → preservação / não-degradação / correção de trajetória (`P43`) → bem como adequação operativa (`P44`) → mal como desadequação, degeneração ou dano (`P45`) → normatividade não autónoma (`P46`) → dever-ser como subordinação operativa ao real (`P47`) → poder-ser real como limite terminal (`P48`) → entrega ao Capítulo 11.
+
+Esta cadeia não pode ser invertida.
+
+Não se começa por bem. Começa-se pelo dano real. Não se começa por mal. Começa-se pela desadequação danosa da atualização. Não se começa por norma. Começa-se pela não-indiferença das trajetórias. Não se começa por dever. Começa-se pela subordinação operativa do agir ao real. Não se começa por possível real. `P48` fecha, não abre. Não se começa por responsabilidade ou dignidade. Essas camadas recebem o ganho do Capítulo 10 no Capítulo 11.
+
+### 3. Fórmula axial do capítulo
+
+**Ser no real:** dano real, bem/mal operativos e normatividade derivada como determinações práticas do agir situado no real.
+
+**Dizer do ser:** moral pronta, bem como entidade, mal como substância, norma autónoma, dever soberano, valor separado, dano moralizado, possível real como sistema normativo total.
+
+**Erro da proposição não real:** separar a normatividade do real do agir, tratar bem e mal como entidades anteriores ao dano e à adequação, autonomizar o dever-ser ou subir cedo demais para responsabilidade, dignidade, direito, política ou sistema.
+
+**Reinscrição no real:** bem como adequação operativa da atualização ao real; mal como desadequação, dano ou degeneração; normatividade como derivada; dever-ser como subordinação operativa ao real e ao poder-ser real.
+
+### 4. Pontos de crítica acompanhante
+
+#### Ponto crítico 1 — herança do Capítulo 9
+
+- **passo positivo:** o Capítulo 10 recebe do Capítulo 9 a ação situada, a liberdade situada, a não-indiferença entre trajetórias, o dano possível, o mínimo negativo objetivo e o limite terminal do possível real.
+- **posição-tipo bloqueada:** repetição do Capítulo 9 como se ação e liberdade ainda fossem o centro.
+- **acerto local da posição:** vê corretamente que o Capítulo 10 depende do agir situado.
+- **deslocação:** transforma dependência em reabertura.
+- **pressuposto errado:** supõe que a derivação normativa só pode ser compreendida se se repetir a teoria da ação.
+- **crítica curta:** o Capítulo 10 não volta a fundar a ação; recebe-a como chão.
+- **reinscrição:** a herança do Capítulo 9 serve apenas para abrir o problema da direção prática derivada.
+
+#### Ponto crítico 2 — dano real
+
+- **passo positivo:** dano é degradação real de condições de existência, relação, continuidade ou possibilidade.
+- **posição-tipo bloqueada:** dano como mal moral imediato.
+- **acerto local da posição:** vê corretamente que o dano conta para a orientação prática.
+- **deslocação:** salta do dano para culpa, pecado, injustiça pronta ou teoria moral completa.
+- **pressuposto errado:** supõe que todo dano já está normativamente codificado.
+- **crítica curta:** o dano entra primeiro como facto prático-real, não como categoria moral pronta.
+- **reinscrição:** dano real é a ancoragem negativa mínima que impede a equivalência total das trajetórias.
+
+#### Ponto crítico 3 — direção prática mínima (`P42`)
+
+- **passo positivo:** se há dano real, a ação já não pode ser pensada como totalmente indiferente; surge uma direção prática mínima: evitar, conter ou corrigir degradações reais.
+- **posição-tipo bloqueada:** moral pronta ou princípio normativo completo derivado imediatamente do dano.
+- **acerto local da posição:** vê corretamente que o dano orienta.
+- **deslocação:** transforma orientação mínima em moral total.
+- **pressuposto errado:** supõe que qualquer orientação prática já é sistema normativo completo.
+- **crítica curta:** a direção prática mínima não é código moral.
+- **reinscrição:** a direção mínima é consequência baixa do dano real e da não-indiferença das atualizações.
+
+#### Ponto crítico 4 — preservação / não-degradação / correção de trajetória (`P43`)
+
+- **passo positivo:** a orientação prática mínima traduz-se em preservação de condições reais, não-degradação de relações e correção de trajetórias desadequadas.
+- **posição-tipo bloqueada:** preservação como moral conservadora ou homeostasia moral.
+- **acerto local da posição:** vê corretamente que há condições que devem permanecer para que a ação não destrua o seu campo.
+- **deslocação:** confunde preservação de condições reais com conservação de tudo o que existe.
+- **pressuposto errado:** supõe que preservar é repetir o existente.
+- **crítica curta:** preservar condições reais pode exigir manter, transformar, interromper ou corrigir.
+- **reinscrição:** `P43` é tradução operativa situada da direção prática, não programa moral nem conformismo.
+
+#### Ponto crítico 5 — bem como adequação operativa (`P44`)
+
+- **passo positivo:** bem é adequação operativa da atualização ao real.
+- **posição-tipo bloqueada:** bem como entidade metafísica, ideal exterior, valor autónomo ou maximização abstrata.
+- **acerto local da posição:** vê corretamente que o bem orienta a ação para algo que não é indiferente.
+- **deslocação:** separa o bem do campo real, do dano, da adequação e do possível.
+- **pressuposto errado:** supõe que o bem vale antes de qualquer inscrição no real.
+- **crítica curta:** o bem do Capítulo 10 não é coisa, ideal nem vida boa.
+- **reinscrição:** bem é atualização adequada que preserva, corrige ou aumenta condições reais de continuidade, relação e possibilidade.
+
+#### Ponto crítico 6 — mal como desadequação, degeneração ou dano (`P45`)
+
+- **passo positivo:** mal é desadequação operativa da atualização ao real quando produz dano, degradação ou degeneração de condições reais.
+- **posição-tipo bloqueada:** mal como substância, força, culpa originária, pecado ou entidade negativa.
+- **acerto local da posição:** vê corretamente que há atualizações destrutivas e degradantes.
+- **deslocação:** retira o mal do regime concreto da ação e transforma-o em entidade ou princípio.
+- **pressuposto errado:** supõe que o mal só é real se for substancializado.
+- **crítica curta:** o mal não precisa de ser coisa para ser real.
+- **reinscrição:** mal é nome derivado da desadequação danosa da atualização.
+
+#### Ponto crítico 7 — normatividade não autónoma (`P46`)
+
+- **passo positivo:** a normatividade nasce da estrutura real do agir, da possibilidade de dano, da diferença entre adequação e desadequação, e da necessidade de preservar condições reais de possibilidade.
+- **posição-tipo bloqueada:** normatividade autónoma.
+- **acerto local da posição:** vê corretamente que a ação exige orientação.
+- **deslocação:** transforma orientação derivada em ordem separada do real.
+- **pressuposto errado:** supõe que a norma só é norma se se fundar a si mesma.
+- **crítica curta:** a norma não cria o real; responde ao real.
+- **reinscrição:** normatividade é explicitação derivada da medida prática já inscrita no modo como a ação se adequa ou desadequa ao real.
+
+#### Ponto crítico 8 — dever-ser como subordinação operativa ao real (`P47`)
+
+- **passo positivo:** o dever-ser é a forma operativa pela qual a ação se subordina ao que o real exige, permite e limita.
+- **posição-tipo bloqueada:** dever-ser soberano.
+- **acerto local da posição:** vê corretamente que a normatividade assume forma exigente.
+- **deslocação:** faz dessa exigência um comando exterior ao real.
+- **pressuposto errado:** supõe que o dever ganha força por independência face ao ser e ao poder-ser.
+- **crítica curta:** dever sem real torna-se abstração, fantasia ou violência normativa.
+- **reinscrição:** o dever-ser exprime de modo determinado a normatividade já derivada do real do agir.
+
+#### Ponto crítico 9 — poder-ser real como limite terminal (`P48`)
+
+- **passo positivo:** nenhum dever-ser pode exigir o que o real não permite; o dever-ser é subordinado ao poder-ser real.
+- **posição-tipo bloqueada:** possível real como sistema normativo completo.
+- **acerto local da posição:** vê corretamente que o dever-ser tem limite.
+- **deslocação:** transforma o limite em fundamento total ou teoria geral do possível.
+- **pressuposto errado:** supõe que limitar o dever pelo possível basta para deduzir toda a normatividade.
+- **crítica curta:** `P48` fecha a derivação; não a substitui.
+- **reinscrição:** o poder-ser real é limite terminal da exigência prática, não cabeça normativa.
+
+#### Ponto crítico 10 — entrega ao Capítulo 11
+
+- **passo positivo:** depois de dano, bem/mal operativos, normatividade derivada e dever-ser subordinado, abre-se a pergunta por quem responde por essa orientação prática.
+- **posição-tipo bloqueada:** responsabilidade, dignidade, vida boa, direito, política ou sistema como cabeça do Capítulo 10.
+- **acerto local da posição:** vê corretamente que a derivação normativa prepara camadas superiores.
+- **deslocação:** transforma preparação em abertura imediata.
+- **pressuposto errado:** supõe que uma vez dita a normatividade, todo o edifício ético, jurídico e político deve entrar de imediato.
+- **crítica curta:** o Capítulo 10 prepara o Capítulo 11; não o ocupa.
+- **reinscrição:** a entrega correta é a pergunta pelo estatuto do ser reflexivo que responde pela atualização e pela orientação prática.
+
+### 5. Posições-tipo bloqueadas
+
+O Capítulo 10 bloqueia, de forma curta e funcional, as seguintes posições-tipo:
+
+1. **moral pronta:** bem, mal, dever e norma são tratados como categorias já dadas;
+2. **normatividade autónoma:** a norma é pensada como ordem separada do real;
+3. **dever-ser soberano:** o dever manda independentemente do que é e do que pode ser;
+4. **bem como entidade metafísica:** o bem é tratado como coisa, ideal ou valor autoportante;
+5. **mal como substância:** o mal é tratado como entidade, força ou princípio oposto ao bem;
+6. **dano como mal moral imediato:** todo dano é convertido diretamente em culpa ou injustiça pronta;
+7. **preservação como moral conservadora:** preservar condições reais é confundido com conservar o existente;
+8. **bem como maximização abstrata:** o bem é reduzido a maximização de utilidade, felicidade, prazer, eficiência ou resultado;
+9. **mal como mera consequência desagradável:** o mal é reduzido a sofrimento, desconforto ou resultado indesejado;
+10. **relativismo moral:** a não autonomia da norma é confundida com preferência arbitrária;
+11. **moralismo extrínseco:** uma ordem moral exterior avalia a ação sem depender da descrição do real;
+12. **possível real como sistema normativo completo:** `P48` é convertido em teoria total do dever;
+13. **responsabilidade antecipada:** dano, bem, mal e dever-ser chamam imediatamente imputação;
+14. **dignidade antecipada:** a normatividade derivada é fundada prematuramente na dignidade;
+15. **direito, política ou sistema como cabeça:** dano e normatividade são imediatamente tratados por lei, instituição, mercado, Estado ou sistema social.
+
+### 6. Posições parcialmente verdadeiras mas deslocadas
+
+O capítulo deve ser justo. Cada posição vê algo real, mas desloca esse acerto quando o torna cabeça ou fundamento autónomo.
+
+As posições morais tradicionais veem corretamente que há bem, mal e dever. Erram quando tratam esses termos como dados antes da derivação pelo real do agir.
+
+As posições normativistas veem corretamente que a ação exige orientação. Erram quando autonomizam a norma e a fazem pairar sobre o campo real.
+
+As posições deontológicas veem corretamente que há exigência prática. Erram quando separam o dever do ser, do dano, da adequação e do poder-ser real.
+
+As posições consequencialistas veem corretamente que as ações produzem efeitos. Erram quando reduzem bem e mal a resultado, cálculo ou maximização abstrata.
+
+As posições utilitaristas veem corretamente que consequências contam. Erram quando confundem utilidade com adequação operativa ao real.
+
+As posições relativistas veem corretamente que o agir ocorre em contextos. Erram quando fazem do contexto a medida última, esquecendo que o real do dano, da degradação e da possibilidade resiste às preferências locais.
+
+As posições moralistas veem corretamente que o dano conta. Erram quando saltam do dano para culpa, pecado, mal moral pronto ou condenação exterior.
+
+As posições jurídicas ou políticas veem corretamente que dano e normatividade pedem coordenação. Erram quando antecipam instituição, direito ou política antes de responsabilidade, dignidade, vida boa e coordenação intersubjetiva terem corpo próprio.
+
+As posições da dignidade veem corretamente que o humano reflexivo terá estatuto próprio no regime prático. Erram quando fazem da dignidade a cabeça do Capítulo 10, antes da pergunta por quem responde estar aberta.
+
+### 7. Autores/tradições admissíveis
+
+Autores e tradições não entram como eixo do capítulo.
+
+O capítulo não começa por “Aristóteles diz”, “Kant diz”, “Mill diz”, “Nietzsche diz”, “Hegel diz”, “Rawls diz”, “a ética diz”, “a moral cristã diz”, “o utilitarismo diz”, “a deontologia diz”.
+
+Se autores ou tradições forem mencionados, só podem aparecer como localização curta de uma posição-tipo, proteção contra simplificação ou remissão posterior. A forma admissível é genérica:
+
+> Esta posição-tipo aparece, com variações internas importantes, em tradições que fazem do bem, do mal, do dever, da utilidade, da virtude, da norma ou da dignidade o ponto de partida da ética. O que importa aqui não é a diferença interna entre essas tradições, mas o pressuposto comum que o capítulo bloqueia: tratar como origem aquilo que, neste percurso, só pode ser derivado da estrutura real do agir.
+
+A crítica incide sobre operações de substituição do real, não sobre autores.
+
+### 8. Economia de notas
+
+As notas de rodapé, se forem usadas, só podem:
+
+- localizar uma tradição;
+- indicar que uma posição-tipo tem variações internas;
+- proteger contra simplificação;
+- remeter para crítica posterior.
+
+As notas não podem:
+
+- carregar o argumento principal;
+- substituir a crítica no corpo do texto;
+- transformar o capítulo em história da filosofia;
+- criar um segundo livro dentro do livro.
+
+Se algo for necessário para compreender o argumento, deve ficar no corpo do texto.
+
+Nesta versão preparada, a opção preferencial é não usar notas. A secura do capítulo é parte da sua disciplina.
+
+### 9. Travões obrigatórios
+
+O Capítulo 10 deve obedecer aos seguintes travões:
+
+- não regressar ao Capítulo 9 como centro;
+- não regressar ao Capítulo 7 como centro;
+- não abrir por moral pronta;
+- não abrir por bem abstrato;
+- não abrir por mal abstrato;
+- não transformar dano em culpa;
+- não transformar preservação em conservadorismo;
+- não transformar bem em ideal exterior;
+- não transformar mal em entidade;
+- não transformar normatividade em ordem autónoma;
+- não transformar dever-ser em comando soberano;
+- não transformar poder-ser real em teoria normativa completa;
+- não abrir responsabilidade;
+- não abrir dignidade;
+- não abrir vida boa;
+- não abrir direito, política, cultura, instituição ou sistema;
+- não abrir crítica sistémica tardia.
+
+---
+
+## III. Texto de escrita integrada
+
+### 1. Entrada: o ser em causa
+
+O Capítulo 10 não pergunta simplesmente “o que é o bem?”, “o que é o mal?”, “o que é a moral?” ou “o que devo fazer?”.
+
+Essas perguntas são demasiado altas para a entrada do capítulo. Se o capítulo começasse por elas, aceitaria como ponto de partida aquilo que ainda tem de derivar. Faria de bem, mal, norma ou dever-ser categorias prontas. O seu centro deslocar-se-ia da ação situada para uma moral já constituída.
+
+A pergunta própria do Capítulo 10 é mais baixa:
+
+> que se segue, no real, quando a ação situada pode produzir dano e quando as trajetórias deixam de ser equivalentes?
+
+A resposta mínima é:
+
+> surge uma direção prática derivada: evitar, conter ou corrigir degradações reais.
+
+Esta resposta ainda não é ética completa. Ainda não é teoria do bem. Ainda não é teoria do mal. Ainda não é responsabilidade, dignidade ou vida boa. É apenas o ponto em que a não-indiferença real das trajetórias deixa de ser travão negativo e começa a permitir uma orientação prática mínima.
+
+A crítica acompanha este ponto. Fica bloqueada a posição que abre por moral pronta, como se bem, mal, dever e norma fossem categorias disponíveis antes do dano real e antes da estrutura do agir. Essa posição vê corretamente que a prática exige orientação, mas desloca-se quando faz da orientação uma cabeça soberana. O pressuposto errado é pensar que a moral só é forte se anteceder o real. A reinscrição é inversa: a orientação prática só ganha força se nascer do real que a ação atualiza, preserva, corrige ou degrada.
+
+### 2. Herança do Capítulo 9
+
+O Capítulo 10 pressupõe o ganho do Capítulo 9.
+
+O Capítulo 9 fixou que agir é atualizar algo no real por um ser situado, em campo, sob limite e com consequências. Fixou a liberdade como liberdade situada. Fixou que trajetórias diferentes produzem diferenças reais. Fixou que algumas atualizações podem degradar condições reais de existência, relação, continuidade ou possibilidade. Fixou ainda que, se há dano real, a equivalência total entre trajetórias fica bloqueada.
+
+Esse ganho não deve ser repetido como se estivesse por estabelecer.
+
+O Capítulo 10 não reabre a teoria da ação. Não reabre a liberdade situada. Não reabre a disciplina crítica do agir. Não reabre o possível real como limite terminal da ação. Recebe tudo isso como chão.
+
+A tarefa agora é outra: perguntar como, a partir desse chão, se pode derivar uma orientação normativa sem fazer da normatividade uma ordem autónoma.
+
+Fica, por isso, bloqueada a posição que transforma o Capítulo 10 numa continuação do Capítulo 9. Essa posição acerta ao ver que normatividade deriva do agir, mas erra quando não deixa o capítulo avançar para o seu objeto próprio. O pressuposto errado é pensar que receber o agir exige repetir a teoria da ação. A reinscrição correta é simples: o Capítulo 10 começa quando a ação situada já está suficientemente fixada para que o dano real exija direção prática.
+
+### 3. Dano real
+
+O ponto de entrada próprio do Capítulo 10 é o dano real.
+
+Dano é degradação real de condições de existência, relação, continuidade ou possibilidade.
+
+Esta formulação deve permanecer seca. Dano não é primeiro culpa. Não é primeiro pecado. Não é primeiro injustiça pronta. Não é primeiro violação de dever já codificado. Também não é mera sensação desagradável, desconforto subjetivo ou resultado indesejado.
+
+O dano é uma alteração real que diminui, rompe, bloqueia, estreita ou degenera uma condição relevante.
+
+Uma ação que preserva uma possibilidade e uma ação que a destrói não são equivalentes. Uma ação que corrige uma desadequação e uma ação que a agrava não são equivalentes. Uma ação que mantém uma condição real e uma ação que a quebra não são equivalentes.
+
+Esta não-equivalência não nasce de gosto. Não nasce de autoridade. Não nasce de tradição. Não nasce de consenso. Nasce do modo como a atualização incide no real.
+
+O dano tem, por isso, função de ancoragem. Ele impede que a normatividade futura se solte no ar. A orientação prática não começa porque alguém declara um valor. Começa porque a ação, ao atualizar o real, pode preservar, corrigir, degradar ou destruir condições reais.
+
+A crítica local deve ser firme. A posição que trata dano como mal moral imediato vê corretamente que o dano conta. Mas salta cedo demais para culpa, pecado, mal pronto ou dever violado. O pressuposto errado é pensar que o dano só ganha peso se for imediatamente moralizado. A reinscrição é mais baixa: o dano conta porque degrada o real; a leitura normativa desse dano será derivada.
+
+### 4. Direção prática mínima
+
+Se há dano real, a ação já não pode ser pensada como totalmente indiferente.
+
+Esta é a entrada de `P42`.
+
+A direção prática mínima pode ser dita assim:
+
+> evitar, conter ou corrigir degradações reais.
+
+A passagem deve ser vigiada. Não se trata de extrair uma moral completa do facto de haver dano. Não se trata de fazer do dano um princípio soberano. Não se trata de transformar preservação em doutrina total. Não se trata de dizer que toda a mudança é suspeita ou que todo o estado existente deve ser conservado.
+
+A direção prática mínima é mais baixa. Ela indica apenas que, perante a possibilidade real de dano, há vetores mínimos de orientação do agir. Se uma atualização pode destruir uma condição real relevante, há razão prática para evitar essa destruição. Se uma atualização pode agravar uma desadequação, há razão prática para a corrigir. Se uma trajetória pode degenerar uma relação ou uma possibilidade, há razão prática para a conter.
+
+Esta razão prática não vem de fora do real. Vem do próprio facto de a ação ocorrer no real e produzir efeitos reais.
+
+Por isso, fica bloqueado o indiferentismo prático. A posição indiferentista acerta ao notar que há pluralidade de trajetórias possíveis. Erra quando transforma pluralidade em equivalência total. O seu pressuposto falso é pensar que, porque várias atualizações são possíveis, todas valem do mesmo modo. A reinscrição é esta: possibilidades diferentes podem produzir diferenças reais; quando uma dessas diferenças é dano, a indiferença total fica bloqueada.
+
+Também fica bloqueada a moralização precoce. Essa posição acerta ao ver que a direção prática começa aqui. Erra quando a converte imediatamente em sistema moral completo. A reinscrição é: há direção prática mínima, não moral pronta.
+
+### 5. Preservação, não-degradação e correção de trajetória
+
+A direção prática mínima precisa de tradução operativa.
+
+Este é o lugar de `P43`.
+
+A orientação prática mínima consiste em preservar condições reais de continuidade, relação e possibilidade, ou em corrigir trajetórias que as degradam.
+
+Preservar não significa conservar tudo o que existe. Há estados existentes que podem ser degradantes. Há continuidades que podem manter desadequações. Há relações que podem estar danificadas. Preservar significa conservar ou restaurar aquilo sem o qual uma possibilidade, relação ou continuidade real fica destruída, empobrecida ou bloqueada.
+
+Corrigir não significa impor um ideal exterior. Significa reinscrever uma ação, uma descrição, uma solução ou uma trajetória na medida do real quando houve desadequação.
+
+Não-degradar não significa impedir transformação. Significa impedir que a atualização se converta em destruição, empobrecimento ou degeneração de condições reais relevantes.
+
+A tradução operativa pergunta:
+
+- que condição real está em causa?
+- que relação pode ser danificada?
+- que possibilidade está a ser preservada ou bloqueada?
+- que desadequação precisa de correção?
+- que forma de degeneração se iniciou ou pode iniciar-se?
+- que ação é realmente possível neste campo?
+
+Estas perguntas impedem dois desvios.
+
+O primeiro é deixar a direção prática em abstrato. Nesse caso, preservação, correção e não-degradação seriam palavras gerais, sem incidência real.
+
+O segundo é transformar a direção em código moral fixo. Nesse caso, a orientação deixaria de responder ao campo e passaria a impor uma forma pronta sobre situações diferentes.
+
+A posição que confunde preservação com moral conservadora vê corretamente que certas condições devem permanecer. Erra quando identifica permanência de condição com conservação do existente. O pressuposto errado é pensar que preservar é repetir. A reinscrição correta é esta: preservar condições reais pode exigir manter, transformar, interromper ou corrigir, conforme o campo, a escala e o dano em causa.
+
+### 6. Bem como adequação operativa
+
+Só depois de dano real, direção prática mínima e tradução operativa situada pode entrar o bem.
+
+Este é o lugar de `P44`.
+
+A formulação deve ser simples:
+
+> bem é adequação operativa da atualização ao real.
+
+O bem não é coisa. Não é entidade. Não é valor exterior. Não é ideal separado. Não é vida boa. Não é dignidade. Não é perfeição subjetiva. Não é maximização abstrata. Não é utilidade desligada de campo, escala e limite.
+
+Uma atualização é boa, neste regime mínimo, quando se adequa operativamente ao real em que ocorre.
+
+Adequar-se ao real não é repetir o que já existe. Uma ação pode adequar-se conservando uma condição que deve permanecer. Pode adequar-se corrigindo uma desadequação. Pode adequar-se impedindo uma degeneração. Pode adequar-se abrindo uma possibilidade que o campo real permite. Pode adequar-se interrompendo uma trajetória danosa.
+
+A adequação não é passividade. É correspondência operativa entre a ação e o campo real em que ela incide.
+
+Uma ação boa, neste sentido, não é boa porque uma norma exterior a declara boa. É boa porque atualiza de modo adequado uma possibilidade real, respeitando condições, relações, limites e consequências.
+
+A crítica deve bloquear o bem como entidade metafísica. Essa posição vê corretamente que o bem não é indiferente. Mas erra quando o coloca acima, antes ou fora do real. O pressuposto errado é pensar que o bem ganha dignidade por separação. A reinscrição correta é que o bem só ganha inteligibilidade aqui como adequação operativa ao real.
+
+Também deve bloquear o bem como maximização abstrata. Essa posição vê corretamente que ações têm efeitos e que alguns efeitos podem ser melhores do que outros. Erra quando reduz o bem a quantidade, utilidade, eficiência, prazer, felicidade ou resultado desligados do campo real. O pressuposto errado é pensar que maximizar substitui adequar. A reinscrição é: o bem não é maximização abstrata; é atualização adequada segundo campo, escala, limite, dano e possibilidade.
+
+### 7. Mal como desadequação, degeneração ou dano
+
+O mal também entra apenas depois da sequência baixa que o torna inteligível.
+
+Este é o lugar de `P45`.
+
+A formulação deve ser igualmente simples:
+
+> mal é desadequação operativa da atualização ao real quando produz dano, degradação ou degeneração de condições reais.
+
+O mal não é substância. Não é força. Não é entidade negativa. Não é princípio oposto ao bem. Não é culpa originária. Não é pecado. Não é ainda responsabilidade. Não é ainda punição. Não é teoria moral completa.
+
+No regime deste capítulo, o mal é a desadequação danosa da atualização.
+
+Uma atualização é má quando, no modo como incide no real, danifica, degenera, rompe ou bloqueia condições reais relevantes. O mal aparece como desadequação ao campo, degradação de uma condição, rutura de uma relação, bloqueio de uma possibilidade, agravamento de uma desordem, estabilização de uma degeneração ou dano real produzido pela ação.
+
+O mal não precisa de ser substancializado para ser real. Pelo contrário, quando é substancializado, pode deixar de ser compreendido no lugar onde efetivamente ocorre: a atualização desadequada do real.
+
+Assim como o bem é adequação operativa, o mal é desadequação operativa. Esta simetria deve ser mantida com cuidado. O bem não é uma entidade acima do real. O mal não é uma entidade contra o real. Ambos são nomes derivados do modo como a ação atualiza o real: adequando-se ou desadequando-se; preservando ou degradando; corrigindo ou agravando; abrindo possibilidade ou destruindo condição.
+
+A posição que trata o mal como substância vê corretamente que há destruição real. Erra quando transforma essa destruição num princípio separado. O pressuposto falso é pensar que a gravidade do mal exige entidade. A reinscrição é: o mal é grave precisamente porque a ação pode desadequar-se ao real e danificar condições reais.
+
+A posição que trata o mal como mera consequência desagradável vê corretamente que o mal se manifesta em efeitos sofridos. Erra quando reduz mal a desprazer, desconforto ou resultado indesejado. O pressuposto falso é pensar que a experiência negativa basta como critério. A reinscrição é: o mal exige desadequação real, dano ou degradação de condições, não apenas sensação negativa.
+
+### 8. Normatividade não autónoma
+
+Depois de bem e mal terem sido reinscritos como adequação e desadequação operativa, pode entrar a normatividade.
+
+Este é o lugar de `P46`.
+
+A formulação deve ser direta:
+
+> a normatividade não é autónoma; nasce da estrutura real do agir, da possibilidade de dano, da diferença entre adequação e desadequação, e da necessidade de preservar condições reais de possibilidade.
+
+A normatividade não cria o real. Não funda o dano. Não inventa o bem. Não inventa o mal. Não paira sobre a ação. Não se impõe como sistema exterior. Não se autolegitima por coerência interna. Não vale por autoridade, tradição, consenso, cultura ou instituição.
+
+A normatividade só se torna inteligível porque a ação já se mostrou não indiferente; porque há dano real; porque há direção prática mínima; porque essa direção exige tradução operativa; porque bem e mal podem ser ditos como adequação e desadequação operativa.
+
+A norma não manda primeiro para que depois a ação se torne boa ou má. A ação atualiza o real de modos diferentes. Alguns modos adequam-se, outros desadequam-se. Alguns preservam, outros danificam. Alguns corrigem, outros degeneram. A normatividade deriva dessa estrutura.
+
+Isto bloqueia a normatividade autónoma. Essa posição vê corretamente que a ação precisa de orientação. Erra quando faz da orientação uma ordem separada. O pressuposto errado é pensar que a norma só é norma se se fundar a si mesma. A reinscrição é: a normatividade é derivada e, por isso mesmo, vinculada ao real que a torna inteligível.
+
+Também bloqueia o relativismo moral. O relativismo vê corretamente que a norma não paira fora dos contextos. Erra quando conclui que tudo depende de preferências, culturas, sistemas ou escolhas locais. O pressuposto errado é pensar que, se a normatividade não é autónoma, então não há medida real. A reinscrição é: a normatividade não autónoma não é arbitrária; é submetida ao dano, à adequação, à desadequação, ao campo e ao possível real.
+
+### 9. Dever-ser como subordinação operativa ao real
+
+Depois da normatividade derivada pode entrar o dever-ser.
+
+Este é o lugar de `P47`.
+
+A formulação deve ser:
+
+> o dever-ser é a forma operativa pela qual a ação se subordina ao que o real exige, permite e limita.
+
+O dever-ser não abre o capítulo. Não antecede o dano. Não antecede a direção prática mínima. Não antecede a tradução operativa. Não antecede o bem e o mal. Não antecede a normatividade derivada.
+
+Também não é extraído mecanicamente de qualquer facto isolado. A simples descrição de um facto não basta, por si só, para produzir uma moral completa. Mas também não se pode tratar o dever-ser como completamente exterior ao ser.
+
+O dever-ser torna-se inteligível quando a ação, ocorrendo no real, pode adequar-se ou desadequar-se; quando a desadequação pode produzir dano; quando o dano bloqueia a indiferença; quando a direção prática mínima permite preservar, corrigir e impedir degenerações; quando essa direção é traduzida em critérios e vetores situados; quando bem e mal são ditos como adequação e desadequação; e quando a normatividade já foi reconhecida como derivada.
+
+É neste ponto que se pode dizer: a normatividade derivada assume forma de dever-ser quando se torna orientação determinada do agir perante o real.
+
+O dever-ser não substitui o real. Responde ao real. Não manda a partir de fora. Não funda a normatividade. Exprime-a no plano prático.
+
+Por isso, o dever-ser do Capítulo 10 permanece baixo. Diz respeito ao modo como se deve agir perante um campo real determinado, com possibilidades, limites, relações e consequências. Não é dever-ser abstrato. Não é dever sem mundo. Não é dever sem campo. Não é dever sem dano. Não é dever sem poder-ser. Não é dever sem ação.
+
+A posição do dever-ser soberano vê corretamente que a orientação prática tem força. Erra quando separa essa força do real que a exige, permite e limita. O pressuposto falso é pensar que o dever se fortalece por independência. A reinscrição é: o dever-ser deriva da subordinação operativa ao real.
+
+A posição do moralismo extrínseco vê corretamente que a ação pode e deve ser avaliada. Erra quando avalia sem depender da descrição do real. A reinscrição é: a avaliação prática depende da adequação ao real do agir e dos seus efeitos.
+
+### 10. Poder-ser real como limite terminal
+
+O dever-ser só permanece fiel ao real se for limitado pelo poder-ser real.
+
+Este é o lugar de `P48`, e é apenas terminal.
+
+A formulação obrigatória é:
+
+> nenhum dever-ser pode exigir o que o real não permite.
+
+Este limite não deve entrar cedo. Se entrasse na abertura, o capítulo começaria pelo possível real e não pelo dano. Se comandasse o corpo do capítulo, impediria a passagem por direção, bem, mal, normatividade e dever-ser. Se fosse tratado como critério único, poderia transformar-se numa teoria geral do possível ou num sistema normativo completo.
+
+A sua função é mais precisa: impedir o dever impossível.
+
+A ação ocorre no campo do atualizável. Não ocorre no campo ilimitado do imaginável, do desejável, do idealizado ou do moralmente proclamado. Uma orientação prática só é legítima se disser respeito a uma atualização possível segundo o campo real em causa.
+
+Isto não enfraquece o dever-ser. Purifica-o. Um dever-ser que exige o impossível deixa de estar submetido ao real. Torna-se moralismo, acusação, fantasia, abstração ou violência normativa.
+
+O possível real é, por isso, limite terminal da normatividade derivada. Não é desculpa para inação. Não é relativização de tudo. Não é permissividade. Não é recuo perante qualquer dificuldade. É apenas a condição de realidade da exigência prática.
+
+A posição que transforma o possível real em sistema normativo completo vê corretamente que o dever-ser tem de respeitar o possível. Erra quando toma o limite por teoria total. O pressuposto falso é pensar que limitar o dever basta para deduzir todo o dever. A reinscrição é: `P48` fecha a derivação, não a substitui.
+
+### 11. Fecho e entrega ao Capítulo 11
+
+O Capítulo 10 deve parar antes de responsabilidade, dignidade, vida boa prudencial, direito, política, instituição, cultura e sistema.
+
+O capítulo mostrou apenas isto:
+
+- trajetórias diferentes deixam de ser equivalentes quando produzem dano real;
+- o dano real permite uma direção prática mínima;
+- essa direção se exprime em preservação, correção e não-degradação;
+- essa direção precisa de tradução operativa em critérios e vetores situados;
+- o bem pode ser dito como adequação operativa;
+- o mal pode ser dito como desadequação, degeneração ou dano;
+- a normatividade não é autónoma;
+- o dever-ser exprime, em forma prática determinada, a normatividade derivada;
+- o dever-ser é limitado pelo poder-ser real.
+
+Mas ainda não mostrou quem responde por isso.
+
+Ainda não tratou responsabilidade, culpa, imputação, dignidade, vida boa, prudência, educação, formação do agente, coordenação intersubjetiva, direito, política, instituição ou sistema.
+
+Essas zonas não são defeitos do Capítulo 10. São capítulos posteriores.
+
+A pergunta a entregar é:
+
+> se há dano real, bem/mal operativos e dever-ser derivado, que estatuto tem o ser reflexivo que responde por essa atualização e por essa orientação prática?
+
+Essa pergunta pertence ao Capítulo 11.
+
+A posição que antecipa responsabilidade vê corretamente que a normatividade exige resposta. Erra quando abre a imputação antes de o capítulo seguinte ter determinado o estatuto do ser que responde. A posição que antecipa dignidade vê corretamente que o humano reflexivo terá estatuto próprio. Erra quando usa dignidade como fundamento prematuro. A posição que antecipa direito, política ou sistema vê corretamente que dano e normatividade pedem coordenação. Erra quando muda de escala antes de responsabilidade e dignidade terem sido tratadas.
+
+A reinscrição é esta: o Capítulo 10 entrega uma derivação normativa suficientemente estabilizada para que o Capítulo 11 possa perguntar por responsabilidade, dignidade e vida boa sem arbitrariedade. Não responde por elas.
+
+---
+
+## IV. Mapa crítico local
+
+| posição-tipo | o que vê corretamente | onde se desloca | pressuposto falso | reinscrição correta |
+|---|---|---|---|---|
+| moral pronta | Vê que há bem, mal, dever e norma. | Trata esses termos como dados antes do dano real e da estrutura do agir. | A moral só orienta se anteceder o real. | Bem, mal e dever-ser derivam da não-indiferença das trajetórias, do dano real e da adequação operativa. |
+| normatividade autónoma | Vê que a ação exige orientação. | Faz da norma uma ordem separada ou tribunal exterior. | A norma só é norma se se fundar a si mesma. | A normatividade nasce da estrutura real do agir, do dano e da adequação. |
+| dever-ser soberano | Vê que há exigência prática. | Faz o dever mandar independentemente do que é e do que pode ser. | O dever ganha força por independência face ao real. | O dever-ser é subordinação operativa ao real e ao poder-ser real. |
+| bem como entidade metafísica | Vê que o bem não é indiferente. | Trata o bem como entidade, ideal separado ou valor autoportante. | O bem vale antes de qualquer inscrição no real. | Bem é adequação operativa da atualização ao real. |
+| mal como substância | Vê que há destruição e degradação reais. | Transforma o mal em força, entidade, culpa originária ou princípio negativo. | O mal só é real se for substancializado. | Mal é desadequação, degeneração ou dano real de uma atualização. |
+| dano como mal moral imediato | Vê que o dano conta. | Salta do dano para culpa, pecado, injustiça pronta ou dever violado. | Todo dano já está moralmente codificado. | Dano é primeiro degradação real; a leitura normativa é derivada. |
+| preservação como moral conservadora | Vê que há condições que devem permanecer. | Confunde preservação com conservação de tudo o que existe. | Preservar é repetir o existente. | Preservar é evitar degradação de condições reais de continuidade, relação e possibilidade. |
+| bem como maximização abstrata | Vê que consequências importam. | Reduz o bem a maximização de valor, utilidade, felicidade, prazer, eficiência ou resultado. | Maximizar substitui adequar. | O bem é adequação operativa ao real, segundo campo, escala e limite. |
+| mal como mera consequência desagradável | Vê que o mal se manifesta em efeitos negativos. | Reduz o mal a sofrimento, desconforto ou resultado indesejado. | A experiência negativa basta como critério. | Mal exige desadequação real, dano ou degradação de condições. |
+| relativismo moral | Vê que o agir ocorre em contextos. | Faz de preferências, culturas ou escolhas locais a medida última. | Se a norma não é autónoma, é arbitrária. | A normatividade não autónoma é submetida ao real, não a preferências. |
+| moralismo extrínseco | Vê que a ação pode ser avaliada. | Avalia a ação a partir de uma ordem exterior sem descrição do real. | A avaliação prática dispensa a descrição do campo real. | A avaliação depende da adequação ao real do agir e dos seus efeitos. |
+| possível real como sistema normativo completo | Vê que o dever tem limite. | Transforma `P48` em teoria completa do dever. | Limitar o dever basta para deduzir todo o dever. | `P48` limita o dever-ser, mas não entrega responsabilidade, dignidade ou vida boa. |
+| responsabilidade antecipada | Vê que a normatividade exige resposta. | Introduz imputação antes do estatuto do agente responder. | Dano e dever-ser bastam para abrir responsabilidade completa. | Responsabilidade exige novo passo no Capítulo 11. |
+| dignidade antecipada | Vê que o humano reflexivo terá estatuto próprio. | Faz da dignidade a cabeça do Capítulo 10. | A normatividade derivada precisa já de fundamento em dignidade. | Dignidade pertence ao Capítulo 11; aqui fixa-se dano, adequação e dever-ser derivado. |
+| direito/política/sistema como cabeça | Vê que dano e normatividade pedem coordenação. | Salta para lei, instituição, Estado, política, mercado ou sistema social. | Normatividade prática é imediatamente normatividade institucional. | Direito, política, instituição e sistema são camadas posteriores de coordenação e sedimentação. |
+
+---
+
+## V. Controlo de integridade
+
+### centro preservado
+
+O centro continua a ser:
+
+> reinscrição normativa do agir no real.
+
+Ou:
+
+> dano real, bem/mal operativos e normatividade derivada como consequências do agir situado sob limite do possível real.
+
+### cadeia preservada
+
+A cadeia preservada é:
+
+> herança do Capítulo 9 → dano real → direção prática mínima → preservação / não-degradação / correção de trajetória → bem como adequação operativa → mal como desadequação, degeneração ou dano → normatividade não autónoma → dever-ser subordinado ao real → poder-ser real terminal → entrega ao Capítulo 11.
+
+### estatuto de P39/P40 preservado
+
+`P39/P40` entraram apenas como herança do Capítulo 9.
+
+Foram usados para lembrar que trajetórias diferentes produzem diferenças reais e que algumas atualizações podem degradar condições reais de existência, relação, continuidade ou possibilidade.
+
+Não reabriram a teoria da ação. Não transformaram o Capítulo 10 em repetição do Capítulo 9.
+
+### estatuto de P42/P43 preservado
+
+`P42/P43` deram direção prática mínima sem moral pronta.
+
+`P42` fixou que, se há dano real, a ação já não pode ser pensada como totalmente indiferente.
+
+`P43` traduziu essa direção em preservação, não-degradação e correção de trajetória, sem converter esses vetores em código moral, conservadorismo, homeostasia social ou sistema normativo.
+
+### estatuto de P44/P45 preservado
+
+Bem e mal entraram apenas como adequação e desadequação operativa.
+
+`P44` fixou o bem como adequação operativa da atualização ao real.
+
+`P45` fixou o mal como desadequação, dano ou degeneração.
+
+Nenhum deles foi convertido em entidade, ideal exterior, valor autónomo, substância, força, culpa ou teoria moral completa.
+
+### estatuto de P46/P47 preservado
+
+Normatividade e dever-ser entraram como derivados e subordinados ao real.
+
+`P46` fixou que a normatividade não é autónoma.
+
+`P47` fixou que o dever-ser é a forma operativa pela qual a ação se subordina ao que o real exige, permite e limita.
+
+Não houve salto para norma autónoma, dever soberano ou moralismo extrínseco.
+
+### estatuto de P48 preservado
+
+`P48` entrou apenas como limite terminal.
+
+Foi usado para fixar que nenhum dever-ser pode exigir o que o real não permite.
+
+Não abriu teoria geral do possível real. Não abriu o Capítulo 16. Não substituiu a derivação por dano, direção prática, bem, mal e normatividade.
+
+### fronteira superior preservada
+
+Responsabilidade, dignidade e vida boa ficaram para o Capítulo 11.
+
+O Capítulo 10 termina precisamente no ponto em que essa pergunta se torna necessária:
+
+> se há dano real, bem/mal operativos e dever-ser derivado, que estatuto tem o ser reflexivo que responde por essa atualização e por essa orientação prática?
+
+Essa pergunta não é respondida aqui.
+
+### crítica subordinada
+
+A crítica acompanha o positivo e não o substitui.
+
+Cada posição-tipo foi tratada depois do passo positivo que ela ameaça deformar. A crítica serviu para proteger a sequência dano → direção prática → bem/mal operativo → normatividade derivada → dever-ser subordinado → `P48` terminal.
+
+### posições integradas sem exegese excessiva
+
+As posições-tipo foram tratadas sem transformar o capítulo em história da filosofia, teoria moral completa, metafísica do valor, filosofia política ou crítica cultural.
+
+O capítulo não se estruturou por autores. As posições foram formuladas como operações típicas de substituição do real: moral pronta, normatividade autónoma, dever soberano, bem abstrato, mal substancial, dano moralizado, possível real totalizado ou camadas superiores antecipadas.
+
+### notas sob controlo
+
+Não foram usadas notas de rodapé.
+
+Se forem introduzidas em redação posterior, não poderão carregar o argumento principal, substituir a crítica no corpo do texto, fazer história da filosofia ou criar um segundo livro dentro do livro.
+
+### capítulos anteriores não reabertos
+
+Não foram reabertos:
+
+- Capítulo 7 como verdade, erro, critério e correção;
+- Capítulo 9 como ação e liberdade situada.
+
+O Capítulo 7 permanece pressuposto apenas enquanto disciplina remota de adequação e erro. O Capítulo 9 permanece pressuposto apenas enquanto chão da ação situada, não-indiferença e dano possível.
+
+### capítulos posteriores não abertos
+
+Ficaram fora:
+
+- responsabilidade como centro;
+- dignidade;
+- vida boa prudencial;
+- coordenação intersubjetiva;
+- direito;
+- instituição;
+- política;
+- cultura;
+- sistema;
+- crítica sistémica tardia.
+
+Essas camadas não foram negadas. Foram apenas mantidas fora do Capítulo 10.
+
+### fórmula final
+
+> O Capítulo 10 fixa apenas isto: quando a ação situada pode produzir dano real, as trajetórias deixam de ser equivalentes; daí nasce uma direção prática mínima; o bem é adequação operativa da atualização ao real; o mal é desadequação, dano ou degeneração; a normatividade não é autónoma; o dever-ser deriva da subordinação operativa ao real; e nenhum dever-ser pode exceder o poder-ser real.
+
+<a id="capitulo-cap-11-responsabilidade-dignidade-e-vida-boa-prudencial"></a>
+## CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial
+
+- Pasta: `CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial`
+- Ficheiros incluídos: `2`
+
+### Índice interno da pasta
+
+- [00_estatuto_e_limites](#cap-11-responsabilidade-dignidade-e-vida-boa-prudencial-00-estatuto-e-limites-md) — `CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial/00_estatuto_e_limites.md`
+- [01_estrutura_interna](#cap-11-responsabilidade-dignidade-e-vida-boa-prudencial-01-estrutura-interna-md) — `CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial/01_estrutura_interna.md`
+
+<a id="cap-11-responsabilidade-dignidade-e-vida-boa-prudencial-00-estatuto-e-limites-md"></a>
+### 00_estatuto_e_limites
+
+**Ficheiro de origem:** `CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial/00_estatuto_e_limites.md`
+
+# 00_estatuto_e_limites
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar o estatuto local do **Capítulo 11 — Responsabilidade, dignidade e vida boa prudencial**;
+- determinar o que este capítulo pode e não pode fazer no livro;
+- receber o ganho do Capítulo 10 sem o repetir;
+- abrir a responsabilidade do ser reflexivo sem regressar à normatividade derivada como centro;
+- determinar a dignidade como limite normativo forte, sem a transformar em formalismo pronto, sentimentalismo ou categoria político-institucional;
+- admitir a vida boa apenas como fecho prudencial, corrigível e terminal;
+- impedir que responsabilidade, dignidade e vida boa sejam moralizadas, sentimentalizadas, juridificadas ou convertidas em catecismo.
+
+### limite
+- este ficheiro não reabre os Capítulos 1 a 10;
+- não reescreve o Capítulo 10;
+- não transforma o Capítulo 11 em continuação da derivação normativa;
+- não transforma responsabilidade em culpa, imputação jurídica ou moralismo;
+- não transforma dignidade em dignidade formal pronta;
+- não transforma vida boa em modelo fechado de existência;
+- não antecipa coordenação intersubjetiva, comum, instituição, direito, política ou sistema;
+- não deixa a destinação da obra contaminar o critério ontológico do conteúdo;
+- não produz ainda `01_estrutura_interna.md`;
+- não produz ainda `02_materiais_positivos.md`;
+- não produz ainda `03_materiais_criticos.md`;
+- não produz ainda `04_lacunas_do_capitulo.md`;
+- não produz ainda `05_decisao_local_do_capitulo.md`;
+- não produz ainda `06_primeira_versao_controlada_de_escrita.md`.
+
+### valor metodológico
+- vale como abertura local disciplinada da pasta do Capítulo 11;
+- vale como critério de inclusão e exclusão dos materiais futuros;
+- vale como travão contra moralização, sentimentalização e juridificação;
+- vale como base para `01_estrutura_interna.md`, `02_materiais_positivos.md`, `03_materiais_criticos.md`, `04_lacunas_do_capitulo.md` e `05_decisao_local_do_capitulo.md`;
+- vale como regra de separação entre Capítulo 10, Capítulo 11 e Capítulo 12.
+
+---
+
+## II. Estatuto local do Capítulo 11
+
+### estado atual
+**libertado para povoamento, com vigilância de sobreposição.**
+
+### estatuto próprio
+O Capítulo 11 é o lugar em que a obra pode abrir a resposta do ser reflexivo à normatividade derivada já fixada no Capítulo 10.
+
+Não é capítulo de ação em geral.  
+Não é capítulo de liberdade situada.  
+Não é capítulo de dano, bem e mal como tais.  
+Não é capítulo de normatividade derivada como centro.  
+Não é capítulo de direito.  
+Não é capítulo de política.  
+Não é capítulo de sistema.  
+Não é capítulo de instituição.  
+Não é capítulo de vida boa como doutrina fechada.
+
+O seu estatuto próprio é mais preciso:
+
+> mostrar que, sobre suporte normativo herdado mas não soberano, o ser reflexivo responde pelas atualizações que pode orientar; que essa resposta encontra na dignidade um limite normativo forte; e que a vida boa só pode entrar aqui como fecho prudencial, corrigível e terminal.
+
+### forma de uso
+O capítulo deve ser usado como:
+- primeiro capítulo de responsabilidade do ser reflexivo;
+- passagem da normatividade derivada para imputação ontológica situada;
+- lugar de determinação da dignidade como limite normativo forte;
+- lugar de abertura prudencial da vida boa, sem modelo fechado;
+- fecho do arco prático singular antes da coordenação intersubjetiva.
+
+Não deve ser usado como:
+- ética completa;
+- catecismo;
+- manual de vida;
+- teoria jurídica da responsabilidade;
+- teoria política da dignidade;
+- moral sentimental;
+- doutrina da vida boa;
+- capítulo de instituição ou direito;
+- crítica social ou sistémica.
+
+---
+
+## III. Centro próprio do capítulo
+
+### centro
+O centro próprio do Capítulo 11 é:
+
+> **responsabilidade ontológica do ser reflexivo, dignidade como limite normativo forte, e vida boa apenas prudencial.**
+
+A formulação mais disciplinada é:
+
+> O Capítulo 11 abre, sobre suporte normativo herdado mas não soberano, pela imputação ontológica do ser reflexivo às atualizações que pode orientar; ganha o seu centro na dignidade como limite normativo forte do ser reflexivo situado e vulnerável; e só depois admite a vida boa como fecho prudencial, corrigível e terminal, sempre sob o travão do possível real.
+
+### desdobramento mínimo do centro
+A ordem mínima do capítulo é:
+
+1. **`P46/P47`** — apenas como suporte normativo herdado e subordinado;
+2. **`P49`** — abertura singular: imputação ontológica do ser reflexivo pelas atualizações que pode orientar;
+3. **`P50`** — centro vivo forte: dignidade como limite normativo forte do ser reflexivo situado e vulnerável;
+4. **`P51`** — vida boa apenas como fecho prudencial, corrigível e terminal;
+5. **`P48`** — apenas como travão terminal do possível real.
+
+### fórmula curta do centro
+> O Capítulo 11 recebe a normatividade derivada, mas não a repete; abre pela responsabilidade situada do ser reflexivo, ganha corpo na dignidade como limite normativo forte, admite a vida boa só como fecho prudencial, e termina sob o travão do possível real, sem moralizar, juridificar ou institucionalizar o capítulo.
+
+---
+
+## IV. Falso centro dominante a bloquear
+
+### falso centro dominante principal
+O falso centro dominante a bloquear é:
+
+> **a transformação do Capítulo 11 em moralismo da dignidade ou catecismo da vida boa.**
+
+Esse desvio ocorre quando responsabilidade, dignidade ou vida boa passam a funcionar como conceitos prontos, sentimentalizados ou prescritivos, em vez de serem derivados do real do agir e da normatividade já estabilizada.
+
+### formas típicas desse desvio
+- abrir por dignidade em abstrato;
+- abrir por vida boa;
+- abrir por dever moral pessoal;
+- abrir por culpa;
+- abrir por responsabilidade jurídica;
+- abrir por imputação institucional;
+- transformar dignidade em valor formal pronto;
+- transformar vida boa em modelo de conduta;
+- fazer da obra um manual moral;
+- deixar a figura de transmissão da obra contaminar o conteúdo filosófico;
+- fazer de responsabilidade um sermão.
+
+### outros falsos centros a bloquear
+Devem permanecer bloqueados:
+- normatividade derivada como cabeça soberana;
+- `P46/P47` como abertura principal;
+- dignidade sentimental;
+- dignidade política ou jurídica;
+- liberdade ontológica como centro autónomo;
+- vida boa como ideal fechado;
+- prudência como conselho de vida;
+- educação moral;
+- formação ética desenvolvida;
+- responsabilidade jurídica;
+- culpa;
+- punição;
+- mérito;
+- coordenação intersubjetiva;
+- comum;
+- instituição;
+- direito;
+- política;
+- história;
+- sistema;
+- crítica cultural;
+- crítica sistémica;
+- erro, critério, verdade ou correção como corpo próprio.
+
+---
+
+## V. Fronteira com o anterior
+
+### capítulo anterior
+O capítulo anterior é:
+
+**Capítulo 10 — Dano, bem, mal e normatividade derivada.**
+
+### o que o Capítulo 11 herda
+O Capítulo 11 pode pressupor que o Capítulo 10 já deixou fixado:
+- não-indiferença real das atualizações;
+- dano real;
+- direção prática mínima;
+- bem como adequação operativa;
+- mal como desadequação, degeneração ou dano;
+- normatividade derivada e não autónoma;
+- dever-ser como forma prática determinada da normatividade derivada;
+- dever-ser subordinado ao real;
+- dever-ser limitado pelo possível real.
+
+### o que o Capítulo 11 não pode repetir
+O Capítulo 11 não deve repetir:
+- teoria do dano;
+- teoria de bem e mal;
+- derivação da normatividade;
+- discussão de `P46/P47` como corpo próprio;
+- determinação do dever-ser como problema central;
+- fecho do Capítulo 10 pelo poder-ser real;
+- travões próprios do Capítulo 10 como se ainda fossem centro.
+
+Também não deve transformar o Capítulo 10 em simples preâmbulo descartável.
+
+### regra da passagem
+A passagem correta é:
+
+> depois de derivada a normatividade do real do agir, pode começar a pergunta por quem responde a essa normatividade, em que termos e com que limite forte.
+
+Isto significa:
+- o Capítulo 11 não nasce do nada;
+- nasce da normatividade derivada já fixada;
+- mas desloca o centro: já não pergunta como se deriva o dever-ser, pergunta como o ser reflexivo responde por ele.
+
+---
+
+## VI. Fronteira com o seguinte
+
+### capítulo seguinte
+O capítulo seguinte é:
+
+**Capítulo 12 — coordenação prática entre reflexivos no mesmo real**, ou a primeira camada de sedimentação do comum, conforme a arquitetura local seguinte vier a ser estabilizada.
+
+### o que o Capítulo 11 prepara
+O Capítulo 11 prepara:
+- a passagem da responsabilidade situada singular para a coexistência prática;
+- a pergunta por coordenação entre seres reflexivos;
+- a necessidade futura de expectativas, vetores de ação e condutas;
+- a passagem posterior para comum, sedimentação, instituição ou direito.
+
+### o que o Capítulo 11 não pode absorver
+O Capítulo 11 não pode absorver:
+- coordenação intersubjetiva como centro;
+- coexistência prática como centro;
+- comum;
+- regra social;
+- expectativas normativas sedimentadas;
+- instituição;
+- direito;
+- lei;
+- política;
+- história;
+- sistema;
+- crítica sistémica.
+
+### regra da passagem
+O Capítulo 11 deve terminar antes de transformar responsabilidade singular em coordenação intersubjetiva.
+
+A passagem legítima para o Capítulo 12 só ocorre quando:
+- a responsabilidade do ser reflexivo já foi aberta;
+- a dignidade já foi fixada como limite normativo forte;
+- a vida boa já foi admitida apenas como fecho prudencial;
+- o possível real já travou qualquer ideal de vida boa impossível;
+- e ainda falta perguntar como seres reflexivos responsáveis coexistem e coordenam atualizações reciprocamente relevantes.
+
+---
+
+## VII. O que fica dentro e o que fica fora
+
+### fica dentro
+Fica dentro do Capítulo 11:
+- suporte normativo herdado de `P46/P47`;
+- responsabilidade situada;
+- imputação ontológica do ser reflexivo;
+- resposta do ser reflexivo pelas atualizações que pode orientar;
+- vulnerabilidade do ser reflexivo;
+- dignidade como limite normativo forte;
+- dignidade subordinada ao real, não formalizada como valor exterior;
+- vida boa prudencial;
+- vida boa corrigível;
+- vida boa terminal;
+- travão do possível real;
+- `P49` como abertura singular;
+- `P50` como centro vivo forte;
+- `P51` como fecho prudencial terminal;
+- `P48` como travão terminal;
+- materiais sobre liberdade e dignidade apenas se subordinados ao real e ao ser reflexivo situado;
+- materiais de mudança de si apenas se mantidos sob responsabilidade situada, sem psicologização.
+
+### fica fora
+Fica fora do Capítulo 11:
+- normatividade derivada como centro próprio;
+- moral autónoma;
+- catecismo;
+- manual de vida;
+- dignidade sentimental;
+- dignidade formal pronta;
+- dignidade política ou jurídica;
+- vida boa como modelo fechado;
+- vida boa como ideal total;
+- culpa como centro;
+- punição;
+- mérito;
+- responsabilidade jurídica;
+- educação moral desenvolvida;
+- coordenação intersubjetiva;
+- comum;
+- instituição;
+- direito;
+- lei;
+- política;
+- história;
+- sistema;
+- crítica sistémica;
+- cultura como centro;
+- erro, verdade, critério e correção como corpo próprio;
+- `P46/P47` como cabeça soberana;
+- `P48` como abertura;
+- `CR01/CR04` como campos soberanos;
+- `PN01` como comando.
+
+---
+
+## VIII. Travões obrigatórios
+
+### travão anti-moralização
+O capítulo não pode transformar responsabilidade em moralismo.
+
+Responsabilidade não é sermão.  
+Não é acusação.  
+Não é culpa pronta.  
+Não é psicologia da intenção.  
+Não é imputação jurídica.
+
+É resposta ontológica situada do ser reflexivo pelas atualizações que pode orientar.
+
+### travão anti-dignidade formal pronta
+A dignidade não pode entrar como fórmula vazia, valor sentimental ou categoria jurídico-política já estabilizada.
+
+A dignidade só entra como limite normativo forte do ser reflexivo situado e vulnerável.
+
+Deve permanecer:
+- derivada do real;
+- ligada ao ser reflexivo;
+- ligada à sua vulnerabilidade;
+- ligada à sua capacidade de orientar atualizações;
+- subordinada ao possível real.
+
+### travão anti-vida boa como catecismo
+A vida boa não pode entrar como doutrina fechada.
+
+Não deve aparecer como:
+- modelo único;
+- manual de conduta;
+- conselho existencial;
+- perfeição moral;
+- pedagogia de vida;
+- ideal sentimental.
+
+A vida boa só entra:
+- no fecho;
+- prudencialmente;
+- corrigivelmente;
+- terminalmente;
+- sob limite do possível real.
+
+### travão anti-suporte normativo soberano
+`P46/P47` entram apenas como suporte herdado.
+
+Não podem reabrir a derivação normativa.
+
+Não podem substituir `P49`.
+
+Não podem fazer o Capítulo 11 regressar ao Capítulo 10.
+
+### travão anti-P48 precoce
+`P48` não pode abrir o capítulo.
+
+O possível real só entra no terminal, como travão contra:
+- responsabilidade impossível;
+- dignidade abstrata desligada da situação;
+- vida boa impossível;
+- dever de vida impossível.
+
+### travão anti-instituição e direito
+O capítulo não pode transformar dignidade ou responsabilidade em direito, instituição ou política.
+
+Essas zonas só entram depois.
+
+No Capítulo 11, dignidade ainda não é:
+- estatuto jurídico;
+- fundamento constitucional;
+- princípio político;
+- instituição normativa.
+
+É limite normativo forte do ser reflexivo situado.
+
+### travão anti-Capítulo 12
+O capítulo não pode transformar responsabilidade situada em coordenação intersubjetiva.
+
+A coexistência entre reflexivos, as expectativas recíprocas e a sedimentação do comum pertencem ao capítulo seguinte.
+
+### travão anti-destinação contaminante
+A destinação transmissiva da obra pode governar a voz expositiva.
+
+Não pode governar o conteúdo.
+
+O Capítulo 11 não deve transformar a função de transmissão da obra em:
+- paternidade moral;
+- conselho ao leitor;
+- sentimentalização da vida boa;
+- catecismo;
+- manifesto.
+
+---
+
+## IX. Fórmula local final
+
+> O Capítulo 11 recebe a normatividade derivada como suporte herdado, mas abre singularmente pela responsabilidade ontológica do ser reflexivo pelas atualizações que pode orientar; ganha o seu centro na dignidade como limite normativo forte do ser reflexivo situado e vulnerável; admite a vida boa apenas como fecho prudencial, corrigível e terminal; e fecha sob o travão do possível real, sem moralização, sem catecismo, sem dignidade formal pronta, sem direito, sem política e sem sistema.
+
+<a id="cap-11-responsabilidade-dignidade-e-vida-boa-prudencial-01-estrutura-interna-md"></a>
+### 01_estrutura_interna
+
+**Ficheiro de origem:** `CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial/01_estrutura_interna.md`
+
+# 01_estrutura_interna
+
+## I. Estatuto do ficheiro
+
+### função
+- fixar a estrutura interna mínima do **Capítulo 11 — Responsabilidade, dignidade e vida boa prudencial**;
+- determinar a ordem de entrada das suas partes sem transformar o capítulo em moralismo, catecismo, direito, política ou sistema;
+- preparar o povoamento local por materiais positivos e críticos;
+- impedir que o capítulo seja absorvido pelo Capítulo 10 ou pelo Capítulo 12;
+- garantir que a responsabilidade entra como resposta ontológica situada do ser reflexivo, a dignidade como limite normativo forte, e a vida boa apenas como fecho prudencial.
+
+### limite
+- este ficheiro não redige ainda o capítulo;
+- não produz materiais positivos;
+- não produz materiais críticos;
+- não decide lacunas;
+- não produz ainda primeira versão controlada de escrita;
+- não reabre os Capítulos 1 a 10;
+- não reescreve o Capítulo 10;
+- não antecipa o Capítulo 12;
+- não transforma responsabilidade em culpa;
+- não transforma dignidade em formalismo pronto;
+- não transforma vida boa em doutrina fechada;
+- não transforma o capítulo em ética completa;
+- não sobe para coordenação intersubjetiva, comum, instituição, direito, política ou sistema.
+
+### valor metodológico
+- vale como planta local do Capítulo 11;
+- vale como ordem mínima do seu futuro povoamento;
+- vale como travão contra moralização, sentimentalização e juridificação;
+- vale como critério de distribuição interna dos materiais;
+- vale como proteção da fronteira com os Capítulos 10 e 12.
+
+---
+
+## II. Forma geral do capítulo
+
+### estatuto formal
+O Capítulo 11 deve funcionar como **fecho prático singular do ser reflexivo**.
+
+A sua função não é repetir a derivação normativa do Capítulo 10.
+
+Também não é abrir já a coordenação intersubjetiva, o comum, a instituição, o direito ou a política.
+
+A sua forma correta é:
+
+> passagem da normatividade derivada para a responsabilidade situada do ser reflexivo, desta para a dignidade como limite normativo forte, e daí para a vida boa apenas prudencial, corrigível e terminal.
+
+### extensão relativa
+O Capítulo 11 tem massa positiva suficiente para avançar, mas com vigilância de sobreposição.
+
+A sua força própria está em:
+- responsabilidade ontológica;
+- dignidade forte;
+- vida boa prudencial;
+- subordinação ao real;
+- travão do possível real.
+
+Mas essa força não autoriza:
+- ética completa;
+- teoria jurídica da responsabilidade;
+- filosofia política da dignidade;
+- doutrina fechada de vida boa;
+- coordenação social ou institucional;
+- crítica sistémica.
+
+### regra de composição
+A composição interna deve obedecer a esta regra:
+
+> receber a normatividade derivada sem a repetir; abrir pela responsabilidade situada; fixar a dignidade como limite normativo forte; admitir a vida boa apenas como orientação prudencial e corrigível; e fechar pelo possível real antes de qualquer passagem para coordenação, direito, política ou sistema.
+
+---
+
+## III. Ordem interna obrigatória
+
+A ordem interna mínima é:
+
+1. **suporte normativo herdado** — `P46/P47`, apenas como pressuposto subordinado;
+2. **responsabilidade situada do ser reflexivo** — `P49`;
+3. **dignidade como limite normativo forte** — `P50`;
+4. **vida boa prudencial, corrigível e terminal** — `P51`;
+5. **travão do possível real** — `P48`, apenas terminal;
+6. **entrega futura à coordenação intersubjetiva** — sem a abrir ainda.
+
+### regra de não-inversão
+Não inverter esta ordem.
+
+Especialmente proibido:
+- abrir por dignidade;
+- abrir por vida boa;
+- abrir por culpa;
+- abrir por responsabilidade jurídica;
+- abrir por educação moral;
+- abrir por prudência existencial;
+- abrir por coordenação intersubjetiva;
+- abrir por direito;
+- abrir por política;
+- abrir por sistema;
+- abrir por `P48`;
+- reabrir `P46/P47` como cabeça do capítulo.
+
+### fórmula de ordem
+A ordem mínima do capítulo é:
+
+> `P46/P47 herdados → P49 → P50 → P51 → P48 terminal`.
+
+---
+
+## IV. Partes internas obrigatórias
+
+## Parte A — Receção controlada do Capítulo 10
+
+### função local
+Receber o ganho do Capítulo 10 sem o repetir.
+
+O Capítulo 11 pode pressupor que já ficou estabelecido:
+- dano real;
+- bem como adequação operativa;
+- mal como desadequação, degeneração ou dano;
+- normatividade derivada;
+- dever-ser subordinado ao real;
+- dever-ser limitado pelo possível real.
+
+### conteúdo mínimo
+1. a normatividade já foi derivada;
+2. o dever-ser já foi subordinado ao real;
+3. o possível real já travou o dever impossível;
+4. agora já não se trata de derivar a normatividade;
+5. trata-se de perguntar como o ser reflexivo responde por ela.
+
+### proposições pressupostas
+- `P46`;
+- `P47`;
+- `P48`, apenas como limite já estabelecido e a reutilizar terminalmente.
+
+### travão interno
+Não repetir:
+- dano, bem e mal como corpo próprio;
+- derivação da normatividade;
+- discussão de dever-ser;
+- exposição do poder-ser real como se fosse ainda novidade;
+- estrutura própria do Capítulo 10.
+
+### formulação-guia
+> O Capítulo 11 começa onde o Capítulo 10 parou: não na derivação da normatividade, mas na pergunta por quem responde por ela.
+
+---
+
+## Parte B — Responsabilidade situada do ser reflexivo
+
+### função local
+Abrir positivamente o capítulo.
+
+A responsabilidade entra como resposta ontológica situada do ser reflexivo às atualizações que pode orientar.
+
+### conteúdo mínimo
+1. o ser reflexivo já não é apenas agente situado;
+2. o ser reflexivo é aquele que pode reconhecer, orientar e responder pelas suas atualizações;
+3. a responsabilidade nasce da articulação entre ação, normatividade derivada e possibilidade real de orientação;
+4. responsabilidade não é culpa pronta;
+5. responsabilidade não é imputação jurídica;
+6. responsabilidade não é psicologia da intenção;
+7. responsabilidade é resposta situada àquilo que o ser reflexivo pode atualizar, evitar, corrigir ou não degenerar.
+
+### proposição dominante
+- `P49` — responsabilidade ou imputação ontológica do ser reflexivo pelas atualizações que pode orientar.
+
+### travão interno
+Não transformar responsabilidade em:
+- culpa;
+- punição;
+- mérito;
+- responsabilidade jurídica;
+- imputação institucional;
+- moralismo pessoal;
+- sermão sobre conduta;
+- psicologia da intenção.
+
+### formulação-guia
+> O ser reflexivo responde porque pode orientar atualizações no real e porque essas atualizações já não são indiferentes.
+
+---
+
+## Parte C — Imputação ontológica sem juridificação
+
+### função local
+Densificar `P49` sem deixar a responsabilidade escapar para direito, culpa ou instituição.
+
+### conteúdo mínimo
+1. imputação ontológica não é imputação jurídica;
+2. a responsabilidade nasce antes da lei;
+3. a responsabilidade nasce da estrutura do agir reflexivo situado;
+4. o ser reflexivo é imputável enquanto pode reconhecer a não-indiferença do agir;
+5. a resposta é proporcional ao campo real de orientação possível;
+6. a responsabilidade não excede o possível real.
+
+### proposição dominante
+- `P49`, com `P48` apenas como limite remoto.
+
+### travão interno
+Não usar categorias de:
+- culpa jurídica;
+- sanção;
+- dever legal;
+- reparação institucional;
+- responsabilidade civil;
+- responsabilidade penal;
+- imputação política.
+
+### formulação-guia
+> A imputação aqui é ontológica: não pergunta ainda o que a lei atribui, mas o que o ser reflexivo pode reconhecer como atualização sua no real.
+
+---
+
+## Parte D — Dignidade como limite normativo forte
+
+### função local
+Introduzir o centro vivo forte do capítulo.
+
+A dignidade entra depois da responsabilidade situada, não antes dela.
+
+### conteúdo mínimo
+1. dignidade não é fórmula sentimental;
+2. dignidade não é valor formal pronto;
+3. dignidade não é ainda categoria jurídica ou política;
+4. dignidade é limite normativo forte do ser reflexivo situado e vulnerável;
+5. a dignidade marca aquilo que não pode ser tratado como mero objeto de atualização danosa;
+6. a dignidade não paira sobre o real: deriva do estatuto real do ser reflexivo.
+
+### proposição dominante
+- `P50` — dignidade como limite normativo forte do ser reflexivo situado e vulnerável.
+
+### travão interno
+Não transformar dignidade em:
+- slogan;
+- sentimentalismo;
+- valor absoluto sem derivação;
+- categoria constitucional;
+- princípio político;
+- fundamento jurídico;
+- moral pronta;
+- retórica humanista.
+
+### formulação-guia
+> A dignidade é o limite normativo forte que impede tratar o ser reflexivo situado como matéria indiferente de atualização.
+
+---
+
+## Parte E — Vulnerabilidade e paridade ontológica
+
+### função local
+Densificar a dignidade sem a formalizar indevidamente.
+
+A dignidade deve ser ligada à condição real do ser reflexivo:
+- situado;
+- vulnerável;
+- afetável;
+- capaz de orientar;
+- capaz de ser danificado;
+- capaz de responder.
+
+### conteúdo mínimo
+1. o ser reflexivo não é puro sujeito soberano;
+2. é ser situado e vulnerável;
+3. pode agir e ser atingido por ações;
+4. pode orientar atualizações e ser objeto de atualizações alheias;
+5. a sua dignidade não resulta de sentimentalização, mas do seu estatuto real;
+6. a paridade ontológica impede reduzir o outro a instrumento, material ou sistema.
+
+### proposição dominante
+- `P50`, com apoio de `P49`.
+
+### travão interno
+Não transformar vulnerabilidade em:
+- vitimização;
+- sentimentalização;
+- piedade;
+- proteção paternalista;
+- política identitária;
+- teoria jurídica da pessoa.
+
+### formulação-guia
+> A dignidade ganha força porque o ser reflexivo é simultaneamente capaz de agir, capaz de responder e capaz de ser realmente danificado.
+
+---
+
+## Parte F — Vida boa prudencial
+
+### função local
+Introduzir `P51` apenas depois de responsabilidade e dignidade.
+
+A vida boa não é cabeça do capítulo.
+
+Entra como fecho prudencial.
+
+### conteúdo mínimo
+1. vida boa não é modelo fechado;
+2. vida boa não é catecismo;
+3. vida boa não é perfeição moral;
+4. vida boa não é plano universal de existência;
+5. vida boa é orientação prudencial de um ser reflexivo que responde ao real, respeita dignidade e corrige a sua ação;
+6. a vida boa permanece corrigível porque o ser reflexivo permanece situado e limitado.
+
+### proposição dominante
+- `P51` — vida boa como fecho prudencial, corrigível e terminal.
+
+### travão interno
+Não transformar vida boa em:
+- manual de vida;
+- conselho existencial;
+- doutrina fechada;
+- ideal de perfeição;
+- moral paternal;
+- pedagogia do leitor;
+- destinação da obra convertida em conteúdo.
+
+### formulação-guia
+> A vida boa não é um modelo a impor; é o nome prudencial de uma orientação corrigível do ser reflexivo sob responsabilidade, dignidade e possível real.
+
+---
+
+## Parte G — Prudência, correção e limite
+
+### função local
+Densificar `P51` sem criar doutrina fechada.
+
+A prudência entra como forma de manter a vida boa aberta à correção.
+
+### conteúdo mínimo
+1. a vida boa depende de submissão contínua ao real;
+2. a vida boa não se fecha sobre uma fórmula;
+3. prudência é atenção ao campo, ao dano, à dignidade, ao possível e à correção;
+4. a vida boa só pode ser dita sob risco de erro;
+5. por isso permanece corrigível;
+6. o possível real impede vida boa impossível.
+
+### proposições dominantes
+- `P51`;
+- `P48`, apenas terminal.
+
+### travão interno
+Não transformar prudência em:
+- virtude autónoma;
+- moral aristotélica importada;
+- técnica de vida;
+- terapia;
+- espiritualidade;
+- educação moral desenvolvida.
+
+### formulação-guia
+> A prudência é a forma baixa de manter a orientação da vida boa submetida ao real que a pode corrigir.
+
+---
+
+## Parte H — Travão terminal do possível real
+
+### função local
+Fechar o capítulo por `P48`.
+
+`P48` não pode abrir a estrutura.
+
+A sua função é terminal:
+- travar responsabilidade impossível;
+- travar dignidade abstrata desligada da situação;
+- travar vida boa impossível;
+- travar dever de vida impossível.
+
+### conteúdo mínimo
+1. ninguém responde pelo que não podia orientar;
+2. nenhuma dignidade se protege por exigência impossível;
+3. nenhuma vida boa pode exigir o que o real não permite;
+4. responsabilidade, dignidade e vida boa devem permanecer submetidas ao possível real;
+5. o capítulo fecha antes da coordenação intersubjetiva.
+
+### proposição dominante
+- `P48` — possível real como travão terminal.
+
+### travão interno
+Não transformar `P48` em:
+- abertura;
+- critério soberano;
+- desculpa de inação;
+- permissividade;
+- teoria geral do possível;
+- recuo da responsabilidade.
+
+### formulação-guia
+> A responsabilidade, a dignidade e a vida boa só permanecem reais se não exigirem aquilo que o real não permite orientar ou atualizar.
+
+---
+
+## Parte I — Entrega controlada ao Capítulo 12
+
+### função local
+Fechar a estrutura deixando preparado o capítulo seguinte sem o absorver.
+
+### conteúdo mínimo
+O Capítulo 11 entrega ao Capítulo 12:
+- ser reflexivo responsável;
+- dignidade como limite forte;
+- vida boa prudencial como orientação singular;
+- necessidade futura de coexistência entre reflexivos;
+- abertura futura da coordenação prática.
+
+Mas não entrega ainda:
+- coordenação intersubjetiva desenvolvida;
+- comum;
+- expectativa recíproca;
+- regra social;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+### travão interno
+Não transformar a entrega em início do Capítulo 12.
+
+### formulação-guia
+> Depois de aberta a responsabilidade do ser reflexivo, falta perguntar como vários seres reflexivos responsáveis coexistem e coordenam atualizações no mesmo real; mas essa pergunta já pertence ao capítulo seguinte.
+
+---
+
+## V. Minicapítulos internos provisórios
+
+Para efeitos de povoamento e futura redação, o Capítulo 11 passa a trabalhar com os seguintes minicapítulos provisórios:
+
+### M1 — Da normatividade derivada à responsabilidade
+Função:
+- receber o Capítulo 10;
+- deslocar o centro da derivação normativa para a resposta do ser reflexivo;
+- impedir repetição de dano, bem, mal e dever-ser.
+
+Conteúdo:
+- normatividade herdada;
+- dever-ser subordinado ao real;
+- passagem para quem responde.
+
+Proposições:
+- `P46/P47` como suporte;
+- `P49` como abertura.
+
+Travão:
+- não reabrir o Capítulo 10.
+
+---
+
+### M2 — Responsabilidade situada do ser reflexivo
+Função:
+- abrir positivamente o capítulo.
+
+Conteúdo:
+- ser reflexivo;
+- orientação possível;
+- resposta pelas atualizações;
+- imputação ontológica.
+
+Proposição:
+- `P49`.
+
+Travão:
+- não transformar em culpa ou responsabilidade jurídica.
+
+---
+
+### M3 — Imputação ontológica e limite do possível
+Função:
+- densificar a responsabilidade sem juridificação.
+
+Conteúdo:
+- imputação ontológica;
+- campo de orientação;
+- poder orientar;
+- limite do possível.
+
+Proposições:
+- `P49`;
+- `P48` apenas como travão implícito.
+
+Travão:
+- não desenvolver lei, punição ou imputação institucional.
+
+---
+
+### M4 — Dignidade como limite normativo forte
+Função:
+- instalar o centro vivo do capítulo.
+
+Conteúdo:
+- dignidade;
+- limite normativo;
+- ser reflexivo situado;
+- vulnerabilidade;
+- paridade ontológica.
+
+Proposição:
+- `P50`.
+
+Travão:
+- não formalizar nem sentimentalizar a dignidade.
+
+---
+
+### M5 — Vulnerabilidade, paridade e não instrumentalização
+Função:
+- dar corpo à dignidade sem a transformar em direito.
+
+Conteúdo:
+- vulnerabilidade;
+- capacidade de dano;
+- estatuto ontológico do outro;
+- bloqueio da instrumentalização.
+
+Proposição:
+- `P50`.
+
+Travão:
+- não subir para direito, política ou instituição.
+
+---
+
+### M6 — Vida boa prudencial
+Função:
+- introduzir o fecho prudencial.
+
+Conteúdo:
+- vida boa;
+- prudência;
+- orientação corrigível;
+- responsabilidade;
+- dignidade.
+
+Proposição:
+- `P51`.
+
+Travão:
+- não criar catecismo ou manual de vida.
+
+---
+
+### M7 — Possível real como travão terminal
+Função:
+- fechar o capítulo.
+
+Conteúdo:
+- possível real;
+- responsabilidade possível;
+- dignidade situada;
+- vida boa possível;
+- dever de vida não impossível.
+
+Proposição:
+- `P48`.
+
+Travão:
+- não abrir por `P48`.
+
+---
+
+### M8 — Entrega à coordenação intersubjetiva
+Função:
+- preparar o Capítulo 12 sem o desenvolver.
+
+Conteúdo:
+- coexistência futura;
+- coordenação futura;
+- comum futuro;
+- expectativas futuras.
+
+Travão:
+- não abrir ainda coordenação, direito, política ou sistema.
+
+---
+
+## VI. Hierarquia das proposições
+
+### suporte herdado
+`P46/P47`
+
+Função:
+- fornecer a normatividade derivada já estabilizada;
+- permitir que o capítulo pergunte por quem responde;
+- não comandar o capítulo;
+- não reabrir derivação normativa.
+
+### abertura singular
+`P49`
+
+Função:
+- abrir a responsabilidade situada;
+- fixar a imputação ontológica do ser reflexivo;
+- impedir que o capítulo abra por dignidade ou vida boa.
+
+### centro vivo forte
+`P50`
+
+Função:
+- fixar dignidade como limite normativo forte;
+- impedir redução do ser reflexivo a objeto, meio ou material indiferente;
+- dar corpo ao capítulo sem juridificação.
+
+### fecho prudencial
+`P51`
+
+Função:
+- admitir vida boa apenas como orientação prudencial;
+- manter a vida boa corrigível;
+- impedir doutrina fechada de existência.
+
+### travão terminal
+`P48`
+
+Função:
+- limitar responsabilidade, dignidade e vida boa pelo possível real;
+- impedir responsabilidade impossível;
+- impedir vida boa impossível;
+- fechar antes do Capítulo 12.
+
+### fundo remoto
+`P39/P40/P44/P45`
+
+Função:
+- permanecer como fundo herdado do arco prático;
+- não comandar a estrutura;
+- não reabrir dano, bem e mal como corpo próprio.
+
+---
+
+## VII. Distribuição de funções internas
+
+### abertura
+Deve cumprir quatro funções:
+1. receber a normatividade derivada;
+2. separar o capítulo do Capítulo 10;
+3. perguntar por quem responde;
+4. instalar `P49`.
+
+### corpo
+Deve cumprir quatro funções:
+1. desenvolver responsabilidade situada;
+2. distinguir imputação ontológica de culpa e direito;
+3. instalar dignidade como limite forte;
+4. ligar dignidade a vulnerabilidade e paridade ontológica.
+
+### fecho prudencial
+Deve cumprir três funções:
+1. admitir vida boa sem catecismo;
+2. manter prudência e corrigibilidade;
+3. subordinar vida boa ao possível real.
+
+### entrega
+Deve cumprir três funções:
+1. encerrar o arco singular do ser reflexivo;
+2. preparar coexistência e coordenação;
+3. não abrir ainda Capítulo 12.
+
+---
+
+## VIII. Travões internos de composição
+
+### travão de abertura
+A primeira parte do capítulo não pode conter:
+- dignidade como abertura;
+- vida boa como abertura;
+- culpa;
+- responsabilidade jurídica;
+- educação moral;
+- direito;
+- política;
+- sistema.
+
+A primeira parte deve conter:
+- normatividade herdada;
+- pergunta por quem responde;
+- responsabilidade situada.
+
+### travão de responsabilidade
+A responsabilidade não pode transformar-se em:
+- culpa;
+- acusação;
+- punição;
+- mérito;
+- imputação jurídica;
+- psicologia da intenção;
+- moralismo.
+
+### travão de dignidade
+A dignidade não pode transformar-se em:
+- fórmula sentimental;
+- slogan;
+- formalismo jurídico;
+- princípio político;
+- valor abstrato desligado do real;
+- retórica humanista.
+
+### travão de vida boa
+A vida boa não pode transformar-se em:
+- catecismo;
+- manual de vida;
+- perfeccionismo;
+- modelo universal de existência;
+- conselho existencial;
+- pedagogia moral.
+
+### travão de destinação
+A destinação transmissiva da obra não pode contaminar o conteúdo.
+
+O capítulo pode ter voz responsável.
+
+Não pode transformar-se em:
+- lição paternal;
+- confissão;
+- sermão;
+- conselho ao leitor;
+- legado moral sentimental.
+
+### travão anti-Capítulo 10
+O capítulo não deve voltar a derivar:
+- normatividade;
+- dever-ser;
+- bem;
+- mal;
+- dano.
+
+Esses elementos são herdados.
+
+### travão anti-Capítulo 12
+O capítulo não deve abrir:
+- coordenação intersubjetiva;
+- comum;
+- expectativas recíprocas;
+- instituição;
+- direito;
+- política;
+- sistema.
+
+---
+
+## IX. Fronteiras internas
+
+### fronteira com o Capítulo 10
+O Capítulo 11 recebe do Capítulo 10:
+- normatividade derivada;
+- dever-ser subordinado ao real;
+- poder-ser real como limite;
+- bem e mal já explicitados;
+- dano real já estabilizado.
+
+Não recebe:
+- derivação normativa como centro;
+- teoria do dano;
+- teoria de bem e mal;
+- estrutura de `P46/P47` como corpo próprio.
+
+### fronteira com o Capítulo 12
+O Capítulo 11 prepara o Capítulo 12, mas não o abre.
+
+O Capítulo 12 ficará com:
+- coordenação prática entre seres reflexivos;
+- coexistência;
+- expectativas;
+- comum;
+- eventual sedimentação normativa.
+
+O Capítulo 11 deve parar antes disso.
+
+### fronteira com direito e instituição
+Ficam fora:
+- responsabilidade jurídica;
+- estatuto jurídico da dignidade;
+- direitos fundamentais;
+- lei;
+- instituição;
+- política;
+- Estado;
+- sistema normativo positivo.
+
+### fronteira com crítica sistémica
+Ficam fora:
+- cultura;
+- sistema;
+- mercado;
+- ideologia;
+- instituição cristalizada;
+- crítica social;
+- crítica sistémica.
+
+### fronteira com a destinação da obra
+A obra pode orientar por descrição.
+
+Mas o Capítulo 11 não deve transformar essa destinação em conteúdo moral.
+
+A voz pode ser transmissiva.
+
+O critério continua a ser o real.
+
+---
+
+## X. Fórmula estrutural final
+
+A estrutura interna do Capítulo 11 deve obedecer a esta sequência:
+
+> **da normatividade derivada herdada à pergunta por quem responde; da responsabilidade situada do ser reflexivo à dignidade como limite normativo forte; da dignidade à vida boa apenas prudencial e corrigível; e só terminalmente ao possível real como travão contra responsabilidade, dignidade ou vida boa impossíveis.**
+
+Fórmula curta:
+
+> `P46/P47 herdados → P49 → P50 → P51 → P48 terminal`.
+
+Regra final:
+
+> O Capítulo 11 só permanece fiel ao seu centro se não repetir a normatividade do Capítulo 10, se abrir pela responsabilidade situada e não por dignidade abstrata, se fizer da dignidade limite forte e não formalismo pronto, se tratar a vida boa apenas como fecho prudencial, e se terminar antes de coordenação, direito, política ou sistema.
 
 <a id="capitulo-auditoria-pos-confronto"></a>
 ## Auditoria_pos_confronto

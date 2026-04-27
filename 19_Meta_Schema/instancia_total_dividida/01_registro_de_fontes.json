@@ -1,0 +1,466 @@
+{
+  "registro_de_fontes": [
+    {
+      "fonte_id": "SRC_FRAGMENTOS_RESEGMENTADOS",
+      "nome": "fragmentos_resegmentados",
+      "path": "/mnt/data/fragmentos_resegmentados.json",
+      "camada": "empirica_base",
+      "estatuto": "soberana",
+      "precedencia": 1,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "base_empirica",
+      "observacoes": [
+        "Base empírica primária dos fragmentos resegmentados."
+      ]
+    },
+    {
+      "fonte_id": "SRC_CONTAINERS_SEGMENTACAO",
+      "nome": "containers_segmentacao",
+      "path": "/mnt/data/containers_segmentacao.json",
+      "camada": "empirica_base",
+      "estatuto": "canonica",
+      "precedencia": 2,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "base_empirica",
+      "observacoes": [
+        "Permite reintegrar cada fragmento no container de origem."
+      ]
+    },
+    {
+      "fonte_id": "SRC_CORPUS_LIMPO_TODOS",
+      "nome": "corpus_limpo_todos",
+      "path": "/mnt/data/corpus_limpo_todos.json",
+      "camada": "textual_derivada",
+      "estatuto": "derivada",
+      "precedencia": 3,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": [
+        "Camada textual derivada pós-limpeza com revisão humana sinalizada."
+      ]
+    },
+    {
+      "fonte_id": "SRC_CADENCIA_EXTRAIDA",
+      "nome": "cadencia_extraida",
+      "path": "/mnt/data/cadencia_extraida.json",
+      "camada": "analitica_derivada",
+      "estatuto": "canonica",
+      "precedencia": 4,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": [
+        "Função estrutural de cada fragmento no movimento do livro."
+      ]
+    },
+    {
+      "fonte_id": "SRC_TRATAMENTO_FILOSOFICO",
+      "nome": "tratamento_filosofico_fragmentos",
+      "path": "/mnt/data/tratamento_filosofico_fragmentos.json",
+      "camada": "analitica_derivada",
+      "estatuto": "canonica",
+      "precedencia": 5,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": [
+        "Tratamento filosófico dirigido dos fragmentos."
+      ]
+    },
+    {
+      "fonte_id": "SRC_IMPACTO_MAPA",
+      "nome": "impacto_fragmentos_no_mapa",
+      "path": "/mnt/data/impacto_fragmentos_no_mapa.json",
+      "camada": "analitica_derivada",
+      "estatuto": "canonica",
+      "precedencia": 6,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": [
+        "Confronto sistemático entre fragmentos e mapa dedutivo."
+      ]
+    },
+    {
+      "fonte_id": "SRC_ARVORE_PENSAMENTO",
+      "nome": "arvore_do_pensamento_v1",
+      "path": "/mnt/data/arvore_do_pensamento_v1.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 7,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "projecao_regeneravel",
+      "observacoes": [
+        "Estrutura fragmento→microlinha→ramo→percurso."
+      ]
+    },
+    {
+      "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS",
+      "nome": "adjudicacao_argumentos_api_v1",
+      "path": "/mnt/data/adjudicacao_argumentos_api_v1.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 8,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": [
+        "Adjudicação posterior de argumentos por ramo."
+      ]
+    },
+    {
+      "fonte_id": "SRC_RELATORIO_REVISAO_ARGUMENTOS",
+      "nome": "relatorio_revisao_argumentos_restritiva_v1",
+      "path": "/mnt/data/relatorio_revisao_argumentos_restritiva_v1.txt",
+      "camada": "arbitragem_transversal",
+      "estatuto": "historica_auditavel",
+      "precedencia": 9,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "auditavel_historico",
+      "observacoes": [
+        "Relatório restritivo anterior que mantém conflitos abertos."
+      ]
+    },
+    {
+      "fonte_id": "SRC_ARGUMENTOS_UNIFICADOS",
+      "nome": "argumentos_unificados",
+      "path": "/mnt/data/argumentos_unificados.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 10,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "projecao_regeneravel",
+      "observacoes": [
+        "Repositório canónico dos argumentos unificados."
+      ]
+    },
+    {
+      "fonte_id": "SRC_MAPA_DEDUTIVO_CANONICO",
+      "nome": "mapa_dedutivo_canonico_final",
+      "path": "/mnt/data/mapa_dedutivo_canonico_final.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "soberana",
+      "precedencia": 11,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_conteudo",
+      "observacoes": [
+        "Fonte normativa prevalecente para passos canónicos e corredores fechados."
+      ]
+    },
+    {
+      "fonte_id": "SRC_TODOS_OS_CONCEITOS",
+      "nome": "todos_os_conceitos",
+      "path": "/mnt/data/todos_os_conceitos.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 12,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "projecao_regeneravel",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_OPERACOES",
+      "nome": "operacoes",
+      "path": "/mnt/data/operacoes.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 13,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "projecao_regeneravel",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_CONTEXTO_COMPACTO",
+      "nome": "CONTEXTO_ESTRUTURAL_COMPACTO_DO_REAL__V2",
+      "path": "/mnt/data/CONTEXTO_ESTRUTURAL_COMPACTO_DO_REAL__V2.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 14,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "governa_conteudo",
+      "observacoes": [
+        "Contexto transversal compacto; não substitui fontes canónicas."
+      ]
+    },
+    {
+      "fonte_id": "SRC_PROLOGO",
+      "nome": "PROLOGO_ONT_EPIST_MINIMO_SUBMISSAO_AO_REAL",
+      "path": "/mnt/data/PROLOGO_ONT_EPIST_MINIMO_SUBMISSAO_AO_REAL.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 15,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "governa_conteudo",
+      "observacoes": [
+        "Abertura soberana do livro."
+      ]
+    },
+    {
+      "fonte_id": "SRC_GRELHA",
+      "nome": "GRELHA_MINIMA_RECONHECIMENTO_FILOSOFICO_DISCIPLINADO_v2",
+      "path": "/mnt/data/GRELHA_MINIMA_RECONHECIMENTO_FILOSOFICO_DISCIPLINADO_v2.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 16,
+      "obrigatoria": true,
+      "schema_version": "2.0.0",
+      "modo_de_uso": "governa_transicao",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_README_FINAL_METODO",
+      "nome": "14_README_FINAL_METODO_CONTINUIDADE_E_DESCIDA_EXPOSITIVA_CONTROLADA",
+      "path": "/mnt/data/14_README_FINAL_METODO_CONTINUIDADE_E_DESCIDA_EXPOSITIVA_CONTROLADA.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 17,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "governa_transicao",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_FAIXA_01",
+      "nome": "CONSOLIDACAO_FAIXA_EXPOSITIVA_ABERTURA_BLOCO2_CF04_P25",
+      "path": "/mnt/data/CONSOLIDACAO_FAIXA_EXPOSITIVA_ABERTURA_BLOCO2_CF04_P25.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "operativa_local",
+      "precedencia": 18,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "governa_transicao",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_NOTA_DESTINACAO",
+      "nome": "NOTA_DE_DESTINACAO_DA_OBRA",
+      "path": "/mnt/data/NOTA_DE_DESTINACAO_DA_OBRA.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 19,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "governa_voz",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_NOTA_LEITURA",
+      "nome": "NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO",
+      "path": "/mnt/data/NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 20,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "governa_voz",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_MAPEAMENTO_CAPITULOS",
+      "nome": "MAPEAMENTO_FRAGMENTOS_POR_CAPITULO",
+      "path": "/mnt/data/MAPEAMENTO_FRAGMENTOS_POR_CAPITULO.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "operativa_local",
+      "precedencia": 21,
+      "obrigatoria": true,
+      "schema_version": null,
+      "modo_de_uso": "governa_transicao",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_MERGED_DESCIDA_FAIXAS",
+      "nome": "MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS",
+      "path": "/mnt/data/MERGED__DESCIDA_EXPOSITIVA_CONTROLADA_FAIXAS_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "operativa_local",
+      "precedencia": 22,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_transicao",
+      "observacoes": [
+        "Agregação ativa das faixas expositivas controladas."
+      ]
+    },
+    {
+      "fonte_id": "SRC_MERGED_TRANSICAO_FASE",
+      "nome": "MERGED__90_transicao_para_proxima_fase",
+      "path": "/mnt/data/MERGED__90_transicao_para_proxima_fase_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "operativa_local",
+      "precedencia": 23,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_transicao",
+      "observacoes": [
+        "Decisões de passagem entre faixas."
+      ]
+    },
+    {
+      "fonte_id": "SRC_README_CAPITULOS",
+      "nome": "00_README_OPERATIVO_CAPITULOS__ATUALIZADO_v3",
+      "path": "/mnt/data/00_README_OPERATIVO_CAPITULOS__ATUALIZADO_v3.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 24,
+      "obrigatoria": false,
+      "schema_version": "3.0.0",
+      "modo_de_uso": "governa_conteudo",
+      "observacoes": [
+        "Governo corrente da pasta 09_capitulos."
+      ]
+    },
+    {
+      "fonte_id": "SRC_MERGED_CAPITULOS_CAMADAS",
+      "nome": "MERGED__09_capitulos__CAMADAS_ESTRUTURAIS",
+      "path": "/mnt/data/MERGED__09_capitulos__CAMADAS_ESTRUTURAIS.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 25,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_conteudo",
+      "observacoes": [
+        "Agregação mestre das camadas estruturais da pasta de capítulos."
+      ]
+    },
+    {
+      "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS",
+      "nome": "MERGED__02_capitulos_provisorios",
+      "path": "/mnt/data/MERGED__02_capitulos_provisorios.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 26,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_conteudo",
+      "observacoes": [
+        "Agregação das pastas locais já abertas."
+      ]
+    },
+    {
+      "fonte_id": "SRC_DOSSIERS_CF",
+      "nome": "DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF18",
+      "path": "/mnt/data/DOSSIERS_FINAIS_ESTABILIZADOS__MERGED_CF01_a_CF18.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "historica_auditavel",
+      "precedencia": 27,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "auditavel_historico",
+      "observacoes": [
+        "Dossiers estabilizados CF01–CF18."
+      ]
+    },
+    {
+      "fonte_id": "SRC_CONTEUDO_COMPLETO_PERCURSOS",
+      "nome": "conteudo_completo_percursos",
+      "path": "/mnt/data/conteudo_completo_percursos.txt",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 28,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "projecao_regeneravel",
+      "observacoes": [
+        "Dump completo dos percursos."
+      ]
+    },
+    {
+      "fonte_id": "SRC_MAPA_ARQUITETURA_FRAGMENTOS",
+      "nome": "02_mapa_dedutivo_arquitetura_fragmentos",
+      "path": "/mnt/data/02_mapa_dedutivo_arquitetura_fragmentos.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 29,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": [
+        "Arquitetura fragmentária do mapa dedutivo."
+      ]
+    },
+    {
+      "fonte_id": "SRC_CONTAINERS_SEGMENTACAO_EXTRA",
+      "nome": "containers_segmentacao__run_nao_resegmentados__20260404_182036",
+      "path": "containers_segmentacao__run_nao_resegmentados__20260404_182036.json",
+      "camada": "empirica_base",
+      "estatuto": "historica_auditavel",
+      "precedencia": 3,
+      "obrigatoria": false,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "auditavel_historico",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_INDICE_PERCURSOS",
+      "nome": "indice_de_percursos",
+      "path": "indice_de_percursos.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "canonica",
+      "precedencia": 1,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_PROPOSICOES_EXTRAIDAS",
+      "nome": "proposicoes",
+      "path": "proposicoes.json",
+      "camada": "estrutural_canonica",
+      "estatuto": "derivada",
+      "precedencia": 2,
+      "obrigatoria": true,
+      "schema_version": "1.1.0",
+      "modo_de_uso": "leitura_derivada",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_TESTE_COMPATIBILIDADE",
+      "nome": "TESTE_COMPATIBILIDADE_ESPINHA_PROLOGO_GRELHA",
+      "path": "TESTE_COMPATIBILIDADE_ESPINHA_PROLOGO_GRELHA.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 2,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_transicao",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_CF_MINI_CONSOLIDACAO",
+      "nome": "CF01_CF16_mini_consolidacao_transversal",
+      "path": "CF01_CF16_mini_consolidacao_transversal.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 2,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_transicao",
+      "observacoes": []
+    },
+    {
+      "fonte_id": "SRC_CF_ALINHAMENTO_MACRO",
+      "nome": "CF01_CF16_alinhamento_macro_sequencial_provisorio",
+      "path": "CF01_CF16_alinhamento_macro_sequencial_provisorio.md",
+      "camada": "expositiva_governativa",
+      "estatuto": "governativa",
+      "precedencia": 2,
+      "obrigatoria": true,
+      "schema_version": "1.0.0",
+      "modo_de_uso": "governa_transicao",
+      "observacoes": []
+    }
+  ]
+}

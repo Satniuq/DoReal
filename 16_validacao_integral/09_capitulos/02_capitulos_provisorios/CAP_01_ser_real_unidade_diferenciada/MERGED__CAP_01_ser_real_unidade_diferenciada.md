@@ -1,6 +1,6 @@
 # MERGED — CAP_01_ser_real_unidade_diferenciada
 
-- Gerado em: `2026-04-26 23:28:52`
+- Gerado em: `2026-04-27 19:39:44`
 - Pasta local: `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada`
 - Ficheiros incluídos: `9`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_01_ser_real_unidade_diferenciada/MERGED__CAP_01_ser_real_unidade_diferenciada.md`
@@ -2405,7 +2405,7 @@ Não é ainda a redação final publicada do capítulo. A sua função é conver
 
 O capítulo deve continuar a dizer primeiro o que é: o ser enquanto determinação inscrita no real. Só depois deve mostrar que modos de dizer ficam bloqueados, por que razão ficam bloqueados, que pressupostos errados os sustentam, e como devem ser reinscritos no real.
 
-A crítica aqui não é uma segunda peça ao lado da exposição. É uma função acompanhante da escrita. Entra para proteger a determinação positiva contra os seus falsos substitutos: substância separada, coisa isolada, essência fora do real, contentor neutro, bloco homogéneo, átomo disperso, ato subjetivo ou sistema fechado.
+A crítica aqui não é uma segunda peça ao lado da exposição. É uma função acompanhante da escrita. Entra para proteger a determinação positiva contra os seus falsos substitutos: substância separada, coisa isolada, essência fora do real, contentor neutro, bloco homogéneo, átomo disperso, ato subjetivo, sistema fechado ou indeterminação absoluta.
 
 ### limite
 
@@ -2428,7 +2428,7 @@ O `07` não reabre essa decisão. Não acrescenta novo núcleo material. Não mu
 
 O que este ficheiro faz é preparar a escrita final, tornando mais explícito o modo como a crítica acompanha a exposição positiva. O capítulo deve continuar a avançar pela cadeia:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser como inscrição determinada no real.
 
 A diferença está no grau de integração crítica: cada passo deve dizer o real e, logo depois, mostrar o falso dizer que esse passo impede.
 
@@ -2456,7 +2456,7 @@ Esta fórmula deve comandar todo o capítulo. Nada deve deslocá-la para ser com
 
 A cadeia positiva a preservar é:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser como inscrição determinada no real.
 
 Esta cadeia não é uma lista de definições. É um avanço interno. Cada passo exige o seguinte:
 
@@ -2465,7 +2465,7 @@ Esta cadeia não é uma lista de definições. É um avanço interno. Cada passo
 - se há relacionalidade mínima, há articulação estrutural;
 - se há estrutura, há limite;
 - se há limite, há determinação;
-- se há determinação, há exclusão funcional;
+- se há determinação, há exclusão funcional e inadmissibilidade;
 - se há determinações sob limite, o real é continuidade estruturada;
 - se o real é continuidade estruturada de determinações, o ser é inscrição determinada no real.
 
@@ -2475,7 +2475,7 @@ A fórmula axial do Capítulo 1 é:
 
 - **ser no real:** determinação inscrita no real;
 - **dizer do ser:** substância, coisa, essência, contentor, bloco ou átomo isolado;
-- **erro da proposição não real:** substituir a inscrição real por imagem substancialista, atomística, monista, subjetivista ou sistémica;
+- **erro da proposição não real:** substituir a inscrição real por imagem substancialista, atomística, monista, subjetivista, negativista ou sistémica;
 - **reinscrição no real:** ser como determinação inscrita numa continuidade estruturada sob limite.
 
 Esta fórmula deve permanecer como grelha interna de escrita, não como fórmula repetida mecanicamente a cada parágrafo.
@@ -2494,13 +2494,13 @@ Esta fórmula deve permanecer como grelha interna de escrita, não como fórmula
 
 #### Ponto crítico 2 — relacionalidade
 
-- **passo positivo:** a distinção implica relacionalidade mínima; distinguir é já afirmar uma não-identidade e, portanto, um entre mínimo.
+- **passo positivo:** a distinção implica relacionalidade mínima; distinguir é já afirmar uma não-identidade e, portanto, um entre mínimo no interior de um campo real comum.
 - **posição-tipo bloqueada:** diferença como atomismo, isto é, como soma de entidades absolutamente isoladas.
 - **acerto local da posição:** vê corretamente que a diferença é real e que a unidade do real não pode apagar determinações.
 - **deslocação:** isola os termos antes da relação e trata a relação como adição posterior.
 - **pressuposto errado:** pressupõe que algo possa estar determinado primeiro como ilha ontológica e só depois entrar em relação.
 - **crítica curta:** uma diferença sem qualquer relação, nem sequer relação de não-identidade, deixa de ser diferença inteligível.
-- **reinscrição:** a relacionalidade mínima é a não-identidade implicada pela distinção; não é causalidade, mediação, interação psicológica ou sistema.
+- **reinscrição:** a relacionalidade mínima é a não-identidade implicada pela distinção no campo comum do real; não é causalidade, mediação, interação psicológica ou sistema.
 
 #### Ponto crítico 3 — estrutura
 
@@ -2522,15 +2522,15 @@ Esta fórmula deve permanecer como grelha interna de escrita, não como fórmula
 - **crítica curta:** sem limite não há determinação mais rica, mas indistinção; o ilimitado absoluto não liberta o ser, dissolve-o.
 - **reinscrição:** limite é diferenciação estrutural entre admissível e não-admissível no interior do real.
 
-#### Ponto crítico 5 — determinação e não-ser funcional
+#### Ponto crítico 5 — determinação, não-ser funcional e inadmissibilidade
 
-- **passo positivo:** determinação é estabilização relacional de distinções sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação.
+- **passo positivo:** determinação é estabilização relacional de distinções sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação, e a inadmissibilidade como aquilo que o limite torna impossível naquela determinação.
 - **posição-tipo bloqueada:** determinação como substância rígida; não-ser como entidade negativa, região oposta ou força rival do ser.
 - **acerto local da posição:** vê corretamente que a determinação exige estabilidade e que determinar implica excluir.
 - **deslocação:** reifica a estabilidade como coisa e hipostasia a exclusão como entidade.
 - **pressuposto errado:** pressupõe que só uma substância pode ser estável e que toda exclusão precisa de um domínio próprio.
 - **crítica curta:** a determinação não precisa de ser substância para ser estável; e o não-ser não precisa de existir como entidade para funcionar como exclusão.
-- **reinscrição:** determinar é fixar relacionalmente sob limite; não-ser é o nome funcional do que fica excluído por essa fixação.
+- **reinscrição:** determinar é fixar relacionalmente sob limite; não-ser é o nome funcional do que fica excluído por essa fixação; inadmissibilidade é o nome do que o limite real não permite naquele campo determinado.
 
 #### Ponto crítico 6 — real como continuidade estruturada
 
@@ -2564,6 +2564,8 @@ O Capítulo 1 deve bloquear, de forma curta e funcional, as seguintes posições
 6. **Limite como restrição exterior** — o limite é pensado como empobrecimento imposto a algo que seria primeiro ilimitado.
 7. **Não-ser como entidade negativa** — o não-ser é pensado como região, força ou entidade oposta ao ser.
 8. **Distinção como ato subjetivo** — a distinção é pensada como operação do sujeito que recorta o real.
+9. **Relação como ponte posterior** — a relação é pensada como ligação externa entre termos já previamente isolados.
+10. **Continuidade estruturada como aparecer** — a estrutura ontológica do real é confundida com a sua manifestação a um ente situado.
 
 Estas posições não são tratadas como escolas históricas a comentar. São operações típicas de substituição do real por imagem.
 
@@ -2579,6 +2581,8 @@ O capítulo deve ser justo. Uma posição só é criticada corretamente quando s
 - **Posições negativistas** veem corretamente que determinar exclui; deslocam-se quando transformam a exclusão funcional em entidade negativa.
 - **Posições que falam de limite como perda** veem corretamente que o limite exclui; deslocam-se quando esquecem que essa exclusão é condição interna da determinação.
 - **Posições que falam do real como contentor** veem corretamente que há um âmbito comum; deslocam-se quando tratam esse âmbito como recipiente exterior às próprias determinações reais.
+- **Posições que falam de relação como ligação posterior** veem corretamente que as determinações podem relacionar-se de modos diversos; deslocam-se quando ignoram que já há relacionalidade mínima na própria distinção.
+- **Posições que confundem estrutura com aparecer** veem corretamente que o real pode aparecer; deslocam-se quando antecipam para este capítulo a teoria da apreensão situada.
 
 A crítica deve operar neste ponto: reconhecer o acerto parcial, isolar o deslocamento e reinscrever a intuição no real.
 
@@ -2660,7 +2664,7 @@ O capítulo começa aqui porque qualquer começo mais alto já pressuporia aquil
 
 A sua cadeia é esta:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser como inscrição determinada no real.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser como inscrição determinada no real.
 
 A crítica entrará em cada passo apenas para impedir o desvio. Primeiro será dito o positivo; depois será mostrado o falso modo de o dizer; por fim, esse falso dizer será reinscrito no real.
 
@@ -2692,13 +2696,15 @@ Dizer que algo é distinguível implica já uma relação mínima. Não se trata
 
 Esse entre não é uma terceira coisa colocada entre duas substâncias. Não é um espaço exterior ao real. Não é uma ponte construída depois entre ilhas já prontas. É a forma mínima pela qual a distinção é inteligível: uma diferença só é diferença porque há não-identidade.
 
+Mas esta não-identidade também não paira no vazio. Ela só é inteligível no campo comum do real. A relação mínima não vem juntar termos previamente isolados. Ela exprime que a distinção só pode ser inteligível num mesmo real em que algo se distingue de algo. O distinto não é ilha; é diferença inscrita no campo real em que pode ser distinguida.
+
 O falso modo de dizer a diferença é o atomismo. A posição atomística vê corretamente que a diferença é real. Recusa, com razão, uma unidade que apagaria todas as determinações. Mas desloca esse acerto quando imagina que os termos distintos estão primeiro isolados e só depois entram em relação.
 
 O pressuposto errado é que algo pode ser plenamente o que é antes de qualquer relação mínima. Mas uma diferença absolutamente sem relação não seria sequer diferença. Se nada liga A e B nem sequer como não-identidade, então não há critério mínimo para dizer que A é distinto de B.
 
 A crítica curta é esta: não há distinção sem relacionalidade mínima; uma diferença sem qualquer entre desfaz-se como diferença.
 
-A reinscrição correta não transforma esta relacionalidade em sistema, mediação ou causalidade. Mantém-na baixa: relacionalidade mínima é apenas a não-identidade implicada pela distinção. O capítulo precisa dela para impedir dois erros simétricos: o bloco homogéneo, que apaga diferença, e o atomismo absoluto, que perde o campo comum da diferença.
+A reinscrição correta não transforma esta relacionalidade em sistema, mediação ou causalidade. Mantém-na baixa: relacionalidade mínima é apenas a não-identidade implicada pela distinção no campo comum do real. O capítulo precisa dela para impedir dois erros simétricos: o bloco homogéneo, que apaga diferença, e o atomismo absoluto, que perde o campo comum da diferença.
 
 A segunda determinação positiva fica assim:
 
@@ -2746,7 +2752,7 @@ A quarta determinação positiva fica assim:
 
 > sem limite, não há existência determinada.
 
-### 6. Determinação e não-ser funcional
+### 6. Determinação, não-ser funcional e inadmissibilidade
 
 Determinação é a estabilização relacional de uma distinção sob limite.
 
@@ -2760,19 +2766,21 @@ O pressuposto errado é que só uma substância pode permanecer determinada. Mas
 
 Da determinação decorre o não-ser funcional. Aquilo que uma determinação é exclui aquilo que ela não é. Mas essa exclusão não deve ser transformada em entidade. O não-ser, aqui, não é região, força, substância negativa ou mundo rival. É apenas o nome funcional do que fica excluído pelo limite de uma determinação.
 
+Entra aqui também a inadmissibilidade. Se há limite, nem tudo é admissível naquela determinação. O nada absoluto não é uma alternativa ontológica ao real; e o não-admissível não é um segundo mundo. É aquilo que, naquele recorte determinado, o limite real não permite. A determinação não abre apenas uma identidade; abre também um campo de exclusões reais.
+
 A posição que hipostasia o não-ser vê corretamente que determinar implica excluir. Mas desloca esse acerto quando dá à exclusão estatuto próprio, como se o que não é precisasse de existir como domínio oposto ao ser.
 
 A crítica curta é esta: determinar é excluir, mas a exclusão não é uma entidade.
 
-A reinscrição correta mantém determinação e não-ser no real. Determinação é fixação relacional sob limite. Não-ser funcional é a exclusão implicada por essa fixação. A determinação não é substância; o não-ser não é coisa negativa.
+A reinscrição correta mantém determinação, não-ser e inadmissibilidade no real. Determinação é fixação relacional sob limite. Não-ser funcional é a exclusão implicada por essa fixação. Inadmissibilidade é o que o limite não permite naquela determinação. A determinação não é substância; o não-ser não é coisa negativa; a inadmissibilidade não é outro domínio.
 
 A quinta determinação positiva fica assim:
 
-> determinar é estabilizar relacionalmente sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação.
+> determinar é estabilizar relacionalmente sob limite; o não-ser entra apenas como exclusão funcional implicada pela determinação, e a inadmissibilidade como limite real do que pode caber nela.
 
 ### 7. Real como continuidade estruturada
 
-Com distinção, relacionalidade mínima, estrutura, limite, determinação e não-ser funcional, já se pode dizer o real de modo mais preciso.
+Com distinção, relacionalidade mínima, estrutura, limite, determinação, não-ser funcional e inadmissibilidade, já se pode dizer o real de modo mais preciso.
 
 O real não é bloco homogéneo. Se fosse bloco homogéneo, a unidade apagaria distinção, limite e determinação. Nada seria inteligível como algo. A unidade seria obtida à custa da diferença.
 
@@ -2790,7 +2798,7 @@ A crítica curta é esta: a unidade do real não apaga diferença; a diferença 
 
 A reinscrição correta é a continuidade estruturada.
 
-O real é continuidade porque não há exterioridade ao real e porque nenhuma determinação existe fora do campo real em que se inscreve. É estruturado porque essa continuidade não apaga distinções, relações, limites e determinações. É uno sem ser homogéneo. É diferenciado sem ser disperso. É articulado sem ser sistema fechado.
+O real é continuidade porque não há exterioridade ao real e porque nenhuma determinação existe fora do campo real em que se inscreve. É estruturado porque essa continuidade não apaga distinções, relações, limites, determinações e inadmissibilidades. É uno sem ser homogéneo. É diferenciado sem ser disperso. É articulado sem ser sistema fechado.
 
 Esta formulação é o ponto de equilíbrio do capítulo. Ela impede o bloco homogéneo e impede a coleção atomística. Permite dizer que o real permanece um, mas uma unidade diferenciada; e permite dizer que há diferença, mas diferença inscrita numa continuidade comum.
 
@@ -2802,7 +2810,9 @@ A sexta determinação positiva fica assim:
 
 Só agora o capítulo pode dizer o ser.
 
-Se o capítulo começasse pelo ser em abstrato, abriria imediatamente o risco de o transformar em substância, essência separada, entidade superior, presença autoportante ou palavra vazia. Por isso, o ser deve vir depois da cadeia que o torna inteligível: distinção, relacionalidade mínima, estrutura, limite, determinação, não-ser funcional e real como continuidade estruturada.
+Se o capítulo começasse pelo ser em abstrato, abriria imediatamente o risco de o transformar em substância, essência separada, entidade superior, presença autoportante ou palavra vazia. Por isso, o ser deve vir depois da cadeia que o torna inteligível: distinção, relacionalidade mínima, estrutura, limite, determinação, não-ser funcional, inadmissibilidade e real como continuidade estruturada.
+
+Se o real é continuidade estruturada de determinações sob limite, então ser não pode significar subsistir fora dessa continuidade. Ser é estar determinado nela. O ser não vem antes do real para depois nele entrar. Também não paira acima do real como fundamento separado. Ser é modo determinado de estar no real.
 
 Ser não é estar fora do real. Não é vir antes do real. Não é subsistir acima da relação, do limite e da determinação. Não é coisa colocada dentro de um contentor. Ser é determinação inscrita no real.
 
@@ -2834,6 +2844,8 @@ O capítulo ainda não pergunta como o real aparece. Ainda não pergunta como um
 
 Todos esses planos dependem de um chão anterior: algo tem de ser determinável no real antes de poder aparecer, ser apreendido, representado, dito, corrigido ou tornado objeto de orientação prática.
 
+Por isso, é preciso travar uma última confusão. A relação estrutural que torna algo determinável ainda não é o aparecer desse algo. A continuidade estruturada do real não é ainda experiência do real. É apenas o chão sem o qual o aparecer poderá depois ser pensado.
+
 O que ficou ganho é precisamente isto: o ser não é substância separada; o real não é bloco homogéneo nem contentor de coisas isoladas; a unidade do real é continuidade estruturada; e qualquer ser só é inteligível como determinação inscrita nesse real.
 
 A entrega ao capítulo seguinte deve ser mínima e explícita:
@@ -2852,10 +2864,13 @@ Essa pergunta já não pertence ao Capítulo 1. Pertence ao Capítulo 2.
 | real como contentor | vê que há um âmbito comum onde as determinações aparecem | transforma o real em recipiente neutro para coisas já feitas | o real estaria exterior às suas determinações | real como continuidade estruturada de determinações |
 | unidade como bloco | vê que o real não é pura dispersão | apaga distinção, limite e diferença | unidade verdadeira exige homogeneidade | unidade do real como continuidade diferenciada |
 | diferença como atomismo | vê que há diferença real | isola entidades antes de qualquer relação mínima | algo pode ser determinado sem relação | diferença como distinção inscrita em relacionalidade mínima |
+| relação como ponte posterior | vê que determinações podem relacionar-se | trata a relação como ligação externa entre termos já prontos | primeiro há ilhas ontológicas, só depois há relação | relacionalidade mínima como não-identidade implicada pela distinção |
 | estrutura como sistema | vê que há articulação necessária | transforma articulação mínima em sistema fechado ou esquema imposto | só há estrutura onde há sistema | estrutura como articulação mínima de distinções sob relação |
 | limite como restrição exterior | vê que o limite exclui | interpreta a exclusão como empobrecimento externo | o ser seria primeiro ilimitado e só depois restringido | limite como condição interna da determinação |
 | não-ser como entidade negativa | vê que determinar implica excluir | hipostasia a exclusão como região ou força oposta ao ser | toda exclusão precisa de domínio próprio | não-ser como exclusão funcional implicada pelo limite |
+| inadmissibilidade como outro domínio | vê que há impossibilidades reais | transforma o não-admissível em região separada | o que não cabe numa determinação teria estatuto próprio fora dela | inadmissibilidade como efeito interno do limite real |
 | distinção como ato subjetivo | vê que sujeitos apreendem e nomeiam distinções | faz da apreensão subjetiva a origem da distinção | o real seria indiferenciado até ser recortado pelo sujeito | distinção mínima como condição ontológica da determinabilidade |
+| continuidade estruturada como aparecer | vê que o real pode aparecer | antecipa a teoria da apreensão situada | estrutura ontológica e aparecer seriam o mesmo problema | continuidade estruturada como chão anterior ao aparecer |
 
 ---
 
@@ -2873,9 +2888,18 @@ O ficheiro não deslocou o capítulo para aparecer, consciência, linguagem, ver
 
 A cadeia preservada é:
 
-> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional → real como continuidade estruturada → ser.
+> distinção → relacionalidade mínima → estrutura → limite → determinação → não-ser funcional / inadmissibilidade → real como continuidade estruturada → ser.
 
 A cadeia foi mantida como avanço interno. A crítica não alterou a ordem; apenas acompanhou cada passo para bloquear o falso dizer correspondente.
+
+### apertos integrados nesta versão
+
+Esta versão integrou quatro apertos locais:
+
+1. **não-ser / inadmissibilidade** — o não-ser funcional deixou de ser apenas exclusão lógica e passou a aparecer como exclusão/inadmissibilidade real sob limite;
+2. **campo comum** — a relacionalidade mínima foi explicitada como não-identidade inscrita no campo comum do real, não como ponte posterior entre ilhas;
+3. **fronteira relação/aparecer** — o fecho deixa claro que relação estrutural e continuidade estruturada ainda não são aparecer nem experiência;
+4. **ponte continuidade → ser** — a passagem para ser como inscrição ficou mais explícita: se o real é continuidade estruturada de determinações, ser é estar determinado nela.
 
 ### crítica subordinada
 
@@ -2901,10 +2925,13 @@ Foram bloqueadas:
 - real como contentor;
 - unidade homogénea;
 - atomismo da diferença;
+- relação como ponte posterior;
 - estrutura como sistema;
 - limite como restrição exterior;
 - não-ser como entidade negativa;
-- distinção como ato subjetivo.
+- inadmissibilidade como outro domínio;
+- distinção como ato subjetivo;
+- confusão entre continuidade estruturada e aparecer.
 
 Cada posição foi reconhecida no seu acerto parcial antes de ser reinscrita.
 
@@ -2938,4 +2965,4 @@ A única abertura terminal é a pergunta que entrega o Capítulo 2, sem desenvol
 
 ### fórmula final
 
-> O Capítulo 1 fixa o chão ontológico mínimo: só há ser como determinação inscrita no real; e só há determinação porque o real comporta distinção, relacionalidade, estrutura e limite sem se tornar bloco homogéneo nem dispersão atomística.
+> O Capítulo 1 fixa o chão ontológico mínimo: só há ser como determinação inscrita no real; e só há determinação porque o real comporta distinção, relacionalidade, estrutura, limite e inadmissibilidade sem se tornar bloco homogéneo, contentor neutro ou dispersão atomística.

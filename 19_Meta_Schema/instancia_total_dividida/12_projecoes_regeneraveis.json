@@ -1,0 +1,260 @@
+{
+  "projecoes_regeneraveis": [
+    {
+      "id": "PRJ_ARVORE_LARGA_01",
+      "nome": "Árvore do pensamento — slice larga",
+      "tipo": "arvore_do_pensamento",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_ARVORE_PENSAMENTO"
+        },
+        {
+          "fonte_id": "SRC_FRAGMENTOS_RESEGMENTADOS"
+        },
+        {
+          "fonte_id": "SRC_CADENCIA_EXTRAIDA"
+        }
+      ],
+      "regra_de_geracao": "Projetar 309 fragmentos selecionados nas suas microlinhas, ramos e percursos estabilizados, preservando estados locais e exceções.",
+      "artefactos_gerados": [
+        "fragmentos→microlinhas",
+        "microlinhas→ramos",
+        "ramos→percursos"
+      ],
+      "perda_admitida": "A slice não cobre os 538 fragmentos-base.",
+      "perda_nao_admitida": "Não perder exceções, ramos selecionados nem percursos estabilizados."
+    },
+    {
+      "id": "PRJ_CORPUS_LIMPO_LARGO_01",
+      "nome": "Corpus limpo — slice larga",
+      "tipo": "corpus_pos_limpeza",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+        },
+        {
+          "fonte_id": "SRC_FRAGMENTOS_RESEGMENTADOS"
+        }
+      ],
+      "regra_de_geracao": "Usar o texto limpo quando disponível e manter memória explícita dos casos sem limpeza ou com revisão humana.",
+      "artefactos_gerados": [
+        "texto_limpo_por_fragmento",
+        "fila_de_revisao_humana",
+        "casos_nao_processados"
+      ],
+      "perda_admitida": "Pode faltar limpeza em alguns fragmentos sem interromper a base empírica.",
+      "perda_nao_admitida": "Não apagar texto bruto nem sinalização de revisão humana."
+    },
+    {
+      "id": "PRJ_MAPA_EPISTEMOLOGICO_01",
+      "nome": "Mapa dedutivo — corredor P33–P37",
+      "tipo": "mapa_dedutivo",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_MAPA_DEDUTIVO_CANONICO"
+        },
+        {
+          "fonte_id": "SRC_IMPACTO_MAPA"
+        },
+        {
+          "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+        }
+      ],
+      "regra_de_geracao": "Projetar o corredor P33–P37 como sequência mínima fechada, com apoio fragmentário e arbitragem canónica.",
+      "artefactos_gerados": [
+        "passos_canónicos",
+        "apoios_fragmentários",
+        "fecho_de_corredor"
+      ],
+      "perda_admitida": "Não incluir todo o bloco V.",
+      "perda_nao_admitida": "Não perder a mediação P36_SP01 nem o fecho local do corredor."
+    },
+    {
+      "id": "PRJ_MAPA_ANTROPOLOGICO_01",
+      "nome": "Mapa dedutivo — corredor P23–P31",
+      "tipo": "mapa_dedutivo",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_MAPA_DEDUTIVO_CANONICO"
+        },
+        {
+          "fonte_id": "SRC_MERGED_DESCIDA_FAIXAS"
+        },
+        {
+          "fonte_id": "SRC_DOSSIERS_CF"
+        }
+      ],
+      "regra_de_geracao": "Projetar o corredor P23–P31 em regime ainda disciplinado por faixas, sem antecipar fechos não autorizados.",
+      "artefactos_gerados": [
+        "passos_P23_a_P31",
+        "faixas_CF04_CF05_CF06_CF08",
+        "travoes_de_passagem"
+      ],
+      "perda_admitida": "O corredor não fica todo fechado.",
+      "perda_nao_admitida": "Não antecipar P26/CF05, nem soberanizar consciência, representação ou memória."
+    },
+    {
+      "id": "PRJ_MAPA_ETICO_01",
+      "nome": "Mapa dedutivo — zona P38–P50",
+      "tipo": "mapa_dedutivo",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_MAPA_DEDUTIVO_CANONICO"
+        },
+        {
+          "fonte_id": "SRC_IMPACTO_MAPA"
+        },
+        {
+          "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+        }
+      ],
+      "regra_de_geracao": "Projetar a passagem da ação situada à normatividade derivada e ao dano real sem moralização.",
+      "artefactos_gerados": [
+        "P38_a_P50",
+        "apoio_fragmentário_ético",
+        "tensões_com_capitulo_11"
+      ],
+      "perda_admitida": "A vida boa prudencial permanece apenas em povoamento inicial.",
+      "perda_nao_admitida": "Não autonomizar normatividade nem deslocar o conteúdo por destinação expositiva."
+    },
+    {
+      "id": "PRJ_CAPITULOS_ONDA_01",
+      "nome": "Capítulos — primeira onda povoada na instância larga",
+      "tipo": "arquitetura_capitular",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_MAPEAMENTO_CAPITULOS"
+        },
+        {
+          "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+        },
+        {
+          "fonte_id": "SRC_README_CAPITULOS"
+        }
+      ],
+      "regra_de_geracao": "Projetar capítulos libertados ou abertos localmente sem planificação narrativa.",
+      "artefactos_gerados": [
+        "capitulos_povoados",
+        "refs_fragmentarias",
+        "refs_cf"
+      ],
+      "perda_admitida": "Não abrir ainda capítulo tardio explícito para crítica sistémica.",
+      "perda_nao_admitida": "Não fundir capítulos iniciais nem reabsorver prólogo e grelha."
+    },
+    {
+      "id": "PRJ_FAIXAS_MULTI_01",
+      "nome": "Faixas expositivas controladas — conjunto largo",
+      "tipo": "arquitetura_capitular",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_MERGED_DESCIDA_FAIXAS"
+        },
+        {
+          "fonte_id": "SRC_MERGED_TRANSICAO_FASE"
+        },
+        {
+          "fonte_id": "SRC_README_FINAL_METODO"
+        }
+      ],
+      "regra_de_geracao": "Projetar 10 faixas reais com os seus limites e transições prudentes.",
+      "artefactos_gerados": [
+        "faixas_01_02_03_05_06_10_11_12_13_14",
+        "limites_locais",
+        "regras_de_transicao"
+      ],
+      "perda_admitida": "Não incluir faixas posteriores ainda não abertas.",
+      "perda_nao_admitida": "Não perder os limites locais de P25, CF08, CF09 e CF10."
+    },
+    {
+      "id": "PRJ_CRITICA_TARDIA_01",
+      "nome": "Crítica sistémica tardia — slice larga",
+      "tipo": "mapa_dedutivo",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_CONTEUDO_COMPLETO_PERCURSOS"
+        },
+        {
+          "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+        },
+        {
+          "fonte_id": "SRC_NOTA_DESTINACAO"
+        }
+      ],
+      "regra_de_geracao": "Projetar o material crítico-sistémico tardio como percurso e não como abertura de capítulo positivo.",
+      "artefactos_gerados": [
+        "percurso_critico",
+        "fragmentos_tardios",
+        "lacuna_capitular_explicita"
+      ],
+      "perda_admitida": "A crítica tardia permanece sem capítulo local próprio nesta instância.",
+      "perda_nao_admitida": "Não deixar a crítica tardia reordenar o tronco positivo."
+    },
+    {
+      "id": "PRJ_ARBITRAGEM_LARGA_01",
+      "nome": "Arbitragem transversal — conjunto largo",
+      "tipo": "contexto_compacto",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_RELATORIO_REVISAO_ARGUMENTOS"
+        },
+        {
+          "fonte_id": "SRC_ADJUDICACAO_ARGUMENTOS"
+        },
+        {
+          "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+        },
+        {
+          "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+        }
+      ],
+      "regra_de_geracao": "Projetar conflitos de cobertura, validação, limpeza e adjudicação sem apagar a memória de tensões anteriores.",
+      "artefactos_gerados": [
+        "registros_de_arbitragem",
+        "lacunas_ativas",
+        "pendencias_de_revisao_humana"
+      ],
+      "perda_admitida": "A arbitragem não cobre o projeto inteiro.",
+      "perda_nao_admitida": "Não apagar conflitos ativos nem substituir prudência por automatismo."
+    },
+    {
+      "id": "PRJ_TOTAL_01",
+      "nome": "Instância total integrada do projeto",
+      "tipo": "contexto_compacto",
+      "fontes_necessarias": [
+        {
+          "fonte_id": "SRC_FRAGMENTOS_RESEGMENTADOS"
+        },
+        {
+          "fonte_id": "SRC_CORPUS_LIMPO_TODOS"
+        },
+        {
+          "fonte_id": "SRC_CADENCIA_EXTRAIDA"
+        },
+        {
+          "fonte_id": "SRC_TRATAMENTO_FILOSOFICO"
+        },
+        {
+          "fonte_id": "SRC_IMPACTO_MAPA"
+        },
+        {
+          "fonte_id": "SRC_ARVORE_PENSAMENTO"
+        },
+        {
+          "fonte_id": "SRC_ARGUMENTOS_UNIFICADOS"
+        },
+        {
+          "fonte_id": "SRC_CONTEUDO_COMPLETO_PERCURSOS"
+        },
+        {
+          "fonte_id": "SRC_MERGED_CAPITULOS_PROVISORIOS"
+        }
+      ],
+      "regra_de_geracao": "Integrar todas as camadas disponíveis sem achatamento e com arbitragem explícita quando houver conflito ou lacuna.",
+      "artefactos_gerados": [
+        "instancia_total_real_meta_schema_mestre_v0_2.json"
+      ],
+      "perda_admitida": "inexistência de tratamento filosófico em 3 fragmentos; expositividade ainda parcial de alguns corredores tardios",
+      "perda_nao_admitida": "colapso entre conteúdo e voz; substituição do real por coerência interna"
+    }
+  ]
+}
