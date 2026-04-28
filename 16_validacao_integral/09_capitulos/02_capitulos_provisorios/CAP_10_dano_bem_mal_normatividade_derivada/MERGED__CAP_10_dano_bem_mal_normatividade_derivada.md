@@ -1,6 +1,6 @@
 # MERGED — CAP_10_dano_bem_mal_normatividade_derivada
 
-- Gerado em: `2026-04-27 19:39:44`
+- Gerado em: `2026-04-28 00:30:32`
 - Pasta local: `02_capitulos_provisorios/CAP_10_dano_bem_mal_normatividade_derivada`
 - Ficheiros incluídos: `9`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_10_dano_bem_mal_normatividade_derivada/MERGED__CAP_10_dano_bem_mal_normatividade_derivada.md`

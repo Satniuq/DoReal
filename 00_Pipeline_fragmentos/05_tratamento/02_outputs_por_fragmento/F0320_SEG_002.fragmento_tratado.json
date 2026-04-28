@@ -1,0 +1,286 @@
+{
+  "fragment_id": "F0320_SEG_002",
+  "camada_empirica": {
+    "origem": {
+      "ficheiro": "run_nao_processados_novos__20260427_225500.md",
+      "origem_id": "F0320",
+      "data": "2026-04-27",
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0320 — 2026-04-27",
+      "ordem_no_ficheiro": 14,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0320",
+          "paragrafos_origem": [
+            "F0320_P01"
+          ],
+          "unidades_origem": [
+            "F0320_U04",
+            "F0320_U05"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "fragmento_editorial",
+    "texto_fragmento": "Ah, estava a pensar na visão, estava a pensar no, sei lá, num jogo qualquer de basquete ou de futebol, uma coisa qualquer de corrida, em que o foco está nos objetivos executáveis para melhorar o jogo e para ser o melhor jogador naquele jogo que está a ter.\n\nPara depois chegar ao resultado que se pretende ter.",
+    "texto_normalizado": "Ah, estava a pensar na visão, estava a pensar no, sei lá, num jogo qualquer de basquete ou de futebol, uma coisa qualquer de corrida, em que o foco está nos objetivos executáveis para melhorar o jogo e para ser o melhor jogador naquele jogo que está a ter.\n\nPara depois chegar ao resultado que se pretende ter.",
+    "texto_fonte_reconstituido": "Ah, estava a pensar na visão, estava a pensar no, sei lá, num jogo qualquer de basquete ou de futebol, uma coisa qualquer de corrida, em que o foco está nos objetivos executáveis para melhorar o jogo e para ser o melhor jogador naquele jogo que está a ter.\n\nPara depois chegar ao resultado que se pretende ter.",
+    "paragrafos_agregados": 1,
+    "frases_aproximadas": 2,
+    "n_chars_fragmento": 310,
+    "densidade_aprox": "media",
+    "segmentacao": {
+      "tipo_unidade": "desenvolvimento_curto",
+      "criterio_de_unidade": "continuidade_argumentativa",
+      "houve_fusao_de_paragrafos": false,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "desenvolvimento",
+    "tema_dominante_provisorio": "foco em objetivos executáveis para alcançar um resultado",
+    "conceitos_relevantes_provisorios": [
+      "visão",
+      "foco",
+      "objetivos executáveis",
+      "melhoria do jogo",
+      "resultado"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0320_SEG_001",
+      "fragmento_seguinte": "F0320_SEG_003",
+      "continua_anterior": true,
+      "prepara_seguinte": true
+    },
+    "_metadados_segmentador": {
+      "modelo": "gpt-5.4",
+      "versao_segmentador": "resegmentador_semantico_v6_0_duas_fases_openai",
+      "timestamp": "2026-04-27T21:57:40Z",
+      "hash_texto_normalizado": "e1ae979c56e2a07f8c1a9fc349b33ced7cba9daff2ec6c0b3772d6b4be382e21",
+      "modo_interno": true
+    }
+  },
+  "camada_textual_derivada": {
+    "estado_limpeza": "limpeza_minima",
+    "texto_limpo": "Ah, estava a pensar na visão, estava a pensar num jogo qualquer de basquete ou de futebol, ou numa coisa qualquer de corrida, em que o foco está nos objetivos executáveis para melhorar o jogo e para ser o melhor jogador naquele jogo que está a ter, para depois chegar ao resultado que se pretende ter.",
+    "resumo_alteracoes": [
+      "Suprimidas hesitações orais mínimas sem valor semântico forte.",
+      "Regularizada pontuação para continuidade da frase.",
+      "Mantida a indeterminação dos exemplos e do termo 'visão'."
+    ],
+    "notas_cautela": [
+      "Fragmento de tom oral e editorial.",
+      "O alcance de 'visão' não fica definido no excerto.",
+      "Revisão humana recomendada antes de uso expositivo forte."
+    ],
+    "modelo": "gpt-5.4",
+    "gerado_em_utc": "2026-04-28T00:00:06Z",
+    "sinalizar_revisao_humana": true
+  },
+  "camada_analitica": {
+    "cadencia": {
+      "funcao_cadencia_principal": "desenvolvimento",
+      "funcao_cadencia_secundaria": null,
+      "direcao_movimento": "prolonga",
+      "grau_de_abertura_argumentativa": "desenvolvimento",
+      "centralidade": "auxiliar",
+      "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+      "zona_provavel_percurso": "indefinida",
+      "ponte_entre_zonas": false,
+      "prepara_fragmento_seguinte": true,
+      "fecha_algo_anterior": false,
+      "incide_sobre_erro": false,
+      "familia_erro_provavel": "nao_aplicavel",
+      "erro_dominante_provavel": null,
+      "dominio_contributivo_principal": "misto",
+      "tipo_fragmento_provavel": "exemplo_analogico_operacional",
+      "aproveitamento_editorial": "material_a_retrabalhar",
+      "necessita_revisao_humana": true,
+      "confianca_cadencia": "media",
+      "justificacao_curta_cadencia": "O fragmento prolonga uma linha de pensamento por analogia prática: toma jogos e corrida para ilustrar foco em objetivos executáveis orientados a melhoria e resultado, mas sem estabilizar tese filosófica própria."
+    },
+    "tratamento_filosofico": {
+      "explicacao_textual_do_que_o_fragmento_tenta_fazer": "O fragmento parece procurar uma imagem operativa da 'visão' como focalização prática: em vez de uma formulação abstrata, recorre ao exemplo de jogos ou corrida para mostrar um regime em que a atenção se concentra em objetivos executáveis, orientados para melhorar o desempenho e alcançar um resultado pretendido. Filosoficamente, isto sugere mais uma lógica instrumental de orientação da ação do que uma tese ontológica ou epistemológica fechada.",
+      "trabalho_no_sistema": "fornece_analogia_operativa",
+      "trabalho_no_sistema_secundario": "prepara_clarificacao_de_orientacao_pratica",
+      "descricao_funcional_curta": "Usa uma analogia desportiva para pensar foco prático em objetivos executáveis orientados a resultado.",
+      "problema_filosofico_central": "orientacao_pratica_por_objetivos",
+      "problemas_filosoficos_associados": [
+        "visão como orientação",
+        "relação entre foco e execução",
+        "melhoria operacional",
+        "relação entre meios e resultado"
+      ],
+      "tipo_de_problema": "misto",
+      "posicao_no_indice": {
+        "parte_id": null,
+        "capitulo_id": null,
+        "capitulo_titulo": null,
+        "subcapitulo_ou_zona_interna": null,
+        "argumento_canonico_relacionado": null,
+        "argumentos_canonicos_associados": [],
+        "grau_de_pertenca_ao_indice": "indefinida",
+        "modo_de_pertenca": "material_a_retrabalhar",
+        "justificacao_de_posicao_no_indice": "O excerto é demasiado analógico, oral e pouco determinado para fixar inserção canónica segura."
+      },
+      "estrutura_analitica": {
+        "objeto_em_analise": "A ideia de visão ou foco é aproximada de um contexto competitivo em que se definem objetivos executáveis para melhorar o desempenho e alcançar um resultado pretendido.",
+        "plano_ontologico": "Não explicitado no fragmento; não há tese sobre o ser em causa para além de uma orientação prática situada.",
+        "plano_epistemologico": "Sugere uma forma de orientação por focalização e definição de objetivos, mas sem explicitar critério de verdade ou adequação.",
+        "plano_etico": "Pode tocar indiretamente a ideia de melhoria, mas sem formular bem, norma ou valor em sentido filosófico forte.",
+        "plano_antropologico": "Pressupõe um agente capaz de focar, executar e orientar-se por fins num contexto de prática.",
+        "plano_mediacional": "Há recurso a exemplo representacional e comparativo para tornar pensável uma ideia ainda pouco estabilizada.",
+        "distincao_central": "Objetivos executáveis versus resultado pretendido.",
+        "dependencia_principal": "O resultado pretendido depende de foco em objetivos executáveis e melhoria do desempenho no contexto dado.",
+        "criterio_implicado": "Eficiência prática relativa ao jogo ou prova em curso.",
+        "erro_visado": "Não explicitado; apenas se sugere implicitamente a insuficiência de um foco não operacional.",
+        "consequencia_principal": "A visão é apresentada como orientação prática para ação executável em direção a um resultado.",
+        "pressuposto_ontologico_principal": "Há uma situação real de prática em que desempenho, meios e resultado se articulam.",
+        "pressupostos_secundarios": [
+          "Melhorar o jogo exige discriminar objetivos executáveis.",
+          "Ser melhor no contexto em curso depende de orientação focalizada."
+        ]
+      },
+      "potencial_argumentativo": {
+        "estado_argumentativo": "formulacao_pre_argumentativa",
+        "premissas_implicitas": [
+          "Para melhorar um desempenho, é preciso orientar a atenção por objetivos executáveis.",
+          "Os resultados pretendidos não se alcançam apenas por intenção geral, mas por focalização prática em meios operáveis."
+        ],
+        "premissa_central_reconstruida": "A orientação eficaz de uma prática passa por concentrar o foco em objetivos executáveis ajustados ao contexto.",
+        "conclusao_visada": "Essa focalização permite melhorar o desempenho e aproximar o resultado pretendido.",
+        "forma_de_inferencia": "analogia_pratica",
+        "forca_logica_estimada": "baixa",
+        "argumento_reconstruivel": true,
+        "necessita_reconstrucao_forte": true,
+        "observacoes_argumentativas": "Há um núcleo reconstruível de relação entre meios executáveis e fim, mas o fragmento não fixa alcance filosófico nem critério geral."
+      },
+      "relacoes_no_sistema": {
+        "depende_de_conceitos": [],
+        "mobiliza_operacoes": [],
+        "regimes_envolvidos": [
+          "orientacao_pratica",
+          "representacao_analogica"
+        ],
+        "percursos_envolvidos": [],
+        "abre_para": [
+          "clarificacao_da_relacao_entre_meios_e_fins",
+          "eventual_distinguir_visao_geral_de_execucao_operativa"
+        ],
+        "corrige": [],
+        "prepara": [
+          "possivel_desenvolvimento_sobre_criterio_pratico_ou_estrategia"
+        ],
+        "pressupoe": [],
+        "entra_em_tensao_com": []
+      },
+      "destino_editorial": {
+        "destino_editorial_fino": "material_a_retrabalhar",
+        "papel_editorial_primario": "apoio_analogico_local",
+        "papel_editorial_secundario": "material_a_retrabalhar",
+        "prioridade_de_revisao": "alta",
+        "prioridade_de_aproveitamento": "baixa",
+        "requer_reescrita": true,
+        "requer_densificacao": true,
+        "requer_formalizacao_logica": false,
+        "observacoes_editoriais": "Pode servir como exemplo ilustrativo de orientação prática, mas não deve suportar passo estrutural sem contexto adjacente e retrabalho."
+      },
+      "avaliacao_global": {
+        "densidade_filosofica": "baixa",
+        "clareza_atual": "razoavelmente_claro",
+        "grau_de_estabilizacao": "provisorio",
+        "risco_de_ma_interpretacao": "medio",
+        "confianca_tratamento_filosofico": "media",
+        "necessita_revisao_humana_filosofica": true
+      }
+    },
+    "impacto_no_mapa": {
+      "resumo_do_fragmento_para_o_mapa": "Usa uma analogia desportiva para apresentar a visão como foco em objetivos executáveis orientados para melhorar o desempenho e alcançar um resultado pretendido.",
+      "tese_principal_relevante": "A orientação prática pode ser pensada como focalização em objetivos executáveis subordinados a um resultado pretendido.",
+      "zona_filosofica_dominante": "indefinida",
+      "tipo_de_utilidade_principal": "analogica",
+      "proposicoes_do_mapa_tocadas": [],
+      "efeito_principal_no_mapa": "sem_impacto_relevante",
+      "efeitos_secundarios": [
+        "pode ilustrar localmente uma relação entre meios operativos e fim"
+      ],
+      "impacto_editorial_e_dedutivo": {
+        "tipo_de_densificacao": "nao_se_aplica",
+        "o_que_o_fragmento_acrescenta_ao_mapa": "Acrescenta apenas uma imagem prática de focalização operativa.",
+        "justificacao_nova_que_fornece": "Não fornece justificação estrutural nova suficientemente determinada.",
+        "objecoes_que_ajuda_a_bloquear": [],
+        "mediacao_que_fornece": "analogia local de orientação por meios executáveis",
+        "conceitos_ou_distincoes_novas": [],
+        "obriga_a_reescrever_o_passo": false,
+        "obriga_a_dividir_o_passo": false,
+        "obriga_a_criar_passo_intermedio": false,
+        "proposta_de_nova_formulacao": null,
+        "proposta_de_novo_passo": null,
+        "entre_que_passos_deveria_entrar": []
+      },
+      "decisao_final": {
+        "acao_recomendada_sobre_o_mapa": "sem_acao",
+        "prioridade_editorial": "baixa",
+        "confianca_da_analise": "media",
+        "necessita_revisao_humana": true,
+        "observacao_final": "Fragmento útil como apoio ilustrativo fraco, sem força suficiente para associação canónica segura."
+      }
+    },
+    "proposicoes_extraidas": []
+  },
+  "camada_estrutural": {
+    "conceitos_acionados": [],
+    "operacoes_acionadas": [],
+    "proposicoes_relacionadas": [],
+    "argumentos_relacionados": [],
+    "percursos_relacionados": [],
+    "ramos_relacionados": []
+  },
+  "camada_expositiva": {
+    "cfs_envolvidos": [],
+    "capitulos_envolvidos": [],
+    "faixas_envolvidas": [],
+    "papel_editorial": "api_ok",
+    "travoes": [
+      "não usar como prova estrutural fechada",
+      "não usar isoladamente para fixar conceito de visão",
+      "revisão humana obrigatória antes de uso expositivo forte"
+    ],
+    "fontes_locais_governativas": [
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_GRELHA_RECONHECIMENTO"
+      },
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_PROLOGO_SOBERANO"
+      },
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_README_CAPITULOS"
+      },
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_README_FINAL_METODO"
+      }
+    ]
+  },
+  "estado_local": {
+    "estado_validacao": "valido_com_cautela",
+    "estado_excecao": "sem_excecao_mas_baixa_confianca",
+    "excecao_ids": [],
+    "necessita_revisao_humana": true,
+    "confianca": "media"
+  },
+  "_metadados_tratamento_incremental": {
+    "versao_script": "tratamento_fragmentos_resegmentados_api_v1_3",
+    "modelo": "gpt-5.4",
+    "gerado_em_utc": "2026-04-28T00:00:06Z",
+    "hash_texto_empirico": "e1ae979c56e2a07f8c1a9fc349b33ced7cba9daff2ec6c0b3772d6b4be382e21",
+    "gerado_por_api": true
+  }
+}

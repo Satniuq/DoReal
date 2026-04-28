@@ -1,0 +1,22 @@
+RESSEGMENTADOR SEMÂNTICO — RELATÓRIO
+========================================================================
+Input: containers_segmentacao__run_fragmentos_novos__20260427_234128.json
+Output JSON: fragmentos_resegmentados__run_fragmentos_novos__20260427_234128.json
+Versão: resegmentador_semantico_v6_0_duas_fases_openai_pipeline
+
+Pastas
+------------------------------------------------------------------------
+- run_dir=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128
+- resegmentacao=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\03_resegmentacao
+- validacao=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\04_validacao
+- relatorios=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\05_relatorios
+- pronto_para_integrar=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\04_outputs_prontos_para_integrar\fragmentos_resegmentados__run_fragmentos_novos__20260427_234128.json
+
+Resumo
+------------------------------------------------------------------------
+- containers_ok=1
+- containers_erro=0
+- containers_com_corte_interno=1
+- total_fragmentos=3
+- validacao_valido=True
+- n_erros_validacao=0

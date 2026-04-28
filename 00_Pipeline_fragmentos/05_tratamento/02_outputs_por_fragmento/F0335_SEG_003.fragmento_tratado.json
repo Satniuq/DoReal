@@ -1,0 +1,282 @@
+{
+  "fragment_id": "F0335_SEG_003",
+  "camada_empirica": {
+    "origem": {
+      "ficheiro": "run_fragmentos_novos__20260427_234128.md",
+      "origem_id": "F0335",
+      "data": "2026-04-27",
+      "titulo_container": null,
+      "tem_header_formal": true,
+      "header_original": "## F0335 — 2026-04-27",
+      "ordem_no_ficheiro": 1,
+      "blocos_fonte": [
+        {
+          "bloco_id": "F0335",
+          "paragrafos_origem": [
+            "F0335_P01"
+          ],
+          "unidades_origem": [
+            "F0335_U12",
+            "F0335_U13"
+          ]
+        }
+      ]
+    },
+    "tipo_material_fonte": "fragmento_editorial",
+    "texto_fragmento": "E isto e para outras coisas, mas pronto, esses foram os exemplos que agora me lembrei.\n\nJá tinha pensado noutros, mas por acaso não gravei.",
+    "texto_normalizado": "E isto e para outras coisas, mas pronto, esses foram os exemplos que agora me lembrei.\n\nJá tinha pensado noutros, mas por acaso não gravei.",
+    "texto_fonte_reconstituido": "E isto e para outras coisas, mas pronto, esses foram os exemplos que agora me lembrei.\n\nJá tinha pensado noutros, mas por acaso não gravei.",
+    "paragrafos_agregados": 1,
+    "frases_aproximadas": 2,
+    "n_chars_fragmento": 139,
+    "densidade_aprox": "baixa",
+    "segmentacao": {
+      "tipo_unidade": "afirmacao_curta",
+      "criterio_de_unidade": "fecho_local",
+      "houve_fusao_de_paragrafos": false,
+      "houve_corte_interno": true,
+      "container_tipo_segmentacao": "segmentacao_semantica_duas_fases"
+    },
+    "funcao_textual_dominante": "sintese",
+    "tema_dominante_provisorio": "fecho dos exemplos lembrados e menção a outros não registados",
+    "conceitos_relevantes_provisorios": [
+      "exemplos",
+      "outras coisas",
+      "memória",
+      "não gravado"
+    ],
+    "integridade_semantica": {
+      "grau": "alto"
+    },
+    "confianca_segmentacao": "alta",
+    "relacoes_locais": {
+      "fragmento_anterior": "F0335_SEG_002",
+      "fragmento_seguinte": null,
+      "continua_anterior": true,
+      "prepara_seguinte": false
+    },
+    "_metadados_segmentador": {
+      "modelo": "gpt-5.4",
+      "versao_segmentador": "resegmentador_semantico_v6_0_duas_fases_openai_pipeline",
+      "timestamp": "2026-04-27T22:41:40Z",
+      "hash_texto_normalizado": "270d01fdf383dd85bbb1282698183abe82fe2661e4b857b51dfc8fe73585d666",
+      "modo_interno": true
+    }
+  },
+  "camada_textual_derivada": {
+    "estado_limpeza": "limpeza_minima",
+    "texto_limpo": "E isto é para outras coisas, mas pronto, esses foram os exemplos que agora me lembrei. Já tinha pensado noutros, mas por acaso não gravei.",
+    "resumo_alteracoes": [
+      "Correção mínima de legibilidade e acentuação.",
+      "Unificação dos parágrafos num contínuo curto sem alterar o sentido.",
+      "Preservada a oralidade e a incompletude editorial do fecho."
+    ],
+    "notas_cautela": [
+      "Fragmento editorial e oral, com função de fecho local.",
+      "A expressão \"outras coisas\" permanece indeterminada e não deve ser preenchida por inferência forte.",
+      "A menção a exemplos não gravados assinala lacuna de registo, não conteúdo recuperável."
+    ],
+    "modelo": "gpt-5.4",
+    "gerado_em_utc": "2026-04-27T23:35:07Z",
+    "sinalizar_revisao_humana": true
+  },
+  "camada_analitica": {
+    "cadencia": {
+      "funcao_cadencia_principal": "fecho_local",
+      "funcao_cadencia_secundaria": "meta_enunciativa",
+      "direcao_movimento": "fecha",
+      "grau_de_abertura_argumentativa": "fecho",
+      "centralidade": "auxiliar",
+      "estatuto_no_percurso": "solto_ainda_sem_encaixe",
+      "zona_provavel_percurso": "indefinida",
+      "ponte_entre_zonas": false,
+      "prepara_fragmento_seguinte": false,
+      "fecha_algo_anterior": true,
+      "incide_sobre_erro": false,
+      "familia_erro_provavel": "nao_aplicavel",
+      "erro_dominante_provavel": null,
+      "dominio_contributivo_principal": "organizacao_do_discurso",
+      "tipo_fragmento_provavel": "afirmacao_curta",
+      "aproveitamento_editorial": "material_a_retrabalhar",
+      "necessita_revisao_humana": true,
+      "confianca_cadencia": "alta",
+      "justificacao_curta_cadencia": "O fragmento fecha a sequência de exemplos lembrados no momento da fala e assinala, de modo meta-enunciativo, que outros exemplos pensados não foram registados."
+    },
+    "tratamento_filosofico": {
+      "explicacao_textual_do_que_o_fragmento_tenta_fazer": "O fragmento não introduz uma tese filosófica nova. Limita-se a encerrar uma série exemplificativa, indicando que os exemplos dados são apenas os que ocorreram naquele momento e que existiriam outros não gravados. O seu valor é sobretudo editorial e meta-discursivo: mostra a diferença entre o que foi pensado, o que foi lembrado ao dizer e o que ficou efectivamente registado.",
+      "trabalho_no_sistema": "marcacao_de_limite_expositivo",
+      "trabalho_no_sistema_secundario": "assinala_lacuna_de_registo",
+      "descricao_funcional_curta": "Fecho oral dos exemplos disponíveis e indicação de outros não registados.",
+      "problema_filosofico_central": "indefinido",
+      "problemas_filosoficos_associados": [
+        "memória situada",
+        "seleção exemplificativa",
+        "diferença entre pensar e registar",
+        "limite do material disponível"
+      ],
+      "tipo_de_problema": "meta-discursivo",
+      "posicao_no_indice": {
+        "parte_id": null,
+        "capitulo_id": null,
+        "capitulo_titulo": null,
+        "subcapitulo_ou_zona_interna": null,
+        "argumento_canonico_relacionado": null,
+        "argumentos_canonicos_associados": [],
+        "grau_de_pertenca_ao_indice": "indefinida",
+        "modo_de_pertenca": "material_a_retrabalhar",
+        "justificacao_de_posicao_no_indice": "O texto não sustenta por si só encaixe doutrinal ou capitular; funciona apenas como fecho de exemplificação e nota sobre a contingência do registo."
+      },
+      "estrutura_analitica": {
+        "objeto_em_analise": "O fecho dos exemplos lembrados no momento e a indicação de que havia outros pensados mas não gravados.",
+        "plano_ontologico": "Não explicitado pelo fragmento.",
+        "plano_epistemologico": "Aparece apenas de forma fraca, como limitação da recordação e do registo.",
+        "plano_etico": "Não explicitado.",
+        "plano_antropologico": "Presença mínima de memória situada e falibilidade do registo.",
+        "plano_mediacional": "Há diferença entre pensar, dizer e gravar, mas apenas em regime indicativo e não teorizado.",
+        "distincao_central": "Entre exemplos efectivamente ditos e exemplos apenas pensados mas não registados.",
+        "dependencia_principal": "Dependência do conteúdo disponível em relação à memória momentânea e ao acto de gravação.",
+        "criterio_implicado": "O que entra no discurso depende do que foi lembrado e efectivamente gravado.",
+        "erro_visado": "Nenhum erro filosófico é visado de forma explícita.",
+        "consequencia_principal": "O fragmento reduz o alcance dos exemplos apresentados e impede tomá-los como inventário exaustivo.",
+        "pressuposto_ontologico_principal": "Há diferença real entre o pensado, o dito e o registado.",
+        "pressupostos_secundarios": [
+          "A exemplificação disponível é contingente.",
+          "A ausência de registo não autoriza reconstrução substantiva do que falta."
+        ]
+      },
+      "potencial_argumentativo": {
+        "estado_argumentativo": "pre_argumentativo",
+        "premissas_implicitas": [],
+        "premissa_central_reconstruida": "Os exemplos apresentados não esgotam o campo, porque outros chegaram a ser pensados sem terem sido gravados.",
+        "conclusao_visada": "Os exemplos dados devem ser lidos como parciais e contingentes.",
+        "forma_de_inferencia": "delimitacao_meta-discursiva",
+        "forca_logica_estimada": "baixa",
+        "argumento_reconstruivel": true,
+        "necessita_reconstrucao_forte": false,
+        "observacoes_argumentativas": "Há apenas uma delimitação do alcance expositivo; não há desenvolvimento suficiente para converter isto em argumento filosófico forte."
+      },
+      "relacoes_no_sistema": {
+        "depende_de_conceitos": [],
+        "mobiliza_operacoes": [],
+        "regimes_envolvidos": [
+          "oralidade",
+          "editorialidade",
+          "fecho_exemplificativo"
+        ],
+        "percursos_envolvidos": [],
+        "abre_para": [],
+        "corrige": [],
+        "prepara": [],
+        "pressupoe": [],
+        "entra_em_tensao_com": []
+      },
+      "destino_editorial": {
+        "destino_editorial_fino": "nota_editorial_de_fecho",
+        "papel_editorial_primario": "material_a_retrabalhar",
+        "papel_editorial_secundario": "apoio_de_contexto",
+        "prioridade_de_revisao": "alta",
+        "prioridade_de_aproveitamento": "baixa",
+        "requer_reescrita": false,
+        "requer_densificacao": false,
+        "requer_formalizacao_logica": false,
+        "observacoes_editoriais": "Útil para preservar contexto de oralidade e incompletude do registo, mas fraco para uso filosófico autónomo."
+      },
+      "avaliacao_global": {
+        "densidade_filosofica": "baixa",
+        "clareza_atual": "claro",
+        "grau_de_estabilizacao": "baixo",
+        "risco_de_ma_interpretacao": "medio",
+        "confianca_tratamento_filosofico": "alta",
+        "necessita_revisao_humana_filosofica": true
+      }
+    },
+    "impacto_no_mapa": {
+      "resumo_do_fragmento_para_o_mapa": "Fecho editorial dos exemplos lembrados no momento da fala, com indicação de que havia outros exemplos pensados mas não gravados.",
+      "tese_principal_relevante": "Os exemplos apresentados são parciais e dependentes do que foi lembrado e registado.",
+      "zona_filosofica_dominante": "meta_discursiva",
+      "tipo_de_utilidade_principal": "editorial",
+      "proposicoes_do_mapa_tocadas": [],
+      "efeito_principal_no_mapa": "sem_impacto_relevante",
+      "efeitos_secundarios": [
+        "delimita o alcance dos exemplos anteriores",
+        "assinala lacuna de registo sem conteúdo recuperável"
+      ],
+      "impacto_editorial_e_dedutivo": {
+        "tipo_de_densificacao": "nao_se_aplica",
+        "o_que_o_fragmento_acrescenta_ao_mapa": "Acrescenta apenas cautela quanto ao carácter não exaustivo dos exemplos dados.",
+        "justificacao_nova_que_fornece": "Não fornece justificação filosófica nova; apenas enquadra editorialmente a exemplificação anterior.",
+        "objecoes_que_ajuda_a_bloquear": [
+          "leitura dos exemplos como lista completa ou sistemática"
+        ],
+        "mediacao_que_fornece": "fornece apenas mediação editorial mínima entre fala, memória e registo",
+        "conceitos_ou_distincoes_novas": [],
+        "obriga_a_reescrever_o_passo": false,
+        "obriga_a_dividir_o_passo": false,
+        "obriga_a_criar_passo_intermedio": false,
+        "proposta_de_nova_formulacao": null,
+        "proposta_de_novo_passo": null,
+        "entre_que_passos_deveria_entrar": []
+      },
+      "decisao_final": {
+        "acao_recomendada_sobre_o_mapa": "sem_acao",
+        "prioridade_editorial": "baixa",
+        "confianca_da_analise": "alta",
+        "necessita_revisao_humana": true,
+        "observacao_final": "Fragmento de fecho oral e editorial, sem força bastante para impacto estrutural no mapa."
+      }
+    },
+    "proposicoes_extraidas": []
+  },
+  "camada_estrutural": {
+    "conceitos_acionados": [],
+    "operacoes_acionadas": [],
+    "proposicoes_relacionadas": [],
+    "argumentos_relacionados": [],
+    "percursos_relacionados": [],
+    "ramos_relacionados": []
+  },
+  "camada_expositiva": {
+    "cfs_envolvidos": [],
+    "capitulos_envolvidos": [],
+    "faixas_envolvidas": [],
+    "papel_editorial": "api_ok",
+    "travoes": [
+      "não usar como prova estrutural fechada",
+      "não extrair doutrina de uma nota de fecho oral",
+      "manter como material de enquadramento editorial ou contextual",
+      "revisão humana obrigatória antes de qualquer aproveitamento expositivo"
+    ],
+    "fontes_locais_governativas": [
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_GRELHA_RECONHECIMENTO"
+      },
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_PROLOGO_SOBERANO"
+      },
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_README_CAPITULOS"
+      },
+      {
+        "tipo_entidade": "peca_governativa",
+        "id": "PG_README_FINAL_METODO"
+      }
+    ]
+  },
+  "estado_local": {
+    "estado_validacao": "valido_com_cautela",
+    "estado_excecao": "sem_excecao_mas_baixa_forca_filosofica",
+    "excecao_ids": [],
+    "necessita_revisao_humana": true,
+    "confianca": "alta"
+  },
+  "_metadados_tratamento_incremental": {
+    "versao_script": "tratamento_fragmentos_resegmentados_api_v1_3",
+    "modelo": "gpt-5.4",
+    "gerado_em_utc": "2026-04-27T23:35:07Z",
+    "hash_texto_empirico": "270d01fdf383dd85bbb1282698183abe82fe2661e4b857b51dfc8fe73585d666",
+    "gerado_por_api": true
+  }
+}

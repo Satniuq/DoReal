@@ -1,0 +1,42 @@
+RUN DE CONTAINERS — NÃO RESEGMENTADOS
+========================================================================
+Input: fragmentos_nao_processados__apenas_novos.md
+Markdown run: run_fragmentos_novos__20260427_234128.md
+Containers JSON: containers_segmentacao__run_fragmentos_novos__20260427_234128.json
+Validação JSON: relatorio_validacao_containers__run_fragmentos_novos__20260427_234128.json
+
+Pastas
+------------------------------------------------------------------------
+- run_dir=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128
+- input=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\00_input
+- match=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\01_match
+- containers=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\02_containers
+- validacao=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\04_validacao
+- relatorios=C:\Users\vanes\DoReal_Casa_Local\DoReal\00_Pipeline_fragmentos\03_runs\run_fragmentos_novos__20260427_234128\05_relatorios
+
+Deteção de numeração
+------------------------------------------------------------------------
+- start_forcado=335
+
+Parsing / limpeza
+------------------------------------------------------------------------
+- blocos_brutos=1
+- blocos_ignorados_controlo=0
+- blocos_removidos_duplicado_exato=0
+- blocos_removidos_superbloco=0
+- blocos_run=1
+
+Resumo
+------------------------------------------------------------------------
+- blocos_run: 1
+- primeiro_id: F0335
+- ultimo_id: F0335
+- validacao_estado: ok
+- cobertura_total_ok: True
+- ordem_total_ok: True
+- ids_ok: True
+- containers_vazios_ok: True
+
+Sinais por bloco
+------------------------------------------------------------------------
+- F0335: sem_sinais

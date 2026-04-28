@@ -1,6 +1,6 @@
 # MERGED — CAP_05_memoria_permanencia_interna_identidade_temporal
 
-- Gerado em: `2026-04-27 19:39:44`
+- Gerado em: `2026-04-28 00:30:32`
 - Pasta local: `02_capitulos_provisorios/CAP_05_memoria_permanencia_interna_identidade_temporal`
 - Ficheiros incluídos: `9`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_05_memoria_permanencia_interna_identidade_temporal/MERGED__CAP_05_memoria_permanencia_interna_identidade_temporal.md`

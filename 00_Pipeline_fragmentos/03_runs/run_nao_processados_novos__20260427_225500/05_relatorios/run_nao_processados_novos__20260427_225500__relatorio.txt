@@ -1,0 +1,60 @@
+RUN DE CONTAINERS — NÃO RESEGMENTADOS
+========================================================================
+Input: fragmentos_nao_processados__apenas_novos.md
+Markdown run: run_nao_processados_novos__20260427_225500.md
+Containers JSON: containers_segmentacao__run_nao_processados_novos__20260427_225500.json
+Validação JSON: relatorio_validacao_containers__run_nao_processados_novos__20260427_225500.json
+
+Deteção de numeração
+------------------------------------------------------------------------
+- start_forcado=307
+
+Parsing / limpeza
+------------------------------------------------------------------------
+- blocos_brutos=28
+- blocos_ignorados_controlo=0
+- blocos_removidos_duplicado_exato=0
+- blocos_removidos_superbloco=0
+- blocos_run=28
+
+Resumo
+------------------------------------------------------------------------
+- blocos_run: 28
+- primeiro_id: F0307
+- ultimo_id: F0334
+- validacao_estado: ok
+- cobertura_total_ok: True
+- ordem_total_ok: True
+- ids_ok: True
+- containers_vazios_ok: True
+
+Sinais por bloco
+------------------------------------------------------------------------
+- F0307: sem_sinais
+- F0308: sem_sinais
+- F0309: sem_sinais
+- F0310: sem_sinais
+- F0311: sem_sinais
+- F0312: sem_sinais
+- F0313: sem_sinais
+- F0314: removeu_frases_duplicadas_imediatas=2
+- F0315: sem_sinais
+- F0316: sem_sinais
+- F0317: sem_sinais
+- F0318: sem_sinais
+- F0319: sem_sinais
+- F0320: sem_sinais
+- F0321: sem_sinais
+- F0322: sem_sinais
+- F0323: sem_sinais
+- F0324: sem_sinais
+- F0325: sem_sinais
+- F0326: sem_sinais
+- F0327: sem_sinais
+- F0328: sem_sinais
+- F0329: sem_sinais
+- F0330: sem_sinais
+- F0331: sem_sinais
+- F0332: sem_sinais
+- F0333: oralidade_ou_abreviacao
+- F0334: sem_sinais

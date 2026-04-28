@@ -292,6 +292,72 @@ DoReal
 │       ├── MUNDO_DEGENERADO.json
 │       ├── MUNDO_ESTERIL.json
 │       └── MUNDO_FRAGIL.json
+├── 00_Pipeline_fragmentos
+│   ├── 00_inbox_novos
+│   │   ├── fragmentos_nao_processados__apenas_novos.md
+│   │   ├── fragmentos_nao_processados__possiveis_duplicados.md
+│   │   ├── fragmentos_novos.md
+│   │   ├── match_nao_processados_vs_processados.json
+│   │   └── relatorio_match_nao_processados_vs_processados.md
+│   ├── 01_scripts
+│   │   ├── gerar_run_containers_nao_resegmentados_v4.py
+│   │   ├── pipeline_fragmentos_main.py
+│   │   ├── resegmentar_containers_semanticos_v6_openai.py
+│   │   └── verificar_nao_processados_contra_processados.py
+│   ├── 02_base_referencia
+│   │   ├── instancia_total_dividida
+│   │   │   ├── 03_entidades_fragmentos__parte_001.json
+│   │   │   └── 03_entidades_fragmentos__parte_002.json
+│   │   ├── fragmentos.md
+│   │   └── fragmentos_ja_processados.md
+│   ├── 03_runs
+│   │   ├── run_fragmentos_novos__20260427_234128
+│   │   │   ├── 00_input
+│   │   │   │   └── fragmentos_nao_processados__apenas_novos.md
+│   │   │   ├── 01_match
+│   │   │   │   ├── fragmentos_nao_processados__apenas_novos.md
+│   │   │   │   ├── fragmentos_nao_processados__possiveis_duplicados.md
+│   │   │   │   ├── fragmentos_novos.md
+│   │   │   │   ├── match_nao_processados_vs_processados.json
+│   │   │   │   └── relatorio_match_nao_processados_vs_processados.md
+│   │   │   ├── 02_containers
+│   │   │   │   ├── containers_segmentacao__run_fragmentos_novos__20260427_234128.json
+│   │   │   │   └── run_fragmentos_novos__20260427_234128.md
+│   │   │   ├── 03_resegmentacao
+│   │   │   │   ├── estado_resegmentador__run_fragmentos_novos__20260427_234128.json
+│   │   │   │   ├── falhas_resegmentador__run_fragmentos_novos__20260427_234128.json
+│   │   │   │   └── fragmentos_resegmentados__run_fragmentos_novos__20260427_234128.json
+│   │   │   ├── 04_validacao
+│   │   │   │   ├── relatorio_validacao_containers__run_fragmentos_novos__20260427_234128.json
+│   │   │   │   └── relatorio_validacao_fragmentos__run_fragmentos_novos__20260427_234128.json
+│   │   │   └── 05_relatorios
+│   │   │       ├── relatorio_resegmentador__run_fragmentos_novos__20260427_234128.txt
+│   │   │       └── run_fragmentos_novos__20260427_234128__relatorio.txt
+│   │   └── run_nao_processados_novos__20260427_225500
+│   │       ├── 00_input
+│   │       │   ├── fragmentos_nao_processados__apenas_novos.md
+│   │       │   └── fragmentos_nao_processados__origem.md
+│   │       ├── 01_match
+│   │       │   ├── match_nao_processados_vs_processados.json
+│   │       │   └── relatorio_match_nao_processados_vs_processados.md
+│   │       ├── 02_containers
+│   │       │   ├── containers_segmentacao__run_nao_processados_novos__20260427_225500.json
+│   │       │   └── run_nao_processados_novos__20260427_225500.md
+│   │       ├── 03_resegmentacao
+│   │       │   ├── estado_resegmentador__run_nao_processados_novos__20260427_225500.json
+│   │       │   ├── falhas_resegmentador__run_nao_processados_novos__20260427_225500.json
+│   │       │   └── fragmentos_resegmentados__run_nao_processados_novos__20260427_225500.json
+│   │       ├── 04_validacao
+│   │       │   ├── relatorio_validacao_containers__run_nao_processados_novos__20260427_225500.json
+│   │       │   └── relatorio_validacao_fragmentos__run_nao_processados_novos__20260427_225500.json
+│   │       └── 05_relatorios
+│   │           ├── relatorio_resegmentador__run_nao_processados_novos__20260427_225500.txt
+│   │           └── run_nao_processados_novos__20260427_225500__relatorio.txt
+│   ├── 04_outputs_prontos_para_integrar
+│   │   ├── fragmentos_resegmentados__run_fragmentos_novos__20260427_234128.json
+│   │   └── fragmentos_resegmentados__run_nao_processados_novos__20260427_225500.json
+│   ├── 90_arquivo
+│   └── README_PIPELINE_FRAGMENTOS.md
 ├── 01_ficheiros_canonicos
 │   ├── 00_bruto
 │   │   └── containers_segmentacao__run_nao_resegmentados__20260404_182036.json
@@ -376,25 +442,55 @@ DoReal
 │       ├── 11_E_12_README_CICLO_LOCAL_VALIDACAO_E_CAMADA_INTERMEDIA_PRE_EXPOSICAO_DOSSIERS.md
 │       └── CONTEXTO_ESTRUTURAL_COMPACTO_DO_REAL__V2.md
 ├── 02_bruto
+│   ├── 00_Pipeline_fragmentos
+│   │   ├── 00_inbox_novos
+│   │   │   └── fragmentos_novos.md
+│   │   └── 03_base_processada
+│   ├── 01_scripts
+│   ├── 02_runs
+│   ├── containers_segmentacao__run_nao_processados_novos__20260427_225500.json
 │   ├── containers_segmentacao__run_nao_resegmentados__20260404_182036.json
+│   ├── estado_resegmentador__run_nao_processados_novos__20260427_225500.json
 │   ├── estado_resegmentador__run_nao_resegmentados__20260404_182036.json
+│   ├── falhas_resegmentador__run_nao_processados_novos__20260427_225500.json
 │   ├── falhas_resegmentador__run_nao_resegmentados__20260404_182036.json
 │   ├── fragmentos.md
 │   ├── fragmentos_ja_processados.md
 │   ├── fragmentos_nao_processados.md
+│   ├── fragmentos_nao_processados__apenas_novos.md
+│   ├── fragmentos_nao_processados__possiveis_duplicados.md
+│   ├── fragmentos_resegmentados__run_nao_processados_novos__20260427_225500.json
 │   ├── fragmentos_resegmentados__run_nao_resegmentados__20260404_182036.json
 │   ├── gerar_run_containers_nao_resegmentados_v4.py
+│   ├── match_nao_processados_vs_processados.json
+│   ├── montar_00_Pipeline_fragmentos.ps1
 │   ├── preparar_containers_segmentacao.py
+│   ├── relatorio_match_nao_processados_vs_processados.md
+│   ├── relatorio_resegmentador__run_nao_processados_novos__20260427_225500.txt
 │   ├── relatorio_resegmentador__run_nao_resegmentados__20260404_182036.txt
 │   ├── relatorio_validacao_containers.json
+│   ├── relatorio_validacao_containers__run_nao_processados_novos__20260427_225500.json
 │   ├── relatorio_validacao_containers__run_nao_resegmentados__20260404_182036.json
+│   ├── relatorio_validacao_fragmentos__run_nao_processados_novos__20260427_225500.json
 │   ├── relatorio_validacao_fragmentos__run_nao_resegmentados__20260404_182036.json
 │   ├── resegmentar_containers_semanticos_v6_openai.py
+│   ├── run_nao_processados_novos__20260427_225500.md
+│   ├── run_nao_processados_novos__20260427_225500__relatorio.txt
 │   ├── run_nao_resegmentados__20260404_182036.md
 │   ├── run_nao_resegmentados__20260404_182036__relatorio.txt
-│   └── validar_containers_segmentacao.py
+│   ├── stats_base_processada_total.json
+│   ├── stats_base_processada_total.md
+│   ├── stats_base_processada_total.py
+│   ├── stats_fragmentos_ja_processados.json
+│   ├── stats_fragmentos_ja_processados.md
+│   ├── stats_fragmentos_ja_processados.py
+│   ├── validar_containers_segmentacao.py
+│   └── verificar_nao_processados_contra_processados.py
 ├── 03_filosofos
 │   └── ideias.txt
+├── 11_Schema_tentativa_1
+│   ├── percursos
+│   └── schema_base.json
 ├── 13_Meta_Indice
 │   ├── cadência
 │   │   ├── 01_segmentar_fragmentos
@@ -1342,6 +1438,7 @@ DoReal
 │   │   │   ├── 02_decisoes_e_limites
 │   │   │   │   ├── DECISAO_DISCIPLINADA_SOBRE_REABERTURA_LOCAL_AUDITADA_FAIXA_12_CF10.md
 │   │   │   │   └── DECISAO_DISCIPLINADA_SOBRE_USO_MAXIMO_REABERTO_CF10.md
+│   │   │   ├── 03_consolidado
 │   │   │   └── MERGED__12_faixa_cf10.md
 │   │   ├── 13_faixa_cf11
 │   │   │   ├── 00_abertura
@@ -1377,6 +1474,7 @@ DoReal
 │   │   │   ├── 14_para_15_DECISAO_SOBRE_PROXIMA_FAIXA_EXPOSITIVA_CONTROLADA.md
 │   │   │   ├── merge_transicao_para_proxima_fase.py
 │   │   │   └── MERGED__90_transicao_para_proxima_fase_01_02_03_04_05_06_07_08_09_10_11_12_13_14.md
+│   │   ├── docs_novos_ainda_sem_sitio
 │   │   ├── 14_README_FINAL_METODO_CONTINUIDADE_E_DESCIDA_EXPOSITIVA_CONTROLADA.md
 │   │   ├── DECISAO_DISCIPLINADA_SOBRE_REFAIXAMENTO_DA_ZONA_CF11_CF12.md
 │   │   ├── GUIAO_OPERATIVO_FAIXAS_EXPOSITIVAS_CONTROLADAS.md
@@ -1390,6 +1488,11 @@ DoReal
 │   │   │   ├── MATRIZ_CRITICA_TRANSVERSAL_DOS_CAPITULOS__REVISAO_COBERTURA_v2.md
 │   │   │   └── MERGED__01_arquitetura_total.md
 │   │   ├── 02_capitulos_provisorios
+│   │   │   ├── Auditoria_pos_confronto
+│   │   │   │   ├── 00_MOTHER_PROMPT.md
+│   │   │   │   ├── MERGED__Auditoria_pos_confronto.md
+│   │   │   │   └── READ_ME.Auditoria_pos_06_confronto_de_cada_cap.txt
+│   │   │   ├── Base_fragmentaria_capitulos
 │   │   │   ├── CAP_01_ser_real_unidade_diferenciada
 │   │   │   │   ├── 00_estatuto_e_limites.md
 │   │   │   │   ├── 01_estrutura_interna.md
@@ -1397,18 +1500,132 @@ DoReal
 │   │   │   │   ├── 03_materiais_criticos__REVISAO_MINIMA_SEGUNDA_VARREDURA_v2.md
 │   │   │   │   ├── 04_lacunas_do_capitulo.md
 │   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
 │   │   │   │   └── MERGED__CAP_01_ser_real_unidade_diferenciada.md
 │   │   │   ├── CAP_02_manifestacao_aparecer_apreensao_situada
+│   │   │   │   ├── 00_estatuto_e_limites.md
 │   │   │   │   ├── 01_estrutura_interna.md
 │   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP2.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
 │   │   │   │   └── MERGED__CAP_02_manifestacao_aparecer_apreensao_situada.md
+│   │   │   ├── CAP_03_vida_organismo_corporeidade
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP3.md
+│   │   │   │   ├── 06pos_reescrita_grau2.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_03_vida_organismo_corporeidade.md
+│   │   │   ├── CAP_04_consciência, reflexividade e sujeito reinscritos
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP4.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_04_consciência, reflexividade e sujeito reinscritos.md
+│   │   │   ├── CAP_05_memoria_permanencia_interna_identidade_temporal
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP5.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_05_memoria_permanencia_interna_identidade_temporal.md
+│   │   │   ├── CAP_06_representacao_linguagem_simbolo_sentido
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP6.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_06_representacao_linguagem_simbolo_sentido.md
+│   │   │   ├── CAP_07_verdade_erro_criterio_correcao
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP7.md
+│   │   │   │   ├── 06pos_reescrita_grau2.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_07_verdade_erro_criterio_correcao.md
+│   │   │   ├── CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP8.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_08_consciencia_reinscrita_fecho_limitrofe_bloco_mediacional.md
+│   │   │   ├── CAP_09_acao_liberdade_situada
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP9.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_09_acao_liberdade_situada.md
+│   │   │   ├── CAP_10_dano_bem_mal_normatividade_derivada
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita_REESCRITA_POS_CONFRONTO_CAP10.md
+│   │   │   │   ├── 07_escrita_final_preparada_com_critica_acompanhante.md
+│   │   │   │   └── MERGED__CAP_10_dano_bem_mal_normatividade_derivada.md
+│   │   │   ├── CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial
+│   │   │   │   ├── 00_estatuto_e_limites.md
+│   │   │   │   ├── 01_estrutura_interna.md
+│   │   │   │   ├── 02_materiais_positivos.md
+│   │   │   │   ├── 03_materiais_criticos.md
+│   │   │   │   ├── 04_lacunas_do_capitulo.md
+│   │   │   │   ├── 05_decisao_local_do_capitulo.md
+│   │   │   │   ├── 06_primeira_versao_controlada_de_escrita.md
+│   │   │   │   └── MERGED__CAP_11_responsabilidade_dignidade_e_vida_boa_prudencial.md
+│   │   │   ├── Nota_Leitura
+│   │   │   │   ├── MERGED__Nota_Leitura.md
+│   │   │   │   └── NOTA_DE_LEITURA_DOS_CAPITULOS__SER_DIZER_ERRO_REINSCRICAO.md
 │   │   │   ├── PROLOGO_submissao_ao_real
 │   │   │   │   ├── 00_estatuto_e_limites.md
 │   │   │   │   ├── 01_estrutura_interna.md
 │   │   │   │   ├── 02_materiais_positivos.md
 │   │   │   │   ├── 03_materiais_criticos.md
 │   │   │   │   └── MERGED__PROLOGO_submissao_ao_real.md
-│   │   │   └── MERGED__02_capitulos_provisorios.md
+│   │   │   ├── MERGED__02_capitulos_provisorios.md
+│   │   │   ├── Nota_voz_cadencia_expositiva.md
+│   │   │   └── README_OPERATIVO_FASE_CONFRONTO_07_BASE_FRAGMENTARIA.md
 │   │   ├── 03_mapeamento_fragmentario
 │   │   │   ├── MAPEAMENTO_CONTAINERS_POR_CAPITULO__REVISAO_COBERTURA_v2.md
 │   │   │   ├── MAPEAMENTO_FRAGMENTOS_POR_CAPITULO__REVISAO_COBERTURA_v2.md
@@ -1429,6 +1646,15 @@ DoReal
 │   │   ├── merge_camadas_09_capitulos.py
 │   │   ├── merge_capitulos_provisorios_09_capitulos.py
 │   │   └── MERGED__09_capitulos__CAMADAS_ESTRUTURAIS.md
+│   ├── 10_critica
+│   │   ├── lista_fragmentos_tratados_etiquetados_primeira_triagem (1).md
+│   │   ├── lista_geral_containers_criticos_v2.md
+│   │   ├── lista_geral_fragmentos_criticos_v2.md
+│   │   ├── MATRIZ_DE_PROPAGACAO_DA_AUDITORIA_CRITICA_PARA_09_CAPITULOS.md
+│   │   ├── nota_de_impacto_metodologico_da_auditoria_critica.md
+│   │   ├── schema_completo_etiquetagem_fragmentos_containers_v1 (1).json
+│   │   ├── schema_completo_etiquetagem_fragmentos_containers_v1 (1).md
+│   │   └── segunda_varredura_fragmentos_criticos_novas_subcriticas (1).md
 │   ├── 90_orquestrador_api_faixas
 │   │   ├── 00_config
 │   │   │   └── settings_runtime.json
@@ -1787,37 +2013,1749 @@ DoReal
 │   │   └── selecionar_sample_fragmentos_confronto_v1.py
 │   ├── 11_E_12_README_CICLO_LOCAL_VALIDACAO_E_CAMADA_INTERMEDIA_PRE_EXPOSICAO_DOSSIERS.md
 │   └── 13_README_CONTINUIDADE_PRE_EXPOSICAO_AMPLIADA.md
-├── 17_mapeamento_base
-│   └── orquestrador_api_faixas_seed
-│       └── 09_orquestrador_api_faixas
-│           ├── 00_config
-│           │   ├── manifesto_fontes.json
-│           │   ├── perfis_contexto.json
-│           │   ├── regras_estado.json
-│           │   ├── regras_publicacao.json
-│           │   ├── regras_validacao.json
-│           │   └── settings_runtime.json
-│           ├── 01_catalogos
-│           │   ├── catalogo_faixas.json
-│           │   └── catalogo_prompts.json
-│           ├── 03_estado_runtime
-│           │   ├── checkpoints.json
-│           │   ├── estado_pipeline.json
-│           │   ├── fila_execucao.json
-│           │   └── outputs_pendentes.json
-│           ├── 04_prompts_gerados
-│           │   └── templates
-│           │       ├── P00_AUDITAR_FONTES.md.j2
-│           │       ├── P02_RESOLVER_ESTADO_ATUAL.md.j2
-│           │       ├── P03_DESCOBRIR_PROXIMA_FAIXA.md.j2
-│           │       ├── P04_ABERTURA_FAIXA.md.j2
-│           │       ├── P05_ENSAIO_CONTROLADO.md.j2
-│           │       ├── P06_DECISAO_LIMITE.md.j2
-│           │       ├── P07_CONSOLIDACAO_FAIXA.md.j2
-│           │       ├── P08_TRANSICAO_SEGUINTE.md.j2
-│           │       ├── P09_VALIDACAO_FORMAL_OUTPUT.md.j2
-│           │       └── P11_CONTEXTO_CURTO_POR_TAREFA.md.j2
-│           └── README_COLOCACAO.txt
+├── 17_transcricoes
+│   ├── 01_Raw_JBP_Psychology_and_Belief.txt
+│   ├── 02_Raw_JBP_Personality_Introduction.txt
+│   ├── 03_Raw_JBP_Personality_Existentialism_Dostoevsky_Nietzsche_Kierkegaard.txt
+│   ├── 04_Raw_JBP_Personality_Sigmund_Freud.txt
+│   ├── 05_Raw_JPB_Maps_of_meaning.txt
+│   └── 06_Feynman_no_hidden_cards.txt
+├── 18_bundles_fragmentos
+│   ├── corpus_pos_limpeza
+│   │   ├── corpus_auditoria_remanescente.json
+│   │   ├── corpus_auditoria_remanescente.md
+│   │   ├── corpus_limpo_aprovavel.json
+│   │   ├── corpus_limpo_aprovavel.md
+│   │   ├── corpus_limpo_revisao.json
+│   │   ├── corpus_limpo_revisao.md
+│   │   ├── corpus_limpo_todos.json
+│   │   ├── corpus_nao_processado.json
+│   │   ├── corpus_nao_processado.md
+│   │   ├── manifesto_pos_limpeza.json
+│   │   └── README_corpus_pos_limpeza.md
+│   ├── limpeza_output
+│   │   ├── fragmentos
+│   │   │   ├── F0001_SEG_001.limpo.json
+│   │   │   ├── F0001_SEG_001.prompt.json
+│   │   │   ├── F0002_SEG_001.limpo.json
+│   │   │   ├── F0002_SEG_001.prompt.json
+│   │   │   ├── F0003_SEG_001.limpo.json
+│   │   │   ├── F0003_SEG_001.prompt.json
+│   │   │   ├── F0004_SEG_001.limpo.json
+│   │   │   ├── F0004_SEG_001.prompt.json
+│   │   │   ├── F0005_SEG_001.limpo.json
+│   │   │   ├── F0005_SEG_001.prompt.json
+│   │   │   ├── F0006_SEG_001.limpo.json
+│   │   │   ├── F0006_SEG_001.prompt.json
+│   │   │   ├── F0007_SEG_001.limpo.json
+│   │   │   ├── F0007_SEG_001.prompt.json
+│   │   │   ├── F0008_SEG_001.limpo.json
+│   │   │   ├── F0008_SEG_001.prompt.json
+│   │   │   ├── F0009_SEG_001.limpo.json
+│   │   │   ├── F0009_SEG_001.prompt.json
+│   │   │   ├── F0010_SEG_001.limpo.json
+│   │   │   ├── F0010_SEG_001.prompt.json
+│   │   │   ├── F0011_SEG_001.limpo.json
+│   │   │   ├── F0011_SEG_001.prompt.json
+│   │   │   ├── F0012_SEG_001.limpo.json
+│   │   │   ├── F0012_SEG_001.prompt.json
+│   │   │   ├── F0013_SEG_001.limpo.json
+│   │   │   ├── F0013_SEG_001.prompt.json
+│   │   │   ├── F0014_SEG_001.limpo.json
+│   │   │   ├── F0014_SEG_001.prompt.json
+│   │   │   ├── F0015_SEG_001.limpo.json
+│   │   │   ├── F0015_SEG_001.prompt.json
+│   │   │   ├── F0016_SEG_001.limpo.json
+│   │   │   ├── F0016_SEG_001.prompt.json
+│   │   │   ├── F0017_SEG_001.limpo.json
+│   │   │   ├── F0017_SEG_001.prompt.json
+│   │   │   ├── F0018_A02_SEG_002.limpo.json
+│   │   │   ├── F0018_A02_SEG_002.prompt.json
+│   │   │   ├── F0019_SEG_001.limpo.json
+│   │   │   ├── F0019_SEG_001.prompt.json
+│   │   │   ├── F0020_SEG_001.limpo.json
+│   │   │   ├── F0020_SEG_001.prompt.json
+│   │   │   ├── F0021_SEG_001.limpo.json
+│   │   │   ├── F0021_SEG_001.prompt.json
+│   │   │   ├── F0021_SEG_002.limpo.json
+│   │   │   ├── F0021_SEG_002.prompt.json
+│   │   │   ├── F0022_SEG_001.limpo.json
+│   │   │   ├── F0022_SEG_001.prompt.json
+│   │   │   ├── F0023_SEG_001.limpo.json
+│   │   │   ├── F0023_SEG_001.prompt.json
+│   │   │   ├── F0024_SEG_001.limpo.json
+│   │   │   ├── F0024_SEG_001.prompt.json
+│   │   │   ├── F0024_SEG_002.limpo.json
+│   │   │   ├── F0024_SEG_002.prompt.json
+│   │   │   ├── F0025_SEG_001.limpo.json
+│   │   │   ├── F0025_SEG_001.prompt.json
+│   │   │   ├── F0026_SEG_001.limpo.json
+│   │   │   ├── F0026_SEG_001.prompt.json
+│   │   │   ├── F0027_SEG_001.limpo.json
+│   │   │   ├── F0027_SEG_001.prompt.json
+│   │   │   ├── F0028_SEG_001.limpo.json
+│   │   │   ├── F0028_SEG_001.prompt.json
+│   │   │   ├── F0029_SEG_001.limpo.json
+│   │   │   ├── F0029_SEG_001.prompt.json
+│   │   │   ├── F0030_SEG_001.limpo.json
+│   │   │   ├── F0030_SEG_001.prompt.json
+│   │   │   ├── F0031_SEG_001.limpo.json
+│   │   │   ├── F0031_SEG_001.prompt.json
+│   │   │   ├── F0032_SEG_001.limpo.json
+│   │   │   ├── F0032_SEG_001.prompt.json
+│   │   │   ├── F0033_SEG_001.limpo.json
+│   │   │   ├── F0033_SEG_001.prompt.json
+│   │   │   ├── F0035_SEG_001.limpo.json
+│   │   │   ├── F0035_SEG_001.prompt.json
+│   │   │   ├── F0036_SEG_001.limpo.json
+│   │   │   ├── F0036_SEG_001.prompt.json
+│   │   │   ├── F0037_SEG_001.limpo.json
+│   │   │   ├── F0037_SEG_001.prompt.json
+│   │   │   ├── F0038_SEG_001.limpo.json
+│   │   │   ├── F0038_SEG_001.prompt.json
+│   │   │   ├── F0039_SEG_001.limpo.json
+│   │   │   ├── F0039_SEG_001.prompt.json
+│   │   │   ├── F0040_SEG_001.limpo.json
+│   │   │   ├── F0040_SEG_001.prompt.json
+│   │   │   ├── F0041_SEG_001.limpo.json
+│   │   │   ├── F0041_SEG_001.prompt.json
+│   │   │   ├── F0042_SEG_001.limpo.json
+│   │   │   ├── F0042_SEG_001.prompt.json
+│   │   │   ├── F0043_SEG_001.limpo.json
+│   │   │   ├── F0043_SEG_001.prompt.json
+│   │   │   ├── F0044_SEG_001.limpo.json
+│   │   │   ├── F0044_SEG_001.prompt.json
+│   │   │   ├── F0045_SEG_001.limpo.json
+│   │   │   ├── F0045_SEG_001.prompt.json
+│   │   │   ├── F0046_SEG_001.limpo.json
+│   │   │   ├── F0046_SEG_001.prompt.json
+│   │   │   ├── F0047_SEG_001.limpo.json
+│   │   │   ├── F0047_SEG_001.prompt.json
+│   │   │   ├── F0048_SEG_001.limpo.json
+│   │   │   ├── F0048_SEG_001.prompt.json
+│   │   │   ├── F0049_SEG_001.limpo.json
+│   │   │   ├── F0049_SEG_001.prompt.json
+│   │   │   ├── F0050_SEG_001.limpo.json
+│   │   │   ├── F0050_SEG_001.prompt.json
+│   │   │   ├── F0051_SEG_001.limpo.json
+│   │   │   ├── F0051_SEG_001.prompt.json
+│   │   │   ├── F0052_SEG_001.limpo.json
+│   │   │   ├── F0052_SEG_001.prompt.json
+│   │   │   ├── F0053_SEG_001.limpo.json
+│   │   │   ├── F0053_SEG_001.prompt.json
+│   │   │   ├── F0054_SEG_001.limpo.json
+│   │   │   ├── F0054_SEG_001.prompt.json
+│   │   │   ├── F0055_SEG_001.limpo.json
+│   │   │   ├── F0055_SEG_001.prompt.json
+│   │   │   ├── F0056_SEG_001.limpo.json
+│   │   │   ├── F0056_SEG_001.prompt.json
+│   │   │   ├── F0057_SEG_001.limpo.json
+│   │   │   ├── F0057_SEG_001.prompt.json
+│   │   │   ├── F0057_SEG_002.limpo.json
+│   │   │   ├── F0057_SEG_002.prompt.json
+│   │   │   ├── F0058_SEG_001.limpo.json
+│   │   │   ├── F0058_SEG_001.prompt.json
+│   │   │   ├── F0058_SEG_002.limpo.json
+│   │   │   ├── F0058_SEG_002.prompt.json
+│   │   │   ├── F0058_SEG_003.limpo.json
+│   │   │   ├── F0058_SEG_003.prompt.json
+│   │   │   ├── F0059_SEG_001.limpo.json
+│   │   │   ├── F0059_SEG_001.prompt.json
+│   │   │   ├── F0059_SEG_002.limpo.json
+│   │   │   ├── F0059_SEG_002.prompt.json
+│   │   │   ├── F0060_A01_SEG_001.limpo.json
+│   │   │   ├── F0060_A01_SEG_001.prompt.json
+│   │   │   ├── F0060_A01_SEG_002.limpo.json
+│   │   │   ├── F0060_A01_SEG_002.prompt.json
+│   │   │   ├── F0060_A01_SEG_003.limpo.json
+│   │   │   ├── F0060_A01_SEG_003.prompt.json
+│   │   │   ├── F0060_A01_SEG_004.limpo.json
+│   │   │   ├── F0060_A01_SEG_004.prompt.json
+│   │   │   ├── F0060_A01_SEG_005.limpo.json
+│   │   │   ├── F0060_A01_SEG_005.prompt.json
+│   │   │   ├── F0060_A01_SEG_006.limpo.json
+│   │   │   ├── F0060_A01_SEG_006.prompt.json
+│   │   │   ├── F0060_A02_SEG_001.limpo.json
+│   │   │   ├── F0060_A02_SEG_001.prompt.json
+│   │   │   ├── F0060_A02_SEG_002.limpo.json
+│   │   │   ├── F0060_A02_SEG_002.prompt.json
+│   │   │   ├── F0061_SEG_001.limpo.json
+│   │   │   ├── F0061_SEG_001.prompt.json
+│   │   │   ├── F0061_SEG_002.limpo.json
+│   │   │   ├── F0061_SEG_002.prompt.json
+│   │   │   ├── F0061_SEG_003.limpo.json
+│   │   │   ├── F0061_SEG_003.prompt.json
+│   │   │   ├── F0062_A01_SEG_001.limpo.json
+│   │   │   ├── F0062_A01_SEG_001.prompt.json
+│   │   │   ├── F0062_A01_SEG_002.limpo.json
+│   │   │   ├── F0062_A01_SEG_002.prompt.json
+│   │   │   ├── F0062_A01_SEG_003.limpo.json
+│   │   │   ├── F0062_A01_SEG_003.prompt.json
+│   │   │   ├── F0062_A01_SEG_004.limpo.json
+│   │   │   ├── F0062_A01_SEG_004.prompt.json
+│   │   │   ├── F0062_A02_SEG_001.limpo.json
+│   │   │   ├── F0062_A02_SEG_001.prompt.json
+│   │   │   ├── F0063_A01_SEG_001.limpo.json
+│   │   │   ├── F0063_A01_SEG_001.prompt.json
+│   │   │   ├── F0063_A01_SEG_002.limpo.json
+│   │   │   ├── F0063_A01_SEG_002.prompt.json
+│   │   │   ├── F0063_A01_SEG_003.limpo.json
+│   │   │   ├── F0063_A01_SEG_003.prompt.json
+│   │   │   ├── F0063_A02_SEG_001.limpo.json
+│   │   │   ├── F0063_A02_SEG_001.prompt.json
+│   │   │   ├── F0063_A02_SEG_002.limpo.json
+│   │   │   ├── F0063_A02_SEG_002.prompt.json
+│   │   │   ├── F0064_A01_SEG_001.limpo.json
+│   │   │   ├── F0064_A01_SEG_001.prompt.json
+│   │   │   ├── F0064_A01_SEG_002.limpo.json
+│   │   │   ├── F0064_A01_SEG_002.prompt.json
+│   │   │   ├── F0064_A01_SEG_003.limpo.json
+│   │   │   ├── F0064_A01_SEG_003.prompt.json
+│   │   │   ├── F0064_A01_SEG_004.limpo.json
+│   │   │   ├── F0064_A01_SEG_004.prompt.json
+│   │   │   ├── F0064_A02_SEG_001.limpo.json
+│   │   │   ├── F0064_A02_SEG_001.prompt.json
+│   │   │   ├── F0065_A01_SEG_001.limpo.json
+│   │   │   ├── F0065_A01_SEG_001.prompt.json
+│   │   │   ├── F0065_A01_SEG_002.limpo.json
+│   │   │   ├── F0065_A01_SEG_002.prompt.json
+│   │   │   ├── F0065_A01_SEG_003.limpo.json
+│   │   │   ├── F0065_A01_SEG_003.prompt.json
+│   │   │   ├── F0065_A01_SEG_004.limpo.json
+│   │   │   ├── F0065_A01_SEG_004.prompt.json
+│   │   │   ├── F0065_A02_SEG_001.limpo.json
+│   │   │   ├── F0065_A02_SEG_001.prompt.json
+│   │   │   ├── F0066_SEG_001.limpo.json
+│   │   │   ├── F0066_SEG_001.prompt.json
+│   │   │   ├── F0066_SEG_002.limpo.json
+│   │   │   ├── F0066_SEG_002.prompt.json
+│   │   │   ├── F0067_SEG_001.limpo.json
+│   │   │   ├── F0067_SEG_001.prompt.json
+│   │   │   ├── F0067_SEG_002.limpo.json
+│   │   │   ├── F0067_SEG_002.prompt.json
+│   │   │   ├── F0067_SEG_003.limpo.json
+│   │   │   ├── F0067_SEG_003.prompt.json
+│   │   │   ├── F0068_SEG_001.limpo.json
+│   │   │   ├── F0068_SEG_001.prompt.json
+│   │   │   ├── F0068_SEG_002.limpo.json
+│   │   │   ├── F0068_SEG_002.prompt.json
+│   │   │   ├── F0069_SEG_001.limpo.json
+│   │   │   ├── F0069_SEG_001.prompt.json
+│   │   │   ├── F0069_SEG_002.limpo.json
+│   │   │   ├── F0069_SEG_002.prompt.json
+│   │   │   ├── F0069_SEG_003.limpo.json
+│   │   │   ├── F0069_SEG_003.prompt.json
+│   │   │   ├── F0069_SEG_004.limpo.json
+│   │   │   ├── F0069_SEG_004.prompt.json
+│   │   │   ├── F0069_SEG_005.limpo.json
+│   │   │   ├── F0069_SEG_005.prompt.json
+│   │   │   ├── F0070_SEG_001.limpo.json
+│   │   │   ├── F0070_SEG_001.prompt.json
+│   │   │   ├── F0070_SEG_002.limpo.json
+│   │   │   ├── F0070_SEG_002.prompt.json
+│   │   │   ├── F0071_SEG_001.limpo.json
+│   │   │   ├── F0071_SEG_001.prompt.json
+│   │   │   ├── F0071_SEG_002.limpo.json
+│   │   │   ├── F0071_SEG_002.prompt.json
+│   │   │   ├── F0071_SEG_003.limpo.json
+│   │   │   ├── F0071_SEG_003.prompt.json
+│   │   │   ├── F0072_SEG_001.limpo.json
+│   │   │   ├── F0072_SEG_001.prompt.json
+│   │   │   ├── F0072_SEG_002.limpo.json
+│   │   │   ├── F0072_SEG_002.prompt.json
+│   │   │   ├── F0073_SEG_001.limpo.json
+│   │   │   ├── F0073_SEG_001.prompt.json
+│   │   │   ├── F0073_SEG_002.limpo.json
+│   │   │   ├── F0073_SEG_002.prompt.json
+│   │   │   ├── F0074_A01_SEG_001.limpo.json
+│   │   │   ├── F0074_A01_SEG_001.prompt.json
+│   │   │   ├── F0074_A01_SEG_002.limpo.json
+│   │   │   ├── F0074_A01_SEG_002.prompt.json
+│   │   │   ├── F0074_A01_SEG_003.limpo.json
+│   │   │   ├── F0074_A01_SEG_003.prompt.json
+│   │   │   ├── F0074_A02_SEG_001.limpo.json
+│   │   │   ├── F0074_A02_SEG_001.prompt.json
+│   │   │   ├── F0074_A02_SEG_002.limpo.json
+│   │   │   ├── F0074_A02_SEG_002.prompt.json
+│   │   │   ├── F0074_A02_SEG_003.limpo.json
+│   │   │   ├── F0074_A02_SEG_003.prompt.json
+│   │   │   ├── F0075_SEG_001.limpo.json
+│   │   │   ├── F0075_SEG_001.prompt.json
+│   │   │   ├── F0075_SEG_002.limpo.json
+│   │   │   ├── F0075_SEG_002.prompt.json
+│   │   │   ├── F0075_SEG_003.limpo.json
+│   │   │   ├── F0075_SEG_003.prompt.json
+│   │   │   ├── F0076_SEG_001.limpo.json
+│   │   │   ├── F0076_SEG_001.prompt.json
+│   │   │   ├── F0076_SEG_002.limpo.json
+│   │   │   ├── F0076_SEG_002.prompt.json
+│   │   │   ├── F0076_SEG_003.limpo.json
+│   │   │   ├── F0076_SEG_003.prompt.json
+│   │   │   ├── F0076_SEG_004.limpo.json
+│   │   │   ├── F0076_SEG_004.prompt.json
+│   │   │   ├── F0077_SEG_001.limpo.json
+│   │   │   ├── F0077_SEG_001.prompt.json
+│   │   │   ├── F0077_SEG_002.limpo.json
+│   │   │   ├── F0077_SEG_002.prompt.json
+│   │   │   ├── F0077_SEG_003.limpo.json
+│   │   │   ├── F0077_SEG_003.prompt.json
+│   │   │   ├── F0078_A01_SEG_001.limpo.json
+│   │   │   ├── F0078_A01_SEG_001.prompt.json
+│   │   │   ├── F0078_A01_SEG_002.limpo.json
+│   │   │   ├── F0078_A01_SEG_002.prompt.json
+│   │   │   ├── F0078_A01_SEG_003.limpo.json
+│   │   │   ├── F0078_A01_SEG_003.prompt.json
+│   │   │   ├── F0078_A02_SEG_001.limpo.json
+│   │   │   ├── F0078_A02_SEG_001.prompt.json
+│   │   │   ├── F0079_A01_SEG_001.limpo.json
+│   │   │   ├── F0079_A01_SEG_001.prompt.json
+│   │   │   ├── F0079_A01_SEG_002.limpo.json
+│   │   │   ├── F0079_A01_SEG_002.prompt.json
+│   │   │   ├── F0079_A01_SEG_003.limpo.json
+│   │   │   ├── F0079_A01_SEG_003.prompt.json
+│   │   │   ├── F0079_A02_SEG_001.limpo.json
+│   │   │   ├── F0079_A02_SEG_001.prompt.json
+│   │   │   ├── F0079_A02_SEG_002.limpo.json
+│   │   │   ├── F0079_A02_SEG_002.prompt.json
+│   │   │   ├── F0080_SEG_001.limpo.json
+│   │   │   ├── F0080_SEG_001.prompt.json
+│   │   │   ├── F0081_SEG_001.limpo.json
+│   │   │   ├── F0081_SEG_001.prompt.json
+│   │   │   ├── F0082_SEG_001.limpo.json
+│   │   │   ├── F0082_SEG_001.prompt.json
+│   │   │   ├── F0082_SEG_002.limpo.json
+│   │   │   ├── F0082_SEG_002.prompt.json
+│   │   │   ├── F0083_SEG_001.limpo.json
+│   │   │   ├── F0083_SEG_001.prompt.json
+│   │   │   ├── F0083_SEG_002.limpo.json
+│   │   │   ├── F0083_SEG_002.prompt.json
+│   │   │   ├── F0084_A01_SEG_001.limpo.json
+│   │   │   ├── F0084_A01_SEG_001.prompt.json
+│   │   │   ├── F0084_A01_SEG_002.limpo.json
+│   │   │   ├── F0084_A01_SEG_002.prompt.json
+│   │   │   ├── F0084_A01_SEG_003.limpo.json
+│   │   │   ├── F0084_A01_SEG_003.prompt.json
+│   │   │   ├── F0084_A02_SEG_001.limpo.json
+│   │   │   ├── F0084_A02_SEG_001.prompt.json
+│   │   │   ├── F0084_A02_SEG_002.limpo.json
+│   │   │   ├── F0084_A02_SEG_002.prompt.json
+│   │   │   ├── F0084_A02_SEG_003.limpo.json
+│   │   │   ├── F0084_A02_SEG_003.prompt.json
+│   │   │   ├── F0084_A03_SEG_001.limpo.json
+│   │   │   ├── F0084_A03_SEG_001.prompt.json
+│   │   │   ├── F0085_SEG_001.limpo.json
+│   │   │   ├── F0085_SEG_001.prompt.json
+│   │   │   ├── F0085_SEG_002.limpo.json
+│   │   │   ├── F0085_SEG_002.prompt.json
+│   │   │   ├── F0085_SEG_003.limpo.json
+│   │   │   ├── F0085_SEG_003.prompt.json
+│   │   │   ├── F0085_SEG_004.limpo.json
+│   │   │   ├── F0085_SEG_004.prompt.json
+│   │   │   ├── F0086_SEG_001.limpo.json
+│   │   │   ├── F0086_SEG_001.prompt.json
+│   │   │   ├── F0086_SEG_002.limpo.json
+│   │   │   ├── F0086_SEG_002.prompt.json
+│   │   │   ├── F0086_SEG_003.limpo.json
+│   │   │   ├── F0086_SEG_003.prompt.json
+│   │   │   ├── F0087_A01_SEG_001.limpo.json
+│   │   │   ├── F0087_A01_SEG_001.prompt.json
+│   │   │   ├── F0087_A01_SEG_002.limpo.json
+│   │   │   ├── F0087_A01_SEG_002.prompt.json
+│   │   │   ├── F0087_A01_SEG_003.limpo.json
+│   │   │   ├── F0087_A01_SEG_003.prompt.json
+│   │   │   ├── F0087_A01_SEG_004.limpo.json
+│   │   │   ├── F0087_A01_SEG_004.prompt.json
+│   │   │   ├── F0087_A02_SEG_001.limpo.json
+│   │   │   ├── F0087_A02_SEG_001.prompt.json
+│   │   │   ├── F0088_A01_SEG_001.limpo.json
+│   │   │   ├── F0088_A01_SEG_001.prompt.json
+│   │   │   ├── F0088_A01_SEG_002.limpo.json
+│   │   │   ├── F0088_A01_SEG_002.prompt.json
+│   │   │   ├── F0088_A01_SEG_003.limpo.json
+│   │   │   ├── F0088_A01_SEG_003.prompt.json
+│   │   │   ├── F0088_A01_SEG_004.limpo.json
+│   │   │   ├── F0088_A01_SEG_004.prompt.json
+│   │   │   ├── F0088_A01_SEG_005.limpo.json
+│   │   │   ├── F0088_A01_SEG_005.prompt.json
+│   │   │   ├── F0088_A02_SEG_001.limpo.json
+│   │   │   ├── F0088_A02_SEG_001.prompt.json
+│   │   │   ├── F0088_A02_SEG_002.limpo.json
+│   │   │   ├── F0088_A02_SEG_002.prompt.json
+│   │   │   ├── F0088_A02_SEG_003.limpo.json
+│   │   │   ├── F0088_A02_SEG_003.prompt.json
+│   │   │   ├── F0089_SEG_001.limpo.json
+│   │   │   ├── F0089_SEG_001.prompt.json
+│   │   │   ├── F0089_SEG_002.limpo.json
+│   │   │   ├── F0089_SEG_002.prompt.json
+│   │   │   ├── F0089_SEG_003.limpo.json
+│   │   │   ├── F0089_SEG_003.prompt.json
+│   │   │   ├── F0090_A01_SEG_001.limpo.json
+│   │   │   ├── F0090_A01_SEG_001.prompt.json
+│   │   │   ├── F0090_A01_SEG_002.limpo.json
+│   │   │   ├── F0090_A01_SEG_002.prompt.json
+│   │   │   ├── F0090_A01_SEG_003.limpo.json
+│   │   │   ├── F0090_A01_SEG_003.prompt.json
+│   │   │   ├── F0090_A01_SEG_004.limpo.json
+│   │   │   ├── F0090_A01_SEG_004.prompt.json
+│   │   │   ├── F0090_A02_SEG_001.limpo.json
+│   │   │   ├── F0090_A02_SEG_001.prompt.json
+│   │   │   ├── F0091_SEG_001.limpo.json
+│   │   │   ├── F0091_SEG_001.prompt.json
+│   │   │   ├── F0091_SEG_002.limpo.json
+│   │   │   ├── F0091_SEG_002.prompt.json
+│   │   │   ├── F0092_SEG_001.limpo.json
+│   │   │   ├── F0092_SEG_001.prompt.json
+│   │   │   ├── F0092_SEG_002.limpo.json
+│   │   │   ├── F0092_SEG_002.prompt.json
+│   │   │   ├── F0093_A01_SEG_001.limpo.json
+│   │   │   ├── F0093_A01_SEG_001.prompt.json
+│   │   │   ├── F0093_A01_SEG_002.limpo.json
+│   │   │   ├── F0093_A01_SEG_002.prompt.json
+│   │   │   ├── F0093_A01_SEG_003.limpo.json
+│   │   │   ├── F0093_A01_SEG_003.prompt.json
+│   │   │   ├── F0093_A01_SEG_004.limpo.json
+│   │   │   ├── F0093_A01_SEG_004.prompt.json
+│   │   │   ├── F0093_A02_SEG_001.limpo.json
+│   │   │   ├── F0093_A02_SEG_001.prompt.json
+│   │   │   ├── F0094_A01_SEG_001.limpo.json
+│   │   │   ├── F0094_A01_SEG_001.prompt.json
+│   │   │   ├── F0094_A01_SEG_002.limpo.json
+│   │   │   ├── F0094_A01_SEG_002.prompt.json
+│   │   │   ├── F0094_A01_SEG_003.limpo.json
+│   │   │   ├── F0094_A01_SEG_003.prompt.json
+│   │   │   ├── F0094_A01_SEG_004.limpo.json
+│   │   │   ├── F0094_A01_SEG_004.prompt.json
+│   │   │   ├── F0094_A02_SEG_001.limpo.json
+│   │   │   ├── F0094_A02_SEG_001.prompt.json
+│   │   │   ├── F0095_SEG_001.limpo.json
+│   │   │   ├── F0095_SEG_001.prompt.json
+│   │   │   ├── F0095_SEG_002.limpo.json
+│   │   │   ├── F0095_SEG_002.prompt.json
+│   │   │   ├── F0096_SEG_001.limpo.json
+│   │   │   ├── F0096_SEG_001.prompt.json
+│   │   │   ├── F0096_SEG_002.limpo.json
+│   │   │   ├── F0096_SEG_002.prompt.json
+│   │   │   ├── F0096_SEG_003.limpo.json
+│   │   │   ├── F0096_SEG_003.prompt.json
+│   │   │   ├── F0096_SEG_004.limpo.json
+│   │   │   ├── F0096_SEG_004.prompt.json
+│   │   │   ├── F0097_A01_SEG_001.limpo.json
+│   │   │   ├── F0097_A01_SEG_001.prompt.json
+│   │   │   ├── F0097_A01_SEG_002.limpo.json
+│   │   │   ├── F0097_A01_SEG_002.prompt.json
+│   │   │   ├── F0097_A01_SEG_003.limpo.json
+│   │   │   ├── F0097_A01_SEG_003.prompt.json
+│   │   │   ├── F0097_A02_SEG_001.limpo.json
+│   │   │   ├── F0097_A02_SEG_001.prompt.json
+│   │   │   ├── F0097_A02_SEG_002.limpo.json
+│   │   │   ├── F0097_A02_SEG_002.prompt.json
+│   │   │   ├── F0098_A01_SEG_001.limpo.json
+│   │   │   ├── F0098_A01_SEG_001.prompt.json
+│   │   │   ├── F0098_A01_SEG_002.limpo.json
+│   │   │   ├── F0098_A01_SEG_002.prompt.json
+│   │   │   ├── F0098_A01_SEG_003.limpo.json
+│   │   │   ├── F0098_A01_SEG_003.prompt.json
+│   │   │   ├── F0098_A02_SEG_001.limpo.json
+│   │   │   ├── F0098_A02_SEG_001.prompt.json
+│   │   │   ├── F0098_A02_SEG_002.limpo.json
+│   │   │   ├── F0098_A02_SEG_002.prompt.json
+│   │   │   ├── F0098_A03_SEG_001.limpo.json
+│   │   │   ├── F0098_A03_SEG_001.prompt.json
+│   │   │   ├── F0098_A03_SEG_002.limpo.json
+│   │   │   ├── F0098_A03_SEG_002.prompt.json
+│   │   │   ├── F0099_SEG_001.limpo.json
+│   │   │   ├── F0099_SEG_001.prompt.json
+│   │   │   ├── F0100_SEG_001.limpo.json
+│   │   │   ├── F0100_SEG_001.prompt.json
+│   │   │   ├── F0100_SEG_002.limpo.json
+│   │   │   ├── F0100_SEG_002.prompt.json
+│   │   │   ├── F0100_SEG_003.limpo.json
+│   │   │   ├── F0100_SEG_003.prompt.json
+│   │   │   ├── F0101_SEG_001.limpo.json
+│   │   │   ├── F0101_SEG_001.prompt.json
+│   │   │   ├── F0101_SEG_002.limpo.json
+│   │   │   ├── F0101_SEG_002.prompt.json
+│   │   │   ├── F0101_SEG_003.limpo.json
+│   │   │   ├── F0101_SEG_003.prompt.json
+│   │   │   ├── F0102_A01_SEG_001.limpo.json
+│   │   │   ├── F0102_A01_SEG_001.prompt.json
+│   │   │   ├── F0102_A01_SEG_002.limpo.json
+│   │   │   ├── F0102_A01_SEG_002.prompt.json
+│   │   │   ├── F0102_A01_SEG_003.limpo.json
+│   │   │   ├── F0102_A01_SEG_003.prompt.json
+│   │   │   ├── F0102_A01_SEG_004.limpo.json
+│   │   │   ├── F0102_A01_SEG_004.prompt.json
+│   │   │   ├── F0102_A01_SEG_005.limpo.json
+│   │   │   ├── F0102_A01_SEG_005.prompt.json
+│   │   │   ├── F0102_A01_SEG_006.limpo.json
+│   │   │   ├── F0102_A01_SEG_006.prompt.json
+│   │   │   ├── F0102_A02_SEG_001.limpo.json
+│   │   │   ├── F0102_A02_SEG_001.prompt.json
+│   │   │   ├── F0102_A02_SEG_002.limpo.json
+│   │   │   ├── F0102_A02_SEG_002.prompt.json
+│   │   │   ├── F0103_A01_SEG_001.limpo.json
+│   │   │   ├── F0103_A01_SEG_001.prompt.json
+│   │   │   ├── F0103_A01_SEG_002.limpo.json
+│   │   │   ├── F0103_A01_SEG_002.prompt.json
+│   │   │   ├── F0103_A01_SEG_003.limpo.json
+│   │   │   ├── F0103_A01_SEG_003.prompt.json
+│   │   │   ├── F0103_A02_SEG_001.limpo.json
+│   │   │   ├── F0103_A02_SEG_001.prompt.json
+│   │   │   ├── F0103_A02_SEG_002.limpo.json
+│   │   │   ├── F0103_A02_SEG_002.prompt.json
+│   │   │   ├── F0104_A01_SEG_001.limpo.json
+│   │   │   ├── F0104_A01_SEG_001.prompt.json
+│   │   │   ├── F0104_A01_SEG_002.limpo.json
+│   │   │   ├── F0104_A01_SEG_002.prompt.json
+│   │   │   ├── F0104_A01_SEG_003.limpo.json
+│   │   │   ├── F0104_A01_SEG_003.prompt.json
+│   │   │   ├── F0104_A01_SEG_004.limpo.json
+│   │   │   ├── F0104_A01_SEG_004.prompt.json
+│   │   │   ├── F0104_A01_SEG_005.limpo.json
+│   │   │   ├── F0104_A01_SEG_005.prompt.json
+│   │   │   ├── F0104_A02_SEG_001.limpo.json
+│   │   │   ├── F0104_A02_SEG_001.prompt.json
+│   │   │   ├── F0104_A02_SEG_002.limpo.json
+│   │   │   ├── F0104_A02_SEG_002.prompt.json
+│   │   │   ├── F0105_A01_SEG_001.limpo.json
+│   │   │   ├── F0105_A01_SEG_001.prompt.json
+│   │   │   ├── F0105_A01_SEG_002.limpo.json
+│   │   │   ├── F0105_A01_SEG_002.prompt.json
+│   │   │   ├── F0105_A01_SEG_003.limpo.json
+│   │   │   ├── F0105_A01_SEG_003.prompt.json
+│   │   │   ├── F0105_A01_SEG_004.limpo.json
+│   │   │   ├── F0105_A01_SEG_004.prompt.json
+│   │   │   ├── F0105_A02_SEG_001.limpo.json
+│   │   │   ├── F0105_A02_SEG_001.prompt.json
+│   │   │   ├── F0106_SEG_001.limpo.json
+│   │   │   ├── F0106_SEG_001.prompt.json
+│   │   │   ├── F0106_SEG_002.limpo.json
+│   │   │   ├── F0106_SEG_002.prompt.json
+│   │   │   ├── F0106_SEG_003.limpo.json
+│   │   │   ├── F0106_SEG_003.prompt.json
+│   │   │   ├── F0107_SEG_001.limpo.json
+│   │   │   ├── F0107_SEG_001.prompt.json
+│   │   │   ├── F0107_SEG_002.limpo.json
+│   │   │   ├── F0107_SEG_002.prompt.json
+│   │   │   ├── F0107_SEG_003.limpo.json
+│   │   │   ├── F0107_SEG_003.prompt.json
+│   │   │   ├── F0107_SEG_004.limpo.json
+│   │   │   ├── F0107_SEG_004.prompt.json
+│   │   │   ├── F0108_A01_SEG_001.limpo.json
+│   │   │   ├── F0108_A01_SEG_001.prompt.json
+│   │   │   ├── F0108_A01_SEG_002.limpo.json
+│   │   │   ├── F0108_A01_SEG_002.prompt.json
+│   │   │   ├── F0108_A01_SEG_003.limpo.json
+│   │   │   ├── F0108_A01_SEG_003.prompt.json
+│   │   │   ├── F0108_A01_SEG_004.limpo.json
+│   │   │   ├── F0108_A01_SEG_004.prompt.json
+│   │   │   ├── F0108_A02_SEG_001.limpo.json
+│   │   │   ├── F0108_A02_SEG_001.prompt.json
+│   │   │   ├── F0108_A02_SEG_002.limpo.json
+│   │   │   ├── F0108_A02_SEG_002.prompt.json
+│   │   │   ├── F0109_SEG_001.limpo.json
+│   │   │   ├── F0109_SEG_001.prompt.json
+│   │   │   ├── F0109_SEG_002.limpo.json
+│   │   │   ├── F0109_SEG_002.prompt.json
+│   │   │   ├── F0110_A01_SEG_001.limpo.json
+│   │   │   ├── F0110_A01_SEG_001.prompt.json
+│   │   │   ├── F0110_A01_SEG_002.limpo.json
+│   │   │   ├── F0110_A01_SEG_002.prompt.json
+│   │   │   ├── F0110_A01_SEG_003.limpo.json
+│   │   │   ├── F0110_A01_SEG_003.prompt.json
+│   │   │   ├── F0110_A02_SEG_001.limpo.json
+│   │   │   ├── F0110_A02_SEG_001.prompt.json
+│   │   │   ├── F0111_A01_SEG_001.limpo.json
+│   │   │   ├── F0111_A01_SEG_001.prompt.json
+│   │   │   ├── F0111_A01_SEG_002.limpo.json
+│   │   │   ├── F0111_A01_SEG_002.prompt.json
+│   │   │   ├── F0111_A01_SEG_003.limpo.json
+│   │   │   ├── F0111_A01_SEG_003.prompt.json
+│   │   │   ├── F0111_A01_SEG_004.limpo.json
+│   │   │   ├── F0111_A01_SEG_004.prompt.json
+│   │   │   ├── F0111_A02_SEG_001.limpo.json
+│   │   │   ├── F0111_A02_SEG_001.prompt.json
+│   │   │   ├── F0111_A02_SEG_002.limpo.json
+│   │   │   ├── F0111_A02_SEG_002.prompt.json
+│   │   │   ├── F0111_A02_SEG_003.limpo.json
+│   │   │   ├── F0111_A02_SEG_003.prompt.json
+│   │   │   ├── F0112_SEG_001.limpo.json
+│   │   │   ├── F0112_SEG_001.prompt.json
+│   │   │   ├── F0112_SEG_002.limpo.json
+│   │   │   ├── F0112_SEG_002.prompt.json
+│   │   │   ├── F0113_A01_SEG_001.limpo.json
+│   │   │   ├── F0113_A01_SEG_001.prompt.json
+│   │   │   ├── F0113_A01_SEG_002.limpo.json
+│   │   │   ├── F0113_A01_SEG_002.prompt.json
+│   │   │   ├── F0113_A01_SEG_003.limpo.json
+│   │   │   ├── F0113_A01_SEG_003.prompt.json
+│   │   │   ├── F0113_A02_SEG_001.limpo.json
+│   │   │   ├── F0113_A02_SEG_001.prompt.json
+│   │   │   ├── F0114_A01_SEG_001.limpo.json
+│   │   │   ├── F0114_A01_SEG_001.prompt.json
+│   │   │   ├── F0114_A01_SEG_002.limpo.json
+│   │   │   ├── F0114_A01_SEG_002.prompt.json
+│   │   │   ├── F0114_A01_SEG_003.limpo.json
+│   │   │   ├── F0114_A01_SEG_003.prompt.json
+│   │   │   ├── F0114_A01_SEG_004.limpo.json
+│   │   │   ├── F0114_A01_SEG_004.prompt.json
+│   │   │   ├── F0114_A01_SEG_005.limpo.json
+│   │   │   ├── F0114_A01_SEG_005.prompt.json
+│   │   │   ├── F0114_A02_SEG_001.limpo.json
+│   │   │   ├── F0114_A02_SEG_001.prompt.json
+│   │   │   ├── F0114_A02_SEG_002.limpo.json
+│   │   │   ├── F0114_A02_SEG_002.prompt.json
+│   │   │   ├── F0115_A01_SEG_001.limpo.json
+│   │   │   ├── F0115_A01_SEG_001.prompt.json
+│   │   │   ├── F0115_A01_SEG_002.limpo.json
+│   │   │   ├── F0115_A01_SEG_002.prompt.json
+│   │   │   ├── F0115_A01_SEG_003.limpo.json
+│   │   │   ├── F0115_A01_SEG_003.prompt.json
+│   │   │   ├── F0115_A01_SEG_004.limpo.json
+│   │   │   ├── F0115_A01_SEG_004.prompt.json
+│   │   │   ├── F0115_A02_SEG_001.limpo.json
+│   │   │   ├── F0115_A02_SEG_001.prompt.json
+│   │   │   ├── F0115_A02_SEG_002.limpo.json
+│   │   │   ├── F0115_A02_SEG_002.prompt.json
+│   │   │   ├── F0116_SEG_001.limpo.json
+│   │   │   ├── F0116_SEG_001.prompt.json
+│   │   │   ├── F0116_SEG_002.limpo.json
+│   │   │   ├── F0116_SEG_002.prompt.json
+│   │   │   ├── F0116_SEG_003.limpo.json
+│   │   │   ├── F0116_SEG_003.prompt.json
+│   │   │   ├── F0116_SEG_004.limpo.json
+│   │   │   ├── F0116_SEG_004.prompt.json
+│   │   │   ├── F0117_A01_SEG_001.limpo.json
+│   │   │   ├── F0117_A01_SEG_001.prompt.json
+│   │   │   ├── F0117_A01_SEG_002.limpo.json
+│   │   │   ├── F0117_A01_SEG_002.prompt.json
+│   │   │   ├── F0117_A01_SEG_003.limpo.json
+│   │   │   ├── F0117_A01_SEG_003.prompt.json
+│   │   │   ├── F0117_A02_SEG_001.limpo.json
+│   │   │   ├── F0117_A02_SEG_001.prompt.json
+│   │   │   ├── F0118_SEG_001.limpo.json
+│   │   │   ├── F0118_SEG_001.prompt.json
+│   │   │   ├── F0118_SEG_002.limpo.json
+│   │   │   ├── F0118_SEG_002.prompt.json
+│   │   │   ├── F0119_A01_SEG_001.limpo.json
+│   │   │   ├── F0119_A01_SEG_001.prompt.json
+│   │   │   ├── F0119_A01_SEG_002.limpo.json
+│   │   │   ├── F0119_A01_SEG_002.prompt.json
+│   │   │   ├── F0119_A01_SEG_003.limpo.json
+│   │   │   ├── F0119_A01_SEG_003.prompt.json
+│   │   │   ├── F0119_A02_SEG_001.limpo.json
+│   │   │   ├── F0119_A02_SEG_001.prompt.json
+│   │   │   ├── F0119_A02_SEG_002.limpo.json
+│   │   │   ├── F0119_A02_SEG_002.prompt.json
+│   │   │   ├── F0120_SEG_001.limpo.json
+│   │   │   ├── F0120_SEG_001.prompt.json
+│   │   │   ├── F0120_SEG_002.limpo.json
+│   │   │   ├── F0120_SEG_002.prompt.json
+│   │   │   ├── F0120_SEG_003.limpo.json
+│   │   │   ├── F0120_SEG_003.prompt.json
+│   │   │   ├── F0121_A01_SEG_001.limpo.json
+│   │   │   ├── F0121_A01_SEG_001.prompt.json
+│   │   │   ├── F0121_A01_SEG_002.limpo.json
+│   │   │   ├── F0121_A01_SEG_002.prompt.json
+│   │   │   ├── F0121_A01_SEG_003.limpo.json
+│   │   │   ├── F0121_A01_SEG_003.prompt.json
+│   │   │   ├── F0121_A01_SEG_004.limpo.json
+│   │   │   ├── F0121_A01_SEG_004.prompt.json
+│   │   │   ├── F0121_A02_SEG_001.limpo.json
+│   │   │   ├── F0121_A02_SEG_001.prompt.json
+│   │   │   ├── F0121_A02_SEG_002.limpo.json
+│   │   │   ├── F0121_A02_SEG_002.prompt.json
+│   │   │   ├── F0122_SEG_001.limpo.json
+│   │   │   ├── F0122_SEG_001.prompt.json
+│   │   │   ├── F0122_SEG_002.limpo.json
+│   │   │   ├── F0122_SEG_002.prompt.json
+│   │   │   ├── F0123_SEG_001.limpo.json
+│   │   │   ├── F0123_SEG_001.prompt.json
+│   │   │   ├── F0123_SEG_002.limpo.json
+│   │   │   ├── F0123_SEG_002.prompt.json
+│   │   │   ├── F0123_SEG_003.limpo.json
+│   │   │   ├── F0123_SEG_003.prompt.json
+│   │   │   ├── F0124_SEG_001.limpo.json
+│   │   │   ├── F0124_SEG_001.prompt.json
+│   │   │   ├── F0124_SEG_002.limpo.json
+│   │   │   ├── F0124_SEG_002.prompt.json
+│   │   │   ├── F0125_SEG_001.limpo.json
+│   │   │   ├── F0125_SEG_001.prompt.json
+│   │   │   ├── F0126_SEG_001.limpo.json
+│   │   │   ├── F0126_SEG_001.prompt.json
+│   │   │   ├── F0127_SEG_001.limpo.json
+│   │   │   ├── F0127_SEG_001.prompt.json
+│   │   │   ├── F0128_SEG_001.limpo.json
+│   │   │   ├── F0128_SEG_001.prompt.json
+│   │   │   ├── F0129_SEG_001.limpo.json
+│   │   │   ├── F0129_SEG_001.prompt.json
+│   │   │   ├── F0130_SEG_001.limpo.json
+│   │   │   ├── F0130_SEG_001.prompt.json
+│   │   │   ├── F0131_SEG_001.limpo.json
+│   │   │   ├── F0131_SEG_001.prompt.json
+│   │   │   ├── F0132_SEG_001.limpo.json
+│   │   │   ├── F0132_SEG_001.prompt.json
+│   │   │   ├── F0133_SEG_001.limpo.json
+│   │   │   ├── F0133_SEG_001.prompt.json
+│   │   │   ├── F0134_SEG_001.limpo.json
+│   │   │   ├── F0134_SEG_001.prompt.json
+│   │   │   ├── F0135_SEG_001.limpo.json
+│   │   │   ├── F0135_SEG_001.prompt.json
+│   │   │   ├── F0136_SEG_001.limpo.json
+│   │   │   ├── F0136_SEG_001.prompt.json
+│   │   │   ├── F0137_SEG_001.limpo.json
+│   │   │   ├── F0137_SEG_001.prompt.json
+│   │   │   ├── F0138_SEG_001.limpo.json
+│   │   │   ├── F0138_SEG_001.prompt.json
+│   │   │   ├── F0139_SEG_001.limpo.json
+│   │   │   ├── F0139_SEG_001.prompt.json
+│   │   │   ├── F0140_SEG_001.limpo.json
+│   │   │   ├── F0140_SEG_001.prompt.json
+│   │   │   ├── F0141_SEG_001.limpo.json
+│   │   │   ├── F0141_SEG_001.prompt.json
+│   │   │   ├── F0142_SEG_001.limpo.json
+│   │   │   ├── F0142_SEG_001.prompt.json
+│   │   │   ├── F0143_SEG_001.limpo.json
+│   │   │   ├── F0143_SEG_001.prompt.json
+│   │   │   ├── F0144_SEG_001.limpo.json
+│   │   │   ├── F0144_SEG_001.prompt.json
+│   │   │   ├── F0145_SEG_001.limpo.json
+│   │   │   ├── F0145_SEG_001.prompt.json
+│   │   │   ├── F0146_SEG_001.limpo.json
+│   │   │   ├── F0146_SEG_001.prompt.json
+│   │   │   ├── F0147_SEG_001.limpo.json
+│   │   │   ├── F0147_SEG_001.prompt.json
+│   │   │   ├── F0148_SEG_001.limpo.json
+│   │   │   ├── F0148_SEG_001.prompt.json
+│   │   │   ├── F0149_SEG_001.limpo.json
+│   │   │   ├── F0149_SEG_001.prompt.json
+│   │   │   ├── F0150_SEG_001.limpo.json
+│   │   │   ├── F0150_SEG_001.prompt.json
+│   │   │   ├── F0151_SEG_001.limpo.json
+│   │   │   ├── F0151_SEG_001.prompt.json
+│   │   │   ├── F0152_SEG_001.limpo.json
+│   │   │   ├── F0152_SEG_001.prompt.json
+│   │   │   ├── F0153_SEG_001.limpo.json
+│   │   │   ├── F0153_SEG_001.prompt.json
+│   │   │   ├── F0154_SEG_001.limpo.json
+│   │   │   ├── F0154_SEG_001.prompt.json
+│   │   │   ├── F0155_SEG_001.limpo.json
+│   │   │   ├── F0155_SEG_001.prompt.json
+│   │   │   ├── F0156_SEG_001.limpo.json
+│   │   │   ├── F0156_SEG_001.prompt.json
+│   │   │   ├── F0157_SEG_001.limpo.json
+│   │   │   ├── F0157_SEG_001.prompt.json
+│   │   │   ├── F0158_SEG_001.limpo.json
+│   │   │   ├── F0158_SEG_001.prompt.json
+│   │   │   ├── F0159_SEG_001.limpo.json
+│   │   │   ├── F0159_SEG_001.prompt.json
+│   │   │   ├── F0160_SEG_001.limpo.json
+│   │   │   ├── F0160_SEG_001.prompt.json
+│   │   │   ├── F0161_SEG_001.limpo.json
+│   │   │   ├── F0161_SEG_001.prompt.json
+│   │   │   ├── F0162_SEG_001.limpo.json
+│   │   │   ├── F0162_SEG_001.prompt.json
+│   │   │   ├── F0163_SEG_001.limpo.json
+│   │   │   ├── F0163_SEG_001.prompt.json
+│   │   │   ├── F0164_SEG_001.limpo.json
+│   │   │   ├── F0164_SEG_001.prompt.json
+│   │   │   ├── F0165_SEG_001.limpo.json
+│   │   │   ├── F0165_SEG_001.prompt.json
+│   │   │   ├── F0166_SEG_001.limpo.json
+│   │   │   ├── F0166_SEG_001.prompt.json
+│   │   │   ├── F0167_SEG_001.limpo.json
+│   │   │   ├── F0167_SEG_001.prompt.json
+│   │   │   ├── F0168_SEG_001.limpo.json
+│   │   │   ├── F0168_SEG_001.prompt.json
+│   │   │   ├── F0169_SEG_001.limpo.json
+│   │   │   ├── F0169_SEG_001.prompt.json
+│   │   │   ├── F0170_SEG_001.limpo.json
+│   │   │   ├── F0170_SEG_001.prompt.json
+│   │   │   ├── F0171_SEG_001.limpo.json
+│   │   │   ├── F0171_SEG_001.prompt.json
+│   │   │   ├── F0172_SEG_001.limpo.json
+│   │   │   ├── F0172_SEG_001.prompt.json
+│   │   │   ├── F0173_SEG_001.limpo.json
+│   │   │   ├── F0173_SEG_001.prompt.json
+│   │   │   ├── F0174_SEG_001.limpo.json
+│   │   │   ├── F0174_SEG_001.prompt.json
+│   │   │   ├── F0175_SEG_001.limpo.json
+│   │   │   ├── F0175_SEG_001.prompt.json
+│   │   │   ├── F0176_SEG_001.limpo.json
+│   │   │   ├── F0176_SEG_001.prompt.json
+│   │   │   ├── F0177_SEG_001.limpo.json
+│   │   │   ├── F0177_SEG_001.prompt.json
+│   │   │   ├── F0178_SEG_001.limpo.json
+│   │   │   ├── F0178_SEG_001.prompt.json
+│   │   │   ├── F0179_SEG_001.limpo.json
+│   │   │   ├── F0179_SEG_001.prompt.json
+│   │   │   ├── F0180_SEG_001.limpo.json
+│   │   │   ├── F0180_SEG_001.prompt.json
+│   │   │   ├── F0181_SEG_001.limpo.json
+│   │   │   ├── F0181_SEG_001.prompt.json
+│   │   │   ├── F0182_SEG_001.limpo.json
+│   │   │   ├── F0182_SEG_001.prompt.json
+│   │   │   ├── F0183_SEG_001.limpo.json
+│   │   │   ├── F0183_SEG_001.prompt.json
+│   │   │   ├── F0184_SEG_001.limpo.json
+│   │   │   ├── F0184_SEG_001.prompt.json
+│   │   │   ├── F0185_SEG_001.limpo.json
+│   │   │   ├── F0185_SEG_001.prompt.json
+│   │   │   ├── F0186_SEG_001.limpo.json
+│   │   │   ├── F0186_SEG_001.prompt.json
+│   │   │   ├── F0187_SEG_001.limpo.json
+│   │   │   ├── F0187_SEG_001.prompt.json
+│   │   │   ├── F0188_SEG_001.limpo.json
+│   │   │   ├── F0188_SEG_001.prompt.json
+│   │   │   ├── F0189_SEG_001.limpo.json
+│   │   │   ├── F0189_SEG_001.prompt.json
+│   │   │   ├── F0190_SEG_001.limpo.json
+│   │   │   ├── F0190_SEG_001.prompt.json
+│   │   │   ├── F0191_SEG_001.limpo.json
+│   │   │   ├── F0191_SEG_001.prompt.json
+│   │   │   ├── F0192_SEG_001.limpo.json
+│   │   │   ├── F0192_SEG_001.prompt.json
+│   │   │   ├── F0193_SEG_001.limpo.json
+│   │   │   ├── F0193_SEG_001.prompt.json
+│   │   │   ├── F0194_SEG_001.limpo.json
+│   │   │   ├── F0194_SEG_001.prompt.json
+│   │   │   ├── F0195_SEG_001.limpo.json
+│   │   │   ├── F0195_SEG_001.prompt.json
+│   │   │   ├── F0196_SEG_001.limpo.json
+│   │   │   ├── F0196_SEG_001.prompt.json
+│   │   │   ├── F0197_SEG_001.limpo.json
+│   │   │   ├── F0197_SEG_001.prompt.json
+│   │   │   ├── F0198_SEG_001.limpo.json
+│   │   │   ├── F0198_SEG_001.prompt.json
+│   │   │   ├── F0199_SEG_001.limpo.json
+│   │   │   ├── F0199_SEG_001.prompt.json
+│   │   │   ├── F0200_SEG_001.limpo.json
+│   │   │   ├── F0200_SEG_001.prompt.json
+│   │   │   ├── F0201_SEG_001.limpo.json
+│   │   │   ├── F0201_SEG_001.prompt.json
+│   │   │   ├── F0202_SEG_001.limpo.json
+│   │   │   ├── F0202_SEG_001.prompt.json
+│   │   │   ├── F0203_SEG_001.limpo.json
+│   │   │   ├── F0203_SEG_001.prompt.json
+│   │   │   ├── F0204_SEG_001.limpo.json
+│   │   │   ├── F0204_SEG_001.prompt.json
+│   │   │   ├── F0205_SEG_001.limpo.json
+│   │   │   ├── F0205_SEG_001.prompt.json
+│   │   │   ├── F0206_SEG_001.limpo.json
+│   │   │   ├── F0206_SEG_001.prompt.json
+│   │   │   ├── F0207_SEG_001.limpo.json
+│   │   │   ├── F0207_SEG_001.prompt.json
+│   │   │   ├── F0208_SEG_001.limpo.json
+│   │   │   ├── F0208_SEG_001.prompt.json
+│   │   │   ├── F0209_SEG_001.limpo.json
+│   │   │   ├── F0209_SEG_001.prompt.json
+│   │   │   ├── F0210_SEG_001.limpo.json
+│   │   │   ├── F0210_SEG_001.prompt.json
+│   │   │   ├── F0211_SEG_001.limpo.json
+│   │   │   ├── F0211_SEG_001.prompt.json
+│   │   │   ├── F0212_SEG_001.limpo.json
+│   │   │   ├── F0212_SEG_001.prompt.json
+│   │   │   ├── F0213_SEG_001.limpo.json
+│   │   │   ├── F0213_SEG_001.prompt.json
+│   │   │   ├── F0214_SEG_001.limpo.json
+│   │   │   ├── F0214_SEG_001.prompt.json
+│   │   │   ├── F0215_SEG_001.limpo.json
+│   │   │   ├── F0215_SEG_001.prompt.json
+│   │   │   ├── F0216_SEG_001.limpo.json
+│   │   │   ├── F0216_SEG_001.prompt.json
+│   │   │   ├── F0217_SEG_001.limpo.json
+│   │   │   ├── F0217_SEG_001.prompt.json
+│   │   │   ├── F0218_SEG_001.limpo.json
+│   │   │   ├── F0218_SEG_001.prompt.json
+│   │   │   ├── F0219_SEG_001.limpo.json
+│   │   │   ├── F0219_SEG_001.prompt.json
+│   │   │   ├── F0220_SEG_001.limpo.json
+│   │   │   ├── F0220_SEG_001.prompt.json
+│   │   │   ├── F0221_SEG_001.limpo.json
+│   │   │   ├── F0221_SEG_001.prompt.json
+│   │   │   ├── F0222_SEG_001.limpo.json
+│   │   │   ├── F0222_SEG_001.prompt.json
+│   │   │   ├── F0223_SEG_001.limpo.json
+│   │   │   ├── F0223_SEG_001.prompt.json
+│   │   │   ├── F0224_SEG_001.limpo.json
+│   │   │   ├── F0224_SEG_001.prompt.json
+│   │   │   ├── F0225_SEG_001.limpo.json
+│   │   │   ├── F0225_SEG_001.prompt.json
+│   │   │   ├── F0226_SEG_001.limpo.json
+│   │   │   ├── F0226_SEG_001.prompt.json
+│   │   │   ├── F0227_SEG_001.limpo.json
+│   │   │   ├── F0227_SEG_001.prompt.json
+│   │   │   ├── F0228_SEG_001.limpo.json
+│   │   │   ├── F0228_SEG_001.prompt.json
+│   │   │   ├── F0229_SEG_001.limpo.json
+│   │   │   ├── F0229_SEG_001.prompt.json
+│   │   │   ├── F0230_SEG_001.limpo.json
+│   │   │   ├── F0230_SEG_001.prompt.json
+│   │   │   ├── F0231_SEG_001.limpo.json
+│   │   │   ├── F0231_SEG_001.prompt.json
+│   │   │   ├── F0231_SEG_002.limpo.json
+│   │   │   ├── F0231_SEG_002.prompt.json
+│   │   │   ├── F0232_SEG_001.limpo.json
+│   │   │   ├── F0232_SEG_001.prompt.json
+│   │   │   ├── F0233_SEG_001.limpo.json
+│   │   │   ├── F0233_SEG_001.prompt.json
+│   │   │   ├── F0233_SEG_002.limpo.json
+│   │   │   ├── F0233_SEG_002.prompt.json
+│   │   │   ├── F0235_SEG_001.limpo.json
+│   │   │   ├── F0235_SEG_001.prompt.json
+│   │   │   ├── F0236_SEG_001.limpo.json
+│   │   │   ├── F0236_SEG_001.prompt.json
+│   │   │   ├── F0237_SEG_001.limpo.json
+│   │   │   ├── F0237_SEG_001.prompt.json
+│   │   │   ├── F0238_SEG_001.limpo.json
+│   │   │   ├── F0238_SEG_001.prompt.json
+│   │   │   ├── F0239_SEG_001.limpo.json
+│   │   │   ├── F0239_SEG_001.prompt.json
+│   │   │   ├── F0240_SEG_001.limpo.json
+│   │   │   ├── F0240_SEG_001.prompt.json
+│   │   │   ├── F0241_A01_SEG_001.limpo.json
+│   │   │   ├── F0241_A01_SEG_001.prompt.json
+│   │   │   ├── F0241_A01_SEG_002.limpo.json
+│   │   │   ├── F0241_A01_SEG_002.prompt.json
+│   │   │   ├── F0241_A01_SEG_003.limpo.json
+│   │   │   ├── F0241_A01_SEG_003.prompt.json
+│   │   │   ├── F0241_A01_SEG_004.limpo.json
+│   │   │   ├── F0241_A01_SEG_004.prompt.json
+│   │   │   ├── F0241_A01_SEG_005.limpo.json
+│   │   │   ├── F0241_A01_SEG_005.prompt.json
+│   │   │   ├── F0241_A02_SEG_001.limpo.json
+│   │   │   ├── F0241_A02_SEG_001.prompt.json
+│   │   │   ├── F0241_A02_SEG_002.limpo.json
+│   │   │   ├── F0241_A02_SEG_002.prompt.json
+│   │   │   ├── F0241_A02_SEG_003.limpo.json
+│   │   │   ├── F0241_A02_SEG_003.prompt.json
+│   │   │   ├── F0241_A03_SEG_001.limpo.json
+│   │   │   ├── F0241_A03_SEG_001.prompt.json
+│   │   │   ├── F0241_A03_SEG_002.limpo.json
+│   │   │   ├── F0241_A03_SEG_002.prompt.json
+│   │   │   ├── F0241_A04_SEG_001.limpo.json
+│   │   │   ├── F0241_A04_SEG_001.prompt.json
+│   │   │   ├── F0241_A04_SEG_002.limpo.json
+│   │   │   ├── F0241_A04_SEG_002.prompt.json
+│   │   │   ├── F0241_A04_SEG_003.limpo.json
+│   │   │   ├── F0241_A04_SEG_003.prompt.json
+│   │   │   ├── F0241_A05_SEG_001.limpo.json
+│   │   │   ├── F0241_A05_SEG_001.prompt.json
+│   │   │   ├── F0241_A05_SEG_002.limpo.json
+│   │   │   ├── F0241_A05_SEG_002.prompt.json
+│   │   │   ├── F0241_A05_SEG_003.limpo.json
+│   │   │   ├── F0241_A05_SEG_003.prompt.json
+│   │   │   ├── F0241_A05_SEG_004.limpo.json
+│   │   │   ├── F0241_A05_SEG_004.prompt.json
+│   │   │   ├── F0241_A06_SEG_001.limpo.json
+│   │   │   ├── F0241_A06_SEG_001.prompt.json
+│   │   │   ├── F0241_A06_SEG_002.limpo.json
+│   │   │   ├── F0241_A06_SEG_002.prompt.json
+│   │   │   ├── F0241_A06_SEG_003.limpo.json
+│   │   │   ├── F0241_A06_SEG_003.prompt.json
+│   │   │   ├── F0241_A07_SEG_001.limpo.json
+│   │   │   ├── F0241_A07_SEG_001.prompt.json
+│   │   │   ├── F0241_A07_SEG_002.limpo.json
+│   │   │   ├── F0241_A07_SEG_002.prompt.json
+│   │   │   ├── F0241_A07_SEG_003.limpo.json
+│   │   │   ├── F0241_A07_SEG_003.prompt.json
+│   │   │   ├── F0241_A07_SEG_004.limpo.json
+│   │   │   ├── F0241_A07_SEG_004.prompt.json
+│   │   │   ├── F0241_A08_SEG_001.limpo.json
+│   │   │   ├── F0241_A08_SEG_001.prompt.json
+│   │   │   ├── F0241_A08_SEG_002.limpo.json
+│   │   │   ├── F0241_A08_SEG_002.prompt.json
+│   │   │   ├── F0241_A09_SEG_001.limpo.json
+│   │   │   ├── F0241_A09_SEG_001.prompt.json
+│   │   │   ├── F0241_A09_SEG_002.limpo.json
+│   │   │   ├── F0241_A09_SEG_002.prompt.json
+│   │   │   ├── F0241_A09_SEG_003.limpo.json
+│   │   │   ├── F0241_A09_SEG_003.prompt.json
+│   │   │   ├── F0241_A10_SEG_001.limpo.json
+│   │   │   ├── F0241_A10_SEG_001.prompt.json
+│   │   │   ├── F0241_A10_SEG_002.limpo.json
+│   │   │   ├── F0241_A10_SEG_002.prompt.json
+│   │   │   ├── F0241_A10_SEG_003.limpo.json
+│   │   │   ├── F0241_A10_SEG_003.prompt.json
+│   │   │   ├── F0241_A11_SEG_001.limpo.json
+│   │   │   ├── F0241_A11_SEG_001.prompt.json
+│   │   │   ├── F0241_A11_SEG_002.limpo.json
+│   │   │   ├── F0241_A11_SEG_002.prompt.json
+│   │   │   ├── F0241_A11_SEG_003.limpo.json
+│   │   │   ├── F0241_A11_SEG_003.prompt.json
+│   │   │   ├── F0241_A11_SEG_004.limpo.json
+│   │   │   ├── F0241_A11_SEG_004.prompt.json
+│   │   │   ├── F0241_A11_SEG_005.limpo.json
+│   │   │   ├── F0241_A11_SEG_005.prompt.json
+│   │   │   ├── F0241_A12_SEG_001.limpo.json
+│   │   │   ├── F0241_A12_SEG_001.prompt.json
+│   │   │   ├── F0241_A12_SEG_002.limpo.json
+│   │   │   ├── F0241_A12_SEG_002.prompt.json
+│   │   │   ├── F0241_A12_SEG_003.limpo.json
+│   │   │   ├── F0241_A12_SEG_003.prompt.json
+│   │   │   ├── F0241_A12_SEG_004.limpo.json
+│   │   │   ├── F0241_A12_SEG_004.prompt.json
+│   │   │   ├── F0241_A13_SEG_001.limpo.json
+│   │   │   ├── F0241_A13_SEG_001.prompt.json
+│   │   │   ├── F0241_A13_SEG_002.limpo.json
+│   │   │   ├── F0241_A13_SEG_002.prompt.json
+│   │   │   ├── F0241_A14_SEG_001.limpo.json
+│   │   │   ├── F0241_A14_SEG_001.prompt.json
+│   │   │   ├── F0241_A14_SEG_002.limpo.json
+│   │   │   ├── F0241_A14_SEG_002.prompt.json
+│   │   │   ├── F0241_A14_SEG_003.limpo.json
+│   │   │   ├── F0241_A14_SEG_003.prompt.json
+│   │   │   ├── F0241_A14_SEG_004.limpo.json
+│   │   │   ├── F0241_A14_SEG_004.prompt.json
+│   │   │   ├── F0241_A15_SEG_001.limpo.json
+│   │   │   ├── F0241_A15_SEG_001.prompt.json
+│   │   │   ├── F0241_A15_SEG_002.limpo.json
+│   │   │   ├── F0241_A15_SEG_002.prompt.json
+│   │   │   ├── F0241_A15_SEG_003.limpo.json
+│   │   │   ├── F0241_A15_SEG_003.prompt.json
+│   │   │   ├── F0241_A15_SEG_004.limpo.json
+│   │   │   ├── F0241_A15_SEG_004.prompt.json
+│   │   │   ├── F0241_A16_SEG_001.limpo.json
+│   │   │   ├── F0241_A16_SEG_001.prompt.json
+│   │   │   ├── F0241_A16_SEG_002.limpo.json
+│   │   │   ├── F0241_A16_SEG_002.prompt.json
+│   │   │   ├── F0241_A16_SEG_003.limpo.json
+│   │   │   ├── F0241_A16_SEG_003.prompt.json
+│   │   │   ├── F0241_A16_SEG_004.limpo.json
+│   │   │   ├── F0241_A16_SEG_004.prompt.json
+│   │   │   ├── F0241_A16_SEG_005.limpo.json
+│   │   │   ├── F0241_A16_SEG_005.prompt.json
+│   │   │   ├── F0241_A17_SEG_001.limpo.json
+│   │   │   ├── F0241_A17_SEG_001.prompt.json
+│   │   │   ├── F0241_A17_SEG_002.limpo.json
+│   │   │   ├── F0241_A17_SEG_002.prompt.json
+│   │   │   ├── F0241_A17_SEG_003.limpo.json
+│   │   │   ├── F0241_A17_SEG_003.prompt.json
+│   │   │   ├── F0241_A18_SEG_001.limpo.json
+│   │   │   ├── F0241_A18_SEG_001.prompt.json
+│   │   │   ├── F0241_A18_SEG_002.limpo.json
+│   │   │   ├── F0241_A18_SEG_002.prompt.json
+│   │   │   ├── F0241_A18_SEG_003.limpo.json
+│   │   │   ├── F0241_A18_SEG_003.prompt.json
+│   │   │   ├── F0241_A18_SEG_004.limpo.json
+│   │   │   ├── F0241_A18_SEG_004.prompt.json
+│   │   │   ├── F0241_A19_SEG_001.limpo.json
+│   │   │   ├── F0241_A19_SEG_001.prompt.json
+│   │   │   ├── F0241_A19_SEG_002.limpo.json
+│   │   │   ├── F0241_A19_SEG_002.prompt.json
+│   │   │   ├── F0241_A19_SEG_003.limpo.json
+│   │   │   ├── F0241_A19_SEG_003.prompt.json
+│   │   │   ├── F0241_A19_SEG_004.limpo.json
+│   │   │   ├── F0241_A19_SEG_004.prompt.json
+│   │   │   ├── F0241_A19_SEG_005.limpo.json
+│   │   │   ├── F0241_A19_SEG_005.prompt.json
+│   │   │   ├── F0241_A20_SEG_001.limpo.json
+│   │   │   ├── F0241_A20_SEG_001.prompt.json
+│   │   │   ├── F0241_A20_SEG_002.limpo.json
+│   │   │   ├── F0241_A20_SEG_002.prompt.json
+│   │   │   ├── F0241_A20_SEG_003.limpo.json
+│   │   │   ├── F0241_A20_SEG_003.prompt.json
+│   │   │   ├── F0241_A20_SEG_004.limpo.json
+│   │   │   ├── F0241_A20_SEG_004.prompt.json
+│   │   │   ├── F0241_A21_SEG_001.limpo.json
+│   │   │   ├── F0241_A21_SEG_001.prompt.json
+│   │   │   ├── F0241_A21_SEG_002.limpo.json
+│   │   │   ├── F0241_A21_SEG_002.prompt.json
+│   │   │   ├── F0241_A21_SEG_003.limpo.json
+│   │   │   ├── F0241_A21_SEG_003.prompt.json
+│   │   │   ├── F0241_A21_SEG_004.limpo.json
+│   │   │   ├── F0241_A21_SEG_004.prompt.json
+│   │   │   ├── F0241_A21_SEG_005.limpo.json
+│   │   │   ├── F0241_A21_SEG_005.prompt.json
+│   │   │   ├── F0241_A22_SEG_001.limpo.json
+│   │   │   ├── F0241_A22_SEG_001.prompt.json
+│   │   │   ├── F0241_A22_SEG_002.limpo.json
+│   │   │   ├── F0241_A22_SEG_002.prompt.json
+│   │   │   ├── F0241_A22_SEG_003.limpo.json
+│   │   │   ├── F0241_A22_SEG_003.prompt.json
+│   │   │   ├── F0241_A22_SEG_004.limpo.json
+│   │   │   ├── F0241_A22_SEG_004.prompt.json
+│   │   │   ├── F0241_A22_SEG_005.limpo.json
+│   │   │   ├── F0241_A22_SEG_005.prompt.json
+│   │   │   ├── F0241_A23_SEG_001.limpo.json
+│   │   │   ├── F0241_A23_SEG_001.prompt.json
+│   │   │   ├── F0241_A23_SEG_002.limpo.json
+│   │   │   ├── F0241_A23_SEG_002.prompt.json
+│   │   │   ├── F0241_A23_SEG_003.limpo.json
+│   │   │   ├── F0241_A23_SEG_003.prompt.json
+│   │   │   ├── F0241_A23_SEG_004.limpo.json
+│   │   │   ├── F0241_A23_SEG_004.prompt.json
+│   │   │   ├── F0241_A24_SEG_001.limpo.json
+│   │   │   ├── F0241_A24_SEG_001.prompt.json
+│   │   │   ├── F0241_A24_SEG_002.limpo.json
+│   │   │   ├── F0241_A24_SEG_002.prompt.json
+│   │   │   ├── F0241_A24_SEG_003.limpo.json
+│   │   │   ├── F0241_A24_SEG_003.prompt.json
+│   │   │   ├── F0241_A25_SEG_001.limpo.json
+│   │   │   ├── F0241_A25_SEG_001.prompt.json
+│   │   │   ├── F0241_A25_SEG_002.limpo.json
+│   │   │   ├── F0241_A25_SEG_002.prompt.json
+│   │   │   ├── F0241_A25_SEG_003.limpo.json
+│   │   │   ├── F0241_A25_SEG_003.prompt.json
+│   │   │   ├── F0241_A26_SEG_001.limpo.json
+│   │   │   ├── F0241_A26_SEG_001.prompt.json
+│   │   │   ├── F0241_A26_SEG_002.limpo.json
+│   │   │   ├── F0241_A26_SEG_002.prompt.json
+│   │   │   ├── F0241_A26_SEG_003.limpo.json
+│   │   │   ├── F0241_A26_SEG_003.prompt.json
+│   │   │   ├── F0241_A26_SEG_004.limpo.json
+│   │   │   └── F0241_A26_SEG_004.prompt.json
+│   │   ├── erros_limpeza.json
+│   │   ├── limpezas_agregadas.json
+│   │   ├── manifesto_limpeza.json
+│   │   ├── relatorio_limpeza.md
+│   │   └── saltados.json
+│   ├── output
+│   │   ├── bundles
+│   │   │   └── fragmentos
+│   │   │       ├── F0001_SEG_001.bundle.json
+│   │   │       ├── F0002_SEG_001.bundle.json
+│   │   │       ├── F0003_SEG_001.bundle.json
+│   │   │       ├── F0004_SEG_001.bundle.json
+│   │   │       ├── F0005_SEG_001.bundle.json
+│   │   │       ├── F0006_SEG_001.bundle.json
+│   │   │       ├── F0007_SEG_001.bundle.json
+│   │   │       ├── F0008_SEG_001.bundle.json
+│   │   │       ├── F0009_SEG_001.bundle.json
+│   │   │       ├── F0010_SEG_001.bundle.json
+│   │   │       ├── F0011_SEG_001.bundle.json
+│   │   │       ├── F0012_SEG_001.bundle.json
+│   │   │       ├── F0013_SEG_001.bundle.json
+│   │   │       ├── F0014_SEG_001.bundle.json
+│   │   │       ├── F0015_SEG_001.bundle.json
+│   │   │       ├── F0016_SEG_001.bundle.json
+│   │   │       ├── F0017_SEG_001.bundle.json
+│   │   │       ├── F0018_A01_SEG_001.bundle.json
+│   │   │       ├── F0018_A01_SEG_002.bundle.json
+│   │   │       ├── F0018_A02_SEG_001.bundle.json
+│   │   │       ├── F0018_A02_SEG_002.bundle.json
+│   │   │       ├── F0019_SEG_001.bundle.json
+│   │   │       ├── F0020_SEG_001.bundle.json
+│   │   │       ├── F0021_SEG_001.bundle.json
+│   │   │       ├── F0021_SEG_002.bundle.json
+│   │   │       ├── F0022_SEG_001.bundle.json
+│   │   │       ├── F0023_SEG_001.bundle.json
+│   │   │       ├── F0024_SEG_001.bundle.json
+│   │   │       ├── F0024_SEG_002.bundle.json
+│   │   │       ├── F0025_SEG_001.bundle.json
+│   │   │       ├── F0026_SEG_001.bundle.json
+│   │   │       ├── F0027_SEG_001.bundle.json
+│   │   │       ├── F0028_SEG_001.bundle.json
+│   │   │       ├── F0029_SEG_001.bundle.json
+│   │   │       ├── F0030_SEG_001.bundle.json
+│   │   │       ├── F0031_SEG_001.bundle.json
+│   │   │       ├── F0032_SEG_001.bundle.json
+│   │   │       ├── F0033_SEG_001.bundle.json
+│   │   │       ├── F0035_SEG_001.bundle.json
+│   │   │       ├── F0036_SEG_001.bundle.json
+│   │   │       ├── F0037_SEG_001.bundle.json
+│   │   │       ├── F0038_SEG_001.bundle.json
+│   │   │       ├── F0039_SEG_001.bundle.json
+│   │   │       ├── F0040_SEG_001.bundle.json
+│   │   │       ├── F0041_SEG_001.bundle.json
+│   │   │       ├── F0042_SEG_001.bundle.json
+│   │   │       ├── F0043_SEG_001.bundle.json
+│   │   │       ├── F0044_SEG_001.bundle.json
+│   │   │       ├── F0045_SEG_001.bundle.json
+│   │   │       ├── F0046_SEG_001.bundle.json
+│   │   │       ├── F0047_SEG_001.bundle.json
+│   │   │       ├── F0048_SEG_001.bundle.json
+│   │   │       ├── F0049_SEG_001.bundle.json
+│   │   │       ├── F0050_SEG_001.bundle.json
+│   │   │       ├── F0051_SEG_001.bundle.json
+│   │   │       ├── F0052_SEG_001.bundle.json
+│   │   │       ├── F0053_SEG_001.bundle.json
+│   │   │       ├── F0054_SEG_001.bundle.json
+│   │   │       ├── F0055_SEG_001.bundle.json
+│   │   │       ├── F0056_SEG_001.bundle.json
+│   │   │       ├── F0057_SEG_001.bundle.json
+│   │   │       ├── F0057_SEG_002.bundle.json
+│   │   │       ├── F0058_SEG_001.bundle.json
+│   │   │       ├── F0058_SEG_002.bundle.json
+│   │   │       ├── F0058_SEG_003.bundle.json
+│   │   │       ├── F0059_SEG_001.bundle.json
+│   │   │       ├── F0059_SEG_002.bundle.json
+│   │   │       ├── F0060_A01_SEG_001.bundle.json
+│   │   │       ├── F0060_A01_SEG_002.bundle.json
+│   │   │       ├── F0060_A01_SEG_003.bundle.json
+│   │   │       ├── F0060_A01_SEG_004.bundle.json
+│   │   │       ├── F0060_A01_SEG_005.bundle.json
+│   │   │       ├── F0060_A01_SEG_006.bundle.json
+│   │   │       ├── F0060_A02_SEG_001.bundle.json
+│   │   │       ├── F0060_A02_SEG_002.bundle.json
+│   │   │       ├── F0061_SEG_001.bundle.json
+│   │   │       ├── F0061_SEG_002.bundle.json
+│   │   │       ├── F0061_SEG_003.bundle.json
+│   │   │       ├── F0062_A01_SEG_001.bundle.json
+│   │   │       ├── F0062_A01_SEG_002.bundle.json
+│   │   │       ├── F0062_A01_SEG_003.bundle.json
+│   │   │       ├── F0062_A01_SEG_004.bundle.json
+│   │   │       ├── F0062_A02_SEG_001.bundle.json
+│   │   │       ├── F0063_A01_SEG_001.bundle.json
+│   │   │       ├── F0063_A01_SEG_002.bundle.json
+│   │   │       ├── F0063_A01_SEG_003.bundle.json
+│   │   │       ├── F0063_A02_SEG_001.bundle.json
+│   │   │       ├── F0063_A02_SEG_002.bundle.json
+│   │   │       ├── F0064_A01_SEG_001.bundle.json
+│   │   │       ├── F0064_A01_SEG_002.bundle.json
+│   │   │       ├── F0064_A01_SEG_003.bundle.json
+│   │   │       ├── F0064_A01_SEG_004.bundle.json
+│   │   │       ├── F0064_A02_SEG_001.bundle.json
+│   │   │       ├── F0065_A01_SEG_001.bundle.json
+│   │   │       ├── F0065_A01_SEG_002.bundle.json
+│   │   │       ├── F0065_A01_SEG_003.bundle.json
+│   │   │       ├── F0065_A01_SEG_004.bundle.json
+│   │   │       ├── F0065_A02_SEG_001.bundle.json
+│   │   │       ├── F0066_SEG_001.bundle.json
+│   │   │       ├── F0066_SEG_002.bundle.json
+│   │   │       ├── F0067_SEG_001.bundle.json
+│   │   │       ├── F0067_SEG_002.bundle.json
+│   │   │       ├── F0067_SEG_003.bundle.json
+│   │   │       ├── F0068_SEG_001.bundle.json
+│   │   │       ├── F0068_SEG_002.bundle.json
+│   │   │       ├── F0069_SEG_001.bundle.json
+│   │   │       ├── F0069_SEG_002.bundle.json
+│   │   │       ├── F0069_SEG_003.bundle.json
+│   │   │       ├── F0069_SEG_004.bundle.json
+│   │   │       ├── F0069_SEG_005.bundle.json
+│   │   │       ├── F0070_SEG_001.bundle.json
+│   │   │       ├── F0070_SEG_002.bundle.json
+│   │   │       ├── F0071_SEG_001.bundle.json
+│   │   │       ├── F0071_SEG_002.bundle.json
+│   │   │       ├── F0071_SEG_003.bundle.json
+│   │   │       ├── F0072_SEG_001.bundle.json
+│   │   │       ├── F0072_SEG_002.bundle.json
+│   │   │       ├── F0073_SEG_001.bundle.json
+│   │   │       ├── F0073_SEG_002.bundle.json
+│   │   │       ├── F0074_A01_SEG_001.bundle.json
+│   │   │       ├── F0074_A01_SEG_002.bundle.json
+│   │   │       ├── F0074_A01_SEG_003.bundle.json
+│   │   │       ├── F0074_A02_SEG_001.bundle.json
+│   │   │       ├── F0074_A02_SEG_002.bundle.json
+│   │   │       ├── F0074_A02_SEG_003.bundle.json
+│   │   │       ├── F0075_SEG_001.bundle.json
+│   │   │       ├── F0075_SEG_002.bundle.json
+│   │   │       ├── F0075_SEG_003.bundle.json
+│   │   │       ├── F0076_SEG_001.bundle.json
+│   │   │       ├── F0076_SEG_002.bundle.json
+│   │   │       ├── F0076_SEG_003.bundle.json
+│   │   │       ├── F0076_SEG_004.bundle.json
+│   │   │       ├── F0077_SEG_001.bundle.json
+│   │   │       ├── F0077_SEG_002.bundle.json
+│   │   │       ├── F0077_SEG_003.bundle.json
+│   │   │       ├── F0078_A01_SEG_001.bundle.json
+│   │   │       ├── F0078_A01_SEG_002.bundle.json
+│   │   │       ├── F0078_A01_SEG_003.bundle.json
+│   │   │       ├── F0078_A02_SEG_001.bundle.json
+│   │   │       ├── F0079_A01_SEG_001.bundle.json
+│   │   │       ├── F0079_A01_SEG_002.bundle.json
+│   │   │       ├── F0079_A01_SEG_003.bundle.json
+│   │   │       ├── F0079_A02_SEG_001.bundle.json
+│   │   │       ├── F0079_A02_SEG_002.bundle.json
+│   │   │       ├── F0080_SEG_001.bundle.json
+│   │   │       ├── F0081_SEG_001.bundle.json
+│   │   │       ├── F0082_SEG_001.bundle.json
+│   │   │       ├── F0082_SEG_002.bundle.json
+│   │   │       ├── F0083_SEG_001.bundle.json
+│   │   │       ├── F0083_SEG_002.bundle.json
+│   │   │       ├── F0084_A01_SEG_001.bundle.json
+│   │   │       ├── F0084_A01_SEG_002.bundle.json
+│   │   │       ├── F0084_A01_SEG_003.bundle.json
+│   │   │       ├── F0084_A02_SEG_001.bundle.json
+│   │   │       ├── F0084_A02_SEG_002.bundle.json
+│   │   │       ├── F0084_A02_SEG_003.bundle.json
+│   │   │       ├── F0084_A03_SEG_001.bundle.json
+│   │   │       ├── F0085_SEG_001.bundle.json
+│   │   │       ├── F0085_SEG_002.bundle.json
+│   │   │       ├── F0085_SEG_003.bundle.json
+│   │   │       ├── F0085_SEG_004.bundle.json
+│   │   │       ├── F0086_SEG_001.bundle.json
+│   │   │       ├── F0086_SEG_002.bundle.json
+│   │   │       ├── F0086_SEG_003.bundle.json
+│   │   │       ├── F0087_A01_SEG_001.bundle.json
+│   │   │       ├── F0087_A01_SEG_002.bundle.json
+│   │   │       ├── F0087_A01_SEG_003.bundle.json
+│   │   │       ├── F0087_A01_SEG_004.bundle.json
+│   │   │       ├── F0087_A02_SEG_001.bundle.json
+│   │   │       ├── F0088_A01_SEG_001.bundle.json
+│   │   │       ├── F0088_A01_SEG_002.bundle.json
+│   │   │       ├── F0088_A01_SEG_003.bundle.json
+│   │   │       ├── F0088_A01_SEG_004.bundle.json
+│   │   │       ├── F0088_A01_SEG_005.bundle.json
+│   │   │       ├── F0088_A02_SEG_001.bundle.json
+│   │   │       ├── F0088_A02_SEG_002.bundle.json
+│   │   │       ├── F0088_A02_SEG_003.bundle.json
+│   │   │       ├── F0089_SEG_001.bundle.json
+│   │   │       ├── F0089_SEG_002.bundle.json
+│   │   │       ├── F0089_SEG_003.bundle.json
+│   │   │       ├── F0090_A01_SEG_001.bundle.json
+│   │   │       ├── F0090_A01_SEG_002.bundle.json
+│   │   │       ├── F0090_A01_SEG_003.bundle.json
+│   │   │       ├── F0090_A01_SEG_004.bundle.json
+│   │   │       ├── F0090_A02_SEG_001.bundle.json
+│   │   │       ├── F0091_SEG_001.bundle.json
+│   │   │       ├── F0091_SEG_002.bundle.json
+│   │   │       ├── F0092_SEG_001.bundle.json
+│   │   │       ├── F0092_SEG_002.bundle.json
+│   │   │       ├── F0093_A01_SEG_001.bundle.json
+│   │   │       ├── F0093_A01_SEG_002.bundle.json
+│   │   │       ├── F0093_A01_SEG_003.bundle.json
+│   │   │       ├── F0093_A01_SEG_004.bundle.json
+│   │   │       ├── F0093_A02_SEG_001.bundle.json
+│   │   │       ├── F0094_A01_SEG_001.bundle.json
+│   │   │       ├── F0094_A01_SEG_002.bundle.json
+│   │   │       ├── F0094_A01_SEG_003.bundle.json
+│   │   │       ├── F0094_A01_SEG_004.bundle.json
+│   │   │       ├── F0094_A02_SEG_001.bundle.json
+│   │   │       ├── F0095_SEG_001.bundle.json
+│   │   │       ├── F0095_SEG_002.bundle.json
+│   │   │       ├── F0096_SEG_001.bundle.json
+│   │   │       ├── F0096_SEG_002.bundle.json
+│   │   │       ├── F0096_SEG_003.bundle.json
+│   │   │       ├── F0096_SEG_004.bundle.json
+│   │   │       ├── F0097_A01_SEG_001.bundle.json
+│   │   │       ├── F0097_A01_SEG_002.bundle.json
+│   │   │       ├── F0097_A01_SEG_003.bundle.json
+│   │   │       ├── F0097_A02_SEG_001.bundle.json
+│   │   │       ├── F0097_A02_SEG_002.bundle.json
+│   │   │       ├── F0098_A01_SEG_001.bundle.json
+│   │   │       ├── F0098_A01_SEG_002.bundle.json
+│   │   │       ├── F0098_A01_SEG_003.bundle.json
+│   │   │       ├── F0098_A02_SEG_001.bundle.json
+│   │   │       ├── F0098_A02_SEG_002.bundle.json
+│   │   │       ├── F0098_A03_SEG_001.bundle.json
+│   │   │       ├── F0098_A03_SEG_002.bundle.json
+│   │   │       ├── F0099_SEG_001.bundle.json
+│   │   │       ├── F0100_SEG_001.bundle.json
+│   │   │       ├── F0100_SEG_002.bundle.json
+│   │   │       ├── F0100_SEG_003.bundle.json
+│   │   │       ├── F0101_SEG_001.bundle.json
+│   │   │       ├── F0101_SEG_002.bundle.json
+│   │   │       ├── F0101_SEG_003.bundle.json
+│   │   │       ├── F0102_A01_SEG_001.bundle.json
+│   │   │       ├── F0102_A01_SEG_002.bundle.json
+│   │   │       ├── F0102_A01_SEG_003.bundle.json
+│   │   │       ├── F0102_A01_SEG_004.bundle.json
+│   │   │       ├── F0102_A01_SEG_005.bundle.json
+│   │   │       ├── F0102_A01_SEG_006.bundle.json
+│   │   │       ├── F0102_A02_SEG_001.bundle.json
+│   │   │       ├── F0102_A02_SEG_002.bundle.json
+│   │   │       ├── F0103_A01_SEG_001.bundle.json
+│   │   │       ├── F0103_A01_SEG_002.bundle.json
+│   │   │       ├── F0103_A01_SEG_003.bundle.json
+│   │   │       ├── F0103_A02_SEG_001.bundle.json
+│   │   │       ├── F0103_A02_SEG_002.bundle.json
+│   │   │       ├── F0104_A01_SEG_001.bundle.json
+│   │   │       ├── F0104_A01_SEG_002.bundle.json
+│   │   │       ├── F0104_A01_SEG_003.bundle.json
+│   │   │       ├── F0104_A01_SEG_004.bundle.json
+│   │   │       ├── F0104_A01_SEG_005.bundle.json
+│   │   │       ├── F0104_A02_SEG_001.bundle.json
+│   │   │       ├── F0104_A02_SEG_002.bundle.json
+│   │   │       ├── F0105_A01_SEG_001.bundle.json
+│   │   │       ├── F0105_A01_SEG_002.bundle.json
+│   │   │       ├── F0105_A01_SEG_003.bundle.json
+│   │   │       ├── F0105_A01_SEG_004.bundle.json
+│   │   │       ├── F0105_A02_SEG_001.bundle.json
+│   │   │       ├── F0106_SEG_001.bundle.json
+│   │   │       ├── F0106_SEG_002.bundle.json
+│   │   │       ├── F0106_SEG_003.bundle.json
+│   │   │       ├── F0107_SEG_001.bundle.json
+│   │   │       ├── F0107_SEG_002.bundle.json
+│   │   │       ├── F0107_SEG_003.bundle.json
+│   │   │       ├── F0107_SEG_004.bundle.json
+│   │   │       ├── F0108_A01_SEG_001.bundle.json
+│   │   │       ├── F0108_A01_SEG_002.bundle.json
+│   │   │       ├── F0108_A01_SEG_003.bundle.json
+│   │   │       ├── F0108_A01_SEG_004.bundle.json
+│   │   │       ├── F0108_A02_SEG_001.bundle.json
+│   │   │       ├── F0108_A02_SEG_002.bundle.json
+│   │   │       ├── F0109_SEG_001.bundle.json
+│   │   │       ├── F0109_SEG_002.bundle.json
+│   │   │       ├── F0110_A01_SEG_001.bundle.json
+│   │   │       ├── F0110_A01_SEG_002.bundle.json
+│   │   │       ├── F0110_A01_SEG_003.bundle.json
+│   │   │       ├── F0110_A02_SEG_001.bundle.json
+│   │   │       ├── F0111_A01_SEG_001.bundle.json
+│   │   │       ├── F0111_A01_SEG_002.bundle.json
+│   │   │       ├── F0111_A01_SEG_003.bundle.json
+│   │   │       ├── F0111_A01_SEG_004.bundle.json
+│   │   │       ├── F0111_A02_SEG_001.bundle.json
+│   │   │       ├── F0111_A02_SEG_002.bundle.json
+│   │   │       ├── F0111_A02_SEG_003.bundle.json
+│   │   │       ├── F0112_SEG_001.bundle.json
+│   │   │       ├── F0112_SEG_002.bundle.json
+│   │   │       ├── F0113_A01_SEG_001.bundle.json
+│   │   │       ├── F0113_A01_SEG_002.bundle.json
+│   │   │       ├── F0113_A01_SEG_003.bundle.json
+│   │   │       ├── F0113_A02_SEG_001.bundle.json
+│   │   │       ├── F0114_A01_SEG_001.bundle.json
+│   │   │       ├── F0114_A01_SEG_002.bundle.json
+│   │   │       ├── F0114_A01_SEG_003.bundle.json
+│   │   │       ├── F0114_A01_SEG_004.bundle.json
+│   │   │       ├── F0114_A01_SEG_005.bundle.json
+│   │   │       ├── F0114_A02_SEG_001.bundle.json
+│   │   │       ├── F0114_A02_SEG_002.bundle.json
+│   │   │       ├── F0115_A01_SEG_001.bundle.json
+│   │   │       ├── F0115_A01_SEG_002.bundle.json
+│   │   │       ├── F0115_A01_SEG_003.bundle.json
+│   │   │       ├── F0115_A01_SEG_004.bundle.json
+│   │   │       ├── F0115_A02_SEG_001.bundle.json
+│   │   │       ├── F0115_A02_SEG_002.bundle.json
+│   │   │       ├── F0116_SEG_001.bundle.json
+│   │   │       ├── F0116_SEG_002.bundle.json
+│   │   │       ├── F0116_SEG_003.bundle.json
+│   │   │       ├── F0116_SEG_004.bundle.json
+│   │   │       ├── F0117_A01_SEG_001.bundle.json
+│   │   │       ├── F0117_A01_SEG_002.bundle.json
+│   │   │       ├── F0117_A01_SEG_003.bundle.json
+│   │   │       ├── F0117_A02_SEG_001.bundle.json
+│   │   │       ├── F0118_SEG_001.bundle.json
+│   │   │       ├── F0118_SEG_002.bundle.json
+│   │   │       ├── F0119_A01_SEG_001.bundle.json
+│   │   │       ├── F0119_A01_SEG_002.bundle.json
+│   │   │       ├── F0119_A01_SEG_003.bundle.json
+│   │   │       ├── F0119_A02_SEG_001.bundle.json
+│   │   │       ├── F0119_A02_SEG_002.bundle.json
+│   │   │       ├── F0120_SEG_001.bundle.json
+│   │   │       ├── F0120_SEG_002.bundle.json
+│   │   │       ├── F0120_SEG_003.bundle.json
+│   │   │       ├── F0121_A01_SEG_001.bundle.json
+│   │   │       ├── F0121_A01_SEG_002.bundle.json
+│   │   │       ├── F0121_A01_SEG_003.bundle.json
+│   │   │       ├── F0121_A01_SEG_004.bundle.json
+│   │   │       ├── F0121_A02_SEG_001.bundle.json
+│   │   │       ├── F0121_A02_SEG_002.bundle.json
+│   │   │       ├── F0122_SEG_001.bundle.json
+│   │   │       ├── F0122_SEG_002.bundle.json
+│   │   │       ├── F0123_SEG_001.bundle.json
+│   │   │       ├── F0123_SEG_002.bundle.json
+│   │   │       ├── F0123_SEG_003.bundle.json
+│   │   │       ├── F0124_SEG_001.bundle.json
+│   │   │       ├── F0124_SEG_002.bundle.json
+│   │   │       ├── F0125_SEG_001.bundle.json
+│   │   │       ├── F0126_SEG_001.bundle.json
+│   │   │       ├── F0127_SEG_001.bundle.json
+│   │   │       ├── F0128_SEG_001.bundle.json
+│   │   │       ├── F0129_SEG_001.bundle.json
+│   │   │       ├── F0130_SEG_001.bundle.json
+│   │   │       ├── F0131_SEG_001.bundle.json
+│   │   │       ├── F0132_SEG_001.bundle.json
+│   │   │       ├── F0133_SEG_001.bundle.json
+│   │   │       ├── F0134_SEG_001.bundle.json
+│   │   │       ├── F0135_SEG_001.bundle.json
+│   │   │       ├── F0136_SEG_001.bundle.json
+│   │   │       ├── F0137_SEG_001.bundle.json
+│   │   │       ├── F0138_SEG_001.bundle.json
+│   │   │       ├── F0139_SEG_001.bundle.json
+│   │   │       ├── F0140_SEG_001.bundle.json
+│   │   │       ├── F0141_SEG_001.bundle.json
+│   │   │       ├── F0142_SEG_001.bundle.json
+│   │   │       ├── F0143_SEG_001.bundle.json
+│   │   │       ├── F0144_SEG_001.bundle.json
+│   │   │       ├── F0145_SEG_001.bundle.json
+│   │   │       ├── F0146_SEG_001.bundle.json
+│   │   │       ├── F0147_SEG_001.bundle.json
+│   │   │       ├── F0148_SEG_001.bundle.json
+│   │   │       ├── F0149_SEG_001.bundle.json
+│   │   │       ├── F0150_SEG_001.bundle.json
+│   │   │       ├── F0151_SEG_001.bundle.json
+│   │   │       ├── F0152_SEG_001.bundle.json
+│   │   │       ├── F0153_SEG_001.bundle.json
+│   │   │       ├── F0154_SEG_001.bundle.json
+│   │   │       ├── F0155_SEG_001.bundle.json
+│   │   │       ├── F0156_SEG_001.bundle.json
+│   │   │       ├── F0157_SEG_001.bundle.json
+│   │   │       ├── F0158_SEG_001.bundle.json
+│   │   │       ├── F0159_SEG_001.bundle.json
+│   │   │       ├── F0160_SEG_001.bundle.json
+│   │   │       ├── F0161_SEG_001.bundle.json
+│   │   │       ├── F0162_SEG_001.bundle.json
+│   │   │       ├── F0163_SEG_001.bundle.json
+│   │   │       ├── F0164_SEG_001.bundle.json
+│   │   │       ├── F0165_SEG_001.bundle.json
+│   │   │       ├── F0166_SEG_001.bundle.json
+│   │   │       ├── F0167_SEG_001.bundle.json
+│   │   │       ├── F0168_SEG_001.bundle.json
+│   │   │       ├── F0169_SEG_001.bundle.json
+│   │   │       ├── F0170_SEG_001.bundle.json
+│   │   │       ├── F0171_SEG_001.bundle.json
+│   │   │       ├── F0172_SEG_001.bundle.json
+│   │   │       ├── F0173_SEG_001.bundle.json
+│   │   │       ├── F0174_SEG_001.bundle.json
+│   │   │       ├── F0175_SEG_001.bundle.json
+│   │   │       ├── F0176_SEG_001.bundle.json
+│   │   │       ├── F0177_SEG_001.bundle.json
+│   │   │       ├── F0178_SEG_001.bundle.json
+│   │   │       ├── F0179_SEG_001.bundle.json
+│   │   │       ├── F0180_SEG_001.bundle.json
+│   │   │       ├── F0181_SEG_001.bundle.json
+│   │   │       ├── F0182_SEG_001.bundle.json
+│   │   │       ├── F0183_SEG_001.bundle.json
+│   │   │       ├── F0184_SEG_001.bundle.json
+│   │   │       ├── F0185_SEG_001.bundle.json
+│   │   │       ├── F0186_SEG_001.bundle.json
+│   │   │       ├── F0187_SEG_001.bundle.json
+│   │   │       ├── F0188_SEG_001.bundle.json
+│   │   │       ├── F0189_SEG_001.bundle.json
+│   │   │       ├── F0190_SEG_001.bundle.json
+│   │   │       ├── F0191_SEG_001.bundle.json
+│   │   │       ├── F0192_SEG_001.bundle.json
+│   │   │       ├── F0193_SEG_001.bundle.json
+│   │   │       ├── F0194_SEG_001.bundle.json
+│   │   │       ├── F0195_SEG_001.bundle.json
+│   │   │       ├── F0196_SEG_001.bundle.json
+│   │   │       ├── F0197_SEG_001.bundle.json
+│   │   │       ├── F0198_SEG_001.bundle.json
+│   │   │       ├── F0199_SEG_001.bundle.json
+│   │   │       ├── F0200_SEG_001.bundle.json
+│   │   │       ├── F0201_SEG_001.bundle.json
+│   │   │       ├── F0202_SEG_001.bundle.json
+│   │   │       ├── F0203_SEG_001.bundle.json
+│   │   │       ├── F0204_SEG_001.bundle.json
+│   │   │       ├── F0205_SEG_001.bundle.json
+│   │   │       ├── F0206_SEG_001.bundle.json
+│   │   │       ├── F0207_SEG_001.bundle.json
+│   │   │       ├── F0208_SEG_001.bundle.json
+│   │   │       ├── F0209_SEG_001.bundle.json
+│   │   │       ├── F0210_SEG_001.bundle.json
+│   │   │       ├── F0211_SEG_001.bundle.json
+│   │   │       ├── F0212_SEG_001.bundle.json
+│   │   │       ├── F0213_SEG_001.bundle.json
+│   │   │       ├── F0214_SEG_001.bundle.json
+│   │   │       ├── F0215_SEG_001.bundle.json
+│   │   │       ├── F0216_SEG_001.bundle.json
+│   │   │       ├── F0217_SEG_001.bundle.json
+│   │   │       ├── F0218_SEG_001.bundle.json
+│   │   │       ├── F0219_SEG_001.bundle.json
+│   │   │       ├── F0220_SEG_001.bundle.json
+│   │   │       ├── F0221_SEG_001.bundle.json
+│   │   │       ├── F0222_SEG_001.bundle.json
+│   │   │       ├── F0223_SEG_001.bundle.json
+│   │   │       ├── F0224_SEG_001.bundle.json
+│   │   │       ├── F0225_SEG_001.bundle.json
+│   │   │       ├── F0226_SEG_001.bundle.json
+│   │   │       ├── F0227_SEG_001.bundle.json
+│   │   │       ├── F0228_SEG_001.bundle.json
+│   │   │       ├── F0229_SEG_001.bundle.json
+│   │   │       ├── F0230_SEG_001.bundle.json
+│   │   │       ├── F0231_SEG_001.bundle.json
+│   │   │       ├── F0231_SEG_002.bundle.json
+│   │   │       ├── F0232_SEG_001.bundle.json
+│   │   │       ├── F0233_SEG_001.bundle.json
+│   │   │       ├── F0233_SEG_002.bundle.json
+│   │   │       ├── F0235_SEG_001.bundle.json
+│   │   │       ├── F0236_SEG_001.bundle.json
+│   │   │       ├── F0237_SEG_001.bundle.json
+│   │   │       ├── F0238_SEG_001.bundle.json
+│   │   │       ├── F0239_SEG_001.bundle.json
+│   │   │       ├── F0240_SEG_001.bundle.json
+│   │   │       ├── F0241_A01_SEG_001.bundle.json
+│   │   │       ├── F0241_A01_SEG_002.bundle.json
+│   │   │       ├── F0241_A01_SEG_003.bundle.json
+│   │   │       ├── F0241_A01_SEG_004.bundle.json
+│   │   │       ├── F0241_A01_SEG_005.bundle.json
+│   │   │       ├── F0241_A02_SEG_001.bundle.json
+│   │   │       ├── F0241_A02_SEG_002.bundle.json
+│   │   │       ├── F0241_A02_SEG_003.bundle.json
+│   │   │       ├── F0241_A03_SEG_001.bundle.json
+│   │   │       ├── F0241_A03_SEG_002.bundle.json
+│   │   │       ├── F0241_A04_SEG_001.bundle.json
+│   │   │       ├── F0241_A04_SEG_002.bundle.json
+│   │   │       ├── F0241_A04_SEG_003.bundle.json
+│   │   │       ├── F0241_A05_SEG_001.bundle.json
+│   │   │       ├── F0241_A05_SEG_002.bundle.json
+│   │   │       ├── F0241_A05_SEG_003.bundle.json
+│   │   │       ├── F0241_A05_SEG_004.bundle.json
+│   │   │       ├── F0241_A06_SEG_001.bundle.json
+│   │   │       ├── F0241_A06_SEG_002.bundle.json
+│   │   │       ├── F0241_A06_SEG_003.bundle.json
+│   │   │       ├── F0241_A07_SEG_001.bundle.json
+│   │   │       ├── F0241_A07_SEG_002.bundle.json
+│   │   │       ├── F0241_A07_SEG_003.bundle.json
+│   │   │       ├── F0241_A07_SEG_004.bundle.json
+│   │   │       ├── F0241_A08_SEG_001.bundle.json
+│   │   │       ├── F0241_A08_SEG_002.bundle.json
+│   │   │       ├── F0241_A09_SEG_001.bundle.json
+│   │   │       ├── F0241_A09_SEG_002.bundle.json
+│   │   │       ├── F0241_A09_SEG_003.bundle.json
+│   │   │       ├── F0241_A10_SEG_001.bundle.json
+│   │   │       ├── F0241_A10_SEG_002.bundle.json
+│   │   │       ├── F0241_A10_SEG_003.bundle.json
+│   │   │       ├── F0241_A11_SEG_001.bundle.json
+│   │   │       ├── F0241_A11_SEG_002.bundle.json
+│   │   │       ├── F0241_A11_SEG_003.bundle.json
+│   │   │       ├── F0241_A11_SEG_004.bundle.json
+│   │   │       ├── F0241_A11_SEG_005.bundle.json
+│   │   │       ├── F0241_A12_SEG_001.bundle.json
+│   │   │       ├── F0241_A12_SEG_002.bundle.json
+│   │   │       ├── F0241_A12_SEG_003.bundle.json
+│   │   │       ├── F0241_A12_SEG_004.bundle.json
+│   │   │       ├── F0241_A13_SEG_001.bundle.json
+│   │   │       ├── F0241_A13_SEG_002.bundle.json
+│   │   │       ├── F0241_A14_SEG_001.bundle.json
+│   │   │       ├── F0241_A14_SEG_002.bundle.json
+│   │   │       ├── F0241_A14_SEG_003.bundle.json
+│   │   │       ├── F0241_A14_SEG_004.bundle.json
+│   │   │       ├── F0241_A15_SEG_001.bundle.json
+│   │   │       ├── F0241_A15_SEG_002.bundle.json
+│   │   │       ├── F0241_A15_SEG_003.bundle.json
+│   │   │       ├── F0241_A15_SEG_004.bundle.json
+│   │   │       ├── F0241_A16_SEG_001.bundle.json
+│   │   │       ├── F0241_A16_SEG_002.bundle.json
+│   │   │       ├── F0241_A16_SEG_003.bundle.json
+│   │   │       ├── F0241_A16_SEG_004.bundle.json
+│   │   │       ├── F0241_A16_SEG_005.bundle.json
+│   │   │       ├── F0241_A17_SEG_001.bundle.json
+│   │   │       ├── F0241_A17_SEG_002.bundle.json
+│   │   │       ├── F0241_A17_SEG_003.bundle.json
+│   │   │       ├── F0241_A18_SEG_001.bundle.json
+│   │   │       ├── F0241_A18_SEG_002.bundle.json
+│   │   │       ├── F0241_A18_SEG_003.bundle.json
+│   │   │       ├── F0241_A18_SEG_004.bundle.json
+│   │   │       ├── F0241_A19_SEG_001.bundle.json
+│   │   │       ├── F0241_A19_SEG_002.bundle.json
+│   │   │       ├── F0241_A19_SEG_003.bundle.json
+│   │   │       ├── F0241_A19_SEG_004.bundle.json
+│   │   │       ├── F0241_A19_SEG_005.bundle.json
+│   │   │       ├── F0241_A20_SEG_001.bundle.json
+│   │   │       ├── F0241_A20_SEG_002.bundle.json
+│   │   │       ├── F0241_A20_SEG_003.bundle.json
+│   │   │       ├── F0241_A20_SEG_004.bundle.json
+│   │   │       ├── F0241_A21_SEG_001.bundle.json
+│   │   │       ├── F0241_A21_SEG_002.bundle.json
+│   │   │       ├── F0241_A21_SEG_003.bundle.json
+│   │   │       ├── F0241_A21_SEG_004.bundle.json
+│   │   │       ├── F0241_A21_SEG_005.bundle.json
+│   │   │       ├── F0241_A22_SEG_001.bundle.json
+│   │   │       ├── F0241_A22_SEG_002.bundle.json
+│   │   │       ├── F0241_A22_SEG_003.bundle.json
+│   │   │       ├── F0241_A22_SEG_004.bundle.json
+│   │   │       ├── F0241_A22_SEG_005.bundle.json
+│   │   │       ├── F0241_A23_SEG_001.bundle.json
+│   │   │       ├── F0241_A23_SEG_002.bundle.json
+│   │   │       ├── F0241_A23_SEG_003.bundle.json
+│   │   │       ├── F0241_A23_SEG_004.bundle.json
+│   │   │       ├── F0241_A24_SEG_001.bundle.json
+│   │   │       ├── F0241_A24_SEG_002.bundle.json
+│   │   │       ├── F0241_A24_SEG_003.bundle.json
+│   │   │       ├── F0241_A25_SEG_001.bundle.json
+│   │   │       ├── F0241_A25_SEG_002.bundle.json
+│   │   │       ├── F0241_A25_SEG_003.bundle.json
+│   │   │       ├── F0241_A26_SEG_001.bundle.json
+│   │   │       ├── F0241_A26_SEG_002.bundle.json
+│   │   │       ├── F0241_A26_SEG_003.bundle.json
+│   │   │       └── F0241_A26_SEG_004.bundle.json
+│   │   ├── erros_fragmentos.json
+│   │   ├── lote_bundles_fragmentos.json
+│   │   ├── manifesto_lote.json
+│   │   └── relatorio_lote_fragmentos.md
+│   ├── gerar_bundles_fragmentos_v1.py
+│   ├── gerar_bundles_fragmentos_v1_autodir.py
+│   ├── limpar_bundles_fragmentos_v2.py
+│   ├── limpar_bundles_fragmentos_v2_com_logs.py
+│   ├── pos_processar_limpeza_fragmentos_v1.py
+│   ├── README_limpeza_bundles_fragmentos_v2.md
+│   └── spec_fragmentos_script_bundles_v1.md
+├── 19_Meta_Schema
+│   ├── instancia_total_dividida
+│   │   ├── 00_manifesto_governanca.json
+│   │   ├── 01_registro_de_fontes.json
+│   │   ├── 02_pecas_governativas.json
+│   │   ├── 03_entidades_fragmentos__parte_001.json
+│   │   ├── 03_entidades_fragmentos__parte_002.json
+│   │   ├── 04_entidades_containers__parte_001.json
+│   │   ├── 05_entidades_conceitos__parte_001.json
+│   │   ├── 06_entidades_operacoes__parte_001.json
+│   │   ├── 07_entidades_proposicoes__parte_001.json
+│   │   ├── 07_entidades_proposicoes__parte_002.json
+│   │   ├── 07_entidades_proposicoes__parte_003.json
+│   │   ├── 07_entidades_proposicoes__parte_004.json
+│   │   ├── 08_entidades_argumentos__parte_001.json
+│   │   ├── 09_entidades_percursos_ramos_capitulos.json
+│   │   ├── 10_arestas_tipadas__parte_001.json
+│   │   ├── 10_arestas_tipadas__parte_002.json
+│   │   ├── 10_arestas_tipadas__parte_003.json
+│   │   ├── 10_arestas_tipadas__parte_004.json
+│   │   ├── 10_arestas_tipadas__parte_005.json
+│   │   ├── 10_arestas_tipadas__parte_006.json
+│   │   ├── 10_arestas_tipadas__parte_007.json
+│   │   ├── 10_arestas_tipadas__parte_008.json
+│   │   ├── 10_arestas_tipadas__parte_009.json
+│   │   ├── 10_arestas_tipadas__parte_010.json
+│   │   ├── 10_arestas_tipadas__parte_011.json
+│   │   ├── 10_arestas_tipadas__parte_012.json
+│   │   ├── 10_arestas_tipadas__parte_013.json
+│   │   ├── 10_arestas_tipadas__parte_014.json
+│   │   ├── 10_arestas_tipadas__parte_015.json
+│   │   ├── 10_arestas_tipadas__parte_016.json
+│   │   ├── 10_arestas_tipadas__parte_017.json
+│   │   ├── 10_arestas_tipadas__parte_018.json
+│   │   ├── 10_arestas_tipadas__parte_019.json
+│   │   ├── 10_arestas_tipadas__parte_020.json
+│   │   ├── 10_arestas_tipadas__parte_021.json
+│   │   ├── 10_arestas_tipadas__parte_022.json
+│   │   ├── 10_arestas_tipadas__parte_023.json
+│   │   ├── 10_arestas_tipadas__parte_024.json
+│   │   ├── 10_arestas_tipadas__parte_025.json
+│   │   ├── 10_arestas_tipadas__parte_026.json
+│   │   ├── 10_arestas_tipadas__parte_027.json
+│   │   ├── 10_arestas_tipadas__parte_028.json
+│   │   ├── 10_arestas_tipadas__parte_029.json
+│   │   ├── 10_arestas_tipadas__parte_030.json
+│   │   ├── 10_arestas_tipadas__parte_031.json
+│   │   ├── 10_arestas_tipadas__parte_032.json
+│   │   ├── 10_arestas_tipadas__parte_033.json
+│   │   ├── 10_arestas_tipadas__parte_034.json
+│   │   ├── 10_arestas_tipadas__parte_035.json
+│   │   ├── 10_arestas_tipadas__parte_036.json
+│   │   ├── 10_arestas_tipadas__parte_037.json
+│   │   ├── 10_arestas_tipadas__parte_038.json
+│   │   ├── 10_arestas_tipadas__parte_039.json
+│   │   ├── 10_arestas_tipadas__parte_040.json
+│   │   ├── 10_arestas_tipadas__parte_041.json
+│   │   ├── 10_arestas_tipadas__parte_042.json
+│   │   ├── 10_arestas_tipadas__parte_043.json
+│   │   ├── 10_arestas_tipadas__parte_044.json
+│   │   ├── 10_arestas_tipadas__parte_045.json
+│   │   ├── 10_arestas_tipadas__parte_046.json
+│   │   ├── 10_arestas_tipadas__parte_047.json
+│   │   ├── 10_arestas_tipadas__parte_048.json
+│   │   ├── 10_arestas_tipadas__parte_049.json
+│   │   ├── 10_arestas_tipadas__parte_050.json
+│   │   ├── 10_arestas_tipadas__parte_051.json
+│   │   ├── 10_arestas_tipadas__parte_052.json
+│   │   ├── 10_arestas_tipadas__parte_053.json
+│   │   ├── 10_arestas_tipadas__parte_054.json
+│   │   ├── 10_arestas_tipadas__parte_055.json
+│   │   ├── 10_arestas_tipadas__parte_056.json
+│   │   ├── 10_arestas_tipadas__parte_057.json
+│   │   ├── 11_arbitragem_transversal.json
+│   │   ├── 12_projecoes_regeneraveis.json
+│   │   └── INDEX_INSTANCIA_TOTAL_DIVIDIDA.json
+│   ├── pacote_10_para_confronto_07
+│   │   ├── 00_manifesto_governanca.json
+│   │   ├── 03_entidades_fragmentos__parte_001.json
+│   │   ├── 03_entidades_fragmentos__parte_002.json
+│   │   ├── 07_entidades_proposicoes__parte_001.json
+│   │   ├── 07_entidades_proposicoes__parte_002.json
+│   │   ├── 07_entidades_proposicoes__parte_003.json
+│   │   ├── 07_entidades_proposicoes__parte_004.json
+│   │   ├── 08_entidades_argumentos__parte_001.json
+│   │   ├── 09_entidades_percursos_ramos_capitulos.json
+│   │   └── 11_arbitragem_transversal.json
+│   ├── dividir_instancia_total.py
+│   ├── instancia_larga_real_meta_schema_mestre_v0_2.json
+│   ├── instancia_media_real_meta_schema_mestre_v0_2.json
+│   ├── instancia_total_real_meta_schema_mestre_v0_2.json
+│   ├── meta_schema_mestre_doreal_v0_2.schema.json
+│   └── README_meta_schema_mestre_doreal_v0_2.md
+├── data
 ├── .env
 ├── .gitignore
 ├── escrita_certas_partes.txt

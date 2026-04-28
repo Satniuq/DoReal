@@ -1,6 +1,6 @@
 # MERGED — Nota_Leitura
 
-- Gerado em: `2026-04-27 19:39:44`
+- Gerado em: `2026-04-28 00:30:32`
 - Pasta local: `02_capitulos_provisorios/Nota_Leitura`
 - Ficheiros incluídos: `1`
 - Ficheiro gerado: `02_capitulos_provisorios/Nota_Leitura/MERGED__Nota_Leitura.md`

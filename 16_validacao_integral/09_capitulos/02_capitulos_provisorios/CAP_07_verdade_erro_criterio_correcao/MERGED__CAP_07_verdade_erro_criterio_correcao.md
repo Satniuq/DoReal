@@ -1,6 +1,6 @@
 # MERGED — CAP_07_verdade_erro_criterio_correcao
 
-- Gerado em: `2026-04-27 19:39:44`
+- Gerado em: `2026-04-28 00:30:32`
 - Pasta local: `02_capitulos_provisorios/CAP_07_verdade_erro_criterio_correcao`
 - Ficheiros incluídos: `10`
 - Ficheiro gerado: `02_capitulos_provisorios/CAP_07_verdade_erro_criterio_correcao/MERGED__CAP_07_verdade_erro_criterio_correcao.md`
